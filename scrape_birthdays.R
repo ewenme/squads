@@ -8,7 +8,7 @@ library(lubridate)
 # functions -----------------------------------------
 
 # scrape league clubs
-scrape_clubs <- function(league_url) {
+scrape_club_meta <- function(league_url) {
   
   # read league html page
   league_page <- read_html(league_url)
@@ -35,7 +35,7 @@ scrape_clubs <- function(league_url) {
 }
 
 # scrape squad data
-scrape_squad <- function(club_url) {
+scrape_club_squad <- function(club_url) {
   
 # read club html page
 club_page <- read_html(paste0("https://www.transfermarkt.co.uk", club_url))
@@ -53,7 +53,7 @@ player_data <- player_data[, c(1, 5, 6, 7)]
 colnames(player_data) <- c("shirt_number", "position", "name", "birthday")
 
 # set shirt no as numeric
-player_data$shirt_number <- as.numeric(player_data$shirt_number )
+player_data$shirt_number <- suppressWarnings(as.numeric(player_data$shirt_number ))
 
 # remove empty rows
 player_data <- filter(player_data, !is.na(name))
@@ -87,18 +87,37 @@ return(player_data)
 
 }
 
+# scrape league (wrapper)
+scrape_league <- function(league_url) {
+  
+  # scrape league clubs metadata
+  club_meta <- scrape_club_meta(league_url)
+  
+  # scrape league club squads data
+  squads <- lapply(club_meta$club_url, scrape_club_squad) %>% bind_rows()
+  
+  # join league metadata
+  squads <- inner_join(squads, club_meta, by="club_url")
+  
+  # select cols to keep
+  squads <- select(squads, shirt_number:nationality, club_name)
+  
+  return(squads)
+
+}
 
 # do ---------------------------------------------------------
 
-# scrape EPL league metadata
-epl <- scrape_clubs("https://www.transfermarkt.co.uk/premier-league/startseite/wettbewerb/GB1")
+# get league urls
+league_urls <- c("https://www.transfermarkt.co.uk/premier-league/startseite/wettbewerb/GB1",
+                 "https://www.transfermarkt.com/1-bundesliga/startseite/wettbewerb/L1",
+                 "https://www.transfermarkt.com/primera-division/startseite/wettbewerb/ES1",
+                 "https://www.transfermarkt.com/serie-a/startseite/wettbewerb/IT1",
+                 "https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1")
 
-# scrape EPl club squad data
-epl_squads <- lapply(epl$club_url, scrape_squad)
-epl_squads <- bind_rows(epl_squads)
+# scrape birthdays
+birthdays <- lapply(league_urls, scrape_league)
 
-# join EPL league data
-epl_squads <- inner_join(epl_squads, epl, by="club_url")
 
-# select cols to keep
-epl_squads <- select(epl_squads, shirt_number:nationality, club_name)
+
+
