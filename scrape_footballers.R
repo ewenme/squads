@@ -73,9 +73,10 @@ player_data <- filter(player_data, !is.na(name))
 # create age col
 player_data['age'] <- gsub(".*\\((.*)\\).*", "\\1", player_data$date_of_birth)
 
-# normalise bday col
+# normalise age cols
 player_data['date_of_birth'] <- gsub("\\s*\\([^\\)]+\\)","",as.character(player_data$date_of_birth))
-player_data$date_of_birth <- mdy(player_data$date_of_birth)
+player_data$date_of_birth <- suppressWarnings(mdy(player_data$date_of_birth))
+player_data$age <- suppressWarnings(as.numeric(player_data$age))
 
 # extract player nationalities
 player_list <- html_nodes(club_page, "#yw1.grid-view")
@@ -120,15 +121,18 @@ scrape_league <- function(league_url) {
 
 # do ---------------------------------------------------------
 
-# get league urls
+# set league urls
 league_urls <- c("https://www.transfermarkt.co.uk/premier-league/startseite/wettbewerb/GB1",
+                 "https://www.transfermarkt.co.uk/championship/startseite/wettbewerb/GB2",
+                 "https://www.transfermarkt.co.uk/league-one/startseite/wettbewerb/GB3",
+                 "https://www.transfermarkt.co.uk/league-two/startseite/wettbewerb/GB4",
                  "https://www.transfermarkt.com/1-bundesliga/startseite/wettbewerb/L1",
                  "https://www.transfermarkt.com/primera-division/startseite/wettbewerb/ES1",
                  "https://www.transfermarkt.com/serie-a/startseite/wettbewerb/IT1",
                  "https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1")
 
-# scrape birthdays
-birthdays <- lapply(league_urls, scrape_league) %>% bind_rows()
+# scrape footballers
+footballers <- lapply(league_urls, scrape_league) %>% bind_rows()
 
 # export data
-write_csv(birthdays, "birthdays.csv")
+write_csv(footballers, "footballers.csv")
