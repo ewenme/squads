@@ -1,9 +1,16 @@
 # session -------------------------------------------
 
+# check if necessary packages missing, install if so
+list.of.packages <- c("rvest", "dplyr", "lubridate", "readr")
+new.packages <- list.of.packages[!(list.of.packages %in% installed.packages()[,"Package"])]
+if(length(new.packages)) install.packages(new.packages)
+
+# load packages
 library(rvest)
 library(dplyr)
-library(stringr)
 library(lubridate)
+library(readr)
+
 
 # functions -----------------------------------------
 
@@ -27,8 +34,13 @@ scrape_club_meta <- function(league_url) {
   club_names <- club_names[[1]][["name"]]
   club_names <- club_names[club_names != ""]
   
+  # extract league name
+  league_name <- html_nodes(league_page, ".spielername-profil") %>%
+    html_text()
+  
   # create data frame to return
-  clubs <- data_frame(league_url=league_url, club_name=club_names, club_url=club_urls)
+  clubs <- data_frame(league_url=league_url, league_name=league_name, 
+                      club_name=club_names, club_url=club_urls)
   
   return(clubs)
   
@@ -50,7 +62,7 @@ player_data <- html_nodes(club_page, "#yw1.grid-view") %>%
 player_data <- player_data[, c(1, 5, 6, 7)]
 
 # set colnames
-colnames(player_data) <- c("shirt_number", "position", "name", "birthday")
+colnames(player_data) <- c("shirt_number", "position", "name", "date_of_birth")
 
 # set shirt no as numeric
 player_data$shirt_number <- suppressWarnings(as.numeric(player_data$shirt_number ))
@@ -59,11 +71,11 @@ player_data$shirt_number <- suppressWarnings(as.numeric(player_data$shirt_number
 player_data <- filter(player_data, !is.na(name))
 
 # create age col
-player_data['age'] <- gsub(".*\\((.*)\\).*", "\\1", player_data$birthday)
+player_data['age'] <- gsub(".*\\((.*)\\).*", "\\1", player_data$date_of_birth)
 
 # normalise bday col
-player_data['birthday'] <- gsub("\\s*\\([^\\)]+\\)","",as.character(player_data$birthday))
-player_data$birthday <- mdy(player_data$birthday)
+player_data['date_of_birth'] <- gsub("\\s*\\([^\\)]+\\)","",as.character(player_data$date_of_birth))
+player_data$date_of_birth <- mdy(player_data$date_of_birth)
 
 # extract player nationalities
 player_list <- html_nodes(club_page, "#yw1.grid-view")
@@ -100,7 +112,7 @@ scrape_league <- function(league_url) {
   squads <- inner_join(squads, club_meta, by="club_url")
   
   # select cols to keep
-  squads <- select(squads, shirt_number:nationality, club_name)
+  squads <- select(squads, shirt_number:nationality, club_name, league_name)
   
   return(squads)
 
@@ -116,8 +128,7 @@ league_urls <- c("https://www.transfermarkt.co.uk/premier-league/startseite/wett
                  "https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1")
 
 # scrape birthdays
-birthdays <- lapply(league_urls, scrape_league)
+birthdays <- lapply(league_urls, scrape_league) %>% bind_rows()
 
-
-
-
+# export data
+write_csv(birthdays, "birthdays.csv")
