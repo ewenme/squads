@@ -1,7 +1,7 @@
 # session -------------------------------------------
 
 # check if necessary packages missing, install if so
-list.of.packages <- c("rvest", "dplyr", "lubridate", "readr")
+list.of.packages <- c("rvest", "dplyr", "lubridate", "readr", "purrr")
 new.packages <- list.of.packages[!(list.of.packages %in% installed.packages()[,"Package"])]
 if(length(new.packages)) install.packages(new.packages)
 
@@ -10,15 +10,16 @@ library(rvest)
 library(dplyr)
 library(lubridate)
 library(readr)
+library(purrr)
 
 
 # functions -----------------------------------------
 
 # scrape league clubs
-scrape_club_meta <- function(league_url) {
+scrape_club_meta <- function(league_url, season_start_year) {
   
   # read league html page
-  league_page <- read_html(league_url)
+  league_page <- read_html(paste0(league_url, "/plus/?saison_id=", season_start_year))
   
   # extract league club urls
   club_urls <- html_nodes(league_page, "#yw1 .no-border-links") %>%
@@ -38,9 +39,13 @@ scrape_club_meta <- function(league_url) {
   league_name <- html_nodes(league_page, ".spielername-profil") %>%
     html_text()
   
+  # extract season
+  season <- season_start_year %% 100 
+  season <- paste0(season, "/", season+1)
+  
   # create data frame to return
   clubs <- data_frame(league_url=league_url, league_name=league_name, 
-                      club_name=club_names, club_url=club_urls)
+                      club_name=club_names, club_url=club_urls, season=season)
   
   return(clubs)
   
@@ -101,10 +106,10 @@ return(player_data)
 }
 
 # scrape league (wrapper)
-scrape_league <- function(league_url) {
+scrape_league <- function(league_url, season_start_year) {
   
   # scrape league clubs metadata
-  club_meta <- scrape_club_meta(league_url)
+  club_meta <- scrape_club_meta(league_url, season_start_year)
   
   # scrape league club squads data
   squads <- lapply(club_meta$club_url, scrape_club_squad) %>% bind_rows()
@@ -113,7 +118,7 @@ scrape_league <- function(league_url) {
   squads <- inner_join(squads, club_meta, by="club_url")
   
   # select cols to keep
-  squads <- select(squads, shirt_number:nationality, club_name, league_name)
+  squads <- select(squads, shirt_number:nationality, club_name, league_name, season)
   
   return(squads)
 
@@ -131,7 +136,10 @@ league_urls <- c("https://www.transfermarkt.co.uk/premier-league/startseite/wett
                  "https://www.transfermarkt.com/serie-a/startseite/wettbewerb/IT1",
                  "https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1")
 
-# scrape footballers
+# set seasons
+seasons <- c(2017, 2016, 2015, 2014, 2013)
+
+# scrape footballers for each season
 footballers <- lapply(league_urls, scrape_league) %>% bind_rows()
 
 # export data

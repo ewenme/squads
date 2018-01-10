@@ -1,0 +1,27 @@
+---
+title: "footballers"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+A dataset (and the code used to get it) about footballers playing in the following leagues (during the 17/18 season):
+
+- Premier League (England)
+- Championship (England)
+- League One (England)
+- League Two (England)
+- 1.Bundesliga (Germany)
+- LaLiga (Spain)
+- Serie A (Italy)
+- Ligue 1 (France)
+
+## Usage
+
+Repo contains a .R file, `scrape_footballers`, containing all code used to scrape player data for the leagues mentioned above (for the current season)
+
+## Data format
+
+
