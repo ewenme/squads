@@ -1,7 +1,7 @@
 # session -------------------------------------------
 
 # check if necessary packages missing, install if so
-list.of.packages <- c("rvest", "dplyr", "lubridate", "readr", "purrr")
+list.of.packages <- c("rvest", "dplyr", "lubridate", "readr")
 new.packages <- list.of.packages[!(list.of.packages %in% installed.packages()[,"Package"])]
 if(length(new.packages)) install.packages(new.packages)
 
@@ -10,7 +10,6 @@ library(rvest)
 library(dplyr)
 library(lubridate)
 library(readr)
-library(purrr)
 
 
 # functions -----------------------------------------
@@ -106,7 +105,7 @@ return(player_data)
 }
 
 # scrape league (wrapper)
-scrape_league <- function(league_url, season_start_year) {
+scrape_league_squads <- function(league_url, season_start_year) {
   
   # scrape league clubs metadata
   club_meta <- scrape_club_meta(league_url, season_start_year)
@@ -139,8 +138,8 @@ league_urls <- c("https://www.transfermarkt.co.uk/premier-league/startseite/wett
 # set current season
 season <- 2017
 
-# scrape footballers for current season
-footballers <- lapply(league_urls, scrape_league, season) %>% bind_rows()
+# scrape squads for current season
+footballers <- lapply(league_urls, scrape_league_squads, season) %>% bind_rows()
 
 # export data
-write_csv(footballers, file.path(paste0("data/", season, "_", "footballers.csv")))
+write_csv(footballers, file.path(paste0("data/", season, "_", "squads.csv")))
