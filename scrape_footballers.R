@@ -126,25 +126,21 @@ scrape_league <- function(league_url, season_start_year) {
 
 # do ---------------------------------------------------------
 
-# set league / season parameters
-params <- list(
-  league_url = c("https://www.transfermarkt.co.uk/premier-league/startseite/wettbewerb/GB1",
-                   "https://www.transfermarkt.co.uk/championship/startseite/wettbewerb/GB2",
-                   "https://www.transfermarkt.co.uk/league-one/startseite/wettbewerb/GB3",
-                   "https://www.transfermarkt.co.uk/league-two/startseite/wettbewerb/GB4",
-                   "https://www.transfermarkt.com/1-bundesliga/startseite/wettbewerb/L1",
-                   "https://www.transfermarkt.com/primera-division/startseite/wettbewerb/ES1",
-                   "https://www.transfermarkt.com/serie-a/startseite/wettbewerb/IT1",
-                   "https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1"),
-  season_start_year = c(2017, 2016, 2015, 2014, 2013)
-)
+# set league urls
+league_urls <- c("https://www.transfermarkt.co.uk/premier-league/startseite/wettbewerb/GB1",
+                 "https://www.transfermarkt.co.uk/championship/startseite/wettbewerb/GB2",
+                 "https://www.transfermarkt.co.uk/league-one/startseite/wettbewerb/GB3",
+                 "https://www.transfermarkt.co.uk/league-two/startseite/wettbewerb/GB4",
+                 "https://www.transfermarkt.com/1-bundesliga/startseite/wettbewerb/L1",
+                 "https://www.transfermarkt.com/primera-division/startseite/wettbewerb/ES1",
+                 "https://www.transfermarkt.com/serie-a/startseite/wettbewerb/IT1",
+                 "https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1")
 
-# scrape footballers for each season & league combo
-foo <- params %>%
-  cross() %>%
-  map(lift(scrape_league))
+# set current season
+season <- 2017
 
-# footballers <- lapply(league_urls, scrape_league) %>% bind_rows()
+# scrape footballers for current season
+footballers <- lapply(league_urls, scrape_league, season) %>% bind_rows()
 
 # export data
-write_csv(footballers, "footballers.csv")
+write_csv(footballers, paste0("./data/", season, "_", "footballers.csv"))
