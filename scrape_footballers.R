@@ -143,4 +143,4 @@ season <- 2017
 footballers <- lapply(league_urls, scrape_league, season) %>% bind_rows()
 
 # export data
-write_csv(footballers, paste0("./data/", season, "_", "footballers.csv"))
+write_csv(footballers, file.path(paste0("data/", season, "_", "footballers.csv")))
