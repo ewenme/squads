@@ -1,5 +1,5 @@
 ---
-title: "footballers"
+title: "football-squads"
 output: github_document
 ---
 
@@ -7,7 +7,7 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-A dataset (and the code used to get it) about footballers playing in the following leagues (during the 17/18 season):
+A dataset (and the code used to get it) about club squads in the following leagues (during the 17/18 season only, at the moment):
 
 - Premier League (England)
 - Championship (England)
@@ -20,8 +20,21 @@ A dataset (and the code used to get it) about footballers playing in the followi
 
 ## Usage
 
-Repo contains a .R file, `scrape_footballers`, containing all code used to scrape player data for the leagues mentioned above (for the current season)
+Repo contains:
+
+- `scrape_squads`, a .R file containing all code used to scrape squad data for the leagues mentioned above.
+- Player-level data in .csv format, found in the /data directory (filenames follow a `<season_start_year>_squads` naming convention) 
 
 ## Data format
 
+9 variables, as follows:
 
+- `shirt_number` (shirt number)
+- `position` (preferred position)
+- `name` (full name)
+- `date_of_birth` (date of birth)
+- `age` (age, at time of scrape)
+- `nationality` (primary nationality)
+- `club_name` (club)
+- `league_name` (league)
+- `season` (league season)

@@ -139,7 +139,7 @@ league_urls <- c("https://www.transfermarkt.co.uk/premier-league/startseite/wett
 season <- 2017
 
 # scrape squads for current season
-footballers <- lapply(league_urls, scrape_league_squads, season) %>% bind_rows()
+squads <- lapply(league_urls, scrape_league_squads, season) %>% bind_rows()
 
 # export data
-write_csv(footballers, file.path(paste0("data/", season, "_", "squads.csv")))
+write_csv(squads, file.path(paste0("data/", season, "_", "squads.csv")))
