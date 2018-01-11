@@ -34,3 +34,8 @@ Data format
 -   `club_name` (club)
 -   `league_name` (league)
 -   `season` (league season)
+
+Source
+------
+
+All squad data was scraped from [Transfermarkt](https://www.transfermarkt.co.uk/), in accordance with their [terms of use](https://www.transfermarkt.co.uk/intern/anb).
