@@ -1,7 +1,7 @@
 football-squads
 ================
 
-A dataset (and the code used to get it) about club squads in the following leagues (during the 17/18 season only, at the moment):
+A dataset (and the code used to get it) about club squads in the following leagues (for the 17/18 season only, at the moment):
 
 -   Premier League (England)
 -   Championship (England)
