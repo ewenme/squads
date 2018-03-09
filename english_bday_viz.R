@@ -51,7 +51,7 @@ bday_plot <- ggplot(data = eng_player_bdays) +
   theme_work(plot_title_size = 12) + 
   # remove x axis labels
   labs(x=NULL, y="Proportion of birthdays", caption="data from Transfermarkt | made by @ewen_", title="Relative Age Effect in English Footballers, 2017/18",
-       subtitle="English-born participation in the top four English football divisions is\nhigher amongst those born early after the cut-off date (31st August)\nfor age group competition.") +
+       subtitle="English-born participation in the top four English football divisions is\nskewed towards those born early after the cut-off date (31st August)\nfor age group competition.") +
   # set colour of gridlines
   theme(panel.grid.major = element_line(linetype = "dashed", colour = "white"),
         plot.subtitle = element_text(size = 10),
