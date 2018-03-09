@@ -43,7 +43,7 @@ Repo contains:
 
 ### Relative age effect example
 
-```{r}
+```{r, echo=FALSE}
 knitr::include_graphics("english_age_effect.png")
 ```
 

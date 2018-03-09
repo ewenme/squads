@@ -40,10 +40,6 @@ Usage
 
 ### Relative age effect example
 
-``` r
-knitr::include_graphics("english_age_effect.png")
-```
-
 <img src="english_age_effect.png" width="582" />
 
 Source
