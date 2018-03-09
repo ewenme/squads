@@ -12,8 +12,8 @@ A dataset (and the code used to get it) about club squads in the following leagu
 -   Serie A (Italy)
 -   Ligue 1 (France)
 
-Usage
------
+Documentation
+-------------
 
 Repo contains:
 
