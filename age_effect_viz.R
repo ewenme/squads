@@ -98,14 +98,13 @@ ggplot(data = eng_league_bdays) +
   # add personal chart theme
   theme_work(plot_title_size = 12) + 
   # remove x axis labels
-  labs(x=NULL, y="Proportion of birthdays", caption="data from Transfermarkt | made by @ewen_", 
-       title="Relative Age Effect in English Footballers") +
+  labs(x=NULL, y="Proportion of birthdays", caption="data from Transfermarkt | made by @ewen_") +
   # set colour of gridlines
   theme(panel.grid.major = element_line(linetype = "dashed", colour = "white"),
         plot.subtitle = element_text(size = 10),
         axis.text.y = element_text(colour = "black", size = 9),
         axis.title.y = element_text(hjust=0.65, size = 9),
-        plot.caption = element_text(hjust=2),
+        plot.caption = element_text(hjust=1.6),
         strip.text = element_text(size = 10)) +
   # create percent-based y axis
   scale_y_percent() +
