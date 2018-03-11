@@ -38,7 +38,7 @@ Data format
 Usage
 -----
 
-### Relative age effect example (code in [`english_bday_viz.R`](https://github.com/ewenme/football-squads/blob/master/english_bday_viz.R))
+### Relative age effect example (code in [`age_effect_viz.R`](https://github.com/ewenme/football-squads/blob/master/age_effect_viz.R))
 
 <img src="english_age_effect.png" width="582" />
 

@@ -41,7 +41,7 @@ Repo contains:
 
 ## Usage
 
-### Relative age effect example (code in [`english_bday_viz.R`](https://github.com/ewenme/football-squads/blob/master/english_bday_viz.R))
+### Relative age effect example (code in [`age_effect_viz.R`](https://github.com/ewenme/football-squads/blob/master/age_effect_viz.R))
 
 ```{r, echo=FALSE}
 knitr::include_graphics("english_age_effect.png")
