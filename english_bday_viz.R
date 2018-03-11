@@ -26,7 +26,8 @@ squads <- filter(squads, !is.na(month))
 # make english players df
 eng_player_bdays <- squads %>% 
   # filter for same nationalities as in leagues
-  filter(nationality %in% c("England")) %>%
+  filter(nationality %in% c("England"),
+         league_name %in% c("Premier League", "Championship", "League One", "League Two")) %>%
   # get monthly bday props
   group_by(nationality, month, days_in_month) %>%
   summarise(count=n()) %>%
