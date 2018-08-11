@@ -1,6 +1,9 @@
 
 # session ----------------------------------------------------
 
+# load functions / install packages
+source("./src/10-global.R")
+
 # load packages
 library(tidyverse)
 library(lubridate)
@@ -9,10 +12,11 @@ library(ewen)
 library(ggalt)
 library(forcats)
 
+
 # load  ----------------------------------------------------
 
 # load raw squad data
-squads <- read_csv(file = "https://raw.githubusercontent.com/ewenme/football-squads/master/data/2017_squads.csv")
+squads <- read_csv(file = "https://raw.githubusercontent.com/ewenme/football-squads/master/data/1718_squads.csv")
 
 # clean  ----------------------------------------------------
 
