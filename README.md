@@ -1,7 +1,12 @@
-football-squads
+European league football squads' data
 ================
 
-A dataset (and the code used to get it) about club squads in the following leagues (for the 17/18 season only, at the moment):
+Overview
+--------
+
+Football club squads' data.
+
+Leagues:
 
 -   Premier League (England)
 -   Championship (England)
@@ -12,24 +17,20 @@ A dataset (and the code used to get it) about club squads in the following leagu
 -   Serie A (Italy)
 -   Ligue 1 (France)
 
-Documentation
--------------
+Seasons:
 
-Repo contains:
+-   2017/18
 
--   `scrape_squads`, a .R file containing all code used to scrape squad data for the leagues mentioned above.
--   Player-level data in .csv format, found in the /data directory (filenames follow a `<season_start_year>_squads` naming convention)
+Data
+----
 
-Data format
------------
-
-9 variables, as follows:
+Player-level data in .csv format (filenames follow a `<season_start_year>_squads` naming convention).
 
 -   `shirt_number` (shirt number)
 -   `position` (preferred position)
 -   `name` (full name)
 -   `date_of_birth` (date of birth)
--   `age` (age, at time of scrape)
+-   `age` (age at time of scrape)
 -   `nationality` (primary nationality)
 -   `club_name` (club)
 -   `league_name` (league)
@@ -38,11 +39,17 @@ Data format
 Usage
 -----
 
-### Relative age effect example (code in [`age_effect_viz.R`](https://github.com/ewenme/football-squads/blob/master/age_effect_viz.R))
+Relative age effect visualisation:
 
-<img src="english_age_effect.png" width="582" />
+<img src="./figures/english_age_effect.png" width="582" />
 
-Source
-------
+Code
+----
+
+-   `scrape_squads.R` code used to scrape squad data
+-   `age_effect_viz.R` code used to visualise relative age effect
+
+Sources
+-------
 
 All squad data was scraped from [Transfermarkt](https://www.transfermarkt.co.uk/), in accordance with their [terms of use](https://www.transfermarkt.co.uk/intern/anb).
