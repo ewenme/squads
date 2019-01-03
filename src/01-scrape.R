@@ -21,6 +21,8 @@ league_urls <- c("https://www.transfermarkt.co.uk/premier-league/startseite/wett
                  "https://www.transfermarkt.com/serie-a/startseite/wettbewerb/IT1",
                  "https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1")
 
+# set season
+season <- 2018
 
 # scrape ------------------------------------------------------------------
 

@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Overview 
 
-Football club squads' data.
+Demographic data of football (soccer) club playing squads, sourced from Transfermarkt.
 
 Leagues:
 
@@ -29,17 +29,17 @@ Seasons:
 
 ## Data
 
-Player-level data in .csv format (filenames follow a `<season_start_year>_squads` naming convention). 
+Comes in .csv format, found in `/data` (filenames follow a `<season>_squads` naming convention). 
 
-- `shirt_number` (shirt number)
+- `shirt_number` (shirt no.)
 - `position` (preferred position)
 - `name` (full name)
 - `date_of_birth` (date of birth)
-- `age` (age at time of scrape)
+- `age` (age, at time of scrape)
 - `nationality` (primary nationality)
 - `club_name` (club)
 - `league_name` (league)
-- `season` (league season)
+- `season` (season)
 
 ## Usage
 
@@ -49,11 +49,6 @@ Relative age effect visualisation:
 knitr::include_graphics("./figures/english_age_effect.png")
 ```
 
-## Code
-
-- `scrape_squads.R` code used to scrape squad data
-- `age_effect_viz.R` code used to visualise relative age effect
-
-## Sources
+## Source
 
 All squad data was scraped from [Transfermarkt](https://www.transfermarkt.co.uk/), in accordance with their [terms of use](https://www.transfermarkt.co.uk/intern/anb).
