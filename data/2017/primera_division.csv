@@ -1,0 +1,677 @@
+shirt_number,position,player_name,date_of_birth,age,nationality,club_name,league_name,season,year
+1,Goalkeeper,"Apr 30, 1992 (25)",NA,NA,Germany,FC Barcelona,LaLiga,2017/2018,2017
+13,Goalkeeper,"Apr 22, 1989 (28)",NA,NA,Netherlands,FC Barcelona,LaLiga,2017/2018,2017
+NA,Goalkeeper,"Aug 20, 1993 (23)",NA,NA,Spain,FC Barcelona,LaLiga,2017/2018,2017
+3,Centre-Back,"Feb 2, 1987 (30)",NA,NA,Spain,FC Barcelona,LaLiga,2017/2018,2017
+23,Centre-Back,"Nov 14, 1993 (23)",NA,NA,France,FC Barcelona,LaLiga,2017/2018,2017
+24,Centre-Back,"Sep 23, 1994 (22)",NA,NA,Colombia,FC Barcelona,LaLiga,2017/2018,2017
+25,Centre-Back,"Nov 14, 1985 (31)",NA,NA,Belgium,FC Barcelona,LaLiga,2017/2018,2017
+NA,Centre-Back,"Mar 26, 1995 (22)",NA,NA,Spain,FC Barcelona,LaLiga,2017/2018,2017
+18,Left-Back,"Mar 21, 1989 (28)",NA,NA,Spain,FC Barcelona,LaLiga,2017/2018,2017
+19,Left-Back,"Jul 20, 1993 (23)",NA,NA,France,FC Barcelona,LaLiga,2017/2018,2017
+NA,Left-Back,"Jul 22, 1998 (18)",NA,NA,Spain,FC Barcelona,LaLiga,2017/2018,2017
+20,Right-Back,"Feb 7, 1992 (25)",NA,NA,Spain,FC Barcelona,LaLiga,2017/2018,2017
+2,Right-Back,"Nov 16, 1993 (23)",NA,NA,Portugal,FC Barcelona,LaLiga,2017/2018,2017
+5,Defensive Midfield,"Jul 16, 1988 (28)",NA,NA,Spain,FC Barcelona,LaLiga,2017/2018,2017
+NA,Defensive Midfield,"Jun 8, 1984 (33)",NA,NA,Argentina,FC Barcelona,LaLiga,2017/2018,2017
+NA,Defensive Midfield,"Jan 20, 1995 (22)",NA,NA,Spain,FC Barcelona,LaLiga,2017/2018,2017
+NA,Defensive Midfield,"Jan 20, 1999 (18)",NA,NA,Spain,FC Barcelona,LaLiga,2017/2018,2017
+4,Central Midfield,"Mar 10, 1988 (29)",NA,NA,Croatia,FC Barcelona,LaLiga,2017/2018,2017
+21,Central Midfield,"Jul 30, 1993 (23)",NA,NA,Portugal,FC Barcelona,LaLiga,2017/2018,2017
+8,Central Midfield,"May 11, 1984 (33)",NA,NA,Spain,FC Barcelona,LaLiga,2017/2018,2017
+6,Central Midfield,"Jan 6, 1994 (23)",NA,NA,Spain,FC Barcelona,LaLiga,2017/2018,2017
+NA,Central Midfield,"Feb 12, 1993 (24)",NA,NA,Brazil,FC Barcelona,LaLiga,2017/2018,2017
+15,Central Midfield,"Jul 25, 1988 (28)",NA,NA,Brazil,FC Barcelona,LaLiga,2017/2018,2017
+NA,Central Midfield,"Jan 5, 1998 (19)",NA,NA,Spain,FC Barcelona,LaLiga,2017/2018,2017
+22,Right Midfield,"Aug 21, 1989 (27)",NA,NA,Spain,FC Barcelona,LaLiga,2017/2018,2017
+14,Left Winger,"Jun 12, 1992 (25)",NA,NA,Brazil,FC Barcelona,LaLiga,2017/2018,2017
+11,Left Winger,"May 15, 1997 (20)",NA,NA,France,FC Barcelona,LaLiga,2017/2018,2017
+NA,Left Winger,"Jan 30, 1987 (30)",NA,NA,Turkey,FC Barcelona,LaLiga,2017/2018,2017
+NA,Left Winger,"Apr 15, 1995 (22)",NA,NA,Spain,FC Barcelona,LaLiga,2017/2018,2017
+10,Right Winger,"Jun 24, 1987 (30)",NA,NA,Argentina,FC Barcelona,LaLiga,2017/2018,2017
+NA,Right Winger,"Mar 13, 1994 (23)",NA,NA,Spain,FC Barcelona,LaLiga,2017/2018,2017
+9,Centre-Forward,"Jan 24, 1987 (30)",NA,NA,Uruguay,FC Barcelona,LaLiga,2017/2018,2017
+17,Centre-Forward,"Aug 30, 1993 (23)",NA,NA,Spain,FC Barcelona,LaLiga,2017/2018,2017
+1,Goalkeeper,"Dec 15, 1986 (30)",NA,NA,Costa Rica,Real Madrid,LaLiga,2017/2018,2017
+13,Goalkeeper,"Oct 2, 1986 (30)",NA,NA,Spain,Real Madrid,LaLiga,2017/2018,2017
+NA,Goalkeeper,"May 13, 1998 (19)",NA,NA,France,Real Madrid,LaLiga,2017/2018,2017
+NA,Goalkeeper,"Apr 13, 2000 (17)",NA,NA,Spain,Real Madrid,LaLiga,2017/2018,2017
+4,Centre-Back,"Mar 30, 1986 (31)",NA,NA,Spain,Real Madrid,LaLiga,2017/2018,2017
+5,Centre-Back,"Apr 25, 1993 (24)",NA,NA,France,Real Madrid,LaLiga,2017/2018,2017
+6,Centre-Back,"Jan 18, 1990 (27)",NA,NA,Spain,Real Madrid,LaLiga,2017/2018,2017
+3,Centre-Back,"Jan 5, 1997 (20)",NA,NA,Spain,Real Madrid,LaLiga,2017/2018,2017
+NA,Centre-Back,"Jul 19, 1998 (18)",NA,NA,Spain,Real Madrid,LaLiga,2017/2018,2017
+12,Left-Back,"May 12, 1988 (29)",NA,NA,Brazil,Real Madrid,LaLiga,2017/2018,2017
+15,Left-Back,"Oct 6, 1997 (19)",NA,NA,France,Real Madrid,LaLiga,2017/2018,2017
+2,Right-Back,"Jan 11, 1992 (25)",NA,NA,Spain,Real Madrid,LaLiga,2017/2018,2017
+NA,Right-Back,"Jul 20, 1996 (20)",NA,NA,Spain,Real Madrid,LaLiga,2017/2018,2017
+19,Right-Back,"Nov 4, 1998 (18)",NA,NA,Morocco,Real Madrid,LaLiga,2017/2018,2017
+14,Defensive Midfield,"Feb 23, 1992 (25)",NA,NA,Brazil,Real Madrid,LaLiga,2017/2018,2017
+18,Defensive Midfield,"Jan 30, 1995 (22)",NA,NA,Spain,Real Madrid,LaLiga,2017/2018,2017
+8,Central Midfield,"Jan 4, 1990 (27)",NA,NA,Germany,Real Madrid,LaLiga,2017/2018,2017
+10,Central Midfield,"Sep 9, 1985 (31)",NA,NA,Croatia,Real Madrid,LaLiga,2017/2018,2017
+23,Central Midfield,"May 6, 1994 (23)",NA,NA,Croatia,Real Madrid,LaLiga,2017/2018,2017
+24,Central Midfield,"Aug 7, 1996 (20)",NA,NA,Spain,Real Madrid,LaLiga,2017/2018,2017
+NA,Central Midfield,"Jan 22, 1997 (20)",NA,NA,Spain,Real Madrid,LaLiga,2017/2018,2017
+22,Attacking Midfield,"Apr 21, 1992 (25)",NA,NA,Spain,Real Madrid,LaLiga,2017/2018,2017
+NA,Attacking Midfield,"Jun 28, 1998 (19)",NA,NA,Spain,Real Madrid,LaLiga,2017/2018,2017
+7,Left Winger,"Feb 5, 1985 (32)",NA,NA,Portugal,Real Madrid,LaLiga,2017/2018,2017
+20,Left Winger,"Jan 21, 1996 (21)",NA,NA,Spain,Real Madrid,LaLiga,2017/2018,2017
+NA,Left Winger,"Feb 11, 1996 (21)",NA,NA,Dominican Republic,Real Madrid,LaLiga,2017/2018,2017
+11,Right Winger,"Jul 16, 1989 (27)",NA,NA,Wales,Real Madrid,LaLiga,2017/2018,2017
+17,Right Winger,"Jul 1, 1991 (26)",NA,NA,Spain,Real Madrid,LaLiga,2017/2018,2017
+NA,Right Winger,"May 12, 1998 (19)",NA,NA,Argentina,Real Madrid,LaLiga,2017/2018,2017
+9,Centre-Forward,"Dec 19, 1987 (29)",NA,NA,France,Real Madrid,LaLiga,2017/2018,2017
+21,Centre-Forward,"Apr 5, 1997 (20)",NA,NA,Spain,Real Madrid,LaLiga,2017/2018,2017
+NA,Centre-Forward,"Oct 24, 1997 (19)",NA,NA,Spain,Real Madrid,LaLiga,2017/2018,2017
+13,Goalkeeper,"Jan 7, 1993 (24)",NA,NA,Slovenia,Atlético Madrid,LaLiga,2017/2018,2017
+NA,Goalkeeper,"Apr 2, 1984 (33)",NA,NA,Spain,Atlético Madrid,LaLiga,2017/2018,2017
+25,Goalkeeper,"Feb 28, 1996 (21)",NA,NA,Argentina,Atlético Madrid,LaLiga,2017/2018,2017
+NA,Goalkeeper,"Jul 14, 1997 (19)",NA,NA,Spain,Atlético Madrid,LaLiga,2017/2018,2017
+NA,Goalkeeper,"Jan 15, 1999 (18)",NA,NA,Spain,Atlético Madrid,LaLiga,2017/2018,2017
+2,Centre-Back,"Feb 16, 1986 (31)",NA,NA,Uruguay,Atlético Madrid,LaLiga,2017/2018,2017
+15,Centre-Back,"Jan 8, 1991 (26)",NA,NA,Montenegro,Atlético Madrid,LaLiga,2017/2018,2017
+24,Centre-Back,"Jan 20, 1995 (22)",NA,NA,Uruguay,Atlético Madrid,LaLiga,2017/2018,2017
+19,Centre-Back,"Feb 14, 1996 (21)",NA,NA,France,Atlético Madrid,LaLiga,2017/2018,2017
+NA,Centre-Back,"May 10, 1997 (20)",NA,NA,Spain,Atlético Madrid,LaLiga,2017/2018,2017
+3,Left-Back,"Aug 9, 1985 (31)",NA,NA,Brazil,Atlético Madrid,LaLiga,2017/2018,2017
+NA,Left-Back,"May 26, 1995 (22)",NA,NA,Spain,Atlético Madrid,LaLiga,2017/2018,2017
+16,Right-Back,"Jan 10, 1992 (25)",NA,NA,Croatia,Atlético Madrid,LaLiga,2017/2018,2017
+20,Right-Back,"Jan 9, 1985 (32)",NA,NA,Spain,Atlético Madrid,LaLiga,2017/2018,2017
+NA,Right-Back,"Apr 30, 1998 (19)",NA,NA,Spain,Atlético Madrid,LaLiga,2017/2018,2017
+5,Defensive Midfield,"Jun 13, 1993 (24)",NA,NA,Ghana,Atlético Madrid,LaLiga,2017/2018,2017
+14,Defensive Midfield,"Jul 10, 1983 (33)",NA,NA,Spain,Atlético Madrid,LaLiga,2017/2018,2017
+6,Central Midfield,"Jan 8, 1992 (25)",NA,NA,Spain,Atlético Madrid,LaLiga,2017/2018,2017
+8,Central Midfield,"Nov 21, 1994 (22)",NA,NA,Spain,Atlético Madrid,LaLiga,2017/2018,2017
+NA,Central Midfield,"Apr 10, 1986 (31)",NA,NA,Argentina,Atlético Madrid,LaLiga,2017/2018,2017
+NA,Central Midfield,"Aug 28, 1997 (19)",NA,NA,Albania,Atlético Madrid,LaLiga,2017/2018,2017
+NA,Central Midfield,"May 5, 1996 (21)",NA,NA,Spain,Atlético Madrid,LaLiga,2017/2018,2017
+NA,Central Midfield,"Mar 20, 1998 (19)",NA,NA,Spain,Atlético Madrid,LaLiga,2017/2018,2017
+NA,Attacking Midfield,"May 27, 1999 (18)",NA,NA,Argentina,Atlético Madrid,LaLiga,2017/2018,2017
+NA,Left Winger,"Sep 4, 1993 (23)",NA,NA,Belgium,Atlético Madrid,LaLiga,2017/2018,2017
+23,Left Winger,"Nov 2, 1989 (27)",NA,NA,Spain,Atlético Madrid,LaLiga,2017/2018,2017
+NA,Left Winger,"Feb 23, 1988 (29)",NA,NA,Argentina,Atlético Madrid,LaLiga,2017/2018,2017
+11,Right Winger,"Mar 9, 1995 (22)",NA,NA,Argentina,Atlético Madrid,LaLiga,2017/2018,2017
+NA,Right Winger,"Jun 21, 1995 (22)",NA,NA,Senegal,Atlético Madrid,LaLiga,2017/2018,2017
+NA,Right Winger,"May 11, 1997 (20)",NA,NA,Spain,Atlético Madrid,LaLiga,2017/2018,2017
+7,Centre-Forward,"Mar 21, 1991 (26)",NA,NA,France,Atlético Madrid,LaLiga,2017/2018,2017
+18,Centre-Forward,"Oct 7, 1988 (28)",NA,NA,Spain,Atlético Madrid,LaLiga,2017/2018,2017
+21,Centre-Forward,"May 9, 1987 (30)",NA,NA,France,Atlético Madrid,LaLiga,2017/2018,2017
+NA,Centre-Forward,"Dec 5, 1993 (23)",NA,NA,Argentina,Atlético Madrid,LaLiga,2017/2018,2017
+9,Centre-Forward,"Mar 20, 1984 (33)",NA,NA,Spain,Atlético Madrid,LaLiga,2017/2018,2017
+NA,Centre-Forward,"Sep 26, 1998 (18)",NA,NA,Spain,Atlético Madrid,LaLiga,2017/2018,2017
+1,Goalkeeper,"Sep 1, 1993 (23)",NA,NA,Spain,Sevilla FC,LaLiga,2017/2018,2017
+13,Goalkeeper,"Apr 4, 1993 (24)",NA,NA,Spain,Sevilla FC,LaLiga,2017/2018,2017
+NA,Goalkeeper,"Aug 23, 1997 (19)",NA,NA,Spain,Sevilla FC,LaLiga,2017/2018,2017
+4,Centre-Back,"Mar 26, 1989 (28)",NA,NA,Denmark,Sevilla FC,LaLiga,2017/2018,2017
+5,Centre-Back,"Jun 17, 1995 (22)",NA,NA,France,Sevilla FC,LaLiga,2017/2018,2017
+25,Centre-Back,"Mar 18, 1987 (30)",NA,NA,Argentina,Sevilla FC,LaLiga,2017/2018,2017
+6,Centre-Back,"Aug 4, 1988 (28)",NA,NA,Portugal,Sevilla FC,LaLiga,2017/2018,2017
+21,Centre-Back,"Jan 19, 1984 (33)",NA,NA,Argentina,Sevilla FC,LaLiga,2017/2018,2017
+18,Left-Back,"Sep 2, 1989 (27)",NA,NA,Spain,Sevilla FC,LaLiga,2017/2018,2017
+NA,Left-Back,"Apr 12, 1991 (26)",NA,NA,France,Sevilla FC,LaLiga,2017/2018,2017
+8,Left-Back,"Apr 14, 1997 (20)",NA,NA,Brazil,Sevilla FC,LaLiga,2017/2018,2017
+16,Right-Back,"Nov 21, 1985 (31)",NA,NA,Spain,Sevilla FC,LaLiga,2017/2018,2017
+2,Right-Back,"Nov 1, 1990 (26)",NA,NA,France,Sevilla FC,LaLiga,2017/2018,2017
+3,Right-Back,"Jun 25, 1988 (29)",NA,NA,Mexico,Sevilla FC,LaLiga,2017/2018,2017
+15,Defensive Midfield,"Dec 15, 1988 (28)",NA,NA,France,Sevilla FC,LaLiga,2017/2018,2017
+12,Defensive Midfield,"Aug 17, 1993 (23)",NA,NA,Germany,Sevilla FC,LaLiga,2017/2018,2017
+14,Defensive Midfield,"Feb 26, 1990 (27)",NA,NA,Argentina,Sevilla FC,LaLiga,2017/2018,2017
+10,Central Midfield,"Jun 29, 1988 (29)",NA,NA,Argentina,Sevilla FC,LaLiga,2017/2018,2017
+7,Central Midfield,"Jun 7, 1989 (28)",NA,NA,Spain,Sevilla FC,LaLiga,2017/2018,2017
+NA,Central Midfield,"Jun 6, 1983 (34)",NA,NA,Denmark,Sevilla FC,LaLiga,2017/2018,2017
+NA,Right Midfield,"Jul 21, 1993 (23)",NA,NA,Argentina,Sevilla FC,LaLiga,2017/2018,2017
+22,Attacking Midfield,"Feb 22, 1989 (28)",NA,NA,Argentina,Sevilla FC,LaLiga,2017/2018,2017
+17,Attacking Midfield,"May 11, 1992 (25)",NA,NA,Spain,Sevilla FC,LaLiga,2017/2018,2017
+19,Attacking Midfield,"Oct 12, 1989 (27)",NA,NA,Brazil,Sevilla FC,LaLiga,2017/2018,2017
+NA,Attacking Midfield,"Feb 22, 1999 (18)",NA,NA,Spain,Sevilla FC,LaLiga,2017/2018,2017
+NA,Attacking Midfield,"Jan 1, 1994 (23)",NA,NA,Spain,Sevilla FC,LaLiga,2017/2018,2017
+24,Left Winger,"Oct 15, 1986 (30)",NA,NA,Spain,Sevilla FC,LaLiga,2017/2018,2017
+NA,Left Winger,"Mar 7, 2000 (17)",NA,NA,Spain,Sevilla FC,LaLiga,2017/2018,2017
+11,Second Striker,"Aug 13, 1994 (22)",NA,NA,Argentina,Sevilla FC,LaLiga,2017/2018,2017
+20,Centre-Forward,"Apr 16, 1991 (26)",NA,NA,Colombia,Sevilla FC,LaLiga,2017/2018,2017
+9,Centre-Forward,"Aug 12, 1990 (26)",NA,NA,France,Sevilla FC,LaLiga,2017/2018,2017
+23,Centre-Forward,"Jul 9, 1995 (21)",NA,NA,Spain,Sevilla FC,LaLiga,2017/2018,2017
+NA,Centre-Forward,"May 22, 1996 (21)",NA,NA,Spain,Sevilla FC,LaLiga,2017/2018,2017
+13,Goalkeeper,"Jul 19, 1989 (27)",NA,NA,Brazil,Valencia CF,LaLiga,2017/2018,2017
+1,Goalkeeper,"Nov 5, 1990 (26)",NA,NA,Spain,Valencia CF,LaLiga,2017/2018,2017
+NA,Goalkeeper,"Mar 21, 1998 (19)",NA,NA,Spain,Valencia CF,LaLiga,2017/2018,2017
+24,Centre-Back,"Oct 10, 1986 (30)",NA,NA,Argentina,Valencia CF,LaLiga,2017/2018,2017
+4,Centre-Back,"May 27, 1992 (25)",NA,NA,Colombia,Valencia CF,LaLiga,2017/2018,2017
+5,Centre-Back,"Nov 26, 1990 (26)",NA,NA,Brazil,Valencia CF,LaLiga,2017/2018,2017
+3,Centre-Back,"Apr 25, 1994 (23)",NA,NA,Portugal,Valencia CF,LaLiga,2017/2018,2017
+NA,Centre-Back,"Mar 11, 1997 (20)",NA,NA,Spain,Valencia CF,LaLiga,2017/2018,2017
+14,Left-Back,"May 25, 1995 (22)",NA,NA,Spain,Valencia CF,LaLiga,2017/2018,2017
+15,Left-Back,"Nov 21, 1997 (19)",NA,NA,Spain,Valencia CF,LaLiga,2017/2018,2017
+NA,Right-Back,"May 27, 1994 (23)",NA,NA,Portugal,Valencia CF,LaLiga,2017/2018,2017
+21,Right-Back,"Apr 14, 1991 (26)",NA,NA,Spain,Valencia CF,LaLiga,2017/2018,2017
+30,Right-Back,"Jan 24, 1995 (22)",NA,NA,Spain,Valencia CF,LaLiga,2017/2018,2017
+17,Defensive Midfield,"May 13, 1991 (26)",NA,NA,France,Valencia CF,LaLiga,2017/2018,2017
+16,Central Midfield,"Feb 15, 1993 (24)",NA,NA,Central African Republic,Valencia CF,LaLiga,2017/2018,2017
+10,Central Midfield,"Apr 16, 1989 (28)",NA,NA,Spain,Valencia CF,LaLiga,2017/2018,2017
+6,Central Midfield,"Jan 26, 1995 (22)",NA,NA,Serbia,Valencia CF,LaLiga,2017/2018,2017
+NA,Central Midfield,"Mar 15, 1994 (23)",NA,NA,Spain,Valencia CF,LaLiga,2017/2018,2017
+NA,Central Midfield,"Mar 23, 1998 (19)",NA,NA,Spain,Valencia CF,LaLiga,2017/2018,2017
+18,Right Midfield,"Jan 2, 1997 (20)",NA,NA,Spain,Valencia CF,LaLiga,2017/2018,2017
+11,Attacking Midfield,"Jan 1, 1996 (21)",NA,NA,Brazil,Valencia CF,LaLiga,2017/2018,2017
+7,Left Winger,"Nov 29, 1996 (20)",NA,NA,Portugal,Valencia CF,LaLiga,2017/2018,2017
+NA,Left Winger,"Sep 9, 1995 (21)",NA,NA,Spain,Valencia CF,LaLiga,2017/2018,2017
+NA,Right Winger,"Jan 27, 1986 (31)",NA,NA,Chile,Valencia CF,LaLiga,2017/2018,2017
+NA,Right Winger,"Mar 22, 1993 (24)",NA,NA,Spain,Valencia CF,LaLiga,2017/2018,2017
+20,Right Winger,"Feb 29, 2000 (17)",NA,NA,Spain,Valencia CF,LaLiga,2017/2018,2017
+9,Centre-Forward,"Jun 25, 1991 (26)",NA,NA,Italy,Valencia CF,LaLiga,2017/2018,2017
+8,Centre-Forward,"Dec 5, 1993 (23)",NA,NA,Argentina,Valencia CF,LaLiga,2017/2018,2017
+19,Centre-Forward,"Mar 6, 1991 (26)",NA,NA,Spain,Valencia CF,LaLiga,2017/2018,2017
+22,Centre-Forward,"Dec 7, 1995 (21)",NA,NA,Spain,Valencia CF,LaLiga,2017/2018,2017
+1,Goalkeeper,"Jun 28, 1989 (28)",NA,NA,Spain,Villarreal CF,LaLiga,2017/2018,2017
+13,Goalkeeper,"Dec 17, 1986 (30)",NA,NA,Spain,Villarreal CF,LaLiga,2017/2018,2017
+25,Goalkeeper,"Jul 27, 1984 (32)",NA,NA,Argentina,Villarreal CF,LaLiga,2017/2018,2017
+NA,Goalkeeper,"Jan 9, 1995 (22)",NA,NA,Spain,Villarreal CF,LaLiga,2017/2018,2017
+6,Centre-Back,"Jan 25, 1989 (28)",NA,NA,Spain,Villarreal CF,LaLiga,2017/2018,2017
+4,Centre-Back,"Apr 4, 1994 (23)",NA,NA,Portugal,Villarreal CF,LaLiga,2017/2018,2017
+3,Centre-Back,"Jan 8, 1990 (27)",NA,NA,Spain,Villarreal CF,LaLiga,2017/2018,2017
+NA,Centre-Back,"Jan 16, 1997 (20)",NA,NA,Spain,Villarreal CF,LaLiga,2017/2018,2017
+23,Centre-Back,"May 31, 1981 (36)",NA,NA,Italy,Villarreal CF,LaLiga,2017/2018,2017
+NA,Centre-Back,"Dec 10, 1998 (18)",NA,NA,Spain,Villarreal CF,LaLiga,2017/2018,2017
+NA,Centre-Back,"Jul 23, 1996 (20)",NA,NA,Spain,Villarreal CF,LaLiga,2017/2018,2017
+11,Left-Back,"Mar 18, 1988 (29)",NA,NA,Spain,Villarreal CF,LaLiga,2017/2018,2017
+5,Left-Back,"Jan 9, 1997 (20)",NA,NA,Spain,Villarreal CF,LaLiga,2017/2018,2017
+2,Right-Back,"Nov 24, 1990 (26)",NA,NA,Spain,Villarreal CF,LaLiga,2017/2018,2017
+22,Right-Back,"Jan 26, 1984 (33)",NA,NA,Serbia,Villarreal CF,LaLiga,2017/2018,2017
+NA,Defensive Midfield,"Mar 6, 1990 (27)",NA,NA,Senegal,Villarreal CF,LaLiga,2017/2018,2017
+21,Defensive Midfield,"Jun 12, 1984 (33)",NA,NA,Spain,Villarreal CF,LaLiga,2017/2018,2017
+16,Defensive Midfield,"Jun 22, 1996 (21)",NA,NA,Spain,Villarreal CF,LaLiga,2017/2018,2017
+19,Defensive Midfield,"Jan 4, 1984 (33)",NA,NA,Spain,Villarreal CF,LaLiga,2017/2018,2017
+20,Central Midfield,"Feb 8, 1991 (26)",NA,NA,Italy,Villarreal CF,LaLiga,2017/2018,2017
+14,Central Midfield,"Oct 17, 1991 (25)",NA,NA,Spain,Villarreal CF,LaLiga,2017/2018,2017
+NA,Central Midfield,"Mar 21, 1997 (20)",NA,NA,Uruguay,Villarreal CF,LaLiga,2017/2018,2017
+NA,Central Midfield,"Dec 26, 1995 (21)",NA,NA,Spain,Villarreal CF,LaLiga,2017/2018,2017
+NA,Central Midfield,"Jun 10, 1997 (20)",NA,NA,Spain,Villarreal CF,LaLiga,2017/2018,2017
+NA,Central Midfield,"Jan 12, 1999 (18)",NA,NA,Spain,Villarreal CF,LaLiga,2017/2018,2017
+NA,Central Midfield,"Mar 24, 1999 (18)",NA,NA,Spain,Villarreal CF,LaLiga,2017/2018,2017
+NA,Central Midfield,"Feb 9, 1996 (21)",NA,NA,Spain,Villarreal CF,LaLiga,2017/2018,2017
+8,Attacking Midfield,"Feb 22, 1996 (21)",NA,NA,Spain,Villarreal CF,LaLiga,2017/2018,2017
+18,Left Winger,"Sep 10, 1991 (25)",NA,NA,Italy,Villarreal CF,LaLiga,2017/2018,2017
+7,Left Winger,"Dec 26, 1990 (26)",NA,NA,Russia,Villarreal CF,LaLiga,2017/2018,2017
+12,Left Winger,"Aug 19, 1991 (25)",NA,NA,Saudi Arabia,Villarreal CF,LaLiga,2017/2018,2017
+NA,Left Winger,"Feb 25, 1996 (21)",NA,NA,Spain,Villarreal CF,LaLiga,2017/2018,2017
+10,Right Winger,"Jan 18, 1995 (22)",NA,NA,Spain,Villarreal CF,LaLiga,2017/2018,2017
+NA,Right Winger,"Mar 30, 1996 (21)",NA,NA,Argentina,Villarreal CF,LaLiga,2017/2018,2017
+28,Right Winger,"Oct 29, 1995 (21)",NA,NA,Spain,Villarreal CF,LaLiga,2017/2018,2017
+9,Centre-Forward,"Sep 8, 1986 (30)",NA,NA,Colombia,Villarreal CF,LaLiga,2017/2018,2017
+NA,Centre-Forward,"Apr 11, 1991 (26)",NA,NA,DR Congo,Villarreal CF,LaLiga,2017/2018,2017
+15,Centre-Forward,"May 10, 1997 (20)",NA,NA,Turkey,Villarreal CF,LaLiga,2017/2018,2017
+24,Centre-Forward,"Jun 23, 1994 (23)",NA,NA,Colombia,Villarreal CF,LaLiga,2017/2018,2017
+NA,Centre-Forward,"Mar 13, 1997 (20)",NA,NA,Spain,Villarreal CF,LaLiga,2017/2018,2017
+1,Goalkeeper,"Oct 3, 1994 (22)",NA,NA,Spain,Athletic Bilbao,LaLiga,2017/2018,2017
+13,Goalkeeper,"Jan 25, 1988 (29)",NA,NA,Spain,Athletic Bilbao,LaLiga,2017/2018,2017
+NA,Goalkeeper,"Jun 11, 1997 (20)",NA,NA,Spain,Athletic Bilbao,LaLiga,2017/2018,2017
+NA,Centre-Back,"May 27, 1994 (23)",NA,NA,France,Athletic Bilbao,LaLiga,2017/2018,2017
+4,Centre-Back,"May 17, 1991 (26)",NA,NA,Spain,Athletic Bilbao,LaLiga,2017/2018,2017
+5,Centre-Back,"Jan 24, 1995 (22)",NA,NA,Spain,Athletic Bilbao,LaLiga,2017/2018,2017
+16,Centre-Back,"Oct 31, 1987 (29)",NA,NA,Spain,Athletic Bilbao,LaLiga,2017/2018,2017
+NA,Centre-Back,"Jun 14, 1995 (22)",NA,NA,Spain,Athletic Bilbao,LaLiga,2017/2018,2017
+12,Centre-Back,"Jan 30, 1997 (20)",NA,NA,Spain,Athletic Bilbao,LaLiga,2017/2018,2017
+NA,Centre-Back,"Oct 25, 1998 (18)",NA,NA,Spain,Athletic Bilbao,LaLiga,2017/2018,2017
+NA,Centre-Back,"Jul 5, 1999 (17)",NA,NA,Spain,Athletic Bilbao,LaLiga,2017/2018,2017
+24,Left-Back,"Feb 29, 1988 (29)",NA,NA,Spain,Athletic Bilbao,LaLiga,2017/2018,2017
+3,Left-Back,"Apr 27, 1992 (25)",NA,NA,Spain,Athletic Bilbao,LaLiga,2017/2018,2017
+NA,Left-Back,"Apr 5, 1996 (21)",NA,NA,Spain,Athletic Bilbao,LaLiga,2017/2018,2017
+18,Right-Back,"Apr 14, 1989 (28)",NA,NA,Spain,Athletic Bilbao,LaLiga,2017/2018,2017
+15,Right-Back,"May 4, 1993 (24)",NA,NA,Spain,Athletic Bilbao,LaLiga,2017/2018,2017
+NA,Right-Back,"Dec 14, 1988 (28)",NA,NA,Spain,Athletic Bilbao,LaLiga,2017/2018,2017
+6,Defensive Midfield,"May 30, 1989 (28)",NA,NA,Spain,Athletic Bilbao,LaLiga,2017/2018,2017
+8,Defensive Midfield,"Mar 8, 1989 (28)",NA,NA,Spain,Athletic Bilbao,LaLiga,2017/2018,2017
+21,Defensive Midfield,"Apr 8, 1993 (24)",NA,NA,Spain,Athletic Bilbao,LaLiga,2017/2018,2017
+7,Central Midfield,"Feb 19, 1987 (30)",NA,NA,Spain,Athletic Bilbao,LaLiga,2017/2018,2017
+17,Central Midfield,"Nov 4, 1984 (32)",NA,NA,Spain,Athletic Bilbao,LaLiga,2017/2018,2017
+NA,Central Midfield,"Oct 26, 1999 (17)",NA,NA,Spain,Athletic Bilbao,LaLiga,2017/2018,2017
+22,Attacking Midfield,"Jul 11, 1986 (30)",NA,NA,Spain,Athletic Bilbao,LaLiga,2017/2018,2017
+NA,Attacking Midfield,"Dec 30, 1993 (23)",NA,NA,Spain,Athletic Bilbao,LaLiga,2017/2018,2017
+10,Left Winger,"Dec 19, 1992 (24)",NA,NA,Spain,Athletic Bilbao,LaLiga,2017/2018,2017
+19,Left Winger,"Jan 4, 1992 (25)",NA,NA,Spain,Athletic Bilbao,LaLiga,2017/2018,2017
+28,Left Winger,"Mar 13, 1997 (20)",NA,NA,Spain,Athletic Bilbao,LaLiga,2017/2018,2017
+14,Right Winger,"Dec 14, 1987 (29)",NA,NA,Spain,Athletic Bilbao,LaLiga,2017/2018,2017
+NA,Right Winger,"Dec 16, 1996 (20)",NA,NA,Spain,Athletic Bilbao,LaLiga,2017/2018,2017
+11,Centre-Forward,"Jun 15, 1994 (23)",NA,NA,Spain,Athletic Bilbao,LaLiga,2017/2018,2017
+20,Centre-Forward,"Feb 11, 1981 (36)",NA,NA,Spain,Athletic Bilbao,LaLiga,2017/2018,2017
+9,Centre-Forward,"Feb 25, 1986 (31)",NA,NA,Spain,Athletic Bilbao,LaLiga,2017/2018,2017
+1,Goalkeeper,"May 20, 1992 (25)",NA,NA,Argentina,Real Sociedad,LaLiga,2017/2018,2017
+25,Goalkeeper,"Apr 2, 1984 (33)",NA,NA,Spain,Real Sociedad,LaLiga,2017/2018,2017
+13,Goalkeeper,"Nov 23, 1986 (30)",NA,NA,Spain,Real Sociedad,LaLiga,2017/2018,2017
+NA,Goalkeeper,"Dec 4, 1996 (20)",NA,NA,Spain,Real Sociedad,LaLiga,2017/2018,2017
+NA,Centre-Back,"May 17, 1991 (26)",NA,NA,Spain,Real Sociedad,LaLiga,2017/2018,2017
+6,Centre-Back,"Jan 17, 1988 (29)",NA,NA,Mexico,Real Sociedad,LaLiga,2017/2018,2017
+3,Centre-Back,"Aug 16, 1993 (23)",NA,NA,Spain,Real Sociedad,LaLiga,2017/2018,2017
+22,Centre-Back,"May 11, 1988 (29)",NA,NA,Spain,Real Sociedad,LaLiga,2017/2018,2017
+15,Centre-Back,"Mar 28, 1994 (23)",NA,NA,Spain,Real Sociedad,LaLiga,2017/2018,2017
+24,Left-Back,"Dec 2, 1985 (31)",NA,NA,Spain,Real Sociedad,LaLiga,2017/2018,2017
+20,Left-Back,"Mar 5, 1994 (23)",NA,NA,Portugal,Real Sociedad,LaLiga,2017/2018,2017
+19,Right-Back,"Dec 14, 1995 (21)",NA,NA,Spain,Real Sociedad,LaLiga,2017/2018,2017
+2,Right-Back,"Apr 9, 1986 (31)",NA,NA,Spain,Real Sociedad,LaLiga,2017/2018,2017
+NA,Right-Back,"Aug 4, 1996 (20)",NA,NA,Spain,Real Sociedad,LaLiga,2017/2018,2017
+4,Defensive Midfield,"Mar 8, 1990 (27)",NA,NA,Spain,Real Sociedad,LaLiga,2017/2018,2017
+5,Defensive Midfield,"Mar 30, 1997 (20)",NA,NA,Spain,Real Sociedad,LaLiga,2017/2018,2017
+14,Central Midfield,"Oct 22, 1992 (24)",NA,NA,Spain,Real Sociedad,LaLiga,2017/2018,2017
+10,Central Midfield,"Aug 29, 1983 (33)",NA,NA,Spain,Real Sociedad,LaLiga,2017/2018,2017
+17,Central Midfield,"Jul 19, 1986 (30)",NA,NA,Spain,Real Sociedad,LaLiga,2017/2018,2017
+23,Central Midfield,"Feb 28, 1995 (22)",NA,NA,Spain,Real Sociedad,LaLiga,2017/2018,2017
+NA,Central Midfield,"Jul 7, 1997 (19)",NA,NA,Spain,Real Sociedad,LaLiga,2017/2018,2017
+16,Attacking Midfield,"Feb 16, 1991 (26)",NA,NA,Spain,Real Sociedad,LaLiga,2017/2018,2017
+18,Left Winger,"Apr 21, 1997 (20)",NA,NA,Spain,Real Sociedad,LaLiga,2017/2018,2017
+NA,Right Winger,"Mar 1, 1989 (28)",NA,NA,Mexico,Real Sociedad,LaLiga,2017/2018,2017
+7,Right Winger,"May 20, 1993 (24)",NA,NA,Spain,Real Sociedad,LaLiga,2017/2018,2017
+8,Right Winger,"Feb 5, 1995 (22)",NA,NA,Belgium,Real Sociedad,LaLiga,2017/2018,2017
+NA,Right Winger,"Nov 20, 1996 (20)",NA,NA,Spain,Real Sociedad,LaLiga,2017/2018,2017
+12,Centre-Forward,"Nov 23, 1991 (25)",NA,NA,Brazil,Real Sociedad,LaLiga,2017/2018,2017
+21,Centre-Forward,"Jul 3, 1995 (21)",NA,NA,Spain,Real Sociedad,LaLiga,2017/2018,2017
+9,Centre-Forward,"Feb 24, 1987 (30)",NA,NA,Spain,Real Sociedad,LaLiga,2017/2018,2017
+13,Goalkeeper,"Mar 27, 1990 (27)",NA,NA,Argentina,UD Las Palmas,LaLiga,2017/2018,2017
+1,Goalkeeper,"Jan 27, 1991 (26)",NA,NA,Spain,UD Las Palmas,LaLiga,2017/2018,2017
+NA,Goalkeeper,"Feb 10, 1997 (20)",NA,NA,Spain,UD Las Palmas,LaLiga,2017/2018,2017
+NA,Centre-Back,"Dec 28, 1995 (21)",NA,NA,Uruguay,UD Las Palmas,LaLiga,2017/2018,2017
+17,Centre-Back,"May 15, 1990 (27)",NA,NA,Spain,UD Las Palmas,LaLiga,2017/2018,2017
+20,Centre-Back,"Jun 6, 1989 (28)",NA,NA,Spain,UD Las Palmas,LaLiga,2017/2018,2017
+22,Centre-Back,"Jan 23, 1990 (27)",NA,NA,Spain,UD Las Palmas,LaLiga,2017/2018,2017
+NA,Centre-Back,"Apr 2, 1986 (31)",NA,NA,Spain,UD Las Palmas,LaLiga,2017/2018,2017
+5,Centre-Back,"Feb 25, 1982 (35)",NA,NA,Spain,UD Las Palmas,LaLiga,2017/2018,2017
+23,Left-Back,"Nov 2, 1987 (29)",NA,NA,Spain,UD Las Palmas,LaLiga,2017/2018,2017
+NA,Left-Back,"Jan 8, 1993 (24)",NA,NA,Spain,UD Las Palmas,LaLiga,2017/2018,2017
+12,Right-Back,"Feb 15, 1990 (27)",NA,NA,Brazil,UD Las Palmas,LaLiga,2017/2018,2017
+3,Right-Back,"Apr 1, 1989 (28)",NA,NA,Uruguay,UD Las Palmas,LaLiga,2017/2018,2017
+2,Right-Back,"Dec 16, 1988 (28)",NA,NA,Spain,UD Las Palmas,LaLiga,2017/2018,2017
+NA,Defensive Midfield,"Jan 20, 1995 (22)",NA,NA,Spain,UD Las Palmas,LaLiga,2017/2018,2017
+4,Defensive Midfield,"Aug 31, 1988 (28)",NA,NA,Spain,UD Las Palmas,LaLiga,2017/2018,2017
+18,Defensive Midfield,"Nov 2, 1987 (29)",NA,NA,Spain,UD Las Palmas,LaLiga,2017/2018,2017
+7,Central Midfield,"Sep 23, 1984 (32)",NA,NA,Argentina,UD Las Palmas,LaLiga,2017/2018,2017
+6,Central Midfield,"Nov 9, 1995 (21)",NA,NA,Nigeria,UD Las Palmas,LaLiga,2017/2018,2017
+25,Central Midfield,"Jul 7, 1984 (32)",NA,NA,Italy,UD Las Palmas,LaLiga,2017/2018,2017
+NA,Central Midfield,"Aug 26, 1990 (26)",NA,NA,Spain,UD Las Palmas,LaLiga,2017/2018,2017
+NA,Central Midfield,"Feb 12, 1997 (20)",NA,NA,Spain,UD Las Palmas,LaLiga,2017/2018,2017
+NA,Attacking Midfield,"Oct 21, 1989 (27)",NA,NA,Spain,UD Las Palmas,LaLiga,2017/2018,2017
+8,Attacking Midfield,"Jun 18, 1996 (21)",NA,NA,Croatia,UD Las Palmas,LaLiga,2017/2018,2017
+24,Attacking Midfield,"Sep 20, 1990 (26)",NA,NA,Spain,UD Las Palmas,LaLiga,2017/2018,2017
+NA,Attacking Midfield,"Jul 11, 1995 (21)",NA,NA,Spain,UD Las Palmas,LaLiga,2017/2018,2017
+NA,Left Winger,"Nov 2, 1989 (27)",NA,NA,Spain,UD Las Palmas,LaLiga,2017/2018,2017
+19,Left Winger,"Jan 17, 1996 (21)",NA,NA,Argentina,UD Las Palmas,LaLiga,2017/2018,2017
+16,Left Winger,"Jul 11, 1993 (23)",NA,NA,Spain,UD Las Palmas,LaLiga,2017/2018,2017
+15,Left Winger,"Sep 9, 1995 (21)",NA,NA,Spain,UD Las Palmas,LaLiga,2017/2018,2017
+11,Left Winger,"Jul 15, 1982 (34)",NA,NA,Spain,UD Las Palmas,LaLiga,2017/2018,2017
+NA,Right Winger,"Mar 23, 1994 (23)",NA,NA,Morocco,UD Las Palmas,LaLiga,2017/2018,2017
+NA,Centre-Forward,"Jan 2, 1987 (30)",NA,NA,France,UD Las Palmas,LaLiga,2017/2018,2017
+9,Centre-Forward,"Sep 23, 1993 (23)",NA,NA,Argentina,UD Las Palmas,LaLiga,2017/2018,2017
+10,Centre-Forward,"May 10, 1987 (30)",NA,NA,Nigeria,UD Las Palmas,LaLiga,2017/2018,2017
+14,Centre-Forward,"Oct 24, 1993 (23)",NA,NA,Nigeria,UD Las Palmas,LaLiga,2017/2018,2017
+NA,Centre-Forward,"Jan 28, 1992 (25)",NA,NA,Argentina,UD Las Palmas,LaLiga,2017/2018,2017
+NA,Centre-Forward,"Jun 23, 1996 (21)",NA,NA,Spain,UD Las Palmas,LaLiga,2017/2018,2017
+1,Goalkeeper,"Aug 3, 1986 (30)",NA,NA,Spain,Celta de Vigo,LaLiga,2017/2018,2017
+13,Goalkeeper,"Jul 25, 1995 (21)",NA,NA,Spain,Celta de Vigo,LaLiga,2017/2018,2017
+NA,Goalkeeper,"Jul 9, 1997 (19)",NA,NA,Spain,Celta de Vigo,LaLiga,2017/2018,2017
+NA,Goalkeeper,"May 21, 1993 (24)",NA,NA,Spain,Celta de Vigo,LaLiga,2017/2018,2017
+NA,Goalkeeper,"May 7, 1999 (18)",NA,NA,Spain,Celta de Vigo,LaLiga,2017/2018,2017
+20,Centre-Back,"Mar 28, 1992 (25)",NA,NA,Spain,Celta de Vigo,LaLiga,2017/2018,2017
+24,Centre-Back,"Feb 10, 1987 (30)",NA,NA,Argentina,Celta de Vigo,LaLiga,2017/2018,2017
+22,Centre-Back,"Oct 14, 1985 (31)",NA,NA,Argentina,Celta de Vigo,LaLiga,2017/2018,2017
+3,Centre-Back,"Nov 14, 1989 (27)",NA,NA,Spain,Celta de Vigo,LaLiga,2017/2018,2017
+NA,Centre-Back,"Aug 25, 1997 (19)",NA,NA,Spain,Celta de Vigo,LaLiga,2017/2018,2017
+19,Left-Back,"Mar 3, 1994 (23)",NA,NA,Spain,Celta de Vigo,LaLiga,2017/2018,2017
+15,Left-Back,"Feb 9, 1994 (23)",NA,NA,Slovakia,Celta de Vigo,LaLiga,2017/2018,2017
+NA,Left-Back,"Mar 15, 2000 (17)",NA,NA,Spain,Celta de Vigo,LaLiga,2017/2018,2017
+2,Right-Back,"Jun 22, 1991 (26)",NA,NA,Spain,Celta de Vigo,LaLiga,2017/2018,2017
+6,Defensive Midfield,"Feb 6, 1993 (24)",NA,NA,Serbia,Celta de Vigo,LaLiga,2017/2018,2017
+14,Defensive Midfield,"Nov 25, 1994 (22)",NA,NA,Slovakia,Celta de Vigo,LaLiga,2017/2018,2017
+18,Central Midfield,"May 31, 1989 (28)",NA,NA,Denmark,Celta de Vigo,LaLiga,2017/2018,2017
+8,Central Midfield,"Oct 24, 1986 (30)",NA,NA,Chile,Celta de Vigo,LaLiga,2017/2018,2017
+16,Central Midfield,"Mar 8, 1991 (26)",NA,NA,Spain,Celta de Vigo,LaLiga,2017/2018,2017
+NA,Central Midfield,"Mar 14, 1996 (21)",NA,NA,Spain,Celta de Vigo,LaLiga,2017/2018,2017
+7,Left Winger,"Jul 24, 1997 (19)",NA,NA,Turkey,Celta de Vigo,LaLiga,2017/2018,2017
+11,Left Winger,"Feb 4, 1995 (22)",NA,NA,Denmark,Celta de Vigo,LaLiga,2017/2018,2017
+9,Left Winger,"Feb 28, 1996 (21)",NA,NA,Argentina,Celta de Vigo,LaLiga,2017/2018,2017
+NA,Left Winger,"Sep 26, 1995 (21)",NA,NA,Serbia,Celta de Vigo,LaLiga,2017/2018,2017
+NA,Left Winger,"Sep 27, 1996 (20)",NA,NA,Spain,Celta de Vigo,LaLiga,2017/2018,2017
+NA,Right Winger,"Apr 16, 1988 (29)",NA,NA,Guadeloupe,Celta de Vigo,LaLiga,2017/2018,2017
+NA,Right Winger,"Jan 15, 1995 (22)",NA,NA,Denmark,Celta de Vigo,LaLiga,2017/2018,2017
+23,Right Winger,"Jan 7, 1997 (20)",NA,NA,Spain,Celta de Vigo,LaLiga,2017/2018,2017
+10,Centre-Forward,"Aug 1, 1987 (29)",NA,NA,Spain,Celta de Vigo,LaLiga,2017/2018,2017
+NA,Centre-Forward,"Apr 15, 1992 (25)",NA,NA,Sweden,Celta de Vigo,LaLiga,2017/2018,2017
+9,Centre-Forward,"Aug 14, 1996 (20)",NA,NA,Uruguay,Celta de Vigo,LaLiga,2017/2018,2017
+NA,Centre-Forward,"Jan 9, 1997 (20)",NA,NA,Germany,Celta de Vigo,LaLiga,2017/2018,2017
+13,Goalkeeper,"May 13, 1987 (30)",NA,NA,Spain,Real Betis Balompié,LaLiga,2017/2018,2017
+1,Goalkeeper,"Jul 30, 1983 (33)",NA,NA,Spain,Real Betis Balompié,LaLiga,2017/2018,2017
+NA,Goalkeeper,"Jan 21, 1995 (22)",NA,NA,Spain,Real Betis Balompié,LaLiga,2017/2018,2017
+NA,Goalkeeper,"Dec 10, 1999 (17)",NA,NA,Spain,Real Betis Balompié,LaLiga,2017/2018,2017
+15,Centre-Back,"Jan 15, 1991 (26)",NA,NA,Spain,Real Betis Balompié,LaLiga,2017/2018,2017
+23,Centre-Back,"Oct 22, 1991 (25)",NA,NA,Algeria,Real Betis Balompié,LaLiga,2017/2018,2017
+4,Centre-Back,"Dec 23, 1989 (27)",NA,NA,Morocco,Real Betis Balompié,LaLiga,2017/2018,2017
+5,Centre-Back,"Mar 21, 1992 (25)",NA,NA,Spain,Real Betis Balompié,LaLiga,2017/2018,2017
+14,Left-Back,"Jan 8, 1994 (23)",NA,NA,Denmark,Real Betis Balompié,LaLiga,2017/2018,2017
+NA,Left-Back,"Mar 14, 1992 (25)",NA,NA,Romania,Real Betis Balompié,LaLiga,2017/2018,2017
+NA,Left-Back,"Jun 23, 1997 (20)",NA,NA,Spain,Real Betis Balompié,LaLiga,2017/2018,2017
+28,Left-Back,"Aug 22, 1996 (20)",NA,NA,Spain,Real Betis Balompié,LaLiga,2017/2018,2017
+19,Right-Back,"Jun 12, 1987 (30)",NA,NA,Spain,Real Betis Balompié,LaLiga,2017/2018,2017
+2,Right-Back,"Feb 23, 1994 (23)",NA,NA,Spain,Real Betis Balompié,LaLiga,2017/2018,2017
+27,Right-Back,"Mar 11, 1996 (21)",NA,NA,Spain,Real Betis Balompié,LaLiga,2017/2018,2017
+3,Defensive Midfield,"Feb 8, 1987 (30)",NA,NA,Spain,Real Betis Balompié,LaLiga,2017/2018,2017
+18,Central Midfield,"Sep 28, 1986 (30)",NA,NA,Mexico,Real Betis Balompié,LaLiga,2017/2018,2017
+8,Central Midfield,"May 28, 1994 (23)",NA,NA,Spain,Real Betis Balompié,LaLiga,2017/2018,2017
+6,Central Midfield,"Apr 3, 1996 (21)",NA,NA,Spain,Real Betis Balompié,LaLiga,2017/2018,2017
+NA,Central Midfield,"Feb 10, 1998 (19)",NA,NA,Spain,Real Betis Balompié,LaLiga,2017/2018,2017
+10,Attacking Midfield,"Feb 19, 1990 (27)",NA,NA,Algeria,Real Betis Balompié,LaLiga,2017/2018,2017
+20,Left Winger,"Aug 11, 1991 (25)",NA,NA,Spain,Real Betis Balompié,LaLiga,2017/2018,2017
+NA,Left Winger,"Nov 22, 1996 (20)",NA,NA,Spain,Real Betis Balompié,LaLiga,2017/2018,2017
+NA,Left Winger,"Feb 12, 1995 (22)",NA,NA,Colombia,Real Betis Balompié,LaLiga,2017/2018,2017
+12,Right Winger,"Jun 26, 1992 (25)",NA,NA,Costa Rica,Real Betis Balompié,LaLiga,2017/2018,2017
+17,Right Winger,"Jul 21, 1981 (35)",NA,NA,Spain,Real Betis Balompié,LaLiga,2017/2018,2017
+NA,Right Winger,"Mar 22, 1996 (21)",NA,NA,Spain,Real Betis Balompié,LaLiga,2017/2018,2017
+9,Centre-Forward,"Mar 4, 1996 (21)",NA,NA,Paraguay,Real Betis Balompié,LaLiga,2017/2018,2017
+7,Centre-Forward,"Jan 6, 1989 (28)",NA,NA,Spain,Real Betis Balompié,LaLiga,2017/2018,2017
+24,Centre-Forward,"Jun 27, 1981 (36)",NA,NA,Spain,Real Betis Balompié,LaLiga,2017/2018,2017
+16,Centre-Forward,"Dec 30, 1993 (23)",NA,NA,Spain,Real Betis Balompié,LaLiga,2017/2018,2017
+NA,Goalkeeper,"Feb 1, 1987 (30)",NA,NA,Romania,Deportivo de La Coruña,LaLiga,2017/2018,2017
+1,Goalkeeper,"Jan 4, 1987 (30)",NA,NA,Poland,Deportivo de La Coruña,LaLiga,2017/2018,2017
+25,Goalkeeper,"Dec 9, 1992 (24)",NA,NA,Ukraine,Deportivo de La Coruña,LaLiga,2017/2018,2017
+13,Goalkeeper,"Jun 22, 1984 (33)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2017/2018,2017
+NA,Goalkeeper,"Oct 28, 1998 (18)",NA,NA,Nigeria,Deportivo de La Coruña,LaLiga,2017/2018,2017
+12,Centre-Back,"Aug 23, 1989 (27)",NA,NA,Brazil,Deportivo de La Coruña,LaLiga,2017/2018,2017
+NA,Centre-Back,"May 1, 1989 (28)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2017/2018,2017
+6,Centre-Back,"Sep 7, 1988 (28)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2017/2018,2017
+24,Centre-Back,"Dec 20, 1991 (25)",NA,NA,Switzerland,Deportivo de La Coruña,LaLiga,2017/2018,2017
+NA,Centre-Back,"Jan 5, 1995 (22)",NA,NA,Cameroon,Deportivo de La Coruña,LaLiga,2017/2018,2017
+NA,Centre-Back,"Jan 1, 1997 (20)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2017/2018,2017
+NA,Centre-Back,"Mar 14, 2000 (17)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2017/2018,2017
+16,Left-Back,"May 5, 1985 (32)",NA,NA,Portugal,Deportivo de La Coruña,LaLiga,2017/2018,2017
+NA,Left-Back,"Nov 9, 1994 (22)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2017/2018,2017
+3,Left-Back,"Jun 25, 1982 (35)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2017/2018,2017
+2,Right-Back,"Sep 11, 1988 (28)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2017/2018,2017
+4,Right-Back,"Dec 14, 1988 (28)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2017/2018,2017
+23,Right-Back,"Jul 28, 1993 (23)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2017/2018,2017
+NA,Right-Back,"Feb 8, 1997 (20)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2017/2018,2017
+20,Defensive Midfield,"Apr 5, 1991 (26)",NA,NA,Brazil,Deportivo de La Coruña,LaLiga,2017/2018,2017
+22,Central Midfield,"May 27, 1988 (29)",NA,NA,Costa Rica,Deportivo de La Coruña,LaLiga,2017/2018,2017
+5,Central Midfield,"Apr 21, 1988 (29)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2017/2018,2017
+17,Central Midfield,"Jul 22, 1998 (18)",NA,NA,Uruguay,Deportivo de La Coruña,LaLiga,2017/2018,2017
+14,Central Midfield,"Jun 6, 1983 (34)",NA,NA,Denmark,Deportivo de La Coruña,LaLiga,2017/2018,2017
+21,Central Midfield,"Aug 27, 1984 (32)",NA,NA,Ghana,Deportivo de La Coruña,LaLiga,2017/2018,2017
+NA,Central Midfield,"Aug 1, 1996 (20)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2017/2018,2017
+15,Left Midfield,"Jan 8, 1988 (29)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2017/2018,2017
+8,Attacking Midfield,"May 20, 1991 (26)",NA,NA,Turkey,Deportivo de La Coruña,LaLiga,2017/2018,2017
+11,Attacking Midfield,"Nov 22, 1992 (24)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2017/2018,2017
+18,Left Winger,"Jan 26, 1996 (21)",NA,NA,Belgium,Deportivo de La Coruña,LaLiga,2017/2018,2017
+19,Left Winger,"Jul 9, 1992 (24)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2017/2018,2017
+NA,Right Winger,"Nov 15, 1987 (29)",NA,NA,Portugal,Deportivo de La Coruña,LaLiga,2017/2018,2017
+9,Right Winger,"Jan 20, 1993 (24)",NA,NA,Argentina,Deportivo de La Coruña,LaLiga,2017/2018,2017
+NA,Right Winger,"Jan 17, 1996 (21)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2017/2018,2017
+7,Centre-Forward,"Sep 10, 1988 (28)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2017/2018,2017
+10,Centre-Forward,"Apr 11, 1993 (24)",NA,NA,Romania,Deportivo de La Coruña,LaLiga,2017/2018,2017
+1,Goalkeeper,"Feb 10, 1986 (31)",NA,NA,Spain,Málaga CF,LaLiga,2017/2018,2017
+NA,Goalkeeper,"Feb 21, 1988 (29)",NA,NA,Turkey,Málaga CF,LaLiga,2017/2018,2017
+13,Goalkeeper,"Oct 17, 1993 (23)",NA,NA,Spain,Málaga CF,LaLiga,2017/2018,2017
+22,Centre-Back,"May 18, 1988 (29)",NA,NA,France,Málaga CF,LaLiga,2017/2018,2017
+4,Centre-Back,"Apr 14, 1989 (28)",NA,NA,Spain,Málaga CF,LaLiga,2017/2018,2017
+3,Centre-Back,"Jan 28, 1995 (22)",NA,NA,Spain,Málaga CF,LaLiga,2017/2018,2017
+2,Centre-Back,"Sep 28, 1992 (24)",NA,NA,Spain,Málaga CF,LaLiga,2017/2018,2017
+29,Centre-Back,"Jan 23, 1996 (21)",NA,NA,Spain,Málaga CF,LaLiga,2017/2018,2017
+7,Left-Back,"Mar 30, 1990 (27)",NA,NA,Spain,Málaga CF,LaLiga,2017/2018,2017
+15,Left-Back,"Dec 1, 1994 (22)",NA,NA,Uruguay,Málaga CF,LaLiga,2017/2018,2017
+37,Left-Back,"May 27, 1995 (22)",NA,NA,Spain,Málaga CF,LaLiga,2017/2018,2017
+18,Right-Back,"Nov 20, 1988 (28)",NA,NA,Venezuela,Málaga CF,LaLiga,2017/2018,2017
+23,Right-Back,"Jan 28, 1986 (31)",NA,NA,Spain,Málaga CF,LaLiga,2017/2018,2017
+12,Right-Back,"Oct 5, 1990 (26)",NA,NA,Spain,Málaga CF,LaLiga,2017/2018,2017
+35,Right-Back,"Apr 30, 1996 (21)",NA,NA,Spain,Málaga CF,LaLiga,2017/2018,2017
+27,Right-Back,"Jan 28, 1999 (18)",NA,NA,Spain,Málaga CF,LaLiga,2017/2018,2017
+7,Defensive Midfield,"Jun 23, 1984 (33)",NA,NA,Chile,Málaga CF,LaLiga,2017/2018,2017
+25,Defensive Midfield,"May 15, 1984 (33)",NA,NA,Algeria,Málaga CF,LaLiga,2017/2018,2017
+5,Defensive Midfield,"Mar 25, 1995 (22)",NA,NA,Argentina,Málaga CF,LaLiga,2017/2018,2017
+14,Central Midfield,"Jan 11, 1991 (26)",NA,NA,Spain,Málaga CF,LaLiga,2017/2018,2017
+8,Central Midfield,"May 25, 1988 (29)",NA,NA,Spain,Málaga CF,LaLiga,2017/2018,2017
+19,Central Midfield,"Dec 24, 1996 (20)",NA,NA,Argentina,Málaga CF,LaLiga,2017/2018,2017
+6,Central Midfield,"Sep 22, 1987 (29)",NA,NA,Serbia,Málaga CF,LaLiga,2017/2018,2017
+31,Central Midfield,"Aug 24, 1998 (18)",NA,NA,Spain,Málaga CF,LaLiga,2017/2018,2017
+17,Left Winger,"Jan 7, 1996 (21)",NA,NA,Nigeria,Málaga CF,LaLiga,2017/2018,2017
+22,Left Winger,"Jun 17, 1992 (25)",NA,NA,Belgium,Málaga CF,LaLiga,2017/2018,2017
+21,Left Winger,"Jul 9, 1991 (25)",NA,NA,Spain,Málaga CF,LaLiga,2017/2018,2017
+11,Left Winger,"Sep 14, 1984 (32)",NA,NA,Uruguay,Málaga CF,LaLiga,2017/2018,2017
+28,Left Winger,"Jul 23, 1996 (20)",NA,NA,Spain,Málaga CF,LaLiga,2017/2018,2017
+17,Right Winger,"Sep 9, 1997 (19)",NA,NA,Spain,Málaga CF,LaLiga,2017/2018,2017
+20,Right Winger,"Dec 27, 1991 (25)",NA,NA,Spain,Málaga CF,LaLiga,2017/2018,2017
+10,Right Winger,"Jan 24, 1994 (23)",NA,NA,Venezuela,Málaga CF,LaLiga,2017/2018,2017
+21,Right Winger,"Jul 13, 1990 (26)",NA,NA,Spain,Málaga CF,LaLiga,2017/2018,2017
+38,Right Winger,"Apr 25, 2000 (17)",NA,NA,Spain,Málaga CF,LaLiga,2017/2018,2017
+19,Second Striker,"Mar 20, 1988 (29)",NA,NA,Spain,Málaga CF,LaLiga,2017/2018,2017
+9,Centre-Forward,"Aug 25, 1992 (24)",NA,NA,Spain,Málaga CF,LaLiga,2017/2018,2017
+24,Centre-Forward,"Mar 24, 1993 (24)",NA,NA,Uruguay,Málaga CF,LaLiga,2017/2018,2017
+12,Centre-Forward,"Oct 10, 1988 (28)",NA,NA,Nigeria,Málaga CF,LaLiga,2017/2018,2017
+16,Centre-Forward,"May 31, 1997 (20)",NA,NA,Venezuela,Málaga CF,LaLiga,2017/2018,2017
+26,Centre-Forward,"Jun 1, 1997 (20)",NA,NA,Morocco,Málaga CF,LaLiga,2017/2018,2017
+1,Goalkeeper,"Dec 13, 1994 (22)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2017/2018,2017
+13,Goalkeeper,"Nov 3, 1981 (35)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2017/2018,2017
+NA,Goalkeeper,"Jan 9, 1999 (18)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2017/2018,2017
+NA,Goalkeeper,"Dec 31, 1998 (18)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2017/2018,2017
+15,Centre-Back,"Oct 9, 1989 (27)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2017/2018,2017
+5,Centre-Back,"Aug 25, 1988 (28)",NA,NA,Brazil,RCD Espanyol Barcelona,LaLiga,2017/2018,2017
+6,Centre-Back,"Jun 3, 1989 (28)",NA,NA,Costa Rica,RCD Espanyol Barcelona,LaLiga,2017/2018,2017
+24,Centre-Back,"Apr 3, 1986 (31)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2017/2018,2017
+22,Centre-Back,"Jun 18, 1995 (22)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2017/2018,2017
+3,Left-Back,"Apr 22, 1997 (20)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2017/2018,2017
+12,Left-Back,"Jun 9, 1989 (28)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2017/2018,2017
+16,Right-Back,"Jan 21, 1986 (31)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2017/2018,2017
+2,Right-Back,"Jul 2, 1995 (21)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2017/2018,2017
+8,Defensive Midfield,"Feb 6, 1986 (31)",NA,NA,Colombia,RCD Espanyol Barcelona,LaLiga,2017/2018,2017
+21,Defensive Midfield,"Nov 26, 1996 (20)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2017/2018,2017
+NA,Defensive Midfield,"Mar 19, 1986 (31)",NA,NA,Senegal,RCD Espanyol Barcelona,LaLiga,2017/2018,2017
+NA,Defensive Midfield,"Jan 4, 1984 (33)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2017/2018,2017
+25,Central Midfield,"Dec 22, 1993 (23)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2017/2018,2017
+4,Central Midfield,"Sep 8, 1987 (29)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2017/2018,2017
+23,Central Midfield,"Jul 2, 1987 (29)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2017/2018,2017
+10,Attacking Midfield,"Jun 29, 1986 (31)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2017/2018,2017
+14,Attacking Midfield,"Aug 23, 1997 (19)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2017/2018,2017
+19,Left Winger,"Mar 31, 1989 (28)",NA,NA,Argentina,RCD Espanyol Barcelona,LaLiga,2017/2018,2017
+11,Right Winger,"Aug 26, 1992 (24)",NA,NA,Brazil,RCD Espanyol Barcelona,LaLiga,2017/2018,2017
+NA,Right Winger,"Feb 25, 1989 (28)",NA,NA,Paraguay,RCD Espanyol Barcelona,LaLiga,2017/2018,2017
+7,Centre-Forward,"Apr 7, 1992 (25)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2017/2018,2017
+9,Centre-Forward,"Jun 9, 1983 (34)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2017/2018,2017
+NA,Centre-Forward,"Apr 27, 1991 (26)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2017/2018,2017
+20,Centre-Forward,"Jul 2, 1993 (23)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2017/2018,2017
+1,Goalkeeper,"Aug 28, 1988 (28)",NA,NA,Spain,SD Eibar,LaLiga,2017/2018,2017
+13,Goalkeeper,"Oct 6, 1983 (33)",NA,NA,Spain,SD Eibar,LaLiga,2017/2018,2017
+25,Goalkeeper,"Jan 24, 1992 (25)",NA,NA,Serbia,SD Eibar,LaLiga,2017/2018,2017
+NA,Goalkeeper,"Sep 7, 1996 (20)",NA,NA,Spain,SD Eibar,LaLiga,2017/2018,2017
+12,Centre-Back,"Jan 8, 1992 (25)",NA,NA,Portugal,SD Eibar,LaLiga,2017/2018,2017
+NA,Centre-Back,"Jun 6, 1989 (28)",NA,NA,Spain,SD Eibar,LaLiga,2017/2018,2017
+22,Centre-Back,"Jun 5, 1987 (30)",NA,NA,Spain,SD Eibar,LaLiga,2017/2018,2017
+18,Centre-Back,"May 15, 1987 (30)",NA,NA,Spain,SD Eibar,LaLiga,2017/2018,2017
+6,Centre-Back,"May 17, 1996 (21)",NA,NA,Serbia,SD Eibar,LaLiga,2017/2018,2017
+4,Centre-Back,"Oct 25, 1984 (32)",NA,NA,Spain,SD Eibar,LaLiga,2017/2018,2017
+15,Left-Back,"Sep 5, 1989 (27)",NA,NA,Spain,SD Eibar,LaLiga,2017/2018,2017
+23,Left-Back,"Nov 16, 1993 (23)",NA,NA,Spain,SD Eibar,LaLiga,2017/2018,2017
+NA,Left-Back,"Jul 20, 1995 (21)",NA,NA,Spain,SD Eibar,LaLiga,2017/2018,2017
+7,Right-Back,"Feb 8, 1992 (25)",NA,NA,Spain,SD Eibar,LaLiga,2017/2018,2017
+11,Right-Back,"Jul 18, 1991 (25)",NA,NA,Spain,SD Eibar,LaLiga,2017/2018,2017
+3,Defensive Midfield,"Mar 19, 1986 (31)",NA,NA,Senegal,SD Eibar,LaLiga,2017/2018,2017
+5,Central Midfield,"Mar 27, 1993 (24)",NA,NA,Argentina,SD Eibar,LaLiga,2017/2018,2017
+14,Central Midfield,"May 24, 1990 (27)",NA,NA,Spain,SD Eibar,LaLiga,2017/2018,2017
+16,Central Midfield,"Aug 3, 1987 (29)",NA,NA,Spain,SD Eibar,LaLiga,2017/2018,2017
+NA,Central Midfield,"Jul 9, 1997 (19)",NA,NA,Spain,SD Eibar,LaLiga,2017/2018,2017
+24,Central Midfield,"Jul 6, 1994 (22)",NA,NA,Spain,SD Eibar,LaLiga,2017/2018,2017
+NA,Central Midfield,"Sep 21, 1995 (21)",NA,NA,Spain,SD Eibar,LaLiga,2017/2018,2017
+NA,Attacking Midfield,"Apr 27, 1995 (22)",NA,NA,Spain,SD Eibar,LaLiga,2017/2018,2017
+8,Left Winger,"Jun 2, 1988 (29)",NA,NA,Japan,SD Eibar,LaLiga,2017/2018,2017
+NA,Left Winger,"Jul 12, 1990 (26)",NA,NA,Portugal,SD Eibar,LaLiga,2017/2018,2017
+NA,Left Winger,"Feb 7, 1997 (20)",NA,NA,Spain,SD Eibar,LaLiga,2017/2018,2017
+21,Right Winger,"Nov 24, 1986 (30)",NA,NA,Spain,SD Eibar,LaLiga,2017/2018,2017
+2,Right Winger,"Jan 27, 1986 (31)",NA,NA,Chile,SD Eibar,LaLiga,2017/2018,2017
+20,Right Winger,"Feb 10, 1995 (22)",NA,NA,Spain,SD Eibar,LaLiga,2017/2018,2017
+9,Centre-Forward,"Feb 26, 1990 (27)",NA,NA,Spain,SD Eibar,LaLiga,2017/2018,2017
+17,Centre-Forward,"Nov 25, 1989 (27)",NA,NA,Spain,SD Eibar,LaLiga,2017/2018,2017
+19,Centre-Forward,"Apr 4, 1984 (33)",NA,NA,Brazil,SD Eibar,LaLiga,2017/2018,2017
+NA,Centre-Forward,"Sep 30, 1996 (20)",NA,NA,Spain,SD Eibar,LaLiga,2017/2018,2017
+1,Goalkeeper,"May 18, 1992 (25)",NA,NA,Spain,Deportivo Alavés,LaLiga,2017/2018,2017
+13,Goalkeeper,"Aug 11, 1996 (20)",NA,NA,Spain,Deportivo Alavés,LaLiga,2017/2018,2017
+NA,Goalkeeper,"Oct 10, 1995 (21)",NA,NA,Spain,Deportivo Alavés,LaLiga,2017/2018,2017
+NA,Goalkeeper,"May 20, 1998 (19)",NA,NA,Spain,Deportivo Alavés,LaLiga,2017/2018,2017
+5,Centre-Back,"Nov 5, 1989 (27)",NA,NA,Spain,Deportivo Alavés,LaLiga,2017/2018,2017
+12,Centre-Back,"Nov 3, 1993 (23)",NA,NA,Brazil,Deportivo Alavés,LaLiga,2017/2018,2017
+4,Centre-Back,"Aug 4, 1985 (31)",NA,NA,Spain,Deportivo Alavés,LaLiga,2017/2018,2017
+6,Centre-Back,"May 6, 1994 (23)",NA,NA,Chile,Deportivo Alavés,LaLiga,2017/2018,2017
+26,Centre-Back,"Feb 4, 1996 (21)",NA,NA,Spain,Deportivo Alavés,LaLiga,2017/2018,2017
+3,Left-Back,"Oct 18, 1995 (21)",NA,NA,Spain,Deportivo Alavés,LaLiga,2017/2018,2017
+17,Left-Back,"Apr 9, 1996 (21)",NA,NA,Spain,Deportivo Alavés,LaLiga,2017/2018,2017
+20,Left-Back,"May 23, 1991 (26)",NA,NA,Spain,Deportivo Alavés,LaLiga,2017/2018,2017
+2,Right-Back,"Sep 7, 1994 (22)",NA,NA,Spain,Deportivo Alavés,LaLiga,2017/2018,2017
+NA,Right-Back,"May 10, 1996 (21)",NA,NA,Spain,Deportivo Alavés,LaLiga,2017/2018,2017
+16,Defensive Midfield,"Nov 15, 1989 (27)",NA,NA,Colombia,Deportivo Alavés,LaLiga,2017/2018,2017
+23,Central Midfield,"Mar 15, 1994 (23)",NA,NA,Spain,Deportivo Alavés,LaLiga,2017/2018,2017
+18,Central Midfield,"Oct 14, 1987 (29)",NA,NA,Spain,Deportivo Alavés,LaLiga,2017/2018,2017
+19,Central Midfield,"Apr 26, 1986 (31)",NA,NA,Spain,Deportivo Alavés,LaLiga,2017/2018,2017
+22,Central Midfield,"Jul 25, 1990 (26)",NA,NA,Ghana,Deportivo Alavés,LaLiga,2017/2018,2017
+NA,Central Midfield,"May 22, 1994 (23)",NA,NA,Spain,Deportivo Alavés,LaLiga,2017/2018,2017
+NA,Attacking Midfield,"Jul 4, 1992 (24)",NA,NA,Paraguay,Deportivo Alavés,LaLiga,2017/2018,2017
+NA,Attacking Midfield,"Mar 24, 1995 (22)",NA,NA,France,Deportivo Alavés,LaLiga,2017/2018,2017
+NA,Left Winger,"Feb 6, 1991 (26)",NA,NA,Serbia,Deportivo Alavés,LaLiga,2017/2018,2017
+14,Left Winger,"Oct 29, 1993 (23)",NA,NA,Spain,Deportivo Alavés,LaLiga,2017/2018,2017
+21,Right Winger,"Feb 25, 1989 (28)",NA,NA,Paraguay,Deportivo Alavés,LaLiga,2017/2018,2017
+11,Right Winger,"Nov 11, 1989 (27)",NA,NA,Spain,Deportivo Alavés,LaLiga,2017/2018,2017
+NA,Right Winger,"May 12, 1997 (20)",NA,NA,Spain,Deportivo Alavés,LaLiga,2017/2018,2017
+15,Second Striker,"Aug 28, 1990 (26)",NA,NA,Spain,Deportivo Alavés,LaLiga,2017/2018,2017
+24,Centre-Forward,"Sep 1, 1995 (21)",NA,NA,Spain,Deportivo Alavés,LaLiga,2017/2018,2017
+10,Centre-Forward,"Apr 15, 1992 (25)",NA,NA,Sweden,Deportivo Alavés,LaLiga,2017/2018,2017
+9,Centre-Forward,"Mar 24, 1988 (29)",NA,NA,Venezuela,Deportivo Alavés,LaLiga,2017/2018,2017
+7,Centre-Forward,"Jun 1, 1992 (25)",NA,NA,Spain,Deportivo Alavés,LaLiga,2017/2018,2017
+29,Centre-Forward,"Mar 25, 1998 (19)",NA,NA,Bosnia-Herzegovina,Deportivo Alavés,LaLiga,2017/2018,2017
+NA,Goalkeeper,"Mar 13, 1988 (29)",NA,NA,Spain,Levante UD,LaLiga,2017/2018,2017
+NA,Goalkeeper,"Aug 22, 1988 (28)",NA,NA,Australia,Levante UD,LaLiga,2017/2018,2017
+13,Goalkeeper,"Sep 14, 1989 (27)",NA,NA,Spain,Levante UD,LaLiga,2017/2018,2017
+1,Goalkeeper,"Jul 9, 1997 (19)",NA,NA,Spain,Levante UD,LaLiga,2017/2018,2017
+27,Goalkeeper,"Sep 27, 1995 (21)",NA,NA,Spain,Levante UD,LaLiga,2017/2018,2017
+6,Centre-Back,"Mar 3, 1992 (25)",NA,NA,Spain,Levante UD,LaLiga,2017/2018,2017
+15,Centre-Back,"Nov 4, 1988 (28)",NA,NA,Spain,Levante UD,LaLiga,2017/2018,2017
+18,Centre-Back,"Apr 19, 1995 (22)",NA,NA,Uruguay,Levante UD,LaLiga,2017/2018,2017
+4,Centre-Back,"Feb 16, 1995 (22)",NA,NA,Spain,Levante UD,LaLiga,2017/2018,2017
+22,Left-Back,"Mar 17, 1991 (26)",NA,NA,Spain,Levante UD,LaLiga,2017/2018,2017
+3,Left-Back,"Nov 7, 1989 (27)",NA,NA,Spain,Levante UD,LaLiga,2017/2018,2017
+NA,Left-Back,"Dec 11, 1997 (19)",NA,NA,Mauritania,Levante UD,LaLiga,2017/2018,2017
+12,Right-Back,"Apr 26, 1987 (30)",NA,NA,Spain,Levante UD,LaLiga,2017/2018,2017
+2,Right-Back,"Aug 23, 1993 (23)",NA,NA,Spain,Levante UD,LaLiga,2017/2018,2017
+19,Right-Back,"Nov 1, 1983 (33)",NA,NA,Spain,Levante UD,LaLiga,2017/2018,2017
+26,Right-Back,"Nov 2, 1996 (20)",NA,NA,United States,Levante UD,LaLiga,2017/2018,2017
+8,Defensive Midfield,"Oct 25, 1994 (22)",NA,NA,Colombia,Levante UD,LaLiga,2017/2018,2017
+5,Defensive Midfield,"Sep 11, 1992 (24)",NA,NA,Cote d'Ivoire,Levante UD,LaLiga,2017/2018,2017
+24,Central Midfield,"May 31, 1993 (24)",NA,NA,Spain,Levante UD,LaLiga,2017/2018,2017
+20,Central Midfield,"Aug 13, 1996 (20)",NA,NA,Serbia,Levante UD,LaLiga,2017/2018,2017
+NA,Central Midfield,"Sep 29, 1986 (30)",NA,NA,Spain,Levante UD,LaLiga,2017/2018,2017
+10,Central Midfield,"Jul 2, 1995 (21)",NA,NA,North Macedonia,Levante UD,LaLiga,2017/2018,2017
+NA,Central Midfield,"Dec 31, 1997 (19)",NA,NA,Mauritania,Levante UD,LaLiga,2017/2018,2017
+NA,Central Midfield,"Jan 1, 1999 (18)",NA,NA,Cote d'Ivoire,Levante UD,LaLiga,2017/2018,2017
+16,Attacking Midfield,"Mar 23, 1991 (26)",NA,NA,Spain,Levante UD,LaLiga,2017/2018,2017
+25,Right Winger,"Sep 14, 1994 (22)",NA,NA,Saudi Arabia,Levante UD,LaLiga,2017/2018,2017
+NA,Right Winger,"Jul 13, 1990 (26)",NA,NA,Spain,Levante UD,LaLiga,2017/2018,2017
+14,Right Winger,"Jun 29, 1994 (23)",NA,NA,Spain,Levante UD,LaLiga,2017/2018,2017
+23,Right Winger,"Jul 6, 1994 (22)",NA,NA,Spain,Levante UD,LaLiga,2017/2018,2017
+NA,Centre-Forward,"May 10, 1997 (20)",NA,NA,Turkey,Levante UD,LaLiga,2017/2018,2017
+9,Centre-Forward,"Jan 3, 1991 (26)",NA,NA,Spain,Levante UD,LaLiga,2017/2018,2017
+NA,Centre-Forward,"Oct 14, 1992 (24)",NA,NA,Spain,Levante UD,LaLiga,2017/2018,2017
+11,Centre-Forward,"Jul 23, 1987 (29)",NA,NA,Spain,Levante UD,LaLiga,2017/2018,2017
+17,Centre-Forward,"Aug 2, 1984 (32)",NA,NA,Italy,Levante UD,LaLiga,2017/2018,2017
+21,Centre-Forward,"May 23, 1996 (21)",NA,NA,Ghana,Levante UD,LaLiga,2017/2018,2017
+7,Centre-Forward,"May 27, 1991 (26)",NA,NA,Albania,Levante UD,LaLiga,2017/2018,2017
+NA,Centre-Forward,"Feb 5, 1995 (22)",NA,NA,Spain,Levante UD,LaLiga,2017/2018,2017
+25,Goalkeeper,"Oct 24, 1989 (27)",NA,NA,Spain,CD Leganés,LaLiga,2017/2018,2017
+1,Goalkeeper,"May 25, 1984 (33)",NA,NA,Spain,CD Leganés,LaLiga,2017/2018,2017
+13,Goalkeeper,"Jan 20, 1985 (32)",NA,NA,Argentina,CD Leganés,LaLiga,2017/2018,2017
+NA,Defender,"Apr 7, 1996 (21)",NA,NA,Spain,CD Leganés,LaLiga,2017/2018,2017
+19,Centre-Back,"Oct 8, 1990 (26)",NA,NA,Argentina,CD Leganés,LaLiga,2017/2018,2017
+16,Centre-Back,"Jul 7, 1989 (27)",NA,NA,Argentina,CD Leganés,LaLiga,2017/2018,2017
+22,Centre-Back,"Sep 16, 1988 (28)",NA,NA,Greece,CD Leganés,LaLiga,2017/2018,2017
+3,Centre-Back,"Feb 2, 1992 (25)",NA,NA,Spain,CD Leganés,LaLiga,2017/2018,2017
+5,Centre-Back,"Jul 7, 1984 (32)",NA,NA,Argentina,CD Leganés,LaLiga,2017/2018,2017
+15,Left-Back,"Feb 23, 1993 (24)",NA,NA,Spain,CD Leganés,LaLiga,2017/2018,2017
+14,Left-Back,"Apr 30, 1989 (28)",NA,NA,Spain,CD Leganés,LaLiga,2017/2018,2017
+2,Right-Back,"Jul 11, 1985 (31)",NA,NA,Spain,CD Leganés,LaLiga,2017/2018,2017
+20,Right-Back,"Jun 24, 1992 (25)",NA,NA,Spain,CD Leganés,LaLiga,2017/2018,2017
+21,Defensive Midfield,"Apr 26, 1989 (28)",NA,NA,Spain,CD Leganés,LaLiga,2017/2018,2017
+NA,Defensive Midfield,"May 25, 1991 (26)",NA,NA,Spain,CD Leganés,LaLiga,2017/2018,2017
+NA,Defensive Midfield,"Mar 18, 1998 (19)",NA,NA,Spain,CD Leganés,LaLiga,2017/2018,2017
+8,Central Midfield,"Sep 18, 1993 (23)",NA,NA,Brazil,CD Leganés,LaLiga,2017/2018,2017
+24,Central Midfield,"Feb 12, 1992 (25)",NA,NA,Serbia,CD Leganés,LaLiga,2017/2018,2017
+6,Central Midfield,"Dec 18, 1994 (22)",NA,NA,Spain,CD Leganés,LaLiga,2017/2018,2017
+NA,Central Midfield,"Apr 1, 1995 (22)",NA,NA,Spain,CD Leganés,LaLiga,2017/2018,2017
+17,Attacking Midfield,"Mar 22, 1990 (27)",NA,NA,Spain,CD Leganés,LaLiga,2017/2018,2017
+11,Left Winger,"Oct 13, 1988 (28)",NA,NA,Argentina,CD Leganés,LaLiga,2017/2018,2017
+7,Left Winger,"Mar 31, 1987 (30)",NA,NA,Morocco,CD Leganés,LaLiga,2017/2018,2017
+18,Left Winger,"Jul 28, 1994 (22)",NA,NA,Spain,CD Leganés,LaLiga,2017/2018,2017
+12,Right Winger,"Apr 16, 1988 (29)",NA,NA,Guadeloupe,CD Leganés,LaLiga,2017/2018,2017
+10,Right Winger,"Aug 27, 1986 (30)",NA,NA,Morocco,CD Leganés,LaLiga,2017/2018,2017
+23,Right Winger,"Jan 26, 1988 (29)",NA,NA,Spain,CD Leganés,LaLiga,2017/2018,2017
+4,Right Winger,"Jun 26, 1990 (27)",NA,NA,Saudi Arabia,CD Leganés,LaLiga,2017/2018,2017
+NA,Right Winger,"Jul 7, 1995 (21)",NA,NA,Spain,CD Leganés,LaLiga,2017/2018,2017
+NA,Right Winger,"Jun 1, 1999 (18)",NA,NA,Brazil,CD Leganés,LaLiga,2017/2018,2017
+9,Centre-Forward,"Jul 12, 1990 (26)",NA,NA,Spain,CD Leganés,LaLiga,2017/2018,2017
+NA,Centre-Forward,"Dec 25, 1991 (25)",NA,NA,Cote d'Ivoire,CD Leganés,LaLiga,2017/2018,2017
+NA,Centre-Forward,"May 23, 1997 (20)",NA,NA,Portugal,CD Leganés,LaLiga,2017/2018,2017
+NA,Centre-Forward,"Jun 18, 1996 (21)",NA,NA,Spain,CD Leganés,LaLiga,2017/2018,2017
+13,Goalkeeper,"Jan 10, 1987 (30)",NA,NA,Spain,Getafe CF,LaLiga,2017/2018,2017
+1,Goalkeeper,"Sep 2, 1992 (24)",NA,NA,Argentina,Getafe CF,LaLiga,2017/2018,2017
+25,Goalkeeper,"Apr 25, 1996 (21)",NA,NA,Serbia,Getafe CF,LaLiga,2017/2018,2017
+4,Centre-Back,"May 24, 1990 (27)",NA,NA,Spain,Getafe CF,LaLiga,2017/2018,2017
+NA,Centre-Back,"Nov 26, 1989 (27)",NA,NA,Spain,Getafe CF,LaLiga,2017/2018,2017
+NA,Centre-Back,"Aug 17, 1988 (28)",NA,NA,Argentina,Getafe CF,LaLiga,2017/2018,2017
+2,Centre-Back,"Dec 31, 1991 (25)",NA,NA,Togo,Getafe CF,LaLiga,2017/2018,2017
+6,Centre-Back,"Jun 17, 1991 (26)",NA,NA,Uruguay,Getafe CF,LaLiga,2017/2018,2017
+NA,Centre-Back,"May 19, 1999 (18)",NA,NA,Spain,Getafe CF,LaLiga,2017/2018,2017
+NA,Centre-Back,"Mar 11, 1998 (19)",NA,NA,Spain,Getafe CF,LaLiga,2017/2018,2017
+3,Left-Back,"Apr 1, 1987 (30)",NA,NA,Portugal,Getafe CF,LaLiga,2017/2018,2017
+17,Left-Back,"Oct 31, 1997 (19)",NA,NA,Uruguay,Getafe CF,LaLiga,2017/2018,2017
+NA,Left-Back,"May 22, 1997 (20)",NA,NA,Spain,Getafe CF,LaLiga,2017/2018,2017
+22,Right-Back,"Apr 27, 1988 (29)",NA,NA,Uruguay,Getafe CF,LaLiga,2017/2018,2017
+15,Right-Back,"Jul 26, 1985 (31)",NA,NA,Spain,Getafe CF,LaLiga,2017/2018,2017
+NA,Midfielder,"Apr 6, 1997 (20)",NA,NA,Ecuador,Getafe CF,LaLiga,2017/2018,2017
+8,Defensive Midfield,"Mar 7, 1984 (33)",NA,NA,France,Getafe CF,LaLiga,2017/2018,2017
+NA,Defensive Midfield,"May 15, 1984 (33)",NA,NA,Algeria,Getafe CF,LaLiga,2017/2018,2017
+5,Defensive Midfield,"May 5, 1986 (31)",NA,NA,Spain,Getafe CF,LaLiga,2017/2018,2017
+10,Central Midfield,"May 28, 1992 (25)",NA,NA,Japan,Getafe CF,LaLiga,2017/2018,2017
+18,Central Midfield,"Sep 30, 1995 (21)",NA,NA,Uruguay,Getafe CF,LaLiga,2017/2018,2017
+14,Central Midfield,"Aug 30, 1979 (37)",NA,NA,Spain,Getafe CF,LaLiga,2017/2018,2017
+NA,Central Midfield,"Sep 19, 1995 (21)",NA,NA,Spain,Getafe CF,LaLiga,2017/2018,2017
+21,Attacking Midfield,"Aug 1, 1988 (28)",NA,NA,Morocco,Getafe CF,LaLiga,2017/2018,2017
+12,Attacking Midfield,"Jun 13, 1990 (27)",NA,NA,Spain,Getafe CF,LaLiga,2017/2018,2017
+NA,Left Winger,"Sep 1, 1989 (27)",NA,NA,Ecuador,Getafe CF,LaLiga,2017/2018,2017
+20,Left Winger,"Jan 5, 1991 (26)",NA,NA,Spain,Getafe CF,LaLiga,2017/2018,2017
+23,Left Winger,"Jul 16, 1996 (20)",NA,NA,Senegal,Getafe CF,LaLiga,2017/2018,2017
+31,Left Winger,"Jul 20, 1998 (18)",NA,NA,Congo,Getafe CF,LaLiga,2017/2018,2017
+7,Right Winger,"May 19, 1995 (22)",NA,NA,Spain,Getafe CF,LaLiga,2017/2018,2017
+NA,Right Winger,"Apr 14, 1995 (22)",NA,NA,Spain,Getafe CF,LaLiga,2017/2018,2017
+11,Centre-Forward,"Jan 2, 1987 (30)",NA,NA,France,Getafe CF,LaLiga,2017/2018,2017
+9,Centre-Forward,"Apr 26, 1987 (30)",NA,NA,Spain,Getafe CF,LaLiga,2017/2018,2017
+NA,Centre-Forward,"Jan 25, 1991 (26)",NA,NA,Spain,Getafe CF,LaLiga,2017/2018,2017
+19,Centre-Forward,"Apr 22, 1982 (35)",NA,NA,Spain,Getafe CF,LaLiga,2017/2018,2017
+NA,Centre-Forward,"Nov 10, 1999 (17)",NA,NA,Spain,Getafe CF,LaLiga,2017/2018,2017
+13,Goalkeeper,"Apr 5, 1991 (26)",NA,NA,Morocco,Girona FC,LaLiga,2017/2018,2017
+1,Goalkeeper,"Mar 6, 1981 (36)",NA,NA,Spain,Girona FC,LaLiga,2017/2018,2017
+NA,Goalkeeper,"Jul 15, 1996 (20)",NA,NA,Poland,Girona FC,LaLiga,2017/2018,2017
+20,Centre-Back,"Mar 27, 1992 (25)",NA,NA,Spain,Girona FC,LaLiga,2017/2018,2017
+2,Centre-Back,"Jul 11, 1989 (27)",NA,NA,Colombia,Girona FC,LaLiga,2017/2018,2017
+4,Centre-Back,"Jun 10, 1993 (24)",NA,NA,Angola,Girona FC,LaLiga,2017/2018,2017
+5,Centre-Back,"Mar 19, 1989 (28)",NA,NA,Spain,Girona FC,LaLiga,2017/2018,2017
+15,Centre-Back,"Apr 30, 1991 (26)",NA,NA,Spain,Girona FC,LaLiga,2017/2018,2017
+NA,Centre-Back,"Dec 17, 1997 (19)",NA,NA,Spain,Girona FC,LaLiga,2017/2018,2017
+21,Left-Back,"Mar 4, 1991 (26)",NA,NA,Spain,Girona FC,LaLiga,2017/2018,2017
+3,Left-Back,"Aug 21, 1992 (24)",NA,NA,Colombia,Girona FC,LaLiga,2017/2018,2017
+11,Left-Back,"Dec 16, 1987 (29)",NA,NA,Spain,Girona FC,LaLiga,2017/2018,2017
+25,Right-Back,"Jul 12, 1997 (19)",NA,NA,Spain,Girona FC,LaLiga,2017/2018,2017
+NA,Right-Back,"Mar 3, 1997 (20)",NA,NA,Uruguay,Girona FC,LaLiga,2017/2018,2017
+NA,Right-Back,"Sep 13, 1999 (17)",NA,NA,Spain,Girona FC,LaLiga,2017/2018,2017
+8,Defensive Midfield,"Feb 20, 1993 (24)",NA,NA,Spain,Girona FC,LaLiga,2017/2018,2017
+16,Defensive Midfield,"Oct 17, 1989 (27)",NA,NA,Spain,Girona FC,LaLiga,2017/2018,2017
+23,Defensive Midfield,"Jun 28, 1997 (20)",NA,NA,Spain,Girona FC,LaLiga,2017/2018,2017
+6,Central Midfield,"Aug 2, 1988 (28)",NA,NA,Spain,Girona FC,LaLiga,2017/2018,2017
+12,Central Midfield,"May 9, 1998 (19)",NA,NA,Brazil,Girona FC,LaLiga,2017/2018,2017
+9,Attacking Midfield,"May 21, 1992 (25)",NA,NA,Spain,Girona FC,LaLiga,2017/2018,2017
+24,Attacking Midfield,"Nov 2, 1990 (26)",NA,NA,Spain,Girona FC,LaLiga,2017/2018,2017
+10,Attacking Midfield,"May 21, 1985 (32)",NA,NA,Spain,Girona FC,LaLiga,2017/2018,2017
+NA,Left Winger,"Sep 20, 1996 (20)",NA,NA,Colombia,Girona FC,LaLiga,2017/2018,2017
+NA,Right Winger,"Feb 25, 1993 (24)",NA,NA,Algeria,Girona FC,LaLiga,2017/2018,2017
+NA,Centre-Forward,"May 8, 1993 (24)",NA,NA,Nigeria,Girona FC,LaLiga,2017/2018,2017
+7,Centre-Forward,"Oct 12, 1986 (30)",NA,NA,Uruguay,Girona FC,LaLiga,2017/2018,2017
+19,Centre-Forward,"Apr 25, 1993 (24)",NA,NA,Honduras,Girona FC,LaLiga,2017/2018,2017
+14,Centre-Forward,"Mar 26, 1994 (23)",NA,NA,Kenya,Girona FC,LaLiga,2017/2018,2017
+NA,Centre-Forward,"Apr 17, 1998 (19)",NA,NA,Cameroon,Girona FC,LaLiga,2017/2018,2017

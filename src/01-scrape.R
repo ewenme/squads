@@ -1,36 +1,45 @@
 
 # setup -------------------------------------------------------------------
 
-# load functions / install packages
-source("./src/10-global.R")
-
-# load packages
-library(rvest)
-library(dplyr)
-library(lubridate)
-library(readr)
-library(purrr)
+# load functions / packages
+source("./src/00-setup.R")
 
 # set league urls to scrape
-league_urls <- c("https://www.transfermarkt.co.uk/premier-league/startseite/wettbewerb/GB1",
-                 "https://www.transfermarkt.co.uk/championship/startseite/wettbewerb/GB2",
-                 "https://www.transfermarkt.co.uk/league-one/startseite/wettbewerb/GB3",
-                 "https://www.transfermarkt.co.uk/league-two/startseite/wettbewerb/GB4",
-                 "https://www.transfermarkt.com/1-bundesliga/startseite/wettbewerb/L1",
-                 "https://www.transfermarkt.com/primera-division/startseite/wettbewerb/ES1",
-                 "https://www.transfermarkt.com/serie-a/startseite/wettbewerb/IT1",
-                 "https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1")
+league_meta <- tibble(
+  league_id = c(
+    "GB1", "ES1", "L1", "IT1", "FR1", "GB2", "PO1", "NL1", "RU1"
+    ),
+  league_name = c(
+    "premier-league", "primera-division", "1-bundesliga", "serie-a", 
+    "ligue-1", "championship", "liga-nos", "eredivisie", "premier-liga"
+    )
+)
 
-# set season
-season <- 2018
+# seasons to scrape
+seasons <- 1992:2016
+
+# create directory tree
+fs::dir_create(path = file.path("data", seasons))
 
 # scrape ------------------------------------------------------------------
 
-# scrape squads for current season
-squads <- map_dfr(league_urls, scrape_league_squads, season)
+squads <- map2(league_meta$league_id, league_meta$league_name, function(x, y){
 
-# get season name
-season <- gsub(pattern = "/", replacement = "", unique(squads$season))
+  # edit league name for file name
+  league_name_edit <- gsub("-", "_", y)
+  
+  # scrape data
+  map(seasons, function(z) {
+    
+    data <- scrape_league_squads(league_id = x, league_name = y, season_id = z)
+    
+    # write to disk
+    invisible(
+      write_csv(data, path = glue("data/{z}/{league_name_edit}.csv"))
+    )
+    
+    data
+    
+  })
+})
 
-# export data
-write_csv(squads, file.path(paste0("data/", season, "_", "squads.csv")))

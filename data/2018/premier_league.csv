@@ -1,0 +1,566 @@
+shirt_number,position,player_name,date_of_birth,age,nationality,club_name,league_name,season,year
+31,Goalkeeper,Ederson,1993-08-17,25,Brazil,Manchester City,Premier League,2018/2019,2018
+1,Goalkeeper,Claudio Bravo,1983-04-13,36,Chile,Manchester City,Premier League,2018/2019,2018
+49,Goalkeeper,Arijanet Murić,1998-11-07,20,Kosovo,Manchester City,Premier League,2018/2019,2018
+5,Centre-Back,John Stones,1994-05-28,25,England,Manchester City,Premier League,2018/2019,2018
+14,Centre-Back,Aymeric Laporte,1994-05-27,25,France,Manchester City,Premier League,2018/2019,2018
+30,Centre-Back,Nicolás Otamendi,1988-02-12,31,Argentina,Manchester City,Premier League,2018/2019,2018
+4,Centre-Back,Vincent Kompany,1986-04-10,33,Belgium,Manchester City,Premier League,2018/2019,2018
+15,Centre-Back,Eliaquim Mangala,1991-02-13,28,France,Manchester City,Premier League,2018/2019,2018
+34,Centre-Back,Philippe Sandler,1997-02-10,22,Netherlands,Manchester City,Premier League,2018/2019,2018
+22,Left-Back,Benjamin Mendy,1994-07-17,24,France,Manchester City,Premier League,2018/2019,2018
+35,Left-Back,Oleksandr Zinchenko,1996-12-15,22,Ukraine,Manchester City,Premier League,2018/2019,2018
+2,Right-Back,Kyle Walker,1990-05-28,29,England,Manchester City,Premier League,2018/2019,2018
+3,Right-Back,Danilo,1991-07-15,27,Brazil,Manchester City,Premier League,2018/2019,2018
+25,Defensive Midfield,Fernandinho,1985-05-04,34,Brazil,Manchester City,Premier League,2018/2019,2018
+8,Central Midfield,Ilkay Gündogan,1990-10-24,28,Germany,Manchester City,Premier League,2018/2019,2018
+47,Central Midfield,Phil Foden,2000-05-28,19,England,Manchester City,Premier League,2018/2019,2018
+18,Central Midfield,Fabian Delph,1989-11-21,29,England,Manchester City,Premier League,2018/2019,2018
+17,Attacking Midfield,Kevin De Bruyne,1991-06-28,27,Belgium,Manchester City,Premier League,2018/2019,2018
+21,Attacking Midfield,David Silva,1986-01-08,33,Spain,Manchester City,Premier League,2018/2019,2018
+19,Left Winger,Leroy Sané,1996-01-11,23,Germany,Manchester City,Premier League,2018/2019,2018
+7,Right Winger,Raheem Sterling,1994-12-08,24,England,Manchester City,Premier League,2018/2019,2018
+20,Right Winger,Bernardo Silva,1994-08-10,24,Portugal,Manchester City,Premier League,2018/2019,2018
+26,Right Winger,Riyad Mahrez,1991-02-21,28,Algeria,Manchester City,Premier League,2018/2019,2018
+NA,Right Winger,Jack Harrison,1996-11-20,22,England,Manchester City,Premier League,2018/2019,2018
+10,Centre-Forward,Sergio Agüero,1988-06-02,31,Argentina,Manchester City,Premier League,2018/2019,2018
+33,Centre-Forward,Gabriel Jesus,1997-04-03,22,Brazil,Manchester City,Premier League,2018/2019,2018
+1,Goalkeeper,Kepa,1994-10-03,24,Spain,Chelsea FC,Premier League,2018/2019,2018
+13,Goalkeeper,Willy Caballero,1981-09-28,37,Argentina,Chelsea FC,Premier League,2018/2019,2018
+40,Goalkeeper,Jamal Blackman,1993-10-27,25,England,Chelsea FC,Premier League,2018/2019,2018
+31,Goalkeeper,Rob Green,1980-01-18,39,England,Chelsea FC,Premier League,2018/2019,2018
+2,Centre-Back,Antonio Rüdiger,1993-03-03,26,Germany,Chelsea FC,Premier League,2018/2019,2018
+27,Centre-Back,Andreas Christensen,1996-04-10,23,Denmark,Chelsea FC,Premier League,2018/2019,2018
+30,Centre-Back,David Luiz,1987-04-22,32,Brazil,Chelsea FC,Premier League,2018/2019,2018
+NA,Centre-Back,Kurt Zouma,1994-10-27,24,France,Chelsea FC,Premier League,2018/2019,2018
+24,Centre-Back,Gary Cahill,1985-12-19,33,England,Chelsea FC,Premier League,2018/2019,2018
+44,Centre-Back,Ethan Ampadu,2000-09-14,18,Wales,Chelsea FC,Premier League,2018/2019,2018
+NA,Centre-Back,Tomas Kalas,1993-05-15,26,Czech Republic,Chelsea FC,Premier League,2018/2019,2018
+NA,Centre-Back,Michael Hector,1992-07-19,26,Jamaica,Chelsea FC,Premier League,2018/2019,2018
+NA,Centre-Back,Matt Miazga,1995-07-19,23,United States,Chelsea FC,Premier League,2018/2019,2018
+3,Left-Back,Marcos Alonso,1990-12-28,28,Spain,Chelsea FC,Premier League,2018/2019,2018
+33,Left-Back,Emerson,1994-08-03,24,Italy,Chelsea FC,Premier League,2018/2019,2018
+28,Right-Back,César Azpilicueta,1989-08-28,29,Spain,Chelsea FC,Premier League,2018/2019,2018
+21,Right-Back,Davide Zappacosta,1992-06-11,27,Italy,Chelsea FC,Premier League,2018/2019,2018
+NA,Right-Back,Todd Kane,1993-09-17,25,England,Chelsea FC,Premier League,2018/2019,2018
+5,Defensive Midfield,Jorginho,1991-12-20,27,Italy,Chelsea FC,Premier League,2018/2019,2018
+7,Central Midfield,N'Golo Kanté,1991-03-29,28,France,Chelsea FC,Premier League,2018/2019,2018
+17,Central Midfield,Mateo Kovacic,1994-05-06,25,Croatia,Chelsea FC,Premier League,2018/2019,2018
+8,Central Midfield,Ross Barkley,1993-12-05,25,England,Chelsea FC,Premier League,2018/2019,2018
+12,Central Midfield,Ruben Loftus-Cheek,1996-01-23,23,England,Chelsea FC,Premier League,2018/2019,2018
+6,Central Midfield,Danny Drinkwater,1990-03-05,29,England,Chelsea FC,Premier League,2018/2019,2018
+42,Central Midfield,Marco van Ginkel,1992-12-01,26,Netherlands,Chelsea FC,Premier League,2018/2019,2018
+NA,Central Midfield,Lewis Baker,1995-04-25,24,England,Chelsea FC,Premier League,2018/2019,2018
+NA,Left Midfield,Kenedy,1996-02-08,23,Brazil,Chelsea FC,Premier League,2018/2019,2018
+10,Left Winger,Eden Hazard,1991-01-07,28,Belgium,Chelsea FC,Premier League,2018/2019,2018
+20,Left Winger,Callum Hudson-Odoi,2000-11-07,18,England,Chelsea FC,Premier League,2018/2019,2018
+22,Right Winger,Willian,1988-08-09,30,Brazil,Chelsea FC,Premier League,2018/2019,2018
+11,Right Winger,Pedro,1987-07-28,31,Spain,Chelsea FC,Premier League,2018/2019,2018
+9,Centre-Forward,Gonzalo Higuaín,1987-12-10,31,Argentina,Chelsea FC,Premier League,2018/2019,2018
+NA,Centre-Forward,Michy Batshuayi,1993-10-02,25,Belgium,Chelsea FC,Premier League,2018/2019,2018
+NA,Centre-Forward,Tammy Abraham,1997-10-02,21,England,Chelsea FC,Premier League,2018/2019,2018
+18,Centre-Forward,Olivier Giroud,1986-09-30,32,France,Chelsea FC,Premier League,2018/2019,2018
+13,Goalkeeper,Alisson,1992-10-02,26,Brazil,Liverpool FC,Premier League,2018/2019,2018
+22,Goalkeeper,Simon Mignolet,1988-03-06,31,Belgium,Liverpool FC,Premier League,2018/2019,2018
+NA,Goalkeeper,Ádám Bogdán,1987-09-27,31,Hungary,Liverpool FC,Premier League,2018/2019,2018
+4,Centre-Back,Virgil van Dijk,1991-07-08,27,Netherlands,Liverpool FC,Premier League,2018/2019,2018
+12,Centre-Back,Joe Gomez,1997-05-23,22,England,Liverpool FC,Premier League,2018/2019,2018
+6,Centre-Back,Dejan Lovren,1989-07-05,29,Croatia,Liverpool FC,Premier League,2018/2019,2018
+32,Centre-Back,Joel Matip,1991-08-08,27,Cameroon,Liverpool FC,Premier League,2018/2019,2018
+26,Left-Back,Andrew Robertson,1994-03-11,25,Scotland,Liverpool FC,Premier League,2018/2019,2018
+18,Left-Back,Alberto Moreno,1992-07-05,26,Spain,Liverpool FC,Premier League,2018/2019,2018
+66,Right-Back,Trent Alexander-Arnold,1998-10-07,20,England,Liverpool FC,Premier League,2018/2019,2018
+NA,Right-Back,Nathaniel Clyne,1991-04-05,28,England,Liverpool FC,Premier League,2018/2019,2018
+56,Right-Back,Connor Randall,1995-10-21,23,England,Liverpool FC,Premier League,2018/2019,2018
+3,Defensive Midfield,Fabinho,1993-10-23,25,Brazil,Liverpool FC,Premier League,2018/2019,2018
+8,Central Midfield,Naby Keïta,1995-02-10,24,Guinea,Liverpool FC,Premier League,2018/2019,2018
+5,Central Midfield,Georginio Wijnaldum,1990-11-11,28,Netherlands,Liverpool FC,Premier League,2018/2019,2018
+21,Central Midfield,Alex Oxlade-Chamberlain,1993-08-15,25,England,Liverpool FC,Premier League,2018/2019,2018
+14,Central Midfield,Jordan Henderson,1990-06-17,28,England,Liverpool FC,Premier League,2018/2019,2018
+7,Central Midfield,James Milner,1986-01-04,33,England,Liverpool FC,Premier League,2018/2019,2018
+20,Attacking Midfield,Adam Lallana,1988-05-10,31,England,Liverpool FC,Premier League,2018/2019,2018
+10,Left Winger,Sadio Mané,1992-04-10,27,Senegal,Liverpool FC,Premier League,2018/2019,2018
+58,Left Winger,Ben Woodburn,1999-10-15,19,Wales,Liverpool FC,Premier League,2018/2019,2018
+11,Right Winger,Mohamed Salah,1992-06-15,26,Egypt,Liverpool FC,Premier League,2018/2019,2018
+23,Right Winger,Xherdan Shaqiri,1991-10-10,27,Switzerland,Liverpool FC,Premier League,2018/2019,2018
+NA,Right Winger,Harry Wilson,1997-03-22,22,Wales,Liverpool FC,Premier League,2018/2019,2018
+9,Centre-Forward,Roberto Firmino,1991-10-02,27,Brazil,Liverpool FC,Premier League,2018/2019,2018
+15,Centre-Forward,Daniel Sturridge,1989-09-01,29,England,Liverpool FC,Premier League,2018/2019,2018
+27,Centre-Forward,Divock Origi,1995-04-18,24,Belgium,Liverpool FC,Premier League,2018/2019,2018
+1,Goalkeeper,Hugo Lloris,1986-12-26,32,France,Tottenham Hotspur,Premier League,2018/2019,2018
+13,Goalkeeper,Michel Vorm,1983-10-20,35,Netherlands,Tottenham Hotspur,Premier League,2018/2019,2018
+22,Goalkeeper,Paulo Gazzaniga,1992-01-02,27,Argentina,Tottenham Hotspur,Premier League,2018/2019,2018
+6,Centre-Back,Davinson Sánchez,1996-06-12,22,Colombia,Tottenham Hotspur,Premier League,2018/2019,2018
+4,Centre-Back,Toby Alderweireld,1989-03-02,30,Belgium,Tottenham Hotspur,Premier League,2018/2019,2018
+5,Centre-Back,Jan Vertonghen,1987-04-24,32,Belgium,Tottenham Hotspur,Premier League,2018/2019,2018
+21,Centre-Back,Juan Foyth,1998-01-12,21,Argentina,Tottenham Hotspur,Premier League,2018/2019,2018
+NA,Centre-Back,Cameron Carter-Vickers,1997-12-31,21,United States,Tottenham Hotspur,Premier League,2018/2019,2018
+3,Left-Back,Danny Rose,1990-07-02,28,England,Tottenham Hotspur,Premier League,2018/2019,2018
+33,Left-Back,Ben Davies,1993-04-24,26,Wales,Tottenham Hotspur,Premier League,2018/2019,2018
+2,Right-Back,Kieran Trippier,1990-09-19,28,England,Tottenham Hotspur,Premier League,2018/2019,2018
+24,Right-Back,Serge Aurier,1992-12-24,26,Cote d'Ivoire,Tottenham Hotspur,Premier League,2018/2019,2018
+16,Right-Back,Kyle Walker-Peters,1997-04-13,22,England,Tottenham Hotspur,Premier League,2018/2019,2018
+15,Defensive Midfield,Eric Dier,1994-01-15,25,England,Tottenham Hotspur,Premier League,2018/2019,2018
+12,Defensive Midfield,Victor Wanyama,1991-06-25,27,Kenya,Tottenham Hotspur,Premier League,2018/2019,2018
+52,Defensive Midfield,Oliver Skipp,2000-09-16,18,England,Tottenham Hotspur,Premier League,2018/2019,2018
+8,Central Midfield,Harry Winks,1996-02-02,23,England,Tottenham Hotspur,Premier League,2018/2019,2018
+17,Central Midfield,Moussa Sissoko,1989-08-16,29,France,Tottenham Hotspur,Premier League,2018/2019,2018
+20,Attacking Midfield,Dele Alli,1996-04-11,23,England,Tottenham Hotspur,Premier League,2018/2019,2018
+23,Attacking Midfield,Christian Eriksen,1992-02-14,27,Denmark,Tottenham Hotspur,Premier League,2018/2019,2018
+NA,Attacking Midfield,Josh Onomah,1997-04-27,22,England,Tottenham Hotspur,Premier League,2018/2019,2018
+7,Left Winger,Heung-min Son,1992-07-08,26,"Korea, South",Tottenham Hotspur,Premier League,2018/2019,2018
+27,Right Winger,Lucas Moura,1992-08-13,26,Brazil,Tottenham Hotspur,Premier League,2018/2019,2018
+11,Right Winger,Erik Lamela,1992-03-04,27,Argentina,Tottenham Hotspur,Premier League,2018/2019,2018
+10,Centre-Forward,Harry Kane,1993-07-28,25,England,Tottenham Hotspur,Premier League,2018/2019,2018
+9,Centre-Forward,Vincent Janssen,1994-06-15,24,Netherlands,Tottenham Hotspur,Premier League,2018/2019,2018
+18,Centre-Forward,Fernando Llorente,1985-02-26,34,Spain,Tottenham Hotspur,Premier League,2018/2019,2018
+1,Goalkeeper,David de Gea,1990-11-07,28,Spain,Manchester United,Premier League,2018/2019,2018
+22,Goalkeeper,Sergio Romero,1987-02-22,32,Argentina,Manchester United,Premier League,2018/2019,2018
+13,Goalkeeper,Lee Grant,1983-01-27,36,England,Manchester United,Premier League,2018/2019,2018
+2,Centre-Back,Victor Lindelöf,1994-07-17,24,Sweden,Manchester United,Premier League,2018/2019,2018
+3,Centre-Back,Eric Bailly,1994-04-12,25,Cote d'Ivoire,Manchester United,Premier League,2018/2019,2018
+4,Centre-Back,Phil Jones,1992-02-21,27,England,Manchester United,Premier League,2018/2019,2018
+12,Centre-Back,Chris Smalling,1989-11-22,29,England,Manchester United,Premier League,2018/2019,2018
+16,Centre-Back,Marcos Rojo,1990-03-20,29,Argentina,Manchester United,Premier League,2018/2019,2018
+NA,Centre-Back,Axel Tuanzebe,1997-11-14,21,England,Manchester United,Premier League,2018/2019,2018
+23,Left-Back,Luke Shaw,1995-07-12,23,England,Manchester United,Premier League,2018/2019,2018
+18,Left-Back,Ashley Young,1985-07-09,33,England,Manchester United,Premier League,2018/2019,2018
+NA,Left-Back,Cameron Borthwick-Jackson,1997-02-02,22,England,Manchester United,Premier League,2018/2019,2018
+20,Right-Back,Diogo Dalot,1999-03-18,20,Portugal,Manchester United,Premier League,2018/2019,2018
+36,Right-Back,Matteo Darmian,1989-12-02,29,Italy,Manchester United,Premier League,2018/2019,2018
+NA,Right-Back,Timothy Fosu-Mensah,1998-01-02,21,Netherlands,Manchester United,Premier League,2018/2019,2018
+25,Right-Back,Antonio Valencia,1985-08-04,33,Ecuador,Manchester United,Premier League,2018/2019,2018
+31,Defensive Midfield,Nemanja Matic,1988-08-01,30,Serbia,Manchester United,Premier League,2018/2019,2018
+6,Central Midfield,Paul Pogba,1993-03-15,26,France,Manchester United,Premier League,2018/2019,2018
+17,Central Midfield,Fred,1993-03-05,26,Brazil,Manchester United,Premier League,2018/2019,2018
+21,Central Midfield,Ander Herrera,1989-08-14,29,Spain,Manchester United,Premier League,2018/2019,2018
+39,Central Midfield,Scott McTominay,1996-12-08,22,Scotland,Manchester United,Premier League,2018/2019,2018
+8,Attacking Midfield,Juan Mata,1988-04-28,31,Spain,Manchester United,Premier League,2018/2019,2018
+15,Attacking Midfield,Andreas Pereira,1996-01-01,23,Brazil,Manchester United,Premier League,2018/2019,2018
+11,Left Winger,Anthony Martial,1995-12-05,23,France,Manchester United,Premier League,2018/2019,2018
+7,Left Winger,Alexis Sánchez,1988-12-19,30,Chile,Manchester United,Premier League,2018/2019,2018
+14,Right Winger,Jesse Lingard,1992-12-15,26,England,Manchester United,Premier League,2018/2019,2018
+9,Centre-Forward,Romelu Lukaku,1993-05-13,26,Belgium,Manchester United,Premier League,2018/2019,2018
+10,Centre-Forward,Marcus Rashford,1997-10-31,21,England,Manchester United,Premier League,2018/2019,2018
+NA,Centre-Forward,James Wilson,1995-12-01,23,England,Manchester United,Premier League,2018/2019,2018
+19,Goalkeeper,Bernd Leno,1992-03-04,27,Germany,Arsenal FC,Premier League,2018/2019,2018
+1,Goalkeeper,Petr Cech,1982-05-20,37,Czech Republic,Arsenal FC,Premier League,2018/2019,2018
+NA,Goalkeeper,Emiliano Martínez,1992-09-02,26,Argentina,Arsenal FC,Premier League,2018/2019,2018
+NA,Goalkeeper,Matt Macey,1994-09-09,24,England,Arsenal FC,Premier League,2018/2019,2018
+44,Goalkeeper,Dejan Iliev,1995-02-25,24,North Macedonia,Arsenal FC,Premier League,2018/2019,2018
+20,Centre-Back,Shkodran Mustafi,1992-04-17,27,Germany,Arsenal FC,Premier League,2018/2019,2018
+5,Centre-Back,Sokratis,1988-06-09,31,Greece,Arsenal FC,Premier League,2018/2019,2018
+NA,Centre-Back,Calum Chambers,1995-01-20,24,England,Arsenal FC,Premier League,2018/2019,2018
+16,Centre-Back,Rob Holding,1995-09-20,23,England,Arsenal FC,Premier League,2018/2019,2018
+6,Centre-Back,Laurent Koscielny,1985-09-10,33,France,Arsenal FC,Premier League,2018/2019,2018
+27,Centre-Back,Konstantinos Mavropanos,1997-12-11,21,Greece,Arsenal FC,Premier League,2018/2019,2018
+NA,Centre-Back,Krystian Bielik,1998-01-04,21,Poland,Arsenal FC,Premier League,2018/2019,2018
+31,Left-Back,Sead Kolasinac,1993-06-20,25,Bosnia-Herzegovina,Arsenal FC,Premier League,2018/2019,2018
+18,Left-Back,Nacho Monreal,1986-02-26,33,Spain,Arsenal FC,Premier League,2018/2019,2018
+2,Right-Back,Héctor Bellerín,1995-03-19,24,Spain,Arsenal FC,Premier League,2018/2019,2018
+25,Right-Back,Carl Jenkinson,1992-02-08,27,England,Arsenal FC,Premier League,2018/2019,2018
+12,Right-Back,Stephan Lichtsteiner,1984-01-16,35,Switzerland,Arsenal FC,Premier League,2018/2019,2018
+11,Defensive Midfield,Lucas Torreira,1996-02-11,23,Uruguay,Arsenal FC,Premier League,2018/2019,2018
+34,Defensive Midfield,Granit Xhaka,1992-09-27,26,Switzerland,Arsenal FC,Premier League,2018/2019,2018
+4,Defensive Midfield,Mohamed Elneny,1992-07-11,26,Egypt,Arsenal FC,Premier League,2018/2019,2018
+8,Central Midfield,Aaron Ramsey,1990-12-26,28,Wales,Arsenal FC,Premier League,2018/2019,2018
+29,Central Midfield,Mattéo Guendouzi,1999-04-14,20,France,Arsenal FC,Premier League,2018/2019,2018
+22,Central Midfield,Denis Suárez,1994-01-06,25,Spain,Arsenal FC,Premier League,2018/2019,2018
+15,Right Midfield,Ainsley Maitland-Niles,1997-08-29,21,England,Arsenal FC,Premier League,2018/2019,2018
+10,Attacking Midfield,Mesut Özil,1988-10-15,30,Germany,Arsenal FC,Premier League,2018/2019,2018
+7,Attacking Midfield,Henrikh Mkhitaryan,1989-01-21,30,Armenia,Arsenal FC,Premier League,2018/2019,2018
+17,Left Winger,Alex Iwobi,1996-05-03,23,Nigeria,Arsenal FC,Premier League,2018/2019,2018
+14,Centre-Forward,Pierre-Emerick Aubameyang,1989-06-18,29,Gabon,Arsenal FC,Premier League,2018/2019,2018
+9,Centre-Forward,Alexandre Lacazette,1991-05-28,28,France,Arsenal FC,Premier League,2018/2019,2018
+23,Centre-Forward,Danny Welbeck,1990-11-26,28,England,Arsenal FC,Premier League,2018/2019,2018
+49,Centre-Forward,Eddie Nketiah,1999-05-30,20,England,Arsenal FC,Premier League,2018/2019,2018
+1,Goalkeeper,Jordan Pickford,1994-03-07,25,England,Everton FC,Premier League,2018/2019,2018
+22,Goalkeeper,Maarten Stekelenburg,1982-09-22,36,Netherlands,Everton FC,Premier League,2018/2019,2018
+13,Centre-Back,Yerry Mina,1994-09-23,24,Colombia,Everton FC,Premier League,2018/2019,2018
+4,Centre-Back,Michael Keane,1993-01-11,26,England,Everton FC,Premier League,2018/2019,2018
+NA,Centre-Back,Mason Holgate,1996-10-22,22,England,Everton FC,Premier League,2018/2019,2018
+NA,Centre-Back,Ashley Williams,1984-08-23,34,Wales,Everton FC,Premier League,2018/2019,2018
+6,Centre-Back,Phil Jagielka,1982-08-17,36,England,Everton FC,Premier League,2018/2019,2018
+NA,Centre-Back,Matthew Pennington,1994-10-06,24,England,Everton FC,Premier League,2018/2019,2018
+12,Left-Back,Lucas Digne,1993-07-20,25,France,Everton FC,Premier League,2018/2019,2018
+3,Left-Back,Leighton Baines,1984-12-11,34,England,Everton FC,Premier League,2018/2019,2018
+32,Left-Back,Brendan Galloway,1996-03-17,23,England,Everton FC,Premier League,2018/2019,2018
+NA,Left-Back,Luke Garbutt,1993-05-21,26,England,Everton FC,Premier League,2018/2019,2018
+23,Right-Back,Seamus Coleman,1988-10-11,30,Ireland,Everton FC,Premier League,2018/2019,2018
+43,Right-Back,Jonjoe Kenny,1997-03-15,22,England,Everton FC,Premier League,2018/2019,2018
+18,Defensive Midfield,Morgan Schneiderlin,1989-11-08,29,France,Everton FC,Premier League,2018/2019,2018
+NA,Defensive Midfield,Muhamed Besic,1992-09-10,26,Bosnia-Herzegovina,Everton FC,Premier League,2018/2019,2018
+8,Central Midfield,André Gomes,1993-07-30,25,Portugal,Everton FC,Premier League,2018/2019,2018
+17,Central Midfield,Idrissa Gueye,1989-09-26,29,Senegal,Everton FC,Premier League,2018/2019,2018
+26,Central Midfield,Tom Davies,1998-06-30,20,England,Everton FC,Premier League,2018/2019,2018
+16,Central Midfield,James McCarthy,1990-11-12,28,Ireland,Everton FC,Premier League,2018/2019,2018
+NA,Central Midfield,Beni Baningime,1998-09-09,20,DR Congo,Everton FC,Premier League,2018/2019,2018
+10,Attacking Midfield,Gylfi Sigurdsson,1989-09-08,29,Iceland,Everton FC,Premier League,2018/2019,2018
+NA,Attacking Midfield,Kieran Dowell,1997-10-10,21,England,Everton FC,Premier League,2018/2019,2018
+30,Left Winger,Richarlison,1997-05-10,22,Brazil,Everton FC,Premier League,2018/2019,2018
+31,Left Winger,Ademola Lookman,1997-10-20,21,England,Everton FC,Premier League,2018/2019,2018
+20,Left Winger,Bernard,1992-09-08,26,Brazil,Everton FC,Premier League,2018/2019,2018
+11,Right Winger,Theo Walcott,1989-03-16,30,England,Everton FC,Premier League,2018/2019,2018
+14,Centre-Forward,Cenk Tosun,1991-06-07,28,Turkey,Everton FC,Premier League,2018/2019,2018
+29,Centre-Forward,Dominic Calvert-Lewin,1997-03-16,22,England,Everton FC,Premier League,2018/2019,2018
+1,Goalkeeper,Kasper Schmeichel,1986-11-05,32,Denmark,Leicester City,Premier League,2018/2019,2018
+12,Goalkeeper,Danny Ward,1993-06-22,25,Wales,Leicester City,Premier League,2018/2019,2018
+17,Goalkeeper,Eldin Jakupovic,1984-10-02,34,Switzerland,Leicester City,Premier League,2018/2019,2018
+15,Centre-Back,Harry Maguire,1993-03-05,26,England,Leicester City,Premier League,2018/2019,2018
+4,Centre-Back,Caglar Söyüncü,1996-05-23,23,Turkey,Leicester City,Premier League,2018/2019,2018
+6,Centre-Back,Jonny Evans,1988-01-03,31,Northern Ireland,Leicester City,Premier League,2018/2019,2018
+5,Centre-Back,Wes Morgan,1984-01-21,35,Jamaica,Leicester City,Premier League,2018/2019,2018
+3,Left-Back,Ben Chilwell,1996-12-21,22,England,Leicester City,Premier League,2018/2019,2018
+28,Left-Back,Christian Fuchs,1986-04-07,33,Austria,Leicester City,Premier League,2018/2019,2018
+NA,Left-Back,Callum Elder,1995-01-27,24,Australia,Leicester City,Premier League,2018/2019,2018
+14,Right-Back,Ricardo Pereira,1993-10-06,25,Portugal,Leicester City,Premier League,2018/2019,2018
+2,Right-Back,Danny Simpson,1987-01-04,32,England,Leicester City,Premier League,2018/2019,2018
+25,Defensive Midfield,Wilfred Ndidi,1996-12-16,22,Nigeria,Leicester City,Premier League,2018/2019,2018
+24,Defensive Midfield,Nampalys Mendy,1992-06-23,26,France,Leicester City,Premier League,2018/2019,2018
+18,Defensive Midfield,Daniel Amartey,1994-12-21,24,Ghana,Leicester City,Premier League,2018/2019,2018
+38,Defensive Midfield,Hamza Choudhury,1997-10-01,21,England,Leicester City,Premier League,2018/2019,2018
+21,Central Midfield,Youri Tielemans,1997-05-07,22,Belgium,Leicester City,Premier League,2018/2019,2018
+22,Central Midfield,Matty James,1991-07-22,27,England,Leicester City,Premier League,2018/2019,2018
+11,Right Midfield,Marc Albrighton,1989-11-18,29,England,Leicester City,Premier League,2018/2019,2018
+10,Attacking Midfield,James Maddison,1996-11-23,22,England,Leicester City,Premier League,2018/2019,2018
+19,Attacking Midfield,Harvey Barnes,1997-12-09,21,England,Leicester City,Premier League,2018/2019,2018
+NA,Attacking Midfield,Bartosz Kapustka,1996-12-23,22,Poland,Leicester City,Premier League,2018/2019,2018
+7,Left Winger,Demarai Gray,1996-06-28,22,England,Leicester City,Premier League,2018/2019,2018
+94,Left Winger,Davide Lorenzo,1994-02-17,25,Italy,Leicester City,Premier League,2018/2019,2018
+31,Right Winger,Rachid Ghezzal,1992-05-09,27,Algeria,Leicester City,Premier League,2018/2019,2018
+NA,Right Winger,George Thomas,1997-03-24,22,Wales,Leicester City,Premier League,2018/2019,2018
+9,Centre-Forward,Jamie Vardy,1987-01-11,32,England,Leicester City,Premier League,2018/2019,2018
+8,Centre-Forward,Kelechi Iheanacho,1996-10-03,22,Nigeria,Leicester City,Premier League,2018/2019,2018
+20,Centre-Forward,Shinji Okazaki,1986-04-16,33,Japan,Leicester City,Premier League,2018/2019,2018
+1,Goalkeeper,Lukasz Fabianski,1985-04-18,34,Poland,West Ham United,Premier League,2018/2019,2018
+13,Goalkeeper,Adrián,1987-01-03,32,Spain,West Ham United,Premier League,2018/2019,2018
+23,Centre-Back,Issa Diop,1997-01-09,22,France,West Ham United,Premier League,2018/2019,2018
+4,Centre-Back,Fabián Balbuena,1991-08-23,27,Paraguay,West Ham United,Premier League,2018/2019,2018
+21,Centre-Back,Angelo Ogbonna,1988-05-23,31,Italy,West Ham United,Premier League,2018/2019,2018
+2,Centre-Back,Winston Reid,1988-07-03,30,New Zealand,West Ham United,Premier League,2018/2019,2018
+3,Left-Back,Aaron Cresswell,1989-12-15,29,England,West Ham United,Premier League,2018/2019,2018
+26,Left-Back,Arthur Masuaku,1993-11-07,25,DR Congo,West Ham United,Premier League,2018/2019,2018
+NA,Right-Back,Sam Byram,1993-09-16,25,England,West Ham United,Premier League,2018/2019,2018
+5,Right-Back,Pablo Zabaleta,1985-01-16,34,Argentina,West Ham United,Premier League,2018/2019,2018
+24,Right-Back,Ryan Fredericks,1992-10-10,26,England,West Ham United,Premier League,2018/2019,2018
+41,Defensive Midfield,Declan Rice,1999-01-14,20,England,West Ham United,Premier League,2018/2019,2018
+15,Defensive Midfield,Carlos Sánchez,1986-02-06,33,Colombia,West Ham United,Premier League,2018/2019,2018
+19,Central Midfield,Jack Wilshere,1992-01-01,27,England,West Ham United,Premier League,2018/2019,2018
+14,Central Midfield,Pedro Obiang,1992-03-27,27,Equatorial Guinea,West Ham United,Premier League,2018/2019,2018
+16,Central Midfield,Mark Noble,1987-05-08,32,England,West Ham United,Premier League,2018/2019,2018
+NA,Central Midfield,Josh Cullen,1996-04-07,23,Ireland,West Ham United,Premier League,2018/2019,2018
+NA,Central Midfield,Moses Makasi,1995-09-22,23,England,West Ham United,Premier League,2018/2019,2018
+10,Attacking Midfield,Manuel Lanzini,1993-02-15,26,Argentina,West Ham United,Premier League,2018/2019,2018
+18,Attacking Midfield,Samir Nasri,1987-06-26,31,France,West Ham United,Premier League,2018/2019,2018
+8,Left Winger,Felipe Anderson,1993-04-15,26,Brazil,West Ham United,Premier League,2018/2019,2018
+20,Right Winger,Andrii Yarmolenko,1989-10-23,29,Ukraine,West Ham United,Premier League,2018/2019,2018
+30,Right Winger,Michail Antonio,1990-03-28,29,England,West Ham United,Premier League,2018/2019,2018
+11,Right Winger,Robert Snodgrass,1987-09-07,31,Scotland,West Ham United,Premier League,2018/2019,2018
+45,Right Winger,Grady Diangana,1998-04-19,21,England,West Ham United,Premier League,2018/2019,2018
+7,Centre-Forward,Marko Arnautovic,1989-04-19,30,Austria,West Ham United,Premier League,2018/2019,2018
+17,Centre-Forward,Chicharito,1988-06-01,31,Mexico,West Ham United,Premier League,2018/2019,2018
+NA,Centre-Forward,Jordan Hugill,1992-06-04,27,England,West Ham United,Premier League,2018/2019,2018
+9,Centre-Forward,Andy Carroll,1989-01-06,30,England,West Ham United,Premier League,2018/2019,2018
+27,Centre-Forward,Lucas Pérez,1988-09-10,30,Spain,West Ham United,Premier League,2018/2019,2018
+27,Goalkeeper,Asmir Begovic,1987-06-20,31,Bosnia-Herzegovina,AFC Bournemouth,Premier League,2018/2019,2018
+1,Goalkeeper,Artur Boruc,1980-02-20,39,Poland,AFC Bournemouth,Premier League,2018/2019,2018
+NA,Goalkeeper,Aaron Ramsdale,1998-05-14,21,England,AFC Bournemouth,Premier League,2018/2019,2018
+42,Goalkeeper,Mark Travers,1999-05-18,20,Ireland,AFC Bournemouth,Premier League,2018/2019,2018
+5,Centre-Back,Nathan Aké,1995-02-18,24,Netherlands,AFC Bournemouth,Premier League,2018/2019,2018
+33,Centre-Back,Chris Mepham,1997-11-05,21,Wales,AFC Bournemouth,Premier League,2018/2019,2018
+3,Centre-Back,Steve Cook,1991-04-19,28,England,AFC Bournemouth,Premier League,2018/2019,2018
+NA,Centre-Back,Tyrone Mings,1993-03-13,26,England,AFC Bournemouth,Premier League,2018/2019,2018
+25,Centre-Back,Jack Simpson,1997-01-08,22,England,AFC Bournemouth,Premier League,2018/2019,2018
+21,Left-Back,Diego Rico,1993-02-23,26,Spain,AFC Bournemouth,Premier League,2018/2019,2018
+11,Left-Back,Charlie Daniels,1986-09-07,32,England,AFC Bournemouth,Premier League,2018/2019,2018
+15,Right-Back,Adam Smith,1991-04-29,28,England,AFC Bournemouth,Premier League,2018/2019,2018
+2,Right-Back,Simon Francis,1985-02-16,34,England,AFC Bournemouth,Premier League,2018/2019,2018
+8,Defensive Midfield,Jefferson Lerma,1994-10-25,24,Colombia,AFC Bournemouth,Premier League,2018/2019,2018
+16,Central Midfield,Lewis Cook,1997-02-03,22,England,AFC Bournemouth,Premier League,2018/2019,2018
+NA,Central Midfield,Harry Arter,1989-12-28,29,Ireland,AFC Bournemouth,Premier League,2018/2019,2018
+4,Central Midfield,Dan Gosling,1990-02-01,29,England,AFC Bournemouth,Premier League,2018/2019,2018
+6,Central Midfield,Andrew Surman,1986-08-20,32,England,AFC Bournemouth,Premier League,2018/2019,2018
+22,Central Midfield,Emerson Hyndman,1996-04-07,23,United States,AFC Bournemouth,Premier League,2018/2019,2018
+20,Attacking Midfield,David Brooks,1997-07-08,21,Wales,AFC Bournemouth,Premier League,2018/2019,2018
+24,Left Winger,Ryan Fraser,1994-02-24,25,Scotland,AFC Bournemouth,Premier League,2018/2019,2018
+19,Left Winger,Junior Stanislas,1989-11-26,29,England,AFC Bournemouth,Premier League,2018/2019,2018
+NA,Left Winger,Marc Pugh,1987-04-02,32,England,AFC Bournemouth,Premier League,2018/2019,2018
+10,Right Winger,Jordon Ibe,1995-12-08,23,England,AFC Bournemouth,Premier League,2018/2019,2018
+NA,Right Winger,Connor Mahoney,1997-02-12,22,England,AFC Bournemouth,Premier League,2018/2019,2018
+17,Second Striker,Joshua King,1992-01-15,27,Norway,AFC Bournemouth,Premier League,2018/2019,2018
+13,Centre-Forward,Callum Wilson,1992-02-27,27,England,AFC Bournemouth,Premier League,2018/2019,2018
+29,Centre-Forward,Dominic Solanke,1997-09-14,21,England,AFC Bournemouth,Premier League,2018/2019,2018
+9,Centre-Forward,Lys Mousset,1996-02-08,23,France,AFC Bournemouth,Premier League,2018/2019,2018
+11,Goalkeeper,Rui Patrício,1988-02-15,31,Portugal,Wolverhampton Wanderers,Premier League,2018/2019,2018
+21,Goalkeeper,John Ruddy,1986-10-24,32,England,Wolverhampton Wanderers,Premier League,2018/2019,2018
+31,Goalkeeper,Will Norris,1993-08-12,25,England,Wolverhampton Wanderers,Premier League,2018/2019,2018
+NA,Goalkeeper,Harry Burgoyne,1996-12-28,22,England,Wolverhampton Wanderers,Premier League,2018/2019,2018
+15,Centre-Back,Willy Boly,1991-02-03,28,France,Wolverhampton Wanderers,Premier League,2018/2019,2018
+16,Centre-Back,Conor Coady,1993-02-25,26,England,Wolverhampton Wanderers,Premier League,2018/2019,2018
+5,Centre-Back,Ryan Bennett,1990-03-06,29,England,Wolverhampton Wanderers,Premier League,2018/2019,2018
+NA,Centre-Back,Kortney Hause,1995-07-16,23,England,Wolverhampton Wanderers,Premier League,2018/2019,2018
+NA,Centre-Back,Ethan Ebanks-Landell,1992-12-12,26,England,Wolverhampton Wanderers,Premier League,2018/2019,2018
+19,Left-Back,Jonny Otto,1994-03-03,25,Spain,Wolverhampton Wanderers,Premier League,2018/2019,2018
+29,Left-Back,Rúben Vinagre,1999-04-09,20,Portugal,Wolverhampton Wanderers,Premier League,2018/2019,2018
+2,Right-Back,Matt Doherty,1992-01-16,27,Ireland,Wolverhampton Wanderers,Premier League,2018/2019,2018
+8,Defensive Midfield,Rúben Neves,1997-03-13,22,Portugal,Wolverhampton Wanderers,Premier League,2018/2019,2018
+32,Defensive Midfield,Leander Dendoncker,1995-04-15,24,Belgium,Wolverhampton Wanderers,Premier League,2018/2019,2018
+27,Defensive Midfield,Romain Saïss,1990-03-26,29,Morocco,Wolverhampton Wanderers,Premier League,2018/2019,2018
+28,Central Midfield,João Moutinho,1986-09-08,32,Portugal,Wolverhampton Wanderers,Premier League,2018/2019,2018
+17,Central Midfield,Morgan Gibbs-White,2000-01-27,19,England,Wolverhampton Wanderers,Premier League,2018/2019,2018
+18,Left Winger,Diogo Jota,1996-12-04,22,Portugal,Wolverhampton Wanderers,Premier League,2018/2019,2018
+NA,Left Winger,Jordan Graham,1995-03-05,24,England,Wolverhampton Wanderers,Premier League,2018/2019,2018
+37,Right Winger,Adama Traoré,1996-01-25,23,Spain,Wolverhampton Wanderers,Premier League,2018/2019,2018
+10,Right Winger,Hélder Costa,1994-01-12,25,Portugal,Wolverhampton Wanderers,Premier League,2018/2019,2018
+7,Right Winger,Ivan Cavaleiro,1993-10-18,25,Portugal,Wolverhampton Wanderers,Premier League,2018/2019,2018
+9,Centre-Forward,Raúl Jiménez,1991-05-05,28,Mexico,Wolverhampton Wanderers,Premier League,2018/2019,2018
+NA,Centre-Forward,Léo Bonatini,1994-03-28,25,Brazil,Wolverhampton Wanderers,Premier League,2018/2019,2018
+NA,Centre-Forward,Bright Enobakhare,1998-02-08,21,Nigeria,Wolverhampton Wanderers,Premier League,2018/2019,2018
+25,Goalkeeper,Sergio Rico,1993-09-01,25,Spain,Fulham FC,Premier League,2018/2019,2018
+31,Goalkeeper,Fabri,1987-12-31,31,Spain,Fulham FC,Premier League,2018/2019,2018
+1,Goalkeeper,Marcus Bettinelli,1992-05-24,27,England,Fulham FC,Premier League,2018/2019,2018
+26,Centre-Back,Alfie Mawson,1994-01-19,25,England,Fulham FC,Premier League,2018/2019,2018
+20,Centre-Back,Maxime Le Marchand,1989-10-11,29,France,Fulham FC,Premier League,2018/2019,2018
+13,Centre-Back,Tim Ream,1987-10-05,31,United States,Fulham FC,Premier League,2018/2019,2018
+4,Centre-Back,Denis Odoi,1988-05-27,31,Belgium,Fulham FC,Premier League,2018/2019,2018
+35,Centre-Back,Marcelo Djaló,1993-10-08,25,Guinea-Bissau,Fulham FC,Premier League,2018/2019,2018
+23,Left-Back,Joe Bryan,1993-09-17,25,England,Fulham FC,Premier League,2018/2019,2018
+22,Right-Back,Cyrus Christie,1992-09-30,26,Ireland,Fulham FC,Premier League,2018/2019,2018
+29,Defensive Midfield,André Zambo Anguissa,1995-11-16,23,Cameroon,Fulham FC,Premier League,2018/2019,2018
+6,Defensive Midfield,Kevin McDonald,1988-11-04,30,Scotland,Fulham FC,Premier League,2018/2019,2018
+16,Defensive Midfield,Havard Nordtveit,1990-06-21,28,Norway,Fulham FC,Premier League,2018/2019,2018
+44,Defensive Midfield,Ibrahima Cissé,1994-02-28,25,Guinea,Fulham FC,Premier League,2018/2019,2018
+24,Central Midfield,Jean Michaël Seri,1991-07-19,27,Cote d'Ivoire,Fulham FC,Premier League,2018/2019,2018
+10,Central Midfield,Tom Cairney,1991-01-20,28,Scotland,Fulham FC,Premier League,2018/2019,2018
+NA,Central Midfield,Stefan Johansen,1991-01-08,28,Norway,Fulham FC,Premier League,2018/2019,2018
+36,Right Midfield,Luca de la Torre,1998-05-23,21,United States,Fulham FC,Premier League,2018/2019,2018
+3,Left Midfield,Ryan Sessegnon,2000-05-18,19,England,Fulham FC,Premier League,2018/2019,2018
+7,Attacking Midfield,Neeskens Kebano,1992-03-10,27,DR Congo,Fulham FC,Premier League,2018/2019,2018
+14,Left Winger,André Schürrle,1990-11-06,28,Germany,Fulham FC,Premier League,2018/2019,2018
+12,Left Winger,Ryan Babel,1986-12-19,32,Netherlands,Fulham FC,Premier League,2018/2019,2018
+11,Left Winger,Floyd Ayité,1988-12-15,30,Togo,Fulham FC,Premier League,2018/2019,2018
+30,Right Winger,Lazar Markovic,1994-03-02,25,Serbia,Fulham FC,Premier League,2018/2019,2018
+9,Centre-Forward,Aleksandar Mitrovic,1994-09-16,24,Serbia,Fulham FC,Premier League,2018/2019,2018
+19,Centre-Forward,Luciano Vietto,1993-12-05,25,Argentina,Fulham FC,Premier League,2018/2019,2018
+13,Goalkeeper,Wayne Hennessey,1987-01-24,32,Wales,Crystal Palace,Premier League,2018/2019,2018
+31,Goalkeeper,Vicente Guaita,1987-01-10,32,Spain,Crystal Palace,Premier League,2018/2019,2018
+1,Goalkeeper,Julián Speroni,1979-05-18,40,Argentina,Crystal Palace,Premier League,2018/2019,2018
+22,Goalkeeper,Lucas Perri,1997-12-10,21,Brazil,Crystal Palace,Premier League,2018/2019,2018
+NA,Goalkeeper,Dion Henry,1997-09-12,21,England,Crystal Palace,Premier League,2018/2019,2018
+12,Centre-Back,Mamadou Sakho,1990-02-13,29,France,Crystal Palace,Premier League,2018/2019,2018
+5,Centre-Back,James Tomkins,1989-03-29,30,England,Crystal Palace,Premier League,2018/2019,2018
+44,Centre-Back,Jairo Riedewald,1996-09-09,22,Netherlands,Crystal Palace,Premier League,2018/2019,2018
+6,Centre-Back,Scott Dann,1987-02-14,32,England,Crystal Palace,Premier League,2018/2019,2018
+33,Centre-Back,Ryan Inniss,1995-06-05,24,England,Crystal Palace,Premier League,2018/2019,2018
+3,Left-Back,Patrick van Aanholt,1990-08-29,28,Netherlands,Crystal Palace,Premier League,2018/2019,2018
+27,Left-Back,Pape Souaré,1990-06-06,29,Senegal,Crystal Palace,Premier League,2018/2019,2018
+29,Right-Back,Aaron Wan-Bissaka,1997-11-26,21,England,Crystal Palace,Premier League,2018/2019,2018
+2,Right-Back,Joel Ward,1989-10-29,29,England,Crystal Palace,Premier League,2018/2019,2018
+34,Right-Back,Martin Kelly,1990-04-27,29,England,Crystal Palace,Premier League,2018/2019,2018
+4,Defensive Midfield,Luka Milivojevic,1991-04-07,28,Serbia,Crystal Palace,Premier League,2018/2019,2018
+8,Defensive Midfield,Cheikhou Kouyaté,1989-12-21,29,Senegal,Crystal Palace,Premier League,2018/2019,2018
+18,Central Midfield,James McArthur,1987-10-07,31,Scotland,Crystal Palace,Premier League,2018/2019,2018
+15,Left Midfield,Jeffrey Schlupp,1992-12-23,26,Ghana,Crystal Palace,Premier League,2018/2019,2018
+7,Attacking Midfield,Max Meyer,1995-09-18,23,Germany,Crystal Palace,Premier League,2018/2019,2018
+26,Left Winger,Bakary Sako,1988-04-26,31,Mali,Crystal Palace,Premier League,2018/2019,2018
+11,Right Winger,Wilfried Zaha,1992-11-10,26,Cote d'Ivoire,Crystal Palace,Premier League,2018/2019,2018
+10,Right Winger,Andros Townsend,1991-07-16,27,England,Crystal Palace,Premier League,2018/2019,2018
+17,Centre-Forward,Christian Benteke,1990-12-03,28,Belgium,Crystal Palace,Premier League,2018/2019,2018
+14,Centre-Forward,Jordan Ayew,1991-09-11,27,Ghana,Crystal Palace,Premier League,2018/2019,2018
+21,Centre-Forward,Connor Wickham,1993-03-31,26,England,Crystal Palace,Premier League,2018/2019,2018
+28,Goalkeeper,Angus Gunn,1996-01-22,23,England,Southampton FC,Premier League,2018/2019,2018
+44,Goalkeeper,Fraser Forster,1988-03-17,31,England,Southampton FC,Premier League,2018/2019,2018
+1,Goalkeeper,Alex McCarthy,1989-12-03,29,England,Southampton FC,Premier League,2018/2019,2018
+62,Goalkeeper,Jack Rose,1995-01-31,24,England,Southampton FC,Premier League,2018/2019,2018
+4,Centre-Back,Jannik Vestergaard,1992-08-03,26,Denmark,Southampton FC,Premier League,2018/2019,2018
+5,Centre-Back,Jack Stephens,1994-01-27,25,England,Southampton FC,Premier League,2018/2019,2018
+35,Centre-Back,Jan Bednarek,1996-04-12,23,Poland,Southampton FC,Premier League,2018/2019,2018
+3,Centre-Back,Maya Yoshida,1988-08-24,30,Japan,Southampton FC,Premier League,2018/2019,2018
+21,Left-Back,Ryan Bertrand,1989-08-05,29,England,Southampton FC,Premier League,2018/2019,2018
+33,Left-Back,Matt Targett,1995-09-18,23,England,Southampton FC,Premier League,2018/2019,2018
+12,Left-Back,Sam McQueen,1995-02-06,24,England,Southampton FC,Premier League,2018/2019,2018
+43,Right-Back,Yan Valery,1999-02-22,20,France,Southampton FC,Premier League,2018/2019,2018
+18,Defensive Midfield,Mario Lemina,1993-09-01,25,Gabon,Southampton FC,Premier League,2018/2019,2018
+14,Defensive Midfield,Oriol Romeu,1991-09-24,27,Spain,Southampton FC,Premier League,2018/2019,2018
+16,Central Midfield,James Ward-Prowse,1994-11-01,24,England,Southampton FC,Premier League,2018/2019,2018
+23,Central Midfield,Pierre-Emile Höjbjerg,1995-08-05,23,Denmark,Southampton FC,Premier League,2018/2019,2018
+17,Central Midfield,Stuart Armstrong,1992-03-30,27,Scotland,Southampton FC,Premier League,2018/2019,2018
+NA,Central Midfield,Steven Davis,1985-01-01,34,Northern Ireland,Southampton FC,Premier League,2018/2019,2018
+19,Central Midfield,Harrison Reed,1995-01-27,24,England,Southampton FC,Premier League,2018/2019,2018
+42,Attacking Midfield,Jake Hesketh,1996-03-27,23,England,Southampton FC,Premier League,2018/2019,2018
+22,Left Winger,Nathan Redmond,1994-03-06,25,England,Southampton FC,Premier League,2018/2019,2018
+11,Left Winger,Mohamed Elyounoussi,1994-08-04,24,Norway,Southampton FC,Premier League,2018/2019,2018
+39,Right Winger,Josh Sims,1997-03-28,22,England,Southampton FC,Premier League,2018/2019,2018
+9,Centre-Forward,Danny Ings,1992-07-23,26,England,Southampton FC,Premier League,2018/2019,2018
+10,Centre-Forward,Charlie Austin,1989-07-05,29,England,Southampton FC,Premier League,2018/2019,2018
+7,Centre-Forward,Shane Long,1987-01-22,32,Ireland,Southampton FC,Premier League,2018/2019,2018
+15,Centre-Forward,Sam Gallagher,1995-09-15,23,England,Southampton FC,Premier League,2018/2019,2018
+61,Centre-Forward,Michael Obafemi,2000-07-06,18,Ireland,Southampton FC,Premier League,2018/2019,2018
+12,Goalkeeper,Martin Dubravka,1989-01-15,30,Slovakia,Newcastle United,Premier League,2018/2019,2018
+26,Goalkeeper,Karl Darlow,1990-10-08,28,England,Newcastle United,Premier League,2018/2019,2018
+1,Goalkeeper,Rob Elliot,1986-04-30,33,Ireland,Newcastle United,Premier League,2018/2019,2018
+41,Goalkeeper,Freddie Woodman,1997-03-04,22,England,Newcastle United,Premier League,2018/2019,2018
+6,Centre-Back,Jamaal Lascelles,1993-11-11,25,England,Newcastle United,Premier League,2018/2019,2018
+18,Centre-Back,Federico Fernández,1989-02-21,30,Argentina,Newcastle United,Premier League,2018/2019,2018
+20,Centre-Back,Florian Lejeune,1991-05-20,28,France,Newcastle United,Premier League,2018/2019,2018
+5,Centre-Back,Fabian Schär,1991-12-20,27,Switzerland,Newcastle United,Premier League,2018/2019,2018
+2,Centre-Back,Ciaran Clark,1989-09-26,29,Ireland,Newcastle United,Premier League,2018/2019,2018
+23,Left-Back,Antonio Barreca,1995-03-18,24,Italy,Newcastle United,Premier League,2018/2019,2018
+3,Left-Back,Paul Dummett,1991-09-26,27,Wales,Newcastle United,Premier League,2018/2019,2018
+NA,Left-Back,Achraf Lazaar,1992-01-22,27,Morocco,Newcastle United,Premier League,2018/2019,2018
+22,Right-Back,DeAndre Yedlin,1993-07-09,25,United States,Newcastle United,Premier League,2018/2019,2018
+19,Right-Back,Javier Manquillo,1994-05-05,25,Spain,Newcastle United,Premier League,2018/2019,2018
+14,Defensive Midfield,Isaac Hayden,1995-03-22,24,England,Newcastle United,Premier League,2018/2019,2018
+4,Defensive Midfield,Sung-yong Ki,1989-01-24,30,"Korea, South",Newcastle United,Premier League,2018/2019,2018
+NA,Defensive Midfield,Jack Colback,1989-10-24,29,England,Newcastle United,Premier League,2018/2019,2018
+8,Central Midfield,Jonjo Shelvey,1992-02-27,27,England,Newcastle United,Premier League,2018/2019,2018
+10,Central Midfield,Mohamed Diamé,1987-06-14,31,Senegal,Newcastle United,Premier League,2018/2019,2018
+36,Central Midfield,Sean Longstaff,1997-10-30,21,England,Newcastle United,Premier League,2018/2019,2018
+11,Right Midfield,Matt Ritchie,1989-09-10,29,Scotland,Newcastle United,Premier League,2018/2019,2018
+24,Attacking Midfield,Miguel Almirón,1994-02-10,25,Paraguay,Newcastle United,Premier League,2018/2019,2018
+30,Left Winger,Christian Atsu,1992-01-10,27,Ghana,Newcastle United,Premier League,2018/2019,2018
+NA,Left Winger,Rolando Aarons,1995-11-16,23,England,Newcastle United,Premier League,2018/2019,2018
+NA,Right Winger,Jacob Murphy,1995-02-24,24,England,Newcastle United,Premier League,2018/2019,2018
+17,Second Striker,Ayoze Pérez,1993-07-29,25,Spain,Newcastle United,Premier League,2018/2019,2018
+NA,Centre-Forward,Dwight Gayle,1990-10-17,28,England,Newcastle United,Premier League,2018/2019,2018
+13,Centre-Forward,Yoshinori Muto,1992-07-15,26,Japan,Newcastle United,Premier League,2018/2019,2018
+21,Centre-Forward,Joselu,1990-03-27,29,Spain,Newcastle United,Premier League,2018/2019,2018
+26,Goalkeeper,Ben Foster,1983-04-03,36,England,Watford FC,Premier League,2018/2019,2018
+1,Goalkeeper,Heurelho Gomes,1981-02-15,38,Brazil,Watford FC,Premier League,2018/2019,2018
+30,Goalkeeper,Pontus Dahlberg,1999-01-21,20,Sweden,Watford FC,Premier League,2018/2019,2018
+NA,Goalkeeper,Daniel Bachmann,1994-07-09,24,Austria,Watford FC,Premier League,2018/2019,2018
+27,Centre-Back,Christian Kabasele,1991-02-24,28,Belgium,Watford FC,Premier League,2018/2019,2018
+5,Centre-Back,Sebastian Prödl,1987-06-21,31,Austria,Watford FC,Premier League,2018/2019,2018
+15,Centre-Back,Craig Cathcart,1989-02-06,30,Northern Ireland,Watford FC,Premier League,2018/2019,2018
+3,Centre-Back,Miguel Britos,1985-07-17,33,Uruguay,Watford FC,Premier League,2018/2019,2018
+6,Centre-Back,Adrian Mariappa,1986-10-03,32,Jamaica,Watford FC,Premier League,2018/2019,2018
+31,Centre-Back,Tommie Hoban,1994-01-24,25,Ireland,Watford FC,Premier League,2018/2019,2018
+11,Left-Back,Adam Masina,1994-01-02,25,Italy,Watford FC,Premier League,2018/2019,2018
+25,Left-Back,José Holebas,1984-06-27,34,Greece,Watford FC,Premier League,2018/2019,2018
+2,Right-Back,Daryl Janmaat,1989-07-22,29,Netherlands,Watford FC,Premier League,2018/2019,2018
+21,Right-Back,Kiko Femenía,1991-02-02,28,Spain,Watford FC,Premier League,2018/2019,2018
+23,Right-Back,Marc Navarro,1995-07-02,23,Spain,Watford FC,Premier League,2018/2019,2018
+29,Defensive Midfield,Étienne Capoue,1988-07-11,30,France,Watford FC,Premier League,2018/2019,2018
+14,Defensive Midfield,Nathaniel Chalobah,1994-12-12,24,England,Watford FC,Premier League,2018/2019,2018
+16,Central Midfield,Abdoulaye Doucouré,1993-01-01,26,France,Watford FC,Premier League,2018/2019,2018
+19,Central Midfield,Will Hughes,1995-04-17,24,England,Watford FC,Premier League,2018/2019,2018
+8,Central Midfield,Tom Cleverley,1989-08-12,29,England,Watford FC,Premier League,2018/2019,2018
+20,Central Midfield,Domingos Quina,1999-11-18,19,Portugal,Watford FC,Premier League,2018/2019,2018
+37,Left Midfield,Roberto Pereyra,1991-01-07,28,Argentina,Watford FC,Premier League,2018/2019,2018
+12,Left Midfield,Ken Sema,1993-09-30,25,Sweden,Watford FC,Premier League,2018/2019,2018
+10,Left Winger,Isaac Success,1996-01-07,23,Nigeria,Watford FC,Premier League,2018/2019,2018
+7,Right Winger,Gerard Deulofeu,1994-03-13,25,Spain,Watford FC,Premier League,2018/2019,2018
+18,Centre-Forward,Andre Gray,1991-06-26,27,England,Watford FC,Premier League,2018/2019,2018
+9,Centre-Forward,Troy Deeney,1988-06-29,30,England,Watford FC,Premier League,2018/2019,2018
+17,Centre-Forward,Adalberto Peñaranda,1997-05-31,22,Venezuela,Watford FC,Premier League,2018/2019,2018
+NA,Centre-Forward,Jerome Sinclair,1996-09-20,22,England,Watford FC,Premier League,2018/2019,2018
+29,Goalkeeper,Nick Pope,1992-04-19,27,England,Burnley FC,Premier League,2018/2019,2018
+20,Goalkeeper,Joe Hart,1987-04-19,32,England,Burnley FC,Premier League,2018/2019,2018
+1,Goalkeeper,Tom Heaton,1986-04-15,33,England,Burnley FC,Premier League,2018/2019,2018
+22,Goalkeeper,Anders Lindegaard,1984-04-13,35,Denmark,Burnley FC,Premier League,2018/2019,2018
+30,Goalkeeper,Adam Legzdins,1986-11-28,32,England,Burnley FC,Premier League,2018/2019,2018
+5,Centre-Back,James Tarkowski,1992-11-19,26,England,Burnley FC,Premier League,2018/2019,2018
+14,Centre-Back,Ben Gibson,1993-01-15,26,England,Burnley FC,Premier League,2018/2019,2018
+6,Centre-Back,Ben Mee,1989-09-21,29,England,Burnley FC,Premier League,2018/2019,2018
+28,Centre-Back,Kevin Long,1990-08-18,28,Ireland,Burnley FC,Premier League,2018/2019,2018
+3,Left-Back,Charlie Taylor,1993-09-18,25,England,Burnley FC,Premier League,2018/2019,2018
+23,Left-Back,Stephen Ward,1985-08-20,33,Ireland,Burnley FC,Premier League,2018/2019,2018
+2,Right-Back,Matthew Lowton,1989-06-09,30,England,Burnley FC,Premier League,2018/2019,2018
+26,Right-Back,Phil Bardsley,1985-06-28,33,Scotland,Burnley FC,Premier League,2018/2019,2018
+4,Defensive Midfield,Jack Cork,1989-06-25,29,England,Burnley FC,Premier League,2018/2019,2018
+18,Defensive Midfield,Ashley Westwood,1990-04-01,29,England,Burnley FC,Premier League,2018/2019,2018
+13,Central Midfield,Jeff Hendrick,1992-01-31,27,Ireland,Burnley FC,Premier League,2018/2019,2018
+16,Central Midfield,Steven Defour,1988-04-15,31,Belgium,Burnley FC,Premier League,2018/2019,2018
+12,Left Midfield,Robbie Brady,1992-01-14,27,Ireland,Burnley FC,Premier League,2018/2019,2018
+31,Left Winger,Dwight McNeil,1999-11-22,19,England,Burnley FC,Premier League,2018/2019,2018
+7,Right Winger,Johann Berg Gudmundsson,1990-10-27,28,Iceland,Burnley FC,Premier League,2018/2019,2018
+25,Right Winger,Aaron Lennon,1987-04-16,32,England,Burnley FC,Premier League,2018/2019,2018
+11,Centre-Forward,Chris Wood,1991-12-07,27,New Zealand,Burnley FC,Premier League,2018/2019,2018
+27,Centre-Forward,Matej Vydra,1992-05-01,27,Czech Republic,Burnley FC,Premier League,2018/2019,2018
+10,Centre-Forward,Ashley Barnes,1989-10-30,29,England,Burnley FC,Premier League,2018/2019,2018
+NA,Centre-Forward,Nahki Wells,1990-06-01,29,Bermuda,Burnley FC,Premier League,2018/2019,2018
+15,Centre-Forward,Peter Crouch,1981-01-30,38,England,Burnley FC,Premier League,2018/2019,2018
+1,Goalkeeper,Mathew Ryan,1992-04-08,27,Australia,Brighton & Hove Albion,Premier League,2018/2019,2018
+27,Goalkeeper,David Button,1989-02-27,30,England,Brighton & Hove Albion,Premier League,2018/2019,2018
+NA,Goalkeeper,Christian Walton,1995-11-06,23,England,Brighton & Hove Albion,Premier League,2018/2019,2018
+23,Goalkeeper,Jason Steele,1990-08-18,28,England,Brighton & Hove Albion,Premier League,2018/2019,2018
+4,Centre-Back,Shane Duffy,1992-01-01,27,Ireland,Brighton & Hove Albion,Premier League,2018/2019,2018
+5,Centre-Back,Lewis Dunk,1991-11-21,27,England,Brighton & Hove Albion,Premier League,2018/2019,2018
+33,Centre-Back,Dan Burn,1992-05-09,27,England,Brighton & Hove Albion,Premier League,2018/2019,2018
+14,Centre-Back,Leon Balogun,1988-06-28,30,Nigeria,Brighton & Hove Albion,Premier League,2018/2019,2018
+30,Left-Back,Bernardo,1995-05-14,24,Brazil,Brighton & Hove Albion,Premier League,2018/2019,2018
+3,Left-Back,Gaëtan Bong,1988-04-25,31,Cameroon,Brighton & Hove Albion,Premier League,2018/2019,2018
+22,Right-Back,Martín Montoya,1991-04-14,28,Spain,Brighton & Hove Albion,Premier League,2018/2019,2018
+2,Right-Back,Bruno,1980-10-01,38,Spain,Brighton & Hove Albion,Premier League,2018/2019,2018
+8,Central Midfield,Yves Bissouma,1996-08-30,22,Mali,Brighton & Hove Albion,Premier League,2018/2019,2018
+24,Central Midfield,Davy Pröpper,1991-09-02,27,Netherlands,Brighton & Hove Albion,Premier League,2018/2019,2018
+6,Central Midfield,Dale Stephens,1989-12-12,29,England,Brighton & Hove Albion,Premier League,2018/2019,2018
+7,Central Midfield,Beram Kayal,1988-05-02,31,Israel,Brighton & Hove Albion,Premier League,2018/2019,2018
+NA,Central Midfield,Richie Towell,1991-07-17,27,Ireland,Brighton & Hove Albion,Premier League,2018/2019,2018
+20,Left Midfield,Solly March,1994-07-20,24,England,Brighton & Hove Albion,Premier League,2018/2019,2018
+13,Attacking Midfield,Pascal Groß,1991-06-15,27,Germany,Brighton & Hove Albion,Premier League,2018/2019,2018
+19,Left Winger,José Izquierdo,1992-07-07,26,Colombia,Brighton & Hove Albion,Premier League,2018/2019,2018
+16,Right Winger,Alireza Jahanbakhsh,1993-08-11,25,Iran,Brighton & Hove Albion,Premier League,2018/2019,2018
+11,Right Winger,Anthony Knockaert,1991-11-20,27,France,Brighton & Hove Albion,Premier League,2018/2019,2018
+9,Centre-Forward,Jürgen Locadia,1993-11-07,25,Netherlands,Brighton & Hove Albion,Premier League,2018/2019,2018
+10,Centre-Forward,Florin Andone,1993-04-11,26,Romania,Brighton & Hove Albion,Premier League,2018/2019,2018
+17,Centre-Forward,Glenn Murray,1983-09-25,35,England,Brighton & Hove Albion,Premier League,2018/2019,2018
+NA,Centre-Forward,Tomer Hemed,1987-05-02,32,Israel,Brighton & Hove Albion,Premier League,2018/2019,2018
+1,Goalkeeper,Jonas Lössl,1989-02-01,30,Denmark,Huddersfield Town,Premier League,2018/2019,2018
+12,Goalkeeper,Ben Hamer,1987-11-20,31,England,Huddersfield Town,Premier League,2018/2019,2018
+13,Goalkeeper,Joel Coleman,1995-09-26,23,England,Huddersfield Town,Premier League,2018/2019,2018
+NA,Goalkeeper,Ryan Schofield,1999-12-11,19,England,Huddersfield Town,Premier League,2018/2019,2018
+5,Centre-Back,Terence Kongolo,1994-02-14,25,Netherlands,Huddersfield Town,Premier League,2018/2019,2018
+26,Centre-Back,Christopher Schindler,1990-04-29,29,Germany,Huddersfield Town,Premier League,2018/2019,2018
+25,Centre-Back,Zanka,1990-04-23,29,Denmark,Huddersfield Town,Premier League,2018/2019,2018
+27,Centre-Back,Jon Gorenc-Stankovic,1996-01-14,23,Slovenia,Huddersfield Town,Premier League,2018/2019,2018
+15,Left-Back,Chris Löwe,1989-04-16,30,Germany,Huddersfield Town,Premier League,2018/2019,2018
+37,Left-Back,Erik Durm,1992-05-12,27,Germany,Huddersfield Town,Premier League,2018/2019,2018
+33,Right-Back,Florent Hadergjonaj,1994-07-31,24,Kosovo,Huddersfield Town,Premier League,2018/2019,2018
+2,Right-Back,Tom Smith,1992-04-14,27,England,Huddersfield Town,Premier League,2018/2019,2018
+19,Defensive Midfield,Danny Williams,1989-03-08,30,United States,Huddersfield Town,Premier League,2018/2019,2018
+10,Central Midfield,Aaron Mooy,1990-09-15,28,Australia,Huddersfield Town,Premier League,2018/2019,2018
+8,Central Midfield,Philip Billing,1996-06-11,23,Denmark,Huddersfield Town,Premier League,2018/2019,2018
+6,Central Midfield,Jonathan Hogg,1988-12-06,30,England,Huddersfield Town,Premier League,2018/2019,2018
+7,Central Midfield,Juninho Bacuna,1997-08-07,21,Netherlands,Huddersfield Town,Premier League,2018/2019,2018
+21,Attacking Midfield,Alex Pritchard,1993-05-03,26,England,Huddersfield Town,Premier League,2018/2019,2018
+42,Attacking Midfield,Jason Puncheon,1986-06-26,32,England,Huddersfield Town,Premier League,2018/2019,2018
+29,Attacking Midfield,Abdelhamid Sabiri,1996-11-28,22,Germany,Huddersfield Town,Premier League,2018/2019,2018
+NA,Attacking Midfield,Jack Payne,1994-10-25,24,England,Huddersfield Town,Premier League,2018/2019,2018
+NA,Left Winger,Rajiv van La Parra,1991-06-04,28,Netherlands,Huddersfield Town,Premier League,2018/2019,2018
+18,Right Winger,Isaac Mbenza,1996-03-08,23,Belgium,Huddersfield Town,Premier League,2018/2019,2018
+9,Right Winger,Elias Kachunga,1992-04-22,27,DR Congo,Huddersfield Town,Premier League,2018/2019,2018
+24,Centre-Forward,Steve Mounié,1994-09-29,24,Benin,Huddersfield Town,Premier League,2018/2019,2018
+11,Centre-Forward,Adama Diakhaby,1996-07-05,22,France,Huddersfield Town,Premier League,2018/2019,2018
+20,Centre-Forward,Laurent Depoitre,1988-12-07,30,Belgium,Huddersfield Town,Premier League,2018/2019,2018
+16,Centre-Forward,Karlan Grant,1997-09-18,21,England,Huddersfield Town,Premier League,2018/2019,2018
+1,Goalkeeper,Neil Etheridge,1990-02-07,29,Philippines,Cardiff City,Premier League,2018/2019,2018
+12,Goalkeeper,Alex Smithies,1990-03-05,29,England,Cardiff City,Premier League,2018/2019,2018
+28,Goalkeeper,Brian Murphy,1983-05-07,36,Ireland,Cardiff City,Premier League,2018/2019,2018
+4,Centre-Back,Sean Morrison,1991-01-08,28,England,Cardiff City,Premier League,2018/2019,2018
+5,Centre-Back,Bruno Ecuele Manga,1988-07-16,30,Gabon,Cardiff City,Premier League,2018/2019,2018
+22,Centre-Back,Sol Bamba,1985-01-13,34,Cote d'Ivoire,Cardiff City,Premier League,2018/2019,2018
+16,Centre-Back,Matthew Connolly,1987-09-24,31,England,Cardiff City,Premier League,2018/2019,2018
+18,Left-Back,Greg Cunningham,1991-01-31,28,Ireland,Cardiff City,Premier League,2018/2019,2018
+3,Left-Back,Joe Bennett,1990-03-28,29,England,Cardiff City,Premier League,2018/2019,2018
+2,Right-Back,Lee Peltier,1986-12-11,32,England,Cardiff City,Premier League,2018/2019,2018
+6,Right-Back,Jazz Richards,1991-04-12,28,Wales,Cardiff City,Premier League,2018/2019,2018
+21,Central Midfield,Víctor Camarasa,1994-05-28,25,Spain,Cardiff City,Premier League,2018/2019,2018
+8,Central Midfield,Joe Ralls,1993-10-13,25,England,Cardiff City,Premier League,2018/2019,2018
+13,Central Midfield,Callum Paterson,1994-10-13,24,Scotland,Cardiff City,Premier League,2018/2019,2018
+15,Central Midfield,Leandro Bacuna,1991-08-21,27,Curacao,Cardiff City,Premier League,2018/2019,2018
+NA,Central Midfield,Stuart O'Keefe,1991-03-04,28,England,Cardiff City,Premier League,2018/2019,2018
+20,Central Midfield,Loïc Damour,1991-01-08,28,France,Cardiff City,Premier League,2018/2019,2018
+23,Right Midfield,Kadeem Harris,1993-06-08,26,England,Cardiff City,Premier League,2018/2019,2018
+14,Attacking Midfield,Bobby Reid,1993-02-02,26,Jamaica,Cardiff City,Premier League,2018/2019,2018
+11,Left Winger,Josh Murphy,1995-02-24,24,England,Cardiff City,Premier League,2018/2019,2018
+33,Left Winger,Junior Hoilett,1990-06-05,29,Canada,Cardiff City,Premier League,2018/2019,2018
+19,Right Winger,Nathaniel Mendez-Laing,1992-04-15,27,England,Cardiff City,Premier League,2018/2019,2018
+NA,Second Striker,Lee Tomlin,1989-01-12,30,England,Cardiff City,Premier League,2018/2019,2018
+10,Centre-Forward,Kenneth Zohore,1994-01-31,25,Denmark,Cardiff City,Premier League,2018/2019,2018
+29,Centre-Forward,Oumar Niasse,1990-04-18,29,Senegal,Cardiff City,Premier League,2018/2019,2018
+NA,Centre-Forward,Gary Madine,1990-08-24,28,England,Cardiff City,Premier League,2018/2019,2018
+9,Centre-Forward,Danny Ward,1990-12-09,28,England,Cardiff City,Premier League,2018/2019,2018
+NA,Centre-Forward,Omar Bogle,1992-07-26,26,England,Cardiff City,Premier League,2018/2019,2018
+32,Centre-Forward,Rhys Healey,1994-12-06,24,England,Cardiff City,Premier League,2018/2019,2018
+NA,Centre-Forward,Jack McKay,1996-11-19,22,Scotland,Cardiff City,Premier League,2018/2019,2018
