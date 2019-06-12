@@ -1,0 +1,772 @@
+player_name,position,date_of_birth,age,nationality,club_name,league_name,season,year
+Dida,Goalkeeper,1973-10-07,34,Brazil,AC Milan,Serie A,2008/2009,2008
+Christian Abbiati,Goalkeeper,1977-07-08,30,Italy,AC Milan,Serie A,2008/2009,2008
+Zeljko Kalac,Goalkeeper,1972-12-16,35,Australia,AC Milan,Serie A,2008/2009,2008
+Alessandro Nesta,Centre-Back,1976-03-19,32,Italy,AC Milan,Serie A,2008/2009,2008
+Kakhaber Kaladze,Centre-Back,1978-02-27,30,Georgia,AC Milan,Serie A,2008/2009,2008
+Daniele Bonera,Centre-Back,1981-05-31,27,Italy,AC Milan,Serie A,2008/2009,2008
+Philippe Senderos,Centre-Back,1985-02-14,23,Switzerland,AC Milan,Serie A,2008/2009,2008
+Thiago Silva,Centre-Back,1984-09-22,23,Brazil,AC Milan,Serie A,2008/2009,2008
+Nicola Pasini,Centre-Back,1991-04-10,17,Italy,AC Milan,Serie A,2008/2009,2008
+Marek Jankulovski,Left-Back,1977-05-09,31,Czech Republic,AC Milan,Serie A,2008/2009,2008
+Luca Antonini,Left-Back,1982-08-04,25,Italy,AC Milan,Serie A,2008/2009,2008
+Paolo Maldini,Left-Back,1968-06-26,40,Italy,AC Milan,Serie A,2008/2009,2008
+Giuseppe Favalli,Left-Back,1972-01-08,36,Italy,AC Milan,Serie A,2008/2009,2008
+Denis Fondrini,Left-Back,1990-01-19,18,Italy,AC Milan,Serie A,2008/2009,2008
+Gianluca Zambrotta,Right-Back,1977-02-19,31,Italy,AC Milan,Serie A,2008/2009,2008
+Felipe Mattioni,Right-Back,1988-10-15,19,Brazil,AC Milan,Serie A,2008/2009,2008
+Matteo Darmian,Right-Back,1989-12-02,18,Italy,AC Milan,Serie A,2008/2009,2008
+Andrea Pirlo,Defensive Midfield,1979-05-19,29,Italy,AC Milan,Serie A,2008/2009,2008
+Mathieu Flamini,Defensive Midfield,1984-03-07,24,France,AC Milan,Serie A,2008/2009,2008
+Émerson,Defensive Midfield,1976-04-04,32,Brazil,AC Milan,Serie A,2008/2009,2008
+Rodney Strasser,Defensive Midfield,1990-03-30,18,Sierra Leone,AC Milan,Serie A,2008/2009,2008
+Wilfred Osuji,Defensive Midfield,1990-08-05,17,Nigeria,AC Milan,Serie A,2008/2009,2008
+Jordan Pedrocchi,Defensive Midfield,1991-02-14,17,Italy,AC Milan,Serie A,2008/2009,2008
+Gennaro Gattuso,Central Midfield,1978-01-09,30,Italy,AC Milan,Serie A,2008/2009,2008
+Clarence Seedorf,Central Midfield,1976-04-01,32,Netherlands,AC Milan,Serie A,2008/2009,2008
+Massimo Ambrosini,Central Midfield,1977-05-29,31,Italy,AC Milan,Serie A,2008/2009,2008
+Mathías Cardacio,Central Midfield,1987-10-02,20,Uruguay,AC Milan,Serie A,2008/2009,2008
+David Beckham,Right Midfield,1975-05-02,33,England,AC Milan,Serie A,2008/2009,2008
+Kaká,Attacking Midfield,1982-04-22,26,Brazil,AC Milan,Serie A,2008/2009,2008
+Ronaldinho,Attacking Midfield,1980-03-21,28,Brazil,AC Milan,Serie A,2008/2009,2008
+Tabaré Viúdez,Right Winger,1989-09-08,18,Uruguay,AC Milan,Serie A,2008/2009,2008
+Andrii Shevchenko,Centre-Forward,1976-09-29,31,Ukraine,AC Milan,Serie A,2008/2009,2008
+Alexandre Pato,Centre-Forward,1989-09-02,18,Brazil,AC Milan,Serie A,2008/2009,2008
+Marco Borriello,Centre-Forward,1982-06-18,26,Italy,AC Milan,Serie A,2008/2009,2008
+Filippo Inzaghi,Centre-Forward,1973-08-09,34,Italy,AC Milan,Serie A,2008/2009,2008
+Júlio César,Goalkeeper,1979-09-03,28,Brazil,FC Internazionale,Serie A,2008/2009,2008
+Francesco Toldo,Goalkeeper,1971-12-02,36,Italy,FC Internazionale,Serie A,2008/2009,2008
+Paolo Orlandoni,Goalkeeper,1972-08-12,35,Italy,FC Internazionale,Serie A,2008/2009,2008
+Cristian Chivu,Centre-Back,1980-10-26,27,Romania,FC Internazionale,Serie A,2008/2009,2008
+Wálter Samuel,Centre-Back,1978-03-23,30,Argentina,FC Internazionale,Serie A,2008/2009,2008
+Iván Córdoba,Centre-Back,1976-08-11,31,Colombia,FC Internazionale,Serie A,2008/2009,2008
+Marco Materazzi,Centre-Back,1973-08-19,34,Italy,FC Internazionale,Serie A,2008/2009,2008
+Nicolás Burdisso,Centre-Back,1981-04-12,27,Argentina,FC Internazionale,Serie A,2008/2009,2008
+Nelson Rivas,Centre-Back,1983-03-25,25,Colombia,FC Internazionale,Serie A,2008/2009,2008
+Andrea Mei,Centre-Back,1989-05-18,19,Italy,FC Internazionale,Serie A,2008/2009,2008
+Maxwell,Left-Back,1981-08-27,26,Brazil,FC Internazionale,Serie A,2008/2009,2008
+Davide Santon,Left-Back,1991-01-02,17,Italy,FC Internazionale,Serie A,2008/2009,2008
+Maicon,Right-Back,1981-07-26,26,Brazil,FC Internazionale,Serie A,2008/2009,2008
+Javier Zanetti,Right-Back,1973-08-10,34,Argentina,FC Internazionale,Serie A,2008/2009,2008
+Esteban Cambiasso,Defensive Midfield,1980-08-18,27,Argentina,FC Internazionale,Serie A,2008/2009,2008
+Patrick Vieira,Defensive Midfield,1976-06-23,32,France,FC Internazionale,Serie A,2008/2009,2008
+Olivier Dacourt,Defensive Midfield,1974-09-25,33,France,FC Internazionale,Serie A,2008/2009,2008
+Rene Krhin,Defensive Midfield,1990-05-21,18,Slovenia,FC Internazionale,Serie A,2008/2009,2008
+Dejan Stanković,Central Midfield,1978-09-11,29,Serbia,FC Internazionale,Serie A,2008/2009,2008
+Sulley Muntari,Central Midfield,1984-08-27,23,Ghana,FC Internazionale,Serie A,2008/2009,2008
+Pelé,Central Midfield,1987-09-14,20,Portugal,FC Internazionale,Serie A,2008/2009,2008
+Francesco Bolzoni,Central Midfield,1989-05-07,19,Italy,FC Internazionale,Serie A,2008/2009,2008
+Luis Jiménez,Attacking Midfield,1984-06-17,24,Chile,FC Internazionale,Serie A,2008/2009,2008
+Mancini,Left Winger,1980-08-01,27,Brazil,FC Internazionale,Serie A,2008/2009,2008
+Ricardo Quaresma,Right Winger,1983-09-26,24,Portugal,FC Internazionale,Serie A,2008/2009,2008
+Luís Figo,Right Winger,1972-11-04,35,Portugal,FC Internazionale,Serie A,2008/2009,2008
+Victor Obinna,Second Striker,1987-03-25,21,Nigeria,FC Internazionale,Serie A,2008/2009,2008
+Zlatan Ibrahimovic,Centre-Forward,1981-10-03,26,Sweden,FC Internazionale,Serie A,2008/2009,2008
+Adriano,Centre-Forward,1982-02-17,26,Brazil,FC Internazionale,Serie A,2008/2009,2008
+Hernán Crespo,Centre-Forward,1975-07-05,32,Argentina,FC Internazionale,Serie A,2008/2009,2008
+Julio Cruz,Centre-Forward,1974-10-10,33,Argentina,FC Internazionale,Serie A,2008/2009,2008
+Mario Balotelli,Centre-Forward,1990-08-12,17,Italy,FC Internazionale,Serie A,2008/2009,2008
+Doni,Goalkeeper,1979-10-22,28,Brazil,AS Roma,Serie A,2008/2009,2008
+Artur Moraes,Goalkeeper,1981-01-25,27,Brazil,AS Roma,Serie A,2008/2009,2008
+Júlio Sérgio,Goalkeeper,1978-11-08,29,Brazil,AS Roma,Serie A,2008/2009,2008
+Pietro Pipolo,Goalkeeper,1986-02-02,22,Italy,AS Roma,Serie A,2008/2009,2008
+Philippe Mexès,Centre-Back,1982-03-30,26,France,AS Roma,Serie A,2008/2009,2008
+Juan,Centre-Back,1979-02-01,29,Brazil,AS Roma,Serie A,2008/2009,2008
+Simone Loria,Centre-Back,1976-10-28,31,Italy,AS Roma,Serie A,2008/2009,2008
+Marco Andreolli,Centre-Back,1986-06-10,22,Italy,AS Roma,Serie A,2008/2009,2008
+Souleymane Diamoutene,Centre-Back,1983-01-30,25,Mali,AS Roma,Serie A,2008/2009,2008
+Riccardo Brosco,Centre-Back,1991-02-03,17,Italy,AS Roma,Serie A,2008/2009,2008
+Alessandro Malomo,Centre-Back,1991-04-12,17,Italy,AS Roma,Serie A,2008/2009,2008
+John Arne Riise,Left-Back,1980-09-24,27,Norway,AS Roma,Serie A,2008/2009,2008
+Max Tonetto,Left-Back,1974-11-18,33,Italy,AS Roma,Serie A,2008/2009,2008
+Alessandro Crescenzi,Left-Back,1991-09-25,16,Italy,AS Roma,Serie A,2008/2009,2008
+Cicinho,Right-Back,1980-06-24,28,Brazil,AS Roma,Serie A,2008/2009,2008
+Marco Cassetti,Right-Back,1977-05-29,31,Italy,AS Roma,Serie A,2008/2009,2008
+Christian Panucci,Right-Back,1973-04-12,35,Italy,AS Roma,Serie A,2008/2009,2008
+Marco Motta,Right-Back,1986-05-14,22,Italy,AS Roma,Serie A,2008/2009,2008
+Valerio Virga,Right-Back,1986-06-29,22,Italy,AS Roma,Serie A,2008/2009,2008
+Daniele De Rossi,Defensive Midfield,1983-07-24,24,Italy,AS Roma,Serie A,2008/2009,2008
+Filipe,Defensive Midfield,1987-05-28,21,Brazil,AS Roma,Serie A,2008/2009,2008
+Sebastian Mladen,Defensive Midfield,1991-12-11,16,Romania,AS Roma,Serie A,2008/2009,2008
+Alberto Aquilani,Central Midfield,1984-07-07,23,Italy,AS Roma,Serie A,2008/2009,2008
+David Pizarro,Central Midfield,1979-09-11,28,Chile,AS Roma,Serie A,2008/2009,2008
+Matteo Brighi,Central Midfield,1981-02-14,27,Italy,AS Roma,Serie A,2008/2009,2008
+Leandro Greco,Central Midfield,1986-07-19,21,Italy,AS Roma,Serie A,2008/2009,2008
+Andrea Bertolacci,Central Midfield,1991-01-11,17,Italy,AS Roma,Serie A,2008/2009,2008
+Édgar Álvarez,Right Midfield,1980-01-18,28,Honduras,AS Roma,Serie A,2008/2009,2008
+Marco D'Alessandro,Right Midfield,1991-02-17,17,Italy,AS Roma,Serie A,2008/2009,2008
+Adrian Pit,Left Midfield,1983-07-16,24,Romania,AS Roma,Serie A,2008/2009,2008
+Simone Perrotta,Attacking Midfield,1977-09-17,30,Italy,AS Roma,Serie A,2008/2009,2008
+Júlio Baptista,Attacking Midfield,1981-10-01,26,Brazil,AS Roma,Serie A,2008/2009,2008
+Adrian Stoian,Left Winger,1991-02-11,17,Romania,AS Roma,Serie A,2008/2009,2008
+Rodrigo Taddei,Right Winger,1980-03-06,28,Brazil,AS Roma,Serie A,2008/2009,2008
+Mauro Esposito,Right Winger,1979-06-13,29,Italy,AS Roma,Serie A,2008/2009,2008
+Mirko Vucinic,Second Striker,1983-10-01,24,Montenegro,AS Roma,Serie A,2008/2009,2008
+Jérémy Ménez,Second Striker,1987-05-07,21,France,AS Roma,Serie A,2008/2009,2008
+Francesco Totti,Centre-Forward,1976-09-27,31,Italy,AS Roma,Serie A,2008/2009,2008
+Vincenzo Montella,Centre-Forward,1974-06-18,34,Italy,AS Roma,Serie A,2008/2009,2008
+Stefano Okaka,Centre-Forward,1989-08-09,18,Italy,AS Roma,Serie A,2008/2009,2008
+Gianluigi Buffon,Goalkeeper,1978-01-28,30,Italy,Juventus FC,Serie A,2008/2009,2008
+Alexander Manninger,Goalkeeper,1977-06-04,31,Austria,Juventus FC,Serie A,2008/2009,2008
+Antonio Chimenti,Goalkeeper,1970-06-30,38,Italy,Juventus FC,Serie A,2008/2009,2008
+Giorgio Chiellini,Centre-Back,1984-08-14,23,Italy,Juventus FC,Serie A,2008/2009,2008
+Olof Mellberg,Centre-Back,1977-09-03,30,Sweden,Juventus FC,Serie A,2008/2009,2008
+Nicola Legrottaglie,Centre-Back,1976-10-20,31,Italy,Juventus FC,Serie A,2008/2009,2008
+Dario Knezevic,Centre-Back,1982-04-20,26,Croatia,Juventus FC,Serie A,2008/2009,2008
+Jonathan Zebina,Centre-Back,1978-07-19,29,France,Juventus FC,Serie A,2008/2009,2008
+Lorenzo Ariaudo,Centre-Back,1989-06-11,19,Italy,Juventus FC,Serie A,2008/2009,2008
+Cristian Molinaro,Left-Back,1983-07-30,24,Italy,Juventus FC,Serie A,2008/2009,2008
+Paolo De Ceglie,Left-Back,1986-09-17,21,Italy,Juventus FC,Serie A,2008/2009,2008
+Zdenek Grygera,Right-Back,1980-05-14,28,Czech Republic,Juventus FC,Serie A,2008/2009,2008
+Christian Poulsen,Defensive Midfield,1980-02-28,28,Denmark,Juventus FC,Serie A,2008/2009,2008
+Mohamed Sissoko,Defensive Midfield,1985-01-22,23,Mali,Juventus FC,Serie A,2008/2009,2008
+Cristiano Zanetti,Defensive Midfield,1977-04-19,31,Italy,Juventus FC,Serie A,2008/2009,2008
+Albin Ekdal,Defensive Midfield,1989-07-28,18,Sweden,Juventus FC,Serie A,2008/2009,2008
+Tiago,Central Midfield,1981-05-02,27,Portugal,Juventus FC,Serie A,2008/2009,2008
+Claudio Marchisio,Central Midfield,1986-01-19,22,Italy,Juventus FC,Serie A,2008/2009,2008
+Luca Castiglia,Central Midfield,1989-03-17,19,Italy,Juventus FC,Serie A,2008/2009,2008
+Fausto Rossi,Central Midfield,1990-12-03,17,Italy,Juventus FC,Serie A,2008/2009,2008
+Mauro Camoranesi,Right Midfield,1976-10-04,31,Italy,Juventus FC,Serie A,2008/2009,2008
+Marco Marchionni,Right Midfield,1980-07-22,27,Italy,Juventus FC,Serie A,2008/2009,2008
+Hasan Salihamidzic,Right Midfield,1977-01-01,31,Bosnia-Herzegovina,Juventus FC,Serie A,2008/2009,2008
+Pavel Nedved,Left Midfield,1972-08-30,35,Czech Republic,Juventus FC,Serie A,2008/2009,2008
+Cristian Pasquato,Attacking Midfield,1989-07-20,18,Italy,Juventus FC,Serie A,2008/2009,2008
+Simone Esposito,Right Winger,1990-05-24,18,Italy,Juventus FC,Serie A,2008/2009,2008
+Iago Falque,Right Winger,1990-01-04,18,Spain,Juventus FC,Serie A,2008/2009,2008
+Alessandro Del Piero,Second Striker,1974-11-09,33,Italy,Juventus FC,Serie A,2008/2009,2008
+Sebastian Giovinco,Second Striker,1987-01-26,21,Italy,Juventus FC,Serie A,2008/2009,2008
+Ayub Daud,Second Striker,1990-02-24,18,Somalia,Juventus FC,Serie A,2008/2009,2008
+David Trézéguet,Centre-Forward,1977-10-15,30,France,Juventus FC,Serie A,2008/2009,2008
+Amauri,Centre-Forward,1980-06-03,28,Italy,Juventus FC,Serie A,2008/2009,2008
+Vincenzo Iaquinta,Centre-Forward,1979-11-21,28,Italy,Juventus FC,Serie A,2008/2009,2008
+Ciro Immobile,Centre-Forward,1990-02-20,18,Italy,Juventus FC,Serie A,2008/2009,2008
+Sébastien Frey,Goalkeeper,1980-03-18,28,France,ACF Fiorentina,Serie A,2008/2009,2008
+Marco Storari,Goalkeeper,1977-01-07,31,Italy,ACF Fiorentina,Serie A,2008/2009,2008
+Vlada Avramov,Goalkeeper,1979-04-05,29,Serbia,ACF Fiorentina,Serie A,2008/2009,2008
+Andrea Seculin,Goalkeeper,1990-07-14,17,Italy,ACF Fiorentina,Serie A,2008/2009,2008
+Alessandro Gamberini,Centre-Back,1981-08-27,26,Italy,ACF Fiorentina,Serie A,2008/2009,2008
+Dario Dainelli,Centre-Back,1979-06-09,29,Italy,ACF Fiorentina,Serie A,2008/2009,2008
+Per Kröldrup,Centre-Back,1979-07-31,28,Denmark,ACF Fiorentina,Serie A,2008/2009,2008
+Manuel da Costa,Centre-Back,1986-05-06,22,Morocco,ACF Fiorentina,Serie A,2008/2009,2008
+Ondrej Mazuch,Centre-Back,1989-03-15,19,Czech Republic,ACF Fiorentina,Serie A,2008/2009,2008
+Massimiliano Tagliani,Centre-Back,1989-04-04,19,Italy,ACF Fiorentina,Serie A,2008/2009,2008
+Federico Masi,Centre-Back,1990-10-10,17,Italy,ACF Fiorentina,Serie A,2008/2009,2008
+Juan Manuel Vargas,Left-Back,1983-10-05,24,Peru,ACF Fiorentina,Serie A,2008/2009,2008
+Manuel Pasqual,Left-Back,1982-03-13,26,Italy,ACF Fiorentina,Serie A,2008/2009,2008
+Massimo Gobbi,Left-Back,1980-10-31,27,Italy,ACF Fiorentina,Serie A,2008/2009,2008
+Nikola Gulan,Left-Back,1989-03-23,19,Serbia,ACF Fiorentina,Serie A,2008/2009,2008
+Luciano Zauri,Right-Back,1978-01-20,30,Italy,ACF Fiorentina,Serie A,2008/2009,2008
+Gianluca Comotto,Right-Back,1978-10-16,29,Italy,ACF Fiorentina,Serie A,2008/2009,2008
+Riccardo Montolivo,Defensive Midfield,1985-01-18,23,Italy,ACF Fiorentina,Serie A,2008/2009,2008
+Marco Donadel,Defensive Midfield,1983-04-21,25,Italy,ACF Fiorentina,Serie A,2008/2009,2008
+Felipe Melo,Defensive Midfield,1983-06-26,25,Brazil,ACF Fiorentina,Serie A,2008/2009,2008
+Pape Diakhatè,Defensive Midfield,1989-04-22,19,Senegal,ACF Fiorentina,Serie A,2008/2009,2008
+Sergio Almirón,Central Midfield,1980-11-07,27,Argentina,ACF Fiorentina,Serie A,2008/2009,2008
+Zdravko Kuzmanović,Central Midfield,1987-09-22,20,Serbia,ACF Fiorentina,Serie A,2008/2009,2008
+Martin Jörgensen,Central Midfield,1975-10-06,32,Denmark,ACF Fiorentina,Serie A,2008/2009,2008
+Jan Hable,Central Midfield,1989-01-04,19,Czech Republic,ACF Fiorentina,Serie A,2008/2009,2008
+Franco Semioli,Right Winger,1980-06-20,28,Italy,ACF Fiorentina,Serie A,2008/2009,2008
+N'Diaye Papa Waigo,Right Winger,1984-01-20,24,Senegal,ACF Fiorentina,Serie A,2008/2009,2008
+Mario Santana,Second Striker,1981-12-23,26,Argentina,ACF Fiorentina,Serie A,2008/2009,2008
+Adrian Mutu,Centre-Forward,1979-01-08,29,Romania,ACF Fiorentina,Serie A,2008/2009,2008
+Alberto Gilardino,Centre-Forward,1982-07-05,25,Italy,ACF Fiorentina,Serie A,2008/2009,2008
+Giampaolo Pazzini,Centre-Forward,1984-08-02,23,Italy,ACF Fiorentina,Serie A,2008/2009,2008
+Stevan Jovetic,Centre-Forward,1989-11-02,18,Montenegro,ACF Fiorentina,Serie A,2008/2009,2008
+Daniel Osvaldo,Centre-Forward,1986-01-12,22,Italy,ACF Fiorentina,Serie A,2008/2009,2008
+Emiliano Bonazzoli,Centre-Forward,1979-01-20,29,Italy,ACF Fiorentina,Serie A,2008/2009,2008
+Arturo Lupoli,Centre-Forward,1987-06-24,21,Italy,ACF Fiorentina,Serie A,2008/2009,2008
+Samuel Di Carmine,Centre-Forward,1988-09-29,19,Italy,ACF Fiorentina,Serie A,2008/2009,2008
+Piergiuseppe Maritato,Centre-Forward,1989-03-19,19,Italy,ACF Fiorentina,Serie A,2008/2009,2008
+Jefferson,Centre-Forward,1988-01-06,20,Brazil,ACF Fiorentina,Serie A,2008/2009,2008
+Marco Amelia,Goalkeeper,1982-04-02,26,Italy,US Palermo,Serie A,2008/2009,2008
+Alberto Fontana,Goalkeeper,1967-01-23,41,Italy,US Palermo,Serie A,2008/2009,2008
+Samir Ujkani,Goalkeeper,1988-07-05,19,Kosovo,US Palermo,Serie A,2008/2009,2008
+Giuseppe Ingrassia,Goalkeeper,1988-09-09,19,Italy,US Palermo,Serie A,2008/2009,2008
+Rosario Costantino,Defender,1988-02-06,20,Italy,US Palermo,Serie A,2008/2009,2008
+Andrea Raggi,Centre-Back,1984-06-24,24,Italy,US Palermo,Serie A,2008/2009,2008
+Moris Carrozzieri,Centre-Back,1980-11-16,27,Italy,US Palermo,Serie A,2008/2009,2008
+Cesare Bovo,Centre-Back,1983-01-14,25,Italy,US Palermo,Serie A,2008/2009,2008
+Paolo Dellafiore,Centre-Back,1985-02-02,23,Italy,US Palermo,Serie A,2008/2009,2008
+Simon Kjær,Centre-Back,1989-03-26,19,Denmark,US Palermo,Serie A,2008/2009,2008
+Ciro Capuano,Centre-Back,1981-07-10,26,Italy,US Palermo,Serie A,2008/2009,2008
+Alberto Cossentino,Centre-Back,1988-09-10,19,Italy,US Palermo,Serie A,2008/2009,2008
+Samuele Romeo,Centre-Back,1989-03-06,19,Italy,US Palermo,Serie A,2008/2009,2008
+Adriano Siragusa,Centre-Back,1990-03-13,18,Italy,US Palermo,Serie A,2008/2009,2008
+Federico Balzaretti,Left-Back,1981-12-06,26,Italy,US Palermo,Serie A,2008/2009,2008
+Mirko Savini,Left-Back,1979-03-11,29,Italy,US Palermo,Serie A,2008/2009,2008
+Luca Di Matteo,Left-Back,1988-02-25,20,Italy,US Palermo,Serie A,2008/2009,2008
+Antonio Mazzotta,Left-Back,1989-08-02,18,Italy,US Palermo,Serie A,2008/2009,2008
+Mattia Cassani,Right-Back,1983-08-26,24,Italy,US Palermo,Serie A,2008/2009,2008
+Michel Morganella,Right-Back,1989-05-17,19,Switzerland,US Palermo,Serie A,2008/2009,2008
+Antonino Sposito,Midfielder,1990-04-13,18,Italy,US Palermo,Serie A,2008/2009,2008
+Fabio Liverani,Defensive Midfield,1976-04-29,32,Italy,US Palermo,Serie A,2008/2009,2008
+Salvatore Temperino,Defensive Midfield,1989-04-01,19,Italy,US Palermo,Serie A,2008/2009,2008
+Antonio Nocerino,Central Midfield,1985-04-09,23,Italy,US Palermo,Serie A,2008/2009,2008
+Fábio Simplício,Central Midfield,1979-09-23,28,Brazil,US Palermo,Serie A,2008/2009,2008
+Giulio Migliaccio,Central Midfield,1981-06-23,27,Italy,US Palermo,Serie A,2008/2009,2008
+Mark Bresciano,Central Midfield,1980-02-11,28,Australia,US Palermo,Serie A,2008/2009,2008
+Roberto Guana,Central Midfield,1981-01-21,27,Italy,US Palermo,Serie A,2008/2009,2008
+Maurizio Ciaramitaro,Central Midfield,1982-01-16,26,Italy,US Palermo,Serie A,2008/2009,2008
+Antonio Tranchina,Central Midfield,1988-10-20,19,Italy,US Palermo,Serie A,2008/2009,2008
+Guido Davì,Central Midfield,1990-09-16,17,Italy,US Palermo,Serie A,2008/2009,2008
+Gianvito Misuraca,Central Midfield,1990-04-02,18,Italy,US Palermo,Serie A,2008/2009,2008
+Giovanni Tedesco,Right Midfield,1972-05-13,36,Italy,US Palermo,Serie A,2008/2009,2008
+Daniele Conti,Left Midfield,1989-07-25,18,Italy,US Palermo,Serie A,2008/2009,2008
+Giacomo Lo Monaco,Left Midfield,1991-08-05,16,Italy,US Palermo,Serie A,2008/2009,2008
+Boško Janković,Right Winger,1984-03-01,24,Serbia,US Palermo,Serie A,2008/2009,2008
+Paolo Carbonaro,Second Striker,1989-02-16,19,Italy,US Palermo,Serie A,2008/2009,2008
+Marco Giovio,Second Striker,1990-07-05,17,Italy,US Palermo,Serie A,2008/2009,2008
+Fabrizio Miccoli,Centre-Forward,1979-06-27,29,Italy,US Palermo,Serie A,2008/2009,2008
+Igor Budan,Centre-Forward,1980-04-22,28,Croatia,US Palermo,Serie A,2008/2009,2008
+Túlio de Melo,Centre-Forward,1985-01-31,23,Brazil,US Palermo,Serie A,2008/2009,2008
+Edinson Cavani,Centre-Forward,1987-02-14,21,Uruguay,US Palermo,Serie A,2008/2009,2008
+Davide Lanzafame,Centre-Forward,1987-02-09,21,Italy,US Palermo,Serie A,2008/2009,2008
+Davide Succi,Centre-Forward,1981-10-11,26,Italy,US Palermo,Serie A,2008/2009,2008
+Gianluca Palmiteri,Centre-Forward,1988-01-24,20,Italy,US Palermo,Serie A,2008/2009,2008
+Abel Hernández,Centre-Forward,1990-08-08,17,Uruguay,US Palermo,Serie A,2008/2009,2008
+Levan Mchedlidze,Centre-Forward,1990-03-24,18,Georgia,US Palermo,Serie A,2008/2009,2008
+Juan Pablo Carrizo,Goalkeeper,1984-05-06,24,Argentina,SS Lazio,Serie A,2008/2009,2008
+Fernando Muslera,Goalkeeper,1986-06-16,22,Uruguay,SS Lazio,Serie A,2008/2009,2008
+Tommaso Berni,Goalkeeper,1983-03-06,25,Italy,SS Lazio,Serie A,2008/2009,2008
+Simone Santarelli,Goalkeeper,1988-09-07,19,Italy,SS Lazio,Serie A,2008/2009,2008
+Vincent Degre,Goalkeeper,1989-01-03,19,France,SS Lazio,Serie A,2008/2009,2008
+Cribari,Centre-Back,1980-03-06,28,Brazil,SS Lazio,Serie A,2008/2009,2008
+David Rozehnal,Centre-Back,1980-07-05,27,Czech Republic,SS Lazio,Serie A,2008/2009,2008
+Sebastiano Siviglia,Centre-Back,1973-03-29,35,Italy,SS Lazio,Serie A,2008/2009,2008
+Stefan Radu,Centre-Back,1986-10-22,21,Romania,SS Lazio,Serie A,2008/2009,2008
+Modibo Diakité,Centre-Back,1987-03-02,21,France,SS Lazio,Serie A,2008/2009,2008
+Alessandro Tuia,Centre-Back,1990-06-08,18,Italy,SS Lazio,Serie A,2008/2009,2008
+Aleksandar Kolarov,Left-Back,1985-11-10,22,Serbia,SS Lazio,Serie A,2008/2009,2008
+Stephan Lichtsteiner,Right-Back,1984-01-16,24,Switzerland,SS Lazio,Serie A,2008/2009,2008
+Lorenzo De Silvestri,Right-Back,1988-05-23,20,Italy,SS Lazio,Serie A,2008/2009,2008
+Manuel Belleri,Right-Back,1977-08-29,30,Italy,SS Lazio,Serie A,2008/2009,2008
+Davide Faraoni,Right-Back,1991-10-25,16,Italy,SS Lazio,Serie A,2008/2009,2008
+Cristian Ledesma,Defensive Midfield,1982-09-24,25,Italy,SS Lazio,Serie A,2008/2009,2008
+Matuzalém,Defensive Midfield,1980-06-10,28,Brazil,SS Lazio,Serie A,2008/2009,2008
+Ousmane Dabo,Defensive Midfield,1977-02-08,31,France,SS Lazio,Serie A,2008/2009,2008
+Massimo Mutarelli,Central Midfield,1978-01-13,30,Italy,SS Lazio,Serie A,2008/2009,2008
+Cristian Brocchi,Central Midfield,1976-01-30,32,Italy,SS Lazio,Serie A,2008/2009,2008
+Fabio Firmani,Central Midfield,1978-05-26,30,Italy,SS Lazio,Serie A,2008/2009,2008
+Antonio Cinelli,Central Midfield,1989-12-08,18,Italy,SS Lazio,Serie A,2008/2009,2008
+Riccardo Perpetuini,Central Midfield,1990-08-04,17,Italy,SS Lazio,Serie A,2008/2009,2008
+Stefano Mauri,Attacking Midfield,1980-01-08,28,Italy,SS Lazio,Serie A,2008/2009,2008
+Pasquale Foggia,Attacking Midfield,1983-06-03,25,Italy,SS Lazio,Serie A,2008/2009,2008
+Mourad Meghni,Attacking Midfield,1984-04-16,24,Algeria,SS Lazio,Serie A,2008/2009,2008
+Simone Del Nero,Left Winger,1981-08-04,26,Italy,SS Lazio,Serie A,2008/2009,2008
+Christian Manfredini,Left Winger,1975-05-01,33,Cote d'Ivoire,SS Lazio,Serie A,2008/2009,2008
+Francesco Mancini,Right Winger,1990-06-21,18,Italy,SS Lazio,Serie A,2008/2009,2008
+Goran Pandev,Second Striker,1983-07-27,24,North Macedonia,SS Lazio,Serie A,2008/2009,2008
+Mauro Zárate,Second Striker,1987-03-18,21,Argentina,SS Lazio,Serie A,2008/2009,2008
+Ettore Mendicino,Second Striker,1990-02-11,18,Italy,SS Lazio,Serie A,2008/2009,2008
+Tommaso Rocchi,Centre-Forward,1977-09-19,30,Italy,SS Lazio,Serie A,2008/2009,2008
+Stephen Makinwa,Centre-Forward,1983-07-26,24,Nigeria,SS Lazio,Serie A,2008/2009,2008
+Simone Inzaghi,Centre-Forward,1976-04-05,32,Italy,SS Lazio,Serie A,2008/2009,2008
+Libor Kozak,Centre-Forward,1989-05-30,19,Czech Republic,SS Lazio,Serie A,2008/2009,2008
+Samir Handanovic,Goalkeeper,1984-07-14,23,Slovenia,Udinese Calcio,Serie A,2008/2009,2008
+Emanuele Belardi,Goalkeeper,1977-10-09,30,Italy,Udinese Calcio,Serie A,2008/2009,2008
+Jan Koprivec,Goalkeeper,1988-07-15,19,Slovenia,Udinese Calcio,Serie A,2008/2009,2008
+Alin Bucuroiu,Goalkeeper,1991-07-05,16,Romania,Udinese Calcio,Serie A,2008/2009,2008
+Alberto Cobrea,Goalkeeper,1990-11-01,17,Romania,Udinese Calcio,Serie A,2008/2009,2008
+Cristián Zapata,Centre-Back,1986-09-30,21,Colombia,Udinese Calcio,Serie A,2008/2009,2008
+Maurizio Domizzi,Centre-Back,1980-06-28,28,Italy,Udinese Calcio,Serie A,2008/2009,2008
+Felipe,Centre-Back,1984-07-31,23,Brazil,Udinese Calcio,Serie A,2008/2009,2008
+Andrea Coda,Centre-Back,1985-04-25,23,Italy,Udinese Calcio,Serie A,2008/2009,2008
+Aleksandar Lukovic,Centre-Back,1982-10-23,25,Serbia,Udinese Calcio,Serie A,2008/2009,2008
+Damiano Ferronetti,Centre-Back,1984-11-01,23,Italy,Udinese Calcio,Serie A,2008/2009,2008
+Alain Nef,Centre-Back,1982-02-06,26,Switzerland,Udinese Calcio,Serie A,2008/2009,2008
+Nikola Vujadinovic,Centre-Back,1986-07-31,21,Montenegro,Udinese Calcio,Serie A,2008/2009,2008
+Luigi Sala,Centre-Back,1974-02-21,34,Italy,Udinese Calcio,Serie A,2008/2009,2008
+Mohamadou Sissoko,Centre-Back,1988-08-08,19,France,Udinese Calcio,Serie A,2008/2009,2008
+Giovanni Pasquale,Left-Back,1982-01-05,26,Italy,Udinese Calcio,Serie A,2008/2009,2008
+Moreno,Left-Back,1983-02-23,25,Brazil,Udinese Calcio,Serie A,2008/2009,2008
+Kwadwo Asamoah,Left-Back,1988-12-09,19,Ghana,Udinese Calcio,Serie A,2008/2009,2008
+Marco Motta,Right-Back,1986-05-14,22,Italy,Udinese Calcio,Serie A,2008/2009,2008
+Mauricio Isla,Right-Back,1988-06-12,20,Chile,Udinese Calcio,Serie A,2008/2009,2008
+Giovanni Formiconi,Right-Back,1989-12-14,18,Italy,Udinese Calcio,Serie A,2008/2009,2008
+Luca Ursella,Midfielder,1990-10-23,17,Italy,Udinese Calcio,Serie A,2008/2009,2008
+Gökhan Inler,Defensive Midfield,1984-06-27,24,Switzerland,Udinese Calcio,Serie A,2008/2009,2008
+Niki Zimling,Defensive Midfield,1985-04-19,23,Denmark,Udinese Calcio,Serie A,2008/2009,2008
+Girolamo Provenzano,Defensive Midfield,1989-03-13,19,Italy,Udinese Calcio,Serie A,2008/2009,2008
+Gaetano D'Agostino,Central Midfield,1982-06-03,26,Italy,Udinese Calcio,Serie A,2008/2009,2008
+Fernando Tissone,Central Midfield,1986-07-24,21,Argentina,Udinese Calcio,Serie A,2008/2009,2008
+Christian Obodo,Central Midfield,1984-05-11,24,Nigeria,Udinese Calcio,Serie A,2008/2009,2008
+Viktor Budyanskiy,Central Midfield,1984-01-12,24,Russia,Udinese Calcio,Serie A,2008/2009,2008
+Andrea Mazzarani,Attacking Midfield,1989-11-06,18,Italy,Udinese Calcio,Serie A,2008/2009,2008
+Alexis Sánchez,Left Winger,1988-12-19,19,Chile,Udinese Calcio,Serie A,2008/2009,2008
+Simone Pepe,Right Winger,1983-08-30,24,Italy,Udinese Calcio,Serie A,2008/2009,2008
+Daniel Bradaschia,Second Striker,1989-03-02,19,Italy,Udinese Calcio,Serie A,2008/2009,2008
+Antonio Di Natale,Centre-Forward,1977-10-13,30,Italy,Udinese Calcio,Serie A,2008/2009,2008
+Fabio Quagliarella,Centre-Forward,1983-01-31,25,Italy,Udinese Calcio,Serie A,2008/2009,2008
+Antonio Floro Flores,Centre-Forward,1983-06-18,25,Italy,Udinese Calcio,Serie A,2008/2009,2008
+Odion Ighalo,Centre-Forward,1989-06-16,19,Nigeria,Udinese Calcio,Serie A,2008/2009,2008
+Nicolás Navarro,Goalkeeper,1985-03-25,23,Argentina,SSC Napoli,Serie A,2008/2009,2008
+Gennaro Iezzo,Goalkeeper,1973-06-08,35,Italy,SSC Napoli,Serie A,2008/2009,2008
+Matteo Gianello,Goalkeeper,1976-05-07,32,Italy,SSC Napoli,Serie A,2008/2009,2008
+Luca Bucci,Goalkeeper,1969-03-13,39,Italy,SSC Napoli,Serie A,2008/2009,2008
+Luigi Sepe,Goalkeeper,1991-05-08,17,Italy,SSC Napoli,Serie A,2008/2009,2008
+Mario D'Urso,Defender,1989-10-10,18,Italy,SSC Napoli,Serie A,2008/2009,2008
+Fabiano Santacroce,Centre-Back,1986-08-24,21,Italy,SSC Napoli,Serie A,2008/2009,2008
+Maurizio Domizzi,Centre-Back,1980-06-28,28,Italy,SSC Napoli,Serie A,2008/2009,2008
+Paolo Cannavaro,Centre-Back,1981-06-26,27,Italy,SSC Napoli,Serie A,2008/2009,2008
+Leandro Rinaudo,Centre-Back,1983-05-09,25,Italy,SSC Napoli,Serie A,2008/2009,2008
+Matteo Contini,Centre-Back,1980-04-16,28,Italy,SSC Napoli,Serie A,2008/2009,2008
+Salvatore Aronica,Centre-Back,1978-01-20,30,Italy,SSC Napoli,Serie A,2008/2009,2008
+Mirko Savini,Left-Back,1979-03-11,29,Italy,SSC Napoli,Serie A,2008/2009,2008
+Luca Lacrimini,Left-Back,1978-03-10,30,Italy,SSC Napoli,Serie A,2008/2009,2008
+Luigi Vitale,Left-Back,1987-10-05,20,Italy,SSC Napoli,Serie A,2008/2009,2008
+Francesco Bruno,Left-Back,1990-01-23,18,Italy,SSC Napoli,Serie A,2008/2009,2008
+Christian Maggio,Right-Back,1982-02-11,26,Italy,SSC Napoli,Serie A,2008/2009,2008
+Gianluca Grava,Right-Back,1977-03-07,31,Italy,SSC Napoli,Serie A,2008/2009,2008
+Walter Gargano,Defensive Midfield,1984-07-23,23,Uruguay,SSC Napoli,Serie A,2008/2009,2008
+Michele Pazienza,Defensive Midfield,1982-08-05,25,Italy,SSC Napoli,Serie A,2008/2009,2008
+Nicolás Amodio,Defensive Midfield,1983-03-10,25,Uruguay,SSC Napoli,Serie A,2008/2009,2008
+Marek Hamsik,Central Midfield,1987-07-27,20,Slovakia,SSC Napoli,Serie A,2008/2009,2008
+Manuele Blasi,Central Midfield,1980-08-17,27,Italy,SSC Napoli,Serie A,2008/2009,2008
+Samuele Dalla Bona,Central Midfield,1981-02-06,27,Italy,SSC Napoli,Serie A,2008/2009,2008
+Francesco Montervino,Central Midfield,1978-05-07,30,Italy,SSC Napoli,Serie A,2008/2009,2008
+Daniele Mannini,Right Midfield,1983-10-25,24,Italy,SSC Napoli,Serie A,2008/2009,2008
+Jesús Dátolo,Left Midfield,1984-05-19,24,Argentina,SSC Napoli,Serie A,2008/2009,2008
+Mariano Bogliacino,Attacking Midfield,1980-06-02,28,Uruguay,SSC Napoli,Serie A,2008/2009,2008
+Roberto De Zerbi,Attacking Midfield,1979-06-06,29,Italy,SSC Napoli,Serie A,2008/2009,2008
+Andrea Russotto,Attacking Midfield,1988-05-25,20,Italy,SSC Napoli,Serie A,2008/2009,2008
+Piá,Left Winger,1982-03-22,26,Brazil,SSC Napoli,Serie A,2008/2009,2008
+Camillo Ciano,Right Winger,1990-02-22,18,Italy,SSC Napoli,Serie A,2008/2009,2008
+Ezequiel Lavezzi,Second Striker,1985-05-03,23,Argentina,SSC Napoli,Serie A,2008/2009,2008
+Germán Denis,Centre-Forward,1981-09-10,26,Argentina,SSC Napoli,Serie A,2008/2009,2008
+Marcelo Zalayeta,Centre-Forward,1978-12-05,29,Uruguay,SSC Napoli,Serie A,2008/2009,2008
+Gaetano Grieco,Centre-Forward,1982-11-07,25,Italy,SSC Napoli,Serie A,2008/2009,2008
+Rubinho,Goalkeeper,1982-08-04,25,Brazil,Genoa CFC,Serie A,2008/2009,2008
+Alessio Scarpi,Goalkeeper,1973-04-19,35,Italy,Genoa CFC,Serie A,2008/2009,2008
+Eugenio Lamanna,Goalkeeper,1989-08-07,18,Italy,Genoa CFC,Serie A,2008/2009,2008
+Stefano Raggio Garibaldi,Goalkeeper,1989-03-27,19,Italy,Genoa CFC,Serie A,2008/2009,2008
+Mirko Lamantia,Goalkeeper,1990-03-01,18,Italy,Genoa CFC,Serie A,2008/2009,2008
+Matteo Ferrari,Centre-Back,1979-12-05,28,Italy,Genoa CFC,Serie A,2008/2009,2008
+Sokratis,Centre-Back,1988-06-09,20,Greece,Genoa CFC,Serie A,2008/2009,2008
+Alessandro Potenza,Centre-Back,1984-03-08,24,Italy,Genoa CFC,Serie A,2008/2009,2008
+Giuseppe Biava,Centre-Back,1977-05-08,31,Italy,Genoa CFC,Serie A,2008/2009,2008
+Salvatore Bocchetti,Centre-Back,1986-11-30,21,Italy,Genoa CFC,Serie A,2008/2009,2008
+Andrea Signorini,Centre-Back,1990-01-31,18,Italy,Genoa CFC,Serie A,2008/2009,2008
+Leonardo Terigi,Centre-Back,1991-03-21,17,Italy,Genoa CFC,Serie A,2008/2009,2008
+Selim Ben Djemia,Centre-Back,1989-01-29,19,Tunisia,Genoa CFC,Serie A,2008/2009,2008
+Alessio Grea,Centre-Back,1990-05-29,18,Italy,Genoa CFC,Serie A,2008/2009,2008
+Francesco Modesto,Left-Back,1982-02-16,26,Italy,Genoa CFC,Serie A,2008/2009,2008
+Domenico Criscito,Left-Back,1986-12-30,21,Italy,Genoa CFC,Serie A,2008/2009,2008
+Davide Brivio,Left-Back,1988-03-17,20,Italy,Genoa CFC,Serie A,2008/2009,2008
+Giandomenico Mesto,Right-Back,1982-05-25,26,Italy,Genoa CFC,Serie A,2008/2009,2008
+Anthony Vanden Borre,Right-Back,1987-10-24,20,Belgium,Genoa CFC,Serie A,2008/2009,2008
+Thiago Motta,Defensive Midfield,1982-08-28,25,Italy,Genoa CFC,Serie A,2008/2009,2008
+Omar Milanetto,Defensive Midfield,1975-11-30,32,Italy,Genoa CFC,Serie A,2008/2009,2008
+Ivan Juric,Defensive Midfield,1975-08-25,32,Croatia,Genoa CFC,Serie A,2008/2009,2008
+Davide Di Gennaro,Defensive Midfield,1988-06-16,20,Italy,Genoa CFC,Serie A,2008/2009,2008
+Nicolás Domingo,Defensive Midfield,1985-08-04,22,Argentina,Genoa CFC,Serie A,2008/2009,2008
+Marcel Román,Defensive Midfield,1988-02-07,20,Uruguay,Genoa CFC,Serie A,2008/2009,2008
+Louise Parfait,Defensive Midfield,1990-07-06,17,Cameroon,Genoa CFC,Serie A,2008/2009,2008
+Matteo Paro,Central Midfield,1983-03-17,25,Italy,Genoa CFC,Serie A,2008/2009,2008
+Rubén Olivera,Central Midfield,1983-05-04,25,Uruguay,Genoa CFC,Serie A,2008/2009,2008
+Stefano Botta,Central Midfield,1986-11-03,21,Italy,Genoa CFC,Serie A,2008/2009,2008
+Isaac Cofie,Central Midfield,1991-09-20,16,Ghana,Genoa CFC,Serie A,2008/2009,2008
+Matteo D'Alessandro,Central Midfield,1989-05-18,19,Italy,Genoa CFC,Serie A,2008/2009,2008
+Loris Damonte,Central Midfield,1990-08-05,17,Italy,Genoa CFC,Serie A,2008/2009,2008
+Nicholas Costantini,Central Midfield,1989-07-31,18,Italy,Genoa CFC,Serie A,2008/2009,2008
+Marco Rossi,Right Midfield,1978-04-01,30,Italy,Genoa CFC,Serie A,2008/2009,2008
+Carlo Polli,Right Midfield,1989-02-07,19,Switzerland,Genoa CFC,Serie A,2008/2009,2008
+Mattia Ferraro,Right Midfield,1990-05-21,18,Italy,Genoa CFC,Serie A,2008/2009,2008
+Raffaele Palladino,Left Winger,1984-04-17,24,Italy,Genoa CFC,Serie A,2008/2009,2008
+Giuseppe Sculli,Left Winger,1981-03-23,27,Italy,Genoa CFC,Serie A,2008/2009,2008
+Stephan El Shaarawy,Left Winger,1992-10-27,15,Italy,Genoa CFC,Serie A,2008/2009,2008
+Dejan Lazarevic,Left Winger,1990-02-15,18,Slovenia,Genoa CFC,Serie A,2008/2009,2008
+Boško Janković,Right Winger,1984-03-01,24,Serbia,Genoa CFC,Serie A,2008/2009,2008
+Andrea Gasbarroni,Second Striker,1981-08-06,26,Italy,Genoa CFC,Serie A,2008/2009,2008
+Matteo Perelli,Second Striker,1989-05-17,19,Italy,Genoa CFC,Serie A,2008/2009,2008
+Diego Milito,Centre-Forward,1979-06-12,29,Argentina,Genoa CFC,Serie A,2008/2009,2008
+Luciano Figueroa,Centre-Forward,1981-05-19,27,Argentina,Genoa CFC,Serie A,2008/2009,2008
+Niccolò Romero,Centre-Forward,1992-03-18,16,Italy,Genoa CFC,Serie A,2008/2009,2008
+Luigi Scotto,Centre-Forward,1990-09-18,17,Italy,Genoa CFC,Serie A,2008/2009,2008
+Luca Castellazzi,Goalkeeper,1975-07-19,32,Italy,UC Sampdoria,Serie A,2008/2009,2008
+Antonio Mirante,Goalkeeper,1983-07-08,24,Italy,UC Sampdoria,Serie A,2008/2009,2008
+Vincenzo Fiorillo,Goalkeeper,1990-01-13,18,Italy,UC Sampdoria,Serie A,2008/2009,2008
+Davide Negretti,Goalkeeper,1991-11-19,16,Italy,UC Sampdoria,Serie A,2008/2009,2008
+Andrea Raggi,Centre-Back,1984-06-24,24,Italy,UC Sampdoria,Serie A,2008/2009,2008
+Jonathan Bottinelli,Centre-Back,1984-09-14,23,Argentina,UC Sampdoria,Serie A,2008/2009,2008
+Stefano Lucchini,Centre-Back,1980-10-02,27,Italy,UC Sampdoria,Serie A,2008/2009,2008
+Hugo Campagnaro,Centre-Back,1980-06-27,28,Argentina,UC Sampdoria,Serie A,2008/2009,2008
+Daniele Gastaldello,Centre-Back,1983-06-25,25,Italy,UC Sampdoria,Serie A,2008/2009,2008
+Manuel da Costa,Centre-Back,1986-05-06,22,Morocco,UC Sampdoria,Serie A,2008/2009,2008
+Michele Ferri,Centre-Back,1981-05-29,27,Italy,UC Sampdoria,Serie A,2008/2009,2008
+Reto Ziegler,Centre-Back,1986-01-16,22,Switzerland,UC Sampdoria,Serie A,2008/2009,2008
+Marius Stankevicius,Centre-Back,1981-07-15,26,Lithuania,UC Sampdoria,Serie A,2008/2009,2008
+Leonardo Migliónico,Centre-Back,1980-01-31,28,Uruguay,UC Sampdoria,Serie A,2008/2009,2008
+Jonathan Rossini,Centre-Back,1989-04-05,19,Switzerland,UC Sampdoria,Serie A,2008/2009,2008
+Massimo Volta,Centre-Back,1987-05-14,21,Italy,UC Sampdoria,Serie A,2008/2009,2008
+Claudio Lollini,Centre-Back,1986-01-24,22,Italy,UC Sampdoria,Serie A,2008/2009,2008
+Vasco Regini,Centre-Back,1990-09-09,17,Italy,UC Sampdoria,Serie A,2008/2009,2008
+Fabio Lamorte,Centre-Back,1991-05-15,17,Italy,UC Sampdoria,Serie A,2008/2009,2008
+Francesco Campanella,Centre-Back,1989-04-30,19,Italy,UC Sampdoria,Serie A,2008/2009,2008
+Ivan Marconi,Centre-Back,1989-10-25,18,Italy,UC Sampdoria,Serie A,2008/2009,2008
+Pietro Accardi,Left-Back,1982-09-12,25,Italy,UC Sampdoria,Serie A,2008/2009,2008
+Mirko Pieri,Left-Back,1978-07-24,29,Italy,UC Sampdoria,Serie A,2008/2009,2008
+Marco Padalino,Right-Back,1983-12-08,24,Switzerland,UC Sampdoria,Serie A,2008/2009,2008
+Nicolò Buono,Right-Back,1990-12-07,17,Italy,UC Sampdoria,Serie A,2008/2009,2008
+Angelo Palombo,Defensive Midfield,1981-09-25,26,Italy,UC Sampdoria,Serie A,2008/2009,2008
+Paolo Sammarco,Central Midfield,1983-03-17,25,Italy,UC Sampdoria,Serie A,2008/2009,2008
+Daniele Dessena,Central Midfield,1987-05-10,21,Italy,UC Sampdoria,Serie A,2008/2009,2008
+Gennaro Delvecchio,Central Midfield,1978-03-25,30,Italy,UC Sampdoria,Serie A,2008/2009,2008
+Nenad Krsticic,Central Midfield,1990-07-03,17,Serbia,UC Sampdoria,Serie A,2008/2009,2008
+Andrea Poli,Central Midfield,1989-09-29,18,Italy,UC Sampdoria,Serie A,2008/2009,2008
+Mirko Eramo,Central Midfield,1989-07-12,18,Italy,UC Sampdoria,Serie A,2008/2009,2008
+Morris Donati,Central Midfield,1990-03-22,18,Italy,UC Sampdoria,Serie A,2008/2009,2008
+Roberto Soriano,Central Midfield,1991-02-08,17,Italy,UC Sampdoria,Serie A,2008/2009,2008
+Pedro Obiang,Central Midfield,1992-03-27,16,Equatorial Guinea,UC Sampdoria,Serie A,2008/2009,2008
+Massimo Bonanni,Left Midfield,1982-06-10,26,Italy,UC Sampdoria,Serie A,2008/2009,2008
+Daniele Franceschini,Left Midfield,1976-01-19,32,Italy,UC Sampdoria,Serie A,2008/2009,2008
+Vladimir Koman,Attacking Midfield,1989-03-16,19,Hungary,UC Sampdoria,Serie A,2008/2009,2008
+Mattia Mustacchio,Right Winger,1989-05-17,19,Italy,UC Sampdoria,Serie A,2008/2009,2008
+Antonio Cassano,Second Striker,1982-07-12,25,Italy,UC Sampdoria,Serie A,2008/2009,2008
+Giampaolo Pazzini,Centre-Forward,1984-08-02,23,Italy,UC Sampdoria,Serie A,2008/2009,2008
+Claudio Bellucci,Centre-Forward,1975-05-31,33,Italy,UC Sampdoria,Serie A,2008/2009,2008
+Emiliano Bonazzoli,Centre-Forward,1979-01-20,29,Italy,UC Sampdoria,Serie A,2008/2009,2008
+Fabio Zamblera,Centre-Forward,1990-04-07,18,Italy,UC Sampdoria,Serie A,2008/2009,2008
+Bruno Fornaroli,Centre-Forward,1987-09-07,20,Uruguay,UC Sampdoria,Serie A,2008/2009,2008
+Nicola Ferrari,Centre-Forward,1989-09-14,18,Italy,UC Sampdoria,Serie A,2008/2009,2008
+Guido Marilungo,Centre-Forward,1989-08-09,18,Italy,UC Sampdoria,Serie A,2008/2009,2008
+Matteo Sereni,Goalkeeper,1975-02-11,33,Italy,Torino FC,Serie A,2008/2009,2008
+Alex Calderoni,Goalkeeper,1976-05-31,32,Italy,Torino FC,Serie A,2008/2009,2008
+Alberto Maria Fontana,Goalkeeper,1974-12-02,33,Italy,Torino FC,Serie A,2008/2009,2008
+Paolo Dellafiore,Centre-Back,1985-02-02,23,Italy,Torino FC,Serie A,2008/2009,2008
+Claudio Rivalta,Centre-Back,1978-06-30,30,Italy,Torino FC,Serie A,2008/2009,2008
+Cesare Natali,Centre-Back,1979-04-05,29,Italy,Torino FC,Serie A,2008/2009,2008
+Francesco Pratali,Centre-Back,1979-01-17,29,Italy,Torino FC,Serie A,2008/2009,2008
+Marco Di Loreto,Centre-Back,1974-09-28,33,Italy,Torino FC,Serie A,2008/2009,2008
+Ivan Franceschini,Centre-Back,1976-12-07,31,Italy,Torino FC,Serie A,2008/2009,2008
+Angelo Ogbonna,Centre-Back,1988-05-23,20,Italy,Torino FC,Serie A,2008/2009,2008
+Marco Pisano,Left-Back,1981-08-13,26,Italy,Torino FC,Serie A,2008/2009,2008
+Matteo Rubin,Left-Back,1987-07-09,20,Italy,Torino FC,Serie A,2008/2009,2008
+Ignazio Abate,Right-Back,1986-11-12,21,Italy,Torino FC,Serie A,2008/2009,2008
+Paolo Zanetti,Defensive Midfield,1982-12-16,25,Italy,Torino FC,Serie A,2008/2009,2008
+Eugenio Corini,Defensive Midfield,1970-07-30,37,Italy,Torino FC,Serie A,2008/2009,2008
+Simone Barone,Central Midfield,1978-04-30,30,Italy,Torino FC,Serie A,2008/2009,2008
+Blerim Dzemaili,Central Midfield,1986-04-12,22,Switzerland,Torino FC,Serie A,2008/2009,2008
+Jürgen Säumel,Central Midfield,1984-09-08,23,Austria,Torino FC,Serie A,2008/2009,2008
+Riccardo Colombo,Central Midfield,1982-12-01,25,Italy,Torino FC,Serie A,2008/2009,2008
+Sergiu Suciu,Central Midfield,1990-05-08,18,Romania,Torino FC,Serie A,2008/2009,2008
+Mattia Lerda,Central Midfield,1990-09-06,17,Italy,Torino FC,Serie A,2008/2009,2008
+Gianluca Rolandone,Central Midfield,1989-01-19,19,Italy,Torino FC,Serie A,2008/2009,2008
+Aimo Diana,Right Midfield,1978-01-02,30,Italy,Torino FC,Serie A,2008/2009,2008
+Tommaso Vailatti,Right Midfield,1986-01-02,22,Italy,Torino FC,Serie A,2008/2009,2008
+Alessandro Rosina,Second Striker,1984-01-31,24,Italy,Torino FC,Serie A,2008/2009,2008
+Andrea Gasbarroni,Second Striker,1981-08-06,26,Italy,Torino FC,Serie A,2008/2009,2008
+Rolando Bianchi,Centre-Forward,1983-02-15,25,Italy,Torino FC,Serie A,2008/2009,2008
+Nicola Amoruso,Centre-Forward,1974-08-29,33,Italy,Torino FC,Serie A,2008/2009,2008
+David Di Michele,Centre-Forward,1976-01-06,32,Italy,Torino FC,Serie A,2008/2009,2008
+Nicola Ventola,Centre-Forward,1978-05-24,30,Italy,Torino FC,Serie A,2008/2009,2008
+Roberto Stellone,Centre-Forward,1977-07-22,30,Italy,Torino FC,Serie A,2008/2009,2008
+Elvis Abbruscato,Centre-Forward,1981-04-14,27,Italy,Torino FC,Serie A,2008/2009,2008
+Dominique Malonga,Centre-Forward,1989-01-08,19,Congo,Torino FC,Serie A,2008/2009,2008
+Denis D'Onofrio,Centre-Forward,1989-07-03,18,Italy,Torino FC,Serie A,2008/2009,2008
+Marco Moro,Centre-Forward,1984-04-27,24,Italy,Torino FC,Serie A,2008/2009,2008
+Ciro Polito,Goalkeeper,1979-04-12,29,Italy,Calcio Catania,Serie A,2008/2009,2008
+Albano Bizzarri,Goalkeeper,1977-11-09,30,Argentina,Calcio Catania,Serie A,2008/2009,2008
+Paolo Acerbis,Goalkeeper,1981-05-05,27,Italy,Calcio Catania,Serie A,2008/2009,2008
+Tomas Kosicky,Goalkeeper,1986-03-11,22,Slovakia,Calcio Catania,Serie A,2008/2009,2008
+Matías Silvestre,Centre-Back,1984-09-25,23,Argentina,Calcio Catania,Serie A,2008/2009,2008
+Lorenzo Stovini,Centre-Back,1976-11-24,31,Italy,Calcio Catania,Serie A,2008/2009,2008
+Alessandro Potenza,Centre-Back,1984-03-08,24,Italy,Calcio Catania,Serie A,2008/2009,2008
+Christian Terlizzi,Centre-Back,1979-11-22,28,Italy,Calcio Catania,Serie A,2008/2009,2008
+Ciro Capuano,Centre-Back,1981-07-10,26,Italy,Calcio Catania,Serie A,2008/2009,2008
+Cristian Silvestri,Centre-Back,1975-01-21,33,Italy,Calcio Catania,Serie A,2008/2009,2008
+Gerardo Strumbo,Centre-Back,1991-06-07,17,Italy,Calcio Catania,Serie A,2008/2009,2008
+Giordano Maccarrone,Centre-Back,1990-04-09,18,Italy,Calcio Catania,Serie A,2008/2009,2008
+Rocco Sabato,Left-Back,1982-04-19,26,Italy,Calcio Catania,Serie A,2008/2009,2008
+Pablo Álvarez,Right-Back,1984-04-17,24,Argentina,Calcio Catania,Serie A,2008/2009,2008
+Gennaro Sardo,Right-Back,1979-05-08,29,Italy,Calcio Catania,Serie A,2008/2009,2008
+Ezequiel Carboni,Defensive Midfield,1979-04-04,29,Argentina,Calcio Catania,Serie A,2008/2009,2008
+Marco Biagianti,Defensive Midfield,1984-04-19,24,Italy,Calcio Catania,Serie A,2008/2009,2008
+Davide Baiocco,Defensive Midfield,1975-05-08,33,Italy,Calcio Catania,Serie A,2008/2009,2008
+Mark Edusei,Defensive Midfield,1976-09-29,31,Ghana,Calcio Catania,Serie A,2008/2009,2008
+Pablo Ledesma,Central Midfield,1984-02-04,24,Argentina,Calcio Catania,Serie A,2008/2009,2008
+Giuseppe Colucci,Central Midfield,1980-08-24,27,Italy,Calcio Catania,Serie A,2008/2009,2008
+Mariano Izco,Central Midfield,1983-03-13,25,Argentina,Calcio Catania,Serie A,2008/2009,2008
+Giacomo Tedesco,Central Midfield,1976-02-01,32,Italy,Calcio Catania,Serie A,2008/2009,2008
+Andrea D'Amico,Central Midfield,1989-05-17,19,Italy,Calcio Catania,Serie A,2008/2009,2008
+Fabio Sciacca,Central Midfield,1989-05-16,19,Italy,Calcio Catania,Serie A,2008/2009,2008
+Cristian Llama,Left Midfield,1986-06-26,22,Argentina,Calcio Catania,Serie A,2008/2009,2008
+Francesco Millesi,Left Winger,1980-07-24,27,Italy,Calcio Catania,Serie A,2008/2009,2008
+Jorge Martínez,Right Winger,1983-04-05,25,Uruguay,Calcio Catania,Serie A,2008/2009,2008
+Giuseppe Mascara,Second Striker,1979-08-22,28,Italy,Calcio Catania,Serie A,2008/2009,2008
+Nicolae Dica,Second Striker,1980-05-09,28,Romania,Calcio Catania,Serie A,2008/2009,2008
+Gionatha Spinesi,Centre-Forward,1978-03-09,30,Italy,Calcio Catania,Serie A,2008/2009,2008
+Takayuki Morimoto,Centre-Forward,1988-05-07,20,Japan,Calcio Catania,Serie A,2008/2009,2008
+Michele Paolucci,Centre-Forward,1986-02-06,22,Italy,Calcio Catania,Serie A,2008/2009,2008
+Gianvito Plasmati,Centre-Forward,1983-01-28,25,Italy,Calcio Catania,Serie A,2008/2009,2008
+Vito Falconieri,Centre-Forward,1986-06-18,22,Italy,Calcio Catania,Serie A,2008/2009,2008
+Andrea Catellani,Centre-Forward,1988-05-26,20,Italy,Calcio Catania,Serie A,2008/2009,2008
+Mirco Antenucci,Centre-Forward,1984-09-08,23,Italy,Calcio Catania,Serie A,2008/2009,2008
+Ferdinando Coppola,Goalkeeper,1978-06-10,30,Italy,Atalanta BC,Serie A,2008/2009,2008
+Andrea Consigli,Goalkeeper,1987-01-27,21,Italy,Atalanta BC,Serie A,2008/2009,2008
+Simone Colombi,Goalkeeper,1991-07-01,17,Italy,Atalanta BC,Serie A,2008/2009,2008
+Daniele Capelli,Centre-Back,1986-06-20,22,Italy,Atalanta BC,Serie A,2008/2009,2008
+Claudio Rivalta,Centre-Back,1978-06-30,30,Italy,Atalanta BC,Serie A,2008/2009,2008
+Maximiliano Pellegrino,Centre-Back,1980-01-26,28,Argentina,Atalanta BC,Serie A,2008/2009,2008
+Leonardo Talamonti,Centre-Back,1981-11-12,26,Argentina,Atalanta BC,Serie A,2008/2009,2008
+Thomas Manfredini,Centre-Back,1980-05-27,28,Italy,Atalanta BC,Serie A,2008/2009,2008
+Gianpaolo Bellini,Left-Back,1980-03-27,28,Italy,Atalanta BC,Serie A,2008/2009,2008
+Federico Peluso,Left-Back,1984-01-20,24,Italy,Atalanta BC,Serie A,2008/2009,2008
+György Garics,Right-Back,1984-03-08,24,Austria,Atalanta BC,Serie A,2008/2009,2008
+Luca Cigarini,Defensive Midfield,1986-06-20,22,Italy,Atalanta BC,Serie A,2008/2009,2008
+Diego De Ascentis,Defensive Midfield,1976-07-31,31,Italy,Atalanta BC,Serie A,2008/2009,2008
+Costinha,Defensive Midfield,1974-12-01,33,Portugal,Atalanta BC,Serie A,2008/2009,2008
+Francesco Parravicini,Defensive Midfield,1982-01-31,26,Italy,Atalanta BC,Serie A,2008/2009,2008
+Tiberio Guarente,Central Midfield,1985-11-01,22,Italy,Atalanta BC,Serie A,2008/2009,2008
+Jaime Valdés,Central Midfield,1981-01-11,27,Chile,Atalanta BC,Serie A,2008/2009,2008
+Marino Defendi,Central Midfield,1985-08-19,22,Italy,Atalanta BC,Serie A,2008/2009,2008
+Alessio Manzoni,Central Midfield,1987-04-10,21,Italy,Atalanta BC,Serie A,2008/2009,2008
+Michael Girasole,Central Midfield,1989-01-30,19,Italy,Atalanta BC,Serie A,2008/2009,2008
+Giacomo Bonaventura,Central Midfield,1989-08-22,18,Italy,Atalanta BC,Serie A,2008/2009,2008
+Simone Cerea,Central Midfield,1989-02-16,19,Italy,Atalanta BC,Serie A,2008/2009,2008
+Antonino D'Agostino,Right Midfield,1978-10-08,29,Italy,Atalanta BC,Serie A,2008/2009,2008
+Michele Legrenzi,Right Midfield,1991-04-23,17,Italy,Atalanta BC,Serie A,2008/2009,2008
+Simone Padoin,Left Midfield,1984-03-18,24,Italy,Atalanta BC,Serie A,2008/2009,2008
+Cristiano Doni,Attacking Midfield,1973-04-01,35,Italy,Atalanta BC,Serie A,2008/2009,2008
+Ferreira Pinto,Right Winger,1979-12-10,28,Brazil,Atalanta BC,Serie A,2008/2009,2008
+Alessio Cerci,Right Winger,1987-07-23,20,Italy,Atalanta BC,Serie A,2008/2009,2008
+Marco Villanova,Right Winger,1991-06-04,17,Italy,Atalanta BC,Serie A,2008/2009,2008
+Sergio Floccari,Centre-Forward,1981-11-12,26,Italy,Atalanta BC,Serie A,2008/2009,2008
+Christian Vieri,Centre-Forward,1973-07-12,34,Italy,Atalanta BC,Serie A,2008/2009,2008
+Michele Marconi,Centre-Forward,1989-05-13,19,Italy,Atalanta BC,Serie A,2008/2009,2008
+Karamoko Cissé,Centre-Forward,1988-11-14,19,Guinea,Atalanta BC,Serie A,2008/2009,2008
+Gianvito Plasmati,Centre-Forward,1983-01-28,25,Italy,Atalanta BC,Serie A,2008/2009,2008
+Manolo Gabbiadini,Centre-Forward,1991-11-26,16,Italy,Atalanta BC,Serie A,2008/2009,2008
+Simone Zaza,Centre-Forward,1991-06-25,17,Italy,Atalanta BC,Serie A,2008/2009,2008
+Stefano Sorrentino,Goalkeeper,1979-03-28,29,Italy,Chievo Verona,Serie A,2008/2009,2008
+Lorenzo Squizzi,Goalkeeper,1974-06-20,34,Italy,Chievo Verona,Serie A,2008/2009,2008
+Gabriele Aldegani,Goalkeeper,1976-05-10,32,Italy,Chievo Verona,Serie A,2008/2009,2008
+Emanuele D'Anna,Defender,1982-05-23,26,Italy,Chievo Verona,Serie A,2008/2009,2008
+Mario Yepes,Centre-Back,1976-01-13,32,Colombia,Chievo Verona,Serie A,2008/2009,2008
+Davide Mandelli,Centre-Back,1977-06-28,31,Italy,Chievo Verona,Serie A,2008/2009,2008
+Andrea Mantovani,Centre-Back,1984-06-22,24,Italy,Chievo Verona,Serie A,2008/2009,2008
+Santiago Morero,Centre-Back,1982-04-18,26,Argentina,Chievo Verona,Serie A,2008/2009,2008
+Marco Malagò,Centre-Back,1978-12-30,29,Italy,Chievo Verona,Serie A,2008/2009,2008
+César,Centre-Back,1979-05-19,29,Brazil,Chievo Verona,Serie A,2008/2009,2008
+Cesare Rickler,Centre-Back,1987-03-18,21,Italy,Chievo Verona,Serie A,2008/2009,2008
+Francesco Scardina,Centre-Back,1981-12-11,26,Italy,Chievo Verona,Serie A,2008/2009,2008
+Simone Grippo,Centre-Back,1988-12-12,19,Switzerland,Chievo Verona,Serie A,2008/2009,2008
+Francesco Checcucci,Centre-Back,1989-03-18,19,Italy,Chievo Verona,Serie A,2008/2009,2008
+Gennaro Sardo,Right-Back,1979-05-08,29,Italy,Chievo Verona,Serie A,2008/2009,2008
+Fabio Moro,Right-Back,1975-07-13,32,Italy,Chievo Verona,Serie A,2008/2009,2008
+Nicolas Frey,Right-Back,1984-03-06,24,France,Chievo Verona,Serie A,2008/2009,2008
+Vincenzo Italiano,Defensive Midfield,1977-12-10,30,Italy,Chievo Verona,Serie A,2008/2009,2008
+Bogdan Pătrașcu,Defensive Midfield,1979-05-07,29,Romania,Chievo Verona,Serie A,2008/2009,2008
+Andrea Burato,Defensive Midfield,1990-07-02,17,Italy,Chievo Verona,Serie A,2008/2009,2008
+Giuseppe Colucci,Central Midfield,1980-08-24,27,Italy,Chievo Verona,Serie A,2008/2009,2008
+Giampiero Pinzi,Central Midfield,1981-03-11,27,Italy,Chievo Verona,Serie A,2008/2009,2008
+Simone Bentivoglio,Central Midfield,1985-05-29,23,Italy,Chievo Verona,Serie A,2008/2009,2008
+Michele Marcolini,Central Midfield,1975-10-02,32,Italy,Chievo Verona,Serie A,2008/2009,2008
+Luca Rigoni,Central Midfield,1984-12-07,23,Italy,Chievo Verona,Serie A,2008/2009,2008
+Luciano,Right Midfield,1975-12-03,32,Brazil,Chievo Verona,Serie A,2008/2009,2008
+Kerlon,Attacking Midfield,1988-01-27,20,Brazil,Chievo Verona,Serie A,2008/2009,2008
+Antonio Langella,Left Winger,1977-03-30,31,Italy,Chievo Verona,Serie A,2008/2009,2008
+Mauro Esposito,Right Winger,1979-06-13,29,Italy,Chievo Verona,Serie A,2008/2009,2008
+Antimo Iunco,Second Striker,1984-06-10,24,Italy,Chievo Verona,Serie A,2008/2009,2008
+Diego Farias,Second Striker,1990-05-10,18,Brazil,Chievo Verona,Serie A,2008/2009,2008
+Yonese Hanine,Second Striker,1990-02-20,18,Italy,Chievo Verona,Serie A,2008/2009,2008
+Sergio Pellissier,Centre-Forward,1979-04-12,29,Italy,Chievo Verona,Serie A,2008/2009,2008
+Erjon Bogdani,Centre-Forward,1977-04-14,31,Albania,Chievo Verona,Serie A,2008/2009,2008
+Stephen Makinwa,Centre-Forward,1983-07-26,24,Nigeria,Chievo Verona,Serie A,2008/2009,2008
+Mirco Gasparetto,Centre-Forward,1980-02-02,28,Italy,Chievo Verona,Serie A,2008/2009,2008
+Valerio Anastasi,Centre-Forward,1990-04-13,18,Italy,Chievo Verona,Serie A,2008/2009,2008
+Carlo Ferrario,Centre-Forward,1986-11-22,21,Italy,Chievo Verona,Serie A,2008/2009,2008
+Antonio Rosati,Goalkeeper,1983-06-26,25,Italy,US Lecce,Serie A,2008/2009,2008
+Francesco Benussi,Goalkeeper,1981-10-15,26,Italy,US Lecce,Serie A,2008/2009,2008
+Davide Petrachi,Goalkeeper,1986-08-14,21,Italy,US Lecce,Serie A,2008/2009,2008
+Ivan Lanni,Goalkeeper,1990-06-30,18,Italy,US Lecce,Serie A,2008/2009,2008
+Guglielmo Stendardo,Centre-Back,1981-05-06,27,Italy,US Lecce,Serie A,2008/2009,2008
+Souleymane Diamoutene,Centre-Back,1983-01-30,25,Mali,US Lecce,Serie A,2008/2009,2008
+Marcello Cottafava,Centre-Back,1977-09-08,30,Italy,US Lecce,Serie A,2008/2009,2008
+Raffaele Schiavi,Centre-Back,1986-03-15,22,Italy,US Lecce,Serie A,2008/2009,2008
+Tiziano Polenghi,Centre-Back,1978-09-26,29,Italy,US Lecce,Serie A,2008/2009,2008
+Andrea Esposito,Centre-Back,1986-05-17,22,Italy,US Lecce,Serie A,2008/2009,2008
+Fabiano Medina,Centre-Back,1982-01-18,26,Brazil,US Lecce,Serie A,2008/2009,2008
+Gianmarco Ingrosso,Centre-Back,1989-01-28,19,Italy,US Lecce,Serie A,2008/2009,2008
+André Molimenti,Centre-Back,1991-05-14,17,Sweden,US Lecce,Serie A,2008/2009,2008
+Alex Benvenga,Centre-Back,1991-05-30,17,Italy,US Lecce,Serie A,2008/2009,2008
+Vitorino Antunes,Left-Back,1987-04-01,21,Portugal,US Lecce,Serie A,2008/2009,2008
+Hemza Mihoubi,Left-Back,1986-01-13,22,Algeria,US Lecce,Serie A,2008/2009,2008
+Alberto Giuliatto,Left-Back,1983-09-17,24,Italy,US Lecce,Serie A,2008/2009,2008
+Dusan Basta,Right-Back,1984-08-18,23,Serbia,US Lecce,Serie A,2008/2009,2008
+Angelo,Right-Back,1981-06-12,27,Brazil,US Lecce,Serie A,2008/2009,2008
+Edinho,Defensive Midfield,1983-01-15,25,Brazil,US Lecce,Serie A,2008/2009,2008
+Guillermo Giacomazzi,Defensive Midfield,1977-11-21,30,Uruguay,US Lecce,Serie A,2008/2009,2008
+Giuseppe Vives,Defensive Midfield,1980-07-14,27,Italy,US Lecce,Serie A,2008/2009,2008
+Andrea Ardito,Defensive Midfield,1977-01-08,31,Italy,US Lecce,Serie A,2008/2009,2008
+Fabio Caserta,Central Midfield,1978-09-24,29,Italy,US Lecce,Serie A,2008/2009,2008
+Luca Ariatti,Central Midfield,1978-12-27,29,Italy,US Lecce,Serie A,2008/2009,2008
+Viktor Budyanskiy,Central Midfield,1984-01-12,24,Russia,US Lecce,Serie A,2008/2009,2008
+Andrea Zanchetta,Central Midfield,1975-02-02,33,Italy,US Lecce,Serie A,2008/2009,2008
+Gianni Munari,Central Midfield,1983-06-24,25,Italy,US Lecce,Serie A,2008/2009,2008
+Cristian Agnelli,Central Midfield,1985-09-23,22,Italy,US Lecce,Serie A,2008/2009,2008
+Kevin André Daniel Raschle,Left Midfield,1990-08-15,17,Switzerland,US Lecce,Serie A,2008/2009,2008
+Blazej Vascak,Attacking Midfield,1983-11-23,24,Slovakia,US Lecce,Serie A,2008/2009,2008
+Giorgio Politano,Forward,1990-09-22,17,Italy,US Lecce,Serie A,2008/2009,2008
+Axel Konan,Left Winger,1983-01-25,25,Cote d'Ivoire,US Lecce,Serie A,2008/2009,2008
+N'Diaye Papa Waigo,Right Winger,1984-01-20,24,Senegal,US Lecce,Serie A,2008/2009,2008
+Dimitrios Papadopoulos,Centre-Forward,1981-10-20,26,Greece,US Lecce,Serie A,2008/2009,2008
+Daniele Cacia,Centre-Forward,1983-08-23,24,Italy,US Lecce,Serie A,2008/2009,2008
+Simone Tiribocchi,Centre-Forward,1978-01-31,30,Italy,US Lecce,Serie A,2008/2009,2008
+Frank Feltscher,Centre-Forward,1988-05-17,20,Venezuela,US Lecce,Serie A,2008/2009,2008
+José Castillo,Centre-Forward,1975-11-04,32,Argentina,US Lecce,Serie A,2008/2009,2008
+Léo,Centre-Forward,1983-12-14,24,Brazil,US Lecce,Serie A,2008/2009,2008
+Patrik Bordon,Centre-Forward,1988-04-06,20,Slovenia,US Lecce,Serie A,2008/2009,2008
+Mario Janvier,Centre-Forward,1990-08-16,17,France,US Lecce,Serie A,2008/2009,2008
+Eduardo Wilson,Centre-Forward,1991-03-22,17,Brazil,US Lecce,Serie A,2008/2009,2008
+Gianluca Curci,Goalkeeper,1985-07-12,22,Italy,AC Siena,Serie A,2008/2009,2008
+Dimitrios Eleftheropoulos,Goalkeeper,1976-08-07,31,Greece,AC Siena,Serie A,2008/2009,2008
+Emanuele Manitta,Goalkeeper,1977-01-12,31,Italy,AC Siena,Serie A,2008/2009,2008
+Anssi Jaakkola,Goalkeeper,1987-03-13,21,Finland,AC Siena,Serie A,2008/2009,2008
+Mihail Ivanov,Goalkeeper,1989-08-07,18,Bulgaria,AC Siena,Serie A,2008/2009,2008
+Marco Gori,Goalkeeper,1991-05-18,17,Italy,AC Siena,Serie A,2008/2009,2008
+Daniele Portanova,Centre-Back,1978-12-17,29,Italy,AC Siena,Serie A,2008/2009,2008
+Luca Rossettini,Centre-Back,1985-05-09,23,Italy,AC Siena,Serie A,2008/2009,2008
+Cosmin Moti,Centre-Back,1984-12-03,23,Romania,AC Siena,Serie A,2008/2009,2008
+Gonçalo Brandão,Centre-Back,1986-10-09,21,Portugal,AC Siena,Serie A,2008/2009,2008
+Daniele Ficagna,Centre-Back,1981-02-23,27,Italy,AC Siena,Serie A,2008/2009,2008
+Rodrigo Lazzari,Centre-Back,1980-12-10,27,Brazil,AC Siena,Serie A,2008/2009,2008
+Nicola Belmonte,Centre-Back,1987-04-15,21,Italy,AC Siena,Serie A,2008/2009,2008
+Cristiano Del Grosso,Left-Back,1983-03-24,25,Italy,AC Siena,Serie A,2008/2009,2008
+Andrea Rossi,Left-Back,1986-11-07,21,Italy,AC Siena,Serie A,2008/2009,2008
+Camilo Zúñiga,Right-Back,1985-12-14,22,Colombia,AC Siena,Serie A,2008/2009,2008
+Lorenzo Del Prete,Right-Back,1986-01-12,22,Italy,AC Siena,Serie A,2008/2009,2008
+Ahmed Barusso,Defensive Midfield,1984-12-26,23,Ghana,AC Siena,Serie A,2008/2009,2008
+Simone Vergassola,Defensive Midfield,1976-01-24,32,Italy,AC Siena,Serie A,2008/2009,2008
+Daniele Galloppa,Central Midfield,1985-05-15,23,Italy,AC Siena,Serie A,2008/2009,2008
+Houssine Kharja,Central Midfield,1982-11-09,25,Morocco,AC Siena,Serie A,2008/2009,2008
+Paul Codrea,Central Midfield,1981-04-04,27,Romania,AC Siena,Serie A,2008/2009,2008
+Lukas Jarolim,Central Midfield,1976-07-29,31,Czech Republic,AC Siena,Serie A,2008/2009,2008
+Manuel Coppola,Central Midfield,1982-05-11,26,Italy,AC Siena,Serie A,2008/2009,2008
+Mariano Romano,Central Midfield,1989-07-07,18,Italy,AC Siena,Serie A,2008/2009,2008
+Manuel Mancini,Central Midfield,1983-08-26,24,Italy,AC Siena,Serie A,2008/2009,2008
+Antonio Zito,Left Midfield,1986-06-06,22,Italy,AC Siena,Serie A,2008/2009,2008
+Maximiliano Re,Attacking Midfield,1987-03-23,21,Argentina,AC Siena,Serie A,2008/2009,2008
+Mirko Guadalupi,Attacking Midfield,1987-02-09,21,Italy,AC Siena,Serie A,2008/2009,2008
+Douglas Packer,Attacking Midfield,1987-03-13,21,Brazil,AC Siena,Serie A,2008/2009,2008
+Fernando Forestieri,Second Striker,1990-01-16,18,Italy,AC Siena,Serie A,2008/2009,2008
+Massimo Maccarone,Centre-Forward,1979-09-06,28,Italy,AC Siena,Serie A,2008/2009,2008
+Nicola Amoruso,Centre-Forward,1974-08-29,33,Italy,AC Siena,Serie A,2008/2009,2008
+Emanuele Calaiò,Centre-Forward,1982-01-08,26,Italy,AC Siena,Serie A,2008/2009,2008
+Mario Frick,Centre-Forward,1974-09-07,33,Liechtenstein,AC Siena,Serie A,2008/2009,2008
+Richard Porta,Centre-Forward,1983-08-01,24,Uruguay,AC Siena,Serie A,2008/2009,2008
+Pasquale Iadaresta,Centre-Forward,1986-03-17,22,Italy,AC Siena,Serie A,2008/2009,2008
+Marcelo Larrondo,Centre-Forward,1988-08-16,19,Chile,AC Siena,Serie A,2008/2009,2008
+Abdelkader Ghezzal,Centre-Forward,1984-12-05,23,Algeria,AC Siena,Serie A,2008/2009,2008
+Gianluca Sansone,Centre-Forward,1987-05-12,21,Italy,AC Siena,Serie A,2008/2009,2008
+Andrea Campagnolo,Goalkeeper,1978-06-17,30,Italy,Reggina Calcio,Serie A,2008/2009,2008
+Christian Puggioni,Goalkeeper,1981-01-17,27,Italy,Reggina Calcio,Serie A,2008/2009,2008
+Pietro Marino,Goalkeeper,1986-11-21,21,Italy,Reggina Calcio,Serie A,2008/2009,2008
+Maurizio Lanzaro,Centre-Back,1982-03-14,26,Italy,Reggina Calcio,Serie A,2008/2009,2008
+Bruno Cirillo,Centre-Back,1977-03-21,31,Italy,Reggina Calcio,Serie A,2008/2009,2008
+Carlos Valdez,Centre-Back,1983-05-02,25,Uruguay,Reggina Calcio,Serie A,2008/2009,2008
+Salvatore Aronica,Centre-Back,1978-01-20,30,Italy,Reggina Calcio,Serie A,2008/2009,2008
+Santos,Centre-Back,1981-08-18,26,Brazil,Reggina Calcio,Serie A,2008/2009,2008
+Andrea Costa,Centre-Back,1986-02-01,22,Italy,Reggina Calcio,Serie A,2008/2009,2008
+Antonio Giosa,Centre-Back,1983-08-21,24,Italy,Reggina Calcio,Serie A,2008/2009,2008
+Francesco Cosenza,Centre-Back,1986-02-05,22,Italy,Reggina Calcio,Serie A,2008/2009,2008
+Sebastian Bialas,Centre-Back,1990-01-07,18,Poland,Reggina Calcio,Serie A,2008/2009,2008
+Daniel Adejo,Centre-Back,1989-08-07,18,Nigeria,Reggina Calcio,Serie A,2008/2009,2008
+Josias Basso,Centre-Back,1989-04-14,19,Brazil,Reggina Calcio,Serie A,2008/2009,2008
+Giuseppe Toscano,Centre-Back,1989-09-03,18,Italy,Reggina Calcio,Serie A,2008/2009,2008
+Vincenzo Camilleri,Centre-Back,1992-03-06,16,Italy,Reggina Calcio,Serie A,2008/2009,2008
+Tommaso Squillace,Left-Back,1989-07-08,18,Italy,Reggina Calcio,Serie A,2008/2009,2008
+Matej Krajcik,Right-Back,1978-03-19,30,Slovakia,Reggina Calcio,Serie A,2008/2009,2008
+Pablo Álvarez,Right-Back,1985-02-07,23,Uruguay,Reggina Calcio,Serie A,2008/2009,2008
+Antonio Rizzo,Right-Back,1981-03-28,27,Italy,Reggina Calcio,Serie A,2008/2009,2008
+Simone Missiroli,Defensive Midfield,1986-05-23,22,Italy,Reggina Calcio,Serie A,2008/2009,2008
+Davide Di Gennaro,Defensive Midfield,1988-06-16,20,Italy,Reggina Calcio,Serie A,2008/2009,2008
+Carlos Carmona,Defensive Midfield,1987-02-21,21,Chile,Reggina Calcio,Serie A,2008/2009,2008
+Giuseppe Rizzo,Defensive Midfield,1991-03-18,17,Italy,Reggina Calcio,Serie A,2008/2009,2008
+Édgar Barreto,Central Midfield,1984-07-15,23,Paraguay,Reggina Calcio,Serie A,2008/2009,2008
+Emil Hallfredsson,Central Midfield,1984-06-29,24,Iceland,Reggina Calcio,Serie A,2008/2009,2008
+Emmanuel Cascione,Central Midfield,1983-09-22,24,Italy,Reggina Calcio,Serie A,2008/2009,2008
+Luca Tognozzi,Central Midfield,1977-10-03,30,Italy,Reggina Calcio,Serie A,2008/2009,2008
+Antonino Barillà,Central Midfield,1988-04-01,20,Italy,Reggina Calcio,Serie A,2008/2009,2008
+Nicolas Viola,Central Midfield,1989-10-12,18,Italy,Reggina Calcio,Serie A,2008/2009,2008
+Lóránd Szatmári,Central Midfield,1988-10-03,19,Hungary,Reggina Calcio,Serie A,2008/2009,2008
+Luca Vigiani,Right Midfield,1976-08-25,31,Italy,Reggina Calcio,Serie A,2008/2009,2008
+Franco Brienza,Attacking Midfield,1979-03-19,29,Italy,Reggina Calcio,Serie A,2008/2009,2008
+Francesco Cozza,Attacking Midfield,1974-01-19,34,Italy,Reggina Calcio,Serie A,2008/2009,2008
+Alessio Sestu,Right Winger,1983-09-29,24,Italy,Reggina Calcio,Serie A,2008/2009,2008
+Jonis Khoris,Second Striker,1989-03-15,19,Morocco,Reggina Calcio,Serie A,2008/2009,2008
+Antonio Lamenza,Second Striker,1990-05-20,18,Italy,Reggina Calcio,Serie A,2008/2009,2008
+Bernardo Corradi,Centre-Forward,1976-03-30,32,Italy,Reggina Calcio,Serie A,2008/2009,2008
+Fabio Ceravolo,Centre-Forward,1987-03-05,21,Italy,Reggina Calcio,Serie A,2008/2009,2008
+Djordje Rakic,Centre-Forward,1985-10-31,22,Serbia,Reggina Calcio,Serie A,2008/2009,2008
+Cristhian Stuani,Centre-Forward,1986-10-12,21,Uruguay,Reggina Calcio,Serie A,2008/2009,2008
+Alessio Viola,Centre-Forward,1990-12-26,17,Italy,Reggina Calcio,Serie A,2008/2009,2008
+Francesco Antonioli,Goalkeeper,1969-09-14,38,Italy,Bologna FC 1909,Serie A,2008/2009,2008
+Roberto Colombo,Goalkeeper,1975-08-24,32,Italy,Bologna FC 1909,Serie A,2008/2009,2008
+Gianmarco Campironi,Goalkeeper,1989-05-16,19,Italy,Bologna FC 1909,Serie A,2008/2009,2008
+Marcello Castellini,Centre-Back,1973-01-02,35,Italy,Bologna FC 1909,Serie A,2008/2009,2008
+Vangelis Moras,Centre-Back,1981-08-26,26,Greece,Bologna FC 1909,Serie A,2008/2009,2008
+Claudio Terzi,Centre-Back,1984-06-19,24,Italy,Bologna FC 1909,Serie A,2008/2009,2008
+Alessandro Bassoli,Centre-Back,1990-06-19,18,Italy,Bologna FC 1909,Serie A,2008/2009,2008
+Miguel Britos,Centre-Back,1985-07-17,22,Uruguay,Bologna FC 1909,Serie A,2008/2009,2008
+Salvatore Lanna,Left-Back,1976-07-31,31,Italy,Bologna FC 1909,Serie A,2008/2009,2008
+Diego Rodríguez,Left-Back,1986-08-08,21,Uruguay,Bologna FC 1909,Serie A,2008/2009,2008
+Coelho,Right-Back,1983-03-22,25,Brazil,Bologna FC 1909,Serie A,2008/2009,2008
+Manuel Belleri,Right-Back,1977-08-29,30,Italy,Bologna FC 1909,Serie A,2008/2009,2008
+Cristian Zenoni,Right-Back,1977-04-23,31,Italy,Bologna FC 1909,Serie A,2008/2009,2008
+Gaby Mudingayi,Defensive Midfield,1981-10-01,26,Belgium,Bologna FC 1909,Serie A,2008/2009,2008
+Davide Carrus,Defensive Midfield,1979-03-19,29,Italy,Bologna FC 1909,Serie A,2008/2009,2008
+Massimo Mutarelli,Central Midfield,1978-01-13,30,Italy,Bologna FC 1909,Serie A,2008/2009,2008
+Christian Amoroso,Central Midfield,1976-09-26,31,Italy,Bologna FC 1909,Serie A,2008/2009,2008
+Sergio Volpi,Central Midfield,1974-02-02,34,Italy,Bologna FC 1909,Serie A,2008/2009,2008
+Nicola Mingazzini,Central Midfield,1980-08-13,27,Italy,Bologna FC 1909,Serie A,2008/2009,2008
+Simone Confalone,Central Midfield,1974-01-02,34,Italy,Bologna FC 1909,Serie A,2008/2009,2008
+Francesco Valiani,Central Midfield,1980-10-29,27,Italy,Bologna FC 1909,Serie A,2008/2009,2008
+Federico Casarini,Central Midfield,1989-09-07,18,Italy,Bologna FC 1909,Serie A,2008/2009,2008
+Davide Marchini,Right Midfield,1981-02-23,27,Italy,Bologna FC 1909,Serie A,2008/2009,2008
+Luigi Lavecchia,Right Midfield,1981-08-25,26,Italy,Bologna FC 1909,Serie A,2008/2009,2008
+César,Left Midfield,1974-10-24,33,Brazil,Bologna FC 1909,Serie A,2008/2009,2008
+Davide Bombardini,Left Midfield,1974-06-21,34,Italy,Bologna FC 1909,Serie A,2008/2009,2008
+Gabriele Paonessa,Attacking Midfield,1987-04-18,21,Italy,Bologna FC 1909,Serie A,2008/2009,2008
+Adaílton,Second Striker,1977-01-24,31,Brazil,Bologna FC 1909,Serie A,2008/2009,2008
+Marco Bernacci,Centre-Forward,1983-12-15,24,Italy,Bologna FC 1909,Serie A,2008/2009,2008
+Daniel Osvaldo,Centre-Forward,1986-01-12,22,Italy,Bologna FC 1909,Serie A,2008/2009,2008
+Massimo Marazzina,Centre-Forward,1974-07-16,33,Italy,Bologna FC 1909,Serie A,2008/2009,2008
+Marco Di Vaio,Centre-Forward,1976-07-15,31,Italy,Bologna FC 1909,Serie A,2008/2009,2008
+Leonardo Cistineri,Centre-Forward,1990-03-25,18,Italy,Bologna FC 1909,Serie A,2008/2009,2008
+Massimo Coda,Centre-Forward,1988-11-10,19,Italy,Bologna FC 1909,Serie A,2008/2009,2008
+Federico Marchetti,Goalkeeper,1983-02-07,25,Italy,Cagliari Calcio,Serie A,2008/2009,2008
+Cristiano Lupatelli,Goalkeeper,1978-06-21,30,Italy,Cagliari Calcio,Serie A,2008/2009,2008
+Simone Aresti,Goalkeeper,1986-03-15,22,Italy,Cagliari Calcio,Serie A,2008/2009,2008
+Mauro Vigorito,Goalkeeper,1990-05-22,18,Italy,Cagliari Calcio,Serie A,2008/2009,2008
+Carlos Matheu,Centre-Back,1985-05-13,23,Argentina,Cagliari Calcio,Serie A,2008/2009,2008
+Michele Canini,Centre-Back,1985-06-05,23,Italy,Cagliari Calcio,Serie A,2008/2009,2008
+Michele Ferri,Centre-Back,1981-05-29,27,Italy,Cagliari Calcio,Serie A,2008/2009,2008
+Paolo Bianco,Centre-Back,1977-08-20,30,Italy,Cagliari Calcio,Serie A,2008/2009,2008
+Diego López,Centre-Back,1974-08-22,33,Uruguay,Cagliari Calcio,Serie A,2008/2009,2008
+Daniele Magliocchetti,Centre-Back,1986-05-11,22,Italy,Cagliari Calcio,Serie A,2008/2009,2008
+Mikhail Sivakov,Centre-Back,1988-01-16,20,Belarus,Cagliari Calcio,Serie A,2008/2009,2008
+Davide Astori,Centre-Back,1987-01-07,21,Italy,Cagliari Calcio,Serie A,2008/2009,2008
+Alessandro Agostini,Left-Back,1979-07-23,28,Italy,Cagliari Calcio,Serie A,2008/2009,2008
+Cristiano Del Grosso,Left-Back,1983-03-24,25,Italy,Cagliari Calcio,Serie A,2008/2009,2008
+Luca Di Laura,Left-Back,1991-03-25,17,Italy,Cagliari Calcio,Serie A,2008/2009,2008
+Francesco Pisano,Right-Back,1986-04-29,22,Italy,Cagliari Calcio,Serie A,2008/2009,2008
+Alberto Usai,Midfielder,1989-09-20,18,Italy,Cagliari Calcio,Serie A,2008/2009,2008
+Daniele Conti,Defensive Midfield,1979-01-09,29,Italy,Cagliari Calcio,Serie A,2008/2009,2008
+Andrea Parola,Defensive Midfield,1979-04-22,29,Italy,Cagliari Calcio,Serie A,2008/2009,2008
+Salvatore Burrai,Defensive Midfield,1987-05-26,21,Italy,Cagliari Calcio,Serie A,2008/2009,2008
+Claudio Pani,Defensive Midfield,1986-03-11,22,Italy,Cagliari Calcio,Serie A,2008/2009,2008
+Andrea Lazzari,Central Midfield,1984-12-03,23,Italy,Cagliari Calcio,Serie A,2008/2009,2008
+Davide Biondini,Central Midfield,1983-01-24,25,Italy,Cagliari Calcio,Serie A,2008/2009,2008
+Michele Fini,Central Midfield,1974-06-14,34,Italy,Cagliari Calcio,Serie A,2008/2009,2008
+Rafael Acosta,Central Midfield,1989-02-13,19,Venezuela,Cagliari Calcio,Serie A,2008/2009,2008
+Ignazio Carta,Central Midfield,1991-05-18,17,Italy,Cagliari Calcio,Serie A,2008/2009,2008
+Andrea Cossu,Attacking Midfield,1980-05-03,28,Italy,Cagliari Calcio,Serie A,2008/2009,2008
+Marco Mancosu,Attacking Midfield,1988-08-22,19,Italy,Cagliari Calcio,Serie A,2008/2009,2008
+Enrico Verachi,Attacking Midfield,1990-01-18,18,Italy,Cagliari Calcio,Serie A,2008/2009,2008
+Daniele Caschili,Forward,1989-08-08,18,Italy,Cagliari Calcio,Serie A,2008/2009,2008
+Mattia Gallon,Left Winger,1992-05-30,16,Italy,Cagliari Calcio,Serie A,2008/2009,2008
+Jeda,Second Striker,1979-04-15,29,Brazil,Cagliari Calcio,Serie A,2008/2009,2008
+Daniele Ragatzu,Second Striker,1991-09-21,16,Italy,Cagliari Calcio,Serie A,2008/2009,2008
+Robert Acquafresca,Centre-Forward,1987-09-11,20,Italy,Cagliari Calcio,Serie A,2008/2009,2008
+Alessandro Matri,Centre-Forward,1984-08-19,23,Italy,Cagliari Calcio,Serie A,2008/2009,2008
+Joaquín Larrivey,Centre-Forward,1984-08-20,23,Argentina,Cagliari Calcio,Serie A,2008/2009,2008

@@ -1,0 +1,581 @@
+player_name,position,date_of_birth,age,nationality,club_name,league_name,season,year
+Hans Jörg Butt,Goalkeeper,1974-05-28,36,Germany,Bayern Munich,Bundesliga,2010/2011,2010
+Rouven Sattelmaier,Goalkeeper,1987-08-07,22,Germany,Bayern Munich,Bundesliga,2010/2011,2010
+Thomas Kraft,Goalkeeper,1988-07-22,21,Germany,Bayern Munich,Bundesliga,2010/2011,2010
+Maximilian Riedmüller,Goalkeeper,1988-01-04,22,Germany,Bayern Munich,Bundesliga,2010/2011,2010
+Martín Demichelis,Centre-Back,1980-12-20,29,Argentina,Bayern Munich,Bundesliga,2010/2011,2010
+Holger Badstuber,Centre-Back,1989-03-13,21,Germany,Bayern Munich,Bundesliga,2010/2011,2010
+Daniel Van Buyten,Centre-Back,1978-02-07,32,Belgium,Bayern Munich,Bundesliga,2010/2011,2010
+Breno,Centre-Back,1989-10-13,20,Brazil,Bayern Munich,Bundesliga,2010/2011,2010
+Danijel Pranjic,Left-Back,1981-12-02,28,Croatia,Bayern Munich,Bundesliga,2010/2011,2010
+Edson Braafheid,Left-Back,1983-04-08,27,Netherlands,Bayern Munich,Bundesliga,2010/2011,2010
+Diego Contento,Left-Back,1990-05-01,20,Germany,Bayern Munich,Bundesliga,2010/2011,2010
+David Alaba,Left-Back,1992-06-24,18,Austria,Bayern Munich,Bundesliga,2010/2011,2010
+Philipp Lahm,Right-Back,1983-11-11,26,Germany,Bayern Munich,Bundesliga,2010/2011,2010
+Anatoliy Tymoshchuk,Defensive Midfield,1979-03-30,31,Ukraine,Bayern Munich,Bundesliga,2010/2011,2010
+Mark van Bommel,Defensive Midfield,1977-04-22,33,Netherlands,Bayern Munich,Bundesliga,2010/2011,2010
+Luiz Gustavo,Defensive Midfield,1987-07-23,22,Brazil,Bayern Munich,Bundesliga,2010/2011,2010
+Andreas Ottl,Defensive Midfield,1985-03-01,25,Germany,Bayern Munich,Bundesliga,2010/2011,2010
+Nicolas Jüllich,Defensive Midfield,1990-03-27,20,Germany,Bayern Munich,Bundesliga,2010/2011,2010
+Bastian Schweinsteiger,Central Midfield,1984-08-01,25,Germany,Bayern Munich,Bundesliga,2010/2011,2010
+Toni Kroos,Central Midfield,1990-01-04,20,Germany,Bayern Munich,Bundesliga,2010/2011,2010
+José Sosa,Central Midfield,1985-06-19,25,Argentina,Bayern Munich,Bundesliga,2010/2011,2010
+Hamit Altintop,Right Midfield,1982-12-08,27,Turkey,Bayern Munich,Bundesliga,2010/2011,2010
+Boy Deul,Attacking Midfield,1987-08-30,22,Curacao,Bayern Munich,Bundesliga,2010/2011,2010
+Christoph Knasmüllner,Attacking Midfield,1992-04-30,18,Austria,Bayern Munich,Bundesliga,2010/2011,2010
+Franck Ribéry,Left Winger,1983-04-07,27,France,Bayern Munich,Bundesliga,2010/2011,2010
+Nicola Sansone,Left Winger,1991-09-10,18,Italy,Bayern Munich,Bundesliga,2010/2011,2010
+Arjen Robben,Right Winger,1984-01-23,26,Netherlands,Bayern Munich,Bundesliga,2010/2011,2010
+Thomas Müller,Second Striker,1989-09-13,20,Germany,Bayern Munich,Bundesliga,2010/2011,2010
+Mario Gómez,Centre-Forward,1985-07-10,24,Germany,Bayern Munich,Bundesliga,2010/2011,2010
+Ivica Olic,Centre-Forward,1979-09-14,30,Croatia,Bayern Munich,Bundesliga,2010/2011,2010
+Miroslav Klose,Centre-Forward,1978-06-09,32,Germany,Bayern Munich,Bundesliga,2010/2011,2010
+Diego Benaglio,Goalkeeper,1983-09-08,26,Switzerland,VfL Wolfsburg,Bundesliga,2010/2011,2010
+Marwin Hitz,Goalkeeper,1987-09-18,22,Switzerland,VfL Wolfsburg,Bundesliga,2010/2011,2010
+André Lenz,Goalkeeper,1973-11-19,36,Germany,VfL Wolfsburg,Bundesliga,2010/2011,2010
+Simon Kjær,Centre-Back,1989-03-26,21,Denmark,VfL Wolfsburg,Bundesliga,2010/2011,2010
+Andrea Barzagli,Centre-Back,1981-05-08,29,Italy,VfL Wolfsburg,Bundesliga,2010/2011,2010
+Arne Friedrich,Centre-Back,1979-05-29,31,Germany,VfL Wolfsburg,Bundesliga,2010/2011,2010
+Alexander Madlung,Centre-Back,1982-07-11,27,Germany,VfL Wolfsburg,Bundesliga,2010/2011,2010
+Robin Knoche,Centre-Back,1992-05-22,18,Germany,VfL Wolfsburg,Bundesliga,2010/2011,2010
+Marcel Schäfer,Left-Back,1984-06-07,26,Germany,VfL Wolfsburg,Bundesliga,2010/2011,2010
+Sascha Riether,Right-Back,1983-03-23,27,Germany,VfL Wolfsburg,Bundesliga,2010/2011,2010
+Peter Pekarik,Right-Back,1986-10-30,23,Slovakia,VfL Wolfsburg,Bundesliga,2010/2011,2010
+Michael Schulze,Right-Back,1989-01-13,21,Germany,VfL Wolfsburg,Bundesliga,2010/2011,2010
+Josué,Defensive Midfield,1979-07-19,30,Brazil,VfL Wolfsburg,Bundesliga,2010/2011,2010
+Jan Polak,Defensive Midfield,1981-03-14,29,Czech Republic,VfL Wolfsburg,Bundesliga,2010/2011,2010
+Makoto Hasebe,Defensive Midfield,1984-01-18,26,Japan,VfL Wolfsburg,Bundesliga,2010/2011,2010
+Cícero,Central Midfield,1984-08-26,25,Brazil,VfL Wolfsburg,Bundesliga,2010/2011,2010
+Thomas Kahlenberg,Central Midfield,1983-03-20,27,Denmark,VfL Wolfsburg,Bundesliga,2010/2011,2010
+Ja-cheol Koo,Central Midfield,1989-02-27,21,"Korea, South",VfL Wolfsburg,Bundesliga,2010/2011,2010
+Tolga Cigerci,Central Midfield,1992-03-23,18,Turkey,VfL Wolfsburg,Bundesliga,2010/2011,2010
+Diego,Attacking Midfield,1985-02-28,25,Brazil,VfL Wolfsburg,Bundesliga,2010/2011,2010
+Zvjezdan Misimovic,Attacking Midfield,1982-06-05,28,Bosnia-Herzegovina,VfL Wolfsburg,Bundesliga,2010/2011,2010
+Karim Ziani,Attacking Midfield,1982-08-17,27,Algeria,VfL Wolfsburg,Bundesliga,2010/2011,2010
+Tuncay Sanli,Left Winger,1982-01-16,28,Turkey,VfL Wolfsburg,Bundesliga,2010/2011,2010
+Fabian Johnson,Left Winger,1987-12-11,22,United States,VfL Wolfsburg,Bundesliga,2010/2011,2010
+Caiuby,Left Winger,1988-07-14,21,Brazil,VfL Wolfsburg,Bundesliga,2010/2011,2010
+Yohandry Orozco,Left Winger,1991-03-19,19,Venezuela,VfL Wolfsburg,Bundesliga,2010/2011,2010
+Ashkan Dejagah,Right Winger,1986-07-05,23,Iran,VfL Wolfsburg,Bundesliga,2010/2011,2010
+Akaki Gogia,Right Winger,1992-01-18,18,Germany,VfL Wolfsburg,Bundesliga,2010/2011,2010
+Edin Dzeko,Centre-Forward,1986-03-17,24,Bosnia-Herzegovina,VfL Wolfsburg,Bundesliga,2010/2011,2010
+Grafite,Centre-Forward,1979-04-02,31,Brazil,VfL Wolfsburg,Bundesliga,2010/2011,2010
+Patrick Helmes,Centre-Forward,1984-03-01,26,Germany,VfL Wolfsburg,Bundesliga,2010/2011,2010
+Dieumerci Mbokani,Centre-Forward,1985-11-22,24,DR Congo,VfL Wolfsburg,Bundesliga,2010/2011,2010
+Mario Mandzukic,Centre-Forward,1986-05-21,24,Croatia,VfL Wolfsburg,Bundesliga,2010/2011,2010
+Nassim Ben Khalifa,Centre-Forward,1992-01-13,18,Switzerland,VfL Wolfsburg,Bundesliga,2010/2011,2010
+René Adler,Goalkeeper,1985-01-15,25,Germany,Bayer 04 Leverkusen,Bundesliga,2010/2011,2010
+Fabian Giefer,Goalkeeper,1990-05-17,20,Germany,Bayer 04 Leverkusen,Bundesliga,2010/2011,2010
+Benedikt Fernandez,Goalkeeper,1985-01-08,25,Germany,Bayer 04 Leverkusen,Bundesliga,2010/2011,2010
+Tomasz Bobel,Goalkeeper,NA,35,Poland,Bayer 04 Leverkusen,Bundesliga,2010/2011,2010
+Manuel Friedrich,Centre-Back,1979-09-13,30,Germany,Bayer 04 Leverkusen,Bundesliga,2010/2011,2010
+Daniel Schwaab,Centre-Back,1988-08-23,21,Germany,Bayer 04 Leverkusen,Bundesliga,2010/2011,2010
+Domagoj Vida,Centre-Back,1989-04-29,21,Croatia,Bayer 04 Leverkusen,Bundesliga,2010/2011,2010
+Sami Hyypiä,Centre-Back,1973-10-07,36,Finland,Bayer 04 Leverkusen,Bundesliga,2010/2011,2010
+Tobias Haitz,Centre-Back,1992-02-12,18,Germany,Bayer 04 Leverkusen,Bundesliga,2010/2011,2010
+Julian Riedel,Centre-Back,1991-08-10,18,Germany,Bayer 04 Leverkusen,Bundesliga,2010/2011,2010
+Michal Kadlec,Left-Back,1984-12-13,25,Czech Republic,Bayer 04 Leverkusen,Bundesliga,2010/2011,2010
+Hans Sarpei,Left-Back,1976-06-28,34,Ghana,Bayer 04 Leverkusen,Bundesliga,2010/2011,2010
+Danny da Costa,Right-Back,1993-07-13,16,Germany,Bayer 04 Leverkusen,Bundesliga,2010/2011,2010
+Simon Rolfes,Defensive Midfield,1982-01-21,28,Germany,Bayer 04 Leverkusen,Bundesliga,2010/2011,2010
+Stefan Reinartz,Defensive Midfield,1989-01-01,21,Germany,Bayer 04 Leverkusen,Bundesliga,2010/2011,2010
+Hanno Balitsch,Defensive Midfield,1981-01-02,29,Germany,Bayer 04 Leverkusen,Bundesliga,2010/2011,2010
+Lars Bender,Defensive Midfield,1989-04-27,21,Germany,Bayer 04 Leverkusen,Bundesliga,2010/2011,2010
+Michael Ballack,Central Midfield,1976-09-26,33,Germany,Bayer 04 Leverkusen,Bundesliga,2010/2011,2010
+Renato Augusto,Central Midfield,1988-02-08,22,Brazil,Bayer 04 Leverkusen,Bundesliga,2010/2011,2010
+Arturo Vidal,Central Midfield,1987-05-22,23,Chile,Bayer 04 Leverkusen,Bundesliga,2010/2011,2010
+Gonzalo Castro,Central Midfield,1987-06-11,23,Germany,Bayer 04 Leverkusen,Bundesliga,2010/2011,2010
+Kevin Kampl,Central Midfield,1990-10-09,19,Slovenia,Bayer 04 Leverkusen,Bundesliga,2010/2011,2010
+Marcel Risse,Right Midfield,1989-12-17,20,Germany,Bayer 04 Leverkusen,Bundesliga,2010/2011,2010
+Tranquillo Barnetta,Attacking Midfield,1985-05-22,25,Switzerland,Bayer 04 Leverkusen,Bundesliga,2010/2011,2010
+Burak Kaplan,Attacking Midfield,1990-02-01,20,Turkey,Bayer 04 Leverkusen,Bundesliga,2010/2011,2010
+Sidney Sam,Right Winger,1988-01-31,22,Germany,Bayer 04 Leverkusen,Bundesliga,2010/2011,2010
+Stefan Kießling,Centre-Forward,1984-01-25,26,Germany,Bayer 04 Leverkusen,Bundesliga,2010/2011,2010
+Eren Derdiyok,Centre-Forward,1988-06-12,22,Switzerland,Bayer 04 Leverkusen,Bundesliga,2010/2011,2010
+Patrick Helmes,Centre-Forward,1984-03-01,26,Germany,Bayer 04 Leverkusen,Bundesliga,2010/2011,2010
+Nicolai Jörgensen,Centre-Forward,1991-01-15,19,Denmark,Bayer 04 Leverkusen,Bundesliga,2010/2011,2010
+Tim Wiese,Goalkeeper,1981-12-17,28,Germany,SV Werder Bremen,Bundesliga,2010/2011,2010
+Christian Vander,Goalkeeper,1980-10-24,29,Germany,SV Werder Bremen,Bundesliga,2010/2011,2010
+Sebastian Mielitz,Goalkeeper,1989-07-18,20,Germany,SV Werder Bremen,Bundesliga,2010/2011,2010
+Felix Wiedwald,Goalkeeper,1990-03-15,20,Germany,SV Werder Bremen,Bundesliga,2010/2011,2010
+Per Mertesacker,Centre-Back,1984-09-29,25,Germany,SV Werder Bremen,Bundesliga,2010/2011,2010
+Naldo,Centre-Back,1982-09-10,27,Brazil,SV Werder Bremen,Bundesliga,2010/2011,2010
+Petri Pasanen,Centre-Back,1980-09-24,29,Finland,SV Werder Bremen,Bundesliga,2010/2011,2010
+Sebastian Prödl,Centre-Back,1987-06-21,23,Austria,SV Werder Bremen,Bundesliga,2010/2011,2010
+Mikaël Silvestre,Centre-Back,1977-08-09,32,France,SV Werder Bremen,Bundesliga,2010/2011,2010
+Niklas Andersen,Centre-Back,1988-08-04,21,Germany,SV Werder Bremen,Bundesliga,2010/2011,2010
+Dominik Schmidt,Centre-Back,1987-07-01,23,Germany,SV Werder Bremen,Bundesliga,2010/2011,2010
+Leon Balogun,Centre-Back,1988-06-28,22,Nigeria,SV Werder Bremen,Bundesliga,2010/2011,2010
+Samuel Jesus,Centre-Back,1986-04-07,24,Brazil,SV Werder Bremen,Bundesliga,2010/2011,2010
+Sebastian Boenisch,Left-Back,1987-02-01,23,Poland,SV Werder Bremen,Bundesliga,2010/2011,2010
+Torsten Frings,Defensive Midfield,1976-11-22,33,Germany,SV Werder Bremen,Bundesliga,2010/2011,2010
+Philipp Bargfrede,Defensive Midfield,1989-03-03,21,Germany,SV Werder Bremen,Bundesliga,2010/2011,2010
+Jurica Vranjes,Defensive Midfield,1980-01-31,30,Croatia,SV Werder Bremen,Bundesliga,2010/2011,2010
+Kevin Schindler,Defensive Midfield,1988-05-21,22,Germany,SV Werder Bremen,Bundesliga,2010/2011,2010
+Clemens Fritz,Central Midfield,1980-12-07,29,Germany,SV Werder Bremen,Bundesliga,2010/2011,2010
+Tim Borowski,Central Midfield,1980-05-02,30,Germany,SV Werder Bremen,Bundesliga,2010/2011,2010
+Wesley,Central Midfield,1987-06-24,23,Brazil,SV Werder Bremen,Bundesliga,2010/2011,2010
+Daniel Jensen,Central Midfield,1979-06-25,31,Denmark,SV Werder Bremen,Bundesliga,2010/2011,2010
+Felix Kroos,Central Midfield,1991-03-12,19,Germany,SV Werder Bremen,Bundesliga,2010/2011,2010
+Mesut Özil,Attacking Midfield,1988-10-15,21,Germany,SV Werder Bremen,Bundesliga,2010/2011,2010
+Marko Marin,Attacking Midfield,1989-03-13,21,Germany,SV Werder Bremen,Bundesliga,2010/2011,2010
+Aaron Hunt,Attacking Midfield,1986-09-04,23,Germany,SV Werder Bremen,Bundesliga,2010/2011,2010
+Said Husejinovic,Attacking Midfield,1988-05-17,22,Bosnia-Herzegovina,SV Werder Bremen,Bundesliga,2010/2011,2010
+Florian Trinks,Attacking Midfield,1992-03-11,18,Germany,SV Werder Bremen,Bundesliga,2010/2011,2010
+Predrag Stevanovic,Attacking Midfield,1991-03-03,19,Serbia,SV Werder Bremen,Bundesliga,2010/2011,2010
+Onur Ayik,Right Winger,1990-01-28,20,Turkey,SV Werder Bremen,Bundesliga,2010/2011,2010
+Claudio Pizarro,Centre-Forward,1978-10-03,31,Peru,SV Werder Bremen,Bundesliga,2010/2011,2010
+Hugo Almeida,Centre-Forward,1984-05-23,26,Portugal,SV Werder Bremen,Bundesliga,2010/2011,2010
+Marko Arnautovic,Centre-Forward,1989-04-19,21,Austria,SV Werder Bremen,Bundesliga,2010/2011,2010
+Markus Rosenberg,Centre-Forward,1982-09-27,27,Sweden,SV Werder Bremen,Bundesliga,2010/2011,2010
+Sandro Wagner,Centre-Forward,1987-11-29,22,Germany,SV Werder Bremen,Bundesliga,2010/2011,2010
+Denni Avdic,Centre-Forward,1988-09-05,21,Sweden,SV Werder Bremen,Bundesliga,2010/2011,2010
+Pascal Testroet,Centre-Forward,1990-09-26,19,Germany,SV Werder Bremen,Bundesliga,2010/2011,2010
+Lennart Thy,Centre-Forward,1992-02-25,18,Germany,SV Werder Bremen,Bundesliga,2010/2011,2010
+Manuel Neuer,Goalkeeper,1986-03-27,24,Germany,FC Schalke 04,Bundesliga,2010/2011,2010
+Mathias Schober,Goalkeeper,1976-04-08,34,Germany,FC Schalke 04,Bundesliga,2010/2011,2010
+Lars Unnerstall,Goalkeeper,1990-07-20,19,Germany,FC Schalke 04,Bundesliga,2010/2011,2010
+Benedikt Höwedes,Centre-Back,1988-02-29,22,Germany,FC Schalke 04,Bundesliga,2010/2011,2010
+Tim Hoogland,Centre-Back,1985-06-11,25,Germany,FC Schalke 04,Bundesliga,2010/2011,2010
+Christoph Metzelder,Centre-Back,1980-11-05,29,Germany,FC Schalke 04,Bundesliga,2010/2011,2010
+Joel Matip,Centre-Back,1991-08-08,18,Cameroon,FC Schalke 04,Bundesliga,2010/2011,2010
+Nicolas Plestan,Centre-Back,1981-06-02,29,France,FC Schalke 04,Bundesliga,2010/2011,2010
+Vasilios Pliatsikas,Centre-Back,1988-04-14,22,Greece,FC Schalke 04,Bundesliga,2010/2011,2010
+Kyriakos Papadopoulos,Centre-Back,1992-02-23,18,Greece,FC Schalke 04,Bundesliga,2010/2011,2010
+Lukas Schmitz,Left-Back,1988-10-13,21,Germany,FC Schalke 04,Bundesliga,2010/2011,2010
+Christian Pander,Left-Back,1983-08-28,26,Germany,FC Schalke 04,Bundesliga,2010/2011,2010
+Sergio Escudero,Left-Back,1989-09-02,20,Spain,FC Schalke 04,Bundesliga,2010/2011,2010
+Hans Sarpei,Left-Back,1976-06-28,34,Ghana,FC Schalke 04,Bundesliga,2010/2011,2010
+Danilo Avelar,Left-Back,1989-06-09,21,Brazil,FC Schalke 04,Bundesliga,2010/2011,2010
+Atsuto Uchida,Right-Back,1988-03-27,22,Japan,FC Schalke 04,Bundesliga,2010/2011,2010
+Jermaine Jones,Defensive Midfield,1981-11-03,28,United States,FC Schalke 04,Bundesliga,2010/2011,2010
+Peer Kluge,Defensive Midfield,1980-11-22,29,Germany,FC Schalke 04,Bundesliga,2010/2011,2010
+Anthony Annan,Defensive Midfield,1986-07-21,23,Ghana,FC Schalke 04,Bundesliga,2010/2011,2010
+Ivan Rakitic,Central Midfield,1988-03-10,22,Croatia,FC Schalke 04,Bundesliga,2010/2011,2010
+Christoph Moritz,Central Midfield,1990-01-27,20,Germany,FC Schalke 04,Bundesliga,2010/2011,2010
+Junmin Hao,Central Midfield,1987-03-24,23,China,FC Schalke 04,Bundesliga,2010/2011,2010
+José Manuel Jurado,Attacking Midfield,1986-06-29,24,Spain,FC Schalke 04,Bundesliga,2010/2011,2010
+Alexander Baumjohann,Attacking Midfield,1987-01-23,23,Germany,FC Schalke 04,Bundesliga,2010/2011,2010
+Levan Kenia,Attacking Midfield,1990-10-18,19,Georgia,FC Schalke 04,Bundesliga,2010/2011,2010
+Ali Karimi,Attacking Midfield,1978-11-08,31,Iran,FC Schalke 04,Bundesliga,2010/2011,2010
+Ciprian Deac,Attacking Midfield,1986-02-16,24,Romania,FC Schalke 04,Bundesliga,2010/2011,2010
+Julian Draxler,Attacking Midfield,1993-09-20,16,Germany,FC Schalke 04,Bundesliga,2010/2011,2010
+Marco Quotschalla,Left Winger,1988-07-25,21,Germany,FC Schalke 04,Bundesliga,2010/2011,2010
+Jefferson Farfán,Right Winger,1984-10-26,25,Peru,FC Schalke 04,Bundesliga,2010/2011,2010
+Raúl,Second Striker,1977-06-27,33,Spain,FC Schalke 04,Bundesliga,2010/2011,2010
+Klaas-Jan Huntelaar,Centre-Forward,1983-08-12,26,Netherlands,FC Schalke 04,Bundesliga,2010/2011,2010
+Erik Jendrisek,Centre-Forward,1986-10-26,23,Slovakia,FC Schalke 04,Bundesliga,2010/2011,2010
+Angelos Charisteas,Centre-Forward,1980-02-09,30,Greece,FC Schalke 04,Bundesliga,2010/2011,2010
+Mario Gavranovic,Centre-Forward,1989-11-24,20,Switzerland,FC Schalke 04,Bundesliga,2010/2011,2010
+Edú,Centre-Forward,1981-11-30,28,Brazil,FC Schalke 04,Bundesliga,2010/2011,2010
+Jaroslav Drobny,Goalkeeper,1979-10-18,30,Czech Republic,Hamburger SV,Bundesliga,2010/2011,2010
+Frank Rost,Goalkeeper,1973-06-30,37,Germany,Hamburger SV,Bundesliga,2010/2011,2010
+Tom Mickel,Goalkeeper,1989-04-19,21,Germany,Hamburger SV,Bundesliga,2010/2011,2010
+Heiko Westermann,Centre-Back,1983-08-14,26,Germany,Hamburger SV,Bundesliga,2010/2011,2010
+Joris Mathijsen,Centre-Back,1980-04-05,30,Netherlands,Hamburger SV,Bundesliga,2010/2011,2010
+Miroslav Stepanek,Centre-Back,1990-01-15,20,Czech Republic,Hamburger SV,Bundesliga,2010/2011,2010
+Marcell Jansen,Left-Back,1985-11-04,24,Germany,Hamburger SV,Bundesliga,2010/2011,2010
+Lennard Sowah,Left-Back,1992-08-23,17,Germany,Hamburger SV,Bundesliga,2010/2011,2010
+Guy Demel,Right-Back,1981-06-13,29,Cote d'Ivoire,Hamburger SV,Bundesliga,2010/2011,2010
+Dennis Diekmeier,Right-Back,1989-10-20,20,Germany,Hamburger SV,Bundesliga,2010/2011,2010
+Gojko Kacar,Defensive Midfield,1987-01-26,23,Serbia,Hamburger SV,Bundesliga,2010/2011,2010
+Dennis Aogo,Defensive Midfield,1987-01-14,23,Germany,Hamburger SV,Bundesliga,2010/2011,2010
+David Jarolim,Defensive Midfield,1979-05-17,31,Czech Republic,Hamburger SV,Bundesliga,2010/2011,2010
+Tomás Rincón,Defensive Midfield,1988-01-13,22,Venezuela,Hamburger SV,Bundesliga,2010/2011,2010
+Collin Benjamin,Defensive Midfield,1978-08-03,31,Namibia,Hamburger SV,Bundesliga,2010/2011,2010
+Muhamed Besic,Defensive Midfield,1992-09-10,17,Bosnia-Herzegovina,Hamburger SV,Bundesliga,2010/2011,2010
+Robert Tesche,Central Midfield,1987-05-27,23,Germany,Hamburger SV,Bundesliga,2010/2011,2010
+Zé Roberto,Left Midfield,1974-07-06,35,Brazil,Hamburger SV,Bundesliga,2010/2011,2010
+Piotr Trochowski,Attacking Midfield,1984-03-22,26,Germany,Hamburger SV,Bundesliga,2010/2011,2010
+Änis Ben-Hatira,Attacking Midfield,1988-07-18,21,Tunisia,Hamburger SV,Bundesliga,2010/2011,2010
+Gerrit Pressel,Attacking Midfield,1990-06-19,20,Germany,Hamburger SV,Bundesliga,2010/2011,2010
+Eljero Elia,Left Winger,1987-02-13,23,Netherlands,Hamburger SV,Bundesliga,2010/2011,2010
+Heung-min Son,Left Winger,1992-07-08,17,"Korea, South",Hamburger SV,Bundesliga,2010/2011,2010
+Jonathan Pitroipa,Right Winger,1986-04-12,24,Burkina Faso,Hamburger SV,Bundesliga,2010/2011,2010
+Tunay Torun,Right Winger,1990-04-21,20,Turkey,Hamburger SV,Bundesliga,2010/2011,2010
+Romeo Castelen,Right Winger,1983-05-03,27,Netherlands,Hamburger SV,Bundesliga,2010/2011,2010
+Mladen Petric,Centre-Forward,1981-01-01,29,Croatia,Hamburger SV,Bundesliga,2010/2011,2010
+Paolo Guerrero,Centre-Forward,1984-01-01,26,Peru,Hamburger SV,Bundesliga,2010/2011,2010
+Ruud van Nistelrooy,Centre-Forward,1976-07-01,34,Netherlands,Hamburger SV,Bundesliga,2010/2011,2010
+Eric Maxim Choupo-Moting,Centre-Forward,1989-03-23,21,Cameroon,Hamburger SV,Bundesliga,2010/2011,2010
+Roman Weidenfeller,Goalkeeper,1980-08-06,29,Germany,Borussia Dortmund,Bundesliga,2010/2011,2010
+Mitchell Langerak,Goalkeeper,1988-08-22,21,Australia,Borussia Dortmund,Bundesliga,2010/2011,2010
+Johannes Focher,Goalkeeper,1990-01-20,20,Germany,Borussia Dortmund,Bundesliga,2010/2011,2010
+Neven Subotic,Centre-Back,1988-12-10,21,Serbia,Borussia Dortmund,Bundesliga,2010/2011,2010
+Mats Hummels,Centre-Back,1988-12-16,21,Germany,Borussia Dortmund,Bundesliga,2010/2011,2010
+Sven Bender,Centre-Back,1989-04-27,21,Germany,Borussia Dortmund,Bundesliga,2010/2011,2010
+Felipe Santana,Centre-Back,1986-03-17,24,Brazil,Borussia Dortmund,Bundesliga,2010/2011,2010
+Lasse Sobiech,Centre-Back,1991-01-18,19,Germany,Borussia Dortmund,Bundesliga,2010/2011,2010
+Marc Hornschuh,Centre-Back,1991-03-02,19,Germany,Borussia Dortmund,Bundesliga,2010/2011,2010
+Marcel Schmelzer,Left-Back,1988-01-22,22,Germany,Borussia Dortmund,Bundesliga,2010/2011,2010
+Dedê,Left-Back,1978-04-18,32,Brazil,Borussia Dortmund,Bundesliga,2010/2011,2010
+Kevin Großkreutz,Right-Back,1988-07-19,21,Germany,Borussia Dortmund,Bundesliga,2010/2011,2010
+Patrick Owomoyela,Right-Back,1979-11-05,30,Germany,Borussia Dortmund,Bundesliga,2010/2011,2010
+Lukasz Piszczek,Right-Back,1985-06-03,25,Poland,Borussia Dortmund,Bundesliga,2010/2011,2010
+Nuri Sahin,Defensive Midfield,1988-09-05,21,Turkey,Borussia Dortmund,Bundesliga,2010/2011,2010
+Sebastian Kehl,Defensive Midfield,1980-02-13,30,Germany,Borussia Dortmund,Bundesliga,2010/2011,2010
+Damien Le Tallec,Defensive Midfield,1990-04-19,20,France,Borussia Dortmund,Bundesliga,2010/2011,2010
+Florian Kringe,Central Midfield,1982-08-18,27,Germany,Borussia Dortmund,Bundesliga,2010/2011,2010
+Markus Feulner,Central Midfield,1982-02-12,28,Germany,Borussia Dortmund,Bundesliga,2010/2011,2010
+Tamás Hajnal,Attacking Midfield,1981-03-15,29,Hungary,Borussia Dortmund,Bundesliga,2010/2011,2010
+Shinji Kagawa,Attacking Midfield,1989-03-17,21,Japan,Borussia Dortmund,Bundesliga,2010/2011,2010
+Mario Götze,Attacking Midfield,1992-06-03,18,Germany,Borussia Dortmund,Bundesliga,2010/2011,2010
+Antônio da Silva,Attacking Midfield,1978-06-13,32,Brazil,Borussia Dortmund,Bundesliga,2010/2011,2010
+Marco Stiepermann,Attacking Midfield,1991-02-09,19,Germany,Borussia Dortmund,Bundesliga,2010/2011,2010
+Yasin Öztekin,Left Winger,1987-03-19,23,Turkey,Borussia Dortmund,Bundesliga,2010/2011,2010
+Jakub Blaszczykowski,Right Winger,1985-12-14,24,Poland,Borussia Dortmund,Bundesliga,2010/2011,2010
+Mohamed Zidan,Second Striker,1981-12-11,28,Egypt,Borussia Dortmund,Bundesliga,2010/2011,2010
+Lucas Barrios,Centre-Forward,1984-11-13,25,Paraguay,Borussia Dortmund,Bundesliga,2010/2011,2010
+Robert Lewandowski,Centre-Forward,1988-08-21,21,Poland,Borussia Dortmund,Bundesliga,2010/2011,2010
+Dimitar Rangelov,Centre-Forward,1983-02-09,27,Bulgaria,Borussia Dortmund,Bundesliga,2010/2011,2010
+Daniel Ginczek,Centre-Forward,1991-04-13,19,Germany,Borussia Dortmund,Bundesliga,2010/2011,2010
+Sven Ulreich,Goalkeeper,1988-08-03,21,Germany,VfB Stuttgart,Bundesliga,2010/2011,2010
+Marc Ziegler,Goalkeeper,1976-06-13,34,Germany,VfB Stuttgart,Bundesliga,2010/2011,2010
+Alexander Stolz,Goalkeeper,1983-10-13,26,Germany,VfB Stuttgart,Bundesliga,2010/2011,2010
+Serdar Tasci,Centre-Back,1987-04-24,23,Germany,VfB Stuttgart,Bundesliga,2010/2011,2010
+Matthieu Delpierre,Centre-Back,1981-04-26,29,France,VfB Stuttgart,Bundesliga,2010/2011,2010
+Georg Niedermeier,Centre-Back,1986-02-26,24,Germany,VfB Stuttgart,Bundesliga,2010/2011,2010
+Khalid Boulahrouz,Centre-Back,1981-12-28,28,Netherlands,VfB Stuttgart,Bundesliga,2010/2011,2010
+Ermin Bicakcic,Centre-Back,1990-01-24,20,Bosnia-Herzegovina,VfB Stuttgart,Bundesliga,2010/2011,2010
+Thomas Geyer,Centre-Back,1991-03-06,19,Germany,VfB Stuttgart,Bundesliga,2010/2011,2010
+Cristian Molinaro,Left-Back,1983-07-30,26,Italy,VfB Stuttgart,Bundesliga,2010/2011,2010
+Arthur Boka,Left-Back,1983-04-02,27,Cote d'Ivoire,VfB Stuttgart,Bundesliga,2010/2011,2010
+Stefano Celozzi,Right-Back,1988-11-02,21,Germany,VfB Stuttgart,Bundesliga,2010/2011,2010
+Philipp Degen,Right-Back,1983-02-15,27,Switzerland,VfB Stuttgart,Bundesliga,2010/2011,2010
+Christian Träsch,Defensive Midfield,1987-09-01,22,Germany,VfB Stuttgart,Bundesliga,2010/2011,2010
+Sebastian Rudy,Defensive Midfield,1990-02-28,20,Germany,VfB Stuttgart,Bundesliga,2010/2011,2010
+Mamadou Bah,Defensive Midfield,1988-04-25,22,Guinea,VfB Stuttgart,Bundesliga,2010/2011,2010
+Patrick Funk,Defensive Midfield,1990-02-11,20,Germany,VfB Stuttgart,Bundesliga,2010/2011,2010
+Zdravko Kuzmanović,Central Midfield,1987-09-22,22,Serbia,VfB Stuttgart,Bundesliga,2010/2011,2010
+Christian Gentner,Central Midfield,1985-08-14,24,Germany,VfB Stuttgart,Bundesliga,2010/2011,2010
+Matthias Schwarz,Central Midfield,1987-12-28,22,Germany,VfB Stuttgart,Bundesliga,2010/2011,2010
+Mauro Camoranesi,Right Midfield,1976-10-04,33,Italy,VfB Stuttgart,Bundesliga,2010/2011,2010
+Clemens Walch,Right Midfield,1987-07-10,22,Austria,VfB Stuttgart,Bundesliga,2010/2011,2010
+Timo Gebhart,Attacking Midfield,1989-04-12,21,Germany,VfB Stuttgart,Bundesliga,2010/2011,2010
+Tamás Hajnal,Attacking Midfield,1981-03-15,29,Hungary,VfB Stuttgart,Bundesliga,2010/2011,2010
+Élson,Attacking Midfield,1981-11-16,28,Brazil,VfB Stuttgart,Bundesliga,2010/2011,2010
+Daniel Didavi,Attacking Midfield,1990-02-21,20,Germany,VfB Stuttgart,Bundesliga,2010/2011,2010
+Johan Audel,Left Winger,1983-12-12,26,Martinique,VfB Stuttgart,Bundesliga,2010/2011,2010
+Pavel Pogrebnyak,Centre-Forward,1983-11-08,26,Russia,VfB Stuttgart,Bundesliga,2010/2011,2010
+Cacau,Centre-Forward,1981-03-27,29,Germany,VfB Stuttgart,Bundesliga,2010/2011,2010
+Ciprian Marica,Centre-Forward,1985-10-02,24,Romania,VfB Stuttgart,Bundesliga,2010/2011,2010
+Shinji Okazaki,Centre-Forward,1986-04-16,24,Japan,VfB Stuttgart,Bundesliga,2010/2011,2010
+Martin Harnik,Centre-Forward,1987-06-10,23,Austria,VfB Stuttgart,Bundesliga,2010/2011,2010
+Sven Schipplock,Centre-Forward,1988-11-08,21,Germany,VfB Stuttgart,Bundesliga,2010/2011,2010
+Tom Starke,Goalkeeper,1981-03-18,29,Germany,TSG 1899 Hoffenheim,Bundesliga,2010/2011,2010
+Daniel Haas,Goalkeeper,1983-08-01,26,Germany,TSG 1899 Hoffenheim,Bundesliga,2010/2011,2010
+Ramazan Özcan,Goalkeeper,1984-06-28,26,Austria,TSG 1899 Hoffenheim,Bundesliga,2010/2011,2010
+Jens Grahl,Goalkeeper,1988-09-22,21,Germany,TSG 1899 Hoffenheim,Bundesliga,2010/2011,2010
+Josip Simunic,Centre-Back,1978-02-18,32,Croatia,TSG 1899 Hoffenheim,Bundesliga,2010/2011,2010
+Isaac Vorsah,Centre-Back,1988-06-21,22,Ghana,TSG 1899 Hoffenheim,Bundesliga,2010/2011,2010
+Marvin Compper,Centre-Back,1985-06-14,25,Germany,TSG 1899 Hoffenheim,Bundesliga,2010/2011,2010
+Matthias Jaissle,Centre-Back,1988-04-05,22,Germany,TSG 1899 Hoffenheim,Bundesliga,2010/2011,2010
+Manuel Gulde,Centre-Back,1991-02-12,19,Germany,TSG 1899 Hoffenheim,Bundesliga,2010/2011,2010
+Jannik Vestergaard,Centre-Back,1992-08-03,17,Denmark,TSG 1899 Hoffenheim,Bundesliga,2010/2011,2010
+Edson Braafheid,Left-Back,1983-04-08,27,Netherlands,TSG 1899 Hoffenheim,Bundesliga,2010/2011,2010
+Andreas Ibertsberger,Left-Back,1982-07-27,27,Austria,TSG 1899 Hoffenheim,Bundesliga,2010/2011,2010
+Christian Eichner,Left-Back,1982-11-24,27,Germany,TSG 1899 Hoffenheim,Bundesliga,2010/2011,2010
+David Alaba,Left-Back,1992-06-24,18,Austria,TSG 1899 Hoffenheim,Bundesliga,2010/2011,2010
+Jukka Raitala,Left-Back,1988-09-15,21,Finland,TSG 1899 Hoffenheim,Bundesliga,2010/2011,2010
+Andreas Beck,Right-Back,1987-03-13,23,Germany,TSG 1899 Hoffenheim,Bundesliga,2010/2011,2010
+Luiz Gustavo,Defensive Midfield,1987-07-23,22,Brazil,TSG 1899 Hoffenheim,Bundesliga,2010/2011,2010
+Sebastian Rudy,Defensive Midfield,1990-02-28,20,Germany,TSG 1899 Hoffenheim,Bundesliga,2010/2011,2010
+Sejad Salihovic,Central Midfield,1984-10-08,25,Bosnia-Herzegovina,TSG 1899 Hoffenheim,Bundesliga,2010/2011,2010
+Tobias Weis,Central Midfield,1985-07-30,24,Germany,TSG 1899 Hoffenheim,Bundesliga,2010/2011,2010
+Dominik Kaiser,Central Midfield,1988-09-16,21,Germany,TSG 1899 Hoffenheim,Bundesliga,2010/2011,2010
+Carlos Eduardo,Attacking Midfield,1987-07-18,22,Brazil,TSG 1899 Hoffenheim,Bundesliga,2010/2011,2010
+Gylfi Sigurdsson,Attacking Midfield,1989-09-08,20,Iceland,TSG 1899 Hoffenheim,Bundesliga,2010/2011,2010
+Andreas Ludwig,Attacking Midfield,1990-09-11,19,Germany,TSG 1899 Hoffenheim,Bundesliga,2010/2011,2010
+Ryan Babel,Left Winger,1986-12-19,23,Netherlands,TSG 1899 Hoffenheim,Bundesliga,2010/2011,2010
+Kai Herdling,Left Winger,1984-06-27,26,Germany,TSG 1899 Hoffenheim,Bundesliga,2010/2011,2010
+Chinedu Obasi,Right Winger,1986-06-01,24,Nigeria,TSG 1899 Hoffenheim,Bundesliga,2010/2011,2010
+Boris Vukcevic,Right Winger,1990-03-16,20,Germany,TSG 1899 Hoffenheim,Bundesliga,2010/2011,2010
+Vedad Ibisevic,Centre-Forward,1984-08-06,25,Bosnia-Herzegovina,TSG 1899 Hoffenheim,Bundesliga,2010/2011,2010
+Demba Ba,Centre-Forward,1985-05-25,25,Senegal,TSG 1899 Hoffenheim,Bundesliga,2010/2011,2010
+Peniel Mlapa,Centre-Forward,1991-02-20,19,Togo,TSG 1899 Hoffenheim,Bundesliga,2010/2011,2010
+Prince Tagoe,Centre-Forward,1986-11-09,23,Ghana,TSG 1899 Hoffenheim,Bundesliga,2010/2011,2010
+Roberto Firmino,Centre-Forward,1991-10-02,18,Brazil,TSG 1899 Hoffenheim,Bundesliga,2010/2011,2010
+Denis Thomalla,Centre-Forward,1992-08-16,17,Germany,TSG 1899 Hoffenheim,Bundesliga,2010/2011,2010
+Logan Bailly,Goalkeeper,1985-12-27,24,Belgium,Borussia Mönchengladbach,Bundesliga,2010/2011,2010
+Christofer Heimeroth,Goalkeeper,1981-08-01,28,Germany,Borussia Mönchengladbach,Bundesliga,2010/2011,2010
+Marc-André ter Stegen,Goalkeeper,1992-04-30,18,Germany,Borussia Mönchengladbach,Bundesliga,2010/2011,2010
+Dante,Centre-Back,1983-10-18,26,Brazil,Borussia Mönchengladbach,Bundesliga,2010/2011,2010
+Martin Stranzl,Centre-Back,1980-06-16,30,Austria,Borussia Mönchengladbach,Bundesliga,2010/2011,2010
+Roel Brouwers,Centre-Back,1981-11-28,28,Netherlands,Borussia Mönchengladbach,Bundesliga,2010/2011,2010
+Bamba Anderson,Centre-Back,1988-01-10,22,Brazil,Borussia Mönchengladbach,Bundesliga,2010/2011,2010
+Tony Jantschke,Centre-Back,1990-04-07,20,Germany,Borussia Mönchengladbach,Bundesliga,2010/2011,2010
+Jan-Ingwer Callsen-Bracker,Centre-Back,1984-09-23,25,Germany,Borussia Mönchengladbach,Bundesliga,2010/2011,2010
+Michael Stuckmann,Centre-Back,1979-09-01,30,Germany,Borussia Mönchengladbach,Bundesliga,2010/2011,2010
+Roman Neustädter,Centre-Back,1988-02-18,22,Russia,Borussia Mönchengladbach,Bundesliga,2010/2011,2010
+Bernhard Janeczek,Centre-Back,1992-03-10,18,Austria,Borussia Mönchengladbach,Bundesliga,2010/2011,2010
+Filip Daems,Left-Back,1978-10-31,31,Belgium,Borussia Mönchengladbach,Bundesliga,2010/2011,2010
+Jean-Sébastien Jaurès,Left-Back,1977-09-30,32,France,Borussia Mönchengladbach,Bundesliga,2010/2011,2010
+Christian Dorda,Left-Back,1988-12-06,21,Germany,Borussia Mönchengladbach,Bundesliga,2010/2011,2010
+Jens Wissing,Left-Back,NA,22,Germany,Borussia Mönchengladbach,Bundesliga,2010/2011,2010
+Tobias Levels,Right-Back,1986-11-22,23,Germany,Borussia Mönchengladbach,Bundesliga,2010/2011,2010
+Paul Stalteri,Right-Back,1977-10-18,32,Canada,Borussia Mönchengladbach,Bundesliga,2010/2011,2010
+Sebastian Schachten,Right-Back,1984-11-06,25,Germany,Borussia Mönchengladbach,Bundesliga,2010/2011,2010
+Michael Fink,Defensive Midfield,1982-02-01,28,Germany,Borussia Mönchengladbach,Bundesliga,2010/2011,2010
+Thorben Marx,Defensive Midfield,1981-06-01,29,Germany,Borussia Mönchengladbach,Bundesliga,2010/2011,2010
+Marcel Meeuwis,Defensive Midfield,1980-10-31,29,Netherlands,Borussia Mönchengladbach,Bundesliga,2010/2011,2010
+Havard Nordtveit,Defensive Midfield,1990-06-21,20,Norway,Borussia Mönchengladbach,Bundesliga,2010/2011,2010
+Michael Bradley,Central Midfield,1987-07-31,22,United States,Borussia Mönchengladbach,Bundesliga,2010/2011,2010
+Juan Arango,Left Midfield,1980-05-17,30,Venezuela,Borussia Mönchengladbach,Bundesliga,2010/2011,2010
+Marco Reus,Attacking Midfield,1989-05-31,21,Germany,Borussia Mönchengladbach,Bundesliga,2010/2011,2010
+Karim Matmour,Right Winger,NA,25,Algeria,Borussia Mönchengladbach,Bundesliga,2010/2011,2010
+Patrick Herrmann,Right Winger,1991-02-12,19,Germany,Borussia Mönchengladbach,Bundesliga,2010/2011,2010
+Fabian Bäcker,Right Winger,1990-05-28,20,Germany,Borussia Mönchengladbach,Bundesliga,2010/2011,2010
+Elias Kachunga,Right Winger,1992-04-22,18,DR Congo,Borussia Mönchengladbach,Bundesliga,2010/2011,2010
+Igor de Camargo,Centre-Forward,1983-05-12,27,Belgium,Borussia Mönchengladbach,Bundesliga,2010/2011,2010
+Raúl Bobadilla,Centre-Forward,1987-06-18,23,Paraguay,Borussia Mönchengladbach,Bundesliga,2010/2011,2010
+Mohamadou Idrissou,Centre-Forward,1980-03-08,30,Cameroon,Borussia Mönchengladbach,Bundesliga,2010/2011,2010
+Mike Hanke,Centre-Forward,1983-11-05,26,Germany,Borussia Mönchengladbach,Bundesliga,2010/2011,2010
+Michael Rensing,Goalkeeper,1984-05-14,26,Germany,1. FC Köln,Bundesliga,2010/2011,2010
+Faryd Mondragón,Goalkeeper,1971-06-21,39,Colombia,1. FC Köln,Bundesliga,2010/2011,2010
+Miro Varvodic,Goalkeeper,1989-05-15,21,Croatia,1. FC Köln,Bundesliga,2010/2011,2010
+Daniel Schwabke,Goalkeeper,1989-07-19,20,Germany,1. FC Köln,Bundesliga,2010/2011,2010
+Pedro Geromel,Centre-Back,1985-09-21,24,Brazil,1. FC Köln,Bundesliga,2010/2011,2010
+Youssef Mohamad,Centre-Back,1980-07-01,30,Lebanon,1. FC Köln,Bundesliga,2010/2011,2010
+Christopher Schorch,Centre-Back,1989-01-30,21,Germany,1. FC Köln,Bundesliga,2010/2011,2010
+Tomoaki Makino,Centre-Back,1987-05-11,23,Japan,1. FC Köln,Bundesliga,2010/2011,2010
+Kevin McKenna,Centre-Back,1980-01-21,30,Canada,1. FC Köln,Bundesliga,2010/2011,2010
+Stephan Salger,Centre-Back,1990-01-30,20,Germany,1. FC Köln,Bundesliga,2010/2011,2010
+Carsten Cullmann,Centre-Back,1976-03-05,34,Germany,1. FC Köln,Bundesliga,2010/2011,2010
+Christian Eichner,Left-Back,1982-11-24,27,Germany,1. FC Köln,Bundesliga,2010/2011,2010
+Fabrice Ehret,Left-Back,1979-09-28,30,France,1. FC Köln,Bundesliga,2010/2011,2010
+Konstantinos Giannoulis,Left-Back,1987-12-09,22,Greece,1. FC Köln,Bundesliga,2010/2011,2010
+Miso Brecko,Right-Back,1984-05-01,26,Slovenia,1. FC Köln,Bundesliga,2010/2011,2010
+Andrézinho,Right-Back,1981-10-09,28,Brazil,1. FC Köln,Bundesliga,2010/2011,2010
+Daniel Brosinski,Right-Back,1988-07-17,21,Germany,1. FC Köln,Bundesliga,2010/2011,2010
+Bienvenue Basala-Mazana,Right-Back,1992-01-02,18,Germany,1. FC Köln,Bundesliga,2010/2011,2010
+Alexander Vaaßen,Right-Back,1991-12-09,18,Germany,1. FC Köln,Bundesliga,2010/2011,2010
+Petit,Defensive Midfield,1976-09-25,33,Portugal,1. FC Köln,Bundesliga,2010/2011,2010
+Martin Lanig,Defensive Midfield,1984-07-11,25,Germany,1. FC Köln,Bundesliga,2010/2011,2010
+Kevin Pezzoni,Defensive Midfield,1989-03-22,21,Germany,1. FC Köln,Bundesliga,2010/2011,2010
+Adam Matuschyk,Defensive Midfield,1989-02-14,21,Poland,1. FC Köln,Bundesliga,2010/2011,2010
+Mato Jajalo,Central Midfield,1988-05-25,22,Bosnia-Herzegovina,1. FC Köln,Bundesliga,2010/2011,2010
+Reinhold Yabo,Central Midfield,1992-02-10,18,Germany,1. FC Köln,Bundesliga,2010/2011,2010
+Michael Niedrig,Central Midfield,1980-01-12,30,Germany,1. FC Köln,Bundesliga,2010/2011,2010
+Taner Yalcin,Attacking Midfield,1990-02-18,20,Germany,1. FC Köln,Bundesliga,2010/2011,2010
+Christopher Buchtmann,Attacking Midfield,1992-04-25,18,Germany,1. FC Köln,Bundesliga,2010/2011,2010
+Slawomir Peszko,Left Winger,1985-02-19,25,Poland,1. FC Köln,Bundesliga,2010/2011,2010
+Wilfried Sanou,Left Winger,1984-03-16,26,Burkina Faso,1. FC Köln,Bundesliga,2010/2011,2010
+José Pierre Vunguidica,Left Winger,1990-01-03,20,Angola,1. FC Köln,Bundesliga,2010/2011,2010
+Adil Chihi,Right Winger,1988-02-21,22,Morocco,1. FC Köln,Bundesliga,2010/2011,2010
+Christian Clemens,Right Winger,1991-08-04,18,Germany,1. FC Köln,Bundesliga,2010/2011,2010
+Lukas Podolski,Second Striker,1985-06-04,25,Germany,1. FC Köln,Bundesliga,2010/2011,2010
+Milivoje Novakovic,Centre-Forward,1979-05-18,31,Slovenia,1. FC Köln,Bundesliga,2010/2011,2010
+Sebastian Freis,Centre-Forward,1985-04-23,25,Germany,1. FC Köln,Bundesliga,2010/2011,2010
+Alexandru Ionita,Centre-Forward,1989-08-05,20,Romania,1. FC Köln,Bundesliga,2010/2011,2010
+Simon Terodde,Centre-Forward,1988-03-02,22,Germany,1. FC Köln,Bundesliga,2010/2011,2010
+Oka Nikolov,Goalkeeper,1974-05-25,36,North Macedonia,Eintracht Frankfurt,Bundesliga,2010/2011,2010
+Ralf Fährmann,Goalkeeper,1988-09-27,21,Germany,Eintracht Frankfurt,Bundesliga,2010/2011,2010
+Andreas Rössl,Goalkeeper,1988-02-20,22,Germany,Eintracht Frankfurt,Bundesliga,2010/2011,2010
+Aykut Özer,Goalkeeper,1993-01-01,17,Turkey,Eintracht Frankfurt,Bundesliga,2010/2011,2010
+Maik Franz,Centre-Back,1981-08-05,28,Germany,Eintracht Frankfurt,Bundesliga,2010/2011,2010
+Marco Russ,Centre-Back,1985-08-04,24,Germany,Eintracht Frankfurt,Bundesliga,2010/2011,2010
+Chris,Centre-Back,1978-08-25,31,Brazil,Eintracht Frankfurt,Bundesliga,2010/2011,2010
+Aleksandar Vasoski,Centre-Back,1979-11-21,30,North Macedonia,Eintracht Frankfurt,Bundesliga,2010/2011,2010
+Georgios Tzavellas,Centre-Back,1987-11-26,22,Greece,Eintracht Frankfurt,Bundesliga,2010/2011,2010
+Nikola Petkovic,Centre-Back,1986-03-28,24,Serbia,Eintracht Frankfurt,Bundesliga,2010/2011,2010
+Kevin Kraus,Centre-Back,1992-08-12,17,Germany,Eintracht Frankfurt,Bundesliga,2010/2011,2010
+Julian Dudda,Centre-Back,1993-04-08,17,Germany,Eintracht Frankfurt,Bundesliga,2010/2011,2010
+Patrick Ochs,Right-Back,1984-05-14,26,Germany,Eintracht Frankfurt,Bundesliga,2010/2011,2010
+Sebastian Jung,Right-Back,1990-06-22,20,Germany,Eintracht Frankfurt,Bundesliga,2010/2011,2010
+Markus Steinhöfer,Right-Back,1986-03-07,24,Germany,Eintracht Frankfurt,Bundesliga,2010/2011,2010
+Pirmin Schwegler,Defensive Midfield,1987-03-09,23,Switzerland,Eintracht Frankfurt,Bundesliga,2010/2011,2010
+Zlatan Bajramovic,Defensive Midfield,1979-08-12,30,Bosnia-Herzegovina,Eintracht Frankfurt,Bundesliga,2010/2011,2010
+Ricardo Clark,Central Midfield,1983-02-10,27,United States,Eintracht Frankfurt,Bundesliga,2010/2011,2010
+Sebastian Rode,Central Midfield,1990-10-11,19,Germany,Eintracht Frankfurt,Bundesliga,2010/2011,2010
+Marcel Titsch Rivero,Central Midfield,1989-11-02,20,Germany,Eintracht Frankfurt,Bundesliga,2010/2011,2010
+Marcel Heller,Right Midfield,1986-02-12,24,Germany,Eintracht Frankfurt,Bundesliga,2010/2011,2010
+Benjamin Köhler,Left Midfield,1980-08-04,29,Germany,Eintracht Frankfurt,Bundesliga,2010/2011,2010
+Halil Altintop,Attacking Midfield,1982-12-08,27,Turkey,Eintracht Frankfurt,Bundesliga,2010/2011,2010
+Caio,Attacking Midfield,1986-05-29,24,Brazil,Eintracht Frankfurt,Bundesliga,2010/2011,2010
+Sonny Kittel,Attacking Midfield,1993-01-06,17,Germany,Eintracht Frankfurt,Bundesliga,2010/2011,2010
+Ümit Korkmaz,Left Winger,1985-09-17,24,Austria,Eintracht Frankfurt,Bundesliga,2010/2011,2010
+Alexander Meier,Second Striker,1983-01-17,27,Germany,Eintracht Frankfurt,Bundesliga,2010/2011,2010
+Marcos Álvarez,Second Striker,1991-09-30,18,Germany,Eintracht Frankfurt,Bundesliga,2010/2011,2010
+Ioannis Amanatidis,Centre-Forward,1981-12-03,28,Greece,Eintracht Frankfurt,Bundesliga,2010/2011,2010
+Martin Fenin,Centre-Forward,1987-04-16,23,Czech Republic,Eintracht Frankfurt,Bundesliga,2010/2011,2010
+Theofanis Gekas,Centre-Forward,1980-05-23,30,Greece,Eintracht Frankfurt,Bundesliga,2010/2011,2010
+Heinz Müller,Goalkeeper,1978-05-30,32,Germany,1.FSV Mainz 05,Bundesliga,2010/2011,2010
+Martin Pieckenhagen,Goalkeeper,1971-11-15,38,Germany,1.FSV Mainz 05,Bundesliga,2010/2011,2010
+Christian Wetklo,Goalkeeper,1980-01-11,30,Germany,1.FSV Mainz 05,Bundesliga,2010/2011,2010
+Niko Bungert,Centre-Back,1986-10-24,23,Germany,1.FSV Mainz 05,Bundesliga,2010/2011,2010
+Nikolce Noveski,Centre-Back,1979-04-28,31,North Macedonia,1.FSV Mainz 05,Bundesliga,2010/2011,2010
+Marco Caligiuri,Centre-Back,1984-04-14,26,Germany,1.FSV Mainz 05,Bundesliga,2010/2011,2010
+Bo Svensson,Centre-Back,1979-08-04,30,Denmark,1.FSV Mainz 05,Bundesliga,2010/2011,2010
+Christian Fuchs,Left-Back,1986-04-07,24,Austria,1.FSV Mainz 05,Bundesliga,2010/2011,2010
+Radoslav Zabavnik,Left-Back,1980-09-16,29,Slovakia,1.FSV Mainz 05,Bundesliga,2010/2011,2010
+Zsolt Löw,Left-Back,1979-04-29,31,Hungary,1.FSV Mainz 05,Bundesliga,2010/2011,2010
+Eugen Gopko,Right-Back,1991-01-05,19,Germany,1.FSV Mainz 05,Bundesliga,2010/2011,2010
+Eugen Polanski,Defensive Midfield,1986-03-17,24,Poland,1.FSV Mainz 05,Bundesliga,2010/2011,2010
+Jan Kirchhoff,Defensive Midfield,1990-10-01,19,Germany,1.FSV Mainz 05,Bundesliga,2010/2011,2010
+Malik Fathi,Central Midfield,1983-10-29,26,Germany,1.FSV Mainz 05,Bundesliga,2010/2011,2010
+Elkin Soto,Central Midfield,1980-08-04,29,Colombia,1.FSV Mainz 05,Bundesliga,2010/2011,2010
+Miroslav Karhan,Central Midfield,1976-06-21,34,Slovakia,1.FSV Mainz 05,Bundesliga,2010/2011,2010
+Marcel Risse,Right Midfield,1989-12-17,20,Germany,1.FSV Mainz 05,Bundesliga,2010/2011,2010
+Andreas Ivanschitz,Attacking Midfield,1983-10-15,26,Austria,1.FSV Mainz 05,Bundesliga,2010/2011,2010
+Lewis Holtby,Attacking Midfield,1990-09-18,19,Germany,1.FSV Mainz 05,Bundesliga,2010/2011,2010
+Jan Simak,Attacking Midfield,1978-10-13,31,Czech Republic,1.FSV Mainz 05,Bundesliga,2010/2011,2010
+André Schürrle,Left Winger,1990-11-06,19,Germany,1.FSV Mainz 05,Bundesliga,2010/2011,2010
+Florian Heller,Right Winger,1982-03-10,28,Germany,1.FSV Mainz 05,Bundesliga,2010/2011,2010
+Haruna Babangida,Right Winger,1982-10-01,27,Nigeria,1.FSV Mainz 05,Bundesliga,2010/2011,2010
+Duncan,Centre-Forward,1985-01-31,25,Denmark,1.FSV Mainz 05,Bundesliga,2010/2011,2010
+Ádám Szalai,Centre-Forward,1987-12-09,22,Hungary,1.FSV Mainz 05,Bundesliga,2010/2011,2010
+Sami Allagui,Centre-Forward,1986-05-28,24,Tunisia,1.FSV Mainz 05,Bundesliga,2010/2011,2010
+Adriano Grimaldi,Centre-Forward,1991-04-05,19,Germany,1.FSV Mainz 05,Bundesliga,2010/2011,2010
+Petar Sliskovic,Centre-Forward,1991-02-21,19,Croatia,1.FSV Mainz 05,Bundesliga,2010/2011,2010
+Florian Fromlowitz,Goalkeeper,1986-07-02,23,Germany,Hannover 96,Bundesliga,2010/2011,2010
+Markus Miller,Goalkeeper,1982-04-08,28,Germany,Hannover 96,Bundesliga,2010/2011,2010
+Ron-Robert Zieler,Goalkeeper,1989-02-12,21,Germany,Hannover 96,Bundesliga,2010/2011,2010
+Karim Haggui,Centre-Back,1984-01-20,26,Tunisia,Hannover 96,Bundesliga,2010/2011,2010
+Emanuel Pogatetz,Centre-Back,1983-01-16,27,Austria,Hannover 96,Bundesliga,2010/2011,2010
+Christian Schulz,Centre-Back,1983-04-01,27,Germany,Hannover 96,Bundesliga,2010/2011,2010
+Mario Eggimann,Centre-Back,1981-01-24,29,Switzerland,Hannover 96,Bundesliga,2010/2011,2010
+Tim Hofmann,Centre-Back,1988-06-09,22,Germany,Hannover 96,Bundesliga,2010/2011,2010
+Felix Burmeister,Centre-Back,1990-03-09,20,Germany,Hannover 96,Bundesliga,2010/2011,2010
+Christopher Avevor,Centre-Back,1992-02-11,18,Germany,Hannover 96,Bundesliga,2010/2011,2010
+Konstantin Rausch,Left-Back,1990-03-15,20,Russia,Hannover 96,Bundesliga,2010/2011,2010
+Constant Djakpa,Left-Back,1986-10-17,23,Cote d'Ivoire,Hannover 96,Bundesliga,2010/2011,2010
+DaMarcus Beasley,Left-Back,1982-05-24,28,United States,Hannover 96,Bundesliga,2010/2011,2010
+Steven Cherundolo,Right-Back,1979-02-19,31,United States,Hannover 96,Bundesliga,2010/2011,2010
+Sofian Chahed,Right-Back,1983-04-18,27,Tunisia,Hannover 96,Bundesliga,2010/2011,2010
+Manuel Schmiedebach,Defensive Midfield,1988-12-05,21,Germany,Hannover 96,Bundesliga,2010/2011,2010
+Altin Lala,Defensive Midfield,1975-11-18,34,Albania,Hannover 96,Bundesliga,2010/2011,2010
+Leon Andreasen,Central Midfield,1983-04-23,27,Denmark,Hannover 96,Bundesliga,2010/2011,2010
+Sérgio da Silva Pinto,Central Midfield,1980-10-16,29,Germany,Hannover 96,Bundesliga,2010/2011,2010
+Carlitos,Left Midfield,1982-09-06,27,Portugal,Hannover 96,Bundesliga,2010/2011,2010
+Willi Evseev,Attacking Midfield,1992-02-14,18,Germany,Hannover 96,Bundesliga,2010/2011,2010
+Moritz Stoppelkamp,Left Winger,1986-12-11,23,Germany,Hannover 96,Bundesliga,2010/2011,2010
+Lars Stindl,Second Striker,1988-08-26,21,Germany,Hannover 96,Bundesliga,2010/2011,2010
+Jan Schlaudraff,Second Striker,1983-07-18,26,Germany,Hannover 96,Bundesliga,2010/2011,2010
+Didier Ya Konan,Centre-Forward,1984-05-22,26,Cote d'Ivoire,Hannover 96,Bundesliga,2010/2011,2010
+Mikael Forssell,Centre-Forward,1981-03-15,29,Finland,Hannover 96,Bundesliga,2010/2011,2010
+Mike Hanke,Centre-Forward,1983-11-05,26,Germany,Hannover 96,Bundesliga,2010/2011,2010
+Mohammed Abdellaoue,Centre-Forward,1985-10-23,24,Norway,Hannover 96,Bundesliga,2010/2011,2010
+Simon Pouplin,Goalkeeper,1985-05-28,25,France,SC Freiburg,Bundesliga,2010/2011,2010
+Oliver Baumann,Goalkeeper,1990-06-02,20,Germany,SC Freiburg,Bundesliga,2010/2011,2010
+Manuel Salz,Goalkeeper,1985-08-06,24,Germany,SC Freiburg,Bundesliga,2010/2011,2010
+Alexander Schwolow,Goalkeeper,1992-06-02,18,Germany,SC Freiburg,Bundesliga,2010/2011,2010
+Ömer Toprak,Centre-Back,1989-07-21,20,Turkey,SC Freiburg,Bundesliga,2010/2011,2010
+Felix Bastians,Centre-Back,1988-05-09,22,Germany,SC Freiburg,Bundesliga,2010/2011,2010
+Pavel Krmas,Centre-Back,1980-03-03,30,Czech Republic,SC Freiburg,Bundesliga,2010/2011,2010
+Heiko Butscher,Centre-Back,1980-07-28,29,Germany,SC Freiburg,Bundesliga,2010/2011,2010
+Maximilian Nicu,Centre-Back,1982-11-25,27,Romania,SC Freiburg,Bundesliga,2010/2011,2010
+Oliver Barth,Centre-Back,1979-10-06,30,Germany,SC Freiburg,Bundesliga,2010/2011,2010
+Daniel Sereinig,Centre-Back,1982-05-10,28,Switzerland,SC Freiburg,Bundesliga,2010/2011,2010
+Nicolai Lorenzoni,Left-Back,1992-05-01,18,Germany,SC Freiburg,Bundesliga,2010/2011,2010
+Mensur Mujdza,Right-Back,1984-03-28,26,Bosnia-Herzegovina,SC Freiburg,Bundesliga,2010/2011,2010
+Jonathan Schmid,Right-Back,1990-06-22,20,France,SC Freiburg,Bundesliga,2010/2011,2010
+Ivica Banovic,Defensive Midfield,1980-08-02,29,Croatia,SC Freiburg,Bundesliga,2010/2011,2010
+Julian Schuster,Defensive Midfield,1985-04-15,25,Germany,SC Freiburg,Bundesliga,2010/2011,2010
+Danny Williams,Defensive Midfield,1989-03-08,21,United States,SC Freiburg,Bundesliga,2010/2011,2010
+Nicolas Höfler,Defensive Midfield,1990-03-09,20,Germany,SC Freiburg,Bundesliga,2010/2011,2010
+Cédric Makiadi,Central Midfield,1984-02-23,26,DR Congo,SC Freiburg,Bundesliga,2010/2011,2010
+Johannes Flum,Central Midfield,1987-12-14,22,Germany,SC Freiburg,Bundesliga,2010/2011,2010
+Zvonko Pamic,Central Midfield,1991-02-04,19,Croatia,SC Freiburg,Bundesliga,2010/2011,2010
+Daniel Caligiuri,Right Midfield,1988-01-15,22,Italy,SC Freiburg,Bundesliga,2010/2011,2010
+Anton Putsila,Attacking Midfield,1987-06-10,23,Belarus,SC Freiburg,Bundesliga,2010/2011,2010
+Jonathan Jäger,Left Winger,1978-05-23,32,France,SC Freiburg,Bundesliga,2010/2011,2010
+Yacine Abdessadki,Right Winger,1981-01-01,29,Morocco,SC Freiburg,Bundesliga,2010/2011,2010
+Jan Rosenthal,Second Striker,1986-04-07,24,Germany,SC Freiburg,Bundesliga,2010/2011,2010
+Papiss Demba Cissé,Centre-Forward,1985-06-03,25,Senegal,SC Freiburg,Bundesliga,2010/2011,2010
+Erik Jendrisek,Centre-Forward,1986-10-26,23,Slovakia,SC Freiburg,Bundesliga,2010/2011,2010
+Kisho Yano,Centre-Forward,1984-04-05,26,Japan,SC Freiburg,Bundesliga,2010/2011,2010
+Stefan Reisinger,Centre-Forward,1981-09-14,28,Germany,SC Freiburg,Bundesliga,2010/2011,2010
+Tommy Bechmann,Centre-Forward,1981-12-22,28,Denmark,SC Freiburg,Bundesliga,2010/2011,2010
+Shqipon Bektasi,Centre-Forward,1990-09-14,19,Kosovo,SC Freiburg,Bundesliga,2010/2011,2010
+Raphael Schäfer,Goalkeeper,1979-01-30,31,Germany,1.FC Nuremberg,Bundesliga,2010/2011,2010
+Timo Ochs,Goalkeeper,1981-10-17,28,Germany,1.FC Nuremberg,Bundesliga,2010/2011,2010
+Alexander Stephan,Goalkeeper,1986-09-15,23,Germany,1.FC Nuremberg,Bundesliga,2010/2011,2010
+Daniel Klewer,Goalkeeper,1977-03-04,33,Germany,1.FC Nuremberg,Bundesliga,2010/2011,2010
+Daniel Batz,Goalkeeper,1991-01-12,19,Germany,1.FC Nuremberg,Bundesliga,2010/2011,2010
+Javier Pinola,Centre-Back,1983-02-24,27,Argentina,1.FC Nuremberg,Bundesliga,2010/2011,2010
+Andreas Wolf,Centre-Back,1982-06-12,28,Germany,1.FC Nuremberg,Bundesliga,2010/2011,2010
+Dominic Maroh,Centre-Back,1987-03-04,23,Slovenia,1.FC Nuremberg,Bundesliga,2010/2011,2010
+Per Nilsson,Centre-Back,1982-09-15,27,Sweden,1.FC Nuremberg,Bundesliga,2010/2011,2010
+Philipp Wollscheid,Centre-Back,1989-03-06,21,Germany,1.FC Nuremberg,Bundesliga,2010/2011,2010
+Pascal Bieler,Left-Back,1986-02-26,24,Germany,1.FC Nuremberg,Bundesliga,2010/2011,2010
+Marvin Plattenhardt,Left-Back,1992-01-26,18,Germany,1.FC Nuremberg,Bundesliga,2010/2011,2010
+Timothy Chandler,Right-Back,1990-03-29,20,United States,1.FC Nuremberg,Bundesliga,2010/2011,2010
+Timmy Simons,Defensive Midfield,1976-12-11,33,Belgium,1.FC Nuremberg,Bundesliga,2010/2011,2010
+Juri Judt,Defensive Midfield,1986-07-24,23,Germany,1.FC Nuremberg,Bundesliga,2010/2011,2010
+Mike Frantz,Central Midfield,1986-10-14,23,Germany,1.FC Nuremberg,Bundesliga,2010/2011,2010
+Ilkay Gündogan,Central Midfield,1990-10-24,19,Germany,1.FC Nuremberg,Bundesliga,2010/2011,2010
+Jens Hegeler,Central Midfield,1988-01-22,22,Germany,1.FC Nuremberg,Bundesliga,2010/2011,2010
+Almog Cohen,Central Midfield,1988-09-01,21,Israel,1.FC Nuremberg,Bundesliga,2010/2011,2010
+Marek Mintal,Attacking Midfield,1977-09-02,32,Slovakia,1.FC Nuremberg,Bundesliga,2010/2011,2010
+Mehmet Ekici,Attacking Midfield,1990-03-25,20,Turkey,1.FC Nuremberg,Bundesliga,2010/2011,2010
+Dario Vidosic,Attacking Midfield,1987-04-08,23,Australia,1.FC Nuremberg,Bundesliga,2010/2011,2010
+Julian Wießmeier,Attacking Midfield,1992-11-04,17,Germany,1.FC Nuremberg,Bundesliga,2010/2011,2010
+Markus Mendler,Left Winger,1993-01-07,17,Germany,1.FC Nuremberg,Bundesliga,2010/2011,2010
+Christian Eigler,Right Winger,1984-01-01,26,Germany,1.FC Nuremberg,Bundesliga,2010/2011,2010
+Robert Mak,Right Winger,1991-03-08,19,Slovakia,1.FC Nuremberg,Bundesliga,2010/2011,2010
+Christoph Sauter,Right Winger,1991-08-03,18,Germany,1.FC Nuremberg,Bundesliga,2010/2011,2010
+Albert Bunjaku,Centre-Forward,1983-11-29,26,Kosovo,1.FC Nuremberg,Bundesliga,2010/2011,2010
+Nassim Ben Khalifa,Centre-Forward,1992-01-13,18,Switzerland,1.FC Nuremberg,Bundesliga,2010/2011,2010
+Julian Schieber,Centre-Forward,1989-02-13,21,Germany,1.FC Nuremberg,Bundesliga,2010/2011,2010
+Rubin Okotie,Centre-Forward,1987-06-06,23,Austria,1.FC Nuremberg,Bundesliga,2010/2011,2010
+Isaac Boakye,Centre-Forward,1981-11-26,28,Ghana,1.FC Nuremberg,Bundesliga,2010/2011,2010
+Tobias Sippel,Goalkeeper,1988-03-22,22,Germany,1.FC Kaiserslautern,Bundesliga,2010/2011,2010
+Kevin Trapp,Goalkeeper,1990-07-08,19,Germany,1.FC Kaiserslautern,Bundesliga,2010/2011,2010
+Marco Knaller,Goalkeeper,1987-03-26,23,Austria,1.FC Kaiserslautern,Bundesliga,2010/2011,2010
+Jan Simunek,Centre-Back,1987-02-20,23,Czech Republic,1.FC Kaiserslautern,Bundesliga,2010/2011,2010
+Martin Amedick,Centre-Back,1982-09-06,27,Germany,1.FC Kaiserslautern,Bundesliga,2010/2011,2010
+Rodnei,Centre-Back,1985-09-11,24,Brazil,1.FC Kaiserslautern,Bundesliga,2010/2011,2010
+Jiri Bilek,Centre-Back,1983-11-04,26,Czech Republic,1.FC Kaiserslautern,Bundesliga,2010/2011,2010
+Mathias Abel,Centre-Back,1981-06-22,29,Germany,1.FC Kaiserslautern,Bundesliga,2010/2011,2010
+Steven Zellner,Centre-Back,1991-03-14,19,Germany,1.FC Kaiserslautern,Bundesliga,2010/2011,2010
+Lucas Rocha,Centre-Back,1991-07-14,18,Brazil,1.FC Kaiserslautern,Bundesliga,2010/2011,2010
+Adam Hlousek,Left-Back,1988-12-20,21,Czech Republic,1.FC Kaiserslautern,Bundesliga,2010/2011,2010
+Alexander Bugera,Left-Back,1978-08-08,31,Germany,1.FC Kaiserslautern,Bundesliga,2010/2011,2010
+Leon Jessen,Left-Back,1986-06-11,24,Denmark,1.FC Kaiserslautern,Bundesliga,2010/2011,2010
+Alan Stulin,Left-Back,1990-06-05,20,Poland,1.FC Kaiserslautern,Bundesliga,2010/2011,2010
+Florian Dick,Right-Back,1984-11-09,25,Germany,1.FC Kaiserslautern,Bundesliga,2010/2011,2010
+Christian Tiffert,Defensive Midfield,1982-02-18,28,Germany,1.FC Kaiserslautern,Bundesliga,2010/2011,2010
+Oliver Kirch,Defensive Midfield,1982-08-21,27,Germany,1.FC Kaiserslautern,Bundesliga,2010/2011,2010
+Bastian Schulz,Defensive Midfield,1985-07-10,24,Germany,1.FC Kaiserslautern,Bundesliga,2010/2011,2010
+Thanos Petsos,Defensive Midfield,1991-06-05,19,Greece,1.FC Kaiserslautern,Bundesliga,2010/2011,2010
+Jan Morávek,Central Midfield,1989-11-01,20,Czech Republic,1.FC Kaiserslautern,Bundesliga,2010/2011,2010
+Pierre De Wit,Central Midfield,1987-09-26,22,Germany,1.FC Kaiserslautern,Bundesliga,2010/2011,2010
+Clemens Walch,Right Midfield,1987-07-10,22,Austria,1.FC Kaiserslautern,Bundesliga,2010/2011,2010
+Danny Fuchs,Left Midfield,1976-02-25,34,Germany,1.FC Kaiserslautern,Bundesliga,2010/2011,2010
+Stiven Rivic,Attacking Midfield,1985-08-09,24,Croatia,1.FC Kaiserslautern,Bundesliga,2010/2011,2010
+Ivo Ilicevic,Left Winger,1986-11-14,23,Croatia,1.FC Kaiserslautern,Bundesliga,2010/2011,2010
+Chadli Amri,Right Winger,1984-12-14,25,Algeria,1.FC Kaiserslautern,Bundesliga,2010/2011,2010
+Erwin Hoffer,Centre-Forward,1987-04-14,23,Austria,1.FC Kaiserslautern,Bundesliga,2010/2011,2010
+Srdjan Lakic,Centre-Forward,1983-10-02,26,Croatia,1.FC Kaiserslautern,Bundesliga,2010/2011,2010
+Adam Nemec,Centre-Forward,1985-09-02,24,Slovakia,1.FC Kaiserslautern,Bundesliga,2010/2011,2010
+Ilian Micanski,Centre-Forward,1985-12-20,24,Bulgaria,1.FC Kaiserslautern,Bundesliga,2010/2011,2010
+Mathias Hain,Goalkeeper,1972-12-31,37,Germany,FC St. Pauli,Bundesliga,2010/2011,2010
+Thomas Kessler,Goalkeeper,1986-01-20,24,Germany,FC St. Pauli,Bundesliga,2010/2011,2010
+Benedikt Pliquett,Goalkeeper,1984-12-20,25,Germany,FC St. Pauli,Bundesliga,2010/2011,2010
+Arvid Schenk,Goalkeeper,1989-07-28,20,Germany,FC St. Pauli,Bundesliga,2010/2011,2010
+Carlos Zambrano,Centre-Back,1989-07-10,20,Peru,FC St. Pauli,Bundesliga,2010/2011,2010
+Fabio Morena,Centre-Back,1980-03-19,30,Germany,FC St. Pauli,Bundesliga,2010/2011,2010
+Ralph Gunesch,Centre-Back,1983-09-02,26,Germany,FC St. Pauli,Bundesliga,2010/2011,2010
+Markus Thorandt,Centre-Back,1981-04-01,29,Germany,FC St. Pauli,Bundesliga,2010/2011,2010
+Marcel Eger,Centre-Back,1983-03-23,27,Germany,FC St. Pauli,Bundesliga,2010/2011,2010
+Davidson Eden,Centre-Back,1988-03-26,22,Germany,FC St. Pauli,Bundesliga,2010/2011,2010
+Petar Filipovic,Centre-Back,1990-09-14,19,Croatia,FC St. Pauli,Bundesliga,2010/2011,2010
+Hauke Brückner,Centre-Back,1980-02-29,30,Germany,FC St. Pauli,Bundesliga,2010/2011,2010
+Bastian Oczipka,Left-Back,1989-01-12,21,Germany,FC St. Pauli,Bundesliga,2010/2011,2010
+Carsten Rothenbach,Right-Back,1980-09-03,29,Germany,FC St. Pauli,Bundesliga,2010/2011,2010
+Moritz Volz,Right-Back,1983-01-21,27,Germany,FC St. Pauli,Bundesliga,2010/2011,2010
+Florian Lechner,Right-Back,1981-03-03,29,Germany,FC St. Pauli,Bundesliga,2010/2011,2010
+Jan-Philipp Kalla,Right-Back,1986-08-06,23,Germany,FC St. Pauli,Bundesliga,2010/2011,2010
+Matthias Lehmann,Defensive Midfield,1983-05-28,27,Germany,FC St. Pauli,Bundesliga,2010/2011,2010
+Florian Bruns,Defensive Midfield,1979-08-21,30,Germany,FC St. Pauli,Bundesliga,2010/2011,2010
+Fabian Boll,Central Midfield,NA,31,Germany,FC St. Pauli,Bundesliga,2010/2011,2010
+Timo Schultz,Central Midfield,1977-08-26,32,Germany,FC St. Pauli,Bundesliga,2010/2011,2010
+Dennis Daube,Central Midfield,1989-07-11,20,Germany,FC St. Pauli,Bundesliga,2010/2011,2010
+Charles Takyi,Attacking Midfield,1984-11-12,25,Ghana,FC St. Pauli,Bundesliga,2010/2011,2010
+Deniz Naki,Second Striker,1989-07-09,20,Germany,FC St. Pauli,Bundesliga,2010/2011,2010
+Fin Bartels,Second Striker,1987-02-07,23,Germany,FC St. Pauli,Bundesliga,2010/2011,2010
+Gerald Asamoah,Centre-Forward,1978-10-03,31,Germany,FC St. Pauli,Bundesliga,2010/2011,2010
+Max Kruse,Centre-Forward,1988-03-19,22,Germany,FC St. Pauli,Bundesliga,2010/2011,2010
+Rouwen Hennings,Centre-Forward,1987-08-28,22,Germany,FC St. Pauli,Bundesliga,2010/2011,2010
+Marius Ebbers,Centre-Forward,NA,32,Germany,FC St. Pauli,Bundesliga,2010/2011,2010
+Richard Sukuta-Pasu,Centre-Forward,1990-06-24,20,Germany,FC St. Pauli,Bundesliga,2010/2011,2010

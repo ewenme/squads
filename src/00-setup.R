@@ -6,7 +6,7 @@ if (!require("pacman")) install.packages("pacman")
 
 # install any missing packages
 pacman::p_load("rvest", "glue", "janitor", "dplyr", "lubridate", "purrr",
-               "fs")
+               "fs", "readr")
 
 # functions ---------------------------------------------------------------
 
@@ -67,8 +67,16 @@ scrape_club_squad <- function(club_url) {
     html_attr("title") %>% 
     .[c(TRUE, FALSE)]
   
-  # select cols to keep
-  player_data <- player_data[, c("nat", "current_club", "market_value")]
+  # select cols to keep, check if current season
+  if (!"current_club" %in% colnames(player_data)) {
+    
+    player_data <- player_data[, c("date_of_birth_age", "nat", "na")]
+    
+  } else {
+    
+    player_data <- player_data[, c("nat", "current_club", "market_value")]
+    
+  }
   
   # set colnames
   colnames(player_data) <- c("player_name", "position",  "date_of_birth")

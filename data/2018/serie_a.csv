@@ -1,520 +1,520 @@
-shirt_number,position,player_name,date_of_birth,age,nationality,club_name,league_name,season,year
-1,Goalkeeper,Wojciech Szczesny,1990-04-18,29,Poland,Juventus FC,Serie A,2018/2019,2018
-22,Goalkeeper,Mattia Perin,1992-11-10,26,Italy,Juventus FC,Serie A,2018/2019,2018
-21,Goalkeeper,Carlo Pinsoglio,1990-03-16,29,Italy,Juventus FC,Serie A,2018/2019,2018
-19,Centre-Back,Leonardo Bonucci,1987-05-01,32,Italy,Juventus FC,Serie A,2018/2019,2018
-24,Centre-Back,Daniele Rugani,1994-07-29,24,Italy,Juventus FC,Serie A,2018/2019,2018
-3,Centre-Back,Giorgio Chiellini,1984-08-14,34,Italy,Juventus FC,Serie A,2018/2019,2018
-4,Centre-Back,Martín Cáceres,1987-04-07,32,Uruguay,Juventus FC,Serie A,2018/2019,2018
-15,Centre-Back,Andrea Barzagli,1981-05-08,38,Italy,Juventus FC,Serie A,2018/2019,2018
-12,Left-Back,Alex Sandro,1991-01-26,28,Brazil,Juventus FC,Serie A,2018/2019,2018
-37,Left-Back,Leonardo Spinazzola,1993-03-25,26,Italy,Juventus FC,Serie A,2018/2019,2018
-20,Right-Back,João Cancelo,1994-05-27,25,Portugal,Juventus FC,Serie A,2018/2019,2018
-2,Right-Back,Mattia De Sciglio,1992-10-20,26,Italy,Juventus FC,Serie A,2018/2019,2018
-5,Defensive Midfield,Miralem Pjanic,1990-04-02,29,Bosnia-Herzegovina,Juventus FC,Serie A,2018/2019,2018
-23,Defensive Midfield,Emre Can,1994-01-12,25,Germany,Juventus FC,Serie A,2018/2019,2018
-30,Central Midfield,Rodrigo Bentancur,1997-06-25,21,Uruguay,Juventus FC,Serie A,2018/2019,2018
-14,Central Midfield,Blaise Matuidi,1987-04-09,32,France,Juventus FC,Serie A,2018/2019,2018
-6,Central Midfield,Sami Khedira,1987-04-04,32,Germany,Juventus FC,Serie A,2018/2019,2018
-7,Left Winger,Cristiano Ronaldo,1985-02-05,34,Portugal,Juventus FC,Serie A,2018/2019,2018
-33,Right Winger,Federico Bernardeschi,1994-02-16,25,Italy,Juventus FC,Serie A,2018/2019,2018
-11,Right Winger,Douglas Costa,1990-09-14,28,Brazil,Juventus FC,Serie A,2018/2019,2018
-16,Right Winger,Juan Cuadrado,1988-05-26,31,Colombia,Juventus FC,Serie A,2018/2019,2018
-10,Second Striker,Paulo Dybala,1993-11-15,25,Argentina,Juventus FC,Serie A,2018/2019,2018
-18,Centre-Forward,Moise Kean,2000-02-28,19,Italy,Juventus FC,Serie A,2018/2019,2018
-17,Centre-Forward,Mario Mandzukic,1986-05-21,33,Croatia,Juventus FC,Serie A,2018/2019,2018
-1,Goalkeeper,Alex Meret,1997-03-22,22,Italy,SSC Napoli,Serie A,2018/2019,2018
-25,Goalkeeper,David Ospina,1988-08-31,30,Colombia,SSC Napoli,Serie A,2018/2019,2018
-27,Goalkeeper,Orestis Karnezis,1985-07-11,33,Greece,SSC Napoli,Serie A,2018/2019,2018
-26,Centre-Back,Kalidou Koulibaly,1991-06-20,27,Senegal,SSC Napoli,Serie A,2018/2019,2018
-19,Centre-Back,Nikola Maksimovic,1991-11-25,27,Serbia,SSC Napoli,Serie A,2018/2019,2018
-33,Centre-Back,Raúl Albiol,1985-09-04,33,Spain,SSC Napoli,Serie A,2018/2019,2018
-21,Centre-Back,Vlad Chiriches,1989-11-14,29,Romania,SSC Napoli,Serie A,2018/2019,2018
-13,Centre-Back,Sebastiano Luperto,1996-09-06,22,Italy,SSC Napoli,Serie A,2018/2019,2018
-31,Left-Back,Faouzi Ghoulam,1991-02-01,28,Algeria,SSC Napoli,Serie A,2018/2019,2018
-6,Left-Back,Mário Rui,1991-05-27,28,Portugal,SSC Napoli,Serie A,2018/2019,2018
-23,Right-Back,Elseid Hysaj,1994-02-02,25,Albania,SSC Napoli,Serie A,2018/2019,2018
-2,Right-Back,Kévin Malcuit,1991-07-31,27,France,SSC Napoli,Serie A,2018/2019,2018
-42,Defensive Midfield,Amadou Diawara,1997-07-17,21,Guinea,SSC Napoli,Serie A,2018/2019,2018
-5,Central Midfield,Allan,1991-01-08,28,Brazil,SSC Napoli,Serie A,2018/2019,2018
-8,Central Midfield,Fabián Ruiz,1996-04-03,23,Spain,SSC Napoli,Serie A,2018/2019,2018
-20,Central Midfield,Piotr Zielinski,1994-05-20,25,Poland,SSC Napoli,Serie A,2018/2019,2018
-24,Left Winger,Lorenzo Insigne,1991-06-04,28,Italy,SSC Napoli,Serie A,2018/2019,2018
-34,Left Winger,Amin Younes,1993-08-06,25,Germany,SSC Napoli,Serie A,2018/2019,2018
-9,Right Winger,Simone Verdi,1992-07-12,26,Italy,SSC Napoli,Serie A,2018/2019,2018
-7,Right Winger,José Callejón,1987-02-11,32,Spain,SSC Napoli,Serie A,2018/2019,2018
-11,Right Winger,Adam Ounas,1996-11-11,22,Algeria,SSC Napoli,Serie A,2018/2019,2018
-99,Centre-Forward,Arkadiusz Milik,1994-02-28,25,Poland,SSC Napoli,Serie A,2018/2019,2018
-14,Centre-Forward,Dries Mertens,1987-05-06,32,Belgium,SSC Napoli,Serie A,2018/2019,2018
-1,Goalkeeper,Samir Handanovic,1984-07-14,34,Slovenia,Inter Milan,Serie A,2018/2019,2018
-93,Goalkeeper,Raffaele Di Gennaro,1993-10-03,25,Italy,Inter Milan,Serie A,2018/2019,2018
-27,Goalkeeper,Daniele Padelli,1985-10-25,33,Italy,Inter Milan,Serie A,2018/2019,2018
-46,Goalkeeper,Tommaso Berni,1983-03-06,36,Italy,Inter Milan,Serie A,2018/2019,2018
-37,Centre-Back,Milan Skriniar,1995-02-11,24,Slovakia,Inter Milan,Serie A,2018/2019,2018
-6,Centre-Back,Stefan de Vrij,1992-02-05,27,Netherlands,Inter Milan,Serie A,2018/2019,2018
-23,Centre-Back,Miranda,1984-09-07,34,Brazil,Inter Milan,Serie A,2018/2019,2018
-13,Centre-Back,Andrea Ranocchia,1988-02-16,31,Italy,Inter Milan,Serie A,2018/2019,2018
-18,Left-Back,Kwadwo Asamoah,1988-12-09,30,Ghana,Inter Milan,Serie A,2018/2019,2018
-29,Left-Back,Dalbert,1993-09-08,25,Brazil,Inter Milan,Serie A,2018/2019,2018
-2,Right-Back,Sime Vrsaljko,1992-01-10,27,Croatia,Inter Milan,Serie A,2018/2019,2018
-33,Right-Back,Danilo D'Ambrosio,1988-09-09,30,Italy,Inter Milan,Serie A,2018/2019,2018
-21,Right-Back,Cédric Soares,1991-08-31,27,Portugal,Inter Milan,Serie A,2018/2019,2018
-77,Defensive Midfield,Marcelo Brozovic,1992-11-16,26,Croatia,Inter Milan,Serie A,2018/2019,2018
-8,Central Midfield,Matías Vecino,1991-08-24,27,Uruguay,Inter Milan,Serie A,2018/2019,2018
-15,Central Midfield,João Mário,1993-01-19,26,Portugal,Inter Milan,Serie A,2018/2019,2018
-5,Central Midfield,Roberto Gagliardini,1994-04-07,25,Italy,Inter Milan,Serie A,2018/2019,2018
-20,Central Midfield,Borja Valero,1985-01-12,34,Spain,Inter Milan,Serie A,2018/2019,2018
-14,Attacking Midfield,Radja Nainggolan,1988-05-04,31,Belgium,Inter Milan,Serie A,2018/2019,2018
-44,Left Winger,Ivan Perisic,1989-02-02,30,Croatia,Inter Milan,Serie A,2018/2019,2018
-11,Left Winger,Keita Baldé,1995-03-08,24,Senegal,Inter Milan,Serie A,2018/2019,2018
-16,Right Winger,Matteo Politano,1993-08-03,25,Italy,Inter Milan,Serie A,2018/2019,2018
-87,Right Winger,Antonio Candreva,1987-02-28,32,Italy,Inter Milan,Serie A,2018/2019,2018
-9,Centre-Forward,Mauro Icardi,1993-02-19,26,Argentina,Inter Milan,Serie A,2018/2019,2018
-10,Centre-Forward,Lautaro Martínez,1997-08-22,21,Argentina,Inter Milan,Serie A,2018/2019,2018
-99,Goalkeeper,Gianluigi Donnarumma,1999-02-25,20,Italy,AC Milan,Serie A,2018/2019,2018
-35,Goalkeeper,Alessandro Plizzari,2000-03-12,19,Italy,AC Milan,Serie A,2018/2019,2018
-25,Goalkeeper,Pepe Reina,1982-08-31,36,Spain,AC Milan,Serie A,2018/2019,2018
-90,Goalkeeper,Antonio Donnarumma,1990-07-07,28,Italy,AC Milan,Serie A,2018/2019,2018
-13,Centre-Back,Alessio Romagnoli,1995-01-12,24,Italy,AC Milan,Serie A,2018/2019,2018
-33,Centre-Back,Mattia Caldara,1994-05-05,25,Italy,AC Milan,Serie A,2018/2019,2018
-22,Centre-Back,Mateo Musacchio,1990-08-26,28,Argentina,AC Milan,Serie A,2018/2019,2018
-17,Centre-Back,Cristián Zapata,1986-09-30,32,Colombia,AC Milan,Serie A,2018/2019,2018
-68,Left-Back,Ricardo Rodríguez,1992-08-25,26,Switzerland,AC Milan,Serie A,2018/2019,2018
-23,Left-Back,Ivan Strinic,1987-07-17,31,Croatia,AC Milan,Serie A,2018/2019,2018
-2,Right-Back,Davide Calabria,1996-12-06,22,Italy,AC Milan,Serie A,2018/2019,2018
-12,Right-Back,Andrea Conti,1994-03-02,25,Italy,AC Milan,Serie A,2018/2019,2018
-20,Right-Back,Ignazio Abate,1986-11-12,32,Italy,AC Milan,Serie A,2018/2019,2018
-14,Defensive Midfield,Tiemoué Bakayoko,1994-08-17,24,France,AC Milan,Serie A,2018/2019,2018
-21,Defensive Midfield,Lucas Biglia,1986-01-30,33,Argentina,AC Milan,Serie A,2018/2019,2018
-18,Defensive Midfield,Riccardo Montolivo,1985-01-18,34,Italy,AC Milan,Serie A,2018/2019,2018
-79,Central Midfield,Franck Kessié,1996-12-19,22,Cote d'Ivoire,AC Milan,Serie A,2018/2019,2018
-5,Central Midfield,Giacomo Bonaventura,1989-08-22,29,Italy,AC Milan,Serie A,2018/2019,2018
-16,Central Midfield,Andrea Bertolacci,1991-01-11,28,Italy,AC Milan,Serie A,2018/2019,2018
-4,Central Midfield,José Mauri,1996-05-16,23,Italy,AC Milan,Serie A,2018/2019,2018
-93,Left Midfield,Diego Laxalt,1993-02-07,26,Uruguay,AC Milan,Serie A,2018/2019,2018
-39,Attacking Midfield,Lucas Paquetá,1997-08-27,21,Brazil,AC Milan,Serie A,2018/2019,2018
-10,Left Winger,Hakan Calhanoglu,1994-02-08,25,Turkey,AC Milan,Serie A,2018/2019,2018
-11,Left Winger,Fabio Borini,1991-03-29,28,Italy,AC Milan,Serie A,2018/2019,2018
-8,Right Winger,Suso,1993-11-19,25,Spain,AC Milan,Serie A,2018/2019,2018
-7,Right Winger,Samu Castillejo,1995-01-18,24,Spain,AC Milan,Serie A,2018/2019,2018
-19,Centre-Forward,Krzysztof Piatek,1995-07-01,23,Poland,AC Milan,Serie A,2018/2019,2018
-63,Centre-Forward,Patrick Cutrone,1998-01-03,21,Italy,AC Milan,Serie A,2018/2019,2018
-1,Goalkeeper,Robin Olsen,1990-01-08,29,Sweden,AS Roma,Serie A,2018/2019,2018
-83,Goalkeeper,Antonio Mirante,1983-07-08,35,Italy,AS Roma,Serie A,2018/2019,2018
-63,Goalkeeper,Daniel Fuzato,1997-07-04,21,Brazil,AS Roma,Serie A,2018/2019,2018
-44,Centre-Back,Konstantinos Manolas,1991-06-14,27,Greece,AS Roma,Serie A,2018/2019,2018
-5,Centre-Back,Juan Jesus,1991-06-10,28,Brazil,AS Roma,Serie A,2018/2019,2018
-20,Centre-Back,Federico Fazio,1987-03-17,32,Argentina,AS Roma,Serie A,2018/2019,2018
-15,Centre-Back,Iván Marcano,1987-06-23,31,Spain,AS Roma,Serie A,2018/2019,2018
-11,Left-Back,Aleksandar Kolarov,1985-11-10,33,Serbia,AS Roma,Serie A,2018/2019,2018
-18,Left-Back,Davide Santon,1991-01-02,28,Italy,AS Roma,Serie A,2018/2019,2018
-24,Right-Back,Alessandro Florenzi,1991-03-11,28,Italy,AS Roma,Serie A,2018/2019,2018
-2,Right-Back,Rick Karsdorp,1995-02-11,24,Netherlands,AS Roma,Serie A,2018/2019,2018
-42,Defensive Midfield,Steven Nzonzi,1988-12-15,30,France,AS Roma,Serie A,2018/2019,2018
-16,Defensive Midfield,Daniele De Rossi,1983-07-24,35,Italy,AS Roma,Serie A,2018/2019,2018
-7,Central Midfield,Lorenzo Pellegrini,1996-06-19,22,Italy,AS Roma,Serie A,2018/2019,2018
-4,Central Midfield,Bryan Cristante,1995-03-03,24,Italy,AS Roma,Serie A,2018/2019,2018
-22,Attacking Midfield,Nicolò Zaniolo,1999-07-02,19,Italy,AS Roma,Serie A,2018/2019,2018
-27,Attacking Midfield,Javier Pastore,1989-06-20,29,Argentina,AS Roma,Serie A,2018/2019,2018
-19,Attacking Midfield,Ante Coric,1997-04-14,22,Croatia,AS Roma,Serie A,2018/2019,2018
-92,Left Winger,Stephan El Shaarawy,1992-10-27,26,Italy,AS Roma,Serie A,2018/2019,2018
-34,Left Winger,Justin Kluivert,1999-05-05,20,Netherlands,AS Roma,Serie A,2018/2019,2018
-8,Left Winger,Diego Perotti,1988-07-26,30,Argentina,AS Roma,Serie A,2018/2019,2018
-17,Right Winger,Cengiz Ünder,1997-07-14,21,Turkey,AS Roma,Serie A,2018/2019,2018
-14,Centre-Forward,Patrik Schick,1996-01-24,23,Czech Republic,AS Roma,Serie A,2018/2019,2018
-9,Centre-Forward,Edin Dzeko,1986-03-17,33,Bosnia-Herzegovina,AS Roma,Serie A,2018/2019,2018
-1,Goalkeeper,Thomas Strakosha,1995-03-19,24,Albania,SS Lazio,Serie A,2018/2019,2018
-24,Goalkeeper,Silvio Proto,1983-05-23,36,Belgium,SS Lazio,Serie A,2018/2019,2018
-23,Goalkeeper,Guido Guerrieri,1996-02-25,23,Italy,SS Lazio,Serie A,2018/2019,2018
-33,Centre-Back,Francesco Acerbi,1988-02-10,31,Italy,SS Lazio,Serie A,2018/2019,2018
-3,Centre-Back,Luiz Felipe,1997-03-22,22,Brazil,SS Lazio,Serie A,2018/2019,2018
-13,Centre-Back,Wallace,1994-10-14,24,Brazil,SS Lazio,Serie A,2018/2019,2018
-26,Centre-Back,Stefan Radu,1986-10-22,32,Romania,SS Lazio,Serie A,2018/2019,2018
-15,Centre-Back,Bastos,1991-03-27,28,Angola,SS Lazio,Serie A,2018/2019,2018
-5,Left-Back,Jordan Lukaku,1994-07-25,24,Belgium,SS Lazio,Serie A,2018/2019,2018
-14,Left-Back,Riza Durmisi,1994-01-08,25,Denmark,SS Lazio,Serie A,2018/2019,2018
-4,Right-Back,Patric,1993-04-17,26,Spain,SS Lazio,Serie A,2018/2019,2018
-8,Right-Back,Dusan Basta,1984-08-18,34,Serbia,SS Lazio,Serie A,2018/2019,2018
-6,Defensive Midfield,Lucas Leiva,1987-01-09,32,Brazil,SS Lazio,Serie A,2018/2019,2018
-25,Defensive Midfield,Milan Badelj,1989-02-25,30,Croatia,SS Lazio,Serie A,2018/2019,2018
-21,Central Midfield,Sergej Milinkovic-Savic,1995-02-27,24,Serbia,SS Lazio,Serie A,2018/2019,2018
-7,Central Midfield,Valon Berisha,1993-02-07,26,Kosovo,SS Lazio,Serie A,2018/2019,2018
-32,Central Midfield,Danilo Cataldi,1994-08-06,24,Italy,SS Lazio,Serie A,2018/2019,2018
-16,Central Midfield,Marco Parolo,1985-01-25,34,Italy,SS Lazio,Serie A,2018/2019,2018
-27,Central Midfield,Rômulo,1987-05-22,32,Italy,SS Lazio,Serie A,2018/2019,2018
-66,Central Midfield,Bruno Jordão,1998-10-12,20,Portugal,SS Lazio,Serie A,2018/2019,2018
-77,Right Midfield,Adam Marusic,1992-10-17,26,Montenegro,SS Lazio,Serie A,2018/2019,2018
-19,Left Midfield,Senad Lulic,1986-01-18,33,Bosnia-Herzegovina,SS Lazio,Serie A,2018/2019,2018
-10,Attacking Midfield,Luis Alberto,1992-09-28,26,Spain,SS Lazio,Serie A,2018/2019,2018
-30,Right Winger,Pedro Neto,2000-03-09,19,Portugal,SS Lazio,Serie A,2018/2019,2018
-11,Second Striker,Joaquín Correa,1994-08-13,24,Argentina,SS Lazio,Serie A,2018/2019,2018
-17,Centre-Forward,Ciro Immobile,1990-02-20,29,Italy,SS Lazio,Serie A,2018/2019,2018
-20,Centre-Forward,Felipe Caicedo,1988-09-05,30,Ecuador,SS Lazio,Serie A,2018/2019,2018
-1,Goalkeeper,Alban Lafont,1999-01-23,20,France,ACF Fiorentina,Serie A,2018/2019,2018
-23,Goalkeeper,Pietro Terracciano,1990-03-08,29,Italy,ACF Fiorentina,Serie A,2018/2019,2018
-67,Goalkeeper,Simone Ghidotti,2000-03-19,19,Italy,ACF Fiorentina,Serie A,2018/2019,2018
-4,Centre-Back,Nikola Milenkovic,1997-10-12,21,Serbia,ACF Fiorentina,Serie A,2018/2019,2018
-20,Centre-Back,Germán Pezzella,1991-06-27,27,Argentina,ACF Fiorentina,Serie A,2018/2019,2018
-31,Centre-Back,Vitor Hugo,1991-05-20,28,Brazil,ACF Fiorentina,Serie A,2018/2019,2018
-5,Centre-Back,Federico Ceccherini,1992-05-11,27,Italy,ACF Fiorentina,Serie A,2018/2019,2018
-3,Left-Back,Cristiano Biraghi,1992-09-01,26,Italy,ACF Fiorentina,Serie A,2018/2019,2018
-16,Left-Back,David Hancko,1997-12-13,21,Slovakia,ACF Fiorentina,Serie A,2018/2019,2018
-2,Right-Back,Vincent Laurini,1989-06-10,30,France,ACF Fiorentina,Serie A,2018/2019,2018
-6,Defensive Midfield,Christian Nörgaard,1994-03-10,25,Denmark,ACF Fiorentina,Serie A,2018/2019,2018
-17,Central Midfield,Jordan Veretout,1993-03-01,26,France,ACF Fiorentina,Serie A,2018/2019,2018
-24,Central Midfield,Marco Benassi,1994-09-08,24,Italy,ACF Fiorentina,Serie A,2018/2019,2018
-8,Central Midfield,Gerson,1997-05-20,22,Brazil,ACF Fiorentina,Serie A,2018/2019,2018
-26,Central Midfield,Edimilson Fernandes,1996-04-15,23,Switzerland,ACF Fiorentina,Serie A,2018/2019,2018
-14,Central Midfield,Bryan Dabo,1992-02-18,27,Burkina Faso,ACF Fiorentina,Serie A,2018/2019,2018
-10,Left Winger,Marko Pjaca,1995-05-06,24,Croatia,ACF Fiorentina,Serie A,2018/2019,2018
-25,Right Winger,Federico Chiesa,1997-10-25,21,Italy,ACF Fiorentina,Serie A,2018/2019,2018
-11,Right Winger,Kevin Mirallas,1987-10-05,31,Belgium,ACF Fiorentina,Serie A,2018/2019,2018
-9,Centre-Forward,Giovanni Simeone,1995-07-05,23,Argentina,ACF Fiorentina,Serie A,2018/2019,2018
-29,Centre-Forward,Luis Muriel,1991-04-16,28,Colombia,ACF Fiorentina,Serie A,2018/2019,2018
-28,Centre-Forward,Dusan Vlahovic,2000-01-28,19,Serbia,ACF Fiorentina,Serie A,2018/2019,2018
-27,Centre-Forward,Martin Graiciar,1999-04-11,20,Czech Republic,ACF Fiorentina,Serie A,2018/2019,2018
-95,Goalkeeper,Pierluigi Gollini,1995-03-18,24,Italy,Atalanta BC,Serie A,2018/2019,2018
-1,Goalkeeper,Etrit Berisha,1989-03-10,30,Albania,Atalanta BC,Serie A,2018/2019,2018
-31,Goalkeeper,Francesco Rossi,1991-04-27,28,Italy,Atalanta BC,Serie A,2018/2019,2018
-23,Centre-Back,Gianluca Mancini,1996-04-17,23,Italy,Atalanta BC,Serie A,2018/2019,2018
-2,Centre-Back,Rafael Tolói,1990-10-10,28,Brazil,Atalanta BC,Serie A,2018/2019,2018
-6,Centre-Back,José Luis Palomino,1990-01-05,29,Argentina,Atalanta BC,Serie A,2018/2019,2018
-19,Centre-Back,Berat Djimsiti,1993-02-19,26,Albania,Atalanta BC,Serie A,2018/2019,2018
-41,Centre-Back,Roger Ibañez,1998-11-23,20,Brazil,Atalanta BC,Serie A,2018/2019,2018
-30,Centre-Back,Marco Varnier,1998-06-08,21,Italy,Atalanta BC,Serie A,2018/2019,2018
-5,Centre-Back,Andrea Masiello,1986-02-05,33,Italy,Atalanta BC,Serie A,2018/2019,2018
-8,Left-Back,Robin Gosens,1994-07-05,24,Germany,Atalanta BC,Serie A,2018/2019,2018
-7,Left-Back,Arkadiusz Reca,1995-06-17,23,Poland,Atalanta BC,Serie A,2018/2019,2018
-21,Right-Back,Timothy Castagne,1995-12-05,23,Belgium,Atalanta BC,Serie A,2018/2019,2018
-33,Right-Back,Hans Hateboer,1994-01-09,25,Netherlands,Atalanta BC,Serie A,2018/2019,2018
-15,Central Midfield,Marten de Roon,1991-03-29,28,Netherlands,Atalanta BC,Serie A,2018/2019,2018
-11,Central Midfield,Remo Freuler,1992-04-15,27,Switzerland,Atalanta BC,Serie A,2018/2019,2018
-88,Central Midfield,Mario Pasalic,1995-02-09,24,Croatia,Atalanta BC,Serie A,2018/2019,2018
-22,Central Midfield,Matteo Pessina,1997-04-21,22,Italy,Atalanta BC,Serie A,2018/2019,2018
-72,Second Striker,Josip Ilicic,1988-01-29,31,Slovenia,Atalanta BC,Serie A,2018/2019,2018
-10,Second Striker,Papu Gómez,1988-02-15,31,Argentina,Atalanta BC,Serie A,2018/2019,2018
-91,Centre-Forward,Duván Zapata,1991-04-01,28,Colombia,Atalanta BC,Serie A,2018/2019,2018
-99,Centre-Forward,Musa Barrow,1998-11-14,20,The Gambia,Atalanta BC,Serie A,2018/2019,2018
-1,Goalkeeper,Emil Audero,1997-01-18,22,Italy,UC Sampdoria,Serie A,2018/2019,2018
-72,Goalkeeper,Vid Belec,1990-06-06,29,Slovenia,UC Sampdoria,Serie A,2018/2019,2018
-33,Goalkeeper,Rafael,1990-05-20,29,Brazil,UC Sampdoria,Serie A,2018/2019,2018
-3,Centre-Back,Joachim Andersen,1996-05-31,23,Denmark,UC Sampdoria,Serie A,2018/2019,2018
-15,Centre-Back,Omar Colley,1992-10-24,26,The Gambia,UC Sampdoria,Serie A,2018/2019,2018
-26,Centre-Back,Lorenzo Tonelli,1990-01-17,29,Italy,UC Sampdoria,Serie A,2018/2019,2018
-25,Centre-Back,Alex Ferrari,1994-07-01,24,Italy,UC Sampdoria,Serie A,2018/2019,2018
-29,Left-Back,Nicola Murru,1994-12-16,24,Italy,UC Sampdoria,Serie A,2018/2019,2018
-22,Left-Back,Júnior Tavares,1996-08-07,22,Brazil,UC Sampdoria,Serie A,2018/2019,2018
-24,Right-Back,Bartosz Bereszynski,1992-07-12,26,Poland,UC Sampdoria,Serie A,2018/2019,2018
-7,Right-Back,Jacopo Sala,1991-12-05,27,Italy,UC Sampdoria,Serie A,2018/2019,2018
-6,Defensive Midfield,Albin Ekdal,1989-07-28,29,Sweden,UC Sampdoria,Serie A,2018/2019,2018
-10,Central Midfield,Dennis Praet,1994-05-14,25,Belgium,UC Sampdoria,Serie A,2018/2019,2018
-16,Central Midfield,Karol Linetty,1995-02-02,24,Poland,UC Sampdoria,Serie A,2018/2019,2018
-14,Central Midfield,Jakub Jankto,1996-01-19,23,Czech Republic,UC Sampdoria,Serie A,2018/2019,2018
-4,Central Midfield,Ronaldo Vieira,1998-07-19,20,England,UC Sampdoria,Serie A,2018/2019,2018
-8,Central Midfield,Édgar Barreto,1984-07-15,34,Paraguay,UC Sampdoria,Serie A,2018/2019,2018
-11,Attacking Midfield,Gastón Ramírez,1990-12-02,28,Uruguay,UC Sampdoria,Serie A,2018/2019,2018
-5,Attacking Midfield,Riccardo Saponara,1991-12-21,27,Italy,UC Sampdoria,Serie A,2018/2019,2018
-17,Second Striker,Gianluca Caprari,1993-07-30,25,Italy,UC Sampdoria,Serie A,2018/2019,2018
-23,Centre-Forward,Manolo Gabbiadini,1991-11-26,27,Italy,UC Sampdoria,Serie A,2018/2019,2018
-92,Centre-Forward,Grégoire Defrel,1991-06-17,27,Martinique,UC Sampdoria,Serie A,2018/2019,2018
-27,Centre-Forward,Fabio Quagliarella,1983-01-31,36,Italy,UC Sampdoria,Serie A,2018/2019,2018
-20,Centre-Forward,Marco Sau,1987-11-03,31,Italy,UC Sampdoria,Serie A,2018/2019,2018
-39,Goalkeeper,Salvatore Sirigu,1987-01-12,32,Italy,Torino FC,Serie A,2018/2019,2018
-1,Goalkeeper,Salvador Ichazo,1992-01-26,27,Uruguay,Torino FC,Serie A,2018/2019,2018
-25,Goalkeeper,Antonio Rosati,1983-06-26,35,Italy,Torino FC,Serie A,2018/2019,2018
-5,Centre-Back,Armando Izzo,1992-03-02,27,Italy,Torino FC,Serie A,2018/2019,2018
-33,Centre-Back,Nicolas N'Koulou,1990-03-27,29,Cameroon,Torino FC,Serie A,2018/2019,2018
-30,Centre-Back,Koffi Djidji,1992-11-30,26,Cote d'Ivoire,Torino FC,Serie A,2018/2019,2018
-36,Centre-Back,Bremer,1997-03-18,22,Brazil,Torino FC,Serie A,2018/2019,2018
-24,Centre-Back,Emiliano Moretti,1981-06-11,38,Italy,Torino FC,Serie A,2018/2019,2018
-99,Centre-Back,Erick Ferigra,1999-02-07,20,Ecuador,Torino FC,Serie A,2018/2019,2018
-15,Left-Back,Cristian Ansaldi,1986-09-20,32,Argentina,Torino FC,Serie A,2018/2019,2018
-34,Right-Back,Ola Aina,1996-10-08,22,Nigeria,Torino FC,Serie A,2018/2019,2018
-29,Right-Back,Lorenzo De Silvestri,1988-05-23,31,Italy,Torino FC,Serie A,2018/2019,2018
-88,Defensive Midfield,Tomás Rincón,1988-01-13,31,Venezuela,Torino FC,Serie A,2018/2019,2018
-23,Central Midfield,Soualiho Meïté,1994-03-17,25,France,Torino FC,Serie A,2018/2019,2018
-8,Central Midfield,Daniele Baselli,1992-03-12,27,Italy,Torino FC,Serie A,2018/2019,2018
-7,Central Midfield,Sasa Lukic,1996-08-13,22,Serbia,Torino FC,Serie A,2018/2019,2018
-21,Left Winger,Álex Berenguer,1995-07-04,23,Spain,Torino FC,Serie A,2018/2019,2018
-14,Right Winger,Iago Falque,1990-01-04,29,Spain,Torino FC,Serie A,2018/2019,2018
-27,Right Winger,Vittorio Parigini,1996-03-25,23,Italy,Torino FC,Serie A,2018/2019,2018
-9,Centre-Forward,Andrea Belotti,1993-12-20,25,Italy,Torino FC,Serie A,2018/2019,2018
-11,Centre-Forward,Simone Zaza,1991-06-25,27,Italy,Torino FC,Serie A,2018/2019,2018
-19,Centre-Forward,Vitalie Damascan,1999-01-24,20,Moldova,Torino FC,Serie A,2018/2019,2018
-47,Goalkeeper,Andrea Consigli,1987-01-27,32,Italy,US Sassuolo,Serie A,2018/2019,2018
-28,Goalkeeper,Giacomo Satalino,1999-05-20,20,Italy,US Sassuolo,Serie A,2018/2019,2018
-79,Goalkeeper,Gianluca Pegolo,1981-03-25,38,Italy,US Sassuolo,Serie A,2018/2019,2018
-3,Centre-Back,Merih Demiral,1998-03-05,21,Turkey,US Sassuolo,Serie A,2018/2019,2018
-31,Centre-Back,Gian Marco Ferrari,1992-05-15,27,Italy,US Sassuolo,Serie A,2018/2019,2018
-2,Centre-Back,Marlon,1995-09-07,23,Brazil,US Sassuolo,Serie A,2018/2019,2018
-23,Centre-Back,Giangiacomo Magnani,1995-10-04,23,Italy,US Sassuolo,Serie A,2018/2019,2018
-5,Centre-Back,Mauricio Lemos,1995-12-28,23,Uruguay,US Sassuolo,Serie A,2018/2019,2018
-6,Left-Back,Rogério,1998-01-13,21,Brazil,US Sassuolo,Serie A,2018/2019,2018
-13,Left-Back,Federico Peluso,1984-01-20,35,Italy,US Sassuolo,Serie A,2018/2019,2018
-17,Left-Back,Leonardo Sernicola,1997-07-30,21,Italy,US Sassuolo,Serie A,2018/2019,2018
-21,Right-Back,Pol Lirola,1997-08-13,21,Spain,US Sassuolo,Serie A,2018/2019,2018
-98,Right-Back,Claud Adjapong,1998-05-06,21,Italy,US Sassuolo,Serie A,2018/2019,2018
-4,Defensive Midfield,Francesco Magnanelli,1984-11-12,34,Italy,US Sassuolo,Serie A,2018/2019,2018
-12,Central Midfield,Stefano Sensi,1995-08-05,23,Italy,US Sassuolo,Serie A,2018/2019,2018
-32,Central Midfield,Alfred Duncan,1993-03-10,26,Ghana,US Sassuolo,Serie A,2018/2019,2018
-73,Central Midfield,Manuel Locatelli,1998-01-08,21,Italy,US Sassuolo,Serie A,2018/2019,2018
-68,Central Midfield,Mehdi Bourabia,1991-08-07,27,Morocco,US Sassuolo,Serie A,2018/2019,2018
-20,Left Winger,Jeremie Boga,1997-01-03,22,Cote d'Ivoire,US Sassuolo,Serie A,2018/2019,2018
-34,Left Winger,Federico Di Francesco,1994-06-14,24,Italy,US Sassuolo,Serie A,2018/2019,2018
-9,Left Winger,Filip Djuricic,1992-01-30,27,Serbia,US Sassuolo,Serie A,2018/2019,2018
-25,Right Winger,Domenico Berardi,1994-08-01,24,Italy,US Sassuolo,Serie A,2018/2019,2018
-99,Second Striker,Enrico Brignola,1999-07-08,19,Italy,US Sassuolo,Serie A,2018/2019,2018
-30,Centre-Forward,Khouma Babacar,1993-03-17,26,Senegal,US Sassuolo,Serie A,2018/2019,2018
-19,Centre-Forward,Jens Odgaard,1999-03-31,20,Denmark,US Sassuolo,Serie A,2018/2019,2018
-11,Centre-Forward,Gianluca Scamacca,1999-01-01,20,Italy,US Sassuolo,Serie A,2018/2019,2018
-18,Centre-Forward,Giacomo Raspadori,2000-02-18,19,Italy,US Sassuolo,Serie A,2018/2019,2018
-10,Centre-Forward,Alessandro Matri,1984-08-19,34,Italy,US Sassuolo,Serie A,2018/2019,2018
-1,Goalkeeper,Juan Musso,1994-05-06,25,Argentina,Udinese Calcio,Serie A,2018/2019,2018
-88,Goalkeeper,Nícolas,1988-04-12,31,Brazil,Udinese Calcio,Serie A,2018/2019,2018
-27,Goalkeeper,Samuele Perisan,1997-08-21,21,Italy,Udinese Calcio,Serie A,2018/2019,2018
-3,Centre-Back,Samir,1994-12-05,24,Brazil,Udinese Calcio,Serie A,2018/2019,2018
-5,Centre-Back,William Troost-Ekong,1993-09-01,25,Nigeria,Udinese Calcio,Serie A,2018/2019,2018
-17,Centre-Back,Bram Nuytinck,1990-05-04,29,Netherlands,Udinese Calcio,Serie A,2018/2019,2018
-24,Centre-Back,Ben Wilmot,1999-11-04,19,England,Udinese Calcio,Serie A,2018/2019,2018
-4,Centre-Back,Nicholas Opoku,1997-11-08,21,Ghana,Udinese Calcio,Serie A,2018/2019,2018
-87,Centre-Back,Sebastien De Maio,1987-03-05,32,France,Udinese Calcio,Serie A,2018/2019,2018
-90,Left-Back,Marvin Zeegelaar,1990-08-12,28,Netherlands,Udinese Calcio,Serie A,2018/2019,2018
-19,Right-Back,Jens Stryger Larsen,1991-02-21,28,Denmark,Udinese Calcio,Serie A,2018/2019,2018
-18,Right-Back,Hidde ter Avest,1997-05-20,22,Netherlands,Udinese Calcio,Serie A,2018/2019,2018
-30,Defensive Midfield,Sandro,1989-03-15,30,Brazil,Udinese Calcio,Serie A,2018/2019,2018
-11,Defensive Midfield,Valon Behrami,1985-04-19,34,Switzerland,Udinese Calcio,Serie A,2018/2019,2018
-38,Central Midfield,Rolando Mandragora,1997-06-29,21,Italy,Udinese Calcio,Serie A,2018/2019,2018
-6,Central Midfield,Seko Fofana,1995-05-07,24,Cote d'Ivoire,Udinese Calcio,Serie A,2018/2019,2018
-72,Central Midfield,Antonin Barak,1994-12-03,24,Czech Republic,Udinese Calcio,Serie A,2018/2019,2018
-8,Central Midfield,Emmanuel Badu,1990-12-02,28,Ghana,Udinese Calcio,Serie A,2018/2019,2018
-20,Central Midfield,Emil Hallfredsson,1984-06-29,34,Iceland,Udinese Calcio,Serie A,2018/2019,2018
-77,Right Midfield,Marco D'Alessandro,1991-02-17,28,Italy,Udinese Calcio,Serie A,2018/2019,2018
-10,Left Winger,Rodrigo de Paul,1994-05-24,25,Argentina,Udinese Calcio,Serie A,2018/2019,2018
-23,Right Winger,Ignacio Pussetto,1995-12-21,23,Argentina,Udinese Calcio,Serie A,2018/2019,2018
-14,Right Winger,Petar Micin,1998-09-29,20,Serbia,Udinese Calcio,Serie A,2018/2019,2018
-13,Right Winger,Svante Ingelsson,1998-06-14,20,Sweden,Udinese Calcio,Serie A,2018/2019,2018
-15,Centre-Forward,Kevin Lasagna,1992-08-10,26,Italy,Udinese Calcio,Serie A,2018/2019,2018
-7,Centre-Forward,Stefano Okaka,1989-08-09,29,Italy,Udinese Calcio,Serie A,2018/2019,2018
-91,Centre-Forward,Lukasz Teodorczyk,1991-06-03,28,Poland,Udinese Calcio,Serie A,2018/2019,2018
-28,Goalkeeper,Alessio Cragno,1994-06-28,24,Italy,Cagliari Calcio,Serie A,2018/2019,2018
-1,Goalkeeper,Rafael,1982-03-03,37,Brazil,Cagliari Calcio,Serie A,2018/2019,2018
-16,Goalkeeper,Simone Aresti,1986-03-15,33,Italy,Cagliari Calcio,Serie A,2018/2019,2018
-56,Centre-Back,Filippo Romagna,1997-05-26,22,Italy,Cagliari Calcio,Serie A,2018/2019,2018
-23,Centre-Back,Luca Ceppitelli,1989-08-11,29,Italy,Cagliari Calcio,Serie A,2018/2019,2018
-15,Centre-Back,Ragnar Klavan,1985-10-30,33,Estonia,Cagliari Calcio,Serie A,2018/2019,2018
-19,Centre-Back,Fabio Pisacane,1986-01-28,33,Italy,Cagliari Calcio,Serie A,2018/2019,2018
-26,Centre-Back,Maxime Leverbe,1997-02-15,22,France,Cagliari Calcio,Serie A,2018/2019,2018
-3,Left-Back,Luca Pellegrini,1999-03-07,20,Italy,Cagliari Calcio,Serie A,2018/2019,2018
-22,Left-Back,Charalampos Lykogiannis,1993-10-22,25,Greece,Cagliari Calcio,Serie A,2018/2019,2018
-12,Right-Back,Fabrizio Cacciatore,1986-10-08,32,Italy,Cagliari Calcio,Serie A,2018/2019,2018
-33,Right-Back,Darijo Srna,1982-05-01,37,Croatia,Cagliari Calcio,Serie A,2018/2019,2018
-17,Defensive Midfield,Christian Oliva,1996-06-01,23,Uruguay,Cagliari Calcio,Serie A,2018/2019,2018
-6,Defensive Midfield,Filip Bradaric,1992-01-11,27,Croatia,Cagliari Calcio,Serie A,2018/2019,2018
-8,Defensive Midfield,Luca Cigarini,1986-06-20,32,Italy,Cagliari Calcio,Serie A,2018/2019,2018
-18,Central Midfield,Nicolò Barella,1997-02-07,22,Italy,Cagliari Calcio,Serie A,2018/2019,2018
-29,Central Midfield,Lucas Castro,1989-04-09,30,Argentina,Cagliari Calcio,Serie A,2018/2019,2018
-24,Central Midfield,Paolo Faragò,1993-02-12,26,Italy,Cagliari Calcio,Serie A,2018/2019,2018
-21,Central Midfield,Artur Ionita,1990-08-17,28,Moldova,Cagliari Calcio,Serie A,2018/2019,2018
-27,Central Midfield,Alessandro Deiola,1995-08-01,23,Italy,Cagliari Calcio,Serie A,2018/2019,2018
-20,Left Midfield,Simone Padoin,1984-03-18,35,Italy,Cagliari Calcio,Serie A,2018/2019,2018
-10,Attacking Midfield,João Pedro,1992-03-09,27,Brazil,Cagliari Calcio,Serie A,2018/2019,2018
-14,Attacking Midfield,Valter Birsa,1986-08-07,32,Slovenia,Cagliari Calcio,Serie A,2018/2019,2018
-32,Right Winger,Kiril Despodov,1996-11-11,22,Bulgaria,Cagliari Calcio,Serie A,2018/2019,2018
-77,Second Striker,Cyril Théréau,1983-04-24,36,France,Cagliari Calcio,Serie A,2018/2019,2018
-30,Centre-Forward,Leonardo Pavoletti,1988-11-26,30,Italy,Cagliari Calcio,Serie A,2018/2019,2018
-9,Centre-Forward,Alberto Cerri,1996-04-16,23,Italy,Cagliari Calcio,Serie A,2018/2019,2018
-97,Goalkeeper,Ionut Radu,1997-05-28,22,Romania,Genoa CFC,Serie A,2018/2019,2018
-93,Goalkeeper,Jandrei,1993-03-01,26,Brazil,Genoa CFC,Serie A,2018/2019,2018
-1,Goalkeeper,Federico Marchetti,1983-02-07,36,Italy,Genoa CFC,Serie A,2018/2019,2018
-25,Goalkeeper,Rok Vodisek,1998-12-05,20,Slovenia,Genoa CFC,Serie A,2018/2019,2018
-17,Centre-Back,Cristian Romero,1998-04-27,21,Argentina,Genoa CFC,Serie A,2018/2019,2018
-14,Centre-Back,Davide Biraschi,1994-07-02,24,Italy,Genoa CFC,Serie A,2018/2019,2018
-87,Centre-Back,Ervin Zukanovic,1987-02-11,32,Bosnia-Herzegovina,Genoa CFC,Serie A,2018/2019,2018
-3,Centre-Back,Koray Günter,1994-08-16,24,Germany,Genoa CFC,Serie A,2018/2019,2018
-4,Left-Back,Domenico Criscito,1986-12-30,32,Italy,Genoa CFC,Serie A,2018/2019,2018
-13,Left-Back,Giuseppe Pezzella,1997-11-29,21,Italy,Genoa CFC,Serie A,2018/2019,2018
-32,Right-Back,Pedro Pereira,1998-01-22,21,Portugal,Genoa CFC,Serie A,2018/2019,2018
-33,Right-Back,Ivan Lakicevic,1993-07-27,25,Serbia,Genoa CFC,Serie A,2018/2019,2018
-21,Defensive Midfield,Ivan Radovanovic,1988-08-29,30,Serbia,Genoa CFC,Serie A,2018/2019,2018
-18,Defensive Midfield,Esteban Rolón,1995-03-25,24,Argentina,Genoa CFC,Serie A,2018/2019,2018
-44,Defensive Midfield,Miguel Veloso,1986-05-11,33,Portugal,Genoa CFC,Serie A,2018/2019,2018
-27,Central Midfield,Stefano Sturaro,1993-03-09,26,Italy,Genoa CFC,Serie A,2018/2019,2018
-8,Central Midfield,Lukas Lerager,1993-07-12,25,Denmark,Genoa CFC,Serie A,2018/2019,2018
-24,Central Midfield,Daniel Bessa,1993-01-14,26,Italy,Genoa CFC,Serie A,2018/2019,2018
-15,Central Midfield,Luca Mazzitelli,1995-11-15,23,Italy,Genoa CFC,Serie A,2018/2019,2018
-88,Central Midfield,Oscar Hiljemark,1992-06-28,26,Sweden,Genoa CFC,Serie A,2018/2019,2018
-NA,Central Midfield,Stephane Omeonga,1996-03-27,23,Belgium,Genoa CFC,Serie A,2018/2019,2018
-22,Right Midfield,Darko Lazovic,1990-09-15,28,Serbia,Genoa CFC,Serie A,2018/2019,2018
-99,Left Midfield,András Schäfer,1999-04-13,20,Hungary,Genoa CFC,Serie A,2018/2019,2018
-19,Second Striker,Goran Pandev,1983-07-27,35,North Macedonia,Genoa CFC,Serie A,2018/2019,2018
-11,Centre-Forward,Christian Kouamé,1997-12-06,21,Cote d'Ivoire,Genoa CFC,Serie A,2018/2019,2018
-9,Centre-Forward,Antonio Sanabria,1996-03-04,23,Paraguay,Genoa CFC,Serie A,2018/2019,2018
-39,Centre-Forward,Andrea Favilli,1997-05-17,22,Italy,Genoa CFC,Serie A,2018/2019,2018
-10,Centre-Forward,Gianluca Lapadula,1990-02-07,29,Italy,Genoa CFC,Serie A,2018/2019,2018
-26,Centre-Forward,Nicola Dalmonte,1997-09-13,21,Italy,Genoa CFC,Serie A,2018/2019,2018
-28,Goalkeeper,Lukasz Skorupski,1991-05-05,28,Poland,Bologna FC 1909,Serie A,2018/2019,2018
-1,Goalkeeper,Angelo da Costa,1983-11-12,35,Brazil,Bologna FC 1909,Serie A,2018/2019,2018
-29,Goalkeeper,Antonio Santurro,1992-02-29,27,Italy,Bologna FC 1909,Serie A,2018/2019,2018
-99,Goalkeeper,Caio Vinicius Pirana,1999-05-08,20,Brazil,Bologna FC 1909,Serie A,2018/2019,2018
-4,Centre-Back,Lyanco,1997-02-01,22,Brazil,Bologna FC 1909,Serie A,2018/2019,2018
-18,Centre-Back,Filip Helander,1993-04-22,26,Sweden,Bologna FC 1909,Serie A,2018/2019,2018
-33,Centre-Back,Arturo Calabresi,1996-03-17,23,Italy,Bologna FC 1909,Serie A,2018/2019,2018
-23,Centre-Back,Danilo,1984-05-10,35,Brazil,Bologna FC 1909,Serie A,2018/2019,2018
-6,Centre-Back,Nehuén Paz,1993-04-28,26,Argentina,Bologna FC 1909,Serie A,2018/2019,2018
-35,Left-Back,Mitchell Dijks,1993-02-09,26,Netherlands,Bologna FC 1909,Serie A,2018/2019,2018
-15,Right-Back,Ibrahima Mbaye,1994-11-19,24,Senegal,Bologna FC 1909,Serie A,2018/2019,2018
-14,Right-Back,Federico Mattiello,1995-07-14,23,Italy,Bologna FC 1909,Serie A,2018/2019,2018
-5,Defensive Midfield,Erick Pulgar,1994-01-15,25,Chile,Bologna FC 1909,Serie A,2018/2019,2018
-8,Defensive Midfield,Ádám Nagy,1995-06-17,23,Hungary,Bologna FC 1909,Serie A,2018/2019,2018
-17,Central Midfield,Godfred Donsah,1996-06-07,23,Ghana,Bologna FC 1909,Serie A,2018/2019,2018
-21,Central Midfield,Roberto Soriano,1991-02-08,28,Italy,Bologna FC 1909,Serie A,2018/2019,2018
-32,Central Midfield,Mattias Svanberg,1999-01-05,20,Sweden,Bologna FC 1909,Serie A,2018/2019,2018
-16,Central Midfield,Andrea Poli,1989-09-29,29,Italy,Bologna FC 1909,Serie A,2018/2019,2018
-31,Central Midfield,Blerim Dzemaili,1986-04-12,33,Switzerland,Bologna FC 1909,Serie A,2018/2019,2018
-19,Attacking Midfield,Juan Manuel Valencia,1998-06-20,20,Colombia,Bologna FC 1909,Serie A,2018/2019,2018
-10,Left Winger,Nicola Sansone,1991-09-10,27,Italy,Bologna FC 1909,Serie A,2018/2019,2018
-11,Left Winger,Ladislav Krejci,1992-07-05,26,Czech Republic,Bologna FC 1909,Serie A,2018/2019,2018
-7,Right Winger,Riccardo Orsolini,1997-01-24,22,Italy,Bologna FC 1909,Serie A,2018/2019,2018
-20,Right Winger,Simone Edera,1997-01-09,22,Italy,Bologna FC 1909,Serie A,2018/2019,2018
-9,Centre-Forward,Federico Santander,1991-06-04,28,Paraguay,Bologna FC 1909,Serie A,2018/2019,2018
-22,Centre-Forward,Mattia Destro,1991-03-20,28,Italy,Bologna FC 1909,Serie A,2018/2019,2018
-91,Centre-Forward,Diego Falcinelli,1991-06-26,27,Italy,Bologna FC 1909,Serie A,2018/2019,2018
-24,Centre-Forward,Rodrigo Palacio,1982-02-05,37,Argentina,Bologna FC 1909,Serie A,2018/2019,2018
-69,Goalkeeper,Bartlomiej Dragowski,1997-08-19,21,Poland,FC Empoli,Serie A,2018/2019,2018
-1,Goalkeeper,Ivan Provedel,1994-03-17,25,Italy,FC Empoli,Serie A,2018/2019,2018
-21,Goalkeeper,Filippo Perucchini,1991-10-06,27,Italy,FC Empoli,Serie A,2018/2019,2018
-32,Centre-Back,Jacob Rasmussen,1997-05-28,22,Denmark,FC Empoli,Serie A,2018/2019,2018
-43,Centre-Back,Dimitrios Nikolaou,1998-08-13,20,Greece,FC Empoli,Serie A,2018/2019,2018
-5,Centre-Back,Frédéric Veseli,1992-11-20,26,Albania,FC Empoli,Serie A,2018/2019,2018
-26,Centre-Back,Matías Silvestre,1984-09-25,34,Argentina,FC Empoli,Serie A,2018/2019,2018
-22,Centre-Back,Domenico Maietta,1982-08-03,36,Italy,FC Empoli,Serie A,2018/2019,2018
-15,Centre-Back,Lorenzo Polvani,1994-07-26,24,Italy,FC Empoli,Serie A,2018/2019,2018
-6,Left-Back,Marko Pajac,1993-05-11,26,Croatia,FC Empoli,Serie A,2018/2019,2018
-39,Left-Back,Cristian Dell'Orco,1994-02-10,25,Italy,FC Empoli,Serie A,2018/2019,2018
-13,Left-Back,Luca Antonelli,1987-02-11,32,Italy,FC Empoli,Serie A,2018/2019,2018
-23,Left-Back,Manuel Pasqual,1982-03-13,37,Italy,FC Empoli,Serie A,2018/2019,2018
-2,Right-Back,Giovanni Di Lorenzo,1993-08-04,25,Italy,FC Empoli,Serie A,2018/2019,2018
-34,Right-Back,Kevin Diks,1996-10-06,22,Netherlands,FC Empoli,Serie A,2018/2019,2018
-10,Defensive Midfield,Ismaël Bennacer,1997-12-01,21,Algeria,FC Empoli,Serie A,2018/2019,2018
-28,Defensive Midfield,Leonardo Capezzi,1995-03-29,24,Italy,FC Empoli,Serie A,2018/2019,2018
-8,Central Midfield,Hamed Junior Traorè,2000-02-16,19,Cote d'Ivoire,FC Empoli,Serie A,2018/2019,2018
-33,Central Midfield,Rade Krunic,1993-10-07,25,Bosnia-Herzegovina,FC Empoli,Serie A,2018/2019,2018
-18,Central Midfield,Afriyie Acquah,1992-01-05,27,Ghana,FC Empoli,Serie A,2018/2019,2018
-77,Central Midfield,Marcel Büchel,1991-03-18,28,Liechtenstein,FC Empoli,Serie A,2018/2019,2018
-4,Central Midfield,Matteo Brighi,1981-02-14,38,Italy,FC Empoli,Serie A,2018/2019,2018
-48,Attacking Midfield,Salih Ucan,1994-01-06,25,Turkey,FC Empoli,Serie A,2018/2019,2018
-17,Second Striker,Diego Farias,1990-05-10,29,Brazil,FC Empoli,Serie A,2018/2019,2018
-20,Centre-Forward,Antonino La Gumina,1996-03-06,23,Italy,FC Empoli,Serie A,2018/2019,2018
-11,Centre-Forward,Francesco Caputo,1987-08-06,31,Italy,FC Empoli,Serie A,2018/2019,2018
-37,Centre-Forward,Dimitri Oberlin,1997-09-27,21,Switzerland,FC Empoli,Serie A,2018/2019,2018
-7,Centre-Forward,Levan Mchedlidze,1990-03-24,29,Georgia,FC Empoli,Serie A,2018/2019,2018
-1,Goalkeeper,Alfred Gomis,1993-09-05,25,Senegal,SPAL,Serie A,2018/2019,2018
-2,Goalkeeper,Emiliano Viviano,1985-12-01,33,Italy,SPAL,Serie A,2018/2019,2018
-12,Goalkeeper,Andrea Fulignati,1994-10-31,24,Italy,SPAL,Serie A,2018/2019,2018
-17,Goalkeeper,Giacomo Poluzzi,1988-02-25,31,Italy,SPAL,Serie A,2018/2019,2018
-14,Centre-Back,Kevin Bonifazi,1996-05-19,23,Italy,SPAL,Serie A,2018/2019,2018
-23,Centre-Back,Francesco Vicari,1994-08-03,24,Italy,SPAL,Serie A,2018/2019,2018
-13,Centre-Back,Vasco Regini,1990-09-09,28,Italy,SPAL,Serie A,2018/2019,2018
-5,Centre-Back,Lorenco Simic,1996-07-15,22,Croatia,SPAL,Serie A,2018/2019,2018
-4,Centre-Back,Thiago Cionek,1986-04-21,33,Poland,SPAL,Serie A,2018/2019,2018
-27,Centre-Back,Felipe,1984-07-31,34,Brazil,SPAL,Serie A,2018/2019,2018
-33,Left-Back,Filippo Costa,1995-05-21,24,Italy,SPAL,Serie A,2018/2019,2018
-24,Right-Back,Lorenzo Dickmann,1996-09-24,22,Italy,SPAL,Serie A,2018/2019,2018
-6,Defensive Midfield,Simone Missiroli,1986-05-23,33,Italy,SPAL,Serie A,2018/2019,2018
-16,Defensive Midfield,Mirko Valdifiori,1986-04-21,33,Italy,SPAL,Serie A,2018/2019,2018
-19,Central Midfield,Jasmin Kurtic,1989-01-10,30,Slovenia,SPAL,Serie A,2018/2019,2018
-11,Central Midfield,Alessandro Murgia,1996-08-09,22,Italy,SPAL,Serie A,2018/2019,2018
-8,Central Midfield,Mattia Valoti,1993-09-06,25,Italy,SPAL,Serie A,2018/2019,2018
-28,Central Midfield,Pasquale Schiattarella,1987-05-30,32,Italy,SPAL,Serie A,2018/2019,2018
-29,Right Midfield,Manuel Lazzari,1993-11-29,25,Italy,SPAL,Serie A,2018/2019,2018
-93,Left Midfield,Mohamed Fares,1996-02-15,23,Algeria,SPAL,Serie A,2018/2019,2018
-95,Right Winger,Marko Jankovic,1995-07-09,23,Montenegro,SPAL,Serie A,2018/2019,2018
-37,Centre-Forward,Andrea Petagna,1995-06-30,23,Italy,SPAL,Serie A,2018/2019,2018
-43,Centre-Forward,Alberto Paloschi,1990-01-04,29,Italy,SPAL,Serie A,2018/2019,2018
-7,Centre-Forward,Mirco Antenucci,1984-09-08,34,Italy,SPAL,Serie A,2018/2019,2018
-10,Centre-Forward,Sergio Floccari,1981-11-12,37,Italy,SPAL,Serie A,2018/2019,2018
-55,Goalkeeper,Luigi Sepe,1991-05-08,28,Italy,Parma Calcio 1913,Serie A,2018/2019,2018
-31,Goalkeeper,Gabriel Brazão,2000-10-05,18,Brazil,Parma Calcio 1913,Serie A,2018/2019,2018
-1,Goalkeeper,Pierluigi Frattali,1985-12-01,33,Italy,Parma Calcio 1913,Serie A,2018/2019,2018
-56,Goalkeeper,Fabrizio Bagheria,2001-04-05,18,Italy,Parma Calcio 1913,Serie A,2018/2019,2018
-95,Centre-Back,Alessandro Bastoni,1999-04-13,20,Italy,Parma Calcio 1913,Serie A,2018/2019,2018
-28,Centre-Back,Riccardo Gagliolo,1990-04-28,29,Italy,Parma Calcio 1913,Serie A,2018/2019,2018
-22,Centre-Back,Bruno Alves,1981-11-27,37,Portugal,Parma Calcio 1913,Serie A,2018/2019,2018
-13,Centre-Back,Francisco Sierralta,1997-05-06,22,Chile,Parma Calcio 1913,Serie A,2018/2019,2018
-3,Left-Back,Federico Dimarco,1997-11-10,21,Italy,Parma Calcio 1913,Serie A,2018/2019,2018
-18,Left-Back,Massimo Gobbi,1980-10-31,38,Italy,Parma Calcio 1913,Serie A,2018/2019,2018
-2,Right-Back,Simone Iacoponi,1987-04-30,32,Italy,Parma Calcio 1913,Serie A,2018/2019,2018
-23,Right-Back,Marcello Gazzola,1985-04-03,34,Italy,Parma Calcio 1913,Serie A,2018/2019,2018
-5,Defensive Midfield,Leo Stulac,1994-09-26,24,Slovenia,Parma Calcio 1913,Serie A,2018/2019,2018
-21,Defensive Midfield,Matteo Scozzarella,1988-06-05,31,Italy,Parma Calcio 1913,Serie A,2018/2019,2018
-88,Central Midfield,Alberto Grassi,1995-03-07,24,Italy,Parma Calcio 1913,Serie A,2018/2019,2018
-87,Central Midfield,Juraj Kucka,1987-02-26,32,Slovakia,Parma Calcio 1913,Serie A,2018/2019,2018
-14,Central Midfield,José Machín,1996-08-14,22,Equatorial Guinea,Parma Calcio 1913,Serie A,2018/2019,2018
-17,Central Midfield,Antonino Barillà,1988-04-01,31,Italy,Parma Calcio 1913,Serie A,2018/2019,2018
-33,Central Midfield,Jacopo Dezi,1992-02-10,27,Italy,Parma Calcio 1913,Serie A,2018/2019,2018
-32,Central Midfield,Luca Rigoni,1984-12-07,34,Italy,Parma Calcio 1913,Serie A,2018/2019,2018
-8,Central Midfield,Abdou Diakhate,1998-12-31,20,Senegal,Parma Calcio 1913,Serie A,2018/2019,2018
-27,Left Winger,Gervinho,1987-05-27,32,Cote d'Ivoire,Parma Calcio 1913,Serie A,2018/2019,2018
-10,Left Winger,Nicolás Schiappacasse,1999-01-12,20,Uruguay,Parma Calcio 1913,Serie A,2018/2019,2018
-77,Right Winger,Jonathan Biabiany,1988-04-28,31,France,Parma Calcio 1913,Serie A,2018/2019,2018
-93,Right Winger,Mattia Sprocati,1993-04-28,26,Italy,Parma Calcio 1913,Serie A,2018/2019,2018
-26,Right Winger,Luca Siligardi,1988-01-26,31,Italy,Parma Calcio 1913,Serie A,2018/2019,2018
-45,Centre-Forward,Roberto Inglese,1991-11-12,27,Italy,Parma Calcio 1913,Serie A,2018/2019,2018
-9,Centre-Forward,Fabio Ceravolo,1987-03-05,32,Italy,Parma Calcio 1913,Serie A,2018/2019,2018
-57,Goalkeeper,Marco Sportiello,1992-05-10,27,Italy,Frosinone Calcio,Serie A,2018/2019,2018
-22,Goalkeeper,Francesco Bardi,1992-01-18,27,Italy,Frosinone Calcio,Serie A,2018/2019,2018
-91,Goalkeeper,Alessandro Iacobucci,1991-06-03,28,Italy,Frosinone Calcio,Serie A,2018/2019,2018
-6,Centre-Back,Edoardo Goldaniga,1993-11-02,25,Italy,Frosinone Calcio,Serie A,2018/2019,2018
-15,Centre-Back,Lorenzo Ariaudo,1989-06-11,30,Italy,Frosinone Calcio,Serie A,2018/2019,2018
-27,Centre-Back,Bartosz Salamon,1991-05-01,28,Poland,Frosinone Calcio,Serie A,2018/2019,2018
-32,Centre-Back,Luka Krajnc,1994-09-19,24,Slovenia,Frosinone Calcio,Serie A,2018/2019,2018
-25,Centre-Back,Marco Capuano,1991-10-14,27,Italy,Frosinone Calcio,Serie A,2018/2019,2018
-4,Centre-Back,Stefan Simic,1995-01-20,24,Czech Republic,Frosinone Calcio,Serie A,2018/2019,2018
-23,Centre-Back,Nicolò Brighenti,1989-08-01,29,Italy,Frosinone Calcio,Serie A,2018/2019,2018
-3,Left-Back,Cristian Molinaro,1983-07-30,35,Italy,Frosinone Calcio,Serie A,2018/2019,2018
-17,Right-Back,Francesco Zampano,1993-09-30,25,Italy,Frosinone Calcio,Serie A,2018/2019,2018
-2,Right-Back,Paolo Ghiglione,1997-02-02,22,Italy,Frosinone Calcio,Serie A,2018/2019,2018
-92,Defensive Midfield,Federico Viviani,1992-03-24,27,Italy,Frosinone Calcio,Serie A,2018/2019,2018
-24,Central Midfield,Francesco Cassata,1997-07-16,21,Italy,Frosinone Calcio,Serie A,2018/2019,2018
-16,Central Midfield,Luca Valzania,1996-03-05,23,Italy,Frosinone Calcio,Serie A,2018/2019,2018
-66,Central Midfield,Raman Chibsah,1993-03-10,26,Ghana,Frosinone Calcio,Serie A,2018/2019,2018
-8,Central Midfield,Raffaele Maiello,1991-07-10,27,Italy,Frosinone Calcio,Serie A,2018/2019,2018
-5,Central Midfield,Mirko Gori,1993-02-04,26,Italy,Frosinone Calcio,Serie A,2018/2019,2018
-21,Central Midfield,Paolo Sammarco,1983-03-17,36,Italy,Frosinone Calcio,Serie A,2018/2019,2018
-33,Left Midfield,Andrea Beghetto,1994-10-11,24,Italy,Frosinone Calcio,Serie A,2018/2019,2018
-28,Right Winger,Camillo Ciano,1990-02-22,29,Italy,Frosinone Calcio,Serie A,2018/2019,2018
-7,Right Winger,Luca Paganini,1993-06-08,26,Italy,Frosinone Calcio,Serie A,2018/2019,2018
-89,Centre-Forward,Andrea Pinamonti,1999-05-19,20,Italy,Frosinone Calcio,Serie A,2018/2019,2018
-18,Centre-Forward,Federico Dionisi,1987-06-16,31,Italy,Frosinone Calcio,Serie A,2018/2019,2018
-20,Centre-Forward,Marcello Trotta,1992-09-29,26,Italy,Frosinone Calcio,Serie A,2018/2019,2018
-9,Centre-Forward,Daniel Ciofani,1985-07-31,33,Italy,Frosinone Calcio,Serie A,2018/2019,2018
-1,Goalkeeper,Adrian Semper,1998-01-12,21,Croatia,Chievo Verona,Serie A,2018/2019,2018
-70,Goalkeeper,Stefano Sorrentino,1979-03-28,40,Italy,Chievo Verona,Serie A,2018/2019,2018
-16,Goalkeeper,Andrea Seculin,1990-07-14,28,Italy,Chievo Verona,Serie A,2018/2019,2018
-14,Centre-Back,Mattia Bani,1993-12-10,25,Italy,Chievo Verona,Serie A,2018/2019,2018
-5,Centre-Back,Federico Barba,1993-09-01,25,Italy,Chievo Verona,Serie A,2018/2019,2018
-40,Centre-Back,Nenad Tomović,1987-08-30,31,Serbia,Chievo Verona,Serie A,2018/2019,2018
-15,Centre-Back,Luca Rossettini,1985-05-09,34,Italy,Chievo Verona,Serie A,2018/2019,2018
-33,Centre-Back,Marco Andreolli,1986-06-10,33,Italy,Chievo Verona,Serie A,2018/2019,2018
-3,Centre-Back,Strahinja Tanasijevic,1997-06-12,21,Serbia,Chievo Verona,Serie A,2018/2019,2018
-12,Centre-Back,Bostjan Cesar,1982-07-09,36,Slovenia,Chievo Verona,Serie A,2018/2019,2018
-44,Left-Back,Pawel Jaroszynski,1994-10-02,24,Poland,Chievo Verona,Serie A,2018/2019,2018
-27,Right-Back,Fabio Depaoli,1997-04-24,22,Italy,Chievo Verona,Serie A,2018/2019,2018
-2,Right-Back,Ezequiel Schelotto,1989-05-23,30,Italy,Chievo Verona,Serie A,2018/2019,2018
-6,Right-Back,Nicolas Frey,1984-03-06,35,France,Chievo Verona,Serie A,2018/2019,2018
-8,Defensive Midfield,Assane Dioussé,1997-09-20,21,Senegal,Chievo Verona,Serie A,2018/2019,2018
-11,Central Midfield,Mehdi Léris,1998-05-23,21,France,Chievo Verona,Serie A,2018/2019,2018
-13,Central Midfield,Sofian Kiyine,1997-10-02,21,Morocco,Chievo Verona,Serie A,2018/2019,2018
-56,Central Midfield,Perparim Hetemaj,1986-12-12,32,Finland,Chievo Verona,Serie A,2018/2019,2018
-4,Central Midfield,Nicola Rigoni,1990-11-12,28,Italy,Chievo Verona,Serie A,2018/2019,2018
-21,Central Midfield,Mauro Burruchaga,1998-06-27,20,Argentina,Chievo Verona,Serie A,2018/2019,2018
-17,Left Midfield,Emanuele Giaccherini,1985-05-05,34,Italy,Chievo Verona,Serie A,2018/2019,2018
-19,Left Winger,Musa Juwara,2001-12-26,17,The Gambia,Chievo Verona,Serie A,2018/2019,2018
-55,Right Winger,Emanuel Vignato,2000-08-24,18,Italy,Chievo Verona,Serie A,2018/2019,2018
-7,Right Winger,Lucas Piazón,1994-01-20,25,Brazil,Chievo Verona,Serie A,2018/2019,2018
-10,Second Striker,Manuel Pucciarelli,1991-06-17,27,Italy,Chievo Verona,Serie A,2018/2019,2018
-69,Second Striker,Riccardo Meggiorini,1985-09-04,33,Italy,Chievo Verona,Serie A,2018/2019,2018
-9,Centre-Forward,Mariusz Stepinski,1995-05-12,24,Poland,Chievo Verona,Serie A,2018/2019,2018
-20,Centre-Forward,Filip Djordjevic,1987-09-28,31,Serbia,Chievo Verona,Serie A,2018/2019,2018
-25,Centre-Forward,Sergej Grubac,2000-05-29,19,Montenegro,Chievo Verona,Serie A,2018/2019,2018
-31,Centre-Forward,Sergio Pellissier,1979-04-12,40,Italy,Chievo Verona,Serie A,2018/2019,2018
+player_name,position,date_of_birth,age,nationality,club_name,league_name,season,year
+Wojciech Szczesny,Goalkeeper,1990-04-18,29,Poland,Juventus FC,Serie A,2018/2019,2018
+Mattia Perin,Goalkeeper,1992-11-10,26,Italy,Juventus FC,Serie A,2018/2019,2018
+Carlo Pinsoglio,Goalkeeper,1990-03-16,29,Italy,Juventus FC,Serie A,2018/2019,2018
+Leonardo Bonucci,Centre-Back,1987-05-01,32,Italy,Juventus FC,Serie A,2018/2019,2018
+Daniele Rugani,Centre-Back,1994-07-29,24,Italy,Juventus FC,Serie A,2018/2019,2018
+Giorgio Chiellini,Centre-Back,1984-08-14,34,Italy,Juventus FC,Serie A,2018/2019,2018
+Martín Cáceres,Centre-Back,1987-04-07,32,Uruguay,Juventus FC,Serie A,2018/2019,2018
+Andrea Barzagli,Centre-Back,1981-05-08,38,Italy,Juventus FC,Serie A,2018/2019,2018
+Alex Sandro,Left-Back,1991-01-26,28,Brazil,Juventus FC,Serie A,2018/2019,2018
+Leonardo Spinazzola,Left-Back,1993-03-25,26,Italy,Juventus FC,Serie A,2018/2019,2018
+João Cancelo,Right-Back,1994-05-27,25,Portugal,Juventus FC,Serie A,2018/2019,2018
+Mattia De Sciglio,Right-Back,1992-10-20,26,Italy,Juventus FC,Serie A,2018/2019,2018
+Miralem Pjanic,Defensive Midfield,1990-04-02,29,Bosnia-Herzegovina,Juventus FC,Serie A,2018/2019,2018
+Emre Can,Defensive Midfield,1994-01-12,25,Germany,Juventus FC,Serie A,2018/2019,2018
+Rodrigo Bentancur,Central Midfield,1997-06-25,21,Uruguay,Juventus FC,Serie A,2018/2019,2018
+Blaise Matuidi,Central Midfield,1987-04-09,32,France,Juventus FC,Serie A,2018/2019,2018
+Sami Khedira,Central Midfield,1987-04-04,32,Germany,Juventus FC,Serie A,2018/2019,2018
+Cristiano Ronaldo,Left Winger,1985-02-05,34,Portugal,Juventus FC,Serie A,2018/2019,2018
+Federico Bernardeschi,Right Winger,1994-02-16,25,Italy,Juventus FC,Serie A,2018/2019,2018
+Douglas Costa,Right Winger,1990-09-14,28,Brazil,Juventus FC,Serie A,2018/2019,2018
+Juan Cuadrado,Right Winger,1988-05-26,31,Colombia,Juventus FC,Serie A,2018/2019,2018
+Paulo Dybala,Second Striker,1993-11-15,25,Argentina,Juventus FC,Serie A,2018/2019,2018
+Moise Kean,Centre-Forward,2000-02-28,19,Italy,Juventus FC,Serie A,2018/2019,2018
+Mario Mandzukic,Centre-Forward,1986-05-21,33,Croatia,Juventus FC,Serie A,2018/2019,2018
+Alex Meret,Goalkeeper,1997-03-22,22,Italy,SSC Napoli,Serie A,2018/2019,2018
+David Ospina,Goalkeeper,1988-08-31,30,Colombia,SSC Napoli,Serie A,2018/2019,2018
+Orestis Karnezis,Goalkeeper,1985-07-11,33,Greece,SSC Napoli,Serie A,2018/2019,2018
+Kalidou Koulibaly,Centre-Back,1991-06-20,27,Senegal,SSC Napoli,Serie A,2018/2019,2018
+Nikola Maksimovic,Centre-Back,1991-11-25,27,Serbia,SSC Napoli,Serie A,2018/2019,2018
+Raúl Albiol,Centre-Back,1985-09-04,33,Spain,SSC Napoli,Serie A,2018/2019,2018
+Vlad Chiriches,Centre-Back,1989-11-14,29,Romania,SSC Napoli,Serie A,2018/2019,2018
+Sebastiano Luperto,Centre-Back,1996-09-06,22,Italy,SSC Napoli,Serie A,2018/2019,2018
+Faouzi Ghoulam,Left-Back,1991-02-01,28,Algeria,SSC Napoli,Serie A,2018/2019,2018
+Mário Rui,Left-Back,1991-05-27,28,Portugal,SSC Napoli,Serie A,2018/2019,2018
+Elseid Hysaj,Right-Back,1994-02-02,25,Albania,SSC Napoli,Serie A,2018/2019,2018
+Kévin Malcuit,Right-Back,1991-07-31,27,France,SSC Napoli,Serie A,2018/2019,2018
+Amadou Diawara,Defensive Midfield,1997-07-17,21,Guinea,SSC Napoli,Serie A,2018/2019,2018
+Allan,Central Midfield,1991-01-08,28,Brazil,SSC Napoli,Serie A,2018/2019,2018
+Fabián Ruiz,Central Midfield,1996-04-03,23,Spain,SSC Napoli,Serie A,2018/2019,2018
+Piotr Zielinski,Central Midfield,1994-05-20,25,Poland,SSC Napoli,Serie A,2018/2019,2018
+Lorenzo Insigne,Left Winger,1991-06-04,28,Italy,SSC Napoli,Serie A,2018/2019,2018
+Amin Younes,Left Winger,1993-08-06,25,Germany,SSC Napoli,Serie A,2018/2019,2018
+Simone Verdi,Right Winger,1992-07-12,26,Italy,SSC Napoli,Serie A,2018/2019,2018
+José Callejón,Right Winger,1987-02-11,32,Spain,SSC Napoli,Serie A,2018/2019,2018
+Adam Ounas,Right Winger,1996-11-11,22,Algeria,SSC Napoli,Serie A,2018/2019,2018
+Arkadiusz Milik,Centre-Forward,1994-02-28,25,Poland,SSC Napoli,Serie A,2018/2019,2018
+Dries Mertens,Centre-Forward,1987-05-06,32,Belgium,SSC Napoli,Serie A,2018/2019,2018
+Samir Handanovic,Goalkeeper,1984-07-14,34,Slovenia,Inter Milan,Serie A,2018/2019,2018
+Raffaele Di Gennaro,Goalkeeper,1993-10-03,25,Italy,Inter Milan,Serie A,2018/2019,2018
+Daniele Padelli,Goalkeeper,1985-10-25,33,Italy,Inter Milan,Serie A,2018/2019,2018
+Tommaso Berni,Goalkeeper,1983-03-06,36,Italy,Inter Milan,Serie A,2018/2019,2018
+Milan Skriniar,Centre-Back,1995-02-11,24,Slovakia,Inter Milan,Serie A,2018/2019,2018
+Stefan de Vrij,Centre-Back,1992-02-05,27,Netherlands,Inter Milan,Serie A,2018/2019,2018
+Miranda,Centre-Back,1984-09-07,34,Brazil,Inter Milan,Serie A,2018/2019,2018
+Andrea Ranocchia,Centre-Back,1988-02-16,31,Italy,Inter Milan,Serie A,2018/2019,2018
+Kwadwo Asamoah,Left-Back,1988-12-09,30,Ghana,Inter Milan,Serie A,2018/2019,2018
+Dalbert,Left-Back,1993-09-08,25,Brazil,Inter Milan,Serie A,2018/2019,2018
+Sime Vrsaljko,Right-Back,1992-01-10,27,Croatia,Inter Milan,Serie A,2018/2019,2018
+Danilo D'Ambrosio,Right-Back,1988-09-09,30,Italy,Inter Milan,Serie A,2018/2019,2018
+Cédric Soares,Right-Back,1991-08-31,27,Portugal,Inter Milan,Serie A,2018/2019,2018
+Marcelo Brozovic,Defensive Midfield,1992-11-16,26,Croatia,Inter Milan,Serie A,2018/2019,2018
+Matías Vecino,Central Midfield,1991-08-24,27,Uruguay,Inter Milan,Serie A,2018/2019,2018
+João Mário,Central Midfield,1993-01-19,26,Portugal,Inter Milan,Serie A,2018/2019,2018
+Roberto Gagliardini,Central Midfield,1994-04-07,25,Italy,Inter Milan,Serie A,2018/2019,2018
+Borja Valero,Central Midfield,1985-01-12,34,Spain,Inter Milan,Serie A,2018/2019,2018
+Radja Nainggolan,Attacking Midfield,1988-05-04,31,Belgium,Inter Milan,Serie A,2018/2019,2018
+Ivan Perisic,Left Winger,1989-02-02,30,Croatia,Inter Milan,Serie A,2018/2019,2018
+Keita Baldé,Left Winger,1995-03-08,24,Senegal,Inter Milan,Serie A,2018/2019,2018
+Matteo Politano,Right Winger,1993-08-03,25,Italy,Inter Milan,Serie A,2018/2019,2018
+Antonio Candreva,Right Winger,1987-02-28,32,Italy,Inter Milan,Serie A,2018/2019,2018
+Mauro Icardi,Centre-Forward,1993-02-19,26,Argentina,Inter Milan,Serie A,2018/2019,2018
+Lautaro Martínez,Centre-Forward,1997-08-22,21,Argentina,Inter Milan,Serie A,2018/2019,2018
+Gianluigi Donnarumma,Goalkeeper,1999-02-25,20,Italy,AC Milan,Serie A,2018/2019,2018
+Alessandro Plizzari,Goalkeeper,2000-03-12,19,Italy,AC Milan,Serie A,2018/2019,2018
+Pepe Reina,Goalkeeper,1982-08-31,36,Spain,AC Milan,Serie A,2018/2019,2018
+Antonio Donnarumma,Goalkeeper,1990-07-07,28,Italy,AC Milan,Serie A,2018/2019,2018
+Alessio Romagnoli,Centre-Back,1995-01-12,24,Italy,AC Milan,Serie A,2018/2019,2018
+Mattia Caldara,Centre-Back,1994-05-05,25,Italy,AC Milan,Serie A,2018/2019,2018
+Mateo Musacchio,Centre-Back,1990-08-26,28,Argentina,AC Milan,Serie A,2018/2019,2018
+Cristián Zapata,Centre-Back,1986-09-30,32,Colombia,AC Milan,Serie A,2018/2019,2018
+Ricardo Rodríguez,Left-Back,1992-08-25,26,Switzerland,AC Milan,Serie A,2018/2019,2018
+Ivan Strinic,Left-Back,1987-07-17,31,Croatia,AC Milan,Serie A,2018/2019,2018
+Davide Calabria,Right-Back,1996-12-06,22,Italy,AC Milan,Serie A,2018/2019,2018
+Andrea Conti,Right-Back,1994-03-02,25,Italy,AC Milan,Serie A,2018/2019,2018
+Ignazio Abate,Right-Back,1986-11-12,32,Italy,AC Milan,Serie A,2018/2019,2018
+Tiemoué Bakayoko,Defensive Midfield,1994-08-17,24,France,AC Milan,Serie A,2018/2019,2018
+Lucas Biglia,Defensive Midfield,1986-01-30,33,Argentina,AC Milan,Serie A,2018/2019,2018
+Riccardo Montolivo,Defensive Midfield,1985-01-18,34,Italy,AC Milan,Serie A,2018/2019,2018
+Franck Kessié,Central Midfield,1996-12-19,22,Cote d'Ivoire,AC Milan,Serie A,2018/2019,2018
+Giacomo Bonaventura,Central Midfield,1989-08-22,29,Italy,AC Milan,Serie A,2018/2019,2018
+Andrea Bertolacci,Central Midfield,1991-01-11,28,Italy,AC Milan,Serie A,2018/2019,2018
+José Mauri,Central Midfield,1996-05-16,23,Italy,AC Milan,Serie A,2018/2019,2018
+Diego Laxalt,Left Midfield,1993-02-07,26,Uruguay,AC Milan,Serie A,2018/2019,2018
+Lucas Paquetá,Attacking Midfield,1997-08-27,21,Brazil,AC Milan,Serie A,2018/2019,2018
+Hakan Calhanoglu,Left Winger,1994-02-08,25,Turkey,AC Milan,Serie A,2018/2019,2018
+Fabio Borini,Left Winger,1991-03-29,28,Italy,AC Milan,Serie A,2018/2019,2018
+Suso,Right Winger,1993-11-19,25,Spain,AC Milan,Serie A,2018/2019,2018
+Samu Castillejo,Right Winger,1995-01-18,24,Spain,AC Milan,Serie A,2018/2019,2018
+Krzysztof Piatek,Centre-Forward,1995-07-01,23,Poland,AC Milan,Serie A,2018/2019,2018
+Patrick Cutrone,Centre-Forward,1998-01-03,21,Italy,AC Milan,Serie A,2018/2019,2018
+Robin Olsen,Goalkeeper,1990-01-08,29,Sweden,AS Roma,Serie A,2018/2019,2018
+Antonio Mirante,Goalkeeper,1983-07-08,35,Italy,AS Roma,Serie A,2018/2019,2018
+Daniel Fuzato,Goalkeeper,1997-07-04,21,Brazil,AS Roma,Serie A,2018/2019,2018
+Konstantinos Manolas,Centre-Back,1991-06-14,27,Greece,AS Roma,Serie A,2018/2019,2018
+Juan Jesus,Centre-Back,1991-06-10,28,Brazil,AS Roma,Serie A,2018/2019,2018
+Federico Fazio,Centre-Back,1987-03-17,32,Argentina,AS Roma,Serie A,2018/2019,2018
+Iván Marcano,Centre-Back,1987-06-23,31,Spain,AS Roma,Serie A,2018/2019,2018
+Aleksandar Kolarov,Left-Back,1985-11-10,33,Serbia,AS Roma,Serie A,2018/2019,2018
+Davide Santon,Left-Back,1991-01-02,28,Italy,AS Roma,Serie A,2018/2019,2018
+Alessandro Florenzi,Right-Back,1991-03-11,28,Italy,AS Roma,Serie A,2018/2019,2018
+Rick Karsdorp,Right-Back,1995-02-11,24,Netherlands,AS Roma,Serie A,2018/2019,2018
+Steven Nzonzi,Defensive Midfield,1988-12-15,30,France,AS Roma,Serie A,2018/2019,2018
+Daniele De Rossi,Defensive Midfield,1983-07-24,35,Italy,AS Roma,Serie A,2018/2019,2018
+Lorenzo Pellegrini,Central Midfield,1996-06-19,22,Italy,AS Roma,Serie A,2018/2019,2018
+Bryan Cristante,Central Midfield,1995-03-03,24,Italy,AS Roma,Serie A,2018/2019,2018
+Nicolò Zaniolo,Attacking Midfield,1999-07-02,19,Italy,AS Roma,Serie A,2018/2019,2018
+Javier Pastore,Attacking Midfield,1989-06-20,29,Argentina,AS Roma,Serie A,2018/2019,2018
+Ante Coric,Attacking Midfield,1997-04-14,22,Croatia,AS Roma,Serie A,2018/2019,2018
+Stephan El Shaarawy,Left Winger,1992-10-27,26,Italy,AS Roma,Serie A,2018/2019,2018
+Justin Kluivert,Left Winger,1999-05-05,20,Netherlands,AS Roma,Serie A,2018/2019,2018
+Diego Perotti,Left Winger,1988-07-26,30,Argentina,AS Roma,Serie A,2018/2019,2018
+Cengiz Ünder,Right Winger,1997-07-14,21,Turkey,AS Roma,Serie A,2018/2019,2018
+Patrik Schick,Centre-Forward,1996-01-24,23,Czech Republic,AS Roma,Serie A,2018/2019,2018
+Edin Dzeko,Centre-Forward,1986-03-17,33,Bosnia-Herzegovina,AS Roma,Serie A,2018/2019,2018
+Thomas Strakosha,Goalkeeper,1995-03-19,24,Albania,SS Lazio,Serie A,2018/2019,2018
+Silvio Proto,Goalkeeper,1983-05-23,36,Belgium,SS Lazio,Serie A,2018/2019,2018
+Guido Guerrieri,Goalkeeper,1996-02-25,23,Italy,SS Lazio,Serie A,2018/2019,2018
+Francesco Acerbi,Centre-Back,1988-02-10,31,Italy,SS Lazio,Serie A,2018/2019,2018
+Luiz Felipe,Centre-Back,1997-03-22,22,Brazil,SS Lazio,Serie A,2018/2019,2018
+Wallace,Centre-Back,1994-10-14,24,Brazil,SS Lazio,Serie A,2018/2019,2018
+Stefan Radu,Centre-Back,1986-10-22,32,Romania,SS Lazio,Serie A,2018/2019,2018
+Bastos,Centre-Back,1991-03-27,28,Angola,SS Lazio,Serie A,2018/2019,2018
+Jordan Lukaku,Left-Back,1994-07-25,24,Belgium,SS Lazio,Serie A,2018/2019,2018
+Riza Durmisi,Left-Back,1994-01-08,25,Denmark,SS Lazio,Serie A,2018/2019,2018
+Patric,Right-Back,1993-04-17,26,Spain,SS Lazio,Serie A,2018/2019,2018
+Dusan Basta,Right-Back,1984-08-18,34,Serbia,SS Lazio,Serie A,2018/2019,2018
+Lucas Leiva,Defensive Midfield,1987-01-09,32,Brazil,SS Lazio,Serie A,2018/2019,2018
+Milan Badelj,Defensive Midfield,1989-02-25,30,Croatia,SS Lazio,Serie A,2018/2019,2018
+Sergej Milinkovic-Savic,Central Midfield,1995-02-27,24,Serbia,SS Lazio,Serie A,2018/2019,2018
+Valon Berisha,Central Midfield,1993-02-07,26,Kosovo,SS Lazio,Serie A,2018/2019,2018
+Danilo Cataldi,Central Midfield,1994-08-06,24,Italy,SS Lazio,Serie A,2018/2019,2018
+Marco Parolo,Central Midfield,1985-01-25,34,Italy,SS Lazio,Serie A,2018/2019,2018
+Rômulo,Central Midfield,1987-05-22,32,Italy,SS Lazio,Serie A,2018/2019,2018
+Bruno Jordão,Central Midfield,1998-10-12,20,Portugal,SS Lazio,Serie A,2018/2019,2018
+Adam Marusic,Right Midfield,1992-10-17,26,Montenegro,SS Lazio,Serie A,2018/2019,2018
+Senad Lulic,Left Midfield,1986-01-18,33,Bosnia-Herzegovina,SS Lazio,Serie A,2018/2019,2018
+Luis Alberto,Attacking Midfield,1992-09-28,26,Spain,SS Lazio,Serie A,2018/2019,2018
+Pedro Neto,Right Winger,2000-03-09,19,Portugal,SS Lazio,Serie A,2018/2019,2018
+Joaquín Correa,Second Striker,1994-08-13,24,Argentina,SS Lazio,Serie A,2018/2019,2018
+Ciro Immobile,Centre-Forward,1990-02-20,29,Italy,SS Lazio,Serie A,2018/2019,2018
+Felipe Caicedo,Centre-Forward,1988-09-05,30,Ecuador,SS Lazio,Serie A,2018/2019,2018
+Alban Lafont,Goalkeeper,1999-01-23,20,France,ACF Fiorentina,Serie A,2018/2019,2018
+Pietro Terracciano,Goalkeeper,1990-03-08,29,Italy,ACF Fiorentina,Serie A,2018/2019,2018
+Simone Ghidotti,Goalkeeper,2000-03-19,19,Italy,ACF Fiorentina,Serie A,2018/2019,2018
+Nikola Milenkovic,Centre-Back,1997-10-12,21,Serbia,ACF Fiorentina,Serie A,2018/2019,2018
+Germán Pezzella,Centre-Back,1991-06-27,27,Argentina,ACF Fiorentina,Serie A,2018/2019,2018
+Vitor Hugo,Centre-Back,1991-05-20,28,Brazil,ACF Fiorentina,Serie A,2018/2019,2018
+Federico Ceccherini,Centre-Back,1992-05-11,27,Italy,ACF Fiorentina,Serie A,2018/2019,2018
+Cristiano Biraghi,Left-Back,1992-09-01,26,Italy,ACF Fiorentina,Serie A,2018/2019,2018
+David Hancko,Left-Back,1997-12-13,21,Slovakia,ACF Fiorentina,Serie A,2018/2019,2018
+Vincent Laurini,Right-Back,1989-06-10,30,France,ACF Fiorentina,Serie A,2018/2019,2018
+Christian Nörgaard,Defensive Midfield,1994-03-10,25,Denmark,ACF Fiorentina,Serie A,2018/2019,2018
+Jordan Veretout,Central Midfield,1993-03-01,26,France,ACF Fiorentina,Serie A,2018/2019,2018
+Marco Benassi,Central Midfield,1994-09-08,24,Italy,ACF Fiorentina,Serie A,2018/2019,2018
+Gerson,Central Midfield,1997-05-20,22,Brazil,ACF Fiorentina,Serie A,2018/2019,2018
+Edimilson Fernandes,Central Midfield,1996-04-15,23,Switzerland,ACF Fiorentina,Serie A,2018/2019,2018
+Bryan Dabo,Central Midfield,1992-02-18,27,Burkina Faso,ACF Fiorentina,Serie A,2018/2019,2018
+Marko Pjaca,Left Winger,1995-05-06,24,Croatia,ACF Fiorentina,Serie A,2018/2019,2018
+Federico Chiesa,Right Winger,1997-10-25,21,Italy,ACF Fiorentina,Serie A,2018/2019,2018
+Kevin Mirallas,Right Winger,1987-10-05,31,Belgium,ACF Fiorentina,Serie A,2018/2019,2018
+Giovanni Simeone,Centre-Forward,1995-07-05,23,Argentina,ACF Fiorentina,Serie A,2018/2019,2018
+Luis Muriel,Centre-Forward,1991-04-16,28,Colombia,ACF Fiorentina,Serie A,2018/2019,2018
+Dusan Vlahovic,Centre-Forward,2000-01-28,19,Serbia,ACF Fiorentina,Serie A,2018/2019,2018
+Martin Graiciar,Centre-Forward,1999-04-11,20,Czech Republic,ACF Fiorentina,Serie A,2018/2019,2018
+Pierluigi Gollini,Goalkeeper,1995-03-18,24,Italy,Atalanta BC,Serie A,2018/2019,2018
+Etrit Berisha,Goalkeeper,1989-03-10,30,Albania,Atalanta BC,Serie A,2018/2019,2018
+Francesco Rossi,Goalkeeper,1991-04-27,28,Italy,Atalanta BC,Serie A,2018/2019,2018
+Gianluca Mancini,Centre-Back,1996-04-17,23,Italy,Atalanta BC,Serie A,2018/2019,2018
+Rafael Tolói,Centre-Back,1990-10-10,28,Brazil,Atalanta BC,Serie A,2018/2019,2018
+José Luis Palomino,Centre-Back,1990-01-05,29,Argentina,Atalanta BC,Serie A,2018/2019,2018
+Berat Djimsiti,Centre-Back,1993-02-19,26,Albania,Atalanta BC,Serie A,2018/2019,2018
+Roger Ibañez,Centre-Back,1998-11-23,20,Brazil,Atalanta BC,Serie A,2018/2019,2018
+Marco Varnier,Centre-Back,1998-06-08,21,Italy,Atalanta BC,Serie A,2018/2019,2018
+Andrea Masiello,Centre-Back,1986-02-05,33,Italy,Atalanta BC,Serie A,2018/2019,2018
+Robin Gosens,Left-Back,1994-07-05,24,Germany,Atalanta BC,Serie A,2018/2019,2018
+Arkadiusz Reca,Left-Back,1995-06-17,23,Poland,Atalanta BC,Serie A,2018/2019,2018
+Timothy Castagne,Right-Back,1995-12-05,23,Belgium,Atalanta BC,Serie A,2018/2019,2018
+Hans Hateboer,Right-Back,1994-01-09,25,Netherlands,Atalanta BC,Serie A,2018/2019,2018
+Marten de Roon,Central Midfield,1991-03-29,28,Netherlands,Atalanta BC,Serie A,2018/2019,2018
+Remo Freuler,Central Midfield,1992-04-15,27,Switzerland,Atalanta BC,Serie A,2018/2019,2018
+Mario Pasalic,Central Midfield,1995-02-09,24,Croatia,Atalanta BC,Serie A,2018/2019,2018
+Matteo Pessina,Central Midfield,1997-04-21,22,Italy,Atalanta BC,Serie A,2018/2019,2018
+Josip Ilicic,Second Striker,1988-01-29,31,Slovenia,Atalanta BC,Serie A,2018/2019,2018
+Papu Gómez,Second Striker,1988-02-15,31,Argentina,Atalanta BC,Serie A,2018/2019,2018
+Duván Zapata,Centre-Forward,1991-04-01,28,Colombia,Atalanta BC,Serie A,2018/2019,2018
+Musa Barrow,Centre-Forward,1998-11-14,20,The Gambia,Atalanta BC,Serie A,2018/2019,2018
+Emil Audero,Goalkeeper,1997-01-18,22,Italy,UC Sampdoria,Serie A,2018/2019,2018
+Vid Belec,Goalkeeper,1990-06-06,29,Slovenia,UC Sampdoria,Serie A,2018/2019,2018
+Rafael,Goalkeeper,1990-05-20,29,Brazil,UC Sampdoria,Serie A,2018/2019,2018
+Joachim Andersen,Centre-Back,1996-05-31,23,Denmark,UC Sampdoria,Serie A,2018/2019,2018
+Omar Colley,Centre-Back,1992-10-24,26,The Gambia,UC Sampdoria,Serie A,2018/2019,2018
+Lorenzo Tonelli,Centre-Back,1990-01-17,29,Italy,UC Sampdoria,Serie A,2018/2019,2018
+Alex Ferrari,Centre-Back,1994-07-01,24,Italy,UC Sampdoria,Serie A,2018/2019,2018
+Nicola Murru,Left-Back,1994-12-16,24,Italy,UC Sampdoria,Serie A,2018/2019,2018
+Júnior Tavares,Left-Back,1996-08-07,22,Brazil,UC Sampdoria,Serie A,2018/2019,2018
+Bartosz Bereszynski,Right-Back,1992-07-12,26,Poland,UC Sampdoria,Serie A,2018/2019,2018
+Jacopo Sala,Right-Back,1991-12-05,27,Italy,UC Sampdoria,Serie A,2018/2019,2018
+Albin Ekdal,Defensive Midfield,1989-07-28,29,Sweden,UC Sampdoria,Serie A,2018/2019,2018
+Dennis Praet,Central Midfield,1994-05-14,25,Belgium,UC Sampdoria,Serie A,2018/2019,2018
+Karol Linetty,Central Midfield,1995-02-02,24,Poland,UC Sampdoria,Serie A,2018/2019,2018
+Jakub Jankto,Central Midfield,1996-01-19,23,Czech Republic,UC Sampdoria,Serie A,2018/2019,2018
+Ronaldo Vieira,Central Midfield,1998-07-19,20,England,UC Sampdoria,Serie A,2018/2019,2018
+Édgar Barreto,Central Midfield,1984-07-15,34,Paraguay,UC Sampdoria,Serie A,2018/2019,2018
+Gastón Ramírez,Attacking Midfield,1990-12-02,28,Uruguay,UC Sampdoria,Serie A,2018/2019,2018
+Riccardo Saponara,Attacking Midfield,1991-12-21,27,Italy,UC Sampdoria,Serie A,2018/2019,2018
+Gianluca Caprari,Second Striker,1993-07-30,25,Italy,UC Sampdoria,Serie A,2018/2019,2018
+Manolo Gabbiadini,Centre-Forward,1991-11-26,27,Italy,UC Sampdoria,Serie A,2018/2019,2018
+Grégoire Defrel,Centre-Forward,1991-06-17,27,Martinique,UC Sampdoria,Serie A,2018/2019,2018
+Fabio Quagliarella,Centre-Forward,1983-01-31,36,Italy,UC Sampdoria,Serie A,2018/2019,2018
+Marco Sau,Centre-Forward,1987-11-03,31,Italy,UC Sampdoria,Serie A,2018/2019,2018
+Salvatore Sirigu,Goalkeeper,1987-01-12,32,Italy,Torino FC,Serie A,2018/2019,2018
+Salvador Ichazo,Goalkeeper,1992-01-26,27,Uruguay,Torino FC,Serie A,2018/2019,2018
+Antonio Rosati,Goalkeeper,1983-06-26,35,Italy,Torino FC,Serie A,2018/2019,2018
+Armando Izzo,Centre-Back,1992-03-02,27,Italy,Torino FC,Serie A,2018/2019,2018
+Nicolas N'Koulou,Centre-Back,1990-03-27,29,Cameroon,Torino FC,Serie A,2018/2019,2018
+Koffi Djidji,Centre-Back,1992-11-30,26,Cote d'Ivoire,Torino FC,Serie A,2018/2019,2018
+Bremer,Centre-Back,1997-03-18,22,Brazil,Torino FC,Serie A,2018/2019,2018
+Emiliano Moretti,Centre-Back,1981-06-11,38,Italy,Torino FC,Serie A,2018/2019,2018
+Erick Ferigra,Centre-Back,1999-02-07,20,Ecuador,Torino FC,Serie A,2018/2019,2018
+Cristian Ansaldi,Left-Back,1986-09-20,32,Argentina,Torino FC,Serie A,2018/2019,2018
+Ola Aina,Right-Back,1996-10-08,22,Nigeria,Torino FC,Serie A,2018/2019,2018
+Lorenzo De Silvestri,Right-Back,1988-05-23,31,Italy,Torino FC,Serie A,2018/2019,2018
+Tomás Rincón,Defensive Midfield,1988-01-13,31,Venezuela,Torino FC,Serie A,2018/2019,2018
+Soualiho Meïté,Central Midfield,1994-03-17,25,France,Torino FC,Serie A,2018/2019,2018
+Daniele Baselli,Central Midfield,1992-03-12,27,Italy,Torino FC,Serie A,2018/2019,2018
+Sasa Lukic,Central Midfield,1996-08-13,22,Serbia,Torino FC,Serie A,2018/2019,2018
+Álex Berenguer,Left Winger,1995-07-04,23,Spain,Torino FC,Serie A,2018/2019,2018
+Iago Falque,Right Winger,1990-01-04,29,Spain,Torino FC,Serie A,2018/2019,2018
+Vittorio Parigini,Right Winger,1996-03-25,23,Italy,Torino FC,Serie A,2018/2019,2018
+Andrea Belotti,Centre-Forward,1993-12-20,25,Italy,Torino FC,Serie A,2018/2019,2018
+Simone Zaza,Centre-Forward,1991-06-25,27,Italy,Torino FC,Serie A,2018/2019,2018
+Vitalie Damascan,Centre-Forward,1999-01-24,20,Moldova,Torino FC,Serie A,2018/2019,2018
+Andrea Consigli,Goalkeeper,1987-01-27,32,Italy,US Sassuolo,Serie A,2018/2019,2018
+Giacomo Satalino,Goalkeeper,1999-05-20,20,Italy,US Sassuolo,Serie A,2018/2019,2018
+Gianluca Pegolo,Goalkeeper,1981-03-25,38,Italy,US Sassuolo,Serie A,2018/2019,2018
+Merih Demiral,Centre-Back,1998-03-05,21,Turkey,US Sassuolo,Serie A,2018/2019,2018
+Gian Marco Ferrari,Centre-Back,1992-05-15,27,Italy,US Sassuolo,Serie A,2018/2019,2018
+Marlon,Centre-Back,1995-09-07,23,Brazil,US Sassuolo,Serie A,2018/2019,2018
+Giangiacomo Magnani,Centre-Back,1995-10-04,23,Italy,US Sassuolo,Serie A,2018/2019,2018
+Mauricio Lemos,Centre-Back,1995-12-28,23,Uruguay,US Sassuolo,Serie A,2018/2019,2018
+Rogério,Left-Back,1998-01-13,21,Brazil,US Sassuolo,Serie A,2018/2019,2018
+Federico Peluso,Left-Back,1984-01-20,35,Italy,US Sassuolo,Serie A,2018/2019,2018
+Leonardo Sernicola,Left-Back,1997-07-30,21,Italy,US Sassuolo,Serie A,2018/2019,2018
+Pol Lirola,Right-Back,1997-08-13,21,Spain,US Sassuolo,Serie A,2018/2019,2018
+Claud Adjapong,Right-Back,1998-05-06,21,Italy,US Sassuolo,Serie A,2018/2019,2018
+Francesco Magnanelli,Defensive Midfield,1984-11-12,34,Italy,US Sassuolo,Serie A,2018/2019,2018
+Stefano Sensi,Central Midfield,1995-08-05,23,Italy,US Sassuolo,Serie A,2018/2019,2018
+Alfred Duncan,Central Midfield,1993-03-10,26,Ghana,US Sassuolo,Serie A,2018/2019,2018
+Manuel Locatelli,Central Midfield,1998-01-08,21,Italy,US Sassuolo,Serie A,2018/2019,2018
+Mehdi Bourabia,Central Midfield,1991-08-07,27,Morocco,US Sassuolo,Serie A,2018/2019,2018
+Jeremie Boga,Left Winger,1997-01-03,22,Cote d'Ivoire,US Sassuolo,Serie A,2018/2019,2018
+Federico Di Francesco,Left Winger,1994-06-14,24,Italy,US Sassuolo,Serie A,2018/2019,2018
+Filip Djuricic,Left Winger,1992-01-30,27,Serbia,US Sassuolo,Serie A,2018/2019,2018
+Domenico Berardi,Right Winger,1994-08-01,24,Italy,US Sassuolo,Serie A,2018/2019,2018
+Enrico Brignola,Second Striker,1999-07-08,19,Italy,US Sassuolo,Serie A,2018/2019,2018
+Khouma Babacar,Centre-Forward,1993-03-17,26,Senegal,US Sassuolo,Serie A,2018/2019,2018
+Jens Odgaard,Centre-Forward,1999-03-31,20,Denmark,US Sassuolo,Serie A,2018/2019,2018
+Gianluca Scamacca,Centre-Forward,1999-01-01,20,Italy,US Sassuolo,Serie A,2018/2019,2018
+Giacomo Raspadori,Centre-Forward,2000-02-18,19,Italy,US Sassuolo,Serie A,2018/2019,2018
+Alessandro Matri,Centre-Forward,1984-08-19,34,Italy,US Sassuolo,Serie A,2018/2019,2018
+Juan Musso,Goalkeeper,1994-05-06,25,Argentina,Udinese Calcio,Serie A,2018/2019,2018
+Nícolas,Goalkeeper,1988-04-12,31,Brazil,Udinese Calcio,Serie A,2018/2019,2018
+Samuele Perisan,Goalkeeper,1997-08-21,21,Italy,Udinese Calcio,Serie A,2018/2019,2018
+Samir,Centre-Back,1994-12-05,24,Brazil,Udinese Calcio,Serie A,2018/2019,2018
+William Troost-Ekong,Centre-Back,1993-09-01,25,Nigeria,Udinese Calcio,Serie A,2018/2019,2018
+Bram Nuytinck,Centre-Back,1990-05-04,29,Netherlands,Udinese Calcio,Serie A,2018/2019,2018
+Ben Wilmot,Centre-Back,1999-11-04,19,England,Udinese Calcio,Serie A,2018/2019,2018
+Nicholas Opoku,Centre-Back,1997-11-08,21,Ghana,Udinese Calcio,Serie A,2018/2019,2018
+Sebastien De Maio,Centre-Back,1987-03-05,32,France,Udinese Calcio,Serie A,2018/2019,2018
+Marvin Zeegelaar,Left-Back,1990-08-12,28,Netherlands,Udinese Calcio,Serie A,2018/2019,2018
+Jens Stryger Larsen,Right-Back,1991-02-21,28,Denmark,Udinese Calcio,Serie A,2018/2019,2018
+Hidde ter Avest,Right-Back,1997-05-20,22,Netherlands,Udinese Calcio,Serie A,2018/2019,2018
+Sandro,Defensive Midfield,1989-03-15,30,Brazil,Udinese Calcio,Serie A,2018/2019,2018
+Valon Behrami,Defensive Midfield,1985-04-19,34,Switzerland,Udinese Calcio,Serie A,2018/2019,2018
+Rolando Mandragora,Central Midfield,1997-06-29,21,Italy,Udinese Calcio,Serie A,2018/2019,2018
+Seko Fofana,Central Midfield,1995-05-07,24,Cote d'Ivoire,Udinese Calcio,Serie A,2018/2019,2018
+Antonin Barak,Central Midfield,1994-12-03,24,Czech Republic,Udinese Calcio,Serie A,2018/2019,2018
+Emmanuel Badu,Central Midfield,1990-12-02,28,Ghana,Udinese Calcio,Serie A,2018/2019,2018
+Emil Hallfredsson,Central Midfield,1984-06-29,34,Iceland,Udinese Calcio,Serie A,2018/2019,2018
+Marco D'Alessandro,Right Midfield,1991-02-17,28,Italy,Udinese Calcio,Serie A,2018/2019,2018
+Rodrigo de Paul,Left Winger,1994-05-24,25,Argentina,Udinese Calcio,Serie A,2018/2019,2018
+Ignacio Pussetto,Right Winger,1995-12-21,23,Argentina,Udinese Calcio,Serie A,2018/2019,2018
+Petar Micin,Right Winger,1998-09-29,20,Serbia,Udinese Calcio,Serie A,2018/2019,2018
+Svante Ingelsson,Right Winger,1998-06-14,20,Sweden,Udinese Calcio,Serie A,2018/2019,2018
+Kevin Lasagna,Centre-Forward,1992-08-10,26,Italy,Udinese Calcio,Serie A,2018/2019,2018
+Stefano Okaka,Centre-Forward,1989-08-09,29,Italy,Udinese Calcio,Serie A,2018/2019,2018
+Lukasz Teodorczyk,Centre-Forward,1991-06-03,28,Poland,Udinese Calcio,Serie A,2018/2019,2018
+Alessio Cragno,Goalkeeper,1994-06-28,24,Italy,Cagliari Calcio,Serie A,2018/2019,2018
+Rafael,Goalkeeper,1982-03-03,37,Brazil,Cagliari Calcio,Serie A,2018/2019,2018
+Simone Aresti,Goalkeeper,1986-03-15,33,Italy,Cagliari Calcio,Serie A,2018/2019,2018
+Filippo Romagna,Centre-Back,1997-05-26,22,Italy,Cagliari Calcio,Serie A,2018/2019,2018
+Luca Ceppitelli,Centre-Back,1989-08-11,29,Italy,Cagliari Calcio,Serie A,2018/2019,2018
+Ragnar Klavan,Centre-Back,1985-10-30,33,Estonia,Cagliari Calcio,Serie A,2018/2019,2018
+Fabio Pisacane,Centre-Back,1986-01-28,33,Italy,Cagliari Calcio,Serie A,2018/2019,2018
+Maxime Leverbe,Centre-Back,1997-02-15,22,France,Cagliari Calcio,Serie A,2018/2019,2018
+Luca Pellegrini,Left-Back,1999-03-07,20,Italy,Cagliari Calcio,Serie A,2018/2019,2018
+Charalampos Lykogiannis,Left-Back,1993-10-22,25,Greece,Cagliari Calcio,Serie A,2018/2019,2018
+Fabrizio Cacciatore,Right-Back,1986-10-08,32,Italy,Cagliari Calcio,Serie A,2018/2019,2018
+Darijo Srna,Right-Back,1982-05-01,37,Croatia,Cagliari Calcio,Serie A,2018/2019,2018
+Christian Oliva,Defensive Midfield,1996-06-01,23,Uruguay,Cagliari Calcio,Serie A,2018/2019,2018
+Filip Bradaric,Defensive Midfield,1992-01-11,27,Croatia,Cagliari Calcio,Serie A,2018/2019,2018
+Luca Cigarini,Defensive Midfield,1986-06-20,32,Italy,Cagliari Calcio,Serie A,2018/2019,2018
+Nicolò Barella,Central Midfield,1997-02-07,22,Italy,Cagliari Calcio,Serie A,2018/2019,2018
+Lucas Castro,Central Midfield,1989-04-09,30,Argentina,Cagliari Calcio,Serie A,2018/2019,2018
+Paolo Faragò,Central Midfield,1993-02-12,26,Italy,Cagliari Calcio,Serie A,2018/2019,2018
+Artur Ionita,Central Midfield,1990-08-17,28,Moldova,Cagliari Calcio,Serie A,2018/2019,2018
+Alessandro Deiola,Central Midfield,1995-08-01,23,Italy,Cagliari Calcio,Serie A,2018/2019,2018
+Simone Padoin,Left Midfield,1984-03-18,35,Italy,Cagliari Calcio,Serie A,2018/2019,2018
+João Pedro,Attacking Midfield,1992-03-09,27,Brazil,Cagliari Calcio,Serie A,2018/2019,2018
+Valter Birsa,Attacking Midfield,1986-08-07,32,Slovenia,Cagliari Calcio,Serie A,2018/2019,2018
+Kiril Despodov,Right Winger,1996-11-11,22,Bulgaria,Cagliari Calcio,Serie A,2018/2019,2018
+Cyril Théréau,Second Striker,1983-04-24,36,France,Cagliari Calcio,Serie A,2018/2019,2018
+Leonardo Pavoletti,Centre-Forward,1988-11-26,30,Italy,Cagliari Calcio,Serie A,2018/2019,2018
+Alberto Cerri,Centre-Forward,1996-04-16,23,Italy,Cagliari Calcio,Serie A,2018/2019,2018
+Ionut Radu,Goalkeeper,1997-05-28,22,Romania,Genoa CFC,Serie A,2018/2019,2018
+Jandrei,Goalkeeper,1993-03-01,26,Brazil,Genoa CFC,Serie A,2018/2019,2018
+Federico Marchetti,Goalkeeper,1983-02-07,36,Italy,Genoa CFC,Serie A,2018/2019,2018
+Rok Vodisek,Goalkeeper,1998-12-05,20,Slovenia,Genoa CFC,Serie A,2018/2019,2018
+Cristian Romero,Centre-Back,1998-04-27,21,Argentina,Genoa CFC,Serie A,2018/2019,2018
+Davide Biraschi,Centre-Back,1994-07-02,24,Italy,Genoa CFC,Serie A,2018/2019,2018
+Ervin Zukanovic,Centre-Back,1987-02-11,32,Bosnia-Herzegovina,Genoa CFC,Serie A,2018/2019,2018
+Koray Günter,Centre-Back,1994-08-16,24,Germany,Genoa CFC,Serie A,2018/2019,2018
+Domenico Criscito,Left-Back,1986-12-30,32,Italy,Genoa CFC,Serie A,2018/2019,2018
+Giuseppe Pezzella,Left-Back,1997-11-29,21,Italy,Genoa CFC,Serie A,2018/2019,2018
+Pedro Pereira,Right-Back,1998-01-22,21,Portugal,Genoa CFC,Serie A,2018/2019,2018
+Ivan Lakicevic,Right-Back,1993-07-27,25,Serbia,Genoa CFC,Serie A,2018/2019,2018
+Ivan Radovanovic,Defensive Midfield,1988-08-29,30,Serbia,Genoa CFC,Serie A,2018/2019,2018
+Esteban Rolón,Defensive Midfield,1995-03-25,24,Argentina,Genoa CFC,Serie A,2018/2019,2018
+Miguel Veloso,Defensive Midfield,1986-05-11,33,Portugal,Genoa CFC,Serie A,2018/2019,2018
+Stefano Sturaro,Central Midfield,1993-03-09,26,Italy,Genoa CFC,Serie A,2018/2019,2018
+Lukas Lerager,Central Midfield,1993-07-12,25,Denmark,Genoa CFC,Serie A,2018/2019,2018
+Daniel Bessa,Central Midfield,1993-01-14,26,Italy,Genoa CFC,Serie A,2018/2019,2018
+Luca Mazzitelli,Central Midfield,1995-11-15,23,Italy,Genoa CFC,Serie A,2018/2019,2018
+Oscar Hiljemark,Central Midfield,1992-06-28,26,Sweden,Genoa CFC,Serie A,2018/2019,2018
+Stephane Omeonga,Central Midfield,1996-03-27,23,Belgium,Genoa CFC,Serie A,2018/2019,2018
+Darko Lazovic,Right Midfield,1990-09-15,28,Serbia,Genoa CFC,Serie A,2018/2019,2018
+András Schäfer,Left Midfield,1999-04-13,20,Hungary,Genoa CFC,Serie A,2018/2019,2018
+Goran Pandev,Second Striker,1983-07-27,35,North Macedonia,Genoa CFC,Serie A,2018/2019,2018
+Christian Kouamé,Centre-Forward,1997-12-06,21,Cote d'Ivoire,Genoa CFC,Serie A,2018/2019,2018
+Antonio Sanabria,Centre-Forward,1996-03-04,23,Paraguay,Genoa CFC,Serie A,2018/2019,2018
+Andrea Favilli,Centre-Forward,1997-05-17,22,Italy,Genoa CFC,Serie A,2018/2019,2018
+Gianluca Lapadula,Centre-Forward,1990-02-07,29,Italy,Genoa CFC,Serie A,2018/2019,2018
+Nicola Dalmonte,Centre-Forward,1997-09-13,21,Italy,Genoa CFC,Serie A,2018/2019,2018
+Lukasz Skorupski,Goalkeeper,1991-05-05,28,Poland,Bologna FC 1909,Serie A,2018/2019,2018
+Angelo da Costa,Goalkeeper,1983-11-12,35,Brazil,Bologna FC 1909,Serie A,2018/2019,2018
+Antonio Santurro,Goalkeeper,1992-02-29,27,Italy,Bologna FC 1909,Serie A,2018/2019,2018
+Caio Vinicius Pirana,Goalkeeper,1999-05-08,20,Brazil,Bologna FC 1909,Serie A,2018/2019,2018
+Lyanco,Centre-Back,1997-02-01,22,Brazil,Bologna FC 1909,Serie A,2018/2019,2018
+Filip Helander,Centre-Back,1993-04-22,26,Sweden,Bologna FC 1909,Serie A,2018/2019,2018
+Arturo Calabresi,Centre-Back,1996-03-17,23,Italy,Bologna FC 1909,Serie A,2018/2019,2018
+Danilo,Centre-Back,1984-05-10,35,Brazil,Bologna FC 1909,Serie A,2018/2019,2018
+Nehuén Paz,Centre-Back,1993-04-28,26,Argentina,Bologna FC 1909,Serie A,2018/2019,2018
+Mitchell Dijks,Left-Back,1993-02-09,26,Netherlands,Bologna FC 1909,Serie A,2018/2019,2018
+Ibrahima Mbaye,Right-Back,1994-11-19,24,Senegal,Bologna FC 1909,Serie A,2018/2019,2018
+Federico Mattiello,Right-Back,1995-07-14,23,Italy,Bologna FC 1909,Serie A,2018/2019,2018
+Erick Pulgar,Defensive Midfield,1994-01-15,25,Chile,Bologna FC 1909,Serie A,2018/2019,2018
+Ádám Nagy,Defensive Midfield,1995-06-17,23,Hungary,Bologna FC 1909,Serie A,2018/2019,2018
+Godfred Donsah,Central Midfield,1996-06-07,23,Ghana,Bologna FC 1909,Serie A,2018/2019,2018
+Roberto Soriano,Central Midfield,1991-02-08,28,Italy,Bologna FC 1909,Serie A,2018/2019,2018
+Mattias Svanberg,Central Midfield,1999-01-05,20,Sweden,Bologna FC 1909,Serie A,2018/2019,2018
+Andrea Poli,Central Midfield,1989-09-29,29,Italy,Bologna FC 1909,Serie A,2018/2019,2018
+Blerim Dzemaili,Central Midfield,1986-04-12,33,Switzerland,Bologna FC 1909,Serie A,2018/2019,2018
+Juan Manuel Valencia,Attacking Midfield,1998-06-20,20,Colombia,Bologna FC 1909,Serie A,2018/2019,2018
+Nicola Sansone,Left Winger,1991-09-10,27,Italy,Bologna FC 1909,Serie A,2018/2019,2018
+Ladislav Krejci,Left Winger,1992-07-05,26,Czech Republic,Bologna FC 1909,Serie A,2018/2019,2018
+Riccardo Orsolini,Right Winger,1997-01-24,22,Italy,Bologna FC 1909,Serie A,2018/2019,2018
+Simone Edera,Right Winger,1997-01-09,22,Italy,Bologna FC 1909,Serie A,2018/2019,2018
+Federico Santander,Centre-Forward,1991-06-04,28,Paraguay,Bologna FC 1909,Serie A,2018/2019,2018
+Mattia Destro,Centre-Forward,1991-03-20,28,Italy,Bologna FC 1909,Serie A,2018/2019,2018
+Diego Falcinelli,Centre-Forward,1991-06-26,27,Italy,Bologna FC 1909,Serie A,2018/2019,2018
+Rodrigo Palacio,Centre-Forward,1982-02-05,37,Argentina,Bologna FC 1909,Serie A,2018/2019,2018
+Bartlomiej Dragowski,Goalkeeper,1997-08-19,21,Poland,FC Empoli,Serie A,2018/2019,2018
+Ivan Provedel,Goalkeeper,1994-03-17,25,Italy,FC Empoli,Serie A,2018/2019,2018
+Filippo Perucchini,Goalkeeper,1991-10-06,27,Italy,FC Empoli,Serie A,2018/2019,2018
+Jacob Rasmussen,Centre-Back,1997-05-28,22,Denmark,FC Empoli,Serie A,2018/2019,2018
+Dimitrios Nikolaou,Centre-Back,1998-08-13,20,Greece,FC Empoli,Serie A,2018/2019,2018
+Frédéric Veseli,Centre-Back,1992-11-20,26,Albania,FC Empoli,Serie A,2018/2019,2018
+Matías Silvestre,Centre-Back,1984-09-25,34,Argentina,FC Empoli,Serie A,2018/2019,2018
+Domenico Maietta,Centre-Back,1982-08-03,36,Italy,FC Empoli,Serie A,2018/2019,2018
+Lorenzo Polvani,Centre-Back,1994-07-26,24,Italy,FC Empoli,Serie A,2018/2019,2018
+Marko Pajac,Left-Back,1993-05-11,26,Croatia,FC Empoli,Serie A,2018/2019,2018
+Cristian Dell'Orco,Left-Back,1994-02-10,25,Italy,FC Empoli,Serie A,2018/2019,2018
+Luca Antonelli,Left-Back,1987-02-11,32,Italy,FC Empoli,Serie A,2018/2019,2018
+Manuel Pasqual,Left-Back,1982-03-13,37,Italy,FC Empoli,Serie A,2018/2019,2018
+Giovanni Di Lorenzo,Right-Back,1993-08-04,25,Italy,FC Empoli,Serie A,2018/2019,2018
+Kevin Diks,Right-Back,1996-10-06,22,Netherlands,FC Empoli,Serie A,2018/2019,2018
+Ismaël Bennacer,Defensive Midfield,1997-12-01,21,Algeria,FC Empoli,Serie A,2018/2019,2018
+Leonardo Capezzi,Defensive Midfield,1995-03-29,24,Italy,FC Empoli,Serie A,2018/2019,2018
+Hamed Junior Traorè,Central Midfield,2000-02-16,19,Cote d'Ivoire,FC Empoli,Serie A,2018/2019,2018
+Rade Krunic,Central Midfield,1993-10-07,25,Bosnia-Herzegovina,FC Empoli,Serie A,2018/2019,2018
+Afriyie Acquah,Central Midfield,1992-01-05,27,Ghana,FC Empoli,Serie A,2018/2019,2018
+Marcel Büchel,Central Midfield,1991-03-18,28,Liechtenstein,FC Empoli,Serie A,2018/2019,2018
+Matteo Brighi,Central Midfield,1981-02-14,38,Italy,FC Empoli,Serie A,2018/2019,2018
+Salih Ucan,Attacking Midfield,1994-01-06,25,Turkey,FC Empoli,Serie A,2018/2019,2018
+Diego Farias,Second Striker,1990-05-10,29,Brazil,FC Empoli,Serie A,2018/2019,2018
+Antonino La Gumina,Centre-Forward,1996-03-06,23,Italy,FC Empoli,Serie A,2018/2019,2018
+Francesco Caputo,Centre-Forward,1987-08-06,31,Italy,FC Empoli,Serie A,2018/2019,2018
+Dimitri Oberlin,Centre-Forward,1997-09-27,21,Switzerland,FC Empoli,Serie A,2018/2019,2018
+Levan Mchedlidze,Centre-Forward,1990-03-24,29,Georgia,FC Empoli,Serie A,2018/2019,2018
+Alfred Gomis,Goalkeeper,1993-09-05,25,Senegal,SPAL,Serie A,2018/2019,2018
+Emiliano Viviano,Goalkeeper,1985-12-01,33,Italy,SPAL,Serie A,2018/2019,2018
+Andrea Fulignati,Goalkeeper,1994-10-31,24,Italy,SPAL,Serie A,2018/2019,2018
+Giacomo Poluzzi,Goalkeeper,1988-02-25,31,Italy,SPAL,Serie A,2018/2019,2018
+Kevin Bonifazi,Centre-Back,1996-05-19,23,Italy,SPAL,Serie A,2018/2019,2018
+Francesco Vicari,Centre-Back,1994-08-03,24,Italy,SPAL,Serie A,2018/2019,2018
+Vasco Regini,Centre-Back,1990-09-09,28,Italy,SPAL,Serie A,2018/2019,2018
+Lorenco Simic,Centre-Back,1996-07-15,22,Croatia,SPAL,Serie A,2018/2019,2018
+Thiago Cionek,Centre-Back,1986-04-21,33,Poland,SPAL,Serie A,2018/2019,2018
+Felipe,Centre-Back,1984-07-31,34,Brazil,SPAL,Serie A,2018/2019,2018
+Filippo Costa,Left-Back,1995-05-21,24,Italy,SPAL,Serie A,2018/2019,2018
+Lorenzo Dickmann,Right-Back,1996-09-24,22,Italy,SPAL,Serie A,2018/2019,2018
+Simone Missiroli,Defensive Midfield,1986-05-23,33,Italy,SPAL,Serie A,2018/2019,2018
+Mirko Valdifiori,Defensive Midfield,1986-04-21,33,Italy,SPAL,Serie A,2018/2019,2018
+Jasmin Kurtic,Central Midfield,1989-01-10,30,Slovenia,SPAL,Serie A,2018/2019,2018
+Alessandro Murgia,Central Midfield,1996-08-09,22,Italy,SPAL,Serie A,2018/2019,2018
+Mattia Valoti,Central Midfield,1993-09-06,25,Italy,SPAL,Serie A,2018/2019,2018
+Pasquale Schiattarella,Central Midfield,1987-05-30,32,Italy,SPAL,Serie A,2018/2019,2018
+Manuel Lazzari,Right Midfield,1993-11-29,25,Italy,SPAL,Serie A,2018/2019,2018
+Mohamed Fares,Left Midfield,1996-02-15,23,Algeria,SPAL,Serie A,2018/2019,2018
+Marko Jankovic,Right Winger,1995-07-09,23,Montenegro,SPAL,Serie A,2018/2019,2018
+Andrea Petagna,Centre-Forward,1995-06-30,23,Italy,SPAL,Serie A,2018/2019,2018
+Alberto Paloschi,Centre-Forward,1990-01-04,29,Italy,SPAL,Serie A,2018/2019,2018
+Mirco Antenucci,Centre-Forward,1984-09-08,34,Italy,SPAL,Serie A,2018/2019,2018
+Sergio Floccari,Centre-Forward,1981-11-12,37,Italy,SPAL,Serie A,2018/2019,2018
+Luigi Sepe,Goalkeeper,1991-05-08,28,Italy,Parma Calcio 1913,Serie A,2018/2019,2018
+Gabriel Brazão,Goalkeeper,2000-10-05,18,Brazil,Parma Calcio 1913,Serie A,2018/2019,2018
+Pierluigi Frattali,Goalkeeper,1985-12-01,33,Italy,Parma Calcio 1913,Serie A,2018/2019,2018
+Fabrizio Bagheria,Goalkeeper,2001-04-05,18,Italy,Parma Calcio 1913,Serie A,2018/2019,2018
+Alessandro Bastoni,Centre-Back,1999-04-13,20,Italy,Parma Calcio 1913,Serie A,2018/2019,2018
+Riccardo Gagliolo,Centre-Back,1990-04-28,29,Italy,Parma Calcio 1913,Serie A,2018/2019,2018
+Bruno Alves,Centre-Back,1981-11-27,37,Portugal,Parma Calcio 1913,Serie A,2018/2019,2018
+Francisco Sierralta,Centre-Back,1997-05-06,22,Chile,Parma Calcio 1913,Serie A,2018/2019,2018
+Federico Dimarco,Left-Back,1997-11-10,21,Italy,Parma Calcio 1913,Serie A,2018/2019,2018
+Massimo Gobbi,Left-Back,1980-10-31,38,Italy,Parma Calcio 1913,Serie A,2018/2019,2018
+Simone Iacoponi,Right-Back,1987-04-30,32,Italy,Parma Calcio 1913,Serie A,2018/2019,2018
+Marcello Gazzola,Right-Back,1985-04-03,34,Italy,Parma Calcio 1913,Serie A,2018/2019,2018
+Leo Stulac,Defensive Midfield,1994-09-26,24,Slovenia,Parma Calcio 1913,Serie A,2018/2019,2018
+Matteo Scozzarella,Defensive Midfield,1988-06-05,31,Italy,Parma Calcio 1913,Serie A,2018/2019,2018
+Alberto Grassi,Central Midfield,1995-03-07,24,Italy,Parma Calcio 1913,Serie A,2018/2019,2018
+Juraj Kucka,Central Midfield,1987-02-26,32,Slovakia,Parma Calcio 1913,Serie A,2018/2019,2018
+José Machín,Central Midfield,1996-08-14,22,Equatorial Guinea,Parma Calcio 1913,Serie A,2018/2019,2018
+Antonino Barillà,Central Midfield,1988-04-01,31,Italy,Parma Calcio 1913,Serie A,2018/2019,2018
+Jacopo Dezi,Central Midfield,1992-02-10,27,Italy,Parma Calcio 1913,Serie A,2018/2019,2018
+Luca Rigoni,Central Midfield,1984-12-07,34,Italy,Parma Calcio 1913,Serie A,2018/2019,2018
+Abdou Diakhate,Central Midfield,1998-12-31,20,Senegal,Parma Calcio 1913,Serie A,2018/2019,2018
+Gervinho,Left Winger,1987-05-27,32,Cote d'Ivoire,Parma Calcio 1913,Serie A,2018/2019,2018
+Nicolás Schiappacasse,Left Winger,1999-01-12,20,Uruguay,Parma Calcio 1913,Serie A,2018/2019,2018
+Jonathan Biabiany,Right Winger,1988-04-28,31,France,Parma Calcio 1913,Serie A,2018/2019,2018
+Mattia Sprocati,Right Winger,1993-04-28,26,Italy,Parma Calcio 1913,Serie A,2018/2019,2018
+Luca Siligardi,Right Winger,1988-01-26,31,Italy,Parma Calcio 1913,Serie A,2018/2019,2018
+Roberto Inglese,Centre-Forward,1991-11-12,27,Italy,Parma Calcio 1913,Serie A,2018/2019,2018
+Fabio Ceravolo,Centre-Forward,1987-03-05,32,Italy,Parma Calcio 1913,Serie A,2018/2019,2018
+Marco Sportiello,Goalkeeper,1992-05-10,27,Italy,Frosinone Calcio,Serie A,2018/2019,2018
+Francesco Bardi,Goalkeeper,1992-01-18,27,Italy,Frosinone Calcio,Serie A,2018/2019,2018
+Alessandro Iacobucci,Goalkeeper,1991-06-03,28,Italy,Frosinone Calcio,Serie A,2018/2019,2018
+Edoardo Goldaniga,Centre-Back,1993-11-02,25,Italy,Frosinone Calcio,Serie A,2018/2019,2018
+Lorenzo Ariaudo,Centre-Back,1989-06-11,30,Italy,Frosinone Calcio,Serie A,2018/2019,2018
+Bartosz Salamon,Centre-Back,1991-05-01,28,Poland,Frosinone Calcio,Serie A,2018/2019,2018
+Luka Krajnc,Centre-Back,1994-09-19,24,Slovenia,Frosinone Calcio,Serie A,2018/2019,2018
+Marco Capuano,Centre-Back,1991-10-14,27,Italy,Frosinone Calcio,Serie A,2018/2019,2018
+Stefan Simic,Centre-Back,1995-01-20,24,Czech Republic,Frosinone Calcio,Serie A,2018/2019,2018
+Nicolò Brighenti,Centre-Back,1989-08-01,29,Italy,Frosinone Calcio,Serie A,2018/2019,2018
+Cristian Molinaro,Left-Back,1983-07-30,35,Italy,Frosinone Calcio,Serie A,2018/2019,2018
+Francesco Zampano,Right-Back,1993-09-30,25,Italy,Frosinone Calcio,Serie A,2018/2019,2018
+Paolo Ghiglione,Right-Back,1997-02-02,22,Italy,Frosinone Calcio,Serie A,2018/2019,2018
+Federico Viviani,Defensive Midfield,1992-03-24,27,Italy,Frosinone Calcio,Serie A,2018/2019,2018
+Francesco Cassata,Central Midfield,1997-07-16,21,Italy,Frosinone Calcio,Serie A,2018/2019,2018
+Luca Valzania,Central Midfield,1996-03-05,23,Italy,Frosinone Calcio,Serie A,2018/2019,2018
+Raman Chibsah,Central Midfield,1993-03-10,26,Ghana,Frosinone Calcio,Serie A,2018/2019,2018
+Raffaele Maiello,Central Midfield,1991-07-10,27,Italy,Frosinone Calcio,Serie A,2018/2019,2018
+Mirko Gori,Central Midfield,1993-02-04,26,Italy,Frosinone Calcio,Serie A,2018/2019,2018
+Paolo Sammarco,Central Midfield,1983-03-17,36,Italy,Frosinone Calcio,Serie A,2018/2019,2018
+Andrea Beghetto,Left Midfield,1994-10-11,24,Italy,Frosinone Calcio,Serie A,2018/2019,2018
+Camillo Ciano,Right Winger,1990-02-22,29,Italy,Frosinone Calcio,Serie A,2018/2019,2018
+Luca Paganini,Right Winger,1993-06-08,26,Italy,Frosinone Calcio,Serie A,2018/2019,2018
+Andrea Pinamonti,Centre-Forward,1999-05-19,20,Italy,Frosinone Calcio,Serie A,2018/2019,2018
+Federico Dionisi,Centre-Forward,1987-06-16,31,Italy,Frosinone Calcio,Serie A,2018/2019,2018
+Marcello Trotta,Centre-Forward,1992-09-29,26,Italy,Frosinone Calcio,Serie A,2018/2019,2018
+Daniel Ciofani,Centre-Forward,1985-07-31,33,Italy,Frosinone Calcio,Serie A,2018/2019,2018
+Adrian Semper,Goalkeeper,1998-01-12,21,Croatia,Chievo Verona,Serie A,2018/2019,2018
+Stefano Sorrentino,Goalkeeper,1979-03-28,40,Italy,Chievo Verona,Serie A,2018/2019,2018
+Andrea Seculin,Goalkeeper,1990-07-14,28,Italy,Chievo Verona,Serie A,2018/2019,2018
+Mattia Bani,Centre-Back,1993-12-10,25,Italy,Chievo Verona,Serie A,2018/2019,2018
+Federico Barba,Centre-Back,1993-09-01,25,Italy,Chievo Verona,Serie A,2018/2019,2018
+Nenad Tomović,Centre-Back,1987-08-30,31,Serbia,Chievo Verona,Serie A,2018/2019,2018
+Luca Rossettini,Centre-Back,1985-05-09,34,Italy,Chievo Verona,Serie A,2018/2019,2018
+Marco Andreolli,Centre-Back,1986-06-10,33,Italy,Chievo Verona,Serie A,2018/2019,2018
+Strahinja Tanasijevic,Centre-Back,1997-06-12,22,Serbia,Chievo Verona,Serie A,2018/2019,2018
+Bostjan Cesar,Centre-Back,1982-07-09,36,Slovenia,Chievo Verona,Serie A,2018/2019,2018
+Pawel Jaroszynski,Left-Back,1994-10-02,24,Poland,Chievo Verona,Serie A,2018/2019,2018
+Fabio Depaoli,Right-Back,1997-04-24,22,Italy,Chievo Verona,Serie A,2018/2019,2018
+Ezequiel Schelotto,Right-Back,1989-05-23,30,Italy,Chievo Verona,Serie A,2018/2019,2018
+Nicolas Frey,Right-Back,1984-03-06,35,France,Chievo Verona,Serie A,2018/2019,2018
+Assane Dioussé,Defensive Midfield,1997-09-20,21,Senegal,Chievo Verona,Serie A,2018/2019,2018
+Mehdi Léris,Central Midfield,1998-05-23,21,France,Chievo Verona,Serie A,2018/2019,2018
+Sofian Kiyine,Central Midfield,1997-10-02,21,Morocco,Chievo Verona,Serie A,2018/2019,2018
+Perparim Hetemaj,Central Midfield,1986-12-12,32,Finland,Chievo Verona,Serie A,2018/2019,2018
+Nicola Rigoni,Central Midfield,1990-11-12,28,Italy,Chievo Verona,Serie A,2018/2019,2018
+Mauro Burruchaga,Central Midfield,1998-06-27,20,Argentina,Chievo Verona,Serie A,2018/2019,2018
+Emanuele Giaccherini,Left Midfield,1985-05-05,34,Italy,Chievo Verona,Serie A,2018/2019,2018
+Musa Juwara,Left Winger,2001-12-26,17,The Gambia,Chievo Verona,Serie A,2018/2019,2018
+Emanuel Vignato,Right Winger,2000-08-24,18,Italy,Chievo Verona,Serie A,2018/2019,2018
+Lucas Piazón,Right Winger,1994-01-20,25,Brazil,Chievo Verona,Serie A,2018/2019,2018
+Manuel Pucciarelli,Second Striker,1991-06-17,27,Italy,Chievo Verona,Serie A,2018/2019,2018
+Riccardo Meggiorini,Second Striker,1985-09-04,33,Italy,Chievo Verona,Serie A,2018/2019,2018
+Mariusz Stepinski,Centre-Forward,1995-05-12,24,Poland,Chievo Verona,Serie A,2018/2019,2018
+Filip Djordjevic,Centre-Forward,1987-09-28,31,Serbia,Chievo Verona,Serie A,2018/2019,2018
+Sergej Grubac,Centre-Forward,2000-05-29,19,Montenegro,Chievo Verona,Serie A,2018/2019,2018
+Sergio Pellissier,Centre-Forward,1979-04-12,40,Italy,Chievo Verona,Serie A,2018/2019,2018

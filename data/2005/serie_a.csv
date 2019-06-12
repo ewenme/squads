@@ -1,0 +1,805 @@
+player_name,position,date_of_birth,age,nationality,club_name,league_name,season,year
+Gianluigi Buffon,Goalkeeper,1978-01-28,27,Italy,Juventus FC,Serie A,2005/2006,2005
+Christian Abbiati,Goalkeeper,1977-07-08,27,Italy,Juventus FC,Serie A,2005/2006,2005
+Antonio Chimenti,Goalkeeper,1970-06-30,35,Italy,Juventus FC,Serie A,2005/2006,2005
+Landry Bonnefoi,Goalkeeper,1983-09-20,21,France,Juventus FC,Serie A,2005/2006,2005
+Claudio Scarzanella,Goalkeeper,1986-03-12,19,Italy,Juventus FC,Serie A,2005/2006,2005
+Andrea Pozzato,Goalkeeper,1988-05-11,17,Italy,Juventus FC,Serie A,2005/2006,2005
+Fabio Cannavaro,Centre-Back,1973-09-13,31,Italy,Juventus FC,Serie A,2005/2006,2005
+Giorgio Chiellini,Centre-Back,1984-08-14,20,Italy,Juventus FC,Serie A,2005/2006,2005
+Jonathan Zebina,Centre-Back,1978-07-19,26,France,Juventus FC,Serie A,2005/2006,2005
+Lilian Thuram,Centre-Back,1972-01-01,33,France,Juventus FC,Serie A,2005/2006,2005
+Robert Kovac,Centre-Back,1974-04-06,31,Croatia,Juventus FC,Serie A,2005/2006,2005
+Igor Tudor,Centre-Back,1978-04-16,27,Croatia,Juventus FC,Serie A,2005/2006,2005
+Gladstone,Centre-Back,1985-01-29,20,Brazil,Juventus FC,Serie A,2005/2006,2005
+Gianluca Pessotto,Left-Back,1970-08-11,34,Italy,Juventus FC,Serie A,2005/2006,2005
+Federico Balzaretti,Left-Back,1981-12-06,23,Italy,Juventus FC,Serie A,2005/2006,2005
+Domenico Criscito,Left-Back,1986-12-30,18,Italy,Juventus FC,Serie A,2005/2006,2005
+Gianluca Zambrotta,Right-Back,1977-02-19,28,Italy,Juventus FC,Serie A,2005/2006,2005
+Alessandro Birindelli,Right-Back,1974-11-12,30,Italy,Juventus FC,Serie A,2005/2006,2005
+Patrick Vieira,Defensive Midfield,1976-06-23,29,France,Juventus FC,Serie A,2005/2006,2005
+Émerson,Defensive Midfield,1976-04-04,29,Brazil,Juventus FC,Serie A,2005/2006,2005
+Alessio Tacchinardi,Defensive Midfield,1975-07-23,29,Italy,Juventus FC,Serie A,2005/2006,2005
+Giuliano Giannichedda,Defensive Midfield,1974-09-21,30,Italy,Juventus FC,Serie A,2005/2006,2005
+Manuele Blasi,Central Midfield,1980-08-17,24,Italy,Juventus FC,Serie A,2005/2006,2005
+Rubén Olivera,Central Midfield,1983-05-04,22,Uruguay,Juventus FC,Serie A,2005/2006,2005
+Claudio Marchisio,Central Midfield,1986-01-19,19,Italy,Juventus FC,Serie A,2005/2006,2005
+Mauro Camoranesi,Right Midfield,1976-10-04,28,Italy,Juventus FC,Serie A,2005/2006,2005
+Pavel Nedved,Left Midfield,1972-08-30,32,Czech Republic,Juventus FC,Serie A,2005/2006,2005
+Alessandro Del Piero,Second Striker,1974-11-09,30,Italy,Juventus FC,Serie A,2005/2006,2005
+Samon Reider Rodríguez,Second Striker,1988-10-28,16,Cuba,Juventus FC,Serie A,2005/2006,2005
+Zlatan Ibrahimovic,Centre-Forward,1981-10-03,23,Sweden,Juventus FC,Serie A,2005/2006,2005
+David Trézéguet,Centre-Forward,1977-10-15,27,France,Juventus FC,Serie A,2005/2006,2005
+Fabrizio Miccoli,Centre-Forward,1979-06-27,26,Italy,Juventus FC,Serie A,2005/2006,2005
+Adrian Mutu,Centre-Forward,1979-01-08,26,Romania,Juventus FC,Serie A,2005/2006,2005
+Marcelo Zalayeta,Centre-Forward,1978-12-05,26,Uruguay,Juventus FC,Serie A,2005/2006,2005
+Michele Paolucci,Centre-Forward,1986-02-06,19,Italy,Juventus FC,Serie A,2005/2006,2005
+Dida,Goalkeeper,1973-10-07,31,Brazil,AC Milan,Serie A,2005/2006,2005
+Dimitrios Eleftheropoulos,Goalkeeper,1976-08-07,28,Greece,AC Milan,Serie A,2005/2006,2005
+Zeljko Kalac,Goalkeeper,1972-12-16,32,Australia,AC Milan,Serie A,2005/2006,2005
+Valerio Fiori,Goalkeeper,1969-04-27,36,Italy,AC Milan,Serie A,2005/2006,2005
+Eros Favaretto,Goalkeeper,1986-09-29,18,Italy,AC Milan,Serie A,2005/2006,2005
+Davide Facchin,Goalkeeper,1987-04-29,18,Italy,AC Milan,Serie A,2005/2006,2005
+Alessandro Nesta,Centre-Back,1976-03-19,29,Italy,AC Milan,Serie A,2005/2006,2005
+Jaap Stam,Centre-Back,1972-07-17,32,Netherlands,AC Milan,Serie A,2005/2006,2005
+Kakhaber Kaladze,Centre-Back,1978-02-27,27,Georgia,AC Milan,Serie A,2005/2006,2005
+Dario Simic,Centre-Back,1975-11-12,29,Croatia,AC Milan,Serie A,2005/2006,2005
+Alessandro Costacurta,Centre-Back,1966-04-24,39,Italy,AC Milan,Serie A,2005/2006,2005
+William-Fils Aubameyang,Centre-Back,1987-02-16,18,Gabon,AC Milan,Serie A,2005/2006,2005
+Lino Marzorati,Centre-Back,1986-10-12,18,Italy,AC Milan,Serie A,2005/2006,2005
+Elia Legati,Centre-Back,1986-01-03,19,Italy,AC Milan,Serie A,2005/2006,2005
+Marek Jankulovski,Left-Back,1977-05-09,28,Czech Republic,AC Milan,Serie A,2005/2006,2005
+Paolo Maldini,Left-Back,1968-06-26,37,Italy,AC Milan,Serie A,2005/2006,2005
+Cafú,Right-Back,1970-06-07,35,Brazil,AC Milan,Serie A,2005/2006,2005
+Federico Piazza,Midfielder,1987-03-02,18,Italy,AC Milan,Serie A,2005/2006,2005
+Andrea Pirlo,Defensive Midfield,1979-05-19,26,Italy,AC Milan,Serie A,2005/2006,2005
+Johann Vogel,Defensive Midfield,1977-03-08,28,Switzerland,AC Milan,Serie A,2005/2006,2005
+Davide Di Gennaro,Defensive Midfield,1988-06-16,17,Italy,AC Milan,Serie A,2005/2006,2005
+Gennaro Gattuso,Central Midfield,1978-01-09,27,Italy,AC Milan,Serie A,2005/2006,2005
+Clarence Seedorf,Central Midfield,1976-04-01,29,Netherlands,AC Milan,Serie A,2005/2006,2005
+Massimo Ambrosini,Central Midfield,1977-05-29,28,Italy,AC Milan,Serie A,2005/2006,2005
+Gastone Bottini,Central Midfield,1987-02-24,18,Italy,AC Milan,Serie A,2005/2006,2005
+Serginho,Left Midfield,1971-06-27,34,Brazil,AC Milan,Serie A,2005/2006,2005
+Kaká,Attacking Midfield,1982-04-22,23,Brazil,AC Milan,Serie A,2005/2006,2005
+Rui Costa,Attacking Midfield,1972-03-29,33,Portugal,AC Milan,Serie A,2005/2006,2005
+Sandro Bloudek,Attacking Midfield,1986-02-16,19,Slovenia,AC Milan,Serie A,2005/2006,2005
+Andrii Shevchenko,Centre-Forward,1976-09-29,28,Ukraine,AC Milan,Serie A,2005/2006,2005
+Alberto Gilardino,Centre-Forward,1982-07-05,22,Italy,AC Milan,Serie A,2005/2006,2005
+Christian Vieri,Centre-Forward,1973-07-12,31,Italy,AC Milan,Serie A,2005/2006,2005
+Filippo Inzaghi,Centre-Forward,1973-08-09,31,Italy,AC Milan,Serie A,2005/2006,2005
+Márcio Amoroso,Centre-Forward,1974-07-05,30,Brazil,AC Milan,Serie A,2005/2006,2005
+Matteo Ardemagni,Centre-Forward,1987-03-26,18,Italy,AC Milan,Serie A,2005/2006,2005
+Francesco Toldo,Goalkeeper,1971-12-02,33,Italy,FC Internazionale,Serie A,2005/2006,2005
+Júlio César,Goalkeeper,1979-09-03,25,Brazil,FC Internazionale,Serie A,2005/2006,2005
+Fabián Carini,Goalkeeper,1979-12-26,25,Uruguay,FC Internazionale,Serie A,2005/2006,2005
+Alex Cordaz,Goalkeeper,1983-01-01,22,Italy,FC Internazionale,Serie A,2005/2006,2005
+Paolo Orlandoni,Goalkeeper,1972-08-12,32,Italy,FC Internazionale,Serie A,2005/2006,2005
+Paolo Tornaghi,Goalkeeper,1988-06-21,17,Italy,FC Internazionale,Serie A,2005/2006,2005
+Giacomo Bindi,Goalkeeper,1987-01-02,18,Italy,FC Internazionale,Serie A,2005/2006,2005
+Wálter Samuel,Centre-Back,1978-03-23,27,Argentina,FC Internazionale,Serie A,2005/2006,2005
+Iván Córdoba,Centre-Back,1976-08-11,28,Colombia,FC Internazionale,Serie A,2005/2006,2005
+Nicolás Burdisso,Centre-Back,1981-04-12,24,Argentina,FC Internazionale,Serie A,2005/2006,2005
+Marco Materazzi,Centre-Back,1973-08-19,31,Italy,FC Internazionale,Serie A,2005/2006,2005
+Siniša Mihajlović,Centre-Back,1969-02-20,36,Serbia,FC Internazionale,Serie A,2005/2006,2005
+Nicolas Giani,Centre-Back,1986-03-13,19,Italy,FC Internazionale,Serie A,2005/2006,2005
+Dennis Esposito,Centre-Back,1988-01-25,17,Italy,FC Internazionale,Serie A,2005/2006,2005
+Marco Andreolli,Centre-Back,1986-06-10,19,Italy,FC Internazionale,Serie A,2005/2006,2005
+Leonardo Bonucci,Centre-Back,1987-05-01,18,Italy,FC Internazionale,Serie A,2005/2006,2005
+Giuseppe Favalli,Left-Back,1972-01-08,33,Italy,FC Internazionale,Serie A,2005/2006,2005
+Francesco Coco,Left-Back,1977-01-08,28,Italy,FC Internazionale,Serie A,2005/2006,2005
+Pierre Womé,Left-Back,1979-03-26,26,Cameroon,FC Internazionale,Serie A,2005/2006,2005
+Simone Fautario,Left-Back,1987-02-12,18,Italy,FC Internazionale,Serie A,2005/2006,2005
+Guilherme Siqueira,Left-Back,1986-04-28,19,Brazil,FC Internazionale,Serie A,2005/2006,2005
+Javier Zanetti,Right-Back,1973-08-10,31,Argentina,FC Internazionale,Serie A,2005/2006,2005
+Zé Maria,Right-Back,1973-07-25,31,Brazil,FC Internazionale,Serie A,2005/2006,2005
+Daniel Semenzato,Right-Back,1987-01-11,18,Italy,FC Internazionale,Serie A,2005/2006,2005
+Basty Kyeremateng,Midfielder,1987-02-03,18,Ghana,FC Internazionale,Serie A,2005/2006,2005
+Esteban Cambiasso,Defensive Midfield,1980-08-18,24,Argentina,FC Internazionale,Serie A,2005/2006,2005
+Cristiano Zanetti,Defensive Midfield,1977-04-19,28,Italy,FC Internazionale,Serie A,2005/2006,2005
+Daniel Maa Boumsong,Defensive Midfield,1987-03-20,18,Cameroon,FC Internazionale,Serie A,2005/2006,2005
+Dejan Stanković,Central Midfield,1978-09-11,26,Serbia,FC Internazionale,Serie A,2005/2006,2005
+Juan Sebastián Verón,Central Midfield,1975-03-09,30,Argentina,FC Internazionale,Serie A,2005/2006,2005
+David Pizarro,Central Midfield,1979-09-11,25,Chile,FC Internazionale,Serie A,2005/2006,2005
+Georgios Karagounis,Central Midfield,1977-03-06,28,Greece,FC Internazionale,Serie A,2005/2006,2005
+Kily González,Left Midfield,1974-08-04,30,Argentina,FC Internazionale,Serie A,2005/2006,2005
+Santiago Solari,Left Midfield,1976-10-07,28,Argentina,FC Internazionale,Serie A,2005/2006,2005
+César,Left Midfield,1974-10-24,30,Brazil,FC Internazionale,Serie A,2005/2006,2005
+Matteo Lombardo,Left Midfield,1985-03-06,20,Italy,FC Internazionale,Serie A,2005/2006,2005
+Abdoulaye Diarra,Left Midfield,1986-10-12,18,Cote d'Ivoire,FC Internazionale,Serie A,2005/2006,2005
+Tijani Belaid,Attacking Midfield,1987-09-06,17,Tunisia,FC Internazionale,Serie A,2005/2006,2005
+Luís Figo,Right Winger,1972-11-04,32,Portugal,FC Internazionale,Serie A,2005/2006,2005
+Andy van der Meyde,Right Winger,1979-09-30,25,Netherlands,FC Internazionale,Serie A,2005/2006,2005
+Ilario Aloe,Right Winger,1986-07-10,18,Italy,FC Internazionale,Serie A,2005/2006,2005
+Álvaro Recoba,Second Striker,1976-03-17,29,Uruguay,FC Internazionale,Serie A,2005/2006,2005
+Adriano,Centre-Forward,1982-02-17,23,Brazil,FC Internazionale,Serie A,2005/2006,2005
+Obafemi Martins,Centre-Forward,1984-10-28,20,Nigeria,FC Internazionale,Serie A,2005/2006,2005
+Julio Cruz,Centre-Forward,1974-10-10,30,Argentina,FC Internazionale,Serie A,2005/2006,2005
+Lampros Choutos,Centre-Forward,1979-12-07,25,Greece,FC Internazionale,Serie A,2005/2006,2005
+Jacopo Ravasi,Centre-Forward,1987-02-08,18,Italy,FC Internazionale,Serie A,2005/2006,2005
+Domenico Germinale,Centre-Forward,1987-06-03,18,Italy,FC Internazionale,Serie A,2005/2006,2005
+Matteo Momentè,Centre-Forward,1987-02-26,18,Italy,FC Internazionale,Serie A,2005/2006,2005
+Goran Slavkovski,Centre-Forward,1989-04-08,16,North Macedonia,FC Internazionale,Serie A,2005/2006,2005
+Dimitrios Eleftheropoulos,Goalkeeper,1976-08-07,28,Greece,AS Roma,Serie A,2005/2006,2005
+Carlo Zotti,Goalkeeper,1982-09-03,22,Italy,AS Roma,Serie A,2005/2006,2005
+Gianluca Curci,Goalkeeper,1985-07-12,19,Italy,AS Roma,Serie A,2005/2006,2005
+Pietro Pipolo,Goalkeeper,1986-02-02,19,Italy,AS Roma,Serie A,2005/2006,2005
+Doni,Goalkeeper,1979-10-22,25,Brazil,AS Roma,Serie A,2005/2006,2005
+Francesco Maiorani,Goalkeeper,1988-04-09,17,Italy,AS Roma,Serie A,2005/2006,2005
+Matteo Ferrari,Centre-Back,1979-12-05,25,Italy,AS Roma,Serie A,2005/2006,2005
+Philippe Mexès,Centre-Back,1982-03-30,23,France,AS Roma,Serie A,2005/2006,2005
+Samuel Kuffour,Centre-Back,1976-09-03,28,Ghana,AS Roma,Serie A,2005/2006,2005
+Cesare Bovo,Centre-Back,1983-01-14,22,Italy,AS Roma,Serie A,2005/2006,2005
+Giuseppe Scurto,Centre-Back,1984-01-05,21,Italy,AS Roma,Serie A,2005/2006,2005
+Cristian Chivu,Centre-Back,1980-10-26,24,Romania,AS Roma,Serie A,2005/2006,2005
+Gianluca Freddi,Centre-Back,1987-03-29,18,Italy,AS Roma,Serie A,2005/2006,2005
+Daniele Magliocchetti,Centre-Back,1986-05-11,19,Italy,AS Roma,Serie A,2005/2006,2005
+Leandro Cufré,Left-Back,1978-05-09,27,Argentina,AS Roma,Serie A,2005/2006,2005
+Andrea Briotti,Left-Back,1986-05-02,19,Italy,AS Roma,Serie A,2005/2006,2005
+Fabrizio Grillo,Left-Back,1987-02-02,18,Italy,AS Roma,Serie A,2005/2006,2005
+Christian Panucci,Right-Back,1973-04-12,32,Italy,AS Roma,Serie A,2005/2006,2005
+Luigi Sartor,Right-Back,1975-01-30,30,Italy,AS Roma,Serie A,2005/2006,2005
+Aleandro Rosi,Right-Back,1987-05-17,18,Italy,AS Roma,Serie A,2005/2006,2005
+Gianluca Galasso,Right-Back,1984-01-18,21,Italy,AS Roma,Serie A,2005/2006,2005
+Paolo Seppani,Right-Back,1986-08-18,18,Italy,AS Roma,Serie A,2005/2006,2005
+Daniele De Rossi,Defensive Midfield,1983-07-24,21,Italy,AS Roma,Serie A,2005/2006,2005
+Olivier Dacourt,Defensive Midfield,1974-09-25,30,France,AS Roma,Serie A,2005/2006,2005
+Damiano Tommasi,Defensive Midfield,1974-05-17,31,Italy,AS Roma,Serie A,2005/2006,2005
+Alberto Aquilani,Central Midfield,1984-07-07,20,Italy,AS Roma,Serie A,2005/2006,2005
+Houssine Kharja,Central Midfield,1982-11-09,22,Morocco,AS Roma,Serie A,2005/2006,2005
+Raffaele Longo,Central Midfield,1977-09-06,27,Italy,AS Roma,Serie A,2005/2006,2005
+Leandro Greco,Central Midfield,1986-07-19,18,Italy,AS Roma,Serie A,2005/2006,2005
+Massimiliano Marsili,Central Midfield,1987-07-14,17,Italy,AS Roma,Serie A,2005/2006,2005
+Édgar Álvarez,Right Midfield,1980-01-18,25,Honduras,AS Roma,Serie A,2005/2006,2005
+Andrea Giacomini,Left Midfield,1987-04-04,18,Italy,AS Roma,Serie A,2005/2006,2005
+Simone Perrotta,Attacking Midfield,1977-09-17,27,Italy,AS Roma,Serie A,2005/2006,2005
+Mancini,Left Winger,1980-08-01,24,Brazil,AS Roma,Serie A,2005/2006,2005
+Rodrigo Taddei,Right Winger,1980-03-06,25,Brazil,AS Roma,Serie A,2005/2006,2005
+Alessio Cerci,Right Winger,1987-07-23,17,Italy,AS Roma,Serie A,2005/2006,2005
+Antonio Cassano,Second Striker,1982-07-12,22,Italy,AS Roma,Serie A,2005/2006,2005
+Francesco Totti,Centre-Forward,1976-09-27,28,Italy,AS Roma,Serie A,2005/2006,2005
+Vincenzo Montella,Centre-Forward,1974-06-18,31,Italy,AS Roma,Serie A,2005/2006,2005
+Shabani Nonda,Centre-Forward,1977-03-06,28,DR Congo,AS Roma,Serie A,2005/2006,2005
+Daniele Corvia,Centre-Forward,1984-11-22,20,Italy,AS Roma,Serie A,2005/2006,2005
+Stefano Okaka,Centre-Forward,1989-08-09,15,Italy,AS Roma,Serie A,2005/2006,2005
+Sébastien Frey,Goalkeeper,1980-03-18,25,France,ACF Fiorentina,Serie A,2005/2006,2005
+Bogdan Lobont,Goalkeeper,1978-01-18,27,Romania,ACF Fiorentina,Serie A,2005/2006,2005
+Sebastián Cejas,Goalkeeper,1975-04-21,30,Argentina,ACF Fiorentina,Serie A,2005/2006,2005
+Marco Roccati,Goalkeeper,1975-07-01,30,Italy,ACF Fiorentina,Serie A,2005/2006,2005
+Gianluca Berti,Goalkeeper,1967-05-20,38,Italy,ACF Fiorentina,Serie A,2005/2006,2005
+Nicolò Manfredini,Goalkeeper,1988-05-01,17,Italy,ACF Fiorentina,Serie A,2005/2006,2005
+Tomás Ujfalusi,Centre-Back,1978-03-24,27,Czech Republic,ACF Fiorentina,Serie A,2005/2006,2005
+Per Kröldrup,Centre-Back,1979-07-31,25,Denmark,ACF Fiorentina,Serie A,2005/2006,2005
+Dario Dainelli,Centre-Back,1979-06-09,26,Italy,ACF Fiorentina,Serie A,2005/2006,2005
+Marco Di Loreto,Centre-Back,1974-09-28,30,Italy,ACF Fiorentina,Serie A,2005/2006,2005
+Alessandro Gamberini,Centre-Back,1981-08-27,23,Italy,ACF Fiorentina,Serie A,2005/2006,2005
+Michele Bacis,Centre-Back,1979-10-22,25,Italy,ACF Fiorentina,Serie A,2005/2006,2005
+William Viali,Centre-Back,1974-11-16,30,Italy,ACF Fiorentina,Serie A,2005/2006,2005
+Antonio Aquilanti,Centre-Back,1985-11-08,19,Italy,ACF Fiorentina,Serie A,2005/2006,2005
+David Mateo,Centre-Back,1987-02-21,18,Brazil,ACF Fiorentina,Serie A,2005/2006,2005
+Manuel Pasqual,Left-Back,1982-03-13,23,Italy,ACF Fiorentina,Serie A,2005/2006,2005
+Mirko Savini,Left-Back,1979-03-11,26,Italy,ACF Fiorentina,Serie A,2005/2006,2005
+Davide Brivio,Left-Back,1988-03-17,17,Italy,ACF Fiorentina,Serie A,2005/2006,2005
+Christian Maggio,Right-Back,1982-02-11,23,Italy,ACF Fiorentina,Serie A,2005/2006,2005
+Giuseppe Pancaro,Right-Back,1971-08-26,33,Italy,ACF Fiorentina,Serie A,2005/2006,2005
+Antonio Rizzo,Right-Back,1981-03-28,24,Italy,ACF Fiorentina,Serie A,2005/2006,2005
+Danilo D'Ambrosio,Right-Back,1988-09-09,16,Italy,ACF Fiorentina,Serie A,2005/2006,2005
+Riccardo Montolivo,Defensive Midfield,1985-01-18,20,Italy,ACF Fiorentina,Serie A,2005/2006,2005
+Marco Donadel,Defensive Midfield,1983-04-21,22,Italy,ACF Fiorentina,Serie A,2005/2006,2005
+Gianni Guigou,Defensive Midfield,1975-02-22,30,Uruguay,ACF Fiorentina,Serie A,2005/2006,2005
+Michele Pazienza,Defensive Midfield,1982-08-05,22,Italy,ACF Fiorentina,Serie A,2005/2006,2005
+Luis Helguera,Defensive Midfield,1976-06-09,29,Spain,ACF Fiorentina,Serie A,2005/2006,2005
+Martin Jörgensen,Central Midfield,1975-10-06,29,Denmark,ACF Fiorentina,Serie A,2005/2006,2005
+Cristian Brocchi,Central Midfield,1976-01-30,29,Italy,ACF Fiorentina,Serie A,2005/2006,2005
+Andrea De Falco,Central Midfield,1986-06-19,19,Italy,ACF Fiorentina,Serie A,2005/2006,2005
+Andrea Paolucci,Central Midfield,1986-11-23,18,Italy,ACF Fiorentina,Serie A,2005/2006,2005
+Hidetoshi Nakata,Attacking Midfield,1977-01-22,28,Japan,ACF Fiorentina,Serie A,2005/2006,2005
+Stefano Fiore,Attacking Midfield,1975-04-17,30,Italy,ACF Fiorentina,Serie A,2005/2006,2005
+Luis Jiménez,Attacking Midfield,1984-06-17,21,Chile,ACF Fiorentina,Serie A,2005/2006,2005
+Guly,Attacking Midfield,1981-12-31,23,Brazil,ACF Fiorentina,Serie A,2005/2006,2005
+Matthieu Bochu,Attacking Midfield,1979-03-31,26,France,ACF Fiorentina,Serie A,2005/2006,2005
+Luca Toni,Centre-Forward,1977-05-26,28,Italy,ACF Fiorentina,Serie A,2005/2006,2005
+Valeri Bojinov,Centre-Forward,1986-02-15,19,Bulgaria,ACF Fiorentina,Serie A,2005/2006,2005
+Christian Riganó,Centre-Forward,1974-05-25,31,Italy,ACF Fiorentina,Serie A,2005/2006,2005
+Giampaolo Pazzini,Centre-Forward,1984-08-02,20,Italy,ACF Fiorentina,Serie A,2005/2006,2005
+Zisis Vryzas,Centre-Forward,1973-11-09,31,Greece,ACF Fiorentina,Serie A,2005/2006,2005
+Enrico Fantini,Centre-Forward,1976-02-27,29,Italy,ACF Fiorentina,Serie A,2005/2006,2005
+Samuel Di Carmine,Centre-Forward,1988-09-29,16,Italy,ACF Fiorentina,Serie A,2005/2006,2005
+Cristiano Lupatelli,Goalkeeper,1978-06-21,27,Italy,US Palermo,Serie A,2005/2006,2005
+Matteo Guardalben,Goalkeeper,1974-05-05,31,Italy,US Palermo,Serie A,2005/2006,2005
+Federico Agliardi,Goalkeeper,1983-02-11,22,Italy,US Palermo,Serie A,2005/2006,2005
+Nicola Santoni,Goalkeeper,1979-01-18,26,Italy,US Palermo,Serie A,2005/2006,2005
+Salvatore Sirigu,Goalkeeper,1987-01-12,18,Italy,US Palermo,Serie A,2005/2006,2005
+Giuseppe Ingrassia,Goalkeeper,1988-09-09,16,Italy,US Palermo,Serie A,2005/2006,2005
+Mariano Andújar,Goalkeeper,1983-07-30,21,Argentina,US Palermo,Serie A,2005/2006,2005
+Mariano Fernando González,Defender,1980-12-31,24,Argentina,US Palermo,Serie A,2005/2006,2005
+Cristian Zaccardo,Centre-Back,1981-12-21,23,Italy,US Palermo,Serie A,2005/2006,2005
+Andrea Barzagli,Centre-Back,1981-05-08,24,Italy,US Palermo,Serie A,2005/2006,2005
+Christian Terlizzi,Centre-Back,1979-11-22,25,Italy,US Palermo,Serie A,2005/2006,2005
+Kewullay Conteh,Centre-Back,1977-12-31,27,Sierra Leone,US Palermo,Serie A,2005/2006,2005
+Michele Ferri,Centre-Back,1981-05-29,24,Italy,US Palermo,Serie A,2005/2006,2005
+Giuseppe Biava,Centre-Back,1977-05-08,28,Italy,US Palermo,Serie A,2005/2006,2005
+Leandro Rinaudo,Centre-Back,1983-05-09,22,Italy,US Palermo,Serie A,2005/2006,2005
+Fabio Grosso,Left-Back,1977-11-28,27,Italy,US Palermo,Serie A,2005/2006,2005
+Pietro Accardi,Left-Back,1982-09-12,22,Italy,US Palermo,Serie A,2005/2006,2005
+Salvatore Masiello,Left-Back,1982-01-31,23,Italy,US Palermo,Serie A,2005/2006,2005
+Francesco Modesto,Left-Back,1982-02-16,23,Italy,US Palermo,Serie A,2005/2006,2005
+Valerio Virga,Right-Back,1986-06-29,19,Italy,US Palermo,Serie A,2005/2006,2005
+Vincenzo Sarcì,Midfielder,1987-04-11,18,Italy,US Palermo,Serie A,2005/2006,2005
+Eugenio Corini,Defensive Midfield,1970-07-30,34,Italy,US Palermo,Serie A,2005/2006,2005
+Simone Barone,Central Midfield,1978-04-30,27,Italy,US Palermo,Serie A,2005/2006,2005
+Massimo Mutarelli,Central Midfield,1978-01-13,27,Italy,US Palermo,Serie A,2005/2006,2005
+Emanuele Filippini,Central Midfield,1973-07-03,31,Italy,US Palermo,Serie A,2005/2006,2005
+Paul Codrea,Central Midfield,1981-04-04,24,Romania,US Palermo,Serie A,2005/2006,2005
+Luca Conean,Central Midfield,1987-01-24,18,Italy,US Palermo,Serie A,2005/2006,2005
+Mirko Velardi,Central Midfield,1988-01-28,17,Italy,US Palermo,Serie A,2005/2006,2005
+Antonio Filippini,Right Midfield,1973-07-03,31,Italy,US Palermo,Serie A,2005/2006,2005
+Mariano González,Right Midfield,1981-05-05,24,Argentina,US Palermo,Serie A,2005/2006,2005
+Giovanni Tedesco,Right Midfield,1972-05-13,33,Italy,US Palermo,Serie A,2005/2006,2005
+Massimo Bonanni,Left Midfield,1982-06-10,23,Italy,US Palermo,Serie A,2005/2006,2005
+Franco Brienza,Attacking Midfield,1979-03-19,26,Italy,US Palermo,Serie A,2005/2006,2005
+Pietro Tripoli,Left Winger,1987-02-26,18,Italy,US Palermo,Serie A,2005/2006,2005
+Simone Pepe,Right Winger,1983-08-30,21,Italy,US Palermo,Serie A,2005/2006,2005
+Mario Santana,Second Striker,1981-12-23,23,Argentina,US Palermo,Serie A,2005/2006,2005
+Andrea Gasbarroni,Second Striker,1981-08-06,23,Italy,US Palermo,Serie A,2005/2006,2005
+Giuseppe Polito,Second Striker,1988-07-14,16,Italy,US Palermo,Serie A,2005/2006,2005
+Andrea Caracciolo,Centre-Forward,1981-09-18,23,Italy,US Palermo,Serie A,2005/2006,2005
+David Di Michele,Centre-Forward,1976-01-06,29,Italy,US Palermo,Serie A,2005/2006,2005
+Stephen Makinwa,Centre-Forward,1983-07-26,21,Nigeria,US Palermo,Serie A,2005/2006,2005
+Denis Godeas,Centre-Forward,1975-07-25,29,Italy,US Palermo,Serie A,2005/2006,2005
+Gianluca Palmiteri,Centre-Forward,1988-01-24,17,Italy,US Palermo,Serie A,2005/2006,2005
+Cristiano Lupatelli,Goalkeeper,1978-06-21,27,Italy,Parma FC,Serie A,2005/2006,2005
+Matteo Guardalben,Goalkeeper,1974-05-05,31,Italy,Parma FC,Serie A,2005/2006,2005
+Alfonso De Lucia,Goalkeeper,1983-11-11,21,Italy,Parma FC,Serie A,2005/2006,2005
+Luca Bucci,Goalkeeper,1969-03-13,36,Italy,Parma FC,Serie A,2005/2006,2005
+Carmine Biagio Gatti,Goalkeeper,1988-02-10,17,Italy,Parma FC,Serie A,2005/2006,2005
+Mattia Cherubini,Defender,1988-03-04,17,Italy,Parma FC,Serie A,2005/2006,2005
+Daniele Bonera,Centre-Back,1981-05-31,24,Italy,Parma FC,Serie A,2005/2006,2005
+Paolo Cannavaro,Centre-Back,1981-06-26,24,Italy,Parma FC,Serie A,2005/2006,2005
+Matteo Contini,Centre-Back,1980-04-16,25,Italy,Parma FC,Serie A,2005/2006,2005
+Damiano Ferronetti,Centre-Back,1984-11-01,20,Italy,Parma FC,Serie A,2005/2006,2005
+Fernando Couto,Centre-Back,1969-08-02,35,Portugal,Parma FC,Serie A,2005/2006,2005
+Sebastiano Siviglia,Centre-Back,1973-03-29,32,Italy,Parma FC,Serie A,2005/2006,2005
+Mirko Stefani,Centre-Back,1984-01-25,21,Italy,Parma FC,Serie A,2005/2006,2005
+Marco Rossi,Centre-Back,1987-09-30,17,Italy,Parma FC,Serie A,2005/2006,2005
+Francesco Pambianchi,Centre-Back,1989-01-12,16,Italy,Parma FC,Serie A,2005/2006,2005
+Alessandro Bernardini,Centre-Back,1987-01-21,18,Italy,Parma FC,Serie A,2005/2006,2005
+Giovanni Pasquale,Left-Back,1982-01-05,23,Italy,Parma FC,Serie A,2005/2006,2005
+Ibrahima Camara,Left-Back,1985-01-01,20,Guinea,Parma FC,Serie A,2005/2006,2005
+Ferdinand Coly,Right-Back,1973-09-10,31,Senegal,Parma FC,Serie A,2005/2006,2005
+Giuseppe Cardone,Right-Back,1974-03-03,31,Italy,Parma FC,Serie A,2005/2006,2005
+Filippo Mattiuzzo,Right-Back,1987-03-07,18,Italy,Parma FC,Serie A,2005/2006,2005
+Luca Cigarini,Defensive Midfield,1986-06-20,19,Italy,Parma FC,Serie A,2005/2006,2005
+Mark Bresciano,Central Midfield,1980-02-11,25,Australia,Parma FC,Serie A,2005/2006,2005
+Fábio Simplício,Central Midfield,1979-09-23,25,Brazil,Parma FC,Serie A,2005/2006,2005
+Vince Grella,Central Midfield,1979-10-05,25,Australia,Parma FC,Serie A,2005/2006,2005
+Jorge Bolaño,Central Midfield,1977-04-28,28,Colombia,Parma FC,Serie A,2005/2006,2005
+Daniele Dessena,Central Midfield,1987-05-10,18,Italy,Parma FC,Serie A,2005/2006,2005
+Filippo Savi,Central Midfield,1987-01-29,18,Italy,Parma FC,Serie A,2005/2006,2005
+Matteo Mandorlini,Central Midfield,1988-10-22,16,Italy,Parma FC,Serie A,2005/2006,2005
+Marco Marchionni,Right Midfield,1980-07-22,24,Italy,Parma FC,Serie A,2005/2006,2005
+Andrea Pisanu,Right Midfield,1982-01-07,23,Italy,Parma FC,Serie A,2005/2006,2005
+Domenico Morfeo,Attacking Midfield,1976-01-16,29,Italy,Parma FC,Serie A,2005/2006,2005
+Alessandro Rosina,Second Striker,1984-01-31,21,Italy,Parma FC,Serie A,2005/2006,2005
+Bernardo Corradi,Centre-Forward,1976-03-30,29,Italy,Parma FC,Serie A,2005/2006,2005
+Marco Delvecchio,Centre-Forward,1973-04-07,32,Italy,Parma FC,Serie A,2005/2006,2005
+Francesco Ruopolo,Centre-Forward,1983-03-20,22,Italy,Parma FC,Serie A,2005/2006,2005
+Gaetano Grieco,Centre-Forward,1982-11-07,22,Italy,Parma FC,Serie A,2005/2006,2005
+Zlatko Dedic,Centre-Forward,1984-10-05,20,Slovenia,Parma FC,Serie A,2005/2006,2005
+Daniele Paponi,Centre-Forward,1988-04-16,17,Italy,Parma FC,Serie A,2005/2006,2005
+Matteo Sereni,Goalkeeper,1975-02-11,30,Italy,SS Lazio,Serie A,2005/2006,2005
+Angelo Peruzzi,Goalkeeper,1970-02-16,35,Italy,SS Lazio,Serie A,2005/2006,2005
+Samir Handanovic,Goalkeeper,1984-07-14,20,Slovenia,SS Lazio,Serie A,2005/2006,2005
+Marco Ballotta,Goalkeeper,1964-04-03,41,Italy,SS Lazio,Serie A,2005/2006,2005
+Alessio De Angelis,Goalkeeper,1987-02-25,18,Italy,SS Lazio,Serie A,2005/2006,2005
+Simone Santarelli,Goalkeeper,1988-09-07,16,Italy,SS Lazio,Serie A,2005/2006,2005
+Fabio Zaccardi,Defender,1986-11-28,18,Italy,SS Lazio,Serie A,2005/2006,2005
+Giordano D'Andrea,Defender,1987-10-03,17,Italy,SS Lazio,Serie A,2005/2006,2005
+Matías Lequi,Centre-Back,1981-05-13,24,Argentina,SS Lazio,Serie A,2005/2006,2005
+Cribari,Centre-Back,1980-03-06,25,Brazil,SS Lazio,Serie A,2005/2006,2005
+Guglielmo Stendardo,Centre-Back,1981-05-06,24,Italy,SS Lazio,Serie A,2005/2006,2005
+Sebastiano Siviglia,Centre-Back,1973-03-29,32,Italy,SS Lazio,Serie A,2005/2006,2005
+Simone Sannibale,Centre-Back,1986-03-10,19,Italy,SS Lazio,Serie A,2005/2006,2005
+Felice Piccolo,Centre-Back,1983-08-27,21,Italy,SS Lazio,Serie A,2005/2006,2005
+Cristiano Gimelli,Centre-Back,1982-02-15,23,Italy,SS Lazio,Serie A,2005/2006,2005
+Claudio Castroni,Centre-Back,1987-01-13,18,Italy,SS Lazio,Serie A,2005/2006,2005
+Andrea Giallombardo,Left-Back,1980-08-19,24,Italy,SS Lazio,Serie A,2005/2006,2005
+Marco Angeletti,Left-Back,1986-02-19,19,Italy,SS Lazio,Serie A,2005/2006,2005
+Guilherme Siqueira,Left-Back,1986-04-28,19,Brazil,SS Lazio,Serie A,2005/2006,2005
+Massimo Oddo,Right-Back,1976-06-14,29,Italy,SS Lazio,Serie A,2005/2006,2005
+Luciano Zauri,Right-Back,1978-01-20,27,Italy,SS Lazio,Serie A,2005/2006,2005
+Manuel Belleri,Right-Back,1977-08-29,27,Italy,SS Lazio,Serie A,2005/2006,2005
+Lorenzo De Silvestri,Right-Back,1988-05-23,17,Italy,SS Lazio,Serie A,2005/2006,2005
+Simone Perugini,Midfielder,1986-02-07,19,Italy,SS Lazio,Serie A,2005/2006,2005
+Francesco Torroni,Midfielder,1986-03-05,19,Italy,SS Lazio,Serie A,2005/2006,2005
+Ousmane Dabo,Defensive Midfield,1977-02-08,28,France,SS Lazio,Serie A,2005/2006,2005
+Fabio Liverani,Defensive Midfield,1976-04-29,29,Italy,SS Lazio,Serie A,2005/2006,2005
+Roberto Baronio,Defensive Midfield,1977-12-11,27,Italy,SS Lazio,Serie A,2005/2006,2005
+Valon Behrami,Defensive Midfield,1985-04-19,20,Switzerland,SS Lazio,Serie A,2005/2006,2005
+Dino Baggio,Defensive Midfield,1971-07-24,33,Italy,SS Lazio,Serie A,2005/2006,2005
+Miguel Mea Vitali,Defensive Midfield,1981-02-19,24,Venezuela,SS Lazio,Serie A,2005/2006,2005
+Gaby Mudingayi,Defensive Midfield,1981-10-01,23,Belgium,SS Lazio,Serie A,2005/2006,2005
+Christian Keller,Defensive Midfield,1980-08-17,24,Denmark,SS Lazio,Serie A,2005/2006,2005
+Fabio Firmani,Central Midfield,1978-05-26,27,Italy,SS Lazio,Serie A,2005/2006,2005
+Andrea Ciani,Central Midfield,1985-05-24,20,Italy,SS Lazio,Serie A,2005/2006,2005
+Alessio Ferrazza,Central Midfield,1986-01-26,19,Italy,SS Lazio,Serie A,2005/2006,2005
+César,Left Midfield,1974-10-24,30,Brazil,SS Lazio,Serie A,2005/2006,2005
+Massimo Bonanni,Left Midfield,1982-06-10,23,Italy,SS Lazio,Serie A,2005/2006,2005
+Braian Robert,Left Midfield,1984-02-08,21,Argentina,SS Lazio,Serie A,2005/2006,2005
+Stefano Mauri,Attacking Midfield,1980-01-08,25,Italy,SS Lazio,Serie A,2005/2006,2005
+Christian Manfredini,Left Winger,1975-05-01,30,Cote d'Ivoire,SS Lazio,Serie A,2005/2006,2005
+Fabrizio Melara,Right Winger,1986-05-06,19,Italy,SS Lazio,Serie A,2005/2006,2005
+Goran Pandev,Second Striker,1983-07-27,21,North Macedonia,SS Lazio,Serie A,2005/2006,2005
+Roberto Delgado,Second Striker,1986-05-07,19,Italy,SS Lazio,Serie A,2005/2006,2005
+Tommaso Rocchi,Centre-Forward,1977-09-19,27,Italy,SS Lazio,Serie A,2005/2006,2005
+Simone Inzaghi,Centre-Forward,1976-04-05,29,Italy,SS Lazio,Serie A,2005/2006,2005
+Paolo Di Canio,Centre-Forward,1968-07-09,36,Italy,SS Lazio,Serie A,2005/2006,2005
+Roberto Muzzi,Centre-Forward,1971-09-21,33,Italy,SS Lazio,Serie A,2005/2006,2005
+Igli Tare,Centre-Forward,1973-07-25,31,Albania,SS Lazio,Serie A,2005/2006,2005
+Morgan De Sanctis,Goalkeeper,1977-03-26,28,Italy,Udinese Calcio,Serie A,2005/2006,2005
+Gabriele Paoletti,Goalkeeper,1978-04-11,27,Italy,Udinese Calcio,Serie A,2005/2006,2005
+Marco Murriero,Goalkeeper,1983-01-20,22,Italy,Udinese Calcio,Serie A,2005/2006,2005
+Carlo Sciarrone,Goalkeeper,1983-11-17,21,Italy,Udinese Calcio,Serie A,2005/2006,2005
+Cesare Natali,Centre-Back,1979-04-05,26,Italy,Udinese Calcio,Serie A,2005/2006,2005
+Felipe,Centre-Back,1984-07-31,20,Brazil,Udinese Calcio,Serie A,2005/2006,2005
+Rodrigo Defendi,Centre-Back,1986-06-16,19,Brazil,Udinese Calcio,Serie A,2005/2006,2005
+Néstor Sensini,Centre-Back,1966-10-12,38,Argentina,Udinese Calcio,Serie A,2005/2006,2005
+Cristián Zapata,Centre-Back,1986-09-30,18,Colombia,Udinese Calcio,Serie A,2005/2006,2005
+Michele Rinaldi,Centre-Back,1987-01-09,18,Italy,Udinese Calcio,Serie A,2005/2006,2005
+Emanuele Politti,Centre-Back,1987-07-21,17,Italy,Udinese Calcio,Serie A,2005/2006,2005
+Gustavo Lazzaretti,Centre-Back,1984-03-09,21,Brazil,Udinese Calcio,Serie A,2005/2006,2005
+Vincent Candela,Left-Back,1973-10-24,31,France,Udinese Calcio,Serie A,2005/2006,2005
+Mirko Pieri,Left-Back,1978-07-24,26,Italy,Udinese Calcio,Serie A,2005/2006,2005
+Salvatore Masiello,Left-Back,1982-01-31,23,Italy,Udinese Calcio,Serie A,2005/2006,2005
+Massimo Gotti,Left-Back,1986-05-27,19,Italy,Udinese Calcio,Serie A,2005/2006,2005
+Marco Motta,Right-Back,1986-05-14,19,Italy,Udinese Calcio,Serie A,2005/2006,2005
+Damiano Zenoni,Right-Back,1977-04-23,28,Italy,Udinese Calcio,Serie A,2005/2006,2005
+Valerio Bertotto,Right-Back,1973-01-15,32,Italy,Udinese Calcio,Serie A,2005/2006,2005
+Juarez,Right-Back,1973-09-25,31,Brazil,Udinese Calcio,Serie A,2005/2006,2005
+Roberto Baronio,Defensive Midfield,1977-12-11,27,Italy,Udinese Calcio,Serie A,2005/2006,2005
+Michele Pazienza,Defensive Midfield,1982-08-05,22,Italy,Udinese Calcio,Serie A,2005/2006,2005
+José Luís Vidigal,Defensive Midfield,1973-03-15,32,Portugal,Udinese Calcio,Serie A,2005/2006,2005
+Abel Aguilar,Defensive Midfield,1985-01-06,20,Colombia,Udinese Calcio,Serie A,2005/2006,2005
+Claudio Vargas,Defensive Midfield,1985-12-15,19,Paraguay,Udinese Calcio,Serie A,2005/2006,2005
+Christian Obodo,Central Midfield,1984-05-11,21,Nigeria,Udinese Calcio,Serie A,2005/2006,2005
+Giampiero Pinzi,Central Midfield,1981-03-11,24,Italy,Udinese Calcio,Serie A,2005/2006,2005
+Sulley Muntari,Central Midfield,1984-08-27,20,Ghana,Udinese Calcio,Serie A,2005/2006,2005
+Fernando Tissone,Central Midfield,1986-07-24,18,Argentina,Udinese Calcio,Serie A,2005/2006,2005
+Piermario Morosini,Central Midfield,1986-07-05,18,Italy,Udinese Calcio,Serie A,2005/2006,2005
+Stefano Mauri,Attacking Midfield,1980-01-08,25,Italy,Udinese Calcio,Serie A,2005/2006,2005
+Al-Saadi Al Gaddafi,Attacking Midfield,1973-05-28,32,Libya,Udinese Calcio,Serie A,2005/2006,2005
+Roman Eremenko,Attacking Midfield,1987-03-19,18,Finland,Udinese Calcio,Serie A,2005/2006,2005
+Alessandro Osso Armellino,Forward,1987-05-05,18,Italy,Udinese Calcio,Serie A,2005/2006,2005
+Flavio Lazzari,Left Winger,1986-09-05,18,Italy,Udinese Calcio,Serie A,2005/2006,2005
+Simone Pepe,Right Winger,1983-08-30,21,Italy,Udinese Calcio,Serie A,2005/2006,2005
+Barreto,Second Striker,1985-07-12,19,Brazil,Udinese Calcio,Serie A,2005/2006,2005
+Vincenzo Iaquinta,Centre-Forward,1979-11-21,25,Italy,Udinese Calcio,Serie A,2005/2006,2005
+Antonio Di Natale,Centre-Forward,1977-10-13,27,Italy,Udinese Calcio,Serie A,2005/2006,2005
+David Di Michele,Centre-Forward,1976-01-06,29,Italy,Udinese Calcio,Serie A,2005/2006,2005
+Dino Fava,Centre-Forward,1977-03-16,28,Italy,Udinese Calcio,Serie A,2005/2006,2005
+Fausto Rossini,Centre-Forward,1978-03-02,27,Italy,Udinese Calcio,Serie A,2005/2006,2005
+Zlatan Muslimovic,Centre-Forward,1981-03-06,24,Bosnia-Herzegovina,Udinese Calcio,Serie A,2005/2006,2005
+Federico Gerardi,Centre-Forward,1987-12-10,17,Italy,Udinese Calcio,Serie A,2005/2006,2005
+Ferdinando Sforzini,Centre-Forward,1984-12-04,20,Italy,Udinese Calcio,Serie A,2005/2006,2005
+Luca Castellazzi,Goalkeeper,1975-07-19,29,Italy,UC Sampdoria,Serie A,2005/2006,2005
+Francesco Antonioli,Goalkeeper,1969-09-14,35,Italy,UC Sampdoria,Serie A,2005/2006,2005
+Michele Mangiapelo,Goalkeeper,1986-05-30,19,Italy,UC Sampdoria,Serie A,2005/2006,2005
+Gianluca Di Gennaro,Goalkeeper,1987-02-11,18,Italy,UC Sampdoria,Serie A,2005/2006,2005
+Mark Iuliano,Centre-Back,1973-08-12,31,Italy,UC Sampdoria,Serie A,2005/2006,2005
+Giulio Falcone,Centre-Back,1974-05-31,31,Italy,UC Sampdoria,Serie A,2005/2006,2005
+Luigi Sala,Centre-Back,1974-02-21,31,Italy,UC Sampdoria,Serie A,2005/2006,2005
+Marco Zamboni,Centre-Back,1977-12-07,27,Italy,UC Sampdoria,Serie A,2005/2006,2005
+Marcello Castellini,Centre-Back,1973-01-02,32,Italy,UC Sampdoria,Serie A,2005/2006,2005
+Simone Pavan,Centre-Back,1974-04-29,31,Italy,UC Sampdoria,Serie A,2005/2006,2005
+Luca Calzolaio,Centre-Back,1988-07-20,16,Italy,UC Sampdoria,Serie A,2005/2006,2005
+Alessandro Bastrini,Centre-Back,1987-04-03,18,Italy,UC Sampdoria,Serie A,2005/2006,2005
+Max Tonetto,Left-Back,1974-11-18,30,Italy,UC Sampdoria,Serie A,2005/2006,2005
+Marco Pisano,Left-Back,1981-08-13,23,Italy,UC Sampdoria,Serie A,2005/2006,2005
+Cristian Zenoni,Right-Back,1977-04-23,28,Italy,UC Sampdoria,Serie A,2005/2006,2005
+Ignazio Abate,Right-Back,1986-11-12,18,Italy,UC Sampdoria,Serie A,2005/2006,2005
+Angelo Palombo,Defensive Midfield,1981-09-25,23,Italy,UC Sampdoria,Serie A,2005/2006,2005
+Mark Edusei,Defensive Midfield,1976-09-29,28,Ghana,UC Sampdoria,Serie A,2005/2006,2005
+Bruno Fontes Da Mota,Defensive Midfield,1987-01-24,18,Switzerland,UC Sampdoria,Serie A,2005/2006,2005
+Sergio Volpi,Central Midfield,1974-02-02,31,Italy,UC Sampdoria,Serie A,2005/2006,2005
+Samuele Dalla Bona,Central Midfield,1981-02-06,24,Italy,UC Sampdoria,Serie A,2005/2006,2005
+Gennaro Delvecchio,Central Midfield,1978-03-25,27,Italy,UC Sampdoria,Serie A,2005/2006,2005
+Gionata Mingozzi,Central Midfield,1984-12-29,20,Italy,UC Sampdoria,Serie A,2005/2006,2005
+Paolo Castellazzi,Central Midfield,1987-07-04,17,Italy,UC Sampdoria,Serie A,2005/2006,2005
+Aimo Diana,Right Midfield,1978-01-02,27,Italy,UC Sampdoria,Serie A,2005/2006,2005
+Danilo Soddimo,Left Midfield,1987-09-27,17,Italy,UC Sampdoria,Serie A,2005/2006,2005
+Lamberto Zauli,Attacking Midfield,1971-07-19,33,Italy,UC Sampdoria,Serie A,2005/2006,2005
+Bidre'ce Azor,Forward,1988-03-14,17,Haiti,UC Sampdoria,Serie A,2005/2006,2005
+Pietro Arnulfo,Forward,1988-09-13,16,Italy,UC Sampdoria,Serie A,2005/2006,2005
+Mattia Marchesetti,Left Winger,1983-09-28,21,Italy,UC Sampdoria,Serie A,2005/2006,2005
+Thomas Job,Right Winger,1984-08-20,20,Cameroon,UC Sampdoria,Serie A,2005/2006,2005
+Andrea Gasbarroni,Second Striker,1981-08-06,23,Italy,UC Sampdoria,Serie A,2005/2006,2005
+Fabio Bazzani,Centre-Forward,1976-10-20,28,Italy,UC Sampdoria,Serie A,2005/2006,2005
+Francesco Flachi,Centre-Forward,1975-04-08,30,Italy,UC Sampdoria,Serie A,2005/2006,2005
+Emiliano Bonazzoli,Centre-Forward,1979-01-20,26,Italy,UC Sampdoria,Serie A,2005/2006,2005
+Vitali Kutuzov,Centre-Forward,1980-03-20,25,Belarus,UC Sampdoria,Serie A,2005/2006,2005
+Marco Borriello,Centre-Forward,1982-06-18,23,Italy,UC Sampdoria,Serie A,2005/2006,2005
+Corrado Colombo,Centre-Forward,1979-08-03,25,Italy,UC Sampdoria,Serie A,2005/2006,2005
+Salvatore Foti,Centre-Forward,1988-08-08,16,Italy,UC Sampdoria,Serie A,2005/2006,2005
+Ivan Pelizzoli,Goalkeeper,1980-11-18,24,Italy,Reggina Calcio,Serie A,2005/2006,2005
+Nicola Pavarini,Goalkeeper,1974-02-24,31,Italy,Reggina Calcio,Serie A,2005/2006,2005
+Martin Lejsal,Goalkeeper,1982-09-16,22,Czech Republic,Reggina Calcio,Serie A,2005/2006,2005
+Antonio Saviano,Goalkeeper,1984-01-07,21,Italy,Reggina Calcio,Serie A,2005/2006,2005
+Giuseppe Saraò,Goalkeeper,1988-01-01,17,Italy,Reggina Calcio,Serie A,2005/2006,2005
+Alessandro Lucarelli,Centre-Back,1977-07-22,27,Italy,Reggina Calcio,Serie A,2005/2006,2005
+Marco Zamboni,Centre-Back,1977-12-07,27,Italy,Reggina Calcio,Serie A,2005/2006,2005
+Ivan Franceschini,Centre-Back,1976-12-07,28,Italy,Reggina Calcio,Serie A,2005/2006,2005
+Maurizio Lauro,Centre-Back,1981-03-12,24,Italy,Reggina Calcio,Serie A,2005/2006,2005
+Maurizio Lanzaro,Centre-Back,1982-03-14,23,Italy,Reggina Calcio,Serie A,2005/2006,2005
+Gaetano De Rosa,Centre-Back,1973-05-10,32,Italy,Reggina Calcio,Serie A,2005/2006,2005
+Alessandro Zoppetti,Centre-Back,1979-03-28,26,Italy,Reggina Calcio,Serie A,2005/2006,2005
+Antonio Giosa,Centre-Back,1983-08-21,21,Italy,Reggina Calcio,Serie A,2005/2006,2005
+Gaetano Ungaro,Centre-Back,1987-09-21,17,Italy,Reggina Calcio,Serie A,2005/2006,2005
+Jacopo Balestri,Left-Back,1975-06-21,30,Italy,Reggina Calcio,Serie A,2005/2006,2005
+Francesco Modesto,Left-Back,1982-02-16,23,Italy,Reggina Calcio,Serie A,2005/2006,2005
+Giandomenico Mesto,Right-Back,1982-05-25,23,Italy,Reggina Calcio,Serie A,2005/2006,2005
+Juriy Cannarsa,Right-Back,1976-04-22,29,Italy,Reggina Calcio,Serie A,2005/2006,2005
+Demetrio Cutrupi,Right-Back,1987-11-01,17,Italy,Reggina Calcio,Serie A,2005/2006,2005
+Bruno Lança,Midfielder,1983-02-18,22,Brazil,Reggina Calcio,Serie A,2005/2006,2005
+Mozart,Defensive Midfield,1979-11-08,25,Brazil,Reggina Calcio,Serie A,2005/2006,2005
+Carlos Paredes,Defensive Midfield,1976-07-16,28,Paraguay,Reggina Calcio,Serie A,2005/2006,2005
+Simone Missiroli,Defensive Midfield,1986-05-23,19,Italy,Reggina Calcio,Serie A,2005/2006,2005
+Giacomo Tedesco,Central Midfield,1976-02-01,29,Italy,Reggina Calcio,Serie A,2005/2006,2005
+Luca Rigoni,Central Midfield,1984-12-07,20,Italy,Reggina Calcio,Serie A,2005/2006,2005
+Filippo Carobbio,Central Midfield,1979-10-15,25,Italy,Reggina Calcio,Serie A,2005/2006,2005
+Davide Biondini,Central Midfield,1983-01-24,22,Italy,Reggina Calcio,Serie A,2005/2006,2005
+Antonino Barillà,Central Midfield,1988-04-01,17,Italy,Reggina Calcio,Serie A,2005/2006,2005
+Ivan Castiglia,Central Midfield,1988-01-06,17,Italy,Reggina Calcio,Serie A,2005/2006,2005
+Luca Vigiani,Right Midfield,1976-08-25,28,Italy,Reggina Calcio,Serie A,2005/2006,2005
+Salvatore Vicari,Right Midfield,1981-01-31,24,Italy,Reggina Calcio,Serie A,2005/2006,2005
+Murilo Macari,Left Midfield,1987-09-12,17,Brazil,Reggina Calcio,Serie A,2005/2006,2005
+Francesco Cozza,Attacking Midfield,1974-01-19,31,Italy,Reggina Calcio,Serie A,2005/2006,2005
+Luigi Tandurella,Forward,1987-02-27,18,Italy,Reggina Calcio,Serie A,2005/2006,2005
+Ilyas Zeytulaev,Left Winger,1982-08-13,22,Uzbekistan,Reggina Calcio,Serie A,2005/2006,2005
+Emiliano Bonazzoli,Centre-Forward,1979-01-20,26,Italy,Reggina Calcio,Serie A,2005/2006,2005
+Lampros Choutos,Centre-Forward,1979-12-07,25,Greece,Reggina Calcio,Serie A,2005/2006,2005
+Nicola Amoruso,Centre-Forward,1974-08-29,30,Italy,Reggina Calcio,Serie A,2005/2006,2005
+Simone Cavalli,Centre-Forward,1979-01-10,26,Italy,Reggina Calcio,Serie A,2005/2006,2005
+Rolando Bianchi,Centre-Forward,1983-02-15,22,Italy,Reggina Calcio,Serie A,2005/2006,2005
+Fabio Ceravolo,Centre-Forward,1987-03-05,18,Italy,Reggina Calcio,Serie A,2005/2006,2005
+Henri Shiba,Centre-Forward,1988-03-16,17,Albania,Reggina Calcio,Serie A,2005/2006,2005
+Marco Amelia,Goalkeeper,1982-04-02,23,Italy,AS Livorno,Serie A,2005/2006,2005
+Paolo Acerbis,Goalkeeper,1981-05-05,24,Italy,AS Livorno,Serie A,2005/2006,2005
+Paolo Ginestra,Goalkeeper,1979-02-14,26,Italy,AS Livorno,Serie A,2005/2006,2005
+Edoardo Grosso,Goalkeeper,1987-03-03,18,Italy,AS Livorno,Serie A,2005/2006,2005
+Federico Del Vivo,Defender,1988-06-29,17,Italy,AS Livorno,Serie A,2005/2006,2005
+Alessandro Lucarelli,Centre-Back,1977-07-22,27,Italy,AS Livorno,Serie A,2005/2006,2005
+Jorge Vargas,Centre-Back,1976-02-08,29,Chile,AS Livorno,Serie A,2005/2006,2005
+Alessandro Grandoni,Centre-Back,1977-07-22,27,Italy,AS Livorno,Serie A,2005/2006,2005
+Fabio Galante,Centre-Back,1973-11-20,31,Italy,AS Livorno,Serie A,2005/2006,2005
+Stefano Fanucci,Centre-Back,1979-01-27,26,Italy,AS Livorno,Serie A,2005/2006,2005
+Francesco Coco,Left-Back,1977-01-08,28,Italy,AS Livorno,Serie A,2005/2006,2005
+Andrea Giallombardo,Left-Back,1980-08-19,24,Italy,AS Livorno,Serie A,2005/2006,2005
+César Prates,Right-Back,1975-02-08,30,Brazil,AS Livorno,Serie A,2005/2006,2005
+Marc Pfertzel,Right-Back,1981-05-21,24,France,AS Livorno,Serie A,2005/2006,2005
+Matteo Melara,Right-Back,1979-07-08,25,Italy,AS Livorno,Serie A,2005/2006,2005
+Stefano Argilli,Right-Back,1973-01-05,32,Italy,AS Livorno,Serie A,2005/2006,2005
+David Balleri,Right-Back,1969-03-28,36,Italy,AS Livorno,Serie A,2005/2006,2005
+Alessandro Stefanini,Midfielder,1987-06-23,18,N/A,AS Livorno,Serie A,2005/2006,2005
+Emmanuel Osei,Defensive Midfield,1982-08-23,22,Ghana,AS Livorno,Serie A,2005/2006,2005
+Alessandro Gambadori,Defensive Midfield,1981-01-03,24,Italy,AS Livorno,Serie A,2005/2006,2005
+Diego De Ascentis,Defensive Midfield,1976-07-31,28,Italy,AS Livorno,Serie A,2005/2006,2005
+Giuseppe Colucci,Central Midfield,1980-08-24,24,Italy,AS Livorno,Serie A,2005/2006,2005
+Stefano Morrone,Central Midfield,1978-10-26,26,Italy,AS Livorno,Serie A,2005/2006,2005
+Dario Passoni,Central Midfield,1974-02-09,31,Italy,AS Livorno,Serie A,2005/2006,2005
+Gennaro Ruotolo,Central Midfield,1967-03-20,38,Italy,AS Livorno,Serie A,2005/2006,2005
+Luis Fernando Centi,Central Midfield,1976-09-16,28,Italy,AS Livorno,Serie A,2005/2006,2005
+Alessandro Marchetti,Right Midfield,1988-05-13,17,Italy,AS Livorno,Serie A,2005/2006,2005
+Zé Rodolpho,Left Midfield,1984-05-15,21,Brazil,AS Livorno,Serie A,2005/2006,2005
+Raffaele Palladino,Left Winger,1984-04-17,21,Italy,AS Livorno,Serie A,2005/2006,2005
+Nikola Lazetic,Right Winger,1978-02-09,27,Serbia,AS Livorno,Serie A,2005/2006,2005
+Cristiano Lucarelli,Centre-Forward,1975-10-04,29,Italy,AS Livorno,Serie A,2005/2006,2005
+Ibrahima Bakayoko,Centre-Forward,1976-12-31,28,Cote d'Ivoire,AS Livorno,Serie A,2005/2006,2005
+Tomas Danilevicius,Centre-Forward,1978-07-18,26,Lithuania,AS Livorno,Serie A,2005/2006,2005
+Paulinho,Centre-Forward,1986-01-10,19,Brazil,AS Livorno,Serie A,2005/2006,2005
+Gabriele Falchini,Centre-Forward,1986-10-20,18,Italy,AS Livorno,Serie A,2005/2006,2005
+Lorenzo Squizzi,Goalkeeper,1974-06-20,31,Italy,Chievo Verona,Serie A,2005/2006,2005
+Alberto Fontana,Goalkeeper,1967-01-23,38,Italy,Chievo Verona,Serie A,2005/2006,2005
+Enrico Alfonso,Goalkeeper,1988-05-04,17,Italy,Chievo Verona,Serie A,2005/2006,2005
+Michele Martello,Goalkeeper,1989-01-16,16,Italy,Chievo Verona,Serie A,2005/2006,2005
+Marco Malagò,Centre-Back,1978-12-30,26,Italy,Chievo Verona,Serie A,2005/2006,2005
+Andrea Mantovani,Centre-Back,1984-06-22,21,Italy,Chievo Verona,Serie A,2005/2006,2005
+Giuseppe Scurto,Centre-Back,1984-01-05,21,Italy,Chievo Verona,Serie A,2005/2006,2005
+Davide Mandelli,Centre-Back,1977-06-28,28,Italy,Chievo Verona,Serie A,2005/2006,2005
+John Mensah,Centre-Back,1982-11-29,22,Ghana,Chievo Verona,Serie A,2005/2006,2005
+Lorenzo D'Anna,Centre-Back,1972-01-29,33,Italy,Chievo Verona,Serie A,2005/2006,2005
+Antonis Natsouras,Centre-Back,1979-12-18,25,Greece,Chievo Verona,Serie A,2005/2006,2005
+Giovanni Marchese,Centre-Back,1984-10-17,20,Italy,Chievo Verona,Serie A,2005/2006,2005
+Cesare Rickler,Centre-Back,1987-03-18,18,Italy,Chievo Verona,Serie A,2005/2006,2005
+Maycol Andriani,Centre-Back,1987-09-17,17,Italy,Chievo Verona,Serie A,2005/2006,2005
+Leonardo Moracci,Centre-Back,1987-08-22,17,Italy,Chievo Verona,Serie A,2005/2006,2005
+Salvatore Lanna,Left-Back,1976-07-31,28,Italy,Chievo Verona,Serie A,2005/2006,2005
+Giuseppe Gemiti,Left-Back,1981-05-03,24,Germany,Chievo Verona,Serie A,2005/2006,2005
+Fabio Moro,Right-Back,1975-07-13,29,Italy,Chievo Verona,Serie A,2005/2006,2005
+Emiliano Landolina,Midfielder,1986-07-23,18,Italy,Chievo Verona,Serie A,2005/2006,2005
+Federico Giunti,Defensive Midfield,1971-08-06,33,Italy,Chievo Verona,Serie A,2005/2006,2005
+Matteo Brighi,Central Midfield,1981-02-14,24,Italy,Chievo Verona,Serie A,2005/2006,2005
+Andrea Zanchetta,Central Midfield,1975-02-02,30,Italy,Chievo Verona,Serie A,2005/2006,2005
+Paolo Sammarco,Central Midfield,1983-03-17,22,Italy,Chievo Verona,Serie A,2005/2006,2005
+Yuri Breviario,Central Midfield,1983-04-01,22,Italy,Chievo Verona,Serie A,2005/2006,2005
+Luciano,Right Midfield,1975-12-03,29,Brazil,Chievo Verona,Serie A,2005/2006,2005
+Daniele Franceschini,Left Midfield,1976-01-19,29,Italy,Chievo Verona,Serie A,2005/2006,2005
+Franco Semioli,Right Winger,1980-06-20,25,Italy,Chievo Verona,Serie A,2005/2006,2005
+Filippo Antonelli Agomeri,Right Winger,1978-07-13,26,Italy,Chievo Verona,Serie A,2005/2006,2005
+Victor Obinna,Second Striker,1987-03-25,18,Nigeria,Chievo Verona,Serie A,2005/2006,2005
+Simone Tiribocchi,Centre-Forward,1978-01-31,27,Italy,Chievo Verona,Serie A,2005/2006,2005
+Amauri,Centre-Forward,1980-06-03,25,Italy,Chievo Verona,Serie A,2005/2006,2005
+Sergio Pellissier,Centre-Forward,1979-04-12,26,Italy,Chievo Verona,Serie A,2005/2006,2005
+Federico Cossato,Centre-Forward,1972-08-07,32,Italy,Chievo Verona,Serie A,2005/2006,2005
+Salvatore Bruno,Centre-Forward,1979-11-09,25,Italy,Chievo Verona,Serie A,2005/2006,2005
+Vincenzo Sicignano,Goalkeeper,1974-07-08,30,Italy,US Lecce,Serie A,2005/2006,2005
+Francesco Benussi,Goalkeeper,1981-10-15,23,Italy,US Lecce,Serie A,2005/2006,2005
+Luca Anania,Goalkeeper,1980-06-21,25,Italy,US Lecce,Serie A,2005/2006,2005
+Antonio Rosati,Goalkeeper,1983-06-26,22,Italy,US Lecce,Serie A,2005/2006,2005
+Davide Petrachi,Goalkeeper,1986-08-14,18,Italy,US Lecce,Serie A,2005/2006,2005
+Karim Saïdi,Centre-Back,1983-03-24,22,Tunisia,US Lecce,Serie A,2005/2006,2005
+Erminio Rullo,Centre-Back,1984-02-19,21,Italy,US Lecce,Serie A,2005/2006,2005
+Souleymane Diamoutene,Centre-Back,1983-01-30,22,Mali,US Lecce,Serie A,2005/2006,2005
+Marco Pecorari,Centre-Back,1977-09-21,27,Italy,US Lecce,Serie A,2005/2006,2005
+Lorenzo Stovini,Centre-Back,1976-11-24,28,Italy,US Lecce,Serie A,2005/2006,2005
+Giuseppe Abruzzese,Centre-Back,1981-05-17,24,Italy,US Lecce,Serie A,2005/2006,2005
+Arnaud Kouyo,Centre-Back,1982-04-08,23,Cote d'Ivoire,US Lecce,Serie A,2005/2006,2005
+Tiziano Polenghi,Centre-Back,1978-09-26,26,Italy,US Lecce,Serie A,2005/2006,2005
+Danilo Romano,Centre-Back,1987-05-29,18,Italy,US Lecce,Serie A,2005/2006,2005
+Gabriel Cichero,Centre-Back,1984-04-25,21,Venezuela,US Lecce,Serie A,2005/2006,2005
+Andrea Esposito,Centre-Back,1986-05-17,19,Italy,US Lecce,Serie A,2005/2006,2005
+Alessandro Camisa,Centre-Back,1985-04-13,20,Italy,US Lecce,Serie A,2005/2006,2005
+Raffaele Schiavi,Centre-Back,1986-03-15,19,Italy,US Lecce,Serie A,2005/2006,2005
+Marco Cassetti,Right-Back,1977-05-29,28,Italy,US Lecce,Serie A,2005/2006,2005
+Philippe Billy,Right-Back,1982-01-13,23,France,US Lecce,Serie A,2005/2006,2005
+Angelo,Right-Back,1981-06-12,24,Brazil,US Lecce,Serie A,2005/2006,2005
+Cristian Ledesma,Defensive Midfield,1982-09-24,22,Italy,US Lecce,Serie A,2005/2006,2005
+Guillermo Giacomazzi,Defensive Midfield,1977-11-21,27,Uruguay,US Lecce,Serie A,2005/2006,2005
+Alex Pinardi,Defensive Midfield,1980-09-05,24,Italy,US Lecce,Serie A,2005/2006,2005
+Drissa Diarra,Defensive Midfield,1985-07-07,19,Mali,US Lecce,Serie A,2005/2006,2005
+Jaime Valdés,Central Midfield,1981-01-11,24,Chile,US Lecce,Serie A,2005/2006,2005
+Alfonso Camorani,Central Midfield,1978-02-21,27,Italy,US Lecce,Serie A,2005/2006,2005
+Gennaro Delvecchio,Central Midfield,1978-03-25,27,Italy,US Lecce,Serie A,2005/2006,2005
+Cristian Agnelli,Central Midfield,1985-09-23,19,Italy,US Lecce,Serie A,2005/2006,2005
+Francesco Marianini,Central Midfield,1979-05-06,26,Italy,US Lecce,Serie A,2005/2006,2005
+Davide Giorgino,Central Midfield,1985-05-04,20,Italy,US Lecce,Serie A,2005/2006,2005
+Aleksey Eremenko Jr.,Attacking Midfield,1983-03-24,22,Finland,US Lecce,Serie A,2005/2006,2005
+Axel Konan,Left Winger,1983-01-25,22,Cote d'Ivoire,US Lecce,Serie A,2005/2006,2005
+Giuseppe Negro,Left Winger,1986-01-02,19,Italy,US Lecce,Serie A,2005/2006,2005
+Babù,Right Winger,1980-12-23,24,Brazil,US Lecce,Serie A,2005/2006,2005
+Mirko Vucinic,Second Striker,1983-10-01,21,Montenegro,US Lecce,Serie A,2005/2006,2005
+Luca Saudati,Centre-Forward,1979-01-18,26,Italy,US Lecce,Serie A,2005/2006,2005
+Graziano Pellè,Centre-Forward,1985-07-15,19,Italy,US Lecce,Serie A,2005/2006,2005
+Giuseppe Cozzolino,Centre-Forward,1985-07-12,19,Italy,US Lecce,Serie A,2005/2006,2005
+Italo Mattioli,Centre-Forward,1985-04-17,20,Italy,US Lecce,Serie A,2005/2006,2005
+Marco Storari,Goalkeeper,1977-01-07,28,Italy,FC Messina Peloro,Serie A,2005/2006,2005
+Andrea Pansera,Goalkeeper,1979-12-28,25,Italy,FC Messina Peloro,Serie A,2005/2006,2005
+Nicholas Caglioni,Goalkeeper,1983-01-14,22,Italy,FC Messina Peloro,Serie A,2005/2006,2005
+Rahman Rezaei,Centre-Back,1975-02-20,30,Iran,FC Messina Peloro,Serie A,2005/2006,2005
+Marco Zoro,Centre-Back,1983-12-27,21,Cote d'Ivoire,FC Messina Peloro,Serie A,2005/2006,2005
+Marco Zanchi,Centre-Back,1977-04-15,28,Italy,FC Messina Peloro,Serie A,2005/2006,2005
+Filippo Cristante,Centre-Back,1977-04-22,28,Italy,FC Messina Peloro,Serie A,2005/2006,2005
+Salvatore Aronica,Centre-Back,1978-01-20,27,Italy,FC Messina Peloro,Serie A,2005/2006,2005
+Duccio Innocenti,Centre-Back,1975-09-20,29,Italy,FC Messina Peloro,Serie A,2005/2006,2005
+Luca Fusco,Centre-Back,1977-08-31,27,Italy,FC Messina Peloro,Serie A,2005/2006,2005
+Salvatore Accursi,Centre-Back,1978-02-03,27,Italy,FC Messina Peloro,Serie A,2005/2006,2005
+Salvatore D'Alterio,Centre-Back,1980-02-17,25,Italy,FC Messina Peloro,Serie A,2005/2006,2005
+Antonio Cucinotta,Centre-Back,1987-01-14,18,Italy,FC Messina Peloro,Serie A,2005/2006,2005
+Matthew Olorunleke,Centre-Back,1983-10-04,21,Nigeria,FC Messina Peloro,Serie A,2005/2006,2005
+Andrei Agius,Centre-Back,1986-08-12,18,Malta,FC Messina Peloro,Serie A,2005/2006,2005
+Domenico Bombara,Centre-Back,1987-04-04,18,Italy,FC Messina Peloro,Serie A,2005/2006,2005
+Shadi Ghosheh,Centre-Back,1987-12-05,17,Jordan,FC Messina Peloro,Serie A,2005/2006,2005
+Alessandro Parisi,Left-Back,1977-04-15,28,Italy,FC Messina Peloro,Serie A,2005/2006,2005
+Rafael,Right-Back,1980-03-13,25,Brazil,FC Messina Peloro,Serie A,2005/2006,2005
+Pierpaolo Ruiz,Midfielder,1987-02-10,18,Italy,FC Messina Peloro,Serie A,2005/2006,2005
+Massimo Donati,Defensive Midfield,1981-03-26,24,Italy,FC Messina Peloro,Serie A,2005/2006,2005
+Gaetano D'Agostino,Central Midfield,1982-06-03,23,Italy,FC Messina Peloro,Serie A,2005/2006,2005
+Carmine Coppola,Central Midfield,1979-01-10,26,Italy,FC Messina Peloro,Serie A,2005/2006,2005
+Manuel Coppola,Central Midfield,1982-05-11,23,Italy,FC Messina Peloro,Serie A,2005/2006,2005
+Mamede,Central Midfield,1974-02-24,31,Portugal,FC Messina Peloro,Serie A,2005/2006,2005
+Antonio Nocerino,Central Midfield,1985-04-09,20,Italy,FC Messina Peloro,Serie A,2005/2006,2005
+Francesco Girillo,Central Midfield,1986-10-01,18,Italy,FC Messina Peloro,Serie A,2005/2006,2005
+Andrea Tummiolo,Central Midfield,1984-03-20,21,Italy,FC Messina Peloro,Serie A,2005/2006,2005
+Domenico Giampà,Right Midfield,1977-02-15,28,Italy,FC Messina Peloro,Serie A,2005/2006,2005
+Salvatore Sullo,Attacking Midfield,1971-10-23,33,Italy,FC Messina Peloro,Serie A,2005/2006,2005
+Renato Bondi,Attacking Midfield,1981-03-20,24,Brazil,FC Messina Peloro,Serie A,2005/2006,2005
+Giuseppe Sculli,Left Winger,1981-03-23,24,Italy,FC Messina Peloro,Serie A,2005/2006,2005
+Filippo Antonelli Agomeri,Right Winger,1978-07-13,26,Italy,FC Messina Peloro,Serie A,2005/2006,2005
+Ivica Iliev,Second Striker,1979-10-27,25,Serbia,FC Messina Peloro,Serie A,2005/2006,2005
+Roberto Nanni,Centre-Forward,1981-08-20,23,Argentina,FC Messina Peloro,Serie A,2005/2006,2005
+Atsushi Yanagisawa,Centre-Forward,1977-05-27,28,Japan,FC Messina Peloro,Serie A,2005/2006,2005
+Arturo Di Napoli,Centre-Forward,1974-04-18,31,Italy,FC Messina Peloro,Serie A,2005/2006,2005
+Riccardo Zampagna,Centre-Forward,1974-11-15,30,Italy,FC Messina Peloro,Serie A,2005/2006,2005
+Zlatan Muslimovic,Centre-Forward,1981-03-06,24,Bosnia-Herzegovina,FC Messina Peloro,Serie A,2005/2006,2005
+Igor Zaniolo,Centre-Forward,1973-03-12,32,Italy,FC Messina Peloro,Serie A,2005/2006,2005
+Sergio Floccari,Centre-Forward,1981-11-12,23,Italy,FC Messina Peloro,Serie A,2005/2006,2005
+Adriano Zancopè,Goalkeeper,1971-11-09,33,Italy,AC Siena,Serie A,2005/2006,2005
+Marco Fortin,Goalkeeper,1974-07-08,30,Italy,AC Siena,Serie A,2005/2006,2005
+Antonio Mirante,Goalkeeper,1983-07-08,21,Italy,AC Siena,Serie A,2005/2006,2005
+Davide Zomer,Goalkeeper,1977-10-21,27,Italy,AC Siena,Serie A,2005/2006,2005
+Michele Mencarelli,Defender,1985-07-28,19,Italy,AC Siena,Serie A,2005/2006,2005
+Nicola Legrottaglie,Centre-Back,1976-10-20,28,Italy,AC Siena,Serie A,2005/2006,2005
+Igor Tudor,Centre-Back,1978-04-16,27,Croatia,AC Siena,Serie A,2005/2006,2005
+Francesco Colonnese,Centre-Back,1971-08-10,33,Italy,AC Siena,Serie A,2005/2006,2005
+Daniele Portanova,Centre-Back,1978-12-17,26,Italy,AC Siena,Serie A,2005/2006,2005
+Paolo Negro,Centre-Back,1972-04-16,33,Italy,AC Siena,Serie A,2005/2006,2005
+Michele Mignani,Centre-Back,1972-04-30,33,Italy,AC Siena,Serie A,2005/2006,2005
+Daniele Gastaldello,Centre-Back,1983-06-25,22,Italy,AC Siena,Serie A,2005/2006,2005
+Gianluca Falsini,Left-Back,1975-10-02,29,Italy,AC Siena,Serie A,2005/2006,2005
+Cristian Molinaro,Left-Back,1983-07-30,21,Italy,AC Siena,Serie A,2005/2006,2005
+Simone Bonomi,Left-Back,1980-11-08,24,Italy,AC Siena,Serie A,2005/2006,2005
+Paolo Foglio,Right-Back,1975-09-08,29,Italy,AC Siena,Serie A,2005/2006,2005
+Simone Vergassola,Defensive Midfield,1976-01-24,29,Italy,AC Siena,Serie A,2005/2006,2005
+Andrea Ardito,Defensive Midfield,1977-01-08,28,Italy,AC Siena,Serie A,2005/2006,2005
+Gennaro Esposito,Defensive Midfield,1985-03-18,20,Italy,AC Siena,Serie A,2005/2006,2005
+Roberto D'Aversa,Central Midfield,1975-08-12,29,Italy,AC Siena,Serie A,2005/2006,2005
+Matteo Paro,Central Midfield,1983-03-17,22,Italy,AC Siena,Serie A,2005/2006,2005
+Jonathan Bachini,Right Midfield,1975-06-05,30,Italy,AC Siena,Serie A,2005/2006,2005
+Alberto Valentim,Right Midfield,1975-03-22,30,Brazil,AC Siena,Serie A,2005/2006,2005
+Tomas Locatelli,Attacking Midfield,1976-06-09,29,Italy,AC Siena,Serie A,2005/2006,2005
+Tomás Guzmán,Attacking Midfield,1982-03-07,23,Paraguay,AC Siena,Serie A,2005/2006,2005
+Francesco Cozza,Attacking Midfield,1974-01-19,31,Italy,AC Siena,Serie A,2005/2006,2005
+Douglas Packer,Attacking Midfield,1987-03-13,18,Brazil,AC Siena,Serie A,2005/2006,2005
+Roberto Nanni,Centre-Forward,1981-08-20,23,Argentina,AC Siena,Serie A,2005/2006,2005
+Enrico Chiesa,Centre-Forward,1970-12-29,34,Italy,AC Siena,Serie A,2005/2006,2005
+Erjon Bogdani,Centre-Forward,1977-04-14,28,Albania,AC Siena,Serie A,2005/2006,2005
+Massimo Marazzina,Centre-Forward,1974-07-16,30,Italy,AC Siena,Serie A,2005/2006,2005
+Rey Volpato,Centre-Forward,1986-08-27,18,Italy,AC Siena,Serie A,2005/2006,2005
+Pasquale Iadaresta,Centre-Forward,1986-03-17,19,Italy,AC Siena,Serie A,2005/2006,2005
+Matteo Sereni,Goalkeeper,1975-02-11,30,Italy,ACD Treviso,Serie A,2005/2006,2005
+Adriano Zancopè,Goalkeeper,1971-11-09,33,Italy,ACD Treviso,Serie A,2005/2006,2005
+Samir Handanovic,Goalkeeper,1984-07-14,20,Slovenia,ACD Treviso,Serie A,2005/2006,2005
+Davide Zomer,Goalkeeper,1977-10-21,27,Italy,ACD Treviso,Serie A,2005/2006,2005
+Daniele Lorenzini,Goalkeeper,1980-11-20,24,Italy,ACD Treviso,Serie A,2005/2006,2005
+Alberto Frison,Goalkeeper,1988-01-22,17,Italy,ACD Treviso,Serie A,2005/2006,2005
+Federico Ziliotto,Defender,1987-02-25,18,Italy,ACD Treviso,Serie A,2005/2006,2005
+William Viali,Centre-Back,1974-11-16,30,Italy,ACD Treviso,Serie A,2005/2006,2005
+Marco Zaninelli,Centre-Back,1977-04-25,28,Italy,ACD Treviso,Serie A,2005/2006,2005
+Stefano Lorenzi,Centre-Back,1977-01-18,28,Italy,ACD Treviso,Serie A,2005/2006,2005
+Paolo Dellafiore,Centre-Back,1985-02-02,20,Italy,ACD Treviso,Serie A,2005/2006,2005
+Marcello Cottafava,Centre-Back,1977-09-08,27,Italy,ACD Treviso,Serie A,2005/2006,2005
+Iacopo La Rocca,Centre-Back,1984-02-17,21,Italy,ACD Treviso,Serie A,2005/2006,2005
+Carlos Valdez,Centre-Back,1983-05-02,22,Uruguay,ACD Treviso,Serie A,2005/2006,2005
+Gustavo Lazzaretti,Centre-Back,1984-03-09,21,Brazil,ACD Treviso,Serie A,2005/2006,2005
+Marco Mallus,Centre-Back,1982-01-24,23,Italy,ACD Treviso,Serie A,2005/2006,2005
+Fabio Di Venanzio,Left-Back,1974-08-22,30,Italy,ACD Treviso,Serie A,2005/2006,2005
+Marco Martin,Left-Back,1987-12-25,17,Italy,ACD Treviso,Serie A,2005/2006,2005
+Anderson,Left-Back,1983-04-01,22,Brazil,ACD Treviso,Serie A,2005/2006,2005
+Alberto Giuliatto,Left-Back,1983-09-17,21,Italy,ACD Treviso,Serie A,2005/2006,2005
+Christian Maggio,Right-Back,1982-02-11,23,Italy,ACD Treviso,Serie A,2005/2006,2005
+Francesco Galeoto,Right-Back,1972-03-17,33,Italy,ACD Treviso,Serie A,2005/2006,2005
+Siumar,Midfielder,1983-06-07,22,Brazil,ACD Treviso,Serie A,2005/2006,2005
+Gianni Guigou,Defensive Midfield,1975-02-22,30,Uruguay,ACD Treviso,Serie A,2005/2006,2005
+Francesco Parravicini,Defensive Midfield,1982-01-31,23,Italy,ACD Treviso,Serie A,2005/2006,2005
+Raffaele De Martino,Defensive Midfield,1986-04-08,19,Italy,ACD Treviso,Serie A,2005/2006,2005
+Riccardo Gissi,Defensive Midfield,1980-03-20,25,Italy,ACD Treviso,Serie A,2005/2006,2005
+Fabio Gallo,Defensive Midfield,1970-09-11,34,Italy,ACD Treviso,Serie A,2005/2006,2005
+Divine Fonjock,Defensive Midfield,1987-01-16,18,Cameroon,ACD Treviso,Serie A,2005/2006,2005
+Walter Baseggio,Central Midfield,1978-08-19,26,Belgium,ACD Treviso,Serie A,2005/2006,2005
+Emanuele Filippini,Central Midfield,1973-07-03,31,Italy,ACD Treviso,Serie A,2005/2006,2005
+Fabio Roselli,Central Midfield,1983-04-12,22,Italy,ACD Treviso,Serie A,2005/2006,2005
+Antonio Filippini,Right Midfield,1973-07-03,31,Italy,ACD Treviso,Serie A,2005/2006,2005
+Jehad Muntasser,Right Midfield,1978-07-26,26,Libya,ACD Treviso,Serie A,2005/2006,2005
+Roberto Chiappara,Right Midfield,1973-11-08,31,Italy,ACD Treviso,Serie A,2005/2006,2005
+Andrea Dossena,Left Midfield,1981-09-11,23,Italy,ACD Treviso,Serie A,2005/2006,2005
+André Pinga,Attacking Midfield,1981-04-27,24,Brazil,ACD Treviso,Serie A,2005/2006,2005
+Andrea Russotto,Attacking Midfield,1988-05-25,17,Italy,ACD Treviso,Serie A,2005/2006,2005
+Blazej Vascak,Attacking Midfield,1983-11-23,21,Slovakia,ACD Treviso,Serie A,2005/2006,2005
+Wilker,Forward,1987-06-16,18,Brazil,ACD Treviso,Serie A,2005/2006,2005
+Alessio Sestu,Right Winger,1983-09-29,21,Italy,ACD Treviso,Serie A,2005/2006,2005
+Daniele Quadrini,Right Winger,1980-07-12,24,Italy,ACD Treviso,Serie A,2005/2006,2005
+Reginaldo,Second Striker,1983-07-31,21,Brazil,ACD Treviso,Serie A,2005/2006,2005
+Dino Fava,Centre-Forward,1977-03-16,28,Italy,ACD Treviso,Serie A,2005/2006,2005
+Marco Borriello,Centre-Forward,1982-06-18,23,Italy,ACD Treviso,Serie A,2005/2006,2005
+Luigi Beghetto,Centre-Forward,1973-07-06,31,Italy,ACD Treviso,Serie A,2005/2006,2005
+Stefano Dall'Acqua,Centre-Forward,1981-07-13,23,Italy,ACD Treviso,Serie A,2005/2006,2005
+Damien Florian,Centre-Forward,1987-01-03,18,Italy,ACD Treviso,Serie A,2005/2006,2005
+Federico Piovaccari,Centre-Forward,1984-09-01,20,Italy,ACD Treviso,Serie A,2005/2006,2005
+Robert Acquafresca,Centre-Forward,1987-09-11,17,Italy,ACD Treviso,Serie A,2005/2006,2005
+Sebastián Cejas,Goalkeeper,1975-04-21,30,Argentina,FC Empoli,Serie A,2005/2006,2005
+Daniele Balli,Goalkeeper,1967-09-16,37,Italy,FC Empoli,Serie A,2005/2006,2005
+Gianluca Berti,Goalkeeper,1967-05-20,38,Italy,FC Empoli,Serie A,2005/2006,2005
+Renato Dossena,Goalkeeper,1987-04-14,18,Italy,FC Empoli,Serie A,2005/2006,2005
+Andrea Coda,Centre-Back,1985-04-25,20,Italy,FC Empoli,Serie A,2005/2006,2005
+Stefano Lucchini,Centre-Back,1980-10-02,24,Italy,FC Empoli,Serie A,2005/2006,2005
+Francesco Pratali,Centre-Back,1979-01-17,26,Italy,FC Empoli,Serie A,2005/2006,2005
+Andrea Raggi,Centre-Back,1984-06-24,21,Italy,FC Empoli,Serie A,2005/2006,2005
+Maxwell,Left-Back,1981-08-27,23,Brazil,FC Empoli,Serie A,2005/2006,2005
+Riccardo Bonetto,Left-Back,1979-03-20,26,Italy,FC Empoli,Serie A,2005/2006,2005
+Vittorio Tosto,Left-Back,1974-06-14,31,Italy,FC Empoli,Serie A,2005/2006,2005
+Nicola Ascoli,Left-Back,1979-09-11,25,Italy,FC Empoli,Serie A,2005/2006,2005
+Emanuel Michelotti,Left-Back,1985-02-06,20,Italy,FC Empoli,Serie A,2005/2006,2005
+Richard Vanigli,Right-Back,1971-06-01,34,Italy,FC Empoli,Serie A,2005/2006,2005
+Paolo Zanetti,Defensive Midfield,1982-12-16,22,Italy,FC Empoli,Serie A,2005/2006,2005
+Francesco Lodi,Defensive Midfield,1984-03-23,21,Italy,FC Empoli,Serie A,2005/2006,2005
+Fabrizio Ficini,Defensive Midfield,1973-10-11,31,Italy,FC Empoli,Serie A,2005/2006,2005
+Sergio Almirón,Central Midfield,1980-11-07,24,Argentina,FC Empoli,Serie A,2005/2006,2005
+Davide Moro,Central Midfield,1982-01-02,23,Italy,FC Empoli,Serie A,2005/2006,2005
+Daniele Buzzegoli,Central Midfield,1983-05-07,22,Italy,FC Empoli,Serie A,2005/2006,2005
+Antonio Buscè,Right Midfield,1975-12-12,29,Italy,FC Empoli,Serie A,2005/2006,2005
+Ighli Vannucchi,Attacking Midfield,1977-08-05,27,Italy,FC Empoli,Serie A,2005/2006,2005
+Davide Matteini,Left Winger,1982-05-11,23,Italy,FC Empoli,Serie A,2005/2006,2005
+Giorgio Noviello,Left Winger,1984-03-06,21,Italy,FC Empoli,Serie A,2005/2006,2005
+Éder,Second Striker,1986-11-15,18,Italy,FC Empoli,Serie A,2005/2006,2005
+Christian Riganó,Centre-Forward,1974-05-25,31,Italy,FC Empoli,Serie A,2005/2006,2005
+Nicola Pozzi,Centre-Forward,1986-06-30,19,Italy,FC Empoli,Serie A,2005/2006,2005
+Francesco Tavano,Centre-Forward,1979-03-02,26,Italy,FC Empoli,Serie A,2005/2006,2005
+Mirco Gasparetto,Centre-Forward,1980-02-02,25,Italy,FC Empoli,Serie A,2005/2006,2005
+Matteo Serafini,Centre-Forward,1978-04-21,27,Italy,FC Empoli,Serie A,2005/2006,2005
+Fabián Carini,Goalkeeper,1979-12-26,25,Uruguay,Cagliari Calcio,Serie A,2005/2006,2005
+Andrea Campagnolo,Goalkeeper,1978-06-17,27,Italy,Cagliari Calcio,Serie A,2005/2006,2005
+Antonio Chimenti,Goalkeeper,1970-06-30,35,Italy,Cagliari Calcio,Serie A,2005/2006,2005
+Luca Tomasig,Goalkeeper,1983-03-11,22,Italy,Cagliari Calcio,Serie A,2005/2006,2005
+Michele Ferri,Centre-Back,1981-05-29,24,Italy,Cagliari Calcio,Serie A,2005/2006,2005
+Francesco Bega,Centre-Back,1974-10-26,30,Italy,Cagliari Calcio,Serie A,2005/2006,2005
+Diego López,Centre-Back,1974-08-22,30,Uruguay,Cagliari Calcio,Serie A,2005/2006,2005
+Michele Canini,Centre-Back,1985-06-05,20,Italy,Cagliari Calcio,Serie A,2005/2006,2005
+Joe Bizera,Centre-Back,1980-05-17,25,Uruguay,Cagliari Calcio,Serie A,2005/2006,2005
+Fabio Vignati,Centre-Back,1984-03-06,21,Italy,Cagliari Calcio,Serie A,2005/2006,2005
+Andrea Peana,Centre-Back,1986-02-12,19,Italy,Cagliari Calcio,Serie A,2005/2006,2005
+Davide Moi,Centre-Back,1985-06-07,20,Italy,Cagliari Calcio,Serie A,2005/2006,2005
+Massimo Gobbi,Left-Back,1980-10-31,24,Italy,Cagliari Calcio,Serie A,2005/2006,2005
+Alessandro Agostini,Left-Back,1979-07-23,25,Italy,Cagliari Calcio,Serie A,2005/2006,2005
+Francesco Pisano,Right-Back,1986-04-29,19,Italy,Cagliari Calcio,Serie A,2005/2006,2005
+Nicola Lai,Midfielder,1986-01-17,19,Italy,Cagliari Calcio,Serie A,2005/2006,2005
+Daniele Conti,Defensive Midfield,1979-01-09,26,Italy,Cagliari Calcio,Serie A,2005/2006,2005
+Alessandro Budel,Defensive Midfield,1981-02-25,24,Italy,Cagliari Calcio,Serie A,2005/2006,2005
+Nelson Abeijón,Defensive Midfield,1973-07-21,31,Uruguay,Cagliari Calcio,Serie A,2005/2006,2005
+Claudio Pani,Defensive Midfield,1986-03-11,19,Italy,Cagliari Calcio,Serie A,2005/2006,2005
+Alessandro Conticchio,Central Midfield,1974-01-19,31,Italy,Cagliari Calcio,Serie A,2005/2006,2005
+Andrea Cossu,Attacking Midfield,1980-05-03,25,Italy,Cagliari Calcio,Serie A,2005/2006,2005
+Andrea Capone,Attacking Midfield,1981-01-08,24,Italy,Cagliari Calcio,Serie A,2005/2006,2005
+Marco Mancosu,Attacking Midfield,1988-08-22,16,Italy,Cagliari Calcio,Serie A,2005/2006,2005
+Alessio Cossu,Forward,1986-01-14,19,Italy,Cagliari Calcio,Serie A,2005/2006,2005
+Antonio Langella,Left Winger,1977-03-30,28,Italy,Cagliari Calcio,Serie A,2005/2006,2005
+Mauro Esposito,Right Winger,1979-06-13,26,Italy,Cagliari Calcio,Serie A,2005/2006,2005
+Claudio Ferrarese,Right Winger,1978-09-07,26,Italy,Cagliari Calcio,Serie A,2005/2006,2005
+David Suazo,Centre-Forward,1979-11-05,25,Honduras,Cagliari Calcio,Serie A,2005/2006,2005
+Andrea Cocco,Centre-Forward,1986-04-08,19,Italy,Cagliari Calcio,Serie A,2005/2006,2005
+Matteo Mancosu,Centre-Forward,1984-12-22,20,Italy,Cagliari Calcio,Serie A,2005/2006,2005
+Carlo Zotti,Goalkeeper,1982-09-03,22,Italy,Ascoli Calcio 1898,Serie A,2005/2006,2005
+Roberto Maurantonio,Goalkeeper,1981-06-07,24,Italy,Ascoli Calcio 1898,Serie A,2005/2006,2005
+Ferdinando Coppola,Goalkeeper,1978-06-10,27,Italy,Ascoli Calcio 1898,Serie A,2005/2006,2005
+Alessandro Boccolini,Goalkeeper,1984-07-14,20,Italy,Ascoli Calcio 1898,Serie A,2005/2006,2005
+Daniele Adani,Centre-Back,1974-07-10,30,Italy,Ascoli Calcio 1898,Serie A,2005/2006,2005
+Maurizio Domizzi,Centre-Back,1980-06-28,25,Italy,Ascoli Calcio 1898,Serie A,2005/2006,2005
+Maurizio Lauro,Centre-Back,1981-03-12,24,Italy,Ascoli Calcio 1898,Serie A,2005/2006,2005
+Mirko Cudini,Centre-Back,1973-09-01,31,Italy,Ascoli Calcio 1898,Serie A,2005/2006,2005
+Massimo Paci,Centre-Back,1978-05-09,27,Italy,Ascoli Calcio 1898,Serie A,2005/2006,2005
+Riccardo Corallo,Centre-Back,1980-03-31,25,Italy,Ascoli Calcio 1898,Serie A,2005/2006,2005
+Salvatore Bocchetti,Centre-Back,1986-11-30,18,Italy,Ascoli Calcio 1898,Serie A,2005/2006,2005
+Riccardo Bonetto,Left-Back,1979-03-20,26,Italy,Ascoli Calcio 1898,Serie A,2005/2006,2005
+Vittorio Tosto,Left-Back,1974-06-14,31,Italy,Ascoli Calcio 1898,Serie A,2005/2006,2005
+Cristiano Del Grosso,Left-Back,1983-03-24,22,Italy,Ascoli Calcio 1898,Serie A,2005/2006,2005
+Lorenzo Pasqualini,Left-Back,1989-08-19,15,Italy,Ascoli Calcio 1898,Serie A,2005/2006,2005
+Gianluca Comotto,Right-Back,1978-10-16,26,Italy,Ascoli Calcio 1898,Serie A,2005/2006,2005
+Francesco Carbone,Right-Back,1980-01-04,25,Italy,Ascoli Calcio 1898,Serie A,2005/2006,2005
+Valerio Virga,Right-Back,1986-06-29,19,Italy,Ascoli Calcio 1898,Serie A,2005/2006,2005
+Angelo Antonazzo,Right-Back,1981-10-02,23,Italy,Ascoli Calcio 1898,Serie A,2005/2006,2005
+Domenico Cristiano,Defensive Midfield,1976-03-29,29,Italy,Ascoli Calcio 1898,Serie A,2005/2006,2005
+Andrea Parola,Defensive Midfield,1979-04-22,26,Italy,Ascoli Calcio 1898,Serie A,2005/2006,2005
+Claudio Costanzo,Defensive Midfield,1985-07-03,19,Italy,Ascoli Calcio 1898,Serie A,2005/2006,2005
+Alessandro Moro,Defensive Midfield,1984-10-02,20,Italy,Ascoli Calcio 1898,Serie A,2005/2006,2005
+Abel Aguilar,Defensive Midfield,1985-01-06,20,Colombia,Ascoli Calcio 1898,Serie A,2005/2006,2005
+Roberto Guana,Central Midfield,1981-01-21,24,Italy,Ascoli Calcio 1898,Serie A,2005/2006,2005
+Nicolás Córdova,Central Midfield,1979-02-09,26,Chile,Ascoli Calcio 1898,Serie A,2005/2006,2005
+Michele Fini,Central Midfield,1974-06-14,31,Italy,Ascoli Calcio 1898,Serie A,2005/2006,2005
+Luca Belingheri,Central Midfield,1983-04-06,22,Italy,Ascoli Calcio 1898,Serie A,2005/2006,2005
+Ivano Della Morte,Central Midfield,1974-10-13,30,Italy,Ascoli Calcio 1898,Serie A,2005/2006,2005
+Mattia Biso,Central Midfield,1977-05-06,28,Italy,Ascoli Calcio 1898,Serie A,2005/2006,2005
+Luigi Giorgi,Central Midfield,1987-04-19,18,Italy,Ascoli Calcio 1898,Serie A,2005/2006,2005
+Davide Oresti,Central Midfield,1986-03-05,19,Italy,Ascoli Calcio 1898,Serie A,2005/2006,2005
+Domenico Giampà,Right Midfield,1977-02-15,28,Italy,Ascoli Calcio 1898,Serie A,2005/2006,2005
+Alfredo Cariello,Left Midfield,1979-09-10,25,Italy,Ascoli Calcio 1898,Serie A,2005/2006,2005
+Pasquale Foggia,Attacking Midfield,1983-06-03,22,Italy,Ascoli Calcio 1898,Serie A,2005/2006,2005
+Nicola Zanini,Attacking Midfield,1974-03-26,31,Italy,Ascoli Calcio 1898,Serie A,2005/2006,2005
+Federico Giampaolo,Attacking Midfield,1970-03-03,35,Italy,Ascoli Calcio 1898,Serie A,2005/2006,2005
+Vincenzo Patrick Guglielmelli,Forward,1987-05-15,18,Italy,Ascoli Calcio 1898,Serie A,2005/2006,2005
+Giampietro Perrulli,Left Winger,1985-06-08,20,Italy,Ascoli Calcio 1898,Serie A,2005/2006,2005
+Igor Budan,Centre-Forward,1980-04-22,25,Croatia,Ascoli Calcio 1898,Serie A,2005/2006,2005
+Sasa Bjelanovic,Centre-Forward,1979-06-11,26,Croatia,Ascoli Calcio 1898,Serie A,2005/2006,2005
+Corrado Colombo,Centre-Forward,1979-08-03,25,Italy,Ascoli Calcio 1898,Serie A,2005/2006,2005
+Fabio Quagliarella,Centre-Forward,1983-01-31,22,Italy,Ascoli Calcio 1898,Serie A,2005/2006,2005
+Marco Ferrante,Centre-Forward,1971-02-04,34,Italy,Ascoli Calcio 1898,Serie A,2005/2006,2005
+Marco Ascenzi,Centre-Forward,1981-10-26,23,Italy,Ascoli Calcio 1898,Serie A,2005/2006,2005
+Emanuele Ferraro,Centre-Forward,1978-09-08,26,Italy,Ascoli Calcio 1898,Serie A,2005/2006,2005
+Paul Ramirez,Centre-Forward,1986-07-30,18,Venezuela,Ascoli Calcio 1898,Serie A,2005/2006,2005
+Schumacher,Centre-Forward,1986-08-31,18,Brazil,Ascoli Calcio 1898,Serie A,2005/2006,2005

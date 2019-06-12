@@ -1,0 +1,813 @@
+player_name,position,date_of_birth,age,nationality,club_name,league_name,season,year
+Neto,Goalkeeper,1989-07-19,25,Brazil,Juventus FC,Serie A,2015/2016,2015
+Gianluigi Buffon,Goalkeeper,1978-01-28,37,Italy,Juventus FC,Serie A,2015/2016,2015
+Emil Audero,Goalkeeper,1997-01-18,18,Italy,Juventus FC,Serie A,2015/2016,2015
+Rubinho,Goalkeeper,1982-08-04,32,Brazil,Juventus FC,Serie A,2015/2016,2015
+Leonardo Bonucci,Centre-Back,1987-05-01,28,Italy,Juventus FC,Serie A,2015/2016,2015
+Giorgio Chiellini,Centre-Back,1984-08-14,30,Italy,Juventus FC,Serie A,2015/2016,2015
+Martín Cáceres,Centre-Back,1987-04-07,28,Uruguay,Juventus FC,Serie A,2015/2016,2015
+Daniele Rugani,Centre-Back,1994-07-29,20,Italy,Juventus FC,Serie A,2015/2016,2015
+Andrea Barzagli,Centre-Back,1981-05-08,34,Italy,Juventus FC,Serie A,2015/2016,2015
+Filippo Romagna,Centre-Back,1997-05-26,18,Italy,Juventus FC,Serie A,2015/2016,2015
+Giulio Parodi,Centre-Back,1997-09-30,17,Italy,Juventus FC,Serie A,2015/2016,2015
+Kwadwo Asamoah,Left-Back,1988-12-09,26,Ghana,Juventus FC,Serie A,2015/2016,2015
+Alex Sandro,Left-Back,1991-01-26,24,Brazil,Juventus FC,Serie A,2015/2016,2015
+Patrice Evra,Left-Back,1981-05-15,34,France,Juventus FC,Serie A,2015/2016,2015
+Stephan Lichtsteiner,Right-Back,1984-01-16,31,Switzerland,Juventus FC,Serie A,2015/2016,2015
+Mauricio Isla,Right-Back,1988-06-12,27,Chile,Juventus FC,Serie A,2015/2016,2015
+Mario Lemina,Defensive Midfield,1993-09-01,21,Gabon,Juventus FC,Serie A,2015/2016,2015
+Paul Pogba,Central Midfield,1993-03-15,22,France,Juventus FC,Serie A,2015/2016,2015
+Claudio Marchisio,Central Midfield,1986-01-19,29,Italy,Juventus FC,Serie A,2015/2016,2015
+Sami Khedira,Central Midfield,1987-04-04,28,Germany,Juventus FC,Serie A,2015/2016,2015
+Stefano Sturaro,Central Midfield,1993-03-09,22,Italy,Juventus FC,Serie A,2015/2016,2015
+Andrés Tello,Central Midfield,1996-09-06,18,Colombia,Juventus FC,Serie A,2015/2016,2015
+Mattia Vitale,Central Midfield,1997-10-01,17,Italy,Juventus FC,Serie A,2015/2016,2015
+Francesco Cassata,Central Midfield,1997-07-16,17,Italy,Juventus FC,Serie A,2015/2016,2015
+Roberto Pereyra,Left Midfield,1991-01-07,24,Argentina,Juventus FC,Serie A,2015/2016,2015
+Simone Padoin,Left Midfield,1984-03-18,31,Italy,Juventus FC,Serie A,2015/2016,2015
+Hernanes,Attacking Midfield,1985-05-29,30,Brazil,Juventus FC,Serie A,2015/2016,2015
+Kingsley Coman,Left Winger,1996-06-13,19,France,Juventus FC,Serie A,2015/2016,2015
+Juan Cuadrado,Right Winger,1988-05-26,27,Colombia,Juventus FC,Serie A,2015/2016,2015
+Paulo Dybala,Second Striker,1993-11-15,21,Argentina,Juventus FC,Serie A,2015/2016,2015
+Mario Mandzukic,Centre-Forward,1986-05-21,29,Croatia,Juventus FC,Serie A,2015/2016,2015
+Álvaro Morata,Centre-Forward,1992-10-23,22,Spain,Juventus FC,Serie A,2015/2016,2015
+Fernando Llorente,Centre-Forward,1985-02-26,30,Spain,Juventus FC,Serie A,2015/2016,2015
+Simone Zaza,Centre-Forward,1991-06-25,24,Italy,Juventus FC,Serie A,2015/2016,2015
+Andrea Favilli,Centre-Forward,1997-05-17,18,Italy,Juventus FC,Serie A,2015/2016,2015
+Guido Vadalá,Centre-Forward,1997-02-08,18,Argentina,Juventus FC,Serie A,2015/2016,2015
+Wojciech Szczesny,Goalkeeper,1990-04-18,25,Poland,AS Roma,Serie A,2015/2016,2015
+Morgan De Sanctis,Goalkeeper,1977-03-26,38,Italy,AS Roma,Serie A,2015/2016,2015
+Bogdan Lobont,Goalkeeper,1978-01-18,37,Romania,AS Roma,Serie A,2015/2016,2015
+Ionut Pop,Goalkeeper,1997-08-01,17,Romania,AS Roma,Serie A,2015/2016,2015
+Lorenzo Crisanto,Goalkeeper,1998-04-20,17,Italy,AS Roma,Serie A,2015/2016,2015
+Konstantinos Manolas,Centre-Back,1991-06-14,24,Greece,AS Roma,Serie A,2015/2016,2015
+Leandro Castán,Centre-Back,1986-11-05,28,Brazil,AS Roma,Serie A,2015/2016,2015
+Antonio Rüdiger,Centre-Back,1993-03-03,22,Germany,AS Roma,Serie A,2015/2016,2015
+Ervin Zukanovic,Centre-Back,1987-02-11,28,Bosnia-Herzegovina,AS Roma,Serie A,2015/2016,2015
+Norbert Gyömbér,Centre-Back,1992-07-03,22,Slovakia,AS Roma,Serie A,2015/2016,2015
+Elio Capradossi,Centre-Back,1996-03-11,19,Italy,AS Roma,Serie A,2015/2016,2015
+Riccardo Marchizza,Centre-Back,1998-03-26,17,Italy,AS Roma,Serie A,2015/2016,2015
+Lucas Digne,Left-Back,1993-07-20,21,France,AS Roma,Serie A,2015/2016,2015
+Ashley Cole,Left-Back,1980-12-20,34,England,AS Roma,Serie A,2015/2016,2015
+Emerson,Left-Back,1994-08-03,20,Italy,AS Roma,Serie A,2015/2016,2015
+Silvio Anocic,Left-Back,1997-09-10,17,Croatia,AS Roma,Serie A,2015/2016,2015
+Alessandro Florenzi,Right-Back,1991-03-11,24,Italy,AS Roma,Serie A,2015/2016,2015
+Vasilios Torosidis,Right-Back,1985-06-10,30,Greece,AS Roma,Serie A,2015/2016,2015
+Maicon,Right-Back,1981-07-26,33,Brazil,AS Roma,Serie A,2015/2016,2015
+Abdullahi Nura,Right-Back,1997-08-17,17,Nigeria,AS Roma,Serie A,2015/2016,2015
+Eros De Santis,Right-Back,1997-10-30,17,Italy,AS Roma,Serie A,2015/2016,2015
+Miralem Pjanic,Defensive Midfield,1990-04-02,25,Bosnia-Herzegovina,AS Roma,Serie A,2015/2016,2015
+Daniele De Rossi,Defensive Midfield,1983-07-24,31,Italy,AS Roma,Serie A,2015/2016,2015
+William Vainqueur,Defensive Midfield,1988-11-19,26,France,AS Roma,Serie A,2015/2016,2015
+Leandro Paredes,Defensive Midfield,1994-06-29,21,Argentina,AS Roma,Serie A,2015/2016,2015
+Lorenzo Vasco,Defensive Midfield,1997-06-19,18,Italy,AS Roma,Serie A,2015/2016,2015
+Kevin Strootman,Central Midfield,1990-02-13,25,Netherlands,AS Roma,Serie A,2015/2016,2015
+Seydou Keita,Central Midfield,1980-01-16,35,Mali,AS Roma,Serie A,2015/2016,2015
+Christian D'Urso,Central Midfield,1997-07-26,17,Italy,AS Roma,Serie A,2015/2016,2015
+José Machín,Central Midfield,1996-08-14,18,Equatorial Guinea,AS Roma,Serie A,2015/2016,2015
+Emanuele Ndoj,Central Midfield,1996-11-20,18,Albania,AS Roma,Serie A,2015/2016,2015
+Radja Nainggolan,Attacking Midfield,1988-05-04,27,Belgium,AS Roma,Serie A,2015/2016,2015
+Adem Ljajic,Attacking Midfield,1991-09-29,23,Serbia,AS Roma,Serie A,2015/2016,2015
+Salih Ucan,Attacking Midfield,1994-01-06,21,Turkey,AS Roma,Serie A,2015/2016,2015
+Lorenzo Di Livio,Attacking Midfield,1997-01-11,18,Italy,AS Roma,Serie A,2015/2016,2015
+Gervinho,Left Winger,1987-05-27,28,Cote d'Ivoire,AS Roma,Serie A,2015/2016,2015
+Stephan El Shaarawy,Left Winger,1992-10-27,22,Italy,AS Roma,Serie A,2015/2016,2015
+Diego Perotti,Left Winger,1988-07-26,26,Argentina,AS Roma,Serie A,2015/2016,2015
+Juan Iturbe,Right Winger,1993-06-04,22,Paraguay,AS Roma,Serie A,2015/2016,2015
+Mohamed Salah,Right Winger,1992-06-15,23,Egypt,AS Roma,Serie A,2015/2016,2015
+Iago Falque,Right Winger,1990-01-04,25,Spain,AS Roma,Serie A,2015/2016,2015
+Víctor Ibarbo,Second Striker,1990-05-19,25,Colombia,AS Roma,Serie A,2015/2016,2015
+Edin Dzeko,Centre-Forward,1986-03-17,29,Bosnia-Herzegovina,AS Roma,Serie A,2015/2016,2015
+Ezequiel Ponce,Centre-Forward,1997-03-29,18,Argentina,AS Roma,Serie A,2015/2016,2015
+Francesco Totti,Centre-Forward,1976-09-27,38,Italy,AS Roma,Serie A,2015/2016,2015
+Umar Sadiq,Centre-Forward,1997-02-02,18,Nigeria,AS Roma,Serie A,2015/2016,2015
+Edoardo Soleri,Centre-Forward,1997-10-19,17,Italy,AS Roma,Serie A,2015/2016,2015
+Marco Tumminello,Centre-Forward,1998-11-06,16,Italy,AS Roma,Serie A,2015/2016,2015
+Samir Handanovic,Goalkeeper,1984-07-14,30,Slovenia,Inter Milan,Serie A,2015/2016,2015
+Juan Pablo Carrizo,Goalkeeper,1984-05-06,31,Argentina,Inter Milan,Serie A,2015/2016,2015
+Tommaso Berni,Goalkeeper,1983-03-06,32,Italy,Inter Milan,Serie A,2015/2016,2015
+Ionut Radu,Goalkeeper,1997-05-28,18,Romania,Inter Milan,Serie A,2015/2016,2015
+Miranda,Centre-Back,1984-09-07,30,Brazil,Inter Milan,Serie A,2015/2016,2015
+Juan Jesus,Centre-Back,1991-06-10,24,Brazil,Inter Milan,Serie A,2015/2016,2015
+Andrea Ranocchia,Centre-Back,1988-02-16,27,Italy,Inter Milan,Serie A,2015/2016,2015
+Jeison Murillo,Centre-Back,1992-05-27,23,Colombia,Inter Milan,Serie A,2015/2016,2015
+Marco Andreolli,Centre-Back,1986-06-10,29,Italy,Inter Milan,Serie A,2015/2016,2015
+Nemanja Vidic‎,Centre-Back,1981-10-21,33,Serbia,Inter Milan,Serie A,2015/2016,2015
+Fabio Della Giovanna,Centre-Back,1997-03-21,18,Italy,Inter Milan,Serie A,2015/2016,2015
+Razvan Popa,Centre-Back,1997-01-04,18,Romania,Inter Milan,Serie A,2015/2016,2015
+Yuto Nagatomo,Left-Back,1986-09-12,28,Japan,Inter Milan,Serie A,2015/2016,2015
+Dodô,Left-Back,1992-02-06,23,Brazil,Inter Milan,Serie A,2015/2016,2015
+Davide Santon,Left-Back,1991-01-02,24,Italy,Inter Milan,Serie A,2015/2016,2015
+Alex Telles,Left-Back,1992-12-15,22,Brazil,Inter Milan,Serie A,2015/2016,2015
+Federico Dimarco,Left-Back,1997-11-10,17,Italy,Inter Milan,Serie A,2015/2016,2015
+Senna Miangue,Left-Back,1997-02-05,18,Belgium,Inter Milan,Serie A,2015/2016,2015
+Martín Montoya,Right-Back,1991-04-14,24,Spain,Inter Milan,Serie A,2015/2016,2015
+Danilo D'Ambrosio,Right-Back,1988-09-09,26,Italy,Inter Milan,Serie A,2015/2016,2015
+Ezequiel Schelotto,Right-Back,1989-05-23,26,Italy,Inter Milan,Serie A,2015/2016,2015
+Bright Gyamfi,Right-Back,1996-01-20,19,Ghana,Inter Milan,Serie A,2015/2016,2015
+Gary Medel,Defensive Midfield,1987-08-03,27,Chile,Inter Milan,Serie A,2015/2016,2015
+Marcelo Brozovic,Defensive Midfield,1992-11-16,22,Croatia,Inter Milan,Serie A,2015/2016,2015
+Felipe Melo,Defensive Midfield,1983-06-26,32,Brazil,Inter Milan,Serie A,2015/2016,2015
+Mattia Bonetto,Defensive Midfield,1997-01-23,18,Italy,Inter Milan,Serie A,2015/2016,2015
+Geoffrey Kondogbia,Central Midfield,1993-02-15,22,Central African Republic,Inter Milan,Serie A,2015/2016,2015
+Fredy Guarín,Central Midfield,1986-06-30,29,Colombia,Inter Milan,Serie A,2015/2016,2015
+Saphir Taider,Central Midfield,1992-02-29,23,Algeria,Inter Milan,Serie A,2015/2016,2015
+Assane Gnoukouri,Central Midfield,1996-09-28,18,Cote d'Ivoire,Inter Milan,Serie A,2015/2016,2015
+Loris Zonta,Central Midfield,1997-05-22,18,Italy,Inter Milan,Serie A,2015/2016,2015
+Hernanes,Attacking Midfield,1985-05-29,30,Brazil,Inter Milan,Serie A,2015/2016,2015
+Adem Ljajic,Attacking Midfield,1991-09-29,23,Serbia,Inter Milan,Serie A,2015/2016,2015
+Ivan Perisic,Left Winger,1989-02-02,26,Croatia,Inter Milan,Serie A,2015/2016,2015
+Enrico Baldini,Left Winger,1996-11-13,18,Italy,Inter Milan,Serie A,2015/2016,2015
+Jonathan Biabiany,Right Winger,1988-04-28,27,France,Inter Milan,Serie A,2015/2016,2015
+Éder,Second Striker,1986-11-15,28,Italy,Inter Milan,Serie A,2015/2016,2015
+Mauro Icardi,Centre-Forward,1993-02-19,22,Argentina,Inter Milan,Serie A,2015/2016,2015
+Stevan Jovetic,Centre-Forward,1989-11-02,25,Montenegro,Inter Milan,Serie A,2015/2016,2015
+Rodrigo Palacio,Centre-Forward,1982-02-05,33,Argentina,Inter Milan,Serie A,2015/2016,2015
+Rey Manaj,Centre-Forward,1997-02-24,18,Albania,Inter Milan,Serie A,2015/2016,2015
+Zé Turbo,Centre-Forward,1996-10-22,18,Guinea-Bissau,Inter Milan,Serie A,2015/2016,2015
+Rafael,Goalkeeper,1990-05-20,25,Brazil,SSC Napoli,Serie A,2015/2016,2015
+Pepe Reina,Goalkeeper,1982-08-31,32,Spain,SSC Napoli,Serie A,2015/2016,2015
+Gabriel,Goalkeeper,1992-09-27,22,Brazil,SSC Napoli,Serie A,2015/2016,2015
+Mariano Andújar,Goalkeeper,1983-07-30,31,Argentina,SSC Napoli,Serie A,2015/2016,2015
+Alessio Gionta,Goalkeeper,1997-04-01,18,Italy,SSC Napoli,Serie A,2015/2016,2015
+Kalidou Koulibaly,Centre-Back,1991-06-20,24,Senegal,SSC Napoli,Serie A,2015/2016,2015
+Vlad Chiriches,Centre-Back,1989-11-14,25,Romania,SSC Napoli,Serie A,2015/2016,2015
+Raúl Albiol,Centre-Back,1985-09-04,29,Spain,SSC Napoli,Serie A,2015/2016,2015
+David López,Centre-Back,1989-10-09,25,Spain,SSC Napoli,Serie A,2015/2016,2015
+Henrique,Centre-Back,1986-10-14,28,Brazil,SSC Napoli,Serie A,2015/2016,2015
+Vasco Regini,Centre-Back,1990-09-09,24,Italy,SSC Napoli,Serie A,2015/2016,2015
+Sebastiano Luperto,Centre-Back,1996-09-06,18,Italy,SSC Napoli,Serie A,2015/2016,2015
+Faouzi Ghoulam,Left-Back,1991-02-01,24,Algeria,SSC Napoli,Serie A,2015/2016,2015
+Ivan Strinic,Left-Back,1987-07-17,27,Croatia,SSC Napoli,Serie A,2015/2016,2015
+Camilo Zúñiga,Right-Back,1985-12-14,29,Colombia,SSC Napoli,Serie A,2015/2016,2015
+Elseid Hysaj,Right-Back,1994-02-02,21,Albania,SSC Napoli,Serie A,2015/2016,2015
+Christian Maggio,Right-Back,1982-02-11,33,Italy,SSC Napoli,Serie A,2015/2016,2015
+Jorginho,Defensive Midfield,1991-12-20,23,Italy,SSC Napoli,Serie A,2015/2016,2015
+Mirko Valdifiori,Defensive Midfield,1986-04-21,29,Italy,SSC Napoli,Serie A,2015/2016,2015
+Nathaniel Chalobah,Defensive Midfield,1994-12-12,20,England,SSC Napoli,Serie A,2015/2016,2015
+Marek Hamsik,Central Midfield,1987-07-27,27,Slovakia,SSC Napoli,Serie A,2015/2016,2015
+Jonathan de Guzmán,Central Midfield,1987-09-13,27,Netherlands,SSC Napoli,Serie A,2015/2016,2015
+Allan,Central Midfield,1991-01-08,24,Brazil,SSC Napoli,Serie A,2015/2016,2015
+Jacopo Dezi,Central Midfield,1992-02-10,23,Italy,SSC Napoli,Serie A,2015/2016,2015
+Alberto Grassi,Central Midfield,1995-03-07,20,Italy,SSC Napoli,Serie A,2015/2016,2015
+Omar El Kaddouri,Attacking Midfield,1990-08-21,24,Morocco,SSC Napoli,Serie A,2015/2016,2015
+Lorenzo Insigne,Left Winger,1991-06-04,24,Italy,SSC Napoli,Serie A,2015/2016,2015
+Nicolao Dumitru,Left Winger,1991-10-12,23,Italy,SSC Napoli,Serie A,2015/2016,2015
+José Callejón,Right Winger,1987-02-11,28,Spain,SSC Napoli,Serie A,2015/2016,2015
+Gonzalo Higuaín,Centre-Forward,1987-12-10,27,Argentina,SSC Napoli,Serie A,2015/2016,2015
+Dries Mertens,Centre-Forward,1987-05-06,28,Belgium,SSC Napoli,Serie A,2015/2016,2015
+Manolo Gabbiadini,Centre-Forward,1991-11-26,23,Italy,SSC Napoli,Serie A,2015/2016,2015
+Eduardo Vargas,Centre-Forward,1989-11-20,25,Chile,SSC Napoli,Serie A,2015/2016,2015
+Antonio Negro,Centre-Forward,1998-06-10,17,Italy,SSC Napoli,Serie A,2015/2016,2015
+Diego López,Goalkeeper,1981-11-03,33,Spain,AC Milan,Serie A,2015/2016,2015
+Christian Abbiati,Goalkeeper,1977-07-08,37,Italy,AC Milan,Serie A,2015/2016,2015
+Gianluigi Donnarumma,Goalkeeper,1999-02-25,16,Italy,AC Milan,Serie A,2015/2016,2015
+Alessandro Livieri,Goalkeeper,1997-01-21,18,Italy,AC Milan,Serie A,2015/2016,2015
+Alessio Romagnoli,Centre-Back,1995-01-12,20,Italy,AC Milan,Serie A,2015/2016,2015
+Gabriel Paletta,Centre-Back,1986-02-15,29,Italy,AC Milan,Serie A,2015/2016,2015
+Cristián Zapata,Centre-Back,1986-09-30,28,Colombia,AC Milan,Serie A,2015/2016,2015
+Alex,Centre-Back,1982-06-17,33,Brazil,AC Milan,Serie A,2015/2016,2015
+Philippe Mexès,Centre-Back,1982-03-30,33,France,AC Milan,Serie A,2015/2016,2015
+Rodrigo Ely,Centre-Back,1993-11-03,21,Brazil,AC Milan,Serie A,2015/2016,2015
+Cristian Zaccardo,Centre-Back,1981-12-21,33,Italy,AC Milan,Serie A,2015/2016,2015
+Ivan De Santis,Centre-Back,1997-05-21,18,Italy,AC Milan,Serie A,2015/2016,2015
+Stefan Simic,Centre-Back,1995-01-20,20,Czech Republic,AC Milan,Serie A,2015/2016,2015
+Francesco Bordi,Centre-Back,1997-01-28,18,Italy,AC Milan,Serie A,2015/2016,2015
+Luca Antonelli,Left-Back,1987-02-11,28,Italy,AC Milan,Serie A,2015/2016,2015
+Andrés Llamas,Left-Back,1998-05-07,17,Italy,AC Milan,Serie A,2015/2016,2015
+Mattia De Sciglio,Right-Back,1992-10-20,22,Italy,AC Milan,Serie A,2015/2016,2015
+Ignazio Abate,Right-Back,1986-11-12,28,Italy,AC Milan,Serie A,2015/2016,2015
+Davide Calabria,Right-Back,1996-12-06,18,Italy,AC Milan,Serie A,2015/2016,2015
+Nigel de Jong,Defensive Midfield,1984-11-30,30,Netherlands,AC Milan,Serie A,2015/2016,2015
+Riccardo Montolivo,Defensive Midfield,1985-01-18,30,Italy,AC Milan,Serie A,2015/2016,2015
+Sebastián Gamarra,Defensive Midfield,1997-01-15,18,Bolivia,AC Milan,Serie A,2015/2016,2015
+Giacomo Bonaventura,Central Midfield,1989-08-22,25,Italy,AC Milan,Serie A,2015/2016,2015
+Andrea Poli,Central Midfield,1989-09-29,25,Italy,AC Milan,Serie A,2015/2016,2015
+Juraj Kucka,Central Midfield,1987-02-26,28,Slovakia,AC Milan,Serie A,2015/2016,2015
+Andrea Bertolacci,Central Midfield,1991-01-11,24,Italy,AC Milan,Serie A,2015/2016,2015
+José Mauri,Central Midfield,1996-05-16,19,Italy,AC Milan,Serie A,2015/2016,2015
+Antonio Nocerino,Central Midfield,1985-04-09,30,Italy,AC Milan,Serie A,2015/2016,2015
+Manuel Locatelli,Central Midfield,1998-01-08,17,Italy,AC Milan,Serie A,2015/2016,2015
+Keisuke Honda,Right Midfield,1986-06-13,29,Japan,AC Milan,Serie A,2015/2016,2015
+Giovanni Crociata,Left Midfield,1997-08-11,17,Italy,AC Milan,Serie A,2015/2016,2015
+Zakaria Hamadi,Left Winger,1998-03-21,17,Italy,AC Milan,Serie A,2015/2016,2015
+Alessio Cerci,Right Winger,1987-07-23,27,Italy,AC Milan,Serie A,2015/2016,2015
+Suso,Right Winger,1993-11-19,21,Spain,AC Milan,Serie A,2015/2016,2015
+Jérémy Ménez,Second Striker,1987-05-07,28,France,AC Milan,Serie A,2015/2016,2015
+Carlos Bacca,Centre-Forward,1986-09-08,28,Colombia,AC Milan,Serie A,2015/2016,2015
+Mario Balotelli,Centre-Forward,1990-08-12,24,Italy,AC Milan,Serie A,2015/2016,2015
+Kevin-Prince Boateng,Centre-Forward,1987-03-06,28,Ghana,AC Milan,Serie A,2015/2016,2015
+Luiz Adriano,Centre-Forward,1987-04-12,28,Brazil,AC Milan,Serie A,2015/2016,2015
+Alessandro Matri,Centre-Forward,1984-08-19,30,Italy,AC Milan,Serie A,2015/2016,2015
+M'Baye Niang,Centre-Forward,1994-12-19,20,Senegal,AC Milan,Serie A,2015/2016,2015
+Luca Vido,Centre-Forward,1997-02-03,18,Italy,AC Milan,Serie A,2015/2016,2015
+Federico Marchetti,Goalkeeper,1983-02-07,32,Italy,SS Lazio,Serie A,2015/2016,2015
+Etrit Berisha,Goalkeeper,1989-03-10,26,Albania,SS Lazio,Serie A,2015/2016,2015
+Guido Guerrieri,Goalkeeper,1996-02-25,19,Italy,SS Lazio,Serie A,2015/2016,2015
+Kristjan Matosevic,Goalkeeper,1997-06-05,18,Croatia,SS Lazio,Serie A,2015/2016,2015
+Stefan de Vrij,Centre-Back,1992-02-05,23,Netherlands,SS Lazio,Serie A,2015/2016,2015
+Stefan Radu,Centre-Back,1986-10-22,28,Romania,SS Lazio,Serie A,2015/2016,2015
+Maurício,Centre-Back,1988-09-20,26,Brazil,SS Lazio,Serie A,2015/2016,2015
+Milan Bisevac,Centre-Back,1983-08-31,31,Serbia,SS Lazio,Serie A,2015/2016,2015
+Santiago Gentiletti,Centre-Back,1985-01-09,30,Argentina,SS Lazio,Serie A,2015/2016,2015
+Wesley Hoedt,Centre-Back,1994-03-06,21,Netherlands,SS Lazio,Serie A,2015/2016,2015
+Franjo Prce,Centre-Back,1996-01-07,19,Croatia,SS Lazio,Serie A,2015/2016,2015
+Simone Mattia,Centre-Back,1996-01-19,19,Italy,SS Lazio,Serie A,2015/2016,2015
+Edson Braafheid,Left-Back,1983-04-08,32,Netherlands,SS Lazio,Serie A,2015/2016,2015
+Luca Germoni,Left-Back,1997-09-01,17,Italy,SS Lazio,Serie A,2015/2016,2015
+Moustapha Seck,Left-Back,1996-02-23,19,Senegal,SS Lazio,Serie A,2015/2016,2015
+Dusan Basta,Right-Back,1984-08-18,30,Serbia,SS Lazio,Serie A,2015/2016,2015
+Abdoulay Konko,Right-Back,1984-03-09,31,France,SS Lazio,Serie A,2015/2016,2015
+Patric,Right-Back,1993-04-17,22,Spain,SS Lazio,Serie A,2015/2016,2015
+Lucas Biglia,Defensive Midfield,1986-01-30,29,Argentina,SS Lazio,Serie A,2015/2016,2015
+Ogenyi Onazi,Defensive Midfield,1992-12-25,22,Nigeria,SS Lazio,Serie A,2015/2016,2015
+Marco Parolo,Central Midfield,1985-01-25,30,Italy,SS Lazio,Serie A,2015/2016,2015
+Sergej Milinkovic-Savic,Central Midfield,1995-02-27,20,Serbia,SS Lazio,Serie A,2015/2016,2015
+Danilo Cataldi,Central Midfield,1994-08-06,20,Italy,SS Lazio,Serie A,2015/2016,2015
+Álvaro González,Central Midfield,1984-10-29,30,Uruguay,SS Lazio,Serie A,2015/2016,2015
+Alessandro Murgia,Central Midfield,1996-08-09,18,Italy,SS Lazio,Serie A,2015/2016,2015
+Senad Lulic,Left Midfield,1986-01-18,29,Bosnia-Herzegovina,SS Lazio,Serie A,2015/2016,2015
+Ravel Morrison,Attacking Midfield,1993-02-02,22,Jamaica,SS Lazio,Serie A,2015/2016,2015
+Stefano Mauri,Attacking Midfield,1980-01-08,35,Italy,SS Lazio,Serie A,2015/2016,2015
+Felipe Anderson,Left Winger,1993-04-15,22,Brazil,SS Lazio,Serie A,2015/2016,2015
+Keita Baldé,Left Winger,1995-03-08,20,Senegal,SS Lazio,Serie A,2015/2016,2015
+Ricardo Kishna,Left Winger,1995-01-04,20,Netherlands,SS Lazio,Serie A,2015/2016,2015
+Christopher Oikonomidis,Left Winger,1995-05-04,20,Australia,SS Lazio,Serie A,2015/2016,2015
+Antonio Candreva,Right Winger,1987-02-28,28,Italy,SS Lazio,Serie A,2015/2016,2015
+Alessandro Matri,Centre-Forward,1984-08-19,30,Italy,SS Lazio,Serie A,2015/2016,2015
+Filip Djordjevic,Centre-Forward,1987-09-28,27,Serbia,SS Lazio,Serie A,2015/2016,2015
+Miroslav Klose,Centre-Forward,1978-06-09,37,Germany,SS Lazio,Serie A,2015/2016,2015
+Simone Palombi,Centre-Forward,1996-04-23,19,Italy,SS Lazio,Serie A,2015/2016,2015
+Alessandro Rossi,Centre-Forward,1997-01-03,18,Italy,SS Lazio,Serie A,2015/2016,2015
+Ciprian Tatarusanu,Goalkeeper,1986-02-09,29,Romania,ACF Fiorentina,Serie A,2015/2016,2015
+Luigi Sepe,Goalkeeper,1991-05-08,24,Italy,ACF Fiorentina,Serie A,2015/2016,2015
+Luca Lezzerini,Goalkeeper,1995-03-24,20,Italy,ACF Fiorentina,Serie A,2015/2016,2015
+Giacomo Satalino,Goalkeeper,1999-05-20,16,Italy,ACF Fiorentina,Serie A,2015/2016,2015
+Gonzalo Rodríguez,Centre-Back,1984-04-10,31,Argentina,ACF Fiorentina,Serie A,2015/2016,2015
+Davide Astori,Centre-Back,1987-01-07,28,Italy,ACF Fiorentina,Serie A,2015/2016,2015
+Nenad Tomović,Centre-Back,1987-08-30,27,Serbia,ACF Fiorentina,Serie A,2015/2016,2015
+Facundo Roncaglia,Centre-Back,1987-02-10,28,Argentina,ACF Fiorentina,Serie A,2015/2016,2015
+José María Basanta,Centre-Back,1984-04-03,31,Argentina,ACF Fiorentina,Serie A,2015/2016,2015
+Yohan Benalouane,Centre-Back,1987-03-28,28,Tunisia,ACF Fiorentina,Serie A,2015/2016,2015
+Ahmed Hegazy,Centre-Back,1991-01-25,24,Egypt,ACF Fiorentina,Serie A,2015/2016,2015
+Ricardo Bagadur,Centre-Back,1995-09-16,19,Croatia,ACF Fiorentina,Serie A,2015/2016,2015
+Marcos Alonso,Left-Back,1990-12-28,24,Spain,ACF Fiorentina,Serie A,2015/2016,2015
+Manuel Pasqual,Left-Back,1982-03-13,33,Italy,ACF Fiorentina,Serie A,2015/2016,2015
+Gilberto,Right-Back,1993-03-07,22,Brazil,ACF Fiorentina,Serie A,2015/2016,2015
+Milan Badelj,Defensive Midfield,1989-02-25,26,Croatia,ACF Fiorentina,Serie A,2015/2016,2015
+Borja Valero,Central Midfield,1985-01-12,30,Spain,ACF Fiorentina,Serie A,2015/2016,2015
+Mario Suárez,Central Midfield,1987-02-24,28,Spain,ACF Fiorentina,Serie A,2015/2016,2015
+Panagiotis Kone,Central Midfield,1987-07-26,27,Greece,ACF Fiorentina,Serie A,2015/2016,2015
+Tino Costa,Central Midfield,1985-01-09,30,Argentina,ACF Fiorentina,Serie A,2015/2016,2015
+Matías Vecino,Central Midfield,1991-08-24,23,Uruguay,ACF Fiorentina,Serie A,2015/2016,2015
+Marko Bakic,Central Midfield,1993-11-01,21,Montenegro,ACF Fiorentina,Serie A,2015/2016,2015
+Abdou Diakhate,Central Midfield,1998-12-31,16,Senegal,ACF Fiorentina,Serie A,2015/2016,2015
+Nicolò Fazzi,Right Midfield,1995-03-02,20,Italy,ACF Fiorentina,Serie A,2015/2016,2015
+Matías Fernández,Attacking Midfield,1986-05-15,29,Chile,ACF Fiorentina,Serie A,2015/2016,2015
+Joan Verdú,Attacking Midfield,1983-05-05,32,Spain,ACF Fiorentina,Serie A,2015/2016,2015
+Simone Minelli,Attacking Midfield,1997-01-08,18,Italy,ACF Fiorentina,Serie A,2015/2016,2015
+Cristian Tello,Left Winger,1991-08-11,23,Spain,ACF Fiorentina,Serie A,2015/2016,2015
+Jakub Blaszczykowski,Right Winger,1985-12-14,29,Poland,ACF Fiorentina,Serie A,2015/2016,2015
+Federico Bernardeschi,Right Winger,1994-02-16,21,Italy,ACF Fiorentina,Serie A,2015/2016,2015
+Joaquín,Right Winger,1981-07-21,33,Spain,ACF Fiorentina,Serie A,2015/2016,2015
+Federico Chiesa,Right Winger,1997-10-25,17,Italy,ACF Fiorentina,Serie A,2015/2016,2015
+Josip Ilicic,Second Striker,1988-01-29,27,Slovenia,ACF Fiorentina,Serie A,2015/2016,2015
+Mauro Zárate,Second Striker,1987-03-18,28,Argentina,ACF Fiorentina,Serie A,2015/2016,2015
+Ante Rebic,Second Striker,1993-09-21,21,Croatia,ACF Fiorentina,Serie A,2015/2016,2015
+Giuseppe Rossi,Centre-Forward,1987-02-01,28,Italy,ACF Fiorentina,Serie A,2015/2016,2015
+Nikola Kalinic,Centre-Forward,1988-01-05,27,Croatia,ACF Fiorentina,Serie A,2015/2016,2015
+Khouma Babacar,Centre-Forward,1993-03-17,22,Senegal,ACF Fiorentina,Serie A,2015/2016,2015
+Jaime Báez,Centre-Forward,1995-04-25,20,Uruguay,ACF Fiorentina,Serie A,2015/2016,2015
+Emiliano Viviano,Goalkeeper,1985-12-01,29,Italy,UC Sampdoria,Serie A,2015/2016,2015
+Alberto Brignoli,Goalkeeper,1991-08-19,23,Italy,UC Sampdoria,Serie A,2015/2016,2015
+Christian Puggioni,Goalkeeper,1981-01-17,34,Italy,UC Sampdoria,Serie A,2015/2016,2015
+Samuele Massolo,Goalkeeper,1996-05-04,19,Italy,UC Sampdoria,Serie A,2015/2016,2015
+Andrea Ranocchia,Centre-Back,1988-02-16,27,Italy,UC Sampdoria,Serie A,2015/2016,2015
+Niklas Moisander,Centre-Back,1985-09-29,29,Finland,UC Sampdoria,Serie A,2015/2016,2015
+Matías Silvestre,Centre-Back,1984-09-25,30,Argentina,UC Sampdoria,Serie A,2015/2016,2015
+Vasco Regini,Centre-Back,1990-09-09,24,Italy,UC Sampdoria,Serie A,2015/2016,2015
+Ervin Zukanovic,Centre-Back,1987-02-11,28,Bosnia-Herzegovina,UC Sampdoria,Serie A,2015/2016,2015
+Bartosz Salamon,Centre-Back,1991-05-01,24,Poland,UC Sampdoria,Serie A,2015/2016,2015
+Modibo Diakité,Centre-Back,1987-03-02,28,France,UC Sampdoria,Serie A,2015/2016,2015
+Milan Skriniar,Centre-Back,1995-02-11,20,Slovakia,UC Sampdoria,Serie A,2015/2016,2015
+Andrea Coda,Centre-Back,1985-04-25,30,Italy,UC Sampdoria,Serie A,2015/2016,2015
+Dodô,Left-Back,1992-02-06,23,Brazil,UC Sampdoria,Serie A,2015/2016,2015
+Djamel Mesbah,Left-Back,1984-10-09,30,Algeria,UC Sampdoria,Serie A,2015/2016,2015
+Lorenzo De Silvestri,Right-Back,1988-05-23,27,Italy,UC Sampdoria,Serie A,2015/2016,2015
+Mattia Cassani,Right-Back,1983-08-26,31,Italy,UC Sampdoria,Serie A,2015/2016,2015
+Jacopo Sala,Right-Back,1991-12-05,23,Italy,UC Sampdoria,Serie A,2015/2016,2015
+Pedro Pereira,Right-Back,1998-01-22,17,Portugal,UC Sampdoria,Serie A,2015/2016,2015
+Fernando,Defensive Midfield,1992-03-03,23,Brazil,UC Sampdoria,Serie A,2015/2016,2015
+Angelo Palombo,Defensive Midfield,1981-09-25,33,Italy,UC Sampdoria,Serie A,2015/2016,2015
+Giacomo Calò,Defensive Midfield,1997-02-05,18,Italy,UC Sampdoria,Serie A,2015/2016,2015
+Roberto Soriano,Central Midfield,1991-02-08,24,Italy,UC Sampdoria,Serie A,2015/2016,2015
+Édgar Barreto,Central Midfield,1984-07-15,30,Paraguay,UC Sampdoria,Serie A,2015/2016,2015
+Nenad Krsticic,Central Midfield,1990-07-03,24,Serbia,UC Sampdoria,Serie A,2015/2016,2015
+Michele Rocca,Central Midfield,1996-02-06,19,Italy,UC Sampdoria,Serie A,2015/2016,2015
+David Ivan,Central Midfield,1995-02-26,20,Slovakia,UC Sampdoria,Serie A,2015/2016,2015
+Leonardo Serinelli,Central Midfield,1997-05-13,18,Italy,UC Sampdoria,Serie A,2015/2016,2015
+Pawel Wszolek,Right Midfield,1992-04-30,23,Poland,UC Sampdoria,Serie A,2015/2016,2015
+Marco Marchionni,Right Midfield,1980-07-22,34,Italy,UC Sampdoria,Serie A,2015/2016,2015
+Ricardo Álvarez,Attacking Midfield,1988-04-12,27,Argentina,UC Sampdoria,Serie A,2015/2016,2015
+Carlos Carbonero,Attacking Midfield,1990-07-25,24,Colombia,UC Sampdoria,Serie A,2015/2016,2015
+Karlo Lulic,Attacking Midfield,1996-05-10,19,Croatia,UC Sampdoria,Serie A,2015/2016,2015
+Lazaros Christodoulopoulos,Right Winger,1986-12-19,28,Greece,UC Sampdoria,Serie A,2015/2016,2015
+Éder,Second Striker,1986-11-15,28,Italy,UC Sampdoria,Serie A,2015/2016,2015
+Joaquín Correa,Second Striker,1994-08-13,20,Argentina,UC Sampdoria,Serie A,2015/2016,2015
+Antonio Cassano,Second Striker,1982-07-12,32,Italy,UC Sampdoria,Serie A,2015/2016,2015
+Luis Muriel,Centre-Forward,1991-04-16,24,Colombia,UC Sampdoria,Serie A,2015/2016,2015
+Fabio Quagliarella,Centre-Forward,1983-01-31,32,Italy,UC Sampdoria,Serie A,2015/2016,2015
+Federico Bonazzoli,Centre-Forward,1997-05-21,18,Italy,UC Sampdoria,Serie A,2015/2016,2015
+Alejandro Rodríguez,Centre-Forward,1991-07-30,23,Spain,UC Sampdoria,Serie A,2015/2016,2015
+Edoardo Oneto,Centre-Forward,1996-02-23,19,Italy,UC Sampdoria,Serie A,2015/2016,2015
+Andrés Ponce,Centre-Forward,1996-11-11,18,Venezuela,UC Sampdoria,Serie A,2015/2016,2015
+Mattia Perin,Goalkeeper,1992-11-10,22,Italy,Genoa CFC,Serie A,2015/2016,2015
+Eugenio Lamanna,Goalkeeper,1989-08-07,25,Italy,Genoa CFC,Serie A,2015/2016,2015
+Samir Ujkani,Goalkeeper,1988-07-05,26,Kosovo,Genoa CFC,Serie A,2015/2016,2015
+Antonio Donnarumma,Goalkeeper,1990-07-07,24,Italy,Genoa CFC,Serie A,2015/2016,2015
+Daniele Sommariva,Goalkeeper,1997-07-18,17,Italy,Genoa CFC,Serie A,2015/2016,2015
+Ezequiel Muñoz,Centre-Back,1990-10-08,24,Argentina,Genoa CFC,Serie A,2015/2016,2015
+Giovanni Marchese,Centre-Back,1984-10-17,30,Italy,Genoa CFC,Serie A,2015/2016,2015
+Sebastien De Maio,Centre-Back,1987-03-05,28,France,Genoa CFC,Serie A,2015/2016,2015
+Armando Izzo,Centre-Back,1992-03-02,23,Italy,Genoa CFC,Serie A,2015/2016,2015
+Nicolás Burdisso,Centre-Back,1981-04-12,34,Argentina,Genoa CFC,Serie A,2015/2016,2015
+Samuel Delli Carri,Centre-Back,1997-11-26,17,Switzerland,Genoa CFC,Serie A,2015/2016,2015
+Paolo Scannapieco,Centre-Back,1997-12-13,17,Italy,Genoa CFC,Serie A,2015/2016,2015
+Mario Ierardi,Centre-Back,1998-02-19,17,Italy,Genoa CFC,Serie A,2015/2016,2015
+Sandro Embaló,Centre-Back,1996-05-01,19,Portugal,Genoa CFC,Serie A,2015/2016,2015
+Cristian Ansaldi,Left-Back,1986-09-20,28,Argentina,Genoa CFC,Serie A,2015/2016,2015
+Gabriel Silva,Left-Back,1991-05-13,24,Brazil,Genoa CFC,Serie A,2015/2016,2015
+Paolo Parente,Left-Back,1997-03-08,18,Italy,Genoa CFC,Serie A,2015/2016,2015
+Diogo Figueiras,Right-Back,1991-07-01,24,Portugal,Genoa CFC,Serie A,2015/2016,2015
+Issa Cissokho,Right-Back,1985-02-23,30,Senegal,Genoa CFC,Serie A,2015/2016,2015
+Alassane També,Right-Back,1992-01-26,23,Mali,Genoa CFC,Serie A,2015/2016,2015
+Riccardo Fiamozzi,Right-Back,1993-05-18,22,Italy,Genoa CFC,Serie A,2015/2016,2015
+Andrea Gulli,Right-Back,1997-11-09,17,Italy,Genoa CFC,Serie A,2015/2016,2015
+Paolo Ghiglione,Right-Back,1997-02-02,18,Italy,Genoa CFC,Serie A,2015/2016,2015
+Panagiotis Tachtsidis,Defensive Midfield,1991-02-15,24,Greece,Genoa CFC,Serie A,2015/2016,2015
+Tomás Rincón,Defensive Midfield,1988-01-13,27,Venezuela,Genoa CFC,Serie A,2015/2016,2015
+Juraj Kucka,Central Midfield,1987-02-26,28,Slovakia,Genoa CFC,Serie A,2015/2016,2015
+Luca Rigoni,Central Midfield,1984-12-07,30,Italy,Genoa CFC,Serie A,2015/2016,2015
+Tino Costa,Central Midfield,1985-01-09,30,Argentina,Genoa CFC,Serie A,2015/2016,2015
+Blerim Dzemaili,Central Midfield,1986-04-12,29,Switzerland,Genoa CFC,Serie A,2015/2016,2015
+Simone Ricozzi,Central Midfield,1997-03-24,18,Italy,Genoa CFC,Serie A,2015/2016,2015
+Mattia Cella,Central Midfield,1996-01-02,19,Italy,Genoa CFC,Serie A,2015/2016,2015
+Olivier Ntcham,Central Midfield,1996-02-09,19,France,Genoa CFC,Serie A,2015/2016,2015
+Darko Lazovic,Right Midfield,1990-09-15,24,Serbia,Genoa CFC,Serie A,2015/2016,2015
+Diego Laxalt,Left Midfield,1993-02-07,22,Uruguay,Genoa CFC,Serie A,2015/2016,2015
+Francesco Corsinelli,Left Midfield,1997-11-21,17,Italy,Genoa CFC,Serie A,2015/2016,2015
+Diego Perotti,Left Winger,1988-07-26,26,Argentina,Genoa CFC,Serie A,2015/2016,2015
+Diego Capel,Left Winger,1988-02-16,27,Spain,Genoa CFC,Serie A,2015/2016,2015
+Alessio Cerci,Right Winger,1987-07-23,27,Italy,Genoa CFC,Serie A,2015/2016,2015
+Suso,Right Winger,1993-11-19,21,Spain,Genoa CFC,Serie A,2015/2016,2015
+Serge Gakpé,Right Winger,1987-05-07,28,Togo,Genoa CFC,Serie A,2015/2016,2015
+Goran Pandev,Second Striker,1983-07-27,31,North Macedonia,Genoa CFC,Serie A,2015/2016,2015
+Giuseppe Panico,Second Striker,1997-05-10,18,Italy,Genoa CFC,Serie A,2015/2016,2015
+Tim Matavz,Centre-Forward,1989-01-13,26,Slovenia,Genoa CFC,Serie A,2015/2016,2015
+Leonardo Pavoletti,Centre-Forward,1988-11-26,26,Italy,Genoa CFC,Serie A,2015/2016,2015
+Bruno Gomes,Centre-Forward,1996-07-19,18,Brazil,Genoa CFC,Serie A,2015/2016,2015
+Raúl Asencio,Centre-Forward,1998-05-20,17,Spain,Genoa CFC,Serie A,2015/2016,2015
+Pietro Pellegri,Centre-Forward,2001-03-17,14,Italy,Genoa CFC,Serie A,2015/2016,2015
+Orestis Karnezis,Goalkeeper,1985-07-11,29,Greece,Udinese Calcio,Serie A,2015/2016,2015
+Alex Meret,Goalkeeper,1997-03-22,18,Italy,Udinese Calcio,Serie A,2015/2016,2015
+Samuele Perisan,Goalkeeper,1997-08-21,17,Italy,Udinese Calcio,Serie A,2015/2016,2015
+Rafael Romo,Goalkeeper,1990-02-25,25,Venezuela,Udinese Calcio,Serie A,2015/2016,2015
+Danilo,Centre-Back,1984-05-10,31,Brazil,Udinese Calcio,Serie A,2015/2016,2015
+Thomas Heurtaux,Centre-Back,1988-07-03,26,France,Udinese Calcio,Serie A,2015/2016,2015
+Molla Wagué,Centre-Back,1991-02-21,24,Mali,Udinese Calcio,Serie A,2015/2016,2015
+Neuton,Centre-Back,1990-03-14,25,Brazil,Udinese Calcio,Serie A,2015/2016,2015
+Felipe,Centre-Back,1984-07-31,30,Brazil,Udinese Calcio,Serie A,2015/2016,2015
+Maurizio Domizzi,Centre-Back,1980-06-28,35,Italy,Udinese Calcio,Serie A,2015/2016,2015
+Agostino Camigliano,Centre-Back,1994-07-11,20,Italy,Udinese Calcio,Serie A,2015/2016,2015
+Mauro Coppolaro,Centre-Back,1997-03-10,18,Italy,Udinese Calcio,Serie A,2015/2016,2015
+Daniele Mori,Centre-Back,1990-06-28,25,Italy,Udinese Calcio,Serie A,2015/2016,2015
+Pablo Armero,Left-Back,1986-11-02,28,Colombia,Udinese Calcio,Serie A,2015/2016,2015
+Ali Adnan,Left-Back,1993-12-19,21,Iraq,Udinese Calcio,Serie A,2015/2016,2015
+Emanuel Insúa,Left-Back,1991-04-10,24,Argentina,Udinese Calcio,Serie A,2015/2016,2015
+Giovanni Pasquale,Left-Back,1982-01-05,33,Italy,Udinese Calcio,Serie A,2015/2016,2015
+Silvan Widmer,Right-Back,1993-03-05,22,Switzerland,Udinese Calcio,Serie A,2015/2016,2015
+Iván Piris,Right-Back,1989-03-10,26,Paraguay,Udinese Calcio,Serie A,2015/2016,2015
+Davide Faraoni,Right-Back,1991-10-25,23,Italy,Udinese Calcio,Serie A,2015/2016,2015
+Manuel Iturra,Defensive Midfield,1984-06-23,31,Chile,Udinese Calcio,Serie A,2015/2016,2015
+Guilherme,Defensive Midfield,1991-04-05,24,Brazil,Udinese Calcio,Serie A,2015/2016,2015
+Francesco Lodi,Defensive Midfield,1984-03-23,31,Italy,Udinese Calcio,Serie A,2015/2016,2015
+Simone Pontisso,Defensive Midfield,1997-03-20,18,Italy,Udinese Calcio,Serie A,2015/2016,2015
+Panagiotis Kone,Central Midfield,1987-07-26,27,Greece,Udinese Calcio,Serie A,2015/2016,2015
+Emmanuel Badu,Central Midfield,1990-12-02,24,Ghana,Udinese Calcio,Serie A,2015/2016,2015
+Emil Hallfredsson,Central Midfield,1984-06-29,31,Iceland,Udinese Calcio,Serie A,2015/2016,2015
+Zdravko Kuzmanović,Central Midfield,1987-09-22,27,Serbia,Udinese Calcio,Serie A,2015/2016,2015
+Edenilson,Central Midfield,1989-12-18,25,Brazil,Udinese Calcio,Serie A,2015/2016,2015
+Andrija Balic,Central Midfield,1997-08-11,17,Croatia,Udinese Calcio,Serie A,2015/2016,2015
+Gaspar Íñiguez,Central Midfield,1994-03-26,21,Argentina,Udinese Calcio,Serie A,2015/2016,2015
+Alexander Merkel,Central Midfield,1992-02-22,23,Kazakhstan,Udinese Calcio,Serie A,2015/2016,2015
+Giampiero Pinzi,Central Midfield,1981-03-11,34,Italy,Udinese Calcio,Serie A,2015/2016,2015
+Lucas Evangelista,Right Midfield,1995-05-06,20,Brazil,Udinese Calcio,Serie A,2015/2016,2015
+Bruno Fernandes,Attacking Midfield,1994-09-08,20,Portugal,Udinese Calcio,Serie A,2015/2016,2015
+Marquinho,Attacking Midfield,1986-07-03,28,Brazil,Udinese Calcio,Serie A,2015/2016,2015
+Ryder Matos,Second Striker,1993-02-27,22,Brazil,Udinese Calcio,Serie A,2015/2016,2015
+Cyril Théréau,Second Striker,1983-04-24,32,France,Udinese Calcio,Serie A,2015/2016,2015
+Duván Zapata,Centre-Forward,1991-04-01,24,Colombia,Udinese Calcio,Serie A,2015/2016,2015
+Rodrigo Aguirre,Centre-Forward,1994-10-01,20,Uruguay,Udinese Calcio,Serie A,2015/2016,2015
+Antonio Di Natale,Centre-Forward,1977-10-13,37,Italy,Udinese Calcio,Serie A,2015/2016,2015
+Stipe Perica,Centre-Forward,1995-07-07,19,Croatia,Udinese Calcio,Serie A,2015/2016,2015
+Álex Geijo,Centre-Forward,1982-03-11,33,Spain,Udinese Calcio,Serie A,2015/2016,2015
+Daniele Padelli,Goalkeeper,1985-10-25,29,Italy,Torino FC,Serie A,2015/2016,2015
+Salvador Ichazo,Goalkeeper,1992-01-26,23,Uruguay,Torino FC,Serie A,2015/2016,2015
+Lys Gomis,Goalkeeper,1989-10-06,25,Senegal,Torino FC,Serie A,2015/2016,2015
+Luca Castellazzi,Goalkeeper,1975-07-19,39,Italy,Torino FC,Serie A,2015/2016,2015
+Marko Savatovic,Goalkeeper,1998-01-05,17,Croatia,Torino FC,Serie A,2015/2016,2015
+Kamil Glik,Centre-Back,1988-02-03,27,Poland,Torino FC,Serie A,2015/2016,2015
+Nikola Maksimovic,Centre-Back,1991-11-25,23,Serbia,Torino FC,Serie A,2015/2016,2015
+Pontus Jansson,Centre-Back,1991-02-13,24,Sweden,Torino FC,Serie A,2015/2016,2015
+Cesare Bovo,Centre-Back,1983-01-14,32,Italy,Torino FC,Serie A,2015/2016,2015
+Emiliano Moretti,Centre-Back,1981-06-11,34,Italy,Torino FC,Serie A,2015/2016,2015
+Vasyl Pryima,Centre-Back,1991-06-10,24,Ukraine,Torino FC,Serie A,2015/2016,2015
+Valerio Mantovani,Centre-Back,1996-04-18,19,Italy,Torino FC,Serie A,2015/2016,2015
+Leonardo Rivoira,Centre-Back,1998-02-03,17,Italy,Torino FC,Serie A,2015/2016,2015
+Danilo Avelar,Left-Back,1989-06-09,26,Brazil,Torino FC,Serie A,2015/2016,2015
+Gastón Silva,Left-Back,1994-03-05,21,Uruguay,Torino FC,Serie A,2015/2016,2015
+Cristian Molinaro,Left-Back,1983-07-30,31,Italy,Torino FC,Serie A,2015/2016,2015
+Andrea Morello,Left-Back,1997-07-16,17,Italy,Torino FC,Serie A,2015/2016,2015
+Davide Zappacosta,Right-Back,1992-06-11,23,Italy,Torino FC,Serie A,2015/2016,2015
+Bruno Peres,Right-Back,1990-03-01,25,Brazil,Torino FC,Serie A,2015/2016,2015
+Alessandro Gazzi,Defensive Midfield,1983-01-28,32,Italy,Torino FC,Serie A,2015/2016,2015
+Giuseppe Vives,Defensive Midfield,1980-07-14,34,Italy,Torino FC,Serie A,2015/2016,2015
+Daniele Baselli,Central Midfield,1992-03-12,23,Italy,Torino FC,Serie A,2015/2016,2015
+Marco Benassi,Central Midfield,1994-09-08,20,Italy,Torino FC,Serie A,2015/2016,2015
+Afriyie Acquah,Central Midfield,1992-01-05,23,Ghana,Torino FC,Serie A,2015/2016,2015
+Joel Obi,Central Midfield,1991-05-22,24,Nigeria,Torino FC,Serie A,2015/2016,2015
+Sanjin Prcic,Central Midfield,1993-11-20,21,Bosnia-Herzegovina,Torino FC,Serie A,2015/2016,2015
+Alexander Farnerud,Central Midfield,1984-05-01,31,Sweden,Torino FC,Serie A,2015/2016,2015
+Jacopo Segre,Central Midfield,1997-02-17,18,Italy,Torino FC,Serie A,2015/2016,2015
+Stefano Tindo,Central Midfield,1997-04-05,18,Italy,Torino FC,Serie A,2015/2016,2015
+Alen Stevanovic,Left Winger,1991-01-07,24,Serbia,Torino FC,Serie A,2015/2016,2015
+Simone Edera,Right Winger,1997-01-09,18,Italy,Torino FC,Serie A,2015/2016,2015
+Ciro Immobile,Centre-Forward,1990-02-20,25,Italy,Torino FC,Serie A,2015/2016,2015
+Andrea Belotti,Centre-Forward,1993-12-20,21,Italy,Torino FC,Serie A,2015/2016,2015
+Fabio Quagliarella,Centre-Forward,1983-01-31,32,Italy,Torino FC,Serie A,2015/2016,2015
+Josef Martínez,Centre-Forward,1993-05-19,22,Venezuela,Torino FC,Serie A,2015/2016,2015
+Maxi López,Centre-Forward,1984-04-03,31,Argentina,Torino FC,Serie A,2015/2016,2015
+Amauri,Centre-Forward,1980-06-03,35,Italy,Torino FC,Serie A,2015/2016,2015
+Elia Bortoluz,Centre-Forward,1997-03-29,18,Italy,Torino FC,Serie A,2015/2016,2015
+Leonardo Candellone,Centre-Forward,1997-09-15,17,Italy,Torino FC,Serie A,2015/2016,2015
+Antonio Mirante,Goalkeeper,1983-07-08,31,Italy,Bologna FC 1909,Serie A,2015/2016,2015
+Angelo da Costa,Goalkeeper,1983-11-12,31,Brazil,Bologna FC 1909,Serie A,2015/2016,2015
+Dejan Stojanovic,Goalkeeper,1993-07-19,21,Austria,Bologna FC 1909,Serie A,2015/2016,2015
+Mouhamadou Sarr,Goalkeeper,1997-01-05,18,Senegal,Bologna FC 1909,Serie A,2015/2016,2015
+Luca Rossettini,Centre-Back,1985-05-09,30,Italy,Bologna FC 1909,Serie A,2015/2016,2015
+Marios Oikonomou,Centre-Back,1992-10-06,22,Greece,Bologna FC 1909,Serie A,2015/2016,2015
+Daniele Gastaldello,Centre-Back,1983-06-25,32,Italy,Bologna FC 1909,Serie A,2015/2016,2015
+Domenico Maietta,Centre-Back,1982-08-03,32,Italy,Bologna FC 1909,Serie A,2015/2016,2015
+Alex Ferrari,Centre-Back,1994-07-01,21,Italy,Bologna FC 1909,Serie A,2015/2016,2015
+Riccardo Cestaro,Centre-Back,1997-05-03,18,Italy,Bologna FC 1909,Serie A,2015/2016,2015
+Adam Masina,Left-Back,1994-01-02,21,Italy,Bologna FC 1909,Serie A,2015/2016,2015
+Archimede Morleo,Left-Back,1983-09-26,31,Italy,Bologna FC 1909,Serie A,2015/2016,2015
+Camilo Zúñiga,Right-Back,1985-12-14,29,Colombia,Bologna FC 1909,Serie A,2015/2016,2015
+Ibrahima Mbaye,Right-Back,1994-11-19,20,Senegal,Bologna FC 1909,Serie A,2015/2016,2015
+Emil Krafth,Right-Back,1994-08-02,20,Sweden,Bologna FC 1909,Serie A,2015/2016,2015
+Luca Ceccarelli,Right-Back,1983-03-24,32,Italy,Bologna FC 1909,Serie A,2015/2016,2015
+Rubén Palomeque,Right-Back,1994-09-12,20,Spain,Bologna FC 1909,Serie A,2015/2016,2015
+Lorenzo Crisetig,Defensive Midfield,1993-01-20,22,Italy,Bologna FC 1909,Serie A,2015/2016,2015
+Amadou Diawara,Defensive Midfield,1997-07-17,17,Guinea,Bologna FC 1909,Serie A,2015/2016,2015
+Mattia Cozzari,Defensive Midfield,1999-05-26,16,Italy,Bologna FC 1909,Serie A,2015/2016,2015
+Erick Pulgar,Defensive Midfield,1994-01-15,21,Chile,Bologna FC 1909,Serie A,2015/2016,2015
+Saphir Taider,Central Midfield,1992-02-29,23,Algeria,Bologna FC 1909,Serie A,2015/2016,2015
+Godfred Donsah,Central Midfield,1996-06-07,19,Ghana,Bologna FC 1909,Serie A,2015/2016,2015
+Kévin Constant,Central Midfield,1987-05-10,28,Guinea,Bologna FC 1909,Serie A,2015/2016,2015
+Luca Rizzo,Central Midfield,1992-04-24,23,Italy,Bologna FC 1909,Serie A,2015/2016,2015
+Franco Zuculini,Central Midfield,1990-09-05,24,Argentina,Bologna FC 1909,Serie A,2015/2016,2015
+Marco Crimi,Central Midfield,1990-03-17,25,Italy,Bologna FC 1909,Serie A,2015/2016,2015
+Matteo Brighi,Central Midfield,1981-02-14,34,Italy,Bologna FC 1909,Serie A,2015/2016,2015
+Marko Krivicic,Central Midfield,1996-02-01,19,Slovenia,Bologna FC 1909,Serie A,2015/2016,2015
+Emanuele Giaccherini,Left Midfield,1985-05-05,30,Italy,Bologna FC 1909,Serie A,2015/2016,2015
+Vincenzo Silvestro,Left Midfield,1998-07-31,16,Italy,Bologna FC 1909,Serie A,2015/2016,2015
+Franco Brienza,Attacking Midfield,1979-03-19,36,Italy,Bologna FC 1909,Serie A,2015/2016,2015
+Anthony Mounier,Left Winger,1987-09-27,27,France,Bologna FC 1909,Serie A,2015/2016,2015
+Filippo Falco,Second Striker,1992-02-11,23,Italy,Bologna FC 1909,Serie A,2015/2016,2015
+Aaron Mattia Tabacchi,Second Striker,1998-06-26,17,Italy,Bologna FC 1909,Serie A,2015/2016,2015
+Mattia Destro,Centre-Forward,1991-03-20,24,Italy,Bologna FC 1909,Serie A,2015/2016,2015
+Matteo Mancosu,Centre-Forward,1984-12-22,30,Italy,Bologna FC 1909,Serie A,2015/2016,2015
+Sergio Floccari,Centre-Forward,1981-11-12,33,Italy,Bologna FC 1909,Serie A,2015/2016,2015
+Daniele Cacia,Centre-Forward,1983-08-23,31,Italy,Bologna FC 1909,Serie A,2015/2016,2015
+Robert Acquafresca,Centre-Forward,1987-09-11,27,Italy,Bologna FC 1909,Serie A,2015/2016,2015
+Daniele Paponi,Centre-Forward,1988-04-16,27,Italy,Bologna FC 1909,Serie A,2015/2016,2015
+Antonio Calabrese,Centre-Forward,1996-06-11,19,Italy,Bologna FC 1909,Serie A,2015/2016,2015
+Andrea Consigli,Goalkeeper,1987-01-27,28,Italy,US Sassuolo,Serie A,2015/2016,2015
+Gianluca Pegolo,Goalkeeper,1981-03-25,34,Italy,US Sassuolo,Serie A,2015/2016,2015
+Alberto Pomini,Goalkeeper,1981-03-17,34,Italy,US Sassuolo,Serie A,2015/2016,2015
+Bryan Costa,Goalkeeper,1998-07-28,16,Italy,US Sassuolo,Serie A,2015/2016,2015
+Brian Vassallo,Goalkeeper,1998-05-21,17,Italy,US Sassuolo,Serie A,2015/2016,2015
+Francesco Acerbi,Centre-Back,1988-02-10,27,Italy,US Sassuolo,Serie A,2015/2016,2015
+Luca Antei,Centre-Back,1992-04-19,23,Italy,US Sassuolo,Serie A,2015/2016,2015
+Emanuele Terranova,Centre-Back,1987-04-14,28,Italy,US Sassuolo,Serie A,2015/2016,2015
+Lorenzo Ariaudo,Centre-Back,1989-06-11,26,Italy,US Sassuolo,Serie A,2015/2016,2015
+Paolo Cannavaro,Centre-Back,1981-06-26,34,Italy,US Sassuolo,Serie A,2015/2016,2015
+Leonardo Fontanesi,Centre-Back,1996-02-20,19,Italy,US Sassuolo,Serie A,2015/2016,2015
+Manuel Ferrini,Centre-Back,1998-06-25,17,Italy,US Sassuolo,Serie A,2015/2016,2015
+Martin Erlic,Centre-Back,1998-01-24,17,Croatia,US Sassuolo,Serie A,2015/2016,2015
+Federico Peluso,Left-Back,1984-01-20,31,Italy,US Sassuolo,Serie A,2015/2016,2015
+Alessandro Longhi,Left-Back,1989-06-25,26,Italy,US Sassuolo,Serie A,2015/2016,2015
+Cristian Dell'Orco,Left-Back,1994-02-10,21,Italy,US Sassuolo,Serie A,2015/2016,2015
+Patrick Corbelli,Left-Back,1997-11-05,17,Italy,US Sassuolo,Serie A,2015/2016,2015
+Sime Vrsaljko,Right-Back,1992-01-10,23,Croatia,US Sassuolo,Serie A,2015/2016,2015
+Marcello Gazzola,Right-Back,1985-04-03,30,Italy,US Sassuolo,Serie A,2015/2016,2015
+Claud Adjapong,Right-Back,1998-05-06,17,Italy,US Sassuolo,Serie A,2015/2016,2015
+Simone Missiroli,Defensive Midfield,1986-05-23,29,Italy,US Sassuolo,Serie A,2015/2016,2015
+Francesco Magnanelli,Defensive Midfield,1984-11-12,30,Italy,US Sassuolo,Serie A,2015/2016,2015
+Federico Abelli,Defensive Midfield,1997-01-22,18,Italy,US Sassuolo,Serie A,2015/2016,2015
+Andrea Mandelli,Defensive Midfield,1997-07-12,17,Italy,US Sassuolo,Serie A,2015/2016,2015
+Alfred Duncan,Central Midfield,1993-03-10,22,Ghana,US Sassuolo,Serie A,2015/2016,2015
+Davide Biondini,Central Midfield,1983-01-24,32,Italy,US Sassuolo,Serie A,2015/2016,2015
+Lorenzo Pellegrini,Central Midfield,1996-06-19,19,Italy,US Sassuolo,Serie A,2015/2016,2015
+Jérémie Broh,Central Midfield,1997-03-21,18,Italy,US Sassuolo,Serie A,2015/2016,2015
+Daniele Cipolla,Central Midfield,1998-02-09,17,Italy,US Sassuolo,Serie A,2015/2016,2015
+Nicola Sansone,Left Winger,1991-09-10,23,Italy,US Sassuolo,Serie A,2015/2016,2015
+Karim Laribi,Left Winger,1991-04-20,24,Tunisia,US Sassuolo,Serie A,2015/2016,2015
+Nicholas Pierini,Left Winger,1998-08-06,16,Italy,US Sassuolo,Serie A,2015/2016,2015
+Domenico Berardi,Right Winger,1994-08-01,20,Italy,US Sassuolo,Serie A,2015/2016,2015
+Matteo Politano,Right Winger,1993-08-03,21,Italy,US Sassuolo,Serie A,2015/2016,2015
+Grégoire Defrel,Centre-Forward,1991-06-17,24,Martinique,US Sassuolo,Serie A,2015/2016,2015
+Antonio Floro Flores,Centre-Forward,1983-06-18,32,Italy,US Sassuolo,Serie A,2015/2016,2015
+Marcello Trotta,Centre-Forward,1992-09-29,22,Italy,US Sassuolo,Serie A,2015/2016,2015
+Diego Falcinelli,Centre-Forward,1991-06-26,24,Italy,US Sassuolo,Serie A,2015/2016,2015
+Sergio Floccari,Centre-Forward,1981-11-12,33,Italy,US Sassuolo,Serie A,2015/2016,2015
+Marco Sportiello,Goalkeeper,1992-05-10,23,Italy,Atalanta BC,Serie A,2015/2016,2015
+Davide Bassi,Goalkeeper,1985-04-12,30,Italy,Atalanta BC,Serie A,2015/2016,2015
+Boris Radunović,Goalkeeper,1996-05-26,19,Serbia,Atalanta BC,Serie A,2015/2016,2015
+Alessandro Turrin,Goalkeeper,1997-03-10,18,Italy,Atalanta BC,Serie A,2015/2016,2015
+Stefano Mazzini,Goalkeeper,1998-12-06,16,Italy,Atalanta BC,Serie A,2015/2016,2015
+Gabriel Paletta,Centre-Back,1986-02-15,29,Italy,Atalanta BC,Serie A,2015/2016,2015
+Rafael Tolói,Centre-Back,1990-10-10,24,Brazil,Atalanta BC,Serie A,2015/2016,2015
+Berat Djimsiti,Centre-Back,1993-02-19,22,Albania,Atalanta BC,Serie A,2015/2016,2015
+Nicolò Cherubin,Centre-Back,1986-12-02,28,Italy,Atalanta BC,Serie A,2015/2016,2015
+Guglielmo Stendardo,Centre-Back,1981-05-06,34,Italy,Atalanta BC,Serie A,2015/2016,2015
+Andrea Masiello,Centre-Back,1986-02-05,29,Italy,Atalanta BC,Serie A,2015/2016,2015
+Emanuele Suagher,Centre-Back,1992-11-26,22,Italy,Atalanta BC,Serie A,2015/2016,2015
+Michele Canini,Centre-Back,1985-06-05,30,Italy,Atalanta BC,Serie A,2015/2016,2015
+Anton Kresic,Centre-Back,1996-01-29,19,Croatia,Atalanta BC,Serie A,2015/2016,2015
+Boukary Dramé,Left-Back,1985-07-22,29,Senegal,Atalanta BC,Serie A,2015/2016,2015
+Davide Brivio,Left-Back,1988-03-17,27,Italy,Atalanta BC,Serie A,2015/2016,2015
+Cristiano Del Grosso,Left-Back,1983-03-24,32,Italy,Atalanta BC,Serie A,2015/2016,2015
+Gianpaolo Bellini,Left-Back,1980-03-27,35,Italy,Atalanta BC,Serie A,2015/2016,2015
+Andrea Conti,Right-Back,1994-03-02,21,Italy,Atalanta BC,Serie A,2015/2016,2015
+Luca Cigarini,Defensive Midfield,1986-06-20,29,Italy,Atalanta BC,Serie A,2015/2016,2015
+Carlos Carmona,Defensive Midfield,1987-02-21,28,Chile,Atalanta BC,Serie A,2015/2016,2015
+Matteo Gasperoni,Defensive Midfield,1998-09-11,16,Italy,Atalanta BC,Serie A,2015/2016,2015
+Jasmin Kurtic,Central Midfield,1989-01-10,26,Slovenia,Atalanta BC,Serie A,2015/2016,2015
+Remo Freuler,Central Midfield,1992-04-15,23,Switzerland,Atalanta BC,Serie A,2015/2016,2015
+Marten de Roon,Central Midfield,1991-03-29,24,Netherlands,Atalanta BC,Serie A,2015/2016,2015
+Roberto Gagliardini,Central Midfield,1994-04-07,21,Italy,Atalanta BC,Serie A,2015/2016,2015
+Luigi Giorgi,Central Midfield,1987-04-19,28,Italy,Atalanta BC,Serie A,2015/2016,2015
+Giulio Migliaccio,Central Midfield,1981-06-23,34,Italy,Atalanta BC,Serie A,2015/2016,2015
+Alberto Grassi,Central Midfield,1995-03-07,20,Italy,Atalanta BC,Serie A,2015/2016,2015
+Roberto Ranieri,Central Midfield,1997-04-29,18,Italy,Atalanta BC,Serie A,2015/2016,2015
+Marco D'Alessandro,Right Midfield,1991-02-17,24,Italy,Atalanta BC,Serie A,2015/2016,2015
+Cristian Raimondi,Right Midfield,1981-04-30,34,Italy,Atalanta BC,Serie A,2015/2016,2015
+Marcelo Estigarribia,Left Midfield,1987-09-21,27,Paraguay,Atalanta BC,Serie A,2015/2016,2015
+Maxi Moralez,Attacking Midfield,1987-02-27,28,Argentina,Atalanta BC,Serie A,2015/2016,2015
+Serge Gakpé,Right Winger,1987-05-07,28,Togo,Atalanta BC,Serie A,2015/2016,2015
+Tiziano Tulissi,Right Winger,1997-07-22,17,Italy,Atalanta BC,Serie A,2015/2016,2015
+Papu Gómez,Second Striker,1988-02-15,27,Argentina,Atalanta BC,Serie A,2015/2016,2015
+Alessandro Diamanti,Second Striker,1983-05-02,32,Italy,Atalanta BC,Serie A,2015/2016,2015
+Richmond Boakye,Centre-Forward,1993-01-28,22,Ghana,Atalanta BC,Serie A,2015/2016,2015
+Germán Denis,Centre-Forward,1981-09-10,33,Argentina,Atalanta BC,Serie A,2015/2016,2015
+Mauricio Pinilla,Centre-Forward,1984-02-04,31,Chile,Atalanta BC,Serie A,2015/2016,2015
+Marco Borriello,Centre-Forward,1982-06-18,33,Italy,Atalanta BC,Serie A,2015/2016,2015
+Gaetano Monachello,Centre-Forward,1994-03-03,21,Italy,Atalanta BC,Serie A,2015/2016,2015
+Guido Marilungo,Centre-Forward,1989-08-09,25,Italy,Atalanta BC,Serie A,2015/2016,2015
+Zeljko Brkic,Goalkeeper,1986-07-09,28,Serbia,Carpi FC 1909,Serie A,2015/2016,2015
+Vid Belec,Goalkeeper,1990-06-06,25,Slovenia,Carpi FC 1909,Serie A,2015/2016,2015
+Simone Colombi,Goalkeeper,1991-07-01,24,Italy,Carpi FC 1909,Serie A,2015/2016,2015
+Francesco Benussi,Goalkeeper,1981-10-15,33,Italy,Carpi FC 1909,Serie A,2015/2016,2015
+Andrea Liotti,Goalkeeper,1997-02-20,18,Italy,Carpi FC 1909,Serie A,2015/2016,2015
+Luca Marrone,Centre-Back,1990-03-28,25,Italy,Carpi FC 1909,Serie A,2015/2016,2015
+Nicolás Spolli,Centre-Back,1983-02-20,32,Argentina,Carpi FC 1909,Serie A,2015/2016,2015
+Riccardo Gagliolo,Centre-Back,1990-04-28,25,Italy,Carpi FC 1909,Serie A,2015/2016,2015
+Simone Romagnoli,Centre-Back,1990-02-09,25,Italy,Carpi FC 1909,Serie A,2015/2016,2015
+Igor Bubnjic,Centre-Back,1992-07-17,22,Croatia,Carpi FC 1909,Serie A,2015/2016,2015
+Fabio Daprelà,Centre-Back,1991-02-19,24,Switzerland,Carpi FC 1909,Serie A,2015/2016,2015
+Emanuele Suagher,Centre-Back,1992-11-26,22,Italy,Carpi FC 1909,Serie A,2015/2016,2015
+Fabrizio Poli,Centre-Back,1989-05-26,26,Italy,Carpi FC 1909,Serie A,2015/2016,2015
+Cristian Zaccardo,Centre-Back,1981-12-21,33,Italy,Carpi FC 1909,Serie A,2015/2016,2015
+Vincenzo Ceci,Centre-Back,1998-03-24,17,Italy,Carpi FC 1909,Serie A,2015/2016,2015
+Gabriel Silva,Left-Back,1991-05-13,24,Brazil,Carpi FC 1909,Serie A,2015/2016,2015
+Wallace Oliveira,Right-Back,1994-05-01,21,Brazil,Carpi FC 1909,Serie A,2015/2016,2015
+Gaetano Letizia,Right-Back,1990-06-29,25,Italy,Carpi FC 1909,Serie A,2015/2016,2015
+Stefano Sabelli,Right-Back,1993-01-13,22,Italy,Carpi FC 1909,Serie A,2015/2016,2015
+Filippo Porcari,Defensive Midfield,1984-04-28,31,Italy,Carpi FC 1909,Serie A,2015/2016,2015
+Jonathan de Guzmán,Central Midfield,1987-09-13,27,Netherlands,Carpi FC 1909,Serie A,2015/2016,2015
+Isaac Cofie,Central Midfield,1991-09-20,23,Ghana,Carpi FC 1909,Serie A,2015/2016,2015
+Andrea Lazzari,Central Midfield,1984-12-03,30,Italy,Carpi FC 1909,Serie A,2015/2016,2015
+Gaspar Íñiguez,Central Midfield,1994-03-26,21,Argentina,Carpi FC 1909,Serie A,2015/2016,2015
+Lorenzo Lollo,Central Midfield,1990-12-08,24,Italy,Carpi FC 1909,Serie A,2015/2016,2015
+Marco Crimi,Central Midfield,1990-03-17,25,Italy,Carpi FC 1909,Serie A,2015/2016,2015
+Raffaele Bianco,Central Midfield,1987-08-25,27,Italy,Carpi FC 1909,Serie A,2015/2016,2015
+Federico Gino,Central Midfield,1993-02-26,22,Uruguay,Carpi FC 1909,Serie A,2015/2016,2015
+Matteo Fedele,Central Midfield,1992-07-20,22,Switzerland,Carpi FC 1909,Serie A,2015/2016,2015
+Eddy Gnahoré,Central Midfield,1993-11-14,21,France,Carpi FC 1909,Serie A,2015/2016,2015
+Lorenzo Pasciuti,Right Midfield,1989-09-24,25,Italy,Carpi FC 1909,Serie A,2015/2016,2015
+Federico Franchini,Right Midfield,1994-01-23,21,Italy,Carpi FC 1909,Serie A,2015/2016,2015
+Raphael Martinho,Left Midfield,1988-04-15,27,Brazil,Carpi FC 1909,Serie A,2015/2016,2015
+Antonio Di Gaudio,Left Winger,1989-08-16,25,Italy,Carpi FC 1909,Serie A,2015/2016,2015
+Simone Verdi,Right Winger,1992-07-12,22,Italy,Carpi FC 1909,Serie A,2015/2016,2015
+Ryder Matos,Second Striker,1993-02-27,22,Brazil,Carpi FC 1909,Serie A,2015/2016,2015
+Jerry Mbakogu,Centre-Forward,1992-10-01,22,Nigeria,Carpi FC 1909,Serie A,2015/2016,2015
+Matteo Mancosu,Centre-Forward,1984-12-22,30,Italy,Carpi FC 1909,Serie A,2015/2016,2015
+Marco Borriello,Centre-Forward,1982-06-18,33,Italy,Carpi FC 1909,Serie A,2015/2016,2015
+Kamil Wilczek,Centre-Forward,1988-01-24,27,Poland,Carpi FC 1909,Serie A,2015/2016,2015
+Kevin Lasagna,Centre-Forward,1992-08-10,22,Italy,Carpi FC 1909,Serie A,2015/2016,2015
+Stefano Sorrentino,Goalkeeper,1979-03-28,36,Italy,US Palermo,Serie A,2015/2016,2015
+Simone Colombi,Goalkeeper,1991-07-01,24,Italy,US Palermo,Serie A,2015/2016,2015
+Fabrizio Alastra,Goalkeeper,1997-10-01,17,Italy,US Palermo,Serie A,2015/2016,2015
+Josip Posavec,Goalkeeper,1996-03-10,19,Croatia,US Palermo,Serie A,2015/2016,2015
+Leonardo Marson,Goalkeeper,1998-01-05,17,Italy,US Palermo,Serie A,2015/2016,2015
+Giancarlo González,Centre-Back,1988-02-08,27,Costa Rica,US Palermo,Serie A,2015/2016,2015
+Abdelhamid El Kaoutari,Centre-Back,1990-03-17,25,Morocco,US Palermo,Serie A,2015/2016,2015
+Aljaz Struna,Centre-Back,1990-08-04,24,Slovenia,US Palermo,Serie A,2015/2016,2015
+Fabio Daprelà,Centre-Back,1991-02-19,24,Switzerland,US Palermo,Serie A,2015/2016,2015
+Sinisa Andelkovic,Centre-Back,1986-02-13,29,Slovenia,US Palermo,Serie A,2015/2016,2015
+Edoardo Goldaniga,Centre-Back,1993-11-02,21,Italy,US Palermo,Serie A,2015/2016,2015
+Thiago Cionek,Centre-Back,1986-04-21,29,Poland,US Palermo,Serie A,2015/2016,2015
+Roberto Pirrello,Centre-Back,1996-05-30,19,Italy,US Palermo,Serie A,2015/2016,2015
+Achraf Lazaar,Left-Back,1992-01-22,23,Morocco,US Palermo,Serie A,2015/2016,2015
+Giuseppe Pezzella,Left-Back,1997-11-29,17,Italy,US Palermo,Serie A,2015/2016,2015
+Michel Morganella,Right-Back,1989-05-17,26,Switzerland,US Palermo,Serie A,2015/2016,2015
+Andrea Rispoli,Right-Back,1988-09-29,26,Italy,US Palermo,Serie A,2015/2016,2015
+Roberto Vitiello,Right-Back,1983-05-08,32,Italy,US Palermo,Serie A,2015/2016,2015
+Marco Toscano,Defensive Midfield,1997-07-07,17,Italy,US Palermo,Serie A,2015/2016,2015
+Luca Rigoni,Central Midfield,1984-12-07,30,Italy,US Palermo,Serie A,2015/2016,2015
+Bryan Cristante,Central Midfield,1995-03-03,20,Italy,US Palermo,Serie A,2015/2016,2015
+Francesco Bolzoni,Central Midfield,1989-05-07,26,Italy,US Palermo,Serie A,2015/2016,2015
+Oscar Hiljemark,Central Midfield,1992-06-28,23,Sweden,US Palermo,Serie A,2015/2016,2015
+Ivaylo Chochev,Central Midfield,1993-02-18,22,Bulgaria,US Palermo,Serie A,2015/2016,2015
+Mato Jajalo,Central Midfield,1988-05-25,27,Bosnia-Herzegovina,US Palermo,Serie A,2015/2016,2015
+Gastón Brugman,Central Midfield,1992-09-07,22,Uruguay,US Palermo,Serie A,2015/2016,2015
+Ahmad Benali,Central Midfield,1992-02-07,23,Libya,US Palermo,Serie A,2015/2016,2015
+Enzo Maresca,Central Midfield,1980-02-10,35,Italy,US Palermo,Serie A,2015/2016,2015
+Housem Ferchichi,Central Midfield,1996-03-26,19,Italy,US Palermo,Serie A,2015/2016,2015
+Franco Vázquez,Attacking Midfield,1989-02-22,26,Argentina,US Palermo,Serie A,2015/2016,2015
+Matheus Cassini,Attacking Midfield,1996-02-15,19,Brazil,US Palermo,Serie A,2015/2016,2015
+Accursio Bentivegna,Left Winger,1996-06-21,19,Italy,US Palermo,Serie A,2015/2016,2015
+Robin Quaison,Second Striker,1993-10-09,21,Sweden,US Palermo,Serie A,2015/2016,2015
+Aleksandar Trajkovski,Second Striker,1992-09-05,22,North Macedonia,US Palermo,Serie A,2015/2016,2015
+Andrea Belotti,Centre-Forward,1993-12-20,21,Italy,US Palermo,Serie A,2015/2016,2015
+Alberto Gilardino,Centre-Forward,1982-07-05,32,Italy,US Palermo,Serie A,2015/2016,2015
+Uros Djurdjevic,Centre-Forward,1994-03-02,21,Serbia,US Palermo,Serie A,2015/2016,2015
+Manuel Arteaga,Centre-Forward,1994-06-17,21,Venezuela,US Palermo,Serie A,2015/2016,2015
+Antonino La Gumina,Centre-Forward,1996-03-06,19,Italy,US Palermo,Serie A,2015/2016,2015
+Norbert Balogh,Centre-Forward,1996-02-21,19,Hungary,US Palermo,Serie A,2015/2016,2015
+Rafael,Goalkeeper,1982-03-03,33,Brazil,Hellas Verona,Serie A,2015/2016,2015
+Pierluigi Gollini,Goalkeeper,1995-03-18,20,Italy,Hellas Verona,Serie A,2015/2016,2015
+Richard Marcone,Goalkeeper,1993-01-21,22,Italy,Hellas Verona,Serie A,2015/2016,2015
+Ferdinando Coppola,Goalkeeper,1978-06-10,37,Italy,Hellas Verona,Serie A,2015/2016,2015
+Enrico Vencato,Goalkeeper,1998-12-19,16,Italy,Hellas Verona,Serie A,2015/2016,2015
+Luca Marrone,Centre-Back,1990-03-28,25,Italy,Hellas Verona,Serie A,2015/2016,2015
+Samir,Centre-Back,1994-12-05,20,Brazil,Hellas Verona,Serie A,2015/2016,2015
+Filip Helander,Centre-Back,1993-04-22,22,Sweden,Hellas Verona,Serie A,2015/2016,2015
+Matteo Bianchetti,Centre-Back,1993-03-17,22,Italy,Hellas Verona,Serie A,2015/2016,2015
+Samuel Souprayen,Centre-Back,1989-02-02,26,France,Hellas Verona,Serie A,2015/2016,2015
+Vangelis Moras,Centre-Back,1981-08-26,33,Greece,Hellas Verona,Serie A,2015/2016,2015
+Rafael Márquez,Centre-Back,1979-02-13,36,Mexico,Hellas Verona,Serie A,2015/2016,2015
+Davide Riccardi,Centre-Back,1996-04-09,19,Italy,Hellas Verona,Serie A,2015/2016,2015
+Michelangelo Albertazzi,Left-Back,1991-01-07,24,Italy,Hellas Verona,Serie A,2015/2016,2015
+Andrea Badan,Left-Back,1998-03-21,17,Italy,Hellas Verona,Serie A,2015/2016,2015
+Gilberto,Right-Back,1993-03-07,22,Brazil,Hellas Verona,Serie A,2015/2016,2015
+Jacopo Sala,Right-Back,1991-12-05,23,Italy,Hellas Verona,Serie A,2015/2016,2015
+Cláudio Winck,Right-Back,1994-04-15,21,Brazil,Hellas Verona,Serie A,2015/2016,2015
+Eros Pisano,Right-Back,1987-03-31,28,Italy,Hellas Verona,Serie A,2015/2016,2015
+Federico Viviani,Defensive Midfield,1992-03-24,23,Italy,Hellas Verona,Serie A,2015/2016,2015
+Matuzalém,Defensive Midfield,1980-06-10,35,Brazil,Hellas Verona,Serie A,2015/2016,2015
+Luca Checchin,Defensive Midfield,1997-05-03,18,Italy,Hellas Verona,Serie A,2015/2016,2015
+Rômulo,Central Midfield,1987-05-22,28,Italy,Hellas Verona,Serie A,2015/2016,2015
+Emil Hallfredsson,Central Midfield,1984-06-29,31,Iceland,Hellas Verona,Serie A,2015/2016,2015
+Leandro Greco,Central Midfield,1986-07-19,28,Italy,Hellas Verona,Serie A,2015/2016,2015
+Urby Emanuelson,Central Midfield,1986-06-16,29,Netherlands,Hellas Verona,Serie A,2015/2016,2015
+Artur Ionita,Central Midfield,1990-08-17,24,Moldova,Hellas Verona,Serie A,2015/2016,2015
+Dominik Furman,Central Midfield,1992-07-06,22,Poland,Hellas Verona,Serie A,2015/2016,2015
+Mattia Zaccagni,Central Midfield,1995-06-16,20,Italy,Hellas Verona,Serie A,2015/2016,2015
+Simon Laner,Central Midfield,1984-01-28,31,Italy,Hellas Verona,Serie A,2015/2016,2015
+Nicola Guglielmelli,Central Midfield,1997-07-23,17,Germany,Hellas Verona,Serie A,2015/2016,2015
+Pawel Wszolek,Right Midfield,1992-04-30,23,Poland,Hellas Verona,Serie A,2015/2016,2015
+Mohamed Fares,Left Midfield,1996-02-15,19,Algeria,Hellas Verona,Serie A,2015/2016,2015
+Alessandro Speri,Attacking Midfield,1996-09-25,18,Italy,Hellas Verona,Serie A,2015/2016,2015
+Juanito Gómez,Left Winger,1985-05-20,30,Argentina,Hellas Verona,Serie A,2015/2016,2015
+Luca Siligardi,Right Winger,1988-01-26,27,Italy,Hellas Verona,Serie A,2015/2016,2015
+Boško Janković,Right Winger,1984-03-01,31,Serbia,Hellas Verona,Serie A,2015/2016,2015
+Alberto Tronco,Right Winger,1997-05-22,18,Italy,Hellas Verona,Serie A,2015/2016,2015
+Ante Rebic,Second Striker,1993-09-21,21,Croatia,Hellas Verona,Serie A,2015/2016,2015
+Giampaolo Pazzini,Centre-Forward,1984-08-02,30,Italy,Hellas Verona,Serie A,2015/2016,2015
+Luca Toni,Centre-Forward,1977-05-26,38,Italy,Hellas Verona,Serie A,2015/2016,2015
+Lubomir Tupta,Centre-Forward,1998-03-27,17,Slovakia,Hellas Verona,Serie A,2015/2016,2015
+Andrea Seculin,Goalkeeper,1990-07-14,24,Italy,Chievo Verona,Serie A,2015/2016,2015
+Albano Bizzarri,Goalkeeper,1977-11-09,37,Argentina,Chievo Verona,Serie A,2015/2016,2015
+Walter Bressan,Goalkeeper,1981-01-26,34,Italy,Chievo Verona,Serie A,2015/2016,2015
+Alessandro Confente,Goalkeeper,1998-06-07,17,Italy,Chievo Verona,Serie A,2015/2016,2015
+Nicolás Spolli,Centre-Back,1983-02-20,32,Argentina,Chievo Verona,Serie A,2015/2016,2015
+Bostjan Cesar,Centre-Back,1982-07-09,32,Slovenia,Chievo Verona,Serie A,2015/2016,2015
+Alessandro Gamberini,Centre-Back,1981-08-27,33,Italy,Chievo Verona,Serie A,2015/2016,2015
+Dario Dainelli,Centre-Back,1979-06-09,36,Italy,Chievo Verona,Serie A,2015/2016,2015
+Cristiano Biraghi,Left-Back,1992-09-01,22,Italy,Chievo Verona,Serie A,2015/2016,2015
+Massimo Gobbi,Left-Back,1980-10-31,34,Italy,Chievo Verona,Serie A,2015/2016,2015
+Filippo Costa,Left-Back,1995-05-21,20,Italy,Chievo Verona,Serie A,2015/2016,2015
+Fabrizio Cacciatore,Right-Back,1986-10-08,28,Italy,Chievo Verona,Serie A,2015/2016,2015
+Nicolas Frey,Right-Back,1984-03-06,31,France,Chievo Verona,Serie A,2015/2016,2015
+Raffaele Pucino,Right-Back,1991-05-03,24,Italy,Chievo Verona,Serie A,2015/2016,2015
+Federico Mattiello,Right-Back,1995-07-14,19,Italy,Chievo Verona,Serie A,2015/2016,2015
+Michele Troiani,Right-Back,1996-07-21,18,Italy,Chievo Verona,Serie A,2015/2016,2015
+Gennaro Sardo,Right-Back,1979-05-08,36,Italy,Chievo Verona,Serie A,2015/2016,2015
+Fabio Depaoli,Right-Back,1997-04-24,18,Italy,Chievo Verona,Serie A,2015/2016,2015
+Anders Christiansen,Defensive Midfield,1990-06-08,25,Denmark,Chievo Verona,Serie A,2015/2016,2015
+Ivan Radovanovic,Defensive Midfield,1988-08-29,26,Serbia,Chievo Verona,Serie A,2015/2016,2015
+Lucas Castro,Central Midfield,1989-04-09,26,Argentina,Chievo Verona,Serie A,2015/2016,2015
+Perparim Hetemaj,Central Midfield,1986-12-12,28,Finland,Chievo Verona,Serie A,2015/2016,2015
+Mariano Izco,Central Midfield,1983-03-13,32,Argentina,Chievo Verona,Serie A,2015/2016,2015
+Nicola Rigoni,Central Midfield,1990-11-12,24,Italy,Chievo Verona,Serie A,2015/2016,2015
+Giampiero Pinzi,Central Midfield,1981-03-11,34,Italy,Chievo Verona,Serie A,2015/2016,2015
+Malick Mbaye,Central Midfield,1995-11-06,19,Senegal,Chievo Verona,Serie A,2015/2016,2015
+Filippo Damian,Central Midfield,1996-04-21,19,Italy,Chievo Verona,Serie A,2015/2016,2015
+Valter Birsa,Attacking Midfield,1986-08-07,28,Slovenia,Chievo Verona,Serie A,2015/2016,2015
+Paul-José Mpoku,Left Winger,1992-04-19,23,DR Congo,Chievo Verona,Serie A,2015/2016,2015
+Armando Vajushi,Left Winger,1991-12-03,23,Albania,Chievo Verona,Serie A,2015/2016,2015
+Nikola Ninkovic,Left Winger,1994-12-19,20,Serbia,Chievo Verona,Serie A,2015/2016,2015
+Adrian Stoian,Left Winger,1991-02-11,24,Romania,Chievo Verona,Serie A,2015/2016,2015
+Simone Pepe,Right Winger,1983-08-30,31,Italy,Chievo Verona,Serie A,2015/2016,2015
+Riccardo Meggiorini,Second Striker,1985-09-04,29,Italy,Chievo Verona,Serie A,2015/2016,2015
+Alberto Paloschi,Centre-Forward,1990-01-04,25,Italy,Chievo Verona,Serie A,2015/2016,2015
+Antonio Floro Flores,Centre-Forward,1983-06-18,32,Italy,Chievo Verona,Serie A,2015/2016,2015
+Ali Sowe,Centre-Forward,1994-06-14,21,The Gambia,Chievo Verona,Serie A,2015/2016,2015
+Roberto Inglese,Centre-Forward,1991-11-12,23,Italy,Chievo Verona,Serie A,2015/2016,2015
+Sergio Pellissier,Centre-Forward,1979-04-12,36,Italy,Chievo Verona,Serie A,2015/2016,2015
+Jhon Fredy Miranda,Centre-Forward,1997-03-07,18,Colombia,Chievo Verona,Serie A,2015/2016,2015
+Francesco Bardi,Goalkeeper,1992-01-18,23,Italy,Frosinone Calcio,Serie A,2015/2016,2015
+Nicola Leali,Goalkeeper,1993-02-17,22,Italy,Frosinone Calcio,Serie A,2015/2016,2015
+Lys Gomis,Goalkeeper,1989-10-06,25,Senegal,Frosinone Calcio,Serie A,2015/2016,2015
+Mirko Pigliacelli,Goalkeeper,1993-06-30,22,Italy,Frosinone Calcio,Serie A,2015/2016,2015
+Massimo Zappino,Goalkeeper,1981-06-12,34,Italy,Frosinone Calcio,Serie A,2015/2016,2015
+Francesco Faiella,Goalkeeper,1997-06-05,18,Italy,Frosinone Calcio,Serie A,2015/2016,2015
+Modibo Diakité,Centre-Back,1987-03-02,28,France,Frosinone Calcio,Serie A,2015/2016,2015
+Leonardo Blanchard,Centre-Back,1988-05-06,27,Italy,Frosinone Calcio,Serie A,2015/2016,2015
+Vasyl Pryima,Centre-Back,1991-06-10,24,Ukraine,Frosinone Calcio,Serie A,2015/2016,2015
+Adriano Russo,Centre-Back,1987-06-06,28,Italy,Frosinone Calcio,Serie A,2015/2016,2015
+Arlind Ajeti,Centre-Back,1993-09-25,21,Albania,Frosinone Calcio,Serie A,2015/2016,2015
+Davide Bertoncini,Centre-Back,1991-05-09,24,Italy,Frosinone Calcio,Serie A,2015/2016,2015
+Daniel Pavlovic,Left-Back,1988-04-22,27,Bosnia-Herzegovina,Frosinone Calcio,Serie A,2015/2016,2015
+Roberto Crivello,Left-Back,1991-09-14,23,Italy,Frosinone Calcio,Serie A,2015/2016,2015
+Aleandro Rosi,Right-Back,1987-05-17,28,Italy,Frosinone Calcio,Serie A,2015/2016,2015
+Matteo Ciofani,Right-Back,1988-02-26,27,Italy,Frosinone Calcio,Serie A,2015/2016,2015
+Damiano Zanon,Right-Back,1983-02-09,32,Italy,Frosinone Calcio,Serie A,2015/2016,2015
+Robert Gucher,Defensive Midfield,1991-02-20,24,Austria,Frosinone Calcio,Serie A,2015/2016,2015
+Alessandro Frara,Defensive Midfield,1982-11-07,32,Italy,Frosinone Calcio,Serie A,2015/2016,2015
+Raman Chibsah,Central Midfield,1993-03-10,22,Ghana,Frosinone Calcio,Serie A,2015/2016,2015
+Mirko Gori,Central Midfield,1993-02-04,22,Italy,Frosinone Calcio,Serie A,2015/2016,2015
+Massimiliano Carlini,Central Midfield,1986-08-20,28,Italy,Frosinone Calcio,Serie A,2015/2016,2015
+Paolo Sammarco,Central Midfield,1983-03-17,32,Italy,Frosinone Calcio,Serie A,2015/2016,2015
+Daniele Altobelli,Central Midfield,1993-03-18,22,Italy,Frosinone Calcio,Serie A,2015/2016,2015
+Lorenzo Ranelli,Central Midfield,1996-06-05,19,Italy,Frosinone Calcio,Serie A,2015/2016,2015
+Danilo Soddimo,Left Midfield,1987-09-27,27,Italy,Frosinone Calcio,Serie A,2015/2016,2015
+Oliver Kragl,Left Midfield,1990-05-12,25,Germany,Frosinone Calcio,Serie A,2015/2016,2015
+Daniele Verde,Right Winger,1996-06-20,19,Italy,Frosinone Calcio,Serie A,2015/2016,2015
+Luca Paganini,Right Winger,1993-06-08,22,Italy,Frosinone Calcio,Serie A,2015/2016,2015
+Aleksandar Tonev,Second Striker,1990-02-03,25,Bulgaria,Frosinone Calcio,Serie A,2015/2016,2015
+Nicolás Castillo,Centre-Forward,1993-02-14,22,Chile,Frosinone Calcio,Serie A,2015/2016,2015
+Federico Dionisi,Centre-Forward,1987-06-16,28,Italy,Frosinone Calcio,Serie A,2015/2016,2015
+Samuele Longo,Centre-Forward,1992-01-12,23,Italy,Frosinone Calcio,Serie A,2015/2016,2015
+Daniel Ciofani,Centre-Forward,1985-07-31,29,Italy,Frosinone Calcio,Serie A,2015/2016,2015
+Arturo Lupoli,Centre-Forward,1987-06-24,28,Italy,Frosinone Calcio,Serie A,2015/2016,2015
+Lukasz Skorupski,Goalkeeper,1991-05-05,24,Poland,FC Empoli,Serie A,2015/2016,2015
+Alberto Pelagotti,Goalkeeper,1989-03-09,26,Italy,FC Empoli,Serie A,2015/2016,2015
+Maurizio Pugliesi,Goalkeeper,1976-12-27,38,Italy,FC Empoli,Serie A,2015/2016,2015
+Gabriel Meli,Goalkeeper,1999-02-05,16,Italy,FC Empoli,Serie A,2015/2016,2015
+Alessandro Giacomel,Goalkeeper,1998-07-09,16,Italy,FC Empoli,Serie A,2015/2016,2015
+Lorenzo Tonelli,Centre-Back,1990-01-17,25,Italy,FC Empoli,Serie A,2015/2016,2015
+Michele Camporese,Centre-Back,1992-05-19,23,Italy,FC Empoli,Serie A,2015/2016,2015
+Andrea Costa,Centre-Back,1986-02-01,29,Italy,FC Empoli,Serie A,2015/2016,2015
+Lorenzo Ariaudo,Centre-Back,1989-06-11,26,Italy,FC Empoli,Serie A,2015/2016,2015
+Uroš Ćosić,Centre-Back,1992-10-24,22,Serbia,FC Empoli,Serie A,2015/2016,2015
+Federico Barba,Centre-Back,1993-09-01,21,Italy,FC Empoli,Serie A,2015/2016,2015
+Kastriot Dermaku,Centre-Back,1992-01-15,23,Albania,FC Empoli,Serie A,2015/2016,2015
+Luca Martinelli,Centre-Back,1988-12-20,26,Italy,FC Empoli,Serie A,2015/2016,2015
+Mário Rui,Left-Back,1991-05-27,24,Portugal,FC Empoli,Serie A,2015/2016,2015
+Luca Bittante,Right-Back,1993-08-14,21,Italy,FC Empoli,Serie A,2015/2016,2015
+Vincent Laurini,Right-Back,1989-06-10,26,France,FC Empoli,Serie A,2015/2016,2015
+Marco Zambelli,Right-Back,1985-08-22,29,Italy,FC Empoli,Serie A,2015/2016,2015
+Leandro Paredes,Defensive Midfield,1994-06-29,21,Argentina,FC Empoli,Serie A,2015/2016,2015
+Assane Dioussé,Defensive Midfield,1997-09-20,17,Senegal,FC Empoli,Serie A,2015/2016,2015
+Ronaldo,Defensive Midfield,1990-04-08,25,Brazil,FC Empoli,Serie A,2015/2016,2015
+Samuele Damiani,Defensive Midfield,1998-01-30,17,Italy,FC Empoli,Serie A,2015/2016,2015
+Piotr Zielinski,Central Midfield,1994-05-20,21,Poland,FC Empoli,Serie A,2015/2016,2015
+Raffaele Maiello,Central Midfield,1991-07-10,23,Italy,FC Empoli,Serie A,2015/2016,2015
+Joshua Brillante,Central Midfield,1993-03-25,22,Australia,FC Empoli,Serie A,2015/2016,2015
+Franco Signorelli,Central Midfield,1991-01-01,24,Venezuela,FC Empoli,Serie A,2015/2016,2015
+Marcel Büchel,Central Midfield,1991-03-18,24,Liechtenstein,FC Empoli,Serie A,2015/2016,2015
+Daniele Croce,Central Midfield,1982-09-09,32,Italy,FC Empoli,Serie A,2015/2016,2015
+Rade Krunic,Central Midfield,1993-10-07,21,Bosnia-Herzegovina,FC Empoli,Serie A,2015/2016,2015
+Alberto Picchi,Central Midfield,1997-08-12,17,Italy,FC Empoli,Serie A,2015/2016,2015
+Riccardo Saponara,Attacking Midfield,1991-12-21,23,Italy,FC Empoli,Serie A,2015/2016,2015
+Tommaso Fantacci,Attacking Midfield,1997-03-17,18,Italy,FC Empoli,Serie A,2015/2016,2015
+Nicola Mosti,Attacking Midfield,1998-02-07,17,Italy,FC Empoli,Serie A,2015/2016,2015
+Alessandro Piu,Left Winger,1996-07-30,18,Italy,FC Empoli,Serie A,2015/2016,2015
+Manuel Pucciarelli,Second Striker,1991-06-17,24,Italy,FC Empoli,Serie A,2015/2016,2015
+Marko Livaja,Centre-Forward,1993-08-26,21,Croatia,FC Empoli,Serie A,2015/2016,2015
+Massimo Maccarone,Centre-Forward,1979-09-06,35,Italy,FC Empoli,Serie A,2015/2016,2015
+Levan Mchedlidze,Centre-Forward,1990-03-24,25,Georgia,FC Empoli,Serie A,2015/2016,2015
+Roman Tchanturia,Centre-Forward,1996-02-09,19,Georgia,FC Empoli,Serie A,2015/2016,2015

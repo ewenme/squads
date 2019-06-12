@@ -1,736 +1,736 @@
-shirt_number,position,player_name,date_of_birth,age,nationality,club_name,league_name,season,year
-1,Goalkeeper,"Apr 19, 1987 (25)",NA,NA,England,Manchester City,Premier League,2012/2013,2012
-30,Goalkeeper,"Feb 1, 1987 (25)",NA,NA,Romania,Manchester City,Premier League,2012/2013,2012
-29,Goalkeeper,"Nov 5, 1977 (34)",NA,NA,England,Manchester City,Premier League,2012/2013,2012
-63,Goalkeeper,"Jul 12, 1992 (19)",NA,NA,Norway,Manchester City,Premier League,2012/2013,2012
-4,Centre-Back,"Apr 10, 1986 (26)",NA,NA,Belgium,Manchester City,Premier League,2012/2013,2012
-6,Centre-Back,"Aug 16, 1982 (29)",NA,NA,England,Manchester City,Premier League,2012/2013,2012
-15,Centre-Back,"Jan 8, 1991 (21)",NA,NA,Montenegro,Manchester City,Premier League,2012/2013,2012
-28,Centre-Back,"Mar 19, 1981 (31)",NA,NA,Cote d'Ivoire,Manchester City,Premier League,2012/2013,2012
-33,Centre-Back,"Mar 28, 1993 (19)",NA,NA,Serbia,Manchester City,Premier League,2012/2013,2012
-38,Centre-Back,"Nov 28, 1990 (21)",NA,NA,Belgium,Manchester City,Premier League,2012/2013,2012
-44,Centre-Back,"Dec 2, 1994 (17)",NA,NA,Netherlands,Manchester City,Premier League,2012/2013,2012
-56,Centre-Back,"Aug 2, 1994 (17)",NA,NA,England,Manchester City,Premier League,2012/2013,2012
-22,Left-Back,"Jul 26, 1985 (26)",NA,NA,France,Manchester City,Premier League,2012/2013,2012
-13,Left-Back,"Nov 10, 1985 (26)",NA,NA,Serbia,Manchester City,Premier League,2012/2013,2012
-3,Left-Back,"Aug 5, 1980 (31)",NA,NA,England,Manchester City,Premier League,2012/2013,2012
-2,Right-Back,"Jun 24, 1988 (24)",NA,NA,England,Manchester City,Premier League,2012/2013,2012
-3,Right-Back,"Jul 26, 1981 (30)",NA,NA,Brazil,Manchester City,Premier League,2012/2013,2012
-5,Right-Back,"Jan 16, 1985 (27)",NA,NA,Argentina,Manchester City,Premier League,2012/2013,2012
-17,Defensive Midfield,"Mar 11, 1991 (21)",NA,NA,England,Manchester City,Premier League,2012/2013,2012
-34,Defensive Midfield,"Nov 30, 1984 (27)",NA,NA,Netherlands,Manchester City,Premier League,2012/2013,2012
-14,Defensive Midfield,"Feb 8, 1987 (25)",NA,NA,Spain,Manchester City,Premier League,2012/2013,2012
-18,Defensive Midfield,"Feb 23, 1981 (31)",NA,NA,England,Manchester City,Premier League,2012/2013,2012
-74,Defensive Midfield,"Dec 13, 1994 (17)",NA,NA,England,Manchester City,Premier League,2012/2013,2012
-42,Central Midfield,"May 13, 1983 (29)",NA,NA,Cote d'Ivoire,Manchester City,Premier League,2012/2013,2012
-7,Central Midfield,"Jan 4, 1986 (26)",NA,NA,England,Manchester City,Premier League,2012/2013,2012
-50,Central Midfield,"May 4, 1991 (21)",NA,NA,Norway,Manchester City,Premier League,2012/2013,2012
-36,Central Midfield,"Jan 6, 1994 (18)",NA,NA,Spain,Manchester City,Premier League,2012/2013,2012
-62,Central Midfield,"Nov 11, 1992 (19)",NA,NA,Cote d'Ivoire,Manchester City,Premier League,2012/2013,2012
-11,Left Midfield,"Mar 25, 1989 (23)",NA,NA,England,Manchester City,Premier League,2012/2013,2012
-61,Left Midfield,"May 9, 1992 (20)",NA,NA,France,Manchester City,Premier League,2012/2013,2012
-21,Attacking Midfield,"Jan 8, 1986 (26)",NA,NA,Spain,Manchester City,Premier League,2012/2013,2012
-8,Attacking Midfield,"Jun 26, 1987 (25)",NA,NA,France,Manchester City,Premier League,2012/2013,2012
-49,Left Winger,"Apr 15, 1991 (21)",NA,NA,Italy,Manchester City,Premier League,2012/2013,2012
-11,Right Winger,"Jul 14, 1987 (24)",NA,NA,England,Manchester City,Premier League,2012/2013,2012
-64,Right Winger,"Dec 28, 1995 (16)",NA,NA,Portugal,Manchester City,Premier League,2012/2013,2012
-32,Second Striker,"Feb 5, 1984 (28)",NA,NA,Argentina,Manchester City,Premier League,2012/2013,2012
-16,Centre-Forward,"Jun 2, 1988 (24)",NA,NA,Argentina,Manchester City,Premier League,2012/2013,2012
-45,Centre-Forward,"Aug 12, 1990 (21)",NA,NA,Italy,Manchester City,Premier League,2012/2013,2012
-10,Centre-Forward,"Mar 17, 1986 (26)",NA,NA,Bosnia-Herzegovina,Manchester City,Premier League,2012/2013,2012
-60,Centre-Forward,"Apr 15, 1992 (20)",NA,NA,Sweden,Manchester City,Premier League,2012/2013,2012
-43,Centre-Forward,"May 11, 1991 (21)",NA,NA,England,Manchester City,Premier League,2012/2013,2012
-1,Goalkeeper,"Nov 7, 1990 (21)",NA,NA,Spain,Manchester United,Premier League,2012/2013,2012
-13,Goalkeeper,"Apr 13, 1984 (28)",NA,NA,Denmark,Manchester United,Premier League,2012/2013,2012
-40,Goalkeeper,"Apr 10, 1990 (22)",NA,NA,England,Manchester United,Premier League,2012/2013,2012
-50,Goalkeeper,"Mar 25, 1993 (19)",NA,NA,England,Manchester United,Premier League,2012/2013,2012
-15,Centre-Back,"Oct 21, 1981 (30)",NA,NA,Serbia,Manchester United,Premier League,2012/2013,2012
-4,Centre-Back,"Feb 21, 1992 (20)",NA,NA,England,Manchester United,Premier League,2012/2013,2012
-12,Centre-Back,"Nov 22, 1989 (22)",NA,NA,England,Manchester United,Premier League,2012/2013,2012
-6,Centre-Back,"Jan 3, 1988 (24)",NA,NA,Northern Ireland,Manchester United,Premier League,2012/2013,2012
-5,Centre-Back,"Nov 7, 1978 (33)",NA,NA,England,Manchester United,Premier League,2012/2013,2012
-NA,Centre-Back,"Jan 11, 1993 (19)",NA,NA,England,Manchester United,Premier League,2012/2013,2012
-NA,Centre-Back,"Sep 12, 1991 (20)",NA,NA,England,Manchester United,Premier League,2012/2013,2012
-18,Left-Back,"Jul 9, 1985 (26)",NA,NA,England,Manchester United,Premier League,2012/2013,2012
-3,Left-Back,"May 15, 1981 (31)",NA,NA,France,Manchester United,Premier League,2012/2013,2012
-28,Left-Back,"Feb 11, 1989 (23)",NA,NA,Netherlands,Manchester United,Premier League,2012/2013,2012
-7,Right-Back,"Aug 4, 1985 (26)",NA,NA,Ecuador,Manchester United,Premier League,2012/2013,2012
-2,Right-Back,"Jul 9, 1990 (21)",NA,NA,Brazil,Manchester United,Premier League,2012/2013,2012
-NA,Right-Back,"Jul 9, 1990 (21)",NA,NA,Brazil,Manchester United,Premier League,2012/2013,2012
-NA,Right-Back,"Jan 13, 1992 (20)",NA,NA,Belgium,Manchester United,Premier League,2012/2013,2012
-16,Defensive Midfield,"Jul 28, 1981 (30)",NA,NA,England,Manchester United,Premier League,2012/2013,2012
-8,Central Midfield,"Apr 13, 1988 (24)",NA,NA,Brazil,Manchester United,Premier League,2012/2013,2012
-24,Central Midfield,"Feb 1, 1984 (28)",NA,NA,Scotland,Manchester United,Premier League,2012/2013,2012
-23,Central Midfield,"Aug 12, 1989 (22)",NA,NA,England,Manchester United,Premier League,2012/2013,2012
-22,Central Midfield,"Nov 16, 1974 (37)",NA,NA,England,Manchester United,Premier League,2012/2013,2012
-NA,Central Midfield,"Dec 30, 1992 (19)",NA,NA,England,Manchester United,Premier League,2012/2013,2012
-34,Right Midfield,"Mar 9, 1993 (19)",NA,NA,England,Manchester United,Premier League,2012/2013,2012
-11,Left Midfield,"Nov 29, 1973 (38)",NA,NA,Wales,Manchester United,Premier League,2012/2013,2012
-NA,Left Midfield,"Jan 14, 1992 (20)",NA,NA,Ireland,Manchester United,Premier League,2012/2013,2012
-26,Attacking Midfield,"Mar 17, 1989 (23)",NA,NA,Japan,Manchester United,Premier League,2012/2013,2012
-25,Attacking Midfield,"Mar 23, 1994 (18)",NA,NA,England,Manchester United,Premier League,2012/2013,2012
-17,Left Winger,"Nov 17, 1986 (25)",NA,NA,Portugal,Manchester United,Premier League,2012/2013,2012
-NA,Right Winger,"Nov 10, 1992 (19)",NA,NA,Cote d'Ivoire,Manchester United,Premier League,2012/2013,2012
-35,Right Winger,"Dec 15, 1992 (19)",NA,NA,England,Manchester United,Premier League,2012/2013,2012
-44,Right Winger,"Feb 5, 1995 (17)",NA,NA,Belgium,Manchester United,Premier League,2012/2013,2012
-NA,Second Striker,"Jan 15, 1992 (20)",NA,NA,Norway,Manchester United,Premier League,2012/2013,2012
-10,Centre-Forward,"Oct 24, 1985 (26)",NA,NA,England,Manchester United,Premier League,2012/2013,2012
-20,Centre-Forward,"Aug 6, 1983 (28)",NA,NA,Netherlands,Manchester United,Premier League,2012/2013,2012
-14,Centre-Forward,"Jun 1, 1988 (24)",NA,NA,Mexico,Manchester United,Premier League,2012/2013,2012
-19,Centre-Forward,"Nov 26, 1990 (21)",NA,NA,England,Manchester United,Premier League,2012/2013,2012
-9,Centre-Forward,"Jan 30, 1981 (31)",NA,NA,Bulgaria,Manchester United,Premier League,2012/2013,2012
-NA,Centre-Forward,"Aug 22, 1991 (20)",NA,NA,Italy,Manchester United,Premier League,2012/2013,2012
-NA,Centre-Forward,"Apr 13, 1994 (18)",NA,NA,Chile,Manchester United,Premier League,2012/2013,2012
-1,Goalkeeper,"May 20, 1982 (30)",NA,NA,Czech Republic,Chelsea FC,Premier League,2012/2013,2012
-22,Goalkeeper,"Jan 4, 1985 (27)",NA,NA,England,Chelsea FC,Premier League,2012/2013,2012
-40,Goalkeeper,"Oct 21, 1975 (36)",NA,NA,Portugal,Chelsea FC,Premier League,2012/2013,2012
-4,Centre-Back,"Apr 22, 1987 (25)",NA,NA,Brazil,Chelsea FC,Premier League,2012/2013,2012
-2,Centre-Back,"Feb 22, 1984 (28)",NA,NA,Serbia,Chelsea FC,Premier League,2012/2013,2012
-26,Centre-Back,"Dec 7, 1980 (31)",NA,NA,England,Chelsea FC,Premier League,2012/2013,2012
-24,Centre-Back,"Dec 19, 1985 (26)",NA,NA,England,Chelsea FC,Premier League,2012/2013,2012
-NA,Centre-Back,"Feb 18, 1995 (17)",NA,NA,Netherlands,Chelsea FC,Premier League,2012/2013,2012
-32,Centre-Back,"Apr 10, 1996 (16)",NA,NA,Denmark,Chelsea FC,Premier League,2012/2013,2012
-3,Left-Back,"Dec 20, 1980 (31)",NA,NA,England,Chelsea FC,Premier League,2012/2013,2012
-34,Left-Back,"Aug 5, 1989 (22)",NA,NA,England,Chelsea FC,Premier League,2012/2013,2012
-28,Right-Back,"Aug 28, 1989 (22)",NA,NA,Spain,Chelsea FC,Premier League,2012/2013,2012
-19,Right-Back,"Jan 18, 1979 (33)",NA,NA,Portugal,Chelsea FC,Premier League,2012/2013,2012
-5,Defensive Midfield,"Dec 3, 1982 (29)",NA,NA,Ghana,Chelsea FC,Premier League,2012/2013,2012
-12,Defensive Midfield,"Apr 22, 1987 (25)",NA,NA,Nigeria,Chelsea FC,Premier League,2012/2013,2012
-6,Defensive Midfield,"Sep 24, 1991 (20)",NA,NA,Spain,Chelsea FC,Premier League,2012/2013,2012
-45,Defensive Midfield,"Dec 12, 1994 (17)",NA,NA,England,Chelsea FC,Premier League,2012/2013,2012
-7,Central Midfield,"Mar 24, 1987 (25)",NA,NA,Brazil,Chelsea FC,Premier League,2012/2013,2012
-NA,Central Midfield,"Mar 17, 1983 (29)",NA,NA,Portugal,Chelsea FC,Premier League,2012/2013,2012
-8,Central Midfield,"Jun 20, 1978 (34)",NA,NA,England,Chelsea FC,Premier League,2012/2013,2012
-20,Central Midfield,"Mar 1, 1993 (19)",NA,NA,England,Chelsea FC,Premier League,2012/2013,2012
-56,Central Midfield,"Jun 1, 1993 (19)",NA,NA,Northern Ireland,Chelsea FC,Premier League,2012/2013,2012
-10,Attacking Midfield,"Apr 28, 1988 (24)",NA,NA,Spain,Chelsea FC,Premier League,2012/2013,2012
-21,Attacking Midfield,"Mar 13, 1989 (23)",NA,NA,Germany,Chelsea FC,Premier League,2012/2013,2012
-11,Attacking Midfield,"Sep 9, 1991 (20)",NA,NA,Brazil,Chelsea FC,Premier League,2012/2013,2012
-17,Left Winger,"Jan 7, 1991 (21)",NA,NA,Belgium,Chelsea FC,Premier League,2012/2013,2012
-15,Left Winger,"Jun 13, 1980 (32)",NA,NA,French Guiana,Chelsea FC,Premier League,2012/2013,2012
-NA,Right Winger,"Jan 20, 1994 (18)",NA,NA,Brazil,Chelsea FC,Premier League,2012/2013,2012
-13,Right Winger,"Dec 12, 1990 (21)",NA,NA,Nigeria,Chelsea FC,Premier League,2012/2013,2012
-30,Right Winger,"May 5, 1980 (32)",NA,NA,Israel,Chelsea FC,Premier League,2012/2013,2012
-9,Centre-Forward,"Mar 20, 1984 (28)",NA,NA,Spain,Chelsea FC,Premier League,2012/2013,2012
-NA,Centre-Forward,"Sep 1, 1989 (22)",NA,NA,England,Chelsea FC,Premier League,2012/2013,2012
-29,Centre-Forward,"May 25, 1985 (27)",NA,NA,Senegal,Chelsea FC,Premier League,2012/2013,2012
-18,Centre-Forward,"May 13, 1993 (19)",NA,NA,Belgium,Chelsea FC,Premier League,2012/2013,2012
-25,Goalkeeper,"Dec 26, 1986 (25)",NA,NA,France,Tottenham Hotspur,Premier League,2012/2013,2012
-1,Goalkeeper,"Feb 15, 1981 (31)",NA,NA,Brazil,Tottenham Hotspur,Premier League,2012/2013,2012
-24,Goalkeeper,"May 18, 1971 (41)",NA,NA,United States,Tottenham Hotspur,Premier League,2012/2013,2012
-NA,Goalkeeper,"Sep 6, 1973 (38)",NA,NA,Italy,Tottenham Hotspur,Premier League,2012/2013,2012
-57,Goalkeeper,"Apr 12, 1993 (19)",NA,NA,Scotland,Tottenham Hotspur,Premier League,2012/2013,2012
-4,Centre-Back,"Jan 4, 1986 (26)",NA,NA,France,Tottenham Hotspur,Premier League,2012/2013,2012
-5,Centre-Back,"Apr 24, 1987 (25)",NA,NA,Belgium,Tottenham Hotspur,Premier League,2012/2013,2012
-20,Centre-Back,"Nov 18, 1983 (28)",NA,NA,England,Tottenham Hotspur,Premier League,2012/2013,2012
-33,Centre-Back,"Dec 29, 1991 (20)",NA,NA,England,Tottenham Hotspur,Premier League,2012/2013,2012
-13,Centre-Back,"Aug 17, 1977 (34)",NA,NA,France,Tottenham Hotspur,Premier League,2012/2013,2012
-32,Left-Back,"Mar 24, 1984 (28)",NA,NA,Cameroon,Tottenham Hotspur,Premier League,2012/2013,2012
-3,Left-Back,"Jul 2, 1990 (21)",NA,NA,England,Tottenham Hotspur,Premier League,2012/2013,2012
-62,Left-Back,"Sep 9, 1992 (19)",NA,NA,England,Tottenham Hotspur,Premier League,2012/2013,2012
-28,Right-Back,"May 28, 1990 (22)",NA,NA,England,Tottenham Hotspur,Premier League,2012/2013,2012
-16,Right-Back,"Nov 11, 1988 (23)",NA,NA,England,Tottenham Hotspur,Premier League,2012/2013,2012
-NA,Right-Back,"Apr 29, 1991 (21)",NA,NA,England,Tottenham Hotspur,Premier League,2012/2013,2012
-30,Defensive Midfield,"Mar 15, 1989 (23)",NA,NA,Brazil,Tottenham Hotspur,Premier League,2012/2013,2012
-6,Defensive Midfield,"Dec 28, 1986 (25)",NA,NA,England,Tottenham Hotspur,Premier League,2012/2013,2012
-29,Defensive Midfield,"Nov 14, 1989 (22)",NA,NA,England,Tottenham Hotspur,Premier League,2012/2013,2012
-NA,Defensive Midfield,"Sep 7, 1993 (18)",NA,NA,England,Tottenham Hotspur,Premier League,2012/2013,2012
-19,Central Midfield,"Jul 16, 1987 (24)",NA,NA,Belgium,Tottenham Hotspur,Premier League,2012/2013,2012
-8,Central Midfield,"Oct 13, 1980 (31)",NA,NA,England,Tottenham Hotspur,Premier League,2012/2013,2012
-NA,Central Midfield,"Feb 18, 1983 (29)",NA,NA,England,Tottenham Hotspur,Premier League,2012/2013,2012
-NA,Central Midfield,"Jun 13, 1991 (21)",NA,NA,England,Tottenham Hotspur,Premier League,2012/2013,2012
-58,Central Midfield,"Nov 16, 1991 (20)",NA,NA,England,Tottenham Hotspur,Premier League,2012/2013,2012
-46,Central Midfield,"May 28, 1992 (20)",NA,NA,England,Tottenham Hotspur,Premier League,2012/2013,2012
-NA,Right Midfield,"Aug 27, 1984 (27)",NA,NA,England,Tottenham Hotspur,Premier League,2012/2013,2012
-NA,Attacking Midfield,"Feb 11, 1983 (29)",NA,NA,Netherlands,Tottenham Hotspur,Premier League,2012/2013,2012
-22,Attacking Midfield,"Sep 8, 1989 (22)",NA,NA,Iceland,Tottenham Hotspur,Premier League,2012/2013,2012
-23,Attacking Midfield,"Sep 18, 1990 (21)",NA,NA,Germany,Tottenham Hotspur,Premier League,2012/2013,2012
-44,Left Winger,"Dec 3, 1992 (19)",NA,NA,Spain,Tottenham Hotspur,Premier League,2012/2013,2012
-11,Right Winger,"Jul 16, 1989 (22)",NA,NA,Wales,Tottenham Hotspur,Premier League,2012/2013,2012
-7,Right Winger,"Apr 16, 1987 (25)",NA,NA,England,Tottenham Hotspur,Premier League,2012/2013,2012
-NA,Right Winger,"Jan 4, 1990 (22)",NA,NA,Spain,Tottenham Hotspur,Premier League,2012/2013,2012
-31,Right Winger,"Jul 16, 1991 (20)",NA,NA,England,Tottenham Hotspur,Premier League,2012/2013,2012
-2,Second Striker,"Mar 9, 1983 (29)",NA,NA,United States,Tottenham Hotspur,Premier League,2012/2013,2012
-10,Centre-Forward,"Feb 26, 1984 (28)",NA,NA,Togo,Tottenham Hotspur,Premier League,2012/2013,2012
-18,Centre-Forward,"Oct 7, 1982 (29)",NA,NA,England,Tottenham Hotspur,Premier League,2012/2013,2012
-NA,Centre-Forward,"Sep 12, 1990 (21)",NA,NA,England,Tottenham Hotspur,Premier League,2012/2013,2012
-NA,Centre-Forward,"Jul 28, 1993 (18)",NA,NA,England,Tottenham Hotspur,Premier League,2012/2013,2012
-41,Centre-Forward,"Nov 2, 1994 (17)",NA,NA,England,Tottenham Hotspur,Premier League,2012/2013,2012
-1,Goalkeeper,"Apr 18, 1990 (22)",NA,NA,Poland,Arsenal FC,Premier League,2012/2013,2012
-21,Goalkeeper,"Apr 18, 1985 (27)",NA,NA,Poland,Arsenal FC,Premier League,2012/2013,2012
-24,Goalkeeper,"Mar 2, 1988 (24)",NA,NA,Italy,Arsenal FC,Premier League,2012/2013,2012
-60,Goalkeeper,"Jun 16, 1991 (21)",NA,NA,England,Arsenal FC,Premier League,2012/2013,2012
-NA,Goalkeeper,"Sep 2, 1992 (19)",NA,NA,Argentina,Arsenal FC,Premier League,2012/2013,2012
-5,Centre-Back,"Nov 14, 1985 (26)",NA,NA,Belgium,Arsenal FC,Premier League,2012/2013,2012
-6,Centre-Back,"Sep 10, 1985 (26)",NA,NA,France,Arsenal FC,Premier League,2012/2013,2012
-4,Centre-Back,"Sep 29, 1984 (27)",NA,NA,Germany,Arsenal FC,Premier League,2012/2013,2012
-NA,Centre-Back,"Jan 18, 1987 (25)",NA,NA,Switzerland,Arsenal FC,Premier League,2012/2013,2012
-18,Centre-Back,"Aug 11, 1980 (31)",NA,NA,France,Arsenal FC,Premier League,2012/2013,2012
-NA,Centre-Back,"Sep 28, 1992 (19)",NA,NA,Spain,Arsenal FC,Premier League,2012/2013,2012
-NA,Centre-Back,"Jan 22, 1994 (18)",NA,NA,Switzerland,Arsenal FC,Premier League,2012/2013,2012
-48,Centre-Back,"Jun 4, 1993 (19)",NA,NA,Bosnia-Herzegovina,Arsenal FC,Premier League,2012/2013,2012
-55,Centre-Back,"Feb 22, 1994 (18)",NA,NA,Portugal,Arsenal FC,Premier League,2012/2013,2012
-17,Left-Back,"Feb 26, 1986 (26)",NA,NA,Spain,Arsenal FC,Premier League,2012/2013,2012
-28,Left-Back,"Sep 26, 1989 (22)",NA,NA,England,Arsenal FC,Premier League,2012/2013,2012
-NA,Left-Back,"Oct 25, 1992 (19)",NA,NA,England,Arsenal FC,Premier League,2012/2013,2012
-3,Right-Back,"Feb 14, 1983 (29)",NA,NA,France,Arsenal FC,Premier League,2012/2013,2012
-25,Right-Back,"Feb 8, 1992 (20)",NA,NA,England,Arsenal FC,Premier League,2012/2013,2012
-40,Right-Back,"Mar 19, 1995 (17)",NA,NA,Spain,Arsenal FC,Premier League,2012/2013,2012
-22,Defensive Midfield,"May 13, 1991 (21)",NA,NA,France,Arsenal FC,Premier League,2012/2013,2012
-NA,Defensive Midfield,"Jan 10, 1992 (20)",NA,NA,Ghana,Arsenal FC,Premier League,2012/2013,2012
-NA,Defensive Midfield,"May 24, 1993 (19)",NA,NA,China,Arsenal FC,Premier League,2012/2013,2012
-10,Central Midfield,"Jan 1, 1992 (20)",NA,NA,England,Arsenal FC,Premier League,2012/2013,2012
-19,Central Midfield,"Dec 13, 1984 (27)",NA,NA,Spain,Arsenal FC,Premier League,2012/2013,2012
-8,Central Midfield,"Mar 26, 1982 (30)",NA,NA,Spain,Arsenal FC,Premier League,2012/2013,2012
-15,Central Midfield,"Aug 15, 1993 (18)",NA,NA,England,Arsenal FC,Premier League,2012/2013,2012
-16,Central Midfield,"Dec 26, 1990 (21)",NA,NA,Wales,Arsenal FC,Premier League,2012/2013,2012
-2,Central Midfield,"May 11, 1986 (26)",NA,NA,France,Arsenal FC,Premier League,2012/2013,2012
-NA,Attacking Midfield,"Mar 8, 1983 (29)",NA,NA,Brazil,Arsenal FC,Premier League,2012/2013,2012
-7,Attacking Midfield,"Oct 4, 1980 (31)",NA,NA,Czech Republic,Arsenal FC,Premier League,2012/2013,2012
-NA,Attacking Midfield,"Jan 18, 1993 (19)",NA,NA,Germany,Arsenal FC,Premier League,2012/2013,2012
-27,Left Winger,"May 27, 1987 (25)",NA,NA,Cote d'Ivoire,Arsenal FC,Premier League,2012/2013,2012
-14,Right Winger,"Mar 16, 1989 (23)",NA,NA,England,Arsenal FC,Premier League,2012/2013,2012
-NA,Right Winger,"Dec 14, 1992 (19)",NA,NA,Japan,Arsenal FC,Premier League,2012/2013,2012
-NA,Right Winger,"Jul 14, 1995 (16)",NA,NA,Germany,Arsenal FC,Premier League,2012/2013,2012
-9,Second Striker,"Jun 4, 1985 (27)",NA,NA,Germany,Arsenal FC,Premier League,2012/2013,2012
-23,Second Striker,"May 29, 1981 (31)",NA,NA,Russia,Arsenal FC,Premier League,2012/2013,2012
-12,Centre-Forward,"Sep 30, 1986 (25)",NA,NA,France,Arsenal FC,Premier League,2012/2013,2012
-NA,Centre-Forward,"Jan 10, 1984 (28)",NA,NA,Morocco,Arsenal FC,Premier League,2012/2013,2012
-39,Centre-Forward,"May 4, 1994 (18)",NA,NA,Ghana,Arsenal FC,Premier League,2012/2013,2012
-67,Centre-Forward,"Oct 9, 1995 (16)",NA,NA,England,Arsenal FC,Premier League,2012/2013,2012
-25,Goalkeeper,"Aug 31, 1982 (29)",NA,NA,Spain,Liverpool FC,Premier League,2012/2013,2012
-1,Goalkeeper,"Mar 19, 1982 (30)",NA,NA,Australia,Liverpool FC,Premier League,2012/2013,2012
-NA,Goalkeeper,"May 6, 1990 (22)",NA,NA,Hungary,Liverpool FC,Premier League,2012/2013,2012
-52,Goalkeeper,"Jun 22, 1993 (19)",NA,NA,Wales,Liverpool FC,Premier League,2012/2013,2012
-37,Centre-Back,"Dec 15, 1984 (27)",NA,NA,Slovakia,Liverpool FC,Premier League,2012/2013,2012
-5,Centre-Back,"Dec 12, 1984 (27)",NA,NA,Denmark,Liverpool FC,Premier League,2012/2013,2012
-16,Centre-Back,"Oct 7, 1990 (21)",NA,NA,Uruguay,Liverpool FC,Premier League,2012/2013,2012
-23,Centre-Back,"Jan 28, 1978 (34)",NA,NA,England,Liverpool FC,Premier League,2012/2013,2012
-22,Centre-Back,"Dec 27, 1991 (20)",NA,NA,Scotland,Liverpool FC,Premier League,2012/2013,2012
-NA,Centre-Back,"Feb 25, 1993 (19)",NA,NA,England,Liverpool FC,Premier League,2012/2013,2012
-45,Centre-Back,"Mar 5, 1993 (19)",NA,NA,Germany,Liverpool FC,Premier League,2012/2013,2012
-51,Centre-Back,"Oct 7, 1995 (16)",NA,NA,England,Liverpool FC,Premier League,2012/2013,2012
-3,Left-Back,"Jan 23, 1986 (26)",NA,NA,Spain,Liverpool FC,Premier League,2012/2013,2012
-NA,Left-Back,"Sep 1, 1993 (18)",NA,NA,England,Liverpool FC,Premier League,2012/2013,2012
-2,Right-Back,"Aug 23, 1984 (27)",NA,NA,England,Liverpool FC,Premier League,2012/2013,2012
-34,Right-Back,"Apr 27, 1990 (22)",NA,NA,England,Liverpool FC,Premier League,2012/2013,2012
-NA,Right-Back,"Jan 1, 1993 (19)",NA,NA,England,Liverpool FC,Premier League,2012/2013,2012
-47,Right-Back,"May 9, 1993 (19)",NA,NA,England,Liverpool FC,Premier League,2012/2013,2012
-NA,Defensive Midfield,"Sep 5, 1988 (23)",NA,NA,Turkey,Liverpool FC,Premier League,2012/2013,2012
-21,Defensive Midfield,"Jan 9, 1987 (25)",NA,NA,Brazil,Liverpool FC,Premier League,2012/2013,2012
-NA,Defensive Midfield,"Nov 25, 1988 (23)",NA,NA,England,Liverpool FC,Premier League,2012/2013,2012
-8,Central Midfield,"May 30, 1980 (32)",NA,NA,England,Liverpool FC,Premier League,2012/2013,2012
-14,Central Midfield,"Jun 17, 1990 (22)",NA,NA,England,Liverpool FC,Premier League,2012/2013,2012
-NA,Central Midfield,"Dec 10, 1985 (26)",NA,NA,Scotland,Liverpool FC,Premier League,2012/2013,2012
-24,Central Midfield,"Mar 14, 1990 (22)",NA,NA,Wales,Liverpool FC,Premier League,2012/2013,2012
-33,Central Midfield,"Feb 27, 1992 (20)",NA,NA,England,Liverpool FC,Premier League,2012/2013,2012
-19,Left Midfield,"Jul 22, 1984 (27)",NA,NA,England,Liverpool FC,Premier League,2012/2013,2012
-NA,Attacking Midfield,"Nov 8, 1981 (30)",NA,NA,England,Liverpool FC,Premier League,2012/2013,2012
-29,Left Winger,"Mar 29, 1991 (21)",NA,NA,Italy,Liverpool FC,Premier League,2012/2013,2012
-10,Left Winger,"Jun 12, 1992 (20)",NA,NA,Brazil,Liverpool FC,Premier League,2012/2013,2012
-11,Left Winger,"Aug 15, 1988 (23)",NA,NA,Morocco,Liverpool FC,Premier League,2012/2013,2012
-NA,Left Winger,"Jan 5, 1991 (21)",NA,NA,Spain,Liverpool FC,Premier League,2012/2013,2012
-NA,Right Winger,"Dec 8, 1995 (16)",NA,NA,England,Liverpool FC,Premier League,2012/2013,2012
-30,Right Winger,"Nov 19, 1993 (18)",NA,NA,Spain,Liverpool FC,Premier League,2012/2013,2012
-31,Right Winger,"Dec 8, 1994 (17)",NA,NA,England,Liverpool FC,Premier League,2012/2013,2012
-7,Centre-Forward,"Jan 24, 1987 (25)",NA,NA,Uruguay,Liverpool FC,Premier League,2012/2013,2012
-15,Centre-Forward,"Sep 1, 1989 (22)",NA,NA,England,Liverpool FC,Premier League,2012/2013,2012
-NA,Centre-Forward,"Jan 6, 1989 (23)",NA,NA,England,Liverpool FC,Premier League,2012/2013,2012
-NA,Centre-Forward,"May 25, 1994 (18)",NA,NA,Germany,Liverpool FC,Premier League,2012/2013,2012
-NA,Centre-Forward,"Apr 21, 1994 (18)",NA,NA,England,Liverpool FC,Premier League,2012/2013,2012
-NA,Centre-Forward,"Sep 20, 1996 (15)",NA,NA,England,Liverpool FC,Premier League,2012/2013,2012
-1,Goalkeeper,"Apr 3, 1988 (24)",NA,NA,Netherlands,Newcastle United,Premier League,2012/2013,2012
-37,Goalkeeper,"Mar 14, 1975 (37)",NA,NA,England,Newcastle United,Premier League,2012/2013,2012
-21,Goalkeeper,"Apr 30, 1986 (26)",NA,NA,Ireland,Newcastle United,Premier League,2012/2013,2012
-42,Goalkeeper,"Jun 17, 1993 (19)",NA,NA,England,Newcastle United,Premier League,2012/2013,2012
-13,Centre-Back,"May 15, 1989 (23)",NA,NA,France,Newcastle United,Premier League,2012/2013,2012
-2,Centre-Back,"Jan 22, 1982 (30)",NA,NA,Argentina,Newcastle United,Premier League,2012/2013,2012
-27,Centre-Back,"Jan 23, 1986 (26)",NA,NA,England,Newcastle United,Premier League,2012/2013,2012
-6,Centre-Back,"Nov 8, 1983 (28)",NA,NA,England,Newcastle United,Premier League,2012/2013,2012
-33,Centre-Back,"Mar 23, 1993 (19)",NA,NA,Australia,Newcastle United,Premier League,2012/2013,2012
-44,Centre-Back,"Nov 2, 1994 (17)",NA,NA,England,Newcastle United,Premier League,2012/2013,2012
-3,Left-Back,"Jan 2, 1991 (21)",NA,NA,Italy,Newcastle United,Premier League,2012/2013,2012
-19,Left-Back,"Dec 2, 1992 (19)",NA,NA,Mali,Newcastle United,Premier League,2012/2013,2012
-NA,Left-Back,"Sep 26, 1991 (20)",NA,NA,Wales,Newcastle United,Premier League,2012/2013,2012
-26,Right-Back,"Jul 28, 1985 (26)",NA,NA,France,Newcastle United,Premier League,2012/2013,2012
-5,Right-Back,"Jan 4, 1987 (25)",NA,NA,England,Newcastle United,Premier League,2012/2013,2012
-16,Right-Back,"Aug 19, 1984 (27)",NA,NA,England,Newcastle United,Premier League,2012/2013,2012
-14,Right-Back,"Sep 28, 1985 (26)",NA,NA,England,Newcastle United,Premier League,2012/2013,2012
-NA,Right-Back,"Oct 31, 1991 (20)",NA,NA,England,Newcastle United,Premier League,2012/2013,2012
-24,Defensive Midfield,"Jun 21, 1986 (26)",NA,NA,Cote d'Ivoire,Newcastle United,Premier League,2012/2013,2012
-8,Defensive Midfield,"Apr 4, 1989 (23)",NA,NA,Netherlands,Newcastle United,Premier League,2012/2013,2012
-4,Central Midfield,"Jan 14, 1986 (26)",NA,NA,France,Newcastle United,Premier League,2012/2013,2012
-7,Central Midfield,"Aug 16, 1989 (22)",NA,NA,France,Newcastle United,Premier League,2012/2013,2012
-18,Central Midfield,"Jul 5, 1983 (28)",NA,NA,Argentina,Newcastle United,Premier League,2012/2013,2012
-15,Central Midfield,"Feb 1, 1990 (22)",NA,NA,England,Newcastle United,Premier League,2012/2013,2012
-17,Central Midfield,"Aug 27, 1989 (22)",NA,NA,France,Newcastle United,Premier League,2012/2013,2012
-20,Central Midfield,"Oct 22, 1993 (18)",NA,NA,Burundi,Newcastle United,Premier League,2012/2013,2012
-NA,Central Midfield,"Aug 6, 1992 (19)",NA,NA,Algeria,Newcastle United,Premier League,2012/2013,2012
-31,Left Midfield,"Jul 12, 1991 (20)",NA,NA,Northern Ireland,Newcastle United,Premier League,2012/2013,2012
-10,Attacking Midfield,"Mar 7, 1987 (25)",NA,NA,France,Newcastle United,Premier League,2012/2013,2012
-22,Attacking Midfield,"Apr 15, 1986 (26)",NA,NA,Martinique,Newcastle United,Premier League,2012/2013,2012
-29,Attacking Midfield,"Aug 21, 1992 (19)",NA,NA,Slovenia,Newcastle United,Premier League,2012/2013,2012
-11,Left Winger,"May 25, 1986 (26)",NA,NA,France,Newcastle United,Premier League,2012/2013,2012
-25,Right Winger,"Feb 26, 1989 (23)",NA,NA,France,Newcastle United,Premier League,2012/2013,2012
-NA,Second Striker,"Jan 1, 1995 (17)",NA,NA,England,Newcastle United,Premier League,2012/2013,2012
-9,Centre-Forward,"Jun 3, 1985 (27)",NA,NA,Senegal,Newcastle United,Premier League,2012/2013,2012
-NA,Centre-Forward,"May 25, 1985 (27)",NA,NA,Senegal,Newcastle United,Premier League,2012/2013,2012
-23,Centre-Forward,"Oct 12, 1981 (30)",NA,NA,Nigeria,Newcastle United,Premier League,2012/2013,2012
-28,Centre-Forward,"May 1, 1992 (20)",NA,NA,England,Newcastle United,Premier League,2012/2013,2012
-NA,Centre-Forward,"Apr 11, 1991 (21)",NA,NA,England,Newcastle United,Premier League,2012/2013,2012
-33,Goalkeeper,"Sep 3, 1979 (32)",NA,NA,Brazil,Queens Park Rangers,Premier League,2012/2013,2012
-1,Goalkeeper,"Jan 18, 1980 (32)",NA,NA,England,Queens Park Rangers,Premier League,2012/2013,2012
-24,Goalkeeper,"Feb 18, 1974 (38)",NA,NA,Czech Republic,Queens Park Rangers,Premier League,2012/2013,2012
-26,Goalkeeper,"May 7, 1983 (29)",NA,NA,Ireland,Queens Park Rangers,Premier League,2012/2013,2012
-5,Centre-Back,"Mar 28, 1984 (28)",NA,NA,Congo,Queens Park Rangers,Premier League,2012/2013,2012
-15,Centre-Back,"Nov 12, 1986 (25)",NA,NA,England,Queens Park Rangers,Premier League,2012/2013,2012
-35,Centre-Back,"Feb 18, 1985 (27)",NA,NA,England,Queens Park Rangers,Premier League,2012/2013,2012
-21,Centre-Back,"Mar 31, 1982 (30)",NA,NA,Israel,Queens Park Rangers,Premier League,2012/2013,2012
-6,Centre-Back,"Oct 19, 1978 (33)",NA,NA,England,Queens Park Rangers,Premier League,2012/2013,2012
-17,Centre-Back,"Oct 18, 1977 (34)",NA,NA,New Zealand,Queens Park Rangers,Premier League,2012/2013,2012
-28,Centre-Back,"Feb 3, 1992 (20)",NA,NA,Germany,Queens Park Rangers,Premier League,2012/2013,2012
-3,Left-Back,"Oct 8, 1989 (22)",NA,NA,Senegal,Queens Park Rangers,Premier League,2012/2013,2012
-13,Left-Back,"Feb 13, 1990 (22)",NA,NA,"Korea, South",Queens Park Rangers,Premier League,2012/2013,2012
-20,Right-Back,"Jul 9, 1990 (21)",NA,NA,Brazil,Queens Park Rangers,Premier League,2012/2013,2012
-19,Right-Back,"Aug 24, 1982 (29)",NA,NA,Portugal,Queens Park Rangers,Premier League,2012/2013,2012
-38,Right-Back,"Jul 19, 1979 (32)",NA,NA,England,Queens Park Rangers,Premier League,2012/2013,2012
-40,Right-Back,"Oct 23, 1992 (19)",NA,NA,Ireland,Queens Park Rangers,Premier League,2012/2013,2012
-40,Defensive Midfield,"May 20, 1986 (26)",NA,NA,Cameroon,Queens Park Rangers,Premier League,2012/2013,2012
-2,Defensive Midfield,"Jan 24, 1989 (23)",NA,NA,Mali,Queens Park Rangers,Premier League,2012/2013,2012
-4,Defensive Midfield,"Dec 6, 1977 (34)",NA,NA,England,Queens Park Rangers,Premier League,2012/2013,2012
-14,Central Midfield,"Jul 2, 1987 (24)",NA,NA,Spain,Queens Park Rangers,Premier League,2012/2013,2012
-16,Central Midfield,"Feb 18, 1983 (29)",NA,NA,England,Queens Park Rangers,Premier League,2012/2013,2012
-11,Central Midfield,"Sep 8, 1986 (25)",NA,NA,Argentina,Queens Park Rangers,Premier League,2012/2013,2012
-8,Right Midfield,"Dec 29, 1978 (33)",NA,NA,England,Queens Park Rangers,Premier League,2012/2013,2012
-25,Left Midfield,"Mar 31, 1988 (24)",NA,NA,England,Queens Park Rangers,Premier League,2012/2013,2012
-10,Attacking Midfield,"May 24, 1989 (23)",NA,NA,Morocco,Queens Park Rangers,Premier League,2012/2013,2012
-7,Attacking Midfield,"Feb 25, 1981 (31)",NA,NA,"Korea, South",Queens Park Rangers,Premier League,2012/2013,2012
-23,Left Winger,"Jun 5, 1990 (22)",NA,NA,Canada,Queens Park Rangers,Premier League,2012/2013,2012
-11,Right Winger,"Oct 25, 1981 (30)",NA,NA,England,Queens Park Rangers,Premier League,2012/2013,2012
-12,Right Winger,"Sep 28, 1985 (26)",NA,NA,Scotland,Queens Park Rangers,Premier League,2012/2013,2012
-29,Right Winger,"Jul 16, 1991 (20)",NA,NA,England,Queens Park Rangers,Premier League,2012/2013,2012
-18,Centre-Forward,"Jan 2, 1987 (25)",NA,NA,France,Queens Park Rangers,Premier League,2012/2013,2012
-23,Centre-Forward,"Aug 12, 1981 (30)",NA,NA,France,Queens Park Rangers,Premier League,2012/2013,2012
-25,Centre-Forward,"Jan 16, 1981 (31)",NA,NA,England,Queens Park Rangers,Premier League,2012/2013,2012
-8,Centre-Forward,"Feb 10, 1981 (31)",NA,NA,England,Queens Park Rangers,Premier League,2012/2013,2012
-37,Centre-Forward,"May 5, 1982 (30)",NA,NA,England,Queens Park Rangers,Premier League,2012/2013,2012
-39,Centre-Forward,"Nov 12, 1981 (30)",NA,NA,England,Queens Park Rangers,Premier League,2012/2013,2012
-34,Centre-Forward,"Oct 25, 1979 (32)",NA,NA,England,Queens Park Rangers,Premier League,2012/2013,2012
-22,Goalkeeper,"Mar 6, 1988 (24)",NA,NA,Belgium,Sunderland AFC,Premier League,2012/2013,2012
-20,Goalkeeper,"Oct 23, 1984 (27)",NA,NA,Ireland,Sunderland AFC,Premier League,2012/2013,2012
-18,Centre-Back,"Mar 23, 1983 (29)",NA,NA,Senegal,Sunderland AFC,Premier League,2012/2013,2012
-24,Centre-Back,"Aug 23, 1981 (30)",NA,NA,Spain,Sunderland AFC,Premier League,2012/2013,2012
-16,Centre-Back,"Apr 30, 1981 (31)",NA,NA,Ireland,Sunderland AFC,Premier League,2012/2013,2012
-19,Centre-Back,"Jul 31, 1981 (30)",NA,NA,England,Sunderland AFC,Premier League,2012/2013,2012
-5,Centre-Back,"Oct 13, 1979 (32)",NA,NA,England,Sunderland AFC,Premier League,2012/2013,2012
-12,Centre-Back,"Jan 8, 1984 (28)",NA,NA,England,Sunderland AFC,Premier League,2012/2013,2012
-36,Centre-Back,"Sep 3, 1993 (18)",NA,NA,England,Sunderland AFC,Premier League,2012/2013,2012
-42,Centre-Back,"Oct 20, 1992 (19)",NA,NA,Ireland,Sunderland AFC,Premier League,2012/2013,2012
-NA,Left-Back,"Oct 21, 1984 (27)",NA,NA,England,Sunderland AFC,Premier League,2012/2013,2012
-NA,Left-Back,"Jul 2, 1990 (21)",NA,NA,England,Sunderland AFC,Premier League,2012/2013,2012
-35,Left-Back,"Jun 7, 1994 (18)",NA,NA,England,Sunderland AFC,Premier League,2012/2013,2012
-2,Right-Back,"Jun 28, 1985 (27)",NA,NA,Scotland,Sunderland AFC,Premier League,2012/2013,2012
-27,Right-Back,"Sep 9, 1987 (24)",NA,NA,Egypt,Sunderland AFC,Premier League,2012/2013,2012
-29,Right-Back,"Dec 15, 1992 (19)",NA,NA,England,Sunderland AFC,Premier League,2012/2013,2012
-6,Defensive Midfield,"Mar 21, 1988 (24)",NA,NA,England,Sunderland AFC,Premier League,2012/2013,2012
-14,Defensive Midfield,"Oct 24, 1989 (22)",NA,NA,England,Sunderland AFC,Premier League,2012/2013,2012
-4,Defensive Midfield,"Mar 6, 1990 (22)",NA,NA,Senegal,Sunderland AFC,Premier League,2012/2013,2012
-15,Defensive Midfield,"Feb 18, 1983 (29)",NA,NA,Wales,Sunderland AFC,Premier League,2012/2013,2012
-7,Central Midfield,"Jun 6, 1985 (27)",NA,NA,Sweden,Sunderland AFC,Premier League,2012/2013,2012
-8,Central Midfield,"Nov 25, 1986 (25)",NA,NA,England,Sunderland AFC,Premier League,2012/2013,2012
-NA,Central Midfield,"May 29, 1989 (23)",NA,NA,Ireland,Sunderland AFC,Premier League,2012/2013,2012
-NA,Central Midfield,"Nov 28, 1992 (19)",NA,NA,England,Sunderland AFC,Premier League,2012/2013,2012
-28,Attacking Midfield,"Jun 1, 1984 (28)",NA,NA,Benin,Sunderland AFC,Premier League,2012/2013,2012
-23,Left Winger,"Apr 22, 1989 (23)",NA,NA,Ireland,Sunderland AFC,Premier League,2012/2013,2012
-21,Right Winger,"Jul 14, 1987 (24)",NA,NA,England,Sunderland AFC,Premier League,2012/2013,2012
-NA,Right Winger,"Dec 2, 1994 (17)",NA,NA,Ireland,Sunderland AFC,Premier League,2012/2013,2012
-NA,Second Striker,"Apr 14, 1983 (29)",NA,NA,Scotland,Sunderland AFC,Premier League,2012/2013,2012
-10,Centre-Forward,"Mar 31, 1993 (19)",NA,NA,England,Sunderland AFC,Premier League,2012/2013,2012
-26,Centre-Forward,"Mar 26, 1987 (25)",NA,NA,Scotland,Sunderland AFC,Premier League,2012/2013,2012
-9,Centre-Forward,"Aug 12, 1985 (26)",NA,NA,England,Sunderland AFC,Premier League,2012/2013,2012
-NA,Centre-Forward,"Sep 13, 1987 (24)",NA,NA,England,Sunderland AFC,Premier League,2012/2013,2012
-17,Centre-Forward,"May 28, 1991 (21)",NA,NA,"Korea, South",Sunderland AFC,Premier League,2012/2013,2012
-NA,Centre-Forward,"Aug 8, 1978 (33)",NA,NA,France,Sunderland AFC,Premier League,2012/2013,2012
-NA,Centre-Forward,"Oct 11, 1994 (17)",NA,NA,Scotland,Sunderland AFC,Premier League,2012/2013,2012
-32,Centre-Forward,"Jul 1, 1995 (17)",NA,NA,England,Sunderland AFC,Premier League,2012/2013,2012
-24,Goalkeeper,"Mar 6, 1979 (33)",NA,NA,United States,Everton FC,Premier League,2012/2013,2012
-1,Goalkeeper,"Dec 5, 1982 (29)",NA,NA,Slovakia,Everton FC,Premier League,2012/2013,2012
-46,Goalkeeper,"Nov 1, 1994 (17)",NA,NA,England,Everton FC,Premier League,2012/2013,2012
-6,Centre-Back,"Aug 17, 1982 (29)",NA,NA,England,Everton FC,Premier League,2012/2013,2012
-5,Centre-Back,"Nov 15, 1983 (28)",NA,NA,Netherlands,Everton FC,Premier League,2012/2013,2012
-15,Centre-Back,"Dec 16, 1977 (34)",NA,NA,France,Everton FC,Premier League,2012/2013,2012
-26,Centre-Back,"May 28, 1994 (18)",NA,NA,England,Everton FC,Premier League,2012/2013,2012
-34,Centre-Back,"Jan 1, 1992 (20)",NA,NA,Ireland,Everton FC,Premier League,2012/2013,2012
-40,Centre-Back,"May 27, 1994 (18)",NA,NA,England,Everton FC,Premier League,2012/2013,2012
-3,Left-Back,"Dec 11, 1984 (27)",NA,NA,England,Everton FC,Premier League,2012/2013,2012
-8,Left-Back,"Feb 18, 1990 (22)",NA,NA,Costa Rica,Everton FC,Premier League,2012/2013,2012
-42,Left-Back,"May 21, 1993 (19)",NA,NA,England,Everton FC,Premier League,2012/2013,2012
-23,Right-Back,"Oct 11, 1988 (23)",NA,NA,Ireland,Everton FC,Premier League,2012/2013,2012
-2,Right-Back,"Feb 20, 1981 (31)",NA,NA,England,Everton FC,Premier League,2012/2013,2012
-18,Right-Back,"Jan 21, 1977 (35)",NA,NA,England,Everton FC,Premier League,2012/2013,2012
-25,Central Midfield,"Nov 22, 1987 (24)",NA,NA,Belgium,Everton FC,Premier League,2012/2013,2012
-20,Central Midfield,"Dec 5, 1993 (18)",NA,NA,England,Everton FC,Premier League,2012/2013,2012
-21,Central Midfield,"May 17, 1981 (31)",NA,NA,England,Everton FC,Premier League,2012/2013,2012
-4,Central Midfield,"Oct 25, 1987 (24)",NA,NA,Ireland,Everton FC,Premier League,2012/2013,2012
-16,Central Midfield,"Apr 5, 1982 (30)",NA,NA,Germany,Everton FC,Premier League,2012/2013,2012
-30,Central Midfield,"Jan 18, 1992 (20)",NA,NA,Guinea-Bissau,Everton FC,Premier League,2012/2013,2012
-22,Left Winger,"Mar 17, 1982 (30)",NA,NA,South Africa,Everton FC,Premier League,2012/2013,2012
-11,Right Winger,"Oct 5, 1987 (24)",NA,NA,Belgium,Everton FC,Premier League,2012/2013,2012
-31,Right Winger,"Nov 1, 1994 (17)",NA,NA,Scotland,Everton FC,Premier League,2012/2013,2012
-14,Second Striker,"Sep 14, 1986 (25)",NA,NA,Scotland,Everton FC,Premier League,2012/2013,2012
-7,Centre-Forward,"Aug 27, 1985 (26)",NA,NA,Croatia,Everton FC,Premier League,2012/2013,2012
-28,Centre-Forward,"Apr 23, 1988 (24)",NA,NA,Nigeria,Everton FC,Premier League,2012/2013,2012
-19,Centre-Forward,"Jul 6, 1990 (21)",NA,NA,Senegal,Everton FC,Premier League,2012/2013,2012
-27,Centre-Forward,"Jan 8, 1992 (20)",NA,NA,Greece,Everton FC,Premier League,2012/2013,2012
-13,Goalkeeper,"Sep 20, 1985 (26)",NA,NA,England,Fulham FC,Premier League,2012/2013,2012
-1,Goalkeeper,"Oct 6, 1972 (39)",NA,NA,Australia,Fulham FC,Premier League,2012/2013,2012
-38,Goalkeeper,"Feb 7, 1990 (22)",NA,NA,Philippines,Fulham FC,Premier League,2012/2013,2012
-22,Goalkeeper,"Apr 7, 1985 (27)",NA,NA,Hungary,Fulham FC,Premier League,2012/2013,2012
-5,Centre-Back,"Jun 20, 1981 (31)",NA,NA,Norway,Fulham FC,Premier League,2012/2013,2012
-4,Centre-Back,"Feb 14, 1985 (27)",NA,NA,Switzerland,Fulham FC,Premier League,2012/2013,2012
-18,Centre-Back,"Nov 8, 1979 (32)",NA,NA,Northern Ireland,Fulham FC,Premier League,2012/2013,2012
-32,Centre-Back,"Sep 2, 1986 (25)",NA,NA,Algeria,Fulham FC,Premier League,2012/2013,2012
-15,Left-Back,"Oct 21, 1984 (27)",NA,NA,England,Fulham FC,Premier League,2012/2013,2012
-3,Left-Back,"Sep 24, 1980 (31)",NA,NA,Norway,Fulham FC,Premier League,2012/2013,2012
-17,Left-Back,"Mar 6, 1991 (21)",NA,NA,Guyana,Fulham FC,Premier League,2012/2013,2012
-25,Right-Back,"Dec 16, 1985 (26)",NA,NA,Bulgaria,Fulham FC,Premier League,2012/2013,2012
-27,Right-Back,"Mar 23, 1983 (29)",NA,NA,Germany,Fulham FC,Premier League,2012/2013,2012
-NA,Right-Back,"Sep 6, 1983 (28)",NA,NA,Ireland,Fulham FC,Premier League,2012/2013,2012
-44,Right-Back,"Jan 25, 1994 (18)",NA,NA,Scotland,Fulham FC,Premier League,2012/2013,2012
-19,Defensive Midfield,"May 18, 1981 (31)",NA,NA,Mali,Fulham FC,Premier League,2012/2013,2012
-6,Defensive Midfield,"Feb 25, 1982 (30)",NA,NA,Northern Ireland,Fulham FC,Premier League,2012/2013,2012
-33,Defensive Midfield,"Mar 23, 1986 (26)",NA,NA,Cameroon,Fulham FC,Premier League,2012/2013,2012
-NA,Defensive Midfield,"Jan 10, 1992 (20)",NA,NA,Ghana,Fulham FC,Premier League,2012/2013,2012
-25,Defensive Midfield,"Oct 25, 1982 (29)",NA,NA,Senegal,Fulham FC,Premier League,2012/2013,2012
-NA,Central Midfield,"Jul 16, 1987 (24)",NA,NA,Belgium,Fulham FC,Premier League,2012/2013,2012
-28,Central Midfield,"Jun 16, 1986 (26)",NA,NA,Netherlands,Fulham FC,Premier League,2012/2013,2012
-NA,Central Midfield,"Jun 2, 1992 (20)",NA,NA,Switzerland,Fulham FC,Premier League,2012/2013,2012
-7,Central Midfield,"Dec 14, 1982 (29)",NA,NA,England,Fulham FC,Premier League,2012/2013,2012
-14,Central Midfield,"Mar 6, 1977 (35)",NA,NA,Greece,Fulham FC,Premier League,2012/2013,2012
-NA,Central Midfield,"Oct 31, 1991 (20)",NA,NA,England,Fulham FC,Premier League,2012/2013,2012
-16,Right Midfield,"Mar 2, 1979 (33)",NA,NA,Ireland,Fulham FC,Premier League,2012/2013,2012
-29,Right Midfield,"Oct 23, 1979 (32)",NA,NA,Wales,Fulham FC,Premier League,2012/2013,2012
-31,Left Midfield,"Aug 13, 1991 (20)",NA,NA,Sweden,Fulham FC,Premier League,2012/2013,2012
-11,Attacking Midfield,"Aug 18, 1985 (26)",NA,NA,Costa Rica,Fulham FC,Premier League,2012/2013,2012
-21,Left Winger,"Nov 19, 1993 (18)",NA,NA,Turkey,Fulham FC,Premier League,2012/2013,2012
-42,Left Winger,"Sep 18, 1993 (18)",NA,NA,England,Fulham FC,Premier League,2012/2013,2012
-24,Right Winger,"Jul 5, 1986 (25)",NA,NA,Iran,Fulham FC,Premier League,2012/2013,2012
-9,Centre-Forward,"Jan 30, 1981 (31)",NA,NA,Bulgaria,Fulham FC,Premier League,2012/2013,2012
-10,Centre-Forward,"Jan 1, 1981 (31)",NA,NA,Croatia,Fulham FC,Premier League,2012/2013,2012
-20,Centre-Forward,"Jul 25, 1985 (26)",NA,NA,Colombia,Fulham FC,Premier League,2012/2013,2012
-39,Centre-Forward,"Sep 29, 1992 (19)",NA,NA,Italy,Fulham FC,Premier League,2012/2013,2012
-22,Goalkeeper,"Apr 19, 1975 (37)",NA,NA,Finland,West Ham United,Premier League,2012/2013,2012
-13,Goalkeeper,"May 2, 1988 (24)",NA,NA,Ireland,West Ham United,Premier League,2012/2013,2012
-30,Goalkeeper,"Dec 19, 1992 (19)",NA,NA,Switzerland,West Ham United,Premier League,2012/2013,2012
-5,Centre-Back,"Mar 29, 1989 (23)",NA,NA,England,West Ham United,Premier League,2012/2013,2012
-19,Centre-Back,"Aug 23, 1983 (28)",NA,NA,Wales,West Ham United,Premier League,2012/2013,2012
-2,Centre-Back,"Jul 3, 1988 (23)",NA,NA,New Zealand,West Ham United,Premier League,2012/2013,2012
-18,Centre-Back,"Jan 16, 1983 (29)",NA,NA,Austria,West Ham United,Premier League,2012/2013,2012
-44,Centre-Back,"Aug 5, 1995 (16)",NA,NA,England,West Ham United,Premier League,2012/2013,2012
-3,Left-Back,"Apr 29, 1981 (31)",NA,NA,Northern Ireland,West Ham United,Premier League,2012/2013,2012
-NA,Left-Back,"Apr 13, 1994 (18)",NA,NA,England,West Ham United,Premier League,2012/2013,2012
-17,Right-Back,"Feb 17, 1986 (26)",NA,NA,Ireland,West Ham United,Premier League,2012/2013,2012
-20,Right-Back,"Jun 13, 1981 (31)",NA,NA,Cote d'Ivoire,West Ham United,Premier League,2012/2013,2012
-27,Right-Back,"May 24, 1990 (22)",NA,NA,England,West Ham United,Premier League,2012/2013,2012
-41,Right-Back,"Oct 23, 1992 (19)",NA,NA,England,West Ham United,Premier League,2012/2013,2012
-NA,Defensive Midfield,"Jul 15, 1981 (30)",NA,NA,France,West Ham United,Premier League,2012/2013,2012
-16,Central Midfield,"May 8, 1987 (25)",NA,NA,England,West Ham United,Premier League,2012/2013,2012
-21,Central Midfield,"Jun 14, 1987 (25)",NA,NA,Senegal,West Ham United,Premier League,2012/2013,2012
-10,Central Midfield,"Oct 2, 1988 (23)",NA,NA,Wales,West Ham United,Premier League,2012/2013,2012
-32,Central Midfield,"May 18, 1983 (29)",NA,NA,England,West Ham United,Premier League,2012/2013,2012
-NA,Central Midfield,"Aug 18, 1993 (18)",NA,NA,England,West Ham United,Premier League,2012/2013,2012
-43,Central Midfield,"Sep 3, 1992 (19)",NA,NA,United States,West Ham United,Premier League,2012/2013,2012
-14,Left Midfield,"Nov 27, 1981 (30)",NA,NA,England,West Ham United,Premier League,2012/2013,2012
-26,Attacking Midfield,"Nov 8, 1981 (30)",NA,NA,England,West Ham United,Premier League,2012/2013,2012
-4,Attacking Midfield,"Jun 24, 1982 (30)",NA,NA,England,West Ham United,Premier League,2012/2013,2012
-23,Attacking Midfield,"Feb 2, 1993 (19)",NA,NA,Jamaica,West Ham United,Premier League,2012/2013,2012
-7,Left Winger,"May 22, 1986 (26)",NA,NA,England,West Ham United,Premier League,2012/2013,2012
-NA,Left Winger,"Jan 28, 1994 (18)",NA,NA,England,West Ham United,Premier League,2012/2013,2012
-NA,Right Winger,"May 5, 1980 (32)",NA,NA,Israel,West Ham United,Premier League,2012/2013,2012
-12,Right Winger,"Oct 1, 1986 (25)",NA,NA,Portugal,West Ham United,Premier League,2012/2013,2012
-NA,Right Winger,"Oct 20, 1993 (18)",NA,NA,England,West Ham United,Premier League,2012/2013,2012
-NA,Centre-Forward,"Jan 6, 1989 (23)",NA,NA,England,West Ham United,Premier League,2012/2013,2012
-NA,Centre-Forward,"Jan 10, 1984 (28)",NA,NA,Morocco,West Ham United,Premier League,2012/2013,2012
-9,Centre-Forward,"Oct 12, 1983 (28)",NA,NA,England,West Ham United,Premier League,2012/2013,2012
-11,Centre-Forward,"Sep 3, 1987 (24)",NA,NA,Mali,West Ham United,Premier League,2012/2013,2012
-NA,Centre-Forward,"Dec 11, 1986 (25)",NA,NA,England,West Ham United,Premier League,2012/2013,2012
-31,Centre-Forward,"Apr 22, 1984 (28)",NA,NA,Brazil,West Ham United,Premier League,2012/2013,2012
-NA,Centre-Forward,"Mar 8, 1994 (18)",NA,NA,Australia,West Ham United,Premier League,2012/2013,2012
-NA,Centre-Forward,"Dec 16, 1994 (17)",NA,NA,England,West Ham United,Premier League,2012/2013,2012
-45,Centre-Forward,"Jul 28, 1993 (18)",NA,NA,England,West Ham United,Premier League,2012/2013,2012
-1,Goalkeeper,"Apr 20, 1976 (36)",NA,NA,Ireland,Aston Villa,Premier League,2012/2013,2012
-22,Goalkeeper,"Sep 9, 1984 (27)",NA,NA,United States,Aston Villa,Premier League,2012/2013,2012
-33,Goalkeeper,"Apr 14, 1975 (37)",NA,NA,England,Aston Villa,Premier League,2012/2013,2012
-4,Centre-Back,"Feb 16, 1985 (27)",NA,NA,Netherlands,Aston Villa,Premier League,2012/2013,2012
-5,Centre-Back,"Sep 21, 1979 (32)",NA,NA,Ireland,Aston Villa,Premier League,2012/2013,2012
-6,Centre-Back,"Sep 26, 1989 (22)",NA,NA,Ireland,Aston Villa,Premier League,2012/2013,2012
-32,Centre-Back,"Apr 23, 1991 (21)",NA,NA,England,Aston Villa,Premier League,2012/2013,2012
-27,Left-Back,"Mar 28, 1990 (22)",NA,NA,England,Aston Villa,Premier League,2012/2013,2012
-29,Left-Back,"Jul 9, 1990 (21)",NA,NA,Ireland,Aston Villa,Premier League,2012/2013,2012
-NA,Left-Back,"Jan 17, 1993 (19)",NA,NA,Ireland,Aston Villa,Premier League,2012/2013,2012
-30,Right-Back,"Nov 17, 1988 (23)",NA,NA,United States,Aston Villa,Premier League,2012/2013,2012
-34,Right-Back,"Jun 9, 1989 (23)",NA,NA,England,Aston Villa,Premier League,2012/2013,2012
-31,Defensive Midfield,"Apr 4, 1989 (23)",NA,NA,Australia,Aston Villa,Premier League,2012/2013,2012
-18,Defensive Midfield,"Nov 29, 1990 (21)",NA,NA,Mali,Aston Villa,Premier League,2012/2013,2012
-15,Defensive Midfield,"Apr 1, 1990 (22)",NA,NA,England,Aston Villa,Premier League,2012/2013,2012
-25,Central Midfield,"Dec 1, 1989 (22)",NA,NA,Scotland,Aston Villa,Premier League,2012/2013,2012
-8,Central Midfield,"Jan 27, 1985 (27)",NA,NA,Morocco,Aston Villa,Premier League,2012/2013,2012
-16,Central Midfield,"Nov 21, 1989 (22)",NA,NA,England,Aston Villa,Premier League,2012/2013,2012
-38,Central Midfield,"Jun 29, 1992 (20)",NA,NA,England,Aston Villa,Premier League,2012/2013,2012
-35,Central Midfield,"Oct 8, 1992 (19)",NA,NA,Jamaica,Aston Villa,Premier League,2012/2013,2012
-40,Central Midfield,"Apr 4, 1993 (19)",NA,NA,Ireland,Aston Villa,Premier League,2012/2013,2012
-12,Right Midfield,"Nov 18, 1989 (22)",NA,NA,England,Aston Villa,Premier League,2012/2013,2012
-7,Attacking Midfield,"Aug 22, 1986 (25)",NA,NA,Ireland,Aston Villa,Premier League,2012/2013,2012
-14,Attacking Midfield,"Mar 27, 1984 (28)",NA,NA,Australia,Aston Villa,Premier League,2012/2013,2012
-NA,Left Winger,"Dec 1, 1987 (24)",NA,NA,Jamaica,Aston Villa,Premier League,2012/2013,2012
-10,Right Winger,"May 28, 1986 (26)",NA,NA,France,Aston Villa,Premier League,2012/2013,2012
-26,Right Winger,"Aug 5, 1991 (20)",NA,NA,Austria,Aston Villa,Premier League,2012/2013,2012
-NA,Second Striker,"Sep 21, 1993 (18)",NA,NA,Ireland,Aston Villa,Premier League,2012/2013,2012
-9,Centre-Forward,"Feb 6, 1984 (28)",NA,NA,England,Aston Villa,Premier League,2012/2013,2012
-11,Centre-Forward,"Oct 13, 1986 (25)",NA,NA,England,Aston Villa,Premier League,2012/2013,2012
-20,Centre-Forward,"Dec 3, 1990 (21)",NA,NA,Belgium,Aston Villa,Premier League,2012/2013,2012
-NA,Centre-Forward,"Feb 2, 1991 (21)",NA,NA,England,Aston Villa,Premier League,2012/2013,2012
-21,Centre-Forward,"Jul 2, 1991 (20)",NA,NA,England,Aston Villa,Premier League,2012/2013,2012
-1,Goalkeeper,"Jun 20, 1987 (25)",NA,NA,Bosnia-Herzegovina,Stoke City,Premier League,2012/2013,2012
-NA,Goalkeeper,"Mar 10, 1993 (19)",NA,NA,England,Stoke City,Premier League,2012/2013,2012
-29,Goalkeeper,"Jun 12, 1976 (36)",NA,NA,Denmark,Stoke City,Premier League,2012/2013,2012
-27,Goalkeeper,"Sep 13, 1973 (38)",NA,NA,England,Stoke City,Premier League,2012/2013,2012
-4,Centre-Back,"Aug 18, 1984 (27)",NA,NA,Germany,Stoke City,Premier League,2012/2013,2012
-17,Centre-Back,"Oct 4, 1987 (24)",NA,NA,England,Stoke City,Premier League,2012/2013,2012
-12,Centre-Back,"Aug 17, 1987 (24)",NA,NA,Ireland,Stoke City,Premier League,2012/2013,2012
-NA,Centre-Back,"Apr 18, 1979 (33)",NA,NA,England,Stoke City,Premier League,2012/2013,2012
-28,Right-Back,"Aug 6, 1984 (27)",NA,NA,England,Stoke City,Premier League,2012/2013,2012
-30,Right-Back,"Sep 30, 1988 (23)",NA,NA,England,Stoke City,Premier League,2012/2013,2012
-8,Defensive Midfield,"Jul 29, 1984 (27)",NA,NA,Honduras,Stoke City,Premier League,2012/2013,2012
-15,Defensive Midfield,"Dec 15, 1988 (23)",NA,NA,France,Stoke City,Premier League,2012/2013,2012
-6,Defensive Midfield,"Jan 13, 1984 (28)",NA,NA,Ireland,Stoke City,Premier League,2012/2013,2012
-NA,Defensive Midfield,"Apr 18, 1986 (26)",NA,NA,United States,Stoke City,Premier League,2012/2013,2012
-2,Defensive Midfield,"Jul 11, 1985 (26)",NA,NA,United States,Stoke City,Premier League,2012/2013,2012
-16,Central Midfield,"Dec 10, 1985 (26)",NA,NA,Scotland,Stoke City,Premier League,2012/2013,2012
-18,Central Midfield,"Jan 21, 1982 (30)",NA,NA,England,Stoke City,Premier League,2012/2013,2012
-14,Central Midfield,"Mar 2, 1991 (21)",NA,NA,Scotland,Stoke City,Premier League,2012/2013,2012
-24,Central Midfield,"Jul 6, 1976 (35)",NA,NA,Ireland,Stoke City,Premier League,2012/2013,2012
-38,Central Midfield,"Sep 12, 1992 (19)",NA,NA,Belgium,Stoke City,Premier League,2012/2013,2012
-26,Left Midfield,"Aug 14, 1981 (30)",NA,NA,England,Stoke City,Premier League,2012/2013,2012
-22,Left Midfield,"Feb 28, 1990 (22)",NA,NA,United States,Stoke City,Premier League,2012/2013,2012
-21,Left Winger,"Jan 24, 1986 (26)",NA,NA,England,Stoke City,Premier League,2012/2013,2012
-19,Right Winger,"Sep 20, 1983 (28)",NA,NA,Ireland,Stoke City,Premier League,2012/2013,2012
-7,Right Winger,"Jan 15, 1983 (29)",NA,NA,England,Stoke City,Premier League,2012/2013,2012
-25,Centre-Forward,"Jan 30, 1981 (31)",NA,NA,England,Stoke City,Premier League,2012/2013,2012
-9,Centre-Forward,"Oct 5, 1984 (27)",NA,NA,Trinidad and Tobago,Stoke City,Premier League,2012/2013,2012
-33,Centre-Forward,"Aug 14, 1986 (25)",NA,NA,England,Stoke City,Premier League,2012/2013,2012
-10,Centre-Forward,"Dec 14, 1979 (32)",NA,NA,England,Stoke City,Premier League,2012/2013,2012
-NA,Centre-Forward,"Dec 18, 1979 (32)",NA,NA,Mali,Stoke City,Premier League,2012/2013,2012
-1,Goalkeeper,"Oct 20, 1983 (28)",NA,NA,Netherlands,Swansea City,Premier League,2012/2013,2012
-25,Goalkeeper,"Nov 16, 1978 (33)",NA,NA,Germany,Swansea City,Premier League,2012/2013,2012
-13,Goalkeeper,"Mar 28, 1991 (21)",NA,NA,Wales,Swansea City,Premier League,2012/2013,2012
-6,Centre-Back,"Aug 23, 1984 (27)",NA,NA,Wales,Swansea City,Premier League,2012/2013,2012
-4,Centre-Back,"Mar 6, 1987 (25)",NA,NA,Spain,Swansea City,Premier League,2012/2013,2012
-2,Centre-Back,"May 22, 1991 (21)",NA,NA,England,Swansea City,Premier League,2012/2013,2012
-5,Centre-Back,"Sep 2, 1982 (29)",NA,NA,England,Swansea City,Premier League,2012/2013,2012
-16,Centre-Back,"Mar 6, 1979 (33)",NA,NA,England,Swansea City,Premier League,2012/2013,2012
-23,Centre-Back,"Mar 18, 1992 (20)",NA,NA,France,Swansea City,Premier League,2012/2013,2012
-3,Left-Back,"Feb 7, 1989 (23)",NA,NA,Wales,Swansea City,Premier League,2012/2013,2012
-33,Left-Back,"Apr 24, 1993 (19)",NA,NA,Wales,Swansea City,Premier League,2012/2013,2012
-22,Right-Back,"Oct 28, 1982 (29)",NA,NA,Spain,Swansea City,Premier League,2012/2013,2012
-21,Right-Back,"Oct 21, 1985 (26)",NA,NA,Netherlands,Swansea City,Premier League,2012/2013,2012
-29,Right-Back,"Apr 12, 1991 (21)",NA,NA,Wales,Swansea City,Premier League,2012/2013,2012
-35,Right-Back,"Feb 23, 1992 (20)",NA,NA,Wales,Swansea City,Premier League,2012/2013,2012
-24,Defensive Midfield,"Jan 24, 1989 (23)",NA,NA,"Korea, South",Swansea City,Premier League,2012/2013,2012
-26,Defensive Midfield,"Aug 20, 1986 (25)",NA,NA,Curacao,Swansea City,Premier League,2012/2013,2012
-20,Central Midfield,"Sep 13, 1987 (24)",NA,NA,Netherlands,Swansea City,Premier League,2012/2013,2012
-7,Central Midfield,"Sep 16, 1982 (29)",NA,NA,England,Swansea City,Premier League,2012/2013,2012
-27,Central Midfield,"Oct 5, 1978 (33)",NA,NA,England,Swansea City,Premier League,2012/2013,2012
-31,Central Midfield,"Jun 10, 1992 (20)",NA,NA,Wales,Swansea City,Premier League,2012/2013,2012
-11,Left Midfield,"Mar 25, 1989 (23)",NA,NA,England,Swansea City,Premier League,2012/2013,2012
-15,Left Winger,"Jan 7, 1985 (27)",NA,NA,England,Swansea City,Premier League,2012/2013,2012
-14,Left Winger,"Dec 31, 1987 (24)",NA,NA,Belgium,Swansea City,Premier League,2012/2013,2012
-11,Right Winger,"Apr 11, 1985 (27)",NA,NA,Spain,Swansea City,Premier League,2012/2013,2012
-12,Right Winger,"Nov 29, 1987 (24)",NA,NA,England,Swansea City,Premier League,2012/2013,2012
-9,Second Striker,"Mar 21, 1986 (26)",NA,NA,Spain,Swansea City,Premier League,2012/2013,2012
-10,Centre-Forward,"Aug 12, 1985 (26)",NA,NA,England,Swansea City,Premier League,2012/2013,2012
-17,Centre-Forward,"Feb 22, 1987 (25)",NA,NA,Israel,Swansea City,Premier League,2012/2013,2012
-18,Centre-Forward,"Dec 28, 1984 (27)",NA,NA,England,Swansea City,Premier League,2012/2013,2012
-14,Centre-Forward,"Dec 5, 1982 (29)",NA,NA,Scotland,Swansea City,Premier League,2012/2013,2012
-19,Centre-Forward,"Feb 13, 1986 (26)",NA,NA,England,Swansea City,Premier League,2012/2013,2012
-41,Centre-Forward,"Feb 18, 1992 (20)",NA,NA,Northern Ireland,Swansea City,Premier League,2012/2013,2012
-1,Goalkeeper,"Apr 3, 1983 (29)",NA,NA,England,West Bromwich Albion,Premier League,2012/2013,2012
-13,Goalkeeper,"Nov 9, 1982 (29)",NA,NA,Wales,West Bromwich Albion,Premier League,2012/2013,2012
-19,Goalkeeper,"Jan 5, 1988 (24)",NA,NA,England,West Bromwich Albion,Premier League,2012/2013,2012
-3,Centre-Back,"Mar 10, 1983 (29)",NA,NA,Sweden,West Bromwich Albion,Premier League,2012/2013,2012
-6,Centre-Back,"Jul 21, 1984 (27)",NA,NA,England,West Bromwich Albion,Premier League,2012/2013,2012
-30,Centre-Back,"Nov 9, 1983 (28)",NA,NA,Romania,West Bromwich Albion,Premier League,2012/2013,2012
-36,Centre-Back,"Aug 29, 1985 (26)",NA,NA,Chile,West Bromwich Albion,Premier League,2012/2013,2012
-23,Centre-Back,"Dec 5, 1979 (32)",NA,NA,Northern Ireland,West Bromwich Albion,Premier League,2012/2013,2012
-25,Centre-Back,"May 6, 1990 (22)",NA,NA,England,West Bromwich Albion,Premier League,2012/2013,2012
-42,Centre-Back,"Nov 24, 1993 (18)",NA,NA,England,West Bromwich Albion,Premier League,2012/2013,2012
-4,Left-Back,"Oct 2, 1984 (27)",NA,NA,North Macedonia,West Bromwich Albion,Premier League,2012/2013,2012
-2,Right-Back,"Mar 10, 1981 (31)",NA,NA,Ireland,West Bromwich Albion,Premier League,2012/2013,2012
-28,Right-Back,"Mar 24, 1987 (25)",NA,NA,England,West Bromwich Albion,Premier League,2012/2013,2012
-26,Right-Back,"Jan 31, 1992 (20)",NA,NA,England,West Bromwich Albion,Premier League,2012/2013,2012
-21,Defensive Midfield,"Jan 25, 1987 (25)",NA,NA,DR Congo,West Bromwich Albion,Premier League,2012/2013,2012
-5,Defensive Midfield,"Jul 18, 1987 (24)",NA,NA,Argentina,West Bromwich Albion,Premier League,2012/2013,2012
-15,Defensive Midfield,"Jan 4, 1993 (19)",NA,NA,England,West Bromwich Albion,Premier League,2012/2013,2012
-7,Central Midfield,"May 25, 1986 (26)",NA,NA,Scotland,West Bromwich Albion,Premier League,2012/2013,2012
-17,Central Midfield,"May 5, 1987 (25)",NA,NA,Scotland,West Bromwich Albion,Premier League,2012/2013,2012
-22,Central Midfield,"Apr 22, 1979 (33)",NA,NA,Hungary,West Bromwich Albion,Premier League,2012/2013,2012
-NA,Central Midfield,"Nov 28, 1991 (20)",NA,NA,Scotland,West Bromwich Albion,Premier League,2012/2013,2012
-11,Left Midfield,"Dec 14, 1984 (27)",NA,NA,Northern Ireland,West Bromwich Albion,Premier League,2012/2013,2012
-NA,Left Winger,"Jul 12, 1990 (21)",NA,NA,Belgium,West Bromwich Albion,Premier League,2012/2013,2012
-14,Left Winger,"Mar 23, 1983 (29)",NA,NA,England,West Bromwich Albion,Premier League,2012/2013,2012
-24,Right Winger,"Jul 15, 1981 (30)",NA,NA,Nigeria,West Bromwich Albion,Premier League,2012/2013,2012
-NA,Second Striker,"Jan 7, 1997 (15)",NA,NA,England,West Bromwich Albion,Premier League,2012/2013,2012
-NA,Centre-Forward,"May 13, 1993 (19)",NA,NA,Belgium,West Bromwich Albion,Premier League,2012/2013,2012
-9,Centre-Forward,"Jan 22, 1987 (25)",NA,NA,Ireland,West Bromwich Albion,Premier League,2012/2013,2012
-8,Centre-Forward,"Sep 27, 1982 (29)",NA,NA,Sweden,West Bromwich Albion,Premier League,2012/2013,2012
-32,Centre-Forward,"Jul 2, 1981 (30)",NA,NA,French Guiana,West Bromwich Albion,Premier League,2012/2013,2012
-NA,Centre-Forward,"Aug 4, 1993 (18)",NA,NA,Burundi,West Bromwich Albion,Premier League,2012/2013,2012
-34,Centre-Forward,"Jan 6, 1993 (19)",NA,NA,Jamaica,West Bromwich Albion,Premier League,2012/2013,2012
-26,Goalkeeper,"Dec 30, 1981 (30)",NA,NA,Oman,Wigan Athletic,Premier League,2012/2013,2012
-1,Goalkeeper,"Jun 17, 1990 (22)",NA,NA,Spain,Wigan Athletic,Premier League,2012/2013,2012
-NA,Goalkeeper,"Oct 5, 1992 (19)",NA,NA,England,Wigan Athletic,Premier League,2012/2013,2012
-12,Goalkeeper,"Feb 29, 1972 (40)",NA,NA,England,Wigan Athletic,Premier League,2012/2013,2012
-21,Centre-Back,"Oct 25, 1984 (27)",NA,NA,Spain,Wigan Athletic,Premier League,2012/2013,2012
-3,Centre-Back,"Jul 30, 1982 (29)",NA,NA,Paraguay,Wigan Athletic,Premier League,2012/2013,2012
-5,Centre-Back,"Apr 12, 1982 (30)",NA,NA,Scotland,Wigan Athletic,Premier League,2012/2013,2012
-33,Centre-Back,"Mar 11, 1980 (32)",NA,NA,Austria,Wigan Athletic,Premier League,2012/2013,2012
-24,Centre-Back,"Feb 25, 1987 (25)",NA,NA,Spain,Wigan Athletic,Premier League,2012/2013,2012
-NA,Centre-Back,"Mar 21, 1992 (20)",NA,NA,Spain,Wigan Athletic,Premier League,2012/2013,2012
-30,Centre-Back,"Jan 13, 1991 (21)",NA,NA,Ireland,Wigan Athletic,Premier League,2012/2013,2012
-22,Left-Back,"Jun 1, 1984 (28)",NA,NA,Chile,Wigan Athletic,Premier League,2012/2013,2012
-31,Left-Back,"May 2, 1983 (29)",NA,NA,Honduras,Wigan Athletic,Premier League,2012/2013,2012
-NA,Left-Back,"Jan 28, 1991 (21)",NA,NA,England,Wigan Athletic,Premier League,2012/2013,2012
-23,Right-Back,"Jun 18, 1984 (28)",NA,NA,Netherlands,Wigan Athletic,Premier League,2012/2013,2012
-17,Right-Back,"Sep 24, 1979 (32)",NA,NA,Barbados,Wigan Athletic,Premier League,2012/2013,2012
-NA,Right-Back,"Jan 26, 1993 (19)",NA,NA,Spain,Wigan Athletic,Premier League,2012/2013,2012
-43,Right-Back,"May 12, 1992 (20)",NA,NA,England,Wigan Athletic,Premier League,2012/2013,2012
-4,Central Midfield,"Nov 12, 1990 (21)",NA,NA,Ireland,Wigan Athletic,Premier League,2012/2013,2012
-8,Central Midfield,"Jul 9, 1985 (26)",NA,NA,England,Wigan Athletic,Premier League,2012/2013,2012
-14,Central Midfield,"May 24, 1985 (27)",NA,NA,Spain,Wigan Athletic,Premier League,2012/2013,2012
-16,Central Midfield,"Oct 7, 1987 (24)",NA,NA,Scotland,Wigan Athletic,Premier League,2012/2013,2012
-6,Central Midfield,"Nov 4, 1984 (27)",NA,NA,England,Wigan Athletic,Premier League,2012/2013,2012
-20,Central Midfield,"Mar 27, 1993 (19)",NA,NA,Scotland,Wigan Athletic,Premier League,2012/2013,2012
-18,Central Midfield,"Oct 25, 1986 (25)",NA,NA,Honduras,Wigan Athletic,Premier League,2012/2013,2012
-10,Attacking Midfield,"Jan 24, 1983 (29)",NA,NA,Scotland,Wigan Athletic,Premier League,2012/2013,2012
-NA,Attacking Midfield,"Mar 2, 1991 (21)",NA,NA,England,Wigan Athletic,Premier League,2012/2013,2012
-7,Left Winger,"May 13, 1982 (30)",NA,NA,Spain,Wigan Athletic,Premier League,2012/2013,2012
-NA,Right Winger,"Dec 12, 1990 (21)",NA,NA,Nigeria,Wigan Athletic,Premier League,2012/2013,2012
-NA,Right Winger,"Dec 14, 1992 (19)",NA,NA,Japan,Wigan Athletic,Premier League,2012/2013,2012
-15,Right Winger,"Apr 25, 1991 (21)",NA,NA,England,Wigan Athletic,Premier League,2012/2013,2012
-NA,Second Striker,"Feb 25, 1993 (19)",NA,NA,Slovakia,Wigan Athletic,Premier League,2012/2013,2012
-2,Centre-Forward,"Nov 11, 1983 (28)",NA,NA,Cote d'Ivoire,Wigan Athletic,Premier League,2012/2013,2012
-NA,Centre-Forward,"May 22, 1985 (27)",NA,NA,Argentina,Wigan Athletic,Premier League,2012/2013,2012
-9,Centre-Forward,"Apr 7, 1989 (23)",NA,NA,Argentina,Wigan Athletic,Premier League,2012/2013,2012
-NA,Centre-Forward,"Apr 13, 1994 (18)",NA,NA,Chile,Wigan Athletic,Premier League,2012/2013,2012
-NA,Centre-Forward,"May 14, 1992 (20)",NA,NA,Mali,Wigan Athletic,Premier League,2012/2013,2012
-1,Goalkeeper,"Oct 24, 1986 (25)",NA,NA,England,Norwich City,Premier League,2012/2013,2012
-42,Goalkeeper,"Aug 22, 1984 (27)",NA,NA,Northern Ireland,Norwich City,Premier League,2012/2013,2012
-28,Goalkeeper,"Nov 16, 1984 (27)",NA,NA,England,Norwich City,Premier League,2012/2013,2012
-13,Goalkeeper,"Jan 16, 1991 (21)",NA,NA,England,Norwich City,Premier League,2012/2013,2012
-31,Goalkeeper,"Sep 23, 1992 (19)",NA,NA,England,Norwich City,Premier League,2012/2013,2012
-5,Centre-Back,"Jul 9, 1986 (25)",NA,NA,Cameroon,Norwich City,Premier League,2012/2013,2012
-6,Centre-Back,"Nov 9, 1983 (28)",NA,NA,England,Norwich City,Premier League,2012/2013,2012
-24,Centre-Back,"Mar 6, 1990 (22)",NA,NA,England,Norwich City,Premier League,2012/2013,2012
-2,Centre-Back,"Jan 4, 1986 (26)",NA,NA,Scotland,Norwich City,Premier League,2012/2013,2012
-20,Centre-Back,"Nov 30, 1985 (26)",NA,NA,England,Norwich City,Premier League,2012/2013,2012
-NA,Centre-Back,"Jan 19, 1985 (27)",NA,NA,England,Norwich City,Premier League,2012/2013,2012
-23,Left-Back,"Aug 23, 1985 (26)",NA,NA,England,Norwich City,Premier League,2012/2013,2012
-18,Left-Back,"Mar 15, 1985 (27)",NA,NA,Spain,Norwich City,Premier League,2012/2013,2012
-3,Right-Back,"Jun 16, 1984 (28)",NA,NA,Scotland,Norwich City,Premier League,2012/2013,2012
-27,Defensive Midfield,"Apr 4, 1986 (26)",NA,NA,Norway,Norwich City,Premier League,2012/2013,2012
-NA,Defensive Midfield,"Jan 31, 1991 (21)",NA,NA,England,Norwich City,Premier League,2012/2013,2012
-8,Central Midfield,"May 21, 1988 (24)",NA,NA,England,Norwich City,Premier League,2012/2013,2012
-11,Central Midfield,"Aug 20, 1986 (25)",NA,NA,England,Norwich City,Premier League,2012/2013,2012
-4,Central Midfield,"Apr 28, 1987 (25)",NA,NA,England,Norwich City,Premier League,2012/2013,2012
-15,Central Midfield,"Dec 13, 1983 (28)",NA,NA,England,Norwich City,Premier League,2012/2013,2012
-21,Central Midfield,"Jun 10, 1990 (22)",NA,NA,England,Norwich City,Premier League,2012/2013,2012
-NA,Central Midfield,"Jan 25, 1983 (29)",NA,NA,Scotland,Norwich City,Premier League,2012/2013,2012
-17,Right Midfield,"Dec 18, 1988 (23)",NA,NA,Jamaica,Norwich City,Premier League,2012/2013,2012
-NA,Right Midfield,"Sep 8, 1991 (20)",NA,NA,England,Norwich City,Premier League,2012/2013,2012
-14,Attacking Midfield,"May 20, 1982 (30)",NA,NA,Ireland,Norwich City,Premier League,2012/2013,2012
-12,Left Winger,"Jun 6, 1988 (24)",NA,NA,Ireland,Norwich City,Premier League,2012/2013,2012
-34,Left Winger,"Feb 24, 1995 (17)",NA,NA,England,Norwich City,Premier League,2012/2013,2012
-7,Right Winger,"Sep 7, 1987 (24)",NA,NA,Scotland,Norwich City,Premier League,2012/2013,2012
-9,Centre-Forward,"Apr 12, 1981 (31)",NA,NA,England,Norwich City,Premier League,2012/2013,2012
-NA,Centre-Forward,"Aug 29, 1983 (28)",NA,NA,Wales,Norwich City,Premier League,2012/2013,2012
-NA,Centre-Forward,"Jul 14, 1988 (23)",NA,NA,England,Norwich City,Premier League,2012/2013,2012
-10,Centre-Forward,"Mar 28, 1987 (25)",NA,NA,Canada,Norwich City,Premier League,2012/2013,2012
-19,Centre-Forward,"Dec 28, 1983 (28)",NA,NA,Argentina,Norwich City,Premier League,2012/2013,2012
-NA,Centre-Forward,"Nov 4, 1988 (23)",NA,NA,Scotland,Norwich City,Premier League,2012/2013,2012
-NA,Centre-Forward,"Sep 1, 1984 (27)",NA,NA,Sierra Leone,Norwich City,Premier League,2012/2013,2012
-NA,Centre-Forward,"Jul 28, 1993 (18)",NA,NA,England,Norwich City,Premier League,2012/2013,2012
-31,Goalkeeper,"Feb 20, 1980 (32)",NA,NA,Poland,Southampton FC,Premier League,2012/2013,2012
-1,Goalkeeper,"Sep 29, 1976 (35)",NA,NA,England,Southampton FC,Premier League,2012/2013,2012
-NA,Goalkeeper,"Oct 15, 1986 (25)",NA,NA,England,Southampton FC,Premier League,2012/2013,2012
-12,Goalkeeper,"Jan 2, 1992 (20)",NA,NA,Argentina,Southampton FC,Premier League,2012/2013,2012
-6,Centre-Back,"Dec 22, 1983 (28)",NA,NA,Portugal,Southampton FC,Premier League,2012/2013,2012
-5,Centre-Back,"Apr 22, 1983 (29)",NA,NA,Netherlands,Southampton FC,Premier League,2012/2013,2012
-15,Centre-Back,"Feb 16, 1988 (24)",NA,NA,Norway,Southampton FC,Premier League,2012/2013,2012
-3,Centre-Back,"Aug 24, 1988 (23)",NA,NA,Japan,Southampton FC,Premier League,2012/2013,2012
-NA,Centre-Back,"Mar 5, 1987 (25)",NA,NA,England,Southampton FC,Premier League,2012/2013,2012
-26,Centre-Back,"Jan 27, 1994 (18)",NA,NA,England,Southampton FC,Premier League,2012/2013,2012
-NA,Centre-Back,"Jan 20, 1995 (17)",NA,NA,England,Southampton FC,Premier League,2012/2013,2012
-13,Left-Back,"May 29, 1986 (26)",NA,NA,Scotland,Southampton FC,Premier League,2012/2013,2012
-23,Left-Back,"Jul 12, 1995 (16)",NA,NA,England,Southampton FC,Premier League,2012/2013,2012
-2,Right-Back,"Apr 5, 1991 (21)",NA,NA,England,Southampton FC,Premier League,2012/2013,2012
-22,Right-Back,"Oct 29, 1982 (29)",NA,NA,England,Southampton FC,Premier League,2012/2013,2012
-32,Right-Back,"Nov 21, 1979 (32)",NA,NA,England,Southampton FC,Premier League,2012/2013,2012
-4,Defensive Midfield,"Nov 8, 1989 (22)",NA,NA,France,Southampton FC,Premier League,2012/2013,2012
-18,Defensive Midfield,"Jun 25, 1989 (23)",NA,NA,England,Southampton FC,Premier League,2012/2013,2012
-NA,Defensive Midfield,"Oct 16, 1992 (19)",NA,NA,England,Southampton FC,Premier League,2012/2013,2012
-37,Defensive Midfield,"Sep 9, 1994 (17)",NA,NA,England,Southampton FC,Premier League,2012/2013,2012
-8,Central Midfield,"Jan 1, 1985 (27)",NA,NA,Northern Ireland,Southampton FC,Premier League,2012/2013,2012
-NA,Central Midfield,"Mar 7, 1983 (29)",NA,NA,England,Southampton FC,Premier League,2012/2013,2012
-27,Central Midfield,"Feb 2, 1985 (27)",NA,NA,England,Southampton FC,Premier League,2012/2013,2012
-16,Central Midfield,"Nov 1, 1994 (17)",NA,NA,England,Southampton FC,Premier League,2012/2013,2012
-NA,Central Midfield,"Nov 21, 1993 (18)",NA,NA,England,Southampton FC,Premier League,2012/2013,2012
-10,Attacking Midfield,"Dec 2, 1990 (21)",NA,NA,Uruguay,Southampton FC,Premier League,2012/2013,2012
-20,Attacking Midfield,"May 10, 1988 (24)",NA,NA,England,Southampton FC,Premier League,2012/2013,2012
-21,Attacking Midfield,"Dec 31, 1981 (30)",NA,NA,Brazil,Southampton FC,Premier League,2012/2013,2012
-42,Attacking Midfield,"Jun 26, 1986 (26)",NA,NA,England,Southampton FC,Premier League,2012/2013,2012
-NA,Attacking Midfield,"Nov 19, 1991 (20)",NA,NA,Northern Ireland,Southampton FC,Premier League,2012/2013,2012
-33,Left Winger,"Feb 25, 1987 (25)",NA,NA,Belgium,Southampton FC,Premier League,2012/2013,2012
-NA,Left Winger,"Jan 12, 1993 (19)",NA,NA,Wales,Southampton FC,Premier League,2012/2013,2012
-NA,Second Striker,"Feb 4, 1993 (19)",NA,NA,England,Southampton FC,Premier League,2012/2013,2012
-36,Second Striker,"Nov 29, 1994 (17)",NA,NA,England,Southampton FC,Premier League,2012/2013,2012
-24,Centre-Forward,"Nov 21, 1990 (21)",NA,NA,Zambia,Southampton FC,Premier League,2012/2013,2012
-9,Centre-Forward,"Jul 29, 1989 (22)",NA,NA,England,Southampton FC,Premier League,2012/2013,2012
-11,Centre-Forward,"Feb 5, 1986 (26)",NA,NA,England,Southampton FC,Premier League,2012/2013,2012
-7,Centre-Forward,"Feb 16, 1982 (30)",NA,NA,England,Southampton FC,Premier League,2012/2013,2012
-NA,Centre-Forward,"Dec 19, 1985 (26)",NA,NA,Japan,Southampton FC,Premier League,2012/2013,2012
-NA,Centre-Forward,"Jul 18, 1984 (27)",NA,NA,England,Southampton FC,Premier League,2012/2013,2012
-1,Goalkeeper,"Jan 31, 1985 (27)",NA,NA,Australia,Reading FC,Premier League,2012/2013,2012
-41,Goalkeeper,"Nov 28, 1980 (31)",NA,NA,England,Reading FC,Premier League,2012/2013,2012
-21,Goalkeeper,"Dec 3, 1989 (22)",NA,NA,England,Reading FC,Premier League,2012/2013,2012
-31,Goalkeeper,"Dec 17, 1988 (23)",NA,NA,Denmark,Reading FC,Premier League,2012/2013,2012
-42,Goalkeeper,"Jun 7, 1994 (18)",NA,NA,Scotland,Reading FC,Premier League,2012/2013,2012
-29,Centre-Back,"Aug 4, 1988 (23)",NA,NA,Portugal,Reading FC,Premier League,2012/2013,2012
-6,Centre-Back,"Oct 3, 1986 (25)",NA,NA,Jamaica,Reading FC,Premier League,2012/2013,2012
-5,Centre-Back,"Nov 9, 1988 (23)",NA,NA,Ireland,Reading FC,Premier League,2012/2013,2012
-17,Centre-Back,"Nov 6, 1981 (30)",NA,NA,Latvia,Reading FC,Premier League,2012/2013,2012
-15,Centre-Back,"Jan 8, 1991 (21)",NA,NA,England,Reading FC,Premier League,2012/2013,2012
-3,Left-Back,"Feb 19, 1981 (31)",NA,NA,England,Reading FC,Premier League,2012/2013,2012
-NA,Left-Back,"Oct 30, 1989 (22)",NA,NA,England,Reading FC,Premier League,2012/2013,2012
-23,Left-Back,"Aug 31, 1977 (34)",NA,NA,Ireland,Reading FC,Premier League,2012/2013,2012
-37,Left-Back,"Dec 8, 1993 (18)",NA,NA,England,Reading FC,Premier League,2012/2013,2012
-27,Right-Back,"Sep 6, 1983 (28)",NA,NA,Ireland,Reading FC,Premier League,2012/2013,2012
-2,Right-Back,"Jul 21, 1989 (22)",NA,NA,Wales,Reading FC,Premier League,2012/2013,2012
-24,Right-Back,"Feb 25, 1989 (23)",NA,NA,Jamaica,Reading FC,Premier League,2012/2013,2012
-8,Defensive Midfield,"Nov 12, 1982 (29)",NA,NA,Antigua and Barbuda,Reading FC,Premier League,2012/2013,2012
-26,Defensive Midfield,"Oct 16, 1975 (36)",NA,NA,Iceland,Reading FC,Premier League,2012/2013,2012
-20,Central Midfield,"Apr 18, 1987 (25)",NA,NA,England,Reading FC,Premier League,2012/2013,2012
-4,Central Midfield,"Feb 21, 1989 (23)",NA,NA,Turkey,Reading FC,Premier League,2012/2013,2012
-28,Central Midfield,"Aug 14, 1991 (20)",NA,NA,Nigeria,Reading FC,Premier League,2012/2013,2012
-16,Left Midfield,"Feb 21, 1984 (28)",NA,NA,Ireland,Reading FC,Premier League,2012/2013,2012
-11,Left Winger,"Nov 9, 1981 (30)",NA,NA,Jamaica,Reading FC,Premier League,2012/2013,2012
-19,Left Winger,"May 21, 1989 (23)",NA,NA,Wales,Reading FC,Premier League,2012/2013,2012
-14,Right Winger,"Jan 19, 1984 (28)",NA,NA,Mali,Reading FC,Premier League,2012/2013,2012
-12,Right Winger,"May 15, 1987 (25)",NA,NA,Jamaica,Reading FC,Premier League,2012/2013,2012
-30,Right Winger,"Nov 11, 1989 (22)",NA,NA,England,Reading FC,Premier League,2012/2013,2012
-7,Centre-Forward,"Nov 8, 1983 (28)",NA,NA,Russia,Reading FC,Premier League,2012/2013,2012
-10,Centre-Forward,"Dec 26, 1982 (29)",NA,NA,Ireland,Reading FC,Premier League,2012/2013,2012
-9,Centre-Forward,"Dec 2, 1986 (25)",NA,NA,England,Reading FC,Premier League,2012/2013,2012
-18,Centre-Forward,"Dec 10, 1988 (23)",NA,NA,Wales,Reading FC,Premier League,2012/2013,2012
-33,Centre-Forward,"Jan 25, 1978 (34)",NA,NA,Grenada,Reading FC,Premier League,2012/2013,2012
-36,Centre-Forward,"Apr 22, 1993 (19)",NA,NA,England,Reading FC,Premier League,2012/2013,2012
-44,Centre-Forward,"Apr 1, 1994 (18)",NA,NA,England,Reading FC,Premier League,2012/2013,2012
+player_name,position,date_of_birth,age,nationality,club_name,league_name,season,year
+Joe Hart,Goalkeeper,1987-04-19,25,England,Manchester City,Premier League,2012/2013,2012
+Costel Pantilimon,Goalkeeper,1987-02-01,25,Romania,Manchester City,Premier League,2012/2013,2012
+Richard Wright,Goalkeeper,1977-11-05,34,England,Manchester City,Premier League,2012/2013,2012
+Eirik Johansen,Goalkeeper,1992-07-12,19,Norway,Manchester City,Premier League,2012/2013,2012
+Vincent Kompany,Centre-Back,1986-04-10,26,Belgium,Manchester City,Premier League,2012/2013,2012
+Joleon Lescott,Centre-Back,1982-08-16,29,England,Manchester City,Premier League,2012/2013,2012
+Stefan Savic,Centre-Back,1991-01-08,21,Montenegro,Manchester City,Premier League,2012/2013,2012
+Kolo Touré,Centre-Back,1981-03-19,31,Cote d'Ivoire,Manchester City,Premier League,2012/2013,2012
+Matija Nastasic,Centre-Back,1993-03-28,19,Serbia,Manchester City,Premier League,2012/2013,2012
+Dedryck Boyata,Centre-Back,1990-11-28,21,Belgium,Manchester City,Premier League,2012/2013,2012
+Karim Rekik,Centre-Back,1994-12-02,17,Netherlands,Manchester City,Premier League,2012/2013,2012
+Courtney Meppen-Walter,Centre-Back,1994-08-02,17,England,Manchester City,Premier League,2012/2013,2012
+Gaël Clichy,Left-Back,1985-07-26,26,France,Manchester City,Premier League,2012/2013,2012
+Aleksandar Kolarov,Left-Back,1985-11-10,26,Serbia,Manchester City,Premier League,2012/2013,2012
+Wayne Bridge,Left-Back,1980-08-05,31,England,Manchester City,Premier League,2012/2013,2012
+Micah Richards,Right-Back,1988-06-24,24,England,Manchester City,Premier League,2012/2013,2012
+Maicon,Right-Back,1981-07-26,30,Brazil,Manchester City,Premier League,2012/2013,2012
+Pablo Zabaleta,Right-Back,1985-01-16,27,Argentina,Manchester City,Premier League,2012/2013,2012
+Jack Rodwell,Defensive Midfield,1991-03-11,21,England,Manchester City,Premier League,2012/2013,2012
+Nigel de Jong,Defensive Midfield,1984-11-30,27,Netherlands,Manchester City,Premier League,2012/2013,2012
+Javi García,Defensive Midfield,1987-02-08,25,Spain,Manchester City,Premier League,2012/2013,2012
+Gareth Barry,Defensive Midfield,1981-02-23,31,England,Manchester City,Premier League,2012/2013,2012
+George Evans,Defensive Midfield,1994-12-13,17,England,Manchester City,Premier League,2012/2013,2012
+Yaya Touré,Central Midfield,1983-05-13,29,Cote d'Ivoire,Manchester City,Premier League,2012/2013,2012
+James Milner,Central Midfield,1986-01-04,26,England,Manchester City,Premier League,2012/2013,2012
+Abdisalam Ibrahim,Central Midfield,1991-05-04,21,Norway,Manchester City,Premier League,2012/2013,2012
+Denis Suárez,Central Midfield,1994-01-06,18,Spain,Manchester City,Premier League,2012/2013,2012
+Abdul Razak,Central Midfield,1992-11-11,19,Cote d'Ivoire,Manchester City,Premier League,2012/2013,2012
+Scott Sinclair,Left Midfield,1989-03-25,23,England,Manchester City,Premier League,2012/2013,2012
+Jérémy Hélan,Left Midfield,1992-05-09,20,France,Manchester City,Premier League,2012/2013,2012
+David Silva,Attacking Midfield,1986-01-08,26,Spain,Manchester City,Premier League,2012/2013,2012
+Samir Nasri,Attacking Midfield,1987-06-26,25,France,Manchester City,Premier League,2012/2013,2012
+Luca Scapuzzi,Left Winger,1991-04-15,21,Italy,Manchester City,Premier League,2012/2013,2012
+Adam Johnson,Right Winger,1987-07-14,24,England,Manchester City,Premier League,2012/2013,2012
+Rony Lopes,Right Winger,1995-12-28,16,Portugal,Manchester City,Premier League,2012/2013,2012
+Carlos Tévez,Second Striker,1984-02-05,28,Argentina,Manchester City,Premier League,2012/2013,2012
+Sergio Agüero,Centre-Forward,1988-06-02,24,Argentina,Manchester City,Premier League,2012/2013,2012
+Mario Balotelli,Centre-Forward,1990-08-12,21,Italy,Manchester City,Premier League,2012/2013,2012
+Edin Dzeko,Centre-Forward,1986-03-17,26,Bosnia-Herzegovina,Manchester City,Premier League,2012/2013,2012
+John Guidetti,Centre-Forward,1992-04-15,20,Sweden,Manchester City,Premier League,2012/2013,2012
+Alex Nimely,Centre-Forward,1991-05-11,21,England,Manchester City,Premier League,2012/2013,2012
+David de Gea,Goalkeeper,1990-11-07,21,Spain,Manchester United,Premier League,2012/2013,2012
+Anders Lindegaard,Goalkeeper,1984-04-13,28,Denmark,Manchester United,Premier League,2012/2013,2012
+Ben Amos,Goalkeeper,1990-04-10,22,England,Manchester United,Premier League,2012/2013,2012
+Sam Johnstone,Goalkeeper,1993-03-25,19,England,Manchester United,Premier League,2012/2013,2012
+Nemanja Vidic‎,Centre-Back,1981-10-21,30,Serbia,Manchester United,Premier League,2012/2013,2012
+Phil Jones,Centre-Back,1992-02-21,20,England,Manchester United,Premier League,2012/2013,2012
+Chris Smalling,Centre-Back,1989-11-22,22,England,Manchester United,Premier League,2012/2013,2012
+Jonny Evans,Centre-Back,1988-01-03,24,Northern Ireland,Manchester United,Premier League,2012/2013,2012
+Rio Ferdinand,Centre-Back,1978-11-07,33,England,Manchester United,Premier League,2012/2013,2012
+Michael Keane,Centre-Back,1993-01-11,19,England,Manchester United,Premier League,2012/2013,2012
+Scott Wootton,Centre-Back,1991-09-12,20,England,Manchester United,Premier League,2012/2013,2012
+Ashley Young,Left-Back,1985-07-09,26,England,Manchester United,Premier League,2012/2013,2012
+Patrice Evra,Left-Back,1981-05-15,31,France,Manchester United,Premier League,2012/2013,2012
+Alexander Büttner,Left-Back,1989-02-11,23,Netherlands,Manchester United,Premier League,2012/2013,2012
+Antonio Valencia,Right-Back,1985-08-04,26,Ecuador,Manchester United,Premier League,2012/2013,2012
+Rafael,Right-Back,1990-07-09,21,Brazil,Manchester United,Premier League,2012/2013,2012
+Fábio,Right-Back,1990-07-09,21,Brazil,Manchester United,Premier League,2012/2013,2012
+Marnick Vermijl,Right-Back,1992-01-13,20,Belgium,Manchester United,Premier League,2012/2013,2012
+Michael Carrick,Defensive Midfield,1981-07-28,30,England,Manchester United,Premier League,2012/2013,2012
+Anderson,Central Midfield,1988-04-13,24,Brazil,Manchester United,Premier League,2012/2013,2012
+Darren Fletcher,Central Midfield,1984-02-01,28,Scotland,Manchester United,Premier League,2012/2013,2012
+Tom Cleverley,Central Midfield,1989-08-12,22,England,Manchester United,Premier League,2012/2013,2012
+Paul Scholes,Central Midfield,1974-11-16,37,England,Manchester United,Premier League,2012/2013,2012
+Ryan Tunnicliffe,Central Midfield,1992-12-30,19,England,Manchester United,Premier League,2012/2013,2012
+Larnell Cole,Right Midfield,1993-03-09,19,England,Manchester United,Premier League,2012/2013,2012
+Ryan Giggs,Left Midfield,1973-11-29,38,Wales,Manchester United,Premier League,2012/2013,2012
+Robbie Brady,Left Midfield,1992-01-14,20,Ireland,Manchester United,Premier League,2012/2013,2012
+Shinji Kagawa,Attacking Midfield,1989-03-17,23,Japan,Manchester United,Premier League,2012/2013,2012
+Nick Powell,Attacking Midfield,1994-03-23,18,England,Manchester United,Premier League,2012/2013,2012
+Nani,Left Winger,1986-11-17,25,Portugal,Manchester United,Premier League,2012/2013,2012
+Wilfried Zaha,Right Winger,1992-11-10,19,Cote d'Ivoire,Manchester United,Premier League,2012/2013,2012
+Jesse Lingard,Right Winger,1992-12-15,19,England,Manchester United,Premier League,2012/2013,2012
+Adnan Januzaj,Right Winger,1995-02-05,17,Belgium,Manchester United,Premier League,2012/2013,2012
+Joshua King,Second Striker,1992-01-15,20,Norway,Manchester United,Premier League,2012/2013,2012
+Wayne Rooney,Centre-Forward,1985-10-24,26,England,Manchester United,Premier League,2012/2013,2012
+Robin van Persie,Centre-Forward,1983-08-06,28,Netherlands,Manchester United,Premier League,2012/2013,2012
+Chicharito,Centre-Forward,1988-06-01,24,Mexico,Manchester United,Premier League,2012/2013,2012
+Danny Welbeck,Centre-Forward,1990-11-26,21,England,Manchester United,Premier League,2012/2013,2012
+Dimitar Berbatov,Centre-Forward,1981-01-30,31,Bulgaria,Manchester United,Premier League,2012/2013,2012
+Federico Macheda,Centre-Forward,1991-08-22,20,Italy,Manchester United,Premier League,2012/2013,2012
+Ángelo Henríquez,Centre-Forward,1994-04-13,18,Chile,Manchester United,Premier League,2012/2013,2012
+Petr Cech,Goalkeeper,1982-05-20,30,Czech Republic,Chelsea FC,Premier League,2012/2013,2012
+Ross Turnbull,Goalkeeper,1985-01-04,27,England,Chelsea FC,Premier League,2012/2013,2012
+Henrique Hilário,Goalkeeper,1975-10-21,36,Portugal,Chelsea FC,Premier League,2012/2013,2012
+David Luiz,Centre-Back,1987-04-22,25,Brazil,Chelsea FC,Premier League,2012/2013,2012
+Branislav Ivanovic,Centre-Back,1984-02-22,28,Serbia,Chelsea FC,Premier League,2012/2013,2012
+John Terry,Centre-Back,1980-12-07,31,England,Chelsea FC,Premier League,2012/2013,2012
+Gary Cahill,Centre-Back,1985-12-19,26,England,Chelsea FC,Premier League,2012/2013,2012
+Nathan Aké,Centre-Back,1995-02-18,17,Netherlands,Chelsea FC,Premier League,2012/2013,2012
+Andreas Christensen,Centre-Back,1996-04-10,16,Denmark,Chelsea FC,Premier League,2012/2013,2012
+Ashley Cole,Left-Back,1980-12-20,31,England,Chelsea FC,Premier League,2012/2013,2012
+Ryan Bertrand,Left-Back,1989-08-05,22,England,Chelsea FC,Premier League,2012/2013,2012
+César Azpilicueta,Right-Back,1989-08-28,22,Spain,Chelsea FC,Premier League,2012/2013,2012
+Paulo Ferreira,Right-Back,1979-01-18,33,Portugal,Chelsea FC,Premier League,2012/2013,2012
+Michael Essien,Defensive Midfield,1982-12-03,29,Ghana,Chelsea FC,Premier League,2012/2013,2012
+John Mikel Obi,Defensive Midfield,1987-04-22,25,Nigeria,Chelsea FC,Premier League,2012/2013,2012
+Oriol Romeu,Defensive Midfield,1991-09-24,20,Spain,Chelsea FC,Premier League,2012/2013,2012
+Nathaniel Chalobah,Defensive Midfield,1994-12-12,17,England,Chelsea FC,Premier League,2012/2013,2012
+Ramires,Central Midfield,1987-03-24,25,Brazil,Chelsea FC,Premier League,2012/2013,2012
+Raúl Meireles,Central Midfield,1983-03-17,29,Portugal,Chelsea FC,Premier League,2012/2013,2012
+Frank Lampard,Central Midfield,1978-06-20,34,England,Chelsea FC,Premier League,2012/2013,2012
+Josh McEachran,Central Midfield,1993-03-01,19,England,Chelsea FC,Premier League,2012/2013,2012
+George Saville,Central Midfield,1993-06-01,19,Northern Ireland,Chelsea FC,Premier League,2012/2013,2012
+Juan Mata,Attacking Midfield,1988-04-28,24,Spain,Chelsea FC,Premier League,2012/2013,2012
+Marko Marin,Attacking Midfield,1989-03-13,23,Germany,Chelsea FC,Premier League,2012/2013,2012
+Oscar,Attacking Midfield,1991-09-09,20,Brazil,Chelsea FC,Premier League,2012/2013,2012
+Eden Hazard,Left Winger,1991-01-07,21,Belgium,Chelsea FC,Premier League,2012/2013,2012
+Florent Malouda,Left Winger,1980-06-13,32,French Guiana,Chelsea FC,Premier League,2012/2013,2012
+Lucas Piazón,Right Winger,1994-01-20,18,Brazil,Chelsea FC,Premier League,2012/2013,2012
+Victor Moses,Right Winger,1990-12-12,21,Nigeria,Chelsea FC,Premier League,2012/2013,2012
+Yossi Benayoun,Right Winger,1980-05-05,32,Israel,Chelsea FC,Premier League,2012/2013,2012
+Fernando Torres,Centre-Forward,1984-03-20,28,Spain,Chelsea FC,Premier League,2012/2013,2012
+Daniel Sturridge,Centre-Forward,1989-09-01,22,England,Chelsea FC,Premier League,2012/2013,2012
+Demba Ba,Centre-Forward,1985-05-25,27,Senegal,Chelsea FC,Premier League,2012/2013,2012
+Romelu Lukaku,Centre-Forward,1993-05-13,19,Belgium,Chelsea FC,Premier League,2012/2013,2012
+Hugo Lloris,Goalkeeper,1986-12-26,25,France,Tottenham Hotspur,Premier League,2012/2013,2012
+Heurelho Gomes,Goalkeeper,1981-02-15,31,Brazil,Tottenham Hotspur,Premier League,2012/2013,2012
+Brad Friedel,Goalkeeper,1971-05-18,41,United States,Tottenham Hotspur,Premier League,2012/2013,2012
+Carlo Cudicini,Goalkeeper,1973-09-06,38,Italy,Tottenham Hotspur,Premier League,2012/2013,2012
+Jordan Archer,Goalkeeper,1993-04-12,19,Scotland,Tottenham Hotspur,Premier League,2012/2013,2012
+Younès Kaboul,Centre-Back,1986-01-04,26,France,Tottenham Hotspur,Premier League,2012/2013,2012
+Jan Vertonghen,Centre-Back,1987-04-24,25,Belgium,Tottenham Hotspur,Premier League,2012/2013,2012
+Michael Dawson,Centre-Back,1983-11-18,28,England,Tottenham Hotspur,Premier League,2012/2013,2012
+Steven Caulker,Centre-Back,1991-12-29,20,England,Tottenham Hotspur,Premier League,2012/2013,2012
+William Gallas,Centre-Back,1977-08-17,34,France,Tottenham Hotspur,Premier League,2012/2013,2012
+Benoît Assou-Ekotto,Left-Back,1984-03-24,28,Cameroon,Tottenham Hotspur,Premier League,2012/2013,2012
+Danny Rose,Left-Back,1990-07-02,21,England,Tottenham Hotspur,Premier League,2012/2013,2012
+Zeki Fryers,Left-Back,1992-09-09,19,England,Tottenham Hotspur,Premier League,2012/2013,2012
+Kyle Walker,Right-Back,1990-05-28,22,England,Tottenham Hotspur,Premier League,2012/2013,2012
+Kyle Naughton,Right-Back,1988-11-11,23,England,Tottenham Hotspur,Premier League,2012/2013,2012
+Adam Smith,Right-Back,1991-04-29,21,England,Tottenham Hotspur,Premier League,2012/2013,2012
+Sandro,Defensive Midfield,1989-03-15,23,Brazil,Tottenham Hotspur,Premier League,2012/2013,2012
+Tom Huddlestone,Defensive Midfield,1986-12-28,25,England,Tottenham Hotspur,Premier League,2012/2013,2012
+Jake Livermore,Defensive Midfield,1989-11-14,22,England,Tottenham Hotspur,Premier League,2012/2013,2012
+Kevin Stewart,Defensive Midfield,1993-09-07,18,England,Tottenham Hotspur,Premier League,2012/2013,2012
+Mousa Dembélé,Central Midfield,1987-07-16,24,Belgium,Tottenham Hotspur,Premier League,2012/2013,2012
+Scott Parker,Central Midfield,1980-10-13,31,England,Tottenham Hotspur,Premier League,2012/2013,2012
+Jermaine Jenas,Central Midfield,1983-02-18,29,England,Tottenham Hotspur,Premier League,2012/2013,2012
+Ryan Mason,Central Midfield,1991-06-13,21,England,Tottenham Hotspur,Premier League,2012/2013,2012
+Dean Parrett,Central Midfield,1991-11-16,20,England,Tottenham Hotspur,Premier League,2012/2013,2012
+Tom Carroll,Central Midfield,1992-05-28,20,England,Tottenham Hotspur,Premier League,2012/2013,2012
+David Bentley,Right Midfield,1984-08-27,27,England,Tottenham Hotspur,Premier League,2012/2013,2012
+Rafael van der Vaart,Attacking Midfield,1983-02-11,29,Netherlands,Tottenham Hotspur,Premier League,2012/2013,2012
+Gylfi Sigurdsson,Attacking Midfield,1989-09-08,22,Iceland,Tottenham Hotspur,Premier League,2012/2013,2012
+Lewis Holtby,Attacking Midfield,1990-09-18,21,Germany,Tottenham Hotspur,Premier League,2012/2013,2012
+Cristian Ceballos,Left Winger,1992-12-03,19,Spain,Tottenham Hotspur,Premier League,2012/2013,2012
+Gareth Bale,Right Winger,1989-07-16,22,Wales,Tottenham Hotspur,Premier League,2012/2013,2012
+Aaron Lennon,Right Winger,1987-04-16,25,England,Tottenham Hotspur,Premier League,2012/2013,2012
+Iago Falque,Right Winger,1990-01-04,22,Spain,Tottenham Hotspur,Premier League,2012/2013,2012
+Andros Townsend,Right Winger,1991-07-16,20,England,Tottenham Hotspur,Premier League,2012/2013,2012
+Clint Dempsey,Second Striker,1983-03-09,29,United States,Tottenham Hotspur,Premier League,2012/2013,2012
+Emmanuel Adebayor,Centre-Forward,1984-02-26,28,Togo,Tottenham Hotspur,Premier League,2012/2013,2012
+Jermain Defoe,Centre-Forward,1982-10-07,29,England,Tottenham Hotspur,Premier League,2012/2013,2012
+Jonathan Obika,Centre-Forward,1990-09-12,21,England,Tottenham Hotspur,Premier League,2012/2013,2012
+Harry Kane,Centre-Forward,1993-07-28,18,England,Tottenham Hotspur,Premier League,2012/2013,2012
+Shaq Coulthirst,Centre-Forward,1994-11-02,17,England,Tottenham Hotspur,Premier League,2012/2013,2012
+Wojciech Szczesny,Goalkeeper,1990-04-18,22,Poland,Arsenal FC,Premier League,2012/2013,2012
+Lukasz Fabianski,Goalkeeper,1985-04-18,27,Poland,Arsenal FC,Premier League,2012/2013,2012
+Vito Mannone,Goalkeeper,1988-03-02,24,Italy,Arsenal FC,Premier League,2012/2013,2012
+James Shea,Goalkeeper,1991-06-16,21,England,Arsenal FC,Premier League,2012/2013,2012
+Emiliano Martínez,Goalkeeper,1992-09-02,19,Argentina,Arsenal FC,Premier League,2012/2013,2012
+Thomas Vermaelen,Centre-Back,1985-11-14,26,Belgium,Arsenal FC,Premier League,2012/2013,2012
+Laurent Koscielny,Centre-Back,1985-09-10,26,France,Arsenal FC,Premier League,2012/2013,2012
+Per Mertesacker,Centre-Back,1984-09-29,27,Germany,Arsenal FC,Premier League,2012/2013,2012
+Johan Djourou,Centre-Back,1987-01-18,25,Switzerland,Arsenal FC,Premier League,2012/2013,2012
+Sébastien Squillaci,Centre-Back,1980-08-11,31,France,Arsenal FC,Premier League,2012/2013,2012
+Ignasi Miquel,Centre-Back,1992-09-28,19,Spain,Arsenal FC,Premier League,2012/2013,2012
+Martin Angha,Centre-Back,1994-01-22,18,Switzerland,Arsenal FC,Premier League,2012/2013,2012
+Sead Hajrovic,Centre-Back,1993-06-04,19,Bosnia-Herzegovina,Arsenal FC,Premier League,2012/2013,2012
+Elton Monteiro,Centre-Back,1994-02-22,18,Portugal,Arsenal FC,Premier League,2012/2013,2012
+Nacho Monreal,Left-Back,1986-02-26,26,Spain,Arsenal FC,Premier League,2012/2013,2012
+Kieran Gibbs,Left-Back,1989-09-26,22,England,Arsenal FC,Premier League,2012/2013,2012
+Jernade Meade,Left-Back,1992-10-25,19,England,Arsenal FC,Premier League,2012/2013,2012
+Bacary Sagna,Right-Back,1983-02-14,29,France,Arsenal FC,Premier League,2012/2013,2012
+Carl Jenkinson,Right-Back,1992-02-08,20,England,Arsenal FC,Premier League,2012/2013,2012
+Héctor Bellerín,Right-Back,1995-03-19,17,Spain,Arsenal FC,Premier League,2012/2013,2012
+Francis Coquelin,Defensive Midfield,1991-05-13,21,France,Arsenal FC,Premier League,2012/2013,2012
+Emmanuel Frimpong,Defensive Midfield,1992-01-10,20,Ghana,Arsenal FC,Premier League,2012/2013,2012
+Nico Yennaris,Defensive Midfield,1993-05-24,19,China,Arsenal FC,Premier League,2012/2013,2012
+Jack Wilshere,Central Midfield,1992-01-01,20,England,Arsenal FC,Premier League,2012/2013,2012
+Santi Cazorla,Central Midfield,1984-12-13,27,Spain,Arsenal FC,Premier League,2012/2013,2012
+Mikel Arteta,Central Midfield,1982-03-26,30,Spain,Arsenal FC,Premier League,2012/2013,2012
+Alex Oxlade-Chamberlain,Central Midfield,1993-08-15,18,England,Arsenal FC,Premier League,2012/2013,2012
+Aaron Ramsey,Central Midfield,1990-12-26,21,Wales,Arsenal FC,Premier League,2012/2013,2012
+Abou Diaby,Central Midfield,1986-05-11,26,France,Arsenal FC,Premier League,2012/2013,2012
+André Santos,Attacking Midfield,1983-03-08,29,Brazil,Arsenal FC,Premier League,2012/2013,2012
+Tomas Rosicky,Attacking Midfield,1980-10-04,31,Czech Republic,Arsenal FC,Premier League,2012/2013,2012
+Thomas Eisfeld,Attacking Midfield,1993-01-18,19,Germany,Arsenal FC,Premier League,2012/2013,2012
+Gervinho,Left Winger,1987-05-27,25,Cote d'Ivoire,Arsenal FC,Premier League,2012/2013,2012
+Theo Walcott,Right Winger,1989-03-16,23,England,Arsenal FC,Premier League,2012/2013,2012
+Ryo Miyaichi,Right Winger,1992-12-14,19,Japan,Arsenal FC,Premier League,2012/2013,2012
+Serge Gnabry,Right Winger,1995-07-14,16,Germany,Arsenal FC,Premier League,2012/2013,2012
+Lukas Podolski,Second Striker,1985-06-04,27,Germany,Arsenal FC,Premier League,2012/2013,2012
+Andrey Arshavin,Second Striker,1981-05-29,31,Russia,Arsenal FC,Premier League,2012/2013,2012
+Olivier Giroud,Centre-Forward,1986-09-30,25,France,Arsenal FC,Premier League,2012/2013,2012
+Marouane Chamakh,Centre-Forward,1984-01-10,28,Morocco,Arsenal FC,Premier League,2012/2013,2012
+Zak Ansah,Centre-Forward,1994-05-04,18,Ghana,Arsenal FC,Premier League,2012/2013,2012
+Chuba Akpom,Centre-Forward,1995-10-09,16,England,Arsenal FC,Premier League,2012/2013,2012
+Pepe Reina,Goalkeeper,1982-08-31,29,Spain,Liverpool FC,Premier League,2012/2013,2012
+Brad Jones,Goalkeeper,1982-03-19,30,Australia,Liverpool FC,Premier League,2012/2013,2012
+Péter Gulácsi,Goalkeeper,1990-05-06,22,Hungary,Liverpool FC,Premier League,2012/2013,2012
+Danny Ward,Goalkeeper,1993-06-22,19,Wales,Liverpool FC,Premier League,2012/2013,2012
+Martin Skrtel,Centre-Back,1984-12-15,27,Slovakia,Liverpool FC,Premier League,2012/2013,2012
+Daniel Agger,Centre-Back,1984-12-12,27,Denmark,Liverpool FC,Premier League,2012/2013,2012
+Sebastián Coates,Centre-Back,1990-10-07,21,Uruguay,Liverpool FC,Premier League,2012/2013,2012
+Jamie Carragher,Centre-Back,1978-01-28,34,England,Liverpool FC,Premier League,2012/2013,2012
+Danny Wilson,Centre-Back,1991-12-27,20,Scotland,Liverpool FC,Premier League,2012/2013,2012
+Conor Coady,Centre-Back,1993-02-25,19,England,Liverpool FC,Premier League,2012/2013,2012
+Stephen Sama,Centre-Back,1993-03-05,19,Germany,Liverpool FC,Premier League,2012/2013,2012
+Lloyd Jones,Centre-Back,1995-10-07,16,England,Liverpool FC,Premier League,2012/2013,2012
+José Enrique,Left-Back,1986-01-23,26,Spain,Liverpool FC,Premier League,2012/2013,2012
+Jack Robinson,Left-Back,1993-09-01,18,England,Liverpool FC,Premier League,2012/2013,2012
+Glen Johnson,Right-Back,1984-08-23,27,England,Liverpool FC,Premier League,2012/2013,2012
+Martin Kelly,Right-Back,1990-04-27,22,England,Liverpool FC,Premier League,2012/2013,2012
+Jon Flanagan,Right-Back,1993-01-01,19,England,Liverpool FC,Premier League,2012/2013,2012
+Andre Wisdom,Right-Back,1993-05-09,19,England,Liverpool FC,Premier League,2012/2013,2012
+Nuri Sahin,Defensive Midfield,1988-09-05,23,Turkey,Liverpool FC,Premier League,2012/2013,2012
+Lucas Leiva,Defensive Midfield,1987-01-09,25,Brazil,Liverpool FC,Premier League,2012/2013,2012
+Jay Spearing,Defensive Midfield,1988-11-25,23,England,Liverpool FC,Premier League,2012/2013,2012
+Steven Gerrard,Central Midfield,1980-05-30,32,England,Liverpool FC,Premier League,2012/2013,2012
+Jordan Henderson,Central Midfield,1990-06-17,22,England,Liverpool FC,Premier League,2012/2013,2012
+Charlie Adam,Central Midfield,1985-12-10,26,Scotland,Liverpool FC,Premier League,2012/2013,2012
+Joe Allen,Central Midfield,1990-03-14,22,Wales,Liverpool FC,Premier League,2012/2013,2012
+Jonjo Shelvey,Central Midfield,1992-02-27,20,England,Liverpool FC,Premier League,2012/2013,2012
+Stewart Downing,Left Midfield,1984-07-22,27,England,Liverpool FC,Premier League,2012/2013,2012
+Joe Cole,Attacking Midfield,1981-11-08,30,England,Liverpool FC,Premier League,2012/2013,2012
+Fabio Borini,Left Winger,1991-03-29,21,Italy,Liverpool FC,Premier League,2012/2013,2012
+Philippe Coutinho,Left Winger,1992-06-12,20,Brazil,Liverpool FC,Premier League,2012/2013,2012
+Oussama Assaidi,Left Winger,1988-08-15,23,Morocco,Liverpool FC,Premier League,2012/2013,2012
+Dani Pacheco,Left Winger,1991-01-05,21,Spain,Liverpool FC,Premier League,2012/2013,2012
+Jordon Ibe,Right Winger,1995-12-08,16,England,Liverpool FC,Premier League,2012/2013,2012
+Suso,Right Winger,1993-11-19,18,Spain,Liverpool FC,Premier League,2012/2013,2012
+Raheem Sterling,Right Winger,1994-12-08,17,England,Liverpool FC,Premier League,2012/2013,2012
+Luis Suárez,Centre-Forward,1987-01-24,25,Uruguay,Liverpool FC,Premier League,2012/2013,2012
+Daniel Sturridge,Centre-Forward,1989-09-01,22,England,Liverpool FC,Premier League,2012/2013,2012
+Andy Carroll,Centre-Forward,1989-01-06,23,England,Liverpool FC,Premier League,2012/2013,2012
+Samed Yesil,Centre-Forward,1994-05-25,18,Germany,Liverpool FC,Premier League,2012/2013,2012
+Adam Morgan,Centre-Forward,1994-04-21,18,England,Liverpool FC,Premier League,2012/2013,2012
+Jerome Sinclair,Centre-Forward,1996-09-20,15,England,Liverpool FC,Premier League,2012/2013,2012
+Tim Krul,Goalkeeper,1988-04-03,24,Netherlands,Newcastle United,Premier League,2012/2013,2012
+Steve Harper,Goalkeeper,1975-03-14,37,England,Newcastle United,Premier League,2012/2013,2012
+Rob Elliot,Goalkeeper,1986-04-30,26,Ireland,Newcastle United,Premier League,2012/2013,2012
+Jak Alnwick,Goalkeeper,1993-06-17,19,England,Newcastle United,Premier League,2012/2013,2012
+Mapou Yanga-Mbiwa,Centre-Back,1989-05-15,23,France,Newcastle United,Premier League,2012/2013,2012
+Fabricio Coloccini,Centre-Back,1982-01-22,30,Argentina,Newcastle United,Premier League,2012/2013,2012
+Steven Taylor,Centre-Back,1986-01-23,26,England,Newcastle United,Premier League,2012/2013,2012
+Mike Williamson,Centre-Back,1983-11-08,28,England,Newcastle United,Premier League,2012/2013,2012
+Curtis Good,Centre-Back,1993-03-23,19,Australia,Newcastle United,Premier League,2012/2013,2012
+Remie Streete,Centre-Back,1994-11-02,17,England,Newcastle United,Premier League,2012/2013,2012
+Davide Santon,Left-Back,1991-01-02,21,Italy,Newcastle United,Premier League,2012/2013,2012
+Massadio Haidara,Left-Back,1992-12-02,19,Mali,Newcastle United,Premier League,2012/2013,2012
+Paul Dummett,Left-Back,1991-09-26,20,Wales,Newcastle United,Premier League,2012/2013,2012
+Mathieu Debuchy,Right-Back,1985-07-28,26,France,Newcastle United,Premier League,2012/2013,2012
+Danny Simpson,Right-Back,1987-01-04,25,England,Newcastle United,Premier League,2012/2013,2012
+Ryan Taylor,Right-Back,1984-08-19,27,England,Newcastle United,Premier League,2012/2013,2012
+James Perch,Right-Back,1985-09-28,26,England,Newcastle United,Premier League,2012/2013,2012
+James Tavernier,Right-Back,1991-10-31,20,England,Newcastle United,Premier League,2012/2013,2012
+Cheik Tioté,Defensive Midfield,1986-06-21,26,Cote d'Ivoire,Newcastle United,Premier League,2012/2013,2012
+Vurnon Anita,Defensive Midfield,1989-04-04,23,Netherlands,Newcastle United,Premier League,2012/2013,2012
+Yohan Cabaye,Central Midfield,1986-01-14,26,France,Newcastle United,Premier League,2012/2013,2012
+Moussa Sissoko,Central Midfield,1989-08-16,22,France,Newcastle United,Premier League,2012/2013,2012
+Jonás Gutiérrez,Central Midfield,1983-07-05,28,Argentina,Newcastle United,Premier League,2012/2013,2012
+Dan Gosling,Central Midfield,1990-02-01,22,England,Newcastle United,Premier League,2012/2013,2012
+Romain Amalfitano,Central Midfield,1989-08-27,22,France,Newcastle United,Premier League,2012/2013,2012
+Gaël Bigirimana,Central Midfield,1993-10-22,18,Burundi,Newcastle United,Premier League,2012/2013,2012
+Mehdi Abeid,Central Midfield,1992-08-06,19,Algeria,Newcastle United,Premier League,2012/2013,2012
+Shane Ferguson,Left Midfield,1991-07-12,20,Northern Ireland,Newcastle United,Premier League,2012/2013,2012
+Hatem Ben Arfa,Attacking Midfield,1987-03-07,25,France,Newcastle United,Premier League,2012/2013,2012
+Sylvain Marveaux,Attacking Midfield,1986-04-15,26,Martinique,Newcastle United,Premier League,2012/2013,2012
+Haris Vuckic,Attacking Midfield,1992-08-21,19,Slovenia,Newcastle United,Premier League,2012/2013,2012
+Yoan Gouffran,Left Winger,1986-05-25,26,France,Newcastle United,Premier League,2012/2013,2012
+Gabriel Obertan,Right Winger,1989-02-26,23,France,Newcastle United,Premier League,2012/2013,2012
+Adam Campbell,Second Striker,1995-01-01,17,England,Newcastle United,Premier League,2012/2013,2012
+Papiss Demba Cissé,Centre-Forward,1985-06-03,27,Senegal,Newcastle United,Premier League,2012/2013,2012
+Demba Ba,Centre-Forward,1985-05-25,27,Senegal,Newcastle United,Premier League,2012/2013,2012
+Shola Ameobi,Centre-Forward,1981-10-12,30,Nigeria,Newcastle United,Premier League,2012/2013,2012
+Sammy Ameobi,Centre-Forward,1992-05-01,20,England,Newcastle United,Premier League,2012/2013,2012
+Nile Ranger,Centre-Forward,1991-04-11,21,England,Newcastle United,Premier League,2012/2013,2012
+Júlio César,Goalkeeper,1979-09-03,32,Brazil,Queens Park Rangers,Premier League,2012/2013,2012
+Rob Green,Goalkeeper,1980-01-18,32,England,Queens Park Rangers,Premier League,2012/2013,2012
+Radek Cerny,Goalkeeper,1974-02-18,38,Czech Republic,Queens Park Rangers,Premier League,2012/2013,2012
+Brian Murphy,Goalkeeper,1983-05-07,29,Ireland,Queens Park Rangers,Premier League,2012/2013,2012
+Christopher Samba,Centre-Back,1984-03-28,28,Congo,Queens Park Rangers,Premier League,2012/2013,2012
+Nedum Onuoha,Centre-Back,1986-11-12,25,England,Queens Park Rangers,Premier League,2012/2013,2012
+Anton Ferdinand,Centre-Back,1985-02-18,27,England,Queens Park Rangers,Premier League,2012/2013,2012
+Tal Ben Haim,Centre-Back,1982-03-31,30,Israel,Queens Park Rangers,Premier League,2012/2013,2012
+Clint Hill,Centre-Back,1978-10-19,33,England,Queens Park Rangers,Premier League,2012/2013,2012
+Ryan Nelsen,Centre-Back,1977-10-18,34,New Zealand,Queens Park Rangers,Premier League,2012/2013,2012
+Max Ehmer,Centre-Back,1992-02-03,20,Germany,Queens Park Rangers,Premier League,2012/2013,2012
+Armand Traoré,Left-Back,1989-10-08,22,Senegal,Queens Park Rangers,Premier League,2012/2013,2012
+Seok-yeong Yun,Left-Back,1990-02-13,22,"Korea, South",Queens Park Rangers,Premier League,2012/2013,2012
+Fábio,Right-Back,1990-07-09,21,Brazil,Queens Park Rangers,Premier League,2012/2013,2012
+Bosingwa,Right-Back,1982-08-24,29,Portugal,Queens Park Rangers,Premier League,2012/2013,2012
+Luke Young,Right-Back,1979-07-19,32,England,Queens Park Rangers,Premier League,2012/2013,2012
+Michael Harriman,Right-Back,1992-10-23,19,Ireland,Queens Park Rangers,Premier League,2012/2013,2012
+Stéphane Mbia,Defensive Midfield,1986-05-20,26,Cameroon,Queens Park Rangers,Premier League,2012/2013,2012
+Samba Diakité,Defensive Midfield,1989-01-24,23,Mali,Queens Park Rangers,Premier League,2012/2013,2012
+Shaun Derry,Defensive Midfield,1977-12-06,34,England,Queens Park Rangers,Premier League,2012/2013,2012
+Esteban Granero,Central Midfield,1987-07-02,24,Spain,Queens Park Rangers,Premier League,2012/2013,2012
+Jermaine Jenas,Central Midfield,1983-02-18,29,England,Queens Park Rangers,Premier League,2012/2013,2012
+Alejandro Faurlín,Central Midfield,1986-09-08,25,Argentina,Queens Park Rangers,Premier League,2012/2013,2012
+Kieron Dyer,Right Midfield,1978-12-29,33,England,Queens Park Rangers,Premier League,2012/2013,2012
+Hogan Ephraim,Left Midfield,1988-03-31,24,England,Queens Park Rangers,Premier League,2012/2013,2012
+Adel Taarabt,Attacking Midfield,1989-05-24,23,Morocco,Queens Park Rangers,Premier League,2012/2013,2012
+Ji-sung Park,Attacking Midfield,1981-02-25,31,"Korea, South",Queens Park Rangers,Premier League,2012/2013,2012
+Junior Hoilett,Left Winger,1990-06-05,22,Canada,Queens Park Rangers,Premier League,2012/2013,2012
+Shaun Wright-Phillips,Right Winger,1981-10-25,30,England,Queens Park Rangers,Premier League,2012/2013,2012
+Jamie Mackie,Right Winger,1985-09-28,26,Scotland,Queens Park Rangers,Premier League,2012/2013,2012
+Andros Townsend,Right Winger,1991-07-16,20,England,Queens Park Rangers,Premier League,2012/2013,2012
+Loïc Rémy,Centre-Forward,1987-01-02,25,France,Queens Park Rangers,Premier League,2012/2013,2012
+Djibril Cissé,Centre-Forward,1981-08-12,30,France,Queens Park Rangers,Premier League,2012/2013,2012
+Bobby Zamora,Centre-Forward,1981-01-16,31,England,Queens Park Rangers,Premier League,2012/2013,2012
+Andy Johnson,Centre-Forward,1981-02-10,31,England,Queens Park Rangers,Premier League,2012/2013,2012
+Jay Bothroyd,Centre-Forward,1982-05-05,30,England,Queens Park Rangers,Premier League,2012/2013,2012
+DJ Campbell,Centre-Forward,1981-11-12,30,England,Queens Park Rangers,Premier League,2012/2013,2012
+Rob Hulse,Centre-Forward,1979-10-25,32,England,Queens Park Rangers,Premier League,2012/2013,2012
+Simon Mignolet,Goalkeeper,1988-03-06,24,Belgium,Sunderland AFC,Premier League,2012/2013,2012
+Keiren Westwood,Goalkeeper,1984-10-23,27,Ireland,Sunderland AFC,Premier League,2012/2013,2012
+Kader Mangane,Centre-Back,1983-03-23,29,Senegal,Sunderland AFC,Premier League,2012/2013,2012
+Carlos Cuéllar,Centre-Back,1981-08-23,30,Spain,Sunderland AFC,Premier League,2012/2013,2012
+John O'Shea,Centre-Back,1981-04-30,31,Ireland,Sunderland AFC,Premier League,2012/2013,2012
+Titus Bramble,Centre-Back,1981-07-31,30,England,Sunderland AFC,Premier League,2012/2013,2012
+Wes Brown,Centre-Back,1979-10-13,32,England,Sunderland AFC,Premier League,2012/2013,2012
+Matthew Kilgallon,Centre-Back,1984-01-08,28,England,Sunderland AFC,Premier League,2012/2013,2012
+Scott Harrison,Centre-Back,1993-09-03,18,England,Sunderland AFC,Premier League,2012/2013,2012
+John Egan,Centre-Back,1992-10-20,19,Ireland,Sunderland AFC,Premier League,2012/2013,2012
+Kieran Richardson,Left-Back,1984-10-21,27,England,Sunderland AFC,Premier League,2012/2013,2012
+Danny Rose,Left-Back,1990-07-02,21,England,Sunderland AFC,Premier League,2012/2013,2012
+David Ferguson,Left-Back,1994-06-07,18,England,Sunderland AFC,Premier League,2012/2013,2012
+Phil Bardsley,Right-Back,1985-06-28,27,Scotland,Sunderland AFC,Premier League,2012/2013,2012
+Ahmed Elmohamady,Right-Back,1987-09-09,24,Egypt,Sunderland AFC,Premier League,2012/2013,2012
+Liam Marrs,Right-Back,1992-12-15,19,England,Sunderland AFC,Premier League,2012/2013,2012
+Lee Cattermole,Defensive Midfield,1988-03-21,24,England,Sunderland AFC,Premier League,2012/2013,2012
+Jack Colback,Defensive Midfield,1989-10-24,22,England,Sunderland AFC,Premier League,2012/2013,2012
+Alfred N'Diaye,Defensive Midfield,1990-03-06,22,Senegal,Sunderland AFC,Premier League,2012/2013,2012
+David Vaughan,Defensive Midfield,1983-02-18,29,Wales,Sunderland AFC,Premier League,2012/2013,2012
+Sebastian Larsson,Central Midfield,1985-06-06,27,Sweden,Sunderland AFC,Premier League,2012/2013,2012
+Craig Gardner,Central Midfield,1986-11-25,25,England,Sunderland AFC,Premier League,2012/2013,2012
+David Meyler,Central Midfield,1989-05-29,23,Ireland,Sunderland AFC,Premier League,2012/2013,2012
+Billy Knott,Central Midfield,1992-11-28,19,England,Sunderland AFC,Premier League,2012/2013,2012
+Stéphane Sessègnon,Attacking Midfield,1984-06-01,28,Benin,Sunderland AFC,Premier League,2012/2013,2012
+James McClean,Left Winger,1989-04-22,23,Ireland,Sunderland AFC,Premier League,2012/2013,2012
+Adam Johnson,Right Winger,1987-07-14,24,England,Sunderland AFC,Premier League,2012/2013,2012
+Adam Mitchell,Right Winger,1994-12-02,17,Ireland,Sunderland AFC,Premier League,2012/2013,2012
+James McFadden,Second Striker,1983-04-14,29,Scotland,Sunderland AFC,Premier League,2012/2013,2012
+Connor Wickham,Centre-Forward,1993-03-31,19,England,Sunderland AFC,Premier League,2012/2013,2012
+Steven Fletcher,Centre-Forward,1987-03-26,25,Scotland,Sunderland AFC,Premier League,2012/2013,2012
+Danny Graham,Centre-Forward,1985-08-12,26,England,Sunderland AFC,Premier League,2012/2013,2012
+Fraizer Campbell,Centre-Forward,1987-09-13,24,England,Sunderland AFC,Premier League,2012/2013,2012
+Dong-won Ji,Centre-Forward,1991-05-28,21,"Korea, South",Sunderland AFC,Premier League,2012/2013,2012
+Louis Saha,Centre-Forward,1978-08-08,33,France,Sunderland AFC,Premier League,2012/2013,2012
+Mikael Mandron,Centre-Forward,1994-10-11,17,Scotland,Sunderland AFC,Premier League,2012/2013,2012
+Jordan Laidler,Centre-Forward,1995-07-01,17,England,Sunderland AFC,Premier League,2012/2013,2012
+Tim Howard,Goalkeeper,1979-03-06,33,United States,Everton FC,Premier League,2012/2013,2012
+Jan Mucha,Goalkeeper,1982-12-05,29,Slovakia,Everton FC,Premier League,2012/2013,2012
+Mason Springthorpe,Goalkeeper,1994-11-01,17,England,Everton FC,Premier League,2012/2013,2012
+Phil Jagielka,Centre-Back,1982-08-17,29,England,Everton FC,Premier League,2012/2013,2012
+Johnny Heitinga,Centre-Back,1983-11-15,28,Netherlands,Everton FC,Premier League,2012/2013,2012
+Sylvain Distin,Centre-Back,1977-12-16,34,France,Everton FC,Premier League,2012/2013,2012
+John Stones,Centre-Back,1994-05-28,18,England,Everton FC,Premier League,2012/2013,2012
+Shane Duffy,Centre-Back,1992-01-01,20,Ireland,Everton FC,Premier League,2012/2013,2012
+Tyias Browning,Centre-Back,1994-05-27,18,England,Everton FC,Premier League,2012/2013,2012
+Leighton Baines,Left-Back,1984-12-11,27,England,Everton FC,Premier League,2012/2013,2012
+Bryan Oviedo,Left-Back,1990-02-18,22,Costa Rica,Everton FC,Premier League,2012/2013,2012
+Luke Garbutt,Left-Back,1993-05-21,19,England,Everton FC,Premier League,2012/2013,2012
+Seamus Coleman,Right-Back,1988-10-11,23,Ireland,Everton FC,Premier League,2012/2013,2012
+Tony Hibbert,Right-Back,1981-02-20,31,England,Everton FC,Premier League,2012/2013,2012
+Phil Neville,Right-Back,1977-01-21,35,England,Everton FC,Premier League,2012/2013,2012
+Marouane Fellaini,Central Midfield,1987-11-22,24,Belgium,Everton FC,Premier League,2012/2013,2012
+Ross Barkley,Central Midfield,1993-12-05,18,England,Everton FC,Premier League,2012/2013,2012
+Leon Osman,Central Midfield,1981-05-17,31,England,Everton FC,Premier League,2012/2013,2012
+Darron Gibson,Central Midfield,1987-10-25,24,Ireland,Everton FC,Premier League,2012/2013,2012
+Thomas Hitzlsperger,Central Midfield,1982-04-05,30,Germany,Everton FC,Premier League,2012/2013,2012
+Francisco Júnior,Central Midfield,1992-01-18,20,Guinea-Bissau,Everton FC,Premier League,2012/2013,2012
+Steven Pienaar,Left Winger,1982-03-17,30,South Africa,Everton FC,Premier League,2012/2013,2012
+Kevin Mirallas,Right Winger,1987-10-05,24,Belgium,Everton FC,Premier League,2012/2013,2012
+Matty Kennedy,Right Winger,1994-11-01,17,Scotland,Everton FC,Premier League,2012/2013,2012
+Steven Naismith,Second Striker,1986-09-14,25,Scotland,Everton FC,Premier League,2012/2013,2012
+Nikica Jelavic,Centre-Forward,1985-08-27,26,Croatia,Everton FC,Premier League,2012/2013,2012
+Victor Anichebe,Centre-Forward,1988-04-23,24,Nigeria,Everton FC,Premier League,2012/2013,2012
+Magaye Gueye,Centre-Forward,1990-07-06,21,Senegal,Everton FC,Premier League,2012/2013,2012
+Apostolos Vellios,Centre-Forward,1992-01-08,20,Greece,Everton FC,Premier League,2012/2013,2012
+David Stockdale,Goalkeeper,1985-09-20,26,England,Fulham FC,Premier League,2012/2013,2012
+Mark Schwarzer,Goalkeeper,1972-10-06,39,Australia,Fulham FC,Premier League,2012/2013,2012
+Neil Etheridge,Goalkeeper,1990-02-07,22,Philippines,Fulham FC,Premier League,2012/2013,2012
+Csaba Somogyi,Goalkeeper,1985-04-07,27,Hungary,Fulham FC,Premier League,2012/2013,2012
+Brede Hangeland,Centre-Back,1981-06-20,31,Norway,Fulham FC,Premier League,2012/2013,2012
+Philippe Senderos,Centre-Back,1985-02-14,27,Switzerland,Fulham FC,Premier League,2012/2013,2012
+Aaron Hughes,Centre-Back,1979-11-08,32,Northern Ireland,Fulham FC,Premier League,2012/2013,2012
+Rafik Halliche,Centre-Back,1986-09-02,25,Algeria,Fulham FC,Premier League,2012/2013,2012
+Kieran Richardson,Left-Back,1984-10-21,27,England,Fulham FC,Premier League,2012/2013,2012
+John Arne Riise,Left-Back,1980-09-24,31,Norway,Fulham FC,Premier League,2012/2013,2012
+Matthew Briggs,Left-Back,1991-03-06,21,Guyana,Fulham FC,Premier League,2012/2013,2012
+Stanislav Manolev,Right-Back,1985-12-16,26,Bulgaria,Fulham FC,Premier League,2012/2013,2012
+Sascha Riether,Right-Back,1983-03-23,29,Germany,Fulham FC,Premier League,2012/2013,2012
+Stephen Kelly,Right-Back,1983-09-06,28,Ireland,Fulham FC,Premier League,2012/2013,2012
+Jack Grimmer,Right-Back,1994-01-25,18,Scotland,Fulham FC,Premier League,2012/2013,2012
+Mahamadou Diarra,Defensive Midfield,1981-05-18,31,Mali,Fulham FC,Premier League,2012/2013,2012
+Chris Baird,Defensive Midfield,1982-02-25,30,Northern Ireland,Fulham FC,Premier League,2012/2013,2012
+Eyong Enoh,Defensive Midfield,1986-03-23,26,Cameroon,Fulham FC,Premier League,2012/2013,2012
+Emmanuel Frimpong,Defensive Midfield,1992-01-10,20,Ghana,Fulham FC,Premier League,2012/2013,2012
+Mickaël Tavares,Defensive Midfield,1982-10-25,29,Senegal,Fulham FC,Premier League,2012/2013,2012
+Mousa Dembélé,Central Midfield,1987-07-16,24,Belgium,Fulham FC,Premier League,2012/2013,2012
+Urby Emanuelson,Central Midfield,1986-06-16,26,Netherlands,Fulham FC,Premier League,2012/2013,2012
+Pajtim Kasami,Central Midfield,1992-06-02,20,Switzerland,Fulham FC,Premier League,2012/2013,2012
+Steve Sidwell,Central Midfield,1982-12-14,29,England,Fulham FC,Premier League,2012/2013,2012
+Georgios Karagounis,Central Midfield,1977-03-06,35,Greece,Fulham FC,Premier League,2012/2013,2012
+Alex Smith,Central Midfield,1991-10-31,20,England,Fulham FC,Premier League,2012/2013,2012
+Damien Duff,Right Midfield,1979-03-02,33,Ireland,Fulham FC,Premier League,2012/2013,2012
+Simon Davies,Right Midfield,1979-10-23,32,Wales,Fulham FC,Premier League,2012/2013,2012
+Alexander Kacaniklic,Left Midfield,1991-08-13,20,Sweden,Fulham FC,Premier League,2012/2013,2012
+Bryan Ruíz,Attacking Midfield,1985-08-18,26,Costa Rica,Fulham FC,Premier League,2012/2013,2012
+Kerim Frei,Left Winger,1993-11-19,18,Turkey,Fulham FC,Premier League,2012/2013,2012
+Charles Banya,Left Winger,1993-09-18,18,England,Fulham FC,Premier League,2012/2013,2012
+Ashkan Dejagah,Right Winger,1986-07-05,25,Iran,Fulham FC,Premier League,2012/2013,2012
+Dimitar Berbatov,Centre-Forward,1981-01-30,31,Bulgaria,Fulham FC,Premier League,2012/2013,2012
+Mladen Petric,Centre-Forward,1981-01-01,31,Croatia,Fulham FC,Premier League,2012/2013,2012
+Hugo Rodallega,Centre-Forward,1985-07-25,26,Colombia,Fulham FC,Premier League,2012/2013,2012
+Marcello Trotta,Centre-Forward,1992-09-29,19,Italy,Fulham FC,Premier League,2012/2013,2012
+Jussi Jääskeläinen,Goalkeeper,1975-04-19,37,Finland,West Ham United,Premier League,2012/2013,2012
+Stephen Henderson,Goalkeeper,1988-05-02,24,Ireland,West Ham United,Premier League,2012/2013,2012
+Raphael Spiegel,Goalkeeper,1992-12-19,19,Switzerland,West Ham United,Premier League,2012/2013,2012
+James Tomkins,Centre-Back,1989-03-29,23,England,West Ham United,Premier League,2012/2013,2012
+James Collins,Centre-Back,1983-08-23,28,Wales,West Ham United,Premier League,2012/2013,2012
+Winston Reid,Centre-Back,1988-07-03,23,New Zealand,West Ham United,Premier League,2012/2013,2012
+Emanuel Pogatetz,Centre-Back,1983-01-16,29,Austria,West Ham United,Premier League,2012/2013,2012
+Leo Chambers,Centre-Back,1995-08-05,16,England,West Ham United,Premier League,2012/2013,2012
+George McCartney,Left-Back,1981-04-29,31,Northern Ireland,West Ham United,Premier League,2012/2013,2012
+Dan Potts,Left-Back,1994-04-13,18,England,West Ham United,Premier League,2012/2013,2012
+Joey O'Brien,Right-Back,1986-02-17,26,Ireland,West Ham United,Premier League,2012/2013,2012
+Guy Demel,Right-Back,1981-06-13,31,Cote d'Ivoire,West Ham United,Premier League,2012/2013,2012
+Jordan Spence,Right-Back,1990-05-24,22,England,West Ham United,Premier League,2012/2013,2012
+Callum Driver,Right-Back,1992-10-23,19,England,West Ham United,Premier League,2012/2013,2012
+Alou Diarra,Defensive Midfield,1981-07-15,30,France,West Ham United,Premier League,2012/2013,2012
+Mark Noble,Central Midfield,1987-05-08,25,England,West Ham United,Premier League,2012/2013,2012
+Mohamed Diamé,Central Midfield,1987-06-14,25,Senegal,West Ham United,Premier League,2012/2013,2012
+Jack Collison,Central Midfield,1988-10-02,23,Wales,West Ham United,Premier League,2012/2013,2012
+Gary O'Neil,Central Midfield,1983-05-18,29,England,West Ham United,Premier League,2012/2013,2012
+George Moncur,Central Midfield,1993-08-18,18,England,West Ham United,Premier League,2012/2013,2012
+Sebastian Lletget,Central Midfield,1992-09-03,19,United States,West Ham United,Premier League,2012/2013,2012
+Matthew Taylor,Left Midfield,1981-11-27,30,England,West Ham United,Premier League,2012/2013,2012
+Joe Cole,Attacking Midfield,1981-11-08,30,England,West Ham United,Premier League,2012/2013,2012
+Kevin Nolan,Attacking Midfield,1982-06-24,30,England,West Ham United,Premier League,2012/2013,2012
+Ravel Morrison,Attacking Midfield,1993-02-02,19,Jamaica,West Ham United,Premier League,2012/2013,2012
+Matt Jarvis,Left Winger,1986-05-22,26,England,West Ham United,Premier League,2012/2013,2012
+Matthias Fanimo,Left Winger,1994-01-28,18,England,West Ham United,Premier League,2012/2013,2012
+Yossi Benayoun,Right Winger,1980-05-05,32,Israel,West Ham United,Premier League,2012/2013,2012
+Ricardo Vaz Tê,Right Winger,1986-10-01,25,Portugal,West Ham United,Premier League,2012/2013,2012
+Rob Hall,Right Winger,1993-10-20,18,England,West Ham United,Premier League,2012/2013,2012
+Andy Carroll,Centre-Forward,1989-01-06,23,England,West Ham United,Premier League,2012/2013,2012
+Marouane Chamakh,Centre-Forward,1984-01-10,28,Morocco,West Ham United,Premier League,2012/2013,2012
+Carlton Cole,Centre-Forward,1983-10-12,28,England,West Ham United,Premier League,2012/2013,2012
+Modibo Maïga,Centre-Forward,1987-09-03,24,Mali,West Ham United,Premier League,2012/2013,2012
+Nicky Maynard,Centre-Forward,1986-12-11,25,England,West Ham United,Premier League,2012/2013,2012
+Wellington Paulista,Centre-Forward,1984-04-22,28,Brazil,West Ham United,Premier League,2012/2013,2012
+Dylan Tombides,Centre-Forward,1994-03-08,18,Australia,West Ham United,Premier League,2012/2013,2012
+Elliot Lee,Centre-Forward,1994-12-16,17,England,West Ham United,Premier League,2012/2013,2012
+Paul McCallum,Centre-Forward,1993-07-28,18,England,West Ham United,Premier League,2012/2013,2012
+Shay Given,Goalkeeper,1976-04-20,36,Ireland,Aston Villa,Premier League,2012/2013,2012
+Brad Guzan,Goalkeeper,1984-09-09,27,United States,Aston Villa,Premier League,2012/2013,2012
+Andy Marshall,Goalkeeper,1975-04-14,37,England,Aston Villa,Premier League,2012/2013,2012
+Ron Vlaar,Centre-Back,1985-02-16,27,Netherlands,Aston Villa,Premier League,2012/2013,2012
+Richard Dunne,Centre-Back,1979-09-21,32,Ireland,Aston Villa,Premier League,2012/2013,2012
+Ciaran Clark,Centre-Back,1989-09-26,22,Ireland,Aston Villa,Premier League,2012/2013,2012
+Nathan Baker,Centre-Back,1991-04-23,21,England,Aston Villa,Premier League,2012/2013,2012
+Joe Bennett,Left-Back,1990-03-28,22,England,Aston Villa,Premier League,2012/2013,2012
+Enda Stevens,Left-Back,1990-07-09,21,Ireland,Aston Villa,Premier League,2012/2013,2012
+Derrick Williams,Left-Back,1993-01-17,19,Ireland,Aston Villa,Premier League,2012/2013,2012
+Eric Lichaj,Right-Back,1988-11-17,23,United States,Aston Villa,Premier League,2012/2013,2012
+Matthew Lowton,Right-Back,1989-06-09,23,England,Aston Villa,Premier League,2012/2013,2012
+Chris Herd,Defensive Midfield,1989-04-04,23,Australia,Aston Villa,Premier League,2012/2013,2012
+Yacouba Sylla,Defensive Midfield,1990-11-29,21,Mali,Aston Villa,Premier League,2012/2013,2012
+Ashley Westwood,Defensive Midfield,1990-04-01,22,England,Aston Villa,Premier League,2012/2013,2012
+Barry Bannan,Central Midfield,1989-12-01,22,Scotland,Aston Villa,Premier League,2012/2013,2012
+Karim El Ahmadi,Central Midfield,1985-01-27,27,Morocco,Aston Villa,Premier League,2012/2013,2012
+Fabian Delph,Central Midfield,1989-11-21,22,England,Aston Villa,Premier League,2012/2013,2012
+Gary Gardner,Central Midfield,1992-06-29,20,England,Aston Villa,Premier League,2012/2013,2012
+Daniel Johnson,Central Midfield,1992-10-08,19,Jamaica,Aston Villa,Premier League,2012/2013,2012
+Samir Carruthers,Central Midfield,1993-04-04,19,Ireland,Aston Villa,Premier League,2012/2013,2012
+Marc Albrighton,Right Midfield,1989-11-18,22,England,Aston Villa,Premier League,2012/2013,2012
+Stephen Ireland,Attacking Midfield,1986-08-22,25,Ireland,Aston Villa,Premier League,2012/2013,2012
+Brett Holman,Attacking Midfield,1984-03-27,28,Australia,Aston Villa,Premier League,2012/2013,2012
+Simon Dawkins,Left Winger,1987-12-01,24,Jamaica,Aston Villa,Premier League,2012/2013,2012
+Charles N'Zogbia,Right Winger,1986-05-28,26,France,Aston Villa,Premier League,2012/2013,2012
+Andreas Weimann,Right Winger,1991-08-05,20,Austria,Aston Villa,Premier League,2012/2013,2012
+Graham Burke,Second Striker,1993-09-21,18,Ireland,Aston Villa,Premier League,2012/2013,2012
+Darren Bent,Centre-Forward,1984-02-06,28,England,Aston Villa,Premier League,2012/2013,2012
+Gabriel Agbonlahor,Centre-Forward,1986-10-13,25,England,Aston Villa,Premier League,2012/2013,2012
+Christian Benteke,Centre-Forward,1990-12-03,21,Belgium,Aston Villa,Premier League,2012/2013,2012
+Nathan Delfouneso,Centre-Forward,1991-02-02,21,England,Aston Villa,Premier League,2012/2013,2012
+Jordan Bowery,Centre-Forward,1991-07-02,20,England,Aston Villa,Premier League,2012/2013,2012
+Asmir Begovic,Goalkeeper,1987-06-20,25,Bosnia-Herzegovina,Stoke City,Premier League,2012/2013,2012
+Jack Butland,Goalkeeper,1993-03-10,19,England,Stoke City,Premier League,2012/2013,2012
+Thomas Sörensen,Goalkeeper,1976-06-12,36,Denmark,Stoke City,Premier League,2012/2013,2012
+Carlo Nash,Goalkeeper,1973-09-13,38,England,Stoke City,Premier League,2012/2013,2012
+Robert Huth,Centre-Back,1984-08-18,27,Germany,Stoke City,Premier League,2012/2013,2012
+Ryan Shawcross,Centre-Back,1987-10-04,24,England,Stoke City,Premier League,2012/2013,2012
+Marc Wilson,Centre-Back,1987-08-17,24,Ireland,Stoke City,Premier League,2012/2013,2012
+Matthew Upson,Centre-Back,1979-04-18,33,England,Stoke City,Premier League,2012/2013,2012
+Andy Wilkinson,Right-Back,1984-08-06,27,England,Stoke City,Premier League,2012/2013,2012
+Ryan Shotton,Right-Back,1988-09-30,23,England,Stoke City,Premier League,2012/2013,2012
+Wilson Palacios,Defensive Midfield,1984-07-29,27,Honduras,Stoke City,Premier League,2012/2013,2012
+Steven Nzonzi,Defensive Midfield,1988-12-15,23,France,Stoke City,Premier League,2012/2013,2012
+Glenn Whelan,Defensive Midfield,1984-01-13,28,Ireland,Stoke City,Premier League,2012/2013,2012
+Maurice Edu,Defensive Midfield,1986-04-18,26,United States,Stoke City,Premier League,2012/2013,2012
+Geoff Cameron,Defensive Midfield,1985-07-11,26,United States,Stoke City,Premier League,2012/2013,2012
+Charlie Adam,Central Midfield,1985-12-10,26,Scotland,Stoke City,Premier League,2012/2013,2012
+Dean Whitehead,Central Midfield,1982-01-21,30,England,Stoke City,Premier League,2012/2013,2012
+Jamie Ness,Central Midfield,1991-03-02,21,Scotland,Stoke City,Premier League,2012/2013,2012
+Rory Delap,Central Midfield,1976-07-06,35,Ireland,Stoke City,Premier League,2012/2013,2012
+Florent Cuvelier,Central Midfield,1992-09-12,19,Belgium,Stoke City,Premier League,2012/2013,2012
+Matthew Etherington,Left Midfield,1981-08-14,30,England,Stoke City,Premier League,2012/2013,2012
+Brek Shea,Left Midfield,1990-02-28,22,United States,Stoke City,Premier League,2012/2013,2012
+Michael Kightly,Left Winger,1986-01-24,26,England,Stoke City,Premier League,2012/2013,2012
+Jonathan Walters,Right Winger,1983-09-20,28,Ireland,Stoke City,Premier League,2012/2013,2012
+Jermaine Pennant,Right Winger,1983-01-15,29,England,Stoke City,Premier League,2012/2013,2012
+Peter Crouch,Centre-Forward,1981-01-30,31,England,Stoke City,Premier League,2012/2013,2012
+Kenwyne Jones,Centre-Forward,1984-10-05,27,Trinidad and Tobago,Stoke City,Premier League,2012/2013,2012
+Cameron Jerome,Centre-Forward,1986-08-14,25,England,Stoke City,Premier League,2012/2013,2012
+Michael Owen,Centre-Forward,1979-12-14,32,England,Stoke City,Premier League,2012/2013,2012
+Mamady Sidibé,Centre-Forward,1979-12-18,32,Mali,Stoke City,Premier League,2012/2013,2012
+Michel Vorm,Goalkeeper,1983-10-20,28,Netherlands,Swansea City,Premier League,2012/2013,2012
+Gerhard Tremmel,Goalkeeper,1978-11-16,33,Germany,Swansea City,Premier League,2012/2013,2012
+David Cornell,Goalkeeper,1991-03-28,21,Wales,Swansea City,Premier League,2012/2013,2012
+Ashley Williams,Centre-Back,1984-08-23,27,Wales,Swansea City,Premier League,2012/2013,2012
+Chico,Centre-Back,1987-03-06,25,Spain,Swansea City,Premier League,2012/2013,2012
+Kyle Bartley,Centre-Back,1991-05-22,21,England,Swansea City,Premier League,2012/2013,2012
+Alan Tate,Centre-Back,1982-09-02,29,England,Swansea City,Premier League,2012/2013,2012
+Garry Monk,Centre-Back,1979-03-06,33,England,Swansea City,Premier League,2012/2013,2012
+Darnel Situ,Centre-Back,1992-03-18,20,France,Swansea City,Premier League,2012/2013,2012
+Neil Taylor,Left-Back,1989-02-07,23,Wales,Swansea City,Premier League,2012/2013,2012
+Ben Davies,Left-Back,1993-04-24,19,Wales,Swansea City,Premier League,2012/2013,2012
+Ángel Rangel,Right-Back,1982-10-28,29,Spain,Swansea City,Premier League,2012/2013,2012
+Dwight Tiendalli,Right-Back,1985-10-21,26,Netherlands,Swansea City,Premier League,2012/2013,2012
+Jazz Richards,Right-Back,1991-04-12,21,Wales,Swansea City,Premier League,2012/2013,2012
+Daniel Alfei,Right-Back,1992-02-23,20,Wales,Swansea City,Premier League,2012/2013,2012
+Sung-yong Ki,Defensive Midfield,1989-01-24,23,"Korea, South",Swansea City,Premier League,2012/2013,2012
+Kemy Agustien,Defensive Midfield,1986-08-20,25,Curacao,Swansea City,Premier League,2012/2013,2012
+Jonathan de Guzmán,Central Midfield,1987-09-13,24,Netherlands,Swansea City,Premier League,2012/2013,2012
+Leon Britton,Central Midfield,1982-09-16,29,England,Swansea City,Premier League,2012/2013,2012
+Mark Gower,Central Midfield,1978-10-05,33,England,Swansea City,Premier League,2012/2013,2012
+Lee Lucas,Central Midfield,1992-06-10,20,Wales,Swansea City,Premier League,2012/2013,2012
+Scott Sinclair,Left Midfield,1989-03-25,23,England,Swansea City,Premier League,2012/2013,2012
+Wayne Routledge,Left Winger,1985-01-07,27,England,Swansea City,Premier League,2012/2013,2012
+Roland Lamah,Left Winger,1987-12-31,24,Belgium,Swansea City,Premier League,2012/2013,2012
+Pablo Hernández,Right Winger,1985-04-11,27,Spain,Swansea City,Premier League,2012/2013,2012
+Nathan Dyer,Right Winger,1987-11-29,24,England,Swansea City,Premier League,2012/2013,2012
+Michu,Second Striker,1986-03-21,26,Spain,Swansea City,Premier League,2012/2013,2012
+Danny Graham,Centre-Forward,1985-08-12,26,England,Swansea City,Premier League,2012/2013,2012
+Itay Shechter,Centre-Forward,1987-02-22,25,Israel,Swansea City,Premier League,2012/2013,2012
+Leroy Lita,Centre-Forward,1984-12-28,27,England,Swansea City,Premier League,2012/2013,2012
+Stephen Dobbie,Centre-Forward,1982-12-05,29,Scotland,Swansea City,Premier League,2012/2013,2012
+Luke Moore,Centre-Forward,1986-02-13,26,England,Swansea City,Premier League,2012/2013,2012
+Rory Donnelly,Centre-Forward,1992-02-18,20,Northern Ireland,Swansea City,Premier League,2012/2013,2012
+Ben Foster,Goalkeeper,1983-04-03,29,England,West Bromwich Albion,Premier League,2012/2013,2012
+Boaz Myhill,Goalkeeper,1982-11-09,29,Wales,West Bromwich Albion,Premier League,2012/2013,2012
+Luke Daniels,Goalkeeper,1988-01-05,24,England,West Bromwich Albion,Premier League,2012/2013,2012
+Jonas Olsson,Centre-Back,1983-03-10,29,Sweden,West Bromwich Albion,Premier League,2012/2013,2012
+Liam Ridgewell,Centre-Back,1984-07-21,27,England,West Bromwich Albion,Premier League,2012/2013,2012
+Gabriel Tamas,Centre-Back,1983-11-09,28,Romania,West Bromwich Albion,Premier League,2012/2013,2012
+Gonzalo Jara,Centre-Back,1985-08-29,26,Chile,West Bromwich Albion,Premier League,2012/2013,2012
+Gareth McAuley,Centre-Back,1979-12-05,32,Northern Ireland,West Bromwich Albion,Premier League,2012/2013,2012
+Craig Dawson,Centre-Back,1990-05-06,22,England,West Bromwich Albion,Premier League,2012/2013,2012
+Donervon Daniels,Centre-Back,1993-11-24,18,England,West Bromwich Albion,Premier League,2012/2013,2012
+Goran Popov,Left-Back,1984-10-02,27,North Macedonia,West Bromwich Albion,Premier League,2012/2013,2012
+Steven Reid,Right-Back,1981-03-10,31,Ireland,West Bromwich Albion,Premier League,2012/2013,2012
+Billy Jones,Right-Back,1987-03-24,25,England,West Bromwich Albion,Premier League,2012/2013,2012
+James Hurst,Right-Back,1992-01-31,20,England,West Bromwich Albion,Premier League,2012/2013,2012
+Youssouf Mulumbu,Defensive Midfield,1987-01-25,25,DR Congo,West Bromwich Albion,Premier League,2012/2013,2012
+Claudio Yacob,Defensive Midfield,1987-07-18,24,Argentina,West Bromwich Albion,Premier League,2012/2013,2012
+George Thorne,Defensive Midfield,1993-01-04,19,England,West Bromwich Albion,Premier League,2012/2013,2012
+James Morrison,Central Midfield,1986-05-25,26,Scotland,West Bromwich Albion,Premier League,2012/2013,2012
+Graham Dorrans,Central Midfield,1987-05-05,25,Scotland,West Bromwich Albion,Premier League,2012/2013,2012
+Zoltán Gera,Central Midfield,1979-04-22,33,Hungary,West Bromwich Albion,Premier League,2012/2013,2012
+Scott Allan,Central Midfield,1991-11-28,20,Scotland,West Bromwich Albion,Premier League,2012/2013,2012
+Chris Brunt,Left Midfield,1984-12-14,27,Northern Ireland,West Bromwich Albion,Premier League,2012/2013,2012
+Yassine El Ghanassy,Left Winger,1990-07-12,21,Belgium,West Bromwich Albion,Premier League,2012/2013,2012
+Jerome Thomas,Left Winger,1983-03-23,29,England,West Bromwich Albion,Premier League,2012/2013,2012
+Peter Odemwingie,Right Winger,1981-07-15,30,Nigeria,West Bromwich Albion,Premier League,2012/2013,2012
+Isaiah Brown,Second Striker,1997-01-07,15,England,West Bromwich Albion,Premier League,2012/2013,2012
+Romelu Lukaku,Centre-Forward,1993-05-13,19,Belgium,West Bromwich Albion,Premier League,2012/2013,2012
+Shane Long,Centre-Forward,1987-01-22,25,Ireland,West Bromwich Albion,Premier League,2012/2013,2012
+Markus Rosenberg,Centre-Forward,1982-09-27,29,Sweden,West Bromwich Albion,Premier League,2012/2013,2012
+Marc-Antoine Fortuné,Centre-Forward,1981-07-02,30,French Guiana,West Bromwich Albion,Premier League,2012/2013,2012
+Saido Berahino,Centre-Forward,1993-08-04,18,Burundi,West Bromwich Albion,Premier League,2012/2013,2012
+Kemar Roofe,Centre-Forward,1993-01-06,19,Jamaica,West Bromwich Albion,Premier League,2012/2013,2012
+Ali Al-Habsi,Goalkeeper,1981-12-30,30,Oman,Wigan Athletic,Premier League,2012/2013,2012
+Joel Robles,Goalkeeper,1990-06-17,22,Spain,Wigan Athletic,Premier League,2012/2013,2012
+Lee Nicholls,Goalkeeper,1992-10-05,19,England,Wigan Athletic,Premier League,2012/2013,2012
+Mike Pollitt,Goalkeeper,1972-02-29,40,England,Wigan Athletic,Premier League,2012/2013,2012
+Iván Ramis,Centre-Back,1984-10-25,27,Spain,Wigan Athletic,Premier League,2012/2013,2012
+Antolín Alcaraz,Centre-Back,1982-07-30,29,Paraguay,Wigan Athletic,Premier League,2012/2013,2012
+Gary Caldwell,Centre-Back,1982-04-12,30,Scotland,Wigan Athletic,Premier League,2012/2013,2012
+Paul Scharner,Centre-Back,1980-03-11,32,Austria,Wigan Athletic,Premier League,2012/2013,2012
+Adrián López,Centre-Back,1987-02-25,25,Spain,Wigan Athletic,Premier League,2012/2013,2012
+Román Golobart,Centre-Back,1992-03-21,20,Spain,Wigan Athletic,Premier League,2012/2013,2012
+Rob Kiernan,Centre-Back,1991-01-13,21,Ireland,Wigan Athletic,Premier League,2012/2013,2012
+Jean Beausejour,Left-Back,1984-06-01,28,Chile,Wigan Athletic,Premier League,2012/2013,2012
+Maynor Figueroa,Left-Back,1983-05-02,29,Honduras,Wigan Athletic,Premier League,2012/2013,2012
+Jordan Mustoe,Left-Back,1991-01-28,21,England,Wigan Athletic,Premier League,2012/2013,2012
+Ronnie Stam,Right-Back,1984-06-18,28,Netherlands,Wigan Athletic,Premier League,2012/2013,2012
+Emmerson Boyce,Right-Back,1979-09-24,32,Barbados,Wigan Athletic,Premier League,2012/2013,2012
+Edu Campabadal,Right-Back,1993-01-26,19,Spain,Wigan Athletic,Premier League,2012/2013,2012
+Adam Buxton,Right-Back,1992-05-12,20,England,Wigan Athletic,Premier League,2012/2013,2012
+James McCarthy,Central Midfield,1990-11-12,21,Ireland,Wigan Athletic,Premier League,2012/2013,2012
+Ben Watson,Central Midfield,1985-07-09,26,England,Wigan Athletic,Premier League,2012/2013,2012
+Jordi Gómez,Central Midfield,1985-05-24,27,Spain,Wigan Athletic,Premier League,2012/2013,2012
+James McArthur,Central Midfield,1987-10-07,24,Scotland,Wigan Athletic,Premier League,2012/2013,2012
+David Jones,Central Midfield,1984-11-04,27,England,Wigan Athletic,Premier League,2012/2013,2012
+Fraser Fyvie,Central Midfield,1993-03-27,19,Scotland,Wigan Athletic,Premier League,2012/2013,2012
+Róger Espinoza,Central Midfield,1986-10-25,25,Honduras,Wigan Athletic,Premier League,2012/2013,2012
+Shaun Maloney,Attacking Midfield,1983-01-24,29,Scotland,Wigan Athletic,Premier League,2012/2013,2012
+Daniel Redmond,Attacking Midfield,1991-03-02,21,England,Wigan Athletic,Premier League,2012/2013,2012
+Albert Crusat,Left Winger,1982-05-13,30,Spain,Wigan Athletic,Premier League,2012/2013,2012
+Victor Moses,Right Winger,1990-12-12,21,Nigeria,Wigan Athletic,Premier League,2012/2013,2012
+Ryo Miyaichi,Right Winger,1992-12-14,19,Japan,Wigan Athletic,Premier League,2012/2013,2012
+Callum McManaman,Right Winger,1991-04-25,21,England,Wigan Athletic,Premier League,2012/2013,2012
+Filip Orsula,Second Striker,1993-02-25,19,Slovakia,Wigan Athletic,Premier League,2012/2013,2012
+Arouna Koné,Centre-Forward,1983-11-11,28,Cote d'Ivoire,Wigan Athletic,Premier League,2012/2013,2012
+Mauro Boselli,Centre-Forward,1985-05-22,27,Argentina,Wigan Athletic,Premier League,2012/2013,2012
+Franco Di Santo,Centre-Forward,1989-04-07,23,Argentina,Wigan Athletic,Premier League,2012/2013,2012
+Ángelo Henríquez,Centre-Forward,1994-04-13,18,Chile,Wigan Athletic,Premier League,2012/2013,2012
+Nouha Dicko,Centre-Forward,1992-05-14,20,Mali,Wigan Athletic,Premier League,2012/2013,2012
+John Ruddy,Goalkeeper,1986-10-24,25,England,Norwich City,Premier League,2012/2013,2012
+Lee Camp,Goalkeeper,1984-08-22,27,Northern Ireland,Norwich City,Premier League,2012/2013,2012
+Mark Bunn,Goalkeeper,1984-11-16,27,England,Norwich City,Premier League,2012/2013,2012
+Declan Rudd,Goalkeeper,1991-01-16,21,England,Norwich City,Premier League,2012/2013,2012
+Jed Steer,Goalkeeper,1992-09-23,19,England,Norwich City,Premier League,2012/2013,2012
+Sébastien Bassong,Centre-Back,1986-07-09,25,Cameroon,Norwich City,Premier League,2012/2013,2012
+Michael Turner,Centre-Back,1983-11-09,28,England,Norwich City,Premier League,2012/2013,2012
+Ryan Bennett,Centre-Back,1990-03-06,22,England,Norwich City,Premier League,2012/2013,2012
+Russell Martin,Centre-Back,1986-01-04,26,Scotland,Norwich City,Premier League,2012/2013,2012
+Leon Barnett,Centre-Back,1985-11-30,26,England,Norwich City,Premier League,2012/2013,2012
+Elliott Ward,Centre-Back,1985-01-19,27,England,Norwich City,Premier League,2012/2013,2012
+Marc Tierney,Left-Back,1985-08-23,26,England,Norwich City,Premier League,2012/2013,2012
+Javier Garrido,Left-Back,1985-03-15,27,Spain,Norwich City,Premier League,2012/2013,2012
+Steven Whittaker,Right-Back,1984-06-16,28,Scotland,Norwich City,Premier League,2012/2013,2012
+Alexander Tettey,Defensive Midfield,1986-04-04,26,Norway,Norwich City,Premier League,2012/2013,2012
+Korey Smith,Defensive Midfield,1991-01-31,21,England,Norwich City,Premier League,2012/2013,2012
+Jonathan Howson,Central Midfield,1988-05-21,24,England,Norwich City,Premier League,2012/2013,2012
+Andrew Surman,Central Midfield,1986-08-20,25,England,Norwich City,Premier League,2012/2013,2012
+Bradley Johnson,Central Midfield,1987-04-28,25,England,Norwich City,Premier League,2012/2013,2012
+David Fox,Central Midfield,1983-12-13,28,England,Norwich City,Premier League,2012/2013,2012
+Jacob Butterfield,Central Midfield,1990-06-10,22,England,Norwich City,Premier League,2012/2013,2012
+Simon Lappin,Central Midfield,1983-01-25,29,Scotland,Norwich City,Premier League,2012/2013,2012
+Elliott Bennett,Right Midfield,1988-12-18,23,Jamaica,Norwich City,Premier League,2012/2013,2012
+George Francomb,Right Midfield,1991-09-08,20,England,Norwich City,Premier League,2012/2013,2012
+Wesley Hoolahan,Attacking Midfield,1982-05-20,30,Ireland,Norwich City,Premier League,2012/2013,2012
+Anthony Pilkington,Left Winger,1988-06-06,24,Ireland,Norwich City,Premier League,2012/2013,2012
+Josh Murphy,Left Winger,1995-02-24,17,England,Norwich City,Premier League,2012/2013,2012
+Robert Snodgrass,Right Winger,1987-09-07,24,Scotland,Norwich City,Premier League,2012/2013,2012
+Grant Holt,Centre-Forward,1981-04-12,31,England,Norwich City,Premier League,2012/2013,2012
+Steve Morison,Centre-Forward,1983-08-29,28,Wales,Norwich City,Premier League,2012/2013,2012
+James Vaughan,Centre-Forward,1988-07-14,23,England,Norwich City,Premier League,2012/2013,2012
+Simeon Jackson,Centre-Forward,1987-03-28,25,Canada,Norwich City,Premier League,2012/2013,2012
+Luciano Becchio,Centre-Forward,1983-12-28,28,Argentina,Norwich City,Premier League,2012/2013,2012
+Chris Martin,Centre-Forward,1988-11-04,23,Scotland,Norwich City,Premier League,2012/2013,2012
+Kei Kamara,Centre-Forward,1984-09-01,27,Sierra Leone,Norwich City,Premier League,2012/2013,2012
+Harry Kane,Centre-Forward,1993-07-28,18,England,Norwich City,Premier League,2012/2013,2012
+Artur Boruc,Goalkeeper,1980-02-20,32,Poland,Southampton FC,Premier League,2012/2013,2012
+Kelvin Davis,Goalkeeper,1976-09-29,35,England,Southampton FC,Premier League,2012/2013,2012
+Tommy Forecast,Goalkeeper,1986-10-15,25,England,Southampton FC,Premier League,2012/2013,2012
+Paulo Gazzaniga,Goalkeeper,1992-01-02,20,Argentina,Southampton FC,Premier League,2012/2013,2012
+José Fonte,Centre-Back,1983-12-22,28,Portugal,Southampton FC,Premier League,2012/2013,2012
+Jos Hooiveld,Centre-Back,1983-04-22,29,Netherlands,Southampton FC,Premier League,2012/2013,2012
+Vegard Forren,Centre-Back,1988-02-16,24,Norway,Southampton FC,Premier League,2012/2013,2012
+Maya Yoshida,Centre-Back,1988-08-24,23,Japan,Southampton FC,Premier League,2012/2013,2012
+Danny Seaborne,Centre-Back,1987-03-05,25,England,Southampton FC,Premier League,2012/2013,2012
+Jack Stephens,Centre-Back,1994-01-27,18,England,Southampton FC,Premier League,2012/2013,2012
+Calum Chambers,Centre-Back,1995-01-20,17,England,Southampton FC,Premier League,2012/2013,2012
+Danny Fox,Left-Back,1986-05-29,26,Scotland,Southampton FC,Premier League,2012/2013,2012
+Luke Shaw,Left-Back,1995-07-12,16,England,Southampton FC,Premier League,2012/2013,2012
+Nathaniel Clyne,Right-Back,1991-04-05,21,England,Southampton FC,Premier League,2012/2013,2012
+Frazer Richardson,Right-Back,1982-10-29,29,England,Southampton FC,Premier League,2012/2013,2012
+Danny Butterfield,Right-Back,1979-11-21,32,England,Southampton FC,Premier League,2012/2013,2012
+Morgan Schneiderlin,Defensive Midfield,1989-11-08,22,France,Southampton FC,Premier League,2012/2013,2012
+Jack Cork,Defensive Midfield,1989-06-25,23,England,Southampton FC,Premier League,2012/2013,2012
+Andy Robinson,Defensive Midfield,1992-10-16,19,England,Southampton FC,Premier League,2012/2013,2012
+Dominic Gape,Defensive Midfield,1994-09-09,17,England,Southampton FC,Premier League,2012/2013,2012
+Steven Davis,Central Midfield,1985-01-01,27,Northern Ireland,Southampton FC,Premier League,2012/2013,2012
+Dean Hammond,Central Midfield,1983-03-07,29,England,Southampton FC,Premier League,2012/2013,2012
+Richard Chaplow,Central Midfield,1985-02-02,27,England,Southampton FC,Premier League,2012/2013,2012
+James Ward-Prowse,Central Midfield,1994-11-01,17,England,Southampton FC,Premier League,2012/2013,2012
+Corby Moore,Central Midfield,1993-11-21,18,England,Southampton FC,Premier League,2012/2013,2012
+Gastón Ramírez,Attacking Midfield,1990-12-02,21,Uruguay,Southampton FC,Premier League,2012/2013,2012
+Adam Lallana,Attacking Midfield,1988-05-10,24,England,Southampton FC,Premier League,2012/2013,2012
+Guly,Attacking Midfield,1981-12-31,30,Brazil,Southampton FC,Premier League,2012/2013,2012
+Jason Puncheon,Attacking Midfield,1986-06-26,26,England,Southampton FC,Premier League,2012/2013,2012
+Ben Reeves,Attacking Midfield,1991-11-19,20,Northern Ireland,Southampton FC,Premier League,2012/2013,2012
+Steve De Ridder,Left Winger,1987-02-25,25,Belgium,Southampton FC,Premier League,2012/2013,2012
+Lloyd Isgrove,Left Winger,1993-01-12,19,Wales,Southampton FC,Premier League,2012/2013,2012
+Sam Hoskins,Second Striker,1993-02-04,19,England,Southampton FC,Premier League,2012/2013,2012
+Jake Sinclair,Second Striker,1994-11-29,17,England,Southampton FC,Premier League,2012/2013,2012
+Emmanuel Mayuka,Centre-Forward,1990-11-21,21,Zambia,Southampton FC,Premier League,2012/2013,2012
+Jay Rodríguez,Centre-Forward,1989-07-29,22,England,Southampton FC,Premier League,2012/2013,2012
+Billy Sharp,Centre-Forward,1986-02-05,26,England,Southampton FC,Premier League,2012/2013,2012
+Rickie Lambert,Centre-Forward,1982-02-16,30,England,Southampton FC,Premier League,2012/2013,2012
+Tadanari Lee,Centre-Forward,1985-12-19,26,Japan,Southampton FC,Premier League,2012/2013,2012
+Lee Barnard,Centre-Forward,1984-07-18,27,England,Southampton FC,Premier League,2012/2013,2012
+Adam Federici,Goalkeeper,1985-01-31,27,Australia,Reading FC,Premier League,2012/2013,2012
+Stuart Taylor,Goalkeeper,1980-11-28,31,England,Reading FC,Premier League,2012/2013,2012
+Alex McCarthy,Goalkeeper,1989-12-03,22,England,Reading FC,Premier League,2012/2013,2012
+Mikkel Andersen,Goalkeeper,1988-12-17,23,Denmark,Reading FC,Premier League,2012/2013,2012
+Jonathan Henly,Goalkeeper,1994-06-07,18,Scotland,Reading FC,Premier League,2012/2013,2012
+Daniel Carriço,Centre-Back,1988-08-04,23,Portugal,Reading FC,Premier League,2012/2013,2012
+Adrian Mariappa,Centre-Back,1986-10-03,25,Jamaica,Reading FC,Premier League,2012/2013,2012
+Alex Pearce,Centre-Back,1988-11-09,23,Ireland,Reading FC,Premier League,2012/2013,2012
+Kaspars Gorkss,Centre-Back,1981-11-06,30,Latvia,Reading FC,Premier League,2012/2013,2012
+Sean Morrison,Centre-Back,1991-01-08,21,England,Reading FC,Premier League,2012/2013,2012
+Nicky Shorey,Left-Back,1981-02-19,31,England,Reading FC,Premier League,2012/2013,2012
+Joseph Mills,Left-Back,1989-10-30,22,England,Reading FC,Premier League,2012/2013,2012
+Ian Harte,Left-Back,1977-08-31,34,Ireland,Reading FC,Premier League,2012/2013,2012
+Jordan Obita,Left-Back,1993-12-08,18,England,Reading FC,Premier League,2012/2013,2012
+Stephen Kelly,Right-Back,1983-09-06,28,Ireland,Reading FC,Premier League,2012/2013,2012
+Chris Gunter,Right-Back,1989-07-21,22,Wales,Reading FC,Premier League,2012/2013,2012
+Shaun Cummings,Right-Back,1989-02-25,23,Jamaica,Reading FC,Premier League,2012/2013,2012
+Mikele Leigertwood,Defensive Midfield,1982-11-12,29,Antigua and Barbuda,Reading FC,Premier League,2012/2013,2012
+Brynjar Gunnarsson,Defensive Midfield,1975-10-16,36,Iceland,Reading FC,Premier League,2012/2013,2012
+Danny Guthrie,Central Midfield,1987-04-18,25,England,Reading FC,Premier League,2012/2013,2012
+Jem Karacan,Central Midfield,1989-02-21,23,Turkey,Reading FC,Premier League,2012/2013,2012
+Hope Akpan,Central Midfield,1991-08-14,20,Nigeria,Reading FC,Premier League,2012/2013,2012
+Jay Tabb,Left Midfield,1984-02-21,28,Ireland,Reading FC,Premier League,2012/2013,2012
+Jobi McAnuff,Left Winger,1981-11-09,30,Jamaica,Reading FC,Premier League,2012/2013,2012
+Hal Robson-Kanu,Left Winger,1989-05-21,23,Wales,Reading FC,Premier League,2012/2013,2012
+Jimmy Kébé,Right Winger,1984-01-19,28,Mali,Reading FC,Premier League,2012/2013,2012
+Garath McCleary,Right Winger,1987-05-15,25,Jamaica,Reading FC,Premier League,2012/2013,2012
+Nick Blackman,Right Winger,1989-11-11,22,England,Reading FC,Premier League,2012/2013,2012
+Pavel Pogrebnyak,Centre-Forward,1983-11-08,28,Russia,Reading FC,Premier League,2012/2013,2012
+Noel Hunt,Centre-Forward,1982-12-26,29,Ireland,Reading FC,Premier League,2012/2013,2012
+Adam Le Fondre,Centre-Forward,1986-12-02,25,England,Reading FC,Premier League,2012/2013,2012
+Simon Church,Centre-Forward,1988-12-10,23,Wales,Reading FC,Premier League,2012/2013,2012
+Jason Roberts,Centre-Forward,1978-01-25,34,Grenada,Reading FC,Premier League,2012/2013,2012
+Gozie Ugwu,Centre-Forward,1993-04-22,19,England,Reading FC,Premier League,2012/2013,2012
+Dominic Samuel,Centre-Forward,1994-04-01,18,England,Reading FC,Premier League,2012/2013,2012

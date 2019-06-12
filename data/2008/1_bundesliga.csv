@@ -1,0 +1,601 @@
+player_name,position,date_of_birth,age,nationality,club_name,league_name,season,year
+Michael Rensing,Goalkeeper,1984-05-14,24,Germany,Bayern Munich,Bundesliga,2008/2009,2008
+Hans Jörg Butt,Goalkeeper,1974-05-28,34,Germany,Bayern Munich,Bundesliga,2008/2009,2008
+Thomas Kraft,Goalkeeper,1988-07-22,19,Germany,Bayern Munich,Bundesliga,2008/2009,2008
+Lúcio,Centre-Back,1978-05-08,30,Brazil,Bayern Munich,Bundesliga,2008/2009,2008
+Martín Demichelis,Centre-Back,1980-12-20,27,Argentina,Bayern Munich,Bundesliga,2008/2009,2008
+Breno,Centre-Back,1989-10-13,18,Brazil,Bayern Munich,Bundesliga,2008/2009,2008
+Daniel Van Buyten,Centre-Back,1978-02-07,30,Belgium,Bayern Munich,Bundesliga,2008/2009,2008
+Georg Niedermeier,Centre-Back,1986-02-26,22,Germany,Bayern Munich,Bundesliga,2008/2009,2008
+Holger Badstuber,Centre-Back,1989-03-13,19,Germany,Bayern Munich,Bundesliga,2008/2009,2008
+Marcell Jansen,Left-Back,1985-11-04,22,Germany,Bayern Munich,Bundesliga,2008/2009,2008
+Philipp Lahm,Right-Back,1983-11-11,24,Germany,Bayern Munich,Bundesliga,2008/2009,2008
+Willy Sagnol,Right-Back,1977-03-18,31,France,Bayern Munich,Bundesliga,2008/2009,2008
+Massimo Oddo,Right-Back,1976-06-14,32,Italy,Bayern Munich,Bundesliga,2008/2009,2008
+Christian Lell,Right-Back,1984-08-29,23,Germany,Bayern Munich,Bundesliga,2008/2009,2008
+Mark van Bommel,Defensive Midfield,1977-04-22,31,Netherlands,Bayern Munich,Bundesliga,2008/2009,2008
+Andreas Ottl,Defensive Midfield,1985-03-01,23,Germany,Bayern Munich,Bundesliga,2008/2009,2008
+Bastian Schweinsteiger,Central Midfield,1984-08-01,23,Germany,Bayern Munich,Bundesliga,2008/2009,2008
+Tim Borowski,Central Midfield,1980-05-02,28,Germany,Bayern Munich,Bundesliga,2008/2009,2008
+José Sosa,Central Midfield,1985-06-19,23,Argentina,Bayern Munich,Bundesliga,2008/2009,2008
+Toni Kroos,Central Midfield,1990-01-04,18,Germany,Bayern Munich,Bundesliga,2008/2009,2008
+Hamit Altintop,Right Midfield,1982-12-08,25,Turkey,Bayern Munich,Bundesliga,2008/2009,2008
+Zé Roberto,Left Midfield,1974-07-06,33,Brazil,Bayern Munich,Bundesliga,2008/2009,2008
+Franck Ribéry,Left Winger,1983-04-07,25,France,Bayern Munich,Bundesliga,2008/2009,2008
+Lukas Podolski,Second Striker,1985-06-04,23,Germany,Bayern Munich,Bundesliga,2008/2009,2008
+Landon Donovan,Second Striker,1982-03-04,26,United States,Bayern Munich,Bundesliga,2008/2009,2008
+Thomas Müller,Second Striker,1989-09-13,18,Germany,Bayern Munich,Bundesliga,2008/2009,2008
+Luca Toni,Centre-Forward,1977-05-26,31,Italy,Bayern Munich,Bundesliga,2008/2009,2008
+Miroslav Klose,Centre-Forward,1978-06-09,30,Germany,Bayern Munich,Bundesliga,2008/2009,2008
+Deniz Yilmaz,Centre-Forward,1988-02-26,20,Azerbaijan,Bayern Munich,Bundesliga,2008/2009,2008
+Tim Wiese,Goalkeeper,1981-12-17,26,Germany,SV Werder Bremen,Bundesliga,2008/2009,2008
+Christian Vander,Goalkeeper,1980-10-24,27,Germany,SV Werder Bremen,Bundesliga,2008/2009,2008
+Nico Pellatz,Goalkeeper,1986-07-08,21,Germany,SV Werder Bremen,Bundesliga,2008/2009,2008
+Sebastian Mielitz,Goalkeeper,1989-07-18,18,Germany,SV Werder Bremen,Bundesliga,2008/2009,2008
+Per Mertesacker,Centre-Back,1984-09-29,23,Germany,SV Werder Bremen,Bundesliga,2008/2009,2008
+Naldo,Centre-Back,1982-09-10,25,Brazil,SV Werder Bremen,Bundesliga,2008/2009,2008
+Petri Pasanen,Centre-Back,1980-09-24,27,Finland,SV Werder Bremen,Bundesliga,2008/2009,2008
+Sebastian Prödl,Centre-Back,1987-06-21,21,Austria,SV Werder Bremen,Bundesliga,2008/2009,2008
+Dusko Tosic,Centre-Back,1985-01-19,23,Serbia,SV Werder Bremen,Bundesliga,2008/2009,2008
+Niklas Andersen,Centre-Back,1988-08-04,19,Germany,SV Werder Bremen,Bundesliga,2008/2009,2008
+Sebastian Boenisch,Left-Back,1987-02-01,21,Poland,SV Werder Bremen,Bundesliga,2008/2009,2008
+Fabrice Begeorgi,Left-Back,1987-04-20,21,France,SV Werder Bremen,Bundesliga,2008/2009,2008
+Timo Perthel,Left-Back,1989-02-11,19,Germany,SV Werder Bremen,Bundesliga,2008/2009,2008
+Torsten Frings,Defensive Midfield,1976-11-22,31,Germany,SV Werder Bremen,Bundesliga,2008/2009,2008
+Frank Baumann,Defensive Midfield,1975-10-29,32,Germany,SV Werder Bremen,Bundesliga,2008/2009,2008
+Jurica Vranjes,Defensive Midfield,1980-01-31,28,Croatia,SV Werder Bremen,Bundesliga,2008/2009,2008
+Alexandros Tziolis,Defensive Midfield,1985-02-13,23,Greece,SV Werder Bremen,Bundesliga,2008/2009,2008
+Peter Niemeyer,Defensive Midfield,1983-11-22,24,Germany,SV Werder Bremen,Bundesliga,2008/2009,2008
+José-Alex Ikeng,Defensive Midfield,1988-01-30,20,Germany,SV Werder Bremen,Bundesliga,2008/2009,2008
+Philipp Bargfrede,Defensive Midfield,1989-03-03,19,Germany,SV Werder Bremen,Bundesliga,2008/2009,2008
+Clemens Fritz,Central Midfield,1980-12-07,27,Germany,SV Werder Bremen,Bundesliga,2008/2009,2008
+Daniel Jensen,Central Midfield,1979-06-25,29,Denmark,SV Werder Bremen,Bundesliga,2008/2009,2008
+Diego,Attacking Midfield,1985-02-28,23,Brazil,SV Werder Bremen,Bundesliga,2008/2009,2008
+Mesut Özil,Attacking Midfield,1988-10-15,19,Germany,SV Werder Bremen,Bundesliga,2008/2009,2008
+Aaron Hunt,Attacking Midfield,1986-09-04,21,Germany,SV Werder Bremen,Bundesliga,2008/2009,2008
+Said Husejinovic,Attacking Midfield,1988-05-17,20,Bosnia-Herzegovina,SV Werder Bremen,Bundesliga,2008/2009,2008
+Kevin Artmann,Attacking Midfield,1986-04-21,22,Germany,SV Werder Bremen,Bundesliga,2008/2009,2008
+Markus Rosenberg,Centre-Forward,1982-09-27,25,Sweden,SV Werder Bremen,Bundesliga,2008/2009,2008
+Claudio Pizarro,Centre-Forward,1978-10-03,29,Peru,SV Werder Bremen,Bundesliga,2008/2009,2008
+Hugo Almeida,Centre-Forward,1984-05-23,24,Portugal,SV Werder Bremen,Bundesliga,2008/2009,2008
+Boubacar Sanogo,Centre-Forward,1982-12-17,25,Cote d'Ivoire,SV Werder Bremen,Bundesliga,2008/2009,2008
+Martin Harnik,Centre-Forward,1987-06-10,21,Austria,SV Werder Bremen,Bundesliga,2008/2009,2008
+Max Kruse,Centre-Forward,1988-03-19,20,Germany,SV Werder Bremen,Bundesliga,2008/2009,2008
+Torsten Oehrl,Centre-Forward,1986-01-07,22,Germany,SV Werder Bremen,Bundesliga,2008/2009,2008
+Márkó Futács,Centre-Forward,1990-02-22,18,Hungary,SV Werder Bremen,Bundesliga,2008/2009,2008
+Manuel Neuer,Goalkeeper,1986-03-27,22,Germany,FC Schalke 04,Bundesliga,2008/2009,2008
+Mathias Schober,Goalkeeper,1976-04-08,32,Germany,FC Schalke 04,Bundesliga,2008/2009,2008
+Ralf Fährmann,Goalkeeper,1988-09-27,19,Germany,FC Schalke 04,Bundesliga,2008/2009,2008
+Mohamed Amsif,Goalkeeper,1989-02-07,19,Morocco,FC Schalke 04,Bundesliga,2008/2009,2008
+Marcelo Bordon,Centre-Back,1976-01-07,32,Brazil,FC Schalke 04,Bundesliga,2008/2009,2008
+Heiko Westermann,Centre-Back,1983-08-14,24,Germany,FC Schalke 04,Bundesliga,2008/2009,2008
+Mladen Krstajic,Centre-Back,1974-03-04,34,Serbia,FC Schalke 04,Bundesliga,2008/2009,2008
+Benedikt Höwedes,Centre-Back,1988-02-29,20,Germany,FC Schalke 04,Bundesliga,2008/2009,2008
+Carlos Zambrano,Centre-Back,1989-07-10,18,Peru,FC Schalke 04,Bundesliga,2008/2009,2008
+Philipp Kraska,Centre-Back,1989-01-22,19,Germany,FC Schalke 04,Bundesliga,2008/2009,2008
+Joel Matip,Centre-Back,1991-08-08,16,Cameroon,FC Schalke 04,Bundesliga,2008/2009,2008
+Christian Pander,Left-Back,1983-08-28,24,Germany,FC Schalke 04,Bundesliga,2008/2009,2008
+Rafinha,Right-Back,1985-09-07,22,Brazil,FC Schalke 04,Bundesliga,2008/2009,2008
+Marvin Pachan,Right-Back,1990-04-11,18,Germany,FC Schalke 04,Bundesliga,2008/2009,2008
+Fabian Ernst,Defensive Midfield,1979-05-30,29,Germany,FC Schalke 04,Bundesliga,2008/2009,2008
+Jermaine Jones,Defensive Midfield,1981-11-03,26,United States,FC Schalke 04,Bundesliga,2008/2009,2008
+Orlando Engelaar,Defensive Midfield,1979-08-24,28,Netherlands,FC Schalke 04,Bundesliga,2008/2009,2008
+Markus Heppke,Defensive Midfield,1986-04-11,22,Germany,FC Schalke 04,Bundesliga,2008/2009,2008
+Ivan Rakitic,Central Midfield,1988-03-10,20,Croatia,FC Schalke 04,Bundesliga,2008/2009,2008
+Carlos Grossmüller,Central Midfield,1983-05-04,25,Uruguay,FC Schalke 04,Bundesliga,2008/2009,2008
+Danny Latza,Central Midfield,1989-12-07,18,Germany,FC Schalke 04,Bundesliga,2008/2009,2008
+Gustavo Varela,Right Midfield,1978-05-14,30,Uruguay,FC Schalke 04,Bundesliga,2008/2009,2008
+Levan Kobiashvili,Left Midfield,1977-07-10,30,Georgia,FC Schalke 04,Bundesliga,2008/2009,2008
+Albert Streit,Attacking Midfield,1980-03-28,28,Germany,FC Schalke 04,Bundesliga,2008/2009,2008
+Halil Altintop,Attacking Midfield,1982-12-08,25,Turkey,FC Schalke 04,Bundesliga,2008/2009,2008
+Zé Roberto,Attacking Midfield,1980-12-09,27,Brazil,FC Schalke 04,Bundesliga,2008/2009,2008
+Predrag Stevanovic,Attacking Midfield,1991-03-03,17,Serbia,FC Schalke 04,Bundesliga,2008/2009,2008
+Levan Kenia,Attacking Midfield,1990-10-18,17,Georgia,FC Schalke 04,Bundesliga,2008/2009,2008
+Vicente Sánchez,Left Winger,1979-12-07,28,Uruguay,FC Schalke 04,Bundesliga,2008/2009,2008
+Jefferson Farfán,Right Winger,1984-10-26,23,Peru,FC Schalke 04,Bundesliga,2008/2009,2008
+Kevin Kuranyi,Centre-Forward,1982-03-02,26,Germany,FC Schalke 04,Bundesliga,2008/2009,2008
+Gerald Asamoah,Centre-Forward,1978-10-03,29,Germany,FC Schalke 04,Bundesliga,2008/2009,2008
+Peter Lövenkrands,Centre-Forward,1980-01-29,28,Denmark,FC Schalke 04,Bundesliga,2008/2009,2008
+Frank Rost,Goalkeeper,1973-06-30,35,Germany,Hamburger SV,Bundesliga,2008/2009,2008
+Khalid Sinouh,Goalkeeper,1975-05-02,33,Morocco,Hamburger SV,Bundesliga,2008/2009,2008
+Wolfgang Hesl,Goalkeeper,1986-01-13,22,Germany,Hamburger SV,Bundesliga,2008/2009,2008
+Raphael Wolf,Goalkeeper,1988-06-06,20,Germany,Hamburger SV,Bundesliga,2008/2009,2008
+Joris Mathijsen,Centre-Back,1980-04-05,28,Netherlands,Hamburger SV,Bundesliga,2008/2009,2008
+Vincent Kompany,Centre-Back,1986-04-10,22,Belgium,Hamburger SV,Bundesliga,2008/2009,2008
+Jérôme Boateng,Centre-Back,1988-09-03,19,Germany,Hamburger SV,Bundesliga,2008/2009,2008
+Alex Silva,Centre-Back,1985-03-10,23,Brazil,Hamburger SV,Bundesliga,2008/2009,2008
+Bastian Reinhardt,Centre-Back,1975-11-19,32,Germany,Hamburger SV,Bundesliga,2008/2009,2008
+Michael Gravgaard,Centre-Back,1978-04-03,30,Denmark,Hamburger SV,Bundesliga,2008/2009,2008
+Kai-Fabian Schulz,Centre-Back,1990-03-12,18,Germany,Hamburger SV,Bundesliga,2008/2009,2008
+Marcell Jansen,Left-Back,1985-11-04,22,Germany,Hamburger SV,Bundesliga,2008/2009,2008
+Thimothée Atouba,Left-Back,1982-02-17,26,Cameroon,Hamburger SV,Bundesliga,2008/2009,2008
+Guy Demel,Right-Back,1981-06-13,27,Cote d'Ivoire,Hamburger SV,Bundesliga,2008/2009,2008
+Volker Schmidt,Right-Back,1978-09-22,29,Germany,Hamburger SV,Bundesliga,2008/2009,2008
+Timo Kunert,Right-Back,1987-03-12,21,Germany,Hamburger SV,Bundesliga,2008/2009,2008
+Nigel de Jong,Defensive Midfield,1984-11-30,23,Netherlands,Hamburger SV,Bundesliga,2008/2009,2008
+David Jarolim,Defensive Midfield,1979-05-17,29,Czech Republic,Hamburger SV,Bundesliga,2008/2009,2008
+Collin Benjamin,Defensive Midfield,1978-08-03,29,Namibia,Hamburger SV,Bundesliga,2008/2009,2008
+Dennis Aogo,Defensive Midfield,1987-01-14,21,Germany,Hamburger SV,Bundesliga,2008/2009,2008
+Mickaël Tavares,Defensive Midfield,1982-10-25,25,Senegal,Hamburger SV,Bundesliga,2008/2009,2008
+Tomás Rincón,Defensive Midfield,1988-01-13,20,Venezuela,Hamburger SV,Bundesliga,2008/2009,2008
+Vadis Odjidja-Ofoe,Central Midfield,1989-02-21,19,Belgium,Hamburger SV,Bundesliga,2008/2009,2008
+Marcel Ndjeng,Right Midfield,1982-05-06,26,Cameroon,Hamburger SV,Bundesliga,2008/2009,2008
+Thiago Neves,Attacking Midfield,1985-02-27,23,Brazil,Hamburger SV,Bundesliga,2008/2009,2008
+Albert Streit,Attacking Midfield,1980-03-28,28,Germany,Hamburger SV,Bundesliga,2008/2009,2008
+Piotr Trochowski,Attacking Midfield,1984-03-22,24,Germany,Hamburger SV,Bundesliga,2008/2009,2008
+Anton Putsila,Attacking Midfield,1987-06-10,21,Belarus,Hamburger SV,Bundesliga,2008/2009,2008
+Änis Ben-Hatira,Attacking Midfield,1988-07-18,19,Tunisia,Hamburger SV,Bundesliga,2008/2009,2008
+Romeo Castelen,Right Winger,1983-05-03,25,Netherlands,Hamburger SV,Bundesliga,2008/2009,2008
+Jonathan Pitroipa,Right Winger,1986-04-12,22,Burkina Faso,Hamburger SV,Bundesliga,2008/2009,2008
+Tunay Torun,Right Winger,1990-04-21,18,Turkey,Hamburger SV,Bundesliga,2008/2009,2008
+Mohamed Zidan,Second Striker,1981-12-11,26,Egypt,Hamburger SV,Bundesliga,2008/2009,2008
+Mladen Petric,Centre-Forward,1981-01-01,27,Croatia,Hamburger SV,Bundesliga,2008/2009,2008
+Ivica Olic,Centre-Forward,1979-09-14,28,Croatia,Hamburger SV,Bundesliga,2008/2009,2008
+Paolo Guerrero,Centre-Forward,1984-01-01,24,Peru,Hamburger SV,Bundesliga,2008/2009,2008
+Eric Maxim Choupo-Moting,Centre-Forward,1989-03-23,19,Cameroon,Hamburger SV,Bundesliga,2008/2009,2008
+Macauley Chrisantus,Centre-Forward,1990-08-20,17,Nigeria,Hamburger SV,Bundesliga,2008/2009,2008
+René Adler,Goalkeeper,1985-01-15,23,Germany,Bayer 04 Leverkusen,Bundesliga,2008/2009,2008
+Gábor Király,Goalkeeper,1976-04-01,32,Hungary,Bayer 04 Leverkusen,Bundesliga,2008/2009,2008
+Benedikt Fernandez,Goalkeeper,1985-01-08,23,Germany,Bayer 04 Leverkusen,Bundesliga,2008/2009,2008
+Erik Domaschke,Goalkeeper,1985-11-11,22,Germany,Bayer 04 Leverkusen,Bundesliga,2008/2009,2008
+Manuel Friedrich,Centre-Back,1979-09-13,28,Germany,Bayer 04 Leverkusen,Bundesliga,2008/2009,2008
+Karim Haggui,Centre-Back,1984-01-20,24,Tunisia,Bayer 04 Leverkusen,Bundesliga,2008/2009,2008
+Henrique,Centre-Back,1986-10-14,21,Brazil,Bayer 04 Leverkusen,Bundesliga,2008/2009,2008
+Hans Sarpei,Left-Back,1976-06-28,32,Ghana,Bayer 04 Leverkusen,Bundesliga,2008/2009,2008
+Michal Kadlec,Left-Back,1984-12-13,23,Czech Republic,Bayer 04 Leverkusen,Bundesliga,2008/2009,2008
+Vratislav Gresko,Left-Back,1977-07-24,30,Slovakia,Bayer 04 Leverkusen,Bundesliga,2008/2009,2008
+Constant Djakpa,Left-Back,1986-10-17,21,Cote d'Ivoire,Bayer 04 Leverkusen,Bundesliga,2008/2009,2008
+Simon Rolfes,Defensive Midfield,1982-01-21,26,Germany,Bayer 04 Leverkusen,Bundesliga,2008/2009,2008
+Lukas Sinkiewicz,Defensive Midfield,1985-10-09,22,Germany,Bayer 04 Leverkusen,Bundesliga,2008/2009,2008
+Pirmin Schwegler,Defensive Midfield,1987-03-09,21,Switzerland,Bayer 04 Leverkusen,Bundesliga,2008/2009,2008
+Tomasz Zdebel,Defensive Midfield,1973-05-25,35,Poland,Bayer 04 Leverkusen,Bundesliga,2008/2009,2008
+Stefan Reinartz,Defensive Midfield,1989-01-01,19,Germany,Bayer 04 Leverkusen,Bundesliga,2008/2009,2008
+Arturo Vidal,Central Midfield,1987-05-22,21,Chile,Bayer 04 Leverkusen,Bundesliga,2008/2009,2008
+Gonzalo Castro,Central Midfield,1987-06-11,21,Germany,Bayer 04 Leverkusen,Bundesliga,2008/2009,2008
+Renato Augusto,Central Midfield,1988-02-08,20,Brazil,Bayer 04 Leverkusen,Bundesliga,2008/2009,2008
+Toni Kroos,Central Midfield,1990-01-04,18,Germany,Bayer 04 Leverkusen,Bundesliga,2008/2009,2008
+Jens Hegeler,Central Midfield,1988-01-22,20,Germany,Bayer 04 Leverkusen,Bundesliga,2008/2009,2008
+Bernd Schneider,Right Midfield,1973-11-17,34,Germany,Bayer 04 Leverkusen,Bundesliga,2008/2009,2008
+Marcel Risse,Right Midfield,1989-12-17,18,Germany,Bayer 04 Leverkusen,Bundesliga,2008/2009,2008
+Sascha Dum,Left Midfield,1986-07-03,21,Germany,Bayer 04 Leverkusen,Bundesliga,2008/2009,2008
+Tranquillo Barnetta,Attacking Midfield,1985-05-22,23,Switzerland,Bayer 04 Leverkusen,Bundesliga,2008/2009,2008
+Theofanis Gekas,Centre-Forward,1980-05-23,28,Greece,Bayer 04 Leverkusen,Bundesliga,2008/2009,2008
+Stefan Kießling,Centre-Forward,1984-01-25,24,Germany,Bayer 04 Leverkusen,Bundesliga,2008/2009,2008
+Patrick Helmes,Centre-Forward,1984-03-01,24,Germany,Bayer 04 Leverkusen,Bundesliga,2008/2009,2008
+Angelos Charisteas,Centre-Forward,1980-02-09,28,Greece,Bayer 04 Leverkusen,Bundesliga,2008/2009,2008
+Dmitri Bulykin,Centre-Forward,1979-11-20,28,Russia,Bayer 04 Leverkusen,Bundesliga,2008/2009,2008
+Richard Sukuta-Pasu,Centre-Forward,1990-06-24,18,Germany,Bayer 04 Leverkusen,Bundesliga,2008/2009,2008
+Roman Weidenfeller,Goalkeeper,1980-08-06,27,Germany,Borussia Dortmund,Bundesliga,2008/2009,2008
+Marc Ziegler,Goalkeeper,1976-06-13,32,Germany,Borussia Dortmund,Bundesliga,2008/2009,2008
+Lukas Kruse,Goalkeeper,1983-07-09,24,Germany,Borussia Dortmund,Bundesliga,2008/2009,2008
+Marcel Höttecke,Goalkeeper,1987-04-25,21,Germany,Borussia Dortmund,Bundesliga,2008/2009,2008
+Neven Subotic,Centre-Back,1988-12-10,19,Serbia,Borussia Dortmund,Bundesliga,2008/2009,2008
+Robert Kovac,Centre-Back,1974-04-06,34,Croatia,Borussia Dortmund,Bundesliga,2008/2009,2008
+Felipe Santana,Centre-Back,1986-03-17,22,Brazil,Borussia Dortmund,Bundesliga,2008/2009,2008
+Mats Hummels,Centre-Back,1988-12-16,19,Germany,Borussia Dortmund,Bundesliga,2008/2009,2008
+Uwe Hünemeier,Centre-Back,1986-01-09,22,Germany,Borussia Dortmund,Bundesliga,2008/2009,2008
+Daniel Gordon,Centre-Back,1985-01-16,23,Jamaica,Borussia Dortmund,Bundesliga,2008/2009,2008
+Patrick Njambe,Centre-Back,1987-10-24,20,Cameroon,Borussia Dortmund,Bundesliga,2008/2009,2008
+Marc Hornschuh,Centre-Back,1991-03-02,17,Germany,Borussia Dortmund,Bundesliga,2008/2009,2008
+Dedê,Left-Back,1978-04-18,30,Brazil,Borussia Dortmund,Bundesliga,2008/2009,2008
+Yeong-pyo Lee,Left-Back,1977-04-23,31,"Korea, South",Borussia Dortmund,Bundesliga,2008/2009,2008
+David Vrzogic,Left-Back,1989-08-10,18,Germany,Borussia Dortmund,Bundesliga,2008/2009,2008
+Marcel Schmelzer,Left-Back,1988-01-22,20,Germany,Borussia Dortmund,Bundesliga,2008/2009,2008
+Antonio Rukavina,Right-Back,1984-01-26,24,Serbia,Borussia Dortmund,Bundesliga,2008/2009,2008
+Patrick Owomoyela,Right-Back,1979-11-05,28,Germany,Borussia Dortmund,Bundesliga,2008/2009,2008
+Sebastian Kehl,Defensive Midfield,1980-02-13,28,Germany,Borussia Dortmund,Bundesliga,2008/2009,2008
+Nuri Sahin,Defensive Midfield,1988-09-05,19,Turkey,Borussia Dortmund,Bundesliga,2008/2009,2008
+Tinga,Central Midfield,1978-01-13,30,Brazil,Borussia Dortmund,Bundesliga,2008/2009,2008
+Florian Kringe,Central Midfield,1982-08-18,25,Germany,Borussia Dortmund,Bundesliga,2008/2009,2008
+Marc-André Kruska,Central Midfield,1987-06-29,21,Germany,Borussia Dortmund,Bundesliga,2008/2009,2008
+Damir Vrancic,Central Midfield,1985-10-04,22,Bosnia-Herzegovina,Borussia Dortmund,Bundesliga,2008/2009,2008
+Sebastian Tyrala,Central Midfield,1988-02-22,20,Poland,Borussia Dortmund,Bundesliga,2008/2009,2008
+Sebastian Hille,Right Midfield,1980-10-19,27,Germany,Borussia Dortmund,Bundesliga,2008/2009,2008
+Tamás Hajnal,Attacking Midfield,1981-03-15,27,Hungary,Borussia Dortmund,Bundesliga,2008/2009,2008
+Giovanni Federico,Attacking Midfield,1980-10-04,27,Italy,Borussia Dortmund,Bundesliga,2008/2009,2008
+Delron Buckley,Left Winger,1977-12-07,30,South Africa,Borussia Dortmund,Bundesliga,2008/2009,2008
+Yasin Öztekin,Left Winger,1987-03-19,21,Turkey,Borussia Dortmund,Bundesliga,2008/2009,2008
+Jakub Blaszczykowski,Right Winger,1985-12-14,22,Poland,Borussia Dortmund,Bundesliga,2008/2009,2008
+Mohamed Zidan,Second Striker,1981-12-11,26,Egypt,Borussia Dortmund,Bundesliga,2008/2009,2008
+Alex Frei,Centre-Forward,1979-07-15,28,Switzerland,Borussia Dortmund,Bundesliga,2008/2009,2008
+Mladen Petric,Centre-Forward,1981-01-01,27,Croatia,Borussia Dortmund,Bundesliga,2008/2009,2008
+Kevin-Prince Boateng,Centre-Forward,1987-03-06,21,Ghana,Borussia Dortmund,Bundesliga,2008/2009,2008
+Diego Klimowicz,Centre-Forward,1974-07-06,33,Argentina,Borussia Dortmund,Bundesliga,2008/2009,2008
+Nelson Valdez,Centre-Forward,1983-11-28,24,Paraguay,Borussia Dortmund,Bundesliga,2008/2009,2008
+Christopher Kullmann,Centre-Forward,1986-09-19,21,Germany,Borussia Dortmund,Bundesliga,2008/2009,2008
+Bajram Sadrijaj,Centre-Forward,1986-08-10,21,Kosovo,Borussia Dortmund,Bundesliga,2008/2009,2008
+Jens Lehmann,Goalkeeper,1969-11-10,38,Germany,VfB Stuttgart,Bundesliga,2008/2009,2008
+Sven Ulreich,Goalkeeper,1988-08-03,19,Germany,VfB Stuttgart,Bundesliga,2008/2009,2008
+Alexander Stolz,Goalkeeper,1983-10-13,24,Germany,VfB Stuttgart,Bundesliga,2008/2009,2008
+Matthieu Delpierre,Centre-Back,1981-04-26,27,France,VfB Stuttgart,Bundesliga,2008/2009,2008
+Khalid Boulahrouz,Centre-Back,1981-12-28,26,Netherlands,VfB Stuttgart,Bundesliga,2008/2009,2008
+Serdar Tasci,Centre-Back,1987-04-24,21,Germany,VfB Stuttgart,Bundesliga,2008/2009,2008
+Marco Pischorn,Centre-Back,1986-01-01,22,Germany,VfB Stuttgart,Bundesliga,2008/2009,2008
+Marijan Kovacevic,Centre-Back,1973-08-31,34,Croatia,VfB Stuttgart,Bundesliga,2008/2009,2008
+Georg Niedermeier,Centre-Back,1986-02-26,22,Germany,VfB Stuttgart,Bundesliga,2008/2009,2008
+Robin Schuster,Centre-Back,1987-04-24,21,Germany,VfB Stuttgart,Bundesliga,2008/2009,2008
+Arthur Boka,Left-Back,1983-04-02,25,Cote d'Ivoire,VfB Stuttgart,Bundesliga,2008/2009,2008
+Ludovic Magnin,Left-Back,1979-04-20,29,Switzerland,VfB Stuttgart,Bundesliga,2008/2009,2008
+Sebastian Enderle,Left-Back,1989-05-29,19,Germany,VfB Stuttgart,Bundesliga,2008/2009,2008
+Roberto Hilbert,Right-Back,1984-10-16,23,Germany,VfB Stuttgart,Bundesliga,2008/2009,2008
+Ricardo Osorio,Right-Back,1980-03-30,28,Mexico,VfB Stuttgart,Bundesliga,2008/2009,2008
+Pável Pardo,Defensive Midfield,1976-07-26,31,Mexico,VfB Stuttgart,Bundesliga,2008/2009,2008
+Martin Lanig,Defensive Midfield,1984-07-11,23,Germany,VfB Stuttgart,Bundesliga,2008/2009,2008
+Georges Mandjeck,Defensive Midfield,1988-12-09,19,Cameroon,VfB Stuttgart,Bundesliga,2008/2009,2008
+José-Alex Ikeng,Defensive Midfield,1988-01-30,20,Germany,VfB Stuttgart,Bundesliga,2008/2009,2008
+Christian Träsch,Defensive Midfield,1987-09-01,20,Germany,VfB Stuttgart,Bundesliga,2008/2009,2008
+Sebastian Rudy,Defensive Midfield,1990-02-28,18,Germany,VfB Stuttgart,Bundesliga,2008/2009,2008
+Thomas Hitzlsperger,Central Midfield,1982-04-05,26,Germany,VfB Stuttgart,Bundesliga,2008/2009,2008
+Sami Khedira,Central Midfield,1987-04-04,21,Germany,VfB Stuttgart,Bundesliga,2008/2009,2008
+Yildiray Bastürk,Attacking Midfield,1978-12-24,29,Turkey,VfB Stuttgart,Bundesliga,2008/2009,2008
+Jan Simak,Attacking Midfield,1978-10-13,29,Czech Republic,VfB Stuttgart,Bundesliga,2008/2009,2008
+Timo Gebhart,Attacking Midfield,1989-04-12,19,Germany,VfB Stuttgart,Bundesliga,2008/2009,2008
+Élson,Attacking Midfield,1981-11-16,26,Brazil,VfB Stuttgart,Bundesliga,2008/2009,2008
+Mario Gómez,Centre-Forward,1985-07-10,22,Germany,VfB Stuttgart,Bundesliga,2008/2009,2008
+Cacau,Centre-Forward,1981-03-27,27,Germany,VfB Stuttgart,Bundesliga,2008/2009,2008
+Ciprian Marica,Centre-Forward,1985-10-02,22,Romania,VfB Stuttgart,Bundesliga,2008/2009,2008
+Danijel Ljuboja,Centre-Forward,1978-09-04,29,Serbia,VfB Stuttgart,Bundesliga,2008/2009,2008
+Manuel Fischer,Centre-Forward,1989-09-19,18,Germany,VfB Stuttgart,Bundesliga,2008/2009,2008
+Matthias Morys,Centre-Forward,1987-03-19,21,Germany,VfB Stuttgart,Bundesliga,2008/2009,2008
+Julian Schieber,Centre-Forward,1989-02-13,19,Germany,VfB Stuttgart,Bundesliga,2008/2009,2008
+Diego Benaglio,Goalkeeper,1983-09-08,24,Switzerland,VfL Wolfsburg,Bundesliga,2008/2009,2008
+André Lenz,Goalkeeper,1973-11-19,34,Germany,VfL Wolfsburg,Bundesliga,2008/2009,2008
+Patrick Platins,Goalkeeper,1983-04-19,25,Germany,VfL Wolfsburg,Bundesliga,2008/2009,2008
+Marwin Hitz,Goalkeeper,1987-09-18,20,Switzerland,VfL Wolfsburg,Bundesliga,2008/2009,2008
+Andrea Barzagli,Centre-Back,1981-05-08,27,Italy,VfL Wolfsburg,Bundesliga,2008/2009,2008
+Cristian Zaccardo,Centre-Back,1981-12-21,26,Italy,VfL Wolfsburg,Bundesliga,2008/2009,2008
+Ricardo Costa,Centre-Back,1981-05-16,27,Portugal,VfL Wolfsburg,Bundesliga,2008/2009,2008
+Jan Simunek,Centre-Back,1987-02-20,21,Czech Republic,VfL Wolfsburg,Bundesliga,2008/2009,2008
+Alexander Madlung,Centre-Back,1982-07-11,25,Germany,VfL Wolfsburg,Bundesliga,2008/2009,2008
+Daniel Reiche,Centre-Back,1988-03-14,20,Germany,VfL Wolfsburg,Bundesliga,2008/2009,2008
+Marcel Schäfer,Left-Back,1984-06-07,24,Germany,VfL Wolfsburg,Bundesliga,2008/2009,2008
+Rodrigo Alvim,Left-Back,1983-11-25,24,Brazil,VfL Wolfsburg,Bundesliga,2008/2009,2008
+Sergey Karimov,Left-Back,1986-12-21,21,Kazakhstan,VfL Wolfsburg,Bundesliga,2008/2009,2008
+Kevin Wolze,Left-Back,1990-03-09,18,Germany,VfL Wolfsburg,Bundesliga,2008/2009,2008
+Sascha Riether,Right-Back,1983-03-23,25,Germany,VfL Wolfsburg,Bundesliga,2008/2009,2008
+Alex Costa,Right-Back,1979-09-06,28,Portugal,VfL Wolfsburg,Bundesliga,2008/2009,2008
+Peter Pekarik,Right-Back,1986-10-30,21,Slovakia,VfL Wolfsburg,Bundesliga,2008/2009,2008
+Josué,Defensive Midfield,1979-07-19,28,Brazil,VfL Wolfsburg,Bundesliga,2008/2009,2008
+Makoto Hasebe,Defensive Midfield,1984-01-18,24,Japan,VfL Wolfsburg,Bundesliga,2008/2009,2008
+Sebastian Schindzielorz,Defensive Midfield,1979-01-21,29,Germany,VfL Wolfsburg,Bundesliga,2008/2009,2008
+Christian Gentner,Central Midfield,1985-08-14,22,Germany,VfL Wolfsburg,Bundesliga,2008/2009,2008
+Jonathan Santana,Central Midfield,1981-10-19,26,Paraguay,VfL Wolfsburg,Bundesliga,2008/2009,2008
+Daniel Adlung,Central Midfield,1987-10-01,20,Germany,VfL Wolfsburg,Bundesliga,2008/2009,2008
+Jacek Krzynowek,Left Midfield,1976-05-15,32,Poland,VfL Wolfsburg,Bundesliga,2008/2009,2008
+Vlad Munteanu,Left Midfield,1981-01-16,27,Romania,VfL Wolfsburg,Bundesliga,2008/2009,2008
+Zvjezdan Misimovic,Attacking Midfield,1982-06-05,26,Bosnia-Herzegovina,VfL Wolfsburg,Bundesliga,2008/2009,2008
+Caiuby,Left Winger,1988-07-14,19,Brazil,VfL Wolfsburg,Bundesliga,2008/2009,2008
+Ashkan Dejagah,Right Winger,1986-07-05,21,Iran,VfL Wolfsburg,Bundesliga,2008/2009,2008
+Alexander Esswein,Right Winger,1990-03-25,18,Germany,VfL Wolfsburg,Bundesliga,2008/2009,2008
+Grafite,Centre-Forward,1979-04-02,29,Brazil,VfL Wolfsburg,Bundesliga,2008/2009,2008
+Edin Dzeko,Centre-Forward,1986-03-17,22,Bosnia-Herzegovina,VfL Wolfsburg,Bundesliga,2008/2009,2008
+Yoshito Okubo,Centre-Forward,1982-06-09,26,Japan,VfL Wolfsburg,Bundesliga,2008/2009,2008
+Mahir Saglik,Centre-Forward,1983-01-18,25,Turkey,VfL Wolfsburg,Bundesliga,2008/2009,2008
+Kamani Hill,Centre-Forward,1985-12-28,22,United States,VfL Wolfsburg,Bundesliga,2008/2009,2008
+Jaroslav Drobny,Goalkeeper,1979-10-18,28,Czech Republic,Hertha BSC,Bundesliga,2008/2009,2008
+Christian Fiedler,Goalkeeper,1975-03-27,33,Germany,Hertha BSC,Bundesliga,2008/2009,2008
+Christopher Gäng,Goalkeeper,1988-05-10,20,Germany,Hertha BSC,Bundesliga,2008/2009,2008
+Sascha Burchert,Goalkeeper,1989-10-30,18,Germany,Hertha BSC,Bundesliga,2008/2009,2008
+Josip Simunic,Centre-Back,1978-02-18,30,Croatia,Hertha BSC,Bundesliga,2008/2009,2008
+Arne Friedrich,Centre-Back,1979-05-29,29,Germany,Hertha BSC,Bundesliga,2008/2009,2008
+Steve von Bergen,Centre-Back,1983-06-10,25,Switzerland,Hertha BSC,Bundesliga,2008/2009,2008
+Marc Stein,Centre-Back,1985-07-07,22,Germany,Hertha BSC,Bundesliga,2008/2009,2008
+Kaká,Centre-Back,1981-05-16,27,Brazil,Hertha BSC,Bundesliga,2008/2009,2008
+Maximilian Nicu,Centre-Back,1982-11-25,25,Romania,Hertha BSC,Bundesliga,2008/2009,2008
+Rodnei,Centre-Back,1985-09-11,22,Brazil,Hertha BSC,Bundesliga,2008/2009,2008
+Lúcio,Left-Back,1979-06-20,29,Brazil,Hertha BSC,Bundesliga,2008/2009,2008
+Leandro Cufré,Left-Back,1978-05-09,30,Argentina,Hertha BSC,Bundesliga,2008/2009,2008
+Shervin Radjabali-Fardi,Left-Back,1991-05-17,17,Germany,Hertha BSC,Bundesliga,2008/2009,2008
+Sofian Chahed,Right-Back,1983-04-18,25,Tunisia,Hertha BSC,Bundesliga,2008/2009,2008
+Lukasz Piszczek,Right-Back,1985-06-03,23,Poland,Hertha BSC,Bundesliga,2008/2009,2008
+Gojko Kacar,Defensive Midfield,1987-01-26,21,Serbia,Hertha BSC,Bundesliga,2008/2009,2008
+Pál Dárdai,Defensive Midfield,1976-03-16,32,Hungary,Hertha BSC,Bundesliga,2008/2009,2008
+Fabian Lustenberger,Defensive Midfield,1988-05-02,20,Switzerland,Hertha BSC,Bundesliga,2008/2009,2008
+Bryan Arguez,Defensive Midfield,1989-01-13,19,United States,Hertha BSC,Bundesliga,2008/2009,2008
+Lennart Hartmann,Defensive Midfield,1991-04-03,17,Germany,Hertha BSC,Bundesliga,2008/2009,2008
+Cícero,Central Midfield,1984-08-26,23,Brazil,Hertha BSC,Bundesliga,2008/2009,2008
+Florian Riedel,Right Midfield,1990-04-09,18,Germany,Hertha BSC,Bundesliga,2008/2009,2008
+Marko Babic,Left Midfield,1981-01-28,27,Croatia,Hertha BSC,Bundesliga,2008/2009,2008
+Patrick Ebert,Attacking Midfield,1987-03-17,21,Germany,Hertha BSC,Bundesliga,2008/2009,2008
+Sascha Bigalke,Attacking Midfield,1990-01-08,18,Germany,Hertha BSC,Bundesliga,2008/2009,2008
+Andrii Voronin,Second Striker,1979-07-21,28,Ukraine,Hertha BSC,Bundesliga,2008/2009,2008
+Raffael,Second Striker,1985-03-28,23,Brazil,Hertha BSC,Bundesliga,2008/2009,2008
+Marko Pantelic,Centre-Forward,1978-09-15,29,Serbia,Hertha BSC,Bundesliga,2008/2009,2008
+Amine Chermiti,Centre-Forward,1987-12-26,20,Tunisia,Hertha BSC,Bundesliga,2008/2009,2008
+Valeri Domovchiyski,Centre-Forward,1986-10-05,21,Bulgaria,Hertha BSC,Bundesliga,2008/2009,2008
+Robert Enke,Goalkeeper,1977-08-24,30,Germany,Hannover 96,Bundesliga,2008/2009,2008
+Florian Fromlowitz,Goalkeeper,1986-07-02,21,Germany,Hannover 96,Bundesliga,2008/2009,2008
+Morten Jensen,Goalkeeper,1987-09-20,20,Germany,Hannover 96,Bundesliga,2008/2009,2008
+Marcel Maluck,Goalkeeper,1989-03-06,19,Germany,Hannover 96,Bundesliga,2008/2009,2008
+Christian Schulz,Centre-Back,1983-04-01,25,Germany,Hannover 96,Bundesliga,2008/2009,2008
+Valérien Ismaël,Centre-Back,1975-09-28,32,France,Hannover 96,Bundesliga,2008/2009,2008
+Mario Eggimann,Centre-Back,1981-01-24,27,Switzerland,Hannover 96,Bundesliga,2008/2009,2008
+Vinícius,Centre-Back,1980-07-31,27,Brazil,Hannover 96,Bundesliga,2008/2009,2008
+Frank Fahrenhorst,Centre-Back,1977-09-24,30,Germany,Hannover 96,Bundesliga,2008/2009,2008
+Johannes Ibelherr,Centre-Back,1986-05-09,22,Germany,Hannover 96,Bundesliga,2008/2009,2008
+Leon Balogun,Centre-Back,1988-06-28,20,Nigeria,Hannover 96,Bundesliga,2008/2009,2008
+Tim Hofmann,Centre-Back,1988-06-09,20,Germany,Hannover 96,Bundesliga,2008/2009,2008
+Michael Tarnat,Left-Back,1969-10-27,38,Germany,Hannover 96,Bundesliga,2008/2009,2008
+Konstantin Rausch,Left-Back,1990-03-15,18,Russia,Hannover 96,Bundesliga,2008/2009,2008
+Steven Cherundolo,Right-Back,1979-02-19,29,United States,Hannover 96,Bundesliga,2008/2009,2008
+Sal Zizzo,Right-Back,1987-04-03,21,United States,Hannover 96,Bundesliga,2008/2009,2008
+Patrick Herrmann,Right-Back,1988-03-16,20,Germany,Hannover 96,Bundesliga,2008/2009,2008
+Hanno Balitsch,Defensive Midfield,1981-01-02,27,Germany,Hannover 96,Bundesliga,2008/2009,2008
+Altin Lala,Defensive Midfield,1975-11-18,32,Albania,Hannover 96,Bundesliga,2008/2009,2008
+Bastian Schulz,Defensive Midfield,1985-07-10,22,Germany,Hannover 96,Bundesliga,2008/2009,2008
+Manuel Schmiedebach,Defensive Midfield,1988-12-05,19,Germany,Hannover 96,Bundesliga,2008/2009,2008
+Szabolcs Huszti,Central Midfield,1983-04-18,25,Hungary,Hannover 96,Bundesliga,2008/2009,2008
+Leon Andreasen,Central Midfield,1983-04-23,25,Denmark,Hannover 96,Bundesliga,2008/2009,2008
+Chavdar Yankov,Central Midfield,1984-03-29,24,Bulgaria,Hannover 96,Bundesliga,2008/2009,2008
+Sérgio da Silva Pinto,Central Midfield,1980-10-16,27,Germany,Hannover 96,Bundesliga,2008/2009,2008
+Gaetan Krebs,Central Midfield,1985-11-18,22,France,Hannover 96,Bundesliga,2008/2009,2008
+Jacek Krzynowek,Left Midfield,1976-05-15,32,Poland,Hannover 96,Bundesliga,2008/2009,2008
+Arnold Bruggink,Attacking Midfield,1977-07-24,30,Netherlands,Hannover 96,Bundesliga,2008/2009,2008
+Jan Schlaudraff,Second Striker,1983-07-18,24,Germany,Hannover 96,Bundesliga,2008/2009,2008
+Jan Rosenthal,Second Striker,1986-04-07,22,Germany,Hannover 96,Bundesliga,2008/2009,2008
+Jiri Stajner,Second Striker,1976-05-27,32,Czech Republic,Hannover 96,Bundesliga,2008/2009,2008
+Mike Hanke,Centre-Forward,1983-11-05,24,Germany,Hannover 96,Bundesliga,2008/2009,2008
+Mikael Forssell,Centre-Forward,1981-03-15,27,Finland,Hannover 96,Bundesliga,2008/2009,2008
+Fatih Yigitusagi,Centre-Forward,1983-11-23,24,Turkey,Hannover 96,Bundesliga,2008/2009,2008
+Markus Pröll,Goalkeeper,1979-08-28,28,Germany,Eintracht Frankfurt,Bundesliga,2008/2009,2008
+Oka Nikolov,Goalkeeper,1974-05-25,34,North Macedonia,Eintracht Frankfurt,Bundesliga,2008/2009,2008
+Jan Zimmermann,Goalkeeper,1985-04-19,23,Germany,Eintracht Frankfurt,Bundesliga,2008/2009,2008
+Frank Lehmann,Goalkeeper,1989-04-29,19,Germany,Eintracht Frankfurt,Bundesliga,2008/2009,2008
+Habib Bellaid,Centre-Back,1986-03-28,22,Algeria,Eintracht Frankfurt,Bundesliga,2008/2009,2008
+Aarón Galindo,Centre-Back,1982-05-08,26,Mexico,Eintracht Frankfurt,Bundesliga,2008/2009,2008
+Aleksandar Vasoski,Centre-Back,1979-11-21,28,North Macedonia,Eintracht Frankfurt,Bundesliga,2008/2009,2008
+Marco Russ,Centre-Back,1985-08-04,22,Germany,Eintracht Frankfurt,Bundesliga,2008/2009,2008
+Chris,Centre-Back,1978-08-25,29,Brazil,Eintracht Frankfurt,Bundesliga,2008/2009,2008
+Nikola Petkovic,Centre-Back,1986-03-28,22,Serbia,Eintracht Frankfurt,Bundesliga,2008/2009,2008
+Alexander Dercho,Left-Back,1987-01-21,21,Germany,Eintracht Frankfurt,Bundesliga,2008/2009,2008
+Patrick Ochs,Right-Back,1984-05-14,24,Germany,Eintracht Frankfurt,Bundesliga,2008/2009,2008
+Markus Steinhöfer,Right-Back,1986-03-07,22,Germany,Eintracht Frankfurt,Bundesliga,2008/2009,2008
+Timothy Chandler,Right-Back,1990-03-29,18,United States,Eintracht Frankfurt,Bundesliga,2008/2009,2008
+Sebastian Jung,Right-Back,1990-06-22,18,Germany,Eintracht Frankfurt,Bundesliga,2008/2009,2008
+Zlatan Bajramovic,Defensive Midfield,1979-08-12,28,Bosnia-Herzegovina,Eintracht Frankfurt,Bundesliga,2008/2009,2008
+Christoph Spycher,Defensive Midfield,1978-03-30,30,Switzerland,Eintracht Frankfurt,Bundesliga,2008/2009,2008
+Michael Fink,Defensive Midfield,1982-02-01,26,Germany,Eintracht Frankfurt,Bundesliga,2008/2009,2008
+Junichi Inamoto,Defensive Midfield,1979-09-18,28,Japan,Eintracht Frankfurt,Bundesliga,2008/2009,2008
+Christoph Preuß,Defensive Midfield,1981-07-04,26,Germany,Eintracht Frankfurt,Bundesliga,2008/2009,2008
+Jürgen Mössmer,Defensive Midfield,NA,19,Germany,Eintracht Frankfurt,Bundesliga,2008/2009,2008
+Kreso Ljubicic,Central Midfield,1988-09-26,19,Croatia,Eintracht Frankfurt,Bundesliga,2008/2009,2008
+Mehdi Mahdavikia,Right Midfield,1977-07-24,30,Iran,Eintracht Frankfurt,Bundesliga,2008/2009,2008
+Marcel Heller,Right Midfield,1986-02-12,22,Germany,Eintracht Frankfurt,Bundesliga,2008/2009,2008
+Benjamin Köhler,Left Midfield,1980-08-04,27,Germany,Eintracht Frankfurt,Bundesliga,2008/2009,2008
+Caio,Attacking Midfield,1986-05-29,22,Brazil,Eintracht Frankfurt,Bundesliga,2008/2009,2008
+Faton Toski,Attacking Midfield,1987-02-17,21,Kosovo,Eintracht Frankfurt,Bundesliga,2008/2009,2008
+Ümit Korkmaz,Left Winger,1985-09-17,22,Austria,Eintracht Frankfurt,Bundesliga,2008/2009,2008
+Alexander Meier,Second Striker,1983-01-17,25,Germany,Eintracht Frankfurt,Bundesliga,2008/2009,2008
+Ioannis Amanatidis,Centre-Forward,1981-12-03,26,Greece,Eintracht Frankfurt,Bundesliga,2008/2009,2008
+Nikolaos Lyberopoulos,Centre-Forward,1975-08-04,32,Greece,Eintracht Frankfurt,Bundesliga,2008/2009,2008
+Martin Fenin,Centre-Forward,1987-04-16,21,Czech Republic,Eintracht Frankfurt,Bundesliga,2008/2009,2008
+Juvhel Tsoumou,Centre-Forward,1990-12-27,17,Congo,Eintracht Frankfurt,Bundesliga,2008/2009,2008
+Léonard Kweuke,Centre-Forward,1987-07-12,20,Cameroon,Eintracht Frankfurt,Bundesliga,2008/2009,2008
+Daniel Fernandes,Goalkeeper,1983-09-25,24,Portugal,VfL Bochum,Bundesliga,2008/2009,2008
+René Renno,Goalkeeper,1979-02-19,29,Germany,VfL Bochum,Bundesliga,2008/2009,2008
+Philipp Heerwagen,Goalkeeper,1983-04-13,25,Germany,VfL Bochum,Bundesliga,2008/2009,2008
+Andreas Lengsfeld,Goalkeeper,NA,22,Germany,VfL Bochum,Bundesliga,2008/2009,2008
+Marcel Maltritz,Centre-Back,1978-10-02,29,Germany,VfL Bochum,Bundesliga,2008/2009,2008
+Anthar Yahia,Centre-Back,1982-03-21,26,Algeria,VfL Bochum,Bundesliga,2008/2009,2008
+Mërgim Mavraj,Centre-Back,1986-06-09,22,Albania,VfL Bochum,Bundesliga,2008/2009,2008
+Patrick Fabian,Centre-Back,1987-10-11,20,Germany,VfL Bochum,Bundesliga,2008/2009,2008
+Kevin Vogt,Centre-Back,1991-09-23,16,Germany,VfL Bochum,Bundesliga,2008/2009,2008
+Christian Fuchs,Left-Back,1986-04-07,22,Austria,VfL Bochum,Bundesliga,2008/2009,2008
+Philipp Bönig,Left-Back,NA,28,Germany,VfL Bochum,Bundesliga,2008/2009,2008
+Heinrich Schmidtgal,Left-Back,1985-11-20,22,Kazakhstan,VfL Bochum,Bundesliga,2008/2009,2008
+Marc Pfertzel,Right-Back,1981-05-21,27,France,VfL Bochum,Bundesliga,2008/2009,2008
+Matías Concha,Right-Back,1980-03-31,28,Sweden,VfL Bochum,Bundesliga,2008/2009,2008
+Christoph Dabrowski,Defensive Midfield,1978-07-01,30,Germany,VfL Bochum,Bundesliga,2008/2009,2008
+Daniel Imhof,Defensive Midfield,1977-11-22,30,Canada,VfL Bochum,Bundesliga,2008/2009,2008
+Tomasz Zdebel,Defensive Midfield,1973-05-25,35,Poland,VfL Bochum,Bundesliga,2008/2009,2008
+Oliver Schröder,Defensive Midfield,1980-06-11,28,Germany,VfL Bochum,Bundesliga,2008/2009,2008
+David Zajas,Defensive Midfield,NA,25,Germany,VfL Bochum,Bundesliga,2008/2009,2008
+Jürgen Duah (Molinari),Defensive Midfield,1985-12-19,22,Germany,VfL Bochum,Bundesliga,2008/2009,2008
+Dennis Grote,Central Midfield,1986-08-09,21,Germany,VfL Bochum,Bundesliga,2008/2009,2008
+Paul Freier,Right Midfield,1979-07-26,28,Germany,VfL Bochum,Bundesliga,2008/2009,2008
+Danny Fuchs,Left Midfield,1976-02-25,32,Germany,VfL Bochum,Bundesliga,2008/2009,2008
+Shinji Ono,Attacking Midfield,1979-09-27,28,Japan,VfL Bochum,Bundesliga,2008/2009,2008
+Mimoun Azaouagh,Attacking Midfield,1982-11-17,25,Germany,VfL Bochum,Bundesliga,2008/2009,2008
+Dilaver Güclü,Left Winger,1986-02-20,22,Turkey,VfL Bochum,Bundesliga,2008/2009,2008
+Joël Epalle,Right Winger,1978-01-20,30,Cameroon,VfL Bochum,Bundesliga,2008/2009,2008
+Stanislav Sestak,Centre-Forward,1982-12-16,25,Slovakia,VfL Bochum,Bundesliga,2008/2009,2008
+Diego Klimowicz,Centre-Forward,1974-07-06,33,Argentina,VfL Bochum,Bundesliga,2008/2009,2008
+Sinan Kaloglu,Centre-Forward,1981-06-10,27,Turkey,VfL Bochum,Bundesliga,2008/2009,2008
+Marcin Mieciel,Centre-Forward,1975-12-22,32,Poland,VfL Bochum,Bundesliga,2008/2009,2008
+Vahid Hashemian,Centre-Forward,1976-07-21,31,Iran,VfL Bochum,Bundesliga,2008/2009,2008
+Roman Prokoph,Centre-Forward,1985-08-06,22,Germany,VfL Bochum,Bundesliga,2008/2009,2008
+Sami El-Nounou,Centre-Forward,1979-05-31,29,Germany,VfL Bochum,Bundesliga,2008/2009,2008
+Timo Hildebrand,Goalkeeper,1979-04-05,29,Germany,TSG 1899 Hoffenheim,Bundesliga,2008/2009,2008
+Ramazan Özcan,Goalkeeper,1984-06-28,24,Austria,TSG 1899 Hoffenheim,Bundesliga,2008/2009,2008
+Daniel Haas,Goalkeeper,1983-08-01,24,Germany,TSG 1899 Hoffenheim,Bundesliga,2008/2009,2008
+Thorsten Kirschbaum,Goalkeeper,1987-04-20,21,Germany,TSG 1899 Hoffenheim,Bundesliga,2008/2009,2008
+Daniel Bernhardt,Goalkeeper,1985-08-21,22,Germany,TSG 1899 Hoffenheim,Bundesliga,2008/2009,2008
+Per Nilsson,Centre-Back,1982-09-15,25,Sweden,TSG 1899 Hoffenheim,Bundesliga,2008/2009,2008
+Marvin Compper,Centre-Back,1985-06-14,23,Germany,TSG 1899 Hoffenheim,Bundesliga,2008/2009,2008
+Isaac Vorsah,Centre-Back,1988-06-21,20,Ghana,TSG 1899 Hoffenheim,Bundesliga,2008/2009,2008
+Matthias Jaissle,Centre-Back,1988-04-05,20,Germany,TSG 1899 Hoffenheim,Bundesliga,2008/2009,2008
+Christoph Janker,Centre-Back,1985-02-14,23,Germany,TSG 1899 Hoffenheim,Bundesliga,2008/2009,2008
+Aytac Sulu,Centre-Back,1985-12-11,22,Turkey,TSG 1899 Hoffenheim,Bundesliga,2008/2009,2008
+Fabrício,Centre-Back,1990-02-20,18,Brazil,TSG 1899 Hoffenheim,Bundesliga,2008/2009,2008
+Kevin Conrad,Centre-Back,1990-08-10,17,Germany,TSG 1899 Hoffenheim,Bundesliga,2008/2009,2008
+Andreas Ibertsberger,Left-Back,1982-07-27,25,Austria,TSG 1899 Hoffenheim,Bundesliga,2008/2009,2008
+Zsolt Löw,Left-Back,1979-04-29,29,Hungary,TSG 1899 Hoffenheim,Bundesliga,2008/2009,2008
+Andreas Beck,Right-Back,1987-03-13,21,Germany,TSG 1899 Hoffenheim,Bundesliga,2008/2009,2008
+Jonas Strifler,Right-Back,1990-01-30,18,Germany,TSG 1899 Hoffenheim,Bundesliga,2008/2009,2008
+Luiz Gustavo,Defensive Midfield,1987-07-23,20,Brazil,TSG 1899 Hoffenheim,Bundesliga,2008/2009,2008
+Sejad Salihovic,Central Midfield,1984-10-08,23,Bosnia-Herzegovina,TSG 1899 Hoffenheim,Bundesliga,2008/2009,2008
+Selim Teber,Central Midfield,1981-03-07,27,Germany,TSG 1899 Hoffenheim,Bundesliga,2008/2009,2008
+Tobias Weis,Central Midfield,1985-07-30,22,Germany,TSG 1899 Hoffenheim,Bundesliga,2008/2009,2008
+Dragan Paljic,Left Midfield,NA,25,Germany,TSG 1899 Hoffenheim,Bundesliga,2008/2009,2008
+Carlos Eduardo,Attacking Midfield,1987-07-18,20,Brazil,TSG 1899 Hoffenheim,Bundesliga,2008/2009,2008
+Pascal Groß,Attacking Midfield,1991-06-15,17,Germany,TSG 1899 Hoffenheim,Bundesliga,2008/2009,2008
+Jochen Seitz,Left Winger,1976-10-11,31,Germany,TSG 1899 Hoffenheim,Bundesliga,2008/2009,2008
+Kai Herdling,Left Winger,1984-06-27,24,Germany,TSG 1899 Hoffenheim,Bundesliga,2008/2009,2008
+Marco Terrazzino,Left Winger,1991-04-15,17,Germany,TSG 1899 Hoffenheim,Bundesliga,2008/2009,2008
+Chinedu Obasi,Right Winger,1986-06-01,22,Nigeria,TSG 1899 Hoffenheim,Bundesliga,2008/2009,2008
+Boris Vukcevic,Right Winger,1990-03-16,18,Germany,TSG 1899 Hoffenheim,Bundesliga,2008/2009,2008
+Francisco Copado,Second Striker,1974-07-19,33,Germany,TSG 1899 Hoffenheim,Bundesliga,2008/2009,2008
+Boubacar Sanogo,Centre-Forward,1982-12-17,25,Cote d'Ivoire,TSG 1899 Hoffenheim,Bundesliga,2008/2009,2008
+Demba Ba,Centre-Forward,1985-05-25,23,Senegal,TSG 1899 Hoffenheim,Bundesliga,2008/2009,2008
+Wellington,Centre-Forward,1988-02-11,20,Brazil,TSG 1899 Hoffenheim,Bundesliga,2008/2009,2008
+Vedad Ibisevic,Centre-Forward,1984-08-06,23,Bosnia-Herzegovina,TSG 1899 Hoffenheim,Bundesliga,2008/2009,2008
+Logan Bailly,Goalkeeper,1985-12-27,22,Belgium,Borussia Mönchengladbach,Bundesliga,2008/2009,2008
+Christofer Heimeroth,Goalkeeper,1981-08-01,26,Germany,Borussia Mönchengladbach,Bundesliga,2008/2009,2008
+Uwe Gospodarek,Goalkeeper,1973-08-06,34,Germany,Borussia Mönchengladbach,Bundesliga,2008/2009,2008
+Frederic Löhe,Goalkeeper,1988-08-12,19,Germany,Borussia Mönchengladbach,Bundesliga,2008/2009,2008
+Patrick Paauwe,Centre-Back,1975-12-27,32,Netherlands,Borussia Mönchengladbach,Bundesliga,2008/2009,2008
+Dante,Centre-Back,1983-10-18,24,Brazil,Borussia Mönchengladbach,Bundesliga,2008/2009,2008
+Roel Brouwers,Centre-Back,1981-11-28,26,Netherlands,Borussia Mönchengladbach,Bundesliga,2008/2009,2008
+Steve Gohouri,Centre-Back,1981-02-08,27,Cote d'Ivoire,Borussia Mönchengladbach,Bundesliga,2008/2009,2008
+Thomas Kleine,Centre-Back,1977-12-28,30,Germany,Borussia Mönchengladbach,Bundesliga,2008/2009,2008
+Jan-Ingwer Callsen-Bracker,Centre-Back,1984-09-23,23,Germany,Borussia Mönchengladbach,Bundesliga,2008/2009,2008
+Oliver Stang,Centre-Back,1988-06-26,20,Germany,Borussia Mönchengladbach,Bundesliga,2008/2009,2008
+Tim Heubach,Centre-Back,1988-04-12,20,Germany,Borussia Mönchengladbach,Bundesliga,2008/2009,2008
+Tony Jantschke,Centre-Back,1990-04-07,18,Germany,Borussia Mönchengladbach,Bundesliga,2008/2009,2008
+Jean-Sébastien Jaurès,Left-Back,1977-09-30,30,France,Borussia Mönchengladbach,Bundesliga,2008/2009,2008
+Filip Daems,Left-Back,1978-10-31,29,Belgium,Borussia Mönchengladbach,Bundesliga,2008/2009,2008
+Alexander Voigt,Left-Back,NA,30,Germany,Borussia Mönchengladbach,Bundesliga,2008/2009,2008
+Johannes van den Bergh,Left-Back,1986-11-21,21,Germany,Borussia Mönchengladbach,Bundesliga,2008/2009,2008
+Christian Dorda,Left-Back,1988-12-06,19,Germany,Borussia Mönchengladbach,Bundesliga,2008/2009,2008
+Paul Stalteri,Right-Back,1977-10-18,30,Canada,Borussia Mönchengladbach,Bundesliga,2008/2009,2008
+Tobias Levels,Right-Back,1986-11-22,21,Germany,Borussia Mönchengladbach,Bundesliga,2008/2009,2008
+Sebastian Schachten,Right-Back,1984-11-06,23,Germany,Borussia Mönchengladbach,Bundesliga,2008/2009,2008
+Tomás Galásek,Defensive Midfield,1973-01-15,35,Czech Republic,Borussia Mönchengladbach,Bundesliga,2008/2009,2008
+Gal Alberman,Defensive Midfield,1983-04-17,25,Israel,Borussia Mönchengladbach,Bundesliga,2008/2009,2008
+Sebastian Svärd,Defensive Midfield,1983-01-15,25,Denmark,Borussia Mönchengladbach,Bundesliga,2008/2009,2008
+Michael Bradley,Central Midfield,1987-07-31,20,United States,Borussia Mönchengladbach,Bundesliga,2008/2009,2008
+Marcel Ndjeng,Right Midfield,1982-05-06,26,Cameroon,Borussia Mönchengladbach,Bundesliga,2008/2009,2008
+Marko Marin,Attacking Midfield,1989-03-13,19,Germany,Borussia Mönchengladbach,Bundesliga,2008/2009,2008
+Soumaila Coulibaly,Attacking Midfield,1978-04-15,30,Mali,Borussia Mönchengladbach,Bundesliga,2008/2009,2008
+Alexander Baumjohann,Attacking Midfield,1987-01-23,21,Germany,Borussia Mönchengladbach,Bundesliga,2008/2009,2008
+Sharbel Touma,Attacking Midfield,1979-03-25,29,Sweden,Borussia Mönchengladbach,Bundesliga,2008/2009,2008
+Karim Matmour,Right Winger,NA,23,Algeria,Borussia Mönchengladbach,Bundesliga,2008/2009,2008
+Sascha Rösler,Second Striker,1977-10-28,30,Germany,Borussia Mönchengladbach,Bundesliga,2008/2009,2008
+Rob Friend,Centre-Forward,1981-01-23,27,Canada,Borussia Mönchengladbach,Bundesliga,2008/2009,2008
+Oliver Neuville,Centre-Forward,1973-05-01,35,Germany,Borussia Mönchengladbach,Bundesliga,2008/2009,2008
+Roberto Colautti,Centre-Forward,1982-05-24,26,Israel,Borussia Mönchengladbach,Bundesliga,2008/2009,2008
+Moses Lamidi,Centre-Forward,1988-01-05,20,Germany,Borussia Mönchengladbach,Bundesliga,2008/2009,2008
+Markus Miller,Goalkeeper,1982-04-08,26,Germany,Karlsruher SC,Bundesliga,2008/2009,2008
+Jean-François Kornetzky,Goalkeeper,1982-07-28,25,France,Karlsruher SC,Bundesliga,2008/2009,2008
+Thomas Unger,Goalkeeper,1985-01-15,23,Germany,Karlsruher SC,Bundesliga,2008/2009,2008
+Maik Franz,Centre-Back,1981-08-05,26,Germany,Karlsruher SC,Bundesliga,2008/2009,2008
+Tim Sebastian,Centre-Back,1984-01-17,24,Germany,Karlsruher SC,Bundesliga,2008/2009,2008
+Dino Drpic,Centre-Back,1981-05-26,27,Croatia,Karlsruher SC,Bundesliga,2008/2009,2008
+Stefan Buck,Centre-Back,1980-09-03,27,Germany,Karlsruher SC,Bundesliga,2008/2009,2008
+Martin Stoll,Centre-Back,1983-02-09,25,Germany,Karlsruher SC,Bundesliga,2008/2009,2008
+Sebastian Langkamp,Centre-Back,1988-01-15,20,Germany,Karlsruher SC,Bundesliga,2008/2009,2008
+Christian Eichner,Left-Back,1982-11-24,25,Germany,Karlsruher SC,Bundesliga,2008/2009,2008
+Bradley Carnell,Left-Back,1977-01-21,31,South Africa,Karlsruher SC,Bundesliga,2008/2009,2008
+Andreas Görlitz,Right-Back,1982-01-31,26,Germany,Karlsruher SC,Bundesliga,2008/2009,2008
+Stefano Celozzi,Right-Back,1988-11-02,19,Germany,Karlsruher SC,Bundesliga,2008/2009,2008
+Michael Mutzel,Defensive Midfield,1979-09-27,28,Germany,Karlsruher SC,Bundesliga,2008/2009,2008
+Marco Engelhardt,Defensive Midfield,1980-12-02,27,Germany,Karlsruher SC,Bundesliga,2008/2009,2008
+Godfried Aduobe,Defensive Midfield,1975-10-29,32,Ghana,Karlsruher SC,Bundesliga,2008/2009,2008
+Timo Staffeldt,Defensive Midfield,1984-02-09,24,Germany,Karlsruher SC,Bundesliga,2008/2009,2008
+Massimilian Porcello,Central Midfield,1980-06-23,28,Germany,Karlsruher SC,Bundesliga,2008/2009,2008
+Antônio da Silva,Attacking Midfield,1978-06-13,30,Brazil,Karlsruher SC,Bundesliga,2008/2009,2008
+Giovanni Federico,Attacking Midfield,1980-10-04,27,Italy,Karlsruher SC,Bundesliga,2008/2009,2008
+Christian Timm,Right Winger,1979-02-27,29,Germany,Karlsruher SC,Bundesliga,2008/2009,2008
+Alexander Iashvili,Second Striker,1977-10-23,30,Georgia,Karlsruher SC,Bundesliga,2008/2009,2008
+Lars Stindl,Second Striker,1988-08-26,19,Germany,Karlsruher SC,Bundesliga,2008/2009,2008
+Sebastian Freis,Centre-Forward,1985-04-23,23,Germany,Karlsruher SC,Bundesliga,2008/2009,2008
+Edmond Kapllani,Centre-Forward,1982-07-31,25,Albania,Karlsruher SC,Bundesliga,2008/2009,2008
+Joshua Kennedy,Centre-Forward,1982-08-20,25,Australia,Karlsruher SC,Bundesliga,2008/2009,2008
+Mahir Saglik,Centre-Forward,1983-01-18,25,Turkey,Karlsruher SC,Bundesliga,2008/2009,2008
+Faryd Mondragón,Goalkeeper,1971-06-21,37,Colombia,1. FC Köln,Bundesliga,2008/2009,2008
+Thomas Kessler,Goalkeeper,1986-01-20,22,Germany,1. FC Köln,Bundesliga,2008/2009,2008
+Miro Varvodic,Goalkeeper,1989-05-15,19,Croatia,1. FC Köln,Bundesliga,2008/2009,2008
+Youssef Mohamad,Centre-Back,1980-07-01,28,Lebanon,1. FC Köln,Bundesliga,2008/2009,2008
+Pedro Geromel,Centre-Back,1985-09-21,22,Brazil,1. FC Köln,Bundesliga,2008/2009,2008
+Kevin McKenna,Centre-Back,1980-01-21,28,Canada,1. FC Köln,Bundesliga,2008/2009,2008
+Marvin Matip,Centre-Back,1985-09-25,22,Cameroon,1. FC Köln,Bundesliga,2008/2009,2008
+Kevin Schöneberg,Centre-Back,1985-08-24,22,Germany,1. FC Köln,Bundesliga,2008/2009,2008
+Tobias Nickenig,Centre-Back,1984-08-01,23,Germany,1. FC Köln,Bundesliga,2008/2009,2008
+Carsten Cullmann,Centre-Back,1976-03-05,32,Germany,1. FC Köln,Bundesliga,2008/2009,2008
+Pierre Womé,Left-Back,1979-03-26,29,Cameroon,1. FC Köln,Bundesliga,2008/2009,2008
+Ümit Özat,Left-Back,1976-10-30,31,Turkey,1. FC Köln,Bundesliga,2008/2009,2008
+Fabrice Ehret,Left-Back,1979-09-28,28,France,1. FC Köln,Bundesliga,2008/2009,2008
+Miso Brecko,Right-Back,1984-05-01,24,Slovenia,1. FC Köln,Bundesliga,2008/2009,2008
+Daniel Brosinski,Right-Back,1988-07-17,19,Germany,1. FC Köln,Bundesliga,2008/2009,2008
+Michael Gardawski,Right-Back,1990-09-25,17,Germany,1. FC Köln,Bundesliga,2008/2009,2008
+Petit,Defensive Midfield,1976-09-25,31,Portugal,1. FC Köln,Bundesliga,2008/2009,2008
+Roda Antar,Defensive Midfield,1980-09-12,27,Lebanon,1. FC Köln,Bundesliga,2008/2009,2008
+Derek Boateng,Defensive Midfield,1983-05-02,25,Ghana,1. FC Köln,Bundesliga,2008/2009,2008
+Kevin Pezzoni,Defensive Midfield,1989-03-22,19,Germany,1. FC Köln,Bundesliga,2008/2009,2008
+Adam Matuschyk,Defensive Midfield,1989-02-14,19,Poland,1. FC Köln,Bundesliga,2008/2009,2008
+Michael Niedrig,Central Midfield,1980-01-12,28,Germany,1. FC Köln,Bundesliga,2008/2009,2008
+Thomas Broich,Attacking Midfield,1981-01-29,27,Germany,1. FC Köln,Bundesliga,2008/2009,2008
+Taner Yalcin,Attacking Midfield,1990-02-18,18,Germany,1. FC Köln,Bundesliga,2008/2009,2008
+Nemanja Vucicevic,Left Winger,1979-08-11,28,Serbia,1. FC Köln,Bundesliga,2008/2009,2008
+Wilfried Sanou,Left Winger,1984-03-16,24,Burkina Faso,1. FC Köln,Bundesliga,2008/2009,2008
+Adil Chihi,Right Winger,1988-02-21,20,Morocco,1. FC Köln,Bundesliga,2008/2009,2008
+Milivoje Novakovic,Centre-Forward,1979-05-18,29,Slovenia,1. FC Köln,Bundesliga,2008/2009,2008
+Manasseh Ishiaku,Centre-Forward,1983-01-09,25,Nigeria,1. FC Köln,Bundesliga,2008/2009,2008
+Sergiu Radu,Centre-Forward,1977-08-10,30,Romania,1. FC Köln,Bundesliga,2008/2009,2008
+Matthias Scherz,Centre-Forward,1971-12-14,36,Germany,1. FC Köln,Bundesliga,2008/2009,2008
+Moritz Hartmann,Centre-Forward,1986-06-20,22,Germany,1. FC Köln,Bundesliga,2008/2009,2008
+Rowen Fernández,Goalkeeper,1978-02-28,30,South Africa,Arminia Bielefeld,Bundesliga,2008/2009,2008
+Dennis Eilhoff,Goalkeeper,1982-07-31,25,Germany,Arminia Bielefeld,Bundesliga,2008/2009,2008
+Alexander Bade,Goalkeeper,1970-08-25,37,Germany,Arminia Bielefeld,Bundesliga,2008/2009,2008
+Daniel Riemer,Goalkeeper,1987-02-17,21,Germany,Arminia Bielefeld,Bundesliga,2008/2009,2008
+Andre Mijatovic,Centre-Back,1979-12-03,28,Croatia,Arminia Bielefeld,Bundesliga,2008/2009,2008
+Radim Kucera,Centre-Back,1974-03-01,34,Czech Republic,Arminia Bielefeld,Bundesliga,2008/2009,2008
+Nico Herzig,Centre-Back,1983-12-10,24,Germany,Arminia Bielefeld,Bundesliga,2008/2009,2008
+Markus Bollmann,Centre-Back,NA,27,Germany,Arminia Bielefeld,Bundesliga,2008/2009,2008
+Maik Rodenberg,Centre-Back,1989-01-29,19,Germany,Arminia Bielefeld,Bundesliga,2008/2009,2008
+Nils Fischer,Centre-Back,1987-02-14,21,Germany,Arminia Bielefeld,Bundesliga,2008/2009,2008
+Markus Schuler,Left-Back,1977-08-01,30,Germany,Arminia Bielefeld,Bundesliga,2008/2009,2008
+Tobias Rau,Left-Back,1981-12-31,26,Germany,Arminia Bielefeld,Bundesliga,2008/2009,2008
+Michael Lamey,Right-Back,1979-11-29,28,Netherlands,Arminia Bielefeld,Bundesliga,2008/2009,2008
+Thilo Versick,Midfielder,1985-11-27,22,Germany,Arminia Bielefeld,Bundesliga,2008/2009,2008
+Rüdiger Kauf,Defensive Midfield,1975-03-01,33,Germany,Arminia Bielefeld,Bundesliga,2008/2009,2008
+Oliver Kirch,Defensive Midfield,1982-08-21,25,Germany,Arminia Bielefeld,Bundesliga,2008/2009,2008
+Thorben Marx,Defensive Midfield,1981-06-01,27,Germany,Arminia Bielefeld,Bundesliga,2008/2009,2008
+Robert Tesche,Central Midfield,1987-05-27,21,Germany,Arminia Bielefeld,Bundesliga,2008/2009,2008
+Kevin Kerr,Central Midfield,1989-01-12,19,Scotland,Arminia Bielefeld,Bundesliga,2008/2009,2008
+Jonas Kamper,Right Midfield,1983-05-03,25,Denmark,Arminia Bielefeld,Bundesliga,2008/2009,2008
+Vlad Munteanu,Left Midfield,1981-01-16,27,Romania,Arminia Bielefeld,Bundesliga,2008/2009,2008
+Alexander Laas,Left Midfield,1984-05-05,24,Germany,Arminia Bielefeld,Bundesliga,2008/2009,2008
+Daniel Halfar,Attacking Midfield,NA,20,Germany,Arminia Bielefeld,Bundesliga,2008/2009,2008
+Siyabonga Nkosi,Attacking Midfield,1981-08-22,26,South Africa,Arminia Bielefeld,Bundesliga,2008/2009,2008
+Zlatko Janjic,Attacking Midfield,1986-05-07,22,Bosnia-Herzegovina,Arminia Bielefeld,Bundesliga,2008/2009,2008
+Stefan Aigner,Second Striker,1987-08-20,20,Germany,Arminia Bielefeld,Bundesliga,2008/2009,2008
+Artur Wichniarek,Centre-Forward,1977-02-28,31,Poland,Arminia Bielefeld,Bundesliga,2008/2009,2008
+Christopher Katongo,Centre-Forward,1982-08-31,25,Zambia,Arminia Bielefeld,Bundesliga,2008/2009,2008
+Berat Sadik,Centre-Forward,1986-09-14,21,Finland,Arminia Bielefeld,Bundesliga,2008/2009,2008
+Leonidas Kampantais,Centre-Forward,1982-03-08,26,Greece,Arminia Bielefeld,Bundesliga,2008/2009,2008
+Gerhard Tremmel,Goalkeeper,1978-11-16,29,Germany,FC Energie Cottbus,Bundesliga,2008/2009,2008
+Tomislav Piplica,Goalkeeper,1969-04-05,39,Bosnia-Herzegovina,FC Energie Cottbus,Bundesliga,2008/2009,2008
+Philipp Pentke,Goalkeeper,1985-05-01,23,Germany,FC Energie Cottbus,Bundesliga,2008/2009,2008
+Igor Mitreski,Centre-Back,1979-02-19,29,North Macedonia,FC Energie Cottbus,Bundesliga,2008/2009,2008
+Christian Bassila,Centre-Back,1977-10-05,30,France,FC Energie Cottbus,Bundesliga,2008/2009,2008
+Cagdas Atan,Centre-Back,1980-02-29,28,Turkey,FC Energie Cottbus,Bundesliga,2008/2009,2008
+Mariusz Kukielka,Centre-Back,1976-11-07,31,Poland,FC Energie Cottbus,Bundesliga,2008/2009,2008
+Mario Cvitanovic,Centre-Back,1975-05-06,33,Croatia,FC Energie Cottbus,Bundesliga,2008/2009,2008
+Jan Rajnoch,Centre-Back,1981-09-30,26,Czech Republic,FC Energie Cottbus,Bundesliga,2008/2009,2008
+Ivan Radeljic,Centre-Back,1980-09-14,27,Bosnia-Herzegovina,FC Energie Cottbus,Bundesliga,2008/2009,2008
+Savo Pavicevic,Centre-Back,1980-12-11,27,Montenegro,FC Energie Cottbus,Bundesliga,2008/2009,2008
+Ovidiu Burca,Centre-Back,1980-03-16,28,Romania,FC Energie Cottbus,Bundesliga,2008/2009,2008
+Thomas Franke,Centre-Back,1988-01-21,20,Germany,FC Energie Cottbus,Bundesliga,2008/2009,2008
+Peter Hackenberg,Centre-Back,1989-02-06,19,Germany,FC Energie Cottbus,Bundesliga,2008/2009,2008
+Daniel Ziebig,Left-Back,1983-01-21,25,Germany,FC Energie Cottbus,Bundesliga,2008/2009,2008
+Vragel da Silva,Right-Back,1974-03-29,34,Brazil,FC Energie Cottbus,Bundesliga,2008/2009,2008
+Alexander Bittroff,Right-Back,1988-09-19,19,Germany,FC Energie Cottbus,Bundesliga,2008/2009,2008
+Stanislav Angelov,Defensive Midfield,1978-04-12,30,Bulgaria,FC Energie Cottbus,Bundesliga,2008/2009,2008
+Timo Rost,Defensive Midfield,1978-08-29,29,Germany,FC Energie Cottbus,Bundesliga,2008/2009,2008
+Marco Kurth,Defensive Midfield,1978-08-18,29,Germany,FC Energie Cottbus,Bundesliga,2008/2009,2008
+Michael Lerchl,Right Midfield,1986-08-09,21,Germany,FC Energie Cottbus,Bundesliga,2008/2009,2008
+Jiayi Shao,Left Midfield,1980-04-10,28,China,FC Energie Cottbus,Bundesliga,2008/2009,2008
+Ervin Skela,Attacking Midfield,1976-11-17,31,Albania,FC Energie Cottbus,Bundesliga,2008/2009,2008
+Stiven Rivic,Attacking Midfield,1985-08-09,22,Croatia,FC Energie Cottbus,Bundesliga,2008/2009,2008
+Dusan Vasiljevic,Attacking Midfield,1982-05-07,26,Serbia,FC Energie Cottbus,Bundesliga,2008/2009,2008
+Christian Müller,Attacking Midfield,1984-02-28,24,Germany,FC Energie Cottbus,Bundesliga,2008/2009,2008
+Ivica Iliev,Second Striker,1979-10-27,28,Serbia,FC Energie Cottbus,Bundesliga,2008/2009,2008
+Dimitar Rangelov,Centre-Forward,1983-02-09,25,Bulgaria,FC Energie Cottbus,Bundesliga,2008/2009,2008
+Dennis Sörensen,Centre-Forward,1981-05-24,27,Denmark,FC Energie Cottbus,Bundesliga,2008/2009,2008
+Emil Jula,Centre-Forward,NA,28,Romania,FC Energie Cottbus,Bundesliga,2008/2009,2008
+Branko Jelic,Centre-Forward,1977-05-05,31,Serbia,FC Energie Cottbus,Bundesliga,2008/2009,2008
+Adi Rocha,Centre-Forward,1985-12-15,22,Brazil,FC Energie Cottbus,Bundesliga,2008/2009,2008
+Nils Petersen,Centre-Forward,1988-12-06,19,Germany,FC Energie Cottbus,Bundesliga,2008/2009,2008
+Danny Galm,Centre-Forward,1986-03-17,22,Germany,FC Energie Cottbus,Bundesliga,2008/2009,2008
+Marc-Philipp Zimmermann,Centre-Forward,1990-03-22,18,Germany,FC Energie Cottbus,Bundesliga,2008/2009,2008

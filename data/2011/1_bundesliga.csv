@@ -1,0 +1,602 @@
+player_name,position,date_of_birth,age,nationality,club_name,league_name,season,year
+Manuel Neuer,Goalkeeper,1986-03-27,25,Germany,Bayern Munich,Bundesliga,2011/2012,2011
+Hans Jörg Butt,Goalkeeper,1974-05-28,37,Germany,Bayern Munich,Bundesliga,2011/2012,2011
+Rouven Sattelmaier,Goalkeeper,1987-08-07,23,Germany,Bayern Munich,Bundesliga,2011/2012,2011
+Maximilian Riedmüller,Goalkeeper,1988-01-04,23,Germany,Bayern Munich,Bundesliga,2011/2012,2011
+Jérôme Boateng,Centre-Back,1988-09-03,22,Germany,Bayern Munich,Bundesliga,2011/2012,2011
+Holger Badstuber,Centre-Back,1989-03-13,22,Germany,Bayern Munich,Bundesliga,2011/2012,2011
+Breno,Centre-Back,1989-10-13,21,Brazil,Bayern Munich,Bundesliga,2011/2012,2011
+Daniel Van Buyten,Centre-Back,1978-02-07,33,Belgium,Bayern Munich,Bundesliga,2011/2012,2011
+Danijel Pranjic,Left-Back,1981-12-02,29,Croatia,Bayern Munich,Bundesliga,2011/2012,2011
+David Alaba,Left-Back,1992-06-24,19,Austria,Bayern Munich,Bundesliga,2011/2012,2011
+Diego Contento,Left-Back,1990-05-01,21,Germany,Bayern Munich,Bundesliga,2011/2012,2011
+Philipp Lahm,Right-Back,1983-11-11,27,Germany,Bayern Munich,Bundesliga,2011/2012,2011
+Rafinha,Right-Back,1985-09-07,25,Brazil,Bayern Munich,Bundesliga,2011/2012,2011
+Luiz Gustavo,Defensive Midfield,1987-07-23,23,Brazil,Bayern Munich,Bundesliga,2011/2012,2011
+Anatoliy Tymoshchuk,Defensive Midfield,1979-03-30,32,Ukraine,Bayern Munich,Bundesliga,2011/2012,2011
+Emre Can,Defensive Midfield,1994-01-12,17,Germany,Bayern Munich,Bundesliga,2011/2012,2011
+Bastian Schweinsteiger,Central Midfield,1984-08-01,26,Germany,Bayern Munich,Bundesliga,2011/2012,2011
+Toni Kroos,Central Midfield,1990-01-04,21,Germany,Bayern Munich,Bundesliga,2011/2012,2011
+Franck Ribéry,Left Winger,1983-04-07,28,France,Bayern Munich,Bundesliga,2011/2012,2011
+Takashi Usami,Left Winger,1992-05-06,19,Japan,Bayern Munich,Bundesliga,2011/2012,2011
+Arjen Robben,Right Winger,1984-01-23,27,Netherlands,Bayern Munich,Bundesliga,2011/2012,2011
+Thomas Müller,Second Striker,1989-09-13,21,Germany,Bayern Munich,Bundesliga,2011/2012,2011
+Mario Gómez,Centre-Forward,1985-07-10,25,Germany,Bayern Munich,Bundesliga,2011/2012,2011
+Ivica Olic,Centre-Forward,1979-09-14,31,Croatia,Bayern Munich,Bundesliga,2011/2012,2011
+Nils Petersen,Centre-Forward,1988-12-06,22,Germany,Bayern Munich,Bundesliga,2011/2012,2011
+Roman Weidenfeller,Goalkeeper,1980-08-06,30,Germany,Borussia Dortmund,Bundesliga,2011/2012,2011
+Mitchell Langerak,Goalkeeper,1988-08-22,22,Australia,Borussia Dortmund,Bundesliga,2011/2012,2011
+Johannes Focher,Goalkeeper,1990-01-20,21,Germany,Borussia Dortmund,Bundesliga,2011/2012,2011
+Neven Subotic,Centre-Back,1988-12-10,22,Serbia,Borussia Dortmund,Bundesliga,2011/2012,2011
+Mats Hummels,Centre-Back,1988-12-16,22,Germany,Borussia Dortmund,Bundesliga,2011/2012,2011
+Sven Bender,Centre-Back,1989-04-27,22,Germany,Borussia Dortmund,Bundesliga,2011/2012,2011
+Felipe Santana,Centre-Back,1986-03-17,25,Brazil,Borussia Dortmund,Bundesliga,2011/2012,2011
+Marc Hornschuh,Centre-Back,1991-03-02,20,Germany,Borussia Dortmund,Bundesliga,2011/2012,2011
+Marcel Schmelzer,Left-Back,1988-01-22,23,Germany,Borussia Dortmund,Bundesliga,2011/2012,2011
+Chris Löwe,Left-Back,1989-04-16,22,Germany,Borussia Dortmund,Bundesliga,2011/2012,2011
+Kevin Großkreutz,Right-Back,1988-07-19,22,Germany,Borussia Dortmund,Bundesliga,2011/2012,2011
+Lukasz Piszczek,Right-Back,1985-06-03,26,Poland,Borussia Dortmund,Bundesliga,2011/2012,2011
+Patrick Owomoyela,Right-Back,1979-11-05,31,Germany,Borussia Dortmund,Bundesliga,2011/2012,2011
+Sebastian Kehl,Defensive Midfield,1980-02-13,31,Germany,Borussia Dortmund,Bundesliga,2011/2012,2011
+Julian Koch,Defensive Midfield,1990-11-11,20,Germany,Borussia Dortmund,Bundesliga,2011/2012,2011
+Damien Le Tallec,Defensive Midfield,1990-04-19,21,France,Borussia Dortmund,Bundesliga,2011/2012,2011
+Ilkay Gündogan,Central Midfield,1990-10-24,20,Germany,Borussia Dortmund,Bundesliga,2011/2012,2011
+Moritz Leitner,Central Midfield,1992-12-08,18,Germany,Borussia Dortmund,Bundesliga,2011/2012,2011
+Florian Kringe,Central Midfield,1982-08-18,28,Germany,Borussia Dortmund,Bundesliga,2011/2012,2011
+Mario Vrancic,Central Midfield,1989-05-23,22,Bosnia-Herzegovina,Borussia Dortmund,Bundesliga,2011/2012,2011
+Marvin Bakalorz,Central Midfield,1989-09-13,21,Germany,Borussia Dortmund,Bundesliga,2011/2012,2011
+Mario Götze,Attacking Midfield,1992-06-03,19,Germany,Borussia Dortmund,Bundesliga,2011/2012,2011
+Shinji Kagawa,Attacking Midfield,1989-03-17,22,Japan,Borussia Dortmund,Bundesliga,2011/2012,2011
+Antônio da Silva,Attacking Midfield,1978-06-13,33,Brazil,Borussia Dortmund,Bundesliga,2011/2012,2011
+Ivan Perisic,Left Winger,1989-02-02,22,Croatia,Borussia Dortmund,Bundesliga,2011/2012,2011
+Jakub Blaszczykowski,Right Winger,1985-12-14,25,Poland,Borussia Dortmund,Bundesliga,2011/2012,2011
+Mohamed Zidan,Second Striker,1981-12-11,29,Egypt,Borussia Dortmund,Bundesliga,2011/2012,2011
+Lucas Barrios,Centre-Forward,1984-11-13,26,Paraguay,Borussia Dortmund,Bundesliga,2011/2012,2011
+Robert Lewandowski,Centre-Forward,1988-08-21,22,Poland,Borussia Dortmund,Bundesliga,2011/2012,2011
+Terrence Boyd,Centre-Forward,1991-02-16,20,United States,Borussia Dortmund,Bundesliga,2011/2012,2011
+René Adler,Goalkeeper,1985-01-15,26,Germany,Bayer 04 Leverkusen,Bundesliga,2011/2012,2011
+David Yelldell,Goalkeeper,1981-10-01,29,United States,Bayer 04 Leverkusen,Bundesliga,2011/2012,2011
+Bernd Leno,Goalkeeper,1992-03-04,19,Germany,Bayer 04 Leverkusen,Bundesliga,2011/2012,2011
+Fabian Giefer,Goalkeeper,1990-05-17,21,Germany,Bayer 04 Leverkusen,Bundesliga,2011/2012,2011
+Vedran Corluka,Centre-Back,1986-02-05,25,Croatia,Bayer 04 Leverkusen,Bundesliga,2011/2012,2011
+Daniel Schwaab,Centre-Back,1988-08-23,22,Germany,Bayer 04 Leverkusen,Bundesliga,2011/2012,2011
+Ömer Toprak,Centre-Back,1989-07-21,21,Turkey,Bayer 04 Leverkusen,Bundesliga,2011/2012,2011
+Manuel Friedrich,Centre-Back,1979-09-13,31,Germany,Bayer 04 Leverkusen,Bundesliga,2011/2012,2011
+Michal Kadlec,Left-Back,1984-12-13,26,Czech Republic,Bayer 04 Leverkusen,Bundesliga,2011/2012,2011
+Bastian Oczipka,Left-Back,1989-01-12,22,Germany,Bayer 04 Leverkusen,Bundesliga,2011/2012,2011
+Danny da Costa,Right-Back,1993-07-13,17,Germany,Bayer 04 Leverkusen,Bundesliga,2011/2012,2011
+Stefan Reinartz,Defensive Midfield,1989-01-01,22,Germany,Bayer 04 Leverkusen,Bundesliga,2011/2012,2011
+Simon Rolfes,Defensive Midfield,1982-01-21,29,Germany,Bayer 04 Leverkusen,Bundesliga,2011/2012,2011
+Lars Bender,Defensive Midfield,1989-04-27,22,Germany,Bayer 04 Leverkusen,Bundesliga,2011/2012,2011
+Hanno Balitsch,Defensive Midfield,1981-01-02,30,Germany,Bayer 04 Leverkusen,Bundesliga,2011/2012,2011
+Renato Augusto,Central Midfield,1988-02-08,23,Brazil,Bayer 04 Leverkusen,Bundesliga,2011/2012,2011
+Gonzalo Castro,Central Midfield,1987-06-11,24,Germany,Bayer 04 Leverkusen,Bundesliga,2011/2012,2011
+Michael Ballack,Central Midfield,1976-09-26,34,Germany,Bayer 04 Leverkusen,Bundesliga,2011/2012,2011
+Erik Zenga,Central Midfield,1993-01-18,18,Germany,Bayer 04 Leverkusen,Bundesliga,2011/2012,2011
+Dominik Kohr,Central Midfield,1994-01-31,17,Germany,Bayer 04 Leverkusen,Bundesliga,2011/2012,2011
+Tranquillo Barnetta,Attacking Midfield,1985-05-22,26,Switzerland,Bayer 04 Leverkusen,Bundesliga,2011/2012,2011
+Michael Ortega,Attacking Midfield,1991-04-06,20,Colombia,Bayer 04 Leverkusen,Bundesliga,2011/2012,2011
+Kolja Pusch,Attacking Midfield,1993-02-12,18,Germany,Bayer 04 Leverkusen,Bundesliga,2011/2012,2011
+André Schürrle,Left Winger,1990-11-06,20,Germany,Bayer 04 Leverkusen,Bundesliga,2011/2012,2011
+Sidney Sam,Right Winger,1988-01-31,23,Germany,Bayer 04 Leverkusen,Bundesliga,2011/2012,2011
+Karim Bellarabi,Right Winger,1990-04-08,21,Germany,Bayer 04 Leverkusen,Bundesliga,2011/2012,2011
+Stefan Kießling,Centre-Forward,1984-01-25,27,Germany,Bayer 04 Leverkusen,Bundesliga,2011/2012,2011
+Eren Derdiyok,Centre-Forward,1988-06-12,23,Switzerland,Bayer 04 Leverkusen,Bundesliga,2011/2012,2011
+Nicolai Jörgensen,Centre-Forward,1991-01-15,20,Denmark,Bayer 04 Leverkusen,Bundesliga,2011/2012,2011
+Samed Yesil,Centre-Forward,1994-05-25,17,Germany,Bayer 04 Leverkusen,Bundesliga,2011/2012,2011
+Timo Hildebrand,Goalkeeper,1979-04-05,32,Germany,FC Schalke 04,Bundesliga,2011/2012,2011
+Ralf Fährmann,Goalkeeper,1988-09-27,22,Germany,FC Schalke 04,Bundesliga,2011/2012,2011
+Mathias Schober,Goalkeeper,1976-04-08,35,Germany,FC Schalke 04,Bundesliga,2011/2012,2011
+Lars Unnerstall,Goalkeeper,1990-07-20,20,Germany,FC Schalke 04,Bundesliga,2011/2012,2011
+Robin Himmelmann,Goalkeeper,1989-02-05,22,Germany,FC Schalke 04,Bundesliga,2011/2012,2011
+Benedikt Höwedes,Centre-Back,1988-02-29,23,Germany,FC Schalke 04,Bundesliga,2011/2012,2011
+Kyriakos Papadopoulos,Centre-Back,1992-02-23,19,Greece,FC Schalke 04,Bundesliga,2011/2012,2011
+Christoph Metzelder,Centre-Back,1980-11-05,30,Germany,FC Schalke 04,Bundesliga,2011/2012,2011
+Joel Matip,Centre-Back,1991-08-08,19,Cameroon,FC Schalke 04,Bundesliga,2011/2012,2011
+Tim Hoogland,Centre-Back,1985-06-11,26,Germany,FC Schalke 04,Bundesliga,2011/2012,2011
+Alban Sabah,Centre-Back,1992-06-22,19,Togo,FC Schalke 04,Bundesliga,2011/2012,2011
+Christian Fuchs,Left-Back,1986-04-07,25,Austria,FC Schalke 04,Bundesliga,2011/2012,2011
+Sergio Escudero,Left-Back,1989-09-02,21,Spain,FC Schalke 04,Bundesliga,2011/2012,2011
+Hans Sarpei,Left-Back,1976-06-28,35,Ghana,FC Schalke 04,Bundesliga,2011/2012,2011
+Sead Kolasinac,Left-Back,1993-06-20,18,Bosnia-Herzegovina,FC Schalke 04,Bundesliga,2011/2012,2011
+Atsuto Uchida,Right-Back,1988-03-27,23,Japan,FC Schalke 04,Bundesliga,2011/2012,2011
+Alexander Langlitz,Right-Back,1991-02-15,20,Germany,FC Schalke 04,Bundesliga,2011/2012,2011
+Andreas Wiegel,Right-Back,1991-07-21,19,Germany,FC Schalke 04,Bundesliga,2011/2012,2011
+Jermaine Jones,Defensive Midfield,1981-11-03,29,United States,FC Schalke 04,Bundesliga,2011/2012,2011
+Peer Kluge,Defensive Midfield,1980-11-22,30,Germany,FC Schalke 04,Bundesliga,2011/2012,2011
+Anthony Annan,Defensive Midfield,1986-07-21,24,Ghana,FC Schalke 04,Bundesliga,2011/2012,2011
+Marco Höger,Defensive Midfield,1989-09-16,21,Germany,FC Schalke 04,Bundesliga,2011/2012,2011
+Nils Zander,Defensive Midfield,1993-02-06,18,Germany,FC Schalke 04,Bundesliga,2011/2012,2011
+Jan Morávek,Central Midfield,1989-11-01,21,Czech Republic,FC Schalke 04,Bundesliga,2011/2012,2011
+Christoph Moritz,Central Midfield,1990-01-27,21,Germany,FC Schalke 04,Bundesliga,2011/2012,2011
+José Manuel Jurado,Attacking Midfield,1986-06-29,25,Spain,FC Schalke 04,Bundesliga,2011/2012,2011
+Lewis Holtby,Attacking Midfield,1990-09-18,20,Germany,FC Schalke 04,Bundesliga,2011/2012,2011
+Julian Draxler,Attacking Midfield,1993-09-20,17,Germany,FC Schalke 04,Bundesliga,2011/2012,2011
+Alexander Baumjohann,Attacking Midfield,1987-01-23,24,Germany,FC Schalke 04,Bundesliga,2011/2012,2011
+Levan Kenia,Attacking Midfield,1990-10-18,20,Georgia,FC Schalke 04,Bundesliga,2011/2012,2011
+Jefferson Farfán,Right Winger,1984-10-26,26,Peru,FC Schalke 04,Bundesliga,2011/2012,2011
+Chinedu Obasi,Right Winger,1986-06-01,25,Nigeria,FC Schalke 04,Bundesliga,2011/2012,2011
+Raúl,Second Striker,1977-06-27,34,Spain,FC Schalke 04,Bundesliga,2011/2012,2011
+Klaas-Jan Huntelaar,Centre-Forward,1983-08-12,27,Netherlands,FC Schalke 04,Bundesliga,2011/2012,2011
+Ciprian Marica,Centre-Forward,1985-10-02,25,Romania,FC Schalke 04,Bundesliga,2011/2012,2011
+Edú,Centre-Forward,1981-11-30,29,Brazil,FC Schalke 04,Bundesliga,2011/2012,2011
+Mario Gavranovic,Centre-Forward,1989-11-24,21,Switzerland,FC Schalke 04,Bundesliga,2011/2012,2011
+Teemu Pukki,Centre-Forward,1990-03-29,21,Finland,FC Schalke 04,Bundesliga,2011/2012,2011
+Philipp Hofmann,Centre-Forward,1993-03-30,18,Germany,FC Schalke 04,Bundesliga,2011/2012,2011
+Tim Wiese,Goalkeeper,1981-12-17,29,Germany,SV Werder Bremen,Bundesliga,2011/2012,2011
+Sebastian Mielitz,Goalkeeper,1989-07-18,21,Germany,SV Werder Bremen,Bundesliga,2011/2012,2011
+Christian Vander,Goalkeeper,1980-10-24,30,Germany,SV Werder Bremen,Bundesliga,2011/2012,2011
+Per Mertesacker,Centre-Back,1984-09-29,26,Germany,SV Werder Bremen,Bundesliga,2011/2012,2011
+Naldo,Centre-Back,1982-09-10,28,Brazil,SV Werder Bremen,Bundesliga,2011/2012,2011
+Sokratis,Centre-Back,1988-06-09,23,Greece,SV Werder Bremen,Bundesliga,2011/2012,2011
+Sebastian Prödl,Centre-Back,1987-06-21,24,Austria,SV Werder Bremen,Bundesliga,2011/2012,2011
+Andreas Wolf,Centre-Back,1982-06-12,29,Germany,SV Werder Bremen,Bundesliga,2011/2012,2011
+Mikaël Silvestre,Centre-Back,1977-08-09,33,France,SV Werder Bremen,Bundesliga,2011/2012,2011
+François Affolter,Centre-Back,1991-03-13,20,Switzerland,SV Werder Bremen,Bundesliga,2011/2012,2011
+Leon Balogun,Centre-Back,1988-06-28,23,Nigeria,SV Werder Bremen,Bundesliga,2011/2012,2011
+Clemens Schoppenhauer,Centre-Back,1992-02-23,19,Germany,SV Werder Bremen,Bundesliga,2011/2012,2011
+Sebastian Boenisch,Left-Back,1987-02-01,24,Poland,SV Werder Bremen,Bundesliga,2011/2012,2011
+Lukas Schmitz,Left-Back,1988-10-13,22,Germany,SV Werder Bremen,Bundesliga,2011/2012,2011
+Florian Hartherz,Left-Back,1993-05-29,18,Germany,SV Werder Bremen,Bundesliga,2011/2012,2011
+Philipp Bargfrede,Defensive Midfield,1989-03-03,22,Germany,SV Werder Bremen,Bundesliga,2011/2012,2011
+Aleksandar Ignjovski,Defensive Midfield,1991-01-27,20,Serbia,SV Werder Bremen,Bundesliga,2011/2012,2011
+Tom Trybull,Defensive Midfield,1993-03-09,18,Germany,SV Werder Bremen,Bundesliga,2011/2012,2011
+Wesley,Central Midfield,1987-06-24,24,Brazil,SV Werder Bremen,Bundesliga,2011/2012,2011
+Clemens Fritz,Central Midfield,1980-12-07,30,Germany,SV Werder Bremen,Bundesliga,2011/2012,2011
+Tim Borowski,Central Midfield,1980-05-02,31,Germany,SV Werder Bremen,Bundesliga,2011/2012,2011
+Zlatko Junuzovic,Central Midfield,1987-09-26,23,Austria,SV Werder Bremen,Bundesliga,2011/2012,2011
+Felix Kroos,Central Midfield,1991-03-12,20,Germany,SV Werder Bremen,Bundesliga,2011/2012,2011
+Aleksandar Stevanovic,Central Midfield,1992-02-16,19,Germany,SV Werder Bremen,Bundesliga,2011/2012,2011
+Marko Marin,Attacking Midfield,1989-03-13,22,Germany,SV Werder Bremen,Bundesliga,2011/2012,2011
+Mehmet Ekici,Attacking Midfield,1990-03-25,21,Turkey,SV Werder Bremen,Bundesliga,2011/2012,2011
+Aaron Hunt,Attacking Midfield,1986-09-04,24,Germany,SV Werder Bremen,Bundesliga,2011/2012,2011
+Florian Trinks,Attacking Midfield,1992-03-11,19,Germany,SV Werder Bremen,Bundesliga,2011/2012,2011
+Predrag Stevanovic,Attacking Midfield,1991-03-03,20,Serbia,SV Werder Bremen,Bundesliga,2011/2012,2011
+Özkan Yildirim,Attacking Midfield,1993-04-10,18,Germany,SV Werder Bremen,Bundesliga,2011/2012,2011
+Onur Ayik,Right Winger,1990-01-28,21,Turkey,SV Werder Bremen,Bundesliga,2011/2012,2011
+Claudio Pizarro,Centre-Forward,1978-10-03,32,Peru,SV Werder Bremen,Bundesliga,2011/2012,2011
+Marko Arnautovic,Centre-Forward,1989-04-19,22,Austria,SV Werder Bremen,Bundesliga,2011/2012,2011
+Markus Rosenberg,Centre-Forward,1982-09-27,28,Sweden,SV Werder Bremen,Bundesliga,2011/2012,2011
+Denni Avdic,Centre-Forward,1988-09-05,22,Sweden,SV Werder Bremen,Bundesliga,2011/2012,2011
+Sandro Wagner,Centre-Forward,1987-11-29,23,Germany,SV Werder Bremen,Bundesliga,2011/2012,2011
+Lennart Thy,Centre-Forward,1992-02-25,19,Germany,SV Werder Bremen,Bundesliga,2011/2012,2011
+Niclas Füllkrug,Centre-Forward,1993-02-09,18,Germany,SV Werder Bremen,Bundesliga,2011/2012,2011
+Diego Benaglio,Goalkeeper,1983-09-08,27,Switzerland,VfL Wolfsburg,Bundesliga,2011/2012,2011
+Marwin Hitz,Goalkeeper,1987-09-18,23,Switzerland,VfL Wolfsburg,Bundesliga,2011/2012,2011
+André Lenz,Goalkeeper,1973-11-19,37,Germany,VfL Wolfsburg,Bundesliga,2011/2012,2011
+Simon Kjær,Centre-Back,1989-03-26,22,Denmark,VfL Wolfsburg,Bundesliga,2011/2012,2011
+Felipe Lopes,Centre-Back,1987-08-07,23,Brazil,VfL Wolfsburg,Bundesliga,2011/2012,2011
+Sotiris Kyrgiakos,Centre-Back,1979-07-23,31,Greece,VfL Wolfsburg,Bundesliga,2011/2012,2011
+Marco Russ,Centre-Back,1985-08-04,25,Germany,VfL Wolfsburg,Bundesliga,2011/2012,2011
+Alexander Madlung,Centre-Back,1982-07-11,28,Germany,VfL Wolfsburg,Bundesliga,2011/2012,2011
+Chris,Centre-Back,1978-08-25,32,Brazil,VfL Wolfsburg,Bundesliga,2011/2012,2011
+Robin Knoche,Centre-Back,1992-05-22,19,Germany,VfL Wolfsburg,Bundesliga,2011/2012,2011
+Bjarne Thoelke,Centre-Back,1992-04-11,19,Germany,VfL Wolfsburg,Bundesliga,2011/2012,2011
+Vieirinha,Left-Back,1986-01-24,25,Portugal,VfL Wolfsburg,Bundesliga,2011/2012,2011
+Marcel Schäfer,Left-Back,1984-06-07,27,Germany,VfL Wolfsburg,Bundesliga,2011/2012,2011
+Hrvoje Cale,Left-Back,1985-03-04,26,Croatia,VfL Wolfsburg,Bundesliga,2011/2012,2011
+Ricardo Rodríguez,Left-Back,1992-08-25,18,Switzerland,VfL Wolfsburg,Bundesliga,2011/2012,2011
+Patrick Ochs,Right-Back,1984-05-14,27,Germany,VfL Wolfsburg,Bundesliga,2011/2012,2011
+Peter Pekarik,Right-Back,1986-10-30,24,Slovakia,VfL Wolfsburg,Bundesliga,2011/2012,2011
+Michael Schulze,Right-Back,1989-01-13,22,Germany,VfL Wolfsburg,Bundesliga,2011/2012,2011
+Christian Träsch,Defensive Midfield,1987-09-01,23,Germany,VfL Wolfsburg,Bundesliga,2011/2012,2011
+Makoto Hasebe,Defensive Midfield,1984-01-18,27,Japan,VfL Wolfsburg,Bundesliga,2011/2012,2011
+Josué,Defensive Midfield,1979-07-19,31,Brazil,VfL Wolfsburg,Bundesliga,2011/2012,2011
+Jan Polak,Defensive Midfield,1981-03-14,30,Czech Republic,VfL Wolfsburg,Bundesliga,2011/2012,2011
+Slobodan Medojevic,Defensive Midfield,1990-10-20,20,Serbia,VfL Wolfsburg,Bundesliga,2011/2012,2011
+Michael Mutzel,Defensive Midfield,1979-09-27,31,Germany,VfL Wolfsburg,Bundesliga,2011/2012,2011
+Sebastian Schindzielorz,Defensive Midfield,1979-01-21,32,Germany,VfL Wolfsburg,Bundesliga,2011/2012,2011
+Thomas Hitzlsperger,Central Midfield,1982-04-05,29,Germany,VfL Wolfsburg,Bundesliga,2011/2012,2011
+Ja-cheol Koo,Central Midfield,1989-02-27,22,"Korea, South",VfL Wolfsburg,Bundesliga,2011/2012,2011
+Mateusz Klich,Central Midfield,1990-06-13,21,Poland,VfL Wolfsburg,Bundesliga,2011/2012,2011
+Petr Jiracek,Central Midfield,1986-03-02,25,Czech Republic,VfL Wolfsburg,Bundesliga,2011/2012,2011
+Tolga Cigerci,Central Midfield,1992-03-23,19,Turkey,VfL Wolfsburg,Bundesliga,2011/2012,2011
+Maximilian Arnold,Central Midfield,1994-05-27,17,Germany,VfL Wolfsburg,Bundesliga,2011/2012,2011
+Hasan Salihamidzic,Right Midfield,1977-01-01,34,Bosnia-Herzegovina,VfL Wolfsburg,Bundesliga,2011/2012,2011
+Aleksandr Hleb,Attacking Midfield,1981-05-01,30,Belarus,VfL Wolfsburg,Bundesliga,2011/2012,2011
+Ferhan Hasani,Attacking Midfield,1990-06-18,21,North Macedonia,VfL Wolfsburg,Bundesliga,2011/2012,2011
+Tuncay Sanli,Left Winger,1982-01-16,29,Turkey,VfL Wolfsburg,Bundesliga,2011/2012,2011
+Yohandry Orozco,Left Winger,1991-03-19,20,Venezuela,VfL Wolfsburg,Bundesliga,2011/2012,2011
+Ashkan Dejagah,Right Winger,1986-07-05,24,Iran,VfL Wolfsburg,Bundesliga,2011/2012,2011
+Ibrahim Sissoko,Right Winger,1991-11-29,19,Cote d'Ivoire,VfL Wolfsburg,Bundesliga,2011/2012,2011
+Kevin Scheidhauer,Second Striker,1992-02-13,19,Germany,VfL Wolfsburg,Bundesliga,2011/2012,2011
+Mario Mandzukic,Centre-Forward,1986-05-21,25,Croatia,VfL Wolfsburg,Bundesliga,2011/2012,2011
+Srdjan Lakic,Centre-Forward,1983-10-02,27,Croatia,VfL Wolfsburg,Bundesliga,2011/2012,2011
+Patrick Helmes,Centre-Forward,1984-03-01,27,Germany,VfL Wolfsburg,Bundesliga,2011/2012,2011
+Rasmus Jönsson,Centre-Forward,1990-01-27,21,Sweden,VfL Wolfsburg,Bundesliga,2011/2012,2011
+Giovanni Sio,Centre-Forward,1989-03-31,22,Cote d'Ivoire,VfL Wolfsburg,Bundesliga,2011/2012,2011
+Sebastian Polter,Centre-Forward,1991-04-01,20,Germany,VfL Wolfsburg,Bundesliga,2011/2012,2011
+Jaroslav Drobny,Goalkeeper,1979-10-18,31,Czech Republic,Hamburger SV,Bundesliga,2011/2012,2011
+Sven Neuhaus,Goalkeeper,1978-04-04,33,Germany,Hamburger SV,Bundesliga,2011/2012,2011
+Tom Mickel,Goalkeeper,1989-04-19,22,Germany,Hamburger SV,Bundesliga,2011/2012,2011
+Florian Stritzel,Goalkeeper,1994-01-31,17,Germany,Hamburger SV,Bundesliga,2011/2012,2011
+Heiko Westermann,Centre-Back,1983-08-14,27,Germany,Hamburger SV,Bundesliga,2011/2012,2011
+Michael Mancienne,Centre-Back,1988-01-08,23,England,Hamburger SV,Bundesliga,2011/2012,2011
+Slobodan Rajkovic,Centre-Back,1989-02-03,22,Serbia,Hamburger SV,Bundesliga,2011/2012,2011
+Jeffrey Bruma,Centre-Back,1991-11-13,19,Netherlands,Hamburger SV,Bundesliga,2011/2012,2011
+Miroslav Stepanek,Centre-Back,1990-01-15,21,Czech Republic,Hamburger SV,Bundesliga,2011/2012,2011
+Marcell Jansen,Left-Back,1985-11-04,25,Germany,Hamburger SV,Bundesliga,2011/2012,2011
+Janek Sternberg,Left-Back,1992-10-19,18,Germany,Hamburger SV,Bundesliga,2011/2012,2011
+Dennis Diekmeier,Right-Back,1989-10-20,21,Germany,Hamburger SV,Bundesliga,2011/2012,2011
+Florian Brügmann,Right-Back,1991-01-23,20,Germany,Hamburger SV,Bundesliga,2011/2012,2011
+Jacopo Sala,Right-Back,1991-12-05,19,Italy,Hamburger SV,Bundesliga,2011/2012,2011
+Dennis Aogo,Defensive Midfield,1987-01-14,24,Germany,Hamburger SV,Bundesliga,2011/2012,2011
+Gojko Kacar,Defensive Midfield,1987-01-26,24,Serbia,Hamburger SV,Bundesliga,2011/2012,2011
+David Jarolim,Defensive Midfield,1979-05-17,32,Czech Republic,Hamburger SV,Bundesliga,2011/2012,2011
+Tomás Rincón,Defensive Midfield,1988-01-13,23,Venezuela,Hamburger SV,Bundesliga,2011/2012,2011
+Mickaël Tavares,Defensive Midfield,1982-10-25,28,Senegal,Hamburger SV,Bundesliga,2011/2012,2011
+Muhamed Besic,Defensive Midfield,1992-09-10,18,Bosnia-Herzegovina,Hamburger SV,Bundesliga,2011/2012,2011
+Kevin Ingreso,Defensive Midfield,1993-02-10,18,Philippines,Hamburger SV,Bundesliga,2011/2012,2011
+Per Ciljan Skjelbred,Central Midfield,1987-06-16,24,Norway,Hamburger SV,Bundesliga,2011/2012,2011
+Robert Tesche,Central Midfield,1987-05-27,24,Germany,Hamburger SV,Bundesliga,2011/2012,2011
+Tolgay Arslan,Central Midfield,1990-08-16,20,Germany,Hamburger SV,Bundesliga,2011/2012,2011
+Hanno Behrens,Central Midfield,1990-03-26,21,Germany,Hamburger SV,Bundesliga,2011/2012,2011
+Zhi Gin Lam,Right Midfield,1991-06-04,20,Germany,Hamburger SV,Bundesliga,2011/2012,2011
+Änis Ben-Hatira,Attacking Midfield,1988-07-18,22,Tunisia,Hamburger SV,Bundesliga,2011/2012,2011
+Dániel Nagy,Attacking Midfield,1991-03-15,20,Hungary,Hamburger SV,Bundesliga,2011/2012,2011
+Eljero Elia,Left Winger,1987-02-13,24,Netherlands,Hamburger SV,Bundesliga,2011/2012,2011
+Ivo Ilicevic,Left Winger,1986-11-14,24,Croatia,Hamburger SV,Bundesliga,2011/2012,2011
+Heung-min Son,Left Winger,1992-07-08,18,"Korea, South",Hamburger SV,Bundesliga,2011/2012,2011
+Sören Bertram,Left Winger,1991-06-05,20,Germany,Hamburger SV,Bundesliga,2011/2012,2011
+Romeo Castelen,Right Winger,1983-05-03,28,Netherlands,Hamburger SV,Bundesliga,2011/2012,2011
+Gökhan Töre,Right Winger,1992-01-20,19,Turkey,Hamburger SV,Bundesliga,2011/2012,2011
+Mladen Petric,Centre-Forward,1981-01-01,30,Croatia,Hamburger SV,Bundesliga,2011/2012,2011
+Paolo Guerrero,Centre-Forward,1984-01-01,27,Peru,Hamburger SV,Bundesliga,2011/2012,2011
+Marcus Berg,Centre-Forward,1986-08-17,24,Sweden,Hamburger SV,Bundesliga,2011/2012,2011
+Sven Ulreich,Goalkeeper,1988-08-03,22,Germany,VfB Stuttgart,Bundesliga,2011/2012,2011
+Bernd Leno,Goalkeeper,1992-03-04,19,Germany,VfB Stuttgart,Bundesliga,2011/2012,2011
+Marc Ziegler,Goalkeeper,1976-06-13,35,Germany,VfB Stuttgart,Bundesliga,2011/2012,2011
+André Weis,Goalkeeper,1989-09-30,21,Germany,VfB Stuttgart,Bundesliga,2011/2012,2011
+Serdar Tasci,Centre-Back,1987-04-24,24,Germany,VfB Stuttgart,Bundesliga,2011/2012,2011
+Matthieu Delpierre,Centre-Back,1981-04-26,30,France,VfB Stuttgart,Bundesliga,2011/2012,2011
+Georg Niedermeier,Centre-Back,1986-02-26,25,Germany,VfB Stuttgart,Bundesliga,2011/2012,2011
+Francisco Rodríguez,Centre-Back,1981-10-20,29,Mexico,VfB Stuttgart,Bundesliga,2011/2012,2011
+Khalid Boulahrouz,Centre-Back,1981-12-28,29,Netherlands,VfB Stuttgart,Bundesliga,2011/2012,2011
+Ermin Bicakcic,Centre-Back,1990-01-24,21,Bosnia-Herzegovina,VfB Stuttgart,Bundesliga,2011/2012,2011
+Patrick Bauer,Centre-Back,1992-10-28,18,Germany,VfB Stuttgart,Bundesliga,2011/2012,2011
+Antonio Rüdiger,Centre-Back,1993-03-03,18,Germany,VfB Stuttgart,Bundesliga,2011/2012,2011
+Cristian Molinaro,Left-Back,1983-07-30,27,Italy,VfB Stuttgart,Bundesliga,2011/2012,2011
+Arthur Boka,Left-Back,1983-04-02,28,Cote d'Ivoire,VfB Stuttgart,Bundesliga,2011/2012,2011
+Stefano Celozzi,Right-Back,1988-11-02,22,Germany,VfB Stuttgart,Bundesliga,2011/2012,2011
+Gotoku Sakai,Right-Back,1991-03-14,20,Japan,VfB Stuttgart,Bundesliga,2011/2012,2011
+William Kvist,Defensive Midfield,1985-02-24,26,Denmark,VfB Stuttgart,Bundesliga,2011/2012,2011
+Mamadou Bah,Defensive Midfield,1988-04-25,23,Guinea,VfB Stuttgart,Bundesliga,2011/2012,2011
+Raphael Holzhauser,Defensive Midfield,1993-02-16,18,Austria,VfB Stuttgart,Bundesliga,2011/2012,2011
+Zdravko Kuzmanović,Central Midfield,1987-09-22,23,Serbia,VfB Stuttgart,Bundesliga,2011/2012,2011
+Christian Gentner,Central Midfield,1985-08-14,25,Germany,VfB Stuttgart,Bundesliga,2011/2012,2011
+Timo Gebhart,Attacking Midfield,1989-04-12,22,Germany,VfB Stuttgart,Bundesliga,2011/2012,2011
+Tamás Hajnal,Attacking Midfield,1981-03-15,30,Hungary,VfB Stuttgart,Bundesliga,2011/2012,2011
+Johan Audel,Left Winger,1983-12-12,27,Martinique,VfB Stuttgart,Bundesliga,2011/2012,2011
+Ibrahima Traoré,Right Winger,1988-04-21,23,Guinea,VfB Stuttgart,Bundesliga,2011/2012,2011
+Christoph Hemlein,Right Winger,1990-12-16,20,Germany,VfB Stuttgart,Bundesliga,2011/2012,2011
+Julian Schieber,Centre-Forward,1989-02-13,22,Germany,VfB Stuttgart,Bundesliga,2011/2012,2011
+Vedad Ibisevic,Centre-Forward,1984-08-06,26,Bosnia-Herzegovina,VfB Stuttgart,Bundesliga,2011/2012,2011
+Cacau,Centre-Forward,1981-03-27,30,Germany,VfB Stuttgart,Bundesliga,2011/2012,2011
+Martin Harnik,Centre-Forward,1987-06-10,24,Austria,VfB Stuttgart,Bundesliga,2011/2012,2011
+Pavel Pogrebnyak,Centre-Forward,1983-11-08,27,Russia,VfB Stuttgart,Bundesliga,2011/2012,2011
+Shinji Okazaki,Centre-Forward,1986-04-16,25,Japan,VfB Stuttgart,Bundesliga,2011/2012,2011
+Tom Starke,Goalkeeper,1981-03-18,30,Germany,TSG 1899 Hoffenheim,Bundesliga,2011/2012,2011
+Daniel Haas,Goalkeeper,1983-08-01,27,Germany,TSG 1899 Hoffenheim,Bundesliga,2011/2012,2011
+Koen Casteels,Goalkeeper,1992-06-25,19,Belgium,TSG 1899 Hoffenheim,Bundesliga,2011/2012,2011
+Isaac Vorsah,Centre-Back,1988-06-21,23,Ghana,TSG 1899 Hoffenheim,Bundesliga,2011/2012,2011
+Marvin Compper,Centre-Back,1985-06-14,26,Germany,TSG 1899 Hoffenheim,Bundesliga,2011/2012,2011
+Josip Simunic,Centre-Back,1978-02-18,33,Croatia,TSG 1899 Hoffenheim,Bundesliga,2011/2012,2011
+Matthias Jaissle,Centre-Back,1988-04-05,23,Germany,TSG 1899 Hoffenheim,Bundesliga,2011/2012,2011
+Sandro Wieser,Centre-Back,1993-02-03,18,Liechtenstein,TSG 1899 Hoffenheim,Bundesliga,2011/2012,2011
+Manuel Gulde,Centre-Back,1991-02-12,20,Germany,TSG 1899 Hoffenheim,Bundesliga,2011/2012,2011
+Jannik Vestergaard,Centre-Back,1992-08-03,18,Denmark,TSG 1899 Hoffenheim,Bundesliga,2011/2012,2011
+Stefan Thesker,Centre-Back,1991-04-11,20,Germany,TSG 1899 Hoffenheim,Bundesliga,2011/2012,2011
+Kevin Conrad,Centre-Back,1990-08-10,20,Germany,TSG 1899 Hoffenheim,Bundesliga,2011/2012,2011
+Andreas Ibertsberger,Left-Back,1982-07-27,28,Austria,TSG 1899 Hoffenheim,Bundesliga,2011/2012,2011
+Edson Braafheid,Left-Back,1983-04-08,28,Netherlands,TSG 1899 Hoffenheim,Bundesliga,2011/2012,2011
+Andreas Beck,Right-Back,1987-03-13,24,Germany,TSG 1899 Hoffenheim,Bundesliga,2011/2012,2011
+Sebastian Rudy,Defensive Midfield,1990-02-28,21,Germany,TSG 1899 Hoffenheim,Bundesliga,2011/2012,2011
+Danny Williams,Defensive Midfield,1989-03-08,22,United States,TSG 1899 Hoffenheim,Bundesliga,2011/2012,2011
+Tobias Strobl,Defensive Midfield,1990-05-12,21,Germany,TSG 1899 Hoffenheim,Bundesliga,2011/2012,2011
+Sejad Salihovic,Central Midfield,1984-10-08,26,Bosnia-Herzegovina,TSG 1899 Hoffenheim,Bundesliga,2011/2012,2011
+Tobias Weis,Central Midfield,1985-07-30,25,Germany,TSG 1899 Hoffenheim,Bundesliga,2011/2012,2011
+Dominik Kaiser,Central Midfield,1988-09-16,22,Germany,TSG 1899 Hoffenheim,Bundesliga,2011/2012,2011
+Gylfi Sigurdsson,Attacking Midfield,1989-09-08,21,Iceland,TSG 1899 Hoffenheim,Bundesliga,2011/2012,2011
+Ryan Babel,Left Winger,1986-12-19,24,Netherlands,TSG 1899 Hoffenheim,Bundesliga,2011/2012,2011
+Fabian Johnson,Left Winger,1987-12-11,23,United States,TSG 1899 Hoffenheim,Bundesliga,2011/2012,2011
+Knowledge Musona,Left Winger,1990-06-21,21,Zimbabwe,TSG 1899 Hoffenheim,Bundesliga,2011/2012,2011
+Joseph-Claude Gyau,Left Winger,1992-09-16,18,United States,TSG 1899 Hoffenheim,Bundesliga,2011/2012,2011
+Chinedu Obasi,Right Winger,1986-06-01,25,Nigeria,TSG 1899 Hoffenheim,Bundesliga,2011/2012,2011
+Boris Vukcevic,Right Winger,1990-03-16,21,Germany,TSG 1899 Hoffenheim,Bundesliga,2011/2012,2011
+Vedad Ibisevic,Centre-Forward,1984-08-06,26,Bosnia-Herzegovina,TSG 1899 Hoffenheim,Bundesliga,2011/2012,2011
+Srdjan Lakic,Centre-Forward,1983-10-02,27,Croatia,TSG 1899 Hoffenheim,Bundesliga,2011/2012,2011
+Roberto Firmino,Centre-Forward,1991-10-02,19,Brazil,TSG 1899 Hoffenheim,Bundesliga,2011/2012,2011
+Peniel Mlapa,Centre-Forward,1991-02-20,20,Togo,TSG 1899 Hoffenheim,Bundesliga,2011/2012,2011
+Prince Tagoe,Centre-Forward,1986-11-09,24,Ghana,TSG 1899 Hoffenheim,Bundesliga,2011/2012,2011
+Sven Schipplock,Centre-Forward,1988-11-08,22,Germany,TSG 1899 Hoffenheim,Bundesliga,2011/2012,2011
+Denis Thomalla,Centre-Forward,1992-08-16,18,Germany,TSG 1899 Hoffenheim,Bundesliga,2011/2012,2011
+Michael Rensing,Goalkeeper,1984-05-14,27,Germany,1. FC Köln,Bundesliga,2011/2012,2011
+Miro Varvodic,Goalkeeper,1989-05-15,22,Croatia,1. FC Köln,Bundesliga,2011/2012,2011
+Timo Horn,Goalkeeper,1993-05-12,18,Germany,1. FC Köln,Bundesliga,2011/2012,2011
+Daniel Schwabke,Goalkeeper,1989-07-19,21,Germany,1. FC Köln,Bundesliga,2011/2012,2011
+Pedro Geromel,Centre-Back,1985-09-21,25,Brazil,1. FC Köln,Bundesliga,2011/2012,2011
+Tomoaki Makino,Centre-Back,1987-05-11,24,Japan,1. FC Köln,Bundesliga,2011/2012,2011
+Christopher Schorch,Centre-Back,1989-01-30,22,Germany,1. FC Köln,Bundesliga,2011/2012,2011
+Ammar Jemal,Centre-Back,1987-04-20,24,Tunisia,1. FC Köln,Bundesliga,2011/2012,2011
+Henrique Sereno,Centre-Back,1985-05-18,26,Portugal,1. FC Köln,Bundesliga,2011/2012,2011
+Kevin McKenna,Centre-Back,1980-01-21,31,Canada,1. FC Köln,Bundesliga,2011/2012,2011
+Christian Eichner,Left-Back,1982-11-24,28,Germany,1. FC Köln,Bundesliga,2011/2012,2011
+Jonas Hector,Left-Back,1990-05-27,21,Germany,1. FC Köln,Bundesliga,2011/2012,2011
+Sascha Riether,Right-Back,1983-03-23,28,Germany,1. FC Köln,Bundesliga,2011/2012,2011
+Miso Brecko,Right-Back,1984-05-01,27,Slovenia,1. FC Köln,Bundesliga,2011/2012,2011
+Andrézinho,Right-Back,1981-10-09,29,Brazil,1. FC Köln,Bundesliga,2011/2012,2011
+Mitchell Weiser,Right-Back,1994-04-21,17,Germany,1. FC Köln,Bundesliga,2011/2012,2011
+Lukas Kübler,Right-Back,1992-08-30,18,Germany,1. FC Köln,Bundesliga,2011/2012,2011
+Adam Matuschyk,Defensive Midfield,1989-02-14,22,Poland,1. FC Köln,Bundesliga,2011/2012,2011
+Petit,Defensive Midfield,1976-09-25,34,Portugal,1. FC Köln,Bundesliga,2011/2012,2011
+Martin Lanig,Defensive Midfield,1984-07-11,26,Germany,1. FC Köln,Bundesliga,2011/2012,2011
+Kevin Pezzoni,Defensive Midfield,1989-03-22,22,Germany,1. FC Köln,Bundesliga,2011/2012,2011
+Mato Jajalo,Central Midfield,1988-05-25,23,Bosnia-Herzegovina,1. FC Köln,Bundesliga,2011/2012,2011
+Fabian Schnellhardt,Central Midfield,1994-01-12,17,Germany,1. FC Köln,Bundesliga,2011/2012,2011
+Christopher Buchtmann,Attacking Midfield,1992-04-25,19,Germany,1. FC Köln,Bundesliga,2011/2012,2011
+Slawomir Peszko,Left Winger,1985-02-19,26,Poland,1. FC Köln,Bundesliga,2011/2012,2011
+Christian Clemens,Right Winger,1991-08-04,19,Germany,1. FC Köln,Bundesliga,2011/2012,2011
+Adil Chihi,Right Winger,1988-02-21,23,Morocco,1. FC Köln,Bundesliga,2011/2012,2011
+Odise Roshi,Right Winger,1991-05-22,20,Albania,1. FC Köln,Bundesliga,2011/2012,2011
+Lukas Podolski,Second Striker,1985-06-04,26,Germany,1. FC Köln,Bundesliga,2011/2012,2011
+Milivoje Novakovic,Centre-Forward,1979-05-18,32,Slovenia,1. FC Köln,Bundesliga,2011/2012,2011
+Chong Tese,Centre-Forward,1984-03-02,27,"Korea, North",1. FC Köln,Bundesliga,2011/2012,2011
+Sebastian Freis,Centre-Forward,1985-04-23,26,Germany,1. FC Köln,Bundesliga,2011/2012,2011
+Mark Uth,Centre-Forward,1991-08-24,19,Germany,1. FC Köln,Bundesliga,2011/2012,2011
+Mikael Ishak,Centre-Forward,1993-03-31,18,Sweden,1. FC Köln,Bundesliga,2011/2012,2011
+Ron-Robert Zieler,Goalkeeper,1989-02-12,22,Germany,Hannover 96,Bundesliga,2011/2012,2011
+Markus Miller,Goalkeeper,1982-04-08,29,Germany,Hannover 96,Bundesliga,2011/2012,2011
+Pascal Nagel,Goalkeeper,1991-06-19,20,Germany,Hannover 96,Bundesliga,2011/2012,2011
+Samuel Sahin-Radlinger,Goalkeeper,1992-11-07,18,Austria,Hannover 96,Bundesliga,2011/2012,2011
+Emanuel Pogatetz,Centre-Back,1983-01-16,28,Austria,Hannover 96,Bundesliga,2011/2012,2011
+Karim Haggui,Centre-Back,1984-01-20,27,Tunisia,Hannover 96,Bundesliga,2011/2012,2011
+Christian Schulz,Centre-Back,1983-04-01,28,Germany,Hannover 96,Bundesliga,2011/2012,2011
+Mario Eggimann,Centre-Back,1981-01-24,30,Switzerland,Hannover 96,Bundesliga,2011/2012,2011
+Christopher Avevor,Centre-Back,1992-02-11,19,Germany,Hannover 96,Bundesliga,2011/2012,2011
+Erdal Akdari,Centre-Back,1993-06-05,18,Turkey,Hannover 96,Bundesliga,2011/2012,2011
+Konstantin Rausch,Left-Back,1990-03-15,21,Russia,Hannover 96,Bundesliga,2011/2012,2011
+Christian Pander,Left-Back,1983-08-28,27,Germany,Hannover 96,Bundesliga,2011/2012,2011
+Steven Cherundolo,Right-Back,1979-02-19,32,United States,Hannover 96,Bundesliga,2011/2012,2011
+Sofian Chahed,Right-Back,1983-04-18,28,Tunisia,Hannover 96,Bundesliga,2011/2012,2011
+Manuel Schmiedebach,Defensive Midfield,1988-12-05,22,Germany,Hannover 96,Bundesliga,2011/2012,2011
+Henning Hauger,Defensive Midfield,1985-07-17,25,Norway,Hannover 96,Bundesliga,2011/2012,2011
+Altin Lala,Defensive Midfield,1975-11-18,35,Albania,Hannover 96,Bundesliga,2011/2012,2011
+Tim Wendel,Defensive Midfield,1989-01-12,22,Germany,Hannover 96,Bundesliga,2011/2012,2011
+Sérgio da Silva Pinto,Central Midfield,1980-10-16,30,Germany,Hannover 96,Bundesliga,2011/2012,2011
+Leon Andreasen,Central Midfield,1983-04-23,28,Denmark,Hannover 96,Bundesliga,2011/2012,2011
+Jannis Pläschke,Right Midfield,1993-02-06,18,Germany,Hannover 96,Bundesliga,2011/2012,2011
+Carlitos,Left Midfield,1982-09-06,28,Portugal,Hannover 96,Bundesliga,2011/2012,2011
+Deniz Aycicek,Attacking Midfield,1990-06-05,21,Germany,Hannover 96,Bundesliga,2011/2012,2011
+Moritz Stoppelkamp,Left Winger,1986-12-11,24,Germany,Hannover 96,Bundesliga,2011/2012,2011
+Daniel Royer,Left Winger,1990-05-22,21,Austria,Hannover 96,Bundesliga,2011/2012,2011
+Lars Stindl,Second Striker,1988-08-26,22,Germany,Hannover 96,Bundesliga,2011/2012,2011
+Jan Schlaudraff,Second Striker,1983-07-18,27,Germany,Hannover 96,Bundesliga,2011/2012,2011
+Didier Ya Konan,Centre-Forward,1984-05-22,27,Cote d'Ivoire,Hannover 96,Bundesliga,2011/2012,2011
+Mohammed Abdellaoue,Centre-Forward,1985-10-23,25,Norway,Hannover 96,Bundesliga,2011/2012,2011
+Mame Diouf,Centre-Forward,1987-12-16,23,Senegal,Hannover 96,Bundesliga,2011/2012,2011
+Artur Sobiech,Centre-Forward,1990-06-12,21,Poland,Hannover 96,Bundesliga,2011/2012,2011
+Marc-André ter Stegen,Goalkeeper,1992-04-30,19,Germany,Borussia Mönchengladbach,Bundesliga,2011/2012,2011
+Christofer Heimeroth,Goalkeeper,1981-08-01,29,Germany,Borussia Mönchengladbach,Bundesliga,2011/2012,2011
+Janis Blaswich,Goalkeeper,1991-05-02,20,Germany,Borussia Mönchengladbach,Bundesliga,2011/2012,2011
+Dante,Centre-Back,1983-10-18,27,Brazil,Borussia Mönchengladbach,Bundesliga,2011/2012,2011
+Martin Stranzl,Centre-Back,1980-06-16,31,Austria,Borussia Mönchengladbach,Bundesliga,2011/2012,2011
+Roel Brouwers,Centre-Back,1981-11-28,29,Netherlands,Borussia Mönchengladbach,Bundesliga,2011/2012,2011
+Roman Neustädter,Centre-Back,1988-02-18,23,Russia,Borussia Mönchengladbach,Bundesliga,2011/2012,2011
+Tony Jantschke,Centre-Back,1990-04-07,21,Germany,Borussia Mönchengladbach,Bundesliga,2011/2012,2011
+Niklas Dams,Centre-Back,1990-05-28,21,Germany,Borussia Mönchengladbach,Bundesliga,2011/2012,2011
+Oscar Wendt,Left-Back,1985-10-24,25,Sweden,Borussia Mönchengladbach,Bundesliga,2011/2012,2011
+Filip Daems,Left-Back,1978-10-31,32,Belgium,Borussia Mönchengladbach,Bundesliga,2011/2012,2011
+Matthias Zimmermann,Right-Back,1992-06-16,19,Germany,Borussia Mönchengladbach,Bundesliga,2011/2012,2011
+Julian Korb,Right-Back,1992-03-21,19,Germany,Borussia Mönchengladbach,Bundesliga,2011/2012,2011
+Havard Nordtveit,Defensive Midfield,1990-06-21,21,Norway,Borussia Mönchengladbach,Bundesliga,2011/2012,2011
+Thorben Marx,Defensive Midfield,1981-06-01,30,Germany,Borussia Mönchengladbach,Bundesliga,2011/2012,2011
+Lukas Rupp,Central Midfield,1991-01-08,20,Germany,Borussia Mönchengladbach,Bundesliga,2011/2012,2011
+Tolga Cigerci,Central Midfield,1992-03-23,19,Turkey,Borussia Mönchengladbach,Bundesliga,2011/2012,2011
+Alexander Ring,Central Midfield,1991-04-09,20,Finland,Borussia Mönchengladbach,Bundesliga,2011/2012,2011
+Juan Arango,Left Midfield,1980-05-17,31,Venezuela,Borussia Mönchengladbach,Bundesliga,2011/2012,2011
+Marco Reus,Attacking Midfield,1989-05-31,22,Germany,Borussia Mönchengladbach,Bundesliga,2011/2012,2011
+Yuki Otsu,Attacking Midfield,1990-03-24,21,Japan,Borussia Mönchengladbach,Bundesliga,2011/2012,2011
+Amin Younes,Left Winger,1993-08-06,17,Germany,Borussia Mönchengladbach,Bundesliga,2011/2012,2011
+Patrick Herrmann,Right Winger,1991-02-12,20,Germany,Borussia Mönchengladbach,Bundesliga,2011/2012,2011
+Mathew Leckie,Right Winger,1991-02-04,20,Australia,Borussia Mönchengladbach,Bundesliga,2011/2012,2011
+Joshua King,Second Striker,1992-01-15,19,Norway,Borussia Mönchengladbach,Bundesliga,2011/2012,2011
+Igor de Camargo,Centre-Forward,1983-05-12,28,Belgium,Borussia Mönchengladbach,Bundesliga,2011/2012,2011
+Raúl Bobadilla,Centre-Forward,1987-06-18,24,Paraguay,Borussia Mönchengladbach,Bundesliga,2011/2012,2011
+Mike Hanke,Centre-Forward,1983-11-05,27,Germany,Borussia Mönchengladbach,Bundesliga,2011/2012,2011
+Oliver Baumann,Goalkeeper,1990-06-02,21,Germany,SC Freiburg,Bundesliga,2011/2012,2011
+Manuel Salz,Goalkeeper,1985-08-06,25,Germany,SC Freiburg,Bundesliga,2011/2012,2011
+Alexander Schwolow,Goalkeeper,1992-06-02,19,Germany,SC Freiburg,Bundesliga,2011/2012,2011
+Daniel Batz,Goalkeeper,1991-01-12,20,Germany,SC Freiburg,Bundesliga,2011/2012,2011
+Felix Bastians,Centre-Back,1988-05-09,23,Germany,SC Freiburg,Bundesliga,2011/2012,2011
+Heiko Butscher,Centre-Back,1980-07-28,30,Germany,SC Freiburg,Bundesliga,2011/2012,2011
+Pavel Krmas,Centre-Back,1980-03-03,31,Czech Republic,SC Freiburg,Bundesliga,2011/2012,2011
+Maximilian Nicu,Centre-Back,1982-11-25,28,Romania,SC Freiburg,Bundesliga,2011/2012,2011
+Oliver Barth,Centre-Back,1979-10-06,31,Germany,SC Freiburg,Bundesliga,2011/2012,2011
+Beg Ferati,Centre-Back,1986-11-10,24,Switzerland,SC Freiburg,Bundesliga,2011/2012,2011
+Fallou Diagne,Centre-Back,1989-08-14,21,Senegal,SC Freiburg,Bundesliga,2011/2012,2011
+Immanuel Höhn,Centre-Back,1991-12-23,19,Germany,SC Freiburg,Bundesliga,2011/2012,2011
+Matthias Ginter,Centre-Back,1994-01-19,17,Germany,SC Freiburg,Bundesliga,2011/2012,2011
+Michael Lumb,Left-Back,1988-01-09,23,Denmark,SC Freiburg,Bundesliga,2011/2012,2011
+Mensur Mujdza,Right-Back,1984-03-28,27,Bosnia-Herzegovina,SC Freiburg,Bundesliga,2011/2012,2011
+Andreas Hinkel,Right-Back,1982-03-26,29,Germany,SC Freiburg,Bundesliga,2011/2012,2011
+Jonathan Schmid,Right-Back,1990-06-22,21,France,SC Freiburg,Bundesliga,2011/2012,2011
+Oliver Sorg,Right-Back,1990-05-29,21,Germany,SC Freiburg,Bundesliga,2011/2012,2011
+Julian Schuster,Defensive Midfield,1985-04-15,26,Germany,SC Freiburg,Bundesliga,2011/2012,2011
+Danny Williams,Defensive Midfield,1989-03-08,22,United States,SC Freiburg,Bundesliga,2011/2012,2011
+Marc Lais,Defensive Midfield,1991-02-04,20,Germany,SC Freiburg,Bundesliga,2011/2012,2011
+Cédric Makiadi,Central Midfield,1984-02-23,27,DR Congo,SC Freiburg,Bundesliga,2011/2012,2011
+Johannes Flum,Central Midfield,1987-12-14,23,Germany,SC Freiburg,Bundesliga,2011/2012,2011
+Daniel Caligiuri,Right Midfield,1988-01-15,23,Italy,SC Freiburg,Bundesliga,2011/2012,2011
+Christian Bickel,Right Midfield,1991-01-27,20,Germany,SC Freiburg,Bundesliga,2011/2012,2011
+Anton Putsila,Attacking Midfield,1987-06-10,24,Belarus,SC Freiburg,Bundesliga,2011/2012,2011
+Erich Sautner,Attacking Midfield,1991-11-06,19,Germany,SC Freiburg,Bundesliga,2011/2012,2011
+Yacine Abdessadki,Right Winger,1981-01-01,30,Morocco,SC Freiburg,Bundesliga,2011/2012,2011
+Jan Rosenthal,Second Striker,1986-04-07,25,Germany,SC Freiburg,Bundesliga,2011/2012,2011
+Papiss Demba Cissé,Centre-Forward,1985-06-03,26,Senegal,SC Freiburg,Bundesliga,2011/2012,2011
+Garra Dembélé,Centre-Forward,1986-02-21,25,Mali,SC Freiburg,Bundesliga,2011/2012,2011
+Erik Jendrisek,Centre-Forward,1986-10-26,24,Slovakia,SC Freiburg,Bundesliga,2011/2012,2011
+Stefan Reisinger,Centre-Forward,1981-09-14,29,Germany,SC Freiburg,Bundesliga,2011/2012,2011
+Sebastian Freis,Centre-Forward,1985-04-23,26,Germany,SC Freiburg,Bundesliga,2011/2012,2011
+Ivan Santini,Centre-Forward,1989-05-21,22,Croatia,SC Freiburg,Bundesliga,2011/2012,2011
+Karim Guédé,Centre-Forward,1985-01-07,26,Slovakia,SC Freiburg,Bundesliga,2011/2012,2011
+Simon Brandstetter,Centre-Forward,1990-05-02,21,Germany,SC Freiburg,Bundesliga,2011/2012,2011
+Heinz Müller,Goalkeeper,1978-05-30,33,Germany,1.FSV Mainz 05,Bundesliga,2011/2012,2011
+Christian Wetklo,Goalkeeper,1980-01-11,31,Germany,1.FSV Mainz 05,Bundesliga,2011/2012,2011
+Loris Karius,Goalkeeper,1993-06-22,18,Germany,1.FSV Mainz 05,Bundesliga,2011/2012,2011
+Niko Bungert,Centre-Back,1986-10-24,24,Germany,1.FSV Mainz 05,Bundesliga,2011/2012,2011
+Nikolce Noveski,Centre-Back,1979-04-28,32,North Macedonia,1.FSV Mainz 05,Bundesliga,2011/2012,2011
+Marco Caligiuri,Centre-Back,1984-04-14,27,Germany,1.FSV Mainz 05,Bundesliga,2011/2012,2011
+Bo Svensson,Centre-Back,1979-08-04,31,Denmark,1.FSV Mainz 05,Bundesliga,2011/2012,2011
+Stefan Bell,Centre-Back,1991-08-24,19,Germany,1.FSV Mainz 05,Bundesliga,2011/2012,2011
+Fabian Schönheim,Centre-Back,1987-02-14,24,Germany,1.FSV Mainz 05,Bundesliga,2011/2012,2011
+Radoslav Zabavnik,Left-Back,1980-09-16,30,Slovakia,1.FSV Mainz 05,Bundesliga,2011/2012,2011
+Zdenek Pospech,Right-Back,1978-12-14,32,Czech Republic,1.FSV Mainz 05,Bundesliga,2011/2012,2011
+Eugen Gopko,Right-Back,1991-01-05,20,Germany,1.FSV Mainz 05,Bundesliga,2011/2012,2011
+Eugen Polanski,Defensive Midfield,1986-03-17,25,Poland,1.FSV Mainz 05,Bundesliga,2011/2012,2011
+Julian Baumgartlinger,Defensive Midfield,1988-01-02,23,Austria,1.FSV Mainz 05,Bundesliga,2011/2012,2011
+Jan Kirchhoff,Defensive Midfield,1990-10-01,20,Germany,1.FSV Mainz 05,Bundesliga,2011/2012,2011
+Malik Fathi,Central Midfield,1983-10-29,27,Germany,1.FSV Mainz 05,Bundesliga,2011/2012,2011
+Elkin Soto,Central Midfield,1980-08-04,30,Colombia,1.FSV Mainz 05,Bundesliga,2011/2012,2011
+Marcel Risse,Right Midfield,1989-12-17,21,Germany,1.FSV Mainz 05,Bundesliga,2011/2012,2011
+Andreas Ivanschitz,Attacking Midfield,1983-10-15,27,Austria,1.FSV Mainz 05,Bundesliga,2011/2012,2011
+Yunus Malli,Attacking Midfield,1992-02-24,19,Turkey,1.FSV Mainz 05,Bundesliga,2011/2012,2011
+Zoltán Stieber,Left Winger,1988-10-16,22,Hungary,1.FSV Mainz 05,Bundesliga,2011/2012,2011
+Nicolai Müller,Right Winger,1987-09-25,23,Germany,1.FSV Mainz 05,Bundesliga,2011/2012,2011
+Mohamed Zidan,Second Striker,1981-12-11,29,Egypt,1.FSV Mainz 05,Bundesliga,2011/2012,2011
+Sami Allagui,Centre-Forward,1986-05-28,25,Tunisia,1.FSV Mainz 05,Bundesliga,2011/2012,2011
+Ádám Szalai,Centre-Forward,1987-12-09,23,Hungary,1.FSV Mainz 05,Bundesliga,2011/2012,2011
+Anthony Ujah,Centre-Forward,1990-10-14,20,Nigeria,1.FSV Mainz 05,Bundesliga,2011/2012,2011
+Eric Maxim Choupo-Moting,Centre-Forward,1989-03-23,22,Cameroon,1.FSV Mainz 05,Bundesliga,2011/2012,2011
+Mario Gavranovic,Centre-Forward,1989-11-24,21,Switzerland,1.FSV Mainz 05,Bundesliga,2011/2012,2011
+Deniz Yilmaz,Centre-Forward,1988-02-26,23,Azerbaijan,1.FSV Mainz 05,Bundesliga,2011/2012,2011
+Petar Sliskovic,Centre-Forward,1991-02-21,20,Croatia,1.FSV Mainz 05,Bundesliga,2011/2012,2011
+Thomas Kraft,Goalkeeper,1988-07-22,22,Germany,Hertha BSC,Bundesliga,2011/2012,2011
+Maikel Aerts,Goalkeeper,1976-06-26,35,Netherlands,Hertha BSC,Bundesliga,2011/2012,2011
+Sascha Burchert,Goalkeeper,1989-10-30,21,Germany,Hertha BSC,Bundesliga,2011/2012,2011
+Richard Strebinger,Goalkeeper,1993-02-14,18,Austria,Hertha BSC,Bundesliga,2011/2012,2011
+Felix Bastians,Centre-Back,1988-05-09,23,Germany,Hertha BSC,Bundesliga,2011/2012,2011
+Maik Franz,Centre-Back,1981-08-05,29,Germany,Hertha BSC,Bundesliga,2011/2012,2011
+Roman Hubnik,Centre-Back,1984-06-06,27,Czech Republic,Hertha BSC,Bundesliga,2011/2012,2011
+Andre Mijatovic,Centre-Back,1979-12-03,31,Croatia,Hertha BSC,Bundesliga,2011/2012,2011
+Sebastian Neumann,Centre-Back,1991-02-18,20,Germany,Hertha BSC,Bundesliga,2011/2012,2011
+Christoph Janker,Centre-Back,1985-02-14,26,Germany,Hertha BSC,Bundesliga,2011/2012,2011
+John Anthony Brooks,Centre-Back,1993-01-28,18,United States,Hertha BSC,Bundesliga,2011/2012,2011
+Nico Schulz,Left-Back,1993-04-01,18,Germany,Hertha BSC,Bundesliga,2011/2012,2011
+Fabian Holland,Left-Back,1990-07-11,20,Germany,Hertha BSC,Bundesliga,2011/2012,2011
+Christian Lell,Right-Back,1984-08-29,26,Germany,Hertha BSC,Bundesliga,2011/2012,2011
+Andreas Ottl,Defensive Midfield,1985-03-01,26,Germany,Hertha BSC,Bundesliga,2011/2012,2011
+Fabian Lustenberger,Defensive Midfield,1988-05-02,23,Switzerland,Hertha BSC,Bundesliga,2011/2012,2011
+Peter Niemeyer,Defensive Midfield,1983-11-22,27,Germany,Hertha BSC,Bundesliga,2011/2012,2011
+Fanol Perdedaj,Defensive Midfield,1991-07-16,19,Kosovo,Hertha BSC,Bundesliga,2011/2012,2011
+Alfredo Morales,Central Midfield,1990-05-12,21,United States,Hertha BSC,Bundesliga,2011/2012,2011
+Levan Kobiashvili,Left Midfield,1977-07-10,33,Georgia,Hertha BSC,Bundesliga,2011/2012,2011
+Patrick Ebert,Attacking Midfield,1987-03-17,24,Germany,Hertha BSC,Bundesliga,2011/2012,2011
+Änis Ben-Hatira,Attacking Midfield,1988-07-18,22,Tunisia,Hertha BSC,Bundesliga,2011/2012,2011
+Ronny,Attacking Midfield,1986-05-11,25,Brazil,Hertha BSC,Bundesliga,2011/2012,2011
+Nikita Rukavytsya,Right Winger,1987-06-22,24,Australia,Hertha BSC,Bundesliga,2011/2012,2011
+Tunay Torun,Right Winger,1990-04-21,21,Turkey,Hertha BSC,Bundesliga,2011/2012,2011
+Raffael,Second Striker,1985-03-28,26,Brazil,Hertha BSC,Bundesliga,2011/2012,2011
+Adrián Ramos,Centre-Forward,1986-01-22,25,Colombia,Hertha BSC,Bundesliga,2011/2012,2011
+Pierre-Michel Lasogga,Centre-Forward,1991-12-15,19,Germany,Hertha BSC,Bundesliga,2011/2012,2011
+Rob Friend,Centre-Forward,1981-01-23,30,Canada,Hertha BSC,Bundesliga,2011/2012,2011
+Marco Djuricin,Centre-Forward,1992-12-12,18,Austria,Hertha BSC,Bundesliga,2011/2012,2011
+Abu Bakarr Kargbo,Centre-Forward,1992-12-21,18,Sierra Leone,Hertha BSC,Bundesliga,2011/2012,2011
+Kevin Trapp,Goalkeeper,1990-07-08,20,Germany,1.FC Kaiserslautern,Bundesliga,2011/2012,2011
+Tobias Sippel,Goalkeeper,1988-03-22,23,Germany,1.FC Kaiserslautern,Bundesliga,2011/2012,2011
+Marco Knaller,Goalkeeper,1987-03-26,24,Austria,1.FC Kaiserslautern,Bundesliga,2011/2012,2011
+Marius Müller,Goalkeeper,1993-07-12,17,Germany,1.FC Kaiserslautern,Bundesliga,2011/2012,2011
+Rodnei,Centre-Back,1985-09-11,25,Brazil,1.FC Kaiserslautern,Bundesliga,2011/2012,2011
+Martin Amedick,Centre-Back,1982-09-06,28,Germany,1.FC Kaiserslautern,Bundesliga,2011/2012,2011
+Anthar Yahia,Centre-Back,1982-03-21,29,Algeria,1.FC Kaiserslautern,Bundesliga,2011/2012,2011
+Jan Simunek,Centre-Back,1987-02-20,24,Czech Republic,1.FC Kaiserslautern,Bundesliga,2011/2012,2011
+Jiri Bilek,Centre-Back,1983-11-04,27,Czech Republic,1.FC Kaiserslautern,Bundesliga,2011/2012,2011
+Mathias Abel,Centre-Back,1981-06-22,30,Germany,1.FC Kaiserslautern,Bundesliga,2011/2012,2011
+Lucas Rocha,Centre-Back,1991-07-14,19,Brazil,1.FC Kaiserslautern,Bundesliga,2011/2012,2011
+Steven Zellner,Centre-Back,1991-03-14,20,Germany,1.FC Kaiserslautern,Bundesliga,2011/2012,2011
+Dominique Heintz,Centre-Back,1993-08-15,17,Germany,1.FC Kaiserslautern,Bundesliga,2011/2012,2011
+Willi Orban,Centre-Back,1992-11-03,18,Hungary,1.FC Kaiserslautern,Bundesliga,2011/2012,2011
+Leon Jessen,Left-Back,1986-06-11,25,Denmark,1.FC Kaiserslautern,Bundesliga,2011/2012,2011
+Alexander Bugera,Left-Back,1978-08-08,32,Germany,1.FC Kaiserslautern,Bundesliga,2011/2012,2011
+Florian Dick,Right-Back,1984-11-09,26,Germany,1.FC Kaiserslautern,Bundesliga,2011/2012,2011
+Christian Tiffert,Defensive Midfield,1982-02-18,29,Germany,1.FC Kaiserslautern,Bundesliga,2011/2012,2011
+Ariel Borysiuk,Defensive Midfield,1991-07-29,19,Poland,1.FC Kaiserslautern,Bundesliga,2011/2012,2011
+Oliver Kirch,Defensive Midfield,1982-08-21,28,Germany,1.FC Kaiserslautern,Bundesliga,2011/2012,2011
+Thanos Petsos,Defensive Midfield,1991-06-05,20,Greece,1.FC Kaiserslautern,Bundesliga,2011/2012,2011
+Pierre De Wit,Central Midfield,1987-09-26,23,Germany,1.FC Kaiserslautern,Bundesliga,2011/2012,2011
+Gil Vermouth,Right Midfield,1985-08-05,25,Israel,1.FC Kaiserslautern,Bundesliga,2011/2012,2011
+Clemens Walch,Right Midfield,1987-07-10,23,Austria,1.FC Kaiserslautern,Bundesliga,2011/2012,2011
+Konstantinos Fortounis,Attacking Midfield,1992-10-16,18,Greece,1.FC Kaiserslautern,Bundesliga,2011/2012,2011
+Ivo Ilicevic,Left Winger,1986-11-14,24,Croatia,1.FC Kaiserslautern,Bundesliga,2011/2012,2011
+Julian-Maurice Derstroff,Left Winger,1992-01-05,19,Germany,1.FC Kaiserslautern,Bundesliga,2011/2012,2011
+Olcay Sahan,Right Winger,1987-05-26,24,Turkey,1.FC Kaiserslautern,Bundesliga,2011/2012,2011
+Itay Shechter,Centre-Forward,1987-02-22,24,Israel,1.FC Kaiserslautern,Bundesliga,2011/2012,2011
+Dorge Kouemaha,Centre-Forward,1983-06-28,28,Cameroon,1.FC Kaiserslautern,Bundesliga,2011/2012,2011
+Sandro Wagner,Centre-Forward,1987-11-29,23,Germany,1.FC Kaiserslautern,Bundesliga,2011/2012,2011
+Nicolai Jörgensen,Centre-Forward,1991-01-15,20,Denmark,1.FC Kaiserslautern,Bundesliga,2011/2012,2011
+Adam Nemec,Centre-Forward,1985-09-02,25,Slovakia,1.FC Kaiserslautern,Bundesliga,2011/2012,2011
+Ilian Micanski,Centre-Forward,1985-12-20,25,Bulgaria,1.FC Kaiserslautern,Bundesliga,2011/2012,2011
+Richard Sukuta-Pasu,Centre-Forward,1990-06-24,21,Germany,1.FC Kaiserslautern,Bundesliga,2011/2012,2011
+Andrew Wooten,Centre-Forward,1989-09-30,21,United States,1.FC Kaiserslautern,Bundesliga,2011/2012,2011
+Jakub Swierczok,Centre-Forward,1992-12-28,18,Poland,1.FC Kaiserslautern,Bundesliga,2011/2012,2011
+Raphael Schäfer,Goalkeeper,1979-01-30,32,Germany,1.FC Nuremberg,Bundesliga,2011/2012,2011
+Alexander Stephan,Goalkeeper,1986-09-15,24,Germany,1.FC Nuremberg,Bundesliga,2011/2012,2011
+Patrick Rakovsky,Goalkeeper,1993-06-02,18,Germany,1.FC Nuremberg,Bundesliga,2011/2012,2011
+Benjamin Uphoff,Goalkeeper,1993-08-08,17,Germany,1.FC Nuremberg,Bundesliga,2011/2012,2011
+Philipp Wollscheid,Centre-Back,1989-03-06,22,Germany,1.FC Nuremberg,Bundesliga,2011/2012,2011
+Javier Pinola,Centre-Back,1983-02-24,28,Argentina,1.FC Nuremberg,Bundesliga,2011/2012,2011
+Per Nilsson,Centre-Back,1982-09-15,28,Sweden,1.FC Nuremberg,Bundesliga,2011/2012,2011
+Dominic Maroh,Centre-Back,1987-03-04,24,Slovenia,1.FC Nuremberg,Bundesliga,2011/2012,2011
+Timm Klose,Centre-Back,1988-05-09,23,Switzerland,1.FC Nuremberg,Bundesliga,2011/2012,2011
+Adam Hlousek,Left-Back,1988-12-20,22,Czech Republic,1.FC Nuremberg,Bundesliga,2011/2012,2011
+Marvin Plattenhardt,Left-Back,1992-01-26,19,Germany,1.FC Nuremberg,Bundesliga,2011/2012,2011
+Timothy Chandler,Right-Back,1990-03-29,21,United States,1.FC Nuremberg,Bundesliga,2011/2012,2011
+Hanno Balitsch,Defensive Midfield,1981-01-02,30,Germany,1.FC Nuremberg,Bundesliga,2011/2012,2011
+Timmy Simons,Defensive Midfield,1976-12-11,34,Belgium,1.FC Nuremberg,Bundesliga,2011/2012,2011
+Juri Judt,Defensive Midfield,1986-07-24,24,Germany,1.FC Nuremberg,Bundesliga,2011/2012,2011
+Manuel Zeitz,Defensive Midfield,1990-08-01,20,Germany,1.FC Nuremberg,Bundesliga,2011/2012,2011
+Wilson Kamavuaka,Defensive Midfield,1990-03-29,21,DR Congo,1.FC Nuremberg,Bundesliga,2011/2012,2011
+Almog Cohen,Central Midfield,1988-09-01,22,Israel,1.FC Nuremberg,Bundesliga,2011/2012,2011
+Jens Hegeler,Central Midfield,1988-01-22,23,Germany,1.FC Nuremberg,Bundesliga,2011/2012,2011
+Mike Frantz,Central Midfield,1986-10-14,24,Germany,1.FC Nuremberg,Bundesliga,2011/2012,2011
+Markus Feulner,Central Midfield,1982-02-12,29,Germany,1.FC Nuremberg,Bundesliga,2011/2012,2011
+Daniel Didavi,Attacking Midfield,1990-02-21,21,Germany,1.FC Nuremberg,Bundesliga,2011/2012,2011
+Julian Wießmeier,Attacking Midfield,1992-11-04,18,Germany,1.FC Nuremberg,Bundesliga,2011/2012,2011
+Philipp Klement,Attacking Midfield,1992-09-09,18,Germany,1.FC Nuremberg,Bundesliga,2011/2012,2011
+Markus Mendler,Left Winger,1993-01-07,18,Germany,1.FC Nuremberg,Bundesliga,2011/2012,2011
+Christian Eigler,Right Winger,1984-01-01,27,Germany,1.FC Nuremberg,Bundesliga,2011/2012,2011
+Robert Mak,Right Winger,1991-03-08,20,Slovakia,1.FC Nuremberg,Bundesliga,2011/2012,2011
+Alexander Esswein,Right Winger,1990-03-25,21,Germany,1.FC Nuremberg,Bundesliga,2011/2012,2011
+Albert Bunjaku,Centre-Forward,1983-11-29,27,Kosovo,1.FC Nuremberg,Bundesliga,2011/2012,2011
+Tomas Pekhart,Centre-Forward,1989-05-26,22,Czech Republic,1.FC Nuremberg,Bundesliga,2011/2012,2011
+Simon Jentzsch,Goalkeeper,1976-05-04,35,Germany,FC Augsburg,Bundesliga,2011/2012,2011
+Mohamed Amsif,Goalkeeper,1989-02-07,22,Morocco,FC Augsburg,Bundesliga,2011/2012,2011
+Ioannis Gelios,Goalkeeper,1992-04-24,19,Greece,FC Augsburg,Bundesliga,2011/2012,2011
+Gibril Sankoh,Centre-Back,1983-05-15,28,Sierra Leone,FC Augsburg,Bundesliga,2011/2012,2011
+Uwe Möhrle,Centre-Back,1979-12-03,31,Germany,FC Augsburg,Bundesliga,2011/2012,2011
+Sebastian Langkamp,Centre-Back,1988-01-15,23,Germany,FC Augsburg,Bundesliga,2011/2012,2011
+Jan-Ingwer Callsen-Bracker,Centre-Back,1984-09-23,26,Germany,FC Augsburg,Bundesliga,2011/2012,2011
+Jonas De Roeck,Centre-Back,1979-12-20,31,Belgium,FC Augsburg,Bundesliga,2011/2012,2011
+Andrew Sinkala,Centre-Back,1979-06-18,32,Zambia,FC Augsburg,Bundesliga,2011/2012,2011
+Marcel de Jong,Left-Back,1986-10-15,24,Canada,FC Augsburg,Bundesliga,2011/2012,2011
+Matthias Ostrzolek,Left-Back,1990-06-05,21,Germany,FC Augsburg,Bundesliga,2011/2012,2011
+Paul Verhaegh,Right-Back,1983-09-01,27,Netherlands,FC Augsburg,Bundesliga,2011/2012,2011
+Dominik Reinhardt,Right-Back,1984-12-19,26,Germany,FC Augsburg,Bundesliga,2011/2012,2011
+Marco Thiede,Right-Back,1992-05-20,19,Germany,FC Augsburg,Bundesliga,2011/2012,2011
+Hajime Hosogai,Defensive Midfield,1986-06-10,25,Japan,FC Augsburg,Bundesliga,2011/2012,2011
+Lorenzo Davids,Defensive Midfield,1986-09-04,24,Netherlands,FC Augsburg,Bundesliga,2011/2012,2011
+Daniel Baier,Defensive Midfield,1984-05-18,27,Germany,FC Augsburg,Bundesliga,2011/2012,2011
+Moritz Nebel,Defensive Midfield,1991-09-25,19,Germany,FC Augsburg,Bundesliga,2011/2012,2011
+Jan Morávek,Central Midfield,1989-11-01,21,Czech Republic,FC Augsburg,Bundesliga,2011/2012,2011
+Ja-cheol Koo,Central Midfield,1989-02-27,22,"Korea, South",FC Augsburg,Bundesliga,2011/2012,2011
+Daniel Brinkmann,Central Midfield,1986-01-29,25,Germany,FC Augsburg,Bundesliga,2011/2012,2011
+Marcel Ndjeng,Right Midfield,1982-05-06,29,Cameroon,FC Augsburg,Bundesliga,2011/2012,2011
+Axel Bellinghausen,Left Midfield,1983-05-17,28,Germany,FC Augsburg,Bundesliga,2011/2012,2011
+Tobias Werner,Left Winger,1985-07-19,25,Germany,FC Augsburg,Bundesliga,2011/2012,2011
+Dawda Bah,Left Winger,1983-11-12,27,The Gambia,FC Augsburg,Bundesliga,2011/2012,2011
+Akaki Gogia,Right Winger,1992-01-18,19,Germany,FC Augsburg,Bundesliga,2011/2012,2011
+Nando Rafael,Centre-Forward,1984-01-10,27,Angola,FC Augsburg,Bundesliga,2011/2012,2011
+Sascha Mölders,Centre-Forward,1985-03-20,26,Germany,FC Augsburg,Bundesliga,2011/2012,2011
+Stephan Hain,Centre-Forward,1988-09-27,22,Germany,FC Augsburg,Bundesliga,2011/2012,2011
+Torsten Oehrl,Centre-Forward,1986-01-07,25,Germany,FC Augsburg,Bundesliga,2011/2012,2011
+Patrick Mayer,Centre-Forward,1988-03-28,23,Germany,FC Augsburg,Bundesliga,2011/2012,2011
+Edmond Kapllani,Centre-Forward,1982-07-31,28,Albania,FC Augsburg,Bundesliga,2011/2012,2011

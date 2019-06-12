@@ -1,0 +1,705 @@
+player_name,position,date_of_birth,age,nationality,club_name,league_name,season,year
+Salvatore Sirigu,Goalkeeper,1987-01-12,25,Italy,Paris Saint-Germain,Ligue 1,2012/2013,2012
+Nicolas Douchez,Goalkeeper,1980-04-22,32,France,Paris Saint-Germain,Ligue 1,2012/2013,2012
+Alphonse Areola,Goalkeeper,1993-02-27,19,France,Paris Saint-Germain,Ligue 1,2012/2013,2012
+Ronan Le Crom,Goalkeeper,1974-07-13,37,France,Paris Saint-Germain,Ligue 1,2012/2013,2012
+Thiago Silva,Centre-Back,1984-09-22,27,Brazil,Paris Saint-Germain,Ligue 1,2012/2013,2012
+Mamadou Sakho,Centre-Back,1990-02-13,22,France,Paris Saint-Germain,Ligue 1,2012/2013,2012
+Alex,Centre-Back,1982-06-17,30,Brazil,Paris Saint-Germain,Ligue 1,2012/2013,2012
+Diego Lugano,Centre-Back,1980-11-02,31,Uruguay,Paris Saint-Germain,Ligue 1,2012/2013,2012
+Sylvain Armand,Centre-Back,1980-08-01,31,France,Paris Saint-Germain,Ligue 1,2012/2013,2012
+Zoumana Camara,Centre-Back,1979-04-03,33,France,Paris Saint-Germain,Ligue 1,2012/2013,2012
+Antoine Conte,Centre-Back,1994-01-29,18,France,Paris Saint-Germain,Ligue 1,2012/2013,2012
+Maxwell,Left-Back,1981-08-27,30,Brazil,Paris Saint-Germain,Ligue 1,2012/2013,2012
+Siaka Tiéné,Left-Back,1982-02-22,30,Cote d'Ivoire,Paris Saint-Germain,Ligue 1,2012/2013,2012
+Gregory van der Wiel,Right-Back,1988-02-03,24,Netherlands,Paris Saint-Germain,Ligue 1,2012/2013,2012
+Christophe Jallet,Right-Back,1983-10-31,28,France,Paris Saint-Germain,Ligue 1,2012/2013,2012
+Alvin Arrondel,Right-Back,1993-11-11,18,France,Paris Saint-Germain,Ligue 1,2012/2013,2012
+Jordan Ikoko,Right-Back,1994-02-03,18,DR Congo,Paris Saint-Germain,Ligue 1,2012/2013,2012
+Thiago Motta,Defensive Midfield,1982-08-28,29,Italy,Paris Saint-Germain,Ligue 1,2012/2013,2012
+Mohamed Sissoko,Defensive Midfield,1985-01-22,27,Mali,Paris Saint-Germain,Ligue 1,2012/2013,2012
+Mathieu Bodmer,Defensive Midfield,1982-11-22,29,France,Paris Saint-Germain,Ligue 1,2012/2013,2012
+Clément Chantôme,Defensive Midfield,1987-09-11,24,France,Paris Saint-Germain,Ligue 1,2012/2013,2012
+Blaise Matuidi,Central Midfield,1987-04-09,25,France,Paris Saint-Germain,Ligue 1,2012/2013,2012
+Marco Verratti,Central Midfield,1992-11-05,19,Italy,Paris Saint-Germain,Ligue 1,2012/2013,2012
+Adrien Rabiot,Central Midfield,1995-04-03,17,France,Paris Saint-Germain,Ligue 1,2012/2013,2012
+David Beckham,Right Midfield,1975-05-02,37,England,Paris Saint-Germain,Ligue 1,2012/2013,2012
+Javier Pastore,Attacking Midfield,1989-06-20,23,Argentina,Paris Saint-Germain,Ligue 1,2012/2013,2012
+Nenê,Attacking Midfield,1981-07-19,30,Brazil,Paris Saint-Germain,Ligue 1,2012/2013,2012
+Kingsley Coman,Left Winger,1996-06-13,16,France,Paris Saint-Germain,Ligue 1,2012/2013,2012
+Lucas Moura,Right Winger,1992-08-13,19,Brazil,Paris Saint-Germain,Ligue 1,2012/2013,2012
+Ezequiel Lavezzi,Second Striker,1985-05-03,27,Argentina,Paris Saint-Germain,Ligue 1,2012/2013,2012
+Jérémy Ménez,Second Striker,1987-05-07,25,France,Paris Saint-Germain,Ligue 1,2012/2013,2012
+Hervin Ongenda,Second Striker,1995-06-24,17,France,Paris Saint-Germain,Ligue 1,2012/2013,2012
+Zlatan Ibrahimovic,Centre-Forward,1981-10-03,30,Sweden,Paris Saint-Germain,Ligue 1,2012/2013,2012
+Kévin Gameiro,Centre-Forward,1987-05-09,25,France,Paris Saint-Germain,Ligue 1,2012/2013,2012
+Guillaume Hoarau,Centre-Forward,1984-03-05,28,France,Paris Saint-Germain,Ligue 1,2012/2013,2012
+Péguy Luyindula,Centre-Forward,1979-05-25,33,France,Paris Saint-Germain,Ligue 1,2012/2013,2012
+Hugo Lloris,Goalkeeper,1986-12-26,25,France,Olympique Lyon,Ligue 1,2012/2013,2012
+Rémy Vercoutre,Goalkeeper,1980-06-26,32,France,Olympique Lyon,Ligue 1,2012/2013,2012
+Mathieu Valverde,Goalkeeper,1983-05-14,29,France,Olympique Lyon,Ligue 1,2012/2013,2012
+Anthony Lopes,Goalkeeper,1990-10-01,21,Portugal,Olympique Lyon,Ligue 1,2012/2013,2012
+Mathieu Gorgelin,Goalkeeper,1990-08-05,21,France,Olympique Lyon,Ligue 1,2012/2013,2012
+Jérémy Frick,Goalkeeper,1993-03-08,19,Switzerland,Olympique Lyon,Ligue 1,2012/2013,2012
+Dejan Lovren,Centre-Back,1989-07-05,22,Croatia,Olympique Lyon,Ligue 1,2012/2013,2012
+Milan Bisevac,Centre-Back,1983-08-31,28,Serbia,Olympique Lyon,Ligue 1,2012/2013,2012
+Bakary Koné,Centre-Back,1988-04-27,24,Burkina Faso,Olympique Lyon,Ligue 1,2012/2013,2012
+Samuel Umtiti,Centre-Back,1993-11-14,18,France,Olympique Lyon,Ligue 1,2012/2013,2012
+Cris,Centre-Back,1977-06-03,35,Brazil,Olympique Lyon,Ligue 1,2012/2013,2012
+John Mensah,Centre-Back,1982-11-29,29,Ghana,Olympique Lyon,Ligue 1,2012/2013,2012
+Timothée Kolodziejczak,Centre-Back,1991-10-01,20,France,Olympique Lyon,Ligue 1,2012/2013,2012
+Hamdan Al Kamali,Centre-Back,1989-05-02,23,United Arab Emirates,Olympique Lyon,Ligue 1,2012/2013,2012
+Thomas Fontaine,Centre-Back,1991-05-08,21,Madagascar,Olympique Lyon,Ligue 1,2012/2013,2012
+Nicolas Seguin,Centre-Back,1990-01-01,22,France,Olympique Lyon,Ligue 1,2012/2013,2012
+Naby Sarr,Centre-Back,1993-08-13,18,France,Olympique Lyon,Ligue 1,2012/2013,2012
+Aly Cissokho,Left-Back,1987-09-15,24,France,Olympique Lyon,Ligue 1,2012/2013,2012
+Fabián Monzón,Left-Back,1987-04-13,25,Argentina,Olympique Lyon,Ligue 1,2012/2013,2012
+Anthony Réveillère,Right-Back,1979-11-10,32,France,Olympique Lyon,Ligue 1,2012/2013,2012
+Mouhamadou Dabo,Right-Back,1986-11-28,25,France,Olympique Lyon,Ligue 1,2012/2013,2012
+Jérémy Pied,Right-Back,1989-02-23,23,France,Olympique Lyon,Ligue 1,2012/2013,2012
+Sébastien Faure,Right-Back,1991-01-03,21,France,Olympique Lyon,Ligue 1,2012/2013,2012
+Loïc Abenzoar,Right-Back,1989-02-14,23,France,Olympique Lyon,Ligue 1,2012/2013,2012
+Mehdi Zeffane,Right-Back,1992-05-19,20,Algeria,Olympique Lyon,Ligue 1,2012/2013,2012
+Kim Källström,Defensive Midfield,1982-08-24,29,Sweden,Olympique Lyon,Ligue 1,2012/2013,2012
+Maxime Gonalons,Defensive Midfield,1989-03-10,23,France,Olympique Lyon,Ligue 1,2012/2013,2012
+Arnold Mvuemba,Defensive Midfield,1985-01-28,27,DR Congo,Olympique Lyon,Ligue 1,2012/2013,2012
+Gueïda Fofana,Defensive Midfield,1991-05-16,21,France,Olympique Lyon,Ligue 1,2012/2013,2012
+Sidy Koné,Defensive Midfield,1992-06-06,20,Mali,Olympique Lyon,Ligue 1,2012/2013,2012
+Amos Youga,Defensive Midfield,1992-12-08,19,Central African Republic,Olympique Lyon,Ligue 1,2012/2013,2012
+Clément Grenier,Central Midfield,1991-01-07,21,France,Olympique Lyon,Ligue 1,2012/2013,2012
+Steed Malbranque,Central Midfield,1980-01-06,32,France,Olympique Lyon,Ligue 1,2012/2013,2012
+Enzo Réale,Central Midfield,1991-10-07,20,France,Olympique Lyon,Ligue 1,2012/2013,2012
+Maxime Blanc,Central Midfield,1992-01-23,20,France,Olympique Lyon,Ligue 1,2012/2013,2012
+Jordan Ferri,Central Midfield,1992-03-12,20,France,Olympique Lyon,Ligue 1,2012/2013,2012
+Yannis Tafer,Right Midfield,1991-02-11,21,Algeria,Olympique Lyon,Ligue 1,2012/2013,2012
+Michel Bastos,Left Midfield,1983-08-02,28,Brazil,Olympique Lyon,Ligue 1,2012/2013,2012
+Yoann Gourcuff,Attacking Midfield,1986-07-11,25,France,Olympique Lyon,Ligue 1,2012/2013,2012
+Zakarie Labidi,Attacking Midfield,1995-02-08,17,France,Olympique Lyon,Ligue 1,2012/2013,2012
+Farès Bahlouli,Attacking Midfield,1995-04-08,17,France,Olympique Lyon,Ligue 1,2012/2013,2012
+Yassine Benzia,Attacking Midfield,1994-09-08,17,Algeria,Olympique Lyon,Ligue 1,2012/2013,2012
+Harry Novillo,Left Winger,1992-02-11,20,Martinique,Olympique Lyon,Ligue 1,2012/2013,2012
+Anthony Martial,Left Winger,1995-12-05,16,France,Olympique Lyon,Ligue 1,2012/2013,2012
+Rachid Ghezzal,Right Winger,1992-05-09,20,Algeria,Olympique Lyon,Ligue 1,2012/2013,2012
+Christian Ngando,Right Winger,1993-12-29,18,Cameroon,Olympique Lyon,Ligue 1,2012/2013,2012
+Lisandro López,Centre-Forward,1983-03-02,29,Argentina,Olympique Lyon,Ligue 1,2012/2013,2012
+Bafétimbi Gomis,Centre-Forward,1985-08-06,26,France,Olympique Lyon,Ligue 1,2012/2013,2012
+Jimmy Briand,Centre-Forward,1985-08-02,26,France,Olympique Lyon,Ligue 1,2012/2013,2012
+Alexandre Lacazette,Centre-Forward,1991-05-28,21,France,Olympique Lyon,Ligue 1,2012/2013,2012
+Clinton N'Jie,Centre-Forward,1993-08-15,18,Cameroon,Olympique Lyon,Ligue 1,2012/2013,2012
+Alassane Plea,Centre-Forward,1993-03-10,19,France,Olympique Lyon,Ligue 1,2012/2013,2012
+Steve Mandanda,Goalkeeper,1985-03-28,27,France,Olympique Marseille,Ligue 1,2012/2013,2012
+Gennaro Bracigliano,Goalkeeper,1980-03-01,32,France,Olympique Marseille,Ligue 1,2012/2013,2012
+Brice Samba,Goalkeeper,1994-04-25,18,France,Olympique Marseille,Ligue 1,2012/2013,2012
+Julien Fabri,Goalkeeper,1994-02-05,18,France,Olympique Marseille,Ligue 1,2012/2013,2012
+Ibrahima Sy,Goalkeeper,1995-08-13,16,Senegal,Olympique Marseille,Ligue 1,2012/2013,2012
+Nicolas N'Koulou,Centre-Back,1990-03-27,22,Cameroon,Olympique Marseille,Ligue 1,2012/2013,2012
+Jérémy Morel,Centre-Back,1984-04-02,28,Madagascar,Olympique Marseille,Ligue 1,2012/2013,2012
+Souleymane Diawara,Centre-Back,1978-12-24,33,Senegal,Olympique Marseille,Ligue 1,2012/2013,2012
+Leyti N'Diaye,Centre-Back,1985-08-19,26,Senegal,Olympique Marseille,Ligue 1,2012/2013,2012
+Lucas Mendes,Centre-Back,1990-07-03,21,Brazil,Olympique Marseille,Ligue 1,2012/2013,2012
+Pape M'Bow,Centre-Back,1988-05-22,24,Senegal,Olympique Marseille,Ligue 1,2012/2013,2012
+Senah Mango,Centre-Back,1991-12-13,20,Togo,Olympique Marseille,Ligue 1,2012/2013,2012
+Baptiste Aloé,Centre-Back,1994-06-29,18,France,Olympique Marseille,Ligue 1,2012/2013,2012
+Gaël Andonian,Centre-Back,1995-02-07,17,Armenia,Olympique Marseille,Ligue 1,2012/2013,2012
+César Azpilicueta,Right-Back,1989-08-28,22,Spain,Olympique Marseille,Ligue 1,2012/2013,2012
+Rod Fanni,Right-Back,1981-12-06,30,France,Olympique Marseille,Ligue 1,2012/2013,2012
+Kassim Abdallah,Right-Back,1987-04-09,25,Comoros,Olympique Marseille,Ligue 1,2012/2013,2012
+Stéphane Mbia,Defensive Midfield,1986-05-20,26,Cameroon,Olympique Marseille,Ligue 1,2012/2013,2012
+Benoît Cheyrou,Defensive Midfield,1981-05-03,31,France,Olympique Marseille,Ligue 1,2012/2013,2012
+Charles Kaboré,Defensive Midfield,1988-02-09,24,Burkina Faso,Olympique Marseille,Ligue 1,2012/2013,2012
+Alaixys Romao,Defensive Midfield,1984-01-18,28,Togo,Olympique Marseille,Ligue 1,2012/2013,2012
+Alexander N'Doumbou,Defensive Midfield,1992-01-04,20,Gabon,Olympique Marseille,Ligue 1,2012/2013,2012
+Rafidine Abdullah,Defensive Midfield,1994-01-15,18,Comoros,Olympique Marseille,Ligue 1,2012/2013,2012
+Momar Bangoura,Defensive Midfield,1994-02-24,18,France,Olympique Marseille,Ligue 1,2012/2013,2012
+Laurent Abergel,Defensive Midfield,1993-02-01,19,France,Olympique Marseille,Ligue 1,2012/2013,2012
+Joey Barton,Central Midfield,1982-09-02,29,England,Olympique Marseille,Ligue 1,2012/2013,2012
+Larry Azouni,Central Midfield,1994-03-23,18,Tunisia,Olympique Marseille,Ligue 1,2012/2013,2012
+Wesley Jobello,Left Midfield,1994-01-23,18,Martinique,Olympique Marseille,Ligue 1,2012/2013,2012
+Foued Kadir,Attacking Midfield,1983-12-05,28,Algeria,Olympique Marseille,Ligue 1,2012/2013,2012
+Jonathan Santiago,Attacking Midfield,1994-06-09,18,France,Olympique Marseille,Ligue 1,2012/2013,2012
+Najib Ammari,Attacking Midfield,1992-04-10,20,Algeria,Olympique Marseille,Ligue 1,2012/2013,2012
+André Ayew,Left Winger,1989-12-17,22,Ghana,Olympique Marseille,Ligue 1,2012/2013,2012
+Mathieu Valbuena,Left Winger,1984-09-28,27,France,Olympique Marseille,Ligue 1,2012/2013,2012
+Morgan Amalfitano,Right Winger,1985-03-20,27,France,Olympique Marseille,Ligue 1,2012/2013,2012
+Modou Sougou,Right Winger,1984-12-18,27,Senegal,Olympique Marseille,Ligue 1,2012/2013,2012
+Kevin Osei,Right Winger,1991-03-26,21,Ghana,Olympique Marseille,Ligue 1,2012/2013,2012
+Loïc Rémy,Centre-Forward,1987-01-02,25,France,Olympique Marseille,Ligue 1,2012/2013,2012
+André-Pierre Gignac,Centre-Forward,1985-12-05,26,France,Olympique Marseille,Ligue 1,2012/2013,2012
+Jordan Ayew,Centre-Forward,1991-09-11,20,Ghana,Olympique Marseille,Ligue 1,2012/2013,2012
+Florian Raspentino,Centre-Forward,1989-06-06,23,France,Olympique Marseille,Ligue 1,2012/2013,2012
+Billel Omrani,Centre-Forward,1993-06-02,19,France,Olympique Marseille,Ligue 1,2012/2013,2012
+Fabrice Apruzesse,Centre-Forward,1985-05-08,27,France,Olympique Marseille,Ligue 1,2012/2013,2012
+Achille Anani,Centre-Forward,1994-12-27,17,Cote d'Ivoire,Olympique Marseille,Ligue 1,2012/2013,2012
+Mickaël Landreau,Goalkeeper,1979-05-14,33,France,LOSC Lille,Ligue 1,2012/2013,2012
+Steeve Elana,Goalkeeper,1980-07-11,31,Martinique,LOSC Lille,Ligue 1,2012/2013,2012
+Barel Mouko,Goalkeeper,1979-04-05,33,Congo,LOSC Lille,Ligue 1,2012/2013,2012
+Aurélien Chedjou,Centre-Back,1985-06-20,27,Cameroon,LOSC Lille,Ligue 1,2012/2013,2012
+Marko Basa,Centre-Back,1982-12-29,29,Montenegro,LOSC Lille,Ligue 1,2012/2013,2012
+David Rozehnal,Centre-Back,1980-07-05,31,Czech Republic,LOSC Lille,Ligue 1,2012/2013,2012
+Adama Soumaoro,Centre-Back,1992-06-18,20,France,LOSC Lille,Ligue 1,2012/2013,2012
+Steeven Willems,Centre-Back,1990-08-31,21,France,LOSC Lille,Ligue 1,2012/2013,2012
+Lucas Digne,Left-Back,1993-07-20,18,France,LOSC Lille,Ligue 1,2012/2013,2012
+Laurent Bonnart,Left-Back,1979-12-25,32,France,LOSC Lille,Ligue 1,2012/2013,2012
+Mathieu Debuchy,Right-Back,1985-07-28,26,France,LOSC Lille,Ligue 1,2012/2013,2012
+Franck Béria,Right-Back,1983-05-23,29,France,LOSC Lille,Ligue 1,2012/2013,2012
+Djibril Sidibé,Right-Back,1992-07-29,19,France,LOSC Lille,Ligue 1,2012/2013,2012
+Rio Mavuba,Defensive Midfield,1984-03-08,28,France,LOSC Lille,Ligue 1,2012/2013,2012
+Benoît Pedretti,Defensive Midfield,1980-11-12,31,France,LOSC Lille,Ligue 1,2012/2013,2012
+Florent Balmont,Central Midfield,1980-02-02,32,France,LOSC Lille,Ligue 1,2012/2013,2012
+Idrissa Gueye,Central Midfield,1989-09-26,22,Senegal,LOSC Lille,Ligue 1,2012/2013,2012
+Julian Michel,Central Midfield,1992-02-19,20,France,LOSC Lille,Ligue 1,2012/2013,2012
+Marvin Martin,Attacking Midfield,1988-01-10,24,France,LOSC Lille,Ligue 1,2012/2013,2012
+Dimitri Payet,Attacking Midfield,1987-03-29,25,France,LOSC Lille,Ligue 1,2012/2013,2012
+Salomon Kalou,Left Winger,1985-08-05,26,Cote d'Ivoire,LOSC Lille,Ligue 1,2012/2013,2012
+Ryan Mendes,Left Winger,1990-01-08,22,Cape Verde,LOSC Lille,Ligue 1,2012/2013,2012
+Ronny Rodelin,Right Winger,1989-11-18,22,France,LOSC Lille,Ligue 1,2012/2013,2012
+Viktor Klonaridis,Second Striker,1992-07-28,19,Belgium,LOSC Lille,Ligue 1,2012/2013,2012
+Nolan Roux,Centre-Forward,1988-03-01,24,France,LOSC Lille,Ligue 1,2012/2013,2012
+Túlio de Melo,Centre-Forward,1985-01-31,27,Brazil,LOSC Lille,Ligue 1,2012/2013,2012
+Gianni Bruno,Centre-Forward,1991-08-19,20,Belgium,LOSC Lille,Ligue 1,2012/2013,2012
+Divock Origi,Centre-Forward,1995-04-18,17,Belgium,LOSC Lille,Ligue 1,2012/2013,2012
+Benoît Costil,Goalkeeper,1987-07-03,24,France,Stade Rennais FC,Ligue 1,2012/2013,2012
+Abdoulaye Diallo,Goalkeeper,1992-03-30,20,Senegal,Stade Rennais FC,Ligue 1,2012/2013,2012
+Cheick N'Diaye,Goalkeeper,1985-02-15,27,Senegal,Stade Rennais FC,Ligue 1,2012/2013,2012
+Jean-Armel Kana-Biyik,Centre-Back,1989-07-03,22,Cameroon,Stade Rennais FC,Ligue 1,2012/2013,2012
+Kévin Théophile-Catherine,Centre-Back,1989-10-28,22,Martinique,Stade Rennais FC,Ligue 1,2012/2013,2012
+Onyekachi Apam,Centre-Back,1986-12-30,25,Nigeria,Stade Rennais FC,Ligue 1,2012/2013,2012
+John Boye,Centre-Back,1987-04-23,25,Ghana,Stade Rennais FC,Ligue 1,2012/2013,2012
+John Mensah,Centre-Back,1982-11-29,29,Ghana,Stade Rennais FC,Ligue 1,2012/2013,2012
+Chris Mavinga,Left-Back,1991-05-26,21,DR Congo,Stade Rennais FC,Ligue 1,2012/2013,2012
+Hérita Ilunga,Left-Back,1982-02-25,30,DR Congo,Stade Rennais FC,Ligue 1,2012/2013,2012
+Kévin Beauverger,Left-Back,1993-12-16,18,France,Stade Rennais FC,Ligue 1,2012/2013,2012
+Romain Danzé,Right-Back,1986-07-03,25,France,Stade Rennais FC,Ligue 1,2012/2013,2012
+Yassine Jebbour,Right-Back,1991-08-24,20,Morocco,Stade Rennais FC,Ligue 1,2012/2013,2012
+Dimitri Foulquier,Right-Back,1993-03-23,19,Guadeloupe,Stade Rennais FC,Ligue 1,2012/2013,2012
+Steven Moreira,Right-Back,1994-08-13,17,France,Stade Rennais FC,Ligue 1,2012/2013,2012
+Yann M'Vila,Defensive Midfield,1990-06-29,22,France,Stade Rennais FC,Ligue 1,2012/2013,2012
+Alou Diarra,Defensive Midfield,1981-07-15,30,France,Stade Rennais FC,Ligue 1,2012/2013,2012
+Jean II Makoun,Defensive Midfield,1983-05-29,29,Cameroon,Stade Rennais FC,Ligue 1,2012/2013,2012
+Alexander Tettey,Defensive Midfield,1986-04-04,26,Norway,Stade Rennais FC,Ligue 1,2012/2013,2012
+Vincent Pajot,Defensive Midfield,1990-08-19,21,France,Stade Rennais FC,Ligue 1,2012/2013,2012
+Anders Konradsen,Defensive Midfield,1990-07-18,21,Norway,Stade Rennais FC,Ligue 1,2012/2013,2012
+Sadio Diallo,Central Midfield,1990-12-28,21,Guinea,Stade Rennais FC,Ligue 1,2012/2013,2012
+Abdoulaye Doucouré,Central Midfield,1993-01-01,19,France,Stade Rennais FC,Ligue 1,2012/2013,2012
+Julien Féret,Attacking Midfield,1982-07-05,29,France,Stade Rennais FC,Ligue 1,2012/2013,2012
+Adrien Hunou,Attacking Midfield,1994-01-19,18,France,Stade Rennais FC,Ligue 1,2012/2013,2012
+Axel Ngando,Attacking Midfield,1993-07-13,18,France,Stade Rennais FC,Ligue 1,2012/2013,2012
+Jirès Kembo-Ekoko,Left Winger,1988-01-08,24,France,Stade Rennais FC,Ligue 1,2012/2013,2012
+Ejike Uzoenyi,Left Winger,1988-03-23,24,Nigeria,Stade Rennais FC,Ligue 1,2012/2013,2012
+Jonathan Pitroipa,Right Winger,1986-04-12,26,Burkina Faso,Stade Rennais FC,Ligue 1,2012/2013,2012
+Romain Alessandrini,Right Winger,1989-04-03,23,France,Stade Rennais FC,Ligue 1,2012/2013,2012
+Mevlüt Erdinc,Centre-Forward,1987-02-25,25,Turkey,Stade Rennais FC,Ligue 1,2012/2013,2012
+Víctor Montaño,Centre-Forward,1984-05-01,28,Colombia,Stade Rennais FC,Ligue 1,2012/2013,2012
+Wesley Saïd,Centre-Forward,1995-04-19,17,France,Stade Rennais FC,Ligue 1,2012/2013,2012
+Cheick Diarra,Centre-Forward,1992-02-11,20,Mali,Stade Rennais FC,Ligue 1,2012/2013,2012
+Abdoulaye Sané,Centre-Forward,1992-10-15,19,Senegal,Stade Rennais FC,Ligue 1,2012/2013,2012
+Geoffrey Jourdren,Goalkeeper,1986-02-04,26,France,HSC Montpellier,Ligue 1,2012/2013,2012
+Laurent Pionnier,Goalkeeper,1982-05-24,30,France,HSC Montpellier,Ligue 1,2012/2013,2012
+Jonathan Ligali,Goalkeeper,1991-05-28,21,France,HSC Montpellier,Ligue 1,2012/2013,2012
+Baptiste Valette,Goalkeeper,1992-09-01,19,France,HSC Montpellier,Ligue 1,2012/2013,2012
+Mapou Yanga-Mbiwa,Centre-Back,1989-05-15,23,France,HSC Montpellier,Ligue 1,2012/2013,2012
+Daniel Congré,Centre-Back,1985-04-05,27,France,HSC Montpellier,Ligue 1,2012/2013,2012
+Benjamin Stambouli,Centre-Back,1990-08-13,21,France,HSC Montpellier,Ligue 1,2012/2013,2012
+Abdelhamid El Kaoutari,Centre-Back,1990-03-17,22,Morocco,HSC Montpellier,Ligue 1,2012/2013,2012
+Hilton,Centre-Back,1977-09-13,34,Brazil,HSC Montpellier,Ligue 1,2012/2013,2012
+Teddy Mézague,Centre-Back,1990-05-27,22,France,HSC Montpellier,Ligue 1,2012/2013,2012
+Vincent Di Stefano,Centre-Back,1993-03-04,19,France,HSC Montpellier,Ligue 1,2012/2013,2012
+Henri Bedimo,Left-Back,1984-06-04,28,Cameroon,HSC Montpellier,Ligue 1,2012/2013,2012
+Garry Bocaly,Right-Back,1988-04-19,24,France,HSC Montpellier,Ligue 1,2012/2013,2012
+Mathieu Deplagne,Right-Back,1991-10-01,20,France,HSC Montpellier,Ligue 1,2012/2013,2012
+Marco Estrada,Defensive Midfield,1983-05-28,29,Chile,HSC Montpellier,Ligue 1,2012/2013,2012
+Joris Marveaux,Defensive Midfield,1982-08-15,29,Martinique,HSC Montpellier,Ligue 1,2012/2013,2012
+Jamel Saihi,Defensive Midfield,1987-01-27,25,Tunisia,HSC Montpellier,Ligue 1,2012/2013,2012
+Romain Pitau,Defensive Midfield,1977-08-08,34,France,HSC Montpellier,Ligue 1,2012/2013,2012
+Cyril Jeunechamp,Defensive Midfield,1975-12-18,36,France,HSC Montpellier,Ligue 1,2012/2013,2012
+Mohamed Hamzaoui,Defensive Midfield,1993-03-06,19,Morocco,HSC Montpellier,Ligue 1,2012/2013,2012
+Jonas Martin,Central Midfield,1990-04-09,22,France,HSC Montpellier,Ligue 1,2012/2013,2012
+Guillaume Legras,Central Midfield,1990-01-17,22,France,HSC Montpellier,Ligue 1,2012/2013,2012
+Bryan Dabo,Central Midfield,1992-02-18,20,Burkina Faso,HSC Montpellier,Ligue 1,2012/2013,2012
+Younès Belhanda,Attacking Midfield,1990-02-25,22,Morocco,HSC Montpellier,Ligue 1,2012/2013,2012
+Rémy Cabella,Attacking Midfield,1990-03-08,22,France,HSC Montpellier,Ligue 1,2012/2013,2012
+Adrien Coulomb,Attacking Midfield,1990-10-04,21,France,HSC Montpellier,Ligue 1,2012/2013,2012
+Alexandre Cropanese,Attacking Midfield,1993-10-18,18,France,HSC Montpellier,Ligue 1,2012/2013,2012
+Anthony Mounier,Left Winger,1987-09-27,24,France,HSC Montpellier,Ligue 1,2012/2013,2012
+John Utaka,Left Winger,1982-01-08,30,Nigeria,HSC Montpellier,Ligue 1,2012/2013,2012
+Karim Aït-Fana,Left Winger,1989-02-25,23,Morocco,HSC Montpellier,Ligue 1,2012/2013,2012
+Souleymane Camara,Right Winger,1982-12-22,29,Senegal,HSC Montpellier,Ligue 1,2012/2013,2012
+Gaëtan Charbonnier,Centre-Forward,1988-12-27,23,France,HSC Montpellier,Ligue 1,2012/2013,2012
+Emanuel Herrera,Centre-Forward,1987-04-13,25,Argentina,HSC Montpellier,Ligue 1,2012/2013,2012
+Bengali-Fodé Koita,Centre-Forward,1990-10-21,21,Guinea,HSC Montpellier,Ligue 1,2012/2013,2012
+Jonathan Tinhan,Centre-Forward,1989-06-01,23,Benin,HSC Montpellier,Ligue 1,2012/2013,2012
+Abdoul Karim Sylla,Centre-Forward,1992-01-23,20,Netherlands,HSC Montpellier,Ligue 1,2012/2013,2012
+Stéphane Ruffier,Goalkeeper,1986-09-27,25,France,AS Saint-Étienne,Ligue 1,2012/2013,2012
+Pape Coulibaly,Goalkeeper,1988-03-02,24,Senegal,AS Saint-Étienne,Ligue 1,2012/2013,2012
+Jessy Moulin,Goalkeeper,1986-01-13,26,France,AS Saint-Étienne,Ligue 1,2012/2013,2012
+Kurt Zouma,Centre-Back,1994-10-27,17,France,AS Saint-Étienne,Ligue 1,2012/2013,2012
+Jean-Pascal Mignot,Centre-Back,1981-02-26,31,France,AS Saint-Étienne,Ligue 1,2012/2013,2012
+Loïc Perrin,Centre-Back,1985-08-07,26,France,AS Saint-Étienne,Ligue 1,2012/2013,2012
+Moustapha Sall,Centre-Back,1985-11-30,26,Senegal,AS Saint-Étienne,Ligue 1,2012/2013,2012
+Ben Karamoko,Centre-Back,1995-05-17,17,Cote d'Ivoire,AS Saint-Étienne,Ligue 1,2012/2013,2012
+Faouzi Ghoulam,Left-Back,1991-02-01,21,Algeria,AS Saint-Étienne,Ligue 1,2012/2013,2012
+Jonathan Brison,Left-Back,1983-02-07,29,France,AS Saint-Étienne,Ligue 1,2012/2013,2012
+Pierre-Yves Polomat,Left-Back,1993-12-27,18,France,AS Saint-Étienne,Ligue 1,2012/2013,2012
+François Clerc,Right-Back,1983-04-18,29,France,AS Saint-Étienne,Ligue 1,2012/2013,2012
+Ruben Aguilar,Right-Back,1993-04-26,19,France,AS Saint-Étienne,Ligue 1,2012/2013,2012
+Mathieu Bodmer,Defensive Midfield,1982-11-22,29,France,AS Saint-Étienne,Ligue 1,2012/2013,2012
+Jérémy Clément,Defensive Midfield,1984-08-26,27,France,AS Saint-Étienne,Ligue 1,2012/2013,2012
+Fabien Lemoine,Defensive Midfield,1987-03-16,25,France,AS Saint-Étienne,Ligue 1,2012/2013,2012
+Josuha Guilavogui,Defensive Midfield,1990-09-19,21,France,AS Saint-Étienne,Ligue 1,2012/2013,2012
+Ismaël Diomandé,Defensive Midfield,1992-08-28,19,Cote d'Ivoire,AS Saint-Étienne,Ligue 1,2012/2013,2012
+Renaud Cohade,Central Midfield,1984-09-29,27,France,AS Saint-Étienne,Ligue 1,2012/2013,2012
+Sidy Sagna,Central Midfield,1990-02-04,22,Senegal,AS Saint-Étienne,Ligue 1,2012/2013,2012
+Alejandro Alonso,Right Midfield,1982-03-03,30,Argentina,AS Saint-Étienne,Ligue 1,2012/2013,2012
+Bakary Sako,Left Winger,1988-04-26,24,Mali,AS Saint-Étienne,Ligue 1,2012/2013,2012
+Max Gradel,Left Winger,1987-11-30,24,Cote d'Ivoire,AS Saint-Étienne,Ligue 1,2012/2013,2012
+Yohan Mollo,Left Winger,1989-07-18,22,France,AS Saint-Étienne,Ligue 1,2012/2013,2012
+Andreas Laudrup,Left Winger,1990-11-10,21,Denmark,AS Saint-Étienne,Ligue 1,2012/2013,2012
+Romain Hamouma,Right Winger,1987-03-29,25,France,AS Saint-Étienne,Ligue 1,2012/2013,2012
+Banel Nicolita,Right Winger,1985-01-07,27,Romania,AS Saint-Étienne,Ligue 1,2012/2013,2012
+Danijel Aleksic,Right Winger,1991-04-30,21,Serbia,AS Saint-Étienne,Ligue 1,2012/2013,2012
+Pierre-Emerick Aubameyang,Centre-Forward,1989-06-18,23,Gabon,AS Saint-Étienne,Ligue 1,2012/2013,2012
+Lynel Kitambala,Centre-Forward,1988-10-26,23,France,AS Saint-Étienne,Ligue 1,2012/2013,2012
+Brandão,Centre-Forward,1980-06-16,32,Brazil,AS Saint-Étienne,Ligue 1,2012/2013,2012
+Idriss Saadi,Centre-Forward,1992-02-08,20,Algeria,AS Saint-Étienne,Ligue 1,2012/2013,2012
+Kamel Chergui,Centre-Forward,1993-04-16,19,France,AS Saint-Étienne,Ligue 1,2012/2013,2012
+Kévin Mayi,Centre-Forward,1993-01-14,19,France,AS Saint-Étienne,Ligue 1,2012/2013,2012
+Cédric Carrasso,Goalkeeper,1981-12-30,30,France,FC Girondins Bordeaux,Ligue 1,2012/2013,2012
+Kévin Olimpa,Goalkeeper,1988-03-10,24,Martinique,FC Girondins Bordeaux,Ligue 1,2012/2013,2012
+Abdoulaye Keita,Goalkeeper,1990-08-16,21,France,FC Girondins Bordeaux,Ligue 1,2012/2013,2012
+Azbe Jug,Goalkeeper,1992-03-03,20,Slovenia,FC Girondins Bordeaux,Ligue 1,2012/2013,2012
+Lamine Sané,Centre-Back,1987-03-22,25,Senegal,FC Girondins Bordeaux,Ligue 1,2012/2013,2012
+Michaël Ciani,Centre-Back,1984-04-06,28,France,FC Girondins Bordeaux,Ligue 1,2012/2013,2012
+Marc Planus,Centre-Back,1982-03-07,30,France,FC Girondins Bordeaux,Ligue 1,2012/2013,2012
+Henrique,Centre-Back,1983-05-02,29,Brazil,FC Girondins Bordeaux,Ligue 1,2012/2013,2012
+Benoît Trémoulinas,Left-Back,1985-12-28,26,France,FC Girondins Bordeaux,Ligue 1,2012/2013,2012
+Florian Marange,Left-Back,1986-03-03,26,France,FC Girondins Bordeaux,Ligue 1,2012/2013,2012
+Maxime Poundjé,Left-Back,1992-08-16,19,France,FC Girondins Bordeaux,Ligue 1,2012/2013,2012
+Mariano,Right-Back,1986-06-23,26,Brazil,FC Girondins Bordeaux,Ligue 1,2012/2013,2012
+Matthieu Chalmé,Right-Back,1980-10-07,31,France,FC Girondins Bordeaux,Ligue 1,2012/2013,2012
+Landry N'Guémo,Defensive Midfield,1985-11-28,26,Cameroon,FC Girondins Bordeaux,Ligue 1,2012/2013,2012
+Julien Faubert,Defensive Midfield,1983-08-01,28,Martinique,FC Girondins Bordeaux,Ligue 1,2012/2013,2012
+Grégory Sertic,Defensive Midfield,1989-08-05,22,France,FC Girondins Bordeaux,Ligue 1,2012/2013,2012
+André Poko,Defensive Midfield,1993-01-01,19,Gabon,FC Girondins Bordeaux,Ligue 1,2012/2013,2012
+Jaroslav Plasil,Central Midfield,1982-01-05,30,Czech Republic,FC Girondins Bordeaux,Ligue 1,2012/2013,2012
+Abdou Traoré,Central Midfield,1988-01-17,24,Mali,FC Girondins Bordeaux,Ligue 1,2012/2013,2012
+Ludovic Obraniak,Attacking Midfield,1984-11-10,27,Poland,FC Girondins Bordeaux,Ligue 1,2012/2013,2012
+Jussiê,Attacking Midfield,1983-09-19,28,Brazil,FC Girondins Bordeaux,Ligue 1,2012/2013,2012
+Henri Saivet,Attacking Midfield,1990-10-26,21,Senegal,FC Girondins Bordeaux,Ligue 1,2012/2013,2012
+Yoan Gouffran,Left Winger,1986-05-25,26,France,FC Girondins Bordeaux,Ligue 1,2012/2013,2012
+Nicolas Maurice-Belay,Left Winger,1985-04-19,27,France,FC Girondins Bordeaux,Ligue 1,2012/2013,2012
+Evan Chevalier,Left Winger,1992-05-13,20,France,FC Girondins Bordeaux,Ligue 1,2012/2013,2012
+Fahid Ben Khalfallah,Right Winger,1982-10-09,29,Tunisia,FC Girondins Bordeaux,Ligue 1,2012/2013,2012
+Hadi Sacko,Right Winger,1994-03-24,18,Mali,FC Girondins Bordeaux,Ligue 1,2012/2013,2012
+Cheick Diabaté,Centre-Forward,1988-04-25,24,Mali,FC Girondins Bordeaux,Ligue 1,2012/2013,2012
+David Bellion,Centre-Forward,1982-11-27,29,France,FC Girondins Bordeaux,Ligue 1,2012/2013,2012
+Diego Rolán,Centre-Forward,1993-03-24,19,Uruguay,FC Girondins Bordeaux,Ligue 1,2012/2013,2012
+Ali Ahamada,Goalkeeper,1991-08-19,20,Comoros,FC Toulouse,Ligue 1,2012/2013,2012
+Olivier Blondel,Goalkeeper,1979-07-09,32,France,FC Toulouse,Ligue 1,2012/2013,2012
+Marc Vidal,Goalkeeper,1991-06-03,21,France,FC Toulouse,Ligue 1,2012/2013,2012
+Aymen Abdennour,Centre-Back,1989-08-06,22,Tunisia,FC Toulouse,Ligue 1,2012/2013,2012
+Jonathan Zebina,Centre-Back,1978-07-19,33,France,FC Toulouse,Ligue 1,2012/2013,2012
+Mickaël Firmin,Centre-Back,1990-09-21,21,France,FC Toulouse,Ligue 1,2012/2013,2012
+Mohamadou Sissoko,Centre-Back,1988-08-08,23,France,FC Toulouse,Ligue 1,2012/2013,2012
+Gaël Vena,Centre-Back,1993-02-02,19,France,FC Toulouse,Ligue 1,2012/2013,2012
+Steeve Yago,Centre-Back,1992-12-16,19,Burkina Faso,FC Toulouse,Ligue 1,2012/2013,2012
+Franck Tabanou,Left-Back,1989-01-30,23,France,FC Toulouse,Ligue 1,2012/2013,2012
+Cheikh M'Bengue,Left-Back,1988-07-23,23,Senegal,FC Toulouse,Ligue 1,2012/2013,2012
+Kévin Rodrigues,Left-Back,1994-03-05,18,Portugal,FC Toulouse,Ligue 1,2012/2013,2012
+Issiaga Sylla,Left-Back,1994-01-01,18,Guinea,FC Toulouse,Ligue 1,2012/2013,2012
+Pavle Ninkov,Right-Back,1985-04-20,27,Serbia,FC Toulouse,Ligue 1,2012/2013,2012
+Serge Aurier,Right-Back,1992-12-24,19,Cote d'Ivoire,FC Toulouse,Ligue 1,2012/2013,2012
+Thibault Peyre,Right-Back,1992-10-03,19,France,FC Toulouse,Ligue 1,2012/2013,2012
+Étienne Capoue,Defensive Midfield,1988-07-11,23,France,FC Toulouse,Ligue 1,2012/2013,2012
+Adil Hermach,Defensive Midfield,1986-06-27,26,Morocco,FC Toulouse,Ligue 1,2012/2013,2012
+Cheikh Bangré,Defensive Midfield,1993-11-02,18,France,FC Toulouse,Ligue 1,2012/2013,2012
+Moussa Sissoko,Central Midfield,1989-08-16,22,France,FC Toulouse,Ligue 1,2012/2013,2012
+Étienne Didot,Central Midfield,1983-07-24,28,France,FC Toulouse,Ligue 1,2012/2013,2012
+Jean-Daniel Akpa Akpro,Central Midfield,1992-10-11,19,Cote d'Ivoire,FC Toulouse,Ligue 1,2012/2013,2012
+Pantxi Sirieix,Central Midfield,1980-10-07,31,France,FC Toulouse,Ligue 1,2012/2013,2012
+Adrien Rabiot,Central Midfield,1995-04-03,17,France,FC Toulouse,Ligue 1,2012/2013,2012
+Adrien Regattin,Right Midfield,1991-08-22,20,Morocco,FC Toulouse,Ligue 1,2012/2013,2012
+Yannick Djaló,Left Winger,1986-05-05,26,Portugal,FC Toulouse,Ligue 1,2012/2013,2012
+Daniel Braaten,Right Winger,1982-05-25,30,Norway,FC Toulouse,Ligue 1,2012/2013,2012
+Yannick Aguemon,Right Winger,1992-02-11,20,Benin,FC Toulouse,Ligue 1,2012/2013,2012
+Emmanuel Rivière,Centre-Forward,1990-03-03,22,France,FC Toulouse,Ligue 1,2012/2013,2012
+Eden Ben Basat,Centre-Forward,1986-09-08,25,Israel,FC Toulouse,Ligue 1,2012/2013,2012
+Wissam Ben Yedder,Centre-Forward,1990-08-12,21,France,FC Toulouse,Ligue 1,2012/2013,2012
+Sana Zaniou,Centre-Forward,1994-12-31,17,Burkina Faso,FC Toulouse,Ligue 1,2012/2013,2012
+Fabien Audard,Goalkeeper,1978-03-28,34,France,FC Lorient,Ligue 1,2012/2013,2012
+Benjamin Lecomte,Goalkeeper,1991-04-26,21,France,FC Lorient,Ligue 1,2012/2013,2012
+Florent Chaigneau,Goalkeeper,1984-03-21,28,France,FC Lorient,Ligue 1,2012/2013,2012
+Bruno Ecuele Manga,Centre-Back,1988-07-16,23,Gabon,FC Lorient,Ligue 1,2012/2013,2012
+Grégory Bourillon,Centre-Back,1984-07-01,28,France,FC Lorient,Ligue 1,2012/2013,2012
+Wesley Lautoa,Centre-Back,1987-08-25,24,France,FC Lorient,Ligue 1,2012/2013,2012
+Lamine Koné,Centre-Back,1989-02-01,23,Cote d'Ivoire,FC Lorient,Ligue 1,2012/2013,2012
+Adil Benzariouh,Centre-Back,1993-01-14,19,Morocco,FC Lorient,Ligue 1,2012/2013,2012
+Cheick Touré,Centre-Back,1992-12-16,19,Cote d'Ivoire,FC Lorient,Ligue 1,2012/2013,2012
+Lucas Mareque,Left-Back,1983-01-12,29,Argentina,FC Lorient,Ligue 1,2012/2013,2012
+Arnaud Le Lan,Left-Back,1978-03-22,34,France,FC Lorient,Ligue 1,2012/2013,2012
+Maxime Baca,Right-Back,1983-06-02,29,France,FC Lorient,Ligue 1,2012/2013,2012
+Pedrinho,Right-Back,1985-03-06,27,Portugal,FC Lorient,Ligue 1,2012/2013,2012
+Lamine Gassama,Right-Back,1989-10-20,22,Senegal,FC Lorient,Ligue 1,2012/2013,2012
+Arnold Mvuemba,Defensive Midfield,1985-01-28,27,DR Congo,FC Lorient,Ligue 1,2012/2013,2012
+Alaixys Romao,Defensive Midfield,1984-01-18,28,Togo,FC Lorient,Ligue 1,2012/2013,2012
+Mohammed Abu,Defensive Midfield,1991-11-14,20,Ghana,FC Lorient,Ligue 1,2012/2013,2012
+Rémi Mulumba,Defensive Midfield,1992-11-02,19,DR Congo,FC Lorient,Ligue 1,2012/2013,2012
+Mario Lemina,Defensive Midfield,1993-09-01,18,Gabon,FC Lorient,Ligue 1,2012/2013,2012
+Mathieu Coutadeur,Central Midfield,1986-03-20,26,France,FC Lorient,Ligue 1,2012/2013,2012
+Enzo Réale,Central Midfield,1991-10-07,20,France,FC Lorient,Ligue 1,2012/2013,2012
+Ryan Mason,Central Midfield,1991-06-13,21,England,FC Lorient,Ligue 1,2012/2013,2012
+Yann Jouffre,Right Midfield,1984-07-23,27,France,FC Lorient,Ligue 1,2012/2013,2012
+Fabien Robert,Left Midfield,1989-01-06,23,France,FC Lorient,Ligue 1,2012/2013,2012
+Maxime Barthelmé,Left Midfield,1988-09-08,23,France,FC Lorient,Ligue 1,2012/2013,2012
+Alain Traoré,Attacking Midfield,1988-12-31,23,Burkina Faso,FC Lorient,Ligue 1,2012/2013,2012
+Benjamin Corgnet,Attacking Midfield,1987-04-06,25,France,FC Lorient,Ligue 1,2012/2013,2012
+Mathias Autret,Attacking Midfield,1991-03-01,21,France,FC Lorient,Ligue 1,2012/2013,2012
+Kévin Monnet-Paquet,Left Winger,1988-08-19,23,France,FC Lorient,Ligue 1,2012/2013,2012
+Tony Koutouan,Left Winger,1983-11-11,28,Cote d'Ivoire,FC Lorient,Ligue 1,2012/2013,2012
+Ludovic Giuly,Right Winger,1976-07-10,35,France,FC Lorient,Ligue 1,2012/2013,2012
+Innocent Emeghara,Centre-Forward,1989-05-27,23,Switzerland,FC Lorient,Ligue 1,2012/2013,2012
+Jérémie Aliadière,Centre-Forward,1983-03-30,29,France,FC Lorient,Ligue 1,2012/2013,2012
+Gilles Sunu,Centre-Forward,1991-03-30,21,Togo,FC Lorient,Ligue 1,2012/2013,2012
+Julien Quercia,Centre-Forward,1986-08-17,25,France,FC Lorient,Ligue 1,2012/2013,2012
+Nicolas Penneteau,Goalkeeper,1981-02-28,31,France,Valenciennes FC,Ligue 1,2012/2013,2012
+Jean-Louis Leca,Goalkeeper,1985-09-21,26,France,Valenciennes FC,Ligue 1,2012/2013,2012
+Paul Charruau,Goalkeeper,1993-07-12,18,France,Valenciennes FC,Ligue 1,2012/2013,2012
+Gil,Centre-Back,1987-06-12,25,Brazil,Valenciennes FC,Ligue 1,2012/2013,2012
+Benjamin Angoua,Centre-Back,1986-11-28,25,Cote d'Ivoire,Valenciennes FC,Ligue 1,2012/2013,2012
+Nicolas Isimat-Mirin,Centre-Back,1991-11-15,20,France,Valenciennes FC,Ligue 1,2012/2013,2012
+Lindsay Rose,Centre-Back,1992-02-08,20,Mauritius,Valenciennes FC,Ligue 1,2012/2013,2012
+Yves-Marie Kerjean,Centre-Back,1994-04-15,18,France,Valenciennes FC,Ligue 1,2012/2013,2012
+Gaëtan Bong,Left-Back,1988-04-25,24,Cameroon,Valenciennes FC,Ligue 1,2012/2013,2012
+Arthur Masuaku,Left-Back,1993-11-07,18,DR Congo,Valenciennes FC,Ligue 1,2012/2013,2012
+Rudy Mater,Right-Back,1980-10-13,31,France,Valenciennes FC,Ligue 1,2012/2013,2012
+Loris Néry,Right-Back,1991-02-05,21,France,Valenciennes FC,Ligue 1,2012/2013,2012
+Mody Traoré,Right-Back,1980-07-14,31,France,Valenciennes FC,Ligue 1,2012/2013,2012
+Kenny Lala,Right-Back,1991-10-03,20,France,Valenciennes FC,Ligue 1,2012/2013,2012
+Carlos Sánchez,Defensive Midfield,1986-02-06,26,Colombia,Valenciennes FC,Ligue 1,2012/2013,2012
+Rémi Gomis,Defensive Midfield,1984-02-14,28,Senegal,Valenciennes FC,Ligue 1,2012/2013,2012
+David Ducourtioux,Defensive Midfield,1978-04-11,34,France,Valenciennes FC,Ligue 1,2012/2013,2012
+Pape Camara,Defensive Midfield,1991-09-24,20,Senegal,Valenciennes FC,Ligue 1,2012/2013,2012
+Marco da Silva,Defensive Midfield,1992-04-10,20,France,Valenciennes FC,Ligue 1,2012/2013,2012
+Younousse Sankharé,Central Midfield,1989-09-10,22,Senegal,Valenciennes FC,Ligue 1,2012/2013,2012
+José Saez,Central Midfield,1982-05-07,30,France,Valenciennes FC,Ligue 1,2012/2013,2012
+Foued Kadir,Attacking Midfield,1983-12-05,28,Algeria,Valenciennes FC,Ligue 1,2012/2013,2012
+Dusan Djuric,Attacking Midfield,1984-09-16,27,Sweden,Valenciennes FC,Ligue 1,2012/2013,2012
+Gaël Danic,Left Winger,1981-11-19,30,France,Valenciennes FC,Ligue 1,2012/2013,2012
+Opa Nguette,Left Winger,1994-07-08,17,Senegal,Valenciennes FC,Ligue 1,2012/2013,2012
+Maor Melikson,Right Winger,1984-10-30,27,Israel,Valenciennes FC,Ligue 1,2012/2013,2012
+Mathieu Dossevi,Right Winger,1988-02-12,24,Togo,Valenciennes FC,Ligue 1,2012/2013,2012
+Vincent Aboubakar,Centre-Forward,1992-01-22,20,Cameroon,Valenciennes FC,Ligue 1,2012/2013,2012
+Grégory Pujol,Centre-Forward,1980-01-25,32,France,Valenciennes FC,Ligue 1,2012/2013,2012
+Anthony Le Tallec,Centre-Forward,1984-10-03,27,France,Valenciennes FC,Ligue 1,2012/2013,2012
+Mamadou Samassa,Centre-Forward,1986-05-01,26,Mali,Valenciennes FC,Ligue 1,2012/2013,2012
+Francis Massampu,Centre-Forward,1991-12-26,20,France,Valenciennes FC,Ligue 1,2012/2013,2012
+Pierrick Cros,Goalkeeper,1991-06-23,21,France,FC Sochaux-Montbéliard,Ligue 1,2012/2013,2012
+Simon Pouplin,Goalkeeper,1985-05-28,27,France,FC Sochaux-Montbéliard,Ligue 1,2012/2013,2012
+Didier Ovono,Goalkeeper,1983-01-23,29,Gabon,FC Sochaux-Montbéliard,Ligue 1,2012/2013,2012
+Papa Demba Camara,Goalkeeper,1993-01-16,19,Senegal,FC Sochaux-Montbéliard,Ligue 1,2012/2013,2012
+Damien Perquis,Centre-Back,1984-04-10,28,Poland,FC Sochaux-Montbéliard,Ligue 1,2012/2013,2012
+Carlão,Centre-Back,1986-01-19,26,Brazil,FC Sochaux-Montbéliard,Ligue 1,2012/2013,2012
+Cédric Kanté,Centre-Back,1979-07-06,32,Mali,FC Sochaux-Montbéliard,Ligue 1,2012/2013,2012
+Mathieu Peybernes,Centre-Back,1990-10-21,21,France,FC Sochaux-Montbéliard,Ligue 1,2012/2013,2012
+Yaya Banana,Centre-Back,1991-07-29,20,Cameroon,FC Sochaux-Montbéliard,Ligue 1,2012/2013,2012
+Lionel Zouma,Centre-Back,1993-09-10,18,Central African Republic,FC Sochaux-Montbéliard,Ligue 1,2012/2013,2012
+Yassin Mikari,Left-Back,1983-01-09,29,Tunisia,FC Sochaux-Montbéliard,Ligue 1,2012/2013,2012
+David Sauget,Left-Back,1979-11-23,32,France,FC Sochaux-Montbéliard,Ligue 1,2012/2013,2012
+Jérôme Roussillon,Left-Back,1993-01-06,19,France,FC Sochaux-Montbéliard,Ligue 1,2012/2013,2012
+Sébastien Corchia,Right-Back,1990-11-01,21,France,FC Sochaux-Montbéliard,Ligue 1,2012/2013,2012
+Omar Daf,Right-Back,1977-02-12,35,Senegal,FC Sochaux-Montbéliard,Ligue 1,2012/2013,2012
+Frédéric Duplus,Right-Back,1990-04-07,22,France,FC Sochaux-Montbéliard,Ligue 1,2012/2013,2012
+Thierry Doubai,Defensive Midfield,1988-07-01,24,Cote d'Ivoire,FC Sochaux-Montbéliard,Ligue 1,2012/2013,2012
+Kalilou Traoré,Defensive Midfield,1987-09-09,24,Mali,FC Sochaux-Montbéliard,Ligue 1,2012/2013,2012
+Loïc Poujol,Defensive Midfield,1989-02-27,23,France,FC Sochaux-Montbéliard,Ligue 1,2012/2013,2012
+Petrus Boumal,Defensive Midfield,1993-04-20,19,Cameroon,FC Sochaux-Montbéliard,Ligue 1,2012/2013,2012
+Vincent Nogueira,Central Midfield,1988-01-16,24,France,FC Sochaux-Montbéliard,Ligue 1,2012/2013,2012
+Rafaël Dias,Central Midfield,1991-01-29,21,Portugal,FC Sochaux-Montbéliard,Ligue 1,2012/2013,2012
+Joseph Lopy,Central Midfield,1992-03-15,20,Senegal,FC Sochaux-Montbéliard,Ligue 1,2012/2013,2012
+Sanjin Prcic,Central Midfield,1993-11-20,18,Bosnia-Herzegovina,FC Sochaux-Montbéliard,Ligue 1,2012/2013,2012
+Ishmael Yartey,Left Midfield,1990-01-11,22,Ghana,FC Sochaux-Montbéliard,Ligue 1,2012/2013,2012
+Ryad Boudebouz,Attacking Midfield,1990-02-19,22,Algeria,FC Sochaux-Montbéliard,Ligue 1,2012/2013,2012
+Sébastien Roudet,Attacking Midfield,1981-06-16,31,France,FC Sochaux-Montbéliard,Ligue 1,2012/2013,2012
+Abdoul Camara,Left Winger,1990-02-20,22,Guinea,FC Sochaux-Montbéliard,Ligue 1,2012/2013,2012
+Roy Contout,Right Winger,1985-02-11,27,French Guiana,FC Sochaux-Montbéliard,Ligue 1,2012/2013,2012
+King Osanga,Right Winger,1990-10-06,21,Nigeria,FC Sochaux-Montbéliard,Ligue 1,2012/2013,2012
+Giovanni Sio,Centre-Forward,1989-03-31,23,Cote d'Ivoire,FC Sochaux-Montbéliard,Ligue 1,2012/2013,2012
+Édouard Butin,Centre-Forward,1988-06-16,24,France,FC Sochaux-Montbéliard,Ligue 1,2012/2013,2012
+Sloan Privat,Centre-Forward,1989-07-24,22,French Guiana,FC Sochaux-Montbéliard,Ligue 1,2012/2013,2012
+Cédric Bakambu,Centre-Forward,1991-04-11,21,DR Congo,FC Sochaux-Montbéliard,Ligue 1,2012/2013,2012
+David Ospina,Goalkeeper,1988-08-31,23,Colombia,OGC Nice,Ligue 1,2012/2013,2012
+Joris Delle,Goalkeeper,1990-03-29,22,France,OGC Nice,Ligue 1,2012/2013,2012
+Mouez Hassen,Goalkeeper,1995-03-05,17,Tunisia,OGC Nice,Ligue 1,2012/2013,2012
+Renato Civelli,Centre-Back,1983-10-14,28,Argentina,OGC Nice,Ligue 1,2012/2013,2012
+Nemanja Pejcinovic,Centre-Back,1987-11-04,24,Serbia,OGC Nice,Ligue 1,2012/2013,2012
+Romain Genevois,Centre-Back,1987-10-28,24,Haiti,OGC Nice,Ligue 1,2012/2013,2012
+Kévin Gomis,Centre-Back,1989-01-20,23,France,OGC Nice,Ligue 1,2012/2013,2012
+Timothée Kolodziejczak,Centre-Back,1991-10-01,20,France,OGC Nice,Ligue 1,2012/2013,2012
+Julien Berthomier,Centre-Back,1990-04-15,22,France,OGC Nice,Ligue 1,2012/2013,2012
+Gautier Lloris,Centre-Back,1995-07-18,16,France,OGC Nice,Ligue 1,2012/2013,2012
+Lucas Rougeaux,Centre-Back,1994-03-10,18,France,OGC Nice,Ligue 1,2012/2013,2012
+Fabián Monzón,Left-Back,1987-04-13,25,Argentina,OGC Nice,Ligue 1,2012/2013,2012
+Jérémy Pied,Right-Back,1989-02-23,23,France,OGC Nice,Ligue 1,2012/2013,2012
+Lloyd Palun,Right-Back,1988-11-28,23,Gabon,OGC Nice,Ligue 1,2012/2013,2012
+Grégoire Puel,Right-Back,1992-02-20,20,France,OGC Nice,Ligue 1,2012/2013,2012
+Moussa M'Bow,Right-Back,1992-02-07,20,Senegal,OGC Nice,Ligue 1,2012/2013,2012
+Diacko Fofana,Right-Back,1994-07-29,17,France,OGC Nice,Ligue 1,2012/2013,2012
+Didier Digard,Defensive Midfield,1986-07-12,25,France,OGC Nice,Ligue 1,2012/2013,2012
+Kafoumba Coulibaly,Defensive Midfield,1985-10-26,26,Cote d'Ivoire,OGC Nice,Ligue 1,2012/2013,2012
+Fabien Dao Castellana,Defensive Midfield,1993-07-28,18,France,OGC Nice,Ligue 1,2012/2013,2012
+Albert Rafetraniaina,Defensive Midfield,1996-09-09,15,Madagascar,OGC Nice,Ligue 1,2012/2013,2012
+Kévin Anin,Central Midfield,1986-07-05,25,France,OGC Nice,Ligue 1,2012/2013,2012
+Fabrice Abriel,Central Midfield,1979-07-06,32,France,OGC Nice,Ligue 1,2012/2013,2012
+Mahamane Traoré,Central Midfield,1988-08-31,23,Mali,OGC Nice,Ligue 1,2012/2013,2012
+Kévin Diaz,Right Midfield,1988-08-18,23,France,OGC Nice,Ligue 1,2012/2013,2012
+Valentin Eysseric,Attacking Midfield,1992-03-25,20,France,OGC Nice,Ligue 1,2012/2013,2012
+Camel Meriem,Attacking Midfield,1979-10-18,32,France,OGC Nice,Ligue 1,2012/2013,2012
+Cyril Hennion,Attacking Midfield,1992-01-03,20,France,OGC Nice,Ligue 1,2012/2013,2012
+Eric Bauthéac,Left Winger,1987-08-24,24,France,OGC Nice,Ligue 1,2012/2013,2012
+Luigi Bruins,Left Winger,1987-03-09,25,Netherlands,OGC Nice,Ligue 1,2012/2013,2012
+Franck Dja Djédjé,Right Winger,1986-06-02,26,Cote d'Ivoire,OGC Nice,Ligue 1,2012/2013,2012
+Darío Cvitanich,Centre-Forward,1984-05-16,28,Argentina,OGC Nice,Ligue 1,2012/2013,2012
+Abraham Gneki Guié,Centre-Forward,1986-07-25,25,Cote d'Ivoire,OGC Nice,Ligue 1,2012/2013,2012
+Xavier Pentecôte,Centre-Forward,1986-08-13,25,France,OGC Nice,Ligue 1,2012/2013,2012
+Jordan Astier,Centre-Forward,1992-04-28,20,France,OGC Nice,Ligue 1,2012/2013,2012
+Bryan Constant,Centre-Forward,1994-03-27,18,France,OGC Nice,Ligue 1,2012/2013,2012
+Neal Maupay,Centre-Forward,1996-08-14,15,France,OGC Nice,Ligue 1,2012/2013,2012
+Alexy Bosetti,Centre-Forward,1993-04-23,19,France,OGC Nice,Ligue 1,2012/2013,2012
+Stéphane Bahoken,Centre-Forward,1992-05-28,20,Cameroon,OGC Nice,Ligue 1,2012/2013,2012
+Stephan Andersen,Goalkeeper,1981-11-26,30,Denmark,FC Évian Thonon Gaillard,Ligue 1,2012/2013,2012
+Bertrand Laquait,Goalkeeper,1977-04-13,35,France,FC Évian Thonon Gaillard,Ligue 1,2012/2013,2012
+Johann Durand,Goalkeeper,1981-06-17,31,France,FC Évian Thonon Gaillard,Ligue 1,2012/2013,2012
+Mickaël Salamone,Goalkeeper,1992-05-27,20,France,FC Évian Thonon Gaillard,Ligue 1,2012/2013,2012
+Betão,Centre-Back,1983-11-11,28,Brazil,FC Évian Thonon Gaillard,Ligue 1,2012/2013,2012
+Cédric Mongongu,Centre-Back,1989-06-22,23,DR Congo,FC Évian Thonon Gaillard,Ligue 1,2012/2013,2012
+Cédric Cambon,Centre-Back,1986-09-20,25,France,FC Évian Thonon Gaillard,Ligue 1,2012/2013,2012
+Aldo Angoula,Centre-Back,1981-05-04,31,France,FC Évian Thonon Gaillard,Ligue 1,2012/2013,2012
+Jonathan Mensah,Centre-Back,1990-07-13,21,Ghana,FC Évian Thonon Gaillard,Ligue 1,2012/2013,2012
+Fabrice Ehret,Left-Back,1979-09-28,32,France,FC Évian Thonon Gaillard,Ligue 1,2012/2013,2012
+Guillaume Lacour,Right-Back,1980-08-02,31,France,FC Évian Thonon Gaillard,Ligue 1,2012/2013,2012
+Iheb Mbarki,Right-Back,1992-02-14,20,Tunisia,FC Évian Thonon Gaillard,Ligue 1,2012/2013,2012
+Maxime Medaglia,Midfielder,1991-02-06,21,France,FC Évian Thonon Gaillard,Ligue 1,2012/2013,2012
+Brice Dja Djédjé,Defensive Midfield,1990-12-23,21,Cote d'Ivoire,FC Évian Thonon Gaillard,Ligue 1,2012/2013,2012
+David Jarolim,Defensive Midfield,1979-05-17,33,Czech Republic,FC Évian Thonon Gaillard,Ligue 1,2012/2013,2012
+Djakaridja Koné,Defensive Midfield,1986-06-22,26,Burkina Faso,FC Évian Thonon Gaillard,Ligue 1,2012/2013,2012
+Mohammed Rabiu,Defensive Midfield,1989-12-31,22,Ghana,FC Évian Thonon Gaillard,Ligue 1,2012/2013,2012
+Eric Tié Bi,Defensive Midfield,1990-07-20,21,Cote d'Ivoire,FC Évian Thonon Gaillard,Ligue 1,2012/2013,2012
+Olivier Sorlin,Defensive Midfield,1979-04-09,33,France,FC Évian Thonon Gaillard,Ligue 1,2012/2013,2012
+David Douline,Defensive Midfield,1993-05-28,19,France,FC Évian Thonon Gaillard,Ligue 1,2012/2013,2012
+Daniel Wass,Central Midfield,1989-05-31,23,Denmark,FC Évian Thonon Gaillard,Ligue 1,2012/2013,2012
+Milos Ninkovic,Attacking Midfield,1984-12-25,27,Serbia,FC Évian Thonon Gaillard,Ligue 1,2012/2013,2012
+Adrien Thomasson,Attacking Midfield,1993-12-10,18,France,FC Évian Thonon Gaillard,Ligue 1,2012/2013,2012
+Zouhaier Dhaouadi,Left Winger,1988-01-01,24,Tunisia,FC Évian Thonon Gaillard,Ligue 1,2012/2013,2012
+Ali M'Madi,Left Winger,1990-04-21,22,Comoros,FC Évian Thonon Gaillard,Ligue 1,2012/2013,2012
+Cédric Barbosa,Left Winger,1976-03-06,36,France,FC Évian Thonon Gaillard,Ligue 1,2012/2013,2012
+Clarck Nsikulu,Left Winger,1992-07-10,19,DR Congo,FC Évian Thonon Gaillard,Ligue 1,2012/2013,2012
+Sidney Govou,Right Winger,1979-07-27,32,France,FC Évian Thonon Gaillard,Ligue 1,2012/2013,2012
+Hervé Bugnet,Right Winger,1981-08-24,30,France,FC Évian Thonon Gaillard,Ligue 1,2012/2013,2012
+Nadjib Baouia,Right Winger,1992-02-25,20,Algeria,FC Évian Thonon Gaillard,Ligue 1,2012/2013,2012
+Yannick Sagbo,Centre-Forward,1988-04-12,24,Cote d'Ivoire,FC Évian Thonon Gaillard,Ligue 1,2012/2013,2012
+Saber Khalifa,Centre-Forward,1986-10-14,25,Tunisia,FC Évian Thonon Gaillard,Ligue 1,2012/2013,2012
+Kévin Bérigaud,Centre-Forward,1988-05-09,24,France,FC Évian Thonon Gaillard,Ligue 1,2012/2013,2012
+Youssef Adnane,Centre-Forward,1985-07-16,26,France,FC Évian Thonon Gaillard,Ligue 1,2012/2013,2012
+Diogo Campos,Centre-Forward,1990-12-31,21,Brazil,FC Évian Thonon Gaillard,Ligue 1,2012/2013,2012
+Guillermo Ochoa,Goalkeeper,1985-07-13,26,Mexico,AC Ajaccio,Ligue 1,2012/2013,2012
+Oumar Sissoko,Goalkeeper,1987-09-13,24,Mali,AC Ajaccio,Ligue 1,2012/2013,2012
+David Oberhauser,Goalkeeper,1990-11-29,21,France,AC Ajaccio,Ligue 1,2012/2013,2012
+Ronald Zubar,Centre-Back,1985-09-20,26,Guadeloupe,AC Ajaccio,Ligue 1,2012/2013,2012
+Ammar Jemal,Centre-Back,1987-04-20,25,Tunisia,AC Ajaccio,Ligue 1,2012/2013,2012
+Fousseni Diawara,Centre-Back,1980-08-28,31,Mali,AC Ajaccio,Ligue 1,2012/2013,2012
+Felipe Saad,Centre-Back,1983-09-11,28,Brazil,AC Ajaccio,Ligue 1,2012/2013,2012
+Yoann Poulard,Centre-Back,1976-07-01,36,France,AC Ajaccio,Ligue 1,2012/2013,2012
+Arnaud Maire,Centre-Back,1979-03-06,33,France,AC Ajaccio,Ligue 1,2012/2013,2012
+Samuel Bouhours,Left-Back,1987-06-26,25,France,AC Ajaccio,Ligue 1,2012/2013,2012
+Fabrice Begeorgi,Left-Back,1987-04-20,25,France,AC Ajaccio,Ligue 1,2012/2013,2012
+Matthieu Chalmé,Right-Back,1980-10-07,31,France,AC Ajaccio,Ligue 1,2012/2013,2012
+Anthony Lippini,Right-Back,1988-11-07,23,France,AC Ajaccio,Ligue 1,2012/2013,2012
+Ricardo Faty,Defensive Midfield,1986-08-04,25,Senegal,AC Ajaccio,Ligue 1,2012/2013,2012
+Carl Medjani,Defensive Midfield,1985-05-15,27,Algeria,AC Ajaccio,Ligue 1,2012/2013,2012
+Mehdi Mostefa,Defensive Midfield,1983-08-30,28,Algeria,AC Ajaccio,Ligue 1,2012/2013,2012
+Paul Lasne,Defensive Midfield,1989-01-16,23,France,AC Ajaccio,Ligue 1,2012/2013,2012
+Benjamin André,Central Midfield,1990-08-03,21,France,AC Ajaccio,Ligue 1,2012/2013,2012
+Jean-Baptiste Pierazzi,Central Midfield,1985-06-07,27,France,AC Ajaccio,Ligue 1,2012/2013,2012
+Wilfried Zahibo,Central Midfield,1993-08-21,18,France,AC Ajaccio,Ligue 1,2012/2013,2012
+Sigamary Diarra,Left Midfield,1984-01-10,28,Mali,AC Ajaccio,Ligue 1,2012/2013,2012
+Damien Tibéri,Left Midfield,1985-08-23,26,France,AC Ajaccio,Ligue 1,2012/2013,2012
+Frédéric Sammaritano,Attacking Midfield,1986-03-23,26,France,AC Ajaccio,Ligue 1,2012/2013,2012
+Johan Cavalli,Attacking Midfield,1981-09-12,30,France,AC Ajaccio,Ligue 1,2012/2013,2012
+Karim El Hany,Attacking Midfield,1988-01-12,24,Morocco,AC Ajaccio,Ligue 1,2012/2013,2012
+Brandon Deville,Attacking Midfield,1993-02-17,19,Belgium,AC Ajaccio,Ligue 1,2012/2013,2012
+Chahir Belghazouani,Left Winger,1986-10-06,25,Morocco,AC Ajaccio,Ligue 1,2012/2013,2012
+Dennis Oliech,Right Winger,1985-02-02,27,Kenya,AC Ajaccio,Ligue 1,2012/2013,2012
+Adrian Mutu,Centre-Forward,1979-01-08,33,Romania,AC Ajaccio,Ligue 1,2012/2013,2012
+Eduardo,Centre-Forward,1980-08-05,31,Brazil,AC Ajaccio,Ligue 1,2012/2013,2012
+Andy Delort,Centre-Forward,1991-10-09,20,France,AC Ajaccio,Ligue 1,2012/2013,2012
+David Gigliotti,Centre-Forward,1985-05-30,27,France,AC Ajaccio,Ligue 1,2012/2013,2012
+Alexis Thébaux,Goalkeeper,1985-03-17,27,France,Stade Brest 29,Ligue 1,2012/2013,2012
+Lionel Cappone,Goalkeeper,1979-02-08,33,France,Stade Brest 29,Ligue 1,2012/2013,2012
+Joan Hartock,Goalkeeper,1987-02-17,25,Martinique,Stade Brest 29,Ligue 1,2012/2013,2012
+Mathieu Kervestin,Goalkeeper,1993-05-21,19,France,Stade Brest 29,Ligue 1,2012/2013,2012
+Paul Baysse,Centre-Back,1988-05-18,24,France,Stade Brest 29,Ligue 1,2012/2013,2012
+Ahmed Kantari,Centre-Back,1985-06-28,27,Morocco,Stade Brest 29,Ligue 1,2012/2013,2012
+Johan Martial,Centre-Back,1991-05-30,21,Martinique,Stade Brest 29,Ligue 1,2012/2013,2012
+Ismaël Traoré,Centre-Back,1986-08-18,25,Cote d'Ivoire,Stade Brest 29,Ligue 1,2012/2013,2012
+Florian Lejeune,Centre-Back,1991-05-20,21,France,Stade Brest 29,Ligue 1,2012/2013,2012
+Grégory Lorenzi,Centre-Back,1983-12-17,28,France,Stade Brest 29,Ligue 1,2012/2013,2012
+Brendan Chardonnet,Centre-Back,1994-12-22,17,France,Stade Brest 29,Ligue 1,2012/2013,2012
+Brahim Ferradj,Left-Back,1987-09-04,24,Algeria,Stade Brest 29,Ligue 1,2012/2013,2012
+Tripy Makonda,Left-Back,1990-01-24,22,France,Stade Brest 29,Ligue 1,2012/2013,2012
+Richard Soumah,Left-Back,1986-10-06,25,Guinea,Stade Brest 29,Ligue 1,2012/2013,2012
+Bernard Mendy,Right-Back,1981-08-20,30,France,Stade Brest 29,Ligue 1,2012/2013,2012
+Ousmane Coulibaly,Right-Back,1989-07-09,22,Mali,Stade Brest 29,Ligue 1,2012/2013,2012
+Florian Julien,Right-Back,1993-07-27,18,France,Stade Brest 29,Ligue 1,2012/2013,2012
+Victor Rousseau,Midfielder,1992-07-09,19,France,Stade Brest 29,Ligue 1,2012/2013,2012
+John Culma,Defensive Midfield,1981-03-17,31,Colombia,Stade Brest 29,Ligue 1,2012/2013,2012
+Abdoul Sissoko,Defensive Midfield,1990-03-20,22,Mali,Stade Brest 29,Ligue 1,2012/2013,2012
+Diallo Guidileye,Defensive Midfield,1989-12-30,22,Mauritania,Stade Brest 29,Ligue 1,2012/2013,2012
+Timothée Dieng,Defensive Midfield,1992-04-09,20,France,Stade Brest 29,Ligue 1,2012/2013,2012
+André Auras,Defensive Midfield,1991-04-22,21,France,Stade Brest 29,Ligue 1,2012/2013,2012
+Bruno Grougi,Central Midfield,1983-04-26,29,Martinique,Stade Brest 29,Ligue 1,2012/2013,2012
+Kamel Chafni,Attacking Midfield,1982-06-11,30,Morocco,Stade Brest 29,Ligue 1,2012/2013,2012
+Mario Licka,Attacking Midfield,1982-04-30,30,Czech Republic,Stade Brest 29,Ligue 1,2012/2013,2012
+Benoît Lesoimier,Left Winger,1983-02-21,29,France,Stade Brest 29,Ligue 1,2012/2013,2012
+Geoffrey Dernis,Left Winger,1980-12-24,31,France,Stade Brest 29,Ligue 1,2012/2013,2012
+Larsen Touré,Right Winger,1984-07-20,27,Guinea,Stade Brest 29,Ligue 1,2012/2013,2012
+Abel Khaled,Right Winger,1992-11-09,19,Algeria,Stade Brest 29,Ligue 1,2012/2013,2012
+Adama Ba,Right Winger,1993-08-27,18,Mauritania,Stade Brest 29,Ligue 1,2012/2013,2012
+Magaye Gueye,Centre-Forward,1990-07-06,21,Senegal,Stade Brest 29,Ligue 1,2012/2013,2012
+Eden Ben Basat,Centre-Forward,1986-09-08,25,Israel,Stade Brest 29,Ligue 1,2012/2013,2012
+Alexandre Alphonse,Centre-Forward,1982-06-17,30,Guadeloupe,Stade Brest 29,Ligue 1,2012/2013,2012
+Jonathan Ayité,Centre-Forward,1985-07-22,26,Togo,Stade Brest 29,Ligue 1,2012/2013,2012
+Charlison Benschop,Centre-Forward,1989-08-21,22,Curacao,Stade Brest 29,Ligue 1,2012/2013,2012
+Florian Raspentino,Centre-Forward,1989-06-06,23,France,Stade Brest 29,Ligue 1,2012/2013,2012
+Guy Ndy Assembé,Goalkeeper,1986-02-28,26,Cameroon,AS Nancy-Lorraine,Ligue 1,2012/2013,2012
+Damien Grégorini,Goalkeeper,1979-03-02,33,France,AS Nancy-Lorraine,Ligue 1,2012/2013,2012
+Kevin Crepel,Goalkeeper,1993-04-16,19,France,AS Nancy-Lorraine,Ligue 1,2012/2013,2012
+Paul Nardi,Goalkeeper,1994-05-18,18,France,AS Nancy-Lorraine,Ligue 1,2012/2013,2012
+André Luiz,Centre-Back,1980-01-27,32,Brazil,AS Nancy-Lorraine,Ligue 1,2012/2013,2012
+Jordan Lotiès,Centre-Back,1984-08-05,27,France,AS Nancy-Lorraine,Ligue 1,2012/2013,2012
+Salif Sané,Centre-Back,1990-08-25,21,Senegal,AS Nancy-Lorraine,Ligue 1,2012/2013,2012
+Sébastien Puygrenier,Centre-Back,1982-01-28,30,France,AS Nancy-Lorraine,Ligue 1,2012/2013,2012
+Joël Sami,Centre-Back,1984-11-13,27,DR Congo,AS Nancy-Lorraine,Ligue 1,2012/2013,2012
+Julian Jeanvier,Centre-Back,1992-03-31,20,Guinea,AS Nancy-Lorraine,Ligue 1,2012/2013,2012
+Massadio Haidara,Left-Back,1992-12-02,19,Mali,AS Nancy-Lorraine,Ligue 1,2012/2013,2012
+Vincent Muratori,Left-Back,1987-08-03,24,France,AS Nancy-Lorraine,Ligue 1,2012/2013,2012
+Tobias Badila,Left-Back,1993-05-12,19,Congo,AS Nancy-Lorraine,Ligue 1,2012/2013,2012
+Helder,Right-Back,1988-04-13,24,Brazil,AS Nancy-Lorraine,Ligue 1,2012/2013,2012
+Yassine Jebbour,Right-Back,1991-08-24,20,Morocco,AS Nancy-Lorraine,Ligue 1,2012/2013,2012
+Thomas Ayasse,Defensive Midfield,1987-02-17,25,France,AS Nancy-Lorraine,Ligue 1,2012/2013,2012
+Abdou Dampha,Defensive Midfield,1991-12-27,20,The Gambia,AS Nancy-Lorraine,Ligue 1,2012/2013,2012
+Fouad Rachid,Defensive Midfield,1991-11-15,20,Comoros,AS Nancy-Lorraine,Ligue 1,2012/2013,2012
+Adrien Tamèze,Defensive Midfield,1994-02-04,18,France,AS Nancy-Lorraine,Ligue 1,2012/2013,2012
+Ibrahim Amadou,Defensive Midfield,1993-04-06,19,France,AS Nancy-Lorraine,Ligue 1,2012/2013,2012
+Nicolas Staerck,Defensive Midfield,1993-02-13,19,France,AS Nancy-Lorraine,Ligue 1,2012/2013,2012
+Thomas Mangani,Central Midfield,1987-04-29,25,France,AS Nancy-Lorraine,Ligue 1,2012/2013,2012
+Rémi Walter,Central Midfield,1995-04-26,17,France,AS Nancy-Lorraine,Ligue 1,2012/2013,2012
+Lossémy Karaboué,Right Midfield,1988-03-18,24,Cote d'Ivoire,AS Nancy-Lorraine,Ligue 1,2012/2013,2012
+Romain Grange,Attacking Midfield,1988-07-21,23,France,AS Nancy-Lorraine,Ligue 1,2012/2013,2012
+Jeff Louis,Attacking Midfield,1992-08-08,19,Haiti,AS Nancy-Lorraine,Ligue 1,2012/2013,2012
+Yohan Mollo,Left Winger,1989-07-18,22,France,AS Nancy-Lorraine,Ligue 1,2012/2013,2012
+Karim Coulibaly,Left Winger,1993-06-03,19,France,AS Nancy-Lorraine,Ligue 1,2012/2013,2012
+Simon Zenke,Right Winger,1988-12-24,23,Nigeria,AS Nancy-Lorraine,Ligue 1,2012/2013,2012
+Ziri Hammar,Right Winger,1992-07-25,19,Algeria,AS Nancy-Lorraine,Ligue 1,2012/2013,2012
+Alexis Busin,Right Winger,1995-09-07,16,France,AS Nancy-Lorraine,Ligue 1,2012/2013,2012
+Benjamin Moukandjo,Centre-Forward,1988-11-12,23,Cameroon,AS Nancy-Lorraine,Ligue 1,2012/2013,2012
+Djamel Bakar,Centre-Forward,1989-04-06,23,Comoros,AS Nancy-Lorraine,Ligue 1,2012/2013,2012
+Paul Alo'o Efoulou,Centre-Forward,1983-11-12,28,Cameroon,AS Nancy-Lorraine,Ligue 1,2012/2013,2012
+Jean-Michel Joachim,Centre-Forward,1992-05-13,20,France,AS Nancy-Lorraine,Ligue 1,2012/2013,2012
+Florent Zitte,Centre-Forward,1993-05-17,19,France,AS Nancy-Lorraine,Ligue 1,2012/2013,2012
+Jean-Landry Bassilekin,Centre-Forward,1992-01-23,20,Cameroon,AS Nancy-Lorraine,Ligue 1,2012/2013,2012
+Mickaël Landreau,Goalkeeper,1979-05-14,33,France,SC Bastia,Ligue 1,2012/2013,2012
+Magno Novaes,Goalkeeper,1983-03-30,29,Brazil,SC Bastia,Ligue 1,2012/2013,2012
+Landry Bonnefoi,Goalkeeper,1983-09-20,28,France,SC Bastia,Ligue 1,2012/2013,2012
+Dominique Agostini,Goalkeeper,1989-09-28,22,France,SC Bastia,Ligue 1,2012/2013,2012
+Sylvain Marchal,Centre-Back,1980-02-10,32,France,SC Bastia,Ligue 1,2012/2013,2012
+Jacques Faty,Centre-Back,1984-02-25,28,Senegal,SC Bastia,Ligue 1,2012/2013,2012
+Féthi Harek,Centre-Back,1982-10-21,29,Algeria,SC Bastia,Ligue 1,2012/2013,2012
+Jérémy Choplin,Centre-Back,1985-02-09,27,France,SC Bastia,Ligue 1,2012/2013,2012
+Maka Mary,Centre-Back,1989-03-27,23,France,SC Bastia,Ligue 1,2012/2013,2012
+Matthieu Sans,Centre-Back,1988-06-16,24,France,SC Bastia,Ligue 1,2012/2013,2012
+François Marque,Centre-Back,1983-07-31,28,France,SC Bastia,Ligue 1,2012/2013,2012
+Alexander Djiku,Centre-Back,1994-08-09,17,France,SC Bastia,Ligue 1,2012/2013,2012
+Olivier Vanucci,Centre-Back,1991-11-21,20,France,SC Bastia,Ligue 1,2012/2013,2012
+Julian Palmieri,Left-Back,1986-12-07,25,France,SC Bastia,Ligue 1,2012/2013,2012
+Samuel Inkoom,Right-Back,1989-06-01,23,Ghana,SC Bastia,Ligue 1,2012/2013,2012
+Gilles Cioni,Right-Back,1984-06-14,28,France,SC Bastia,Ligue 1,2012/2013,2012
+Gaël Angoula,Right-Back,1982-07-18,29,France,SC Bastia,Ligue 1,2012/2013,2012
+Salim Moizini,Right-Back,1985-10-17,26,Comoros,SC Bastia,Ligue 1,2012/2013,2012
+Julien Sablé,Defensive Midfield,1980-09-11,31,France,SC Bastia,Ligue 1,2012/2013,2012
+Yannick Cahuzac,Defensive Midfield,1985-01-18,27,France,SC Bastia,Ligue 1,2012/2013,2012
+Abdoulaye Keita,Defensive Midfield,1994-01-05,18,Mali,SC Bastia,Ligue 1,2012/2013,2012
+Matthias Llambrich,Defensive Midfield,1993-02-06,19,France,SC Bastia,Ligue 1,2012/2013,2012
+Christophe Vincent,Defensive Midfield,1992-11-08,19,France,SC Bastia,Ligue 1,2012/2013,2012
+Sambou Yatabaré,Central Midfield,1989-03-02,23,Mali,SC Bastia,Ligue 1,2012/2013,2012
+Jérôme Rothen,Left Midfield,1978-03-31,34,France,SC Bastia,Ligue 1,2012/2013,2012
+Wahbi Khazri,Attacking Midfield,1991-02-08,21,Tunisia,SC Bastia,Ligue 1,2012/2013,2012
+Claudio Beauvue,Right Winger,1988-04-16,24,Guadeloupe,SC Bastia,Ligue 1,2012/2013,2012
+Florian Thauvin,Right Winger,1993-01-26,19,France,SC Bastia,Ligue 1,2012/2013,2012
+Anthony Modeste,Centre-Forward,1988-04-14,24,France,SC Bastia,Ligue 1,2012/2013,2012
+Toifilou Maoulida,Centre-Forward,1979-06-08,33,France,SC Bastia,Ligue 1,2012/2013,2012
+Ilan,Centre-Forward,1980-09-18,31,Brazil,SC Bastia,Ligue 1,2012/2013,2012
+Yassin El-Azzouzi,Centre-Forward,1983-01-13,29,France,SC Bastia,Ligue 1,2012/2013,2012
+Joseph Barbato,Centre-Forward,1994-08-11,17,France,SC Bastia,Ligue 1,2012/2013,2012
+Famoussa Koné,Centre-Forward,1994-04-17,18,Mali,SC Bastia,Ligue 1,2012/2013,2012
+François Massimi,Centre-Forward,1993-10-12,18,France,SC Bastia,Ligue 1,2012/2013,2012
+Joris Correa,Centre-Forward,1993-12-25,18,France,SC Bastia,Ligue 1,2012/2013,2012
+Gaëtan Varenne,Centre-Forward,1990-06-24,22,Israel,SC Bastia,Ligue 1,2012/2013,2012
+Johny Placide,Goalkeeper,1988-01-29,24,Haiti,Stade Reims,Ligue 1,2012/2013,2012
+Kossi Agassa,Goalkeeper,1978-07-02,33,Togo,Stade Reims,Ligue 1,2012/2013,2012
+Johan Liébus,Goalkeeper,1978-11-05,33,France,Stade Reims,Ligue 1,2012/2013,2012
+Jérémy Malherbe,Goalkeeper,1991-03-15,21,France,Stade Reims,Ligue 1,2012/2013,2012
+Mohamed Fofana,Centre-Back,1985-03-07,27,Mali,Stade Reims,Ligue 1,2012/2013,2012
+Anthony Weber,Centre-Back,1987-06-11,25,France,Stade Reims,Ligue 1,2012/2013,2012
+Christopher Glombard,Centre-Back,1989-06-05,23,Martinique,Stade Reims,Ligue 1,2012/2013,2012
+Mickaël Tacalfred,Centre-Back,1981-04-23,31,Guadeloupe,Stade Reims,Ligue 1,2012/2013,2012
+Aïssa Mandi,Centre-Back,1991-10-22,20,Algeria,Stade Reims,Ligue 1,2012/2013,2012
+Pape Souaré,Left-Back,1990-06-06,22,Senegal,Stade Reims,Ligue 1,2012/2013,2012
+Khalid Sekkat,Left-Back,1984-05-12,28,Morocco,Stade Reims,Ligue 1,2012/2013,2012
+Franck Signorino,Left-Back,1981-09-19,30,France,Stade Reims,Ligue 1,2012/2013,2012
+Grzegorz Krychowiak,Defensive Midfield,1990-01-29,22,Poland,Stade Reims,Ligue 1,2012/2013,2012
+Bocundji Ca,Defensive Midfield,1986-12-28,25,Guinea-Bissau,Stade Reims,Ligue 1,2012/2013,2012
+Johann Ramaré,Defensive Midfield,1984-06-05,28,France,Stade Reims,Ligue 1,2012/2013,2012
+Alexi Peuget,Defensive Midfield,1990-12-18,21,France,Stade Reims,Ligue 1,2012/2013,2012
+Antoine Devaux,Central Midfield,1985-02-21,27,France,Stade Reims,Ligue 1,2012/2013,2012
+Florent Ghisolfi,Central Midfield,1985-02-28,27,France,Stade Reims,Ligue 1,2012/2013,2012
+Diego,Left Midfield,1988-03-09,24,Brazil,Stade Reims,Ligue 1,2012/2013,2012
+Quentin Pereira,Attacking Midfield,1992-04-21,20,France,Stade Reims,Ligue 1,2012/2013,2012
+Floyd Ayité,Left Winger,1988-12-15,23,Togo,Stade Reims,Ligue 1,2012/2013,2012
+Odaïr Fortes,Right Winger,1987-03-31,25,Cape Verde,Stade Reims,Ligue 1,2012/2013,2012
+Yann Benedick,Right Winger,1992-02-01,20,France,Stade Reims,Ligue 1,2012/2013,2012
+Bilal Ouali,Right Winger,1993-10-07,18,Algeria,Stade Reims,Ligue 1,2012/2013,2012
+Kamel Ghilas,Second Striker,1984-04-09,28,Algeria,Stade Reims,Ligue 1,2012/2013,2012
+Nicolas Fauvergue,Centre-Forward,1984-10-13,27,France,Stade Reims,Ligue 1,2012/2013,2012
+Julien Toudic,Centre-Forward,1985-12-19,26,France,Stade Reims,Ligue 1,2012/2013,2012
+Nicolas de Préville,Centre-Forward,1991-01-08,21,France,Stade Reims,Ligue 1,2012/2013,2012
+Gaëtan Courtet,Centre-Forward,1989-02-22,23,France,Stade Reims,Ligue 1,2012/2013,2012
+Yohann Thuram,Goalkeeper,1988-10-31,23,Guadeloupe,ES Troyes AC,Ligue 1,2012/2013,2012
+Matthieu Dreyer,Goalkeeper,1989-03-20,23,France,ES Troyes AC,Ligue 1,2012/2013,2012
+Jérémie Bréchet,Centre-Back,1979-08-14,32,France,ES Troyes AC,Ligue 1,2012/2013,2012
+Rincón,Centre-Back,1987-05-31,25,Brazil,ES Troyes AC,Ligue 1,2012/2013,2012
+Sylvain Monsoreau,Centre-Back,1981-03-20,31,France,ES Troyes AC,Ligue 1,2012/2013,2012
+Matthieu Saunier,Centre-Back,1990-02-07,22,France,ES Troyes AC,Ligue 1,2012/2013,2012
+Florian Jarjat,Centre-Back,1980-02-18,32,France,ES Troyes AC,Ligue 1,2012/2013,2012
+Julien Outrebon,Centre-Back,1983-06-16,29,France,ES Troyes AC,Ligue 1,2012/2013,2012
+Fabrice N'Sakala,Left-Back,1990-07-21,21,DR Congo,ES Troyes AC,Ligue 1,2012/2013,2012
+Stéphen Drouin,Left-Back,1984-02-27,28,France,ES Troyes AC,Ligue 1,2012/2013,2012
+Maxime Colin,Right-Back,1991-11-15,20,France,ES Troyes AC,Ligue 1,2012/2013,2012
+Thiago Xavier,Defensive Midfield,1983-12-27,28,Brazil,ES Troyes AC,Ligue 1,2012/2013,2012
+Éloge Enza-Yamissi,Defensive Midfield,1983-01-23,29,Central African Republic,ES Troyes AC,Ligue 1,2012/2013,2012
+Granddi N'Goyi,Defensive Midfield,1988-05-17,24,DR Congo,ES Troyes AC,Ligue 1,2012/2013,2012
+Quentin Othon,Defensive Midfield,1988-03-27,24,France,ES Troyes AC,Ligue 1,2012/2013,2012
+Mounir Obbadi,Central Midfield,1983-04-04,29,Morocco,ES Troyes AC,Ligue 1,2012/2013,2012
+Khassa Camara,Central Midfield,1992-10-22,19,Mauritania,ES Troyes AC,Ligue 1,2012/2013,2012
+Julien Faussurier,Right Midfield,1987-01-14,25,France,ES Troyes AC,Ligue 1,2012/2013,2012
+Jimmy Cabot,Right Midfield,1994-04-18,18,France,ES Troyes AC,Ligue 1,2012/2013,2012
+Stéphane Darbion,Left Midfield,1984-03-22,28,France,ES Troyes AC,Ligue 1,2012/2013,2012
+Georges Gope-Fenepej,Left Midfield,1988-10-23,23,Neukaledonien,ES Troyes AC,Ligue 1,2012/2013,2012
+Fabien Camus,Attacking Midfield,1985-02-28,27,Tunisia,ES Troyes AC,Ligue 1,2012/2013,2012
+Benjamin Nivet,Attacking Midfield,1977-01-02,35,France,ES Troyes AC,Ligue 1,2012/2013,2012
+Benjamin Psaume,Right Winger,1985-01-12,27,France,ES Troyes AC,Ligue 1,2012/2013,2012
+Corentin Jean,Right Winger,1995-07-15,16,France,ES Troyes AC,Ligue 1,2012/2013,2012
+Jean-Christophe Bahebeck,Centre-Forward,1993-05-01,19,France,ES Troyes AC,Ligue 1,2012/2013,2012
+Mohamed Yattara,Centre-Forward,1993-07-28,18,Guinea,ES Troyes AC,Ligue 1,2012/2013,2012
+Marcos,Centre-Forward,1979-09-29,32,Brazil,ES Troyes AC,Ligue 1,2012/2013,2012
+Grégory Bettiol,Centre-Forward,1986-03-30,26,France,ES Troyes AC,Ligue 1,2012/2013,2012
+Sébastien Grax,Centre-Forward,1984-06-23,28,France,ES Troyes AC,Ligue 1,2012/2013,2012
+Mohamed Camara,Centre-Forward,1990-09-20,21,Guinea,ES Troyes AC,Ligue 1,2012/2013,2012

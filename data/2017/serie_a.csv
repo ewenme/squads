@@ -1,827 +1,827 @@
-shirt_number,position,player_name,date_of_birth,age,nationality,club_name,league_name,season,year
-23,Goalkeeper,"Apr 18, 1990 (27)",NA,NA,Poland,Juventus FC,Serie A,2017/2018,2017
-1,Goalkeeper,"Jan 28, 1978 (39)",NA,NA,Italy,Juventus FC,Serie A,2017/2018,2017
-16,Goalkeeper,"Mar 16, 1990 (27)",NA,NA,Italy,Juventus FC,Serie A,2017/2018,2017
-32,Goalkeeper,"Jun 5, 1998 (19)",NA,NA,Italy,Juventus FC,Serie A,2017/2018,2017
-35,Goalkeeper,"Mar 28, 1999 (18)",NA,NA,Italy,Juventus FC,Serie A,2017/2018,2017
-21,Centre-Back,"Feb 29, 1988 (29)",NA,NA,Germany,Juventus FC,Serie A,2017/2018,2017
-24,Centre-Back,"Jul 29, 1994 (22)",NA,NA,Italy,Juventus FC,Serie A,2017/2018,2017
-4,Centre-Back,"Apr 17, 1987 (30)",NA,NA,Morocco,Juventus FC,Serie A,2017/2018,2017
-3,Centre-Back,"Aug 14, 1984 (32)",NA,NA,Italy,Juventus FC,Serie A,2017/2018,2017
-15,Centre-Back,"May 8, 1981 (36)",NA,NA,Italy,Juventus FC,Serie A,2017/2018,2017
-12,Left-Back,"Jan 26, 1991 (26)",NA,NA,Brazil,Juventus FC,Serie A,2017/2018,2017
-22,Left-Back,"Dec 9, 1988 (28)",NA,NA,Ghana,Juventus FC,Serie A,2017/2018,2017
-2,Right-Back,"Oct 20, 1992 (24)",NA,NA,Italy,Juventus FC,Serie A,2017/2018,2017
-26,Right-Back,"Jan 16, 1984 (33)",NA,NA,Switzerland,Juventus FC,Serie A,2017/2018,2017
-5,Defensive Midfield,"Apr 2, 1990 (27)",NA,NA,Bosnia-Herzegovina,Juventus FC,Serie A,2017/2018,2017
-14,Central Midfield,"Apr 9, 1987 (30)",NA,NA,France,Juventus FC,Serie A,2017/2018,2017
-6,Central Midfield,"Apr 4, 1987 (30)",NA,NA,Germany,Juventus FC,Serie A,2017/2018,2017
-8,Central Midfield,"Jan 19, 1986 (31)",NA,NA,Italy,Juventus FC,Serie A,2017/2018,2017
-27,Central Midfield,"Mar 9, 1993 (24)",NA,NA,Italy,Juventus FC,Serie A,2017/2018,2017
-30,Central Midfield,"Jun 25, 1997 (20)",NA,NA,Uruguay,Juventus FC,Serie A,2017/2018,2017
-37,Central Midfield,"May 30, 1998 (19)",NA,NA,Italy,Juventus FC,Serie A,2017/2018,2017
-38,Central Midfield,"Apr 12, 2000 (17)",NA,NA,Italy,Juventus FC,Serie A,2017/2018,2017
-34,Central Midfield,"May 28, 1999 (18)",NA,NA,Italy,Juventus FC,Serie A,2017/2018,2017
-NA,Attacking Midfield,"Jan 30, 1998 (19)",NA,NA,Cyprus,Juventus FC,Serie A,2017/2018,2017
-36,Attacking Midfield,"Jan 17, 1998 (19)",NA,NA,Italy,Juventus FC,Serie A,2017/2018,2017
-20,Left Winger,"May 6, 1995 (22)",NA,NA,Croatia,Juventus FC,Serie A,2017/2018,2017
-11,Right Winger,"Sep 14, 1990 (26)",NA,NA,Brazil,Juventus FC,Serie A,2017/2018,2017
-33,Right Winger,"Feb 16, 1994 (23)",NA,NA,Italy,Juventus FC,Serie A,2017/2018,2017
-7,Right Winger,"May 26, 1988 (29)",NA,NA,Colombia,Juventus FC,Serie A,2017/2018,2017
-10,Second Striker,"Nov 15, 1993 (23)",NA,NA,Argentina,Juventus FC,Serie A,2017/2018,2017
-9,Centre-Forward,"Dec 10, 1987 (29)",NA,NA,Argentina,Juventus FC,Serie A,2017/2018,2017
-17,Centre-Forward,"May 21, 1986 (31)",NA,NA,Croatia,Juventus FC,Serie A,2017/2018,2017
-34,Centre-Forward,"Feb 28, 2000 (17)",NA,NA,Italy,Juventus FC,Serie A,2017/2018,2017
-25,Goalkeeper,"Aug 31, 1982 (34)",NA,NA,Spain,SSC Napoli,Serie A,2017/2018,2017
-1,Goalkeeper,"May 20, 1990 (27)",NA,NA,Brazil,SSC Napoli,Serie A,2017/2018,2017
-22,Goalkeeper,"May 8, 1991 (26)",NA,NA,Italy,SSC Napoli,Serie A,2017/2018,2017
-79,Goalkeeper,"Apr 28, 1999 (18)",NA,NA,Italy,SSC Napoli,Serie A,2017/2018,2017
-26,Centre-Back,"Jun 20, 1991 (26)",NA,NA,Senegal,SSC Napoli,Serie A,2017/2018,2017
-19,Centre-Back,"Nov 25, 1991 (25)",NA,NA,Serbia,SSC Napoli,Serie A,2017/2018,2017
-33,Centre-Back,"Sep 4, 1985 (31)",NA,NA,Spain,SSC Napoli,Serie A,2017/2018,2017
-62,Centre-Back,"Jan 17, 1990 (27)",NA,NA,Italy,SSC Napoli,Serie A,2017/2018,2017
-21,Centre-Back,"Nov 14, 1989 (27)",NA,NA,Romania,SSC Napoli,Serie A,2017/2018,2017
-73,Centre-Back,"Apr 16, 1999 (18)",NA,NA,Italy,SSC Napoli,Serie A,2017/2018,2017
-81,Centre-Back,"Mar 24, 2000 (17)",NA,NA,Italy,SSC Napoli,Serie A,2017/2018,2017
-31,Left-Back,"Feb 1, 1991 (26)",NA,NA,Algeria,SSC Napoli,Serie A,2017/2018,2017
-6,Left-Back,"May 27, 1991 (26)",NA,NA,Portugal,SSC Napoli,Serie A,2017/2018,2017
-3,Left-Back,"Jul 17, 1987 (29)",NA,NA,Croatia,SSC Napoli,Serie A,2017/2018,2017
-19,Left-Back,"May 10, 1989 (28)",NA,NA,Croatia,SSC Napoli,Serie A,2017/2018,2017
-72,Left-Back,"Mar 13, 1998 (19)",NA,NA,Italy,SSC Napoli,Serie A,2017/2018,2017
-13,Left-Back,"May 10, 1999 (18)",NA,NA,Ghana,SSC Napoli,Serie A,2017/2018,2017
-23,Right-Back,"Feb 2, 1994 (23)",NA,NA,Albania,SSC Napoli,Serie A,2017/2018,2017
-11,Right-Back,"Feb 11, 1982 (35)",NA,NA,Italy,SSC Napoli,Serie A,2017/2018,2017
-78,Right-Back,"Aug 27, 1998 (18)",NA,NA,Italy,SSC Napoli,Serie A,2017/2018,2017
-8,Defensive Midfield,"Dec 20, 1991 (25)",NA,NA,Italy,SSC Napoli,Serie A,2017/2018,2017
-42,Defensive Midfield,"Jul 17, 1997 (19)",NA,NA,Guinea,SSC Napoli,Serie A,2017/2018,2017
-75,Defensive Midfield,"May 30, 1998 (19)",NA,NA,Italy,SSC Napoli,Serie A,2017/2018,2017
-17,Central Midfield,"Jul 27, 1987 (29)",NA,NA,Slovakia,SSC Napoli,Serie A,2017/2018,2017
-20,Central Midfield,"May 20, 1994 (23)",NA,NA,Poland,SSC Napoli,Serie A,2017/2018,2017
-5,Central Midfield,"Jan 8, 1991 (26)",NA,NA,Brazil,SSC Napoli,Serie A,2017/2018,2017
-30,Central Midfield,"Jul 19, 1995 (21)",NA,NA,Croatia,SSC Napoli,Serie A,2017/2018,2017
-27,Central Midfield,"Jan 5, 1996 (21)",NA,NA,France,SSC Napoli,Serie A,2017/2018,2017
-15,Left Midfield,"May 5, 1985 (32)",NA,NA,Italy,SSC Napoli,Serie A,2017/2018,2017
-74,Attacking Midfield,"May 5, 2000 (17)",NA,NA,Italy,SSC Napoli,Serie A,2017/2018,2017
-24,Left Winger,"Jun 4, 1991 (26)",NA,NA,Italy,SSC Napoli,Serie A,2017/2018,2017
-18,Left Winger,"Oct 11, 1998 (18)",NA,NA,Brazil,SSC Napoli,Serie A,2017/2018,2017
-77,Left Winger,"Feb 25, 1999 (18)",NA,NA,Italy,SSC Napoli,Serie A,2017/2018,2017
-7,Right Winger,"Feb 11, 1987 (30)",NA,NA,Spain,SSC Napoli,Serie A,2017/2018,2017
-37,Right Winger,"Nov 11, 1996 (20)",NA,NA,Algeria,SSC Napoli,Serie A,2017/2018,2017
-76,Second Striker,"Feb 1, 2000 (17)",NA,NA,Italy,SSC Napoli,Serie A,2017/2018,2017
-14,Centre-Forward,"May 6, 1987 (30)",NA,NA,Belgium,SSC Napoli,Serie A,2017/2018,2017
-99,Centre-Forward,"Feb 28, 1994 (23)",NA,NA,Poland,SSC Napoli,Serie A,2017/2018,2017
-29,Centre-Forward,"Nov 26, 1988 (28)",NA,NA,Italy,SSC Napoli,Serie A,2017/2018,2017
-91,Centre-Forward,"Apr 1, 1991 (26)",NA,NA,Colombia,SSC Napoli,Serie A,2017/2018,2017
-99,Goalkeeper,"Feb 25, 1999 (18)",NA,NA,Italy,AC Milan,Serie A,2017/2018,2017
-1,Goalkeeper,"Sep 27, 1992 (24)",NA,NA,Brazil,AC Milan,Serie A,2017/2018,2017
-90,Goalkeeper,"Jul 7, 1990 (26)",NA,NA,Italy,AC Milan,Serie A,2017/2018,2017
-30,Goalkeeper,"Jan 7, 1977 (40)",NA,NA,Italy,AC Milan,Serie A,2017/2018,2017
-75,Goalkeeper,"Mar 27, 1999 (18)",NA,NA,Italy,AC Milan,Serie A,2017/2018,2017
-65,Goalkeeper,"Mar 28, 2001 (16)",NA,NA,Italy,AC Milan,Serie A,2017/2018,2017
-19,Centre-Back,"May 1, 1987 (30)",NA,NA,Italy,AC Milan,Serie A,2017/2018,2017
-13,Centre-Back,"Jan 12, 1995 (22)",NA,NA,Italy,AC Milan,Serie A,2017/2018,2017
-22,Centre-Back,"Aug 26, 1990 (26)",NA,NA,Argentina,AC Milan,Serie A,2017/2018,2017
-29,Centre-Back,"Feb 15, 1986 (31)",NA,NA,Italy,AC Milan,Serie A,2017/2018,2017
-15,Centre-Back,"May 6, 1993 (24)",NA,NA,Paraguay,AC Milan,Serie A,2017/2018,2017
-17,Centre-Back,"Sep 30, 1986 (30)",NA,NA,Colombia,AC Milan,Serie A,2017/2018,2017
-NA,Centre-Back,"May 26, 1994 (23)",NA,NA,Colombia,AC Milan,Serie A,2017/2018,2017
-46,Centre-Back,"Oct 21, 1999 (17)",NA,NA,Italy,AC Milan,Serie A,2017/2018,2017
-68,Left-Back,"Aug 25, 1992 (24)",NA,NA,Switzerland,AC Milan,Serie A,2017/2018,2017
-31,Left-Back,"Feb 11, 1987 (30)",NA,NA,Italy,AC Milan,Serie A,2017/2018,2017
-12,Right-Back,"Mar 2, 1994 (23)",NA,NA,Italy,AC Milan,Serie A,2017/2018,2017
-20,Right-Back,"Nov 12, 1986 (30)",NA,NA,Italy,AC Milan,Serie A,2017/2018,2017
-2,Right-Back,"Dec 6, 1996 (20)",NA,NA,Italy,AC Milan,Serie A,2017/2018,2017
-47,Right-Back,"May 17, 2000 (17)",NA,NA,Italy,AC Milan,Serie A,2017/2018,2017
-21,Defensive Midfield,"Jan 30, 1986 (31)",NA,NA,Argentina,AC Milan,Serie A,2017/2018,2017
-18,Defensive Midfield,"Jan 18, 1985 (32)",NA,NA,Italy,AC Milan,Serie A,2017/2018,2017
-5,Central Midfield,"Aug 22, 1989 (27)",NA,NA,Italy,AC Milan,Serie A,2017/2018,2017
-79,Central Midfield,"Dec 19, 1996 (20)",NA,NA,Cote d'Ivoire,AC Milan,Serie A,2017/2018,2017
-73,Central Midfield,"Jan 8, 1998 (19)",NA,NA,Italy,AC Milan,Serie A,2017/2018,2017
-23,Central Midfield,"Jun 19, 1985 (32)",NA,NA,Argentina,AC Milan,Serie A,2017/2018,2017
-4,Central Midfield,"May 16, 1996 (21)",NA,NA,Italy,AC Milan,Serie A,2017/2018,2017
-45,Central Midfield,"Jun 24, 1998 (19)",NA,NA,Italy,AC Milan,Serie A,2017/2018,2017
-57,Central Midfield,"Mar 16, 1999 (18)",NA,NA,Italy,AC Milan,Serie A,2017/2018,2017
-58,Central Midfield,"Jul 15, 1999 (17)",NA,NA,Italy,AC Milan,Serie A,2017/2018,2017
-76,Left Midfield,"May 4, 1998 (19)",NA,NA,Portugal,AC Milan,Serie A,2017/2018,2017
-NA,Attacking Midfield,"Jun 15, 1998 (19)",NA,NA,Morocco,AC Milan,Serie A,2017/2018,2017
-10,Left Winger,"Feb 8, 1994 (23)",NA,NA,Turkey,AC Milan,Serie A,2017/2018,2017
-11,Left Winger,"Mar 29, 1991 (26)",NA,NA,Italy,AC Milan,Serie A,2017/2018,2017
-27,Left Winger,"May 17, 1999 (18)",NA,NA,Italy,AC Milan,Serie A,2017/2018,2017
-8,Right Winger,"Nov 19, 1993 (23)",NA,NA,Spain,AC Milan,Serie A,2017/2018,2017
-NA,Right Winger,"Oct 17, 1990 (26)",NA,NA,Nigeria,AC Milan,Serie A,2017/2018,2017
-9,Centre-Forward,"Nov 6, 1995 (21)",NA,NA,Portugal,AC Milan,Serie A,2017/2018,2017
-7,Centre-Forward,"Jan 5, 1988 (29)",NA,NA,Croatia,AC Milan,Serie A,2017/2018,2017
-94,Centre-Forward,"Dec 19, 1994 (22)",NA,NA,Senegal,AC Milan,Serie A,2017/2018,2017
-63,Centre-Forward,"Jan 3, 1998 (19)",NA,NA,Italy,AC Milan,Serie A,2017/2018,2017
-74,Centre-Forward,"Jul 28, 1999 (17)",NA,NA,Italy,AC Milan,Serie A,2017/2018,2017
-1,Goalkeeper,"Jul 14, 1984 (32)",NA,NA,Slovenia,Inter Milan,Serie A,2017/2018,2017
-27,Goalkeeper,"Oct 25, 1985 (31)",NA,NA,Italy,Inter Milan,Serie A,2017/2018,2017
-46,Goalkeeper,"Mar 6, 1983 (34)",NA,NA,Italy,Inter Milan,Serie A,2017/2018,2017
-89,Goalkeeper,"Jan 8, 1998 (19)",NA,NA,Italy,Inter Milan,Serie A,2017/2018,2017
-25,Centre-Back,"Sep 7, 1984 (32)",NA,NA,Brazil,Inter Milan,Serie A,2017/2018,2017
-37,Centre-Back,"Feb 11, 1995 (22)",NA,NA,Slovakia,Inter Milan,Serie A,2017/2018,2017
-2,Centre-Back,"Sep 1, 1989 (27)",NA,NA,Argentina,Inter Milan,Serie A,2017/2018,2017
-13,Centre-Back,"Feb 16, 1988 (29)",NA,NA,Italy,Inter Milan,Serie A,2017/2018,2017
-61,Centre-Back,"Jul 29, 1999 (17)",NA,NA,Belgium,Inter Milan,Serie A,2017/2018,2017
-98,Centre-Back,"Dec 19, 1998 (18)",NA,NA,Italy,Inter Milan,Serie A,2017/2018,2017
-15,Left-Back,"Sep 20, 1986 (30)",NA,NA,Argentina,Inter Milan,Serie A,2017/2018,2017
-21,Left-Back,"Jan 2, 1991 (26)",NA,NA,Italy,Inter Milan,Serie A,2017/2018,2017
-29,Left-Back,"Sep 8, 1993 (23)",NA,NA,Brazil,Inter Milan,Serie A,2017/2018,2017
-55,Left-Back,"Sep 12, 1986 (30)",NA,NA,Japan,Inter Milan,Serie A,2017/2018,2017
-7,Right-Back,"May 27, 1994 (23)",NA,NA,Portugal,Inter Milan,Serie A,2017/2018,2017
-33,Right-Back,"Sep 9, 1988 (28)",NA,NA,Italy,Inter Milan,Serie A,2017/2018,2017
-77,Defensive Midfield,"Nov 16, 1992 (24)",NA,NA,Croatia,Inter Milan,Serie A,2017/2018,2017
-10,Central Midfield,"Jan 19, 1993 (24)",NA,NA,Portugal,Inter Milan,Serie A,2017/2018,2017
-7,Central Midfield,"Feb 15, 1993 (24)",NA,NA,Central African Republic,Inter Milan,Serie A,2017/2018,2017
-5,Central Midfield,"Apr 7, 1994 (23)",NA,NA,Italy,Inter Milan,Serie A,2017/2018,2017
-8,Central Midfield,"Feb 12, 1993 (24)",NA,NA,Brazil,Inter Milan,Serie A,2017/2018,2017
-11,Central Midfield,"Aug 24, 1991 (25)",NA,NA,Uruguay,Inter Milan,Serie A,2017/2018,2017
-20,Central Midfield,"Jan 12, 1985 (32)",NA,NA,Spain,Inter Milan,Serie A,2017/2018,2017
-NA,Central Midfield,"Sep 28, 1996 (20)",NA,NA,Cote d'Ivoire,Inter Milan,Serie A,2017/2018,2017
-63,Central Midfield,"Jul 20, 1999 (17)",NA,NA,Belgium,Inter Milan,Serie A,2017/2018,2017
-64,Attacking Midfield,"Jul 2, 1999 (17)",NA,NA,Italy,Inter Milan,Serie A,2017/2018,2017
-44,Left Winger,"Feb 2, 1989 (28)",NA,NA,Croatia,Inter Milan,Serie A,2017/2018,2017
-87,Right Winger,"Feb 28, 1987 (30)",NA,NA,Italy,Inter Milan,Serie A,2017/2018,2017
-17,Right Winger,"Jul 8, 1998 (18)",NA,NA,France,Inter Milan,Serie A,2017/2018,2017
-23,Second Striker,"Nov 15, 1986 (30)",NA,NA,Italy,Inter Milan,Serie A,2017/2018,2017
-9,Centre-Forward,"Feb 19, 1993 (24)",NA,NA,Argentina,Inter Milan,Serie A,2017/2018,2017
-96,Centre-Forward,"Aug 30, 1996 (20)",NA,NA,Brazil,Inter Milan,Serie A,2017/2018,2017
-8,Centre-Forward,"Nov 2, 1989 (27)",NA,NA,Montenegro,Inter Milan,Serie A,2017/2018,2017
-99,Centre-Forward,"May 19, 1999 (18)",NA,NA,Italy,Inter Milan,Serie A,2017/2018,2017
-1,Goalkeeper,"Oct 2, 1992 (24)",NA,NA,Brazil,AS Roma,Serie A,2017/2018,2017
-28,Goalkeeper,"May 5, 1991 (26)",NA,NA,Poland,AS Roma,Serie A,2017/2018,2017
-18,Goalkeeper,"Jan 18, 1978 (39)",NA,NA,Romania,AS Roma,Serie A,2017/2018,2017
-12,Goalkeeper,"Jul 29, 1998 (18)",NA,NA,Italy,AS Roma,Serie A,2017/2018,2017
-56,Goalkeeper,"Aug 4, 2000 (16)",NA,NA,Italy,AS Roma,Serie A,2017/2018,2017
-58,Goalkeeper,"Jan 9, 2000 (17)",NA,NA,Italy,AS Roma,Serie A,2017/2018,2017
-44,Centre-Back,"Jun 14, 1991 (26)",NA,NA,Greece,AS Roma,Serie A,2017/2018,2017
-20,Centre-Back,"Mar 17, 1987 (30)",NA,NA,Argentina,AS Roma,Serie A,2017/2018,2017
-15,Centre-Back,"Jan 17, 1988 (29)",NA,NA,Mexico,AS Roma,Serie A,2017/2018,2017
-5,Centre-Back,"Jun 10, 1991 (26)",NA,NA,Brazil,AS Roma,Serie A,2017/2018,2017
-55,Centre-Back,"Nov 5, 1986 (30)",NA,NA,Brazil,AS Roma,Serie A,2017/2018,2017
-13,Centre-Back,"Mar 11, 1996 (21)",NA,NA,Italy,AS Roma,Serie A,2017/2018,2017
-40,Centre-Back,"Mar 30, 1998 (19)",NA,NA,Italy,AS Roma,Serie A,2017/2018,2017
-42,Centre-Back,"Jun 28, 1999 (18)",NA,NA,Italy,AS Roma,Serie A,2017/2018,2017
-54,Centre-Back,"Feb 2, 1999 (18)",NA,NA,Kosovo,AS Roma,Serie A,2017/2018,2017
-11,Left-Back,"Nov 10, 1985 (31)",NA,NA,Serbia,AS Roma,Serie A,2017/2018,2017
-33,Left-Back,"Aug 3, 1994 (22)",NA,NA,Italy,AS Roma,Serie A,2017/2018,2017
-33,Left-Back,"Jun 29, 1994 (23)",NA,NA,Argentina,AS Roma,Serie A,2017/2018,2017
-3,Left-Back,"Mar 7, 1999 (18)",NA,NA,Italy,AS Roma,Serie A,2017/2018,2017
-57,Left-Back,"Sep 10, 1997 (19)",NA,NA,Croatia,AS Roma,Serie A,2017/2018,2017
-43,Left-Back,"Mar 5, 1999 (18)",NA,NA,Italy,AS Roma,Serie A,2017/2018,2017
-24,Right-Back,"Mar 11, 1991 (26)",NA,NA,Italy,AS Roma,Serie A,2017/2018,2017
-25,Right-Back,"Mar 1, 1990 (27)",NA,NA,Brazil,AS Roma,Serie A,2017/2018,2017
-26,Right-Back,"Feb 11, 1995 (22)",NA,NA,Netherlands,AS Roma,Serie A,2017/2018,2017
-22,Right-Back,"Aug 17, 1997 (19)",NA,NA,Nigeria,AS Roma,Serie A,2017/2018,2017
-41,Right-Back,"Aug 13, 2001 (15)",NA,NA,Italy,AS Roma,Serie A,2017/2018,2017
-21,Defensive Midfield,"Mar 10, 1989 (28)",NA,NA,France,AS Roma,Serie A,2017/2018,2017
-16,Defensive Midfield,"Jul 24, 1983 (33)",NA,NA,Italy,AS Roma,Serie A,2017/2018,2017
-53,Defensive Midfield,"Feb 7, 1999 (18)",NA,NA,Italy,AS Roma,Serie A,2017/2018,2017
-6,Central Midfield,"Feb 13, 1990 (27)",NA,NA,Netherlands,AS Roma,Serie A,2017/2018,2017
-7,Central Midfield,"Jun 19, 1996 (21)",NA,NA,Italy,AS Roma,Serie A,2017/2018,2017
-30,Central Midfield,"May 20, 1997 (20)",NA,NA,Brazil,AS Roma,Serie A,2017/2018,2017
-47,Central Midfield,"Jan 28, 1999 (18)",NA,NA,Italy,AS Roma,Serie A,2017/2018,2017
-45,Central Midfield,"Mar 11, 2000 (17)",NA,NA,Italy,AS Roma,Serie A,2017/2018,2017
-49,Central Midfield,"Apr 3, 2001 (16)",NA,NA,Italy,AS Roma,Serie A,2017/2018,2017
-4,Attacking Midfield,"May 4, 1988 (29)",NA,NA,Belgium,AS Roma,Serie A,2017/2018,2017
-8,Left Winger,"Jul 26, 1988 (28)",NA,NA,Argentina,AS Roma,Serie A,2017/2018,2017
-92,Left Winger,"Oct 27, 1992 (24)",NA,NA,Italy,AS Roma,Serie A,2017/2018,2017
-50,Left Winger,"Feb 20, 1998 (19)",NA,NA,Senegal,AS Roma,Serie A,2017/2018,2017
-52,Left Winger,"Apr 29, 1999 (18)",NA,NA,Italy,AS Roma,Serie A,2017/2018,2017
-17,Right Winger,"Jul 14, 1997 (19)",NA,NA,Turkey,AS Roma,Serie A,2017/2018,2017
-51,Right Winger,"Aug 7, 1997 (19)",NA,NA,Denmark,AS Roma,Serie A,2017/2018,2017
-48,Right Winger,"Mar 11, 1999 (18)",NA,NA,Italy,AS Roma,Serie A,2017/2018,2017
-9,Centre-Forward,"Mar 17, 1986 (31)",NA,NA,Bosnia-Herzegovina,AS Roma,Serie A,2017/2018,2017
-14,Centre-Forward,"Jan 24, 1996 (21)",NA,NA,Czech Republic,AS Roma,Serie A,2017/2018,2017
-23,Centre-Forward,"Jun 17, 1991 (26)",NA,NA,Martinique,AS Roma,Serie A,2017/2018,2017
-32,Centre-Forward,"Nov 6, 1998 (18)",NA,NA,Italy,AS Roma,Serie A,2017/2018,2017
-1,Goalkeeper,"Mar 19, 1995 (22)",NA,NA,Albania,SS Lazio,Serie A,2017/2018,2017
-22,Goalkeeper,"Feb 7, 1983 (34)",NA,NA,Italy,SS Lazio,Serie A,2017/2018,2017
-25,Goalkeeper,"Mar 15, 1987 (30)",NA,NA,Croatia,SS Lazio,Serie A,2017/2018,2017
-23,Goalkeeper,"Feb 25, 1996 (21)",NA,NA,Italy,SS Lazio,Serie A,2017/2018,2017
-39,Goalkeeper,"Feb 21, 2001 (16)",NA,NA,Italy,SS Lazio,Serie A,2017/2018,2017
-3,Centre-Back,"Feb 5, 1992 (25)",NA,NA,Netherlands,SS Lazio,Serie A,2017/2018,2017
-13,Centre-Back,"Oct 14, 1994 (22)",NA,NA,Brazil,SS Lazio,Serie A,2017/2018,2017
-2,Centre-Back,"Mar 6, 1994 (23)",NA,NA,Netherlands,SS Lazio,Serie A,2017/2018,2017
-26,Centre-Back,"Oct 22, 1986 (30)",NA,NA,Romania,SS Lazio,Serie A,2017/2018,2017
-15,Centre-Back,"Mar 27, 1991 (26)",NA,NA,Angola,SS Lazio,Serie A,2017/2018,2017
-22,Centre-Back,"Apr 7, 1987 (30)",NA,NA,Uruguay,SS Lazio,Serie A,2017/2018,2017
-33,Centre-Back,"Sep 20, 1988 (28)",NA,NA,Brazil,SS Lazio,Serie A,2017/2018,2017
-27,Centre-Back,"Mar 22, 1997 (20)",NA,NA,Brazil,SS Lazio,Serie A,2017/2018,2017
-31,Centre-Back,"Mar 7, 2001 (16)",NA,NA,Italy,SS Lazio,Serie A,2017/2018,2017
-5,Left-Back,"Jul 25, 1994 (22)",NA,NA,Belgium,SS Lazio,Serie A,2017/2018,2017
-8,Right-Back,"Aug 18, 1984 (32)",NA,NA,Serbia,SS Lazio,Serie A,2017/2018,2017
-4,Right-Back,"Apr 17, 1993 (24)",NA,NA,Spain,SS Lazio,Serie A,2017/2018,2017
-35,Right-Back,"Feb 17, 2001 (16)",NA,NA,Italy,SS Lazio,Serie A,2017/2018,2017
-6,Defensive Midfield,"Jan 9, 1987 (30)",NA,NA,Brazil,SS Lazio,Serie A,2017/2018,2017
-88,Defensive Midfield,"Jun 16, 1988 (29)",NA,NA,Italy,SS Lazio,Serie A,2017/2018,2017
-32,Defensive Midfield,"Aug 31, 1999 (17)",NA,NA,Italy,SS Lazio,Serie A,2017/2018,2017
-21,Central Midfield,"Feb 27, 1995 (22)",NA,NA,Serbia,SS Lazio,Serie A,2017/2018,2017
-16,Central Midfield,"Jan 25, 1985 (32)",NA,NA,Italy,SS Lazio,Serie A,2017/2018,2017
-96,Central Midfield,"Aug 9, 1996 (20)",NA,NA,Italy,SS Lazio,Serie A,2017/2018,2017
-11,Central Midfield,"Sep 6, 1995 (21)",NA,NA,Italy,SS Lazio,Serie A,2017/2018,2017
-66,Central Midfield,"Oct 12, 1998 (18)",NA,NA,Portugal,SS Lazio,Serie A,2017/2018,2017
-99,Central Midfield,"Jan 1, 1999 (18)",NA,NA,Finland,SS Lazio,Serie A,2017/2018,2017
-77,Right Midfield,"Oct 17, 1992 (24)",NA,NA,Montenegro,SS Lazio,Serie A,2017/2018,2017
-19,Left Midfield,"Jan 18, 1986 (31)",NA,NA,Bosnia-Herzegovina,SS Lazio,Serie A,2017/2018,2017
-18,Attacking Midfield,"Sep 28, 1992 (24)",NA,NA,Spain,SS Lazio,Serie A,2017/2018,2017
-10,Left Winger,"Apr 15, 1993 (24)",NA,NA,Brazil,SS Lazio,Serie A,2017/2018,2017
-14,Left Winger,"Mar 8, 1995 (22)",NA,NA,Senegal,SS Lazio,Serie A,2017/2018,2017
-7,Left Winger,"Nov 17, 1986 (30)",NA,NA,Portugal,SS Lazio,Serie A,2017/2018,2017
-7,Left Winger,"Jan 4, 1995 (22)",NA,NA,Netherlands,SS Lazio,Serie A,2017/2018,2017
-70,Left Winger,"May 4, 1995 (22)",NA,NA,Australia,SS Lazio,Serie A,2017/2018,2017
-25,Right Winger,"Aug 19, 1995 (21)",NA,NA,Italy,SS Lazio,Serie A,2017/2018,2017
-38,Right Winger,"Apr 12, 1999 (18)",NA,NA,Italy,SS Lazio,Serie A,2017/2018,2017
-30,Right Winger,"Mar 9, 2000 (17)",NA,NA,Portugal,SS Lazio,Serie A,2017/2018,2017
-36,Second Striker,"Jul 3, 1999 (17)",NA,NA,Italy,SS Lazio,Serie A,2017/2018,2017
-17,Centre-Forward,"Feb 20, 1990 (27)",NA,NA,Italy,SS Lazio,Serie A,2017/2018,2017
-20,Centre-Forward,"Sep 5, 1988 (28)",NA,NA,Ecuador,SS Lazio,Serie A,2017/2018,2017
-9,Centre-Forward,"Sep 28, 1987 (29)",NA,NA,Serbia,SS Lazio,Serie A,2017/2018,2017
-29,Centre-Forward,"Apr 23, 1996 (21)",NA,NA,Italy,SS Lazio,Serie A,2017/2018,2017
-34,Centre-Forward,"Feb 25, 1993 (24)",NA,NA,Colombia,SS Lazio,Serie A,2017/2018,2017
-57,Goalkeeper,"May 10, 1992 (25)",NA,NA,Italy,ACF Fiorentina,Serie A,2017/2018,2017
-97,Goalkeeper,"Aug 19, 1997 (19)",NA,NA,Poland,ACF Fiorentina,Serie A,2017/2018,2017
-22,Goalkeeper,"Jan 4, 1999 (18)",NA,NA,Italy,ACF Fiorentina,Serie A,2017/2018,2017
-33,Goalkeeper,"Jul 14, 2001 (15)",NA,NA,Italy,ACF Fiorentina,Serie A,2017/2018,2017
-12,Goalkeeper,"Mar 19, 2000 (17)",NA,NA,Italy,ACF Fiorentina,Serie A,2017/2018,2017
-13,Centre-Back,"Jan 7, 1987 (†31)",NA,NA,Italy,ACF Fiorentina,Serie A,2017/2018,2017
-20,Centre-Back,"Jun 27, 1991 (26)",NA,NA,Argentina,ACF Fiorentina,Serie A,2017/2018,2017
-4,Centre-Back,"Oct 12, 1997 (19)",NA,NA,Serbia,ACF Fiorentina,Serie A,2017/2018,2017
-31,Centre-Back,"May 20, 1991 (26)",NA,NA,Brazil,ACF Fiorentina,Serie A,2017/2018,2017
-40,Centre-Back,"Aug 30, 1987 (29)",NA,NA,Serbia,ACF Fiorentina,Serie A,2017/2018,2017
-51,Centre-Back,"Mar 1, 1999 (18)",NA,NA,Bulgaria,ACF Fiorentina,Serie A,2017/2018,2017
-3,Left-Back,"Sep 1, 1992 (24)",NA,NA,Italy,ACF Fiorentina,Serie A,2017/2018,2017
-15,Left-Back,"Mar 5, 1992 (25)",NA,NA,Uruguay,ACF Fiorentina,Serie A,2017/2018,2017
-26,Left-Back,"Apr 23, 1999 (18)",NA,NA,Italy,ACF Fiorentina,Serie A,2017/2018,2017
-76,Right-Back,"Apr 21, 1993 (24)",NA,NA,Angola,ACF Fiorentina,Serie A,2017/2018,2017
-2,Right-Back,"Jun 10, 1989 (28)",NA,NA,France,ACF Fiorentina,Serie A,2017/2018,2017
-5,Defensive Midfield,"Feb 25, 1989 (28)",NA,NA,Croatia,ACF Fiorentina,Serie A,2017/2018,2017
-6,Defensive Midfield,"Feb 6, 1986 (31)",NA,NA,Colombia,ACF Fiorentina,Serie A,2017/2018,2017
-34,Defensive Midfield,"Mar 12, 1999 (18)",NA,NA,Slovenia,ACF Fiorentina,Serie A,2017/2018,2017
-27,Defensive Midfield,"May 26, 1994 (23)",NA,NA,Uruguay,ACF Fiorentina,Serie A,2017/2018,2017
-24,Central Midfield,"Sep 8, 1994 (22)",NA,NA,Italy,ACF Fiorentina,Serie A,2017/2018,2017
-17,Central Midfield,"Mar 1, 1993 (24)",NA,NA,France,ACF Fiorentina,Serie A,2017/2018,2017
-14,Central Midfield,"Feb 18, 1992 (25)",NA,NA,Burkina Faso,ACF Fiorentina,Serie A,2017/2018,2017
-19,Central Midfield,"Aug 23, 1993 (23)",NA,NA,Uruguay,ACF Fiorentina,Serie A,2017/2018,2017
-73,Central Midfield,"Feb 2, 2000 (17)",NA,NA,Italy,ACF Fiorentina,Serie A,2017/2018,2017
-8,Attacking Midfield,"Dec 21, 1991 (25)",NA,NA,Italy,ACF Fiorentina,Serie A,2017/2018,2017
-10,Attacking Midfield,"Mar 25, 1992 (25)",NA,NA,France,ACF Fiorentina,Serie A,2017/2018,2017
-14,Attacking Midfield,"May 15, 1986 (31)",NA,NA,Chile,ACF Fiorentina,Serie A,2017/2018,2017
-11,Attacking Midfield,"Oct 22, 1998 (18)",NA,NA,Romania,ACF Fiorentina,Serie A,2017/2018,2017
-7,Left Winger,"Jan 12, 1998 (19)",NA,NA,Norway,ACF Fiorentina,Serie A,2017/2018,2017
-21,Left Winger,"Jun 3, 1999 (18)",NA,NA,Italy,ACF Fiorentina,Serie A,2017/2018,2017
-25,Right Winger,"Oct 25, 1997 (19)",NA,NA,Italy,ACF Fiorentina,Serie A,2017/2018,2017
-28,Right Winger,"Sep 28, 1996 (20)",NA,NA,Portugal,ACF Fiorentina,Serie A,2017/2018,2017
-93,Second Striker,"Sep 21, 1993 (23)",NA,NA,Croatia,ACF Fiorentina,Serie A,2017/2018,2017
-77,Second Striker,"Apr 24, 1983 (34)",NA,NA,France,ACF Fiorentina,Serie A,2017/2018,2017
-27,Second Striker,"Feb 18, 1998 (19)",NA,NA,Italy,ACF Fiorentina,Serie A,2017/2018,2017
-99,Centre-Forward,"Jan 5, 1988 (29)",NA,NA,Croatia,ACF Fiorentina,Serie A,2017/2018,2017
-9,Centre-Forward,"Jul 5, 1995 (21)",NA,NA,Argentina,ACF Fiorentina,Serie A,2017/2018,2017
-30,Centre-Forward,"Mar 17, 1993 (24)",NA,NA,Senegal,ACF Fiorentina,Serie A,2017/2018,2017
-11,Centre-Forward,"Jun 26, 1991 (26)",NA,NA,Italy,ACF Fiorentina,Serie A,2017/2018,2017
-32,Centre-Forward,"Feb 13, 1999 (18)",NA,NA,Italy,ACF Fiorentina,Serie A,2017/2018,2017
-39,Goalkeeper,"Jan 12, 1987 (30)",NA,NA,Italy,Torino FC,Serie A,2017/2018,2017
-1,Goalkeeper,"Jan 26, 1992 (25)",NA,NA,Uruguay,Torino FC,Serie A,2017/2018,2017
-32,Goalkeeper,"Feb 20, 1997 (20)",NA,NA,Serbia,Torino FC,Serie A,2017/2018,2017
-99,Goalkeeper,"Jan 29, 1999 (18)",NA,NA,Italy,Torino FC,Serie A,2017/2018,2017
-33,Centre-Back,"Mar 27, 1990 (27)",NA,NA,Cameroon,Torino FC,Serie A,2017/2018,2017
-NA,Centre-Back,"May 9, 1985 (32)",NA,NA,Italy,Torino FC,Serie A,2017/2018,2017
-4,Centre-Back,"May 19, 1996 (21)",NA,NA,Italy,Torino FC,Serie A,2017/2018,2017
-97,Centre-Back,"Feb 1, 1997 (20)",NA,NA,Brazil,Torino FC,Serie A,2017/2018,2017
-24,Centre-Back,"Jun 11, 1981 (36)",NA,NA,Italy,Torino FC,Serie A,2017/2018,2017
-13,Centre-Back,"Apr 12, 1981 (36)",NA,NA,Argentina,Torino FC,Serie A,2017/2018,2017
-NA,Centre-Back,"Feb 7, 1999 (18)",NA,NA,Ecuador,Torino FC,Serie A,2017/2018,2017
-50,Centre-Back,"Feb 3, 1998 (19)",NA,NA,Italy,Torino FC,Serie A,2017/2018,2017
-87,Centre-Back,"Jun 6, 1999 (18)",NA,NA,Italy,Torino FC,Serie A,2017/2018,2017
-15,Left-Back,"Sep 20, 1986 (30)",NA,NA,Argentina,Torino FC,Serie A,2017/2018,2017
-23,Left-Back,"Mar 18, 1995 (22)",NA,NA,Italy,Torino FC,Serie A,2017/2018,2017
-26,Left-Back,"Jun 9, 1989 (28)",NA,NA,Brazil,Torino FC,Serie A,2017/2018,2017
-3,Left-Back,"Jul 30, 1983 (33)",NA,NA,Italy,Torino FC,Serie A,2017/2018,2017
-59,Left-Back,"Jan 30, 2000 (17)",NA,NA,Mali,Torino FC,Serie A,2017/2018,2017
-7,Right-Back,"Jun 11, 1992 (25)",NA,NA,Italy,Torino FC,Serie A,2017/2018,2017
-29,Right-Back,"May 23, 1988 (29)",NA,NA,Italy,Torino FC,Serie A,2017/2018,2017
-56,Right-Back,"Oct 19, 2000 (16)",NA,NA,Italy,Torino FC,Serie A,2017/2018,2017
-60,Right-Back,"Mar 20, 1999 (18)",NA,NA,Italy,Torino FC,Serie A,2017/2018,2017
-88,Defensive Midfield,"Jan 13, 1988 (29)",NA,NA,Venezuela,Torino FC,Serie A,2017/2018,2017
-5,Defensive Midfield,"Apr 21, 1986 (31)",NA,NA,Italy,Torino FC,Serie A,2017/2018,2017
-52,Defensive Midfield,"Feb 24, 1998 (19)",NA,NA,Italy,Torino FC,Serie A,2017/2018,2017
-53,Defensive Midfield,"Feb 22, 1999 (18)",NA,NA,Italy,Torino FC,Serie A,2017/2018,2017
-55,Defensive Midfield,"Mar 6, 2000 (17)",NA,NA,Italy,Torino FC,Serie A,2017/2018,2017
-8,Central Midfield,"Mar 12, 1992 (25)",NA,NA,Italy,Torino FC,Serie A,2017/2018,2017
-6,Central Midfield,"Jan 5, 1992 (25)",NA,NA,Ghana,Torino FC,Serie A,2017/2018,2017
-NA,Central Midfield,"Aug 13, 1996 (20)",NA,NA,Serbia,Torino FC,Serie A,2017/2018,2017
-22,Central Midfield,"May 22, 1991 (26)",NA,NA,Nigeria,Torino FC,Serie A,2017/2018,2017
-16,Central Midfield,"Jan 11, 1995 (22)",NA,NA,Sweden,Torino FC,Serie A,2017/2018,2017
-63,Central Midfield,"Jul 19, 2000 (16)",NA,NA,France,Torino FC,Serie A,2017/2018,2017
-10,Attacking Midfield,"Sep 29, 1991 (25)",NA,NA,Serbia,Torino FC,Serie A,2017/2018,2017
-21,Left Winger,"Jul 4, 1995 (21)",NA,NA,Spain,Torino FC,Serie A,2017/2018,2017
-31,Left Winger,"Feb 28, 1996 (21)",NA,NA,Argentina,Torino FC,Serie A,2017/2018,2017
-61,Left Winger,"Mar 14, 2000 (17)",NA,NA,Cote d'Ivoire,Torino FC,Serie A,2017/2018,2017
-14,Right Winger,"Jan 4, 1990 (27)",NA,NA,Spain,Torino FC,Serie A,2017/2018,2017
-27,Right Winger,"Mar 25, 1996 (21)",NA,NA,Italy,Torino FC,Serie A,2017/2018,2017
-30,Right Winger,"May 14, 1995 (22)",NA,NA,Italy,Torino FC,Serie A,2017/2018,2017
-20,Right Winger,"Jan 9, 1997 (20)",NA,NA,Italy,Torino FC,Serie A,2017/2018,2017
-62,Second Striker,"Aug 12, 2000 (16)",NA,NA,Italy,Torino FC,Serie A,2017/2018,2017
-9,Centre-Forward,"Dec 20, 1993 (23)",NA,NA,Italy,Torino FC,Serie A,2017/2018,2017
-11,Centre-Forward,"Dec 19, 1994 (22)",NA,NA,Senegal,Torino FC,Serie A,2017/2018,2017
-99,Centre-Forward,"Feb 2, 1997 (20)",NA,NA,Nigeria,Torino FC,Serie A,2017/2018,2017
-11,Centre-Forward,"Apr 3, 1984 (33)",NA,NA,Argentina,Torino FC,Serie A,2017/2018,2017
-19,Centre-Forward,"Jul 17, 1998 (18)",NA,NA,Italy,Torino FC,Serie A,2017/2018,2017
-51,Centre-Forward,"Aug 21, 1998 (18)",NA,NA,Croatia,Torino FC,Serie A,2017/2018,2017
-54,Centre-Forward,"Jan 24, 2000 (17)",NA,NA,Italy,Torino FC,Serie A,2017/2018,2017
-57,Centre-Forward,"May 22, 1999 (18)",NA,NA,Italy,Torino FC,Serie A,2017/2018,2017
-58,Centre-Forward,"Apr 17, 2000 (17)",NA,NA,Italy,Torino FC,Serie A,2017/2018,2017
-1,Goalkeeper,"Mar 10, 1989 (28)",NA,NA,Albania,Atalanta BC,Serie A,2017/2018,2017
-91,Goalkeeper,"Mar 18, 1995 (22)",NA,NA,Italy,Atalanta BC,Serie A,2017/2018,2017
-31,Goalkeeper,"Apr 27, 1991 (26)",NA,NA,Italy,Atalanta BC,Serie A,2017/2018,2017
-13,Centre-Back,"May 5, 1994 (23)",NA,NA,Italy,Atalanta BC,Serie A,2017/2018,2017
-3,Centre-Back,"Oct 10, 1990 (26)",NA,NA,Brazil,Atalanta BC,Serie A,2017/2018,2017
-5,Centre-Back,"Feb 5, 1986 (31)",NA,NA,Italy,Atalanta BC,Serie A,2017/2018,2017
-6,Centre-Back,"Jan 5, 1990 (27)",NA,NA,Argentina,Atalanta BC,Serie A,2017/2018,2017
-95,Centre-Back,"Apr 13, 1999 (18)",NA,NA,Italy,Atalanta BC,Serie A,2017/2018,2017
-28,Centre-Back,"Apr 17, 1996 (21)",NA,NA,Italy,Atalanta BC,Serie A,2017/2018,2017
-37,Left-Back,"Mar 25, 1993 (24)",NA,NA,Italy,Atalanta BC,Serie A,2017/2018,2017
-93,Left-Back,"Jul 22, 1985 (31)",NA,NA,Senegal,Atalanta BC,Serie A,2017/2018,2017
-8,Left-Back,"Jul 5, 1994 (22)",NA,NA,Germany,Atalanta BC,Serie A,2017/2018,2017
-21,Right-Back,"Dec 5, 1995 (21)",NA,NA,Belgium,Atalanta BC,Serie A,2017/2018,2017
-33,Right-Back,"Jan 9, 1994 (23)",NA,NA,Netherlands,Atalanta BC,Serie A,2017/2018,2017
-88,Defensive Midfield,"May 19, 1993 (24)",NA,NA,Brazil,Atalanta BC,Serie A,2017/2018,2017
-51,Defensive Midfield,"Aug 2, 1998 (18)",NA,NA,Italy,Atalanta BC,Serie A,2017/2018,2017
-78,Defensive Midfield,"Nov 10, 1999 (17)",NA,NA,Italy,Atalanta BC,Serie A,2017/2018,2017
-15,Central Midfield,"Mar 29, 1991 (26)",NA,NA,Netherlands,Atalanta BC,Serie A,2017/2018,2017
-11,Central Midfield,"Apr 15, 1992 (25)",NA,NA,Switzerland,Atalanta BC,Serie A,2017/2018,2017
-27,Central Midfield,"Jan 10, 1989 (28)",NA,NA,Slovenia,Atalanta BC,Serie A,2017/2018,2017
-4,Central Midfield,"Mar 3, 1995 (22)",NA,NA,Italy,Atalanta BC,Serie A,2017/2018,2017
-19,Central Midfield,"Apr 24, 1992 (25)",NA,NA,Italy,Atalanta BC,Serie A,2017/2018,2017
-32,Central Midfield,"Jan 23, 1996 (21)",NA,NA,Switzerland,Atalanta BC,Serie A,2017/2018,2017
-40,Central Midfield,"Apr 21, 1997 (20)",NA,NA,Italy,Atalanta BC,Serie A,2017/2018,2017
-23,Central Midfield,"Feb 18, 1999 (18)",NA,NA,Italy,Atalanta BC,Serie A,2017/2018,2017
-52,Central Midfield,"May 11, 1999 (18)",NA,NA,Italy,Atalanta BC,Serie A,2017/2018,2017
-44,Central Midfield,"Apr 25, 2000 (17)",NA,NA,Sweden,Atalanta BC,Serie A,2017/2018,2017
-7,Right Winger,"Jan 24, 1997 (20)",NA,NA,Italy,Atalanta BC,Serie A,2017/2018,2017
-45,Right Winger,"Jan 2, 1999 (18)",NA,NA,Cote d'Ivoire,Atalanta BC,Serie A,2017/2018,2017
-97,Right Winger,"Jun 30, 1999 (18)",NA,NA,Italy,Atalanta BC,Serie A,2017/2018,2017
-53,Right Winger,"Jan 24, 2000 (17)",NA,NA,Italy,Atalanta BC,Serie A,2017/2018,2017
-10,Second Striker,"Feb 15, 1988 (29)",NA,NA,Argentina,Atalanta BC,Serie A,2017/2018,2017
-72,Second Striker,"Jan 29, 1988 (29)",NA,NA,Slovenia,Atalanta BC,Serie A,2017/2018,2017
-29,Centre-Forward,"Jun 30, 1995 (22)",NA,NA,Italy,Atalanta BC,Serie A,2017/2018,2017
-9,Centre-Forward,"Mar 16, 1993 (24)",NA,NA,Denmark,Atalanta BC,Serie A,2017/2018,2017
-20,Centre-Forward,"Feb 3, 1997 (20)",NA,NA,Italy,Atalanta BC,Serie A,2017/2018,2017
-99,Centre-Forward,"Nov 14, 1998 (18)",NA,NA,The Gambia,Atalanta BC,Serie A,2017/2018,2017
-47,Goalkeeper,"Jan 27, 1987 (30)",NA,NA,Italy,US Sassuolo,Serie A,2017/2018,2017
-77,Goalkeeper,"Mar 25, 1981 (36)",NA,NA,Italy,US Sassuolo,Serie A,2017/2018,2017
-76,Goalkeeper,"May 20, 1999 (18)",NA,NA,Italy,US Sassuolo,Serie A,2017/2018,2017
-70,Goalkeeper,"Jan 5, 1998 (19)",NA,NA,Italy,US Sassuolo,Serie A,2017/2018,2017
-15,Centre-Back,"Feb 10, 1988 (29)",NA,NA,Italy,US Sassuolo,Serie A,2017/2018,2017
-5,Centre-Back,"Dec 28, 1995 (21)",NA,NA,Uruguay,US Sassuolo,Serie A,2017/2018,2017
-55,Centre-Back,"May 25, 1993 (24)",NA,NA,Netherlands,US Sassuolo,Serie A,2017/2018,2017
-24,Centre-Back,"Nov 2, 1993 (23)",NA,NA,Italy,US Sassuolo,Serie A,2017/2018,2017
-5,Centre-Back,"Apr 19, 1992 (25)",NA,NA,Italy,US Sassuolo,Serie A,2017/2018,2017
-19,Centre-Back,"Mar 26, 1998 (19)",NA,NA,Italy,US Sassuolo,Serie A,2017/2018,2017
-28,Centre-Back,"Jun 26, 1981 (36)",NA,NA,Italy,US Sassuolo,Serie A,2017/2018,2017
-38,Centre-Back,"Jan 24, 1998 (19)",NA,NA,Croatia,US Sassuolo,Serie A,2017/2018,2017
-38,Centre-Back,"Jun 25, 1998 (19)",NA,NA,Italy,US Sassuolo,Serie A,2017/2018,2017
-13,Left-Back,"Jan 20, 1984 (33)",NA,NA,Italy,US Sassuolo,Serie A,2017/2018,2017
-39,Left-Back,"Feb 10, 1994 (23)",NA,NA,Italy,US Sassuolo,Serie A,2017/2018,2017
-26,Left-Back,"Jan 13, 1998 (19)",NA,NA,Brazil,US Sassuolo,Serie A,2017/2018,2017
-21,Right-Back,"Aug 13, 1997 (19)",NA,NA,Spain,US Sassuolo,Serie A,2017/2018,2017
-98,Right-Back,"May 6, 1998 (19)",NA,NA,Italy,US Sassuolo,Serie A,2017/2018,2017
-23,Right-Back,"Apr 3, 1985 (32)",NA,NA,Italy,US Sassuolo,Serie A,2017/2018,2017
-7,Defensive Midfield,"May 23, 1986 (31)",NA,NA,Italy,US Sassuolo,Serie A,2017/2018,2017
-4,Defensive Midfield,"Nov 12, 1984 (32)",NA,NA,Italy,US Sassuolo,Serie A,2017/2018,2017
-32,Central Midfield,"Mar 10, 1993 (24)",NA,NA,Ghana,US Sassuolo,Serie A,2017/2018,2017
-12,Central Midfield,"Aug 5, 1995 (21)",NA,NA,Italy,US Sassuolo,Serie A,2017/2018,2017
-6,Central Midfield,"Nov 15, 1995 (21)",NA,NA,Italy,US Sassuolo,Serie A,2017/2018,2017
-29,Central Midfield,"Jul 16, 1997 (19)",NA,NA,Italy,US Sassuolo,Serie A,2017/2018,2017
-8,Central Midfield,"Jan 24, 1983 (34)",NA,NA,Italy,US Sassuolo,Serie A,2017/2018,2017
-22,Central Midfield,"Sep 22, 1999 (17)",NA,NA,Italy,US Sassuolo,Serie A,2017/2018,2017
-23,Central Midfield,"Feb 9, 1998 (19)",NA,NA,Italy,US Sassuolo,Serie A,2017/2018,2017
-90,Left Winger,"Mar 27, 1990 (27)",NA,NA,Italy,US Sassuolo,Serie A,2017/2018,2017
-17,Left Winger,"Aug 6, 1998 (18)",NA,NA,Italy,US Sassuolo,Serie A,2017/2018,2017
-25,Right Winger,"Aug 1, 1994 (22)",NA,NA,Italy,US Sassuolo,Serie A,2017/2018,2017
-16,Right Winger,"Aug 3, 1993 (23)",NA,NA,Italy,US Sassuolo,Serie A,2017/2018,2017
-20,Right Winger,"May 27, 1994 (23)",NA,NA,Italy,US Sassuolo,Serie A,2017/2018,2017
-30,Centre-Forward,"Mar 17, 1993 (24)",NA,NA,Senegal,US Sassuolo,Serie A,2017/2018,2017
-11,Centre-Forward,"Jun 26, 1991 (26)",NA,NA,Italy,US Sassuolo,Serie A,2017/2018,2017
-9,Centre-Forward,"Mar 6, 1992 (25)",NA,NA,Italy,US Sassuolo,Serie A,2017/2018,2017
-10,Centre-Forward,"Aug 19, 1984 (32)",NA,NA,Italy,US Sassuolo,Serie A,2017/2018,2017
-14,Centre-Forward,"Jan 1, 1999 (18)",NA,NA,Italy,US Sassuolo,Serie A,2017/2018,2017
-20,Centre-Forward,"Feb 18, 2000 (17)",NA,NA,Italy,US Sassuolo,Serie A,2017/2018,2017
-2,Goalkeeper,"Dec 1, 1985 (31)",NA,NA,Italy,UC Sampdoria,Serie A,2017/2018,2017
-72,Goalkeeper,"Jun 6, 1990 (27)",NA,NA,Slovenia,UC Sampdoria,Serie A,2017/2018,2017
-1,Goalkeeper,"Jan 17, 1981 (36)",NA,NA,Italy,UC Sampdoria,Serie A,2017/2018,2017
-92,Goalkeeper,"Aug 30, 1992 (24)",NA,NA,Italy,UC Sampdoria,Serie A,2017/2018,2017
-12,Goalkeeper,"Jan 3, 1999 (18)",NA,NA,Lithuania,UC Sampdoria,Serie A,2017/2018,2017
-22,Goalkeeper,"Jul 1, 2000 (17)",NA,NA,Hungary,UC Sampdoria,Serie A,2017/2018,2017
-13,Centre-Back,"May 15, 1992 (25)",NA,NA,Italy,UC Sampdoria,Serie A,2017/2018,2017
-19,Centre-Back,"Sep 9, 1990 (26)",NA,NA,Italy,UC Sampdoria,Serie A,2017/2018,2017
-26,Centre-Back,"Sep 25, 1984 (32)",NA,NA,Argentina,UC Sampdoria,Serie A,2017/2018,2017
-3,Centre-Back,"May 31, 1996 (21)",NA,NA,Denmark,UC Sampdoria,Serie A,2017/2018,2017
-22,Centre-Back,"Feb 15, 1997 (20)",NA,NA,France,UC Sampdoria,Serie A,2017/2018,2017
-17,Left-Back,"Jul 17, 1987 (29)",NA,NA,Croatia,UC Sampdoria,Serie A,2017/2018,2017
-6,Left-Back,"Feb 6, 1992 (25)",NA,NA,Brazil,UC Sampdoria,Serie A,2017/2018,2017
-29,Left-Back,"Dec 16, 1994 (22)",NA,NA,Italy,UC Sampdoria,Serie A,2017/2018,2017
-20,Left-Back,"Apr 22, 1988 (29)",NA,NA,Bosnia-Herzegovina,UC Sampdoria,Serie A,2017/2018,2017
-7,Right-Back,"Dec 5, 1991 (25)",NA,NA,Italy,UC Sampdoria,Serie A,2017/2018,2017
-24,Right-Back,"Jul 12, 1992 (24)",NA,NA,Poland,UC Sampdoria,Serie A,2017/2018,2017
-31,Right-Back,"Oct 15, 2002 (14)",NA,NA,Italy,UC Sampdoria,Serie A,2017/2018,2017
-34,Defensive Midfield,"Feb 11, 1996 (21)",NA,NA,Uruguay,UC Sampdoria,Serie A,2017/2018,2017
-28,Defensive Midfield,"Mar 29, 1995 (22)",NA,NA,Italy,UC Sampdoria,Serie A,2017/2018,2017
-18,Central Midfield,"May 14, 1994 (23)",NA,NA,Belgium,UC Sampdoria,Serie A,2017/2018,2017
-16,Central Midfield,"Feb 2, 1995 (22)",NA,NA,Poland,UC Sampdoria,Serie A,2017/2018,2017
-21,Central Midfield,"Jan 11, 1994 (23)",NA,NA,Italy,UC Sampdoria,Serie A,2017/2018,2017
-95,Central Midfield,"Feb 26, 1995 (22)",NA,NA,Slovakia,UC Sampdoria,Serie A,2017/2018,2017
-8,Central Midfield,"Jul 15, 1984 (32)",NA,NA,Paraguay,UC Sampdoria,Serie A,2017/2018,2017
-30,Central Midfield,"Oct 1, 1999 (17)",NA,NA,Italy,UC Sampdoria,Serie A,2017/2018,2017
-15,Right Midfield,"Mar 30, 1999 (18)",NA,NA,Slovakia,UC Sampdoria,Serie A,2017/2018,2017
-90,Attacking Midfield,"Dec 2, 1990 (26)",NA,NA,Uruguay,UC Sampdoria,Serie A,2017/2018,2017
-11,Attacking Midfield,"Apr 12, 1988 (29)",NA,NA,Argentina,UC Sampdoria,Serie A,2017/2018,2017
-10,Left Winger,"Jan 30, 1992 (25)",NA,NA,Serbia,UC Sampdoria,Serie A,2017/2018,2017
-23,Left Winger,"Oct 10, 1999 (17)",NA,NA,Guinea-Bissau,UC Sampdoria,Serie A,2017/2018,2017
-14,Left Winger,"Oct 22, 1999 (17)",NA,NA,Montenegro,UC Sampdoria,Serie A,2017/2018,2017
-9,Second Striker,"Jul 30, 1993 (23)",NA,NA,Italy,UC Sampdoria,Serie A,2017/2018,2017
-14,Centre-Forward,"Jan 24, 1996 (21)",NA,NA,Czech Republic,UC Sampdoria,Serie A,2017/2018,2017
-91,Centre-Forward,"Apr 1, 1991 (26)",NA,NA,Colombia,UC Sampdoria,Serie A,2017/2018,2017
-27,Centre-Forward,"Jan 31, 1983 (34)",NA,NA,Italy,UC Sampdoria,Serie A,2017/2018,2017
-97,Centre-Forward,"May 21, 1997 (20)",NA,NA,Italy,UC Sampdoria,Serie A,2017/2018,2017
-99,Centre-Forward,"Mar 14, 1997 (20)",NA,NA,Poland,UC Sampdoria,Serie A,2017/2018,2017
-25,Centre-Forward,"Mar 23, 1999 (18)",NA,NA,Spain,UC Sampdoria,Serie A,2017/2018,2017
-1,Goalkeeper,"Nov 10, 1992 (24)",NA,NA,Italy,Genoa CFC,Serie A,2017/2018,2017
-23,Goalkeeper,"Aug 7, 1989 (27)",NA,NA,Italy,Genoa CFC,Serie A,2017/2018,2017
-38,Goalkeeper,"Jan 9, 1994 (23)",NA,NA,Czech Republic,Genoa CFC,Serie A,2017/2018,2017
-68,Goalkeeper,"Jul 6, 1999 (17)",NA,NA,Italy,Genoa CFC,Serie A,2017/2018,2017
-5,Centre-Back,"Mar 2, 1992 (25)",NA,NA,Italy,Genoa CFC,Serie A,2017/2018,2017
-87,Centre-Back,"Feb 11, 1987 (30)",NA,NA,Bosnia-Herzegovina,Genoa CFC,Serie A,2017/2018,2017
-13,Centre-Back,"May 9, 1985 (32)",NA,NA,Italy,Genoa CFC,Serie A,2017/2018,2017
-33,Centre-Back,"May 5, 1992 (25)",NA,NA,France,Genoa CFC,Serie A,2017/2018,2017
-14,Centre-Back,"Jul 2, 1994 (22)",NA,NA,Italy,Genoa CFC,Serie A,2017/2018,2017
-2,Centre-Back,"Feb 20, 1983 (34)",NA,NA,Argentina,Genoa CFC,Serie A,2017/2018,2017
-3,Centre-Back,"Jan 9, 1985 (32)",NA,NA,Argentina,Genoa CFC,Serie A,2017/2018,2017
-17,Centre-Back,"Feb 29, 1992 (25)",NA,NA,Morocco,Genoa CFC,Serie A,2017/2018,2017
-18,Left-Back,"Apr 17, 1988 (29)",NA,NA,Italy,Genoa CFC,Serie A,2017/2018,2017
-28,Left-Back,"Mar 17, 1988 (29)",NA,NA,Italy,Genoa CFC,Serie A,2017/2018,2017
-72,Left-Back,"Jan 4, 1998 (19)",NA,NA,Romania,Genoa CFC,Serie A,2017/2018,2017
-32,Right-Back,"Jan 22, 1998 (19)",NA,NA,Portugal,Genoa CFC,Serie A,2017/2018,2017
-20,Right-Back,"May 17, 1987 (30)",NA,NA,Italy,Genoa CFC,Serie A,2017/2018,2017
-15,Right-Back,"Apr 27, 2000 (17)",NA,NA,Italy,Genoa CFC,Serie A,2017/2018,2017
-44,Defensive Midfield,"May 11, 1986 (31)",NA,NA,Portugal,Genoa CFC,Serie A,2017/2018,2017
-8,Central Midfield,"Jan 11, 1991 (26)",NA,NA,Italy,Genoa CFC,Serie A,2017/2018,2017
-24,Central Midfield,"Jan 14, 1993 (24)",NA,NA,Italy,Genoa CFC,Serie A,2017/2018,2017
-88,Central Midfield,"Jun 28, 1992 (25)",NA,NA,Sweden,Genoa CFC,Serie A,2017/2018,2017
-30,Central Midfield,"Dec 7, 1984 (32)",NA,NA,Italy,Genoa CFC,Serie A,2017/2018,2017
-4,Central Midfield,"Sep 20, 1991 (25)",NA,NA,Ghana,Genoa CFC,Serie A,2017/2018,2017
-21,Central Midfield,"Jan 29, 1994 (23)",NA,NA,Croatia,Genoa CFC,Serie A,2017/2018,2017
-40,Central Midfield,"Mar 27, 1996 (21)",NA,NA,Belgium,Genoa CFC,Serie A,2017/2018,2017
-22,Right Midfield,"Sep 15, 1990 (26)",NA,NA,Serbia,Genoa CFC,Serie A,2017/2018,2017
-93,Left Midfield,"Feb 7, 1993 (24)",NA,NA,Uruguay,Genoa CFC,Serie A,2017/2018,2017
-11,Attacking Midfield,"May 24, 1989 (28)",NA,NA,Morocco,Genoa CFC,Serie A,2017/2018,2017
-9,Left Winger,"Jan 19, 1993 (24)",NA,NA,Argentina,Genoa CFC,Serie A,2017/2018,2017
-99,Left Winger,"Dec 19, 1994 (22)",NA,NA,Serbia,Genoa CFC,Serie A,2017/2018,2017
-17,Left Winger,"Apr 17, 1984 (33)",NA,NA,Italy,Genoa CFC,Serie A,2017/2018,2017
-NA,Left Winger,"May 20, 1994 (23)",NA,NA,France,Genoa CFC,Serie A,2017/2018,2017
-45,Right Winger,"Jul 10, 1994 (22)",NA,NA,Portugal,Genoa CFC,Serie A,2017/2018,2017
-27,Right Winger,"May 27, 1994 (23)",NA,NA,Italy,Genoa CFC,Serie A,2017/2018,2017
-25,Right Winger,"Apr 5, 1996 (21)",NA,NA,Argentina,Genoa CFC,Serie A,2017/2018,2017
-98,Right Winger,"Jul 19, 1998 (18)",NA,NA,Italy,Genoa CFC,Serie A,2017/2018,2017
-19,Second Striker,"Jul 27, 1983 (33)",NA,NA,North Macedonia,Genoa CFC,Serie A,2017/2018,2017
-NA,Centre-Forward,"Jul 5, 1995 (21)",NA,NA,Argentina,Genoa CFC,Serie A,2017/2018,2017
-10,Centre-Forward,"Feb 7, 1990 (27)",NA,NA,Italy,Genoa CFC,Serie A,2017/2018,2017
-49,Centre-Forward,"Feb 1, 1987 (30)",NA,NA,Italy,Genoa CFC,Serie A,2017/2018,2017
-16,Centre-Forward,"Nov 13, 1988 (28)",NA,NA,Bulgaria,Genoa CFC,Serie A,2017/2018,2017
-64,Centre-Forward,"Mar 17, 2001 (16)",NA,NA,Italy,Genoa CFC,Serie A,2017/2018,2017
-74,Centre-Forward,"Oct 1, 2001 (15)",NA,NA,Italy,Genoa CFC,Serie A,2017/2018,2017
-22,Goalkeeper,"May 31, 1996 (21)",NA,NA,Italy,Udinese Calcio,Serie A,2017/2018,2017
-31,Goalkeeper,"Jul 11, 1985 (31)",NA,NA,Greece,Udinese Calcio,Serie A,2017/2018,2017
-1,Goalkeeper,"Nov 9, 1977 (39)",NA,NA,Argentina,Udinese Calcio,Serie A,2017/2018,2017
-25,Goalkeeper,"Jan 4, 1999 (18)",NA,NA,Italy,Udinese Calcio,Serie A,2017/2018,2017
-62,Goalkeeper,"May 19, 2002 (15)",NA,NA,Italy,Udinese Calcio,Serie A,2017/2018,2017
-67,Goalkeeper,"Sep 1, 2001 (15)",NA,NA,Italy,Udinese Calcio,Serie A,2017/2018,2017
-3,Centre-Back,"Dec 5, 1994 (22)",NA,NA,Brazil,Udinese Calcio,Serie A,2017/2018,2017
-5,Centre-Back,"May 10, 1984 (33)",NA,NA,Brazil,Udinese Calcio,Serie A,2017/2018,2017
-17,Centre-Back,"May 4, 1990 (27)",NA,NA,Netherlands,Udinese Calcio,Serie A,2017/2018,2017
-2,Centre-Back,"Feb 21, 1991 (26)",NA,NA,Mali,Udinese Calcio,Serie A,2017/2018,2017
-4,Centre-Back,"Apr 28, 1989 (28)",NA,NA,Italy,Udinese Calcio,Serie A,2017/2018,2017
-12,Centre-Back,"Jul 17, 1992 (24)",NA,NA,Croatia,Udinese Calcio,Serie A,2017/2018,2017
-55,Centre-Back,"Jan 30, 1996 (21)",NA,NA,Poland,Udinese Calcio,Serie A,2017/2018,2017
-65,Centre-Back,"Aug 11, 1999 (17)",NA,NA,Slovakia,Udinese Calcio,Serie A,2017/2018,2017
-63,Centre-Back,"Mar 20, 1999 (18)",NA,NA,Italy,Udinese Calcio,Serie A,2017/2018,2017
-53,Left-Back,"Dec 19, 1993 (23)",NA,NA,Iraq,Udinese Calcio,Serie A,2017/2018,2017
-97,Left-Back,"Nov 29, 1997 (19)",NA,NA,Italy,Udinese Calcio,Serie A,2017/2018,2017
-27,Right-Back,"Mar 5, 1993 (24)",NA,NA,Switzerland,Udinese Calcio,Serie A,2017/2018,2017
-11,Right-Back,"Sep 30, 1993 (23)",NA,NA,Italy,Udinese Calcio,Serie A,2017/2018,2017
-19,Right-Back,"Feb 21, 1991 (26)",NA,NA,Denmark,Udinese Calcio,Serie A,2017/2018,2017
-64,Right-Back,"Apr 28, 2000 (17)",NA,NA,Italy,Udinese Calcio,Serie A,2017/2018,2017
-85,Defensive Midfield,"Apr 19, 1985 (32)",NA,NA,Switzerland,Udinese Calcio,Serie A,2017/2018,2017
-21,Defensive Midfield,"Mar 20, 1997 (20)",NA,NA,Italy,Udinese Calcio,Serie A,2017/2018,2017
-14,Central Midfield,"Jan 19, 1996 (21)",NA,NA,Czech Republic,Udinese Calcio,Serie A,2017/2018,2017
-6,Central Midfield,"May 7, 1995 (22)",NA,NA,Cote d'Ivoire,Udinese Calcio,Serie A,2017/2018,2017
-99,Central Midfield,"Aug 11, 1997 (19)",NA,NA,Croatia,Udinese Calcio,Serie A,2017/2018,2017
-72,Central Midfield,"Dec 3, 1994 (22)",NA,NA,Czech Republic,Udinese Calcio,Serie A,2017/2018,2017
-23,Central Midfield,"Jun 29, 1984 (33)",NA,NA,Iceland,Udinese Calcio,Serie A,2017/2018,2017
-16,Central Midfield,"Mar 26, 1994 (23)",NA,NA,Argentina,Udinese Calcio,Serie A,2017/2018,2017
-60,Central Midfield,"Aug 28, 1998 (18)",NA,NA,Bosnia-Herzegovina,Udinese Calcio,Serie A,2017/2018,2017
-69,Central Midfield,"May 20, 1999 (18)",NA,NA,Albania,Udinese Calcio,Serie A,2017/2018,2017
-95,Attacking Midfield,"May 10, 1995 (22)",NA,NA,Colombia,Udinese Calcio,Serie A,2017/2018,2017
-61,Attacking Midfield,"Feb 1, 1998 (19)",NA,NA,Spain,Udinese Calcio,Serie A,2017/2018,2017
-10,Left Winger,"May 24, 1994 (23)",NA,NA,Argentina,Udinese Calcio,Serie A,2017/2018,2017
-96,Right Winger,"Mar 15, 1996 (21)",NA,NA,Brazil,Udinese Calcio,Serie A,2017/2018,2017
-11,Right Winger,"Apr 3, 1998 (19)",NA,NA,Mali,Udinese Calcio,Serie A,2017/2018,2017
-13,Right Winger,"Jun 14, 1998 (19)",NA,NA,Sweden,Udinese Calcio,Serie A,2017/2018,2017
-66,Right Winger,"Jul 1, 1996 (21)",NA,NA,Morocco,Udinese Calcio,Serie A,2017/2018,2017
-7,Second Striker,"Feb 27, 1993 (24)",NA,NA,Brazil,Udinese Calcio,Serie A,2017/2018,2017
-77,Second Striker,"Apr 24, 1983 (34)",NA,NA,France,Udinese Calcio,Serie A,2017/2018,2017
-68,Second Striker,"Jan 1, 1999 (18)",NA,NA,Cote d'Ivoire,Udinese Calcio,Serie A,2017/2018,2017
-9,Centre-Forward,"May 6, 1994 (23)",NA,NA,Bosnia-Herzegovina,Udinese Calcio,Serie A,2017/2018,2017
-15,Centre-Forward,"Aug 10, 1992 (24)",NA,NA,Italy,Udinese Calcio,Serie A,2017/2018,2017
-18,Centre-Forward,"Jul 7, 1995 (21)",NA,NA,Croatia,Udinese Calcio,Serie A,2017/2018,2017
-94,Centre-Forward,"Oct 1, 1994 (22)",NA,NA,Uruguay,Udinese Calcio,Serie A,2017/2018,2017
-20,Centre-Forward,"Apr 3, 1984 (33)",NA,NA,Argentina,Udinese Calcio,Serie A,2017/2018,2017
-83,Goalkeeper,"Jul 8, 1983 (33)",NA,NA,Italy,Bologna FC 1909,Serie A,2017/2018,2017
-1,Goalkeeper,"Nov 12, 1983 (33)",NA,NA,Brazil,Bologna FC 1909,Serie A,2017/2018,2017
-29,Goalkeeper,"Feb 29, 1992 (25)",NA,NA,Italy,Bologna FC 1909,Serie A,2017/2018,2017
-34,Goalkeeper,"Nov 11, 1999 (17)",NA,NA,Italy,Bologna FC 1909,Serie A,2017/2018,2017
-30,Goalkeeper,"Apr 10, 2001 (16)",NA,NA,Italy,Bologna FC 1909,Serie A,2017/2018,2017
-31,Goalkeeper,"Jan 31, 2000 (17)",NA,NA,Italy,Bologna FC 1909,Serie A,2017/2018,2017
-3,Centre-Back,"Feb 8, 1988 (29)",NA,NA,Costa Rica,Bologna FC 1909,Serie A,2017/2018,2017
-26,Centre-Back,"Feb 9, 1990 (27)",NA,NA,Italy,Bologna FC 1909,Serie A,2017/2018,2017
-6,Centre-Back,"Mar 5, 1987 (30)",NA,NA,France,Bologna FC 1909,Serie A,2017/2018,2017
-18,Centre-Back,"Apr 22, 1993 (24)",NA,NA,Sweden,Bologna FC 1909,Serie A,2017/2018,2017
-28,Centre-Back,"Jun 25, 1983 (34)",NA,NA,Italy,Bologna FC 1909,Serie A,2017/2018,2017
-20,Centre-Back,"Aug 3, 1982 (34)",NA,NA,Italy,Bologna FC 1909,Serie A,2017/2018,2017
-13,Centre-Back,"Jan 13, 1998 (19)",NA,NA,Italy,Bologna FC 1909,Serie A,2017/2018,2017
-25,Left-Back,"Jan 2, 1994 (23)",NA,NA,Italy,Bologna FC 1909,Serie A,2017/2018,2017
-33,Left-Back,"Apr 16, 1996 (21)",NA,NA,Mali,Bologna FC 1909,Serie A,2017/2018,2017
-42,Left-Back,"Jun 24, 1999 (18)",NA,NA,Italy,Bologna FC 1909,Serie A,2017/2018,2017
-15,Right-Back,"Nov 19, 1994 (22)",NA,NA,Senegal,Bologna FC 1909,Serie A,2017/2018,2017
-4,Right-Back,"Aug 2, 1994 (22)",NA,NA,Sweden,Bologna FC 1909,Serie A,2017/2018,2017
-35,Right-Back,"Jun 10, 1985 (32)",NA,NA,Greece,Bologna FC 1909,Serie A,2017/2018,2017
-2,Defensive Midfield,"Jun 17, 1995 (22)",NA,NA,Hungary,Bologna FC 1909,Serie A,2017/2018,2017
-12,Defensive Midfield,"Jan 20, 1993 (24)",NA,NA,Italy,Bologna FC 1909,Serie A,2017/2018,2017
-5,Defensive Midfield,"Jan 15, 1994 (23)",NA,NA,Chile,Bologna FC 1909,Serie A,2017/2018,2017
-8,Central Midfield,"Feb 29, 1992 (25)",NA,NA,Algeria,Bologna FC 1909,Serie A,2017/2018,2017
-77,Central Midfield,"Jun 7, 1996 (21)",NA,NA,Ghana,Bologna FC 1909,Serie A,2017/2018,2017
-16,Central Midfield,"Sep 29, 1989 (27)",NA,NA,Italy,Bologna FC 1909,Serie A,2017/2018,2017
-7,Central Midfield,"Apr 12, 1986 (31)",NA,NA,Switzerland,Bologna FC 1909,Serie A,2017/2018,2017
-22,Central Midfield,"Aug 26, 1999 (17)",NA,NA,Nigeria,Bologna FC 1909,Serie A,2017/2018,2017
-21,Attacking Midfield,"Dec 2, 1992 (24)",NA,NA,Uruguay,Bologna FC 1909,Serie A,2017/2018,2017
-17,Attacking Midfield,"Jun 20, 1998 (19)",NA,NA,Colombia,Bologna FC 1909,Serie A,2017/2018,2017
-11,Left Winger,"Jul 5, 1992 (24)",NA,NA,Czech Republic,Bologna FC 1909,Serie A,2017/2018,2017
-14,Left Winger,"Jun 14, 1994 (23)",NA,NA,Italy,Bologna FC 1909,Serie A,2017/2018,2017
-26,Left Winger,"Sep 27, 1987 (29)",NA,NA,France,Bologna FC 1909,Serie A,2017/2018,2017
-30,Left Winger,"Jan 19, 1998 (19)",NA,NA,Nigeria,Bologna FC 1909,Serie A,2017/2018,2017
-9,Right Winger,"Jul 12, 1992 (24)",NA,NA,Italy,Bologna FC 1909,Serie A,2017/2018,2017
-8,Right Winger,"Jan 24, 1997 (20)",NA,NA,Italy,Bologna FC 1909,Serie A,2017/2018,2017
-92,Second Striker,"Feb 11, 1992 (25)",NA,NA,Italy,Bologna FC 1909,Serie A,2017/2018,2017
-NA,Second Striker,"Jan 6, 1999 (18)",NA,NA,Italy,Bologna FC 1909,Serie A,2017/2018,2017
-10,Centre-Forward,"Mar 20, 1991 (26)",NA,NA,Italy,Bologna FC 1909,Serie A,2017/2018,2017
-19,Centre-Forward,"Apr 26, 1993 (24)",NA,NA,Uruguay,Bologna FC 1909,Serie A,2017/2018,2017
-7,Centre-Forward,"Sep 16, 1994 (22)",NA,NA,Croatia,Bologna FC 1909,Serie A,2017/2018,2017
-24,Centre-Forward,"Feb 5, 1982 (35)",NA,NA,Argentina,Bologna FC 1909,Serie A,2017/2018,2017
-28,Goalkeeper,"Jun 28, 1994 (23)",NA,NA,Italy,Cagliari Calcio,Serie A,2017/2018,2017
-1,Goalkeeper,"Mar 3, 1982 (35)",NA,NA,Brazil,Cagliari Calcio,Serie A,2017/2018,2017
-26,Goalkeeper,"Feb 23, 1998 (19)",NA,NA,Italy,Cagliari Calcio,Serie A,2017/2018,2017
-29,Goalkeeper,"Jan 13, 2000 (17)",NA,NA,Italy,Cagliari Calcio,Serie A,2017/2018,2017
-40,Goalkeeper,"Feb 11, 2001 (16)",NA,NA,Italy,Cagliari Calcio,Serie A,2017/2018,2017
-15,Centre-Back,"Nov 5, 1986 (30)",NA,NA,Brazil,Cagliari Calcio,Serie A,2017/2018,2017
-3,Centre-Back,"Jun 10, 1986 (31)",NA,NA,Italy,Cagliari Calcio,Serie A,2017/2018,2017
-23,Centre-Back,"Aug 11, 1989 (27)",NA,NA,Italy,Cagliari Calcio,Serie A,2017/2018,2017
-56,Centre-Back,"May 26, 1997 (20)",NA,NA,Italy,Cagliari Calcio,Serie A,2017/2018,2017
-19,Centre-Back,"Jan 28, 1986 (31)",NA,NA,Italy,Cagliari Calcio,Serie A,2017/2018,2017
-24,Centre-Back,"Oct 14, 1991 (25)",NA,NA,Italy,Cagliari Calcio,Serie A,2017/2018,2017
-41,Centre-Back,"Jun 5, 1999 (18)",NA,NA,Italy,Cagliari Calcio,Serie A,2017/2018,2017
-34,Centre-Back,"Feb 26, 1999 (18)",NA,NA,Denmark,Cagliari Calcio,Serie A,2017/2018,2017
-12,Left-Back,"Feb 5, 1997 (20)",NA,NA,Belgium,Cagliari Calcio,Serie A,2017/2018,2017
-22,Left-Back,"Oct 22, 1993 (23)",NA,NA,Greece,Cagliari Calcio,Serie A,2017/2018,2017
-39,Left-Back,"Apr 4, 2000 (17)",NA,NA,Italy,Cagliari Calcio,Serie A,2017/2018,2017
-2,Right-Back,"Feb 3, 1988 (29)",NA,NA,Netherlands,Cagliari Calcio,Serie A,2017/2018,2017
-30,Right-Back,"Jun 13, 1986 (31)",NA,NA,Italy,Cagliari Calcio,Serie A,2017/2018,2017
-33,Right-Back,"Dec 23, 2000 (16)",NA,NA,Cote d'Ivoire,Cagliari Calcio,Serie A,2017/2018,2017
-8,Defensive Midfield,"Jun 20, 1986 (31)",NA,NA,Italy,Cagliari Calcio,Serie A,2017/2018,2017
-37,Defensive Midfield,"Dec 20, 2000 (16)",NA,NA,Italy,Cagliari Calcio,Serie A,2017/2018,2017
-18,Central Midfield,"Feb 7, 1997 (20)",NA,NA,Italy,Cagliari Calcio,Serie A,2017/2018,2017
-21,Central Midfield,"Aug 17, 1990 (26)",NA,NA,Moldova,Cagliari Calcio,Serie A,2017/2018,2017
-16,Central Midfield,"Feb 12, 1993 (24)",NA,NA,Italy,Cagliari Calcio,Serie A,2017/2018,2017
-4,Central Midfield,"May 10, 1987 (30)",NA,NA,Italy,Cagliari Calcio,Serie A,2017/2018,2017
-27,Central Midfield,"Aug 1, 1995 (21)",NA,NA,Italy,Cagliari Calcio,Serie A,2017/2018,2017
-38,Central Midfield,"Apr 12, 2000 (17)",NA,NA,Italy,Cagliari Calcio,Serie A,2017/2018,2017
-36,Central Midfield,"May 30, 1999 (18)",NA,NA,Ghana,Cagliari Calcio,Serie A,2017/2018,2017
-20,Left Midfield,"Mar 18, 1984 (33)",NA,NA,Italy,Cagliari Calcio,Serie A,2017/2018,2017
-10,Attacking Midfield,"Mar 9, 1992 (25)",NA,NA,Brazil,Cagliari Calcio,Serie A,2017/2018,2017
-7,Attacking Midfield,"May 3, 1980 (37)",NA,NA,Italy,Cagliari Calcio,Serie A,2017/2018,2017
-17,Second Striker,"May 10, 1990 (27)",NA,NA,Brazil,Cagliari Calcio,Serie A,2017/2018,2017
-30,Centre-Forward,"Nov 26, 1988 (28)",NA,NA,Italy,Cagliari Calcio,Serie A,2017/2018,2017
-25,Centre-Forward,"Nov 3, 1987 (29)",NA,NA,Italy,Cagliari Calcio,Serie A,2017/2018,2017
-90,Centre-Forward,"Feb 1, 1990 (27)",NA,NA,Croatia,Cagliari Calcio,Serie A,2017/2018,2017
-36,Centre-Forward,"Jan 6, 1987 (30)",NA,NA,Italy,Cagliari Calcio,Serie A,2017/2018,2017
-9,Centre-Forward,"May 12, 1991 (26)",NA,NA,Italy,Cagliari Calcio,Serie A,2017/2018,2017
-NA,Centre-Forward,"Jun 18, 1982 (35)",NA,NA,Italy,Cagliari Calcio,Serie A,2017/2018,2017
-32,Centre-Forward,"Sep 11, 1998 (18)",NA,NA,"Korea, North",Cagliari Calcio,Serie A,2017/2018,2017
-24,Centre-Forward,"Nov 2, 1997 (19)",NA,NA,Colombia,Cagliari Calcio,Serie A,2017/2018,2017
-35,Centre-Forward,"Jul 14, 2000 (16)",NA,NA,Italy,Cagliari Calcio,Serie A,2017/2018,2017
-1,Goalkeeper,"Jun 6, 1990 (27)",NA,NA,Slovenia,Benevento Calcio,Serie A,2017/2018,2017
-22,Goalkeeper,"Aug 19, 1991 (25)",NA,NA,Italy,Benevento Calcio,Serie A,2017/2018,2017
-81,Goalkeeper,"Jan 17, 1981 (36)",NA,NA,Italy,Benevento Calcio,Serie A,2017/2018,2017
-12,Goalkeeper,"Oct 10, 1993 (23)",NA,NA,Italy,Benevento Calcio,Serie A,2017/2018,2017
-40,Goalkeeper,"May 29, 2000 (17)",NA,NA,Switzerland,Benevento Calcio,Serie A,2017/2018,2017
-80,Goalkeeper,"Jul 21, 2000 (16)",NA,NA,Italy,Benevento Calcio,Serie A,2017/2018,2017
-21,Centre-Back,"Feb 1, 1986 (31)",NA,NA,Italy,Benevento Calcio,Serie A,2017/2018,2017
-88,Centre-Back,"Apr 19, 1992 (25)",NA,NA,Italy,Benevento Calcio,Serie A,2017/2018,2017
-5,Centre-Back,"Sep 25, 1987 (29)",NA,NA,Italy,Benevento Calcio,Serie A,2017/2018,2017
-6,Centre-Back,"Feb 19, 1993 (24)",NA,NA,Albania,Benevento Calcio,Serie A,2017/2018,2017
-15,Centre-Back,"May 19, 1992 (25)",NA,NA,Italy,Benevento Calcio,Serie A,2017/2018,2017
-95,Centre-Back,"Feb 8, 1998 (19)",NA,NA,Guadeloupe,Benevento Calcio,Serie A,2017/2018,2017
-29,Centre-Back,"Dec 28, 1993 (23)",NA,NA,France,Benevento Calcio,Serie A,2017/2018,2017
-91,Centre-Back,"Aug 18, 1999 (17)",NA,NA,Italy,Benevento Calcio,Serie A,2017/2018,2017
-2,Centre-Back,"Jan 5, 1998 (19)",NA,NA,Spain,Benevento Calcio,Serie A,2017/2018,2017
-77,Left-Back,"Jan 22, 1992 (25)",NA,NA,Morocco,Benevento Calcio,Serie A,2017/2018,2017
-16,Left-Back,"Mar 14, 1992 (25)",NA,NA,Romania,Benevento Calcio,Serie A,2017/2018,2017
-17,Left-Back,"Dec 26, 1993 (23)",NA,NA,Italy,Benevento Calcio,Serie A,2017/2018,2017
-83,Right-Back,"Feb 14, 1983 (34)",NA,NA,France,Benevento Calcio,Serie A,2017/2018,2017
-3,Right-Back,"Jun 29, 1990 (27)",NA,NA,Italy,Benevento Calcio,Serie A,2017/2018,2017
-23,Right-Back,"Apr 12, 1995 (22)",NA,NA,Italy,Benevento Calcio,Serie A,2017/2018,2017
-18,Right-Back,"Jan 20, 1996 (21)",NA,NA,Ghana,Benevento Calcio,Serie A,2017/2018,2017
-30,Defensive Midfield,"Mar 15, 1989 (28)",NA,NA,Brazil,Benevento Calcio,Serie A,2017/2018,2017
-8,Central Midfield,"Aug 6, 1994 (22)",NA,NA,Italy,Benevento Calcio,Serie A,2017/2018,2017
-13,Central Midfield,"Mar 10, 1993 (24)",NA,NA,Ghana,Benevento Calcio,Serie A,2017/2018,2017
-20,Central Midfield,"Dec 7, 1986 (30)",NA,NA,Albania,Benevento Calcio,Serie A,2017/2018,2017
-14,Central Midfield,"Oct 12, 1989 (27)",NA,NA,Italy,Benevento Calcio,Serie A,2017/2018,2017
-27,Central Midfield,"Jul 12, 1989 (27)",NA,NA,Italy,Benevento Calcio,Serie A,2017/2018,2017
-4,Central Midfield,"Jun 17, 1990 (27)",NA,NA,Italy,Benevento Calcio,Serie A,2017/2018,2017
-73,Central Midfield,"Sep 24, 1999 (17)",NA,NA,Italy,Benevento Calcio,Serie A,2017/2018,2017
-98,Central Midfield,"Feb 16, 1998 (19)",NA,NA,Italy,Benevento Calcio,Serie A,2017/2018,2017
-60,Central Midfield,"Dec 21, 2001 (15)",NA,NA,Cote d'Ivoire,Benevento Calcio,Serie A,2017/2018,2017
-7,Right Midfield,"Feb 17, 1991 (26)",NA,NA,Italy,Benevento Calcio,Serie A,2017/2018,2017
-66,Attacking Midfield,"May 21, 1991 (26)",NA,NA,Brazil,Benevento Calcio,Serie A,2017/2018,2017
-31,Left Winger,"Jan 30, 1992 (25)",NA,NA,Serbia,Benevento Calcio,Serie A,2017/2018,2017
-24,Left Winger,"Oct 7, 1993 (23)",NA,NA,Senegal,Benevento Calcio,Serie A,2017/2018,2017
-10,Right Winger,"Dec 31, 1993 (23)",NA,NA,Italy,Benevento Calcio,Serie A,2017/2018,2017
-26,Right Winger,"Mar 25, 1996 (21)",NA,NA,Italy,Benevento Calcio,Serie A,2017/2018,2017
-87,Right Winger,"Aug 19, 1995 (21)",NA,NA,Italy,Benevento Calcio,Serie A,2017/2018,2017
-99,Second Striker,"Jul 8, 1999 (17)",NA,NA,Italy,Benevento Calcio,Serie A,2017/2018,2017
-25,Centre-Forward,"Apr 25, 1988 (29)",NA,NA,Mali,Benevento Calcio,Serie A,2017/2018,2017
-90,Centre-Forward,"May 27, 1990 (27)",NA,NA,Sweden,Benevento Calcio,Serie A,2017/2018,2017
-9,Centre-Forward,"Mar 5, 1987 (30)",NA,NA,Italy,Benevento Calcio,Serie A,2017/2018,2017
-11,Centre-Forward,"Nov 10, 1988 (28)",NA,NA,Italy,Benevento Calcio,Serie A,2017/2018,2017
-32,Centre-Forward,"Apr 8, 1996 (21)",NA,NA,Romania,Benevento Calcio,Serie A,2017/2018,2017
-33,Centre-Forward,"Mar 6, 1992 (25)",NA,NA,Italy,Benevento Calcio,Serie A,2017/2018,2017
-19,Centre-Forward,"Nov 14, 1988 (28)",NA,NA,Guinea,Benevento Calcio,Serie A,2017/2018,2017
-93,Centre-Forward,"Oct 31, 2000 (16)",NA,NA,Italy,Benevento Calcio,Serie A,2017/2018,2017
-70,Goalkeeper,"Mar 28, 1979 (38)",NA,NA,Italy,Chievo Verona,Serie A,2017/2018,2017
-90,Goalkeeper,"Jul 14, 1990 (26)",NA,NA,Italy,Chievo Verona,Serie A,2017/2018,2017
-98,Goalkeeper,"Jun 7, 1998 (19)",NA,NA,Italy,Chievo Verona,Serie A,2017/2018,2017
-1,Goalkeeper,"Aug 8, 1999 (17)",NA,NA,Italy,Chievo Verona,Serie A,2017/2018,2017
-40,Centre-Back,"Aug 30, 1987 (29)",NA,NA,Serbia,Chievo Verona,Serie A,2017/2018,2017
-14,Centre-Back,"Dec 10, 1993 (23)",NA,NA,Italy,Chievo Verona,Serie A,2017/2018,2017
-3,Centre-Back,"Jun 9, 1979 (38)",NA,NA,Italy,Chievo Verona,Serie A,2017/2018,2017
-5,Centre-Back,"Aug 27, 1981 (35)",NA,NA,Italy,Chievo Verona,Serie A,2017/2018,2017
-12,Centre-Back,"Jul 9, 1982 (34)",NA,NA,Slovenia,Chievo Verona,Serie A,2017/2018,2017
-16,Centre-Back,"Mar 7, 1991 (26)",NA,NA,Italy,Chievo Verona,Serie A,2017/2018,2017
-97,Centre-Back,"Jun 12, 1997 (20)",NA,NA,Serbia,Chievo Verona,Serie A,2017/2018,2017
-2,Left-Back,"Oct 2, 1994 (22)",NA,NA,Poland,Chievo Verona,Serie A,2017/2018,2017
-18,Left-Back,"Oct 31, 1980 (36)",NA,NA,Italy,Chievo Verona,Serie A,2017/2018,2017
-29,Right-Back,"Oct 8, 1986 (30)",NA,NA,Italy,Chievo Verona,Serie A,2017/2018,2017
-21,Right-Back,"Mar 6, 1984 (33)",NA,NA,France,Chievo Verona,Serie A,2017/2018,2017
-27,Right-Back,"Apr 24, 1997 (20)",NA,NA,Italy,Chievo Verona,Serie A,2017/2018,2017
-8,Defensive Midfield,"Aug 29, 1988 (28)",NA,NA,Serbia,Chievo Verona,Serie A,2017/2018,2017
-19,Central Midfield,"Apr 9, 1989 (28)",NA,NA,Argentina,Chievo Verona,Serie A,2017/2018,2017
-56,Central Midfield,"Dec 12, 1986 (30)",NA,NA,Finland,Chievo Verona,Serie A,2017/2018,2017
-4,Central Midfield,"Nov 12, 1990 (26)",NA,NA,Italy,Chievo Verona,Serie A,2017/2018,2017
-77,Central Midfield,"Sep 26, 1996 (20)",NA,NA,Belgium,Chievo Verona,Serie A,2017/2018,2017
-10,Central Midfield,"Nov 11, 1996 (20)",NA,NA,Germany,Chievo Verona,Serie A,2017/2018,2017
-15,Central Midfield,"Dec 8, 1989 (27)",NA,NA,Italy,Chievo Verona,Serie A,2017/2018,2017
-80,Central Midfield,"Oct 2, 1997 (19)",NA,NA,Morocco,Chievo Verona,Serie A,2017/2018,2017
-11,Central Midfield,"May 23, 1998 (19)",NA,NA,France,Chievo Verona,Serie A,2017/2018,2017
-17,Left Midfield,"May 5, 1985 (32)",NA,NA,Italy,Chievo Verona,Serie A,2017/2018,2017
-23,Attacking Midfield,"Aug 7, 1986 (30)",NA,NA,Slovenia,Chievo Verona,Serie A,2017/2018,2017
-7,Left Winger,"Feb 11, 1994 (23)",NA,NA,Italy,Chievo Verona,Serie A,2017/2018,2017
-17,Left Winger,"Sep 7, 1996 (20)",NA,NA,France,Chievo Verona,Serie A,2017/2018,2017
-55,Right Winger,"Aug 24, 2000 (16)",NA,NA,Italy,Chievo Verona,Serie A,2017/2018,2017
-20,Second Striker,"Jun 17, 1991 (26)",NA,NA,Italy,Chievo Verona,Serie A,2017/2018,2017
-69,Second Striker,"Sep 4, 1985 (31)",NA,NA,Italy,Chievo Verona,Serie A,2017/2018,2017
-45,Centre-Forward,"Nov 12, 1991 (25)",NA,NA,Italy,Chievo Verona,Serie A,2017/2018,2017
-9,Centre-Forward,"May 12, 1995 (22)",NA,NA,Poland,Chievo Verona,Serie A,2017/2018,2017
-22,Centre-Forward,"Jul 30, 1991 (25)",NA,NA,Spain,Chievo Verona,Serie A,2017/2018,2017
-31,Centre-Forward,"Apr 12, 1979 (38)",NA,NA,Italy,Chievo Verona,Serie A,2017/2018,2017
-97,Goalkeeper,"Mar 22, 1997 (20)",NA,NA,Italy,SPAL 2013,Serie A,2017/2018,2017
-1,Goalkeeper,"Sep 5, 1993 (23)",NA,NA,Senegal,SPAL 2013,Serie A,2017/2018,2017
-92,Goalkeeper,"Jun 3, 1996 (21)",NA,NA,Italy,SPAL 2013,Serie A,2017/2018,2017
-17,Goalkeeper,"Feb 25, 1988 (29)",NA,NA,Italy,SPAL 2013,Serie A,2017/2018,2017
-93,Goalkeeper,"Dec 9, 1999 (17)",NA,NA,Italy,SPAL 2013,Serie A,2017/2018,2017
-2,Centre-Back,"Oct 6, 1992 (24)",NA,NA,Greece,SPAL 2013,Serie A,2017/2018,2017
-21,Centre-Back,"May 1, 1991 (26)",NA,NA,Poland,SPAL 2013,Serie A,2017/2018,2017
-5,Centre-Back,"Jul 15, 1996 (20)",NA,NA,Croatia,SPAL 2013,Serie A,2017/2018,2017
-23,Centre-Back,"Aug 3, 1994 (22)",NA,NA,Italy,SPAL 2013,Serie A,2017/2018,2017
-27,Centre-Back,"Jul 31, 1984 (32)",NA,NA,Brazil,SPAL 2013,Serie A,2017/2018,2017
-4,Centre-Back,"Apr 21, 1986 (31)",NA,NA,Poland,SPAL 2013,Serie A,2017/2018,2017
-6,Centre-Back,"Apr 15, 1988 (29)",NA,NA,Italy,SPAL 2013,Serie A,2017/2018,2017
-15,Centre-Back,"Jun 5, 1994 (23)",NA,NA,Finland,SPAL 2013,Serie A,2017/2018,2017
-5,Centre-Back,"Apr 6, 1988 (29)",NA,NA,Italy,SPAL 2013,Serie A,2017/2018,2017
-5,Centre-Back,"Mar 21, 1997 (20)",NA,NA,Italy,SPAL 2013,Serie A,2017/2018,2017
-26,Centre-Back,"Jul 26, 1994 (22)",NA,NA,Italy,SPAL 2013,Serie A,2017/2018,2017
-30,Centre-Back,"Dec 1, 1998 (18)",NA,NA,Italy,SPAL 2013,Serie A,2017/2018,2017
-98,Centre-Back,"May 30, 1998 (19)",NA,NA,Brazil,SPAL 2013,Serie A,2017/2018,2017
-85,Left-Back,"Jul 22, 1985 (31)",NA,NA,Senegal,SPAL 2013,Serie A,2017/2018,2017
-33,Left-Back,"May 21, 1995 (22)",NA,NA,Italy,SPAL 2013,Serie A,2017/2018,2017
-12,Left-Back,"Apr 25, 1994 (23)",NA,NA,Guinea,SPAL 2013,Serie A,2017/2018,2017
-14,Right-Back,"Jul 14, 1995 (21)",NA,NA,Italy,SPAL 2013,Serie A,2017/2018,2017
-77,Defensive Midfield,"Mar 24, 1992 (25)",NA,NA,Italy,SPAL 2013,Serie A,2017/2018,2017
-25,Defensive Midfield,"May 24, 1988 (29)",NA,NA,Brazil,SPAL 2013,Serie A,2017/2018,2017
-NA,Defensive Midfield,"Oct 7, 2000 (16)",NA,NA,Italy,SPAL 2013,Serie A,2017/2018,2017
-19,Central Midfield,"Jan 10, 1989 (28)",NA,NA,Slovenia,SPAL 2013,Serie A,2017/2018,2017
-88,Central Midfield,"Mar 7, 1995 (22)",NA,NA,Italy,SPAL 2013,Serie A,2017/2018,2017
-11,Central Midfield,"Apr 24, 1992 (25)",NA,NA,Italy,SPAL 2013,Serie A,2017/2018,2017
-28,Central Midfield,"May 30, 1987 (30)",NA,NA,Italy,SPAL 2013,Serie A,2017/2018,2017
-20,Central Midfield,"May 10, 1988 (29)",NA,NA,Italy,SPAL 2013,Serie A,2017/2018,2017
-24,Central Midfield,"Oct 1, 1997 (19)",NA,NA,Italy,SPAL 2013,Serie A,2017/2018,2017
-8,Central Midfield,"Aug 7, 1995 (21)",NA,NA,Italy,SPAL 2013,Serie A,2017/2018,2017
-18,Central Midfield,"Apr 24, 1983 (34)",NA,NA,Italy,SPAL 2013,Serie A,2017/2018,2017
-29,Right Midfield,"Nov 29, 1993 (23)",NA,NA,Italy,SPAL 2013,Serie A,2017/2018,2017
-87,Right Winger,"Mar 1, 1999 (18)",NA,NA,Italy,SPAL 2013,Serie A,2017/2018,2017
-43,Centre-Forward,"Jan 4, 1990 (27)",NA,NA,Italy,SPAL 2013,Serie A,2017/2018,2017
-9,Centre-Forward,"May 21, 1997 (20)",NA,NA,Italy,SPAL 2013,Serie A,2017/2018,2017
-7,Centre-Forward,"Sep 8, 1984 (32)",NA,NA,Italy,SPAL 2013,Serie A,2017/2018,2017
-22,Centre-Forward,"Jun 18, 1982 (35)",NA,NA,Italy,SPAL 2013,Serie A,2017/2018,2017
-10,Centre-Forward,"Nov 12, 1981 (35)",NA,NA,Italy,SPAL 2013,Serie A,2017/2018,2017
-99,Centre-Forward,"Jul 9, 1999 (17)",NA,NA,Italy,SPAL 2013,Serie A,2017/2018,2017
-99,Centre-Forward,"Mar 17, 1999 (18)",NA,NA,Brazil,SPAL 2013,Serie A,2017/2018,2017
-1,Goalkeeper,"Apr 12, 1988 (29)",NA,NA,Brazil,Hellas Verona,Serie A,2017/2018,2017
-17,Goalkeeper,"Mar 2, 1991 (26)",NA,NA,Italy,Hellas Verona,Serie A,2017/2018,2017
-40,Goalkeeper,"Jun 10, 1978 (39)",NA,NA,Italy,Hellas Verona,Serie A,2017/2018,2017
-81,Goalkeeper,"Nov 25, 1999 (17)",NA,NA,Italy,Hellas Verona,Serie A,2017/2018,2017
-26,Centre-Back,"Apr 7, 1987 (30)",NA,NA,Uruguay,Hellas Verona,Serie A,2017/2018,2017
-26,Centre-Back,"Jun 10, 1988 (29)",NA,NA,Serbia,Hellas Verona,Serie A,2017/2018,2017
-75,Centre-Back,"Jul 3, 1988 (28)",NA,NA,France,Hellas Verona,Serie A,2017/2018,2017
-28,Centre-Back,"Jul 1, 1994 (23)",NA,NA,Italy,Hellas Verona,Serie A,2017/2018,2017
-22,Centre-Back,"Mar 17, 1993 (24)",NA,NA,Italy,Hellas Verona,Serie A,2017/2018,2017
-69,Centre-Back,"Feb 2, 1989 (28)",NA,NA,France,Hellas Verona,Serie A,2017/2018,2017
-23,Centre-Back,"Feb 3, 1991 (26)",NA,NA,Italy,Hellas Verona,Serie A,2017/2018,2017
-12,Centre-Back,"Jun 30, 1990 (27)",NA,NA,Italy,Hellas Verona,Serie A,2017/2018,2017
-19,Centre-Back,"Mar 23, 1988 (29)",NA,NA,Uruguay,Hellas Verona,Serie A,2017/2018,2017
-3,Centre-Back,"Dec 2, 1986 (30)",NA,NA,Italy,Hellas Verona,Serie A,2017/2018,2017
-25,Centre-Back,"Feb 3, 1995 (22)",NA,NA,Romania,Hellas Verona,Serie A,2017/2018,2017
-33,Centre-Back,"Feb 8, 2000 (17)",NA,NA,Albania,Hellas Verona,Serie A,2017/2018,2017
-97,Left-Back,"Sep 30, 1997 (19)",NA,NA,Italy,Hellas Verona,Serie A,2017/2018,2017
-6,Left-Back,"Jan 7, 1991 (26)",NA,NA,Italy,Hellas Verona,Serie A,2017/2018,2017
-8,Defensive Midfield,"Oct 5, 1992 (24)",NA,NA,Italy,Hellas Verona,Serie A,2017/2018,2017
-5,Defensive Midfield,"Apr 2, 1993 (24)",NA,NA,Argentina,Hellas Verona,Serie A,2017/2018,2017
-72,Defensive Midfield,"Feb 25, 1999 (18)",NA,NA,Italy,Hellas Verona,Serie A,2017/2018,2017
-2,Central Midfield,"May 22, 1987 (30)",NA,NA,Italy,Hellas Verona,Serie A,2017/2018,2017
-24,Central Midfield,"Jan 14, 1993 (24)",NA,NA,Italy,Hellas Verona,Serie A,2017/2018,2017
-77,Central Midfield,"Mar 18, 1991 (26)",NA,NA,Liechtenstein,Hellas Verona,Serie A,2017/2018,2017
-14,Central Midfield,"Sep 5, 1990 (26)",NA,NA,Argentina,Hellas Verona,Serie A,2017/2018,2017
-27,Central Midfield,"Sep 6, 1993 (23)",NA,NA,Italy,Hellas Verona,Serie A,2017/2018,2017
-20,Central Midfield,"Jun 16, 1995 (22)",NA,NA,Italy,Hellas Verona,Serie A,2017/2018,2017
-23,Central Midfield,"Jul 11, 1993 (23)",NA,NA,Italy,Hellas Verona,Serie A,2017/2018,2017
-4,Central Midfield,"Jan 28, 1984 (33)",NA,NA,Italy,Hellas Verona,Serie A,2017/2018,2017
-37,Right Midfield,"Oct 29, 1996 (20)",NA,NA,Italy,Hellas Verona,Serie A,2017/2018,2017
-93,Left Midfield,"Feb 15, 1996 (21)",NA,NA,Algeria,Hellas Verona,Serie A,2017/2018,2017
-98,Attacking Midfield,"Sep 5, 1998 (18)",NA,NA,Slovakia,Hellas Verona,Serie A,2017/2018,2017
-16,Left Winger,"Nov 16, 1995 (21)",NA,NA,England,Hellas Verona,Serie A,2017/2018,2017
-21,Left Winger,"Jan 6, 1998 (19)",NA,NA,"Korea, South",Hellas Verona,Serie A,2017/2018,2017
-10,Right Winger,"Jul 23, 1987 (29)",NA,NA,Italy,Hellas Verona,Serie A,2017/2018,2017
-7,Right Winger,"Jun 20, 1996 (21)",NA,NA,Italy,Hellas Verona,Serie A,2017/2018,2017
-30,Second Striker,"Feb 27, 1993 (24)",NA,NA,Brazil,Hellas Verona,Serie A,2017/2018,2017
-9,Centre-Forward,"Feb 28, 2000 (17)",NA,NA,Italy,Hellas Verona,Serie A,2017/2018,2017
-11,Centre-Forward,"Aug 2, 1984 (32)",NA,NA,Italy,Hellas Verona,Serie A,2017/2018,2017
-70,Centre-Forward,"Sep 16, 1994 (22)",NA,NA,Croatia,Hellas Verona,Serie A,2017/2018,2017
-29,Centre-Forward,"Mar 27, 1998 (19)",NA,NA,Slovakia,Hellas Verona,Serie A,2017/2018,2017
-1,Goalkeeper,"Jan 1, 1983 (34)",NA,NA,Italy,FC Crotone,Serie A,2017/2018,2017
-3,Goalkeeper,"Jun 6, 1992 (25)",NA,NA,Italy,FC Crotone,Serie A,2017/2018,2017
-78,Goalkeeper,"Jun 21, 1999 (18)",NA,NA,Italy,FC Crotone,Serie A,2017/2018,2017
-12,Goalkeeper,"Jan 27, 2000 (17)",NA,NA,Italy,FC Crotone,Serie A,2017/2018,2017
-24,Goalkeeper,"Nov 12, 2000 (16)",NA,NA,Italy,FC Crotone,Serie A,2017/2018,2017
-7,Centre-Back,"May 11, 1992 (25)",NA,NA,Italy,FC Crotone,Serie A,2017/2018,2017
-93,Centre-Back,"Sep 25, 1993 (23)",NA,NA,Albania,FC Crotone,Serie A,2017/2018,2017
-33,Centre-Back,"Apr 7, 1992 (25)",NA,NA,Belgium,FC Crotone,Serie A,2017/2018,2017
-23,Centre-Back,"Oct 14, 1991 (25)",NA,NA,Italy,FC Crotone,Serie A,2017/2018,2017
-44,Centre-Back,"Jun 17, 1991 (26)",NA,NA,Uruguay,FC Crotone,Serie A,2017/2018,2017
-34,Centre-Back,"Jan 20, 1995 (22)",NA,NA,Czech Republic,FC Crotone,Serie A,2017/2018,2017
-21,Centre-Back,"Feb 2, 1998 (19)",NA,NA,Italy,FC Crotone,Serie A,2017/2018,2017
-87,Left-Back,"Aug 14, 1992 (24)",NA,NA,Italy,FC Crotone,Serie A,2017/2018,2017
-20,Left-Back,"Apr 22, 1988 (29)",NA,NA,Bosnia-Herzegovina,FC Crotone,Serie A,2017/2018,2017
-37,Right-Back,"Oct 25, 1991 (25)",NA,NA,Italy,FC Crotone,Serie A,2017/2018,2017
-31,Right-Back,"Oct 31, 1992 (24)",NA,NA,Italy,FC Crotone,Serie A,2017/2018,2017
-8,Defensive Midfield,"Oct 18, 1995 (21)",NA,NA,Venezuela,FC Crotone,Serie A,2017/2018,2017
-38,Central Midfield,"Jun 29, 1997 (20)",NA,NA,Italy,FC Crotone,Serie A,2017/2018,2017
-92,Central Midfield,"Feb 7, 1992 (25)",NA,NA,Libya,FC Crotone,Serie A,2017/2018,2017
-10,Central Midfield,"Dec 11, 1993 (23)",NA,NA,Italy,FC Crotone,Serie A,2017/2018,2017
-13,Central Midfield,"Mar 13, 1983 (34)",NA,NA,Argentina,FC Crotone,Serie A,2017/2018,2017
-14,Central Midfield,"Oct 29, 1996 (20)",NA,NA,Bosnia-Herzegovina,FC Crotone,Serie A,2017/2018,2017
-21,Central Midfield,"Jun 24, 1998 (19)",NA,NA,Italy,FC Crotone,Serie A,2017/2018,2017
-15,Central Midfield,"Jun 5, 1999 (18)",NA,NA,Italy,FC Crotone,Serie A,2017/2018,2017
-6,Right Midfield,"May 11, 1991 (26)",NA,NA,Sweden,FC Crotone,Serie A,2017/2018,2017
-11,Left Midfield,"May 12, 1990 (27)",NA,NA,Germany,FC Crotone,Serie A,2017/2018,2017
-89,Left Midfield,"Aug 11, 1997 (19)",NA,NA,Italy,FC Crotone,Serie A,2017/2018,2017
-47,Attacking Midfield,"Aug 4, 1995 (21)",NA,NA,Slovenia,FC Crotone,Serie A,2017/2018,2017
-5,Left Winger,"Feb 11, 1991 (26)",NA,NA,Romania,FC Crotone,Serie A,2017/2018,2017
-19,Left Winger,"Jul 7, 1999 (17)",NA,NA,France,FC Crotone,Serie A,2017/2018,2017
-11,Right Winger,"May 27, 1994 (23)",NA,NA,Italy,FC Crotone,Serie A,2017/2018,2017
-9,Right Winger,"Jun 20, 1990 (27)",NA,NA,Italy,FC Crotone,Serie A,2017/2018,2017
-18,Right Winger,"Sep 10, 1991 (25)",NA,NA,Ghana,FC Crotone,Serie A,2017/2018,2017
-28,Right Winger,"Apr 28, 1999 (18)",NA,NA,Italy,FC Crotone,Serie A,2017/2018,2017
-24,Second Striker,"Feb 3, 1990 (27)",NA,NA,Bulgaria,FC Crotone,Serie A,2017/2018,2017
-29,Centre-Forward,"Sep 29, 1992 (24)",NA,NA,Italy,FC Crotone,Serie A,2017/2018,2017
-17,Centre-Forward,"Jul 22, 1991 (25)",NA,NA,Croatia,FC Crotone,Serie A,2017/2018,2017
-99,Centre-Forward,"May 7, 1992 (25)",NA,NA,Nigeria,FC Crotone,Serie A,2017/2018,2017
-32,Centre-Forward,"Nov 6, 1998 (18)",NA,NA,Italy,FC Crotone,Serie A,2017/2018,2017
-33,Centre-Forward,"Feb 19, 2000 (17)",NA,NA,Serbia,FC Crotone,Serie A,2017/2018,2017
+player_name,position,date_of_birth,age,nationality,club_name,league_name,season,year
+Wojciech Szczesny,Goalkeeper,1990-04-18,27,Poland,Juventus FC,Serie A,2017/2018,2017
+Gianluigi Buffon,Goalkeeper,1978-01-28,39,Italy,Juventus FC,Serie A,2017/2018,2017
+Carlo Pinsoglio,Goalkeeper,1990-03-16,27,Italy,Juventus FC,Serie A,2017/2018,2017
+Mattia Del Favero,Goalkeeper,1998-06-05,19,Italy,Juventus FC,Serie A,2017/2018,2017
+Leonardo Loria,Goalkeeper,1999-03-28,18,Italy,Juventus FC,Serie A,2017/2018,2017
+Benedikt Höwedes,Centre-Back,1988-02-29,29,Germany,Juventus FC,Serie A,2017/2018,2017
+Daniele Rugani,Centre-Back,1994-07-29,22,Italy,Juventus FC,Serie A,2017/2018,2017
+Medhi Benatia,Centre-Back,1987-04-17,30,Morocco,Juventus FC,Serie A,2017/2018,2017
+Giorgio Chiellini,Centre-Back,1984-08-14,32,Italy,Juventus FC,Serie A,2017/2018,2017
+Andrea Barzagli,Centre-Back,1981-05-08,36,Italy,Juventus FC,Serie A,2017/2018,2017
+Alex Sandro,Left-Back,1991-01-26,26,Brazil,Juventus FC,Serie A,2017/2018,2017
+Kwadwo Asamoah,Left-Back,1988-12-09,28,Ghana,Juventus FC,Serie A,2017/2018,2017
+Mattia De Sciglio,Right-Back,1992-10-20,24,Italy,Juventus FC,Serie A,2017/2018,2017
+Stephan Lichtsteiner,Right-Back,1984-01-16,33,Switzerland,Juventus FC,Serie A,2017/2018,2017
+Miralem Pjanic,Defensive Midfield,1990-04-02,27,Bosnia-Herzegovina,Juventus FC,Serie A,2017/2018,2017
+Blaise Matuidi,Central Midfield,1987-04-09,30,France,Juventus FC,Serie A,2017/2018,2017
+Sami Khedira,Central Midfield,1987-04-04,30,Germany,Juventus FC,Serie A,2017/2018,2017
+Claudio Marchisio,Central Midfield,1986-01-19,31,Italy,Juventus FC,Serie A,2017/2018,2017
+Stefano Sturaro,Central Midfield,1993-03-09,24,Italy,Juventus FC,Serie A,2017/2018,2017
+Rodrigo Bentancur,Central Midfield,1997-06-25,20,Uruguay,Juventus FC,Serie A,2017/2018,2017
+Simone Muratore,Central Midfield,1998-05-30,19,Italy,Juventus FC,Serie A,2017/2018,2017
+Fabrizio Caligara,Central Midfield,2000-04-12,17,Italy,Juventus FC,Serie A,2017/2018,2017
+Leonardo Merio,Central Midfield,1999-05-28,18,Italy,Juventus FC,Serie A,2017/2018,2017
+Grigoris Kastanos,Attacking Midfield,1998-01-30,19,Cyprus,Juventus FC,Serie A,2017/2018,2017
+Ferdinando Del Sole,Attacking Midfield,1998-01-17,19,Italy,Juventus FC,Serie A,2017/2018,2017
+Marko Pjaca,Left Winger,1995-05-06,22,Croatia,Juventus FC,Serie A,2017/2018,2017
+Douglas Costa,Right Winger,1990-09-14,26,Brazil,Juventus FC,Serie A,2017/2018,2017
+Federico Bernardeschi,Right Winger,1994-02-16,23,Italy,Juventus FC,Serie A,2017/2018,2017
+Juan Cuadrado,Right Winger,1988-05-26,29,Colombia,Juventus FC,Serie A,2017/2018,2017
+Paulo Dybala,Second Striker,1993-11-15,23,Argentina,Juventus FC,Serie A,2017/2018,2017
+Gonzalo Higuaín,Centre-Forward,1987-12-10,29,Argentina,Juventus FC,Serie A,2017/2018,2017
+Mario Mandzukic,Centre-Forward,1986-05-21,31,Croatia,Juventus FC,Serie A,2017/2018,2017
+Moise Kean,Centre-Forward,2000-02-28,17,Italy,Juventus FC,Serie A,2017/2018,2017
+Pepe Reina,Goalkeeper,1982-08-31,34,Spain,SSC Napoli,Serie A,2017/2018,2017
+Rafael,Goalkeeper,1990-05-20,27,Brazil,SSC Napoli,Serie A,2017/2018,2017
+Luigi Sepe,Goalkeeper,1991-05-08,26,Italy,SSC Napoli,Serie A,2017/2018,2017
+Maurizio Schaeper,Goalkeeper,1999-04-28,18,Italy,SSC Napoli,Serie A,2017/2018,2017
+Kalidou Koulibaly,Centre-Back,1991-06-20,26,Senegal,SSC Napoli,Serie A,2017/2018,2017
+Nikola Maksimovic,Centre-Back,1991-11-25,25,Serbia,SSC Napoli,Serie A,2017/2018,2017
+Raúl Albiol,Centre-Back,1985-09-04,31,Spain,SSC Napoli,Serie A,2017/2018,2017
+Lorenzo Tonelli,Centre-Back,1990-01-17,27,Italy,SSC Napoli,Serie A,2017/2018,2017
+Vlad Chiriches,Centre-Back,1989-11-14,27,Romania,SSC Napoli,Serie A,2017/2018,2017
+Giuseppe Esposito,Centre-Back,1999-04-16,18,Italy,SSC Napoli,Serie A,2017/2018,2017
+Alberto Senese,Centre-Back,2000-03-24,17,Italy,SSC Napoli,Serie A,2017/2018,2017
+Faouzi Ghoulam,Left-Back,1991-02-01,26,Algeria,SSC Napoli,Serie A,2017/2018,2017
+Mário Rui,Left-Back,1991-05-27,26,Portugal,SSC Napoli,Serie A,2017/2018,2017
+Ivan Strinic,Left-Back,1987-07-17,29,Croatia,SSC Napoli,Serie A,2017/2018,2017
+Hrvoje Milic,Left-Back,1989-05-10,28,Croatia,SSC Napoli,Serie A,2017/2018,2017
+Luigi D'Ignazio,Left-Back,1998-03-13,19,Italy,SSC Napoli,Serie A,2017/2018,2017
+Michael Scarf,Left-Back,1999-05-10,18,Ghana,SSC Napoli,Serie A,2017/2018,2017
+Elseid Hysaj,Right-Back,1994-02-02,23,Albania,SSC Napoli,Serie A,2017/2018,2017
+Christian Maggio,Right-Back,1982-02-11,35,Italy,SSC Napoli,Serie A,2017/2018,2017
+Pio Schiavi,Right-Back,1998-08-27,18,Italy,SSC Napoli,Serie A,2017/2018,2017
+Jorginho,Defensive Midfield,1991-12-20,25,Italy,SSC Napoli,Serie A,2017/2018,2017
+Amadou Diawara,Defensive Midfield,1997-07-17,19,Guinea,SSC Napoli,Serie A,2017/2018,2017
+Umberto Otranto,Defensive Midfield,1998-05-30,19,Italy,SSC Napoli,Serie A,2017/2018,2017
+Marek Hamsik,Central Midfield,1987-07-27,29,Slovakia,SSC Napoli,Serie A,2017/2018,2017
+Piotr Zielinski,Central Midfield,1994-05-20,23,Poland,SSC Napoli,Serie A,2017/2018,2017
+Allan,Central Midfield,1991-01-08,26,Brazil,SSC Napoli,Serie A,2017/2018,2017
+Marko Rog,Central Midfield,1995-07-19,21,Croatia,SSC Napoli,Serie A,2017/2018,2017
+Zinédine Machach,Central Midfield,1996-01-05,21,France,SSC Napoli,Serie A,2017/2018,2017
+Emanuele Giaccherini,Left Midfield,1985-05-05,32,Italy,SSC Napoli,Serie A,2017/2018,2017
+Gianluca Gaetano,Attacking Midfield,2000-05-05,17,Italy,SSC Napoli,Serie A,2017/2018,2017
+Lorenzo Insigne,Left Winger,1991-06-04,26,Italy,SSC Napoli,Serie A,2017/2018,2017
+Leandrinho,Left Winger,1998-10-11,18,Brazil,SSC Napoli,Serie A,2017/2018,2017
+Raffaele Russo,Left Winger,1999-02-25,18,Italy,SSC Napoli,Serie A,2017/2018,2017
+José Callejón,Right Winger,1987-02-11,30,Spain,SSC Napoli,Serie A,2017/2018,2017
+Adam Ounas,Right Winger,1996-11-11,20,Algeria,SSC Napoli,Serie A,2017/2018,2017
+Ciro Palmieri,Second Striker,2000-02-01,17,Italy,SSC Napoli,Serie A,2017/2018,2017
+Dries Mertens,Centre-Forward,1987-05-06,30,Belgium,SSC Napoli,Serie A,2017/2018,2017
+Arkadiusz Milik,Centre-Forward,1994-02-28,23,Poland,SSC Napoli,Serie A,2017/2018,2017
+Leonardo Pavoletti,Centre-Forward,1988-11-26,28,Italy,SSC Napoli,Serie A,2017/2018,2017
+Duván Zapata,Centre-Forward,1991-04-01,26,Colombia,SSC Napoli,Serie A,2017/2018,2017
+Gianluigi Donnarumma,Goalkeeper,1999-02-25,18,Italy,AC Milan,Serie A,2017/2018,2017
+Gabriel,Goalkeeper,1992-09-27,24,Brazil,AC Milan,Serie A,2017/2018,2017
+Antonio Donnarumma,Goalkeeper,1990-07-07,26,Italy,AC Milan,Serie A,2017/2018,2017
+Marco Storari,Goalkeeper,1977-01-07,40,Italy,AC Milan,Serie A,2017/2018,2017
+Alessandro Guarnone,Goalkeeper,1999-03-27,18,Italy,AC Milan,Serie A,2017/2018,2017
+Matteo Soncin,Goalkeeper,2001-03-28,16,Italy,AC Milan,Serie A,2017/2018,2017
+Leonardo Bonucci,Centre-Back,1987-05-01,30,Italy,AC Milan,Serie A,2017/2018,2017
+Alessio Romagnoli,Centre-Back,1995-01-12,22,Italy,AC Milan,Serie A,2017/2018,2017
+Mateo Musacchio,Centre-Back,1990-08-26,26,Argentina,AC Milan,Serie A,2017/2018,2017
+Gabriel Paletta,Centre-Back,1986-02-15,31,Italy,AC Milan,Serie A,2017/2018,2017
+Gustavo Gómez,Centre-Back,1993-05-06,24,Paraguay,AC Milan,Serie A,2017/2018,2017
+Cristián Zapata,Centre-Back,1986-09-30,30,Colombia,AC Milan,Serie A,2017/2018,2017
+Jherson Vergara,Centre-Back,1994-05-26,23,Colombia,AC Milan,Serie A,2017/2018,2017
+Matteo Gabbia,Centre-Back,1999-10-21,17,Italy,AC Milan,Serie A,2017/2018,2017
+Ricardo Rodríguez,Left-Back,1992-08-25,24,Switzerland,AC Milan,Serie A,2017/2018,2017
+Luca Antonelli,Left-Back,1987-02-11,30,Italy,AC Milan,Serie A,2017/2018,2017
+Andrea Conti,Right-Back,1994-03-02,23,Italy,AC Milan,Serie A,2017/2018,2017
+Ignazio Abate,Right-Back,1986-11-12,30,Italy,AC Milan,Serie A,2017/2018,2017
+Davide Calabria,Right-Back,1996-12-06,20,Italy,AC Milan,Serie A,2017/2018,2017
+Raoul Bellanova,Right-Back,2000-05-17,17,Italy,AC Milan,Serie A,2017/2018,2017
+Lucas Biglia,Defensive Midfield,1986-01-30,31,Argentina,AC Milan,Serie A,2017/2018,2017
+Riccardo Montolivo,Defensive Midfield,1985-01-18,32,Italy,AC Milan,Serie A,2017/2018,2017
+Giacomo Bonaventura,Central Midfield,1989-08-22,27,Italy,AC Milan,Serie A,2017/2018,2017
+Franck Kessié,Central Midfield,1996-12-19,20,Cote d'Ivoire,AC Milan,Serie A,2017/2018,2017
+Manuel Locatelli,Central Midfield,1998-01-08,19,Italy,AC Milan,Serie A,2017/2018,2017
+José Sosa,Central Midfield,1985-06-19,32,Argentina,AC Milan,Serie A,2017/2018,2017
+José Mauri,Central Midfield,1996-05-16,21,Italy,AC Milan,Serie A,2017/2018,2017
+Niccolò Zanellato,Central Midfield,1998-06-24,19,Italy,AC Milan,Serie A,2017/2018,2017
+Emanuele Torrasi,Central Midfield,1999-03-16,18,Italy,AC Milan,Serie A,2017/2018,2017
+Tommaso Pobega,Central Midfield,1999-07-15,17,Italy,AC Milan,Serie A,2017/2018,2017
+Tiago Dias,Left Midfield,1998-05-04,19,Portugal,AC Milan,Serie A,2017/2018,2017
+Hachim Mastour,Attacking Midfield,1998-06-15,19,Morocco,AC Milan,Serie A,2017/2018,2017
+Hakan Calhanoglu,Left Winger,1994-02-08,23,Turkey,AC Milan,Serie A,2017/2018,2017
+Fabio Borini,Left Winger,1991-03-29,26,Italy,AC Milan,Serie A,2017/2018,2017
+Riccardo Forte,Left Winger,1999-05-17,18,Italy,AC Milan,Serie A,2017/2018,2017
+Suso,Right Winger,1993-11-19,23,Spain,AC Milan,Serie A,2017/2018,2017
+Nnamdi Oduamadi,Right Winger,1990-10-17,26,Nigeria,AC Milan,Serie A,2017/2018,2017
+André Silva,Centre-Forward,1995-11-06,21,Portugal,AC Milan,Serie A,2017/2018,2017
+Nikola Kalinic,Centre-Forward,1988-01-05,29,Croatia,AC Milan,Serie A,2017/2018,2017
+M'Baye Niang,Centre-Forward,1994-12-19,22,Senegal,AC Milan,Serie A,2017/2018,2017
+Patrick Cutrone,Centre-Forward,1998-01-03,19,Italy,AC Milan,Serie A,2017/2018,2017
+Frank Tsadjout,Centre-Forward,1999-07-28,17,Italy,AC Milan,Serie A,2017/2018,2017
+Samir Handanovic,Goalkeeper,1984-07-14,32,Slovenia,Inter Milan,Serie A,2017/2018,2017
+Daniele Padelli,Goalkeeper,1985-10-25,31,Italy,Inter Milan,Serie A,2017/2018,2017
+Tommaso Berni,Goalkeeper,1983-03-06,34,Italy,Inter Milan,Serie A,2017/2018,2017
+Marco Pissardo,Goalkeeper,1998-01-08,19,Italy,Inter Milan,Serie A,2017/2018,2017
+Miranda,Centre-Back,1984-09-07,32,Brazil,Inter Milan,Serie A,2017/2018,2017
+Milan Skriniar,Centre-Back,1995-02-11,22,Slovakia,Inter Milan,Serie A,2017/2018,2017
+Lisandro López,Centre-Back,1989-09-01,27,Argentina,Inter Milan,Serie A,2017/2018,2017
+Andrea Ranocchia,Centre-Back,1988-02-16,29,Italy,Inter Milan,Serie A,2017/2018,2017
+Zinho Vanheusden,Centre-Back,1999-07-29,17,Belgium,Inter Milan,Serie A,2017/2018,2017
+Manuel Lombardoni,Centre-Back,1998-12-19,18,Italy,Inter Milan,Serie A,2017/2018,2017
+Cristian Ansaldi,Left-Back,1986-09-20,30,Argentina,Inter Milan,Serie A,2017/2018,2017
+Davide Santon,Left-Back,1991-01-02,26,Italy,Inter Milan,Serie A,2017/2018,2017
+Dalbert,Left-Back,1993-09-08,23,Brazil,Inter Milan,Serie A,2017/2018,2017
+Yuto Nagatomo,Left-Back,1986-09-12,30,Japan,Inter Milan,Serie A,2017/2018,2017
+João Cancelo,Right-Back,1994-05-27,23,Portugal,Inter Milan,Serie A,2017/2018,2017
+Danilo D'Ambrosio,Right-Back,1988-09-09,28,Italy,Inter Milan,Serie A,2017/2018,2017
+Marcelo Brozovic,Defensive Midfield,1992-11-16,24,Croatia,Inter Milan,Serie A,2017/2018,2017
+João Mário,Central Midfield,1993-01-19,24,Portugal,Inter Milan,Serie A,2017/2018,2017
+Geoffrey Kondogbia,Central Midfield,1993-02-15,24,Central African Republic,Inter Milan,Serie A,2017/2018,2017
+Roberto Gagliardini,Central Midfield,1994-04-07,23,Italy,Inter Milan,Serie A,2017/2018,2017
+Rafinha,Central Midfield,1993-02-12,24,Brazil,Inter Milan,Serie A,2017/2018,2017
+Matías Vecino,Central Midfield,1991-08-24,25,Uruguay,Inter Milan,Serie A,2017/2018,2017
+Borja Valero,Central Midfield,1985-01-12,32,Spain,Inter Milan,Serie A,2017/2018,2017
+Assane Gnoukouri,Central Midfield,1996-09-28,20,Cote d'Ivoire,Inter Milan,Serie A,2017/2018,2017
+Xian Emmers,Central Midfield,1999-07-20,17,Belgium,Inter Milan,Serie A,2017/2018,2017
+Nicolò Zaniolo,Attacking Midfield,1999-07-02,17,Italy,Inter Milan,Serie A,2017/2018,2017
+Ivan Perisic,Left Winger,1989-02-02,28,Croatia,Inter Milan,Serie A,2017/2018,2017
+Antonio Candreva,Right Winger,1987-02-28,30,Italy,Inter Milan,Serie A,2017/2018,2017
+Yann Karamoh,Right Winger,1998-07-08,18,France,Inter Milan,Serie A,2017/2018,2017
+Éder,Second Striker,1986-11-15,30,Italy,Inter Milan,Serie A,2017/2018,2017
+Mauro Icardi,Centre-Forward,1993-02-19,24,Argentina,Inter Milan,Serie A,2017/2018,2017
+Gabriel Barbosa,Centre-Forward,1996-08-30,20,Brazil,Inter Milan,Serie A,2017/2018,2017
+Stevan Jovetic,Centre-Forward,1989-11-02,27,Montenegro,Inter Milan,Serie A,2017/2018,2017
+Andrea Pinamonti,Centre-Forward,1999-05-19,18,Italy,Inter Milan,Serie A,2017/2018,2017
+Alisson,Goalkeeper,1992-10-02,24,Brazil,AS Roma,Serie A,2017/2018,2017
+Lukasz Skorupski,Goalkeeper,1991-05-05,26,Poland,AS Roma,Serie A,2017/2018,2017
+Bogdan Lobont,Goalkeeper,1978-01-18,39,Romania,AS Roma,Serie A,2017/2018,2017
+Andrea Romagnoli,Goalkeeper,1998-07-29,18,Italy,AS Roma,Serie A,2017/2018,2017
+Emanuele Zamarion,Goalkeeper,2000-08-04,16,Italy,AS Roma,Serie A,2017/2018,2017
+Alessio Pagliarini,Goalkeeper,2000-01-09,17,Italy,AS Roma,Serie A,2017/2018,2017
+Konstantinos Manolas,Centre-Back,1991-06-14,26,Greece,AS Roma,Serie A,2017/2018,2017
+Federico Fazio,Centre-Back,1987-03-17,30,Argentina,AS Roma,Serie A,2017/2018,2017
+Héctor Moreno,Centre-Back,1988-01-17,29,Mexico,AS Roma,Serie A,2017/2018,2017
+Juan Jesus,Centre-Back,1991-06-10,26,Brazil,AS Roma,Serie A,2017/2018,2017
+Leandro Castán,Centre-Back,1986-11-05,30,Brazil,AS Roma,Serie A,2017/2018,2017
+Elio Capradossi,Centre-Back,1996-03-11,21,Italy,AS Roma,Serie A,2017/2018,2017
+Stefano Ciavattini,Centre-Back,1998-03-30,19,Italy,AS Roma,Serie A,2017/2018,2017
+Andrea Ciofi,Centre-Back,1999-06-28,18,Italy,AS Roma,Serie A,2017/2018,2017
+Lirim Kastrati,Centre-Back,1999-02-02,18,Kosovo,AS Roma,Serie A,2017/2018,2017
+Aleksandar Kolarov,Left-Back,1985-11-10,31,Serbia,AS Roma,Serie A,2017/2018,2017
+Emerson,Left-Back,1994-08-03,22,Italy,AS Roma,Serie A,2017/2018,2017
+Jonathan Silva,Left-Back,1994-06-29,23,Argentina,AS Roma,Serie A,2017/2018,2017
+Luca Pellegrini,Left-Back,1999-03-07,18,Italy,AS Roma,Serie A,2017/2018,2017
+Silvio Anocic,Left-Back,1997-09-10,19,Croatia,AS Roma,Serie A,2017/2018,2017
+Lorenzo Valeau,Left-Back,1999-03-05,18,Italy,AS Roma,Serie A,2017/2018,2017
+Alessandro Florenzi,Right-Back,1991-03-11,26,Italy,AS Roma,Serie A,2017/2018,2017
+Bruno Peres,Right-Back,1990-03-01,27,Brazil,AS Roma,Serie A,2017/2018,2017
+Rick Karsdorp,Right-Back,1995-02-11,22,Netherlands,AS Roma,Serie A,2017/2018,2017
+Abdullahi Nura,Right-Back,1997-08-17,19,Nigeria,AS Roma,Serie A,2017/2018,2017
+Devid Eugene Bouah,Right-Back,2001-08-13,15,Italy,AS Roma,Serie A,2017/2018,2017
+Maxime Gonalons,Defensive Midfield,1989-03-10,28,France,AS Roma,Serie A,2017/2018,2017
+Daniele De Rossi,Defensive Midfield,1983-07-24,33,Italy,AS Roma,Serie A,2017/2018,2017
+Andrea Marcucci,Defensive Midfield,1999-02-07,18,Italy,AS Roma,Serie A,2017/2018,2017
+Kevin Strootman,Central Midfield,1990-02-13,27,Netherlands,AS Roma,Serie A,2017/2018,2017
+Lorenzo Pellegrini,Central Midfield,1996-06-19,21,Italy,AS Roma,Serie A,2017/2018,2017
+Gerson,Central Midfield,1997-05-20,20,Brazil,AS Roma,Serie A,2017/2018,2017
+Dario Vittorio Meadows,Central Midfield,1999-01-28,18,Italy,AS Roma,Serie A,2017/2018,2017
+Salvatore Pezzella,Central Midfield,2000-03-11,17,Italy,AS Roma,Serie A,2017/2018,2017
+Alessio Riccardi,Central Midfield,2001-04-03,16,Italy,AS Roma,Serie A,2017/2018,2017
+Radja Nainggolan,Attacking Midfield,1988-05-04,29,Belgium,AS Roma,Serie A,2017/2018,2017
+Diego Perotti,Left Winger,1988-07-26,28,Argentina,AS Roma,Serie A,2017/2018,2017
+Stephan El Shaarawy,Left Winger,1992-10-27,24,Italy,AS Roma,Serie A,2017/2018,2017
+Keba Coly,Left Winger,1998-02-20,19,Senegal,AS Roma,Serie A,2017/2018,2017
+Riccardo Cappa,Left Winger,1999-04-29,18,Italy,AS Roma,Serie A,2017/2018,2017
+Cengiz Ünder,Right Winger,1997-07-14,19,Turkey,AS Roma,Serie A,2017/2018,2017
+Rezan Corlu,Right Winger,1997-08-07,19,Denmark,AS Roma,Serie A,2017/2018,2017
+Mirko Antonucci,Right Winger,1999-03-11,18,Italy,AS Roma,Serie A,2017/2018,2017
+Edin Dzeko,Centre-Forward,1986-03-17,31,Bosnia-Herzegovina,AS Roma,Serie A,2017/2018,2017
+Patrik Schick,Centre-Forward,1996-01-24,21,Czech Republic,AS Roma,Serie A,2017/2018,2017
+Grégoire Defrel,Centre-Forward,1991-06-17,26,Martinique,AS Roma,Serie A,2017/2018,2017
+Marco Tumminello,Centre-Forward,1998-11-06,18,Italy,AS Roma,Serie A,2017/2018,2017
+Thomas Strakosha,Goalkeeper,1995-03-19,22,Albania,SS Lazio,Serie A,2017/2018,2017
+Federico Marchetti,Goalkeeper,1983-02-07,34,Italy,SS Lazio,Serie A,2017/2018,2017
+Ivan Vargic,Goalkeeper,1987-03-15,30,Croatia,SS Lazio,Serie A,2017/2018,2017
+Guido Guerrieri,Goalkeeper,1996-02-25,21,Italy,SS Lazio,Serie A,2017/2018,2017
+Federico Cirillo,Goalkeeper,2001-02-21,16,Italy,SS Lazio,Serie A,2017/2018,2017
+Stefan de Vrij,Centre-Back,1992-02-05,25,Netherlands,SS Lazio,Serie A,2017/2018,2017
+Wallace,Centre-Back,1994-10-14,22,Brazil,SS Lazio,Serie A,2017/2018,2017
+Wesley Hoedt,Centre-Back,1994-03-06,23,Netherlands,SS Lazio,Serie A,2017/2018,2017
+Stefan Radu,Centre-Back,1986-10-22,30,Romania,SS Lazio,Serie A,2017/2018,2017
+Bastos,Centre-Back,1991-03-27,26,Angola,SS Lazio,Serie A,2017/2018,2017
+Martín Cáceres,Centre-Back,1987-04-07,30,Uruguay,SS Lazio,Serie A,2017/2018,2017
+Maurício,Centre-Back,1988-09-20,28,Brazil,SS Lazio,Serie A,2017/2018,2017
+Luiz Felipe,Centre-Back,1997-03-22,20,Brazil,SS Lazio,Serie A,2017/2018,2017
+Nicolò Armini,Centre-Back,2001-03-07,16,Italy,SS Lazio,Serie A,2017/2018,2017
+Jordan Lukaku,Left-Back,1994-07-25,22,Belgium,SS Lazio,Serie A,2017/2018,2017
+Dusan Basta,Right-Back,1984-08-18,32,Serbia,SS Lazio,Serie A,2017/2018,2017
+Patric,Right-Back,1993-04-17,24,Spain,SS Lazio,Serie A,2017/2018,2017
+Mattia Petricca,Right-Back,2001-02-17,16,Italy,SS Lazio,Serie A,2017/2018,2017
+Lucas Leiva,Defensive Midfield,1987-01-09,30,Brazil,SS Lazio,Serie A,2017/2018,2017
+Davide Di Gennaro,Defensive Midfield,1988-06-16,29,Italy,SS Lazio,Serie A,2017/2018,2017
+Alessio Miceli,Defensive Midfield,1999-08-31,17,Italy,SS Lazio,Serie A,2017/2018,2017
+Sergej Milinkovic-Savic,Central Midfield,1995-02-27,22,Serbia,SS Lazio,Serie A,2017/2018,2017
+Marco Parolo,Central Midfield,1985-01-25,32,Italy,SS Lazio,Serie A,2017/2018,2017
+Alessandro Murgia,Central Midfield,1996-08-09,20,Italy,SS Lazio,Serie A,2017/2018,2017
+Luca Crecco,Central Midfield,1995-09-06,21,Italy,SS Lazio,Serie A,2017/2018,2017
+Bruno Jordão,Central Midfield,1998-10-12,18,Portugal,SS Lazio,Serie A,2017/2018,2017
+Abukar Mohamed,Central Midfield,1999-01-01,18,Finland,SS Lazio,Serie A,2017/2018,2017
+Adam Marusic,Right Midfield,1992-10-17,24,Montenegro,SS Lazio,Serie A,2017/2018,2017
+Senad Lulic,Left Midfield,1986-01-18,31,Bosnia-Herzegovina,SS Lazio,Serie A,2017/2018,2017
+Luis Alberto,Attacking Midfield,1992-09-28,24,Spain,SS Lazio,Serie A,2017/2018,2017
+Felipe Anderson,Left Winger,1993-04-15,24,Brazil,SS Lazio,Serie A,2017/2018,2017
+Keita Baldé,Left Winger,1995-03-08,22,Senegal,SS Lazio,Serie A,2017/2018,2017
+Nani,Left Winger,1986-11-17,30,Portugal,SS Lazio,Serie A,2017/2018,2017
+Ricardo Kishna,Left Winger,1995-01-04,22,Netherlands,SS Lazio,Serie A,2017/2018,2017
+Christopher Oikonomidis,Left Winger,1995-05-04,22,Australia,SS Lazio,Serie A,2017/2018,2017
+Cristiano Lombardi,Right Winger,1995-08-19,21,Italy,SS Lazio,Serie A,2017/2018,2017
+Lorenzo Spurio,Right Winger,1999-04-12,18,Italy,SS Lazio,Serie A,2017/2018,2017
+Pedro Neto,Right Winger,2000-03-09,17,Portugal,SS Lazio,Serie A,2017/2018,2017
+Edoardo Rezzi,Second Striker,1999-07-03,17,Italy,SS Lazio,Serie A,2017/2018,2017
+Ciro Immobile,Centre-Forward,1990-02-20,27,Italy,SS Lazio,Serie A,2017/2018,2017
+Felipe Caicedo,Centre-Forward,1988-09-05,28,Ecuador,SS Lazio,Serie A,2017/2018,2017
+Filip Djordjevic,Centre-Forward,1987-09-28,29,Serbia,SS Lazio,Serie A,2017/2018,2017
+Simone Palombi,Centre-Forward,1996-04-23,21,Italy,SS Lazio,Serie A,2017/2018,2017
+Brayan Perea,Centre-Forward,1993-02-25,24,Colombia,SS Lazio,Serie A,2017/2018,2017
+Marco Sportiello,Goalkeeper,1992-05-10,25,Italy,ACF Fiorentina,Serie A,2017/2018,2017
+Bartlomiej Dragowski,Goalkeeper,1997-08-19,19,Poland,ACF Fiorentina,Serie A,2017/2018,2017
+Michele Cerofolini,Goalkeeper,1999-01-04,18,Italy,ACF Fiorentina,Serie A,2017/2018,2017
+Federico Brancolini,Goalkeeper,2001-07-14,15,Italy,ACF Fiorentina,Serie A,2017/2018,2017
+Simone Ghidotti,Goalkeeper,2000-03-19,17,Italy,ACF Fiorentina,Serie A,2017/2018,2017
+Davide Astori,Centre-Back,1987-01-07,NA,Italy,ACF Fiorentina,Serie A,2017/2018,2017
+Germán Pezzella,Centre-Back,1991-06-27,26,Argentina,ACF Fiorentina,Serie A,2017/2018,2017
+Nikola Milenkovic,Centre-Back,1997-10-12,19,Serbia,ACF Fiorentina,Serie A,2017/2018,2017
+Vitor Hugo,Centre-Back,1991-05-20,26,Brazil,ACF Fiorentina,Serie A,2017/2018,2017
+Nenad Tomović,Centre-Back,1987-08-30,29,Serbia,ACF Fiorentina,Serie A,2017/2018,2017
+Petko Hristov,Centre-Back,1999-03-01,18,Bulgaria,ACF Fiorentina,Serie A,2017/2018,2017
+Cristiano Biraghi,Left-Back,1992-09-01,24,Italy,ACF Fiorentina,Serie A,2017/2018,2017
+Maximiliano Olivera,Left-Back,1992-03-05,25,Uruguay,ACF Fiorentina,Serie A,2017/2018,2017
+Luca Ranieri,Left-Back,1999-04-23,18,Italy,ACF Fiorentina,Serie A,2017/2018,2017
+Bruno Gaspar,Right-Back,1993-04-21,24,Angola,ACF Fiorentina,Serie A,2017/2018,2017
+Vincent Laurini,Right-Back,1989-06-10,28,France,ACF Fiorentina,Serie A,2017/2018,2017
+Milan Badelj,Defensive Midfield,1989-02-25,28,Croatia,ACF Fiorentina,Serie A,2017/2018,2017
+Carlos Sánchez,Defensive Midfield,1986-02-06,31,Colombia,ACF Fiorentina,Serie A,2017/2018,2017
+Vitja Valencic,Defensive Midfield,1999-03-12,18,Slovenia,ACF Fiorentina,Serie A,2017/2018,2017
+Andrés Schetino,Defensive Midfield,1994-05-26,23,Uruguay,ACF Fiorentina,Serie A,2017/2018,2017
+Marco Benassi,Central Midfield,1994-09-08,22,Italy,ACF Fiorentina,Serie A,2017/2018,2017
+Jordan Veretout,Central Midfield,1993-03-01,24,France,ACF Fiorentina,Serie A,2017/2018,2017
+Bryan Dabo,Central Midfield,1992-02-18,25,Burkina Faso,ACF Fiorentina,Serie A,2017/2018,2017
+Sebastián Cristóforo,Central Midfield,1993-08-23,23,Uruguay,ACF Fiorentina,Serie A,2017/2018,2017
+Marco Meli,Central Midfield,2000-02-02,17,Italy,ACF Fiorentina,Serie A,2017/2018,2017
+Riccardo Saponara,Attacking Midfield,1991-12-21,25,Italy,ACF Fiorentina,Serie A,2017/2018,2017
+Valentin Eysseric,Attacking Midfield,1992-03-25,25,France,ACF Fiorentina,Serie A,2017/2018,2017
+Matías Fernández,Attacking Midfield,1986-05-15,31,Chile,ACF Fiorentina,Serie A,2017/2018,2017
+Ianis Hagi,Attacking Midfield,1998-10-22,18,Romania,ACF Fiorentina,Serie A,2017/2018,2017
+Rafik Zekhnini,Left Winger,1998-01-12,19,Norway,ACF Fiorentina,Serie A,2017/2018,2017
+Riccardo Sottil,Left Winger,1999-06-03,18,Italy,ACF Fiorentina,Serie A,2017/2018,2017
+Federico Chiesa,Right Winger,1997-10-25,19,Italy,ACF Fiorentina,Serie A,2017/2018,2017
+Gil Dias,Right Winger,1996-09-28,20,Portugal,ACF Fiorentina,Serie A,2017/2018,2017
+Ante Rebic,Second Striker,1993-09-21,23,Croatia,ACF Fiorentina,Serie A,2017/2018,2017
+Cyril Théréau,Second Striker,1983-04-24,34,France,ACF Fiorentina,Serie A,2017/2018,2017
+Simone Lo Faso,Second Striker,1998-02-18,19,Italy,ACF Fiorentina,Serie A,2017/2018,2017
+Nikola Kalinic,Centre-Forward,1988-01-05,29,Croatia,ACF Fiorentina,Serie A,2017/2018,2017
+Giovanni Simeone,Centre-Forward,1995-07-05,21,Argentina,ACF Fiorentina,Serie A,2017/2018,2017
+Khouma Babacar,Centre-Forward,1993-03-17,24,Senegal,ACF Fiorentina,Serie A,2017/2018,2017
+Diego Falcinelli,Centre-Forward,1991-06-26,26,Italy,ACF Fiorentina,Serie A,2017/2018,2017
+Gabriele Gori,Centre-Forward,1999-02-13,18,Italy,ACF Fiorentina,Serie A,2017/2018,2017
+Salvatore Sirigu,Goalkeeper,1987-01-12,30,Italy,Torino FC,Serie A,2017/2018,2017
+Salvador Ichazo,Goalkeeper,1992-01-26,25,Uruguay,Torino FC,Serie A,2017/2018,2017
+Vanja Milinković-Savić,Goalkeeper,1997-02-20,20,Serbia,Torino FC,Serie A,2017/2018,2017
+Domenico Coppola,Goalkeeper,1999-01-29,18,Italy,Torino FC,Serie A,2017/2018,2017
+Nicolas N'Koulou,Centre-Back,1990-03-27,27,Cameroon,Torino FC,Serie A,2017/2018,2017
+Luca Rossettini,Centre-Back,1985-05-09,32,Italy,Torino FC,Serie A,2017/2018,2017
+Kevin Bonifazi,Centre-Back,1996-05-19,21,Italy,Torino FC,Serie A,2017/2018,2017
+Lyanco,Centre-Back,1997-02-01,20,Brazil,Torino FC,Serie A,2017/2018,2017
+Emiliano Moretti,Centre-Back,1981-06-11,36,Italy,Torino FC,Serie A,2017/2018,2017
+Nicolás Burdisso,Centre-Back,1981-04-12,36,Argentina,Torino FC,Serie A,2017/2018,2017
+Erick Ferigra,Centre-Back,1999-02-07,18,Ecuador,Torino FC,Serie A,2017/2018,2017
+Leonardo Rivoira,Centre-Back,1998-02-03,19,Italy,Torino FC,Serie A,2017/2018,2017
+Alessandro Buongiorno,Centre-Back,1999-06-06,18,Italy,Torino FC,Serie A,2017/2018,2017
+Cristian Ansaldi,Left-Back,1986-09-20,30,Argentina,Torino FC,Serie A,2017/2018,2017
+Antonio Barreca,Left-Back,1995-03-18,22,Italy,Torino FC,Serie A,2017/2018,2017
+Danilo Avelar,Left-Back,1989-06-09,28,Brazil,Torino FC,Serie A,2017/2018,2017
+Cristian Molinaro,Left-Back,1983-07-30,33,Italy,Torino FC,Serie A,2017/2018,2017
+Ali Samake,Left-Back,2000-01-30,17,Mali,Torino FC,Serie A,2017/2018,2017
+Davide Zappacosta,Right-Back,1992-06-11,25,Italy,Torino FC,Serie A,2017/2018,2017
+Lorenzo De Silvestri,Right-Back,1988-05-23,29,Italy,Torino FC,Serie A,2017/2018,2017
+Filippo Gilli,Right-Back,2000-10-19,16,Italy,Torino FC,Serie A,2017/2018,2017
+Alessandro Fiordaliso,Right-Back,1999-03-20,18,Italy,Torino FC,Serie A,2017/2018,2017
+Tomás Rincón,Defensive Midfield,1988-01-13,29,Venezuela,Torino FC,Serie A,2017/2018,2017
+Mirko Valdifiori,Defensive Midfield,1986-04-21,31,Italy,Torino FC,Serie A,2017/2018,2017
+Antonio D'Alena,Defensive Midfield,1998-02-24,19,Italy,Torino FC,Serie A,2017/2018,2017
+Enrico Celeghin,Defensive Midfield,1999-02-22,18,Italy,Torino FC,Serie A,2017/2018,2017
+Paolo Matera,Defensive Midfield,2000-03-06,17,Italy,Torino FC,Serie A,2017/2018,2017
+Daniele Baselli,Central Midfield,1992-03-12,25,Italy,Torino FC,Serie A,2017/2018,2017
+Afriyie Acquah,Central Midfield,1992-01-05,25,Ghana,Torino FC,Serie A,2017/2018,2017
+Sasa Lukic,Central Midfield,1996-08-13,20,Serbia,Torino FC,Serie A,2017/2018,2017
+Joel Obi,Central Midfield,1991-05-22,26,Nigeria,Torino FC,Serie A,2017/2018,2017
+Samuel Gustafson,Central Midfield,1995-01-11,22,Sweden,Torino FC,Serie A,2017/2018,2017
+Michel Ndary Adopo,Central Midfield,2000-07-19,16,France,Torino FC,Serie A,2017/2018,2017
+Adem Ljajic,Attacking Midfield,1991-09-29,25,Serbia,Torino FC,Serie A,2017/2018,2017
+Álex Berenguer,Left Winger,1995-07-04,21,Spain,Torino FC,Serie A,2017/2018,2017
+Lucas Boyé,Left Winger,1996-02-28,21,Argentina,Torino FC,Serie A,2017/2018,2017
+Ben Lhassine Kone,Left Winger,2000-03-14,17,Cote d'Ivoire,Torino FC,Serie A,2017/2018,2017
+Iago Falque,Right Winger,1990-01-04,27,Spain,Torino FC,Serie A,2017/2018,2017
+Vittorio Parigini,Right Winger,1996-03-25,21,Italy,Torino FC,Serie A,2017/2018,2017
+Mattia Aramu,Right Winger,1995-05-14,22,Italy,Torino FC,Serie A,2017/2018,2017
+Simone Edera,Right Winger,1997-01-09,20,Italy,Torino FC,Serie A,2017/2018,2017
+Vincenzo Millico,Second Striker,2000-08-12,16,Italy,Torino FC,Serie A,2017/2018,2017
+Andrea Belotti,Centre-Forward,1993-12-20,23,Italy,Torino FC,Serie A,2017/2018,2017
+M'Baye Niang,Centre-Forward,1994-12-19,22,Senegal,Torino FC,Serie A,2017/2018,2017
+Umar Sadiq,Centre-Forward,1997-02-02,20,Nigeria,Torino FC,Serie A,2017/2018,2017
+Maxi López,Centre-Forward,1984-04-03,33,Argentina,Torino FC,Serie A,2017/2018,2017
+Manuel De Luca,Centre-Forward,1998-07-17,18,Italy,Torino FC,Serie A,2017/2018,2017
+Karlo Butic,Centre-Forward,1998-08-21,18,Croatia,Torino FC,Serie A,2017/2018,2017
+Flavio Bianchi,Centre-Forward,2000-01-24,17,Italy,Torino FC,Serie A,2017/2018,2017
+Alessandro Iacuaniello,Centre-Forward,1999-05-22,18,Italy,Torino FC,Serie A,2017/2018,2017
+Nicola Rauti,Centre-Forward,2000-04-17,17,Italy,Torino FC,Serie A,2017/2018,2017
+Etrit Berisha,Goalkeeper,1989-03-10,28,Albania,Atalanta BC,Serie A,2017/2018,2017
+Pierluigi Gollini,Goalkeeper,1995-03-18,22,Italy,Atalanta BC,Serie A,2017/2018,2017
+Francesco Rossi,Goalkeeper,1991-04-27,26,Italy,Atalanta BC,Serie A,2017/2018,2017
+Mattia Caldara,Centre-Back,1994-05-05,23,Italy,Atalanta BC,Serie A,2017/2018,2017
+Rafael Tolói,Centre-Back,1990-10-10,26,Brazil,Atalanta BC,Serie A,2017/2018,2017
+Andrea Masiello,Centre-Back,1986-02-05,31,Italy,Atalanta BC,Serie A,2017/2018,2017
+José Luis Palomino,Centre-Back,1990-01-05,27,Argentina,Atalanta BC,Serie A,2017/2018,2017
+Alessandro Bastoni,Centre-Back,1999-04-13,18,Italy,Atalanta BC,Serie A,2017/2018,2017
+Gianluca Mancini,Centre-Back,1996-04-17,21,Italy,Atalanta BC,Serie A,2017/2018,2017
+Leonardo Spinazzola,Left-Back,1993-03-25,24,Italy,Atalanta BC,Serie A,2017/2018,2017
+Boukary Dramé,Left-Back,1985-07-22,31,Senegal,Atalanta BC,Serie A,2017/2018,2017
+Robin Gosens,Left-Back,1994-07-05,22,Germany,Atalanta BC,Serie A,2017/2018,2017
+Timothy Castagne,Right-Back,1995-12-05,21,Belgium,Atalanta BC,Serie A,2017/2018,2017
+Hans Hateboer,Right-Back,1994-01-09,23,Netherlands,Atalanta BC,Serie A,2017/2018,2017
+João Schmidt,Defensive Midfield,1993-05-19,24,Brazil,Atalanta BC,Serie A,2017/2018,2017
+Thomas Bolis,Defensive Midfield,1998-08-02,18,Italy,Atalanta BC,Serie A,2017/2018,2017
+Enrico Del Prato,Defensive Midfield,1999-11-10,17,Italy,Atalanta BC,Serie A,2017/2018,2017
+Marten de Roon,Central Midfield,1991-03-29,26,Netherlands,Atalanta BC,Serie A,2017/2018,2017
+Remo Freuler,Central Midfield,1992-04-15,25,Switzerland,Atalanta BC,Serie A,2017/2018,2017
+Jasmin Kurtic,Central Midfield,1989-01-10,28,Slovenia,Atalanta BC,Serie A,2017/2018,2017
+Bryan Cristante,Central Midfield,1995-03-03,22,Italy,Atalanta BC,Serie A,2017/2018,2017
+Luca Rizzo,Central Midfield,1992-04-24,25,Italy,Atalanta BC,Serie A,2017/2018,2017
+Nicolas Haas,Central Midfield,1996-01-23,21,Switzerland,Atalanta BC,Serie A,2017/2018,2017
+Matteo Pessina,Central Midfield,1997-04-21,20,Italy,Atalanta BC,Serie A,2017/2018,2017
+Filippo Melegoni,Central Midfield,1999-02-18,18,Italy,Atalanta BC,Serie A,2017/2018,2017
+Andrea Colpani,Central Midfield,1999-05-11,18,Italy,Atalanta BC,Serie A,2017/2018,2017
+Dejan Kulusevski,Central Midfield,2000-04-25,17,Sweden,Atalanta BC,Serie A,2017/2018,2017
+Riccardo Orsolini,Right Winger,1997-01-24,20,Italy,Atalanta BC,Serie A,2017/2018,2017
+Emmanuel Latte Lath,Right Winger,1999-01-02,18,Cote d'Ivoire,Atalanta BC,Serie A,2017/2018,2017
+Salvatore Elia,Right Winger,1999-06-30,18,Italy,Atalanta BC,Serie A,2017/2018,2017
+Lorenzo Peli,Right Winger,2000-01-24,17,Italy,Atalanta BC,Serie A,2017/2018,2017
+Papu Gómez,Second Striker,1988-02-15,29,Argentina,Atalanta BC,Serie A,2017/2018,2017
+Josip Ilicic,Second Striker,1988-01-29,29,Slovenia,Atalanta BC,Serie A,2017/2018,2017
+Andrea Petagna,Centre-Forward,1995-06-30,22,Italy,Atalanta BC,Serie A,2017/2018,2017
+Andreas Cornelius,Centre-Forward,1993-03-16,24,Denmark,Atalanta BC,Serie A,2017/2018,2017
+Luca Vido,Centre-Forward,1997-02-03,20,Italy,Atalanta BC,Serie A,2017/2018,2017
+Musa Barrow,Centre-Forward,1998-11-14,18,The Gambia,Atalanta BC,Serie A,2017/2018,2017
+Andrea Consigli,Goalkeeper,1987-01-27,30,Italy,US Sassuolo,Serie A,2017/2018,2017
+Gianluca Pegolo,Goalkeeper,1981-03-25,36,Italy,US Sassuolo,Serie A,2017/2018,2017
+Giacomo Satalino,Goalkeeper,1999-05-20,18,Italy,US Sassuolo,Serie A,2017/2018,2017
+Leonardo Marson,Goalkeeper,1998-01-05,19,Italy,US Sassuolo,Serie A,2017/2018,2017
+Francesco Acerbi,Centre-Back,1988-02-10,29,Italy,US Sassuolo,Serie A,2017/2018,2017
+Mauricio Lemos,Centre-Back,1995-12-28,21,Uruguay,US Sassuolo,Serie A,2017/2018,2017
+Timo Letschert,Centre-Back,1993-05-25,24,Netherlands,US Sassuolo,Serie A,2017/2018,2017
+Edoardo Goldaniga,Centre-Back,1993-11-02,23,Italy,US Sassuolo,Serie A,2017/2018,2017
+Luca Antei,Centre-Back,1992-04-19,25,Italy,US Sassuolo,Serie A,2017/2018,2017
+Riccardo Marchizza,Centre-Back,1998-03-26,19,Italy,US Sassuolo,Serie A,2017/2018,2017
+Paolo Cannavaro,Centre-Back,1981-06-26,36,Italy,US Sassuolo,Serie A,2017/2018,2017
+Martin Erlic,Centre-Back,1998-01-24,19,Croatia,US Sassuolo,Serie A,2017/2018,2017
+Manuel Ferrini,Centre-Back,1998-06-25,19,Italy,US Sassuolo,Serie A,2017/2018,2017
+Federico Peluso,Left-Back,1984-01-20,33,Italy,US Sassuolo,Serie A,2017/2018,2017
+Cristian Dell'Orco,Left-Back,1994-02-10,23,Italy,US Sassuolo,Serie A,2017/2018,2017
+Rogério,Left-Back,1998-01-13,19,Brazil,US Sassuolo,Serie A,2017/2018,2017
+Pol Lirola,Right-Back,1997-08-13,19,Spain,US Sassuolo,Serie A,2017/2018,2017
+Claud Adjapong,Right-Back,1998-05-06,19,Italy,US Sassuolo,Serie A,2017/2018,2017
+Marcello Gazzola,Right-Back,1985-04-03,32,Italy,US Sassuolo,Serie A,2017/2018,2017
+Simone Missiroli,Defensive Midfield,1986-05-23,31,Italy,US Sassuolo,Serie A,2017/2018,2017
+Francesco Magnanelli,Defensive Midfield,1984-11-12,32,Italy,US Sassuolo,Serie A,2017/2018,2017
+Alfred Duncan,Central Midfield,1993-03-10,24,Ghana,US Sassuolo,Serie A,2017/2018,2017
+Stefano Sensi,Central Midfield,1995-08-05,21,Italy,US Sassuolo,Serie A,2017/2018,2017
+Luca Mazzitelli,Central Midfield,1995-11-15,21,Italy,US Sassuolo,Serie A,2017/2018,2017
+Francesco Cassata,Central Midfield,1997-07-16,19,Italy,US Sassuolo,Serie A,2017/2018,2017
+Davide Biondini,Central Midfield,1983-01-24,34,Italy,US Sassuolo,Serie A,2017/2018,2017
+Davide Frattesi,Central Midfield,1999-09-22,17,Italy,US Sassuolo,Serie A,2017/2018,2017
+Daniele Cipolla,Central Midfield,1998-02-09,19,Italy,US Sassuolo,Serie A,2017/2018,2017
+Antonino Ragusa,Left Winger,1990-03-27,27,Italy,US Sassuolo,Serie A,2017/2018,2017
+Nicholas Pierini,Left Winger,1998-08-06,18,Italy,US Sassuolo,Serie A,2017/2018,2017
+Domenico Berardi,Right Winger,1994-08-01,22,Italy,US Sassuolo,Serie A,2017/2018,2017
+Matteo Politano,Right Winger,1993-08-03,23,Italy,US Sassuolo,Serie A,2017/2018,2017
+Federico Ricci,Right Winger,1994-05-27,23,Italy,US Sassuolo,Serie A,2017/2018,2017
+Khouma Babacar,Centre-Forward,1993-03-17,24,Senegal,US Sassuolo,Serie A,2017/2018,2017
+Diego Falcinelli,Centre-Forward,1991-06-26,26,Italy,US Sassuolo,Serie A,2017/2018,2017
+Pietro Iemmello,Centre-Forward,1992-03-06,25,Italy,US Sassuolo,Serie A,2017/2018,2017
+Alessandro Matri,Centre-Forward,1984-08-19,32,Italy,US Sassuolo,Serie A,2017/2018,2017
+Gianluca Scamacca,Centre-Forward,1999-01-01,18,Italy,US Sassuolo,Serie A,2017/2018,2017
+Giacomo Raspadori,Centre-Forward,2000-02-18,17,Italy,US Sassuolo,Serie A,2017/2018,2017
+Emiliano Viviano,Goalkeeper,1985-12-01,31,Italy,UC Sampdoria,Serie A,2017/2018,2017
+Vid Belec,Goalkeeper,1990-06-06,27,Slovenia,UC Sampdoria,Serie A,2017/2018,2017
+Christian Puggioni,Goalkeeper,1981-01-17,36,Italy,UC Sampdoria,Serie A,2017/2018,2017
+Andrea Tozzo,Goalkeeper,1992-08-30,24,Italy,UC Sampdoria,Serie A,2017/2018,2017
+Titas Krapikas,Goalkeeper,1999-01-03,18,Lithuania,UC Sampdoria,Serie A,2017/2018,2017
+Gergely Hutvágner,Goalkeeper,2000-07-01,17,Hungary,UC Sampdoria,Serie A,2017/2018,2017
+Gian Marco Ferrari,Centre-Back,1992-05-15,25,Italy,UC Sampdoria,Serie A,2017/2018,2017
+Vasco Regini,Centre-Back,1990-09-09,26,Italy,UC Sampdoria,Serie A,2017/2018,2017
+Matías Silvestre,Centre-Back,1984-09-25,32,Argentina,UC Sampdoria,Serie A,2017/2018,2017
+Joachim Andersen,Centre-Back,1996-05-31,21,Denmark,UC Sampdoria,Serie A,2017/2018,2017
+Maxime Leverbe,Centre-Back,1997-02-15,20,France,UC Sampdoria,Serie A,2017/2018,2017
+Ivan Strinic,Left-Back,1987-07-17,29,Croatia,UC Sampdoria,Serie A,2017/2018,2017
+Dodô,Left-Back,1992-02-06,25,Brazil,UC Sampdoria,Serie A,2017/2018,2017
+Nicola Murru,Left-Back,1994-12-16,22,Italy,UC Sampdoria,Serie A,2017/2018,2017
+Daniel Pavlovic,Left-Back,1988-04-22,29,Bosnia-Herzegovina,UC Sampdoria,Serie A,2017/2018,2017
+Jacopo Sala,Right-Back,1991-12-05,25,Italy,UC Sampdoria,Serie A,2017/2018,2017
+Bartosz Bereszynski,Right-Back,1992-07-12,24,Poland,UC Sampdoria,Serie A,2017/2018,2017
+Emanuel Ercolano,Right-Back,2002-10-15,14,Italy,UC Sampdoria,Serie A,2017/2018,2017
+Lucas Torreira,Defensive Midfield,1996-02-11,21,Uruguay,UC Sampdoria,Serie A,2017/2018,2017
+Leonardo Capezzi,Defensive Midfield,1995-03-29,22,Italy,UC Sampdoria,Serie A,2017/2018,2017
+Dennis Praet,Central Midfield,1994-05-14,23,Belgium,UC Sampdoria,Serie A,2017/2018,2017
+Karol Linetty,Central Midfield,1995-02-02,22,Poland,UC Sampdoria,Serie A,2017/2018,2017
+Valerio Verre,Central Midfield,1994-01-11,23,Italy,UC Sampdoria,Serie A,2017/2018,2017
+David Ivan,Central Midfield,1995-02-26,22,Slovakia,UC Sampdoria,Serie A,2017/2018,2017
+Édgar Barreto,Central Midfield,1984-07-15,32,Paraguay,UC Sampdoria,Serie A,2017/2018,2017
+Andrea Tessiore,Central Midfield,1999-10-01,17,Italy,UC Sampdoria,Serie A,2017/2018,2017
+Michal Tomic,Right Midfield,1999-03-30,18,Slovakia,UC Sampdoria,Serie A,2017/2018,2017
+Gastón Ramírez,Attacking Midfield,1990-12-02,26,Uruguay,UC Sampdoria,Serie A,2017/2018,2017
+Ricardo Álvarez,Attacking Midfield,1988-04-12,29,Argentina,UC Sampdoria,Serie A,2017/2018,2017
+Filip Djuricic,Left Winger,1992-01-30,25,Serbia,UC Sampdoria,Serie A,2017/2018,2017
+Ricciulli,Left Winger,1999-10-10,17,Guinea-Bissau,UC Sampdoria,Serie A,2017/2018,2017
+Ognjen Stijepovic,Left Winger,1999-10-22,17,Montenegro,UC Sampdoria,Serie A,2017/2018,2017
+Gianluca Caprari,Second Striker,1993-07-30,23,Italy,UC Sampdoria,Serie A,2017/2018,2017
+Patrik Schick,Centre-Forward,1996-01-24,21,Czech Republic,UC Sampdoria,Serie A,2017/2018,2017
+Duván Zapata,Centre-Forward,1991-04-01,26,Colombia,UC Sampdoria,Serie A,2017/2018,2017
+Fabio Quagliarella,Centre-Forward,1983-01-31,34,Italy,UC Sampdoria,Serie A,2017/2018,2017
+Federico Bonazzoli,Centre-Forward,1997-05-21,20,Italy,UC Sampdoria,Serie A,2017/2018,2017
+Dawid Kownacki,Centre-Forward,1997-03-14,20,Poland,UC Sampdoria,Serie A,2017/2018,2017
+Ibourahima Baldé,Centre-Forward,1999-03-23,18,Spain,UC Sampdoria,Serie A,2017/2018,2017
+Mattia Perin,Goalkeeper,1992-11-10,24,Italy,Genoa CFC,Serie A,2017/2018,2017
+Eugenio Lamanna,Goalkeeper,1989-08-07,27,Italy,Genoa CFC,Serie A,2017/2018,2017
+Lukas Zima,Goalkeeper,1994-01-09,23,Czech Republic,Genoa CFC,Serie A,2017/2018,2017
+Alessio Rollandi,Goalkeeper,1999-07-06,17,Italy,Genoa CFC,Serie A,2017/2018,2017
+Armando Izzo,Centre-Back,1992-03-02,25,Italy,Genoa CFC,Serie A,2017/2018,2017
+Ervin Zukanovic,Centre-Back,1987-02-11,30,Bosnia-Herzegovina,Genoa CFC,Serie A,2017/2018,2017
+Luca Rossettini,Centre-Back,1985-05-09,32,Italy,Genoa CFC,Serie A,2017/2018,2017
+Loïck Landre,Centre-Back,1992-05-05,25,France,Genoa CFC,Serie A,2017/2018,2017
+Davide Biraschi,Centre-Back,1994-07-02,22,Italy,Genoa CFC,Serie A,2017/2018,2017
+Nicolás Spolli,Centre-Back,1983-02-20,34,Argentina,Genoa CFC,Serie A,2017/2018,2017
+Santiago Gentiletti,Centre-Back,1985-01-09,32,Argentina,Genoa CFC,Serie A,2017/2018,2017
+Jawad El Yamiq,Centre-Back,1992-02-29,25,Morocco,Genoa CFC,Serie A,2017/2018,2017
+Francesco Migliore,Left-Back,1988-04-17,29,Italy,Genoa CFC,Serie A,2017/2018,2017
+Davide Brivio,Left-Back,1988-03-17,29,Italy,Genoa CFC,Serie A,2017/2018,2017
+Raul Oprut,Left-Back,1998-01-04,19,Romania,Genoa CFC,Serie A,2017/2018,2017
+Pedro Pereira,Right-Back,1998-01-22,19,Portugal,Genoa CFC,Serie A,2017/2018,2017
+Aleandro Rosi,Right-Back,1987-05-17,30,Italy,Genoa CFC,Serie A,2017/2018,2017
+Antonio Candela,Right-Back,2000-04-27,17,Italy,Genoa CFC,Serie A,2017/2018,2017
+Miguel Veloso,Defensive Midfield,1986-05-11,31,Portugal,Genoa CFC,Serie A,2017/2018,2017
+Andrea Bertolacci,Central Midfield,1991-01-11,26,Italy,Genoa CFC,Serie A,2017/2018,2017
+Daniel Bessa,Central Midfield,1993-01-14,24,Italy,Genoa CFC,Serie A,2017/2018,2017
+Oscar Hiljemark,Central Midfield,1992-06-28,25,Sweden,Genoa CFC,Serie A,2017/2018,2017
+Luca Rigoni,Central Midfield,1984-12-07,32,Italy,Genoa CFC,Serie A,2017/2018,2017
+Isaac Cofie,Central Midfield,1991-09-20,25,Ghana,Genoa CFC,Serie A,2017/2018,2017
+Petar Brlek,Central Midfield,1994-01-29,23,Croatia,Genoa CFC,Serie A,2017/2018,2017
+Stephane Omeonga,Central Midfield,1996-03-27,21,Belgium,Genoa CFC,Serie A,2017/2018,2017
+Darko Lazovic,Right Midfield,1990-09-15,26,Serbia,Genoa CFC,Serie A,2017/2018,2017
+Diego Laxalt,Left Midfield,1993-02-07,24,Uruguay,Genoa CFC,Serie A,2017/2018,2017
+Adel Taarabt,Attacking Midfield,1989-05-24,28,Morocco,Genoa CFC,Serie A,2017/2018,2017
+Ricardo Centurión,Left Winger,1993-01-19,24,Argentina,Genoa CFC,Serie A,2017/2018,2017
+Nikola Ninkovic,Left Winger,1994-12-19,22,Serbia,Genoa CFC,Serie A,2017/2018,2017
+Raffaele Palladino,Left Winger,1984-04-17,33,Italy,Genoa CFC,Serie A,2017/2018,2017
+David Milinkovic,Left Winger,1994-05-20,23,France,Genoa CFC,Serie A,2017/2018,2017
+Iuri Medeiros,Right Winger,1994-07-10,22,Portugal,Genoa CFC,Serie A,2017/2018,2017
+Federico Ricci,Right Winger,1994-05-27,23,Italy,Genoa CFC,Serie A,2017/2018,2017
+Thomas Rodríguez,Right Winger,1996-04-05,21,Argentina,Genoa CFC,Serie A,2017/2018,2017
+Luca Zanimacchia,Right Winger,1998-07-19,18,Italy,Genoa CFC,Serie A,2017/2018,2017
+Goran Pandev,Second Striker,1983-07-27,33,North Macedonia,Genoa CFC,Serie A,2017/2018,2017
+Giovanni Simeone,Centre-Forward,1995-07-05,21,Argentina,Genoa CFC,Serie A,2017/2018,2017
+Gianluca Lapadula,Centre-Forward,1990-02-07,27,Italy,Genoa CFC,Serie A,2017/2018,2017
+Giuseppe Rossi,Centre-Forward,1987-02-01,30,Italy,Genoa CFC,Serie A,2017/2018,2017
+Andrej Galabinov,Centre-Forward,1988-11-13,28,Bulgaria,Genoa CFC,Serie A,2017/2018,2017
+Pietro Pellegri,Centre-Forward,2001-03-17,16,Italy,Genoa CFC,Serie A,2017/2018,2017
+Eddie Salcedo,Centre-Forward,2001-10-01,15,Italy,Genoa CFC,Serie A,2017/2018,2017
+Simone Scuffet,Goalkeeper,1996-05-31,21,Italy,Udinese Calcio,Serie A,2017/2018,2017
+Orestis Karnezis,Goalkeeper,1985-07-11,31,Greece,Udinese Calcio,Serie A,2017/2018,2017
+Albano Bizzarri,Goalkeeper,1977-11-09,39,Argentina,Udinese Calcio,Serie A,2017/2018,2017
+Davide Borsellini,Goalkeeper,1999-01-04,18,Italy,Udinese Calcio,Serie A,2017/2018,2017
+Manuel Gasparini,Goalkeeper,2002-05-19,15,Italy,Udinese Calcio,Serie A,2017/2018,2017
+Semuel Pizzignacco,Goalkeeper,2001-09-01,15,Italy,Udinese Calcio,Serie A,2017/2018,2017
+Samir,Centre-Back,1994-12-05,22,Brazil,Udinese Calcio,Serie A,2017/2018,2017
+Danilo,Centre-Back,1984-05-10,33,Brazil,Udinese Calcio,Serie A,2017/2018,2017
+Bram Nuytinck,Centre-Back,1990-05-04,27,Netherlands,Udinese Calcio,Serie A,2017/2018,2017
+Molla Wagué,Centre-Back,1991-02-21,26,Mali,Udinese Calcio,Serie A,2017/2018,2017
+Gabriele Angella,Centre-Back,1989-04-28,28,Italy,Udinese Calcio,Serie A,2017/2018,2017
+Igor Bubnjic,Centre-Back,1992-07-17,24,Croatia,Udinese Calcio,Serie A,2017/2018,2017
+Pawel Bochniewicz,Centre-Back,1996-01-30,21,Poland,Udinese Calcio,Serie A,2017/2018,2017
+Filip Vaško,Centre-Back,1999-08-11,17,Slovakia,Udinese Calcio,Serie A,2017/2018,2017
+Aldo Caiazza,Centre-Back,1999-03-20,18,Italy,Udinese Calcio,Serie A,2017/2018,2017
+Ali Adnan,Left-Back,1993-12-19,23,Iraq,Udinese Calcio,Serie A,2017/2018,2017
+Giuseppe Pezzella,Left-Back,1997-11-29,19,Italy,Udinese Calcio,Serie A,2017/2018,2017
+Silvan Widmer,Right-Back,1993-03-05,24,Switzerland,Udinese Calcio,Serie A,2017/2018,2017
+Francesco Zampano,Right-Back,1993-09-30,23,Italy,Udinese Calcio,Serie A,2017/2018,2017
+Jens Stryger Larsen,Right-Back,1991-02-21,26,Denmark,Udinese Calcio,Serie A,2017/2018,2017
+Andrea Donadello,Right-Back,2000-04-28,17,Italy,Udinese Calcio,Serie A,2017/2018,2017
+Valon Behrami,Defensive Midfield,1985-04-19,32,Switzerland,Udinese Calcio,Serie A,2017/2018,2017
+Simone Pontisso,Defensive Midfield,1997-03-20,20,Italy,Udinese Calcio,Serie A,2017/2018,2017
+Jakub Jankto,Central Midfield,1996-01-19,21,Czech Republic,Udinese Calcio,Serie A,2017/2018,2017
+Seko Fofana,Central Midfield,1995-05-07,22,Cote d'Ivoire,Udinese Calcio,Serie A,2017/2018,2017
+Andrija Balic,Central Midfield,1997-08-11,19,Croatia,Udinese Calcio,Serie A,2017/2018,2017
+Antonin Barak,Central Midfield,1994-12-03,22,Czech Republic,Udinese Calcio,Serie A,2017/2018,2017
+Emil Hallfredsson,Central Midfield,1984-06-29,33,Iceland,Udinese Calcio,Serie A,2017/2018,2017
+Gaspar Íñiguez,Central Midfield,1994-03-26,23,Argentina,Udinese Calcio,Serie A,2017/2018,2017
+Mak Varesanovic,Central Midfield,1998-08-28,18,Bosnia-Herzegovina,Udinese Calcio,Serie A,2017/2018,2017
+Luis Ndreu,Central Midfield,1999-05-20,18,Albania,Udinese Calcio,Serie A,2017/2018,2017
+Alexis Zapata,Attacking Midfield,1995-05-10,22,Colombia,Udinese Calcio,Serie A,2017/2018,2017
+Nicolás Garmendia,Attacking Midfield,1998-02-01,19,Spain,Udinese Calcio,Serie A,2017/2018,2017
+Rodrigo de Paul,Left Winger,1994-05-24,23,Argentina,Udinese Calcio,Serie A,2017/2018,2017
+Ewandro Costa,Right Winger,1996-03-15,21,Brazil,Udinese Calcio,Serie A,2017/2018,2017
+Aly Mallé,Right Winger,1998-04-03,19,Mali,Udinese Calcio,Serie A,2017/2018,2017
+Svante Ingelsson,Right Winger,1998-06-14,19,Sweden,Udinese Calcio,Serie A,2017/2018,2017
+Nabil Jaadi,Right Winger,1996-07-01,21,Morocco,Udinese Calcio,Serie A,2017/2018,2017
+Ryder Matos,Second Striker,1993-02-27,24,Brazil,Udinese Calcio,Serie A,2017/2018,2017
+Cyril Théréau,Second Striker,1983-04-24,34,France,Udinese Calcio,Serie A,2017/2018,2017
+Franck Djoulou,Second Striker,1999-01-01,18,Cote d'Ivoire,Udinese Calcio,Serie A,2017/2018,2017
+Riad Bajić,Centre-Forward,1994-05-06,23,Bosnia-Herzegovina,Udinese Calcio,Serie A,2017/2018,2017
+Kevin Lasagna,Centre-Forward,1992-08-10,24,Italy,Udinese Calcio,Serie A,2017/2018,2017
+Stipe Perica,Centre-Forward,1995-07-07,21,Croatia,Udinese Calcio,Serie A,2017/2018,2017
+Rodrigo Aguirre,Centre-Forward,1994-10-01,22,Uruguay,Udinese Calcio,Serie A,2017/2018,2017
+Maxi López,Centre-Forward,1984-04-03,33,Argentina,Udinese Calcio,Serie A,2017/2018,2017
+Antonio Mirante,Goalkeeper,1983-07-08,33,Italy,Bologna FC 1909,Serie A,2017/2018,2017
+Angelo da Costa,Goalkeeper,1983-11-12,33,Brazil,Bologna FC 1909,Serie A,2017/2018,2017
+Antonio Santurro,Goalkeeper,1992-02-29,25,Italy,Bologna FC 1909,Serie A,2017/2018,2017
+Federico Ravaglia,Goalkeeper,1999-11-11,17,Italy,Bologna FC 1909,Serie A,2017/2018,2017
+Thomas Fantoni,Goalkeeper,2001-04-10,16,Italy,Bologna FC 1909,Serie A,2017/2018,2017
+Lorenzo Bruzzi,Goalkeeper,2000-01-31,17,Italy,Bologna FC 1909,Serie A,2017/2018,2017
+Giancarlo González,Centre-Back,1988-02-08,29,Costa Rica,Bologna FC 1909,Serie A,2017/2018,2017
+Simone Romagnoli,Centre-Back,1990-02-09,27,Italy,Bologna FC 1909,Serie A,2017/2018,2017
+Sebastien De Maio,Centre-Back,1987-03-05,30,France,Bologna FC 1909,Serie A,2017/2018,2017
+Filip Helander,Centre-Back,1993-04-22,24,Sweden,Bologna FC 1909,Serie A,2017/2018,2017
+Daniele Gastaldello,Centre-Back,1983-06-25,34,Italy,Bologna FC 1909,Serie A,2017/2018,2017
+Domenico Maietta,Centre-Back,1982-08-03,34,Italy,Bologna FC 1909,Serie A,2017/2018,2017
+Fabrizio Brignani,Centre-Back,1998-01-13,19,Italy,Bologna FC 1909,Serie A,2017/2018,2017
+Adam Masina,Left-Back,1994-01-02,23,Italy,Bologna FC 1909,Serie A,2017/2018,2017
+Cheick Keita,Left-Back,1996-04-16,21,Mali,Bologna FC 1909,Serie A,2017/2018,2017
+Gianluca Frabotta,Left-Back,1999-06-24,18,Italy,Bologna FC 1909,Serie A,2017/2018,2017
+Ibrahima Mbaye,Right-Back,1994-11-19,22,Senegal,Bologna FC 1909,Serie A,2017/2018,2017
+Emil Krafth,Right-Back,1994-08-02,22,Sweden,Bologna FC 1909,Serie A,2017/2018,2017
+Vasilios Torosidis,Right-Back,1985-06-10,32,Greece,Bologna FC 1909,Serie A,2017/2018,2017
+Ádám Nagy,Defensive Midfield,1995-06-17,22,Hungary,Bologna FC 1909,Serie A,2017/2018,2017
+Lorenzo Crisetig,Defensive Midfield,1993-01-20,24,Italy,Bologna FC 1909,Serie A,2017/2018,2017
+Erick Pulgar,Defensive Midfield,1994-01-15,23,Chile,Bologna FC 1909,Serie A,2017/2018,2017
+Saphir Taider,Central Midfield,1992-02-29,25,Algeria,Bologna FC 1909,Serie A,2017/2018,2017
+Godfred Donsah,Central Midfield,1996-06-07,21,Ghana,Bologna FC 1909,Serie A,2017/2018,2017
+Andrea Poli,Central Midfield,1989-09-29,27,Italy,Bologna FC 1909,Serie A,2017/2018,2017
+Blerim Dzemaili,Central Midfield,1986-04-12,31,Switzerland,Bologna FC 1909,Serie A,2017/2018,2017
+Kingsley Michael,Central Midfield,1999-08-26,17,Nigeria,Bologna FC 1909,Serie A,2017/2018,2017
+César Falletti,Attacking Midfield,1992-12-02,24,Uruguay,Bologna FC 1909,Serie A,2017/2018,2017
+Juan Manuel Valencia,Attacking Midfield,1998-06-20,19,Colombia,Bologna FC 1909,Serie A,2017/2018,2017
+Ladislav Krejci,Left Winger,1992-07-05,24,Czech Republic,Bologna FC 1909,Serie A,2017/2018,2017
+Federico Di Francesco,Left Winger,1994-06-14,23,Italy,Bologna FC 1909,Serie A,2017/2018,2017
+Anthony Mounier,Left Winger,1987-09-27,29,France,Bologna FC 1909,Serie A,2017/2018,2017
+Orji Okwonkwo,Left Winger,1998-01-19,19,Nigeria,Bologna FC 1909,Serie A,2017/2018,2017
+Simone Verdi,Right Winger,1992-07-12,24,Italy,Bologna FC 1909,Serie A,2017/2018,2017
+Riccardo Orsolini,Right Winger,1997-01-24,20,Italy,Bologna FC 1909,Serie A,2017/2018,2017
+Filippo Falco,Second Striker,1992-02-11,25,Italy,Bologna FC 1909,Serie A,2017/2018,2017
+Cristian Mutton,Second Striker,1999-01-06,18,Italy,Bologna FC 1909,Serie A,2017/2018,2017
+Mattia Destro,Centre-Forward,1991-03-20,26,Italy,Bologna FC 1909,Serie A,2017/2018,2017
+Felipe Avenatti,Centre-Forward,1993-04-26,24,Uruguay,Bologna FC 1909,Serie A,2017/2018,2017
+Bruno Petkovic,Centre-Forward,1994-09-16,22,Croatia,Bologna FC 1909,Serie A,2017/2018,2017
+Rodrigo Palacio,Centre-Forward,1982-02-05,35,Argentina,Bologna FC 1909,Serie A,2017/2018,2017
+Alessio Cragno,Goalkeeper,1994-06-28,23,Italy,Cagliari Calcio,Serie A,2017/2018,2017
+Rafael,Goalkeeper,1982-03-03,35,Brazil,Cagliari Calcio,Serie A,2017/2018,2017
+Luca Crosta,Goalkeeper,1998-02-23,19,Italy,Cagliari Calcio,Serie A,2017/2018,2017
+Riccardo Daga,Goalkeeper,2000-01-13,17,Italy,Cagliari Calcio,Serie A,2017/2018,2017
+Niccolò Cabras,Goalkeeper,2001-02-11,16,Italy,Cagliari Calcio,Serie A,2017/2018,2017
+Leandro Castán,Centre-Back,1986-11-05,30,Brazil,Cagliari Calcio,Serie A,2017/2018,2017
+Marco Andreolli,Centre-Back,1986-06-10,31,Italy,Cagliari Calcio,Serie A,2017/2018,2017
+Luca Ceppitelli,Centre-Back,1989-08-11,27,Italy,Cagliari Calcio,Serie A,2017/2018,2017
+Filippo Romagna,Centre-Back,1997-05-26,20,Italy,Cagliari Calcio,Serie A,2017/2018,2017
+Fabio Pisacane,Centre-Back,1986-01-28,31,Italy,Cagliari Calcio,Serie A,2017/2018,2017
+Marco Capuano,Centre-Back,1991-10-14,25,Italy,Cagliari Calcio,Serie A,2017/2018,2017
+Andrea Cadili,Centre-Back,1999-06-05,18,Italy,Cagliari Calcio,Serie A,2017/2018,2017
+Alexander Molberg,Centre-Back,1999-02-26,18,Denmark,Cagliari Calcio,Serie A,2017/2018,2017
+Senna Miangue,Left-Back,1997-02-05,20,Belgium,Cagliari Calcio,Serie A,2017/2018,2017
+Charalampos Lykogiannis,Left-Back,1993-10-22,23,Greece,Cagliari Calcio,Serie A,2017/2018,2017
+Mattia Pitzalis,Left-Back,2000-04-04,17,Italy,Cagliari Calcio,Serie A,2017/2018,2017
+Gregory van der Wiel,Right-Back,1988-02-03,29,Netherlands,Cagliari Calcio,Serie A,2017/2018,2017
+Antonio Balzano,Right-Back,1986-06-13,31,Italy,Cagliari Calcio,Serie A,2017/2018,2017
+Christ Kouadio,Right-Back,2000-12-23,16,Cote d'Ivoire,Cagliari Calcio,Serie A,2017/2018,2017
+Luca Cigarini,Defensive Midfield,1986-06-20,31,Italy,Cagliari Calcio,Serie A,2017/2018,2017
+Riccardo Ladinetti,Defensive Midfield,2000-12-20,16,Italy,Cagliari Calcio,Serie A,2017/2018,2017
+Nicolò Barella,Central Midfield,1997-02-07,20,Italy,Cagliari Calcio,Serie A,2017/2018,2017
+Artur Ionita,Central Midfield,1990-08-17,26,Moldova,Cagliari Calcio,Serie A,2017/2018,2017
+Paolo Faragò,Central Midfield,1993-02-12,24,Italy,Cagliari Calcio,Serie A,2017/2018,2017
+Daniele Dessena,Central Midfield,1987-05-10,30,Italy,Cagliari Calcio,Serie A,2017/2018,2017
+Alessandro Deiola,Central Midfield,1995-08-01,21,Italy,Cagliari Calcio,Serie A,2017/2018,2017
+Fabrizio Caligara,Central Midfield,2000-04-12,17,Italy,Cagliari Calcio,Serie A,2017/2018,2017
+Joseph Tetteh,Central Midfield,1999-05-30,18,Ghana,Cagliari Calcio,Serie A,2017/2018,2017
+Simone Padoin,Left Midfield,1984-03-18,33,Italy,Cagliari Calcio,Serie A,2017/2018,2017
+João Pedro,Attacking Midfield,1992-03-09,25,Brazil,Cagliari Calcio,Serie A,2017/2018,2017
+Andrea Cossu,Attacking Midfield,1980-05-03,37,Italy,Cagliari Calcio,Serie A,2017/2018,2017
+Diego Farias,Second Striker,1990-05-10,27,Brazil,Cagliari Calcio,Serie A,2017/2018,2017
+Leonardo Pavoletti,Centre-Forward,1988-11-26,28,Italy,Cagliari Calcio,Serie A,2017/2018,2017
+Marco Sau,Centre-Forward,1987-11-03,29,Italy,Cagliari Calcio,Serie A,2017/2018,2017
+Duje Cop,Centre-Forward,1990-02-01,27,Croatia,Cagliari Calcio,Serie A,2017/2018,2017
+Federico Melchiorri,Centre-Forward,1987-01-06,30,Italy,Cagliari Calcio,Serie A,2017/2018,2017
+Niccolò Giannetti,Centre-Forward,1991-05-12,26,Italy,Cagliari Calcio,Serie A,2017/2018,2017
+Marco Borriello,Centre-Forward,1982-06-18,35,Italy,Cagliari Calcio,Serie A,2017/2018,2017
+Kwang-Song Han,Centre-Forward,1998-09-11,18,"Korea, North",Cagliari Calcio,Serie A,2017/2018,2017
+Damir Ceter,Centre-Forward,1997-11-02,19,Colombia,Cagliari Calcio,Serie A,2017/2018,2017
+Luca Gagliano,Centre-Forward,2000-07-14,16,Italy,Cagliari Calcio,Serie A,2017/2018,2017
+Vid Belec,Goalkeeper,1990-06-06,27,Slovenia,Benevento Calcio,Serie A,2017/2018,2017
+Alberto Brignoli,Goalkeeper,1991-08-19,25,Italy,Benevento Calcio,Serie A,2017/2018,2017
+Christian Puggioni,Goalkeeper,1981-01-17,36,Italy,Benevento Calcio,Serie A,2017/2018,2017
+Riccardo Piscitelli,Goalkeeper,1993-10-10,23,Italy,Benevento Calcio,Serie A,2017/2018,2017
+Thomas Candeloro,Goalkeeper,2000-05-29,17,Switzerland,Benevento Calcio,Serie A,2017/2018,2017
+Gianluca Volzone,Goalkeeper,2000-07-21,16,Italy,Benevento Calcio,Serie A,2017/2018,2017
+Andrea Costa,Centre-Back,1986-02-01,31,Italy,Benevento Calcio,Serie A,2017/2018,2017
+Luca Antei,Centre-Back,1992-04-19,25,Italy,Benevento Calcio,Serie A,2017/2018,2017
+Fabio Lucioni,Centre-Back,1987-09-25,29,Italy,Benevento Calcio,Serie A,2017/2018,2017
+Berat Djimsiti,Centre-Back,1993-02-19,24,Albania,Benevento Calcio,Serie A,2017/2018,2017
+Michele Camporese,Centre-Back,1992-05-19,25,Italy,Benevento Calcio,Serie A,2017/2018,2017
+Andrew Gravillon,Centre-Back,1998-02-08,19,Guadeloupe,Benevento Calcio,Serie A,2017/2018,2017
+Jean-Claude Billong,Centre-Back,1993-12-28,23,France,Benevento Calcio,Serie A,2017/2018,2017
+Luca Sparandeo,Centre-Back,1999-08-18,17,Italy,Benevento Calcio,Serie A,2017/2018,2017
+Christian Rutjens,Centre-Back,1998-01-05,19,Spain,Benevento Calcio,Serie A,2017/2018,2017
+Achraf Lazaar,Left-Back,1992-01-22,25,Morocco,Benevento Calcio,Serie A,2017/2018,2017
+Alin Tosca,Left-Back,1992-03-14,25,Romania,Benevento Calcio,Serie A,2017/2018,2017
+Gianluca Di Chiara,Left-Back,1993-12-26,23,Italy,Benevento Calcio,Serie A,2017/2018,2017
+Bacary Sagna,Right-Back,1983-02-14,34,France,Benevento Calcio,Serie A,2017/2018,2017
+Gaetano Letizia,Right-Back,1990-06-29,27,Italy,Benevento Calcio,Serie A,2017/2018,2017
+Lorenzo Venuti,Right-Back,1995-04-12,22,Italy,Benevento Calcio,Serie A,2017/2018,2017
+Bright Gyamfi,Right-Back,1996-01-20,21,Ghana,Benevento Calcio,Serie A,2017/2018,2017
+Sandro,Defensive Midfield,1989-03-15,28,Brazil,Benevento Calcio,Serie A,2017/2018,2017
+Danilo Cataldi,Central Midfield,1994-08-06,22,Italy,Benevento Calcio,Serie A,2017/2018,2017
+Raman Chibsah,Central Midfield,1993-03-10,24,Ghana,Benevento Calcio,Serie A,2017/2018,2017
+Ledian Memushaj,Central Midfield,1986-12-07,30,Albania,Benevento Calcio,Serie A,2017/2018,2017
+Nicolas Viola,Central Midfield,1989-10-12,27,Italy,Benevento Calcio,Serie A,2017/2018,2017
+Mirko Eramo,Central Midfield,1989-07-12,27,Italy,Benevento Calcio,Serie A,2017/2018,2017
+Lorenzo Del Pinto,Central Midfield,1990-06-17,27,Italy,Benevento Calcio,Serie A,2017/2018,2017
+Giovanni Volpicelli,Central Midfield,1999-09-24,17,Italy,Benevento Calcio,Serie A,2017/2018,2017
+Alessio Donnarumma,Central Midfield,1998-02-16,19,Italy,Benevento Calcio,Serie A,2017/2018,2017
+Siriki Sanogo,Central Midfield,2001-12-21,15,Cote d'Ivoire,Benevento Calcio,Serie A,2017/2018,2017
+Marco D'Alessandro,Right Midfield,1991-02-17,26,Italy,Benevento Calcio,Serie A,2017/2018,2017
+Guilherme,Attacking Midfield,1991-05-21,26,Brazil,Benevento Calcio,Serie A,2017/2018,2017
+Filip Djuricic,Left Winger,1992-01-30,25,Serbia,Benevento Calcio,Serie A,2017/2018,2017
+Mamadou Kanoute,Left Winger,1993-10-07,23,Senegal,Benevento Calcio,Serie A,2017/2018,2017
+Amato Ciciretti,Right Winger,1993-12-31,23,Italy,Benevento Calcio,Serie A,2017/2018,2017
+Vittorio Parigini,Right Winger,1996-03-25,21,Italy,Benevento Calcio,Serie A,2017/2018,2017
+Cristiano Lombardi,Right Winger,1995-08-19,21,Italy,Benevento Calcio,Serie A,2017/2018,2017
+Enrico Brignola,Second Striker,1999-07-08,17,Italy,Benevento Calcio,Serie A,2017/2018,2017
+Cheick Diabaté,Centre-Forward,1988-04-25,29,Mali,Benevento Calcio,Serie A,2017/2018,2017
+Samuel Armenteros,Centre-Forward,1990-05-27,27,Sweden,Benevento Calcio,Serie A,2017/2018,2017
+Fabio Ceravolo,Centre-Forward,1987-03-05,30,Italy,Benevento Calcio,Serie A,2017/2018,2017
+Massimo Coda,Centre-Forward,1988-11-10,28,Italy,Benevento Calcio,Serie A,2017/2018,2017
+George Puscas,Centre-Forward,1996-04-08,21,Romania,Benevento Calcio,Serie A,2017/2018,2017
+Pietro Iemmello,Centre-Forward,1992-03-06,25,Italy,Benevento Calcio,Serie A,2017/2018,2017
+Karamoko Cissé,Centre-Forward,1988-11-14,28,Guinea,Benevento Calcio,Serie A,2017/2018,2017
+Vincenzo Pinto,Centre-Forward,2000-10-31,16,Italy,Benevento Calcio,Serie A,2017/2018,2017
+Stefano Sorrentino,Goalkeeper,1979-03-28,38,Italy,Chievo Verona,Serie A,2017/2018,2017
+Andrea Seculin,Goalkeeper,1990-07-14,26,Italy,Chievo Verona,Serie A,2017/2018,2017
+Alessandro Confente,Goalkeeper,1998-06-07,19,Italy,Chievo Verona,Serie A,2017/2018,2017
+Filippo Pavoni,Goalkeeper,1999-08-08,17,Italy,Chievo Verona,Serie A,2017/2018,2017
+Nenad Tomović,Centre-Back,1987-08-30,29,Serbia,Chievo Verona,Serie A,2017/2018,2017
+Mattia Bani,Centre-Back,1993-12-10,23,Italy,Chievo Verona,Serie A,2017/2018,2017
+Dario Dainelli,Centre-Back,1979-06-09,38,Italy,Chievo Verona,Serie A,2017/2018,2017
+Alessandro Gamberini,Centre-Back,1981-08-27,35,Italy,Chievo Verona,Serie A,2017/2018,2017
+Bostjan Cesar,Centre-Back,1982-07-09,34,Slovenia,Chievo Verona,Serie A,2017/2018,2017
+Michele Rigione,Centre-Back,1991-03-07,26,Italy,Chievo Verona,Serie A,2017/2018,2017
+Strahinja Tanasijevic,Centre-Back,1997-06-12,20,Serbia,Chievo Verona,Serie A,2017/2018,2017
+Pawel Jaroszynski,Left-Back,1994-10-02,22,Poland,Chievo Verona,Serie A,2017/2018,2017
+Massimo Gobbi,Left-Back,1980-10-31,36,Italy,Chievo Verona,Serie A,2017/2018,2017
+Fabrizio Cacciatore,Right-Back,1986-10-08,30,Italy,Chievo Verona,Serie A,2017/2018,2017
+Nicolas Frey,Right-Back,1984-03-06,33,France,Chievo Verona,Serie A,2017/2018,2017
+Fabio Depaoli,Right-Back,1997-04-24,20,Italy,Chievo Verona,Serie A,2017/2018,2017
+Ivan Radovanovic,Defensive Midfield,1988-08-29,28,Serbia,Chievo Verona,Serie A,2017/2018,2017
+Lucas Castro,Central Midfield,1989-04-09,28,Argentina,Chievo Verona,Serie A,2017/2018,2017
+Perparim Hetemaj,Central Midfield,1986-12-12,30,Finland,Chievo Verona,Serie A,2017/2018,2017
+Nicola Rigoni,Central Midfield,1990-11-12,26,Italy,Chievo Verona,Serie A,2017/2018,2017
+Samuel Bastien,Central Midfield,1996-09-26,20,Belgium,Chievo Verona,Serie A,2017/2018,2017
+Gianluca Gaudino,Central Midfield,1996-11-11,20,Germany,Chievo Verona,Serie A,2017/2018,2017
+Antonio Cinelli,Central Midfield,1989-12-08,27,Italy,Chievo Verona,Serie A,2017/2018,2017
+Sofian Kiyine,Central Midfield,1997-10-02,19,Morocco,Chievo Verona,Serie A,2017/2018,2017
+Mehdi Léris,Central Midfield,1998-05-23,19,France,Chievo Verona,Serie A,2017/2018,2017
+Emanuele Giaccherini,Left Midfield,1985-05-05,32,Italy,Chievo Verona,Serie A,2017/2018,2017
+Valter Birsa,Attacking Midfield,1986-08-07,30,Slovenia,Chievo Verona,Serie A,2017/2018,2017
+Luca Garritano,Left Winger,1994-02-11,23,Italy,Chievo Verona,Serie A,2017/2018,2017
+Kevin Yamga,Left Winger,1996-09-07,20,France,Chievo Verona,Serie A,2017/2018,2017
+Emanuel Vignato,Right Winger,2000-08-24,16,Italy,Chievo Verona,Serie A,2017/2018,2017
+Manuel Pucciarelli,Second Striker,1991-06-17,26,Italy,Chievo Verona,Serie A,2017/2018,2017
+Riccardo Meggiorini,Second Striker,1985-09-04,31,Italy,Chievo Verona,Serie A,2017/2018,2017
+Roberto Inglese,Centre-Forward,1991-11-12,25,Italy,Chievo Verona,Serie A,2017/2018,2017
+Mariusz Stepinski,Centre-Forward,1995-05-12,22,Poland,Chievo Verona,Serie A,2017/2018,2017
+Alejandro Rodríguez,Centre-Forward,1991-07-30,25,Spain,Chievo Verona,Serie A,2017/2018,2017
+Sergio Pellissier,Centre-Forward,1979-04-12,38,Italy,Chievo Verona,Serie A,2017/2018,2017
+Alex Meret,Goalkeeper,1997-03-22,20,Italy,SPAL 2013,Serie A,2017/2018,2017
+Alfred Gomis,Goalkeeper,1993-09-05,23,Senegal,SPAL 2013,Serie A,2017/2018,2017
+Gabriele Marchegiani,Goalkeeper,1996-06-03,21,Italy,SPAL 2013,Serie A,2017/2018,2017
+Giacomo Poluzzi,Goalkeeper,1988-02-25,29,Italy,SPAL 2013,Serie A,2017/2018,2017
+Luca Seri,Goalkeeper,1999-12-09,17,Italy,SPAL 2013,Serie A,2017/2018,2017
+Marios Oikonomou,Centre-Back,1992-10-06,24,Greece,SPAL 2013,Serie A,2017/2018,2017
+Bartosz Salamon,Centre-Back,1991-05-01,26,Poland,SPAL 2013,Serie A,2017/2018,2017
+Lorenco Simic,Centre-Back,1996-07-15,20,Croatia,SPAL 2013,Serie A,2017/2018,2017
+Francesco Vicari,Centre-Back,1994-08-03,22,Italy,SPAL 2013,Serie A,2017/2018,2017
+Felipe,Centre-Back,1984-07-31,32,Brazil,SPAL 2013,Serie A,2017/2018,2017
+Thiago Cionek,Centre-Back,1986-04-21,31,Poland,SPAL 2013,Serie A,2017/2018,2017
+Michele Cremonesi,Centre-Back,1988-04-15,29,Italy,SPAL 2013,Serie A,2017/2018,2017
+Sauli Väisänen,Centre-Back,1994-06-05,23,Finland,SPAL 2013,Serie A,2017/2018,2017
+Daniele Gasparetto,Centre-Back,1988-04-06,29,Italy,SPAL 2013,Serie A,2017/2018,2017
+Fabio Della Giovanna,Centre-Back,1997-03-21,20,Italy,SPAL 2013,Serie A,2017/2018,2017
+Lorenzo Polvani,Centre-Back,1994-07-26,22,Italy,SPAL 2013,Serie A,2017/2018,2017
+Giacomo Boccafoglia,Centre-Back,1998-12-01,18,Italy,SPAL 2013,Serie A,2017/2018,2017
+Renato,Centre-Back,1998-05-30,19,Brazil,SPAL 2013,Serie A,2017/2018,2017
+Boukary Dramé,Left-Back,1985-07-22,31,Senegal,SPAL 2013,Serie A,2017/2018,2017
+Filippo Costa,Left-Back,1995-05-21,22,Italy,SPAL 2013,Serie A,2017/2018,2017
+Pa Konate,Left-Back,1994-04-25,23,Guinea,SPAL 2013,Serie A,2017/2018,2017
+Federico Mattiello,Right-Back,1995-07-14,21,Italy,SPAL 2013,Serie A,2017/2018,2017
+Federico Viviani,Defensive Midfield,1992-03-24,25,Italy,SPAL 2013,Serie A,2017/2018,2017
+Everton Luiz,Defensive Midfield,1988-05-24,29,Brazil,SPAL 2013,Serie A,2017/2018,2017
+Salvatore Esposito,Defensive Midfield,2000-10-07,16,Italy,SPAL 2013,Serie A,2017/2018,2017
+Jasmin Kurtic,Central Midfield,1989-01-10,28,Slovenia,SPAL 2013,Serie A,2017/2018,2017
+Alberto Grassi,Central Midfield,1995-03-07,22,Italy,SPAL 2013,Serie A,2017/2018,2017
+Luca Rizzo,Central Midfield,1992-04-24,25,Italy,SPAL 2013,Serie A,2017/2018,2017
+Pasquale Schiattarella,Central Midfield,1987-05-30,30,Italy,SPAL 2013,Serie A,2017/2018,2017
+Luca Mora,Central Midfield,1988-05-10,29,Italy,SPAL 2013,Serie A,2017/2018,2017
+Mattia Vitale,Central Midfield,1997-10-01,19,Italy,SPAL 2013,Serie A,2017/2018,2017
+Alessandro Bellemo,Central Midfield,1995-08-07,21,Italy,SPAL 2013,Serie A,2017/2018,2017
+Eros Schiavon,Central Midfield,1983-04-24,34,Italy,SPAL 2013,Serie A,2017/2018,2017
+Manuel Lazzari,Right Midfield,1993-11-29,23,Italy,SPAL 2013,Serie A,2017/2018,2017
+Francesco Pio Russo,Right Winger,1999-03-01,18,Italy,SPAL 2013,Serie A,2017/2018,2017
+Alberto Paloschi,Centre-Forward,1990-01-04,27,Italy,SPAL 2013,Serie A,2017/2018,2017
+Federico Bonazzoli,Centre-Forward,1997-05-21,20,Italy,SPAL 2013,Serie A,2017/2018,2017
+Mirco Antenucci,Centre-Forward,1984-09-08,32,Italy,SPAL 2013,Serie A,2017/2018,2017
+Marco Borriello,Centre-Forward,1982-06-18,35,Italy,SPAL 2013,Serie A,2017/2018,2017
+Sergio Floccari,Centre-Forward,1981-11-12,35,Italy,SPAL 2013,Serie A,2017/2018,2017
+Leonardo Ubaldi,Centre-Forward,1999-07-09,17,Italy,SPAL 2013,Serie A,2017/2018,2017
+Gabriel Barbosa,Centre-Forward,1999-03-17,18,Brazil,SPAL 2013,Serie A,2017/2018,2017
+Nícolas,Goalkeeper,1988-04-12,29,Brazil,Hellas Verona,Serie A,2017/2018,2017
+Marco Silvestri,Goalkeeper,1991-03-02,26,Italy,Hellas Verona,Serie A,2017/2018,2017
+Ferdinando Coppola,Goalkeeper,1978-06-10,39,Italy,Hellas Verona,Serie A,2017/2018,2017
+Nicola Borghetto,Goalkeeper,1999-11-25,17,Italy,Hellas Verona,Serie A,2017/2018,2017
+Martín Cáceres,Centre-Back,1987-04-07,30,Uruguay,Hellas Verona,Serie A,2017/2018,2017
+Jagos Vukovic,Centre-Back,1988-06-10,29,Serbia,Hellas Verona,Serie A,2017/2018,2017
+Thomas Heurtaux,Centre-Back,1988-07-03,28,France,Hellas Verona,Serie A,2017/2018,2017
+Alex Ferrari,Centre-Back,1994-07-01,23,Italy,Hellas Verona,Serie A,2017/2018,2017
+Matteo Bianchetti,Centre-Back,1993-03-17,24,Italy,Hellas Verona,Serie A,2017/2018,2017
+Samuel Souprayen,Centre-Back,1989-02-02,28,France,Hellas Verona,Serie A,2017/2018,2017
+Riccardo Brosco,Centre-Back,1991-02-03,26,Italy,Hellas Verona,Serie A,2017/2018,2017
+Antonio Caracciolo,Centre-Back,1990-06-30,27,Italy,Hellas Verona,Serie A,2017/2018,2017
+Alejandro González,Centre-Back,1988-03-23,29,Uruguay,Hellas Verona,Serie A,2017/2018,2017
+Nicolò Cherubin,Centre-Back,1986-12-02,30,Italy,Hellas Verona,Serie A,2017/2018,2017
+Deian Boldor,Centre-Back,1995-02-03,22,Romania,Hellas Verona,Serie A,2017/2018,2017
+Marash Kumbulla,Centre-Back,2000-02-08,17,Albania,Hellas Verona,Serie A,2017/2018,2017
+Gian Filippo Felicioli,Left-Back,1997-09-30,19,Italy,Hellas Verona,Serie A,2017/2018,2017
+Michelangelo Albertazzi,Left-Back,1991-01-07,26,Italy,Hellas Verona,Serie A,2017/2018,2017
+Marco Fossati,Defensive Midfield,1992-10-05,24,Italy,Hellas Verona,Serie A,2017/2018,2017
+Bruno Zuculini,Defensive Midfield,1993-04-02,24,Argentina,Hellas Verona,Serie A,2017/2018,2017
+Andrea Danzi,Defensive Midfield,1999-02-25,18,Italy,Hellas Verona,Serie A,2017/2018,2017
+Rômulo,Central Midfield,1987-05-22,30,Italy,Hellas Verona,Serie A,2017/2018,2017
+Daniel Bessa,Central Midfield,1993-01-14,24,Italy,Hellas Verona,Serie A,2017/2018,2017
+Marcel Büchel,Central Midfield,1991-03-18,26,Liechtenstein,Hellas Verona,Serie A,2017/2018,2017
+Franco Zuculini,Central Midfield,1990-09-05,26,Argentina,Hellas Verona,Serie A,2017/2018,2017
+Mattia Valoti,Central Midfield,1993-09-06,23,Italy,Hellas Verona,Serie A,2017/2018,2017
+Mattia Zaccagni,Central Midfield,1995-06-16,22,Italy,Hellas Verona,Serie A,2017/2018,2017
+Simone Calvano,Central Midfield,1993-07-11,23,Italy,Hellas Verona,Serie A,2017/2018,2017
+Simon Laner,Central Midfield,1984-01-28,33,Italy,Hellas Verona,Serie A,2017/2018,2017
+Enrico Bearzotti,Right Midfield,1996-10-29,20,Italy,Hellas Verona,Serie A,2017/2018,2017
+Mohamed Fares,Left Midfield,1996-02-15,21,Algeria,Hellas Verona,Serie A,2017/2018,2017
+Simon Stefanec,Attacking Midfield,1998-09-05,18,Slovakia,Hellas Verona,Serie A,2017/2018,2017
+Rolando Aarons,Left Winger,1995-11-16,21,England,Hellas Verona,Serie A,2017/2018,2017
+Seung-woo Lee,Left Winger,1998-01-06,19,"Korea, South",Hellas Verona,Serie A,2017/2018,2017
+Alessio Cerci,Right Winger,1987-07-23,29,Italy,Hellas Verona,Serie A,2017/2018,2017
+Daniele Verde,Right Winger,1996-06-20,21,Italy,Hellas Verona,Serie A,2017/2018,2017
+Ryder Matos,Second Striker,1993-02-27,24,Brazil,Hellas Verona,Serie A,2017/2018,2017
+Moise Kean,Centre-Forward,2000-02-28,17,Italy,Hellas Verona,Serie A,2017/2018,2017
+Giampaolo Pazzini,Centre-Forward,1984-08-02,32,Italy,Hellas Verona,Serie A,2017/2018,2017
+Bruno Petkovic,Centre-Forward,1994-09-16,22,Croatia,Hellas Verona,Serie A,2017/2018,2017
+Lubomir Tupta,Centre-Forward,1998-03-27,19,Slovakia,Hellas Verona,Serie A,2017/2018,2017
+Alex Cordaz,Goalkeeper,1983-01-01,34,Italy,FC Crotone,Serie A,2017/2018,2017
+Marco Festa,Goalkeeper,1992-06-06,25,Italy,FC Crotone,Serie A,2017/2018,2017
+Aniello Viscovo,Goalkeeper,1999-06-21,18,Italy,FC Crotone,Serie A,2017/2018,2017
+Francesco Latella,Goalkeeper,2000-01-27,17,Italy,FC Crotone,Serie A,2017/2018,2017
+Giacomo Figliuzzi,Goalkeeper,2000-11-12,16,Italy,FC Crotone,Serie A,2017/2018,2017
+Federico Ceccherini,Centre-Back,1992-05-11,25,Italy,FC Crotone,Serie A,2017/2018,2017
+Arlind Ajeti,Centre-Back,1993-09-25,23,Albania,FC Crotone,Serie A,2017/2018,2017
+Noë Dussenne,Centre-Back,1992-04-07,25,Belgium,FC Crotone,Serie A,2017/2018,2017
+Marco Capuano,Centre-Back,1991-10-14,25,Italy,FC Crotone,Serie A,2017/2018,2017
+Leandro Cabrera,Centre-Back,1991-06-17,26,Uruguay,FC Crotone,Serie A,2017/2018,2017
+Stefan Simic,Centre-Back,1995-01-20,22,Czech Republic,FC Crotone,Serie A,2017/2018,2017
+Giuseppe Cuomo,Centre-Back,1998-02-02,19,Italy,FC Crotone,Serie A,2017/2018,2017
+Bruno Martella,Left-Back,1992-08-14,24,Italy,FC Crotone,Serie A,2017/2018,2017
+Daniel Pavlovic,Left-Back,1988-04-22,29,Bosnia-Herzegovina,FC Crotone,Serie A,2017/2018,2017
+Davide Faraoni,Right-Back,1991-10-25,25,Italy,FC Crotone,Serie A,2017/2018,2017
+Mario Sampirisi,Right-Back,1992-10-31,24,Italy,FC Crotone,Serie A,2017/2018,2017
+Aristóteles Romero,Defensive Midfield,1995-10-18,21,Venezuela,FC Crotone,Serie A,2017/2018,2017
+Rolando Mandragora,Central Midfield,1997-06-29,20,Italy,FC Crotone,Serie A,2017/2018,2017
+Ahmad Benali,Central Midfield,1992-02-07,25,Libya,FC Crotone,Serie A,2017/2018,2017
+Andrea Barberis,Central Midfield,1993-12-11,23,Italy,FC Crotone,Serie A,2017/2018,2017
+Mariano Izco,Central Midfield,1983-03-13,34,Argentina,FC Crotone,Serie A,2017/2018,2017
+Cazim Suljic,Central Midfield,1996-10-29,20,Bosnia-Herzegovina,FC Crotone,Serie A,2017/2018,2017
+Niccolò Zanellato,Central Midfield,1998-06-24,19,Italy,FC Crotone,Serie A,2017/2018,2017
+Pasquale Giannotti,Central Midfield,1999-06-05,18,Italy,FC Crotone,Serie A,2017/2018,2017
+Marcus Rohdén,Right Midfield,1991-05-11,26,Sweden,FC Crotone,Serie A,2017/2018,2017
+Oliver Kragl,Left Midfield,1990-05-12,27,Germany,FC Crotone,Serie A,2017/2018,2017
+Giovanni Crociata,Left Midfield,1997-08-11,19,Italy,FC Crotone,Serie A,2017/2018,2017
+Andrej Kotnik,Attacking Midfield,1995-08-04,21,Slovenia,FC Crotone,Serie A,2017/2018,2017
+Adrian Stoian,Left Winger,1991-02-11,26,Romania,FC Crotone,Serie A,2017/2018,2017
+Moussa Diaby,Left Winger,1999-07-07,17,France,FC Crotone,Serie A,2017/2018,2017
+Federico Ricci,Right Winger,1994-05-27,23,Italy,FC Crotone,Serie A,2017/2018,2017
+Andrea Nalini,Right Winger,1990-06-20,27,Italy,FC Crotone,Serie A,2017/2018,2017
+Maxwell Acosty,Right Winger,1991-09-10,25,Ghana,FC Crotone,Serie A,2017/2018,2017
+Giuseppe Borello,Right Winger,1999-04-28,18,Italy,FC Crotone,Serie A,2017/2018,2017
+Aleksandar Tonev,Second Striker,1990-02-03,27,Bulgaria,FC Crotone,Serie A,2017/2018,2017
+Marcello Trotta,Centre-Forward,1992-09-29,24,Italy,FC Crotone,Serie A,2017/2018,2017
+Ante Budimir,Centre-Forward,1991-07-22,25,Croatia,FC Crotone,Serie A,2017/2018,2017
+Simy,Centre-Forward,1992-05-07,25,Nigeria,FC Crotone,Serie A,2017/2018,2017
+Marco Tumminello,Centre-Forward,1998-11-06,18,Italy,FC Crotone,Serie A,2017/2018,2017
+Luka Markovic,Centre-Forward,2000-02-19,17,Serbia,FC Crotone,Serie A,2017/2018,2017

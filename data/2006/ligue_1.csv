@@ -1,0 +1,627 @@
+player_name,position,date_of_birth,age,nationality,club_name,league_name,season,year
+Grégory Coupet,Goalkeeper,1972-12-31,33,France,Olympique Lyon,Ligue 1,2006/2007,2006
+Rémy Vercoutre,Goalkeeper,1980-06-26,26,France,Olympique Lyon,Ligue 1,2006/2007,2006
+Rémy Riou,Goalkeeper,1987-08-06,18,France,Olympique Lyon,Ligue 1,2006/2007,2006
+Joan Hartock,Goalkeeper,1987-02-17,19,Martinique,Olympique Lyon,Ligue 1,2006/2007,2006
+Alexandre Bouchard,Goalkeeper,1988-05-01,18,France,Olympique Lyon,Ligue 1,2006/2007,2006
+Cris,Centre-Back,1977-06-03,29,Brazil,Olympique Lyon,Ligue 1,2006/2007,2006
+Sébastien Squillaci,Centre-Back,1980-08-11,25,France,Olympique Lyon,Ligue 1,2006/2007,2006
+Caçapa,Centre-Back,1976-05-29,30,Brazil,Olympique Lyon,Ligue 1,2006/2007,2006
+Patrick Müller,Centre-Back,1976-12-17,29,Switzerland,Olympique Lyon,Ligue 1,2006/2007,2006
+Éric Abidal,Left-Back,1979-09-11,26,France,Olympique Lyon,Ligue 1,2006/2007,2006
+Jérémy Berthod,Left-Back,1984-04-24,22,France,Olympique Lyon,Ligue 1,2006/2007,2006
+Anthony Réveillère,Right-Back,1979-11-10,26,France,Olympique Lyon,Ligue 1,2006/2007,2006
+François Clerc,Right-Back,1983-04-18,23,France,Olympique Lyon,Ligue 1,2006/2007,2006
+Mourad Benhamida,Right-Back,1986-01-18,20,France,Olympique Lyon,Ligue 1,2006/2007,2006
+Mahamadou Diarra,Defensive Midfield,1981-05-18,25,Mali,Olympique Lyon,Ligue 1,2006/2007,2006
+Kim Källström,Defensive Midfield,1982-08-24,23,Sweden,Olympique Lyon,Ligue 1,2006/2007,2006
+Jérémy Toulalan,Defensive Midfield,1983-09-10,22,France,Olympique Lyon,Ligue 1,2006/2007,2006
+Benoît Pedretti,Defensive Midfield,1980-11-12,25,France,Olympique Lyon,Ligue 1,2006/2007,2006
+Alou Diarra,Defensive Midfield,1981-07-15,24,France,Olympique Lyon,Ligue 1,2006/2007,2006
+Romain Beynié,Defensive Midfield,1987-05-06,19,France,Olympique Lyon,Ligue 1,2006/2007,2006
+Fábio Santos,Defensive Midfield,1980-10-09,25,Brazil,Olympique Lyon,Ligue 1,2006/2007,2006
+Tiago,Central Midfield,1981-05-02,25,Portugal,Olympique Lyon,Ligue 1,2006/2007,2006
+Juninho Pernambucano,Attacking Midfield,1975-01-30,31,Brazil,Olympique Lyon,Ligue 1,2006/2007,2006
+Hatem Ben Arfa,Attacking Midfield,1987-03-07,19,France,Olympique Lyon,Ligue 1,2006/2007,2006
+Florent Malouda,Left Winger,1980-06-13,26,French Guiana,Olympique Lyon,Ligue 1,2006/2007,2006
+Sylvain Idangar,Left Winger,1984-03-08,22,Chad,Olympique Lyon,Ligue 1,2006/2007,2006
+Sidney Govou,Right Winger,1979-07-27,26,France,Olympique Lyon,Ligue 1,2006/2007,2006
+Sylvain Wiltord,Second Striker,1974-05-10,32,France,Olympique Lyon,Ligue 1,2006/2007,2006
+Fred,Centre-Forward,1983-10-03,22,Brazil,Olympique Lyon,Ligue 1,2006/2007,2006
+Milan Baros,Centre-Forward,1981-10-28,24,Czech Republic,Olympique Lyon,Ligue 1,2006/2007,2006
+John Carew,Centre-Forward,1979-09-05,26,Norway,Olympique Lyon,Ligue 1,2006/2007,2006
+Karim Benzema,Centre-Forward,1987-12-19,18,France,Olympique Lyon,Ligue 1,2006/2007,2006
+Loïc Rémy,Centre-Forward,1987-01-02,19,France,Olympique Lyon,Ligue 1,2006/2007,2006
+Grégory Bettiol,Centre-Forward,1986-03-30,20,France,Olympique Lyon,Ligue 1,2006/2007,2006
+Mickaël Landreau,Goalkeeper,1979-05-14,27,France,Paris Saint-Germain,Ligue 1,2006/2007,2006
+Jérôme Alonzo,Goalkeeper,1972-11-20,33,France,Paris Saint-Germain,Ligue 1,2006/2007,2006
+Nicolas Cousin,Goalkeeper,1985-07-11,20,France,Paris Saint-Germain,Ligue 1,2006/2007,2006
+Mario Yepes,Centre-Back,1976-01-13,30,Colombia,Paris Saint-Germain,Ligue 1,2006/2007,2006
+Sylvain Armand,Centre-Back,1980-08-01,25,France,Paris Saint-Germain,Ligue 1,2006/2007,2006
+David Rozehnal,Centre-Back,1980-07-05,25,Czech Republic,Paris Saint-Germain,Ligue 1,2006/2007,2006
+Sammy Traoré,Centre-Back,1976-02-25,30,Mali,Paris Saint-Germain,Ligue 1,2006/2007,2006
+Larrys Mabiala,Centre-Back,1987-10-08,18,DR Congo,Paris Saint-Germain,Ligue 1,2006/2007,2006
+Mamadou Sakho,Centre-Back,1990-02-13,16,France,Paris Saint-Germain,Ligue 1,2006/2007,2006
+Boukary Dramé,Left-Back,1985-07-22,20,Senegal,Paris Saint-Germain,Ligue 1,2006/2007,2006
+Bernard Mendy,Right-Back,1981-08-20,24,France,Paris Saint-Germain,Ligue 1,2006/2007,2006
+Édouard Cissé,Defensive Midfield,1978-03-30,28,France,Paris Saint-Germain,Ligue 1,2006/2007,2006
+Jérémy Clément,Defensive Midfield,1984-08-26,21,France,Paris Saint-Germain,Ligue 1,2006/2007,2006
+Albert Baning,Defensive Midfield,1985-03-19,21,Cameroon,Paris Saint-Germain,Ligue 1,2006/2007,2006
+Clément Chantôme,Defensive Midfield,1987-09-11,18,France,Paris Saint-Germain,Ligue 1,2006/2007,2006
+Youssouf Mulumbu,Defensive Midfield,1987-01-25,19,DR Congo,Paris Saint-Germain,Ligue 1,2006/2007,2006
+David Hellebuyck,Central Midfield,1979-05-12,27,France,Paris Saint-Germain,Ligue 1,2006/2007,2006
+Vikash Dhorasoo,Central Midfield,1973-10-10,32,France,Paris Saint-Germain,Ligue 1,2006/2007,2006
+Cristian Rodríguez,Central Midfield,1985-09-30,20,Uruguay,Paris Saint-Germain,Ligue 1,2006/2007,2006
+Jérôme Rothen,Left Midfield,1978-03-31,28,France,Paris Saint-Germain,Ligue 1,2006/2007,2006
+Marcelo Gallardo,Attacking Midfield,1976-01-18,30,Argentina,Paris Saint-Germain,Ligue 1,2006/2007,2006
+Bonaventure Kalou,Right Winger,1978-01-12,28,Cote d'Ivoire,Paris Saint-Germain,Ligue 1,2006/2007,2006
+Fabrice Pancrate,Right Winger,1980-05-02,26,France,Paris Saint-Germain,Ligue 1,2006/2007,2006
+Amara Diané,Right Winger,1982-08-19,23,Cote d'Ivoire,Paris Saint-Germain,Ligue 1,2006/2007,2006
+Paulo César,Right Winger,1978-08-26,27,Brazil,Paris Saint-Germain,Ligue 1,2006/2007,2006
+Samuel Piètre,Right Winger,1984-02-10,22,France,Paris Saint-Germain,Ligue 1,2006/2007,2006
+Pauleta,Centre-Forward,1973-04-28,33,Portugal,Paris Saint-Germain,Ligue 1,2006/2007,2006
+Péguy Luyindula,Centre-Forward,1979-05-25,27,France,Paris Saint-Germain,Ligue 1,2006/2007,2006
+Pierre-Alain Frau,Centre-Forward,1980-04-15,26,France,Paris Saint-Germain,Ligue 1,2006/2007,2006
+David N'Gog,Centre-Forward,1989-04-01,17,France,Paris Saint-Germain,Ligue 1,2006/2007,2006
+Cédric Carrasso,Goalkeeper,1981-12-30,24,France,Olympique Marseille,Ligue 1,2006/2007,2006
+Sébastien Hamel,Goalkeeper,1975-11-20,30,France,Olympique Marseille,Ligue 1,2006/2007,2006
+Mehdi Sennaoui,Goalkeeper,1986-05-05,20,Algeria,Olympique Marseille,Ligue 1,2006/2007,2006
+Sébastien Mate,Goalkeeper,1971-09-19,34,France,Olympique Marseille,Ligue 1,2006/2007,2006
+Ronald Zubar,Centre-Back,1985-09-20,20,Guadeloupe,Olympique Marseille,Ligue 1,2006/2007,2006
+Lorik Cana,Centre-Back,1983-07-27,22,Albania,Olympique Marseille,Ligue 1,2006/2007,2006
+Julien Rodriguez,Centre-Back,1978-06-11,28,France,Olympique Marseille,Ligue 1,2006/2007,2006
+Renato Civelli,Centre-Back,1983-10-14,22,Argentina,Olympique Marseille,Ligue 1,2006/2007,2006
+Bostjan Cesar,Centre-Back,1982-07-09,23,Slovenia,Olympique Marseille,Ligue 1,2006/2007,2006
+Khalifa Ba,Centre-Back,1985-10-12,20,Senegal,Olympique Marseille,Ligue 1,2006/2007,2006
+Taye Taiwo,Left-Back,1985-04-16,21,Nigeria,Olympique Marseille,Ligue 1,2006/2007,2006
+Alain Cantareil,Left-Back,1983-08-15,22,France,Olympique Marseille,Ligue 1,2006/2007,2006
+Mame N'Diaye,Left-Back,1986-12-30,19,Senegal,Olympique Marseille,Ligue 1,2006/2007,2006
+Habib Bèye,Right-Back,1977-10-19,28,Senegal,Olympique Marseille,Ligue 1,2006/2007,2006
+Garry Bocaly,Right-Back,1988-04-19,18,France,Olympique Marseille,Ligue 1,2006/2007,2006
+Hassoun Camara,Right-Back,1984-02-03,22,France,Olympique Marseille,Ligue 1,2006/2007,2006
+Modeste M'Bami,Defensive Midfield,1982-10-09,23,Cameroon,Olympique Marseille,Ligue 1,2006/2007,2006
+Sabri Lamouchi,Central Midfield,1971-11-09,34,France,Olympique Marseille,Ligue 1,2006/2007,2006
+Thomas Deruda,Central Midfield,1986-07-13,19,France,Olympique Marseille,Ligue 1,2006/2007,2006
+Rémi Sergio,Central Midfield,1987-12-01,18,France,Olympique Marseille,Ligue 1,2006/2007,2006
+Salomon Olembé,Left Midfield,1980-12-08,25,Cameroon,Olympique Marseille,Ligue 1,2006/2007,2006
+Wilson Oruma,Attacking Midfield,1976-12-30,29,Nigeria,Olympique Marseille,Ligue 1,2006/2007,2006
+Samir Nasri,Attacking Midfield,1987-06-26,19,France,Olympique Marseille,Ligue 1,2006/2007,2006
+Mohamed Dennoun,Attacking Midfield,1986-05-09,20,France,Olympique Marseille,Ligue 1,2006/2007,2006
+Franck Ribéry,Left Winger,1983-04-07,23,France,Olympique Marseille,Ligue 1,2006/2007,2006
+Salim Arrache,Left Winger,1982-07-14,23,Algeria,Olympique Marseille,Ligue 1,2006/2007,2006
+Mathieu Valbuena,Left Winger,1984-09-28,21,France,Olympique Marseille,Ligue 1,2006/2007,2006
+Mickaël Pagis,Second Striker,1973-08-17,32,France,Olympique Marseille,Ligue 1,2006/2007,2006
+Habib Bamogo,Second Striker,1982-05-08,24,Burkina Faso,Olympique Marseille,Ligue 1,2006/2007,2006
+Djibril Cissé,Centre-Forward,1981-08-12,24,France,Olympique Marseille,Ligue 1,2006/2007,2006
+Mamadou Niang,Centre-Forward,1979-10-13,26,Senegal,Olympique Marseille,Ligue 1,2006/2007,2006
+Toifilou Maoulida,Centre-Forward,1979-06-08,27,France,Olympique Marseille,Ligue 1,2006/2007,2006
+Flavio Roma,Goalkeeper,1974-06-21,32,Italy,AS Monaco,Ligue 1,2006/2007,2006
+Guillaume Warmuz,Goalkeeper,1970-05-22,36,France,AS Monaco,Ligue 1,2006/2007,2006
+Stéphane Ruffier,Goalkeeper,1986-09-27,19,France,AS Monaco,Ligue 1,2006/2007,2006
+Gaël Givet,Centre-Back,1981-10-09,24,France,AS Monaco,Ligue 1,2006/2007,2006
+Sylvain Monsoreau,Centre-Back,1981-03-20,25,France,AS Monaco,Ligue 1,2006/2007,2006
+François Modesto,Centre-Back,1978-08-19,27,France,AS Monaco,Ligue 1,2006/2007,2006
+Massamba Sambou,Centre-Back,1986-09-17,19,Senegal,AS Monaco,Ligue 1,2006/2007,2006
+Bolívar,Centre-Back,1980-08-16,25,Brazil,AS Monaco,Ligue 1,2006/2007,2006
+Cédric Mongongu,Centre-Back,1989-06-22,17,DR Congo,AS Monaco,Ligue 1,2006/2007,2006
+Leandro Cufré,Left-Back,1978-05-09,28,Argentina,AS Monaco,Ligue 1,2006/2007,2006
+Olivier Veigneau,Left-Back,1985-07-16,20,France,AS Monaco,Ligue 1,2006/2007,2006
+Manuel dos Santos,Left-Back,1974-03-28,32,Cape Verde,AS Monaco,Ligue 1,2006/2007,2006
+Jerko Leko,Defensive Midfield,1980-04-09,26,Croatia,AS Monaco,Ligue 1,2006/2007,2006
+Diego Pérez,Defensive Midfield,1980-05-18,26,Uruguay,AS Monaco,Ligue 1,2006/2007,2006
+Yaya Touré,Central Midfield,1983-05-13,23,Cote d'Ivoire,AS Monaco,Ligue 1,2006/2007,2006
+Lucas Bernardi,Central Midfield,1977-09-27,28,Argentina,AS Monaco,Ligue 1,2006/2007,2006
+Gerard López,Central Midfield,1979-03-12,27,Spain,AS Monaco,Ligue 1,2006/2007,2006
+Jaroslav Plasil,Central Midfield,1982-01-05,24,Czech Republic,AS Monaco,Ligue 1,2006/2007,2006
+Malaury Martin,Central Midfield,1988-08-25,17,France,AS Monaco,Ligue 1,2006/2007,2006
+Camel Meriem,Attacking Midfield,1979-10-18,26,France,AS Monaco,Ligue 1,2006/2007,2006
+Nicolas Maurice-Belay,Left Winger,1985-04-19,21,France,AS Monaco,Ligue 1,2006/2007,2006
+Serge Gakpé,Right Winger,1987-05-07,19,Togo,AS Monaco,Ligue 1,2006/2007,2006
+Juan Pablo Pino,Right Winger,1987-03-30,19,Colombia,AS Monaco,Ligue 1,2006/2007,2006
+Jérémy Ménez,Second Striker,1987-05-07,19,France,AS Monaco,Ligue 1,2006/2007,2006
+Marco Di Vaio,Centre-Forward,1976-07-15,29,Italy,AS Monaco,Ligue 1,2006/2007,2006
+Jan Koller,Centre-Forward,1973-03-30,33,Czech Republic,AS Monaco,Ligue 1,2006/2007,2006
+Frédéric Piquionne,Centre-Forward,1978-12-08,27,Martinique,AS Monaco,Ligue 1,2006/2007,2006
+Sébastien Grax,Centre-Forward,1984-06-23,22,France,AS Monaco,Ligue 1,2006/2007,2006
+Mohamed Kallon,Centre-Forward,1979-10-06,26,Sierra Leone,AS Monaco,Ligue 1,2006/2007,2006
+David Gigliotti,Centre-Forward,1985-05-30,21,France,AS Monaco,Ligue 1,2006/2007,2006
+Gonzalo Vargas,Centre-Forward,1981-09-22,24,Uruguay,AS Monaco,Ligue 1,2006/2007,2006
+Frédéric Nimani,Centre-Forward,1988-10-08,17,Central African Republic,AS Monaco,Ligue 1,2006/2007,2006
+Djamel Bakar,Centre-Forward,1989-04-06,17,Comoros,AS Monaco,Ligue 1,2006/2007,2006
+Ulrich Ramé,Goalkeeper,1972-09-19,33,France,FC Girondins Bordeaux,Ligue 1,2006/2007,2006
+Mathieu Valverde,Goalkeeper,1983-05-14,23,France,FC Girondins Bordeaux,Ligue 1,2006/2007,2006
+Damien Dropsy,Goalkeeper,1983-05-17,23,France,FC Girondins Bordeaux,Ligue 1,2006/2007,2006
+Marc Planus,Centre-Back,1982-03-07,24,France,FC Girondins Bordeaux,Ligue 1,2006/2007,2006
+Henrique,Centre-Back,1983-05-02,23,Brazil,FC Girondins Bordeaux,Ligue 1,2006/2007,2006
+Joseph Enakarhire,Centre-Back,1982-11-06,23,Nigeria,FC Girondins Bordeaux,Ligue 1,2006/2007,2006
+Gérald Cid,Centre-Back,1983-02-17,23,France,FC Girondins Bordeaux,Ligue 1,2006/2007,2006
+Paul Baysse,Centre-Back,1988-05-18,18,France,FC Girondins Bordeaux,Ligue 1,2006/2007,2006
+Bruno Ecuele Manga,Centre-Back,1988-07-16,17,Gabon,FC Girondins Bordeaux,Ligue 1,2006/2007,2006
+Franck Jurietti,Left-Back,1975-03-30,31,France,FC Girondins Bordeaux,Ligue 1,2006/2007,2006
+Florian Marange,Left-Back,1986-03-03,20,France,FC Girondins Bordeaux,Ligue 1,2006/2007,2006
+Benoît Trémoulinas,Left-Back,1985-12-28,20,France,FC Girondins Bordeaux,Ligue 1,2006/2007,2006
+David Jemmali,Right-Back,1974-12-13,31,Tunisia,FC Girondins Bordeaux,Ligue 1,2006/2007,2006
+Rio Mavuba,Defensive Midfield,1984-03-08,22,France,FC Girondins Bordeaux,Ligue 1,2006/2007,2006
+Julien Faubert,Defensive Midfield,1983-08-01,22,Martinique,FC Girondins Bordeaux,Ligue 1,2006/2007,2006
+Fernando,Defensive Midfield,1981-05-03,25,Brazil,FC Girondins Bordeaux,Ligue 1,2006/2007,2006
+Wendel,Defensive Midfield,1982-04-08,24,Brazil,FC Girondins Bordeaux,Ligue 1,2006/2007,2006
+Pierre Ducasse,Defensive Midfield,1987-05-07,19,France,FC Girondins Bordeaux,Ligue 1,2006/2007,2006
+Stéphane Dalmat,Central Midfield,1979-02-16,27,France,FC Girondins Bordeaux,Ligue 1,2006/2007,2006
+Alejandro Alonso,Right Midfield,1982-03-03,24,Argentina,FC Girondins Bordeaux,Ligue 1,2006/2007,2006
+Johan Micoud,Attacking Midfield,1973-07-24,32,France,FC Girondins Bordeaux,Ligue 1,2006/2007,2006
+Jussiê,Attacking Midfield,1983-09-19,22,Brazil,FC Girondins Bordeaux,Ligue 1,2006/2007,2006
+Vladimir Smicer,Attacking Midfield,1973-05-24,33,Czech Republic,FC Girondins Bordeaux,Ligue 1,2006/2007,2006
+Juan Pablo Francia,Attacking Midfield,1984-12-03,21,Argentina,FC Girondins Bordeaux,Ligue 1,2006/2007,2006
+Henri Saivet,Attacking Midfield,1990-10-26,15,Senegal,FC Girondins Bordeaux,Ligue 1,2006/2007,2006
+Christian Peruchini,Attacking Midfield,1985-08-23,20,Argentina,FC Girondins Bordeaux,Ligue 1,2006/2007,2006
+Floyd Ayité,Left Winger,1988-12-15,17,Togo,FC Girondins Bordeaux,Ligue 1,2006/2007,2006
+Gabriel Obertan,Right Winger,1989-02-26,17,France,FC Girondins Bordeaux,Ligue 1,2006/2007,2006
+Marouane Chamakh,Centre-Forward,1984-01-10,22,Morocco,FC Girondins Bordeaux,Ligue 1,2006/2007,2006
+Fernando Cavenaghi,Centre-Forward,1983-09-21,22,Argentina,FC Girondins Bordeaux,Ligue 1,2006/2007,2006
+Jean-Claude Darcheville,Centre-Forward,1975-07-25,30,French Guiana,FC Girondins Bordeaux,Ligue 1,2006/2007,2006
+Lilian Laslandes,Centre-Forward,1971-09-04,34,France,FC Girondins Bordeaux,Ligue 1,2006/2007,2006
+Edixon Perea,Centre-Forward,1984-04-20,22,Colombia,FC Girondins Bordeaux,Ligue 1,2006/2007,2006
+Tony Sylva,Goalkeeper,1975-05-17,31,Senegal,LOSC Lille,Ligue 1,2006/2007,2006
+Grégory Malicki,Goalkeeper,1973-11-23,32,France,LOSC Lille,Ligue 1,2006/2007,2006
+Laurent Pichon,Goalkeeper,1981-03-08,25,France,LOSC Lille,Ligue 1,2006/2007,2006
+Rafael,Centre-Back,1980-12-17,25,Brazil,LOSC Lille,Ligue 1,2006/2007,2006
+Stathis Tavlaridis,Centre-Back,1980-01-25,26,Greece,LOSC Lille,Ligue 1,2006/2007,2006
+Nicolas Plestan,Centre-Back,1981-06-02,25,France,LOSC Lille,Ligue 1,2006/2007,2006
+Milivoje Vitakic,Centre-Back,1977-05-16,29,Serbia,LOSC Lille,Ligue 1,2006/2007,2006
+Peter Franquart,Centre-Back,1985-05-04,21,France,LOSC Lille,Ligue 1,2006/2007,2006
+Alexis Zywiecki,Centre-Back,1984-04-10,22,France,LOSC Lille,Ligue 1,2006/2007,2006
+Adil Rami,Centre-Back,1985-12-27,20,France,LOSC Lille,Ligue 1,2006/2007,2006
+Grégory Tafforeau,Left-Back,1976-09-29,29,France,LOSC Lille,Ligue 1,2006/2007,2006
+Émerson Conceição,Left-Back,1986-02-23,20,Brazil,LOSC Lille,Ligue 1,2006/2007,2006
+Stephan Lichtsteiner,Right-Back,1984-01-16,22,Switzerland,LOSC Lille,Ligue 1,2006/2007,2006
+Mathieu Debuchy,Right-Back,1985-07-28,20,France,LOSC Lille,Ligue 1,2006/2007,2006
+Matthieu Chalmé,Right-Back,1980-10-07,25,France,LOSC Lille,Ligue 1,2006/2007,2006
+Henri Ewané,Midfielder,1986-01-19,20,Cameroon,LOSC Lille,Ligue 1,2006/2007,2006
+Mathieu Bodmer,Defensive Midfield,1982-11-22,23,France,LOSC Lille,Ligue 1,2006/2007,2006
+Jean II Makoun,Defensive Midfield,1983-05-29,23,Cameroon,LOSC Lille,Ligue 1,2006/2007,2006
+Stéphane Dumont,Defensive Midfield,1982-09-06,23,France,LOSC Lille,Ligue 1,2006/2007,2006
+Flavien Le Postollec,Defensive Midfield,1984-02-19,22,France,LOSC Lille,Ligue 1,2006/2007,2006
+Yohan Cabaye,Central Midfield,1986-01-14,20,France,LOSC Lille,Ligue 1,2006/2007,2006
+Michel Bastos,Left Midfield,1983-08-02,22,Brazil,LOSC Lille,Ligue 1,2006/2007,2006
+Mathieu Robail,Left Midfield,1985-06-02,21,France,LOSC Lille,Ligue 1,2006/2007,2006
+Daniel Gygax,Attacking Midfield,1981-08-28,24,Switzerland,LOSC Lille,Ligue 1,2006/2007,2006
+Ludovic Obraniak,Attacking Midfield,1984-11-10,21,Poland,LOSC Lille,Ligue 1,2006/2007,2006
+Johan Audel,Left Winger,1983-12-12,22,Martinique,LOSC Lille,Ligue 1,2006/2007,2006
+Peter Odemwingie,Right Winger,1981-07-15,24,Nigeria,LOSC Lille,Ligue 1,2006/2007,2006
+Abdul Kader Keita,Right Winger,1981-08-06,24,Cote d'Ivoire,LOSC Lille,Ligue 1,2006/2007,2006
+Kevin Mirallas,Right Winger,1987-10-05,18,Belgium,LOSC Lille,Ligue 1,2006/2007,2006
+Souleymane Youla,Centre-Forward,1981-11-29,24,Guinea,LOSC Lille,Ligue 1,2006/2007,2006
+Nicolas Fauvergue,Centre-Forward,1984-10-13,21,France,LOSC Lille,Ligue 1,2006/2007,2006
+Chris Makiese,Centre-Forward,1987-10-14,18,France,LOSC Lille,Ligue 1,2006/2007,2006
+Charles Itandje,Goalkeeper,1982-11-02,23,Cameroon,RC Lens,Ligue 1,2006/2007,2006
+Sébastien Chabbert,Goalkeeper,1978-05-15,28,France,RC Lens,Ligue 1,2006/2007,2006
+Arnaud Brocard,Goalkeeper,1986-08-19,19,France,RC Lens,Ligue 1,2006/2007,2006
+Hilton,Centre-Back,1977-09-13,28,Brazil,RC Lens,Ligue 1,2006/2007,2006
+Adama Coulibaly,Centre-Back,1980-09-10,25,Mali,RC Lens,Ligue 1,2006/2007,2006
+Nicolas Gillet,Centre-Back,1976-11-08,29,France,RC Lens,Ligue 1,2006/2007,2006
+Milan Bisevac,Centre-Back,1983-08-31,22,Serbia,RC Lens,Ligue 1,2006/2007,2006
+Kamil Zayatte,Centre-Back,1985-03-07,21,Guinea,RC Lens,Ligue 1,2006/2007,2006
+Grégory Vignal,Left-Back,1981-07-19,24,France,RC Lens,Ligue 1,2006/2007,2006
+Marco Ramos,Left-Back,1983-04-26,23,Portugal,RC Lens,Ligue 1,2006/2007,2006
+Lesly Malouda,Left-Back,1983-11-16,22,French Guiana,RC Lens,Ligue 1,2006/2007,2006
+Damian Tixier,Left-Back,1980-06-23,26,France,RC Lens,Ligue 1,2006/2007,2006
+Yohan Demont,Right-Back,1978-05-15,28,France,RC Lens,Ligue 1,2006/2007,2006
+Patrick Barul,Right-Back,1977-10-03,28,France,RC Lens,Ligue 1,2006/2007,2006
+Nenad Kovacevic,Defensive Midfield,1980-11-11,25,Serbia,RC Lens,Ligue 1,2006/2007,2006
+Sidi Keita,Defensive Midfield,1985-03-20,21,Mali,RC Lens,Ligue 1,2006/2007,2006
+Adil Hermach,Defensive Midfield,1986-06-27,20,Morocco,RC Lens,Ligue 1,2006/2007,2006
+Seydou Keita,Central Midfield,1980-01-16,26,Mali,RC Lens,Ligue 1,2006/2007,2006
+Jonathan Lacourt,Central Midfield,1986-08-17,19,France,RC Lens,Ligue 1,2006/2007,2006
+Olivier Monterrubio,Left Midfield,1976-08-08,29,France,RC Lens,Ligue 1,2006/2007,2006
+Olivier Thomert,Left Midfield,1980-05-28,26,Martinique,RC Lens,Ligue 1,2006/2007,2006
+Jussiê,Attacking Midfield,1983-09-19,22,Brazil,RC Lens,Ligue 1,2006/2007,2006
+Éric Carrière,Attacking Midfield,1973-05-24,33,France,RC Lens,Ligue 1,2006/2007,2006
+Mounir Diane,Attacking Midfield,1982-05-16,24,Morocco,RC Lens,Ligue 1,2006/2007,2006
+Adel Taarabt,Attacking Midfield,1989-05-24,17,Morocco,RC Lens,Ligue 1,2006/2007,2006
+Kévin Monnet-Paquet,Left Winger,1988-08-19,17,France,RC Lens,Ligue 1,2006/2007,2006
+Razak Boukari,Right Winger,1987-04-25,19,Togo,RC Lens,Ligue 1,2006/2007,2006
+Aruna Dindane,Second Striker,1980-11-26,25,Cote d'Ivoire,RC Lens,Ligue 1,2006/2007,2006
+Daniel Cousin,Centre-Forward,1977-02-07,29,Gabon,RC Lens,Ligue 1,2006/2007,2006
+Issam Jemâa,Centre-Forward,1984-01-28,22,Tunisia,RC Lens,Ligue 1,2006/2007,2006
+David Pollet,Centre-Forward,1988-08-12,17,Belgium,RC Lens,Ligue 1,2006/2007,2006
+Christophe Revault,Goalkeeper,1972-03-22,34,France,Stade Rennais FC,Ligue 1,2006/2007,2006
+Simon Pouplin,Goalkeeper,1985-05-28,21,France,Stade Rennais FC,Ligue 1,2006/2007,2006
+Cheick N'Diaye,Goalkeeper,1985-02-15,21,Senegal,Stade Rennais FC,Ligue 1,2006/2007,2006
+John Mensah,Centre-Back,1982-11-29,23,Ghana,Stade Rennais FC,Ligue 1,2006/2007,2006
+Adailton,Centre-Back,1983-04-14,23,Brazil,Stade Rennais FC,Ligue 1,2006/2007,2006
+Jacques Faty,Centre-Back,1984-02-25,22,Senegal,Stade Rennais FC,Ligue 1,2006/2007,2006
+Grégory Bourillon,Centre-Back,1984-07-01,22,France,Stade Rennais FC,Ligue 1,2006/2007,2006
+Alain Rochat,Centre-Back,1983-02-01,23,Switzerland,Stade Rennais FC,Ligue 1,2006/2007,2006
+Amadou Coulibaly,Centre-Back,1984-12-31,21,Burkina Faso,Stade Rennais FC,Ligue 1,2006/2007,2006
+Erik Edman,Left-Back,1978-11-11,27,Sweden,Stade Rennais FC,Ligue 1,2006/2007,2006
+Mario Melchiot,Right-Back,1976-11-04,29,Netherlands,Stade Rennais FC,Ligue 1,2006/2007,2006
+Jean-Joël Perrier-Doumbé,Right-Back,1978-09-27,27,Cameroon,Stade Rennais FC,Ligue 1,2006/2007,2006
+Romain Danzé,Right-Back,1986-07-03,19,France,Stade Rennais FC,Ligue 1,2006/2007,2006
+Guillaume Borne,Right-Back,1988-02-12,18,France,Stade Rennais FC,Ligue 1,2006/2007,2006
+Olivier Sorlin,Defensive Midfield,1979-04-09,27,France,Stade Rennais FC,Ligue 1,2006/2007,2006
+Stéphane Mbia,Defensive Midfield,1986-05-20,20,Cameroon,Stade Rennais FC,Ligue 1,2006/2007,2006
+Cyril Jeunechamp,Defensive Midfield,1975-12-18,30,France,Stade Rennais FC,Ligue 1,2006/2007,2006
+Arnold Mvuemba,Defensive Midfield,1985-01-28,21,DR Congo,Stade Rennais FC,Ligue 1,2006/2007,2006
+Pape Diop,Defensive Midfield,1986-03-19,20,Senegal,Stade Rennais FC,Ligue 1,2006/2007,2006
+Prince Oniangué,Defensive Midfield,1988-11-04,17,Congo,Stade Rennais FC,Ligue 1,2006/2007,2006
+Étienne Didot,Central Midfield,1983-07-24,22,France,Stade Rennais FC,Ligue 1,2006/2007,2006
+Bruno Cheyrou,Central Midfield,1978-05-10,28,France,Stade Rennais FC,Ligue 1,2006/2007,2006
+Kévin Bru,Central Midfield,1988-12-12,17,Mauritius,Stade Rennais FC,Ligue 1,2006/2007,2006
+Olivier Thomert,Left Midfield,1980-05-28,26,Martinique,Stade Rennais FC,Ligue 1,2006/2007,2006
+Olivier Monterrubio,Left Midfield,1976-08-08,29,France,Stade Rennais FC,Ligue 1,2006/2007,2006
+Sylvain Marveaux,Attacking Midfield,1986-04-15,20,Martinique,Stade Rennais FC,Ligue 1,2006/2007,2006
+John Utaka,Left Winger,1982-01-08,24,Nigeria,Stade Rennais FC,Ligue 1,2006/2007,2006
+Jirès Kembo-Ekoko,Left Winger,1988-01-08,18,France,Stade Rennais FC,Ligue 1,2006/2007,2006
+Daniel Moreira,Second Striker,1977-08-08,28,France,Stade Rennais FC,Ligue 1,2006/2007,2006
+Youssouf Hadji,Centre-Forward,1980-02-25,26,Morocco,Stade Rennais FC,Ligue 1,2006/2007,2006
+Jimmy Briand,Centre-Forward,1985-08-02,20,France,Stade Rennais FC,Ligue 1,2006/2007,2006
+Moussa Sow,Centre-Forward,1986-01-19,20,Senegal,Stade Rennais FC,Ligue 1,2006/2007,2006
+Julian Esteban,Centre-Forward,1986-09-16,19,Switzerland,Stade Rennais FC,Ligue 1,2006/2007,2006
+Jérémie Janot,Goalkeeper,1977-10-11,28,France,AS Saint-Étienne,Ligue 1,2006/2007,2006
+Jody Viviani,Goalkeeper,1982-01-25,24,France,AS Saint-Étienne,Ligue 1,2006/2007,2006
+Jessy Moulin,Goalkeeper,1986-01-13,20,France,AS Saint-Étienne,Ligue 1,2006/2007,2006
+Alan Mermillod,Goalkeeper,1985-05-16,21,France,AS Saint-Étienne,Ligue 1,2006/2007,2006
+Vincent Hognon,Centre-Back,1974-08-16,31,France,AS Saint-Étienne,Ligue 1,2006/2007,2006
+Fousseni Diawara,Centre-Back,1980-08-28,25,Mali,AS Saint-Étienne,Ligue 1,2006/2007,2006
+Zoumana Camara,Centre-Back,1979-04-03,27,France,AS Saint-Étienne,Ligue 1,2006/2007,2006
+Loïc Perrin,Centre-Back,1985-08-07,20,France,AS Saint-Étienne,Ligue 1,2006/2007,2006
+Lamine Diatta,Centre-Back,1975-07-02,30,Senegal,AS Saint-Étienne,Ligue 1,2006/2007,2006
+Damien Perquis,Centre-Back,1984-04-10,22,Poland,AS Saint-Étienne,Ligue 1,2006/2007,2006
+Moustapha Sall,Centre-Back,1985-11-30,20,Senegal,AS Saint-Étienne,Ligue 1,2006/2007,2006
+Hérita Ilunga,Left-Back,1982-02-25,24,DR Congo,AS Saint-Étienne,Ligue 1,2006/2007,2006
+Siaka Tiéné,Left-Back,1982-02-22,24,Cote d'Ivoire,AS Saint-Étienne,Ligue 1,2006/2007,2006
+Mouhamadou Dabo,Right-Back,1986-11-28,19,France,AS Saint-Étienne,Ligue 1,2006/2007,2006
+Julien Sablé,Defensive Midfield,1980-09-11,25,France,AS Saint-Étienne,Ligue 1,2006/2007,2006
+Christophe Landrin,Central Midfield,1977-06-30,29,France,AS Saint-Étienne,Ligue 1,2006/2007,2006
+Yohan Hautcoeur,Central Midfield,1981-10-30,24,France,AS Saint-Étienne,Ligue 1,2006/2007,2006
+Fredy Guarín,Central Midfield,1986-06-30,20,Colombia,AS Saint-Étienne,Ligue 1,2006/2007,2006
+Daniel Bilos,Left Midfield,1980-09-03,25,Argentina,AS Saint-Étienne,Ligue 1,2006/2007,2006
+Geoffrey Dernis,Left Winger,1980-12-24,25,France,AS Saint-Étienne,Ligue 1,2006/2007,2006
+Ignacio Piatti,Left Winger,1985-02-04,21,Argentina,AS Saint-Étienne,Ligue 1,2006/2007,2006
+Lamine Sakho,Left Winger,1977-09-28,28,Senegal,AS Saint-Étienne,Ligue 1,2006/2007,2006
+Pascal Feindouno,Right Winger,1981-02-27,25,Guinea,AS Saint-Étienne,Ligue 1,2006/2007,2006
+Matt Moussilou,Centre-Forward,1982-06-01,24,Congo,AS Saint-Étienne,Ligue 1,2006/2007,2006
+Ilan,Centre-Forward,1980-09-18,25,Brazil,AS Saint-Étienne,Ligue 1,2006/2007,2006
+Frédéric Piquionne,Centre-Forward,1978-12-08,27,Martinique,AS Saint-Étienne,Ligue 1,2006/2007,2006
+Marek Heinz,Centre-Forward,1977-08-04,28,Czech Republic,AS Saint-Étienne,Ligue 1,2006/2007,2006
+Bafétimbi Gomis,Centre-Forward,1985-08-06,20,France,AS Saint-Étienne,Ligue 1,2006/2007,2006
+Maodomalick Faye,Centre-Forward,1987-12-13,18,Senegal,AS Saint-Étienne,Ligue 1,2006/2007,2006
+Fabien Cool,Goalkeeper,1972-08-30,33,France,AJ Auxerre,Ligue 1,2006/2007,2006
+Olivier Sorin,Goalkeeper,1981-04-16,25,France,AJ Auxerre,Ligue 1,2006/2007,2006
+Mickael Castejon,Goalkeeper,1985-03-21,21,France,AJ Auxerre,Ligue 1,2006/2007,2006
+Anthony Basso,Goalkeeper,1979-07-04,26,France,AJ Auxerre,Ligue 1,2006/2007,2006
+Arnaud Sauvage,Goalkeeper,1984-02-01,22,France,AJ Auxerre,Ligue 1,2006/2007,2006
+Denis Petric,Goalkeeper,1988-05-24,18,Serbia,AJ Auxerre,Ligue 1,2006/2007,2006
+Jean-Pascal Mignot,Centre-Back,1981-02-26,25,France,AJ Auxerre,Ligue 1,2006/2007,2006
+Stéphane Grichting,Centre-Back,1979-03-30,27,Switzerland,AJ Auxerre,Ligue 1,2006/2007,2006
+Oumar Kalabane,Centre-Back,1981-04-08,25,Guinea,AJ Auxerre,Ligue 1,2006/2007,2006
+Baptiste Martin,Centre-Back,1985-05-14,21,France,AJ Auxerre,Ligue 1,2006/2007,2006
+Younès Kaboul,Centre-Back,1986-01-04,20,France,AJ Auxerre,Ligue 1,2006/2007,2006
+Serge Akakpo,Centre-Back,1987-10-15,18,Togo,AJ Auxerre,Ligue 1,2006/2007,2006
+Oxence Mbani,Centre-Back,1987-05-05,19,Congo,AJ Auxerre,Ligue 1,2006/2007,2006
+Jean-Sébastien Jaurès,Left-Back,1977-09-30,28,France,AJ Auxerre,Ligue 1,2006/2007,2006
+Bacary Sagna,Right-Back,1983-02-14,23,France,AJ Auxerre,Ligue 1,2006/2007,2006
+Johan Radet,Right-Back,1976-11-24,29,France,AJ Auxerre,Ligue 1,2006/2007,2006
+Mickael Bertrand,Right-Back,1985-05-04,21,France,AJ Auxerre,Ligue 1,2006/2007,2006
+Benoît Pedretti,Defensive Midfield,1980-11-12,25,France,AJ Auxerre,Ligue 1,2006/2007,2006
+Benoît Cheyrou,Defensive Midfield,1981-05-03,25,France,AJ Auxerre,Ligue 1,2006/2007,2006
+Lionel Mathis,Defensive Midfield,1981-10-04,24,France,AJ Auxerre,Ligue 1,2006/2007,2006
+Thomas Kahlenberg,Central Midfield,1983-03-20,23,Denmark,AJ Auxerre,Ligue 1,2006/2007,2006
+Frédéric Thomas,Central Midfield,1980-08-10,25,France,AJ Auxerre,Ligue 1,2006/2007,2006
+Issa Ba,Central Midfield,1981-11-07,24,Senegal,AJ Auxerre,Ligue 1,2006/2007,2006
+Krisztián Vadócz,Central Midfield,1985-05-03,21,Hungary,AJ Auxerre,Ligue 1,2006/2007,2006
+Cécil Filanckembo,Central Midfield,1988-04-15,18,Congo,AJ Auxerre,Ligue 1,2006/2007,2006
+Maxime Jasse,Central Midfield,1988-01-04,18,France,AJ Auxerre,Ligue 1,2006/2007,2006
+Kevin Lejeune,Left Midfield,1985-01-22,21,France,AJ Auxerre,Ligue 1,2006/2007,2006
+Ousmane Cissokho,Left Midfield,1987-01-14,19,Senegal,AJ Auxerre,Ligue 1,2006/2007,2006
+Ludovic Genest,Attacking Midfield,1987-09-18,18,France,AJ Auxerre,Ligue 1,2006/2007,2006
+Irélé Apo,Attacking Midfield,1987-01-16,19,Benin,AJ Auxerre,Ligue 1,2006/2007,2006
+Alain Traoré,Attacking Midfield,1988-12-31,17,Burkina Faso,AJ Auxerre,Ligue 1,2006/2007,2006
+Kanga Akalé,Left Winger,1981-03-07,25,Cote d'Ivoire,AJ Auxerre,Ligue 1,2006/2007,2006
+Moussa N'Diaye,Right Winger,1979-02-20,27,Senegal,AJ Auxerre,Ligue 1,2006/2007,2006
+Kamil Oziemczuk,Right Winger,1988-03-29,18,Poland,AJ Auxerre,Ligue 1,2006/2007,2006
+Luigi Pieroni,Centre-Forward,1980-09-08,25,Belgium,AJ Auxerre,Ligue 1,2006/2007,2006
+Daniel Niculae,Centre-Forward,1982-10-06,23,Romania,AJ Auxerre,Ligue 1,2006/2007,2006
+Ireneusz Jelen,Centre-Forward,1981-04-09,25,Poland,AJ Auxerre,Ligue 1,2006/2007,2006
+Fabien Barthez,Goalkeeper,1971-06-28,35,France,FC Nantes,Ligue 1,2006/2007,2006
+Vladimir Stojkovic,Goalkeeper,1983-07-28,22,Serbia,FC Nantes,Ligue 1,2006/2007,2006
+Tony Heurtebis,Goalkeeper,1975-01-15,31,France,FC Nantes,Ligue 1,2006/2007,2006
+Vincent Briant,Goalkeeper,1986-09-09,19,France,FC Nantes,Ligue 1,2006/2007,2006
+Soilhyo Mete,Defender,1988-01-05,18,France,FC Nantes,Ligue 1,2006/2007,2006
+Mauro Cetto,Centre-Back,1982-04-14,24,Argentina,FC Nantes,Ligue 1,2006/2007,2006
+Loïc Guillon,Centre-Back,1982-01-11,24,France,FC Nantes,Ligue 1,2006/2007,2006
+Jean-Jacques Pierre,Centre-Back,1981-01-23,25,Haiti,FC Nantes,Ligue 1,2006/2007,2006
+Karim El Mourabet,Centre-Back,1987-04-30,19,Morocco,FC Nantes,Ligue 1,2006/2007,2006
+Franck Signorino,Left-Back,1981-09-19,24,France,FC Nantes,Ligue 1,2006/2007,2006
+Éric Cubilier,Right-Back,1979-08-09,26,France,FC Nantes,Ligue 1,2006/2007,2006
+Alioum Saidou,Defensive Midfield,1978-02-19,28,Cameroon,FC Nantes,Ligue 1,2006/2007,2006
+Nicolas Savinaud,Defensive Midfield,1975-11-20,30,France,FC Nantes,Ligue 1,2006/2007,2006
+Bocundji Ca,Defensive Midfield,1986-12-28,19,Guinea-Bissau,FC Nantes,Ligue 1,2006/2007,2006
+Kévin Das Neves,Defensive Midfield,1986-05-08,20,France,FC Nantes,Ligue 1,2006/2007,2006
+William Vainqueur,Defensive Midfield,1988-11-19,17,France,FC Nantes,Ligue 1,2006/2007,2006
+Emerse Faé,Central Midfield,1984-01-24,22,Cote d'Ivoire,FC Nantes,Ligue 1,2006/2007,2006
+Milos Dimitrijevic,Central Midfield,1984-02-16,22,Serbia,FC Nantes,Ligue 1,2006/2007,2006
+Djaïd Kasri,Central Midfield,1987-02-27,19,France,FC Nantes,Ligue 1,2006/2007,2006
+Jaouad Zairi,Right Midfield,1982-04-17,24,Morocco,FC Nantes,Ligue 1,2006/2007,2006
+Guillaume Norbert,Right Midfield,1980-10-14,25,France,FC Nantes,Ligue 1,2006/2007,2006
+Nourdin Boukhari,Attacking Midfield,1980-06-30,26,Morocco,FC Nantes,Ligue 1,2006/2007,2006
+Dimitri Payet,Attacking Midfield,1987-03-29,19,France,FC Nantes,Ligue 1,2006/2007,2006
+Khassimirou Diop,Attacking Midfield,1986-12-28,19,Senegal,FC Nantes,Ligue 1,2006/2007,2006
+Aurélien Capoue,Left Winger,1982-02-28,24,Guadeloupe,FC Nantes,Ligue 1,2006/2007,2006
+Imed Mhadhebi,Left Winger,1976-03-22,30,Tunisia,FC Nantes,Ligue 1,2006/2007,2006
+Christian Wilhelmsson,Right Winger,1979-12-08,26,Sweden,FC Nantes,Ligue 1,2006/2007,2006
+Frédéric Da Rocha,Right Winger,1974-09-16,31,France,FC Nantes,Ligue 1,2006/2007,2006
+Dennis Oliech,Right Winger,1985-02-02,21,Kenya,FC Nantes,Ligue 1,2006/2007,2006
+Luigi Pieroni,Centre-Forward,1980-09-08,25,Belgium,FC Nantes,Ligue 1,2006/2007,2006
+Mamadou Diallo,Centre-Forward,1982-04-17,24,Mali,FC Nantes,Ligue 1,2006/2007,2006
+Julio Hernán Rossi,Centre-Forward,1977-02-22,29,Argentina,FC Nantes,Ligue 1,2006/2007,2006
+Claudiu Keseru,Centre-Forward,1986-12-02,19,Romania,FC Nantes,Ligue 1,2006/2007,2006
+Teddy Richert,Goalkeeper,1974-09-21,31,France,FC Sochaux-Montbéliard,Ligue 1,2006/2007,2006
+Jérémy Gavanon,Goalkeeper,1983-09-20,22,France,FC Sochaux-Montbéliard,Ligue 1,2006/2007,2006
+Jeremy Deichelbohrer,Goalkeeper,1986-04-25,20,France,FC Sochaux-Montbéliard,Ligue 1,2006/2007,2006
+Amine Claude Lecomte-Addani,Goalkeeper,1990-04-26,16,Qatar,FC Sochaux-Montbéliard,Ligue 1,2006/2007,2006
+Souleymane Diawara,Centre-Back,1978-12-24,27,Senegal,FC Sochaux-Montbéliard,Ligue 1,2006/2007,2006
+Jérémie Bréchet,Centre-Back,1979-08-14,26,France,FC Sochaux-Montbéliard,Ligue 1,2006/2007,2006
+Rabiu Afolabi,Centre-Back,1980-04-18,26,Nigeria,FC Sochaux-Montbéliard,Ligue 1,2006/2007,2006
+Fousseni Diawara,Centre-Back,1980-08-28,25,Mali,FC Sochaux-Montbéliard,Ligue 1,2006/2007,2006
+Dusko Tosic,Centre-Back,1985-01-19,21,Serbia,FC Sochaux-Montbéliard,Ligue 1,2006/2007,2006
+Hakim El Bounadi,Centre-Back,1986-08-09,19,France,FC Sochaux-Montbéliard,Ligue 1,2006/2007,2006
+Lionel Potillon,Left-Back,1974-02-10,32,France,FC Sochaux-Montbéliard,Ligue 1,2006/2007,2006
+Omar Daf,Right-Back,1977-02-12,29,Senegal,FC Sochaux-Montbéliard,Ligue 1,2006/2007,2006
+Stéphane Pichot,Right-Back,1976-09-02,29,France,FC Sochaux-Montbéliard,Ligue 1,2006/2007,2006
+Romain Pitau,Defensive Midfield,1977-08-08,28,France,FC Sochaux-Montbéliard,Ligue 1,2006/2007,2006
+Guirane N'Daw,Defensive Midfield,1984-04-24,22,Senegal,FC Sochaux-Montbéliard,Ligue 1,2006/2007,2006
+Badara Sène,Defensive Midfield,1984-11-19,21,Senegal,FC Sochaux-Montbéliard,Ligue 1,2006/2007,2006
+Toufik Zerara,Defensive Midfield,1986-02-03,20,Algeria,FC Sochaux-Montbéliard,Ligue 1,2006/2007,2006
+Johann Lonfat,Right Midfield,1973-03-11,33,Switzerland,FC Sochaux-Montbéliard,Ligue 1,2006/2007,2006
+Philippe Brunel,Left Midfield,1973-02-28,33,France,FC Sochaux-Montbéliard,Ligue 1,2006/2007,2006
+Jérôme Leroy,Attacking Midfield,1974-11-04,31,France,FC Sochaux-Montbéliard,Ligue 1,2006/2007,2006
+Karim Ziani,Attacking Midfield,1982-08-17,23,Algeria,FC Sochaux-Montbéliard,Ligue 1,2006/2007,2006
+Valéry Mézague,Attacking Midfield,1983-12-08,22,Cameroon,FC Sochaux-Montbéliard,Ligue 1,2006/2007,2006
+Robin Previtali,Attacking Midfield,1987-06-05,19,France,FC Sochaux-Montbéliard,Ligue 1,2006/2007,2006
+Valter Birsa,Attacking Midfield,1986-08-07,19,Slovenia,FC Sochaux-Montbéliard,Ligue 1,2006/2007,2006
+Mickaël Isabey,Right Winger,1975-02-20,31,France,FC Sochaux-Montbéliard,Ligue 1,2006/2007,2006
+Sébastien Grax,Centre-Forward,1984-06-23,22,France,FC Sochaux-Montbéliard,Ligue 1,2006/2007,2006
+Moumouni Dagano,Centre-Forward,1981-01-01,25,Burkina Faso,FC Sochaux-Montbéliard,Ligue 1,2006/2007,2006
+Álvaro Santos,Centre-Forward,1980-01-30,26,Brazil,FC Sochaux-Montbéliard,Ligue 1,2006/2007,2006
+Anthony Le Tallec,Centre-Forward,1984-10-03,21,France,FC Sochaux-Montbéliard,Ligue 1,2006/2007,2006
+Mevlüt Erdinc,Centre-Forward,1987-02-25,19,Turkey,FC Sochaux-Montbéliard,Ligue 1,2006/2007,2006
+Julien Quercia,Centre-Forward,1986-08-17,19,France,FC Sochaux-Montbéliard,Ligue 1,2006/2007,2006
+Damien Grégorini,Goalkeeper,1979-03-02,27,France,OGC Nice,Ligue 1,2006/2007,2006
+Lionel Létizi,Goalkeeper,1973-05-28,33,France,OGC Nice,Ligue 1,2006/2007,2006
+Hugo Lloris,Goalkeeper,1986-12-26,19,France,OGC Nice,Ligue 1,2006/2007,2006
+Jérémie Moreau,Goalkeeper,1980-07-22,25,France,OGC Nice,Ligue 1,2006/2007,2006
+Ibrahim Touré,Defender,1985-09-27,20,Cote d'Ivoire,OGC Nice,Ligue 1,2006/2007,2006
+Cédric Kanté,Centre-Back,1979-07-06,26,Mali,OGC Nice,Ligue 1,2006/2007,2006
+Cédric Varrault,Centre-Back,1980-01-30,26,France,OGC Nice,Ligue 1,2006/2007,2006
+Anthar Yahia,Centre-Back,1982-03-21,24,Algeria,OGC Nice,Ligue 1,2006/2007,2006
+Jacques Abardonado,Centre-Back,1978-05-27,28,France,OGC Nice,Ligue 1,2006/2007,2006
+Drissa Diakité,Centre-Back,1985-02-18,21,Mali,OGC Nice,Ligue 1,2006/2007,2006
+Onyekachi Apam,Centre-Back,1986-12-30,19,Nigeria,OGC Nice,Ligue 1,2006/2007,2006
+Ismaël Gace,Centre-Back,1986-09-19,19,France,OGC Nice,Ligue 1,2006/2007,2006
+Cyril Rool,Left-Back,1975-04-15,31,France,OGC Nice,Ligue 1,2006/2007,2006
+Olivier Veigneau,Left-Back,1985-07-16,20,France,OGC Nice,Ligue 1,2006/2007,2006
+Rod Fanni,Right-Back,1981-12-06,24,France,OGC Nice,Ligue 1,2006/2007,2006
+Thibault Scotto,Right-Back,1978-09-17,27,France,OGC Nice,Ligue 1,2006/2007,2006
+Olivier Echouafni,Defensive Midfield,1972-09-13,33,France,OGC Nice,Ligue 1,2006/2007,2006
+Florent Balmont,Central Midfield,1980-02-02,26,France,OGC Nice,Ligue 1,2006/2007,2006
+Mahamane Traoré,Central Midfield,1988-08-31,17,Mali,OGC Nice,Ligue 1,2006/2007,2006
+Ederson,Attacking Midfield,1986-01-13,20,Brazil,OGC Nice,Ligue 1,2006/2007,2006
+Bakari Koné,Right Winger,1981-09-17,24,Cote d'Ivoire,OGC Nice,Ligue 1,2006/2007,2006
+Souleymane Camara,Right Winger,1982-12-22,23,Senegal,OGC Nice,Ligue 1,2006/2007,2006
+Marama Vahirua,Second Striker,1980-05-12,26,Tahiti,OGC Nice,Ligue 1,2006/2007,2006
+Matt Moussilou,Centre-Forward,1982-06-01,24,Congo,OGC Nice,Ligue 1,2006/2007,2006
+David Bellion,Centre-Forward,1982-11-27,23,France,OGC Nice,Ligue 1,2006/2007,2006
+Lilian Laslandes,Centre-Forward,1971-09-04,34,France,OGC Nice,Ligue 1,2006/2007,2006
+Olivier Fauconnier,Centre-Forward,1976-06-22,30,Guadeloupe,OGC Nice,Ligue 1,2006/2007,2006
+Kamel Larbi,Centre-Forward,1985-02-20,21,Algeria,OGC Nice,Ligue 1,2006/2007,2006
+Nicolas Douchez,Goalkeeper,1980-04-22,26,France,FC Toulouse,Ligue 1,2006/2007,2006
+Benoît Benvegnu,Goalkeeper,1985-01-18,21,France,FC Toulouse,Ligue 1,2006/2007,2006
+Jérémy Mathieu,Centre-Back,1983-10-29,22,France,FC Toulouse,Ligue 1,2006/2007,2006
+Lucien Aubey,Centre-Back,1984-05-24,22,Congo,FC Toulouse,Ligue 1,2006/2007,2006
+Daniel Congré,Centre-Back,1985-04-05,21,France,FC Toulouse,Ligue 1,2006/2007,2006
+Dominique Arribagé,Centre-Back,1971-05-11,35,France,FC Toulouse,Ligue 1,2006/2007,2006
+Mohamed Fofana,Centre-Back,1985-03-07,21,Mali,FC Toulouse,Ligue 1,2006/2007,2006
+Issoumaila Dao,Centre-Back,1983-10-27,22,Cote d'Ivoire,FC Toulouse,Ligue 1,2006/2007,2006
+Alsény Camara,Centre-Back,1986-11-04,19,Guinea,FC Toulouse,Ligue 1,2006/2007,2006
+Walid Cherfa,Left-Back,1986-02-24,20,Algeria,FC Toulouse,Ligue 1,2006/2007,2006
+Albin Ebondo,Right-Back,1984-02-23,22,France,FC Toulouse,Ligue 1,2006/2007,2006
+Fabinho,Defensive Midfield,1980-01-10,26,Brazil,FC Toulouse,Ligue 1,2006/2007,2006
+Étienne Capoue,Defensive Midfield,1988-07-11,17,France,FC Toulouse,Ligue 1,2006/2007,2006
+Nicolas Dieuze,Central Midfield,1979-02-07,27,France,FC Toulouse,Ligue 1,2006/2007,2006
+Nabil Taïder,Central Midfield,1983-05-26,23,Tunisia,FC Toulouse,Ligue 1,2006/2007,2006
+Pantxi Sirieix,Central Midfield,1980-10-07,25,France,FC Toulouse,Ligue 1,2006/2007,2006
+Kévin Constant,Central Midfield,1987-05-10,19,Guinea,FC Toulouse,Ligue 1,2006/2007,2006
+Achille Emaná,Attacking Midfield,1982-06-05,24,Cameroon,FC Toulouse,Ligue 1,2006/2007,2006
+Laurent Batlles,Attacking Midfield,1975-09-23,30,France,FC Toulouse,Ligue 1,2006/2007,2006
+Bryan Bergougnoux,Attacking Midfield,1983-01-12,23,France,FC Toulouse,Ligue 1,2006/2007,2006
+Alexandre Bonnet,Attacking Midfield,1986-10-17,19,France,FC Toulouse,Ligue 1,2006/2007,2006
+Fodé Mansare,Left Winger,1981-09-03,24,Guinea,FC Toulouse,Ligue 1,2006/2007,2006
+Paulo César,Right Winger,1978-08-26,27,Brazil,FC Toulouse,Ligue 1,2006/2007,2006
+Anthony Robic,Right Winger,1986-03-05,20,France,FC Toulouse,Ligue 1,2006/2007,2006
+Johan Elmander,Centre-Forward,1981-05-27,25,Sweden,FC Toulouse,Ligue 1,2006/2007,2006
+Santos,Centre-Forward,1979-03-20,27,Tunisia,FC Toulouse,Ligue 1,2006/2007,2006
+Jean-Louis Akpa Akpro,Centre-Forward,1985-01-04,21,France,FC Toulouse,Ligue 1,2006/2007,2006
+Xavier Pentecôte,Centre-Forward,1986-08-13,19,France,FC Toulouse,Ligue 1,2006/2007,2006
+Pavel Fort,Centre-Forward,1983-06-26,23,Czech Republic,FC Toulouse,Ligue 1,2006/2007,2006
+Kévin Dupuis,Centre-Forward,1987-01-14,19,France,FC Toulouse,Ligue 1,2006/2007,2006
+Gennaro Bracigliano,Goalkeeper,1980-03-01,26,France,AS Nancy-Lorraine,Ligue 1,2006/2007,2006
+Damien Grégorini,Goalkeeper,1979-03-02,27,France,AS Nancy-Lorraine,Ligue 1,2006/2007,2006
+Olivier Sorin,Goalkeeper,1981-04-16,25,France,AS Nancy-Lorraine,Ligue 1,2006/2007,2006
+Johan Lapeyre,Goalkeeper,1985-08-03,20,France,AS Nancy-Lorraine,Ligue 1,2006/2007,2006
+Sébastien Puygrenier,Centre-Back,1982-01-28,24,France,AS Nancy-Lorraine,Ligue 1,2006/2007,2006
+Pape Diakhaté,Centre-Back,1984-06-21,22,Senegal,AS Nancy-Lorraine,Ligue 1,2006/2007,2006
+Mickaël Chrétien Basser,Centre-Back,1984-07-10,21,Morocco,AS Nancy-Lorraine,Ligue 1,2006/2007,2006
+André Luiz,Centre-Back,1980-01-27,26,Brazil,AS Nancy-Lorraine,Ligue 1,2006/2007,2006
+Cédric Lecluse,Centre-Back,1972-03-29,34,France,AS Nancy-Lorraine,Ligue 1,2006/2007,2006
+Damián Macaluso,Centre-Back,1980-03-09,26,Uruguay,AS Nancy-Lorraine,Ligue 1,2006/2007,2006
+Jérémy Sapina,Centre-Back,1985-02-01,21,France,AS Nancy-Lorraine,Ligue 1,2006/2007,2006
+Frédéric Biancalani,Left-Back,1974-07-21,31,France,AS Nancy-Lorraine,Ligue 1,2006/2007,2006
+Jonathan Brison,Left-Back,1983-02-07,23,France,AS Nancy-Lorraine,Ligue 1,2006/2007,2006
+David Sauget,Left-Back,1979-11-23,26,France,AS Nancy-Lorraine,Ligue 1,2006/2007,2006
+Adailton,Right-Back,1979-12-26,26,Brazil,AS Nancy-Lorraine,Ligue 1,2006/2007,2006
+Emmanuel Duchemin,Defensive Midfield,1979-03-14,27,France,AS Nancy-Lorraine,Ligue 1,2006/2007,2006
+Pascal Berenguer,Defensive Midfield,1981-05-20,25,France,AS Nancy-Lorraine,Ligue 1,2006/2007,2006
+Landry N'Guémo,Defensive Midfield,1985-11-28,20,Cameroon,AS Nancy-Lorraine,Ligue 1,2006/2007,2006
+Abdoulaye Keita,Defensive Midfield,1978-10-23,27,Senegal,AS Nancy-Lorraine,Ligue 1,2006/2007,2006
+Ludovic Guerriero,Defensive Midfield,1985-01-05,21,France,AS Nancy-Lorraine,Ligue 1,2006/2007,2006
+Rachid Hamdani,Defensive Midfield,1985-04-08,21,Morocco,AS Nancy-Lorraine,Ligue 1,2006/2007,2006
+Benjamin Gavanon,Central Midfield,1980-08-09,25,France,AS Nancy-Lorraine,Ligue 1,2006/2007,2006
+Monsef Zerka,Right Midfield,1981-08-30,24,Morocco,AS Nancy-Lorraine,Ligue 1,2006/2007,2006
+Adrián Sarkisian,Left Midfield,1979-02-13,27,Uruguay,AS Nancy-Lorraine,Ligue 1,2006/2007,2006
+Gastón Curbelo,Forward,1976-04-08,30,France,AS Nancy-Lorraine,Ligue 1,2006/2007,2006
+Romain Chouleur,Left Winger,1986-01-10,20,France,AS Nancy-Lorraine,Ligue 1,2006/2007,2006
+Tosin Dosunmu,Right Winger,1980-07-15,25,Nigeria,AS Nancy-Lorraine,Ligue 1,2006/2007,2006
+Issiar Dia,Right Winger,1987-06-08,19,Senegal,AS Nancy-Lorraine,Ligue 1,2006/2007,2006
+Youssouf Hadji,Centre-Forward,1980-02-25,26,Morocco,AS Nancy-Lorraine,Ligue 1,2006/2007,2006
+Kim,Centre-Forward,1980-06-22,26,Brazil,AS Nancy-Lorraine,Ligue 1,2006/2007,2006
+Marc-Antoine Fortuné,Centre-Forward,1981-07-02,24,French Guiana,AS Nancy-Lorraine,Ligue 1,2006/2007,2006
+Gergely Rudolf,Centre-Forward,1985-03-09,21,Hungary,AS Nancy-Lorraine,Ligue 1,2006/2007,2006
+Basile Camerling,Centre-Forward,1987-04-19,19,France,AS Nancy-Lorraine,Ligue 1,2006/2007,2006
+Yohann Pelé,Goalkeeper,1982-11-04,23,France,Le Mans Union Club 72,Ligue 1,2006/2007,2006
+Rodolphe Roche,Goalkeeper,1979-06-14,27,France,Le Mans Union Club 72,Ligue 1,2006/2007,2006
+Thibault Ferrand,Goalkeeper,1986-03-26,20,France,Le Mans Union Club 72,Ligue 1,2006/2007,2006
+Paulo André,Centre-Back,1983-08-20,22,Brazil,Le Mans Union Club 72,Ligue 1,2006/2007,2006
+Marko Basa,Centre-Back,1982-12-29,23,Montenegro,Le Mans Union Club 72,Ligue 1,2006/2007,2006
+Jean Calvé,Centre-Back,1984-04-30,22,France,Le Mans Union Club 72,Ligue 1,2006/2007,2006
+Yannick Fischer,Centre-Back,1974-12-17,31,France,Le Mans Union Club 72,Ligue 1,2006/2007,2006
+Grégory Cerdan,Centre-Back,1982-07-28,23,France,Le Mans Union Club 72,Ligue 1,2006/2007,2006
+Cyriaque Louvion,Centre-Back,1987-07-24,18,France,Le Mans Union Club 72,Ligue 1,2006/2007,2006
+Laurent Bonnart,Left-Back,1979-12-25,26,France,Le Mans Union Club 72,Ligue 1,2006/2007,2006
+Olivier Thomas,Left-Back,1974-10-06,31,France,Le Mans Union Club 72,Ligue 1,2006/2007,2006
+Ibrahima Camara,Left-Back,1985-01-01,21,Guinea,Le Mans Union Club 72,Ligue 1,2006/2007,2006
+Ludovic Baal,Left-Back,1986-05-24,20,French Guiana,Le Mans Union Club 72,Ligue 1,2006/2007,2006
+Ivan Strinic,Left-Back,1987-07-17,18,Croatia,Le Mans Union Club 72,Ligue 1,2006/2007,2006
+Romaric,Defensive Midfield,1983-06-04,23,Cote d'Ivoire,Le Mans Union Club 72,Ligue 1,2006/2007,2006
+Bertrand Ndzomo,Defensive Midfield,1985-06-18,21,France,Le Mans Union Club 72,Ligue 1,2006/2007,2006
+Hassan Yebda,Central Midfield,1984-05-14,22,Algeria,Le Mans Union Club 72,Ligue 1,2006/2007,2006
+Guillaume Loriot,Central Midfield,1986-05-21,20,France,Le Mans Union Club 72,Ligue 1,2006/2007,2006
+Mathieu Coutadeur,Central Midfield,1986-03-20,20,France,Le Mans Union Club 72,Ligue 1,2006/2007,2006
+Daisuke Matsui,Left Midfield,1981-05-11,25,Japan,Le Mans Union Club 72,Ligue 1,2006/2007,2006
+Stéphane Sessègnon,Attacking Midfield,1984-06-01,22,Benin,Le Mans Union Club 72,Ligue 1,2006/2007,2006
+Martin Douillard,Left Winger,1985-03-20,21,France,Le Mans Union Club 72,Ligue 1,2006/2007,2006
+James Fanchone,Right Winger,1980-02-21,26,France,Le Mans Union Club 72,Ligue 1,2006/2007,2006
+Chiguy Lucau,Right Winger,1984-08-04,21,DR Congo,Le Mans Union Club 72,Ligue 1,2006/2007,2006
+Túlio de Melo,Centre-Forward,1985-01-31,21,Brazil,Le Mans Union Club 72,Ligue 1,2006/2007,2006
+Ismaël Bangoura,Centre-Forward,1985-01-02,21,Guinea,Le Mans Union Club 72,Ligue 1,2006/2007,2006
+Grafite,Centre-Forward,1979-04-02,27,Brazil,Le Mans Union Club 72,Ligue 1,2006/2007,2006
+Mamadou Samassa,Centre-Forward,1986-05-01,20,Mali,Le Mans Union Club 72,Ligue 1,2006/2007,2006
+Modibo Maïga,Centre-Forward,1987-09-03,18,Mali,Le Mans Union Club 72,Ligue 1,2006/2007,2006
+Ronan Le Crom,Goalkeeper,1974-07-13,31,France,ES Troyes AC,Ligue 1,2006/2007,2006
+Quentin Westberg,Goalkeeper,1986-04-25,20,United States,ES Troyes AC,Ligue 1,2006/2007,2006
+Kevin Grau,Goalkeeper,1980-05-22,26,France,ES Troyes AC,Ligue 1,2006/2007,2006
+Auriol Guillaume,Defender,1979-10-14,26,France,ES Troyes AC,Ligue 1,2006/2007,2006
+Blaise Kouassi,Centre-Back,1975-02-02,31,Cote d'Ivoire,ES Troyes AC,Ligue 1,2006/2007,2006
+Florian Boucansaud,Centre-Back,1981-02-15,25,France,ES Troyes AC,Ligue 1,2006/2007,2006
+Ibrahima Fayé,Centre-Back,1979-10-22,26,Senegal,ES Troyes AC,Ligue 1,2006/2007,2006
+Gaël Sanz,Centre-Back,1977-05-01,29,France,ES Troyes AC,Ligue 1,2006/2007,2006
+Grégory Paisley,Left-Back,1977-05-07,29,France,ES Troyes AC,Ligue 1,2006/2007,2006
+Stéphen Drouin,Left-Back,1984-02-27,22,France,ES Troyes AC,Ligue 1,2006/2007,2006
+Demetrius Ferreira,Right-Back,1974-01-19,32,Brazil,ES Troyes AC,Ligue 1,2006/2007,2006
+Jean-Louis Montero,Right-Back,1971-04-28,35,France,ES Troyes AC,Ligue 1,2006/2007,2006
+Nabil Berkak,Right-Back,1984-01-13,22,Morocco,ES Troyes AC,Ligue 1,2006/2007,2006
+Éloge Enza-Yamissi,Defensive Midfield,1983-01-23,23,Central African Republic,ES Troyes AC,Ligue 1,2006/2007,2006
+Cédric Faivre,Defensive Midfield,1981-04-08,25,France,ES Troyes AC,Ligue 1,2006/2007,2006
+Alassane N'Dour,Defensive Midfield,1981-12-12,24,Senegal,ES Troyes AC,Ligue 1,2006/2007,2006
+Blaise Matuidi,Central Midfield,1987-04-09,19,France,ES Troyes AC,Ligue 1,2006/2007,2006
+Jonathan Lacourt,Central Midfield,1986-08-17,19,France,ES Troyes AC,Ligue 1,2006/2007,2006
+Gharib Amzine,Left Midfield,1973-05-03,33,Morocco,ES Troyes AC,Ligue 1,2006/2007,2006
+Yann Lachuer,Attacking Midfield,1972-08-05,33,France,ES Troyes AC,Ligue 1,2006/2007,2006
+Benjamin Nivet,Attacking Midfield,1977-01-02,29,France,ES Troyes AC,Ligue 1,2006/2007,2006
+Cédric Barbosa,Left Winger,1976-03-06,30,France,ES Troyes AC,Ligue 1,2006/2007,2006
+Gaël Danic,Left Winger,1981-11-19,24,France,ES Troyes AC,Ligue 1,2006/2007,2006
+Sébastien Dallet,Right Winger,1973-09-30,32,France,ES Troyes AC,Ligue 1,2006/2007,2006
+Ibrahima Bangoura,Right Winger,1982-12-08,23,Guinea,ES Troyes AC,Ligue 1,2006/2007,2006
+Zied Jaziri,Centre-Forward,1978-07-12,27,Tunisia,ES Troyes AC,Ligue 1,2006/2007,2006
+Marek Saganowski,Centre-Forward,1978-10-31,27,Poland,ES Troyes AC,Ligue 1,2006/2007,2006
+Weldon,Centre-Forward,1980-08-06,25,Brazil,ES Troyes AC,Ligue 1,2006/2007,2006
+Georges Ba,Centre-Forward,1979-01-24,27,Cote d'Ivoire,ES Troyes AC,Ligue 1,2006/2007,2006
+David Gigliotti,Centre-Forward,1985-05-30,21,France,ES Troyes AC,Ligue 1,2006/2007,2006
+Stéphane Trévisan,Goalkeeper,1974-03-27,32,France,CS Sedan-Ardennes,Ligue 1,2006/2007,2006
+Patrick Regnault,Goalkeeper,1974-03-31,32,France,CS Sedan-Ardennes,Ligue 1,2006/2007,2006
+Alaeddine Yahia,Centre-Back,1981-09-26,24,Tunisia,CS Sedan-Ardennes,Ligue 1,2006/2007,2006
+Yoann Lachor,Centre-Back,1976-01-17,30,France,CS Sedan-Ardennes,Ligue 1,2006/2007,2006
+Jean-Michel Badiane,Centre-Back,1983-05-09,23,France,CS Sedan-Ardennes,Ligue 1,2006/2007,2006
+Romain Sartre,Centre-Back,1982-11-12,23,France,CS Sedan-Ardennes,Ligue 1,2006/2007,2006
+Steven Thicot,Centre-Back,1987-02-14,19,France,CS Sedan-Ardennes,Ligue 1,2006/2007,2006
+Jérémy Henin,Centre-Back,1977-11-12,28,France,CS Sedan-Ardennes,Ligue 1,2006/2007,2006
+Issoumaila Dao,Centre-Back,1983-10-27,22,Cote d'Ivoire,CS Sedan-Ardennes,Ligue 1,2006/2007,2006
+Georges Ambourouet,Left-Back,1986-05-01,20,Gabon,CS Sedan-Ardennes,Ligue 1,2006/2007,2006
+Nadir Belhadj,Left-Back,1982-06-18,24,Algeria,CS Sedan-Ardennes,Ligue 1,2006/2007,2006
+David Hamed,Right-Back,1974-01-02,32,France,CS Sedan-Ardennes,Ligue 1,2006/2007,2006
+Aliou Cissé,Defensive Midfield,1976-03-24,30,Senegal,CS Sedan-Ardennes,Ligue 1,2006/2007,2006
+David Ducourtioux,Defensive Midfield,1978-04-11,28,France,CS Sedan-Ardennes,Ligue 1,2006/2007,2006
+Jérôme Le Moigne,Defensive Midfield,1983-02-15,23,France,CS Sedan-Ardennes,Ligue 1,2006/2007,2006
+Nadjim Abdou,Central Midfield,1984-07-13,21,Comoros,CS Sedan-Ardennes,Ligue 1,2006/2007,2006
+Fabrice Jau,Right Midfield,1978-09-04,27,France,CS Sedan-Ardennes,Ligue 1,2006/2007,2006
+Christophe Bastien,Right Midfield,1976-03-09,30,France,CS Sedan-Ardennes,Ligue 1,2006/2007,2006
+Marcus Mokaké,Attacking Midfield,1981-11-30,24,Cameroon,CS Sedan-Ardennes,Ligue 1,2006/2007,2006
+Stéphane Noro,Attacking Midfield,1979-11-22,26,France,CS Sedan-Ardennes,Ligue 1,2006/2007,2006
+Abdelnasser Ouadah,Left Winger,1975-09-13,30,Algeria,CS Sedan-Ardennes,Ligue 1,2006/2007,2006
+Nicolas Maurice-Belay,Left Winger,1985-04-19,21,France,CS Sedan-Ardennes,Ligue 1,2006/2007,2006
+Nicolas Marin,Right Winger,1980-08-29,25,France,CS Sedan-Ardennes,Ligue 1,2006/2007,2006
+Morgan Amalfitano,Right Winger,1985-03-20,21,France,CS Sedan-Ardennes,Ligue 1,2006/2007,2006
+Joseph-Désiré Job,Centre-Forward,1977-12-01,28,Cameroon,CS Sedan-Ardennes,Ligue 1,2006/2007,2006
+Grégory Pujol,Centre-Forward,1980-01-25,26,France,CS Sedan-Ardennes,Ligue 1,2006/2007,2006
+Mansour Boutabout,Centre-Forward,1978-09-20,27,Algeria,CS Sedan-Ardennes,Ligue 1,2006/2007,2006
+Samir Henaini,Centre-Forward,1984-05-04,22,France,CS Sedan-Ardennes,Ligue 1,2006/2007,2006
+Nicolas Penneteau,Goalkeeper,1981-02-28,25,France,Valenciennes FC,Ligue 1,2006/2007,2006
+Willy Grondin,Goalkeeper,1974-10-12,31,France,Valenciennes FC,Ligue 1,2006/2007,2006
+Stéphane Coqu,Goalkeeper,1982-01-08,24,France,Valenciennes FC,Ligue 1,2006/2007,2006
+Abdeslam Ouaddou,Centre-Back,1978-11-01,27,Morocco,Valenciennes FC,Ligue 1,2006/2007,2006
+Patrick Paauwe,Centre-Back,1975-12-27,30,Netherlands,Valenciennes FC,Ligue 1,2006/2007,2006
+Maxence Flachez,Centre-Back,1972-08-05,33,France,Valenciennes FC,Ligue 1,2006/2007,2006
+Ludovic Liron,Centre-Back,1978-01-30,28,France,Valenciennes FC,Ligue 1,2006/2007,2006
+Éric Chelle,Centre-Back,1977-11-11,28,Mali,Valenciennes FC,Ligue 1,2006/2007,2006
+Dame Traoré,Centre-Back,1986-05-19,20,Qatar,Valenciennes FC,Ligue 1,2006/2007,2006
+Guillaume Rippert,Left-Back,1985-04-30,21,France,Valenciennes FC,Ligue 1,2006/2007,2006
+Orlando Silvestri,Left-Back,1972-10-20,33,France,Valenciennes FC,Ligue 1,2006/2007,2006
+Mody Traoré,Right-Back,1980-07-14,25,France,Valenciennes FC,Ligue 1,2006/2007,2006
+Rudy Mater,Right-Back,1980-10-13,25,France,Valenciennes FC,Ligue 1,2006/2007,2006
+Freddy Bourgeois,Midfielder,1977-02-23,29,France,Valenciennes FC,Ligue 1,2006/2007,2006
+Khaled Kharroubi,Defensive Midfield,1984-02-11,22,France,Valenciennes FC,Ligue 1,2006/2007,2006
+Jeovânio,Defensive Midfield,1977-11-11,28,Brazil,Valenciennes FC,Ligue 1,2006/2007,2006
+José Saez,Central Midfield,1982-05-07,24,France,Valenciennes FC,Ligue 1,2006/2007,2006
+Yacine Bezzaz,Left Midfield,1981-07-10,24,Algeria,Valenciennes FC,Ligue 1,2006/2007,2006
+Sébastien Roudet,Attacking Midfield,1981-06-16,25,France,Valenciennes FC,Ligue 1,2006/2007,2006
+Rudy Haddad,Attacking Midfield,1985-02-05,21,Israel,Valenciennes FC,Ligue 1,2006/2007,2006
+Geoffrey Doumeng,Attacking Midfield,1980-11-09,25,France,Valenciennes FC,Ligue 1,2006/2007,2006
+Florin Bratu,Centre-Forward,1980-01-02,26,Romania,Valenciennes FC,Ligue 1,2006/2007,2006
+Eric Hassli,Centre-Forward,1981-05-03,25,France,Valenciennes FC,Ligue 1,2006/2007,2006
+Thomas Dossevi,Centre-Forward,1979-03-06,27,Togo,Valenciennes FC,Ligue 1,2006/2007,2006
+Sébastien Heitzmann,Centre-Forward,1979-09-11,26,France,Valenciennes FC,Ligue 1,2006/2007,2006
+Steve Savidan,Centre-Forward,1978-06-29,28,France,Valenciennes FC,Ligue 1,2006/2007,2006
+Laurent Dufresne,Centre-Forward,1972-03-02,34,France,Valenciennes FC,Ligue 1,2006/2007,2006
+Fabien Audard,Goalkeeper,1978-03-28,28,France,FC Lorient,Ligue 1,2006/2007,2006
+Lionel Cappone,Goalkeeper,1979-02-08,27,France,FC Lorient,Ligue 1,2006/2007,2006
+Rémy Riou,Goalkeeper,1987-08-06,18,France,FC Lorient,Ligue 1,2006/2007,2006
+Sylvain Marchal,Centre-Back,1980-02-10,26,France,FC Lorient,Ligue 1,2006/2007,2006
+Michaël Ciani,Centre-Back,1984-04-06,22,France,FC Lorient,Ligue 1,2006/2007,2006
+David Recorbet,Centre-Back,1976-10-24,29,France,FC Lorient,Ligue 1,2006/2007,2006
+Benjamin Genton,Centre-Back,1980-05-20,26,France,FC Lorient,Ligue 1,2006/2007,2006
+Jérémy Morel,Centre-Back,1984-04-02,22,Madagascar,FC Lorient,Ligue 1,2006/2007,2006
+Anis Ayari,Left-Back,1982-02-16,24,Tunisia,FC Lorient,Ligue 1,2006/2007,2006
+Marc Boutruche,Right-Back,1976-09-19,29,France,FC Lorient,Ligue 1,2006/2007,2006
+Christophe Jallet,Right-Back,1983-10-31,22,France,FC Lorient,Ligue 1,2006/2007,2006
+Diego Yesso,Midfielder,1984-11-26,21,France,FC Lorient,Ligue 1,2006/2007,2006
+Carl Medjani,Defensive Midfield,1985-05-15,21,Algeria,FC Lorient,Ligue 1,2006/2007,2006
+Nabil Taïder,Central Midfield,1983-05-26,23,Tunisia,FC Lorient,Ligue 1,2006/2007,2006
+Yazid Mansouri,Central Midfield,1978-02-25,28,Algeria,FC Lorient,Ligue 1,2006/2007,2006
+Fabrice Abriel,Central Midfield,1979-07-06,26,France,FC Lorient,Ligue 1,2006/2007,2006
+Oscar Ewolo,Central Midfield,1978-10-09,27,Congo,FC Lorient,Ligue 1,2006/2007,2006
+Guillaume Moullec,Right Midfield,1980-07-03,25,France,FC Lorient,Ligue 1,2006/2007,2006
+Stéphane Pédron,Left Midfield,1971-02-20,35,France,FC Lorient,Ligue 1,2006/2007,2006
+Fabien Robert,Left Midfield,1989-01-06,17,France,FC Lorient,Ligue 1,2006/2007,2006
+Juan Manuel Barrientos,Left Midfield,1982-03-04,24,Argentina,FC Lorient,Ligue 1,2006/2007,2006
+Hamed Namouchi,Attacking Midfield,1984-02-14,22,Tunisia,FC Lorient,Ligue 1,2006/2007,2006
+Farid Talhaoui,Forward,1982-02-10,24,Morocco,FC Lorient,Ligue 1,2006/2007,2006
+Ulrich Le Pen,Left Winger,1974-01-21,32,France,FC Lorient,Ligue 1,2006/2007,2006
+Fabrice Fiorèse,Right Winger,1975-07-26,30,France,FC Lorient,Ligue 1,2006/2007,2006
+Rahmane Barry,Second Striker,1986-08-30,19,Senegal,FC Lorient,Ligue 1,2006/2007,2006
+Rafik Saïfi,Centre-Forward,1975-02-07,31,Algeria,FC Lorient,Ligue 1,2006/2007,2006
+Steve Marlet,Centre-Forward,1974-01-10,32,France,FC Lorient,Ligue 1,2006/2007,2006
+Kemal Bourhani,Centre-Forward,1981-09-13,24,Comoros,FC Lorient,Ligue 1,2006/2007,2006
+Mamadou Dansoko,Centre-Forward,1982-07-31,23,Cote d'Ivoire,FC Lorient,Ligue 1,2006/2007,2006
+Papis M’Bodji,Centre-Forward,1984-07-13,21,Senegal,FC Lorient,Ligue 1,2006/2007,2006
+André-Pierre Gignac,Centre-Forward,1985-12-05,20,France,FC Lorient,Ligue 1,2006/2007,2006
+Julian Pinard,Centre-Forward,1986-01-16,20,France,FC Lorient,Ligue 1,2006/2007,2006

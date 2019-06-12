@@ -1,636 +1,636 @@
-shirt_number,position,player_name,date_of_birth,age,nationality,club_name,league_name,season,year
-1,Goalkeeper,"May 20, 1981 (33)",NA,NA,Spain,Real Madrid,LaLiga,2014/2015,2014
-13,Goalkeeper,"Dec 15, 1986 (27)",NA,NA,Costa Rica,Real Madrid,LaLiga,2014/2015,2014
-25,Goalkeeper,"May 18, 1992 (22)",NA,NA,Spain,Real Madrid,LaLiga,2014/2015,2014
-31,Goalkeeper,"Oct 12, 1993 (20)",NA,NA,Spain,Real Madrid,LaLiga,2014/2015,2014
-4,Centre-Back,"Mar 30, 1986 (28)",NA,NA,Spain,Real Madrid,LaLiga,2014/2015,2014
-2,Centre-Back,"Apr 25, 1993 (21)",NA,NA,France,Real Madrid,LaLiga,2014/2015,2014
-3,Centre-Back,"Feb 26, 1983 (31)",NA,NA,Portugal,Real Madrid,LaLiga,2014/2015,2014
-18,Centre-Back,"Jan 18, 1990 (24)",NA,NA,Spain,Real Madrid,LaLiga,2014/2015,2014
-42,Centre-Back,"Feb 21, 1993 (21)",NA,NA,Spain,Real Madrid,LaLiga,2014/2015,2014
-NA,Centre-Back,"Aug 16, 1993 (20)",NA,NA,Spain,Real Madrid,LaLiga,2014/2015,2014
-31,Centre-Back,"Mar 11, 1995 (19)",NA,NA,Spain,Real Madrid,LaLiga,2014/2015,2014
-12,Left-Back,"May 12, 1988 (26)",NA,NA,Brazil,Real Madrid,LaLiga,2014/2015,2014
-5,Left-Back,"Mar 11, 1988 (26)",NA,NA,Portugal,Real Madrid,LaLiga,2014/2015,2014
-38,Left-Back,"Mar 18, 1993 (21)",NA,NA,Spain,Real Madrid,LaLiga,2014/2015,2014
-30,Left-Back,"May 30, 1996 (18)",NA,NA,Brazil,Real Madrid,LaLiga,2014/2015,2014
-15,Right-Back,"Jan 11, 1992 (22)",NA,NA,Spain,Real Madrid,LaLiga,2014/2015,2014
-17,Right-Back,"Jan 17, 1983 (31)",NA,NA,Spain,Real Madrid,LaLiga,2014/2015,2014
-28,Right-Back,"Mar 24, 1993 (21)",NA,NA,Uruguay,Real Madrid,LaLiga,2014/2015,2014
-24,Defensive Midfield,"Mar 8, 1990 (24)",NA,NA,Spain,Real Madrid,LaLiga,2014/2015,2014
-NA,Defensive Midfield,"Nov 25, 1981 (32)",NA,NA,Spain,Real Madrid,LaLiga,2014/2015,2014
-35,Defensive Midfield,"Jul 19, 1994 (19)",NA,NA,Spain,Real Madrid,LaLiga,2014/2015,2014
-36,Defensive Midfield,"Jan 30, 1995 (19)",NA,NA,Spain,Real Madrid,LaLiga,2014/2015,2014
-8,Central Midfield,"Jan 4, 1990 (24)",NA,NA,Germany,Real Madrid,LaLiga,2014/2015,2014
-19,Central Midfield,"Sep 9, 1985 (28)",NA,NA,Croatia,Real Madrid,LaLiga,2014/2015,2014
-6,Central Midfield,"Apr 4, 1987 (27)",NA,NA,Germany,Real Madrid,LaLiga,2014/2015,2014
-16,Central Midfield,"Feb 16, 1993 (21)",NA,NA,Brazil,Real Madrid,LaLiga,2014/2015,2014
-26,Central Midfield,"Mar 15, 1994 (20)",NA,NA,Spain,Real Madrid,LaLiga,2014/2015,2014
-32,Central Midfield,"Sep 2, 1992 (21)",NA,NA,Spain,Real Madrid,LaLiga,2014/2015,2014
-37,Central Midfield,"Feb 28, 1995 (19)",NA,NA,Spain,Real Madrid,LaLiga,2014/2015,2014
-10,Attacking Midfield,"Jul 12, 1991 (22)",NA,NA,Colombia,Real Madrid,LaLiga,2014/2015,2014
-23,Attacking Midfield,"Apr 21, 1992 (22)",NA,NA,Spain,Real Madrid,LaLiga,2014/2015,2014
-7,Left Winger,"Feb 5, 1985 (29)",NA,NA,Portugal,Real Madrid,LaLiga,2014/2015,2014
-11,Right Winger,"Jul 16, 1989 (24)",NA,NA,Wales,Real Madrid,LaLiga,2014/2015,2014
-NA,Right Winger,"Feb 14, 1988 (26)",NA,NA,Argentina,Real Madrid,LaLiga,2014/2015,2014
-41,Right Winger,"Dec 17, 1998 (15)",NA,NA,Norway,Real Madrid,LaLiga,2014/2015,2014
-9,Centre-Forward,"Dec 19, 1987 (26)",NA,NA,France,Real Madrid,LaLiga,2014/2015,2014
-14,Centre-Forward,"Jun 1, 1988 (26)",NA,NA,Mexico,Real Madrid,LaLiga,2014/2015,2014
-20,Centre-Forward,"Feb 26, 1993 (21)",NA,NA,Spain,Real Madrid,LaLiga,2014/2015,2014
-27,Centre-Forward,"Oct 17, 1994 (19)",NA,NA,Spain,Real Madrid,LaLiga,2014/2015,2014
-29,Centre-Forward,"Jul 3, 1991 (22)",NA,NA,Finland,Real Madrid,LaLiga,2014/2015,2014
-43,Centre-Forward,"Apr 5, 1997 (17)",NA,NA,Spain,Real Madrid,LaLiga,2014/2015,2014
-1,Goalkeeper,"Apr 30, 1992 (22)",NA,NA,Germany,FC Barcelona,LaLiga,2014/2015,2014
-13,Goalkeeper,"Apr 13, 1983 (31)",NA,NA,Chile,FC Barcelona,LaLiga,2014/2015,2014
-25,Goalkeeper,"Jan 3, 1989 (25)",NA,NA,Spain,FC Barcelona,LaLiga,2014/2015,2014
-3,Centre-Back,"Feb 2, 1987 (27)",NA,NA,Spain,FC Barcelona,LaLiga,2014/2015,2014
-23,Centre-Back,"Nov 14, 1985 (28)",NA,NA,Belgium,FC Barcelona,LaLiga,2014/2015,2014
-15,Centre-Back,"Jan 15, 1991 (23)",NA,NA,Spain,FC Barcelona,LaLiga,2014/2015,2014
-24,Centre-Back,"Oct 29, 1983 (30)",NA,NA,France,FC Barcelona,LaLiga,2014/2015,2014
-NA,Centre-Back,"May 1, 1994 (20)",NA,NA,Portugal,FC Barcelona,LaLiga,2014/2015,2014
-18,Left-Back,"Mar 21, 1989 (25)",NA,NA,Spain,FC Barcelona,LaLiga,2014/2015,2014
-21,Left-Back,"Oct 26, 1984 (29)",NA,NA,Brazil,FC Barcelona,LaLiga,2014/2015,2014
-22,Right-Back,"May 6, 1983 (31)",NA,NA,Brazil,FC Barcelona,LaLiga,2014/2015,2014
-2,Right-Back,"Apr 14, 1991 (23)",NA,NA,Spain,FC Barcelona,LaLiga,2014/2015,2014
-20,Right-Back,"Feb 7, 1992 (22)",NA,NA,Spain,FC Barcelona,LaLiga,2014/2015,2014
-16,Right-Back,"Aug 6, 1990 (23)",NA,NA,Brazil,FC Barcelona,LaLiga,2014/2015,2014
-5,Defensive Midfield,"Jul 16, 1988 (25)",NA,NA,Spain,FC Barcelona,LaLiga,2014/2015,2014
-14,Defensive Midfield,"Jun 8, 1984 (30)",NA,NA,Argentina,FC Barcelona,LaLiga,2014/2015,2014
-26,Defensive Midfield,"Jan 20, 1995 (19)",NA,NA,Spain,FC Barcelona,LaLiga,2014/2015,2014
-NA,Defensive Midfield,"Jul 28, 1994 (19)",NA,NA,Senegal,FC Barcelona,LaLiga,2014/2015,2014
-8,Central Midfield,"May 11, 1984 (30)",NA,NA,Spain,FC Barcelona,LaLiga,2014/2015,2014
-4,Central Midfield,"Mar 10, 1988 (26)",NA,NA,Croatia,FC Barcelona,LaLiga,2014/2015,2014
-6,Central Midfield,"Jan 25, 1980 (34)",NA,NA,Spain,FC Barcelona,LaLiga,2014/2015,2014
-12,Central Midfield,"Feb 12, 1993 (21)",NA,NA,Brazil,FC Barcelona,LaLiga,2014/2015,2014
-NA,Central Midfield,"Dec 18, 1994 (19)",NA,NA,Spain,FC Barcelona,LaLiga,2014/2015,2014
-NA,Attacking Midfield,"Jun 18, 1996 (18)",NA,NA,Croatia,FC Barcelona,LaLiga,2014/2015,2014
-11,Left Winger,"Feb 5, 1992 (22)",NA,NA,Brazil,FC Barcelona,LaLiga,2014/2015,2014
-10,Right Winger,"Jun 24, 1987 (27)",NA,NA,Argentina,FC Barcelona,LaLiga,2014/2015,2014
-7,Right Winger,"Jul 28, 1987 (26)",NA,NA,Spain,FC Barcelona,LaLiga,2014/2015,2014
-NA,Right Winger,"Jan 25, 1996 (18)",NA,NA,Spain,FC Barcelona,LaLiga,2014/2015,2014
-9,Centre-Forward,"Jan 24, 1987 (27)",NA,NA,Uruguay,FC Barcelona,LaLiga,2014/2015,2014
-29,Centre-Forward,"Jul 9, 1995 (18)",NA,NA,Spain,FC Barcelona,LaLiga,2014/2015,2014
-31,Centre-Forward,"Sep 1, 1995 (18)",NA,NA,Spain,FC Barcelona,LaLiga,2014/2015,2014
-13,Goalkeeper,"Jan 7, 1993 (21)",NA,NA,Slovenia,Atlético Madrid,LaLiga,2014/2015,2014
-1,Goalkeeper,"Apr 2, 1984 (30)",NA,NA,Spain,Atlético Madrid,LaLiga,2014/2015,2014
-NA,Goalkeeper,"Feb 18, 1993 (21)",NA,NA,Spain,Atlético Madrid,LaLiga,2014/2015,2014
-2,Centre-Back,"Feb 16, 1986 (28)",NA,NA,Uruguay,Atlético Madrid,LaLiga,2014/2015,2014
-23,Centre-Back,"Sep 7, 1984 (29)",NA,NA,Brazil,Atlético Madrid,LaLiga,2014/2015,2014
-24,Centre-Back,"Jan 20, 1995 (19)",NA,NA,Uruguay,Atlético Madrid,LaLiga,2014/2015,2014
-NA,Centre-Back,"Feb 14, 1996 (18)",NA,NA,France,Atlético Madrid,LaLiga,2014/2015,2014
-NA,Centre-Back,"Apr 27, 1994 (20)",NA,NA,Spain,Atlético Madrid,LaLiga,2014/2015,2014
-15,Left-Back,"Sep 20, 1986 (27)",NA,NA,Argentina,Atlético Madrid,LaLiga,2014/2015,2014
-3,Left-Back,"Apr 28, 1986 (28)",NA,NA,Brazil,Atlético Madrid,LaLiga,2014/2015,2014
-NA,Left-Back,"Oct 20, 1992 (21)",NA,NA,Spain,Atlético Madrid,LaLiga,2014/2015,2014
-20,Right-Back,"Jan 9, 1985 (29)",NA,NA,Spain,Atlético Madrid,LaLiga,2014/2015,2014
-18,Right-Back,"Apr 10, 1985 (29)",NA,NA,Spain,Atlético Madrid,LaLiga,2014/2015,2014
-14,Defensive Midfield,"Jul 10, 1983 (30)",NA,NA,Spain,Atlético Madrid,LaLiga,2014/2015,2014
-6,Central Midfield,"Jan 8, 1992 (22)",NA,NA,Spain,Atlético Madrid,LaLiga,2014/2015,2014
-4,Central Midfield,"Feb 24, 1987 (27)",NA,NA,Spain,Atlético Madrid,LaLiga,2014/2015,2014
-17,Central Midfield,"Nov 21, 1994 (19)",NA,NA,Spain,Atlético Madrid,LaLiga,2014/2015,2014
-NA,Central Midfield,"Sep 30, 1985 (28)",NA,NA,Uruguay,Atlético Madrid,LaLiga,2014/2015,2014
-5,Central Midfield,"May 2, 1981 (33)",NA,NA,Portugal,Atlético Madrid,LaLiga,2014/2015,2014
-NA,Central Midfield,"Aug 31, 1994 (19)",NA,NA,Spain,Atlético Madrid,LaLiga,2014/2015,2014
-8,Attacking Midfield,"Jul 11, 1986 (27)",NA,NA,Spain,Atlético Madrid,LaLiga,2014/2015,2014
-22,Attacking Midfield,"Aug 3, 1981 (32)",NA,NA,Spain,Atlético Madrid,LaLiga,2014/2015,2014
-10,Left Winger,"Jan 30, 1987 (27)",NA,NA,Turkey,Atlético Madrid,LaLiga,2014/2015,2014
-NA,Left Winger,"Dec 16, 1993 (20)",NA,NA,Spain,Atlético Madrid,LaLiga,2014/2015,2014
-NA,Right Winger,"Jul 23, 1987 (26)",NA,NA,Italy,Atlético Madrid,LaLiga,2014/2015,2014
-26,Right Winger,"Mar 9, 1995 (19)",NA,NA,Argentina,Atlético Madrid,LaLiga,2014/2015,2014
-9,Centre-Forward,"May 21, 1986 (28)",NA,NA,Croatia,Atlético Madrid,LaLiga,2014/2015,2014
-7,Centre-Forward,"Mar 21, 1991 (23)",NA,NA,France,Atlético Madrid,LaLiga,2014/2015,2014
-19,Centre-Forward,"Mar 20, 1984 (30)",NA,NA,Spain,Atlético Madrid,LaLiga,2014/2015,2014
-11,Centre-Forward,"May 5, 1991 (23)",NA,NA,Mexico,Atlético Madrid,LaLiga,2014/2015,2014
-NA,Centre-Forward,"Sep 14, 1995 (18)",NA,NA,Spain,Atlético Madrid,LaLiga,2014/2015,2014
-NA,Centre-Forward,"Dec 12, 1994 (19)",NA,NA,Guinea,Atlético Madrid,LaLiga,2014/2015,2014
-1,Goalkeeper,"Jun 24, 1985 (29)",NA,NA,Brazil,Valencia CF,LaLiga,2014/2015,2014
-13,Goalkeeper,"Aug 28, 1988 (25)",NA,NA,Spain,Valencia CF,LaLiga,2014/2015,2014
-NA,Goalkeeper,"Nov 5, 1990 (23)",NA,NA,Spain,Valencia CF,LaLiga,2014/2015,2014
-23,Centre-Back,"Feb 12, 1988 (26)",NA,NA,Argentina,Valencia CF,LaLiga,2014/2015,2014
-5,Centre-Back,"Apr 17, 1992 (22)",NA,NA,Germany,Valencia CF,LaLiga,2014/2015,2014
-6,Centre-Back,"Feb 3, 1989 (25)",NA,NA,Argentina,Valencia CF,LaLiga,2014/2015,2014
-3,Centre-Back,"Apr 25, 1994 (20)",NA,NA,Portugal,Valencia CF,LaLiga,2014/2015,2014
-31,Left-Back,"May 25, 1995 (19)",NA,NA,Spain,Valencia CF,LaLiga,2014/2015,2014
-NA,Left-Back,"May 17, 1995 (19)",NA,NA,Spain,Valencia CF,LaLiga,2014/2015,2014
-2,Right-Back,"May 27, 1994 (20)",NA,NA,Portugal,Valencia CF,LaLiga,2014/2015,2014
-19,Right-Back,"Jun 12, 1987 (27)",NA,NA,Spain,Valencia CF,LaLiga,2014/2015,2014
-NA,Defensive Midfield,"Apr 2, 1993 (21)",NA,NA,Argentina,Valencia CF,LaLiga,2014/2015,2014
-18,Defensive Midfield,"Jan 4, 1984 (30)",NA,NA,Spain,Valencia CF,LaLiga,2014/2015,2014
-4,Defensive Midfield,"Aug 12, 1993 (20)",NA,NA,Brazil,Valencia CF,LaLiga,2014/2015,2014
-15,Central Midfield,"Feb 22, 1986 (28)",NA,NA,Argentina,Valencia CF,LaLiga,2014/2015,2014
-10,Central Midfield,"Apr 16, 1989 (25)",NA,NA,Spain,Valencia CF,LaLiga,2014/2015,2014
-21,Central Midfield,"Jul 30, 1993 (20)",NA,NA,Portugal,Valencia CF,LaLiga,2014/2015,2014
-NA,Central Midfield,"May 12, 1995 (19)",NA,NA,Spain,Valencia CF,LaLiga,2014/2015,2014
-NA,Attacking Midfield,"Nov 22, 1992 (21)",NA,NA,Spain,Valencia CF,LaLiga,2014/2015,2014
-11,Left Winger,"Mar 31, 1989 (25)",NA,NA,Argentina,Valencia CF,LaLiga,2014/2015,2014
-20,Left Winger,"May 24, 1994 (20)",NA,NA,Argentina,Valencia CF,LaLiga,2014/2015,2014
-8,Right Winger,"Dec 26, 1989 (24)",NA,NA,Algeria,Valencia CF,LaLiga,2014/2015,2014
-NA,Right Winger,"Mar 22, 1993 (21)",NA,NA,Spain,Valencia CF,LaLiga,2014/2015,2014
-7,Centre-Forward,"Aug 20, 1985 (28)",NA,NA,Spain,Valencia CF,LaLiga,2014/2015,2014
-17,Centre-Forward,"Mar 6, 1991 (23)",NA,NA,Spain,Valencia CF,LaLiga,2014/2015,2014
-9,Centre-Forward,"Aug 30, 1993 (20)",NA,NA,Spain,Valencia CF,LaLiga,2014/2015,2014
-13,Goalkeeper,"May 1, 1982 (32)",NA,NA,Portugal,Sevilla FC,LaLiga,2014/2015,2014
-1,Goalkeeper,"Jul 27, 1984 (29)",NA,NA,Argentina,Sevilla FC,LaLiga,2014/2015,2014
-NA,Goalkeeper,"Apr 4, 1993 (21)",NA,NA,Spain,Sevilla FC,LaLiga,2014/2015,2014
-29,Goalkeeper,"Sep 1, 1993 (20)",NA,NA,Spain,Sevilla FC,LaLiga,2014/2015,2014
-32,Goalkeeper,"Aug 23, 1997 (16)",NA,NA,Spain,Sevilla FC,LaLiga,2014/2015,2014
-NA,Centre-Back,"Mar 17, 1987 (27)",NA,NA,Argentina,Sevilla FC,LaLiga,2014/2015,2014
-24,Centre-Back,"May 1, 1989 (25)",NA,NA,Spain,Sevilla FC,LaLiga,2014/2015,2014
-15,Centre-Back,"Oct 1, 1991 (22)",NA,NA,France,Sevilla FC,LaLiga,2014/2015,2014
-6,Centre-Back,"Aug 4, 1988 (25)",NA,NA,Portugal,Sevilla FC,LaLiga,2014/2015,2014
-21,Centre-Back,"Jan 19, 1984 (30)",NA,NA,Argentina,Sevilla FC,LaLiga,2014/2015,2014
-2,Left-Back,"Dec 28, 1985 (28)",NA,NA,France,Sevilla FC,LaLiga,2014/2015,2014
-3,Left-Back,"Jun 25, 1982 (32)",NA,NA,Spain,Sevilla FC,LaLiga,2014/2015,2014
-5,Right-Back,"Jul 1, 1991 (23)",NA,NA,Portugal,Sevilla FC,LaLiga,2014/2015,2014
-23,Right-Back,"Apr 26, 1987 (27)",NA,NA,Spain,Sevilla FC,LaLiga,2014/2015,2014
-NA,Right-Back,"May 14, 1994 (20)",NA,NA,Spain,Sevilla FC,LaLiga,2014/2015,2014
-25,Defensive Midfield,"May 20, 1986 (28)",NA,NA,Cameroon,Sevilla FC,LaLiga,2014/2015,2014
-12,Defensive Midfield,"Jan 16, 1988 (26)",NA,NA,Spain,Sevilla FC,LaLiga,2014/2015,2014
-4,Defensive Midfield,"Jan 29, 1990 (24)",NA,NA,Poland,Sevilla FC,LaLiga,2014/2015,2014
-NA,Defensive Midfield,"Jan 6, 1973 (41)",NA,NA,Portugal,Sevilla FC,LaLiga,2014/2015,2014
-NA,Defensive Midfield,"May 5, 1992 (22)",NA,NA,Spain,Sevilla FC,LaLiga,2014/2015,2014
-19,Central Midfield,"Jun 29, 1988 (26)",NA,NA,Argentina,Sevilla FC,LaLiga,2014/2015,2014
-17,Central Midfield,"Jan 6, 1994 (20)",NA,NA,Spain,Sevilla FC,LaLiga,2014/2015,2014
-8,Central Midfield,"Aug 23, 1993 (20)",NA,NA,Uruguay,Sevilla FC,LaLiga,2014/2015,2014
-NA,Central Midfield,"Sep 19, 1995 (18)",NA,NA,Spain,Sevilla FC,LaLiga,2014/2015,2014
-NA,Central Midfield,"Jun 28, 1993 (21)",NA,NA,Spain,Sevilla FC,LaLiga,2014/2015,2014
-22,Right Midfield,"Aug 21, 1989 (24)",NA,NA,Spain,Sevilla FC,LaLiga,2014/2015,2014
-20,Left Winger,"Nov 2, 1989 (24)",NA,NA,Spain,Sevilla FC,LaLiga,2014/2015,2014
-NA,Left Winger,"Jul 11, 1993 (20)",NA,NA,Spain,Sevilla FC,LaLiga,2014/2015,2014
-18,Right Winger,"Mar 13, 1994 (20)",NA,NA,Spain,Sevilla FC,LaLiga,2014/2015,2014
-10,Right Winger,"Sep 1, 1983 (30)",NA,NA,Spain,Sevilla FC,LaLiga,2014/2015,2014
-9,Centre-Forward,"Sep 8, 1986 (27)",NA,NA,Colombia,Sevilla FC,LaLiga,2014/2015,2014
-7,Centre-Forward,"May 9, 1987 (27)",NA,NA,France,Sevilla FC,LaLiga,2014/2015,2014
-14,Centre-Forward,"Aug 1, 1987 (26)",NA,NA,Spain,Sevilla FC,LaLiga,2014/2015,2014
-NA,Centre-Forward,"May 22, 1996 (18)",NA,NA,Spain,Sevilla FC,LaLiga,2014/2015,2014
-NA,Centre-Forward,"Nov 12, 1995 (18)",NA,NA,Spain,Sevilla FC,LaLiga,2014/2015,2014
-1,Goalkeeper,"Mar 6, 1981 (33)",NA,NA,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
-13,Goalkeeper,"Jan 25, 1988 (26)",NA,NA,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
-NA,Goalkeeper,"Mar 24, 1995 (19)",NA,NA,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
-4,Centre-Back,"May 27, 1994 (20)",NA,NA,France,Athletic Bilbao,LaLiga,2014/2015,2014
-18,Centre-Back,"Aug 19, 1980 (33)",NA,NA,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
-16,Centre-Back,"Oct 31, 1987 (26)",NA,NA,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
-12,Centre-Back,"Feb 2, 1992 (22)",NA,NA,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
-24,Left-Back,"Feb 29, 1988 (26)",NA,NA,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
-3,Left-Back,"Jan 3, 1992 (22)",NA,NA,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
-10,Right-Back,"Apr 14, 1989 (25)",NA,NA,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
-15,Right-Back,"Jun 22, 1982 (32)",NA,NA,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
-8,Defensive Midfield,"Mar 8, 1989 (25)",NA,NA,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
-6,Defensive Midfield,"May 30, 1989 (25)",NA,NA,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
-NA,Defensive Midfield,"May 25, 1991 (23)",NA,NA,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
-7,Central Midfield,"Feb 19, 1987 (27)",NA,NA,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
-17,Central Midfield,"Nov 4, 1984 (29)",NA,NA,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
-23,Attacking Midfield,"Dec 30, 1993 (20)",NA,NA,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
-29,Attacking Midfield,"Oct 30, 1995 (18)",NA,NA,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
-19,Left Winger,"Dec 19, 1992 (21)",NA,NA,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
-14,Right Winger,"Dec 14, 1987 (26)",NA,NA,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
-11,Right Winger,"Nov 11, 1989 (24)",NA,NA,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
-2,Right Winger,"Aug 9, 1984 (29)",NA,NA,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
-9,Centre-Forward,"Feb 25, 1986 (28)",NA,NA,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
-20,Centre-Forward,"Feb 11, 1981 (33)",NA,NA,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
-21,Centre-Forward,"Mar 26, 1987 (27)",NA,NA,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
-22,Centre-Forward,"May 23, 1993 (21)",NA,NA,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
-30,Centre-Forward,"Jun 15, 1994 (20)",NA,NA,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
-13,Goalkeeper,"Feb 26, 1984 (30)",NA,NA,Spain,Real Sociedad,LaLiga,2014/2015,2014
-1,Goalkeeper,"May 20, 1992 (22)",NA,NA,Argentina,Real Sociedad,LaLiga,2014/2015,2014
-NA,Goalkeeper,"May 3, 1995 (19)",NA,NA,Spain,Real Sociedad,LaLiga,2014/2015,2014
-6,Centre-Back,"May 17, 1991 (23)",NA,NA,Spain,Real Sociedad,LaLiga,2014/2015,2014
-3,Centre-Back,"Sep 24, 1985 (28)",NA,NA,Spain,Real Sociedad,LaLiga,2014/2015,2014
-15,Centre-Back,"Jul 13, 1982 (31)",NA,NA,Spain,Real Sociedad,LaLiga,2014/2015,2014
-NA,Centre-Back,"May 4, 1992 (22)",NA,NA,Peru,Real Sociedad,LaLiga,2014/2015,2014
-NA,Centre-Back,"Mar 28, 1994 (20)",NA,NA,Spain,Real Sociedad,LaLiga,2014/2015,2014
-24,Left-Back,"Dec 2, 1985 (28)",NA,NA,Spain,Real Sociedad,LaLiga,2014/2015,2014
-19,Left-Back,"Feb 10, 1990 (24)",NA,NA,Spain,Real Sociedad,LaLiga,2014/2015,2014
-2,Right-Back,"Apr 9, 1986 (28)",NA,NA,Spain,Real Sociedad,LaLiga,2014/2015,2014
-22,Right-Back,"Jan 3, 1987 (27)",NA,NA,Spain,Real Sociedad,LaLiga,2014/2015,2014
-20,Right-Back,"Jun 24, 1992 (22)",NA,NA,Spain,Real Sociedad,LaLiga,2014/2015,2014
-5,Defensive Midfield,"May 5, 1986 (28)",NA,NA,Spain,Real Sociedad,LaLiga,2014/2015,2014
-4,Defensive Midfield,"Mar 18, 1987 (27)",NA,NA,Spain,Real Sociedad,LaLiga,2014/2015,2014
-NA,Defensive Midfield,"Jun 28, 1991 (23)",NA,NA,Spain,Real Sociedad,LaLiga,2014/2015,2014
-10,Central Midfield,"Aug 29, 1983 (30)",NA,NA,Spain,Real Sociedad,LaLiga,2014/2015,2014
-14,Central Midfield,"Oct 22, 1992 (21)",NA,NA,Spain,Real Sociedad,LaLiga,2014/2015,2014
-8,Central Midfield,"Jul 2, 1987 (26)",NA,NA,Spain,Real Sociedad,LaLiga,2014/2015,2014
-17,Central Midfield,"Jul 19, 1986 (27)",NA,NA,Spain,Real Sociedad,LaLiga,2014/2015,2014
-NA,Central Midfield,"Jun 5, 1993 (21)",NA,NA,Spain,Real Sociedad,LaLiga,2014/2015,2014
-16,Attacking Midfield,"Feb 16, 1991 (23)",NA,NA,Spain,Real Sociedad,LaLiga,2014/2015,2014
-NA,Attacking Midfield,"Jun 13, 1995 (19)",NA,NA,Spain,Real Sociedad,LaLiga,2014/2015,2014
-18,Left Winger,"Sep 14, 1984 (29)",NA,NA,Uruguay,Real Sociedad,LaLiga,2014/2015,2014
-NA,Left Winger,"Sep 27, 1993 (20)",NA,NA,Spain,Real Sociedad,LaLiga,2014/2015,2014
-11,Right Winger,"Mar 1, 1989 (25)",NA,NA,Mexico,Real Sociedad,LaLiga,2014/2015,2014
-NA,Right Winger,"Mar 8, 1993 (21)",NA,NA,Spain,Real Sociedad,LaLiga,2014/2015,2014
-7,Centre-Forward,"Feb 1, 1989 (25)",NA,NA,Iceland,Real Sociedad,LaLiga,2014/2015,2014
-9,Centre-Forward,"Feb 24, 1987 (27)",NA,NA,Spain,Real Sociedad,LaLiga,2014/2015,2014
-NA,Centre-Forward,"Apr 8, 1994 (20)",NA,NA,Spain,Real Sociedad,LaLiga,2014/2015,2014
-1,Goalkeeper,"Jun 28, 1989 (25)",NA,NA,Spain,Villarreal CF,LaLiga,2014/2015,2014
-25,Goalkeeper,"Jul 27, 1987 (26)",NA,NA,Spain,Villarreal CF,LaLiga,2014/2015,2014
-NA,Goalkeeper,"May 3, 1991 (23)",NA,NA,Spain,Villarreal CF,LaLiga,2014/2015,2014
-NA,Goalkeeper,"Jun 26, 1993 (21)",NA,NA,Spain,Villarreal CF,LaLiga,2014/2015,2014
-5,Centre-Back,"Aug 26, 1990 (23)",NA,NA,Argentina,Villarreal CF,LaLiga,2014/2015,2014
-15,Centre-Back,"Jan 25, 1989 (25)",NA,NA,Spain,Villarreal CF,LaLiga,2014/2015,2014
-NA,Centre-Back,"Nov 26, 1990 (23)",NA,NA,Brazil,Villarreal CF,LaLiga,2014/2015,2014
-16,Centre-Back,"Jul 10, 1982 (31)",NA,NA,Spain,Villarreal CF,LaLiga,2014/2015,2014
-NA,Centre-Back,"Jun 15, 1993 (21)",NA,NA,Spain,Villarreal CF,LaLiga,2014/2015,2014
-24,Centre-Back,"Apr 12, 1994 (20)",NA,NA,Cote d'Ivoire,Villarreal CF,LaLiga,2014/2015,2014
-18,Left-Back,"Mar 18, 1988 (26)",NA,NA,Spain,Villarreal CF,LaLiga,2014/2015,2014
-3,Left-Back,"May 17, 1986 (28)",NA,NA,Slovenia,Villarreal CF,LaLiga,2014/2015,2014
-NA,Left-Back,"Jan 11, 1996 (18)",NA,NA,Spain,Villarreal CF,LaLiga,2014/2015,2014
-NA,Left-Back,"Apr 9, 1996 (18)",NA,NA,Spain,Villarreal CF,LaLiga,2014/2015,2014
-28,Left-Back,"Jan 9, 1997 (17)",NA,NA,Spain,Villarreal CF,LaLiga,2014/2015,2014
-22,Right-Back,"Jan 26, 1984 (30)",NA,NA,Serbia,Villarreal CF,LaLiga,2014/2015,2014
-2,Right-Back,"Nov 24, 1990 (23)",NA,NA,Spain,Villarreal CF,LaLiga,2014/2015,2014
-NA,Right-Back,"Apr 14, 1993 (21)",NA,NA,Spain,Villarreal CF,LaLiga,2014/2015,2014
-21,Defensive Midfield,"Jun 12, 1984 (30)",NA,NA,Spain,Villarreal CF,LaLiga,2014/2015,2014
-NA,Defensive Midfield,"Apr 26, 1993 (21)",NA,NA,Russia,Villarreal CF,LaLiga,2014/2015,2014
-NA,Defensive Midfield,"Jun 28, 1997 (17)",NA,NA,Spain,Villarreal CF,LaLiga,2014/2015,2014
-4,Central Midfield,"Oct 14, 1987 (26)",NA,NA,Spain,Villarreal CF,LaLiga,2014/2015,2014
-14,Central Midfield,"Oct 17, 1991 (22)",NA,NA,Spain,Villarreal CF,LaLiga,2014/2015,2014
-6,Central Midfield,"Apr 26, 1990 (24)",NA,NA,Mexico,Villarreal CF,LaLiga,2014/2015,2014
-NA,Central Midfield,"Feb 3, 1992 (22)",NA,NA,Spain,Villarreal CF,LaLiga,2014/2015,2014
-NA,Attacking Midfield,"Aug 3, 1981 (32)",NA,NA,Spain,Villarreal CF,LaLiga,2014/2015,2014
-19,Attacking Midfield,"Jun 23, 1994 (20)",NA,NA,Spain,Villarreal CF,LaLiga,2014/2015,2014
-NA,Attacking Midfield,"Sep 19, 1992 (21)",NA,NA,Spain,Villarreal CF,LaLiga,2014/2015,2014
-17,Left Winger,"Dec 26, 1990 (23)",NA,NA,Russia,Villarreal CF,LaLiga,2014/2015,2014
-NA,Left Winger,"Nov 22, 1996 (17)",NA,NA,Spain,Villarreal CF,LaLiga,2014/2015,2014
-NA,Left Winger,"Jul 28, 1994 (19)",NA,NA,Spain,Villarreal CF,LaLiga,2014/2015,2014
-10,Right Winger,"Jun 26, 1992 (22)",NA,NA,Costa Rica,Villarreal CF,LaLiga,2014/2015,2014
-9,Second Striker,"May 11, 1989 (25)",NA,NA,Mexico,Villarreal CF,LaLiga,2014/2015,2014
-7,Centre-Forward,"Dec 5, 1993 (20)",NA,NA,Argentina,Villarreal CF,LaLiga,2014/2015,2014
-8,Centre-Forward,"Jan 5, 1984 (30)",NA,NA,Nigeria,Villarreal CF,LaLiga,2014/2015,2014
-23,Centre-Forward,"Apr 7, 1992 (22)",NA,NA,Spain,Villarreal CF,LaLiga,2014/2015,2014
-NA,Centre-Forward,"Mar 13, 1992 (22)",NA,NA,Spain,Villarreal CF,LaLiga,2014/2015,2014
-13,Goalkeeper,"Jul 13, 1985 (28)",NA,NA,Mexico,Málaga CF,LaLiga,2014/2015,2014
-1,Goalkeeper,"Feb 18, 1984 (30)",NA,NA,Cameroon,Málaga CF,LaLiga,2014/2015,2014
-27,Goalkeeper,"Apr 19, 1990 (24)",NA,NA,Argentina,Málaga CF,LaLiga,2014/2015,2014
-21,Centre-Back,"Apr 3, 1986 (28)",NA,NA,Spain,Málaga CF,LaLiga,2014/2015,2014
-24,Centre-Back,"Apr 10, 1988 (26)",NA,NA,Belarus,Málaga CF,LaLiga,2014/2015,2014
-3,Centre-Back,"Aug 26, 1979 (34)",NA,NA,Brazil,Málaga CF,LaLiga,2014/2015,2014
-4,Centre-Back,"Oct 19, 1991 (22)",NA,NA,Portugal,Málaga CF,LaLiga,2014/2015,2014
-15,Centre-Back,"Apr 7, 1983 (31)",NA,NA,Argentina,Málaga CF,LaLiga,2014/2015,2014
-NA,Centre-Back,"May 24, 1994 (20)",NA,NA,Panama,Málaga CF,LaLiga,2014/2015,2014
-5,Left-Back,"Apr 1, 1987 (27)",NA,NA,Portugal,Málaga CF,LaLiga,2014/2015,2014
-19,Left-Back,"Apr 2, 1983 (31)",NA,NA,Cote d'Ivoire,Málaga CF,LaLiga,2014/2015,2014
-20,Left-Back,"Aug 9, 1986 (27)",NA,NA,Spain,Málaga CF,LaLiga,2014/2015,2014
-18,Right-Back,"Nov 20, 1988 (25)",NA,NA,Venezuela,Málaga CF,LaLiga,2014/2015,2014
-23,Right-Back,"Jan 28, 1986 (28)",NA,NA,Spain,Málaga CF,LaLiga,2014/2015,2014
-6,Defensive Midfield,"May 4, 1990 (24)",NA,NA,Spain,Málaga CF,LaLiga,2014/2015,2014
-12,Central Midfield,"Jul 24, 1986 (27)",NA,NA,Argentina,Málaga CF,LaLiga,2014/2015,2014
-14,Central Midfield,"Jan 11, 1991 (23)",NA,NA,Spain,Málaga CF,LaLiga,2014/2015,2014
-30,Central Midfield,"Dec 22, 1993 (20)",NA,NA,Spain,Málaga CF,LaLiga,2014/2015,2014
-17,Left Midfield,"Jun 27, 1980 (34)",NA,NA,Portugal,Málaga CF,LaLiga,2014/2015,2014
-10,Left Midfield,"Sep 15, 1994 (19)",NA,NA,Portugal,Málaga CF,LaLiga,2014/2015,2014
-22,Attacking Midfield,"Sep 28, 1992 (21)",NA,NA,Spain,Málaga CF,LaLiga,2014/2015,2014
-8,Attacking Midfield,"Jun 13, 1990 (24)",NA,NA,Spain,Málaga CF,LaLiga,2014/2015,2014
-2,Left Winger,"Mar 31, 1987 (27)",NA,NA,Morocco,Málaga CF,LaLiga,2014/2015,2014
-11,Right Winger,"May 20, 1993 (21)",NA,NA,Spain,Málaga CF,LaLiga,2014/2015,2014
-7,Right Winger,"Jul 13, 1990 (23)",NA,NA,Spain,Málaga CF,LaLiga,2014/2015,2014
-28,Right Winger,"Jan 24, 1994 (20)",NA,NA,Venezuela,Málaga CF,LaLiga,2014/2015,2014
-29,Right Winger,"Jan 18, 1995 (19)",NA,NA,Spain,Málaga CF,LaLiga,2014/2015,2014
-9,Centre-Forward,"Mar 15, 1982 (32)",NA,NA,Spain,Málaga CF,LaLiga,2014/2015,2014
-9,Centre-Forward,"Aug 16, 1981 (32)",NA,NA,Paraguay,Málaga CF,LaLiga,2014/2015,2014
-16,Centre-Forward,"Jun 11, 1992 (22)",NA,NA,Argentina,Málaga CF,LaLiga,2014/2015,2014
-1,Goalkeeper,"Sep 14, 1989 (24)",NA,NA,Spain,Granada CF,LaLiga,2014/2015,2014
-13,Goalkeeper,"Jan 25, 1979 (35)",NA,NA,Spain,Granada CF,LaLiga,2014/2015,2014
-NA,Goalkeeper,"Dec 25, 1993 (20)",NA,NA,North Macedonia,Granada CF,LaLiga,2014/2015,2014
-NA,Centre-Back,"Apr 11, 1986 (28)",NA,NA,Cameroon,Granada CF,LaLiga,2014/2015,2014
-24,Centre-Back,"May 27, 1992 (22)",NA,NA,Colombia,Granada CF,LaLiga,2014/2015,2014
-5,Centre-Back,"Dec 29, 1982 (31)",NA,NA,Spain,Granada CF,LaLiga,2014/2015,2014
-6,Centre-Back,"Oct 14, 1986 (27)",NA,NA,Martinique,Granada CF,LaLiga,2014/2015,2014
-NA,Centre-Back,"Nov 26, 1989 (24)",NA,NA,Spain,Granada CF,LaLiga,2014/2015,2014
-NA,Centre-Back,"Jan 12, 1988 (26)",NA,NA,Spain,Granada CF,LaLiga,2014/2015,2014
-NA,Centre-Back,"Oct 8, 1993 (20)",NA,NA,Guinea-Bissau,Granada CF,LaLiga,2014/2015,2014
-NA,Centre-Back,"Jun 28, 1992 (22)",NA,NA,Spain,Granada CF,LaLiga,2014/2015,2014
-20,Left-Back,"Mar 30, 1990 (24)",NA,NA,Spain,Granada CF,LaLiga,2014/2015,2014
-3,Left-Back,"Jun 10, 1992 (22)",NA,NA,Portugal,Granada CF,LaLiga,2014/2015,2014
-25,Left-Back,"Apr 10, 1991 (23)",NA,NA,Argentina,Granada CF,LaLiga,2014/2015,2014
-2,Right-Back,"May 10, 1988 (26)",NA,NA,Cameroon,Granada CF,LaLiga,2014/2015,2014
-22,Right-Back,"Mar 23, 1993 (21)",NA,NA,Guadeloupe,Granada CF,LaLiga,2014/2015,2014
-16,Defensive Midfield,"Jun 23, 1984 (30)",NA,NA,Chile,Granada CF,LaLiga,2014/2015,2014
-12,Defensive Midfield,"Apr 26, 1989 (25)",NA,NA,Spain,Granada CF,LaLiga,2014/2015,2014
-17,Defensive Midfield,"Mar 20, 1990 (24)",NA,NA,Mali,Granada CF,LaLiga,2014/2015,2014
-NA,Defensive Midfield,"Dec 4, 1995 (18)",NA,NA,Nigeria,Granada CF,LaLiga,2014/2015,2014
-NA,Defensive Midfield,"Jan 15, 1996 (18)",NA,NA,The Gambia,Granada CF,LaLiga,2014/2015,2014
-8,Central Midfield,"May 11, 1986 (28)",NA,NA,Spain,Granada CF,LaLiga,2014/2015,2014
-4,Central Midfield,"Aug 3, 1987 (26)",NA,NA,Spain,Granada CF,LaLiga,2014/2015,2014
-14,Central Midfield,"Aug 2, 1992 (21)",NA,NA,Azerbaijan,Granada CF,LaLiga,2014/2015,2014
-10,Attacking Midfield,"May 26, 1981 (33)",NA,NA,Spain,Granada CF,LaLiga,2014/2015,2014
-23,Attacking Midfield,"Mar 23, 1991 (23)",NA,NA,Spain,Granada CF,LaLiga,2014/2015,2014
-NA,Attacking Midfield,"Feb 11, 1995 (19)",NA,NA,Ghana,Granada CF,LaLiga,2014/2015,2014
-NA,Left Winger,"Jan 25, 1987 (27)",NA,NA,Sweden,Granada CF,LaLiga,2014/2015,2014
-27,Left Winger,"Feb 7, 1993 (21)",NA,NA,Venezuela,Granada CF,LaLiga,2014/2015,2014
-29,Left Winger,"Jan 7, 1996 (18)",NA,NA,Nigeria,Granada CF,LaLiga,2014/2015,2014
-7,Right Winger,"Feb 25, 1988 (26)",NA,NA,Portugal,Granada CF,LaLiga,2014/2015,2014
-15,Right Winger,"Mar 30, 1992 (22)",NA,NA,Guinea,Granada CF,LaLiga,2014/2015,2014
-NA,Right Winger,"Apr 30, 1992 (22)",NA,NA,Spain,Granada CF,LaLiga,2014/2015,2014
-21,Right Winger,"Mar 22, 1993 (21)",NA,NA,Spain,Granada CF,LaLiga,2014/2015,2014
-9,Centre-Forward,"Feb 3, 1987 (27)",NA,NA,Morocco,Granada CF,LaLiga,2014/2015,2014
-17,Centre-Forward,"Nov 17, 1984 (29)",NA,NA,Spain,Granada CF,LaLiga,2014/2015,2014
-11,Centre-Forward,"Aug 11, 1980 (33)",NA,NA,Spain,Granada CF,LaLiga,2014/2015,2014
-18,Centre-Forward,"May 11, 1993 (21)",NA,NA,Colombia,Granada CF,LaLiga,2014/2015,2014
-NA,Centre-Forward,"Jan 21, 1991 (23)",NA,NA,Spain,Granada CF,LaLiga,2014/2015,2014
-13,Goalkeeper,"Oct 2, 1986 (27)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
-NA,Goalkeeper,"Oct 17, 1993 (20)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
-25,Goalkeeper,"Dec 13, 1994 (19)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
-15,Centre-Back,"Jan 17, 1988 (26)",NA,NA,Mexico,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
-22,Centre-Back,"Jan 8, 1990 (24)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
-NA,Centre-Back,"Mar 10, 1981 (33)",NA,NA,Argentina,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
-NA,Centre-Back,"Sep 22, 1987 (26)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
-NA,Centre-Back,"Oct 9, 1989 (24)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
-23,Centre-Back,"May 15, 1987 (27)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
-NA,Centre-Back,"Apr 12, 1994 (20)",NA,NA,Cote d'Ivoire,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
-18,Left-Back,"Jan 5, 1990 (24)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
-5,Left-Back,"Mar 14, 1993 (21)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
-NA,Left-Back,"Oct 18, 1995 (18)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
-NA,Left-Back,"Feb 21, 1992 (22)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
-16,Right-Back,"Jan 21, 1986 (28)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
-2,Right-Back,"Oct 15, 1988 (25)",NA,NA,Brazil,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
-NA,Right-Back,"Sep 20, 1992 (21)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
-14,Defensive Midfield,"May 27, 1987 (27)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
-4,Central Midfield,"Sep 8, 1987 (26)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
-NA,Central Midfield,"Oct 15, 1992 (21)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
-6,Central Midfield,"Mar 18, 1984 (30)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
-10,Central Midfield,"Jul 16, 1985 (28)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
-NA,Central Midfield,"Jul 6, 1994 (19)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
-NA,Attacking Midfield,"Mar 27, 1992 (22)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
-24,Left Winger,"Oct 8, 1986 (27)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
-NA,Right Winger,"Jan 20, 1984 (30)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
-17,Right Winger,"Jul 1, 1991 (23)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
-20,Centre-Forward,"Sep 5, 1988 (25)",NA,NA,Ecuador,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
-9,Centre-Forward,"Jun 9, 1983 (31)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
-8,Centre-Forward,"Oct 12, 1986 (27)",NA,NA,Uruguay,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
-NA,Centre-Forward,"Jul 2, 1993 (20)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
-25,Goalkeeper,"Dec 17, 1979 (34)",NA,NA,Spain,Rayo Vallecano,LaLiga,2014/2015,2014
-13,Goalkeeper,"Nov 13, 1985 (28)",NA,NA,Argentina,Rayo Vallecano,LaLiga,2014/2015,2014
-1,Goalkeeper,"Apr 6, 1982 (32)",NA,NA,Spain,Rayo Vallecano,LaLiga,2014/2015,2014
-NA,Goalkeeper,"Jun 28, 1991 (23)",NA,NA,Spain,Rayo Vallecano,LaLiga,2014/2015,2014
-15,Centre-Back,"Jan 1, 1991 (23)",NA,NA,Senegal,Rayo Vallecano,LaLiga,2014/2015,2014
-4,Centre-Back,"May 31, 1983 (31)",NA,NA,Spain,Rayo Vallecano,LaLiga,2014/2015,2014
-18,Centre-Back,"Jan 13, 1983 (31)",NA,NA,Portugal,Rayo Vallecano,LaLiga,2014/2015,2014
-20,Centre-Back,"Mar 11, 1986 (28)",NA,NA,Spain,Rayo Vallecano,LaLiga,2014/2015,2014
-14,Left-Back,"Jan 7, 1989 (25)",NA,NA,Argentina,Rayo Vallecano,LaLiga,2014/2015,2014
-3,Left-Back,"Mar 7, 1989 (25)",NA,NA,Spain,Rayo Vallecano,LaLiga,2014/2015,2014
-27,Left-Back,"Jun 8, 1993 (21)",NA,NA,Spain,Rayo Vallecano,LaLiga,2014/2015,2014
-2,Right-Back,"Jul 11, 1985 (28)",NA,NA,Spain,Rayo Vallecano,LaLiga,2014/2015,2014
-17,Right-Back,"Sep 24, 1989 (24)",NA,NA,Spain,Rayo Vallecano,LaLiga,2014/2015,2014
-8,Defensive Midfield,"Mar 2, 1989 (25)",NA,NA,Spain,Rayo Vallecano,LaLiga,2014/2015,2014
-6,Defensive Midfield,"Dec 24, 1992 (21)",NA,NA,Ghana,Rayo Vallecano,LaLiga,2014/2015,2014
-10,Central Midfield,"Feb 28, 1981 (33)",NA,NA,Spain,Rayo Vallecano,LaLiga,2014/2015,2014
-21,Central Midfield,"Mar 8, 1991 (23)",NA,NA,Spain,Rayo Vallecano,LaLiga,2014/2015,2014
-NA,Central Midfield,"Apr 1, 1996 (18)",NA,NA,Spain,Rayo Vallecano,LaLiga,2014/2015,2014
-24,Attacking Midfield,"Sep 20, 1991 (22)",NA,NA,Spain,Rayo Vallecano,LaLiga,2014/2015,2014
-12,Left Winger,"Jun 21, 1991 (23)",NA,NA,DR Congo,Rayo Vallecano,LaLiga,2014/2015,2014
-16,Left Winger,"Feb 11, 1990 (24)",NA,NA,Mexico,Rayo Vallecano,LaLiga,2014/2015,2014
-19,Right Winger,"Aug 26, 1992 (21)",NA,NA,Brazil,Rayo Vallecano,LaLiga,2014/2015,2014
-NA,Right Winger,"Mar 30, 1992 (22)",NA,NA,Guinea,Rayo Vallecano,LaLiga,2014/2015,2014
-29,Right Winger,"May 7, 1992 (22)",NA,NA,Spain,Rayo Vallecano,LaLiga,2014/2015,2014
-22,Second Striker,"Sep 8, 1988 (25)",NA,NA,Portugal,Rayo Vallecano,LaLiga,2014/2015,2014
-23,Second Striker,"Mar 20, 1988 (26)",NA,NA,Spain,Rayo Vallecano,LaLiga,2014/2015,2014
-7,Centre-Forward,"Aug 19, 1985 (28)",NA,NA,Venezuela,Rayo Vallecano,LaLiga,2014/2015,2014
-NA,Centre-Forward,"May 12, 1987 (27)",NA,NA,Spain,Rayo Vallecano,LaLiga,2014/2015,2014
-9,Centre-Forward,"Mar 7, 1983 (31)",NA,NA,Angola,Rayo Vallecano,LaLiga,2014/2015,2014
-1,Goalkeeper,"Jul 6, 1982 (31)",NA,NA,Argentina,Deportivo de La Coruña,LaLiga,2014/2015,2014
-13,Goalkeeper,"Dec 31, 1987 (26)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2014/2015,2014
-NA,Goalkeeper,"Apr 11, 1994 (20)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2014/2015,2014
-NA,Centre-Back,"Mar 2, 1987 (27)",NA,NA,France,Deportivo de La Coruña,LaLiga,2014/2015,2014
-5,Centre-Back,"Sep 9, 1993 (20)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2014/2015,2014
-12,Centre-Back,"Aug 23, 1989 (24)",NA,NA,Brazil,Deportivo de La Coruña,LaLiga,2014/2015,2014
-25,Centre-Back,"Feb 2, 1994 (20)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2014/2015,2014
-23,Centre-Back,"May 5, 1980 (34)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2014/2015,2014
-NA,Centre-Back,"Sep 3, 1992 (21)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2014/2015,2014
-3,Left-Back,"Feb 7, 1988 (26)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2014/2015,2014
-16,Left-Back,"May 5, 1985 (29)",NA,NA,Portugal,Deportivo de La Coruña,LaLiga,2014/2015,2014
-11,Right-Back,"Sep 11, 1988 (25)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2014/2015,2014
-15,Right-Back,"Mar 22, 1985 (29)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2014/2015,2014
-NA,Right-Back,"Apr 26, 1988 (26)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2014/2015,2014
-2,Right-Back,"Jan 25, 1976 (38)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2014/2015,2014
-10,Defensive Midfield,"Jan 8, 1990 (24)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2014/2015,2014
-4,Defensive Midfield,"Jun 7, 1985 (29)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2014/2015,2014
-20,Defensive Midfield,"Feb 12, 1986 (28)",NA,NA,Poland,Deportivo de La Coruña,LaLiga,2014/2015,2014
-8,Central Midfield,"Mar 8, 1985 (29)",NA,NA,Bosnia-Herzegovina,Deportivo de La Coruña,LaLiga,2014/2015,2014
-6,Central Midfield,"Dec 16, 1994 (19)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2014/2015,2014
-22,Central Midfield,"May 27, 1988 (26)",NA,NA,Costa Rica,Deportivo de La Coruña,LaLiga,2014/2015,2014
-14,Right Midfield,"Apr 27, 1991 (23)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2014/2015,2014
-24,Attacking Midfield,"Apr 20, 1991 (23)",NA,NA,Argentina,Deportivo de La Coruña,LaLiga,2014/2015,2014
-NA,Attacking Midfield,"Mar 15, 1991 (23)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2014/2015,2014
-17,Left Winger,"Sep 14, 1988 (25)",NA,NA,Portugal,Deportivo de La Coruña,LaLiga,2014/2015,2014
-NA,Left Winger,"Jul 21, 1992 (21)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2014/2015,2014
-19,Right Winger,"Oct 18, 1993 (20)",NA,NA,Portugal,Deportivo de La Coruña,LaLiga,2014/2015,2014
-32,Right Winger,"Jan 12, 1994 (20)",NA,NA,Portugal,Deportivo de La Coruña,LaLiga,2014/2015,2014
-7,Centre-Forward,"Sep 10, 1988 (25)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2014/2015,2014
-9,Centre-Forward,"Aug 2, 1982 (31)",NA,NA,Portugal,Deportivo de La Coruña,LaLiga,2014/2015,2014
-21,Centre-Forward,"Jul 3, 1986 (27)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2014/2015,2014
-18,Centre-Forward,"Jan 1, 1983 (31)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2014/2015,2014
-31,Centre-Forward,"Jul 17, 1995 (18)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2014/2015,2014
-25,Goalkeeper,"Jan 10, 1987 (27)",NA,NA,Spain,Getafe CF,LaLiga,2014/2015,2014
-13,Goalkeeper,"Apr 27, 1982 (32)",NA,NA,Spain,Getafe CF,LaLiga,2014/2015,2014
-1,Goalkeeper,"Apr 16, 1981 (33)",NA,NA,Spain,Getafe CF,LaLiga,2014/2015,2014
-NA,Centre-Back,"Apr 9, 1985 (29)",NA,NA,Spain,Getafe CF,LaLiga,2014/2015,2014
-4,Centre-Back,"Apr 30, 1994 (20)",NA,NA,Uruguay,Getafe CF,LaLiga,2014/2015,2014
-2,Centre-Back,"Aug 4, 1985 (28)",NA,NA,Spain,Getafe CF,LaLiga,2014/2015,2014
-5,Centre-Back,"Aug 25, 1988 (25)",NA,NA,Brazil,Getafe CF,LaLiga,2014/2015,2014
-NA,Centre-Back,"Aug 11, 1991 (22)",NA,NA,Spain,Getafe CF,LaLiga,2014/2015,2014
-NA,Centre-Back,"Feb 2, 1996 (18)",NA,NA,Spain,Getafe CF,LaLiga,2014/2015,2014
-3,Left-Back,"Aug 30, 1985 (28)",NA,NA,Spain,Getafe CF,LaLiga,2014/2015,2014
-18,Left-Back,"Sep 2, 1989 (24)",NA,NA,Spain,Getafe CF,LaLiga,2014/2015,2014
-20,Right-Back,"Dec 21, 1984 (29)",NA,NA,Spain,Getafe CF,LaLiga,2014/2015,2014
-12,Right-Back,"Jul 22, 1988 (25)",NA,NA,Spain,Getafe CF,LaLiga,2014/2015,2014
-NA,Right-Back,"Sep 21, 1992 (21)",NA,NA,Spain,Getafe CF,LaLiga,2014/2015,2014
-NA,Right-Back,"Sep 7, 1994 (19)",NA,NA,Spain,Getafe CF,LaLiga,2014/2015,2014
-8,Defensive Midfield,"May 15, 1984 (30)",NA,NA,Algeria,Getafe CF,LaLiga,2014/2015,2014
-22,Defensive Midfield,"Apr 1, 1982 (32)",NA,NA,Spain,Getafe CF,LaLiga,2014/2015,2014
-NA,Central Midfield,"Nov 8, 1985 (28)",NA,NA,Spain,Getafe CF,LaLiga,2014/2015,2014
-NA,Central Midfield,"Jan 24, 1993 (21)",NA,NA,France,Getafe CF,LaLiga,2014/2015,2014
-NA,Central Midfield,"Mar 18, 1992 (22)",NA,NA,Spain,Getafe CF,LaLiga,2014/2015,2014
-NA,Central Midfield,"Apr 3, 1992 (22)",NA,NA,Spain,Getafe CF,LaLiga,2014/2015,2014
-NA,Attacking Midfield,"Jul 29, 1988 (25)",NA,NA,Spain,Getafe CF,LaLiga,2014/2015,2014
-NA,Attacking Midfield,"Apr 23, 1987 (27)",NA,NA,Croatia,Getafe CF,LaLiga,2014/2015,2014
-10,Attacking Midfield,"May 11, 1992 (22)",NA,NA,Spain,Getafe CF,LaLiga,2014/2015,2014
-17,Left Winger,"Jul 2, 1982 (31)",NA,NA,Spain,Getafe CF,LaLiga,2014/2015,2014
-7,Left Winger,"Aug 7, 1984 (29)",NA,NA,Spain,Getafe CF,LaLiga,2014/2015,2014
-11,Left Winger,"Oct 25, 1988 (25)",NA,NA,France,Getafe CF,LaLiga,2014/2015,2014
-23,Left Winger,"Apr 5, 1990 (24)",NA,NA,Colombia,Getafe CF,LaLiga,2014/2015,2014
-NA,Left Winger,"Sep 23, 1992 (21)",NA,NA,Spain,Getafe CF,LaLiga,2014/2015,2014
-14,Right Winger,"Nov 24, 1986 (27)",NA,NA,Spain,Getafe CF,LaLiga,2014/2015,2014
-NA,Right Winger,"Jun 29, 1994 (20)",NA,NA,Spain,Getafe CF,LaLiga,2014/2015,2014
-NA,Right Winger,"Dec 25, 1996 (17)",NA,NA,Argentina,Getafe CF,LaLiga,2014/2015,2014
-9,Centre-Forward,"Apr 27, 1991 (23)",NA,NA,Spain,Getafe CF,LaLiga,2014/2015,2014
-15,Centre-Forward,"Jan 5, 1988 (26)",NA,NA,Senegal,Getafe CF,LaLiga,2014/2015,2014
-13,Goalkeeper,"May 9, 1990 (24)",NA,NA,Spain,Levante UD,LaLiga,2014/2015,2014
-1,Goalkeeper,"Jun 11, 1988 (26)",NA,NA,Spain,Levante UD,LaLiga,2014/2015,2014
-14,Centre-Back,"Oct 25, 1984 (29)",NA,NA,Spain,Levante UD,LaLiga,2014/2015,2014
-24,Centre-Back,"Jun 23, 1988 (26)",NA,NA,Mozambique,Levante UD,LaLiga,2014/2015,2014
-6,Centre-Back,"Feb 5, 1981 (33)",NA,NA,Greece,Levante UD,LaLiga,2014/2015,2014
-NA,Centre-Back,"Mar 7, 1988 (26)",NA,NA,Spain,Levante UD,LaLiga,2014/2015,2014
-4,Centre-Back,"May 25, 1980 (34)",NA,NA,Spain,Levante UD,LaLiga,2014/2015,2014
-NA,Centre-Back,"Mar 27, 1992 (22)",NA,NA,Spain,Levante UD,LaLiga,2014/2015,2014
-15,Left-Back,"Dec 20, 1984 (29)",NA,NA,Greece,Levante UD,LaLiga,2014/2015,2014
-3,Left-Back,"Nov 7, 1989 (24)",NA,NA,Spain,Levante UD,LaLiga,2014/2015,2014
-12,Left-Back,"Jul 15, 1976 (37)",NA,NA,Spain,Levante UD,LaLiga,2014/2015,2014
-19,Right-Back,"Nov 1, 1983 (30)",NA,NA,Spain,Levante UD,LaLiga,2014/2015,2014
-2,Right-Back,"Aug 23, 1993 (20)",NA,NA,Spain,Levante UD,LaLiga,2014/2015,2014
-23,Defensive Midfield,"Mar 19, 1986 (28)",NA,NA,Senegal,Levante UD,LaLiga,2014/2015,2014
-NA,Defensive Midfield,"Jan 22, 1985 (29)",NA,NA,Mali,Levante UD,LaLiga,2014/2015,2014
-NA,Defensive Midfield,"Dec 9, 1986 (27)",NA,NA,Morocco,Levante UD,LaLiga,2014/2015,2014
-25,Defensive Midfield,"Dec 6, 1987 (26)",NA,NA,Spain,Levante UD,LaLiga,2014/2015,2014
-NA,Central Midfield,"Jan 12, 1988 (26)",NA,NA,Spain,Levante UD,LaLiga,2014/2015,2014
-26,Central Midfield,"May 28, 1994 (20)",NA,NA,Spain,Levante UD,LaLiga,2014/2015,2014
-10,Attacking Midfield,"Jul 14, 1993 (20)",NA,NA,Spain,Levante UD,LaLiga,2014/2015,2014
-21,Attacking Midfield,"Oct 15, 1983 (30)",NA,NA,Austria,Levante UD,LaLiga,2014/2015,2014
-NA,Left Winger,"May 12, 1985 (29)",NA,NA,Spain,Levante UD,LaLiga,2014/2015,2014
-17,Right Winger,"Oct 24, 1985 (28)",NA,NA,Spain,Levante UD,LaLiga,2014/2015,2014
-8,Right Winger,"Aug 27, 1986 (27)",NA,NA,Morocco,Levante UD,LaLiga,2014/2015,2014
-NA,Right Winger,"Jul 6, 1994 (19)",NA,NA,Spain,Levante UD,LaLiga,2014/2015,2014
-5,Centre-Forward,"Nov 15, 1982 (31)",NA,NA,Nigeria,Levante UD,LaLiga,2014/2015,2014
-18,Centre-Forward,"Feb 28, 1985 (29)",NA,NA,Spain,Levante UD,LaLiga,2014/2015,2014
-7,Centre-Forward,"May 10, 1983 (31)",NA,NA,Spain,Levante UD,LaLiga,2014/2015,2014
-9,Centre-Forward,"Mar 17, 1989 (25)",NA,NA,Brazil,Levante UD,LaLiga,2014/2015,2014
-11,Centre-Forward,"Jul 23, 1987 (26)",NA,NA,Spain,Levante UD,LaLiga,2014/2015,2014
-NA,Centre-Forward,"Jan 3, 1994 (20)",NA,NA,Spain,Levante UD,LaLiga,2014/2015,2014
-13,Goalkeeper,"Jan 18, 1983 (31)",NA,NA,Spain,Córdoba CF,LaLiga,2014/2015,2014
-1,Goalkeeper,"Jan 20, 1988 (26)",NA,NA,Spain,Córdoba CF,LaLiga,2014/2015,2014
-15,Centre-Back,"Jan 27, 1989 (25)",NA,NA,Spain,Córdoba CF,LaLiga,2014/2015,2014
-12,Centre-Back,"Jul 23, 1982 (31)",NA,NA,Spain,Córdoba CF,LaLiga,2014/2015,2014
-2,Centre-Back,"Apr 11, 1992 (22)",NA,NA,Serbia,Córdoba CF,LaLiga,2014/2015,2014
-6,Centre-Back,"Dec 4, 1984 (29)",NA,NA,Spain,Córdoba CF,LaLiga,2014/2015,2014
-4,Centre-Back,"Jun 16, 1983 (31)",NA,NA,Spain,Córdoba CF,LaLiga,2014/2015,2014
-3,Centre-Back,"Feb 9, 1987 (27)",NA,NA,Spain,Córdoba CF,LaLiga,2014/2015,2014
-NA,Centre-Back,"Jul 9, 1994 (19)",NA,NA,DR Congo,Córdoba CF,LaLiga,2014/2015,2014
-NA,Centre-Back,"Apr 20, 1995 (19)",NA,NA,Spain,Córdoba CF,LaLiga,2014/2015,2014
-11,Left-Back,"May 21, 1986 (28)",NA,NA,Brazil,Córdoba CF,LaLiga,2014/2015,2014
-29,Left-Back,"Oct 22, 1992 (21)",NA,NA,Spain,Córdoba CF,LaLiga,2014/2015,2014
-17,Right-Back,"Feb 3, 1989 (25)",NA,NA,Uruguay,Córdoba CF,LaLiga,2014/2015,2014
-33,Right-Back,"Jan 26, 1993 (21)",NA,NA,Spain,Córdoba CF,LaLiga,2014/2015,2014
-20,Defensive Midfield,"Apr 2, 1993 (21)",NA,NA,Argentina,Córdoba CF,LaLiga,2014/2015,2014
-21,Defensive Midfield,"May 21, 1990 (24)",NA,NA,Slovenia,Córdoba CF,LaLiga,2014/2015,2014
-7,Central Midfield,"Dec 3, 1990 (23)",NA,NA,Italy,Córdoba CF,LaLiga,2014/2015,2014
-NA,Central Midfield,"Oct 5, 1984 (29)",NA,NA,Spain,Córdoba CF,LaLiga,2014/2015,2014
-23,Central Midfield,"Feb 20, 1982 (32)",NA,NA,Spain,Córdoba CF,LaLiga,2014/2015,2014
-5,Central Midfield,"Mar 26, 1990 (24)",NA,NA,Cameroon,Córdoba CF,LaLiga,2014/2015,2014
-NA,Central Midfield,"Nov 6, 1980 (33)",NA,NA,Spain,Córdoba CF,LaLiga,2014/2015,2014
-NA,Attacking Midfield,"Jul 17, 1987 (26)",NA,NA,Spain,Córdoba CF,LaLiga,2014/2015,2014
-18,Attacking Midfield,"Nov 2, 1990 (23)",NA,NA,Spain,Córdoba CF,LaLiga,2014/2015,2014
-35,Attacking Midfield,"Jul 4, 1994 (19)",NA,NA,Spain,Córdoba CF,LaLiga,2014/2015,2014
-9,Left Winger,"Nov 14, 1988 (25)",NA,NA,Cape Verde,Córdoba CF,LaLiga,2014/2015,2014
-16,Left Winger,"Oct 27, 1989 (24)",NA,NA,Spain,Córdoba CF,LaLiga,2014/2015,2014
-24,Left Winger,"Jul 12, 1990 (23)",NA,NA,Portugal,Córdoba CF,LaLiga,2014/2015,2014
-19,Left Winger,"Jan 2, 1983 (31)",NA,NA,Spain,Córdoba CF,LaLiga,2014/2015,2014
-NA,Left Winger,"Jun 1, 1992 (22)",NA,NA,Spain,Córdoba CF,LaLiga,2014/2015,2014
-10,Right Winger,"Jan 20, 1993 (21)",NA,NA,Argentina,Córdoba CF,LaLiga,2014/2015,2014
-NA,Second Striker,"Feb 27, 1993 (21)",NA,NA,Brazil,Córdoba CF,LaLiga,2014/2015,2014
-14,Centre-Forward,"Apr 20, 1990 (24)",NA,NA,Algeria,Córdoba CF,LaLiga,2014/2015,2014
-NA,Centre-Forward,"May 20, 1987 (27)",NA,NA,Japan,Córdoba CF,LaLiga,2014/2015,2014
-NA,Centre-Forward,"Jun 26, 1986 (28)",NA,NA,Spain,Córdoba CF,LaLiga,2014/2015,2014
-28,Centre-Forward,"Apr 11, 1993 (21)",NA,NA,Romania,Córdoba CF,LaLiga,2014/2015,2014
-NA,Centre-Forward,"Dec 27, 1996 (17)",NA,NA,Spain,Córdoba CF,LaLiga,2014/2015,2014
-1,Goalkeeper,"Aug 3, 1986 (27)",NA,NA,Spain,Celta de Vigo,LaLiga,2014/2015,2014
-13,Goalkeeper,"Jul 25, 1995 (18)",NA,NA,Spain,Celta de Vigo,LaLiga,2014/2015,2014
-3,Centre-Back,"Nov 14, 1989 (24)",NA,NA,Spain,Celta de Vigo,LaLiga,2014/2015,2014
-15,Centre-Back,"Mar 26, 1995 (19)",NA,NA,Spain,Celta de Vigo,LaLiga,2014/2015,2014
-22,Centre-Back,"Oct 14, 1985 (28)",NA,NA,Argentina,Celta de Vigo,LaLiga,2014/2015,2014
-20,Centre-Back,"Mar 28, 1992 (22)",NA,NA,Spain,Celta de Vigo,LaLiga,2014/2015,2014
-NA,Centre-Back,"Aug 25, 1997 (16)",NA,NA,Spain,Celta de Vigo,LaLiga,2014/2015,2014
-21,Left-Back,"Mar 4, 1991 (23)",NA,NA,Spain,Celta de Vigo,LaLiga,2014/2015,2014
-19,Left-Back,"Mar 3, 1994 (20)",NA,NA,Spain,Celta de Vigo,LaLiga,2014/2015,2014
-NA,Left-Back,"Dec 9, 1995 (18)",NA,NA,Spain,Celta de Vigo,LaLiga,2014/2015,2014
-2,Right-Back,"Jun 22, 1991 (23)",NA,NA,Spain,Celta de Vigo,LaLiga,2014/2015,2014
-NA,Right-Back,"Mar 23, 1993 (21)",NA,NA,Spain,Celta de Vigo,LaLiga,2014/2015,2014
-4,Defensive Midfield,"May 17, 1982 (32)",NA,NA,Spain,Celta de Vigo,LaLiga,2014/2015,2014
-6,Defensive Midfield,"Feb 6, 1993 (21)",NA,NA,Serbia,Celta de Vigo,LaLiga,2014/2015,2014
-24,Central Midfield,"Apr 10, 1986 (28)",NA,NA,Argentina,Celta de Vigo,LaLiga,2014/2015,2014
-8,Central Midfield,"Jan 11, 1988 (26)",NA,NA,Spain,Celta de Vigo,LaLiga,2014/2015,2014
-23,Central Midfield,"Jun 6, 1983 (31)",NA,NA,Denmark,Celta de Vigo,LaLiga,2014/2015,2014
-5,Central Midfield,"Oct 24, 1986 (27)",NA,NA,Chile,Celta de Vigo,LaLiga,2014/2015,2014
-28,Central Midfield,"Aug 16, 1995 (18)",NA,NA,Spain,Celta de Vigo,LaLiga,2014/2015,2014
-NA,Central Midfield,"Aug 8, 1997 (16)",NA,NA,Spain,Celta de Vigo,LaLiga,2014/2015,2014
-17,Attacking Midfield,"Jun 22, 1992 (22)",NA,NA,Gabon,Celta de Vigo,LaLiga,2014/2015,2014
-10,Left Winger,"Oct 15, 1986 (27)",NA,NA,Spain,Celta de Vigo,LaLiga,2014/2015,2014
-18,Left Winger,"Nov 20, 1995 (18)",NA,NA,Belgium,Celta de Vigo,LaLiga,2014/2015,2014
-14,Right Winger,"Jan 27, 1986 (28)",NA,NA,Chile,Celta de Vigo,LaLiga,2014/2015,2014
-9,Centre-Forward,"Apr 4, 1984 (30)",NA,NA,Brazil,Celta de Vigo,LaLiga,2014/2015,2014
-7,Centre-Forward,"Dec 7, 1995 (18)",NA,NA,Spain,Celta de Vigo,LaLiga,2014/2015,2014
-11,Centre-Forward,"Aug 20, 1984 (29)",NA,NA,Argentina,Celta de Vigo,LaLiga,2014/2015,2014
-NA,Centre-Forward,"Jan 17, 1993 (21)",NA,NA,Spain,Celta de Vigo,LaLiga,2014/2015,2014
-25,Goalkeeper,"Jan 4, 1987 (27)",NA,NA,Poland,Elche CF,LaLiga,2014/2015,2014
-1,Goalkeeper,"Sep 19, 1981 (32)",NA,NA,Spain,Elche CF,LaLiga,2014/2015,2014
-NA,Goalkeeper,"Aug 22, 1991 (22)",NA,NA,Spain,Elche CF,LaLiga,2014/2015,2014
-NA,Goalkeeper,"Dec 31, 1992 (21)",NA,NA,Spain,Elche CF,LaLiga,2014/2015,2014
-4,Centre-Back,"Jun 5, 1987 (27)",NA,NA,Spain,Elche CF,LaLiga,2014/2015,2014
-3,Centre-Back,"Aug 16, 1992 (21)",NA,NA,Chile,Elche CF,LaLiga,2014/2015,2014
-18,Centre-Back,"Aug 14, 1979 (34)",NA,NA,Spain,Elche CF,LaLiga,2014/2015,2014
-14,Centre-Back,"Mar 2, 1989 (25)",NA,NA,Spain,Elche CF,LaLiga,2014/2015,2014
-NA,Centre-Back,"Jul 10, 1992 (21)",NA,NA,Spain,Elche CF,LaLiga,2014/2015,2014
-NA,Centre-Back,"Mar 6, 1992 (22)",NA,NA,Spain,Elche CF,LaLiga,2014/2015,2014
-5,Left-Back,"Feb 9, 1982 (32)",NA,NA,Spain,Elche CF,LaLiga,2014/2015,2014
-21,Left-Back,"Nov 16, 1979 (34)",NA,NA,Spain,Elche CF,LaLiga,2014/2015,2014
-2,Right-Back,"Apr 27, 1988 (26)",NA,NA,Uruguay,Elche CF,LaLiga,2014/2015,2014
-24,Central Midfield,"Feb 9, 1995 (19)",NA,NA,Croatia,Elche CF,LaLiga,2014/2015,2014
-6,Central Midfield,"Apr 21, 1988 (26)",NA,NA,Spain,Elche CF,LaLiga,2014/2015,2014
-8,Central Midfield,"May 25, 1988 (26)",NA,NA,Spain,Elche CF,LaLiga,2014/2015,2014
-NA,Central Midfield,"Jan 19, 1992 (22)",NA,NA,Spain,Elche CF,LaLiga,2014/2015,2014
-NA,Central Midfield,"May 20, 1993 (21)",NA,NA,Spain,Elche CF,LaLiga,2014/2015,2014
-20,Attacking Midfield,"Aug 1, 1988 (25)",NA,NA,Morocco,Elche CF,LaLiga,2014/2015,2014
-17,Left Winger,"Jul 23, 1989 (24)",NA,NA,Spain,Elche CF,LaLiga,2014/2015,2014
-11,Left Winger,"Nov 27, 1990 (23)",NA,NA,Cape Verde,Elche CF,LaLiga,2014/2015,2014
-NA,Left Winger,"Jun 2, 1993 (21)",NA,NA,Argentina,Elche CF,LaLiga,2014/2015,2014
-7,Right Winger,"Apr 26, 1989 (25)",NA,NA,Spain,Elche CF,LaLiga,2014/2015,2014
-NA,Second Striker,"Apr 15, 1994 (20)",NA,NA,Spain,Elche CF,LaLiga,2014/2015,2014
-10,Centre-Forward,"Jan 5, 1983 (31)",NA,NA,Spain,Elche CF,LaLiga,2014/2015,2014
-22,Centre-Forward,"Mar 6, 1989 (25)",NA,NA,Brazil,Elche CF,LaLiga,2014/2015,2014
-9,Centre-Forward,"Mar 13, 1991 (23)",NA,NA,Spain,Elche CF,LaLiga,2014/2015,2014
-19,Centre-Forward,"May 19, 1991 (23)",NA,NA,Spain,Elche CF,LaLiga,2014/2015,2014
-NA,Centre-Forward,"Nov 29, 1994 (19)",NA,NA,Spain,Elche CF,LaLiga,2014/2015,2014
-25,Goalkeeper,"Jun 22, 1984 (30)",NA,NA,Spain,UD Almería,LaLiga,2014/2015,2014
-1,Goalkeeper,"Mar 28, 1991 (23)",NA,NA,Spain,UD Almería,LaLiga,2014/2015,2014
-NA,Goalkeeper,"Jun 10, 1992 (22)",NA,NA,Spain,UD Almería,LaLiga,2014/2015,2014
-5,Centre-Back,"Sep 8, 1987 (26)",NA,NA,Spain,UD Almería,LaLiga,2014/2015,2014
-4,Centre-Back,"Jan 23, 1990 (24)",NA,NA,Spain,UD Almería,LaLiga,2014/2015,2014
-6,Centre-Back,"Jul 7, 1989 (24)",NA,NA,Argentina,UD Almería,LaLiga,2014/2015,2014
-3,Centre-Back,"Jun 23, 1991 (23)",NA,NA,Spain,UD Almería,LaLiga,2014/2015,2014
-NA,Centre-Back,"May 25, 1993 (21)",NA,NA,Cameroon,UD Almería,LaLiga,2014/2015,2014
-16,Left-Back,"Feb 19, 1986 (28)",NA,NA,Argentina,UD Almería,LaLiga,2014/2015,2014
-21,Left-Back,"Dec 21, 1981 (32)",NA,NA,Spain,UD Almería,LaLiga,2014/2015,2014
-14,Left-Back,"Aug 9, 1986 (27)",NA,NA,Spain,UD Almería,LaLiga,2014/2015,2014
-2,Right-Back,"Feb 15, 1990 (24)",NA,NA,Brazil,UD Almería,LaLiga,2014/2015,2014
-NA,Right-Back,"Jun 17, 1996 (18)",NA,NA,Spain,UD Almería,LaLiga,2014/2015,2014
-22,Defensive Midfield,"Jun 13, 1993 (21)",NA,NA,Ghana,UD Almería,LaLiga,2014/2015,2014
-NA,Defensive Midfield,"Jun 21, 1992 (22)",NA,NA,Spain,UD Almería,LaLiga,2014/2015,2014
-7,Central Midfield,"Sep 29, 1986 (27)",NA,NA,Spain,UD Almería,LaLiga,2014/2015,2014
-31,Central Midfield,"Dec 12, 1992 (21)",NA,NA,Nigeria,UD Almería,LaLiga,2014/2015,2014
-15,Central Midfield,"Feb 12, 1981 (33)",NA,NA,Spain,UD Almería,LaLiga,2014/2015,2014
-NA,Central Midfield,"Apr 25, 1992 (22)",NA,NA,Spain,UD Almería,LaLiga,2014/2015,2014
-24,Attacking Midfield,"Sep 19, 1992 (21)",NA,NA,Spain,UD Almería,LaLiga,2014/2015,2014
-23,Attacking Midfield,"Sep 24, 1979 (34)",NA,NA,Spain,UD Almería,LaLiga,2014/2015,2014
-9,Left Winger,"May 13, 1992 (22)",NA,NA,Congo,UD Almería,LaLiga,2014/2015,2014
-NA,Left Winger,"Dec 9, 1997 (16)",NA,NA,Spain,UD Almería,LaLiga,2014/2015,2014
-19,Right Winger,"Apr 16, 1989 (25)",NA,NA,Burkina Faso,UD Almería,LaLiga,2014/2015,2014
-NA,Right Winger,"Jan 6, 1993 (21)",NA,NA,Brazil,UD Almería,LaLiga,2014/2015,2014
-17,Right Winger,"Jan 2, 1990 (24)",NA,NA,Spain,UD Almería,LaLiga,2014/2015,2014
-NA,Right Winger,"Sep 23, 1992 (21)",NA,NA,Spain,UD Almería,LaLiga,2014/2015,2014
-10,Centre-Forward,"May 2, 1987 (27)",NA,NA,Israel,UD Almería,LaLiga,2014/2015,2014
-18,Centre-Forward,"Jun 6, 1988 (26)",NA,NA,Thailand,UD Almería,LaLiga,2014/2015,2014
-NA,Centre-Forward,"May 16, 1990 (24)",NA,NA,Spain,UD Almería,LaLiga,2014/2015,2014
-NA,Centre-Forward,"Aug 23, 1995 (18)",NA,NA,Spain,UD Almería,LaLiga,2014/2015,2014
-25,Goalkeeper,"Dec 10, 1980 (33)",NA,NA,Spain,SD Eibar,LaLiga,2014/2015,2014
-1,Goalkeeper,"Mar 21, 1986 (28)",NA,NA,Spain,SD Eibar,LaLiga,2014/2015,2014
-13,Goalkeeper,"Apr 30, 1986 (28)",NA,NA,Spain,SD Eibar,LaLiga,2014/2015,2014
-5,Centre-Back,"Mar 6, 1988 (26)",NA,NA,Spain,SD Eibar,LaLiga,2014/2015,2014
-22,Centre-Back,"May 11, 1988 (26)",NA,NA,Spain,SD Eibar,LaLiga,2014/2015,2014
-NA,Centre-Back,"Sep 7, 1988 (25)",NA,NA,Spain,SD Eibar,LaLiga,2014/2015,2014
-4,Centre-Back,"Jul 26, 1979 (34)",NA,NA,Spain,SD Eibar,LaLiga,2014/2015,2014
-NA,Centre-Back,"Aug 10, 1994 (19)",NA,NA,Spain,SD Eibar,LaLiga,2014/2015,2014
-17,Left-Back,"Jun 9, 1989 (25)",NA,NA,Spain,SD Eibar,LaLiga,2014/2015,2014
-24,Left-Back,"Feb 22, 1986 (28)",NA,NA,Spain,SD Eibar,LaLiga,2014/2015,2014
-7,Right-Back,"Feb 8, 1992 (22)",NA,NA,Spain,SD Eibar,LaLiga,2014/2015,2014
-16,Right-Back,"Mar 27, 1989 (25)",NA,NA,Spain,SD Eibar,LaLiga,2014/2015,2014
-2,Right-Back,"Dec 14, 1988 (25)",NA,NA,Spain,SD Eibar,LaLiga,2014/2015,2014
-18,Defensive Midfield,"May 2, 1983 (31)",NA,NA,Ghana,SD Eibar,LaLiga,2014/2015,2014
-12,Defensive Midfield,"Jan 14, 1981 (33)",NA,NA,Spain,SD Eibar,LaLiga,2014/2015,2014
-8,Defensive Midfield,"Jun 6, 1988 (26)",NA,NA,Spain,SD Eibar,LaLiga,2014/2015,2014
-14,Central Midfield,"May 24, 1990 (24)",NA,NA,Spain,SD Eibar,LaLiga,2014/2015,2014
-23,Attacking Midfield,"Dec 4, 1985 (28)",NA,NA,Spain,SD Eibar,LaLiga,2014/2015,2014
-11,Left Winger,"May 4, 1991 (23)",NA,NA,Spain,SD Eibar,LaLiga,2014/2015,2014
-21,Left Winger,"May 24, 1986 (28)",NA,NA,Spain,SD Eibar,LaLiga,2014/2015,2014
-10,Second Striker,"Feb 9, 1983 (31)",NA,NA,Spain,SD Eibar,LaLiga,2014/2015,2014
-20,Centre-Forward,"Feb 25, 1984 (30)",NA,NA,Spain,SD Eibar,LaLiga,2014/2015,2014
-19,Centre-Forward,"Sep 1, 1984 (29)",NA,NA,Italy,SD Eibar,LaLiga,2014/2015,2014
-15,Centre-Forward,"Jun 7, 1985 (29)",NA,NA,Serbia,SD Eibar,LaLiga,2014/2015,2014
-9,Centre-Forward,"Apr 26, 1987 (27)",NA,NA,Spain,SD Eibar,LaLiga,2014/2015,2014
+player_name,position,date_of_birth,age,nationality,club_name,league_name,season,year
+Iker Casillas,Goalkeeper,1981-05-20,33,Spain,Real Madrid,LaLiga,2014/2015,2014
+Keylor Navas,Goalkeeper,1986-12-15,27,Costa Rica,Real Madrid,LaLiga,2014/2015,2014
+Fernando Pacheco,Goalkeeper,1992-05-18,22,Spain,Real Madrid,LaLiga,2014/2015,2014
+Rubén Yáñez,Goalkeeper,1993-10-12,20,Spain,Real Madrid,LaLiga,2014/2015,2014
+Sergio Ramos,Centre-Back,1986-03-30,28,Spain,Real Madrid,LaLiga,2014/2015,2014
+Raphaël Varane,Centre-Back,1993-04-25,21,France,Real Madrid,LaLiga,2014/2015,2014
+Pepe,Centre-Back,1983-02-26,31,Portugal,Real Madrid,LaLiga,2014/2015,2014
+Nacho,Centre-Back,1990-01-18,24,Spain,Real Madrid,LaLiga,2014/2015,2014
+Derik Osede,Centre-Back,1993-02-21,21,Spain,Real Madrid,LaLiga,2014/2015,2014
+Diego Llorente,Centre-Back,1993-08-16,20,Spain,Real Madrid,LaLiga,2014/2015,2014
+Jaime Sánchez,Centre-Back,1995-03-11,19,Spain,Real Madrid,LaLiga,2014/2015,2014
+Marcelo,Left-Back,1988-05-12,26,Brazil,Real Madrid,LaLiga,2014/2015,2014
+Fábio Coentrão,Left-Back,1988-03-11,26,Portugal,Real Madrid,LaLiga,2014/2015,2014
+Javi Noblejas,Left-Back,1993-03-18,21,Spain,Real Madrid,LaLiga,2014/2015,2014
+Abner,Left-Back,1996-05-30,18,Brazil,Real Madrid,LaLiga,2014/2015,2014
+Daniel Carvajal,Right-Back,1992-01-11,22,Spain,Real Madrid,LaLiga,2014/2015,2014
+Álvaro Arbeloa,Right-Back,1983-01-17,31,Spain,Real Madrid,LaLiga,2014/2015,2014
+Guillermo Varela,Right-Back,1993-03-24,21,Uruguay,Real Madrid,LaLiga,2014/2015,2014
+Asier Illarramendi,Defensive Midfield,1990-03-08,24,Spain,Real Madrid,LaLiga,2014/2015,2014
+Xabi Alonso,Defensive Midfield,1981-11-25,32,Spain,Real Madrid,LaLiga,2014/2015,2014
+Lucas Torró,Defensive Midfield,1994-07-19,19,Spain,Real Madrid,LaLiga,2014/2015,2014
+Marcos Llorente,Defensive Midfield,1995-01-30,19,Spain,Real Madrid,LaLiga,2014/2015,2014
+Toni Kroos,Central Midfield,1990-01-04,24,Germany,Real Madrid,LaLiga,2014/2015,2014
+Luka Modric,Central Midfield,1985-09-09,28,Croatia,Real Madrid,LaLiga,2014/2015,2014
+Sami Khedira,Central Midfield,1987-04-04,27,Germany,Real Madrid,LaLiga,2014/2015,2014
+Lucas Silva,Central Midfield,1993-02-16,21,Brazil,Real Madrid,LaLiga,2014/2015,2014
+Álvaro Medrán,Central Midfield,1994-03-15,20,Spain,Real Madrid,LaLiga,2014/2015,2014
+Sergio Aguza,Central Midfield,1992-09-02,21,Spain,Real Madrid,LaLiga,2014/2015,2014
+Javi Muñoz,Central Midfield,1995-02-28,19,Spain,Real Madrid,LaLiga,2014/2015,2014
+James Rodríguez,Attacking Midfield,1991-07-12,22,Colombia,Real Madrid,LaLiga,2014/2015,2014
+Isco,Attacking Midfield,1992-04-21,22,Spain,Real Madrid,LaLiga,2014/2015,2014
+Cristiano Ronaldo,Left Winger,1985-02-05,29,Portugal,Real Madrid,LaLiga,2014/2015,2014
+Gareth Bale,Right Winger,1989-07-16,24,Wales,Real Madrid,LaLiga,2014/2015,2014
+Ángel Di María,Right Winger,1988-02-14,26,Argentina,Real Madrid,LaLiga,2014/2015,2014
+Martin Ödegaard,Right Winger,1998-12-17,15,Norway,Real Madrid,LaLiga,2014/2015,2014
+Karim Benzema,Centre-Forward,1987-12-19,26,France,Real Madrid,LaLiga,2014/2015,2014
+Chicharito,Centre-Forward,1988-06-01,26,Mexico,Real Madrid,LaLiga,2014/2015,2014
+Jesé,Centre-Forward,1993-02-26,21,Spain,Real Madrid,LaLiga,2014/2015,2014
+Raúl de Tomás,Centre-Forward,1994-10-17,19,Spain,Real Madrid,LaLiga,2014/2015,2014
+Eero Markkanen,Centre-Forward,1991-07-03,22,Finland,Real Madrid,LaLiga,2014/2015,2014
+Borja Mayoral,Centre-Forward,1997-04-05,17,Spain,Real Madrid,LaLiga,2014/2015,2014
+Marc-André ter Stegen,Goalkeeper,1992-04-30,22,Germany,FC Barcelona,LaLiga,2014/2015,2014
+Claudio Bravo,Goalkeeper,1983-04-13,31,Chile,FC Barcelona,LaLiga,2014/2015,2014
+Jordi Masip,Goalkeeper,1989-01-03,25,Spain,FC Barcelona,LaLiga,2014/2015,2014
+Gerard Piqué,Centre-Back,1987-02-02,27,Spain,FC Barcelona,LaLiga,2014/2015,2014
+Thomas Vermaelen,Centre-Back,1985-11-14,28,Belgium,FC Barcelona,LaLiga,2014/2015,2014
+Marc Bartra,Centre-Back,1991-01-15,23,Spain,FC Barcelona,LaLiga,2014/2015,2014
+Jérémy Mathieu,Centre-Back,1983-10-29,30,France,FC Barcelona,LaLiga,2014/2015,2014
+Edgar Ié,Centre-Back,1994-05-01,20,Portugal,FC Barcelona,LaLiga,2014/2015,2014
+Jordi Alba,Left-Back,1989-03-21,25,Spain,FC Barcelona,LaLiga,2014/2015,2014
+Adriano,Left-Back,1984-10-26,29,Brazil,FC Barcelona,LaLiga,2014/2015,2014
+Dani Alves,Right-Back,1983-05-06,31,Brazil,FC Barcelona,LaLiga,2014/2015,2014
+Martín Montoya,Right-Back,1991-04-14,23,Spain,FC Barcelona,LaLiga,2014/2015,2014
+Sergi Roberto,Right-Back,1992-02-07,22,Spain,FC Barcelona,LaLiga,2014/2015,2014
+Douglas,Right-Back,1990-08-06,23,Brazil,FC Barcelona,LaLiga,2014/2015,2014
+Sergio Busquets,Defensive Midfield,1988-07-16,25,Spain,FC Barcelona,LaLiga,2014/2015,2014
+Javier Mascherano,Defensive Midfield,1984-06-08,30,Argentina,FC Barcelona,LaLiga,2014/2015,2014
+Sergi Samper,Defensive Midfield,1995-01-20,19,Spain,FC Barcelona,LaLiga,2014/2015,2014
+Diawandou Diagne,Defensive Midfield,1994-07-28,19,Senegal,FC Barcelona,LaLiga,2014/2015,2014
+Andrés Iniesta,Central Midfield,1984-05-11,30,Spain,FC Barcelona,LaLiga,2014/2015,2014
+Ivan Rakitic,Central Midfield,1988-03-10,26,Croatia,FC Barcelona,LaLiga,2014/2015,2014
+Xavi,Central Midfield,1980-01-25,34,Spain,FC Barcelona,LaLiga,2014/2015,2014
+Rafinha,Central Midfield,1993-02-12,21,Brazil,FC Barcelona,LaLiga,2014/2015,2014
+Gerard Gumbau,Central Midfield,1994-12-18,19,Spain,FC Barcelona,LaLiga,2014/2015,2014
+Alen Halilovic,Attacking Midfield,1996-06-18,18,Croatia,FC Barcelona,LaLiga,2014/2015,2014
+Neymar,Left Winger,1992-02-05,22,Brazil,FC Barcelona,LaLiga,2014/2015,2014
+Lionel Messi,Right Winger,1987-06-24,27,Argentina,FC Barcelona,LaLiga,2014/2015,2014
+Pedro,Right Winger,1987-07-28,26,Spain,FC Barcelona,LaLiga,2014/2015,2014
+Adama Traoré,Right Winger,1996-01-25,18,Spain,FC Barcelona,LaLiga,2014/2015,2014
+Luis Suárez,Centre-Forward,1987-01-24,27,Uruguay,FC Barcelona,LaLiga,2014/2015,2014
+Sandro Ramírez,Centre-Forward,1995-07-09,18,Spain,FC Barcelona,LaLiga,2014/2015,2014
+Munir El Haddadi,Centre-Forward,1995-09-01,18,Spain,FC Barcelona,LaLiga,2014/2015,2014
+Jan Oblak,Goalkeeper,1993-01-07,21,Slovenia,Atlético Madrid,LaLiga,2014/2015,2014
+Miguel Ángel Moyà,Goalkeeper,1984-04-02,30,Spain,Atlético Madrid,LaLiga,2014/2015,2014
+Bernabé Barragán,Goalkeeper,1993-02-18,21,Spain,Atlético Madrid,LaLiga,2014/2015,2014
+Diego Godín,Centre-Back,1986-02-16,28,Uruguay,Atlético Madrid,LaLiga,2014/2015,2014
+Miranda,Centre-Back,1984-09-07,29,Brazil,Atlético Madrid,LaLiga,2014/2015,2014
+José Giménez,Centre-Back,1995-01-20,19,Uruguay,Atlético Madrid,LaLiga,2014/2015,2014
+Lucas Hernández,Centre-Back,1996-02-14,18,France,Atlético Madrid,LaLiga,2014/2015,2014
+Nacho Monsalve,Centre-Back,1994-04-27,20,Spain,Atlético Madrid,LaLiga,2014/2015,2014
+Cristian Ansaldi,Left-Back,1986-09-20,27,Argentina,Atlético Madrid,LaLiga,2014/2015,2014
+Guilherme Siqueira,Left-Back,1986-04-28,28,Brazil,Atlético Madrid,LaLiga,2014/2015,2014
+Iván Pérez,Left-Back,1992-10-20,21,Spain,Atlético Madrid,LaLiga,2014/2015,2014
+Juanfran,Right-Back,1985-01-09,29,Spain,Atlético Madrid,LaLiga,2014/2015,2014
+Jesús Gámez,Right-Back,1985-04-10,29,Spain,Atlético Madrid,LaLiga,2014/2015,2014
+Gabi,Defensive Midfield,1983-07-10,30,Spain,Atlético Madrid,LaLiga,2014/2015,2014
+Koke,Central Midfield,1992-01-08,22,Spain,Atlético Madrid,LaLiga,2014/2015,2014
+Mario Suárez,Central Midfield,1987-02-24,27,Spain,Atlético Madrid,LaLiga,2014/2015,2014
+Saúl Ñíguez,Central Midfield,1994-11-21,19,Spain,Atlético Madrid,LaLiga,2014/2015,2014
+Cristian Rodríguez,Central Midfield,1985-09-30,28,Uruguay,Atlético Madrid,LaLiga,2014/2015,2014
+Tiago,Central Midfield,1981-05-02,33,Portugal,Atlético Madrid,LaLiga,2014/2015,2014
+Carlos Ramos,Central Midfield,1994-08-31,19,Spain,Atlético Madrid,LaLiga,2014/2015,2014
+Raúl García,Attacking Midfield,1986-07-11,27,Spain,Atlético Madrid,LaLiga,2014/2015,2014
+Cani,Attacking Midfield,1981-08-03,32,Spain,Atlético Madrid,LaLiga,2014/2015,2014
+Arda Turan,Left Winger,1987-01-30,27,Turkey,Atlético Madrid,LaLiga,2014/2015,2014
+Nacho Huertas,Left Winger,1993-12-16,20,Spain,Atlético Madrid,LaLiga,2014/2015,2014
+Alessio Cerci,Right Winger,1987-07-23,26,Italy,Atlético Madrid,LaLiga,2014/2015,2014
+Ángel Correa,Right Winger,1995-03-09,19,Argentina,Atlético Madrid,LaLiga,2014/2015,2014
+Mario Mandzukic,Centre-Forward,1986-05-21,28,Croatia,Atlético Madrid,LaLiga,2014/2015,2014
+Antoine Griezmann,Centre-Forward,1991-03-21,23,France,Atlético Madrid,LaLiga,2014/2015,2014
+Fernando Torres,Centre-Forward,1984-03-20,30,Spain,Atlético Madrid,LaLiga,2014/2015,2014
+Raúl Jiménez,Centre-Forward,1991-05-05,23,Mexico,Atlético Madrid,LaLiga,2014/2015,2014
+Héctor Hernández,Centre-Forward,1995-09-14,18,Spain,Atlético Madrid,LaLiga,2014/2015,2014
+Sekou Keita,Centre-Forward,1994-12-12,19,Guinea,Atlético Madrid,LaLiga,2014/2015,2014
+Diego Alves,Goalkeeper,1985-06-24,29,Brazil,Valencia CF,LaLiga,2014/2015,2014
+Yoel Rodríguez,Goalkeeper,1988-08-28,25,Spain,Valencia CF,LaLiga,2014/2015,2014
+Jaume Doménech,Goalkeeper,1990-11-05,23,Spain,Valencia CF,LaLiga,2014/2015,2014
+Nicolás Otamendi,Centre-Back,1988-02-12,26,Argentina,Valencia CF,LaLiga,2014/2015,2014
+Shkodran Mustafi,Centre-Back,1992-04-17,22,Germany,Valencia CF,LaLiga,2014/2015,2014
+Lucas Orbán,Centre-Back,1989-02-03,25,Argentina,Valencia CF,LaLiga,2014/2015,2014
+Rúben Vezo,Centre-Back,1994-04-25,20,Portugal,Valencia CF,LaLiga,2014/2015,2014
+José Gayà,Left-Back,1995-05-25,19,Spain,Valencia CF,LaLiga,2014/2015,2014
+Salva Ruiz,Left-Back,1995-05-17,19,Spain,Valencia CF,LaLiga,2014/2015,2014
+João Cancelo,Right-Back,1994-05-27,20,Portugal,Valencia CF,LaLiga,2014/2015,2014
+Antonio Barragán,Right-Back,1987-06-12,27,Spain,Valencia CF,LaLiga,2014/2015,2014
+Bruno Zuculini,Defensive Midfield,1993-04-02,21,Argentina,Valencia CF,LaLiga,2014/2015,2014
+Javi Fuego,Defensive Midfield,1984-01-04,30,Spain,Valencia CF,LaLiga,2014/2015,2014
+Filipe Augusto,Defensive Midfield,1993-08-12,20,Brazil,Valencia CF,LaLiga,2014/2015,2014
+Enzo Pérez,Central Midfield,1986-02-22,28,Argentina,Valencia CF,LaLiga,2014/2015,2014
+Dani Parejo,Central Midfield,1989-04-16,25,Spain,Valencia CF,LaLiga,2014/2015,2014
+André Gomes,Central Midfield,1993-07-30,20,Portugal,Valencia CF,LaLiga,2014/2015,2014
+Tropi,Central Midfield,1995-05-12,19,Spain,Valencia CF,LaLiga,2014/2015,2014
+Carles Gil,Attacking Midfield,1992-11-22,21,Spain,Valencia CF,LaLiga,2014/2015,2014
+Pablo Piatti,Left Winger,1989-03-31,25,Argentina,Valencia CF,LaLiga,2014/2015,2014
+Rodrigo de Paul,Left Winger,1994-05-24,20,Argentina,Valencia CF,LaLiga,2014/2015,2014
+Sofiane Feghouli,Right Winger,1989-12-26,24,Algeria,Valencia CF,LaLiga,2014/2015,2014
+Robert Ibáñez,Right Winger,1993-03-22,21,Spain,Valencia CF,LaLiga,2014/2015,2014
+Álvaro Negredo,Centre-Forward,1985-08-20,28,Spain,Valencia CF,LaLiga,2014/2015,2014
+Rodrigo,Centre-Forward,1991-03-06,23,Spain,Valencia CF,LaLiga,2014/2015,2014
+Paco Alcácer,Centre-Forward,1993-08-30,20,Spain,Valencia CF,LaLiga,2014/2015,2014
+Beto,Goalkeeper,1982-05-01,32,Portugal,Sevilla FC,LaLiga,2014/2015,2014
+Mariano Barbosa,Goalkeeper,1984-07-27,29,Argentina,Sevilla FC,LaLiga,2014/2015,2014
+David Soria,Goalkeeper,1993-04-04,21,Spain,Sevilla FC,LaLiga,2014/2015,2014
+Sergio Rico,Goalkeeper,1993-09-01,20,Spain,Sevilla FC,LaLiga,2014/2015,2014
+Juan Soriano,Goalkeeper,1997-08-23,16,Spain,Sevilla FC,LaLiga,2014/2015,2014
+Federico Fazio,Centre-Back,1987-03-17,27,Argentina,Sevilla FC,LaLiga,2014/2015,2014
+Alejandro Arribas,Centre-Back,1989-05-01,25,Spain,Sevilla FC,LaLiga,2014/2015,2014
+Timothée Kolodziejczak,Centre-Back,1991-10-01,22,France,Sevilla FC,LaLiga,2014/2015,2014
+Daniel Carriço,Centre-Back,1988-08-04,25,Portugal,Sevilla FC,LaLiga,2014/2015,2014
+Nicolás Pareja,Centre-Back,1984-01-19,30,Argentina,Sevilla FC,LaLiga,2014/2015,2014
+Benoît Trémoulinas,Left-Back,1985-12-28,28,France,Sevilla FC,LaLiga,2014/2015,2014
+Fernando Navarro,Left-Back,1982-06-25,32,Spain,Sevilla FC,LaLiga,2014/2015,2014
+Diogo Figueiras,Right-Back,1991-07-01,23,Portugal,Sevilla FC,LaLiga,2014/2015,2014
+Coke,Right-Back,1987-04-26,27,Spain,Sevilla FC,LaLiga,2014/2015,2014
+Modesto,Right-Back,1994-05-14,20,Spain,Sevilla FC,LaLiga,2014/2015,2014
+Stéphane Mbia,Defensive Midfield,1986-05-20,28,Cameroon,Sevilla FC,LaLiga,2014/2015,2014
+Vicente Iborra,Defensive Midfield,1988-01-16,26,Spain,Sevilla FC,LaLiga,2014/2015,2014
+Grzegorz Krychowiak,Defensive Midfield,1990-01-29,24,Poland,Sevilla FC,LaLiga,2014/2015,2014
+Emilio Peixe,Defensive Midfield,1973-01-06,41,Portugal,Sevilla FC,LaLiga,2014/2015,2014
+Luismi,Defensive Midfield,1992-05-05,22,Spain,Sevilla FC,LaLiga,2014/2015,2014
+Éver Banega,Central Midfield,1988-06-29,26,Argentina,Sevilla FC,LaLiga,2014/2015,2014
+Denis Suárez,Central Midfield,1994-01-06,20,Spain,Sevilla FC,LaLiga,2014/2015,2014
+Sebastián Cristóforo,Central Midfield,1993-08-23,20,Uruguay,Sevilla FC,LaLiga,2014/2015,2014
+Antonio Cotán,Central Midfield,1995-09-19,18,Spain,Sevilla FC,LaLiga,2014/2015,2014
+Tena,Central Midfield,1993-06-28,21,Spain,Sevilla FC,LaLiga,2014/2015,2014
+Aleix Vidal,Right Midfield,1989-08-21,24,Spain,Sevilla FC,LaLiga,2014/2015,2014
+Vitolo,Left Winger,1989-11-02,24,Spain,Sevilla FC,LaLiga,2014/2015,2014
+Jairo Samperio,Left Winger,1993-07-11,20,Spain,Sevilla FC,LaLiga,2014/2015,2014
+Gerard Deulofeu,Right Winger,1994-03-13,20,Spain,Sevilla FC,LaLiga,2014/2015,2014
+José Antonio Reyes,Right Winger,1983-09-01,30,Spain,Sevilla FC,LaLiga,2014/2015,2014
+Carlos Bacca,Centre-Forward,1986-09-08,27,Colombia,Sevilla FC,LaLiga,2014/2015,2014
+Kévin Gameiro,Centre-Forward,1987-05-09,27,France,Sevilla FC,LaLiga,2014/2015,2014
+Iago Aspas,Centre-Forward,1987-08-01,26,Spain,Sevilla FC,LaLiga,2014/2015,2014
+Carlos Fernández,Centre-Forward,1996-05-22,18,Spain,Sevilla FC,LaLiga,2014/2015,2014
+Juan Muñoz,Centre-Forward,1995-11-12,18,Spain,Sevilla FC,LaLiga,2014/2015,2014
+Gorka Iraizoz,Goalkeeper,1981-03-06,33,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
+Iago Herrerín,Goalkeeper,1988-01-25,26,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
+Alex Remiro,Goalkeeper,1995-03-24,19,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
+Aymeric Laporte,Centre-Back,1994-05-27,20,France,Athletic Bilbao,LaLiga,2014/2015,2014
+Carlos Gurpegi,Centre-Back,1980-08-19,33,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
+Xabier Etxeita,Centre-Back,1987-10-31,26,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
+Unai Bustinza,Centre-Back,1992-02-02,22,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
+Mikel Balenziaga,Left-Back,1988-02-29,26,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
+Jon Aurtenetxe,Left-Back,1992-01-03,22,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
+Óscar de Marcos,Right-Back,1989-04-14,25,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
+Andoni Iraola,Right-Back,1982-06-22,32,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
+Ander Iturraspe,Defensive Midfield,1989-03-08,25,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
+Mikel San José,Defensive Midfield,1989-05-30,25,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
+Erik Morán,Defensive Midfield,1991-05-25,23,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
+Beñat Etxebarria,Central Midfield,1987-02-19,27,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
+Mikel Rico,Central Midfield,1984-11-04,29,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
+Ager Aketxe,Attacking Midfield,1993-12-30,20,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
+Unai López,Attacking Midfield,1995-10-30,18,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
+Iker Muniain,Left Winger,1992-12-19,21,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
+Markel Susaeta,Right Winger,1987-12-14,26,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
+Ibai Gómez,Right Winger,1989-11-11,24,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
+Gaizka Toquero,Right Winger,1984-08-09,29,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
+Kike Sola,Centre-Forward,1986-02-25,28,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
+Aritz Aduriz,Centre-Forward,1981-02-11,33,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
+Borja Viguera,Centre-Forward,1987-03-26,27,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
+Guillermo,Centre-Forward,1993-05-23,21,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
+Iñaki Williams,Centre-Forward,1994-06-15,20,Spain,Athletic Bilbao,LaLiga,2014/2015,2014
+Eñaut Zubikarai,Goalkeeper,1984-02-26,30,Spain,Real Sociedad,LaLiga,2014/2015,2014
+Gerónimo Rulli,Goalkeeper,1992-05-20,22,Argentina,Real Sociedad,LaLiga,2014/2015,2014
+Ander Bardají,Goalkeeper,1995-05-03,19,Spain,Real Sociedad,LaLiga,2014/2015,2014
+Iñigo Martínez,Centre-Back,1991-05-17,23,Spain,Real Sociedad,LaLiga,2014/2015,2014
+Mikel González,Centre-Back,1985-09-24,28,Spain,Real Sociedad,LaLiga,2014/2015,2014
+Ion Ansotegi,Centre-Back,1982-07-13,31,Spain,Real Sociedad,LaLiga,2014/2015,2014
+Alexander Callens,Centre-Back,1992-05-04,22,Peru,Real Sociedad,LaLiga,2014/2015,2014
+Aritz Elustondo,Centre-Back,1994-03-28,20,Spain,Real Sociedad,LaLiga,2014/2015,2014
+Alberto de la Bella,Left-Back,1985-12-02,28,Spain,Real Sociedad,LaLiga,2014/2015,2014
+Yuri Berchiche,Left-Back,1990-02-10,24,Spain,Real Sociedad,LaLiga,2014/2015,2014
+Carlos Martínez,Right-Back,1986-04-09,28,Spain,Real Sociedad,LaLiga,2014/2015,2014
+Daniel Estrada,Right-Back,1987-01-03,27,Spain,Real Sociedad,LaLiga,2014/2015,2014
+Joseba Zaldua,Right-Back,1992-06-24,22,Spain,Real Sociedad,LaLiga,2014/2015,2014
+Markel Bergara,Defensive Midfield,1986-05-05,28,Spain,Real Sociedad,LaLiga,2014/2015,2014
+Gorka Elustondo,Defensive Midfield,1987-03-18,27,Spain,Real Sociedad,LaLiga,2014/2015,2014
+Jon Gaztañaga,Defensive Midfield,1991-06-28,23,Spain,Real Sociedad,LaLiga,2014/2015,2014
+Xabi Prieto,Central Midfield,1983-08-29,30,Spain,Real Sociedad,LaLiga,2014/2015,2014
+Rubén Pardo,Central Midfield,1992-10-22,21,Spain,Real Sociedad,LaLiga,2014/2015,2014
+Esteban Granero,Central Midfield,1987-07-02,26,Spain,Real Sociedad,LaLiga,2014/2015,2014
+David Zurutuza,Central Midfield,1986-07-19,27,Spain,Real Sociedad,LaLiga,2014/2015,2014
+Alejandro Sanz,Central Midfield,1993-06-05,21,Spain,Real Sociedad,LaLiga,2014/2015,2014
+Sergio Canales,Attacking Midfield,1991-02-16,23,Spain,Real Sociedad,LaLiga,2014/2015,2014
+Eneko Capilla,Attacking Midfield,1995-06-13,19,Spain,Real Sociedad,LaLiga,2014/2015,2014
+Chory Castro,Left Winger,1984-09-14,29,Uruguay,Real Sociedad,LaLiga,2014/2015,2014
+Alain Oyarzun,Left Winger,1993-09-27,20,Spain,Real Sociedad,LaLiga,2014/2015,2014
+Carlos Vela,Right Winger,1989-03-01,25,Mexico,Real Sociedad,LaLiga,2014/2015,2014
+Pablo Hervías,Right Winger,1993-03-08,21,Spain,Real Sociedad,LaLiga,2014/2015,2014
+Alfred Finnbogason,Centre-Forward,1989-02-01,25,Iceland,Real Sociedad,LaLiga,2014/2015,2014
+Imanol Agirretxe,Centre-Forward,1987-02-24,27,Spain,Real Sociedad,LaLiga,2014/2015,2014
+Iker Hernández,Centre-Forward,1994-04-08,20,Spain,Real Sociedad,LaLiga,2014/2015,2014
+Sergio Asenjo,Goalkeeper,1989-06-28,25,Spain,Villarreal CF,LaLiga,2014/2015,2014
+Juan Carlos,Goalkeeper,1987-07-27,26,Spain,Villarreal CF,LaLiga,2014/2015,2014
+Aitor Fernández,Goalkeeper,1991-05-03,23,Spain,Villarreal CF,LaLiga,2014/2015,2014
+Miguel Bañuz,Goalkeeper,1993-06-26,21,Spain,Villarreal CF,LaLiga,2014/2015,2014
+Mateo Musacchio,Centre-Back,1990-08-26,23,Argentina,Villarreal CF,LaLiga,2014/2015,2014
+Víctor Ruiz,Centre-Back,1989-01-25,25,Spain,Villarreal CF,LaLiga,2014/2015,2014
+Gabriel Paulista,Centre-Back,1990-11-26,23,Brazil,Villarreal CF,LaLiga,2014/2015,2014
+Chechu Dorado,Centre-Back,1982-07-10,31,Spain,Villarreal CF,LaLiga,2014/2015,2014
+Israel Puerto,Centre-Back,1993-06-15,21,Spain,Villarreal CF,LaLiga,2014/2015,2014
+Eric Bailly,Centre-Back,1994-04-12,20,Cote d'Ivoire,Villarreal CF,LaLiga,2014/2015,2014
+Jaume Costa,Left-Back,1988-03-18,26,Spain,Villarreal CF,LaLiga,2014/2015,2014
+Bojan Jokic,Left-Back,1986-05-17,28,Slovenia,Villarreal CF,LaLiga,2014/2015,2014
+Javier Jiménez,Left-Back,1996-01-11,18,Spain,Villarreal CF,LaLiga,2014/2015,2014
+Alfonso Pedraza,Left-Back,1996-04-09,18,Spain,Villarreal CF,LaLiga,2014/2015,2014
+Adrián Marín,Left-Back,1997-01-09,17,Spain,Villarreal CF,LaLiga,2014/2015,2014
+Antonio Rukavina,Right-Back,1984-01-26,30,Serbia,Villarreal CF,LaLiga,2014/2015,2014
+Mario Gaspar,Right-Back,1990-11-24,23,Spain,Villarreal CF,LaLiga,2014/2015,2014
+Felipe Alfonso,Right-Back,1993-04-14,21,Spain,Villarreal CF,LaLiga,2014/2015,2014
+Bruno Soriano,Defensive Midfield,1984-06-12,30,Spain,Villarreal CF,LaLiga,2014/2015,2014
+Anton Shvets,Defensive Midfield,1993-04-26,21,Russia,Villarreal CF,LaLiga,2014/2015,2014
+Aleix García,Defensive Midfield,1997-06-28,17,Spain,Villarreal CF,LaLiga,2014/2015,2014
+Tomás Pina,Central Midfield,1987-10-14,26,Spain,Villarreal CF,LaLiga,2014/2015,2014
+Manu Trigueros,Central Midfield,1991-10-17,22,Spain,Villarreal CF,LaLiga,2014/2015,2014
+Jonathan dos Santos,Central Midfield,1990-04-26,24,Mexico,Villarreal CF,LaLiga,2014/2015,2014
+Sergio Marcos,Central Midfield,1992-02-03,22,Spain,Villarreal CF,LaLiga,2014/2015,2014
+Cani,Attacking Midfield,1981-08-03,32,Spain,Villarreal CF,LaLiga,2014/2015,2014
+Moi Gómez,Attacking Midfield,1994-06-23,20,Spain,Villarreal CF,LaLiga,2014/2015,2014
+Javier Espinosa,Attacking Midfield,1992-09-19,21,Spain,Villarreal CF,LaLiga,2014/2015,2014
+Denis Cheryshev,Left Winger,1990-12-26,23,Russia,Villarreal CF,LaLiga,2014/2015,2014
+Matías Nahuel,Left Winger,1996-11-22,17,Spain,Villarreal CF,LaLiga,2014/2015,2014
+José Naranjo,Left Winger,1994-07-28,19,Spain,Villarreal CF,LaLiga,2014/2015,2014
+Joel Campbell,Right Winger,1992-06-26,22,Costa Rica,Villarreal CF,LaLiga,2014/2015,2014
+Giovani dos Santos,Second Striker,1989-05-11,25,Mexico,Villarreal CF,LaLiga,2014/2015,2014
+Luciano Vietto,Centre-Forward,1993-12-05,20,Argentina,Villarreal CF,LaLiga,2014/2015,2014
+Ikechukwu Uche,Centre-Forward,1984-01-05,30,Nigeria,Villarreal CF,LaLiga,2014/2015,2014
+Gerard Moreno,Centre-Forward,1992-04-07,22,Spain,Villarreal CF,LaLiga,2014/2015,2014
+Fran Sol,Centre-Forward,1992-03-13,22,Spain,Villarreal CF,LaLiga,2014/2015,2014
+Guillermo Ochoa,Goalkeeper,1985-07-13,28,Mexico,Málaga CF,LaLiga,2014/2015,2014
+Carlos Kameni,Goalkeeper,1984-02-18,30,Cameroon,Málaga CF,LaLiga,2014/2015,2014
+Agustín Cousillas,Goalkeeper,1990-04-19,24,Argentina,Málaga CF,LaLiga,2014/2015,2014
+Sergio Sánchez,Centre-Back,1986-04-03,28,Spain,Málaga CF,LaLiga,2014/2015,2014
+Egor Filipenko,Centre-Back,1988-04-10,26,Belarus,Málaga CF,LaLiga,2014/2015,2014
+Weligton,Centre-Back,1979-08-26,34,Brazil,Málaga CF,LaLiga,2014/2015,2014
+Flávio Ferreira,Centre-Back,1991-10-19,22,Portugal,Málaga CF,LaLiga,2014/2015,2014
+Marcos Angeleri,Centre-Back,1983-04-07,31,Argentina,Málaga CF,LaLiga,2014/2015,2014
+Roberto Chen,Centre-Back,1994-05-24,20,Panama,Málaga CF,LaLiga,2014/2015,2014
+Vitorino Antunes,Left-Back,1987-04-01,27,Portugal,Málaga CF,LaLiga,2014/2015,2014
+Arthur Boka,Left-Back,1983-04-02,31,Cote d'Ivoire,Málaga CF,LaLiga,2014/2015,2014
+José Manuel Casado,Left-Back,1986-08-09,27,Spain,Málaga CF,LaLiga,2014/2015,2014
+Roberto Rosales,Right-Back,1988-11-20,25,Venezuela,Málaga CF,LaLiga,2014/2015,2014
+Miguel Torres,Right-Back,1986-01-28,28,Spain,Málaga CF,LaLiga,2014/2015,2014
+Ignacio Camacho,Defensive Midfield,1990-05-04,24,Spain,Málaga CF,LaLiga,2014/2015,2014
+Fernando Tissone,Central Midfield,1986-07-24,27,Argentina,Málaga CF,LaLiga,2014/2015,2014
+Recio,Central Midfield,1991-01-11,23,Spain,Málaga CF,LaLiga,2014/2015,2014
+Sergi Darder,Central Midfield,1993-12-22,20,Spain,Málaga CF,LaLiga,2014/2015,2014
+Duda,Left Midfield,1980-06-27,34,Portugal,Málaga CF,LaLiga,2014/2015,2014
+Ricardo Horta,Left Midfield,1994-09-15,19,Portugal,Málaga CF,LaLiga,2014/2015,2014
+Luis Alberto,Attacking Midfield,1992-09-28,21,Spain,Málaga CF,LaLiga,2014/2015,2014
+Francisco Portillo,Attacking Midfield,1990-06-13,24,Spain,Málaga CF,LaLiga,2014/2015,2014
+Nordin Amrabat,Left Winger,1987-03-31,27,Morocco,Málaga CF,LaLiga,2014/2015,2014
+Juanmi,Right Winger,1993-05-20,21,Spain,Málaga CF,LaLiga,2014/2015,2014
+Samu García,Right Winger,1990-07-13,23,Spain,Málaga CF,LaLiga,2014/2015,2014
+Juanpi Añor,Right Winger,1994-01-24,20,Venezuela,Málaga CF,LaLiga,2014/2015,2014
+Samu Castillejo,Right Winger,1995-01-18,19,Spain,Málaga CF,LaLiga,2014/2015,2014
+Javi Guerra,Centre-Forward,1982-03-15,32,Spain,Málaga CF,LaLiga,2014/2015,2014
+Roque Santa Cruz,Centre-Forward,1981-08-16,32,Paraguay,Málaga CF,LaLiga,2014/2015,2014
+Ezequiel Rescaldani,Centre-Forward,1992-06-11,22,Argentina,Málaga CF,LaLiga,2014/2015,2014
+Oier Olazábal,Goalkeeper,1989-09-14,24,Spain,Granada CF,LaLiga,2014/2015,2014
+Roberto Fernández,Goalkeeper,1979-01-25,35,Spain,Granada CF,LaLiga,2014/2015,2014
+Stole Dimitrievski,Goalkeeper,1993-12-25,20,North Macedonia,Granada CF,LaLiga,2014/2015,2014
+Dany Nounkeu,Centre-Back,1986-04-11,28,Cameroon,Granada CF,LaLiga,2014/2015,2014
+Jeison Murillo,Centre-Back,1992-05-27,22,Colombia,Granada CF,LaLiga,2014/2015,2014
+Diego Maínz,Centre-Back,1982-12-29,31,Spain,Granada CF,LaLiga,2014/2015,2014
+Jean-Sylvain Babin,Centre-Back,1986-10-14,27,Martinique,Granada CF,LaLiga,2014/2015,2014
+Juan Cala,Centre-Back,1989-11-26,24,Spain,Granada CF,LaLiga,2014/2015,2014
+Héctor Yuste,Centre-Back,1988-01-12,26,Spain,Granada CF,LaLiga,2014/2015,2014
+Marcelo Djaló,Centre-Back,1993-10-08,20,Guinea-Bissau,Granada CF,LaLiga,2014/2015,2014
+Fran Morante,Centre-Back,1992-06-28,22,Spain,Granada CF,LaLiga,2014/2015,2014
+Juankar,Left-Back,1990-03-30,24,Spain,Granada CF,LaLiga,2014/2015,2014
+Luís Martins,Left-Back,1992-06-10,22,Portugal,Granada CF,LaLiga,2014/2015,2014
+Emanuel Insúa,Left-Back,1991-04-10,23,Argentina,Granada CF,LaLiga,2014/2015,2014
+Allan Nyom,Right-Back,1988-05-10,26,Cameroon,Granada CF,LaLiga,2014/2015,2014
+Dimitri Foulquier,Right-Back,1993-03-23,21,Guadeloupe,Granada CF,LaLiga,2014/2015,2014
+Manuel Iturra,Defensive Midfield,1984-06-23,30,Chile,Granada CF,LaLiga,2014/2015,2014
+Rubén Pérez,Defensive Midfield,1989-04-26,25,Spain,Granada CF,LaLiga,2014/2015,2014
+Abdoul Sissoko,Defensive Midfield,1990-03-20,24,Mali,Granada CF,LaLiga,2014/2015,2014
+Uche Agbo,Defensive Midfield,1995-12-04,18,Nigeria,Granada CF,LaLiga,2014/2015,2014
+Sulayman Marreh,Defensive Midfield,1996-01-15,18,The Gambia,Granada CF,LaLiga,2014/2015,2014
+Javi Márquez,Central Midfield,1986-05-11,28,Spain,Granada CF,LaLiga,2014/2015,2014
+Fran Rico,Central Midfield,1987-08-03,26,Spain,Granada CF,LaLiga,2014/2015,2014
+Eddy Silvestre,Central Midfield,1992-08-02,21,Azerbaijan,Granada CF,LaLiga,2014/2015,2014
+Piti,Attacking Midfield,1981-05-26,33,Spain,Granada CF,LaLiga,2014/2015,2014
+Rubén Rochina,Attacking Midfield,1991-03-23,23,Spain,Granada CF,LaLiga,2014/2015,2014
+Clifford Aboagye,Attacking Midfield,1995-02-11,19,Ghana,Granada CF,LaLiga,2014/2015,2014
+Daniel Larsson,Left Winger,1987-01-25,27,Sweden,Granada CF,LaLiga,2014/2015,2014
+Darwin Machís,Left Winger,1993-02-07,21,Venezuela,Granada CF,LaLiga,2014/2015,2014
+Isaac Success,Left Winger,1996-01-07,18,Nigeria,Granada CF,LaLiga,2014/2015,2014
+Daniel Candeias,Right Winger,1988-02-25,26,Portugal,Granada CF,LaLiga,2014/2015,2014
+Lass Bangoura,Right Winger,1992-03-30,22,Guinea,Granada CF,LaLiga,2014/2015,2014
+Nico Hidalgo,Right Winger,1992-04-30,22,Spain,Granada CF,LaLiga,2014/2015,2014
+Robert Ibáñez,Right Winger,1993-03-22,21,Spain,Granada CF,LaLiga,2014/2015,2014
+Youssef El Arabi,Centre-Forward,1987-02-03,27,Morocco,Granada CF,LaLiga,2014/2015,2014
+Adrián Colunga,Centre-Forward,1984-11-17,29,Spain,Granada CF,LaLiga,2014/2015,2014
+Riki,Centre-Forward,1980-08-11,33,Spain,Granada CF,LaLiga,2014/2015,2014
+Jhon Córdoba,Centre-Forward,1993-05-11,21,Colombia,Granada CF,LaLiga,2014/2015,2014
+Alfredo Ortuño,Centre-Forward,1991-01-21,23,Spain,Granada CF,LaLiga,2014/2015,2014
+Kiko Casilla,Goalkeeper,1986-10-02,27,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
+Andrés Prieto,Goalkeeper,1993-10-17,20,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
+Pau López,Goalkeeper,1994-12-13,19,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
+Héctor Moreno,Centre-Back,1988-01-17,26,Mexico,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
+Álvaro González,Centre-Back,1990-01-08,24,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
+Diego Colotto,Centre-Back,1981-03-10,33,Argentina,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
+Raúl Rodríguez,Centre-Back,1987-09-22,26,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
+David López,Centre-Back,1989-10-09,24,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
+Anaitz Arbilla,Centre-Back,1987-05-15,27,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
+Eric Bailly,Centre-Back,1994-04-12,20,Cote d'Ivoire,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
+Juan Rafael Fuentes,Left-Back,1990-01-05,24,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
+Víctor Álvarez,Left-Back,1993-03-14,21,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
+Rubén Duarte,Left-Back,1995-10-18,18,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
+Carlos Clerc,Left-Back,1992-02-21,22,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
+Javi López,Right-Back,1986-01-21,28,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
+Felipe Mattioni,Right-Back,1988-10-15,25,Brazil,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
+Roberto Correa,Right-Back,1992-09-20,21,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
+José Alberto Cañas,Defensive Midfield,1987-05-27,27,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
+Víctor Sánchez,Central Midfield,1987-09-08,26,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
+Álex Fernández,Central Midfield,1992-10-15,21,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
+Salva Sevilla,Central Midfield,1984-03-18,30,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
+Abraham González,Central Midfield,1985-07-16,28,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
+Joan Jordán,Central Midfield,1994-07-06,19,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
+Julián Luque,Attacking Midfield,1992-03-27,22,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
+Paco Montañés,Left Winger,1986-10-08,27,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
+Manuel Lanzarote,Right Winger,1984-01-20,30,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
+Lucas Vázquez,Right Winger,1991-07-01,23,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
+Felipe Caicedo,Centre-Forward,1988-09-05,25,Ecuador,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
+Sergio García,Centre-Forward,1983-06-09,31,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
+Cristhian Stuani,Centre-Forward,1986-10-12,27,Uruguay,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
+Jairo Morillas,Centre-Forward,1993-07-02,20,Spain,RCD Espanyol Barcelona,LaLiga,2014/2015,2014
+Toño,Goalkeeper,1979-12-17,34,Spain,Rayo Vallecano,LaLiga,2014/2015,2014
+Cristian Álvarez,Goalkeeper,1985-11-13,28,Argentina,Rayo Vallecano,LaLiga,2014/2015,2014
+David Cobeño,Goalkeeper,1982-04-06,32,Spain,Rayo Vallecano,LaLiga,2014/2015,2014
+Álex Campos,Goalkeeper,1991-06-28,23,Spain,Rayo Vallecano,LaLiga,2014/2015,2014
+Abdoulaye Ba,Centre-Back,1991-01-01,23,Senegal,Rayo Vallecano,LaLiga,2014/2015,2014
+Antonio Amaya,Centre-Back,1983-05-31,31,Spain,Rayo Vallecano,LaLiga,2014/2015,2014
+Zé Castro,Centre-Back,1983-01-13,31,Portugal,Rayo Vallecano,LaLiga,2014/2015,2014
+Jorge Morcillo,Centre-Back,1986-03-11,28,Spain,Rayo Vallecano,LaLiga,2014/2015,2014
+Emiliano Insúa,Left-Back,1989-01-07,25,Argentina,Rayo Vallecano,LaLiga,2014/2015,2014
+Nacho Martínez,Left-Back,1989-03-07,25,Spain,Rayo Vallecano,LaLiga,2014/2015,2014
+Àlex Moreno,Left-Back,1993-06-08,21,Spain,Rayo Vallecano,LaLiga,2014/2015,2014
+Tito,Right-Back,1985-07-11,28,Spain,Rayo Vallecano,LaLiga,2014/2015,2014
+Quini,Right-Back,1989-09-24,24,Spain,Rayo Vallecano,LaLiga,2014/2015,2014
+Raúl Baena,Defensive Midfield,1989-03-02,25,Spain,Rayo Vallecano,LaLiga,2014/2015,2014
+Mohammed Fatau,Defensive Midfield,1992-12-24,21,Ghana,Rayo Vallecano,LaLiga,2014/2015,2014
+Roberto Trashorras,Central Midfield,1981-02-28,33,Spain,Rayo Vallecano,LaLiga,2014/2015,2014
+Jozabed Sánchez,Central Midfield,1991-03-08,23,Spain,Rayo Vallecano,LaLiga,2014/2015,2014
+Pablo Clavería,Central Midfield,1996-04-01,18,Spain,Rayo Vallecano,LaLiga,2014/2015,2014
+Alejandro Pozuelo,Attacking Midfield,1991-09-20,22,Spain,Rayo Vallecano,LaLiga,2014/2015,2014
+Gaël Kakuta,Left Winger,1991-06-21,23,DR Congo,Rayo Vallecano,LaLiga,2014/2015,2014
+Javier Aquino,Left Winger,1990-02-11,24,Mexico,Rayo Vallecano,LaLiga,2014/2015,2014
+Leo Baptistão,Right Winger,1992-08-26,21,Brazil,Rayo Vallecano,LaLiga,2014/2015,2014
+Lass Bangoura,Right Winger,1992-03-30,22,Guinea,Rayo Vallecano,LaLiga,2014/2015,2014
+Adrián Embarba,Right Winger,1992-05-07,22,Spain,Rayo Vallecano,LaLiga,2014/2015,2014
+Licá,Second Striker,1988-09-08,25,Portugal,Rayo Vallecano,LaLiga,2014/2015,2014
+Alberto Bueno,Second Striker,1988-03-20,26,Spain,Rayo Vallecano,LaLiga,2014/2015,2014
+Miku Fedor,Centre-Forward,1985-08-19,28,Venezuela,Rayo Vallecano,LaLiga,2014/2015,2014
+Jonathan Pereira,Centre-Forward,1987-05-12,27,Spain,Rayo Vallecano,LaLiga,2014/2015,2014
+Manucho,Centre-Forward,1983-03-07,31,Angola,Rayo Vallecano,LaLiga,2014/2015,2014
+Germán Lux,Goalkeeper,1982-07-06,31,Argentina,Deportivo de La Coruña,LaLiga,2014/2015,2014
+Fabri,Goalkeeper,1987-12-31,26,Spain,Deportivo de La Coruña,LaLiga,2014/2015,2014
+David Gómez,Goalkeeper,1994-04-11,20,Spain,Deportivo de La Coruña,LaLiga,2014/2015,2014
+Modibo Diakité,Centre-Back,1987-03-02,27,France,Deportivo de La Coruña,LaLiga,2014/2015,2014
+Pablo Insua,Centre-Back,1993-09-09,20,Spain,Deportivo de La Coruña,LaLiga,2014/2015,2014
+Sidnei,Centre-Back,1989-08-23,24,Brazil,Deportivo de La Coruña,LaLiga,2014/2015,2014
+Borja López,Centre-Back,1994-02-02,20,Spain,Deportivo de La Coruña,LaLiga,2014/2015,2014
+Alberto Lopo,Centre-Back,1980-05-05,34,Spain,Deportivo de La Coruña,LaLiga,2014/2015,2014
+Iago López,Centre-Back,1992-09-03,21,Spain,Deportivo de La Coruña,LaLiga,2014/2015,2014
+Roberto Canella,Left-Back,1988-02-07,26,Spain,Deportivo de La Coruña,LaLiga,2014/2015,2014
+Luisinho,Left-Back,1985-05-05,29,Portugal,Deportivo de La Coruña,LaLiga,2014/2015,2014
+Juanfran,Right-Back,1988-09-11,25,Spain,Deportivo de La Coruña,LaLiga,2014/2015,2014
+Laure,Right-Back,1985-03-22,29,Spain,Deportivo de La Coruña,LaLiga,2014/2015,2014
+Diego Seoane,Right-Back,1988-04-26,26,Spain,Deportivo de La Coruña,LaLiga,2014/2015,2014
+Manuel Pablo,Right-Back,1976-01-25,38,Spain,Deportivo de La Coruña,LaLiga,2014/2015,2014
+Juan Domínguez,Defensive Midfield,1990-01-08,24,Spain,Deportivo de La Coruña,LaLiga,2014/2015,2014
+Álex Bergantiños,Defensive Midfield,1985-06-07,29,Spain,Deportivo de La Coruña,LaLiga,2014/2015,2014
+Cezary Wilk,Defensive Midfield,1986-02-12,28,Poland,Deportivo de La Coruña,LaLiga,2014/2015,2014
+Haris Medunjanin,Central Midfield,1985-03-08,29,Bosnia-Herzegovina,Deportivo de La Coruña,LaLiga,2014/2015,2014
+José Rodríguez,Central Midfield,1994-12-16,19,Spain,Deportivo de La Coruña,LaLiga,2014/2015,2014
+Celso Borges,Central Midfield,1988-05-27,26,Costa Rica,Deportivo de La Coruña,LaLiga,2014/2015,2014
+Isaac Cuenca,Right Midfield,1991-04-27,23,Spain,Deportivo de La Coruña,LaLiga,2014/2015,2014
+Luis Fariña,Attacking Midfield,1991-04-20,23,Argentina,Deportivo de La Coruña,LaLiga,2014/2015,2014
+Juan Carlos,Attacking Midfield,1991-03-15,23,Spain,Deportivo de La Coruña,LaLiga,2014/2015,2014
+Diogo Salomão,Left Winger,1988-09-14,25,Portugal,Deportivo de La Coruña,LaLiga,2014/2015,2014
+Marcos Remeseiro,Left Winger,1992-07-21,21,Spain,Deportivo de La Coruña,LaLiga,2014/2015,2014
+Ivan Cavaleiro,Right Winger,1993-10-18,20,Portugal,Deportivo de La Coruña,LaLiga,2014/2015,2014
+Hélder Costa,Right Winger,1994-01-12,20,Portugal,Deportivo de La Coruña,LaLiga,2014/2015,2014
+Lucas Pérez,Centre-Forward,1988-09-10,25,Spain,Deportivo de La Coruña,LaLiga,2014/2015,2014
+Hélder Postiga,Centre-Forward,1982-08-02,31,Portugal,Deportivo de La Coruña,LaLiga,2014/2015,2014
+Oriol Riera,Centre-Forward,1986-07-03,27,Spain,Deportivo de La Coruña,LaLiga,2014/2015,2014
+Toché,Centre-Forward,1983-01-01,31,Spain,Deportivo de La Coruña,LaLiga,2014/2015,2014
+Dani Iglesias,Centre-Forward,1995-07-17,18,Spain,Deportivo de La Coruña,LaLiga,2014/2015,2014
+Vicente Guaita,Goalkeeper,1987-01-10,27,Spain,Getafe CF,LaLiga,2014/2015,2014
+Jordi Codina,Goalkeeper,1982-04-27,32,Spain,Getafe CF,LaLiga,2014/2015,2014
+Jonathan López,Goalkeeper,1981-04-16,33,Spain,Getafe CF,LaLiga,2014/2015,2014
+Rafa López,Centre-Back,1985-04-09,29,Spain,Getafe CF,LaLiga,2014/2015,2014
+Emiliano Velázquez,Centre-Back,1994-04-30,20,Uruguay,Getafe CF,LaLiga,2014/2015,2014
+Alexis,Centre-Back,1985-08-04,28,Spain,Getafe CF,LaLiga,2014/2015,2014
+Naldo,Centre-Back,1988-08-25,25,Brazil,Getafe CF,LaLiga,2014/2015,2014
+Álex Pérez,Centre-Back,1991-08-11,22,Spain,Getafe CF,LaLiga,2014/2015,2014
+Pablo Villalón,Centre-Back,1996-02-02,18,Spain,Getafe CF,LaLiga,2014/2015,2014
+Roberto Lago,Left-Back,1985-08-30,28,Spain,Getafe CF,LaLiga,2014/2015,2014
+Sergio Escudero,Left-Back,1989-09-02,24,Spain,Getafe CF,LaLiga,2014/2015,2014
+Juan Valera,Right-Back,1984-12-21,29,Spain,Getafe CF,LaLiga,2014/2015,2014
+Álvaro Arroyo,Right-Back,1988-07-22,25,Spain,Getafe CF,LaLiga,2014/2015,2014
+Edu Payá,Right-Back,1992-09-21,21,Spain,Getafe CF,LaLiga,2014/2015,2014
+Carlos Vigaray,Right-Back,1994-09-07,19,Spain,Getafe CF,LaLiga,2014/2015,2014
+Mehdi Lacen,Defensive Midfield,1984-05-15,30,Algeria,Getafe CF,LaLiga,2014/2015,2014
+Juan Rodríguez,Defensive Midfield,1982-04-01,32,Spain,Getafe CF,LaLiga,2014/2015,2014
+Míchel,Central Midfield,1985-11-08,28,Spain,Getafe CF,LaLiga,2014/2015,2014
+Philtzgerald Mbaka,Central Midfield,1993-01-24,21,France,Getafe CF,LaLiga,2014/2015,2014
+Pedro Astray,Central Midfield,1992-03-18,22,Spain,Getafe CF,LaLiga,2014/2015,2014
+Alex Felip,Central Midfield,1992-04-03,22,Spain,Getafe CF,LaLiga,2014/2015,2014
+Míchel,Attacking Midfield,1988-07-29,25,Spain,Getafe CF,LaLiga,2014/2015,2014
+Sammir,Attacking Midfield,1987-04-23,27,Croatia,Getafe CF,LaLiga,2014/2015,2014
+Pablo Sarabia,Attacking Midfield,1992-05-11,22,Spain,Getafe CF,LaLiga,2014/2015,2014
+Diego Castro,Left Winger,1982-07-02,31,Spain,Getafe CF,LaLiga,2014/2015,2014
+Ángel Lafita,Left Winger,1984-08-07,29,Spain,Getafe CF,LaLiga,2014/2015,2014
+Karim Yoda,Left Winger,1988-10-25,25,France,Getafe CF,LaLiga,2014/2015,2014
+Fredy Hinestroza,Left Winger,1990-04-05,24,Colombia,Getafe CF,LaLiga,2014/2015,2014
+Pere Milla,Left Winger,1992-09-23,21,Spain,Getafe CF,LaLiga,2014/2015,2014
+Pedro León,Right Winger,1986-11-24,27,Spain,Getafe CF,LaLiga,2014/2015,2014
+Ivi,Right Winger,1994-06-29,20,Spain,Getafe CF,LaLiga,2014/2015,2014
+Emiliano Buendía,Right Winger,1996-12-25,17,Argentina,Getafe CF,LaLiga,2014/2015,2014
+Álvaro Vázquez,Centre-Forward,1991-04-27,23,Spain,Getafe CF,LaLiga,2014/2015,2014
+Baba Diawara,Centre-Forward,1988-01-05,26,Senegal,Getafe CF,LaLiga,2014/2015,2014
+Diego Mariño,Goalkeeper,1990-05-09,24,Spain,Levante UD,LaLiga,2014/2015,2014
+Jesús Fernández,Goalkeeper,1988-06-11,26,Spain,Levante UD,LaLiga,2014/2015,2014
+Iván Ramis,Centre-Back,1984-10-25,29,Spain,Levante UD,LaLiga,2014/2015,2014
+Simão,Centre-Back,1988-06-23,26,Mozambique,Levante UD,LaLiga,2014/2015,2014
+Loukas Vyntra,Centre-Back,1981-02-05,33,Greece,Levante UD,LaLiga,2014/2015,2014
+Héctor Rodas,Centre-Back,1988-03-07,26,Spain,Levante UD,LaLiga,2014/2015,2014
+David Navarro,Centre-Back,1980-05-25,34,Spain,Levante UD,LaLiga,2014/2015,2014
+Jordi López,Centre-Back,1992-03-27,22,Spain,Levante UD,LaLiga,2014/2015,2014
+Nikolaos Karabelas,Left-Back,1984-12-20,29,Greece,Levante UD,LaLiga,2014/2015,2014
+Toño,Left-Back,1989-11-07,24,Spain,Levante UD,LaLiga,2014/2015,2014
+Juanfran,Left-Back,1976-07-15,37,Spain,Levante UD,LaLiga,2014/2015,2014
+Pedro López,Right-Back,1983-11-01,30,Spain,Levante UD,LaLiga,2014/2015,2014
+Iván López,Right-Back,1993-08-23,20,Spain,Levante UD,LaLiga,2014/2015,2014
+Pape Diop,Defensive Midfield,1986-03-19,28,Senegal,Levante UD,LaLiga,2014/2015,2014
+Mohamed Sissoko,Defensive Midfield,1985-01-22,29,Mali,Levante UD,LaLiga,2014/2015,2014
+Issam El Adoua,Defensive Midfield,1986-12-09,27,Morocco,Levante UD,LaLiga,2014/2015,2014
+José Mari,Defensive Midfield,1987-12-06,26,Spain,Levante UD,LaLiga,2014/2015,2014
+Víctor Pérez,Central Midfield,1988-01-12,26,Spain,Levante UD,LaLiga,2014/2015,2014
+Víctor Camarasa,Central Midfield,1994-05-28,20,Spain,Levante UD,LaLiga,2014/2015,2014
+Rubén García,Attacking Midfield,1993-07-14,20,Spain,Levante UD,LaLiga,2014/2015,2014
+Andreas Ivanschitz,Attacking Midfield,1983-10-15,30,Austria,Levante UD,LaLiga,2014/2015,2014
+Jaime Gavilán,Left Winger,1985-05-12,29,Spain,Levante UD,LaLiga,2014/2015,2014
+Jordi Xumetra,Right Winger,1985-10-24,28,Spain,Levante UD,LaLiga,2014/2015,2014
+Nabil El Zhar,Right Winger,1986-08-27,27,Morocco,Levante UD,LaLiga,2014/2015,2014
+Jason,Right Winger,1994-07-06,19,Spain,Levante UD,LaLiga,2014/2015,2014
+Kalu Uche,Centre-Forward,1982-11-15,31,Nigeria,Levante UD,LaLiga,2014/2015,2014
+Víctor Casadesús,Centre-Forward,1985-02-28,29,Spain,Levante UD,LaLiga,2014/2015,2014
+David Barral,Centre-Forward,1983-05-10,31,Spain,Levante UD,LaLiga,2014/2015,2014
+Rafael Martins,Centre-Forward,1989-03-17,25,Brazil,Levante UD,LaLiga,2014/2015,2014
+José Luis Morales,Centre-Forward,1987-07-23,26,Spain,Levante UD,LaLiga,2014/2015,2014
+Juan Delgado,Centre-Forward,1994-01-03,20,Spain,Levante UD,LaLiga,2014/2015,2014
+Mikel Saizar,Goalkeeper,1983-01-18,31,Spain,Córdoba CF,LaLiga,2014/2015,2014
+Juan Carlos,Goalkeeper,1988-01-20,26,Spain,Córdoba CF,LaLiga,2014/2015,2014
+Deivid,Centre-Back,1989-01-27,25,Spain,Córdoba CF,LaLiga,2014/2015,2014
+Iñigo López,Centre-Back,1982-07-23,31,Spain,Córdoba CF,LaLiga,2014/2015,2014
+Aleksandar Pantic,Centre-Back,1992-04-11,22,Serbia,Córdoba CF,LaLiga,2014/2015,2014
+Luso,Centre-Back,1984-12-04,29,Spain,Córdoba CF,LaLiga,2014/2015,2014
+Iago Bouzón,Centre-Back,1983-06-16,31,Spain,Córdoba CF,LaLiga,2014/2015,2014
+José Crespo,Centre-Back,1987-02-09,27,Spain,Córdoba CF,LaLiga,2014/2015,2014
+Jonathan Bijimine,Centre-Back,1994-07-09,19,DR Congo,Córdoba CF,LaLiga,2014/2015,2014
+Fran Serrano,Centre-Back,1995-04-20,19,Spain,Córdoba CF,LaLiga,2014/2015,2014
+Edimar,Left-Back,1986-05-21,28,Brazil,Córdoba CF,LaLiga,2014/2015,2014
+Dani Pinillos,Left-Back,1992-10-22,21,Spain,Córdoba CF,LaLiga,2014/2015,2014
+Adrián Gunino,Right-Back,1989-02-03,25,Uruguay,Córdoba CF,LaLiga,2014/2015,2014
+Edu Campabadal,Right-Back,1993-01-26,21,Spain,Córdoba CF,LaLiga,2014/2015,2014
+Bruno Zuculini,Defensive Midfield,1993-04-02,21,Argentina,Córdoba CF,LaLiga,2014/2015,2014
+Rene Krhin,Defensive Midfield,1990-05-21,24,Slovenia,Córdoba CF,LaLiga,2014/2015,2014
+Fausto Rossi,Central Midfield,1990-12-03,23,Italy,Córdoba CF,LaLiga,2014/2015,2014
+Carlos Caballero,Central Midfield,1984-10-05,29,Spain,Córdoba CF,LaLiga,2014/2015,2014
+Abel Gómez,Central Midfield,1982-02-20,32,Spain,Córdoba CF,LaLiga,2014/2015,2014
+Patrick Ekeng,Central Midfield,1990-03-26,24,Cameroon,Córdoba CF,LaLiga,2014/2015,2014
+Aritz López Garai,Central Midfield,1980-11-06,33,Spain,Córdoba CF,LaLiga,2014/2015,2014
+José Carlos,Attacking Midfield,1987-07-17,26,Spain,Córdoba CF,LaLiga,2014/2015,2014
+Borja García,Attacking Midfield,1990-11-02,23,Spain,Córdoba CF,LaLiga,2014/2015,2014
+Fede Vico,Attacking Midfield,1994-07-04,19,Spain,Córdoba CF,LaLiga,2014/2015,2014
+Héldon,Left Winger,1988-11-14,25,Cape Verde,Córdoba CF,LaLiga,2014/2015,2014
+Fidel,Left Winger,1989-10-27,24,Spain,Córdoba CF,LaLiga,2014/2015,2014
+Bebé,Left Winger,1990-07-12,23,Portugal,Córdoba CF,LaLiga,2014/2015,2014
+José María López Silva,Left Winger,1983-01-02,31,Spain,Córdoba CF,LaLiga,2014/2015,2014
+José Fran,Left Winger,1992-06-01,22,Spain,Córdoba CF,LaLiga,2014/2015,2014
+Federico Cartabia,Right Winger,1993-01-20,21,Argentina,Córdoba CF,LaLiga,2014/2015,2014
+Ryder Matos,Second Striker,1993-02-27,21,Brazil,Córdoba CF,LaLiga,2014/2015,2014
+Nabil Ghilas,Centre-Forward,1990-04-20,24,Algeria,Córdoba CF,LaLiga,2014/2015,2014
+Mike Havenaar,Centre-Forward,1987-05-20,27,Japan,Córdoba CF,LaLiga,2014/2015,2014
+Xisco,Centre-Forward,1986-06-26,28,Spain,Córdoba CF,LaLiga,2014/2015,2014
+Florin Andone,Centre-Forward,1993-04-11,21,Romania,Córdoba CF,LaLiga,2014/2015,2014
+Sergio García,Centre-Forward,1996-12-27,17,Spain,Córdoba CF,LaLiga,2014/2015,2014
+Sergio Álvarez,Goalkeeper,1986-08-03,27,Spain,Celta de Vigo,LaLiga,2014/2015,2014
+Rubén Blanco,Goalkeeper,1995-07-25,18,Spain,Celta de Vigo,LaLiga,2014/2015,2014
+Andreu Fontàs,Centre-Back,1989-11-14,24,Spain,Celta de Vigo,LaLiga,2014/2015,2014
+David Costas,Centre-Back,1995-03-26,19,Spain,Celta de Vigo,LaLiga,2014/2015,2014
+Gustavo Cabral,Centre-Back,1985-10-14,28,Argentina,Celta de Vigo,LaLiga,2014/2015,2014
+Sergi Gómez,Centre-Back,1992-03-28,22,Spain,Celta de Vigo,LaLiga,2014/2015,2014
+Diego Alende,Centre-Back,1997-08-25,16,Spain,Celta de Vigo,LaLiga,2014/2015,2014
+Carles Planas,Left-Back,1991-03-04,23,Spain,Celta de Vigo,LaLiga,2014/2015,2014
+Jonny Otto,Left-Back,1994-03-03,20,Spain,Celta de Vigo,LaLiga,2014/2015,2014
+Samu Araújo,Left-Back,1995-12-09,18,Spain,Celta de Vigo,LaLiga,2014/2015,2014
+Hugo Mallo,Right-Back,1991-06-22,23,Spain,Celta de Vigo,LaLiga,2014/2015,2014
+Kevin Vázquez,Right-Back,1993-03-23,21,Spain,Celta de Vigo,LaLiga,2014/2015,2014
+Borja Oubiña,Defensive Midfield,1982-05-17,32,Spain,Celta de Vigo,LaLiga,2014/2015,2014
+Nemanja Radoja,Defensive Midfield,1993-02-06,21,Serbia,Celta de Vigo,LaLiga,2014/2015,2014
+Augusto Fernández,Central Midfield,1986-04-10,28,Argentina,Celta de Vigo,LaLiga,2014/2015,2014
+Álex López,Central Midfield,1988-01-11,26,Spain,Celta de Vigo,LaLiga,2014/2015,2014
+Michael Krohn-Dehli,Central Midfield,1983-06-06,31,Denmark,Celta de Vigo,LaLiga,2014/2015,2014
+Pablo Hernández,Central Midfield,1986-10-24,27,Chile,Celta de Vigo,LaLiga,2014/2015,2014
+Borja Fernández,Central Midfield,1995-08-16,18,Spain,Celta de Vigo,LaLiga,2014/2015,2014
+Pape Cheikh,Central Midfield,1997-08-08,16,Spain,Celta de Vigo,LaLiga,2014/2015,2014
+Levy Madinda,Attacking Midfield,1992-06-22,22,Gabon,Celta de Vigo,LaLiga,2014/2015,2014
+Nolito,Left Winger,1986-10-15,27,Spain,Celta de Vigo,LaLiga,2014/2015,2014
+Theo Bongonda,Left Winger,1995-11-20,18,Belgium,Celta de Vigo,LaLiga,2014/2015,2014
+Fabián Orellana,Right Winger,1986-01-27,28,Chile,Celta de Vigo,LaLiga,2014/2015,2014
+Charles,Centre-Forward,1984-04-04,30,Brazil,Celta de Vigo,LaLiga,2014/2015,2014
+Santi Mina,Centre-Forward,1995-12-07,18,Spain,Celta de Vigo,LaLiga,2014/2015,2014
+Joaquín Larrivey,Centre-Forward,1984-08-20,29,Argentina,Celta de Vigo,LaLiga,2014/2015,2014
+Borja Iglesias,Centre-Forward,1993-01-17,21,Spain,Celta de Vigo,LaLiga,2014/2015,2014
+Przemyslaw Tyton,Goalkeeper,1987-01-04,27,Poland,Elche CF,LaLiga,2014/2015,2014
+Manu Herrera,Goalkeeper,1981-09-19,32,Spain,Elche CF,LaLiga,2014/2015,2014
+Pol Freixanet,Goalkeeper,1991-08-22,22,Spain,Elche CF,LaLiga,2014/2015,2014
+José Carlos Álvarez,Goalkeeper,1992-12-31,21,Spain,Elche CF,LaLiga,2014/2015,2014
+David Lombán,Centre-Back,1987-06-05,27,Spain,Elche CF,LaLiga,2014/2015,2014
+Enzo Roco,Centre-Back,1992-08-16,21,Chile,Elche CF,LaLiga,2014/2015,2014
+Sergio Pelegrín,Centre-Back,1979-08-14,34,Spain,Elche CF,LaLiga,2014/2015,2014
+José Ángel,Centre-Back,1989-03-02,25,Spain,Elche CF,LaLiga,2014/2015,2014
+Nacho Porcar,Centre-Back,1992-07-10,21,Spain,Elche CF,LaLiga,2014/2015,2014
+Jose Antonio Peral,Centre-Back,1992-03-06,22,Spain,Elche CF,LaLiga,2014/2015,2014
+Domingo Cisma,Left-Back,1982-02-09,32,Spain,Elche CF,LaLiga,2014/2015,2014
+Edu Albacar,Left-Back,1979-11-16,34,Spain,Elche CF,LaLiga,2014/2015,2014
+Damián Suárez,Right-Back,1988-04-27,26,Uruguay,Elche CF,LaLiga,2014/2015,2014
+Mario Pasalic,Central Midfield,1995-02-09,19,Croatia,Elche CF,LaLiga,2014/2015,2014
+Pedro Mosquera,Central Midfield,1988-04-21,26,Spain,Elche CF,LaLiga,2014/2015,2014
+Adrián González,Central Midfield,1988-05-25,26,Spain,Elche CF,LaLiga,2014/2015,2014
+Mario Arqués,Central Midfield,1992-01-19,22,Spain,Elche CF,LaLiga,2014/2015,2014
+Rafa Gálvez,Central Midfield,1993-05-20,21,Spain,Elche CF,LaLiga,2014/2015,2014
+Fayçal Fajr,Attacking Midfield,1988-08-01,25,Morocco,Elche CF,LaLiga,2014/2015,2014
+Víctor Rodríguez,Left Winger,1989-07-23,24,Spain,Elche CF,LaLiga,2014/2015,2014
+Garry Rodrigues,Left Winger,1990-11-27,23,Cape Verde,Elche CF,LaLiga,2014/2015,2014
+Franco Fragapane,Left Winger,1993-06-02,21,Argentina,Elche CF,LaLiga,2014/2015,2014
+Aarón Ñíguez,Right Winger,1989-04-26,25,Spain,Elche CF,LaLiga,2014/2015,2014
+Samuel Martínez,Second Striker,1994-04-15,20,Spain,Elche CF,LaLiga,2014/2015,2014
+Coro,Centre-Forward,1983-01-05,31,Spain,Elche CF,LaLiga,2014/2015,2014
+Jonathas,Centre-Forward,1989-03-06,25,Brazil,Elche CF,LaLiga,2014/2015,2014
+Cristian Herrera,Centre-Forward,1991-03-13,23,Spain,Elche CF,LaLiga,2014/2015,2014
+Álvaro Giménez,Centre-Forward,1991-05-19,23,Spain,Elche CF,LaLiga,2014/2015,2014
+Moha Traoré,Centre-Forward,1994-11-29,19,Spain,Elche CF,LaLiga,2014/2015,2014
+Rubén Martínez,Goalkeeper,1984-06-22,30,Spain,UD Almería,LaLiga,2014/2015,2014
+Julián Cuesta,Goalkeeper,1991-03-28,23,Spain,UD Almería,LaLiga,2014/2015,2014
+Yeray Gómez,Goalkeeper,1992-06-10,22,Spain,UD Almería,LaLiga,2014/2015,2014
+Ángel Trujillo,Centre-Back,1987-09-08,26,Spain,UD Almería,LaLiga,2014/2015,2014
+Ximo Navarro,Centre-Back,1990-01-23,24,Spain,UD Almería,LaLiga,2014/2015,2014
+Mauro dos Santos,Centre-Back,1989-07-07,24,Argentina,UD Almería,LaLiga,2014/2015,2014
+Fran Vélez,Centre-Back,1991-06-23,23,Spain,UD Almería,LaLiga,2014/2015,2014
+Charlie Essome,Centre-Back,1993-05-25,21,Cameroon,UD Almería,LaLiga,2014/2015,2014
+Sebastián Dubarbier,Left-Back,1986-02-19,28,Argentina,UD Almería,LaLiga,2014/2015,2014
+Mané,Left-Back,1981-12-21,32,Spain,UD Almería,LaLiga,2014/2015,2014
+José Manuel Casado,Left-Back,1986-08-09,27,Spain,UD Almería,LaLiga,2014/2015,2014
+Míchel,Right-Back,1990-02-15,24,Brazil,UD Almería,LaLiga,2014/2015,2014
+Antonio Marín,Right-Back,1996-06-17,18,Spain,UD Almería,LaLiga,2014/2015,2014
+Thomas,Defensive Midfield,1993-06-13,21,Ghana,UD Almería,LaLiga,2014/2015,2014
+José Ángel Jurado,Defensive Midfield,1992-06-21,22,Spain,UD Almería,LaLiga,2014/2015,2014
+Verza,Central Midfield,1986-09-29,27,Spain,UD Almería,LaLiga,2014/2015,2014
+Ramon Azeez,Central Midfield,1992-12-12,21,Nigeria,UD Almería,LaLiga,2014/2015,2014
+Corona,Central Midfield,1981-02-12,33,Spain,UD Almería,LaLiga,2014/2015,2014
+Carlos Selfa,Central Midfield,1992-04-25,22,Spain,UD Almería,LaLiga,2014/2015,2014
+Javier Espinosa,Attacking Midfield,1992-09-19,21,Spain,UD Almería,LaLiga,2014/2015,2014
+Fernando Soriano,Attacking Midfield,1979-09-24,34,Spain,UD Almería,LaLiga,2014/2015,2014
+Thievy Bifouma,Left Winger,1992-05-13,22,Congo,UD Almería,LaLiga,2014/2015,2014
+Gaspar Panadero,Left Winger,1997-12-09,16,Spain,UD Almería,LaLiga,2014/2015,2014
+Jonathan Zongo,Right Winger,1989-04-16,25,Burkina Faso,UD Almería,LaLiga,2014/2015,2014
+Wellington Silva,Right Winger,1993-01-06,21,Brazil,UD Almería,LaLiga,2014/2015,2014
+Edgar Méndez,Right Winger,1990-01-02,24,Spain,UD Almería,LaLiga,2014/2015,2014
+Iván Sánchez,Right Winger,1992-09-23,21,Spain,UD Almería,LaLiga,2014/2015,2014
+Tomer Hemed,Centre-Forward,1987-05-02,27,Israel,UD Almería,LaLiga,2014/2015,2014
+Teerasil Dangda,Centre-Forward,1988-06-06,26,Thailand,UD Almería,LaLiga,2014/2015,2014
+Quique,Centre-Forward,1990-05-16,24,Spain,UD Almería,LaLiga,2014/2015,2014
+Dani Romera,Centre-Forward,1995-08-23,18,Spain,UD Almería,LaLiga,2014/2015,2014
+Jaime Jiménez,Goalkeeper,1980-12-10,33,Spain,SD Eibar,LaLiga,2014/2015,2014
+Xabi Irureta,Goalkeeper,1986-03-21,28,Spain,SD Eibar,LaLiga,2014/2015,2014
+Jon Irazusta,Goalkeeper,1986-04-30,28,Spain,SD Eibar,LaLiga,2014/2015,2014
+Borja Ekiza,Centre-Back,1988-03-06,26,Spain,SD Eibar,LaLiga,2014/2015,2014
+Raúl Navas,Centre-Back,1988-05-11,26,Spain,SD Eibar,LaLiga,2014/2015,2014
+Raúl Albentosa,Centre-Back,1988-09-07,25,Spain,SD Eibar,LaLiga,2014/2015,2014
+Txema Añibarro,Centre-Back,1979-07-26,34,Spain,SD Eibar,LaLiga,2014/2015,2014
+Rafa Páez,Centre-Back,1994-08-10,19,Spain,SD Eibar,LaLiga,2014/2015,2014
+Dídac Vilà,Left-Back,1989-06-09,25,Spain,SD Eibar,LaLiga,2014/2015,2014
+Abraham Minero,Left-Back,1986-02-22,28,Spain,SD Eibar,LaLiga,2014/2015,2014
+Ander Capa,Right-Back,1992-02-08,22,Spain,SD Eibar,LaLiga,2014/2015,2014
+Lillo Castellano,Right-Back,1989-03-27,25,Spain,SD Eibar,LaLiga,2014/2015,2014
+Eneko Bóveda,Right-Back,1988-12-14,25,Spain,SD Eibar,LaLiga,2014/2015,2014
+Derek Boateng,Defensive Midfield,1983-05-02,31,Ghana,SD Eibar,LaLiga,2014/2015,2014
+Borja Fernández,Defensive Midfield,1981-01-14,33,Spain,SD Eibar,LaLiga,2014/2015,2014
+Jon Errasti,Defensive Midfield,1988-06-06,26,Spain,SD Eibar,LaLiga,2014/2015,2014
+Dani García,Central Midfield,1990-05-24,24,Spain,SD Eibar,LaLiga,2014/2015,2014
+Javi Lara,Attacking Midfield,1985-12-04,28,Spain,SD Eibar,LaLiga,2014/2015,2014
+Dani Nieto,Left Winger,1991-05-04,23,Spain,SD Eibar,LaLiga,2014/2015,2014
+Saúl Berjón,Left Winger,1986-05-24,28,Spain,SD Eibar,LaLiga,2014/2015,2014
+Mikel Arruabarrena,Second Striker,1983-02-09,31,Spain,SD Eibar,LaLiga,2014/2015,2014
+Manu del Moral,Centre-Forward,1984-02-25,30,Spain,SD Eibar,LaLiga,2014/2015,2014
+Federico Piovaccari,Centre-Forward,1984-09-01,29,Italy,SD Eibar,LaLiga,2014/2015,2014
+Dejan Lekic,Centre-Forward,1985-06-07,29,Serbia,SD Eibar,LaLiga,2014/2015,2014
+Ángel Rodríguez,Centre-Forward,1987-04-26,27,Spain,SD Eibar,LaLiga,2014/2015,2014

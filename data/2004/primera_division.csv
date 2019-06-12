@@ -1,38 +1,4 @@
 player_name,position,date_of_birth,age,nationality,club_name,league_name,season,year
-Dudu Aouate,Goalkeeper,1977-10-17,26,Israel,Racing Santander,LaLiga,2004/2005,2004
-Mauricio Nanni,Goalkeeper,1979-07-12,24,Uruguay,Racing Santander,LaLiga,2004/2005,2004
-Toño,Goalkeeper,1979-12-17,24,Spain,Racing Santander,LaLiga,2004/2005,2004
-Sergio López,Goalkeeper,1985-10-29,18,Spain,Racing Santander,LaLiga,2004/2005,2004
-Alessandro Pierini,Centre-Back,1973-03-22,31,Italy,Racing Santander,LaLiga,2004/2005,2004
-Oriol Lozano,Centre-Back,1981-05-23,23,Spain,Racing Santander,LaLiga,2004/2005,2004
-Pablo Casar,Centre-Back,1978-09-17,25,Spain,Racing Santander,LaLiga,2004/2005,2004
-Argel Fucks,Centre-Back,1974-09-04,29,Brazil,Racing Santander,LaLiga,2004/2005,2004
-José Moratón,Centre-Back,1979-07-14,24,Spain,Racing Santander,LaLiga,2004/2005,2004
-Juanma Delgado,Centre-Back,1977-01-13,27,Spain,Racing Santander,LaLiga,2004/2005,2004
-Frantz Bertin,Centre-Back,1983-05-30,21,Haiti,Racing Santander,LaLiga,2004/2005,2004
-Ayoze Díaz,Left-Back,1982-05-25,22,Spain,Racing Santander,LaLiga,2004/2005,2004
-Walid Regragui,Right-Back,1975-09-23,28,Morocco,Racing Santander,LaLiga,2004/2005,2004
-Cristian Álvarez,Right-Back,1978-01-09,26,Argentina,Racing Santander,LaLiga,2004/2005,2004
-Pedro López,Right-Back,1983-11-01,20,Spain,Racing Santander,LaLiga,2004/2005,2004
-Pablo Ríos,Midfielder,1985-02-13,19,Spain,Racing Santander,LaLiga,2004/2005,2004
-Mehdi Nafti,Defensive Midfield,1978-11-28,25,Tunisia,Racing Santander,LaLiga,2004/2005,2004
-Diego Mateo,Defensive Midfield,1978-08-07,25,Argentina,Racing Santander,LaLiga,2004/2005,2004
-Gerardo Torrado,Defensive Midfield,1979-04-30,25,Mexico,Racing Santander,LaLiga,2004/2005,2004
-Anderson Silva,Defensive Midfield,1982-08-28,21,Brazil,Racing Santander,LaLiga,2004/2005,2004
-Sergio Matabuena,Defensive Midfield,1979-02-12,25,Spain,Racing Santander,LaLiga,2004/2005,2004
-Antonio Tomás,Central Midfield,1985-01-13,19,Spain,Racing Santander,LaLiga,2004/2005,2004
-Fernando Morán,Right Midfield,1976-04-27,28,Spain,Racing Santander,LaLiga,2004/2005,2004
-Jonathan Valle,Attacking Midfield,1984-12-30,19,Spain,Racing Santander,LaLiga,2004/2005,2004
-Líbero Parri,Attacking Midfield,1982-01-18,22,Spain,Racing Santander,LaLiga,2004/2005,2004
-Pablo Sierra,Forward,1978-10-03,25,Spain,Racing Santander,LaLiga,2004/2005,2004
-Mario Regueiro,Left Winger,1978-09-09,25,Uruguay,Racing Santander,LaLiga,2004/2005,2004
-Fernando Marqués,Right Winger,1984-12-04,19,Spain,Racing Santander,LaLiga,2004/2005,2004
-Yossi Benayoun,Right Winger,1980-05-05,24,Israel,Racing Santander,LaLiga,2004/2005,2004
-Juan José Collantes,Right Winger,1983-01-07,21,Spain,Racing Santander,LaLiga,2004/2005,2004
-Juanjo Expósito,Centre-Forward,1985-10-28,18,Spain,Racing Santander,LaLiga,2004/2005,2004
-David Aganzo,Centre-Forward,1981-01-10,23,Spain,Racing Santander,LaLiga,2004/2005,2004
-Javi Guerrero,Centre-Forward,1976-10-22,27,Spain,Racing Santander,LaLiga,2004/2005,2004
-Javier Arizmendi,Centre-Forward,1984-03-03,20,Spain,Racing Santander,LaLiga,2004/2005,2004
 Alberto López,Goalkeeper,1969-05-20,35,Spain,Real Sociedad,LaLiga,2004/2005,2004
 Asier Riesgo,Goalkeeper,1983-10-06,20,Spain,Real Sociedad,LaLiga,2004/2005,2004
 Eñaut Zubikarai,Goalkeeper,1984-02-26,20,Spain,Real Sociedad,LaLiga,2004/2005,2004
@@ -635,3 +601,37 @@ Yordi,Centre-Forward,1974-09-14,29,Spain,Getafe CF,LaLiga,2004/2005,2004
 Jaime Asen,Centre-Forward,1978-10-07,25,Spain,Getafe CF,LaLiga,2004/2005,2004
 Sergio Pachón,Centre-Forward,1977-02-05,27,Spain,Getafe CF,LaLiga,2004/2005,2004
 Riki,Centre-Forward,1980-08-11,23,Spain,Getafe CF,LaLiga,2004/2005,2004
+Dudu Aouate,Goalkeeper,1977-10-17,26,Israel,Racing Santander,LaLiga,2004/2005,2004
+Mauricio Nanni,Goalkeeper,1979-07-12,24,Uruguay,Racing Santander,LaLiga,2004/2005,2004
+Toño,Goalkeeper,1979-12-17,24,Spain,Racing Santander,LaLiga,2004/2005,2004
+Sergio López,Goalkeeper,1985-10-29,18,Spain,Racing Santander,LaLiga,2004/2005,2004
+Alessandro Pierini,Centre-Back,1973-03-22,31,Italy,Racing Santander,LaLiga,2004/2005,2004
+Oriol Lozano,Centre-Back,1981-05-23,23,Spain,Racing Santander,LaLiga,2004/2005,2004
+Pablo Casar,Centre-Back,1978-09-17,25,Spain,Racing Santander,LaLiga,2004/2005,2004
+Argel Fucks,Centre-Back,1974-09-04,29,Brazil,Racing Santander,LaLiga,2004/2005,2004
+José Moratón,Centre-Back,1979-07-14,24,Spain,Racing Santander,LaLiga,2004/2005,2004
+Juanma Delgado,Centre-Back,1977-01-13,27,Spain,Racing Santander,LaLiga,2004/2005,2004
+Frantz Bertin,Centre-Back,1983-05-30,21,Haiti,Racing Santander,LaLiga,2004/2005,2004
+Ayoze Díaz,Left-Back,1982-05-25,22,Spain,Racing Santander,LaLiga,2004/2005,2004
+Walid Regragui,Right-Back,1975-09-23,28,Morocco,Racing Santander,LaLiga,2004/2005,2004
+Cristian Álvarez,Right-Back,1978-01-09,26,Argentina,Racing Santander,LaLiga,2004/2005,2004
+Pedro López,Right-Back,1983-11-01,20,Spain,Racing Santander,LaLiga,2004/2005,2004
+Pablo Ríos,Midfielder,1985-02-13,19,Spain,Racing Santander,LaLiga,2004/2005,2004
+Mehdi Nafti,Defensive Midfield,1978-11-28,25,Tunisia,Racing Santander,LaLiga,2004/2005,2004
+Diego Mateo,Defensive Midfield,1978-08-07,25,Argentina,Racing Santander,LaLiga,2004/2005,2004
+Gerardo Torrado,Defensive Midfield,1979-04-30,25,Mexico,Racing Santander,LaLiga,2004/2005,2004
+Anderson Silva,Defensive Midfield,1982-08-28,21,Brazil,Racing Santander,LaLiga,2004/2005,2004
+Sergio Matabuena,Defensive Midfield,1979-02-12,25,Spain,Racing Santander,LaLiga,2004/2005,2004
+Antonio Tomás,Central Midfield,1985-01-13,19,Spain,Racing Santander,LaLiga,2004/2005,2004
+Fernando Morán,Right Midfield,1976-04-27,28,Spain,Racing Santander,LaLiga,2004/2005,2004
+Jonathan Valle,Attacking Midfield,1984-12-30,19,Spain,Racing Santander,LaLiga,2004/2005,2004
+Líbero Parri,Attacking Midfield,1982-01-18,22,Spain,Racing Santander,LaLiga,2004/2005,2004
+Pablo Sierra,Forward,1978-10-03,25,Spain,Racing Santander,LaLiga,2004/2005,2004
+Mario Regueiro,Left Winger,1978-09-09,25,Uruguay,Racing Santander,LaLiga,2004/2005,2004
+Fernando Marqués,Right Winger,1984-12-04,19,Spain,Racing Santander,LaLiga,2004/2005,2004
+Yossi Benayoun,Right Winger,1980-05-05,24,Israel,Racing Santander,LaLiga,2004/2005,2004
+Juan José Collantes,Right Winger,1983-01-07,21,Spain,Racing Santander,LaLiga,2004/2005,2004
+Juanjo Expósito,Centre-Forward,1985-10-28,18,Spain,Racing Santander,LaLiga,2004/2005,2004
+David Aganzo,Centre-Forward,1981-01-10,23,Spain,Racing Santander,LaLiga,2004/2005,2004
+Javi Guerrero,Centre-Forward,1976-10-22,27,Spain,Racing Santander,LaLiga,2004/2005,2004
+Javier Arizmendi,Centre-Forward,1984-03-03,20,Spain,Racing Santander,LaLiga,2004/2005,2004

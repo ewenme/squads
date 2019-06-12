@@ -1,0 +1,839 @@
+player_name,position,date_of_birth,age,nationality,club_name,league_name,season,year
+Júlio César,Goalkeeper,1979-09-03,31,Brazil,FC Internazionale,Serie A,2011/2012,2011
+Emiliano Viviano,Goalkeeper,1985-12-01,25,Italy,FC Internazionale,Serie A,2011/2012,2011
+Luca Castellazzi,Goalkeeper,1975-07-19,35,Italy,FC Internazionale,Serie A,2011/2012,2011
+Paolo Orlandoni,Goalkeeper,1972-08-12,38,Italy,FC Internazionale,Serie A,2011/2012,2011
+Paolo Tornaghi,Goalkeeper,1988-06-21,23,Italy,FC Internazionale,Serie A,2011/2012,2011
+Raffaele Di Gennaro,Goalkeeper,1993-10-03,17,Italy,FC Internazionale,Serie A,2011/2012,2011
+Matteo Cincilla,Goalkeeper,1994-10-24,16,Italy,FC Internazionale,Serie A,2011/2012,2011
+Riccardo Melgrati,Goalkeeper,1994-06-17,17,Italy,FC Internazionale,Serie A,2011/2012,2011
+Andrea Ranocchia,Centre-Back,1988-02-16,23,Italy,FC Internazionale,Serie A,2011/2012,2011
+Cristian Chivu,Centre-Back,1980-10-26,30,Romania,FC Internazionale,Serie A,2011/2012,2011
+Wálter Samuel,Centre-Back,1978-03-23,33,Argentina,FC Internazionale,Serie A,2011/2012,2011
+Lúcio,Centre-Back,1978-05-08,33,Brazil,FC Internazionale,Serie A,2011/2012,2011
+Iván Córdoba,Centre-Back,1976-08-11,34,Colombia,FC Internazionale,Serie A,2011/2012,2011
+Juan Jesus,Centre-Back,1991-06-10,20,Brazil,FC Internazionale,Serie A,2011/2012,2011
+Luca Caldirola,Centre-Back,1991-02-01,20,Italy,FC Internazionale,Serie A,2011/2012,2011
+Matteo Bianchetti,Centre-Back,1993-03-17,18,Italy,FC Internazionale,Serie A,2011/2012,2011
+Marek Kysela,Centre-Back,1992-07-10,18,Czech Republic,FC Internazionale,Serie A,2011/2012,2011
+Yuto Nagatomo,Left-Back,1986-09-12,24,Japan,FC Internazionale,Serie A,2011/2012,2011
+Maicon,Right-Back,1981-07-26,29,Brazil,FC Internazionale,Serie A,2011/2012,2011
+Javier Zanetti,Right-Back,1973-08-10,37,Argentina,FC Internazionale,Serie A,2011/2012,2011
+Jonathan,Right-Back,1986-02-27,25,Brazil,FC Internazionale,Serie A,2011/2012,2011
+Davide Faraoni,Right-Back,1991-10-25,19,Italy,FC Internazionale,Serie A,2011/2012,2011
+Ibrahima Mbaye,Right-Back,1994-11-19,16,Senegal,FC Internazionale,Serie A,2011/2012,2011
+Esteban Cambiasso,Defensive Midfield,1980-08-18,30,Argentina,FC Internazionale,Serie A,2011/2012,2011
+Thiago Motta,Defensive Midfield,1982-08-28,28,Italy,FC Internazionale,Serie A,2011/2012,2011
+Angelo Palombo,Defensive Midfield,1981-09-25,29,Italy,FC Internazionale,Serie A,2011/2012,2011
+Lorenzo Crisetig,Defensive Midfield,1993-01-20,18,Italy,FC Internazionale,Serie A,2011/2012,2011
+Dejan Stanković,Central Midfield,1978-09-11,32,Serbia,FC Internazionale,Serie A,2011/2012,2011
+Fredy Guarín,Central Midfield,1986-06-30,25,Colombia,FC Internazionale,Serie A,2011/2012,2011
+Sulley Muntari,Central Midfield,1984-08-27,26,Ghana,FC Internazionale,Serie A,2011/2012,2011
+Andrea Poli,Central Midfield,1989-09-29,21,Italy,FC Internazionale,Serie A,2011/2012,2011
+Joel Obi,Central Midfield,1991-05-22,20,Nigeria,FC Internazionale,Serie A,2011/2012,2011
+Andrea Romanò,Central Midfield,1993-07-23,17,Italy,FC Internazionale,Serie A,2011/2012,2011
+Daniel Bessa,Central Midfield,1993-01-14,18,Italy,FC Internazionale,Serie A,2011/2012,2011
+Alfred Duncan,Central Midfield,1993-03-10,18,Ghana,FC Internazionale,Serie A,2011/2012,2011
+Wesley Sneijder,Attacking Midfield,1984-06-09,27,Netherlands,FC Internazionale,Serie A,2011/2012,2011
+Ricardo Álvarez,Attacking Midfield,1988-04-12,23,Argentina,FC Internazionale,Serie A,2011/2012,2011
+Philippe Coutinho,Left Winger,1992-06-12,19,Brazil,FC Internazionale,Serie A,2011/2012,2011
+Giovanni Terrani,Left Winger,1994-10-12,16,Italy,FC Internazionale,Serie A,2011/2012,2011
+Mauro Zárate,Second Striker,1987-03-18,24,Argentina,FC Internazionale,Serie A,2011/2012,2011
+Goran Pandev,Second Striker,1983-07-27,27,North Macedonia,FC Internazionale,Serie A,2011/2012,2011
+Diego Forlán,Second Striker,1979-05-19,32,Uruguay,FC Internazionale,Serie A,2011/2012,2011
+Samuel Eto'o,Centre-Forward,1981-03-10,30,Cameroon,FC Internazionale,Serie A,2011/2012,2011
+Giampaolo Pazzini,Centre-Forward,1984-08-02,26,Italy,FC Internazionale,Serie A,2011/2012,2011
+Diego Milito,Centre-Forward,1979-06-12,32,Argentina,FC Internazionale,Serie A,2011/2012,2011
+Luc Castaignos,Centre-Forward,1992-09-27,18,Netherlands,FC Internazionale,Serie A,2011/2012,2011
+Samuele Longo,Centre-Forward,1992-01-12,19,Italy,FC Internazionale,Serie A,2011/2012,2011
+Marko Livaja,Centre-Forward,1993-08-26,17,Croatia,FC Internazionale,Serie A,2011/2012,2011
+Gianluigi Buffon,Goalkeeper,1978-01-28,33,Italy,Juventus FC,Serie A,2011/2012,2011
+Marco Storari,Goalkeeper,1977-01-07,34,Italy,Juventus FC,Serie A,2011/2012,2011
+Alexander Manninger,Goalkeeper,1977-06-04,34,Austria,Juventus FC,Serie A,2011/2012,2011
+Laurentiu Branescu,Goalkeeper,1994-03-30,17,Romania,Juventus FC,Serie A,2011/2012,2011
+Simon Sluga,Goalkeeper,1993-03-17,18,Croatia,Juventus FC,Serie A,2011/2012,2011
+Giorgio Chiellini,Centre-Back,1984-08-14,26,Italy,Juventus FC,Serie A,2011/2012,2011
+Leonardo Bonucci,Centre-Back,1987-05-01,24,Italy,Juventus FC,Serie A,2011/2012,2011
+Martín Cáceres,Centre-Back,1987-04-07,24,Uruguay,Juventus FC,Serie A,2011/2012,2011
+Andrea Barzagli,Centre-Back,1981-05-08,30,Italy,Juventus FC,Serie A,2011/2012,2011
+Frederik Sörensen,Centre-Back,1992-04-14,19,Denmark,Juventus FC,Serie A,2011/2012,2011
+Luca Marrone,Centre-Back,1990-03-28,21,Italy,Juventus FC,Serie A,2011/2012,2011
+Prince Gouano,Centre-Back,1993-12-24,17,France,Juventus FC,Serie A,2011/2012,2011
+Paolo De Ceglie,Left-Back,1986-09-17,24,Italy,Juventus FC,Serie A,2011/2012,2011
+Fabio Grosso,Left-Back,1977-11-28,33,Italy,Juventus FC,Serie A,2011/2012,2011
+Stephan Lichtsteiner,Right-Back,1984-01-16,27,Switzerland,Juventus FC,Serie A,2011/2012,2011
+Marco Motta,Right-Back,1986-05-14,25,Italy,Juventus FC,Serie A,2011/2012,2011
+Andrea Pirlo,Defensive Midfield,1979-05-19,32,Italy,Juventus FC,Serie A,2011/2012,2011
+Michele Pazienza,Defensive Midfield,1982-08-05,28,Italy,Juventus FC,Serie A,2011/2012,2011
+Arturo Vidal,Central Midfield,1987-05-22,24,Chile,Juventus FC,Serie A,2011/2012,2011
+Milos Krasic,Central Midfield,1984-11-01,26,Serbia,Juventus FC,Serie A,2011/2012,2011
+Claudio Marchisio,Central Midfield,1986-01-19,25,Italy,Juventus FC,Serie A,2011/2012,2011
+Emanuele Giaccherini,Left Midfield,1985-05-05,26,Italy,Juventus FC,Serie A,2011/2012,2011
+Simone Padoin,Left Midfield,1984-03-18,27,Italy,Juventus FC,Serie A,2011/2012,2011
+Marcelo Estigarribia,Left Midfield,1987-09-21,23,Paraguay,Juventus FC,Serie A,2011/2012,2011
+Eljero Elia,Left Winger,1987-02-13,24,Netherlands,Juventus FC,Serie A,2011/2012,2011
+Simone Pepe,Right Winger,1983-08-30,27,Italy,Juventus FC,Serie A,2011/2012,2011
+Mirko Vucinic,Second Striker,1983-10-01,27,Montenegro,Juventus FC,Serie A,2011/2012,2011
+Alessandro Del Piero,Second Striker,1974-11-09,36,Italy,Juventus FC,Serie A,2011/2012,2011
+Fabio Quagliarella,Centre-Forward,1983-01-31,28,Italy,Juventus FC,Serie A,2011/2012,2011
+Alessandro Matri,Centre-Forward,1984-08-19,26,Italy,Juventus FC,Serie A,2011/2012,2011
+Marco Borriello,Centre-Forward,1982-06-18,29,Italy,Juventus FC,Serie A,2011/2012,2011
+Amauri,Centre-Forward,1980-06-03,31,Italy,Juventus FC,Serie A,2011/2012,2011
+Vincenzo Iaquinta,Centre-Forward,1979-11-21,31,Italy,Juventus FC,Serie A,2011/2012,2011
+Luca Toni,Centre-Forward,1977-05-26,34,Italy,Juventus FC,Serie A,2011/2012,2011
+Christian Abbiati,Goalkeeper,1977-07-08,33,Italy,AC Milan,Serie A,2011/2012,2011
+Marco Amelia,Goalkeeper,1982-04-02,29,Italy,AC Milan,Serie A,2011/2012,2011
+Flavio Roma,Goalkeeper,1974-06-21,37,Italy,AC Milan,Serie A,2011/2012,2011
+Riccardo Piscitelli,Goalkeeper,1993-10-10,17,Italy,AC Milan,Serie A,2011/2012,2011
+Thiago Silva,Centre-Back,1984-09-22,26,Brazil,AC Milan,Serie A,2011/2012,2011
+Philippe Mexès,Centre-Back,1982-03-30,29,France,AC Milan,Serie A,2011/2012,2011
+Alessandro Nesta,Centre-Back,1976-03-19,35,Italy,AC Milan,Serie A,2011/2012,2011
+Daniele Bonera,Centre-Back,1981-05-31,30,Italy,AC Milan,Serie A,2011/2012,2011
+Mario Yepes,Centre-Back,1976-01-13,35,Colombia,AC Milan,Serie A,2011/2012,2011
+Marco Baldan,Centre-Back,1993-11-13,17,Italy,AC Milan,Serie A,2011/2012,2011
+Rodrigo Ely,Centre-Back,1993-11-03,17,Brazil,AC Milan,Serie A,2011/2012,2011
+Ricardo Ferreira,Centre-Back,1992-11-25,18,Portugal,AC Milan,Serie A,2011/2012,2011
+Taye Taiwo,Left-Back,1985-04-16,26,Nigeria,AC Milan,Serie A,2011/2012,2011
+Luca Antonini,Left-Back,1982-08-04,28,Italy,AC Milan,Serie A,2011/2012,2011
+Djamel Mesbah,Left-Back,1984-10-09,26,Algeria,AC Milan,Serie A,2011/2012,2011
+Ignazio Abate,Right-Back,1986-11-12,24,Italy,AC Milan,Serie A,2011/2012,2011
+Gianluca Zambrotta,Right-Back,1977-02-19,34,Italy,AC Milan,Serie A,2011/2012,2011
+Mattia De Sciglio,Right-Back,1992-10-20,18,Italy,AC Milan,Serie A,2011/2012,2011
+Mathieu Flamini,Defensive Midfield,1984-03-07,27,France,AC Milan,Serie A,2011/2012,2011
+Mark van Bommel,Defensive Midfield,1977-04-22,34,Netherlands,AC Milan,Serie A,2011/2012,2011
+Rodney Strasser,Defensive Midfield,1990-03-30,21,Sierra Leone,AC Milan,Serie A,2011/2012,2011
+Alessio Innocenti,Defensive Midfield,1993-02-04,18,Argentina,AC Milan,Serie A,2011/2012,2011
+Alberto Aquilani,Central Midfield,1984-07-07,26,Italy,AC Milan,Serie A,2011/2012,2011
+Antonio Nocerino,Central Midfield,1985-04-09,26,Italy,AC Milan,Serie A,2011/2012,2011
+Sulley Muntari,Central Midfield,1984-08-27,26,Ghana,AC Milan,Serie A,2011/2012,2011
+Urby Emanuelson,Central Midfield,1986-06-16,25,Netherlands,AC Milan,Serie A,2011/2012,2011
+Gennaro Gattuso,Central Midfield,1978-01-09,33,Italy,AC Milan,Serie A,2011/2012,2011
+Massimo Ambrosini,Central Midfield,1977-05-29,34,Italy,AC Milan,Serie A,2011/2012,2011
+Alexander Merkel,Central Midfield,1992-02-22,19,Kazakhstan,AC Milan,Serie A,2011/2012,2011
+Clarence Seedorf,Central Midfield,1976-04-01,35,Netherlands,AC Milan,Serie A,2011/2012,2011
+Simone Calvano,Central Midfield,1993-07-11,17,Italy,AC Milan,Serie A,2011/2012,2011
+Mattia Valoti,Central Midfield,1993-09-06,17,Italy,AC Milan,Serie A,2011/2012,2011
+Bryan Cristante,Central Midfield,1995-03-03,16,Italy,AC Milan,Serie A,2011/2012,2011
+Stephan El Shaarawy,Left Winger,1992-10-27,18,Italy,AC Milan,Serie A,2011/2012,2011
+Adrià Carmona,Left Winger,1992-02-08,19,Spain,AC Milan,Serie A,2011/2012,2011
+Kingsley Boateng,Right Winger,1994-04-07,17,Italy,AC Milan,Serie A,2011/2012,2011
+Robinho,Second Striker,1984-01-25,27,Brazil,AC Milan,Serie A,2011/2012,2011
+Antonio Cassano,Second Striker,1982-07-12,28,Italy,AC Milan,Serie A,2011/2012,2011
+Zlatan Ibrahimovic,Centre-Forward,1981-10-03,29,Sweden,AC Milan,Serie A,2011/2012,2011
+Alexandre Pato,Centre-Forward,1989-09-02,21,Brazil,AC Milan,Serie A,2011/2012,2011
+Kevin-Prince Boateng,Centre-Forward,1987-03-06,24,Ghana,AC Milan,Serie A,2011/2012,2011
+Maxi López,Centre-Forward,1984-04-03,27,Argentina,AC Milan,Serie A,2011/2012,2011
+Filippo Inzaghi,Centre-Forward,1973-08-09,37,Italy,AC Milan,Serie A,2011/2012,2011
+Gianmario Comi,Centre-Forward,1992-03-05,19,Italy,AC Milan,Serie A,2011/2012,2011
+Simone Ganz,Centre-Forward,1993-09-21,17,Italy,AC Milan,Serie A,2011/2012,2011
+Maarten Stekelenburg,Goalkeeper,1982-09-22,28,Netherlands,AS Roma,Serie A,2011/2012,2011
+Gianluca Curci,Goalkeeper,1985-07-12,25,Italy,AS Roma,Serie A,2011/2012,2011
+Bogdan Lobont,Goalkeeper,1978-01-18,33,Romania,AS Roma,Serie A,2011/2012,2011
+Mirko Pigliacelli,Goalkeeper,1993-06-30,18,Italy,AS Roma,Serie A,2011/2012,2011
+Francesco Proietti Gaffi,Goalkeeper,1994-05-21,17,Italy,AS Roma,Serie A,2011/2012,2011
+Simon Kjær,Centre-Back,1989-03-26,22,Denmark,AS Roma,Serie A,2011/2012,2011
+Juan,Centre-Back,1979-02-01,32,Brazil,AS Roma,Serie A,2011/2012,2011
+Nicolás Burdisso,Centre-Back,1981-04-12,30,Argentina,AS Roma,Serie A,2011/2012,2011
+Gabriel Heinze,Centre-Back,1978-04-19,33,Argentina,AS Roma,Serie A,2011/2012,2011
+José Ángel,Left-Back,1989-09-05,21,Spain,AS Roma,Serie A,2011/2012,2011
+Aleandro Rosi,Right-Back,1987-05-17,24,Italy,AS Roma,Serie A,2011/2012,2011
+Cicinho,Right-Back,1980-06-24,31,Brazil,AS Roma,Serie A,2011/2012,2011
+Marco Cassetti,Right-Back,1977-05-29,34,Italy,AS Roma,Serie A,2011/2012,2011
+Loïc Nego,Right-Back,1991-01-15,20,France,AS Roma,Serie A,2011/2012,2011
+Stefano Sabelli,Right-Back,1993-01-13,18,Italy,AS Roma,Serie A,2011/2012,2011
+Daniele De Rossi,Defensive Midfield,1983-07-24,27,Italy,AS Roma,Serie A,2011/2012,2011
+Miralem Pjanic,Defensive Midfield,1990-04-02,21,Bosnia-Herzegovina,AS Roma,Serie A,2011/2012,2011
+Fernando Gago,Defensive Midfield,1986-04-10,25,Argentina,AS Roma,Serie A,2011/2012,2011
+Federico Viviani,Defensive Midfield,1992-03-24,19,Italy,AS Roma,Serie A,2011/2012,2011
+David Pizarro,Central Midfield,1979-09-11,31,Chile,AS Roma,Serie A,2011/2012,2011
+Matteo Brighi,Central Midfield,1981-02-14,30,Italy,AS Roma,Serie A,2011/2012,2011
+Fábio Simplício,Central Midfield,1979-09-23,31,Brazil,AS Roma,Serie A,2011/2012,2011
+Leandro Greco,Central Midfield,1986-07-19,24,Italy,AS Roma,Serie A,2011/2012,2011
+Valerio Verre,Central Midfield,1994-01-11,17,Italy,AS Roma,Serie A,2011/2012,2011
+Matteo Ricci,Central Midfield,1994-05-27,17,Italy,AS Roma,Serie A,2011/2012,2011
+Simone Perrotta,Attacking Midfield,1977-09-17,33,Italy,AS Roma,Serie A,2011/2012,2011
+Marquinho,Attacking Midfield,1986-07-03,24,Brazil,AS Roma,Serie A,2011/2012,2011
+Giammario Piscitella,Left Winger,1993-03-24,18,Italy,AS Roma,Serie A,2011/2012,2011
+Fabio Borini,Left Winger,1991-03-29,20,Italy,AS Roma,Serie A,2011/2012,2011
+Erik Lamela,Right Winger,1992-03-04,19,Argentina,AS Roma,Serie A,2011/2012,2011
+Rodrigo Taddei,Right Winger,1980-03-06,31,Brazil,AS Roma,Serie A,2011/2012,2011
+Amato Ciciretti,Right Winger,1993-12-31,17,Italy,AS Roma,Serie A,2011/2012,2011
+Bojan Krkic,Second Striker,1990-08-28,20,Spain,AS Roma,Serie A,2011/2012,2011
+Gianluca Caprari,Second Striker,1993-07-30,17,Italy,AS Roma,Serie A,2011/2012,2011
+Marco Borriello,Centre-Forward,1982-06-18,29,Italy,AS Roma,Serie A,2011/2012,2011
+Daniel Osvaldo,Centre-Forward,1986-01-12,25,Italy,AS Roma,Serie A,2011/2012,2011
+Francesco Totti,Centre-Forward,1976-09-27,34,Italy,AS Roma,Serie A,2011/2012,2011
+Stefano Okaka,Centre-Forward,1989-08-09,21,Italy,AS Roma,Serie A,2011/2012,2011
+Junior Tallo,Centre-Forward,1992-12-21,18,Cote d'Ivoire,AS Roma,Serie A,2011/2012,2011
+Morgan De Sanctis,Goalkeeper,1977-03-26,34,Italy,SSC Napoli,Serie A,2011/2012,2011
+Antonio Rosati,Goalkeeper,1983-06-26,28,Italy,SSC Napoli,Serie A,2011/2012,2011
+Roberto Colombo,Goalkeeper,1975-08-24,35,Italy,SSC Napoli,Serie A,2011/2012,2011
+Gaetano Sestile,Goalkeeper,1993-03-16,18,Italy,SSC Napoli,Serie A,2011/2012,2011
+Diamante Crispino,Goalkeeper,1994-09-05,16,Italy,SSC Napoli,Serie A,2011/2012,2011
+Alessio Di Falco,Defender,1993-06-22,18,Italy,SSC Napoli,Serie A,2011/2012,2011
+Mario D'Urso,Defender,1989-10-10,21,Italy,SSC Napoli,Serie A,2011/2012,2011
+Giuseppe Di Donna,Defender,1993-03-04,18,Italy,SSC Napoli,Serie A,2011/2012,2011
+Paolo Cannavaro,Centre-Back,1981-06-26,30,Italy,SSC Napoli,Serie A,2011/2012,2011
+Hugo Campagnaro,Centre-Back,1980-06-27,31,Argentina,SSC Napoli,Serie A,2011/2012,2011
+Miguel Britos,Centre-Back,1985-07-17,25,Uruguay,SSC Napoli,Serie A,2011/2012,2011
+Federico Fernández,Centre-Back,1989-02-21,22,Argentina,SSC Napoli,Serie A,2011/2012,2011
+Salvatore Aronica,Centre-Back,1978-01-20,33,Italy,SSC Napoli,Serie A,2011/2012,2011
+Leandro Rinaudo,Centre-Back,1983-05-09,28,Italy,SSC Napoli,Serie A,2011/2012,2011
+Ignacio Fideleff,Centre-Back,1989-07-04,21,Argentina,SSC Napoli,Serie A,2011/2012,2011
+Diego Petrarca,Centre-Back,1992-06-01,19,Italy,SSC Napoli,Serie A,2011/2012,2011
+Giuliano Laezza,Centre-Back,1993-12-23,17,Italy,SSC Napoli,Serie A,2011/2012,2011
+Emanuele Marchitelli,Left-Back,1994-04-03,17,Italy,SSC Napoli,Serie A,2011/2012,2011
+Giuseppe Nicolao,Left-Back,1994-03-05,17,Italy,SSC Napoli,Serie A,2011/2012,2011
+Christian Maggio,Right-Back,1982-02-11,29,Italy,SSC Napoli,Serie A,2011/2012,2011
+Camilo Zúñiga,Right-Back,1985-12-14,25,Colombia,SSC Napoli,Serie A,2011/2012,2011
+Gianluca Grava,Right-Back,1977-03-07,34,Italy,SSC Napoli,Serie A,2011/2012,2011
+Emanuele Allegra,Right-Back,1994-05-06,17,Italy,SSC Napoli,Serie A,2011/2012,2011
+Daniele Celiento,Right-Back,1994-08-06,16,Italy,SSC Napoli,Serie A,2011/2012,2011
+Marco Eligibile,Midfielder,1992-02-26,19,Italy,SSC Napoli,Serie A,2011/2012,2011
+Gökhan Inler,Defensive Midfield,1984-06-27,27,Switzerland,SSC Napoli,Serie A,2011/2012,2011
+Walter Gargano,Defensive Midfield,1984-07-23,26,Uruguay,SSC Napoli,Serie A,2011/2012,2011
+Marco Donadel,Defensive Midfield,1983-04-21,28,Italy,SSC Napoli,Serie A,2011/2012,2011
+Marek Hamsik,Central Midfield,1987-07-27,23,Slovakia,SSC Napoli,Serie A,2011/2012,2011
+Blerim Dzemaili,Central Midfield,1986-04-12,25,Switzerland,SSC Napoli,Serie A,2011/2012,2011
+Giuseppe Fornito,Central Midfield,1994-09-06,16,Italy,SSC Napoli,Serie A,2011/2012,2011
+Jacopo Dezi,Central Midfield,1992-02-10,19,Italy,SSC Napoli,Serie A,2011/2012,2011
+Giuseppe Iuliano,Central Midfield,1993-02-22,18,Italy,SSC Napoli,Serie A,2011/2012,2011
+Antonio Esposito,Central Midfield,1993-03-08,18,Italy,SSC Napoli,Serie A,2011/2012,2011
+Giuseppe Palma,Central Midfield,1994-01-20,17,Italy,SSC Napoli,Serie A,2011/2012,2011
+Francesco Savarise,Central Midfield,1994-04-21,17,Italy,SSC Napoli,Serie A,2011/2012,2011
+Mario Sgambato,Central Midfield,1994-02-17,17,Italy,SSC Napoli,Serie A,2011/2012,2011
+Andrea Dossena,Left Midfield,1981-09-11,29,Italy,SSC Napoli,Serie A,2011/2012,2011
+Massimiliano Ammendola,Attacking Midfield,1990-05-15,21,Italy,SSC Napoli,Serie A,2011/2012,2011
+Davide D'Andrea,Forward,1993-06-10,18,Italy,SSC Napoli,Serie A,2011/2012,2011
+Cristian Chávez,Left Winger,1987-06-04,24,Argentina,SSC Napoli,Serie A,2011/2012,2011
+Gennaro Signorelli,Right Winger,1993-03-12,18,Italy,SSC Napoli,Serie A,2011/2012,2011
+Luigi Amico,Right Winger,1994-03-06,17,Italy,SSC Napoli,Serie A,2011/2012,2011
+Roberto Insigne,Right Winger,1994-05-11,17,Italy,SSC Napoli,Serie A,2011/2012,2011
+Ezequiel Lavezzi,Second Striker,1985-05-03,26,Argentina,SSC Napoli,Serie A,2011/2012,2011
+Goran Pandev,Second Striker,1983-07-27,27,North Macedonia,SSC Napoli,Serie A,2011/2012,2011
+Mario Santana,Second Striker,1981-12-23,29,Argentina,SSC Napoli,Serie A,2011/2012,2011
+Giuseppe Mascara,Second Striker,1979-08-22,31,Italy,SSC Napoli,Serie A,2011/2012,2011
+Edinson Cavani,Centre-Forward,1987-02-14,24,Uruguay,SSC Napoli,Serie A,2011/2012,2011
+Cristiano Lucarelli,Centre-Forward,1975-10-04,35,Italy,SSC Napoli,Serie A,2011/2012,2011
+Eduardo Vargas,Centre-Forward,1989-11-20,21,Chile,SSC Napoli,Serie A,2011/2012,2011
+Giacomo Romano,Centre-Forward,1993-07-14,17,Italy,SSC Napoli,Serie A,2011/2012,2011
+Artur Boruc,Goalkeeper,1980-02-20,31,Poland,ACF Fiorentina,Serie A,2011/2012,2011
+Neto,Goalkeeper,1989-07-19,21,Brazil,ACF Fiorentina,Serie A,2011/2012,2011
+Nicolò Manfredini,Goalkeeper,1988-05-01,23,Italy,ACF Fiorentina,Serie A,2011/2012,2011
+Edoardo Pazzagli,Goalkeeper,1989-04-11,22,Italy,ACF Fiorentina,Serie A,2011/2012,2011
+Luca Lezzerini,Goalkeeper,1995-03-24,16,Italy,ACF Fiorentina,Serie A,2011/2012,2011
+Alessandro Gamberini,Centre-Back,1981-08-27,29,Italy,ACF Fiorentina,Serie A,2011/2012,2011
+Felipe,Centre-Back,1984-07-31,26,Brazil,ACF Fiorentina,Serie A,2011/2012,2011
+Michele Camporese,Centre-Back,1992-05-19,19,Italy,ACF Fiorentina,Serie A,2011/2012,2011
+Per Kröldrup,Centre-Back,1979-07-31,31,Denmark,ACF Fiorentina,Serie A,2011/2012,2011
+Cesare Natali,Centre-Back,1979-04-05,32,Italy,ACF Fiorentina,Serie A,2011/2012,2011
+Matija Nastasic,Centre-Back,1993-03-28,18,Serbia,ACF Fiorentina,Serie A,2011/2012,2011
+Alan Empereur,Centre-Back,1994-03-10,17,Brazil,ACF Fiorentina,Serie A,2011/2012,2011
+Paolo Rozzio,Centre-Back,1992-07-22,18,Italy,ACF Fiorentina,Serie A,2011/2012,2011
+Juan Manuel Vargas,Left-Back,1983-10-05,27,Peru,ACF Fiorentina,Serie A,2011/2012,2011
+Manuel Pasqual,Left-Back,1982-03-13,29,Italy,ACF Fiorentina,Serie A,2011/2012,2011
+Nikola Gulan,Left-Back,1989-03-23,22,Serbia,ACF Fiorentina,Serie A,2011/2012,2011
+Nii Nortey Ashong,Left-Back,1994-11-17,16,Ghana,ACF Fiorentina,Serie A,2011/2012,2011
+Mattia Cassani,Right-Back,1983-08-26,27,Italy,ACF Fiorentina,Serie A,2011/2012,2011
+Lorenzo De Silvestri,Right-Back,1988-05-23,23,Italy,ACF Fiorentina,Serie A,2011/2012,2011
+Riccardo Montolivo,Defensive Midfield,1985-01-18,26,Italy,ACF Fiorentina,Serie A,2011/2012,2011
+Valon Behrami,Defensive Midfield,1985-04-19,26,Switzerland,ACF Fiorentina,Serie A,2011/2012,2011
+Daniel Kofi Agyei,Defensive Midfield,1992-01-01,19,Ghana,ACF Fiorentina,Serie A,2011/2012,2011
+Andrea Lazzari,Central Midfield,1984-12-03,26,Italy,ACF Fiorentina,Serie A,2011/2012,2011
+Houssine Kharja,Central Midfield,1982-11-09,28,Morocco,ACF Fiorentina,Serie A,2011/2012,2011
+Gianni Munari,Central Midfield,1983-06-24,28,Italy,ACF Fiorentina,Serie A,2011/2012,2011
+Rubén Olivera,Central Midfield,1983-05-04,28,Uruguay,ACF Fiorentina,Serie A,2011/2012,2011
+Rômulo,Central Midfield,1987-05-22,24,Italy,ACF Fiorentina,Serie A,2011/2012,2011
+Amidu Salifu,Central Midfield,1992-09-20,18,Ghana,ACF Fiorentina,Serie A,2011/2012,2011
+Marco Romizi,Central Midfield,1990-02-13,21,Italy,ACF Fiorentina,Serie A,2011/2012,2011
+Marco Marchionni,Right Midfield,1980-07-22,30,Italy,ACF Fiorentina,Serie A,2011/2012,2011
+Adem Ljajic,Attacking Midfield,1991-09-29,19,Serbia,ACF Fiorentina,Serie A,2011/2012,2011
+Alessio Cerci,Right Winger,1987-07-23,23,Italy,ACF Fiorentina,Serie A,2011/2012,2011
+Maxwell Acosty,Right Winger,1991-09-10,19,Ghana,ACF Fiorentina,Serie A,2011/2012,2011
+Ryder Matos,Second Striker,1993-02-27,18,Brazil,ACF Fiorentina,Serie A,2011/2012,2011
+Stevan Jovetic,Centre-Forward,1989-11-02,21,Montenegro,ACF Fiorentina,Serie A,2011/2012,2011
+Alberto Gilardino,Centre-Forward,1982-07-05,28,Italy,ACF Fiorentina,Serie A,2011/2012,2011
+Amauri,Centre-Forward,1980-06-03,31,Italy,ACF Fiorentina,Serie A,2011/2012,2011
+Khouma Babacar,Centre-Forward,1993-03-17,18,Senegal,ACF Fiorentina,Serie A,2011/2012,2011
+Santiago Silva,Centre-Forward,1980-12-09,30,Uruguay,ACF Fiorentina,Serie A,2011/2012,2011
+Kenneth Zohore,Centre-Forward,1994-01-31,17,Denmark,ACF Fiorentina,Serie A,2011/2012,2011
+Sébastien Frey,Goalkeeper,1980-03-18,31,France,Genoa CFC,Serie A,2011/2012,2011
+Cristiano Lupatelli,Goalkeeper,1978-06-21,33,Italy,Genoa CFC,Serie A,2011/2012,2011
+Alessio Scarpi,Goalkeeper,1973-04-19,38,Italy,Genoa CFC,Serie A,2011/2012,2011
+Lukas Zima,Goalkeeper,1994-01-09,17,Czech Republic,Genoa CFC,Serie A,2011/2012,2011
+Cesare Bovo,Centre-Back,1983-01-14,28,Italy,Genoa CFC,Serie A,2011/2012,2011
+Andreas Granqvist,Centre-Back,1985-04-16,26,Sweden,Genoa CFC,Serie A,2011/2012,2011
+Dario Dainelli,Centre-Back,1979-06-09,32,Italy,Genoa CFC,Serie A,2011/2012,2011
+Emiliano Moretti,Centre-Back,1981-06-11,30,Italy,Genoa CFC,Serie A,2011/2012,2011
+Kakhaber Kaladze,Centre-Back,1978-02-27,33,Georgia,Genoa CFC,Serie A,2011/2012,2011
+Roger Carvalho,Centre-Back,1986-12-10,24,Brazil,Genoa CFC,Serie A,2011/2012,2011
+Alberto Marchiori,Centre-Back,1993-05-11,18,Italy,Genoa CFC,Serie A,2011/2012,2011
+Luka Krajnc,Centre-Back,1994-09-19,16,Slovenia,Genoa CFC,Serie A,2011/2012,2011
+Luca Antonelli,Left-Back,1987-02-11,24,Italy,Genoa CFC,Serie A,2011/2012,2011
+Masahudu Alhassan,Left-Back,1992-12-01,18,Ghana,Genoa CFC,Serie A,2011/2012,2011
+Giandomenico Mesto,Right-Back,1982-05-25,29,Italy,Genoa CFC,Serie A,2011/2012,2011
+Mario Sampirisi,Right-Back,1992-10-31,18,Italy,Genoa CFC,Serie A,2011/2012,2011
+Miguel Veloso,Defensive Midfield,1986-05-11,25,Portugal,Genoa CFC,Serie A,2011/2012,2011
+Felipe Seymour,Defensive Midfield,1987-07-23,23,Chile,Genoa CFC,Serie A,2011/2012,2011
+Andrea Molinelli,Defensive Midfield,1993-05-06,18,Italy,Genoa CFC,Serie A,2011/2012,2011
+Kévin Constant,Central Midfield,1987-05-10,24,Guinea,Genoa CFC,Serie A,2011/2012,2011
+Juraj Kucka,Central Midfield,1987-02-26,24,Slovakia,Genoa CFC,Serie A,2011/2012,2011
+Davide Biondini,Central Midfield,1983-01-24,28,Italy,Genoa CFC,Serie A,2011/2012,2011
+Alexander Merkel,Central Midfield,1992-02-22,19,Kazakhstan,Genoa CFC,Serie A,2011/2012,2011
+Stefano Sturaro,Central Midfield,1993-03-09,18,Italy,Genoa CFC,Serie A,2011/2012,2011
+Marco Rossi,Right Midfield,1978-04-01,33,Italy,Genoa CFC,Serie A,2011/2012,2011
+Matteo Meucci,Right Midfield,1993-07-03,17,Italy,Genoa CFC,Serie A,2011/2012,2011
+Fernando Belluschi,Attacking Midfield,1983-09-10,27,Argentina,Genoa CFC,Serie A,2011/2012,2011
+Valter Birsa,Attacking Midfield,1986-08-07,24,Slovenia,Genoa CFC,Serie A,2011/2012,2011
+Cristóbal Jorquera,Attacking Midfield,1988-08-04,22,Chile,Genoa CFC,Serie A,2011/2012,2011
+Giuseppe Sculli,Left Winger,1981-03-23,30,Italy,Genoa CFC,Serie A,2011/2012,2011
+Boško Janković,Right Winger,1984-03-01,27,Serbia,Genoa CFC,Serie A,2011/2012,2011
+William Lacerda,Right Winger,1992-01-05,19,Brazil,Genoa CFC,Serie A,2011/2012,2011
+Alberto Gilardino,Centre-Forward,1982-07-05,28,Italy,Genoa CFC,Serie A,2011/2012,2011
+Rodrigo Palacio,Centre-Forward,1982-02-05,29,Argentina,Genoa CFC,Serie A,2011/2012,2011
+Andrea Caracciolo,Centre-Forward,1981-09-18,29,Italy,Genoa CFC,Serie A,2011/2012,2011
+Zé Love,Centre-Forward,1987-10-29,23,Brazil,Genoa CFC,Serie A,2011/2012,2011
+Sebastián Ribas,Centre-Forward,1988-03-11,23,Uruguay,Genoa CFC,Serie A,2011/2012,2011
+Lucas Pratto,Centre-Forward,1988-06-04,23,Argentina,Genoa CFC,Serie A,2011/2012,2011
+Orlando Held,Centre-Forward,1994-03-03,17,Italy,Genoa CFC,Serie A,2011/2012,2011
+Emiliano Viviano,Goalkeeper,1985-12-01,25,Italy,US Palermo,Serie A,2011/2012,2011
+Alexandros Tzorvas,Goalkeeper,1982-08-12,28,Greece,US Palermo,Serie A,2011/2012,2011
+Rubinho,Goalkeeper,1982-08-04,28,Brazil,US Palermo,Serie A,2011/2012,2011
+Francesco Benussi,Goalkeeper,1981-10-15,29,Italy,US Palermo,Serie A,2011/2012,2011
+Alessandro Micai,Goalkeeper,1993-07-24,17,Italy,US Palermo,Serie A,2011/2012,2011
+Giacomo Brichetto,Goalkeeper,1983-05-09,28,Italy,US Palermo,Serie A,2011/2012,2011
+Alberto Patania,Goalkeeper,1994-08-30,16,Italy,US Palermo,Serie A,2011/2012,2011
+Cesare Bovo,Centre-Back,1983-01-14,28,Italy,US Palermo,Serie A,2011/2012,2011
+Ezequiel Muñoz,Centre-Back,1990-10-08,20,Argentina,US Palermo,Serie A,2011/2012,2011
+Andrea Mantovani,Centre-Back,1984-06-22,27,Italy,US Palermo,Serie A,2011/2012,2011
+Matías Silvestre,Centre-Back,1984-09-25,26,Argentina,US Palermo,Serie A,2011/2012,2011
+Mauro Cetto,Centre-Back,1982-04-14,29,Argentina,US Palermo,Serie A,2011/2012,2011
+Milan Milanovic,Centre-Back,1991-03-31,20,Serbia,US Palermo,Serie A,2011/2012,2011
+Carlos Labrín,Centre-Back,1990-12-02,20,Chile,US Palermo,Serie A,2011/2012,2011
+Jevrem Kosnic,Centre-Back,1993-04-28,18,Serbia,US Palermo,Serie A,2011/2012,2011
+Giuseppe Prestia,Centre-Back,1993-11-13,17,Italy,US Palermo,Serie A,2011/2012,2011
+Luigi Silvestri,Centre-Back,1993-01-22,18,Italy,US Palermo,Serie A,2011/2012,2011
+Federico Balzaretti,Left-Back,1981-12-06,29,Italy,US Palermo,Serie A,2011/2012,2011
+Luca Di Matteo,Left-Back,1988-02-25,23,Italy,US Palermo,Serie A,2011/2012,2011
+Gianluca Di Chiara,Left-Back,1993-12-26,17,Italy,US Palermo,Serie A,2011/2012,2011
+Mattia Cassani,Right-Back,1983-08-26,27,Italy,US Palermo,Serie A,2011/2012,2011
+Eros Pisano,Right-Back,1987-03-31,24,Italy,US Palermo,Serie A,2011/2012,2011
+Matías Aguirregaray,Right-Back,1989-04-01,22,Uruguay,US Palermo,Serie A,2011/2012,2011
+Armin Bacinovic,Defensive Midfield,1989-10-24,21,Slovenia,US Palermo,Serie A,2011/2012,2011
+Massimo Donati,Defensive Midfield,1981-03-26,30,Italy,US Palermo,Serie A,2011/2012,2011
+Ádám Simon,Defensive Midfield,1990-03-30,21,Hungary,US Palermo,Serie A,2011/2012,2011
+Antonio Nocerino,Central Midfield,1985-04-09,26,Italy,US Palermo,Serie A,2011/2012,2011
+Giulio Migliaccio,Central Midfield,1981-06-23,30,Italy,US Palermo,Serie A,2011/2012,2011
+Édgar Barreto,Central Midfield,1984-07-15,26,Paraguay,US Palermo,Serie A,2011/2012,2011
+Francesco Della Rocca,Central Midfield,1987-09-14,23,Italy,US Palermo,Serie A,2011/2012,2011
+Afriyie Acquah,Central Midfield,1992-01-05,19,Ghana,US Palermo,Serie A,2011/2012,2011
+Andrea Barberis,Central Midfield,1993-12-11,17,Italy,US Palermo,Serie A,2011/2012,2011
+Édgar Álvarez,Right Midfield,1980-01-18,31,Honduras,US Palermo,Serie A,2011/2012,2011
+Franco Vázquez,Attacking Midfield,1989-02-22,22,Argentina,US Palermo,Serie A,2011/2012,2011
+Nicolás Bertolo,Left Winger,1986-01-02,25,Argentina,US Palermo,Serie A,2011/2012,2011
+Ignacio Lores,Right Winger,1991-04-26,20,Uruguay,US Palermo,Serie A,2011/2012,2011
+Mauro Bollino,Right Winger,1994-12-31,16,Italy,US Palermo,Serie A,2011/2012,2011
+Josip Ilicic,Second Striker,1988-01-29,23,Slovenia,US Palermo,Serie A,2011/2012,2011
+Eran Zahavi,Second Striker,1987-07-25,23,Israel,US Palermo,Serie A,2011/2012,2011
+Fabrizio Miccoli,Centre-Forward,1979-06-27,32,Italy,US Palermo,Serie A,2011/2012,2011
+Abel Hernández,Centre-Forward,1990-08-08,20,Uruguay,US Palermo,Serie A,2011/2012,2011
+Mauricio Pinilla,Centre-Forward,1984-02-04,27,Chile,US Palermo,Serie A,2011/2012,2011
+Pablo González,Centre-Forward,1985-05-28,26,Argentina,US Palermo,Serie A,2011/2012,2011
+Agon Mehmeti,Centre-Forward,1989-11-20,21,Albania,US Palermo,Serie A,2011/2012,2011
+Igor Budan,Centre-Forward,1980-04-22,31,Croatia,US Palermo,Serie A,2011/2012,2011
+Cephas Malele,Centre-Forward,1994-01-08,17,Switzerland,US Palermo,Serie A,2011/2012,2011
+Federico Marchetti,Goalkeeper,1983-02-07,28,Italy,SS Lazio,Serie A,2011/2012,2011
+Juan Pablo Carrizo,Goalkeeper,1984-05-06,27,Argentina,SS Lazio,Serie A,2011/2012,2011
+Albano Bizzarri,Goalkeeper,1977-11-09,33,Argentina,SS Lazio,Serie A,2011/2012,2011
+Alessandro Berardi,Goalkeeper,1991-01-16,20,Italy,SS Lazio,Serie A,2011/2012,2011
+Tiziano Scarfagna,Goalkeeper,1994-01-26,17,Italy,SS Lazio,Serie A,2011/2012,2011
+Gianmarco Oddo,Defender,1994-06-28,17,Italy,SS Lazio,Serie A,2011/2012,2011
+Lorik Cana,Centre-Back,1983-07-27,27,Albania,SS Lazio,Serie A,2011/2012,2011
+Stefan Radu,Centre-Back,1986-10-22,24,Romania,SS Lazio,Serie A,2011/2012,2011
+André Dias,Centre-Back,1979-05-15,32,Brazil,SS Lazio,Serie A,2011/2012,2011
+Marius Stankevicius,Centre-Back,1981-07-15,29,Lithuania,SS Lazio,Serie A,2011/2012,2011
+Modibo Diakité,Centre-Back,1987-03-02,24,France,SS Lazio,Serie A,2011/2012,2011
+Giuseppe Biava,Centre-Back,1977-05-08,34,Italy,SS Lazio,Serie A,2011/2012,2011
+Guglielmo Stendardo,Centre-Back,1981-05-06,30,Italy,SS Lazio,Serie A,2011/2012,2011
+Ivan Artipoli,Centre-Back,1986-03-24,25,Italy,SS Lazio,Serie A,2011/2012,2011
+Luca Crescenzi,Centre-Back,1992-04-02,19,Italy,SS Lazio,Serie A,2011/2012,2011
+Federico Chirico,Centre-Back,1989-05-13,22,Italy,SS Lazio,Serie A,2011/2012,2011
+Andrea Sbraga,Centre-Back,1992-01-14,19,Italy,SS Lazio,Serie A,2011/2012,2011
+Riccardo Serpieri,Centre-Back,1994-02-15,17,Italy,SS Lazio,Serie A,2011/2012,2011
+Javier Garrido,Left-Back,1985-03-15,26,Spain,SS Lazio,Serie A,2011/2012,2011
+Abdoulay Konko,Right-Back,1984-03-09,27,France,SS Lazio,Serie A,2011/2012,2011
+Luciano Zauri,Right-Back,1978-01-20,33,Italy,SS Lazio,Serie A,2011/2012,2011
+Lionel Scaloni,Right-Back,1978-05-16,33,Argentina,SS Lazio,Serie A,2011/2012,2011
+Luis Pedro Cavanda,Right-Back,1991-01-02,20,Belgium,SS Lazio,Serie A,2011/2012,2011
+Claudio Andreoli,Midfielder,1994-04-01,17,Italy,SS Lazio,Serie A,2011/2012,2011
+Tommaso Barluzzi,Midfielder,1994-02-01,17,Italy,SS Lazio,Serie A,2011/2012,2011
+Fabrizio Pasquetto,Midfielder,1994-03-20,17,Italy,SS Lazio,Serie A,2011/2012,2011
+Cristian Ledesma,Defensive Midfield,1982-09-24,28,Italy,SS Lazio,Serie A,2011/2012,2011
+Matuzalém,Defensive Midfield,1980-06-10,31,Brazil,SS Lazio,Serie A,2011/2012,2011
+Enrico Zampa,Defensive Midfield,1992-03-18,19,Italy,SS Lazio,Serie A,2011/2012,2011
+Ogenyi Onazi,Defensive Midfield,1992-12-25,18,Nigeria,SS Lazio,Serie A,2011/2012,2011
+Álvaro González,Central Midfield,1984-10-29,26,Uruguay,SS Lazio,Serie A,2011/2012,2011
+Cristian Brocchi,Central Midfield,1976-01-30,35,Italy,SS Lazio,Serie A,2011/2012,2011
+Vittorio Salustri,Central Midfield,1993-07-26,17,Italy,SS Lazio,Serie A,2011/2012,2011
+Luca Carru,Central Midfield,1994-02-04,17,Italy,SS Lazio,Serie A,2011/2012,2011
+Danilo Cataldi,Central Midfield,1994-08-06,16,Italy,SS Lazio,Serie A,2011/2012,2011
+Edoardo Fagioli,Right Midfield,1993-01-26,18,Italy,SS Lazio,Serie A,2011/2012,2011
+Senad Lulic,Left Midfield,1986-01-18,25,Bosnia-Herzegovina,SS Lazio,Serie A,2011/2012,2011
+Hernanes,Attacking Midfield,1985-05-29,26,Brazil,SS Lazio,Serie A,2011/2012,2011
+Stefano Mauri,Attacking Midfield,1980-01-08,31,Italy,SS Lazio,Serie A,2011/2012,2011
+Gregorio Pagni,Forward,1994-12-27,16,Italy,SS Lazio,Serie A,2011/2012,2011
+Giuseppe Sculli,Left Winger,1981-03-23,30,Italy,SS Lazio,Serie A,2011/2012,2011
+Simone Del Nero,Left Winger,1981-08-04,29,Italy,SS Lazio,Serie A,2011/2012,2011
+Antonio Candreva,Right Winger,1987-02-28,24,Italy,SS Lazio,Serie A,2011/2012,2011
+Tommaso Ceccarelli,Right Winger,1992-06-02,19,Italy,SS Lazio,Serie A,2011/2012,2011
+Djibril Cissé,Centre-Forward,1981-08-12,29,France,SS Lazio,Serie A,2011/2012,2011
+Miroslav Klose,Centre-Forward,1978-06-09,33,Germany,SS Lazio,Serie A,2011/2012,2011
+Libor Kozak,Centre-Forward,1989-05-30,22,Czech Republic,SS Lazio,Serie A,2011/2012,2011
+Tommaso Rocchi,Centre-Forward,1977-09-19,33,Italy,SS Lazio,Serie A,2011/2012,2011
+Gonzalo Barreto,Centre-Forward,1992-01-22,19,Uruguay,SS Lazio,Serie A,2011/2012,2011
+Emiliano Alfaro,Centre-Forward,1988-04-28,23,Uruguay,SS Lazio,Serie A,2011/2012,2011
+Stephen Makinwa,Centre-Forward,1983-07-26,27,Nigeria,SS Lazio,Serie A,2011/2012,2011
+Matteo Monteforte,Centre-Forward,1993-10-22,17,Italy,SS Lazio,Serie A,2011/2012,2011
+Antonio Rozzi,Centre-Forward,1994-05-28,17,Italy,SS Lazio,Serie A,2011/2012,2011
+Samir Handanovic,Goalkeeper,1984-07-14,26,Slovenia,Udinese Calcio,Serie A,2011/2012,2011
+Emanuele Belardi,Goalkeeper,1977-10-09,33,Italy,Udinese Calcio,Serie A,2011/2012,2011
+Daniele Padelli,Goalkeeper,1985-10-25,25,Italy,Udinese Calcio,Serie A,2011/2012,2011
+Rafael Romo,Goalkeeper,1990-02-25,21,Venezuela,Udinese Calcio,Serie A,2011/2012,2011
+Ivan Provedel,Goalkeeper,1994-03-17,17,Italy,Udinese Calcio,Serie A,2011/2012,2011
+Medhi Benatia,Centre-Back,1987-04-17,24,Morocco,Udinese Calcio,Serie A,2011/2012,2011
+Danilo,Centre-Back,1984-05-10,27,Brazil,Udinese Calcio,Serie A,2011/2012,2011
+Andrea Coda,Centre-Back,1985-04-25,26,Italy,Udinese Calcio,Serie A,2011/2012,2011
+Maurizio Domizzi,Centre-Back,1980-06-28,31,Italy,Udinese Calcio,Serie A,2011/2012,2011
+Joel Ekstrand,Centre-Back,1989-02-04,22,Sweden,Udinese Calcio,Serie A,2011/2012,2011
+Damiano Ferronetti,Centre-Back,1984-11-01,26,Italy,Udinese Calcio,Serie A,2011/2012,2011
+Neuton,Centre-Back,1990-03-14,21,Brazil,Udinese Calcio,Serie A,2011/2012,2011
+Mohamadou Sissoko,Centre-Back,1988-08-08,22,France,Udinese Calcio,Serie A,2011/2012,2011
+Daniel Bello,Centre-Back,1992-01-12,19,Italy,Udinese Calcio,Serie A,2011/2012,2011
+Simone Sbardella,Centre-Back,1993-04-17,18,Italy,Udinese Calcio,Serie A,2011/2012,2011
+Luca Corrado,Centre-Back,1994-04-12,17,Italy,Udinese Calcio,Serie A,2011/2012,2011
+Kwadwo Asamoah,Left-Back,1988-12-09,22,Ghana,Udinese Calcio,Serie A,2011/2012,2011
+Pablo Armero,Left-Back,1986-11-02,24,Colombia,Udinese Calcio,Serie A,2011/2012,2011
+Giovanni Pasquale,Left-Back,1982-01-05,29,Italy,Udinese Calcio,Serie A,2011/2012,2011
+Jean-Alain Fanchone,Left-Back,1988-09-02,22,France,Udinese Calcio,Serie A,2011/2012,2011
+Devid Cudicio,Left-Back,1993-03-05,18,Italy,Udinese Calcio,Serie A,2011/2012,2011
+Mauricio Isla,Right-Back,1988-06-12,23,Chile,Udinese Calcio,Serie A,2011/2012,2011
+Dusan Basta,Right-Back,1984-08-18,26,Serbia,Udinese Calcio,Serie A,2011/2012,2011
+Michele Pazienza,Defensive Midfield,1982-08-05,28,Italy,Udinese Calcio,Serie A,2011/2012,2011
+Gelson Fernandes,Defensive Midfield,1986-09-02,24,Switzerland,Udinese Calcio,Serie A,2011/2012,2011
+Thierry Doubai,Defensive Midfield,1988-07-01,23,Cote d'Ivoire,Udinese Calcio,Serie A,2011/2012,2011
+Abdoul Sissoko,Defensive Midfield,1990-03-20,21,Mali,Udinese Calcio,Serie A,2011/2012,2011
+Ergün Berisa,Defensive Midfield,1988-06-24,23,Turkey,Udinese Calcio,Serie A,2011/2012,2011
+Vasilios Karagounis,Defensive Midfield,1994-01-18,17,Greece,Udinese Calcio,Serie A,2011/2012,2011
+Giampiero Pinzi,Central Midfield,1981-03-11,30,Italy,Udinese Calcio,Serie A,2011/2012,2011
+Almen Abdi,Central Midfield,1986-10-21,24,Switzerland,Udinese Calcio,Serie A,2011/2012,2011
+Emmanuel Badu,Central Midfield,1990-12-02,20,Ghana,Udinese Calcio,Serie A,2011/2012,2011
+Cristian Battocchio,Central Midfield,1992-02-10,19,Italy,Udinese Calcio,Serie A,2011/2012,2011
+Gianluca Migliorini,Central Midfield,1993-03-04,18,Italy,Udinese Calcio,Serie A,2011/2012,2011
+Mattia Bedin,Central Midfield,1994-01-04,17,Italy,Udinese Calcio,Serie A,2011/2012,2011
+Piotr Zielinski,Central Midfield,1994-05-20,17,Poland,Udinese Calcio,Serie A,2011/2012,2011
+Simone Deana,Central Midfield,1993-05-20,18,Italy,Udinese Calcio,Serie A,2011/2012,2011
+Luca Baldassin,Central Midfield,1994-05-28,17,Italy,Udinese Calcio,Serie A,2011/2012,2011
+Marco Piscopo,Central Midfield,1994-03-09,17,Italy,Udinese Calcio,Serie A,2011/2012,2011
+Roberto Pereyra,Left Midfield,1991-01-07,20,Argentina,Udinese Calcio,Serie A,2011/2012,2011
+Diego Fabbrini,Attacking Midfield,1990-07-31,20,Italy,Udinese Calcio,Serie A,2011/2012,2011
+Davide Marsura,Left Winger,1994-02-20,17,Italy,Udinese Calcio,Serie A,2011/2012,2011
+Riccardo Dimitrio,Left Winger,1994-08-13,16,Italy,Udinese Calcio,Serie A,2011/2012,2011
+Gabriel Torje,Right Winger,1989-11-22,21,Romania,Udinese Calcio,Serie A,2011/2012,2011
+Barreto,Second Striker,1985-07-12,25,Brazil,Udinese Calcio,Serie A,2011/2012,2011
+Antonio Floro Flores,Centre-Forward,1983-06-18,28,Italy,Udinese Calcio,Serie A,2011/2012,2011
+Antonio Di Natale,Centre-Forward,1977-10-13,33,Italy,Udinese Calcio,Serie A,2011/2012,2011
+Germán Denis,Centre-Forward,1981-09-10,29,Argentina,Udinese Calcio,Serie A,2011/2012,2011
+Matej Vydra,Centre-Forward,1992-05-01,19,Czech Republic,Udinese Calcio,Serie A,2011/2012,2011
+Antonio Mirante,Goalkeeper,1983-07-08,27,Italy,Parma FC,Serie A,2011/2012,2011
+Nicola Pavarini,Goalkeeper,1974-02-24,37,Italy,Parma FC,Serie A,2011/2012,2011
+Alberto Gallinetta,Goalkeeper,1992-04-16,19,Italy,Parma FC,Serie A,2011/2012,2011
+Matteo Ferrari,Goalkeeper,1994-04-05,17,Italy,Parma FC,Serie A,2011/2012,2011
+Joyce Anacoura,Goalkeeper,1994-08-01,16,Italy,Parma FC,Serie A,2011/2012,2011
+Marco D'Arsiè,Goalkeeper,1993-02-25,18,Italy,Parma FC,Serie A,2011/2012,2011
+Simone Pessagno,Defender,1993-01-25,18,Italy,Parma FC,Serie A,2011/2012,2011
+Matteo Mantovani,Defender,1993-04-23,18,Italy,Parma FC,Serie A,2011/2012,2011
+Cristian Zaccardo,Centre-Back,1981-12-21,29,Italy,Parma FC,Serie A,2011/2012,2011
+Gabriel Paletta,Centre-Back,1986-02-15,25,Italy,Parma FC,Serie A,2011/2012,2011
+Fabiano Santacroce,Centre-Back,1986-08-24,24,Italy,Parma FC,Serie A,2011/2012,2011
+Gonçalo Brandão,Centre-Back,1986-10-09,24,Portugal,Parma FC,Serie A,2011/2012,2011
+Stefano Ferrario,Centre-Back,1985-03-28,26,Italy,Parma FC,Serie A,2011/2012,2011
+Alessandro Lucarelli,Centre-Back,1977-07-22,33,Italy,Parma FC,Serie A,2011/2012,2011
+Makris Petrozzi,Centre-Back,1993-01-06,18,Italy,Parma FC,Serie A,2011/2012,2011
+Davide Adorni,Centre-Back,1992-08-09,18,Italy,Parma FC,Serie A,2011/2012,2011
+Francesco Modesto,Left-Back,1982-02-16,29,Italy,Parma FC,Serie A,2011/2012,2011
+Massimo Gobbi,Left-Back,1980-10-31,30,Italy,Parma FC,Serie A,2011/2012,2011
+Matteo Rubin,Left-Back,1987-07-09,23,Italy,Parma FC,Serie A,2011/2012,2011
+Jonathan,Right-Back,1986-02-27,25,Brazil,Parma FC,Serie A,2011/2012,2011
+Rolf Feltscher,Right-Back,1990-10-06,20,Venezuela,Parma FC,Serie A,2011/2012,2011
+McDonald Mariga,Defensive Midfield,1987-04-04,24,Kenya,Parma FC,Serie A,2011/2012,2011
+Nwankwo Obiora,Defensive Midfield,1991-07-12,19,Nigeria,Parma FC,Serie A,2011/2012,2011
+Danilo Pereira,Defensive Midfield,1991-09-09,19,Portugal,Parma FC,Serie A,2011/2012,2011
+Zé Eduardo,Defensive Midfield,1991-08-16,19,Brazil,Parma FC,Serie A,2011/2012,2011
+Cristiano Colla,Defensive Midfield,1993-11-25,17,Italy,Parma FC,Serie A,2011/2012,2011
+Jaime Valdés,Central Midfield,1981-01-11,30,Chile,Parma FC,Serie A,2011/2012,2011
+Daniele Galloppa,Central Midfield,1985-05-15,26,Italy,Parma FC,Serie A,2011/2012,2011
+Stefano Morrone,Central Midfield,1978-10-26,32,Italy,Parma FC,Serie A,2011/2012,2011
+Francesco Valiani,Central Midfield,1980-10-29,30,Italy,Parma FC,Serie A,2011/2012,2011
+Manuele Blasi,Central Midfield,1980-08-17,30,Italy,Parma FC,Serie A,2011/2012,2011
+Gianluca Musacci,Central Midfield,1987-04-01,24,Italy,Parma FC,Serie A,2011/2012,2011
+Abderrazzak Jadid,Central Midfield,1983-06-01,28,Morocco,Parma FC,Serie A,2011/2012,2011
+Raffaele Palladino,Left Winger,1984-04-17,27,Italy,Parma FC,Serie A,2011/2012,2011
+Fabio Borini,Left Winger,1991-03-29,20,Italy,Parma FC,Serie A,2011/2012,2011
+Jonathan Biabiany,Right Winger,1988-04-28,23,France,Parma FC,Serie A,2011/2012,2011
+Fernando Marqués,Right Winger,1984-12-04,26,Spain,Parma FC,Serie A,2011/2012,2011
+Nicola Berselli,Right Winger,1994-05-05,17,Italy,Parma FC,Serie A,2011/2012,2011
+Sebastian Giovinco,Second Striker,1987-01-26,24,Italy,Parma FC,Serie A,2011/2012,2011
+Sergio Floccari,Centre-Forward,1981-11-12,29,Italy,Parma FC,Serie A,2011/2012,2011
+Stefano Okaka,Centre-Forward,1989-08-09,21,Italy,Parma FC,Serie A,2011/2012,2011
+Graziano Pellè,Centre-Forward,1985-07-15,25,Italy,Parma FC,Serie A,2011/2012,2011
+Hernán Crespo,Centre-Forward,1975-07-05,35,Argentina,Parma FC,Serie A,2011/2012,2011
+Michael Agazzi,Goalkeeper,1984-07-03,26,Italy,Cagliari Calcio,Serie A,2011/2012,2011
+Vlada Avramov,Goalkeeper,1979-04-05,32,Serbia,Cagliari Calcio,Serie A,2011/2012,2011
+Mauro Vigorito,Goalkeeper,1990-05-22,21,Italy,Cagliari Calcio,Serie A,2011/2012,2011
+Marco Ruzittu,Goalkeeper,1991-06-15,20,Italy,Cagliari Calcio,Serie A,2011/2012,2011
+Davide Astori,Centre-Back,1987-01-07,24,Italy,Cagliari Calcio,Serie A,2011/2012,2011
+Michele Canini,Centre-Back,1985-06-05,26,Italy,Cagliari Calcio,Serie A,2011/2012,2011
+Lorenzo Ariaudo,Centre-Back,1989-06-11,22,Italy,Cagliari Calcio,Serie A,2011/2012,2011
+Simone Gozzi,Centre-Back,1986-04-13,25,Italy,Cagliari Calcio,Serie A,2011/2012,2011
+Paolo Dametto,Centre-Back,1993-06-28,18,Italy,Cagliari Calcio,Serie A,2011/2012,2011
+Alessandro Agostini,Left-Back,1979-07-23,31,Italy,Cagliari Calcio,Serie A,2011/2012,2011
+Nicola Murru,Left-Back,1994-12-16,16,Italy,Cagliari Calcio,Serie A,2011/2012,2011
+Francesco Pisano,Right-Back,1986-04-29,25,Italy,Cagliari Calcio,Serie A,2011/2012,2011
+Gabriele Perico,Right-Back,1984-03-11,27,Italy,Cagliari Calcio,Serie A,2011/2012,2011
+Albin Ekdal,Defensive Midfield,1989-07-28,21,Sweden,Cagliari Calcio,Serie A,2011/2012,2011
+Daniele Conti,Defensive Midfield,1979-01-09,32,Italy,Cagliari Calcio,Serie A,2011/2012,2011
+Sebastian Eriksson,Defensive Midfield,1989-01-31,22,Sweden,Cagliari Calcio,Serie A,2011/2012,2011
+Salvatore Burrai,Defensive Midfield,1987-05-26,24,Italy,Cagliari Calcio,Serie A,2011/2012,2011
+Davide Biondini,Central Midfield,1983-01-24,28,Italy,Cagliari Calcio,Serie A,2011/2012,2011
+Daniele Dessena,Central Midfield,1987-05-10,24,Italy,Cagliari Calcio,Serie A,2011/2012,2011
+Rui Sampaio,Central Midfield,1987-05-29,24,Portugal,Cagliari Calcio,Serie A,2011/2012,2011
+Francesco Mannoni,Central Midfield,1992-01-28,19,Italy,Cagliari Calcio,Serie A,2011/2012,2011
+Andrea Cossu,Attacking Midfield,1980-05-03,31,Italy,Cagliari Calcio,Serie A,2011/2012,2011
+Radja Nainggolan,Attacking Midfield,1988-05-04,23,Belgium,Cagliari Calcio,Serie A,2011/2012,2011
+Pablo Ceppelini,Attacking Midfield,1991-09-11,19,Uruguay,Cagliari Calcio,Serie A,2011/2012,2011
+Marco Mancosu,Attacking Midfield,1988-08-22,22,Italy,Cagliari Calcio,Serie A,2011/2012,2011
+Thiago Ribeiro,Left Winger,1986-02-24,25,Brazil,Cagliari Calcio,Serie A,2011/2012,2011
+Nicolas Bovi,Right Winger,1993-03-11,18,Italy,Cagliari Calcio,Serie A,2011/2012,2011
+Víctor Ibarbo,Second Striker,1990-05-19,21,Colombia,Cagliari Calcio,Serie A,2011/2012,2011
+Giovanbattista Catalano,Second Striker,1994-01-22,17,Italy,Cagliari Calcio,Serie A,2011/2012,2011
+Mauricio Pinilla,Centre-Forward,1984-02-04,27,Chile,Cagliari Calcio,Serie A,2011/2012,2011
+Nenê,Centre-Forward,1983-07-28,27,Brazil,Cagliari Calcio,Serie A,2011/2012,2011
+Mostapha El Kabir,Centre-Forward,1988-10-05,22,Morocco,Cagliari Calcio,Serie A,2011/2012,2011
+Joaquín Larrivey,Centre-Forward,1984-08-20,26,Argentina,Cagliari Calcio,Serie A,2011/2012,2011
+Jean-François Gillet,Goalkeeper,1979-05-31,32,Belgium,Bologna FC 1909,Serie A,2011/2012,2011
+Federico Agliardi,Goalkeeper,1983-02-11,28,Italy,Bologna FC 1909,Serie A,2011/2012,2011
+Dejan Stojanovic,Goalkeeper,1993-07-19,17,Austria,Bologna FC 1909,Serie A,2011/2012,2011
+Filippo Lombardi,Goalkeeper,1990-04-22,21,Italy,Bologna FC 1909,Serie A,2011/2012,2011
+Luca Marchignoli,Goalkeeper,1994-07-28,16,Italy,Bologna FC 1909,Serie A,2011/2012,2011
+Frederik Sörensen,Centre-Back,1992-04-14,19,Denmark,Bologna FC 1909,Serie A,2011/2012,2011
+Mikael Antonsson,Centre-Back,1981-05-31,30,Sweden,Bologna FC 1909,Serie A,2011/2012,2011
+Andrea Raggi,Centre-Back,1984-06-24,27,Italy,Bologna FC 1909,Serie A,2011/2012,2011
+Daniele Portanova,Centre-Back,1978-12-17,32,Italy,Bologna FC 1909,Serie A,2011/2012,2011
+Nicolò Cherubin,Centre-Back,1986-12-02,24,Italy,Bologna FC 1909,Serie A,2011/2012,2011
+José Crespo,Centre-Back,1987-02-09,24,Spain,Bologna FC 1909,Serie A,2011/2012,2011
+Cesare Rickler,Centre-Back,1987-03-18,24,Italy,Bologna FC 1909,Serie A,2011/2012,2011
+Simone Loria,Centre-Back,1976-10-28,34,Italy,Bologna FC 1909,Serie A,2011/2012,2011
+Nemanja Mitrovic,Centre-Back,1992-10-15,18,Slovenia,Bologna FC 1909,Serie A,2011/2012,2011
+Matteo Boccaccini,Centre-Back,1993-02-08,18,Italy,Bologna FC 1909,Serie A,2011/2012,2011
+Luigi Vitale,Left-Back,1987-10-05,23,Italy,Bologna FC 1909,Serie A,2011/2012,2011
+Matteo Rubin,Left-Back,1987-07-09,23,Italy,Bologna FC 1909,Serie A,2011/2012,2011
+Archimede Morleo,Left-Back,1983-09-26,27,Italy,Bologna FC 1909,Serie A,2011/2012,2011
+Juan Cruz,Left-Back,1992-07-28,18,Spain,Bologna FC 1909,Serie A,2011/2012,2011
+György Garics,Right-Back,1984-03-08,27,Austria,Bologna FC 1909,Serie A,2011/2012,2011
+Diego Pérez,Defensive Midfield,1980-05-18,31,Uruguay,Bologna FC 1909,Serie A,2011/2012,2011
+Gaby Mudingayi,Defensive Midfield,1981-10-01,29,Belgium,Bologna FC 1909,Serie A,2011/2012,2011
+Rene Krhin,Defensive Midfield,1990-05-21,21,Slovenia,Bologna FC 1909,Serie A,2011/2012,2011
+Francesco Della Rocca,Central Midfield,1987-09-14,23,Italy,Bologna FC 1909,Serie A,2011/2012,2011
+Nico Pulzetti,Central Midfield,1984-02-13,27,Italy,Bologna FC 1909,Serie A,2011/2012,2011
+Panagiotis Kone,Central Midfield,1987-07-26,23,Greece,Bologna FC 1909,Serie A,2011/2012,2011
+Federico Casarini,Central Midfield,1989-09-07,21,Italy,Bologna FC 1909,Serie A,2011/2012,2011
+Saphir Taider,Central Midfield,1992-02-29,19,Algeria,Bologna FC 1909,Serie A,2011/2012,2011
+Riccardo Casini,Central Midfield,1992-02-02,19,Italy,Bologna FC 1909,Serie A,2011/2012,2011
+Gastón Ramírez,Attacking Midfield,1990-12-02,20,Uruguay,Bologna FC 1909,Serie A,2011/2012,2011
+Riccardo Pasi,Right Winger,1990-08-27,20,Italy,Bologna FC 1909,Serie A,2011/2012,2011
+Alessandro Diamanti,Second Striker,1983-05-02,28,Italy,Bologna FC 1909,Serie A,2011/2012,2011
+Robert Acquafresca,Centre-Forward,1987-09-11,23,Italy,Bologna FC 1909,Serie A,2011/2012,2011
+Federico Rodríguez,Centre-Forward,1991-04-03,20,Uruguay,Bologna FC 1909,Serie A,2011/2012,2011
+Marco Di Vaio,Centre-Forward,1976-07-15,34,Italy,Bologna FC 1909,Serie A,2011/2012,2011
+Henry Giménez,Centre-Forward,1986-03-13,25,Uruguay,Bologna FC 1909,Serie A,2011/2012,2011
+Daniele Vantaggiato,Centre-Forward,1984-10-10,26,Italy,Bologna FC 1909,Serie A,2011/2012,2011
+Daniele Paponi,Centre-Forward,1988-04-16,23,Italy,Bologna FC 1909,Serie A,2011/2012,2011
+Ishak Belfodil,Centre-Forward,1992-01-12,19,Algeria,Bologna FC 1909,Serie A,2011/2012,2011
+Massimo Coda,Centre-Forward,1988-11-10,22,Italy,Bologna FC 1909,Serie A,2011/2012,2011
+Manuel Gavilán,Centre-Forward,1991-07-12,19,Spain,Bologna FC 1909,Serie A,2011/2012,2011
+Nicola Ravaglia,Goalkeeper,1988-12-12,22,Italy,AC Cesena,Serie A,2011/2012,2011
+Francesco Antonioli,Goalkeeper,1969-09-14,41,Italy,AC Cesena,Serie A,2011/2012,2011
+Alex Calderoni,Goalkeeper,1976-05-31,35,Italy,AC Cesena,Serie A,2011/2012,2011
+Aldo Simoncini,Goalkeeper,1986-08-30,24,San Marino,AC Cesena,Serie A,2011/2012,2011
+Alessandro Tonti,Goalkeeper,1992-05-28,19,Italy,AC Cesena,Serie A,2011/2012,2011
+Vangelis Moras,Centre-Back,1981-08-26,29,Greece,AC Cesena,Serie A,2011/2012,2011
+Steve von Bergen,Centre-Back,1983-06-10,28,Switzerland,AC Cesena,Serie A,2011/2012,2011
+Yohan Benalouane,Centre-Back,1987-03-28,24,Tunisia,AC Cesena,Serie A,2011/2012,2011
+Maurizio Lauro,Centre-Back,1981-03-12,30,Italy,AC Cesena,Serie A,2011/2012,2011
+Marco Rossi,Centre-Back,1987-09-30,23,Italy,AC Cesena,Serie A,2011/2012,2011
+Guillermo Rodríguez,Centre-Back,1984-03-21,27,Uruguay,AC Cesena,Serie A,2011/2012,2011
+Luca Ricci,Centre-Back,1989-03-13,22,Italy,AC Cesena,Serie A,2011/2012,2011
+Marco Vesi,Centre-Back,1992-06-11,19,Italy,AC Cesena,Serie A,2011/2012,2011
+Aleksejs Gilnics,Centre-Back,1993-05-29,18,Latvia,AC Cesena,Serie A,2011/2012,2011
+Daniel Pudil,Left-Back,1985-09-27,25,Czech Republic,AC Cesena,Serie A,2011/2012,2011
+Stefan Popescu,Left-Back,1993-05-05,18,Romania,AC Cesena,Serie A,2011/2012,2011
+Gianluca Comotto,Right-Back,1978-10-16,32,Italy,AC Cesena,Serie A,2011/2012,2011
+Luca Ceccarelli,Right-Back,1983-03-24,28,Italy,AC Cesena,Serie A,2011/2012,2011
+Leonardo Arrigoni,Right-Back,1993-02-21,18,Italy,AC Cesena,Serie A,2011/2012,2011
+Francesco Urso,Defensive Midfield,1994-06-09,17,Italy,AC Cesena,Serie A,2011/2012,2011
+Marco Parolo,Central Midfield,1985-01-25,26,Italy,AC Cesena,Serie A,2011/2012,2011
+Roberto Guana,Central Midfield,1981-01-21,30,Italy,AC Cesena,Serie A,2011/2012,2011
+Giuseppe Colucci,Central Midfield,1980-08-24,30,Italy,AC Cesena,Serie A,2011/2012,2011
+David Meza,Central Midfield,1988-08-15,22,Paraguay,AC Cesena,Serie A,2011/2012,2011
+Damjan Djokovic,Central Midfield,1990-04-18,21,Croatia,AC Cesena,Serie A,2011/2012,2011
+Tibor Cica,Central Midfield,1993-12-31,17,Croatia,AC Cesena,Serie A,2011/2012,2011
+Tommaso Arrigoni,Central Midfield,1994-02-26,17,Italy,AC Cesena,Serie A,2011/2012,2011
+Abdul Yabré,Central Midfield,1995-04-03,16,Burkina Faso,AC Cesena,Serie A,2011/2012,2011
+Raphael Martinho,Left Midfield,1988-04-15,23,Brazil,AC Cesena,Serie A,2011/2012,2011
+Simone Del Nero,Left Winger,1981-08-04,29,Italy,AC Cesena,Serie A,2011/2012,2011
+Mattia Filippi,Left Winger,1993-05-09,18,Italy,AC Cesena,Serie A,2011/2012,2011
+Jorge Martínez,Right Winger,1983-04-05,28,Uruguay,AC Cesena,Serie A,2011/2012,2011
+Antonio Candreva,Right Winger,1987-02-28,24,Italy,AC Cesena,Serie A,2011/2012,2011
+César Meza Colli,Right Winger,1991-10-05,19,Paraguay,AC Cesena,Serie A,2011/2012,2011
+Alessandro Saporetti,Right Winger,1994-01-23,17,Italy,AC Cesena,Serie A,2011/2012,2011
+Mario Santana,Second Striker,1981-12-23,29,Argentina,AC Cesena,Serie A,2011/2012,2011
+Éder,Second Striker,1986-11-15,24,Italy,AC Cesena,Serie A,2011/2012,2011
+Vincenzo Iaquinta,Centre-Forward,1979-11-21,31,Italy,AC Cesena,Serie A,2011/2012,2011
+Adrian Mutu,Centre-Forward,1979-01-08,32,Romania,AC Cesena,Serie A,2011/2012,2011
+Abdelkader Ghezzal,Centre-Forward,1984-12-05,26,Algeria,AC Cesena,Serie A,2011/2012,2011
+Dominique Malonga,Centre-Forward,1989-01-08,22,Congo,AC Cesena,Serie A,2011/2012,2011
+Erjon Bogdani,Centre-Forward,1977-04-14,34,Albania,AC Cesena,Serie A,2011/2012,2011
+Vincenzo Rennella,Centre-Forward,1988-10-08,22,Italy,AC Cesena,Serie A,2011/2012,2011
+Marko Livaja,Centre-Forward,1993-08-26,17,Croatia,AC Cesena,Serie A,2011/2012,2011
+Nicolò Lolli,Centre-Forward,1994-10-11,16,Italy,AC Cesena,Serie A,2011/2012,2011
+Mariano Andújar,Goalkeeper,1983-07-30,27,Argentina,Calcio Catania,Serie A,2011/2012,2011
+Juan Pablo Carrizo,Goalkeeper,1984-05-06,27,Argentina,Calcio Catania,Serie A,2011/2012,2011
+Andrea Campagnolo,Goalkeeper,1978-06-17,33,Italy,Calcio Catania,Serie A,2011/2012,2011
+Tomas Kosicky,Goalkeeper,1986-03-11,25,Slovakia,Calcio Catania,Serie A,2011/2012,2011
+Pietro Terracciano,Goalkeeper,1990-03-08,21,Italy,Calcio Catania,Serie A,2011/2012,2011
+Haichel Bouallegue,Goalkeeper,1994-09-27,16,Italy,Calcio Catania,Serie A,2011/2012,2011
+Nicolás Spolli,Centre-Back,1983-02-20,28,Argentina,Calcio Catania,Serie A,2011/2012,2011
+Ciro Capuano,Centre-Back,1981-07-10,29,Italy,Calcio Catania,Serie A,2011/2012,2011
+Giuseppe Bellusci,Centre-Back,1989-08-21,21,Italy,Calcio Catania,Serie A,2011/2012,2011
+Alessandro Potenza,Centre-Back,1984-03-08,27,Italy,Calcio Catania,Serie A,2011/2012,2011
+Blazej Augustyn,Centre-Back,1988-01-26,23,Poland,Calcio Catania,Serie A,2011/2012,2011
+Giovanni Marchese,Centre-Back,1984-10-17,26,Italy,Calcio Catania,Serie A,2011/2012,2011
+Nicola Legrottaglie,Centre-Back,1976-10-20,34,Italy,Calcio Catania,Serie A,2011/2012,2011
+Tom,Left-Back,1988-06-21,23,Brazil,Calcio Catania,Serie A,2011/2012,2011
+Marco Motta,Right-Back,1986-05-14,25,Italy,Calcio Catania,Serie A,2011/2012,2011
+Pablo Álvarez,Right-Back,1984-04-17,27,Argentina,Calcio Catania,Serie A,2011/2012,2011
+Luca Calapai,Right-Back,1993-05-20,18,Italy,Calcio Catania,Serie A,2011/2012,2011
+Marco Biagianti,Defensive Midfield,1984-04-19,27,Italy,Calcio Catania,Serie A,2011/2012,2011
+Francesco Lodi,Defensive Midfield,1984-03-23,27,Italy,Calcio Catania,Serie A,2011/2012,2011
+Felipe Seymour,Defensive Midfield,1987-07-23,23,Chile,Calcio Catania,Serie A,2011/2012,2011
+Mario Paglialunga,Defensive Midfield,1988-10-29,22,Argentina,Calcio Catania,Serie A,2011/2012,2011
+Sergio Almirón,Central Midfield,1980-11-07,30,Argentina,Calcio Catania,Serie A,2011/2012,2011
+Pablo Ledesma,Central Midfield,1984-02-04,27,Argentina,Calcio Catania,Serie A,2011/2012,2011
+Mariano Izco,Central Midfield,1983-03-13,28,Argentina,Calcio Catania,Serie A,2011/2012,2011
+Fabio Sciacca,Central Midfield,1989-05-16,22,Italy,Calcio Catania,Serie A,2011/2012,2011
+Federico Moretti,Central Midfield,1988-10-28,22,Italy,Calcio Catania,Serie A,2011/2012,2011
+Gennaro Delvecchio,Central Midfield,1978-03-25,33,Italy,Calcio Catania,Serie A,2011/2012,2011
+Cristian Llama,Left Midfield,1986-06-26,25,Argentina,Calcio Catania,Serie A,2011/2012,2011
+Pablo Barrientos,Right Winger,1985-01-17,26,Argentina,Calcio Catania,Serie A,2011/2012,2011
+Keko,Right Winger,1991-12-27,19,Spain,Calcio Catania,Serie A,2011/2012,2011
+Papu Gómez,Second Striker,1988-02-15,23,Argentina,Calcio Catania,Serie A,2011/2012,2011
+Adrián Ricchiuti,Second Striker,1978-06-30,33,Argentina,Calcio Catania,Serie A,2011/2012,2011
+Maxi López,Centre-Forward,1984-04-03,27,Argentina,Calcio Catania,Serie A,2011/2012,2011
+Gonzalo Bergessio,Centre-Forward,1984-07-20,26,Argentina,Calcio Catania,Serie A,2011/2012,2011
+Davide Lanzafame,Centre-Forward,1987-02-09,24,Italy,Calcio Catania,Serie A,2011/2012,2011
+Osarimen Ebagua,Centre-Forward,1986-06-06,25,Nigeria,Calcio Catania,Serie A,2011/2012,2011
+David Suazo,Centre-Forward,1979-11-05,31,Honduras,Calcio Catania,Serie A,2011/2012,2011
+Andrea Catellani,Centre-Forward,1988-05-26,23,Italy,Calcio Catania,Serie A,2011/2012,2011
+Alfredo Donnarumma,Centre-Forward,1990-11-30,20,Italy,Calcio Catania,Serie A,2011/2012,2011
+Andrea Consigli,Goalkeeper,1987-01-27,24,Italy,Atalanta BC,Serie A,2011/2012,2011
+Ciro Polito,Goalkeeper,1979-04-12,32,Italy,Atalanta BC,Serie A,2011/2012,2011
+Giorgio Frezzolini,Goalkeeper,1976-01-21,35,Italy,Atalanta BC,Serie A,2011/2012,2011
+Renato Facheris,Goalkeeper,1992-08-28,18,Italy,Atalanta BC,Serie A,2011/2012,2011
+Przemyslaw Frackowiak,Goalkeeper,1994-01-07,17,Poland,Atalanta BC,Serie A,2011/2012,2011
+Stefano Lucchini,Centre-Back,1980-10-02,30,Italy,Atalanta BC,Serie A,2011/2012,2011
+Andrea Masiello,Centre-Back,1986-02-05,25,Italy,Atalanta BC,Serie A,2011/2012,2011
+Guglielmo Stendardo,Centre-Back,1981-05-06,30,Italy,Atalanta BC,Serie A,2011/2012,2011
+Daniele Capelli,Centre-Back,1986-06-20,25,Italy,Atalanta BC,Serie A,2011/2012,2011
+Thomas Manfredini,Centre-Back,1980-05-27,31,Italy,Atalanta BC,Serie A,2011/2012,2011
+Michele Ferri,Centre-Back,1981-05-29,30,Italy,Atalanta BC,Serie A,2011/2012,2011
+Luca Milesi,Centre-Back,1993-04-28,18,Italy,Atalanta BC,Serie A,2011/2012,2011
+Federico Peluso,Left-Back,1984-01-20,27,Italy,Atalanta BC,Serie A,2011/2012,2011
+Gianpaolo Bellini,Left-Back,1980-03-27,31,Italy,Atalanta BC,Serie A,2011/2012,2011
+Ezequiel Schelotto,Right-Back,1989-05-23,22,Italy,Atalanta BC,Serie A,2011/2012,2011
+Luca Cigarini,Defensive Midfield,1986-06-20,25,Italy,Atalanta BC,Serie A,2011/2012,2011
+Carlos Carmona,Defensive Midfield,1987-02-21,24,Chile,Atalanta BC,Serie A,2011/2012,2011
+Riccardo Cazzola,Defensive Midfield,1985-10-08,25,Italy,Atalanta BC,Serie A,2011/2012,2011
+Nadir Minotti,Defensive Midfield,1992-05-16,19,Italy,Atalanta BC,Serie A,2011/2012,2011
+Matteo Brighi,Central Midfield,1981-02-14,30,Italy,Atalanta BC,Serie A,2011/2012,2011
+Giacomo Bonaventura,Central Midfield,1989-08-22,21,Italy,Atalanta BC,Serie A,2011/2012,2011
+Fabio Caserta,Central Midfield,1978-09-24,32,Italy,Atalanta BC,Serie A,2011/2012,2011
+Massimo Mutarelli,Central Midfield,1978-01-13,33,Italy,Atalanta BC,Serie A,2011/2012,2011
+Davide Agazzi,Central Midfield,1993-06-02,18,Italy,Atalanta BC,Serie A,2011/2012,2011
+Cristian Raimondi,Right Midfield,1981-04-30,30,Italy,Atalanta BC,Serie A,2011/2012,2011
+Simone Padoin,Left Midfield,1984-03-18,27,Italy,Atalanta BC,Serie A,2011/2012,2011
+Maxi Moralez,Attacking Midfield,1987-02-27,24,Argentina,Atalanta BC,Serie A,2011/2012,2011
+Cristiano Doni,Attacking Midfield,1973-04-01,38,Italy,Atalanta BC,Serie A,2011/2012,2011
+Alessandro Carrozza,Left Winger,1982-02-01,29,Italy,Atalanta BC,Serie A,2011/2012,2011
+Leonardo Pettinari,Left Winger,1986-07-23,24,Italy,Atalanta BC,Serie A,2011/2012,2011
+Ferreira Pinto,Right Winger,1979-12-10,31,Brazil,Atalanta BC,Serie A,2011/2012,2011
+Guido Marilungo,Centre-Forward,1989-08-09,21,Italy,Atalanta BC,Serie A,2011/2012,2011
+Germán Denis,Centre-Forward,1981-09-10,29,Argentina,Atalanta BC,Serie A,2011/2012,2011
+Matteo Ardemagni,Centre-Forward,1987-03-26,24,Italy,Atalanta BC,Serie A,2011/2012,2011
+Simone Tiribocchi,Centre-Forward,1978-01-31,33,Italy,Atalanta BC,Serie A,2011/2012,2011
+Manolo Gabbiadini,Centre-Forward,1991-11-26,19,Italy,Atalanta BC,Serie A,2011/2012,2011
+Stefano Sorrentino,Goalkeeper,1979-03-28,32,Italy,Chievo Verona,Serie A,2011/2012,2011
+Christian Puggioni,Goalkeeper,1981-01-17,30,Italy,Chievo Verona,Serie A,2011/2012,2011
+Lorenzo Squizzi,Goalkeeper,1974-06-20,37,Italy,Chievo Verona,Serie A,2011/2012,2011
+Jacopo Coletta,Goalkeeper,1992-04-19,19,Italy,Chievo Verona,Serie A,2011/2012,2011
+Francesco Acerbi,Centre-Back,1988-02-10,23,Italy,Chievo Verona,Serie A,2011/2012,2011
+Marco Andreolli,Centre-Back,1986-06-10,25,Italy,Chievo Verona,Serie A,2011/2012,2011
+Dario Dainelli,Centre-Back,1979-06-09,32,Italy,Chievo Verona,Serie A,2011/2012,2011
+Bostjan Cesar,Centre-Back,1982-07-09,28,Slovenia,Chievo Verona,Serie A,2011/2012,2011
+Ivan Fatic,Centre-Back,1988-08-21,22,Montenegro,Chievo Verona,Serie A,2011/2012,2011
+Santiago Morero,Centre-Back,1982-04-18,29,Argentina,Chievo Verona,Serie A,2011/2012,2011
+Davide Mandelli,Centre-Back,1977-06-28,34,Italy,Chievo Verona,Serie A,2011/2012,2011
+Simone Grippo,Centre-Back,1988-12-12,22,Switzerland,Chievo Verona,Serie A,2011/2012,2011
+Nestor Djengoue,Centre-Back,1991-04-26,20,Cameroon,Chievo Verona,Serie A,2011/2012,2011
+Matteo Solini,Centre-Back,1993-03-09,18,Italy,Chievo Verona,Serie A,2011/2012,2011
+Federico Maccarone,Centre-Back,1994-07-07,16,Italy,Chievo Verona,Serie A,2011/2012,2011
+Boukary Dramé,Left-Back,1985-07-22,25,Senegal,Chievo Verona,Serie A,2011/2012,2011
+Bojan Jokic,Left-Back,1986-05-17,25,Slovenia,Chievo Verona,Serie A,2011/2012,2011
+Nikola Gulan,Left-Back,1989-03-23,22,Serbia,Chievo Verona,Serie A,2011/2012,2011
+Mickaël Facchinetti,Left-Back,1991-02-15,20,Switzerland,Chievo Verona,Serie A,2011/2012,2011
+Nicolas Frey,Right-Back,1984-03-06,27,France,Chievo Verona,Serie A,2011/2012,2011
+Gennaro Sardo,Right-Back,1979-05-08,32,Italy,Chievo Verona,Serie A,2011/2012,2011
+Rinaldo Cruzado,Defensive Midfield,1984-09-21,26,Peru,Chievo Verona,Serie A,2011/2012,2011
+Michael Bradley,Central Midfield,1987-07-31,23,United States,Chievo Verona,Serie A,2011/2012,2011
+Luca Rigoni,Central Midfield,1984-12-07,26,Italy,Chievo Verona,Serie A,2011/2012,2011
+Paolo Sammarco,Central Midfield,1983-03-17,28,Italy,Chievo Verona,Serie A,2011/2012,2011
+Kamil Vacek,Central Midfield,1987-05-18,24,Czech Republic,Chievo Verona,Serie A,2011/2012,2011
+Perparim Hetemaj,Central Midfield,1986-12-12,24,Finland,Chievo Verona,Serie A,2011/2012,2011
+Andrea De Falco,Central Midfield,1986-06-19,25,Italy,Chievo Verona,Serie A,2011/2012,2011
+Marco Burato,Central Midfield,1993-05-25,18,Italy,Chievo Verona,Serie A,2011/2012,2011
+Marco Gallozzi,Right Midfield,1988-07-27,22,Italy,Chievo Verona,Serie A,2011/2012,2011
+Luciano,Right Midfield,1975-12-03,35,Brazil,Chievo Verona,Serie A,2011/2012,2011
+Radoslav Kirilov,Left Winger,1992-06-29,19,Bulgaria,Chievo Verona,Serie A,2011/2012,2011
+Alan Hernández,Right Winger,1992-01-19,19,Panama,Chievo Verona,Serie A,2011/2012,2011
+Cyril Théréau,Second Striker,1983-04-24,28,France,Chievo Verona,Serie A,2011/2012,2011
+Alberto Paloschi,Centre-Forward,1990-01-04,21,Italy,Chievo Verona,Serie A,2011/2012,2011
+Sergio Pellissier,Centre-Forward,1979-04-12,32,Italy,Chievo Verona,Serie A,2011/2012,2011
+Davide Moscardelli,Centre-Forward,1980-02-03,31,Italy,Chievo Verona,Serie A,2011/2012,2011
+Fernando Uribe,Centre-Forward,1988-01-01,23,Colombia,Chievo Verona,Serie A,2011/2012,2011
+Marcos De Paula,Centre-Forward,1983-12-19,27,Brazil,Chievo Verona,Serie A,2011/2012,2011
+Francesco Grandolfo,Centre-Forward,1992-07-26,18,Italy,Chievo Verona,Serie A,2011/2012,2011
+Zeljko Brkic,Goalkeeper,1986-07-09,24,Serbia,AC Siena,Serie A,2011/2012,2011
+Gianluca Pegolo,Goalkeeper,1981-03-25,30,Italy,AC Siena,Serie A,2011/2012,2011
+Mihail Ivanov,Goalkeeper,1989-08-07,21,Bulgaria,AC Siena,Serie A,2011/2012,2011
+Simone Farelli,Goalkeeper,1983-02-19,28,Italy,AC Siena,Serie A,2011/2012,2011
+Richard Marcone,Goalkeeper,1993-01-21,18,Italy,AC Siena,Serie A,2011/2012,2011
+Matteo Contini,Centre-Back,1980-04-16,31,Italy,AC Siena,Serie A,2011/2012,2011
+Gabriele Angella,Centre-Back,1989-04-28,22,Italy,AC Siena,Serie A,2011/2012,2011
+Claudio Terzi,Centre-Back,1984-06-19,27,Italy,AC Siena,Serie A,2011/2012,2011
+Nicola Belmonte,Centre-Back,1987-04-15,24,Italy,AC Siena,Serie A,2011/2012,2011
+Luca Rossettini,Centre-Back,1985-05-09,26,Italy,AC Siena,Serie A,2011/2012,2011
+Emanuele Pesoli,Centre-Back,1980-08-31,30,Italy,AC Siena,Serie A,2011/2012,2011
+Milan Milanovic,Centre-Back,1991-03-31,20,Serbia,AC Siena,Serie A,2011/2012,2011
+Cristiano Del Grosso,Left-Back,1983-03-24,28,Italy,AC Siena,Serie A,2011/2012,2011
+Andrea Rossi,Left-Back,1986-11-07,24,Italy,AC Siena,Serie A,2011/2012,2011
+Angelo,Right-Back,1981-06-12,30,Brazil,AC Siena,Serie A,2011/2012,2011
+Roberto Vitiello,Right-Back,1983-05-08,28,Italy,AC Siena,Serie A,2011/2012,2011
+Alessandro Gazzi,Defensive Midfield,1983-01-28,28,Italy,AC Siena,Serie A,2011/2012,2011
+Simone Vergassola,Defensive Midfield,1976-01-24,35,Italy,AC Siena,Serie A,2011/2012,2011
+Francesco Parravicini,Defensive Midfield,1982-01-31,29,Italy,AC Siena,Serie A,2011/2012,2011
+Gaetano D'Agostino,Central Midfield,1982-06-03,29,Italy,AC Siena,Serie A,2011/2012,2011
+Francesco Bolzoni,Central Midfield,1989-05-07,22,Italy,AC Siena,Serie A,2011/2012,2011
+Paul Codrea,Central Midfield,1981-04-04,30,Romania,AC Siena,Serie A,2011/2012,2011
+Luigi Giorgi,Central Midfield,1987-04-19,24,Italy,AC Siena,Serie A,2011/2012,2011
+Paolo Grossi,Central Midfield,1985-05-29,26,Italy,AC Siena,Serie A,2011/2012,2011
+Daniele Mannini,Right Midfield,1983-10-25,27,Italy,AC Siena,Serie A,2011/2012,2011
+Andrea Pastore,Left Midfield,1994-06-14,17,Italy,AC Siena,Serie A,2011/2012,2011
+Franco Brienza,Attacking Midfield,1979-03-19,32,Italy,AC Siena,Serie A,2011/2012,2011
+Diego Vettraino,Attacking Midfield,1993-08-26,17,Italy,AC Siena,Serie A,2011/2012,2011
+Gennaro Troianiello,Right Winger,1983-03-21,28,Italy,AC Siena,Serie A,2011/2012,2011
+Alessio Sestu,Right Winger,1983-09-29,27,Italy,AC Siena,Serie A,2011/2012,2011
+Joel Acosta,Right Winger,1991-01-16,20,Argentina,AC Siena,Serie A,2011/2012,2011
+Reginaldo,Second Striker,1983-07-31,27,Brazil,AC Siena,Serie A,2011/2012,2011
+Mattia Destro,Centre-Forward,1991-03-20,20,Italy,AC Siena,Serie A,2011/2012,2011
+Emanuele Calaiò,Centre-Forward,1982-01-08,29,Italy,AC Siena,Serie A,2011/2012,2011
+Pablo González,Centre-Forward,1985-05-28,26,Argentina,AC Siena,Serie A,2011/2012,2011
+Erjon Bogdani,Centre-Forward,1977-04-14,34,Albania,AC Siena,Serie A,2011/2012,2011
+Marcelo Larrondo,Centre-Forward,1988-08-16,22,Chile,AC Siena,Serie A,2011/2012,2011
+Júlio Sérgio,Goalkeeper,1978-11-08,32,Brazil,US Lecce,Serie A,2011/2012,2011
+Ugo Gabrieli,Goalkeeper,1989-06-06,22,Italy,US Lecce,Serie A,2011/2012,2011
+Massimiliano Benassi,Goalkeeper,1981-11-11,29,Italy,US Lecce,Serie A,2011/2012,2011
+Davide Petrachi,Goalkeeper,1986-08-14,24,Italy,US Lecce,Serie A,2011/2012,2011
+Luigi Turbacci,Goalkeeper,1993-11-09,17,Italy,US Lecce,Serie A,2011/2012,2011
+Nenad Tomović,Centre-Back,1987-08-30,23,Serbia,US Lecce,Serie A,2011/2012,2011
+Andrea Esposito,Centre-Back,1986-05-17,25,Italy,US Lecce,Serie A,2011/2012,2011
+Stefano Ferrario,Centre-Back,1985-03-28,26,Italy,US Lecce,Serie A,2011/2012,2011
+Moris Carrozzieri,Centre-Back,1980-11-16,30,Italy,US Lecce,Serie A,2011/2012,2011
+Souleymane Diamoutene,Centre-Back,1983-01-30,28,Mali,US Lecce,Serie A,2011/2012,2011
+Leonardo Migliónico,Centre-Back,1980-01-31,31,Uruguay,US Lecce,Serie A,2011/2012,2011
+Gianmarco Ingrosso,Centre-Back,1989-01-28,22,Italy,US Lecce,Serie A,2011/2012,2011
+Raffaele Rosato,Centre-Back,1993-08-23,17,Italy,US Lecce,Serie A,2011/2012,2011
+Djamel Mesbah,Left-Back,1984-10-09,26,Algeria,US Lecce,Serie A,2011/2012,2011
+Davide Brivio,Left-Back,1988-03-17,23,Italy,US Lecce,Serie A,2011/2012,2011
+Luca Di Matteo,Left-Back,1988-02-25,23,Italy,US Lecce,Serie A,2011/2012,2011
+Matteo Legittimo,Left-Back,1989-06-17,22,Italy,US Lecce,Serie A,2011/2012,2011
+Antonio Tundo,Left-Back,1988-09-14,22,Italy,US Lecce,Serie A,2011/2012,2011
+Massimo Oddo,Right-Back,1976-06-14,35,Italy,US Lecce,Serie A,2011/2012,2011
+Mirko Mauro,Right-Back,1993-08-03,17,Italy,US Lecce,Serie A,2011/2012,2011
+Rodney Strasser,Defensive Midfield,1990-03-30,21,Sierra Leone,US Lecce,Serie A,2011/2012,2011
+Guillermo Giacomazzi,Defensive Midfield,1977-11-21,33,Uruguay,US Lecce,Serie A,2011/2012,2011
+Alessio Esposito,Defensive Midfield,1994-07-18,16,Italy,US Lecce,Serie A,2011/2012,2011
+Rubén Olivera,Central Midfield,1983-05-04,28,Uruguay,US Lecce,Serie A,2011/2012,2011
+Andrea Bertolacci,Central Midfield,1991-01-11,20,Italy,US Lecce,Serie A,2011/2012,2011
+Manuele Blasi,Central Midfield,1980-08-17,30,Italy,US Lecce,Serie A,2011/2012,2011
+Carlos Grossmüller,Central Midfield,1983-05-04,28,Uruguay,US Lecce,Serie A,2011/2012,2011
+Christian Obodo,Central Midfield,1984-05-11,27,Nigeria,US Lecce,Serie A,2011/2012,2011
+Gennaro Delvecchio,Central Midfield,1978-03-25,33,Italy,US Lecce,Serie A,2011/2012,2011
+Manuel Giandonato,Central Midfield,1991-10-10,19,Italy,US Lecce,Serie A,2011/2012,2011
+Cristian Pasquato,Attacking Midfield,1989-07-20,21,Italy,US Lecce,Serie A,2011/2012,2011
+Bryan Bergougnoux,Attacking Midfield,1983-01-12,28,France,US Lecce,Serie A,2011/2012,2011
+Ignacio Piatti,Left Winger,1985-02-04,26,Argentina,US Lecce,Serie A,2011/2012,2011
+Luigi Falcone,Left Winger,1992-05-26,19,Italy,US Lecce,Serie A,2011/2012,2011
+Juan Cuadrado,Right Winger,1988-05-26,23,Colombia,US Lecce,Serie A,2011/2012,2011
+Valeri Bojinov,Centre-Forward,1986-02-15,25,Bulgaria,US Lecce,Serie A,2011/2012,2011
+Daniele Corvia,Centre-Forward,1984-11-22,26,Italy,US Lecce,Serie A,2011/2012,2011
+Luis Muriel,Centre-Forward,1991-04-16,20,Colombia,US Lecce,Serie A,2011/2012,2011
+Edward Ofere,Centre-Forward,1986-03-28,25,Nigeria,US Lecce,Serie A,2011/2012,2011
+David Di Michele,Centre-Forward,1976-01-06,35,Italy,US Lecce,Serie A,2011/2012,2011
+Haris Seferovic,Centre-Forward,1992-02-22,19,Switzerland,US Lecce,Serie A,2011/2012,2011
+Samir Ujkani,Goalkeeper,1988-07-05,22,Kosovo,Novara Calcio 1908,Serie A,2011/2012,2011
+Achille Coser,Goalkeeper,1982-07-14,28,Italy,Novara Calcio 1908,Serie A,2011/2012,2011
+Alberto Maria Fontana,Goalkeeper,1974-12-02,36,Italy,Novara Calcio 1908,Serie A,2011/2012,2011
+Florin Logofatu,Goalkeeper,1995-04-07,16,Romania,Novara Calcio 1908,Serie A,2011/2012,2011
+Enrico Tonozzi,Goalkeeper,1993-05-16,18,Italy,Novara Calcio 1908,Serie A,2011/2012,2011
+Leandro Rinaudo,Centre-Back,1983-05-09,28,Italy,Novara Calcio 1908,Serie A,2011/2012,2011
+Paolo Dellafiore,Centre-Back,1985-02-02,26,Italy,Novara Calcio 1908,Serie A,2011/2012,2011
+Carlalberto Ludi,Centre-Back,1982-12-24,28,Italy,Novara Calcio 1908,Serie A,2011/2012,2011
+Andrea Lisuzzo,Centre-Back,1981-01-26,30,Italy,Novara Calcio 1908,Serie A,2011/2012,2011
+Massimo Paci,Centre-Back,1978-05-09,33,Italy,Novara Calcio 1908,Serie A,2011/2012,2011
+Carlos Labrín,Centre-Back,1990-12-02,20,Chile,Novara Calcio 1908,Serie A,2011/2012,2011
+Luca Bellich,Centre-Back,1992-07-05,18,Italy,Novara Calcio 1908,Serie A,2011/2012,2011
+Matteo Centurioni,Centre-Back,1974-05-08,37,Italy,Novara Calcio 1908,Serie A,2011/2012,2011
+Santiago García,Left-Back,1988-07-08,22,Argentina,Novara Calcio 1908,Serie A,2011/2012,2011
+Gabriel Silva,Left-Back,1991-05-13,20,Brazil,Novara Calcio 1908,Serie A,2011/2012,2011
+Giuseppe Gemiti,Left-Back,1981-05-03,30,Germany,Novara Calcio 1908,Serie A,2011/2012,2011
+Michel Morganella,Right-Back,1989-05-17,22,Switzerland,Novara Calcio 1908,Serie A,2011/2012,2011
+Christian Jidayi,Right-Back,1987-03-03,24,Italy,Novara Calcio 1908,Serie A,2011/2012,2011
+Jean-Christophe Coubronne,Right-Back,1989-07-30,21,France,Novara Calcio 1908,Serie A,2011/2012,2011
+Filippo Porcari,Defensive Midfield,1984-04-28,27,Italy,Novara Calcio 1908,Serie A,2011/2012,2011
+Ivan Radovanovic,Defensive Midfield,1988-08-29,22,Serbia,Novara Calcio 1908,Serie A,2011/2012,2011
+Alex Pinardi,Defensive Midfield,1980-09-05,30,Italy,Novara Calcio 1908,Serie A,2011/2012,2011
+Federico Massaccesi,Defensive Midfield,1993-08-04,17,Italy,Novara Calcio 1908,Serie A,2011/2012,2011
+Daniel Jensen,Central Midfield,1979-06-25,32,Denmark,Novara Calcio 1908,Serie A,2011/2012,2011
+Simone Pesce,Central Midfield,1982-07-10,28,Italy,Novara Calcio 1908,Serie A,2011/2012,2011
+Luigi Giorgi,Central Midfield,1987-04-19,24,Italy,Novara Calcio 1908,Serie A,2011/2012,2011
+Marco Rigoni,Central Midfield,1980-01-05,31,Italy,Novara Calcio 1908,Serie A,2011/2012,2011
+Francesco Marianini,Central Midfield,1979-05-06,32,Italy,Novara Calcio 1908,Serie A,2011/2012,2011
+Simone Branca,Central Midfield,1992-03-25,19,Italy,Novara Calcio 1908,Serie A,2011/2012,2011
+Andrea Mazzarani,Attacking Midfield,1989-11-06,21,Italy,Novara Calcio 1908,Serie A,2011/2012,2011
+Giuseppe Mascara,Second Striker,1979-08-22,31,Italy,Novara Calcio 1908,Serie A,2011/2012,2011
+Riccardo Meggiorini,Second Striker,1985-09-04,25,Italy,Novara Calcio 1908,Serie A,2011/2012,2011
+Jeda,Second Striker,1979-04-15,32,Brazil,Novara Calcio 1908,Serie A,2011/2012,2011
+Andrea Caracciolo,Centre-Forward,1981-09-18,29,Italy,Novara Calcio 1908,Serie A,2011/2012,2011
+Takayuki Morimoto,Centre-Forward,1988-05-07,23,Japan,Novara Calcio 1908,Serie A,2011/2012,2011
+Pablo Granoche,Centre-Forward,1983-09-05,27,Uruguay,Novara Calcio 1908,Serie A,2011/2012,2011
+Raffaele Rubino,Centre-Forward,1978-01-09,33,Italy,Novara Calcio 1908,Serie A,2011/2012,2011
+Mattia Maggio,Centre-Forward,1994-02-22,17,Italy,Novara Calcio 1908,Serie A,2011/2012,2011

@@ -1,684 +1,684 @@
-shirt_number,position,player_name,date_of_birth,age,nationality,club_name,league_name,season,year
-1,Goalkeeper,"Jul 8, 1990 (26)",NA,NA,Germany,Paris Saint-Germain,Ligue 1,2017/2018,2017
-16,Goalkeeper,"Feb 27, 1993 (24)",NA,NA,France,Paris Saint-Germain,Ligue 1,2017/2018,2017
-NA,Goalkeeper,"Jun 25, 1996 (21)",NA,NA,France,Paris Saint-Germain,Ligue 1,2017/2018,2017
-40,Goalkeeper,"Mar 2, 1998 (19)",NA,NA,France,Paris Saint-Germain,Ligue 1,2017/2018,2017
-5,Centre-Back,"May 14, 1994 (23)",NA,NA,Brazil,Paris Saint-Germain,Ligue 1,2017/2018,2017
-2,Centre-Back,"Sep 22, 1984 (32)",NA,NA,Brazil,Paris Saint-Germain,Ligue 1,2017/2018,2017
-3,Centre-Back,"Aug 13, 1995 (21)",NA,NA,France,Paris Saint-Germain,Ligue 1,2017/2018,2017
-NA,Centre-Back,"Feb 23, 1991 (26)",NA,NA,French Guiana,Paris Saint-Germain,Ligue 1,2017/2018,2017
-20,Left-Back,"Sep 4, 1992 (24)",NA,NA,France,Paris Saint-Germain,Ligue 1,2017/2018,2017
-17,Left-Back,"Feb 10, 1990 (27)",NA,NA,Spain,Paris Saint-Germain,Ligue 1,2017/2018,2017
-NA,Left-Back,"Apr 9, 1999 (18)",NA,NA,France,Paris Saint-Germain,Ligue 1,2017/2018,2017
-12,Right-Back,"Sep 12, 1991 (25)",NA,NA,Belgium,Paris Saint-Germain,Ligue 1,2017/2018,2017
-32,Right-Back,"May 6, 1983 (34)",NA,NA,Brazil,Paris Saint-Germain,Ligue 1,2017/2018,2017
-NA,Right-Back,"Sep 17, 1998 (18)",NA,NA,France,Paris Saint-Germain,Ligue 1,2017/2018,2017
-19,Defensive Midfield,"Mar 10, 1985 (32)",NA,NA,France,Paris Saint-Germain,Ligue 1,2017/2018,2017
-8,Defensive Midfield,"Aug 28, 1982 (34)",NA,NA,Italy,Paris Saint-Germain,Ligue 1,2017/2018,2017
-NA,Defensive Midfield,"Feb 27, 1998 (19)",NA,NA,France,Paris Saint-Germain,Ligue 1,2017/2018,2017
-6,Central Midfield,"Nov 5, 1992 (24)",NA,NA,Italy,Paris Saint-Germain,Ligue 1,2017/2018,2017
-NA,Central Midfield,"Apr 9, 1987 (30)",NA,NA,France,Paris Saint-Germain,Ligue 1,2017/2018,2017
-25,Central Midfield,"Apr 3, 1995 (22)",NA,NA,France,Paris Saint-Germain,Ligue 1,2017/2018,2017
-18,Central Midfield,"Apr 9, 1996 (21)",NA,NA,Argentina,Paris Saint-Germain,Ligue 1,2017/2018,2017
-24,Central Midfield,"Nov 14, 1997 (19)",NA,NA,France,Paris Saint-Germain,Ligue 1,2017/2018,2017
-NA,Central Midfield,"May 26, 1999 (18)",NA,NA,France,Paris Saint-Germain,Ligue 1,2017/2018,2017
-23,Attacking Midfield,"Sep 20, 1993 (23)",NA,NA,Germany,Paris Saint-Germain,Ligue 1,2017/2018,2017
-27,Attacking Midfield,"Jun 20, 1989 (28)",NA,NA,Argentina,Paris Saint-Germain,Ligue 1,2017/2018,2017
-21,Attacking Midfield,"Mar 7, 1987 (30)",NA,NA,France,Paris Saint-Germain,Ligue 1,2017/2018,2017
-NA,Attacking Midfield,"Jul 29, 2000 (16)",NA,NA,France,Paris Saint-Germain,Ligue 1,2017/2018,2017
-10,Left Winger,"Feb 5, 1992 (25)",NA,NA,Brazil,Paris Saint-Germain,Ligue 1,2017/2018,2017
-NA,Left Winger,"Nov 29, 1996 (20)",NA,NA,Portugal,Paris Saint-Germain,Ligue 1,2017/2018,2017
-11,Right Winger,"Feb 14, 1988 (29)",NA,NA,Argentina,Paris Saint-Germain,Ligue 1,2017/2018,2017
-NA,Right Winger,"Aug 13, 1992 (24)",NA,NA,Brazil,Paris Saint-Germain,Ligue 1,2017/2018,2017
-9,Centre-Forward,"Feb 14, 1987 (30)",NA,NA,Uruguay,Paris Saint-Germain,Ligue 1,2017/2018,2017
-29,Centre-Forward,"Dec 20, 1998 (18)",NA,NA,France,Paris Saint-Germain,Ligue 1,2017/2018,2017
-NA,Centre-Forward,"Feb 26, 1993 (24)",NA,NA,Spain,Paris Saint-Germain,Ligue 1,2017/2018,2017
-37,Centre-Forward,"Feb 22, 2000 (17)",NA,NA,United States,Paris Saint-Germain,Ligue 1,2017/2018,2017
-1,Goalkeeper,"Oct 27, 1984 (32)",NA,NA,Croatia,AS Monaco,Ligue 1,2017/2018,2017
-16,Goalkeeper,"Sep 8, 1983 (33)",NA,NA,Switzerland,AS Monaco,Ligue 1,2017/2018,2017
-30,Goalkeeper,"Dec 12, 1995 (21)",NA,NA,Senegal,AS Monaco,Ligue 1,2017/2018,2017
-40,Goalkeeper,"Feb 5, 1998 (19)",NA,NA,France,AS Monaco,Ligue 1,2017/2018,2017
-25,Centre-Back,"Feb 3, 1988 (29)",NA,NA,Poland,AS Monaco,Ligue 1,2017/2018,2017
-5,Centre-Back,"Aug 24, 1992 (24)",NA,NA,Brazil,AS Monaco,Ligue 1,2017/2018,2017
-NA,Centre-Back,"Feb 14, 1994 (23)",NA,NA,Netherlands,AS Monaco,Ligue 1,2017/2018,2017
-24,Centre-Back,"Jun 24, 1984 (33)",NA,NA,Italy,AS Monaco,Ligue 1,2017/2018,2017
-NA,Centre-Back,"Apr 20, 1997 (20)",NA,NA,France,AS Monaco,Ligue 1,2017/2018,2017
-6,Left-Back,"Mar 28, 1996 (21)",NA,NA,Brazil,AS Monaco,Ligue 1,2017/2018,2017
-21,Left-Back,"Feb 13, 1998 (19)",NA,NA,France,AS Monaco,Ligue 1,2017/2018,2017
-19,Right-Back,"Jul 29, 1992 (24)",NA,NA,France,AS Monaco,Ligue 1,2017/2018,2017
-38,Right-Back,"Apr 28, 1996 (21)",NA,NA,France,AS Monaco,Ligue 1,2017/2018,2017
-NA,Right-Back,"Jun 18, 1996 (21)",NA,NA,Cameroon,AS Monaco,Ligue 1,2017/2018,2017
-2,Defensive Midfield,"Oct 23, 1993 (23)",NA,NA,Brazil,AS Monaco,Ligue 1,2017/2018,2017
-35,Defensive Midfield,"Jan 22, 1996 (21)",NA,NA,France,AS Monaco,Ligue 1,2017/2018,2017
-17,Central Midfield,"May 7, 1997 (20)",NA,NA,Belgium,AS Monaco,Ligue 1,2017/2018,2017
-8,Central Midfield,"Sep 8, 1986 (30)",NA,NA,Portugal,AS Monaco,Ligue 1,2017/2018,2017
-NA,Central Midfield,"Mar 17, 1994 (23)",NA,NA,France,AS Monaco,Ligue 1,2017/2018,2017
-28,Central Midfield,"Jun 28, 1995 (22)",NA,NA,Mali,AS Monaco,Ligue 1,2017/2018,2017
-NA,Central Midfield,"Mar 8, 1999 (18)",NA,NA,France,AS Monaco,Ligue 1,2017/2018,2017
-NA,Central Midfield,"Jul 14, 1998 (18)",NA,NA,France,AS Monaco,Ligue 1,2017/2018,2017
-26,Attacking Midfield,"Mar 5, 1996 (21)",NA,NA,Brazil,AS Monaco,Ligue 1,2017/2018,2017
-14,Left Winger,"Mar 8, 1995 (22)",NA,NA,Senegal,AS Monaco,Ligue 1,2017/2018,2017
-27,Left Winger,"Nov 12, 1995 (21)",NA,NA,France,AS Monaco,Ligue 1,2017/2018,2017
-7,Right Winger,"May 9, 1992 (25)",NA,NA,Algeria,AS Monaco,Ligue 1,2017/2018,2017
-20,Right Winger,"Dec 28, 1995 (21)",NA,NA,Portugal,AS Monaco,Ligue 1,2017/2018,2017
-NA,Right Winger,"Mar 12, 1997 (20)",NA,NA,France,AS Monaco,Ligue 1,2017/2018,2017
-NA,Right Winger,"Sep 28, 1996 (20)",NA,NA,Portugal,AS Monaco,Ligue 1,2017/2018,2017
-22,Right Winger,"Mar 16, 1999 (18)",NA,NA,Spain,AS Monaco,Ligue 1,2017/2018,2017
-NA,Centre-Forward,"Dec 20, 1998 (18)",NA,NA,France,AS Monaco,Ligue 1,2017/2018,2017
-9,Centre-Forward,"Feb 10, 1986 (31)",NA,NA,Colombia,AS Monaco,Ligue 1,2017/2018,2017
-10,Centre-Forward,"Nov 2, 1989 (27)",NA,NA,Montenegro,AS Monaco,Ligue 1,2017/2018,2017
-NA,Centre-Forward,"May 25, 1991 (26)",NA,NA,Argentina,AS Monaco,Ligue 1,2017/2018,2017
-15,Centre-Forward,"Jul 5, 1996 (20)",NA,NA,France,AS Monaco,Ligue 1,2017/2018,2017
-23,Centre-Forward,"Mar 17, 2001 (16)",NA,NA,Italy,AS Monaco,Ligue 1,2017/2018,2017
-NA,Centre-Forward,"Sep 20, 1999 (17)",NA,NA,Belgium,AS Monaco,Ligue 1,2017/2018,2017
-NA,Centre-Forward,"Nov 25, 1999 (17)",NA,NA,France,AS Monaco,Ligue 1,2017/2018,2017
-30,Goalkeeper,"Mar 28, 1985 (32)",NA,NA,France,Olympique Marseille,Ligue 1,2017/2018,2017
-16,Goalkeeper,"Nov 4, 1982 (34)",NA,NA,France,Olympique Marseille,Ligue 1,2017/2018,2017
-40,Goalkeeper,"Feb 3, 1996 (21)",NA,NA,France,Olympique Marseille,Ligue 1,2017/2018,2017
-1,Goalkeeper,"May 12, 1997 (20)",NA,NA,France,Olympique Marseille,Ligue 1,2017/2018,2017
-13,Centre-Back,"Aug 6, 1989 (27)",NA,NA,Tunisia,Olympique Marseille,Ligue 1,2017/2018,2017
-23,Centre-Back,"Dec 27, 1985 (31)",NA,NA,France,Olympique Marseille,Ligue 1,2017/2018,2017
-NA,Centre-Back,"Nov 8, 1994 (22)",NA,NA,Brazil,Olympique Marseille,Ligue 1,2017/2018,2017
-NA,Centre-Back,"Sep 17, 1985 (31)",NA,NA,Slovakia,Olympique Marseille,Ligue 1,2017/2018,2017
-6,Centre-Back,"Aug 31, 1985 (31)",NA,NA,Portugal,Olympique Marseille,Ligue 1,2017/2018,2017
-4,Centre-Back,"Nov 23, 1999 (17)",NA,NA,France,Olympique Marseille,Ligue 1,2017/2018,2017
-18,Left-Back,"Mar 9, 1994 (23)",NA,NA,France,Olympique Marseille,Ligue 1,2017/2018,2017
-NA,Left-Back,"May 15, 1981 (36)",NA,NA,France,Olympique Marseille,Ligue 1,2017/2018,2017
-12,Left-Back,"Jun 4, 1984 (33)",NA,NA,Cameroon,Olympique Marseille,Ligue 1,2017/2018,2017
-20,Left-Back,"Feb 1, 1998 (19)",NA,NA,France,Olympique Marseille,Ligue 1,2017/2018,2017
-2,Right-Back,"Apr 12, 1990 (27)",NA,NA,Japan,Olympique Marseille,Ligue 1,2017/2018,2017
-17,Right-Back,"Jan 31, 1992 (25)",NA,NA,France,Olympique Marseille,Ligue 1,2017/2018,2017
-19,Defensive Midfield,"Jul 23, 1987 (29)",NA,NA,Brazil,Olympique Marseille,Ligue 1,2017/2018,2017
-22,Defensive Midfield,"Aug 5, 1989 (27)",NA,NA,France,Olympique Marseille,Ligue 1,2017/2018,2017
-29,Defensive Midfield,"Nov 16, 1995 (21)",NA,NA,Cameroon,Olympique Marseille,Ligue 1,2017/2018,2017
-8,Central Midfield,"Aug 18, 1994 (22)",NA,NA,France,Olympique Marseille,Ligue 1,2017/2018,2017
-27,Central Midfield,"Dec 4, 1997 (19)",NA,NA,France,Olympique Marseille,Ligue 1,2017/2018,2017
-10,Attacking Midfield,"Mar 29, 1987 (30)",NA,NA,France,Olympique Marseille,Ligue 1,2017/2018,2017
-NA,Attacking Midfield,"Mar 8, 1990 (27)",NA,NA,France,Olympique Marseille,Ligue 1,2017/2018,2017
-5,Left Winger,"Jul 11, 1994 (22)",NA,NA,Argentina,Olympique Marseille,Ligue 1,2017/2018,2017
-26,Right Winger,"Jan 26, 1993 (24)",NA,NA,France,Olympique Marseille,Ligue 1,2017/2018,2017
-15,Right Winger,"Nov 20, 1998 (18)",NA,NA,Turkey,Olympique Marseille,Ligue 1,2017/2018,2017
-11,Centre-Forward,"Mar 12, 1988 (29)",NA,NA,Greece,Olympique Marseille,Ligue 1,2017/2018,2017
-28,Centre-Forward,"Apr 17, 1990 (27)",NA,NA,France,Olympique Marseille,Ligue 1,2017/2018,2017
-14,Centre-Forward,"Aug 15, 1993 (23)",NA,NA,Cameroon,Olympique Marseille,Ligue 1,2017/2018,2017
-30,Goalkeeper,"Mar 27, 1994 (23)",NA,NA,France,OGC Nice,Ligue 1,2017/2018,2017
-40,Goalkeeper,"Jan 19, 1993 (24)",NA,NA,Argentina,OGC Nice,Ligue 1,2017/2018,2017
-16,Goalkeeper,"May 28, 1985 (32)",NA,NA,France,OGC Nice,Ligue 1,2017/2018,2017
-NA,Goalkeeper,"Jul 5, 1997 (19)",NA,NA,France,OGC Nice,Ligue 1,2017/2018,2017
-4,Centre-Back,"Sep 7, 1995 (21)",NA,NA,Brazil,OGC Nice,Ligue 1,2017/2018,2017
-23,Centre-Back,"Jan 23, 1999 (18)",NA,NA,France,OGC Nice,Ligue 1,2017/2018,2017
-20,Centre-Back,"Oct 11, 1989 (27)",NA,NA,France,OGC Nice,Ligue 1,2017/2018,2017
-31,Centre-Back,"Oct 18, 1983 (33)",NA,NA,Brazil,OGC Nice,Ligue 1,2017/2018,2017
-NA,Centre-Back,"Jul 18, 1995 (21)",NA,NA,France,OGC Nice,Ligue 1,2017/2018,2017
-NA,Left-Back,"Sep 8, 1993 (23)",NA,NA,Brazil,OGC Nice,Ligue 1,2017/2018,2017
-12,Left-Back,"Dec 8, 1995 (21)",NA,NA,Senegal,OGC Nice,Ligue 1,2017/2018,2017
-NA,Left-Back,"Nov 18, 1997 (19)",NA,NA,France,OGC Nice,Ligue 1,2017/2018,2017
-NA,Left-Back,"Mar 12, 2000 (17)",NA,NA,France,OGC Nice,Ligue 1,2017/2018,2017
-34,Left-Back,"Sep 22, 1997 (19)",NA,NA,France,OGC Nice,Ligue 1,2017/2018,2017
-2,Right-Back,"Feb 12, 1992 (25)",NA,NA,France,OGC Nice,Ligue 1,2017/2018,2017
-24,Right-Back,"Oct 31, 1983 (33)",NA,NA,France,OGC Nice,Ligue 1,2017/2018,2017
-15,Right-Back,"Apr 11, 1996 (21)",NA,NA,France,OGC Nice,Ligue 1,2017/2018,2017
-21,Defensive Midfield,"Jun 23, 1992 (25)",NA,NA,France,OGC Nice,Ligue 1,2017/2018,2017
-5,Defensive Midfield,"Feb 4, 1994 (23)",NA,NA,France,OGC Nice,Ligue 1,2017/2018,2017
-33,Defensive Midfield,"Sep 9, 1996 (20)",NA,NA,Madagascar,OGC Nice,Ligue 1,2017/2018,2017
-6,Central Midfield,"Jul 19, 1991 (25)",NA,NA,Cote d'Ivoire,OGC Nice,Ligue 1,2017/2018,2017
-NA,Central Midfield,"Oct 28, 1995 (21)",NA,NA,France,OGC Nice,Ligue 1,2017/2018,2017
-25,Central Midfield,"Jan 28, 1995 (22)",NA,NA,France,OGC Nice,Ligue 1,2017/2018,2017
-NA,Central Midfield,"Apr 26, 1995 (22)",NA,NA,France,OGC Nice,Ligue 1,2017/2018,2017
-8,Central Midfield,"May 25, 1993 (24)",NA,NA,France,OGC Nice,Ligue 1,2017/2018,2017
-22,Central Midfield,"Jan 4, 1997 (20)",NA,NA,France,OGC Nice,Ligue 1,2017/2018,2017
-27,Central Midfield,"Jun 12, 1998 (19)",NA,NA,France,OGC Nice,Ligue 1,2017/2018,2017
-19,Right Midfield,"Apr 9, 1997 (20)",NA,NA,France,OGC Nice,Ligue 1,2017/2018,2017
-NA,Attacking Midfield,"Mar 25, 1992 (25)",NA,NA,France,OGC Nice,Ligue 1,2017/2018,2017
-NA,Attacking Midfield,"Jun 9, 1984 (33)",NA,NA,Netherlands,OGC Nice,Ligue 1,2017/2018,2017
-18,Attacking Midfield,"Jul 19, 1997 (19)",NA,NA,France,OGC Nice,Ligue 1,2017/2018,2017
-7,Right Winger,"Mar 12, 1997 (20)",NA,NA,France,OGC Nice,Ligue 1,2017/2018,2017
-11,Right Winger,"Jun 25, 1997 (20)",NA,NA,Tunisia,OGC Nice,Ligue 1,2017/2018,2017
-NA,Right Winger,"Jul 2, 1999 (17)",NA,NA,France,OGC Nice,Ligue 1,2017/2018,2017
-9,Centre-Forward,"Aug 12, 1990 (26)",NA,NA,Italy,OGC Nice,Ligue 1,2017/2018,2017
-14,Centre-Forward,"Mar 10, 1993 (24)",NA,NA,France,OGC Nice,Ligue 1,2017/2018,2017
-10,Centre-Forward,"May 16, 1990 (27)",NA,NA,France,OGC Nice,Ligue 1,2017/2018,2017
-NA,Centre-Forward,"Jan 19, 2001 (16)",NA,NA,France,OGC Nice,Ligue 1,2017/2018,2017
-NA,Centre-Forward,"Feb 16, 1999 (18)",NA,NA,Cameroon,OGC Nice,Ligue 1,2017/2018,2017
-1,Goalkeeper,"Oct 1, 1990 (26)",NA,NA,Portugal,Olympique Lyon,Ligue 1,2017/2018,2017
-30,Goalkeeper,"Aug 5, 1990 (26)",NA,NA,France,Olympique Lyon,Ligue 1,2017/2018,2017
-16,Goalkeeper,"May 11, 1994 (23)",NA,NA,France,Olympique Lyon,Ligue 1,2017/2018,2017
-NA,Goalkeeper,"Dec 31, 1998 (18)",NA,NA,Switzerland,Olympique Lyon,Ligue 1,2017/2018,2017
-40,Goalkeeper,"May 10, 1996 (21)",NA,NA,France,Olympique Lyon,Ligue 1,2017/2018,2017
-2,Centre-Back,"May 15, 1989 (28)",NA,NA,France,Olympique Lyon,Ligue 1,2017/2018,2017
-6,Centre-Back,"May 20, 1987 (30)",NA,NA,Brazil,Olympique Lyon,Ligue 1,2017/2018,2017
-5,Centre-Back,"Dec 19, 1996 (20)",NA,NA,France,Olympique Lyon,Ligue 1,2017/2018,2017
-15,Centre-Back,"Apr 2, 1984 (33)",NA,NA,Madagascar,Olympique Lyon,Ligue 1,2017/2018,2017
-NA,Centre-Back,"Feb 20, 1996 (21)",NA,NA,Central African Republic,Olympique Lyon,Ligue 1,2017/2018,2017
-26,Centre-Back,"Feb 7, 2000 (17)",NA,NA,France,Olympique Lyon,Ligue 1,2017/2018,2017
-20,Left-Back,"Feb 19, 1989 (28)",NA,NA,Brazil,Olympique Lyon,Ligue 1,2017/2018,2017
-22,Left-Back,"Jun 8, 1995 (22)",NA,NA,France,Olympique Lyon,Ligue 1,2017/2018,2017
-31,Left-Back,"Jun 3, 1995 (22)",NA,NA,France,Olympique Lyon,Ligue 1,2017/2018,2017
-23,Right-Back,"Oct 9, 1995 (21)",NA,NA,Netherlands,Olympique Lyon,Ligue 1,2017/2018,2017
-4,Right-Back,"Jul 9, 1990 (26)",NA,NA,Brazil,Olympique Lyon,Ligue 1,2017/2018,2017
-NA,Right-Back,"Dec 30, 1998 (18)",NA,NA,Canada,Olympique Lyon,Ligue 1,2017/2018,2017
-29,Defensive Midfield,"Apr 29, 1997 (20)",NA,NA,France,Olympique Lyon,Ligue 1,2017/2018,2017
-NA,Defensive Midfield,"Feb 19, 1997 (20)",NA,NA,Luxembourg,Olympique Lyon,Ligue 1,2017/2018,2017
-33,Defensive Midfield,"Nov 7, 1997 (19)",NA,NA,France,Olympique Lyon,Ligue 1,2017/2018,2017
-NA,Central Midfield,"Dec 22, 1993 (23)",NA,NA,Spain,Olympique Lyon,Ligue 1,2017/2018,2017
-12,Central Midfield,"Mar 12, 1992 (25)",NA,NA,France,Olympique Lyon,Ligue 1,2017/2018,2017
-NA,Central Midfield,"Jan 7, 1991 (26)",NA,NA,France,Olympique Lyon,Ligue 1,2017/2018,2017
-28,Central Midfield,"Dec 28, 1996 (20)",NA,NA,France,Olympique Lyon,Ligue 1,2017/2018,2017
-24,Central Midfield,"Aug 8, 1997 (19)",NA,NA,Spain,Olympique Lyon,Ligue 1,2017/2018,2017
-8,Central Midfield,"Jun 30, 1998 (19)",NA,NA,France,Olympique Lyon,Ligue 1,2017/2018,2017
-18,Attacking Midfield,"Jul 18, 1993 (23)",NA,NA,France,Olympique Lyon,Ligue 1,2017/2018,2017
-13,Left Winger,"Aug 16, 2001 (15)",NA,NA,France,Olympique Lyon,Ligue 1,2017/2018,2017
-27,Right Winger,"Sep 27, 1996 (20)",NA,NA,Cote d'Ivoire,Olympique Lyon,Ligue 1,2017/2018,2017
-10,Right Winger,"Sep 6, 1995 (21)",NA,NA,Burkina Faso,Olympique Lyon,Ligue 1,2017/2018,2017
-11,Centre-Forward,"Feb 13, 1994 (23)",NA,NA,Netherlands,Olympique Lyon,Ligue 1,2017/2018,2017
-9,Centre-Forward,"Aug 1, 1993 (23)",NA,NA,Dominican Republic,Olympique Lyon,Ligue 1,2017/2018,2017
-17,Centre-Forward,"Feb 14, 1999 (18)",NA,NA,France,Olympique Lyon,Ligue 1,2017/2018,2017
-19,Centre-Forward,"Feb 16, 2000 (17)",NA,NA,France,Olympique Lyon,Ligue 1,2017/2018,2017
-16,Goalkeeper,"Sep 27, 1986 (30)",NA,NA,France,AS Saint-Étienne,Ligue 1,2017/2018,2017
-1,Goalkeeper,"Mar 23, 1998 (19)",NA,NA,France,AS Saint-Étienne,Ligue 1,2017/2018,2017
-30,Goalkeeper,"Jan 13, 1986 (31)",NA,NA,France,AS Saint-Étienne,Ligue 1,2017/2018,2017
-40,Goalkeeper,"Jan 26, 1996 (21)",NA,NA,France,AS Saint-Étienne,Ligue 1,2017/2018,2017
-24,Centre-Back,"Aug 7, 1985 (31)",NA,NA,France,AS Saint-Étienne,Ligue 1,2017/2018,2017
-28,Centre-Back,"Dec 10, 1988 (28)",NA,NA,Serbia,AS Saint-Étienne,Ligue 1,2017/2018,2017
-NA,Centre-Back,"Aug 19, 1990 (26)",NA,NA,Guinea,AS Saint-Étienne,Ligue 1,2017/2018,2017
-2,Centre-Back,"Oct 28, 1989 (27)",NA,NA,Martinique,AS Saint-Étienne,Ligue 1,2017/2018,2017
-NA,Centre-Back,"Feb 27, 1992 (25)",NA,NA,Switzerland,AS Saint-Étienne,Ligue 1,2017/2018,2017
-NA,Centre-Back,"May 17, 1995 (22)",NA,NA,Cote d'Ivoire,AS Saint-Étienne,Ligue 1,2017/2018,2017
-NA,Centre-Back,"Feb 28, 1998 (19)",NA,NA,France,AS Saint-Étienne,Ligue 1,2017/2018,2017
-NA,Centre-Back,"Dec 17, 2000 (16)",NA,NA,France,AS Saint-Étienne,Ligue 1,2017/2018,2017
-11,Left-Back,"May 13, 1991 (26)",NA,NA,Brazil,AS Saint-Étienne,Ligue 1,2017/2018,2017
-12,Left-Back,"Jul 23, 1988 (28)",NA,NA,Senegal,AS Saint-Étienne,Ligue 1,2017/2018,2017
-13,Left-Back,"Dec 27, 1993 (23)",NA,NA,France,AS Saint-Étienne,Ligue 1,2017/2018,2017
-3,Left-Back,"May 4, 1998 (19)",NA,NA,Greece,AS Saint-Étienne,Ligue 1,2017/2018,2017
-26,Right-Back,"Jul 28, 1985 (31)",NA,NA,France,AS Saint-Étienne,Ligue 1,2017/2018,2017
-29,Right-Back,"Jun 13, 1998 (19)",NA,NA,France,AS Saint-Étienne,Ligue 1,2017/2018,2017
-15,Right-Back,"Oct 22, 1995 (21)",NA,NA,Switzerland,AS Saint-Étienne,Ligue 1,2017/2018,2017
-NA,Midfielder,"Aug 19, 1997 (19)",NA,NA,France,AS Saint-Étienne,Ligue 1,2017/2018,2017
-6,Defensive Midfield,"Jun 29, 1990 (27)",NA,NA,France,AS Saint-Étienne,Ligue 1,2017/2018,2017
-8,Defensive Midfield,"Sep 20, 1997 (19)",NA,NA,Senegal,AS Saint-Étienne,Ligue 1,2017/2018,2017
-20,Defensive Midfield,"Mar 27, 1994 (23)",NA,NA,Brazil,AS Saint-Étienne,Ligue 1,2017/2018,2017
-17,Defensive Midfield,"Jul 7, 1994 (22)",NA,NA,Norway,AS Saint-Étienne,Ligue 1,2017/2018,2017
-5,Defensive Midfield,"Aug 19, 1990 (26)",NA,NA,France,AS Saint-Étienne,Ligue 1,2017/2018,2017
-NA,Defensive Midfield,"Jan 1, 1996 (21)",NA,NA,Cote d'Ivoire,AS Saint-Étienne,Ligue 1,2017/2018,2017
-NA,Central Midfield,"Feb 18, 1992 (25)",NA,NA,Burkina Faso,AS Saint-Étienne,Ligue 1,2017/2018,2017
-NA,Central Midfield,"Jun 30, 1998 (19)",NA,NA,France,AS Saint-Étienne,Ligue 1,2017/2018,2017
-10,Attacking Midfield,"Mar 8, 1990 (27)",NA,NA,France,AS Saint-Étienne,Ligue 1,2017/2018,2017
-NA,Attacking Midfield,"Jan 3, 2000 (17)",NA,NA,Cape Verde,AS Saint-Étienne,Ligue 1,2017/2018,2017
-NA,Forward,"Jul 11, 1997 (19)",NA,NA,France,AS Saint-Étienne,Ligue 1,2017/2018,2017
-7,Left Winger,"Jul 29, 1992 (24)",NA,NA,Cameroon,AS Saint-Étienne,Ligue 1,2017/2018,2017
-22,Left Winger,"Aug 19, 1988 (28)",NA,NA,France,AS Saint-Étienne,Ligue 1,2017/2018,2017
-14,Left Winger,"Mar 26, 1996 (21)",NA,NA,France,AS Saint-Étienne,Ligue 1,2017/2018,2017
-21,Right Winger,"Mar 29, 1987 (30)",NA,NA,France,AS Saint-Étienne,Ligue 1,2017/2018,2017
-25,Right Winger,"Mar 23, 1994 (23)",NA,NA,Morocco,AS Saint-Étienne,Ligue 1,2017/2018,2017
-NA,Right Winger,"Jan 10, 1996 (21)",NA,NA,Cape Verde,AS Saint-Étienne,Ligue 1,2017/2018,2017
-27,Centre-Forward,"Jun 17, 1991 (26)",NA,NA,Slovenia,AS Saint-Étienne,Ligue 1,2017/2018,2017
-NA,Centre-Forward,"Dec 20, 1992 (24)",NA,NA,France,AS Saint-Étienne,Ligue 1,2017/2018,2017
-NA,Centre-Forward,"Aug 3, 1987 (29)",NA,NA,Norway,AS Saint-Étienne,Ligue 1,2017/2018,2017
-1,Goalkeeper,"Jul 3, 1987 (29)",NA,NA,France,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
-30,Goalkeeper,"Aug 8, 1995 (21)",NA,NA,France,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
-16,Goalkeeper,"Jan 13, 1999 (18)",NA,NA,France,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
-40,Goalkeeper,"Oct 26, 1998 (18)",NA,NA,France,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
-8,Centre-Back,"May 18, 1988 (29)",NA,NA,France,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
-NA,Centre-Back,"May 17, 1996 (21)",NA,NA,Serbia,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
-25,Centre-Back,"Jun 21, 1991 (26)",NA,NA,Brazil,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
-6,Centre-Back,"May 30, 1985 (32)",NA,NA,Poland,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
-26,Centre-Back,"Oct 5, 1995 (21)",NA,NA,Benin,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
-31,Centre-Back,"Nov 12, 1998 (18)",NA,NA,France,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
-3,Left-Back,"May 1, 1990 (27)",NA,NA,Germany,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
-29,Left-Back,"Aug 16, 1992 (24)",NA,NA,France,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
-21,Left-Back,"Mar 4, 1994 (23)",NA,NA,France,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
-20,Right-Back,"Mar 5, 1993 (24)",NA,NA,Senegal,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
-2,Right-Back,"Jan 28, 1996 (21)",NA,NA,Serbia,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
-NA,Right-Back,"Feb 26, 1999 (18)",NA,NA,France,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
-5,Defensive Midfield,"May 4, 1994 (23)",NA,NA,Brazil,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
-NA,Defensive Midfield,"Sep 10, 1983 (33)",NA,NA,France,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
-10,Central Midfield,"Mar 17, 1994 (23)",NA,NA,France,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
-23,Central Midfield,"Mar 6, 1996 (21)",NA,NA,Argentina,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
-13,Central Midfield,"Sep 10, 1989 (27)",NA,NA,Senegal,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
-19,Central Midfield,"Jul 12, 1993 (23)",NA,NA,Denmark,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
-NA,Central Midfield,"Sep 30, 1995 (21)",NA,NA,Uruguay,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
-18,Central Midfield,"Jan 5, 1982 (35)",NA,NA,Czech Republic,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
-NA,Central Midfield,"Jan 27, 2000 (17)",NA,NA,France,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
-11,Left Winger,"May 1, 1996 (21)",NA,NA,Guinea,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
-NA,Left Winger,"Dec 27, 1993 (23)",NA,NA,Cote d'Ivoire,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
-NA,Left Winger,"Feb 25, 1998 (19)",NA,NA,Brazil,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
-7,Right Winger,"Feb 26, 1997 (20)",NA,NA,Brazil,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
-22,Right Winger,"Jul 10, 1991 (25)",NA,NA,Brazil,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
-32,Right Winger,"Jul 11, 1999 (17)",NA,NA,France,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
-9,Centre-Forward,"Jun 5, 1991 (26)",NA,NA,Denmark,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
-12,Centre-Forward,"Jan 8, 1991 (26)",NA,NA,France,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
-24,Centre-Forward,"May 3, 1994 (23)",NA,NA,France,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
-15,Centre-Forward,"Mar 20, 1994 (23)",NA,NA,France,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
-NA,Centre-Forward,"Mar 14, 1999 (18)",NA,NA,France,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
-NA,Centre-Forward,"Aug 7, 1996 (20)",NA,NA,Gabon,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
-40,Goalkeeper,"Jan 23, 1999 (18)",NA,NA,France,FC Toulouse,Ligue 1,2017/2018,2017
-1,Goalkeeper,"Mar 27, 1988 (29)",NA,NA,Uruguay,FC Toulouse,Ligue 1,2017/2018,2017
-16,Goalkeeper,"Jun 3, 1991 (26)",NA,NA,France,FC Toulouse,Ligue 1,2017/2018,2017
-5,Centre-Back,"Jan 9, 1997 (20)",NA,NA,France,FC Toulouse,Ligue 1,2017/2018,2017
-6,Centre-Back,"Mar 22, 1993 (24)",NA,NA,France,FC Toulouse,Ligue 1,2017/2018,2017
-20,Centre-Back,"Dec 16, 1992 (24)",NA,NA,Burkina Faso,FC Toulouse,Ligue 1,2017/2018,2017
-18,Centre-Back,"Apr 17, 1992 (25)",NA,NA,Cape Verde,FC Toulouse,Ligue 1,2017/2018,2017
-12,Left-Back,"Jan 1, 1994 (23)",NA,NA,Guinea,FC Toulouse,Ligue 1,2017/2018,2017
-29,Left-Back,"Jun 21, 1990 (27)",NA,NA,Switzerland,FC Toulouse,Ligue 1,2017/2018,2017
-2,Right-Back,"Feb 8, 1998 (19)",NA,NA,France,FC Toulouse,Ligue 1,2017/2018,2017
-13,Right-Back,"May 11, 1997 (20)",NA,NA,France,FC Toulouse,Ligue 1,2017/2018,2017
-25,Defensive Midfield,"Sep 12, 1992 (24)",NA,NA,DR Congo,FC Toulouse,Ligue 1,2017/2018,2017
-27,Defensive Midfield,"Sep 16, 1996 (20)",NA,NA,France,FC Toulouse,Ligue 1,2017/2018,2017
-23,Defensive Midfield,"Feb 9, 1995 (22)",NA,NA,France,FC Toulouse,Ligue 1,2017/2018,2017
-4,Defensive Midfield,"Jan 18, 1985 (32)",NA,NA,France,FC Toulouse,Ligue 1,2017/2018,2017
-17,Defensive Midfield,"Dec 2, 1997 (19)",NA,NA,Cote d'Ivoire,FC Toulouse,Ligue 1,2017/2018,2017
-19,Central Midfield,"Sep 28, 1988 (28)",NA,NA,Brazil,FC Toulouse,Ligue 1,2017/2018,2017
-NA,Central Midfield,"Jan 5, 1996 (21)",NA,NA,France,FC Toulouse,Ligue 1,2017/2018,2017
-14,Central Midfield,"Jan 6, 1997 (20)",NA,NA,France,FC Toulouse,Ligue 1,2017/2018,2017
-26,Attacking Midfield,"Mar 17, 1997 (20)",NA,NA,France,FC Toulouse,Ligue 1,2017/2018,2017
-7,Left Winger,"Nov 30, 1987 (29)",NA,NA,Cote d'Ivoire,FC Toulouse,Ligue 1,2017/2018,2017
-21,Left Winger,"Mar 22, 1989 (28)",NA,NA,Sweden,FC Toulouse,Ligue 1,2017/2018,2017
-8,Right Winger,"Jul 15, 1995 (21)",NA,NA,France,FC Toulouse,Ligue 1,2017/2018,2017
-10,Centre-Forward,"Oct 9, 1991 (25)",NA,NA,France,FC Toulouse,Ligue 1,2017/2018,2017
-24,Centre-Forward,"Apr 17, 1994 (23)",NA,NA,DR Congo,FC Toulouse,Ligue 1,2017/2018,2017
-11,Centre-Forward,"Jul 3, 1986 (30)",NA,NA,Sweden,FC Toulouse,Ligue 1,2017/2018,2017
-9,Centre-Forward,"Jan 27, 1993 (24)",NA,NA,France,FC Toulouse,Ligue 1,2017/2018,2017
-NA,Centre-Forward,"Feb 7, 1999 (18)",NA,NA,Morocco,FC Toulouse,Ligue 1,2017/2018,2017
-40,Goalkeeper,"Aug 26, 1992 (24)",NA,NA,Czech Republic,Stade Rennais FC,Ligue 1,2017/2018,2017
-1,Goalkeeper,"Mar 30, 1992 (25)",NA,NA,Senegal,Stade Rennais FC,Ligue 1,2017/2018,2017
-NA,Goalkeeper,"Apr 25, 1986 (31)",NA,NA,Algeria,Stade Rennais FC,Ligue 1,2017/2018,2017
-30,Goalkeeper,"Jun 1, 1996 (21)",NA,NA,Lithuania,Stade Rennais FC,Ligue 1,2017/2018,2017
-4,Centre-Back,"Sep 8, 1988 (28)",NA,NA,Mozambique,Stade Rennais FC,Ligue 1,2017/2018,2017
-5,Centre-Back,"Jan 13, 1997 (20)",NA,NA,France,Stade Rennais FC,Ligue 1,2017/2018,2017
-26,Centre-Back,"Apr 24, 1997 (20)",NA,NA,France,Stade Rennais FC,Ligue 1,2017/2018,2017
-NA,Centre-Back,"Jul 1, 1998 (19)",NA,NA,France,Stade Rennais FC,Ligue 1,2017/2018,2017
-NA,Centre-Back,"Jan 22, 1997 (20)",NA,NA,France,Stade Rennais FC,Ligue 1,2017/2018,2017
-15,Left-Back,"Apr 16, 1995 (22)",NA,NA,Algeria,Stade Rennais FC,Ligue 1,2017/2018,2017
-24,Left-Back,"May 24, 1986 (31)",NA,NA,French Guiana,Stade Rennais FC,Ligue 1,2017/2018,2017
-NA,Left-Back,"Jan 6, 1993 (24)",NA,NA,Portugal,Stade Rennais FC,Ligue 1,2017/2018,2017
-17,Left-Back,"Jul 6, 1998 (18)",NA,NA,Congo,Stade Rennais FC,Ligue 1,2017/2018,2017
-NA,Left-Back,"Mar 29, 1996 (21)",NA,NA,France,Stade Rennais FC,Ligue 1,2017/2018,2017
-27,Right-Back,"Jan 27, 1992 (25)",NA,NA,Mali,Stade Rennais FC,Ligue 1,2017/2018,2017
-29,Right-Back,"Jul 3, 1986 (30)",NA,NA,France,Stade Rennais FC,Ligue 1,2017/2018,2017
-2,Right-Back,"May 19, 1992 (25)",NA,NA,Algeria,Stade Rennais FC,Ligue 1,2017/2018,2017
-21,Central Midfield,"Aug 3, 1990 (26)",NA,NA,France,Stade Rennais FC,Ligue 1,2017/2018,2017
-14,Central Midfield,"Jan 14, 1994 (23)",NA,NA,France,Stade Rennais FC,Ligue 1,2017/2018,2017
-10,Central Midfield,"Nov 20, 1993 (23)",NA,NA,Bosnia-Herzegovina,Stade Rennais FC,Ligue 1,2017/2018,2017
-35,Central Midfield,"Aug 11, 1998 (18)",NA,NA,France,Stade Rennais FC,Ligue 1,2017/2018,2017
-12,Central Midfield,"Jun 12, 1996 (21)",NA,NA,France,Stade Rennais FC,Ligue 1,2017/2018,2017
-NA,Left Midfield,"Dec 4, 1998 (18)",NA,NA,France,Stade Rennais FC,Ligue 1,2017/2018,2017
-8,Attacking Midfield,"Feb 8, 1991 (26)",NA,NA,Tunisia,Stade Rennais FC,Ligue 1,2017/2018,2017
-NA,Attacking Midfield,"Jul 11, 1986 (30)",NA,NA,France,Stade Rennais FC,Ligue 1,2017/2018,2017
-23,Attacking Midfield,"Jan 19, 1994 (23)",NA,NA,France,Stade Rennais FC,Ligue 1,2017/2018,2017
-NA,Attacking Midfield,"Jan 28, 1996 (21)",NA,NA,France,Stade Rennais FC,Ligue 1,2017/2018,2017
-NA,Attacking Midfield,"Apr 8, 1996 (21)",NA,NA,France,Stade Rennais FC,Ligue 1,2017/2018,2017
-22,Attacking Midfield,"Mar 30, 1997 (20)",NA,NA,France,Stade Rennais FC,Ligue 1,2017/2018,2017
-7,Left Winger,"Feb 25, 1998 (19)",NA,NA,Senegal,Stade Rennais FC,Ligue 1,2017/2018,2017
-18,Right Winger,"Mar 20, 1985 (32)",NA,NA,France,Stade Rennais FC,Ligue 1,2017/2018,2017
-25,Centre-Forward,"Dec 24, 1989 (27)",NA,NA,Senegal,Stade Rennais FC,Ligue 1,2017/2018,2017
-NA,Centre-Forward,"Apr 17, 1994 (23)",NA,NA,DR Congo,Stade Rennais FC,Ligue 1,2017/2018,2017
-11,Centre-Forward,"Feb 4, 1995 (22)",NA,NA,Spain,Stade Rennais FC,Ligue 1,2017/2018,2017
-NA,Centre-Forward,"Jun 10, 1997 (20)",NA,NA,France,Stade Rennais FC,Ligue 1,2017/2018,2017
-30,Goalkeeper,"Feb 9, 1986 (31)",NA,NA,Romania,FC Nantes,Ligue 1,2017/2018,2017
-1,Goalkeeper,"Mar 4, 1993 (24)",NA,NA,France,FC Nantes,Ligue 1,2017/2018,2017
-NA,Goalkeeper,"Feb 15, 1996 (21)",NA,NA,France,FC Nantes,Ligue 1,2017/2018,2017
-40,Goalkeeper,"Jul 6, 1997 (19)",NA,NA,France,FC Nantes,Ligue 1,2017/2018,2017
-3,Centre-Back,"Mar 15, 1993 (24)",NA,NA,Brazil,FC Nantes,Ligue 1,2017/2018,2017
-4,Centre-Back,"Sep 19, 1987 (29)",NA,NA,France,FC Nantes,Ligue 1,2017/2018,2017
-5,Centre-Back,"Nov 30, 1992 (24)",NA,NA,Cote d'Ivoire,FC Nantes,Ligue 1,2017/2018,2017
-12,Centre-Back,"Jan 1, 1997 (20)",NA,NA,Nigeria,FC Nantes,Ligue 1,2017/2018,2017
-NA,Centre-Back,"Oct 15, 1993 (23)",NA,NA,DR Congo,FC Nantes,Ligue 1,2017/2018,2017
-NA,Centre-Back,"Apr 30, 1999 (18)",NA,NA,France,FC Nantes,Ligue 1,2017/2018,2017
-6,Left-Back,"Oct 10, 1991 (25)",NA,NA,Brazil,FC Nantes,Ligue 1,2017/2018,2017
-15,Right-Back,"Sep 14, 1994 (22)",NA,NA,France,FC Nantes,Ligue 1,2017/2018,2017
-25,Right-Back,"Apr 9, 1997 (20)",NA,NA,France,FC Nantes,Ligue 1,2017/2018,2017
-2,Right-Back,"Sep 26, 1991 (25)",NA,NA,France,FC Nantes,Ligue 1,2017/2018,2017
-21,Defensive Midfield,"May 21, 1990 (27)",NA,NA,Slovenia,FC Nantes,Ligue 1,2017/2018,2017
-NA,Defensive Midfield,"Mar 9, 1984 (33)",NA,NA,Belgium,FC Nantes,Ligue 1,2017/2018,2017
-20,Defensive Midfield,"Feb 17, 1992 (25)",NA,NA,Brazil,FC Nantes,Ligue 1,2017/2018,2017
-19,Defensive Midfield,"Mar 3, 1994 (23)",NA,NA,France,FC Nantes,Ligue 1,2017/2018,2017
-28,Central Midfield,"Dec 7, 1994 (22)",NA,NA,France,FC Nantes,Ligue 1,2017/2018,2017
-18,Central Midfield,"Aug 12, 1996 (20)",NA,NA,France,FC Nantes,Ligue 1,2017/2018,2017
-7,Right Midfield,"Jan 14, 1992 (25)",NA,NA,France,FC Nantes,Ligue 1,2017/2018,2017
-24,Right Midfield,"Dec 23, 1996 (20)",NA,NA,Cameroon,FC Nantes,Ligue 1,2017/2018,2017
-11,Left Midfield,"Aug 13, 1991 (25)",NA,NA,Sweden,FC Nantes,Ligue 1,2017/2018,2017
-23,Left Midfield,"Aug 8, 1994 (22)",NA,NA,Belgium,FC Nantes,Ligue 1,2017/2018,2017
-NA,Left Midfield,"Mar 4, 2001 (16)",NA,NA,France,FC Nantes,Ligue 1,2017/2018,2017
-8,Attacking Midfield,"Dec 10, 1993 (23)",NA,NA,France,FC Nantes,Ligue 1,2017/2018,2017
-29,Attacking Midfield,"Jun 23, 1994 (23)",NA,NA,France,FC Nantes,Ligue 1,2017/2018,2017
-14,Left Winger,"Jul 12, 1990 (26)",NA,NA,Belgium,FC Nantes,Ligue 1,2017/2018,2017
-9,Centre-Forward,"Oct 31, 1990 (26)",NA,NA,Argentina,FC Nantes,Ligue 1,2017/2018,2017
-26,Centre-Forward,"Aug 21, 1991 (25)",NA,NA,Mali,FC Nantes,Ligue 1,2017/2018,2017
-NA,Centre-Forward,"May 12, 1995 (22)",NA,NA,Poland,FC Nantes,Ligue 1,2017/2018,2017
-22,Centre-Forward,"Apr 21, 1987 (30)",NA,NA,Burkina Faso,FC Nantes,Ligue 1,2017/2018,2017
-31,Centre-Forward,"Mar 14, 1990 (27)",NA,NA,Iceland,FC Nantes,Ligue 1,2017/2018,2017
-10,Centre-Forward,"Sep 11, 1991 (25)",NA,NA,Morocco,FC Nantes,Ligue 1,2017/2018,2017
-27,Centre-Forward,"Mar 7, 1993 (24)",NA,NA,Senegal,FC Nantes,Ligue 1,2017/2018,2017
-33,Centre-Forward,"Dec 5, 1998 (18)",NA,NA,DR Congo,FC Nantes,Ligue 1,2017/2018,2017
-1,Goalkeeper,"Jan 28, 1990 (27)",NA,NA,Sweden,EA Guingamp,Ligue 1,2017/2018,2017
-30,Goalkeeper,"May 24, 1988 (29)",NA,NA,Serbia,EA Guingamp,Ligue 1,2017/2018,2017
-16,Goalkeeper,"May 12, 1994 (23)",NA,NA,France,EA Guingamp,Ligue 1,2017/2018,2017
-40,Goalkeeper,"Jan 31, 1998 (19)",NA,NA,France,EA Guingamp,Ligue 1,2017/2018,2017
-29,Centre-Back,"Aug 2, 1986 (30)",NA,NA,France,EA Guingamp,Ligue 1,2017/2018,2017
-4,Centre-Back,"Nov 28, 1986 (30)",NA,NA,Cote d'Ivoire,EA Guingamp,Ligue 1,2017/2018,2017
-15,Centre-Back,"Aug 5, 1983 (33)",NA,NA,France,EA Guingamp,Ligue 1,2017/2018,2017
-20,Centre-Back,"Apr 19, 1997 (20)",NA,NA,Cameroon,EA Guingamp,Ligue 1,2017/2018,2017
-27,Left-Back,"Jan 30, 1989 (28)",NA,NA,France,EA Guingamp,Ligue 1,2017/2018,2017
-3,Left-Back,"Jan 23, 1995 (22)",NA,NA,Portugal,EA Guingamp,Ligue 1,2017/2018,2017
-2,Right-Back,"Feb 3, 1994 (23)",NA,NA,DR Congo,EA Guingamp,Ligue 1,2017/2018,2017
-22,Right-Back,"Jan 30, 1986 (31)",NA,NA,France,EA Guingamp,Ligue 1,2017/2018,2017
-8,Defensive Midfield,"Dec 26, 1988 (28)",NA,NA,France,EA Guingamp,Ligue 1,2017/2018,2017
-5,Defensive Midfield,"May 14, 1986 (31)",NA,NA,Senegal,EA Guingamp,Ligue 1,2017/2018,2017
-18,Defensive Midfield,"Nov 9, 1994 (22)",NA,NA,South Africa,EA Guingamp,Ligue 1,2017/2018,2017
-NA,Defensive Midfield,"Jul 2, 1999 (17)",NA,NA,France,EA Guingamp,Ligue 1,2017/2018,2017
-6,Central Midfield,"Jan 7, 1991 (26)",NA,NA,France,EA Guingamp,Ligue 1,2017/2018,2017
-7,Central Midfield,"Dec 31, 1997 (19)",NA,NA,France,EA Guingamp,Ligue 1,2017/2018,2017
-17,Central Midfield,"Jul 24, 1983 (33)",NA,NA,France,EA Guingamp,Ligue 1,2017/2018,2017
-26,Left Midfield,"May 25, 1981 (36)",NA,NA,France,EA Guingamp,Ligue 1,2017/2018,2017
-10,Left Winger,"Feb 24, 1991 (26)",NA,NA,France,EA Guingamp,Ligue 1,2017/2018,2017
-9,Left Winger,"Feb 20, 1990 (27)",NA,NA,Guinea,EA Guingamp,Ligue 1,2017/2018,2017
-21,Left Winger,"Aug 6, 1997 (19)",NA,NA,France,EA Guingamp,Ligue 1,2017/2018,2017
-NA,Left Winger,"Jan 3, 1996 (21)",NA,NA,Morocco,EA Guingamp,Ligue 1,2017/2018,2017
-19,Right Winger,"Jan 24, 1991 (26)",NA,NA,France,EA Guingamp,Ligue 1,2017/2018,2017
-24,Right Winger,"Jun 24, 1996 (21)",NA,NA,France,EA Guingamp,Ligue 1,2017/2018,2017
-12,Right Winger,"Jan 23, 1992 (25)",NA,NA,DR Congo,EA Guingamp,Ligue 1,2017/2018,2017
-23,Centre-Forward,"Aug 2, 1985 (31)",NA,NA,France,EA Guingamp,Ligue 1,2017/2018,2017
-NA,Centre-Forward,"Jul 24, 1989 (27)",NA,NA,French Guiana,EA Guingamp,Ligue 1,2017/2018,2017
-14,Centre-Forward,"Jul 19, 1996 (20)",NA,NA,France,EA Guingamp,Ligue 1,2017/2018,2017
-1,Goalkeeper,"Sep 4, 1991 (25)",NA,NA,France,SCO Angers,Ligue 1,2017/2018,2017
-16,Goalkeeper,"Apr 3, 1983 (34)",NA,NA,France,SCO Angers,Ligue 1,2017/2018,2017
-NA,Goalkeeper,"Dec 11, 1990 (26)",NA,NA,France,SCO Angers,Ligue 1,2017/2018,2017
-40,Goalkeeper,"Dec 25, 1996 (20)",NA,NA,France,SCO Angers,Ligue 1,2017/2018,2017
-24,Centre-Back,"Jun 12, 1988 (29)",NA,NA,France,SCO Angers,Ligue 1,2017/2018,2017
-8,Centre-Back,"Aug 18, 1986 (30)",NA,NA,Cote d'Ivoire,SCO Angers,Ligue 1,2017/2018,2017
-NA,Centre-Back,"Jan 24, 1990 (27)",NA,NA,Algeria,SCO Angers,Ligue 1,2017/2018,2017
-4,Centre-Back,"Jun 9, 1990 (27)",NA,NA,Croatia,SCO Angers,Ligue 1,2017/2018,2017
-3,Left-Back,"May 3, 1989 (28)",NA,NA,France,SCO Angers,Ligue 1,2017/2018,2017
-NA,Left-Back,"Sep 15, 1989 (27)",NA,NA,Senegal,SCO Angers,Ligue 1,2017/2018,2017
-NA,Left-Back,"Jun 6, 2001 (16)",NA,NA,France,SCO Angers,Ligue 1,2017/2018,2017
-29,Right-Back,"Jul 24, 1989 (27)",NA,NA,France,SCO Angers,Ligue 1,2017/2018,2017
-25,Right-Back,"Apr 25, 1990 (27)",NA,NA,Cote d'Ivoire,SCO Angers,Ligue 1,2017/2018,2017
-NA,Right-Back,"Apr 1, 1998 (19)",NA,NA,France,SCO Angers,Ligue 1,2017/2018,2017
-18,Defensive Midfield,"Mar 9, 1995 (22)",NA,NA,France,SCO Angers,Ligue 1,2017/2018,2017
-6,Defensive Midfield,"Nov 4, 1988 (28)",NA,NA,Congo,SCO Angers,Ligue 1,2017/2018,2017
-5,Central Midfield,"Apr 29, 1987 (30)",NA,NA,France,SCO Angers,Ligue 1,2017/2018,2017
-12,Central Midfield,"Apr 10, 1996 (21)",NA,NA,Mali,SCO Angers,Ligue 1,2017/2018,2017
-23,Central Midfield,"Aug 20, 1996 (20)",NA,NA,France,SCO Angers,Ligue 1,2017/2018,2017
-15,Central Midfield,"Apr 15, 1987 (30)",NA,NA,France,SCO Angers,Ligue 1,2017/2018,2017
-22,Central Midfield,"Jan 17, 1998 (19)",NA,NA,France,SCO Angers,Ligue 1,2017/2018,2017
-21,Central Midfield,"Dec 19, 1988 (28)",NA,NA,France,SCO Angers,Ligue 1,2017/2018,2017
-14,Right Midfield,"Mar 24, 1990 (27)",NA,NA,France,SCO Angers,Ligue 1,2017/2018,2017
-27,Left Winger,"Dec 27, 1993 (23)",NA,NA,Cote d'Ivoire,SCO Angers,Ligue 1,2017/2018,2017
-20,Left Winger,"Feb 2, 1993 (24)",NA,NA,France,SCO Angers,Ligue 1,2017/2018,2017
-NA,Left Winger,"Mar 14, 1992 (25)",NA,NA,Algeria,SCO Angers,Ligue 1,2017/2018,2017
-NA,Centre-Forward,"Feb 6, 1995 (22)",NA,NA,France,SCO Angers,Ligue 1,2017/2018,2017
-7,Centre-Forward,"Sep 14, 1992 (24)",NA,NA,Cameroon,SCO Angers,Ligue 1,2017/2018,2017
-19,Centre-Forward,"Jun 16, 1995 (22)",NA,NA,Belgium,SCO Angers,Ligue 1,2017/2018,2017
-10,Centre-Forward,"Mar 30, 1991 (26)",NA,NA,Togo,SCO Angers,Ligue 1,2017/2018,2017
-28,Centre-Forward,"Oct 13, 1987 (29)",NA,NA,Switzerland,SCO Angers,Ligue 1,2017/2018,2017
-NA,Centre-Forward,"Jan 21, 1989 (28)",NA,NA,Congo,SCO Angers,Ligue 1,2017/2018,2017
-11,Centre-Forward,"Feb 21, 1998 (19)",NA,NA,France,SCO Angers,Ligue 1,2017/2018,2017
-16,Goalkeeper,"Jul 3, 1995 (21)",NA,NA,France,LOSC Lille,Ligue 1,2017/2018,2017
-1,Goalkeeper,"Jan 2, 1997 (20)",NA,NA,Slovakia,LOSC Lille,Ligue 1,2017/2018,2017
-30,Goalkeeper,"Oct 16, 1996 (20)",NA,NA,Burkina Faso,LOSC Lille,Ligue 1,2017/2018,2017
-5,Centre-Back,"Jun 18, 1992 (25)",NA,NA,France,LOSC Lille,Ligue 1,2017/2018,2017
-3,Centre-Back,"Feb 9, 1993 (24)",NA,NA,Paraguay,LOSC Lille,Ligue 1,2017/2018,2017
-15,Centre-Back,"May 1, 1994 (23)",NA,NA,Portugal,LOSC Lille,Ligue 1,2017/2018,2017
-22,Centre-Back,"Jan 1, 1997 (20)",NA,NA,Cote d'Ivoire,LOSC Lille,Ligue 1,2017/2018,2017
-27,Left-Back,"Oct 21, 1997 (19)",NA,NA,Morocco,LOSC Lille,Ligue 1,2017/2018,2017
-NA,Left-Back,"Apr 29, 1998 (19)",NA,NA,France,LOSC Lille,Ligue 1,2017/2018,2017
-25,Left-Back,"Jan 3, 1997 (20)",NA,NA,France,LOSC Lille,Ligue 1,2017/2018,2017
-33,Left-Back,"Jul 11, 1998 (18)",NA,NA,France,LOSC Lille,Ligue 1,2017/2018,2017
-2,Right-Back,"Jul 31, 1991 (25)",NA,NA,France,LOSC Lille,Ligue 1,2017/2018,2017
-NA,Right-Back,"Apr 21, 1999 (18)",NA,NA,France,LOSC Lille,Ligue 1,2017/2018,2017
-20,Defensive Midfield,"Mar 23, 1997 (20)",NA,NA,Brazil,LOSC Lille,Ligue 1,2017/2018,2017
-23,Defensive Midfield,"Mar 15, 1992 (25)",NA,NA,Brazil,LOSC Lille,Ligue 1,2017/2018,2017
-6,Defensive Midfield,"Apr 6, 1993 (24)",NA,NA,France,LOSC Lille,Ligue 1,2017/2018,2017
-NA,Defensive Midfield,"Nov 10, 1994 (22)",NA,NA,Portugal,LOSC Lille,Ligue 1,2017/2018,2017
-24,Defensive Midfield,"Feb 27, 1999 (18)",NA,NA,France,LOSC Lille,Ligue 1,2017/2018,2017
-21,Central Midfield,"Aug 30, 1996 (20)",NA,NA,Mali,LOSC Lille,Ligue 1,2017/2018,2017
-29,Central Midfield,"Dec 17, 1996 (20)",NA,NA,Mali,LOSC Lille,Ligue 1,2017/2018,2017
-NA,Central Midfield,"Jun 27, 1997 (20)",NA,NA,France,LOSC Lille,Ligue 1,2017/2018,2017
-34,Central Midfield,"May 24, 1996 (21)",NA,NA,Algeria,LOSC Lille,Ligue 1,2017/2018,2017
-10,Attacking Midfield,"Sep 8, 1994 (22)",NA,NA,Algeria,LOSC Lille,Ligue 1,2017/2018,2017
-26,Attacking Midfield,"Apr 8, 1995 (22)",NA,NA,France,LOSC Lille,Ligue 1,2017/2018,2017
-11,Left Winger,"Jun 2, 1996 (21)",NA,NA,Brazil,LOSC Lille,Ligue 1,2017/2018,2017
-7,Right Winger,"May 3, 1995 (22)",NA,NA,Netherlands,LOSC Lille,Ligue 1,2017/2018,2017
-19,Right Winger,"May 29, 1995 (22)",NA,NA,Cote d'Ivoire,LOSC Lille,Ligue 1,2017/2018,2017
-NA,Right Winger,"Jan 18, 2000 (17)",NA,NA,France,LOSC Lille,Ligue 1,2017/2018,2017
-14,Right Winger,"Feb 11, 1999 (18)",NA,NA,France,LOSC Lille,Ligue 1,2017/2018,2017
-12,Centre-Forward,"Jan 8, 1991 (26)",NA,NA,France,LOSC Lille,Ligue 1,2017/2018,2017
-9,Centre-Forward,"Mar 29, 1997 (20)",NA,NA,Argentina,LOSC Lille,Ligue 1,2017/2018,2017
-18,Centre-Forward,"Jan 28, 1996 (21)",NA,NA,South Africa,LOSC Lille,Ligue 1,2017/2018,2017
-1,Goalkeeper,"Nov 28, 1995 (21)",NA,NA,France,FC Metz,Ligue 1,2017/2018,2017
-30,Goalkeeper,"Feb 27, 1994 (23)",NA,NA,France,FC Metz,Ligue 1,2017/2018,2017
-16,Goalkeeper,"Mar 20, 1983 (34)",NA,NA,Japan,FC Metz,Ligue 1,2017/2018,2017
-NA,Goalkeeper,"Jun 11, 1999 (18)",NA,NA,France,FC Metz,Ligue 1,2017/2018,2017
-36,Defender,"Feb 5, 1998 (19)",NA,NA,France,FC Metz,Ligue 1,2017/2018,2017
-NA,Centre-Back,"Feb 19, 1992 (25)",NA,NA,Guinea,FC Metz,Ligue 1,2017/2018,2017
-NA,Centre-Back,"Mar 6, 1989 (28)",NA,NA,Germany,FC Metz,Ligue 1,2017/2018,2017
-3,Centre-Back,"Aug 14, 1989 (27)",NA,NA,Senegal,FC Metz,Ligue 1,2017/2018,2017
-6,Centre-Back,"Aug 31, 1983 (33)",NA,NA,Serbia,FC Metz,Ligue 1,2017/2018,2017
-21,Centre-Back,"Mar 8, 1996 (21)",NA,NA,France,FC Metz,Ligue 1,2017/2018,2017
-15,Centre-Back,"Apr 3, 1997 (20)",NA,NA,Luxembourg,FC Metz,Ligue 1,2017/2018,2017
-NA,Centre-Back,"May 28, 1999 (18)",NA,NA,France,FC Metz,Ligue 1,2017/2018,2017
-20,Left-Back,"Dec 7, 1986 (30)",NA,NA,France,FC Metz,Ligue 1,2017/2018,2017
-32,Left-Back,"Mar 24, 1984 (33)",NA,NA,Cameroon,FC Metz,Ligue 1,2017/2018,2017
-12,Left-Back,"Mar 20, 1996 (21)",NA,NA,France,FC Metz,Ligue 1,2017/2018,2017
-NA,Left-Back,"Jul 22, 1998 (18)",NA,NA,France,FC Metz,Ligue 1,2017/2018,2017
-14,Left-Back,"Jan 9, 1997 (20)",NA,NA,Senegal,FC Metz,Ligue 1,2017/2018,2017
-35,Left-Back,"Oct 24, 1998 (18)",NA,NA,France,FC Metz,Ligue 1,2017/2018,2017
-25,Right-Back,"Jan 1, 1992 (25)",NA,NA,Albania,FC Metz,Ligue 1,2017/2018,2017
-28,Right-Back,"May 18, 1989 (28)",NA,NA,France,FC Metz,Ligue 1,2017/2018,2017
-27,Right-Back,"May 5, 1997 (20)",NA,NA,Cameroon,FC Metz,Ligue 1,2017/2018,2017
-33,Midfielder,"Jun 24, 1998 (19)",NA,NA,France,FC Metz,Ligue 1,2017/2018,2017
-4,Defensive Midfield,"Dec 9, 1988 (28)",NA,NA,Cameroon,FC Metz,Ligue 1,2017/2018,2017
-5,Defensive Midfield,"Jan 2, 1993 (24)",NA,NA,Argentina,FC Metz,Ligue 1,2017/2018,2017
-NA,Defensive Midfield,"Mar 8, 1994 (23)",NA,NA,Luxembourg,FC Metz,Ligue 1,2017/2018,2017
-NA,Central Midfield,"Feb 26, 1993 (24)",NA,NA,Portugal,FC Metz,Ligue 1,2017/2018,2017
-24,Central Midfield,"Sep 29, 1984 (32)",NA,NA,France,FC Metz,Ligue 1,2017/2018,2017
-31,Central Midfield,"Mar 20, 1997 (20)",NA,NA,France,FC Metz,Ligue 1,2017/2018,2017
-8,Right Midfield,"Jul 23, 1984 (32)",NA,NA,France,FC Metz,Ligue 1,2017/2018,2017
-34,Right Midfield,"May 18, 1998 (19)",NA,NA,France,FC Metz,Ligue 1,2017/2018,2017
-10,Attacking Midfield,"Jan 5, 1986 (31)",NA,NA,Bosnia-Herzegovina,FC Metz,Ligue 1,2017/2018,2017
-19,Attacking Midfield,"Nov 19, 1991 (25)",NA,NA,France,FC Metz,Ligue 1,2017/2018,2017
-18,Attacking Midfield,"Feb 4, 2000 (17)",NA,NA,Luxembourg,FC Metz,Ligue 1,2017/2018,2017
-NA,Forward,"Jan 4, 1998 (19)",NA,NA,France,FC Metz,Ligue 1,2017/2018,2017
-11,Left Winger,"Jul 8, 1994 (22)",NA,NA,Senegal,FC Metz,Ligue 1,2017/2018,2017
-17,Right Winger,"Feb 12, 1988 (29)",NA,NA,Togo,FC Metz,Ligue 1,2017/2018,2017
-22,Right Winger,"Feb 25, 1993 (24)",NA,NA,Algeria,FC Metz,Ligue 1,2017/2018,2017
-NA,Right Winger,"Aug 7, 1996 (20)",NA,NA,France,FC Metz,Ligue 1,2017/2018,2017
-NA,Right Winger,"Sep 26, 1994 (22)",NA,NA,Argentina,FC Metz,Ligue 1,2017/2018,2017
-13,Right Winger,"Nov 14, 1998 (18)",NA,NA,The Gambia,FC Metz,Ligue 1,2017/2018,2017
-9,Centre-Forward,"Mar 1, 1988 (29)",NA,NA,France,FC Metz,Ligue 1,2017/2018,2017
-NA,Centre-Forward,"Jun 15, 1995 (22)",NA,NA,Senegal,FC Metz,Ligue 1,2017/2018,2017
-29,Centre-Forward,"Mar 3, 1990 (27)",NA,NA,France,FC Metz,Ligue 1,2017/2018,2017
-7,Centre-Forward,"Mar 11, 1999 (18)",NA,NA,Senegal,FC Metz,Ligue 1,2017/2018,2017
-1,Goalkeeper,"Jun 26, 1980 (37)",NA,NA,France,SM Caen,Ligue 1,2017/2018,2017
-30,Goalkeeper,"Apr 25, 1994 (23)",NA,NA,France,SM Caen,Ligue 1,2017/2018,2017
-40,Goalkeeper,"Mar 20, 1989 (28)",NA,NA,France,SM Caen,Ligue 1,2017/2018,2017
-28,Centre-Back,"May 17, 1988 (29)",NA,NA,France,SM Caen,Ligue 1,2017/2018,2017
-29,Centre-Back,"Oct 28, 1987 (29)",NA,NA,Haiti,SM Caen,Ligue 1,2017/2018,2017
-24,Centre-Back,"Aug 9, 1994 (22)",NA,NA,France,SM Caen,Ligue 1,2017/2018,2017
-3,Centre-Back,"Feb 3, 1995 (22)",NA,NA,France,SM Caen,Ligue 1,2017/2018,2017
-NA,Left-Back,"Sep 16, 1988 (28)",NA,NA,Benin,SM Caen,Ligue 1,2017/2018,2017
-11,Left-Back,"Nov 8, 1985 (31)",NA,NA,France,SM Caen,Ligue 1,2017/2018,2017
-22,Left-Back,"Dec 1, 1993 (23)",NA,NA,Senegal,SM Caen,Ligue 1,2017/2018,2017
-33,Left-Back,"Jun 5, 1998 (19)",NA,NA,France,SM Caen,Ligue 1,2017/2018,2017
-21,Right-Back,"Dec 24, 1994 (22)",NA,NA,France,SM Caen,Ligue 1,2017/2018,2017
-23,Right-Back,"Nov 28, 1986 (30)",NA,NA,France,SM Caen,Ligue 1,2017/2018,2017
-4,Defensive Midfield,"Aug 28, 1992 (24)",NA,NA,Cote d'Ivoire,SM Caen,Ligue 1,2017/2018,2017
-5,Defensive Midfield,"Mar 20, 1992 (25)",NA,NA,Guinea,SM Caen,Ligue 1,2017/2018,2017
-NA,Defensive Midfield,"Jun 19, 1996 (21)",NA,NA,France,SM Caen,Ligue 1,2017/2018,2017
-10,Central Midfield,"Jul 7, 1996 (20)",NA,NA,Morocco,SM Caen,Ligue 1,2017/2018,2017
-8,Central Midfield,"Feb 9, 1992 (25)",NA,NA,Belgium,SM Caen,Ligue 1,2017/2018,2017
-NA,Central Midfield,"Mar 20, 1986 (31)",NA,NA,France,SM Caen,Ligue 1,2017/2018,2017
-19,Central Midfield,"Sep 29, 1995 (21)",NA,NA,France,SM Caen,Ligue 1,2017/2018,2017
-18,Central Midfield,"Sep 25, 1997 (19)",NA,NA,Congo,SM Caen,Ligue 1,2017/2018,2017
-32,Central Midfield,"Jan 7, 1998 (19)",NA,NA,France,SM Caen,Ligue 1,2017/2018,2017
-NA,Attacking Midfield,"Aug 8, 1992 (24)",NA,NA,Haiti,SM Caen,Ligue 1,2017/2018,2017
-25,Attacking Midfield,"Jul 5, 1982 (34)",NA,NA,France,SM Caen,Ligue 1,2017/2018,2017
-20,Left Winger,"Mar 18, 1990 (27)",NA,NA,Haiti,SM Caen,Ligue 1,2017/2018,2017
-13,Left Winger,"Mar 1, 1991 (26)",NA,NA,Cote d'Ivoire,SM Caen,Ligue 1,2017/2018,2017
-17,Left Winger,"Nov 9, 1992 (24)",NA,NA,DR Congo,SM Caen,Ligue 1,2017/2018,2017
-9,Left Winger,"Mar 19, 1997 (20)",NA,NA,Slovenia,SM Caen,Ligue 1,2017/2018,2017
-12,Right Winger,"Nov 18, 1989 (27)",NA,NA,France,SM Caen,Ligue 1,2017/2018,2017
-7,Right Winger,"Jul 17, 1999 (17)",NA,NA,Finland,SM Caen,Ligue 1,2017/2018,2017
-26,Centre-Forward,"May 21, 1989 (28)",NA,NA,Croatia,SM Caen,Ligue 1,2017/2018,2017
-27,Centre-Forward,"Feb 6, 1995 (22)",NA,NA,France,SM Caen,Ligue 1,2017/2018,2017
-33,Centre-Forward,"Feb 7, 1996 (21)",NA,NA,Mali,SM Caen,Ligue 1,2017/2018,2017
-40,Goalkeeper,"Apr 26, 1991 (26)",NA,NA,France,HSC Montpellier,Ligue 1,2017/2018,2017
-1,Goalkeeper,"May 24, 1982 (35)",NA,NA,France,HSC Montpellier,Ligue 1,2017/2018,2017
-16,Goalkeeper,"Jun 6, 1998 (19)",NA,NA,France,HSC Montpellier,Ligue 1,2017/2018,2017
-5,Centre-Back,"Oct 1, 1990 (26)",NA,NA,Portugal,HSC Montpellier,Ligue 1,2017/2018,2017
-NA,Centre-Back,"Jul 5, 1993 (23)",NA,NA,Czech Republic,HSC Montpellier,Ligue 1,2017/2018,2017
-3,Centre-Back,"Apr 5, 1985 (32)",NA,NA,France,HSC Montpellier,Ligue 1,2017/2018,2017
-4,Centre-Back,"Sep 13, 1977 (39)",NA,NA,Brazil,HSC Montpellier,Ligue 1,2017/2018,2017
-3,Centre-Back,"Aug 5, 1997 (19)",NA,NA,France,HSC Montpellier,Ligue 1,2017/2018,2017
-31,Centre-Back,"Jan 8, 1999 (18)",NA,NA,France,HSC Montpellier,Ligue 1,2017/2018,2017
-24,Left-Back,"Jan 6, 1993 (24)",NA,NA,France,HSC Montpellier,Ligue 1,2017/2018,2017
-8,Left-Back,"Jun 22, 1991 (26)",NA,NA,Cameroon,HSC Montpellier,Ligue 1,2017/2018,2017
-26,Left-Back,"Jul 15, 1997 (19)",NA,NA,France,HSC Montpellier,Ligue 1,2017/2018,2017
-23,Right-Back,"Nov 1, 1997 (19)",NA,NA,France,HSC Montpellier,Ligue 1,2017/2018,2017
-2,Right-Back,"Apr 26, 1993 (24)",NA,NA,France,HSC Montpellier,Ligue 1,2017/2018,2017
-17,Right-Back,"Dec 16, 1997 (19)",NA,NA,France,HSC Montpellier,Ligue 1,2017/2018,2017
-NA,Midfielder,"Apr 13, 1999 (18)",NA,NA,France,HSC Montpellier,Ligue 1,2017/2018,2017
-7,Defensive Midfield,"Jan 16, 1989 (28)",NA,NA,France,HSC Montpellier,Ligue 1,2017/2018,2017
-13,Defensive Midfield,"May 10, 1995 (22)",NA,NA,Tunisia,HSC Montpellier,Ligue 1,2017/2018,2017
-27,Defensive Midfield,"Mar 27, 1990 (27)",NA,NA,Uruguay,HSC Montpellier,Ligue 1,2017/2018,2017
-6,Defensive Midfield,"Sep 7, 1996 (20)",NA,NA,France,HSC Montpellier,Ligue 1,2017/2018,2017
-22,Defensive Midfield,"Jun 7, 1997 (20)",NA,NA,France,HSC Montpellier,Ligue 1,2017/2018,2017
-NA,Attacking Midfield,"Jun 1, 1984 (33)",NA,NA,Benin,HSC Montpellier,Ligue 1,2017/2018,2017
-9,Attacking Midfield,"May 2, 1998 (19)",NA,NA,France,HSC Montpellier,Ligue 1,2017/2018,2017
-29,Left Winger,"May 17, 1993 (24)",NA,NA,Chad,HSC Montpellier,Ligue 1,2017/2018,2017
-20,Left Winger,"Jan 22, 1993 (24)",NA,NA,South Africa,HSC Montpellier,Ligue 1,2017/2018,2017
-18,Right Winger,"Mar 8, 1996 (21)",NA,NA,Belgium,HSC Montpellier,Ligue 1,2017/2018,2017
-19,Right Winger,"Dec 22, 1982 (34)",NA,NA,Senegal,HSC Montpellier,Ligue 1,2017/2018,2017
-14,Centre-Forward,"Mar 31, 1989 (28)",NA,NA,Cote d'Ivoire,HSC Montpellier,Ligue 1,2017/2018,2017
-NA,Centre-Forward,"May 9, 1988 (29)",NA,NA,France,HSC Montpellier,Ligue 1,2017/2018,2017
-NA,Centre-Forward,"May 21, 1999 (18)",NA,NA,France,HSC Montpellier,Ligue 1,2017/2018,2017
-30,Goalkeeper,"Oct 28, 1990 (26)",NA,NA,France,FCO Dijon,Ligue 1,2017/2018,2017
-1,Goalkeeper,"Apr 7, 1989 (28)",NA,NA,France,FCO Dijon,Ligue 1,2017/2018,2017
-16,Goalkeeper,"Nov 28, 1991 (25)",NA,NA,France,FCO Dijon,Ligue 1,2017/2018,2017
-4,Centre-Back,"Dec 1, 1988 (28)",NA,NA,Senegal,FCO Dijon,Ligue 1,2017/2018,2017
-6,Centre-Back,"Aug 25, 1987 (29)",NA,NA,France,FCO Dijon,Ligue 1,2017/2018,2017
-18,Centre-Back,"Nov 6, 1990 (26)",NA,NA,Central African Republic,FCO Dijon,Ligue 1,2017/2018,2017
-NA,Centre-Back,"Jan 17, 1993 (24)",NA,NA,Hungary,FCO Dijon,Ligue 1,2017/2018,2017
-27,Centre-Back,"Jan 30, 1980 (37)",NA,NA,France,FCO Dijon,Ligue 1,2017/2018,2017
-NA,Centre-Back,"Mar 6, 2001 (16)",NA,NA,France,FCO Dijon,Ligue 1,2017/2018,2017
-3,Left-Back,"Nov 28, 1988 (28)",NA,NA,Congo,FCO Dijon,Ligue 1,2017/2018,2017
-5,Left-Back,"Jan 28, 1992 (25)",NA,NA,Tunisia,FCO Dijon,Ligue 1,2017/2018,2017
-26,Right-Back,"Oct 16, 1986 (30)",NA,NA,Morocco,FCO Dijon,Ligue 1,2017/2018,2017
-23,Right-Back,"Jan 22, 1988 (29)",NA,NA,Switzerland,FCO Dijon,Ligue 1,2017/2018,2017
-19,Right-Back,"Aug 19, 1996 (20)",NA,NA,France,FCO Dijon,Ligue 1,2017/2018,2017
-NA,Midfielder,"Jan 4, 1998 (19)",NA,NA,France,FCO Dijon,Ligue 1,2017/2018,2017
-28,Defensive Midfield,"Nov 10, 1994 (22)",NA,NA,Portugal,FCO Dijon,Ligue 1,2017/2018,2017
-NA,Defensive Midfield,"Jun 16, 1996 (21)",NA,NA,France,FCO Dijon,Ligue 1,2017/2018,2017
-21,Defensive Midfield,"Jun 29, 1997 (20)",NA,NA,Congo,FCO Dijon,Ligue 1,2017/2018,2017
-8,Central Midfield,"Aug 6, 1992 (24)",NA,NA,Algeria,FCO Dijon,Ligue 1,2017/2018,2017
-14,Central Midfield,"Sep 29, 1991 (25)",NA,NA,France,FCO Dijon,Ligue 1,2017/2018,2017
-20,Central Midfield,"Aug 27, 1989 (27)",NA,NA,France,FCO Dijon,Ligue 1,2017/2018,2017
-NA,Central Midfield,"Jun 24, 1995 (22)",NA,NA,France,FCO Dijon,Ligue 1,2017/2018,2017
-15,Central Midfield,"Feb 2, 1980 (37)",NA,NA,France,FCO Dijon,Ligue 1,2017/2018,2017
-34,Central Midfield,"Nov 27, 2000 (16)",NA,NA,France,FCO Dijon,Ligue 1,2017/2018,2017
-7,Attacking Midfield,"Mar 23, 1986 (31)",NA,NA,France,FCO Dijon,Ligue 1,2017/2018,2017
-NA,Attacking Midfield,"May 22, 1995 (22)",NA,NA,Congo,FCO Dijon,Ligue 1,2017/2018,2017
-36,Attacking Midfield,"Aug 9, 1994 (22)",NA,NA,France,FCO Dijon,Ligue 1,2017/2018,2017
-NA,Forward,"Sep 22, 1998 (18)",NA,NA,France,FCO Dijon,Ligue 1,2017/2018,2017
-NA,Forward,"Jan 12, 1998 (19)",NA,NA,France,FCO Dijon,Ligue 1,2017/2018,2017
-10,Left Winger,"Jul 27, 1992 (24)",NA,NA,Tunisia,FCO Dijon,Ligue 1,2017/2018,2017
-22,Right Winger,"Jun 30, 1994 (23)",NA,NA,"Korea, South",FCO Dijon,Ligue 1,2017/2018,2017
-11,Centre-Forward,"Nov 19, 1988 (28)",NA,NA,Cape Verde,FCO Dijon,Ligue 1,2017/2018,2017
-29,Centre-Forward,"Jan 22, 1992 (25)",NA,NA,France,FCO Dijon,Ligue 1,2017/2018,2017
-9,Centre-Forward,"Apr 19, 1995 (22)",NA,NA,France,FCO Dijon,Ligue 1,2017/2018,2017
-NA,Centre-Forward,"Mar 20, 1995 (22)",NA,NA,Senegal,FCO Dijon,Ligue 1,2017/2018,2017
-1,Goalkeeper,"Dec 8, 1986 (30)",NA,NA,France,SC Amiens,Ligue 1,2017/2018,2017
-16,Goalkeeper,"Jul 21, 1983 (33)",NA,NA,France,SC Amiens,Ligue 1,2017/2018,2017
-40,Goalkeeper,"Jul 3, 1990 (26)",NA,NA,France,SC Amiens,Ligue 1,2017/2018,2017
-NA,Goalkeeper,"May 25, 1997 (20)",NA,NA,France,SC Amiens,Ligue 1,2017/2018,2017
-2,Centre-Back,"Dec 24, 1993 (23)",NA,NA,France,SC Amiens,Ligue 1,2017/2018,2017
-12,Centre-Back,"Aug 11, 1989 (27)",NA,NA,Mali,SC Amiens,Ligue 1,2017/2018,2017
-3,Centre-Back,"Jul 28, 1985 (31)",NA,NA,Benin,SC Amiens,Ligue 1,2017/2018,2017
-NA,Left-Back,"Jun 9, 1989 (28)",NA,NA,Brazil,SC Amiens,Ligue 1,2017/2018,2017
-23,Left-Back,"Mar 5, 1983 (34)",NA,NA,France,SC Amiens,Ligue 1,2017/2018,2017
-19,Right-Back,"Feb 19, 1991 (26)",NA,NA,Morocco,SC Amiens,Ligue 1,2017/2018,2017
-25,Right-Back,"Feb 23, 1985 (32)",NA,NA,Senegal,SC Amiens,Ligue 1,2017/2018,2017
-6,Defensive Midfield,"Feb 10, 1991 (26)",NA,NA,France,SC Amiens,Ligue 1,2017/2018,2017
-24,Defensive Midfield,"Nov 22, 1982 (34)",NA,NA,France,SC Amiens,Ligue 1,2017/2018,2017
-20,Defensive Midfield,"Apr 24, 1984 (33)",NA,NA,France,SC Amiens,Ligue 1,2017/2018,2017
-26,Defensive Midfield,"Jan 11, 1985 (32)",NA,NA,Cameroon,SC Amiens,Ligue 1,2017/2018,2017
-34,Central Midfield,"Oct 9, 1992 (24)",NA,NA,South Africa,SC Amiens,Ligue 1,2017/2018,2017
-NA,Central Midfield,"Dec 28, 1996 (20)",NA,NA,France,SC Amiens,Ligue 1,2017/2018,2017
-8,Central Midfield,"Dec 17, 1992 (24)",NA,NA,France,SC Amiens,Ligue 1,2017/2018,2017
-17,Central Midfield,"Aug 17, 1997 (19)",NA,NA,France,SC Amiens,Ligue 1,2017/2018,2017
-7,Right Midfield,"Mar 6, 1994 (23)",NA,NA,DR Congo,SC Amiens,Ligue 1,2017/2018,2017
-10,Right Midfield,"Oct 25, 1987 (29)",NA,NA,France,SC Amiens,Ligue 1,2017/2018,2017
-18,Left Midfield,"Oct 23, 1988 (28)",NA,NA,Neukaledonien,SC Amiens,Ligue 1,2017/2018,2017
-21,Attacking Midfield,"May 27, 1986 (31)",NA,NA,France,SC Amiens,Ligue 1,2017/2018,2017
-39,Attacking Midfield,"Feb 15, 1996 (21)",NA,NA,Brazil,SC Amiens,Ligue 1,2017/2018,2017
-NA,Left Winger,"Mar 13, 1996 (21)",NA,NA,Brazil,SC Amiens,Ligue 1,2017/2018,2017
-14,Left Winger,"Jun 21, 1991 (26)",NA,NA,DR Congo,SC Amiens,Ligue 1,2017/2018,2017
-11,Left Winger,"Aug 12, 1995 (21)",NA,NA,France,SC Amiens,Ligue 1,2017/2018,2017
-27,Left Winger,"Jun 27, 1992 (25)",NA,NA,Colombia,SC Amiens,Ligue 1,2017/2018,2017
-37,Right Winger,"May 7, 1987 (30)",NA,NA,Togo,SC Amiens,Ligue 1,2017/2018,2017
-13,Right Winger,"Jan 17, 1994 (23)",NA,NA,France,SC Amiens,Ligue 1,2017/2018,2017
-15,Centre-Forward,"Apr 3, 1993 (24)",NA,NA,Senegal,SC Amiens,Ligue 1,2017/2018,2017
-28,Centre-Forward,"May 20, 1990 (27)",NA,NA,Cote d'Ivoire,SC Amiens,Ligue 1,2017/2018,2017
-29,Centre-Forward,"Apr 15, 1994 (23)",NA,NA,Niger,SC Amiens,Ligue 1,2017/2018,2017
-NA,Centre-Forward,"Jan 1, 1996 (21)",NA,NA,France,SC Amiens,Ligue 1,2017/2018,2017
-30,Goalkeeper,"Feb 16, 1990 (27)",NA,NA,Mali,ES Troyes AC,Ligue 1,2017/2018,2017
-1,Goalkeeper,"Sep 22, 1991 (25)",NA,NA,France,ES Troyes AC,Ligue 1,2017/2018,2017
-40,Goalkeeper,"Jun 11, 1999 (18)",NA,NA,France,ES Troyes AC,Ligue 1,2017/2018,2017
-NA,Centre-Back,"Apr 25, 1987 (30)",NA,NA,France,ES Troyes AC,Ligue 1,2017/2018,2017
-24,Centre-Back,"Jan 16, 1992 (25)",NA,NA,France,ES Troyes AC,Ligue 1,2017/2018,2017
-22,Centre-Back,"Aug 22, 1992 (24)",NA,NA,France,ES Troyes AC,Ligue 1,2017/2018,2017
-NA,Centre-Back,"Dec 19, 1997 (19)",NA,NA,Brazil,ES Troyes AC,Ligue 1,2017/2018,2017
-4,Centre-Back,"May 31, 1984 (33)",NA,NA,Venezuela,ES Troyes AC,Ligue 1,2017/2018,2017
-17,Left-Back,"Jul 5, 1993 (23)",NA,NA,Gabon,ES Troyes AC,Ligue 1,2017/2018,2017
-23,Left-Back,"Jan 1, 1992 (25)",NA,NA,Mali,ES Troyes AC,Ligue 1,2017/2018,2017
-12,Right-Back,"Oct 1, 1991 (25)",NA,NA,France,ES Troyes AC,Ligue 1,2017/2018,2017
-2,Right-Back,"Jan 12, 1990 (27)",NA,NA,Guadeloupe,ES Troyes AC,Ligue 1,2017/2018,2017
-NA,Right-Back,"Sep 28, 1998 (18)",NA,NA,France,ES Troyes AC,Ligue 1,2017/2018,2017
-27,Defensive Midfield,"Sep 7, 1996 (20)",NA,NA,France,ES Troyes AC,Ligue 1,2017/2018,2017
-7,Central Midfield,"Apr 26, 1995 (22)",NA,NA,France,ES Troyes AC,Ligue 1,2017/2018,2017
-19,Central Midfield,"Feb 17, 1991 (26)",NA,NA,France,ES Troyes AC,Ligue 1,2017/2018,2017
-6,Central Midfield,"Jan 17, 1990 (27)",NA,NA,France,ES Troyes AC,Ligue 1,2017/2018,2017
-29,Right Midfield,"Aug 14, 1996 (20)",NA,NA,France,ES Troyes AC,Ligue 1,2017/2018,2017
-NA,Right Midfield,"Apr 21, 1998 (19)",NA,NA,France,ES Troyes AC,Ligue 1,2017/2018,2017
-NA,Right Midfield,"Aug 7, 1999 (17)",NA,NA,France,ES Troyes AC,Ligue 1,2017/2018,2017
-28,Left Midfield,"Mar 25, 1992 (25)",NA,NA,France,ES Troyes AC,Ligue 1,2017/2018,2017
-8,Left Midfield,"Mar 22, 1984 (33)",NA,NA,France,ES Troyes AC,Ligue 1,2017/2018,2017
-13,Attacking Midfield,"Apr 27, 1995 (22)",NA,NA,Tunisia,ES Troyes AC,Ligue 1,2017/2018,2017
-18,Attacking Midfield,"Jul 1, 1984 (33)",NA,NA,Tunisia,ES Troyes AC,Ligue 1,2017/2018,2017
-10,Attacking Midfield,"Jan 2, 1977 (40)",NA,NA,France,ES Troyes AC,Ligue 1,2017/2018,2017
-26,Centre-Forward,"Jun 16, 1993 (24)",NA,NA,Mali,ES Troyes AC,Ligue 1,2017/2018,2017
-9,Centre-Forward,"Jun 29, 1991 (26)",NA,NA,"Korea, South",ES Troyes AC,Ligue 1,2017/2018,2017
-20,Centre-Forward,"Jun 1, 1989 (28)",NA,NA,Benin,ES Troyes AC,Ligue 1,2017/2018,2017
-11,Centre-Forward,"Sep 1, 1987 (29)",NA,NA,France,ES Troyes AC,Ligue 1,2017/2018,2017
-25,Centre-Forward,"Apr 20, 1996 (21)",NA,NA,France,ES Troyes AC,Ligue 1,2017/2018,2017
-16,Goalkeeper,"Jul 19, 1988 (28)",NA,NA,Algeria,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
-30,Goalkeeper,"Oct 21, 1996 (20)",NA,NA,France,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
-1,Goalkeeper,"Sep 20, 1983 (33)",NA,NA,France,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
-NA,Goalkeeper,"Nov 11, 1998 (18)",NA,NA,France,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
-4,Centre-Back,"Feb 21, 1989 (28)",NA,NA,France,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
-26,Centre-Back,"Apr 27, 1988 (29)",NA,NA,Burkina Faso,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
-22,Centre-Back,"Jun 22, 1987 (30)",NA,NA,Guinea,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
-12,Centre-Back,"Mar 23, 1983 (34)",NA,NA,Senegal,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
-21,Centre-Back,"Nov 21, 1992 (24)",NA,NA,French Guiana,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
-NA,Centre-Back,"Jul 1, 1997 (20)",NA,NA,France,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
-36,Centre-Back,"Jul 10, 1998 (18)",NA,NA,Cameroon,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
-3,Left-Back,"Dec 20, 1993 (23)",NA,NA,Senegal,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
-2,Right-Back,"Mar 23, 1993 (24)",NA,NA,Guadeloupe,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
-27,Right-Back,"Oct 3, 1991 (25)",NA,NA,France,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
-NA,Right-Back,"May 29, 1999 (18)",NA,NA,France,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
-8,Defensive Midfield,"Mar 20, 1994 (23)",NA,NA,Cote d'Ivoire,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
-6,Defensive Midfield,"Mar 27, 1987 (30)",NA,NA,France,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
-NA,Defensive Midfield,"Mar 27, 1988 (29)",NA,NA,France,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
-28,Central Midfield,"Apr 9, 1990 (27)",NA,NA,France,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
-5,Central Midfield,"Jan 16, 1988 (29)",NA,NA,France,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
-11,Central Midfield,"Feb 13, 1988 (29)",NA,NA,France,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
-17,Central Midfield,"Mar 6, 1986 (31)",NA,NA,France,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
-8,Left Midfield,"Aug 7, 1999 (17)",NA,NA,Tunisia,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
-10,Attacking Midfield,"Apr 6, 1987 (30)",NA,NA,France,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
-NA,Attacking Midfield,"Jul 19, 1997 (19)",NA,NA,France,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
-20,Left Winger,"Mar 4, 1997 (20)",NA,NA,France,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
-9,Centre-Forward,"Feb 8, 1992 (25)",NA,NA,Algeria,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
-19,Centre-Forward,"May 28, 1992 (25)",NA,NA,Cameroon,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
-29,Centre-Forward,"Feb 10, 1991 (26)",NA,NA,Cape Verde,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
-13,Centre-Forward,"Jun 13, 1983 (34)",NA,NA,France,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
-NA,Centre-Forward,"Dec 19, 1996 (20)",NA,NA,Mali,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
+player_name,position,date_of_birth,age,nationality,club_name,league_name,season,year
+Kevin Trapp,Goalkeeper,1990-07-08,26,Germany,Paris Saint-Germain,Ligue 1,2017/2018,2017
+Alphonse Areola,Goalkeeper,1993-02-27,24,France,Paris Saint-Germain,Ligue 1,2017/2018,2017
+Rémy Descamps,Goalkeeper,1996-06-25,21,France,Paris Saint-Germain,Ligue 1,2017/2018,2017
+Sébastien Cibois,Goalkeeper,1998-03-02,19,France,Paris Saint-Germain,Ligue 1,2017/2018,2017
+Marquinhos,Centre-Back,1994-05-14,23,Brazil,Paris Saint-Germain,Ligue 1,2017/2018,2017
+Thiago Silva,Centre-Back,1984-09-22,32,Brazil,Paris Saint-Germain,Ligue 1,2017/2018,2017
+Presnel Kimpembe,Centre-Back,1995-08-13,21,France,Paris Saint-Germain,Ligue 1,2017/2018,2017
+Kévin Rimane,Centre-Back,1991-02-23,26,French Guiana,Paris Saint-Germain,Ligue 1,2017/2018,2017
+Layvin Kurzawa,Left-Back,1992-09-04,24,France,Paris Saint-Germain,Ligue 1,2017/2018,2017
+Yuri Berchiche,Left-Back,1990-02-10,27,Spain,Paris Saint-Germain,Ligue 1,2017/2018,2017
+Stanley N'Soki,Left-Back,1999-04-09,18,France,Paris Saint-Germain,Ligue 1,2017/2018,2017
+Thomas Meunier,Right-Back,1991-09-12,25,Belgium,Paris Saint-Germain,Ligue 1,2017/2018,2017
+Dani Alves,Right-Back,1983-05-06,34,Brazil,Paris Saint-Germain,Ligue 1,2017/2018,2017
+Alec Georgen,Right-Back,1998-09-17,18,France,Paris Saint-Germain,Ligue 1,2017/2018,2017
+Lassana Diarra,Defensive Midfield,1985-03-10,32,France,Paris Saint-Germain,Ligue 1,2017/2018,2017
+Thiago Motta,Defensive Midfield,1982-08-28,34,Italy,Paris Saint-Germain,Ligue 1,2017/2018,2017
+Lorenzo Callegari,Defensive Midfield,1998-02-27,19,France,Paris Saint-Germain,Ligue 1,2017/2018,2017
+Marco Verratti,Central Midfield,1992-11-05,24,Italy,Paris Saint-Germain,Ligue 1,2017/2018,2017
+Blaise Matuidi,Central Midfield,1987-04-09,30,France,Paris Saint-Germain,Ligue 1,2017/2018,2017
+Adrien Rabiot,Central Midfield,1995-04-03,22,France,Paris Saint-Germain,Ligue 1,2017/2018,2017
+Giovani Lo Celso,Central Midfield,1996-04-09,21,Argentina,Paris Saint-Germain,Ligue 1,2017/2018,2017
+Christopher Nkunku,Central Midfield,1997-11-14,19,France,Paris Saint-Germain,Ligue 1,2017/2018,2017
+Antoine Bernede,Central Midfield,1999-05-26,18,France,Paris Saint-Germain,Ligue 1,2017/2018,2017
+Julian Draxler,Attacking Midfield,1993-09-20,23,Germany,Paris Saint-Germain,Ligue 1,2017/2018,2017
+Javier Pastore,Attacking Midfield,1989-06-20,28,Argentina,Paris Saint-Germain,Ligue 1,2017/2018,2017
+Hatem Ben Arfa,Attacking Midfield,1987-03-07,30,France,Paris Saint-Germain,Ligue 1,2017/2018,2017
+Yacine Adli,Attacking Midfield,2000-07-29,16,France,Paris Saint-Germain,Ligue 1,2017/2018,2017
+Neymar,Left Winger,1992-02-05,25,Brazil,Paris Saint-Germain,Ligue 1,2017/2018,2017
+Gonçalo Guedes,Left Winger,1996-11-29,20,Portugal,Paris Saint-Germain,Ligue 1,2017/2018,2017
+Ángel Di María,Right Winger,1988-02-14,29,Argentina,Paris Saint-Germain,Ligue 1,2017/2018,2017
+Lucas Moura,Right Winger,1992-08-13,24,Brazil,Paris Saint-Germain,Ligue 1,2017/2018,2017
+Edinson Cavani,Centre-Forward,1987-02-14,30,Uruguay,Paris Saint-Germain,Ligue 1,2017/2018,2017
+Kylian Mbappé,Centre-Forward,1998-12-20,18,France,Paris Saint-Germain,Ligue 1,2017/2018,2017
+Jesé,Centre-Forward,1993-02-26,24,Spain,Paris Saint-Germain,Ligue 1,2017/2018,2017
+Timothy Weah,Centre-Forward,2000-02-22,17,United States,Paris Saint-Germain,Ligue 1,2017/2018,2017
+Danijel Subasic,Goalkeeper,1984-10-27,32,Croatia,AS Monaco,Ligue 1,2017/2018,2017
+Diego Benaglio,Goalkeeper,1983-09-08,33,Switzerland,AS Monaco,Ligue 1,2017/2018,2017
+Seydou Sy,Goalkeeper,1995-12-12,21,Senegal,AS Monaco,Ligue 1,2017/2018,2017
+Loïc Badiashile,Goalkeeper,1998-02-05,19,France,AS Monaco,Ligue 1,2017/2018,2017
+Kamil Glik,Centre-Back,1988-02-03,29,Poland,AS Monaco,Ligue 1,2017/2018,2017
+Jemerson,Centre-Back,1992-08-24,24,Brazil,AS Monaco,Ligue 1,2017/2018,2017
+Terence Kongolo,Centre-Back,1994-02-14,23,Netherlands,AS Monaco,Ligue 1,2017/2018,2017
+Andrea Raggi,Centre-Back,1984-06-24,33,Italy,AS Monaco,Ligue 1,2017/2018,2017
+Safwan Mbaé,Centre-Back,1997-04-20,20,France,AS Monaco,Ligue 1,2017/2018,2017
+Jorge,Left-Back,1996-03-28,21,Brazil,AS Monaco,Ligue 1,2017/2018,2017
+Julien Serrano,Left-Back,1998-02-13,19,France,AS Monaco,Ligue 1,2017/2018,2017
+Djibril Sidibé,Right-Back,1992-07-29,24,France,AS Monaco,Ligue 1,2017/2018,2017
+Almamy Touré,Right-Back,1996-04-28,21,France,AS Monaco,Ligue 1,2017/2018,2017
+Pierre-Daniel Nguinda,Right-Back,1996-06-18,21,Cameroon,AS Monaco,Ligue 1,2017/2018,2017
+Fabinho,Defensive Midfield,1993-10-23,23,Brazil,AS Monaco,Ligue 1,2017/2018,2017
+Kévin N'Doram,Defensive Midfield,1996-01-22,21,France,AS Monaco,Ligue 1,2017/2018,2017
+Youri Tielemans,Central Midfield,1997-05-07,20,Belgium,AS Monaco,Ligue 1,2017/2018,2017
+João Moutinho,Central Midfield,1986-09-08,30,Portugal,AS Monaco,Ligue 1,2017/2018,2017
+Soualiho Meïté,Central Midfield,1994-03-17,23,France,AS Monaco,Ligue 1,2017/2018,2017
+Adama Traoré,Central Midfield,1995-06-28,22,Mali,AS Monaco,Ligue 1,2017/2018,2017
+Ibrahima Diallo,Central Midfield,1999-03-08,18,France,AS Monaco,Ligue 1,2017/2018,2017
+Romain Faivre,Central Midfield,1998-07-14,18,France,AS Monaco,Ligue 1,2017/2018,2017
+Gabriel Boschilia,Attacking Midfield,1996-03-05,21,Brazil,AS Monaco,Ligue 1,2017/2018,2017
+Keita Baldé,Left Winger,1995-03-08,22,Senegal,AS Monaco,Ligue 1,2017/2018,2017
+Thomas Lemar,Left Winger,1995-11-12,21,France,AS Monaco,Ligue 1,2017/2018,2017
+Rachid Ghezzal,Right Winger,1992-05-09,25,Algeria,AS Monaco,Ligue 1,2017/2018,2017
+Rony Lopes,Right Winger,1995-12-28,21,Portugal,AS Monaco,Ligue 1,2017/2018,2017
+Allan Saint-Maximin,Right Winger,1997-03-12,20,France,AS Monaco,Ligue 1,2017/2018,2017
+Gil Dias,Right Winger,1996-09-28,20,Portugal,AS Monaco,Ligue 1,2017/2018,2017
+Jordi Mboula,Right Winger,1999-03-16,18,Spain,AS Monaco,Ligue 1,2017/2018,2017
+Kylian Mbappé,Centre-Forward,1998-12-20,18,France,AS Monaco,Ligue 1,2017/2018,2017
+Falcao,Centre-Forward,1986-02-10,31,Colombia,AS Monaco,Ligue 1,2017/2018,2017
+Stevan Jovetic,Centre-Forward,1989-11-02,27,Montenegro,AS Monaco,Ligue 1,2017/2018,2017
+Guido Carrillo,Centre-Forward,1991-05-25,26,Argentina,AS Monaco,Ligue 1,2017/2018,2017
+Adama Diakhaby,Centre-Forward,1996-07-05,20,France,AS Monaco,Ligue 1,2017/2018,2017
+Pietro Pellegri,Centre-Forward,2001-03-17,16,Italy,AS Monaco,Ligue 1,2017/2018,2017
+Adrien Bongiovanni,Centre-Forward,1999-09-20,17,Belgium,AS Monaco,Ligue 1,2017/2018,2017
+Moussa Sylla,Centre-Forward,1999-11-25,17,France,AS Monaco,Ligue 1,2017/2018,2017
+Steve Mandanda,Goalkeeper,1985-03-28,32,France,Olympique Marseille,Ligue 1,2017/2018,2017
+Yohann Pelé,Goalkeeper,1982-11-04,34,France,Olympique Marseille,Ligue 1,2017/2018,2017
+Florian Escales,Goalkeeper,1996-02-03,21,France,Olympique Marseille,Ligue 1,2017/2018,2017
+Romain Cagnon,Goalkeeper,1997-05-12,20,France,Olympique Marseille,Ligue 1,2017/2018,2017
+Aymen Abdennour,Centre-Back,1989-08-06,27,Tunisia,Olympique Marseille,Ligue 1,2017/2018,2017
+Adil Rami,Centre-Back,1985-12-27,31,France,Olympique Marseille,Ligue 1,2017/2018,2017
+Dória,Centre-Back,1994-11-08,22,Brazil,Olympique Marseille,Ligue 1,2017/2018,2017
+Tomas Hubocan,Centre-Back,1985-09-17,31,Slovakia,Olympique Marseille,Ligue 1,2017/2018,2017
+Rolando,Centre-Back,1985-08-31,31,Portugal,Olympique Marseille,Ligue 1,2017/2018,2017
+Boubacar Kamara,Centre-Back,1999-11-23,17,France,Olympique Marseille,Ligue 1,2017/2018,2017
+Jordan Amavi,Left-Back,1994-03-09,23,France,Olympique Marseille,Ligue 1,2017/2018,2017
+Patrice Evra,Left-Back,1981-05-15,36,France,Olympique Marseille,Ligue 1,2017/2018,2017
+Henri Bedimo,Left-Back,1984-06-04,33,Cameroon,Olympique Marseille,Ligue 1,2017/2018,2017
+Christopher Rocchia,Left-Back,1998-02-01,19,France,Olympique Marseille,Ligue 1,2017/2018,2017
+Hiroki Sakai,Right-Back,1990-04-12,27,Japan,Olympique Marseille,Ligue 1,2017/2018,2017
+Bouna Sarr,Right-Back,1992-01-31,25,France,Olympique Marseille,Ligue 1,2017/2018,2017
+Luiz Gustavo,Defensive Midfield,1987-07-23,29,Brazil,Olympique Marseille,Ligue 1,2017/2018,2017
+Grégory Sertic,Defensive Midfield,1989-08-05,27,France,Olympique Marseille,Ligue 1,2017/2018,2017
+André Zambo Anguissa,Defensive Midfield,1995-11-16,21,Cameroon,Olympique Marseille,Ligue 1,2017/2018,2017
+Morgan Sanson,Central Midfield,1994-08-18,22,France,Olympique Marseille,Ligue 1,2017/2018,2017
+Maxime López,Central Midfield,1997-12-04,19,France,Olympique Marseille,Ligue 1,2017/2018,2017
+Dimitri Payet,Attacking Midfield,1987-03-29,30,France,Olympique Marseille,Ligue 1,2017/2018,2017
+Rémy Cabella,Attacking Midfield,1990-03-08,27,France,Olympique Marseille,Ligue 1,2017/2018,2017
+Lucas Ocampos,Left Winger,1994-07-11,22,Argentina,Olympique Marseille,Ligue 1,2017/2018,2017
+Florian Thauvin,Right Winger,1993-01-26,24,France,Olympique Marseille,Ligue 1,2017/2018,2017
+Yusuf Sari,Right Winger,1998-11-20,18,Turkey,Olympique Marseille,Ligue 1,2017/2018,2017
+Konstantinos Mitroglou,Centre-Forward,1988-03-12,29,Greece,Olympique Marseille,Ligue 1,2017/2018,2017
+Valère Germain,Centre-Forward,1990-04-17,27,France,Olympique Marseille,Ligue 1,2017/2018,2017
+Clinton N'Jie,Centre-Forward,1993-08-15,23,Cameroon,Olympique Marseille,Ligue 1,2017/2018,2017
+Yoan Cardinale,Goalkeeper,1994-03-27,23,France,OGC Nice,Ligue 1,2017/2018,2017
+Walter Benítez,Goalkeeper,1993-01-19,24,Argentina,OGC Nice,Ligue 1,2017/2018,2017
+Simon Pouplin,Goalkeeper,1985-05-28,32,France,OGC Nice,Ligue 1,2017/2018,2017
+Yannis Clementia,Goalkeeper,1997-07-05,19,France,OGC Nice,Ligue 1,2017/2018,2017
+Marlon,Centre-Back,1995-09-07,21,Brazil,OGC Nice,Ligue 1,2017/2018,2017
+Malang Sarr,Centre-Back,1999-01-23,18,France,OGC Nice,Ligue 1,2017/2018,2017
+Maxime Le Marchand,Centre-Back,1989-10-11,27,France,OGC Nice,Ligue 1,2017/2018,2017
+Dante,Centre-Back,1983-10-18,33,Brazil,OGC Nice,Ligue 1,2017/2018,2017
+Gautier Lloris,Centre-Back,1995-07-18,21,France,OGC Nice,Ligue 1,2017/2018,2017
+Dalbert,Left-Back,1993-09-08,23,Brazil,OGC Nice,Ligue 1,2017/2018,2017
+Racine Coly,Left-Back,1995-12-08,21,Senegal,OGC Nice,Ligue 1,2017/2018,2017
+Olivier Boscagli,Left-Back,1997-11-18,19,France,OGC Nice,Ligue 1,2017/2018,2017
+Andy Pelmard,Left-Back,2000-03-12,17,France,OGC Nice,Ligue 1,2017/2018,2017
+Romain Perraud,Left-Back,1997-09-22,19,France,OGC Nice,Ligue 1,2017/2018,2017
+Arnaud Souquet,Right-Back,1992-02-12,25,France,OGC Nice,Ligue 1,2017/2018,2017
+Christophe Jallet,Right-Back,1983-10-31,33,France,OGC Nice,Ligue 1,2017/2018,2017
+Patrick Burner,Right-Back,1996-04-11,21,France,OGC Nice,Ligue 1,2017/2018,2017
+Nampalys Mendy,Defensive Midfield,1992-06-23,25,France,OGC Nice,Ligue 1,2017/2018,2017
+Adrien Tamèze,Defensive Midfield,1994-02-04,23,France,OGC Nice,Ligue 1,2017/2018,2017
+Albert Rafetraniaina,Defensive Midfield,1996-09-09,20,Madagascar,OGC Nice,Ligue 1,2017/2018,2017
+Jean Michaël Seri,Central Midfield,1991-07-19,25,Cote d'Ivoire,OGC Nice,Ligue 1,2017/2018,2017
+Vincent Koziello,Central Midfield,1995-10-28,21,France,OGC Nice,Ligue 1,2017/2018,2017
+Wylan Cyprien,Central Midfield,1995-01-28,22,France,OGC Nice,Ligue 1,2017/2018,2017
+Rémi Walter,Central Midfield,1995-04-26,22,France,OGC Nice,Ligue 1,2017/2018,2017
+Pierre Lees Melou,Central Midfield,1993-05-25,24,France,OGC Nice,Ligue 1,2017/2018,2017
+Arnaud Lusamba,Central Midfield,1997-01-04,20,France,OGC Nice,Ligue 1,2017/2018,2017
+Jean-Victor Makengo,Central Midfield,1998-06-12,19,France,OGC Nice,Ligue 1,2017/2018,2017
+Vincent Marcel,Right Midfield,1997-04-09,20,France,OGC Nice,Ligue 1,2017/2018,2017
+Valentin Eysseric,Attacking Midfield,1992-03-25,25,France,OGC Nice,Ligue 1,2017/2018,2017
+Wesley Sneijder,Attacking Midfield,1984-06-09,33,Netherlands,OGC Nice,Ligue 1,2017/2018,2017
+Ihsan Sacko,Attacking Midfield,1997-07-19,19,France,OGC Nice,Ligue 1,2017/2018,2017
+Allan Saint-Maximin,Right Winger,1997-03-12,20,France,OGC Nice,Ligue 1,2017/2018,2017
+Bassem Srarfi,Right Winger,1997-06-25,20,Tunisia,OGC Nice,Ligue 1,2017/2018,2017
+Hicham Mahou,Right Winger,1999-07-02,17,France,OGC Nice,Ligue 1,2017/2018,2017
+Mario Balotelli,Centre-Forward,1990-08-12,26,Italy,OGC Nice,Ligue 1,2017/2018,2017
+Alassane Plea,Centre-Forward,1993-03-10,24,France,OGC Nice,Ligue 1,2017/2018,2017
+Mickaël Le Bihan,Centre-Forward,1990-05-16,27,France,OGC Nice,Ligue 1,2017/2018,2017
+Mohamed Lamine Diaby,Centre-Forward,2001-01-19,16,France,OGC Nice,Ligue 1,2017/2018,2017
+Ignatius Ganago,Centre-Forward,1999-02-16,18,Cameroon,OGC Nice,Ligue 1,2017/2018,2017
+Anthony Lopes,Goalkeeper,1990-10-01,26,Portugal,Olympique Lyon,Ligue 1,2017/2018,2017
+Mathieu Gorgelin,Goalkeeper,1990-08-05,26,France,Olympique Lyon,Ligue 1,2017/2018,2017
+Lucas Mocio,Goalkeeper,1994-05-11,23,France,Olympique Lyon,Ligue 1,2017/2018,2017
+Anthony Racioppi,Goalkeeper,1998-12-31,18,Switzerland,Olympique Lyon,Ligue 1,2017/2018,2017
+Dorian Grange,Goalkeeper,1996-05-10,21,France,Olympique Lyon,Ligue 1,2017/2018,2017
+Mapou Yanga-Mbiwa,Centre-Back,1989-05-15,28,France,Olympique Lyon,Ligue 1,2017/2018,2017
+Marcelo,Centre-Back,1987-05-20,30,Brazil,Olympique Lyon,Ligue 1,2017/2018,2017
+Mouctar Diakhaby,Centre-Back,1996-12-19,20,France,Olympique Lyon,Ligue 1,2017/2018,2017
+Jérémy Morel,Centre-Back,1984-04-02,33,Madagascar,Olympique Lyon,Ligue 1,2017/2018,2017
+Dylan Mboumbouni,Centre-Back,1996-02-20,21,Central African Republic,Olympique Lyon,Ligue 1,2017/2018,2017
+Oumar Solet,Centre-Back,2000-02-07,17,France,Olympique Lyon,Ligue 1,2017/2018,2017
+Marçal,Left-Back,1989-02-19,28,Brazil,Olympique Lyon,Ligue 1,2017/2018,2017
+Ferland Mendy,Left-Back,1995-06-08,22,France,Olympique Lyon,Ligue 1,2017/2018,2017
+Louis Nganioni,Left-Back,1995-06-03,22,France,Olympique Lyon,Ligue 1,2017/2018,2017
+Kenny Tete,Right-Back,1995-10-09,21,Netherlands,Olympique Lyon,Ligue 1,2017/2018,2017
+Rafael,Right-Back,1990-07-09,26,Brazil,Olympique Lyon,Ligue 1,2017/2018,2017
+Zachary Brault-Guillard,Right-Back,1998-12-30,18,Canada,Olympique Lyon,Ligue 1,2017/2018,2017
+Lucas Tousart,Defensive Midfield,1997-04-29,20,France,Olympique Lyon,Ligue 1,2017/2018,2017
+Christopher Martins Pereira,Defensive Midfield,1997-02-19,20,Luxembourg,Olympique Lyon,Ligue 1,2017/2018,2017
+Elisha Owusu,Defensive Midfield,1997-11-07,19,France,Olympique Lyon,Ligue 1,2017/2018,2017
+Sergi Darder,Central Midfield,1993-12-22,23,Spain,Olympique Lyon,Ligue 1,2017/2018,2017
+Jordan Ferri,Central Midfield,1992-03-12,25,France,Olympique Lyon,Ligue 1,2017/2018,2017
+Clément Grenier,Central Midfield,1991-01-07,26,France,Olympique Lyon,Ligue 1,2017/2018,2017
+Tanguy Ndombélé,Central Midfield,1996-12-28,20,France,Olympique Lyon,Ligue 1,2017/2018,2017
+Pape Cheikh,Central Midfield,1997-08-08,19,Spain,Olympique Lyon,Ligue 1,2017/2018,2017
+Houssem Aouar,Central Midfield,1998-06-30,19,France,Olympique Lyon,Ligue 1,2017/2018,2017
+Nabil Fekir,Attacking Midfield,1993-07-18,23,France,Olympique Lyon,Ligue 1,2017/2018,2017
+Willem Geubbels,Left Winger,2001-08-16,15,France,Olympique Lyon,Ligue 1,2017/2018,2017
+Maxwel Cornet,Right Winger,1996-09-27,20,Cote d'Ivoire,Olympique Lyon,Ligue 1,2017/2018,2017
+Bertrand Traoré,Right Winger,1995-09-06,21,Burkina Faso,Olympique Lyon,Ligue 1,2017/2018,2017
+Memphis Depay,Centre-Forward,1994-02-13,23,Netherlands,Olympique Lyon,Ligue 1,2017/2018,2017
+Mariano Díaz,Centre-Forward,1993-08-01,23,Dominican Republic,Olympique Lyon,Ligue 1,2017/2018,2017
+Myziane Maolida,Centre-Forward,1999-02-14,18,France,Olympique Lyon,Ligue 1,2017/2018,2017
+Amine Gouiri,Centre-Forward,2000-02-16,17,France,Olympique Lyon,Ligue 1,2017/2018,2017
+Stéphane Ruffier,Goalkeeper,1986-09-27,30,France,AS Saint-Étienne,Ligue 1,2017/2018,2017
+Anthony Maisonnial,Goalkeeper,1998-03-23,19,France,AS Saint-Étienne,Ligue 1,2017/2018,2017
+Jessy Moulin,Goalkeeper,1986-01-13,31,France,AS Saint-Étienne,Ligue 1,2017/2018,2017
+Alexis Guendouz,Goalkeeper,1996-01-26,21,France,AS Saint-Étienne,Ligue 1,2017/2018,2017
+Loïc Perrin,Centre-Back,1985-08-07,31,France,AS Saint-Étienne,Ligue 1,2017/2018,2017
+Neven Subotic,Centre-Back,1988-12-10,28,Serbia,AS Saint-Étienne,Ligue 1,2017/2018,2017
+Florentin Pogba,Centre-Back,1990-08-19,26,Guinea,AS Saint-Étienne,Ligue 1,2017/2018,2017
+Kévin Théophile-Catherine,Centre-Back,1989-10-28,27,Martinique,AS Saint-Étienne,Ligue 1,2017/2018,2017
+Léo Lacroix,Centre-Back,1992-02-27,25,Switzerland,AS Saint-Étienne,Ligue 1,2017/2018,2017
+Ben Karamoko,Centre-Back,1995-05-17,22,Cote d'Ivoire,AS Saint-Étienne,Ligue 1,2017/2018,2017
+Rayan Souici,Centre-Back,1998-02-28,19,France,AS Saint-Étienne,Ligue 1,2017/2018,2017
+Wesley Fofana,Centre-Back,2000-12-17,16,France,AS Saint-Étienne,Ligue 1,2017/2018,2017
+Gabriel Silva,Left-Back,1991-05-13,26,Brazil,AS Saint-Étienne,Ligue 1,2017/2018,2017
+Cheikh M'Bengue,Left-Back,1988-07-23,28,Senegal,AS Saint-Étienne,Ligue 1,2017/2018,2017
+Pierre-Yves Polomat,Left-Back,1993-12-27,23,France,AS Saint-Étienne,Ligue 1,2017/2018,2017
+Alexandros Katranis,Left-Back,1998-05-04,19,Greece,AS Saint-Étienne,Ligue 1,2017/2018,2017
+Mathieu Debuchy,Right-Back,1985-07-28,31,France,AS Saint-Étienne,Ligue 1,2017/2018,2017
+Ronaël Pierre-Gabriel,Right-Back,1998-06-13,19,France,AS Saint-Étienne,Ligue 1,2017/2018,2017
+Saidy Janko,Right-Back,1995-10-22,21,Switzerland,AS Saint-Étienne,Ligue 1,2017/2018,2017
+Dylan Chambost,Midfielder,1997-08-19,19,France,AS Saint-Étienne,Ligue 1,2017/2018,2017
+Yann M'Vila,Defensive Midfield,1990-06-29,27,France,AS Saint-Étienne,Ligue 1,2017/2018,2017
+Assane Dioussé,Defensive Midfield,1997-09-20,19,Senegal,AS Saint-Étienne,Ligue 1,2017/2018,2017
+Hernani,Defensive Midfield,1994-03-27,23,Brazil,AS Saint-Étienne,Ligue 1,2017/2018,2017
+Ole Selnaes,Defensive Midfield,1994-07-07,22,Norway,AS Saint-Étienne,Ligue 1,2017/2018,2017
+Vincent Pajot,Defensive Midfield,1990-08-19,26,France,AS Saint-Étienne,Ligue 1,2017/2018,2017
+Habib Maïga,Defensive Midfield,1996-01-01,21,Cote d'Ivoire,AS Saint-Étienne,Ligue 1,2017/2018,2017
+Bryan Dabo,Central Midfield,1992-02-18,25,Burkina Faso,AS Saint-Étienne,Ligue 1,2017/2018,2017
+Mahdi Camara,Central Midfield,1998-06-30,19,France,AS Saint-Étienne,Ligue 1,2017/2018,2017
+Rémy Cabella,Attacking Midfield,1990-03-08,27,France,AS Saint-Étienne,Ligue 1,2017/2018,2017
+Kenny Rocha Santos,Attacking Midfield,2000-01-03,17,Cape Verde,AS Saint-Étienne,Ligue 1,2017/2018,2017
+Samy Baghdadi,Forward,1997-07-11,19,France,AS Saint-Étienne,Ligue 1,2017/2018,2017
+Paul-Georges Ntep,Left Winger,1992-07-29,24,Cameroon,AS Saint-Étienne,Ligue 1,2017/2018,2017
+Kévin Monnet-Paquet,Left Winger,1988-08-19,28,France,AS Saint-Étienne,Ligue 1,2017/2018,2017
+Jonathan Bamba,Left Winger,1996-03-26,21,France,AS Saint-Étienne,Ligue 1,2017/2018,2017
+Romain Hamouma,Right Winger,1987-03-29,30,France,AS Saint-Étienne,Ligue 1,2017/2018,2017
+Oussama Tannane,Right Winger,1994-03-23,23,Morocco,AS Saint-Étienne,Ligue 1,2017/2018,2017
+Vagner,Right Winger,1996-01-10,21,Cape Verde,AS Saint-Étienne,Ligue 1,2017/2018,2017
+Robert Beric,Centre-Forward,1991-06-17,26,Slovenia,AS Saint-Étienne,Ligue 1,2017/2018,2017
+Loïs Diony,Centre-Forward,1992-12-20,24,France,AS Saint-Étienne,Ligue 1,2017/2018,2017
+Alexander Söderlund,Centre-Forward,1987-08-03,29,Norway,AS Saint-Étienne,Ligue 1,2017/2018,2017
+Benoît Costil,Goalkeeper,1987-07-03,29,France,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
+Jérôme Prior,Goalkeeper,1995-08-08,21,France,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
+Gaëtan Poussin,Goalkeeper,1999-01-13,18,France,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
+Over Mandanda,Goalkeeper,1998-10-26,18,France,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
+Paul Baysse,Centre-Back,1988-05-18,29,France,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
+Vukasin Jovanovic,Centre-Back,1996-05-17,21,Serbia,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
+Pablo,Centre-Back,1991-06-21,26,Brazil,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
+Igor Lewczuk,Centre-Back,1985-05-30,32,Poland,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
+Olivier Verdon,Centre-Back,1995-10-05,21,Benin,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
+Jules Koundé,Centre-Back,1998-11-12,18,France,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
+Diego Contento,Left-Back,1990-05-01,27,Germany,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
+Maxime Poundjé,Left-Back,1992-08-16,24,France,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
+Théo Pellenard,Left-Back,1994-03-04,23,France,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
+Youssouf Sabaly,Right-Back,1993-03-05,24,Senegal,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
+Milan Gajic,Right-Back,1996-01-28,21,Serbia,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
+Thomas Carrique,Right-Back,1999-02-26,18,France,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
+Otávio,Defensive Midfield,1994-05-04,23,Brazil,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
+Jérémy Toulalan,Defensive Midfield,1983-09-10,33,France,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
+Soualiho Meïté,Central Midfield,1994-03-17,23,France,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
+Valentín Vada,Central Midfield,1996-03-06,21,Argentina,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
+Younousse Sankharé,Central Midfield,1989-09-10,27,Senegal,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
+Lukas Lerager,Central Midfield,1993-07-12,23,Denmark,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
+Mauro Arambarri,Central Midfield,1995-09-30,21,Uruguay,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
+Jaroslav Plasil,Central Midfield,1982-01-05,35,Czech Republic,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
+Aurélien Tchouaméni,Central Midfield,2000-01-27,17,France,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
+François Kamano,Left Winger,1996-05-01,21,Guinea,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
+Thomas Touré,Left Winger,1993-12-27,23,Cote d'Ivoire,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
+Matheus Pereira,Left Winger,1998-02-25,19,Brazil,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
+Malcom,Right Winger,1997-02-26,20,Brazil,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
+Jonathan Cafú,Right Winger,1991-07-10,25,Brazil,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
+Zaydou Youssouf,Right Winger,1999-07-11,17,France,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
+Martin Braithwaite,Centre-Forward,1991-06-05,26,Denmark,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
+Nicolas de Préville,Centre-Forward,1991-01-08,26,France,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
+Gaëtan Laborde,Centre-Forward,1994-05-03,23,France,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
+Alexandre Mendy,Centre-Forward,1994-03-20,23,France,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
+Ervin Taha,Centre-Forward,1999-03-14,18,France,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
+Aaron Boupendza,Centre-Forward,1996-08-07,20,Gabon,FC Girondins Bordeaux,Ligue 1,2017/2018,2017
+Alban Lafont,Goalkeeper,1999-01-23,18,France,FC Toulouse,Ligue 1,2017/2018,2017
+Mauro Goicoechea,Goalkeeper,1988-03-27,29,Uruguay,FC Toulouse,Ligue 1,2017/2018,2017
+Marc Vidal,Goalkeeper,1991-06-03,26,France,FC Toulouse,Ligue 1,2017/2018,2017
+Issa Diop,Centre-Back,1997-01-09,20,France,FC Toulouse,Ligue 1,2017/2018,2017
+Christopher Jullien,Centre-Back,1993-03-22,24,France,FC Toulouse,Ligue 1,2017/2018,2017
+Steeve Yago,Centre-Back,1992-12-16,24,Burkina Faso,FC Toulouse,Ligue 1,2017/2018,2017
+Steven Fortes,Centre-Back,1992-04-17,25,Cape Verde,FC Toulouse,Ligue 1,2017/2018,2017
+Issiaga Sylla,Left-Back,1994-01-01,23,Guinea,FC Toulouse,Ligue 1,2017/2018,2017
+François Moubandje,Left-Back,1990-06-21,27,Switzerland,FC Toulouse,Ligue 1,2017/2018,2017
+Kelvin Amian,Right-Back,1998-02-08,19,France,FC Toulouse,Ligue 1,2017/2018,2017
+Clément Michelin,Right-Back,1997-05-11,20,France,FC Toulouse,Ligue 1,2017/2018,2017
+Giannelli Imbula,Defensive Midfield,1992-09-12,24,DR Congo,FC Toulouse,Ligue 1,2017/2018,2017
+Alexis Blin,Defensive Midfield,1996-09-16,20,France,FC Toulouse,Ligue 1,2017/2018,2017
+Yann Bodiger,Defensive Midfield,1995-02-09,22,France,FC Toulouse,Ligue 1,2017/2018,2017
+Yannick Cahuzac,Defensive Midfield,1985-01-18,32,France,FC Toulouse,Ligue 1,2017/2018,2017
+Ibrahim Sangaré,Defensive Midfield,1997-12-02,19,Cote d'Ivoire,FC Toulouse,Ligue 1,2017/2018,2017
+Somália,Central Midfield,1988-09-28,28,Brazil,FC Toulouse,Ligue 1,2017/2018,2017
+Zinédine Machach,Central Midfield,1996-01-05,21,France,FC Toulouse,Ligue 1,2017/2018,2017
+Jordan Sebban,Central Midfield,1997-01-06,20,France,FC Toulouse,Ligue 1,2017/2018,2017
+Quentin Boisgard,Attacking Midfield,1997-03-17,20,France,FC Toulouse,Ligue 1,2017/2018,2017
+Max Gradel,Left Winger,1987-11-30,29,Cote d'Ivoire,FC Toulouse,Ligue 1,2017/2018,2017
+Jimmy Durmaz,Left Winger,1989-03-22,28,Sweden,FC Toulouse,Ligue 1,2017/2018,2017
+Corentin Jean,Right Winger,1995-07-15,21,France,FC Toulouse,Ligue 1,2017/2018,2017
+Andy Delort,Centre-Forward,1991-10-09,25,France,FC Toulouse,Ligue 1,2017/2018,2017
+Firmin Mubele,Centre-Forward,1994-04-17,23,DR Congo,FC Toulouse,Ligue 1,2017/2018,2017
+Ola Toivonen,Centre-Forward,1986-07-03,30,Sweden,FC Toulouse,Ligue 1,2017/2018,2017
+Yaya Sanogo,Centre-Forward,1993-01-27,24,France,FC Toulouse,Ligue 1,2017/2018,2017
+Driss Khalid,Centre-Forward,1999-02-07,18,Morocco,FC Toulouse,Ligue 1,2017/2018,2017
+Tomas Koubek,Goalkeeper,1992-08-26,24,Czech Republic,Stade Rennais FC,Ligue 1,2017/2018,2017
+Abdoulaye Diallo,Goalkeeper,1992-03-30,25,Senegal,Stade Rennais FC,Ligue 1,2017/2018,2017
+Raïs M'Bolhi,Goalkeeper,1986-04-25,31,Algeria,Stade Rennais FC,Ligue 1,2017/2018,2017
+Edvinas Gertmonas,Goalkeeper,1996-06-01,21,Lithuania,Stade Rennais FC,Ligue 1,2017/2018,2017
+Mexer,Centre-Back,1988-09-08,28,Mozambique,Stade Rennais FC,Ligue 1,2017/2018,2017
+Joris Gnagnon,Centre-Back,1997-01-13,20,France,Stade Rennais FC,Ligue 1,2017/2018,2017
+Jérémy Gelin,Centre-Back,1997-04-24,20,France,Stade Rennais FC,Ligue 1,2017/2018,2017
+Maxime Bernauer,Centre-Back,1998-07-01,19,France,Stade Rennais FC,Ligue 1,2017/2018,2017
+Gerzino Nyamsi,Centre-Back,1997-01-22,20,France,Stade Rennais FC,Ligue 1,2017/2018,2017
+Ramy Bensebaini,Left-Back,1995-04-16,22,Algeria,Stade Rennais FC,Ligue 1,2017/2018,2017
+Ludovic Baal,Left-Back,1986-05-24,31,French Guiana,Stade Rennais FC,Ligue 1,2017/2018,2017
+Afonso Figueiredo,Left-Back,1993-01-06,24,Portugal,Stade Rennais FC,Ligue 1,2017/2018,2017
+Faitout Maouassa,Left-Back,1998-07-06,18,Congo,Stade Rennais FC,Ligue 1,2017/2018,2017
+Namakoro Diallo,Left-Back,1996-03-29,21,France,Stade Rennais FC,Ligue 1,2017/2018,2017
+Hamari Traoré,Right-Back,1992-01-27,25,Mali,Stade Rennais FC,Ligue 1,2017/2018,2017
+Romain Danzé,Right-Back,1986-07-03,30,France,Stade Rennais FC,Ligue 1,2017/2018,2017
+Mehdi Zeffane,Right-Back,1992-05-19,25,Algeria,Stade Rennais FC,Ligue 1,2017/2018,2017
+Benjamin André,Central Midfield,1990-08-03,26,France,Stade Rennais FC,Ligue 1,2017/2018,2017
+Benjamin Bourigeaud,Central Midfield,1994-01-14,23,France,Stade Rennais FC,Ligue 1,2017/2018,2017
+Sanjin Prcic,Central Midfield,1993-11-20,23,Bosnia-Herzegovina,Stade Rennais FC,Ligue 1,2017/2018,2017
+Nicolas Janvier,Central Midfield,1998-08-11,18,France,Stade Rennais FC,Ligue 1,2017/2018,2017
+James Léa Siliki,Central Midfield,1996-06-12,21,France,Stade Rennais FC,Ligue 1,2017/2018,2017
+Armand Laurienté,Left Midfield,1998-12-04,18,France,Stade Rennais FC,Ligue 1,2017/2018,2017
+Wahbi Khazri,Attacking Midfield,1991-02-08,26,Tunisia,Stade Rennais FC,Ligue 1,2017/2018,2017
+Yoann Gourcuff,Attacking Midfield,1986-07-11,30,France,Stade Rennais FC,Ligue 1,2017/2018,2017
+Adrien Hunou,Attacking Midfield,1994-01-19,23,France,Stade Rennais FC,Ligue 1,2017/2018,2017
+Sébastien Salles-Lamonge,Attacking Midfield,1996-01-28,21,France,Stade Rennais FC,Ligue 1,2017/2018,2017
+Anthony Ribelin,Attacking Midfield,1996-04-08,21,France,Stade Rennais FC,Ligue 1,2017/2018,2017
+Sabri Toufiqui,Attacking Midfield,1997-03-30,20,France,Stade Rennais FC,Ligue 1,2017/2018,2017
+Ismaïla Sarr,Left Winger,1998-02-25,19,Senegal,Stade Rennais FC,Ligue 1,2017/2018,2017
+Morgan Amalfitano,Right Winger,1985-03-20,32,France,Stade Rennais FC,Ligue 1,2017/2018,2017
+Diafra Sakho,Centre-Forward,1989-12-24,27,Senegal,Stade Rennais FC,Ligue 1,2017/2018,2017
+Firmin Mubele,Centre-Forward,1994-04-17,23,DR Congo,Stade Rennais FC,Ligue 1,2017/2018,2017
+Brandon,Centre-Forward,1995-02-04,22,Spain,Stade Rennais FC,Ligue 1,2017/2018,2017
+Jordan Tell,Centre-Forward,1997-06-10,20,France,Stade Rennais FC,Ligue 1,2017/2018,2017
+Ciprian Tatarusanu,Goalkeeper,1986-02-09,31,Romania,FC Nantes,Ligue 1,2017/2018,2017
+Maxime Dupé,Goalkeeper,1993-03-04,24,France,FC Nantes,Ligue 1,2017/2018,2017
+Alexandre Olliero,Goalkeeper,1996-02-15,21,France,FC Nantes,Ligue 1,2017/2018,2017
+Quentin Braat,Goalkeeper,1997-07-06,19,France,FC Nantes,Ligue 1,2017/2018,2017
+Diego Carlos,Centre-Back,1993-03-15,24,Brazil,FC Nantes,Ligue 1,2017/2018,2017
+Nicolas Pallois,Centre-Back,1987-09-19,29,France,FC Nantes,Ligue 1,2017/2018,2017
+Koffi Djidji,Centre-Back,1992-11-30,24,Cote d'Ivoire,FC Nantes,Ligue 1,2017/2018,2017
+Chidozie Awaziem,Centre-Back,1997-01-01,20,Nigeria,FC Nantes,Ligue 1,2017/2018,2017
+Anthony Walongwa,Centre-Back,1993-10-15,23,DR Congo,FC Nantes,Ligue 1,2017/2018,2017
+Thomas Basila,Centre-Back,1999-04-30,18,France,FC Nantes,Ligue 1,2017/2018,2017
+Lucas Lima,Left-Back,1991-10-10,25,Brazil,FC Nantes,Ligue 1,2017/2018,2017
+Léo Dubois,Right-Back,1994-09-14,22,France,FC Nantes,Ligue 1,2017/2018,2017
+Enock Kwateng,Right-Back,1997-04-09,20,France,FC Nantes,Ligue 1,2017/2018,2017
+David Alcibiade,Right-Back,1991-09-26,25,France,FC Nantes,Ligue 1,2017/2018,2017
+Rene Krhin,Defensive Midfield,1990-05-21,27,Slovenia,FC Nantes,Ligue 1,2017/2018,2017
+Guillaume Gillet,Defensive Midfield,1984-03-09,33,Belgium,FC Nantes,Ligue 1,2017/2018,2017
+Andrei Girotto,Defensive Midfield,1992-02-17,25,Brazil,FC Nantes,Ligue 1,2017/2018,2017
+Abdoulaye Touré,Defensive Midfield,1994-03-03,23,France,FC Nantes,Ligue 1,2017/2018,2017
+Valentin Rongier,Central Midfield,1994-12-07,22,France,FC Nantes,Ligue 1,2017/2018,2017
+Samuel Moutoussamy,Central Midfield,1996-08-12,20,France,FC Nantes,Ligue 1,2017/2018,2017
+Jules Iloki,Right Midfield,1992-01-14,25,France,FC Nantes,Ligue 1,2017/2018,2017
+Alexis Alégué,Right Midfield,1996-12-23,20,Cameroon,FC Nantes,Ligue 1,2017/2018,2017
+Alexander Kacaniklic,Left Midfield,1991-08-13,25,Sweden,FC Nantes,Ligue 1,2017/2018,2017
+Kayembe,Left Midfield,1994-08-08,22,Belgium,FC Nantes,Ligue 1,2017/2018,2017
+Abdoulaye Dabo,Left Midfield,2001-03-04,16,France,FC Nantes,Ligue 1,2017/2018,2017
+Adrien Thomasson,Attacking Midfield,1993-12-10,23,France,FC Nantes,Ligue 1,2017/2018,2017
+Najib Gandi,Attacking Midfield,1994-06-23,23,France,FC Nantes,Ligue 1,2017/2018,2017
+Yassine El Ghanassy,Left Winger,1990-07-12,26,Belgium,FC Nantes,Ligue 1,2017/2018,2017
+Emiliano Sala,Centre-Forward,1990-10-31,26,Argentina,FC Nantes,Ligue 1,2017/2018,2017
+Kalifa Coulibaly,Centre-Forward,1991-08-21,25,Mali,FC Nantes,Ligue 1,2017/2018,2017
+Mariusz Stepinski,Centre-Forward,1995-05-12,22,Poland,FC Nantes,Ligue 1,2017/2018,2017
+Prejuce Nakoulma,Centre-Forward,1987-04-21,30,Burkina Faso,FC Nantes,Ligue 1,2017/2018,2017
+Kolbeinn Sigthórsson,Centre-Forward,1990-03-14,27,Iceland,FC Nantes,Ligue 1,2017/2018,2017
+Yacine Bammou,Centre-Forward,1991-09-11,25,Morocco,FC Nantes,Ligue 1,2017/2018,2017
+Santy Ngom,Centre-Forward,1993-03-07,24,Senegal,FC Nantes,Ligue 1,2017/2018,2017
+Randal Kolo Muani,Centre-Forward,1998-12-05,18,DR Congo,FC Nantes,Ligue 1,2017/2018,2017
+Karl-Johan Johnsson,Goalkeeper,1990-01-28,27,Sweden,EA Guingamp,Ligue 1,2017/2018,2017
+Denis Petric,Goalkeeper,1988-05-24,29,Serbia,EA Guingamp,Ligue 1,2017/2018,2017
+Marc-Aurèle Caillard,Goalkeeper,1994-05-12,23,France,EA Guingamp,Ligue 1,2017/2018,2017
+Killian Le Roy,Goalkeeper,1998-01-31,19,France,EA Guingamp,Ligue 1,2017/2018,2017
+Christophe Kerbrat,Centre-Back,1986-08-02,30,France,EA Guingamp,Ligue 1,2017/2018,2017
+Benjamin Angoua,Centre-Back,1986-11-28,30,Cote d'Ivoire,EA Guingamp,Ligue 1,2017/2018,2017
+Jérémy Sorbon,Centre-Back,1983-08-05,33,France,EA Guingamp,Ligue 1,2017/2018,2017
+Felix Eboa Eboa,Centre-Back,1997-04-19,20,Cameroon,EA Guingamp,Ligue 1,2017/2018,2017
+Franck Tabanou,Left-Back,1989-01-30,28,France,EA Guingamp,Ligue 1,2017/2018,2017
+Pedro Rebocho,Left-Back,1995-01-23,22,Portugal,EA Guingamp,Ligue 1,2017/2018,2017
+Jordan Ikoko,Right-Back,1994-02-03,23,DR Congo,EA Guingamp,Ligue 1,2017/2018,2017
+Jonathan Martins Pereira,Right-Back,1986-01-30,31,France,EA Guingamp,Ligue 1,2017/2018,2017
+Lucas Deaux,Defensive Midfield,1988-12-26,28,France,EA Guingamp,Ligue 1,2017/2018,2017
+Mustapha Diallo,Defensive Midfield,1986-05-14,31,Senegal,EA Guingamp,Ligue 1,2017/2018,2017
+Lebogang Phiri,Defensive Midfield,1994-11-09,22,South Africa,EA Guingamp,Ligue 1,2017/2018,2017
+Mattéo Ahlinvi,Defensive Midfield,1999-07-02,17,France,EA Guingamp,Ligue 1,2017/2018,2017
+Clément Grenier,Central Midfield,1991-01-07,26,France,EA Guingamp,Ligue 1,2017/2018,2017
+Ludovic Blas,Central Midfield,1997-12-31,19,France,EA Guingamp,Ligue 1,2017/2018,2017
+Étienne Didot,Central Midfield,1983-07-24,33,France,EA Guingamp,Ligue 1,2017/2018,2017
+Thibault Giresse,Left Midfield,1981-05-25,36,France,EA Guingamp,Ligue 1,2017/2018,2017
+Nicolas Benezet,Left Winger,1991-02-24,26,France,EA Guingamp,Ligue 1,2017/2018,2017
+Abdoul Camara,Left Winger,1990-02-20,27,Guinea,EA Guingamp,Ligue 1,2017/2018,2017
+Marcus Thuram,Left Winger,1997-08-06,19,France,EA Guingamp,Ligue 1,2017/2018,2017
+Karim Achahbar,Left Winger,1996-01-03,21,Morocco,EA Guingamp,Ligue 1,2017/2018,2017
+Yannis Salibur,Right Winger,1991-01-24,26,France,EA Guingamp,Ligue 1,2017/2018,2017
+Marcus Coco,Right Winger,1996-06-24,21,France,EA Guingamp,Ligue 1,2017/2018,2017
+Yeni N'Gbakoto,Right Winger,1992-01-23,25,DR Congo,EA Guingamp,Ligue 1,2017/2018,2017
+Jimmy Briand,Centre-Forward,1985-08-02,31,France,EA Guingamp,Ligue 1,2017/2018,2017
+Sloan Privat,Centre-Forward,1989-07-24,27,French Guiana,EA Guingamp,Ligue 1,2017/2018,2017
+Nathaël Julan,Centre-Forward,1996-07-19,20,France,EA Guingamp,Ligue 1,2017/2018,2017
+Mathieu Michel,Goalkeeper,1991-09-04,25,France,SCO Angers,Ligue 1,2017/2018,2017
+Ludovic Butelle,Goalkeeper,1983-04-03,34,France,SCO Angers,Ligue 1,2017/2018,2017
+Alexandre Letellier,Goalkeeper,1990-12-11,26,France,SCO Angers,Ligue 1,2017/2018,2017
+Anthony Mandrea,Goalkeeper,1996-12-25,20,France,SCO Angers,Ligue 1,2017/2018,2017
+Romain Thomas,Centre-Back,1988-06-12,29,France,SCO Angers,Ligue 1,2017/2018,2017
+Ismaël Traoré,Centre-Back,1986-08-18,30,Cote d'Ivoire,SCO Angers,Ligue 1,2017/2018,2017
+Mehdi Tahrat,Centre-Back,1990-01-24,27,Algeria,SCO Angers,Ligue 1,2017/2018,2017
+Mateo Pavlovic,Centre-Back,1990-06-09,27,Croatia,SCO Angers,Ligue 1,2017/2018,2017
+Yoann Andreu,Left-Back,1989-05-03,28,France,SCO Angers,Ligue 1,2017/2018,2017
+Saliou Ciss,Left-Back,1989-09-15,27,Senegal,SCO Angers,Ligue 1,2017/2018,2017
+Rayan Aït Nouri,Left-Back,2001-06-06,16,France,SCO Angers,Ligue 1,2017/2018,2017
+Vincent Manceau,Right-Back,1989-07-24,27,France,SCO Angers,Ligue 1,2017/2018,2017
+Abdoulaye Bamba,Right-Back,1990-04-25,27,Cote d'Ivoire,SCO Angers,Ligue 1,2017/2018,2017
+Maxime Sivis,Right-Back,1998-04-01,19,France,SCO Angers,Ligue 1,2017/2018,2017
+Baptiste Santamaría,Defensive Midfield,1995-03-09,22,France,SCO Angers,Ligue 1,2017/2018,2017
+Prince Oniangué,Defensive Midfield,1988-11-04,28,Congo,SCO Angers,Ligue 1,2017/2018,2017
+Thomas Mangani,Central Midfield,1987-04-29,30,France,SCO Angers,Ligue 1,2017/2018,2017
+Lassana Coulibaly,Central Midfield,1996-04-10,21,Mali,SCO Angers,Ligue 1,2017/2018,2017
+Angelo Fulgini,Central Midfield,1996-08-20,20,France,SCO Angers,Ligue 1,2017/2018,2017
+Pierrick Capelle,Central Midfield,1987-04-15,30,France,SCO Angers,Ligue 1,2017/2018,2017
+Jeff Reine-Adélaïde,Central Midfield,1998-01-17,19,France,SCO Angers,Ligue 1,2017/2018,2017
+Loïc Puyo,Central Midfield,1988-12-19,28,France,SCO Angers,Ligue 1,2017/2018,2017
+Billy Ketkeophomphone,Right Midfield,1990-03-24,27,France,SCO Angers,Ligue 1,2017/2018,2017
+Thomas Touré,Left Winger,1993-12-27,23,Cote d'Ivoire,SCO Angers,Ligue 1,2017/2018,2017
+Flavien Tait,Left Winger,1993-02-02,24,France,SCO Angers,Ligue 1,2017/2018,2017
+Youcef Belaïli,Left Winger,1992-03-14,25,Algeria,SCO Angers,Ligue 1,2017/2018,2017
+Enzo Crivelli,Centre-Forward,1995-02-06,22,France,SCO Angers,Ligue 1,2017/2018,2017
+Karl Toko Ekambi,Centre-Forward,1992-09-14,24,Cameroon,SCO Angers,Ligue 1,2017/2018,2017
+Baptiste Guillaume,Centre-Forward,1995-06-16,22,Belgium,SCO Angers,Ligue 1,2017/2018,2017
+Gilles Sunu,Centre-Forward,1991-03-30,26,Togo,SCO Angers,Ligue 1,2017/2018,2017
+Goran Karanovic,Centre-Forward,1987-10-13,29,Switzerland,SCO Angers,Ligue 1,2017/2018,2017
+Férébory Doré,Centre-Forward,1989-01-21,28,Congo,SCO Angers,Ligue 1,2017/2018,2017
+Wilfried Kanga,Centre-Forward,1998-02-21,19,France,SCO Angers,Ligue 1,2017/2018,2017
+Mike Maignan,Goalkeeper,1995-07-03,21,France,LOSC Lille,Ligue 1,2017/2018,2017
+Adam Jakubech,Goalkeeper,1997-01-02,20,Slovakia,LOSC Lille,Ligue 1,2017/2018,2017
+Hervé Koffi,Goalkeeper,1996-10-16,20,Burkina Faso,LOSC Lille,Ligue 1,2017/2018,2017
+Adama Soumaoro,Centre-Back,1992-06-18,25,France,LOSC Lille,Ligue 1,2017/2018,2017
+Júnior Alonso,Centre-Back,1993-02-09,24,Paraguay,LOSC Lille,Ligue 1,2017/2018,2017
+Edgar Ié,Centre-Back,1994-05-01,23,Portugal,LOSC Lille,Ligue 1,2017/2018,2017
+Kouadio-Yves Dabila,Centre-Back,1997-01-01,20,Cote d'Ivoire,LOSC Lille,Ligue 1,2017/2018,2017
+Hamza Mendyl,Left-Back,1997-10-21,19,Morocco,LOSC Lille,Ligue 1,2017/2018,2017
+Scotty Sadzoute,Left-Back,1998-04-29,19,France,LOSC Lille,Ligue 1,2017/2018,2017
+Fodé Ballo-Touré,Left-Back,1997-01-03,20,France,LOSC Lille,Ligue 1,2017/2018,2017
+Ruben Droehnle,Left-Back,1998-07-11,18,France,LOSC Lille,Ligue 1,2017/2018,2017
+Kévin Malcuit,Right-Back,1991-07-31,25,France,LOSC Lille,Ligue 1,2017/2018,2017
+Benjamin Vérité,Right-Back,1999-04-21,18,France,LOSC Lille,Ligue 1,2017/2018,2017
+Thiago Maia,Defensive Midfield,1997-03-23,20,Brazil,LOSC Lille,Ligue 1,2017/2018,2017
+Thiago Mendes,Defensive Midfield,1992-03-15,25,Brazil,LOSC Lille,Ligue 1,2017/2018,2017
+Ibrahim Amadou,Defensive Midfield,1993-04-06,24,France,LOSC Lille,Ligue 1,2017/2018,2017
+Xeka,Defensive Midfield,1994-11-10,22,Portugal,LOSC Lille,Ligue 1,2017/2018,2017
+Boubakary Soumaré,Defensive Midfield,1999-02-27,18,France,LOSC Lille,Ligue 1,2017/2018,2017
+Yves Bissouma,Central Midfield,1996-08-30,20,Mali,LOSC Lille,Ligue 1,2017/2018,2017
+Rominigue Kouamé,Central Midfield,1996-12-17,20,Mali,LOSC Lille,Ligue 1,2017/2018,2017
+Valère Pollet,Central Midfield,1997-06-27,20,France,LOSC Lille,Ligue 1,2017/2018,2017
+Chahreddine Boukholda,Central Midfield,1996-05-24,21,Algeria,LOSC Lille,Ligue 1,2017/2018,2017
+Yassine Benzia,Attacking Midfield,1994-09-08,22,Algeria,LOSC Lille,Ligue 1,2017/2018,2017
+Farès Bahlouli,Attacking Midfield,1995-04-08,22,France,LOSC Lille,Ligue 1,2017/2018,2017
+Luiz Araújo,Left Winger,1996-06-02,21,Brazil,LOSC Lille,Ligue 1,2017/2018,2017
+Anwar El Ghazi,Right Winger,1995-05-03,22,Netherlands,LOSC Lille,Ligue 1,2017/2018,2017
+Nicolas Pépé,Right Winger,1995-05-29,22,Cote d'Ivoire,LOSC Lille,Ligue 1,2017/2018,2017
+Alexis Flips,Right Winger,2000-01-18,17,France,LOSC Lille,Ligue 1,2017/2018,2017
+Imad Faraj,Right Winger,1999-02-11,18,France,LOSC Lille,Ligue 1,2017/2018,2017
+Nicolas de Préville,Centre-Forward,1991-01-08,26,France,LOSC Lille,Ligue 1,2017/2018,2017
+Ezequiel Ponce,Centre-Forward,1997-03-29,20,Argentina,LOSC Lille,Ligue 1,2017/2018,2017
+Lebo Mothiba,Centre-Forward,1996-01-28,21,South Africa,LOSC Lille,Ligue 1,2017/2018,2017
+Thomas Didillon,Goalkeeper,1995-11-28,21,France,FC Metz,Ligue 1,2017/2018,2017
+Quentin Beunardeau,Goalkeeper,1994-02-27,23,France,FC Metz,Ligue 1,2017/2018,2017
+Eiji Kawashima,Goalkeeper,1983-03-20,34,Japan,FC Metz,Ligue 1,2017/2018,2017
+Calvin Haïdara,Goalkeeper,1999-06-11,18,France,FC Metz,Ligue 1,2017/2018,2017
+Vincent Peugnet,Defender,1998-02-05,19,France,FC Metz,Ligue 1,2017/2018,2017
+Simon Falette,Centre-Back,1992-02-19,25,Guinea,FC Metz,Ligue 1,2017/2018,2017
+Philipp Wollscheid,Centre-Back,1989-03-06,28,Germany,FC Metz,Ligue 1,2017/2018,2017
+Fallou Diagne,Centre-Back,1989-08-14,27,Senegal,FC Metz,Ligue 1,2017/2018,2017
+Milan Bisevac,Centre-Back,1983-08-31,33,Serbia,FC Metz,Ligue 1,2017/2018,2017
+Moussa Niakhaté,Centre-Back,1996-03-08,21,France,FC Metz,Ligue 1,2017/2018,2017
+Vahid Selimovic,Centre-Back,1997-04-03,20,Luxembourg,FC Metz,Ligue 1,2017/2018,2017
+Bilal Hadraoui,Centre-Back,1999-05-28,18,France,FC Metz,Ligue 1,2017/2018,2017
+Julian Palmieri,Left-Back,1986-12-07,30,France,FC Metz,Ligue 1,2017/2018,2017
+Benoît Assou-Ekotto,Left-Back,1984-03-24,33,Cameroon,FC Metz,Ligue 1,2017/2018,2017
+Matthieu Udol,Left-Back,1996-03-20,21,France,FC Metz,Ligue 1,2017/2018,2017
+Nicolas Basin,Left-Back,1998-07-22,18,France,FC Metz,Ligue 1,2017/2018,2017
+Lemouya Goudiaby,Left-Back,1997-01-09,20,Senegal,FC Metz,Ligue 1,2017/2018,2017
+Dylan Lempereur,Left-Back,1998-10-24,18,France,FC Metz,Ligue 1,2017/2018,2017
+Iván Balliu,Right-Back,1992-01-01,25,Albania,FC Metz,Ligue 1,2017/2018,2017
+Jonathan Rivierez,Right-Back,1989-05-18,28,France,FC Metz,Ligue 1,2017/2018,2017
+Théodore Efouba Ayissi,Right-Back,1997-05-05,20,Cameroon,FC Metz,Ligue 1,2017/2018,2017
+Youssef Maziz,Midfielder,1998-06-24,19,France,FC Metz,Ligue 1,2017/2018,2017
+Georges Mandjeck,Defensive Midfield,1988-12-09,28,Cameroon,FC Metz,Ligue 1,2017/2018,2017
+Gerónimo Poblete,Defensive Midfield,1993-01-02,24,Argentina,FC Metz,Ligue 1,2017/2018,2017
+Chris Philipps,Defensive Midfield,1994-03-08,23,Luxembourg,FC Metz,Ligue 1,2017/2018,2017
+Cafú,Central Midfield,1993-02-26,24,Portugal,FC Metz,Ligue 1,2017/2018,2017
+Renaud Cohade,Central Midfield,1984-09-29,32,France,FC Metz,Ligue 1,2017/2018,2017
+Alexis Larriere,Central Midfield,1997-03-20,20,France,FC Metz,Ligue 1,2017/2018,2017
+Yann Jouffre,Right Midfield,1984-07-23,32,France,FC Metz,Ligue 1,2017/2018,2017
+Lilian Fournier,Right Midfield,1998-05-18,19,France,FC Metz,Ligue 1,2017/2018,2017
+Danijel Milicevic,Attacking Midfield,1986-01-05,31,Bosnia-Herzegovina,FC Metz,Ligue 1,2017/2018,2017
+Florent Mollet,Attacking Midfield,1991-11-19,25,France,FC Metz,Ligue 1,2017/2018,2017
+Vincent Thill,Attacking Midfield,2000-02-04,17,Luxembourg,FC Metz,Ligue 1,2017/2018,2017
+Richard Steven Sila,Forward,1998-01-04,19,France,FC Metz,Ligue 1,2017/2018,2017
+Opa Nguette,Left Winger,1994-07-08,22,Senegal,FC Metz,Ligue 1,2017/2018,2017
+Mathieu Dossevi,Right Winger,1988-02-12,29,Togo,FC Metz,Ligue 1,2017/2018,2017
+Farid Boulaya,Right Winger,1993-02-25,24,Algeria,FC Metz,Ligue 1,2017/2018,2017
+Gauthier Hein,Right Winger,1996-08-07,20,France,FC Metz,Ligue 1,2017/2018,2017
+Brian Fernández,Right Winger,1994-09-26,22,Argentina,FC Metz,Ligue 1,2017/2018,2017
+Ablie Jallow,Right Winger,1998-11-14,18,The Gambia,FC Metz,Ligue 1,2017/2018,2017
+Nolan Roux,Centre-Forward,1988-03-01,29,France,FC Metz,Ligue 1,2017/2018,2017
+Habib Diallo,Centre-Forward,1995-06-15,22,Senegal,FC Metz,Ligue 1,2017/2018,2017
+Emmanuel Rivière,Centre-Forward,1990-03-03,27,France,FC Metz,Ligue 1,2017/2018,2017
+Ibrahima Niane,Centre-Forward,1999-03-11,18,Senegal,FC Metz,Ligue 1,2017/2018,2017
+Rémy Vercoutre,Goalkeeper,1980-06-26,37,France,SM Caen,Ligue 1,2017/2018,2017
+Brice Samba,Goalkeeper,1994-04-25,23,France,SM Caen,Ligue 1,2017/2018,2017
+Matthieu Dreyer,Goalkeeper,1989-03-20,28,France,SM Caen,Ligue 1,2017/2018,2017
+Damien Da Silva,Centre-Back,1988-05-17,29,France,SM Caen,Ligue 1,2017/2018,2017
+Romain Genevois,Centre-Back,1987-10-28,29,Haiti,SM Caen,Ligue 1,2017/2018,2017
+Alexander Djiku,Centre-Back,1994-08-09,22,France,SM Caen,Ligue 1,2017/2018,2017
+Florian Le Joncour,Centre-Back,1995-02-03,22,France,SM Caen,Ligue 1,2017/2018,2017
+Emmanuel Imorou,Left-Back,1988-09-16,28,Benin,SM Caen,Ligue 1,2017/2018,2017
+Vincent Bessat,Left-Back,1985-11-08,31,France,SM Caen,Ligue 1,2017/2018,2017
+Adama Mbengue,Left-Back,1993-12-01,23,Senegal,SM Caen,Ligue 1,2017/2018,2017
+Yoël Armougom,Left-Back,1998-06-05,19,France,SM Caen,Ligue 1,2017/2018,2017
+Frédéric Guilbert,Right-Back,1994-12-24,22,France,SM Caen,Ligue 1,2017/2018,2017
+Mouhamadou Dabo,Right-Back,1986-11-28,30,France,SM Caen,Ligue 1,2017/2018,2017
+Ismaël Diomandé,Defensive Midfield,1992-08-28,24,Cote d'Ivoire,SM Caen,Ligue 1,2017/2018,2017
+Baissama Sankoh,Defensive Midfield,1992-03-20,25,Guinea,SM Caen,Ligue 1,2017/2018,2017
+Valentin Voisin,Defensive Midfield,1996-06-19,21,France,SM Caen,Ligue 1,2017/2018,2017
+Youssef Aït Bennasser,Central Midfield,1996-07-07,20,Morocco,SM Caen,Ligue 1,2017/2018,2017
+Stef Peeters,Central Midfield,1992-02-09,25,Belgium,SM Caen,Ligue 1,2017/2018,2017
+Jonathan Delaplace,Central Midfield,1986-03-20,31,France,SM Caen,Ligue 1,2017/2018,2017
+Jordan Leborgne,Central Midfield,1995-09-29,21,France,SM Caen,Ligue 1,2017/2018,2017
+Durel Avounou,Central Midfield,1997-09-25,19,Congo,SM Caen,Ligue 1,2017/2018,2017
+Jessy Deminguet,Central Midfield,1998-01-07,19,France,SM Caen,Ligue 1,2017/2018,2017
+Jeff Louis,Attacking Midfield,1992-08-08,24,Haiti,SM Caen,Ligue 1,2017/2018,2017
+Julien Féret,Attacking Midfield,1982-07-05,34,France,SM Caen,Ligue 1,2017/2018,2017
+Hervé Bazile,Left Winger,1990-03-18,27,Haiti,SM Caen,Ligue 1,2017/2018,2017
+Christian Kouakou,Left Winger,1991-03-01,26,Cote d'Ivoire,SM Caen,Ligue 1,2017/2018,2017
+Jordan N'Kololo,Left Winger,1992-11-09,24,DR Congo,SM Caen,Ligue 1,2017/2018,2017
+Jan Repas,Left Winger,1997-03-19,20,Slovenia,SM Caen,Ligue 1,2017/2018,2017
+Ronny Rodelin,Right Winger,1989-11-18,27,France,SM Caen,Ligue 1,2017/2018,2017
+Timo Stavitski,Right Winger,1999-07-17,17,Finland,SM Caen,Ligue 1,2017/2018,2017
+Ivan Santini,Centre-Forward,1989-05-21,28,Croatia,SM Caen,Ligue 1,2017/2018,2017
+Enzo Crivelli,Centre-Forward,1995-02-06,22,France,SM Caen,Ligue 1,2017/2018,2017
+Makan Macalou,Centre-Forward,1996-02-07,21,Mali,SM Caen,Ligue 1,2017/2018,2017
+Benjamin Lecomte,Goalkeeper,1991-04-26,26,France,HSC Montpellier,Ligue 1,2017/2018,2017
+Laurent Pionnier,Goalkeeper,1982-05-24,35,France,HSC Montpellier,Ligue 1,2017/2018,2017
+Dimitry Bertaud,Goalkeeper,1998-06-06,19,France,HSC Montpellier,Ligue 1,2017/2018,2017
+Pedro Mendes,Centre-Back,1990-10-01,26,Portugal,HSC Montpellier,Ligue 1,2017/2018,2017
+Lukas Pokorny,Centre-Back,1993-07-05,23,Czech Republic,HSC Montpellier,Ligue 1,2017/2018,2017
+Daniel Congré,Centre-Back,1985-04-05,32,France,HSC Montpellier,Ligue 1,2017/2018,2017
+Hilton,Centre-Back,1977-09-13,39,Brazil,HSC Montpellier,Ligue 1,2017/2018,2017
+Bryan Passi,Centre-Back,1997-08-05,19,France,HSC Montpellier,Ligue 1,2017/2018,2017
+Nicolas Cozza,Centre-Back,1999-01-08,18,France,HSC Montpellier,Ligue 1,2017/2018,2017
+Jérôme Roussillon,Left-Back,1993-01-06,24,France,HSC Montpellier,Ligue 1,2017/2018,2017
+Ambroise Oyongo,Left-Back,1991-06-22,26,Cameroon,HSC Montpellier,Ligue 1,2017/2018,2017
+Morgan Poaty,Left-Back,1997-07-15,19,France,HSC Montpellier,Ligue 1,2017/2018,2017
+Nordi Mukiele,Right-Back,1997-11-01,19,France,HSC Montpellier,Ligue 1,2017/2018,2017
+Ruben Aguilar,Right-Back,1993-04-26,24,France,HSC Montpellier,Ligue 1,2017/2018,2017
+Jérémie Porsan-Clemente,Right-Back,1997-12-16,19,France,HSC Montpellier,Ligue 1,2017/2018,2017
+Romain Caumet,Midfielder,1999-04-13,18,France,HSC Montpellier,Ligue 1,2017/2018,2017
+Paul Lasne,Defensive Midfield,1989-01-16,28,France,HSC Montpellier,Ligue 1,2017/2018,2017
+Ellyes Skhiri,Defensive Midfield,1995-05-10,22,Tunisia,HSC Montpellier,Ligue 1,2017/2018,2017
+Facundo Píriz,Defensive Midfield,1990-03-27,27,Uruguay,HSC Montpellier,Ligue 1,2017/2018,2017
+Junior Sambia,Defensive Midfield,1996-09-07,20,France,HSC Montpellier,Ligue 1,2017/2018,2017
+Killian Sanson,Defensive Midfield,1997-06-07,20,France,HSC Montpellier,Ligue 1,2017/2018,2017
+Stéphane Sessègnon,Attacking Midfield,1984-06-01,33,Benin,HSC Montpellier,Ligue 1,2017/2018,2017
+Jonathan Ikoné,Attacking Midfield,1998-05-02,19,France,HSC Montpellier,Ligue 1,2017/2018,2017
+Casimir Ninga,Left Winger,1993-05-17,24,Chad,HSC Montpellier,Ligue 1,2017/2018,2017
+Keagan Dolly,Left Winger,1993-01-22,24,South Africa,HSC Montpellier,Ligue 1,2017/2018,2017
+Isaac Mbenza,Right Winger,1996-03-08,21,Belgium,HSC Montpellier,Ligue 1,2017/2018,2017
+Souleymane Camara,Right Winger,1982-12-22,34,Senegal,HSC Montpellier,Ligue 1,2017/2018,2017
+Giovanni Sio,Centre-Forward,1989-03-31,28,Cote d'Ivoire,HSC Montpellier,Ligue 1,2017/2018,2017
+Kévin Bérigaud,Centre-Forward,1988-05-09,29,France,HSC Montpellier,Ligue 1,2017/2018,2017
+Yannis Ammour,Centre-Forward,1999-05-21,18,France,HSC Montpellier,Ligue 1,2017/2018,2017
+Baptiste Reynet,Goalkeeper,1990-10-28,26,France,FCO Dijon,Ligue 1,2017/2018,2017
+Benjamin Leroy,Goalkeeper,1989-04-07,28,France,FCO Dijon,Ligue 1,2017/2018,2017
+Bobby Allain,Goalkeeper,1991-11-28,25,France,FCO Dijon,Ligue 1,2017/2018,2017
+Papy Djilobodji,Centre-Back,1988-12-01,28,Senegal,FCO Dijon,Ligue 1,2017/2018,2017
+Wesley Lautoa,Centre-Back,1987-08-25,29,France,FCO Dijon,Ligue 1,2017/2018,2017
+Cédric Yambéré,Centre-Back,1990-11-06,26,Central African Republic,FCO Dijon,Ligue 1,2017/2018,2017
+Ádám Lang,Centre-Back,1993-01-17,24,Hungary,FCO Dijon,Ligue 1,2017/2018,2017
+Cédric Varrault,Centre-Back,1980-01-30,37,France,FCO Dijon,Ligue 1,2017/2018,2017
+Théo Barbet,Centre-Back,2001-03-06,16,France,FCO Dijon,Ligue 1,2017/2018,2017
+Arnold Bouka Moutou,Left-Back,1988-11-28,28,Congo,FCO Dijon,Ligue 1,2017/2018,2017
+Oussama Haddadi,Left-Back,1992-01-28,25,Tunisia,FCO Dijon,Ligue 1,2017/2018,2017
+Fouad Chafik,Right-Back,1986-10-16,30,Morocco,FCO Dijon,Ligue 1,2017/2018,2017
+Vincent Rüfli,Right-Back,1988-01-22,29,Switzerland,FCO Dijon,Ligue 1,2017/2018,2017
+Valentin Rosier,Right-Back,1996-08-19,20,France,FCO Dijon,Ligue 1,2017/2018,2017
+Corentin Faussot,Midfielder,1998-01-04,19,France,FCO Dijon,Ligue 1,2017/2018,2017
+Xeka,Defensive Midfield,1994-11-10,22,Portugal,FCO Dijon,Ligue 1,2017/2018,2017
+Erwan Maury,Defensive Midfield,1996-06-16,21,France,FCO Dijon,Ligue 1,2017/2018,2017
+Eden Massouema,Defensive Midfield,1997-06-29,20,Congo,FCO Dijon,Ligue 1,2017/2018,2017
+Mehdi Abeid,Central Midfield,1992-08-06,24,Algeria,FCO Dijon,Ligue 1,2017/2018,2017
+Jordan Marié,Central Midfield,1991-09-29,25,France,FCO Dijon,Ligue 1,2017/2018,2017
+Romain Amalfitano,Central Midfield,1989-08-27,27,France,FCO Dijon,Ligue 1,2017/2018,2017
+Jessy Benet,Central Midfield,1995-06-24,22,France,FCO Dijon,Ligue 1,2017/2018,2017
+Florent Balmont,Central Midfield,1980-02-02,37,France,FCO Dijon,Ligue 1,2017/2018,2017
+Enzo Loiodice,Central Midfield,2000-11-27,16,France,FCO Dijon,Ligue 1,2017/2018,2017
+Frédéric Sammaritano,Attacking Midfield,1986-03-23,31,France,FCO Dijon,Ligue 1,2017/2018,2017
+Dylan Bahamboula,Attacking Midfield,1995-05-22,22,Congo,FCO Dijon,Ligue 1,2017/2018,2017
+Adrián Sahibeddine,Attacking Midfield,1994-08-09,22,France,FCO Dijon,Ligue 1,2017/2018,2017
+Clément Billemaz,Forward,1998-09-22,18,France,FCO Dijon,Ligue 1,2017/2018,2017
+Samuel Robert,Forward,1998-01-12,19,France,FCO Dijon,Ligue 1,2017/2018,2017
+Naïm Sliti,Left Winger,1992-07-27,24,Tunisia,FCO Dijon,Ligue 1,2017/2018,2017
+Chang-hun Kwon,Right Winger,1994-06-30,23,"Korea, South",FCO Dijon,Ligue 1,2017/2018,2017
+Julio Tavarès,Centre-Forward,1988-11-19,28,Cape Verde,FCO Dijon,Ligue 1,2017/2018,2017
+Benjamin Jeannot,Centre-Forward,1992-01-22,25,France,FCO Dijon,Ligue 1,2017/2018,2017
+Wesley Saïd,Centre-Forward,1995-04-19,22,France,FCO Dijon,Ligue 1,2017/2018,2017
+Mamadou Thiam,Centre-Forward,1995-03-20,22,Senegal,FCO Dijon,Ligue 1,2017/2018,2017
+Régis Gurtner,Goalkeeper,1986-12-08,30,France,SC Amiens,Ligue 1,2017/2018,2017
+Jean-Christophe Bouet,Goalkeeper,1983-07-21,33,France,SC Amiens,Ligue 1,2017/2018,2017
+Raphaël Adiceam,Goalkeeper,1990-07-03,26,France,SC Amiens,Ligue 1,2017/2018,2017
+Gauthier Banaziak,Goalkeeper,1997-05-25,20,France,SC Amiens,Ligue 1,2017/2018,2017
+Prince Gouano,Centre-Back,1993-12-24,23,France,SC Amiens,Ligue 1,2017/2018,2017
+Bakaye Dibassy,Centre-Back,1989-08-11,27,Mali,SC Amiens,Ligue 1,2017/2018,2017
+Khaled Adénon,Centre-Back,1985-07-28,31,Benin,SC Amiens,Ligue 1,2017/2018,2017
+Danilo Avelar,Left-Back,1989-06-09,28,Brazil,SC Amiens,Ligue 1,2017/2018,2017
+Julien Ielsch,Left-Back,1983-03-05,34,France,SC Amiens,Ligue 1,2017/2018,2017
+Oualid El Hajjam,Right-Back,1991-02-19,26,Morocco,SC Amiens,Ligue 1,2017/2018,2017
+Issa Cissokho,Right-Back,1985-02-23,32,Senegal,SC Amiens,Ligue 1,2017/2018,2017
+Thomas Monconduit,Defensive Midfield,1991-02-10,26,France,SC Amiens,Ligue 1,2017/2018,2017
+Mathieu Bodmer,Defensive Midfield,1982-11-22,34,France,SC Amiens,Ligue 1,2017/2018,2017
+Sekou Baradji,Defensive Midfield,1984-04-24,33,France,SC Amiens,Ligue 1,2017/2018,2017
+Guy N'Gosso,Defensive Midfield,1985-01-11,32,Cameroon,SC Amiens,Ligue 1,2017/2018,2017
+Bongani Zungu,Central Midfield,1992-10-09,24,South Africa,SC Amiens,Ligue 1,2017/2018,2017
+Tanguy Ndombélé,Central Midfield,1996-12-28,20,France,SC Amiens,Ligue 1,2017/2018,2017
+Guessouma Fofana,Central Midfield,1992-12-17,24,France,SC Amiens,Ligue 1,2017/2018,2017
+Mahdi Talal,Central Midfield,1997-08-17,19,France,SC Amiens,Ligue 1,2017/2018,2017
+Harisson Manzala,Right Midfield,1994-03-06,23,DR Congo,SC Amiens,Ligue 1,2017/2018,2017
+Emmanuel Bourgaud,Right Midfield,1987-10-25,29,France,SC Amiens,Ligue 1,2017/2018,2017
+Georges Gope-Fenepej,Left Midfield,1988-10-23,28,Neukaledonien,SC Amiens,Ligue 1,2017/2018,2017
+Charly Charrier,Attacking Midfield,1986-05-27,31,France,SC Amiens,Ligue 1,2017/2018,2017
+Matheus Cassini,Attacking Midfield,1996-02-15,21,Brazil,SC Amiens,Ligue 1,2017/2018,2017
+Nathan,Left Winger,1996-03-13,21,Brazil,SC Amiens,Ligue 1,2017/2018,2017
+Gaël Kakuta,Left Winger,1991-06-21,26,DR Congo,SC Amiens,Ligue 1,2017/2018,2017
+Jean-Luc Dompé,Left Winger,1995-08-12,21,France,SC Amiens,Ligue 1,2017/2018,2017
+Stiven Mendoza,Left Winger,1992-06-27,25,Colombia,SC Amiens,Ligue 1,2017/2018,2017
+Serge Gakpé,Right Winger,1987-05-07,30,Togo,SC Amiens,Ligue 1,2017/2018,2017
+Quentin Cornette,Right Winger,1994-01-17,23,France,SC Amiens,Ligue 1,2017/2018,2017
+Moussa Konaté,Centre-Forward,1993-04-03,24,Senegal,SC Amiens,Ligue 1,2017/2018,2017
+Lacina Traoré,Centre-Forward,1990-05-20,27,Cote d'Ivoire,SC Amiens,Ligue 1,2017/2018,2017
+Bachibou Koita,Centre-Forward,1994-04-15,23,Niger,SC Amiens,Ligue 1,2017/2018,2017
+Brighton Labeau,Centre-Forward,1996-01-01,21,France,SC Amiens,Ligue 1,2017/2018,2017
+Mamadou Samassa,Goalkeeper,1990-02-16,27,Mali,ES Troyes AC,Ligue 1,2017/2018,2017
+Erwin Zelazny,Goalkeeper,1991-09-22,25,France,ES Troyes AC,Ligue 1,2017/2018,2017
+Yehvann Diouf,Goalkeeper,1999-06-11,18,France,ES Troyes AC,Ligue 1,2017/2018,2017
+François Bellugou,Centre-Back,1987-04-25,30,France,ES Troyes AC,Ligue 1,2017/2018,2017
+Jimmy Giraudon,Centre-Back,1992-01-16,25,France,ES Troyes AC,Ligue 1,2017/2018,2017
+Christophe Hérelle,Centre-Back,1992-08-22,24,France,ES Troyes AC,Ligue 1,2017/2018,2017
+Gabriel Magalhães,Centre-Back,1997-12-19,19,Brazil,ES Troyes AC,Ligue 1,2017/2018,2017
+Oswaldo Vizcarrondo,Centre-Back,1984-05-31,33,Venezuela,ES Troyes AC,Ligue 1,2017/2018,2017
+Johann Obiang,Left-Back,1993-07-05,23,Gabon,ES Troyes AC,Ligue 1,2017/2018,2017
+Charles Traoré,Left-Back,1992-01-01,25,Mali,ES Troyes AC,Ligue 1,2017/2018,2017
+Mathieu Deplagne,Right-Back,1991-10-01,25,France,ES Troyes AC,Ligue 1,2017/2018,2017
+Jérémy Cordoval,Right-Back,1990-01-12,27,Guadeloupe,ES Troyes AC,Ligue 1,2017/2018,2017
+Khamis Digol,Right-Back,1998-09-28,18,France,ES Troyes AC,Ligue 1,2017/2018,2017
+Aloïs Confais,Defensive Midfield,1996-09-07,20,France,ES Troyes AC,Ligue 1,2017/2018,2017
+Rémi Walter,Central Midfield,1995-04-26,22,France,ES Troyes AC,Ligue 1,2017/2018,2017
+Tristan Dingomé,Central Midfield,1991-02-17,26,France,ES Troyes AC,Ligue 1,2017/2018,2017
+Karim Azamoum,Central Midfield,1990-01-17,27,France,ES Troyes AC,Ligue 1,2017/2018,2017
+Samuel Grandsir,Right Midfield,1996-08-14,20,France,ES Troyes AC,Ligue 1,2017/2018,2017
+Warren Tchimbembé,Right Midfield,1998-04-21,19,France,ES Troyes AC,Ligue 1,2017/2018,2017
+Bryan Mbeumo,Right Midfield,1999-08-07,17,France,ES Troyes AC,Ligue 1,2017/2018,2017
+Bryan Pelé,Left Midfield,1992-03-25,25,France,ES Troyes AC,Ligue 1,2017/2018,2017
+Stéphane Darbion,Left Midfield,1984-03-22,33,France,ES Troyes AC,Ligue 1,2017/2018,2017
+Saîf-Eddine Khaoui,Attacking Midfield,1995-04-27,22,Tunisia,ES Troyes AC,Ligue 1,2017/2018,2017
+Chaouki Ben Saada,Attacking Midfield,1984-07-01,33,Tunisia,ES Troyes AC,Ligue 1,2017/2018,2017
+Benjamin Nivet,Attacking Midfield,1977-01-02,40,France,ES Troyes AC,Ligue 1,2017/2018,2017
+Adama Niane,Centre-Forward,1993-06-16,24,Mali,ES Troyes AC,Ligue 1,2017/2018,2017
+Hyun-jun Suk,Centre-Forward,1991-06-29,26,"Korea, South",ES Troyes AC,Ligue 1,2017/2018,2017
+Jonathan Tinhan,Centre-Forward,1989-06-01,28,Benin,ES Troyes AC,Ligue 1,2017/2018,2017
+Raphaël Cacérès,Centre-Forward,1987-09-01,29,France,ES Troyes AC,Ligue 1,2017/2018,2017
+Mamadou Sissako,Centre-Forward,1996-04-20,21,France,ES Troyes AC,Ligue 1,2017/2018,2017
+Alexandre Oukidja,Goalkeeper,1988-07-19,28,Algeria,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
+Bingourou Kamara,Goalkeeper,1996-10-21,20,France,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
+Landry Bonnefoi,Goalkeeper,1983-09-20,33,France,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
+Bastien Rempp,Goalkeeper,1998-11-11,18,France,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
+Pablo Martinez,Centre-Back,1989-02-21,28,France,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
+Bakary Koné,Centre-Back,1988-04-27,29,Burkina Faso,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
+Ernest Seka,Centre-Back,1987-06-22,30,Guinea,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
+Kader Mangane,Centre-Back,1983-03-23,34,Senegal,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
+Yoann Salmier,Centre-Back,1992-11-21,24,French Guiana,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
+Anthony Caci,Centre-Back,1997-07-01,20,France,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
+Duplexe Tchamba,Centre-Back,1998-07-10,18,Cameroon,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
+Abdallah Ndour,Left-Back,1993-12-20,23,Senegal,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
+Dimitri Foulquier,Right-Back,1993-03-23,24,Guadeloupe,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
+Kenny Lala,Right-Back,1991-10-03,25,France,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
+Ismaël Aaneba,Right-Back,1999-05-29,18,France,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
+Jean-Eudes Aholou,Defensive Midfield,1994-03-20,23,Cote d'Ivoire,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
+Jérémy Grimm,Defensive Midfield,1987-03-27,30,France,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
+Quentin Othon,Defensive Midfield,1988-03-27,29,France,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
+Jonas Martin,Central Midfield,1990-04-09,27,France,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
+Vincent Nogueira,Central Midfield,1988-01-16,29,France,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
+Dimitri Liénard,Central Midfield,1988-02-13,29,France,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
+Anthony Gonçalves,Central Midfield,1986-03-06,31,France,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
+Moataz Zemzemi,Left Midfield,1999-08-07,17,Tunisia,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
+Benjamin Corgnet,Attacking Midfield,1987-04-06,30,France,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
+Ihsan Sacko,Attacking Midfield,1997-07-19,19,France,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
+Martin Terrier,Left Winger,1997-03-04,20,France,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
+Idriss Saadi,Centre-Forward,1992-02-08,25,Algeria,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
+Stéphane Bahoken,Centre-Forward,1992-05-28,25,Cameroon,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
+Nuno Da Costa,Centre-Forward,1991-02-10,26,Cape Verde,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
+Jérémy Blayac,Centre-Forward,1983-06-13,34,France,RC Strasbourg Alsace,Ligue 1,2017/2018,2017
+Kévin Zohi,Centre-Forward,1996-12-19,20,Mali,RC Strasbourg Alsace,Ligue 1,2017/2018,2017

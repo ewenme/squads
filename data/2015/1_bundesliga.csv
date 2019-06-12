@@ -1,0 +1,603 @@
+player_name,position,date_of_birth,age,nationality,club_name,league_name,season,year
+Manuel Neuer,Goalkeeper,1986-03-27,29,Germany,Bayern Munich,Bundesliga,2015/2016,2015
+Sven Ulreich,Goalkeeper,1988-08-03,26,Germany,Bayern Munich,Bundesliga,2015/2016,2015
+Tom Starke,Goalkeeper,1981-03-18,34,Germany,Bayern Munich,Bundesliga,2015/2016,2015
+Ivan Lucic,Goalkeeper,1995-03-23,20,Austria,Bayern Munich,Bundesliga,2015/2016,2015
+Jérôme Boateng,Centre-Back,1988-09-03,26,Germany,Bayern Munich,Bundesliga,2015/2016,2015
+Medhi Benatia,Centre-Back,1987-04-17,28,Morocco,Bayern Munich,Bundesliga,2015/2016,2015
+Dante,Centre-Back,1983-10-18,31,Brazil,Bayern Munich,Bundesliga,2015/2016,2015
+Holger Badstuber,Centre-Back,1989-03-13,26,Germany,Bayern Munich,Bundesliga,2015/2016,2015
+Serdar Tasci,Centre-Back,1987-04-24,28,Germany,Bayern Munich,Bundesliga,2015/2016,2015
+David Alaba,Left-Back,1992-06-24,23,Austria,Bayern Munich,Bundesliga,2015/2016,2015
+Juan Bernat,Left-Back,1993-03-01,22,Spain,Bayern Munich,Bundesliga,2015/2016,2015
+Phillipp Steinhart,Left-Back,1992-07-07,22,Germany,Bayern Munich,Bundesliga,2015/2016,2015
+Philipp Lahm,Right-Back,1983-11-11,31,Germany,Bayern Munich,Bundesliga,2015/2016,2015
+Rafinha,Right-Back,1985-09-07,29,Brazil,Bayern Munich,Bundesliga,2015/2016,2015
+Joshua Kimmich,Right-Back,1995-02-08,20,Germany,Bayern Munich,Bundesliga,2015/2016,2015
+Javi Martínez,Defensive Midfield,1988-09-02,26,Spain,Bayern Munich,Bundesliga,2015/2016,2015
+Xabi Alonso,Defensive Midfield,1981-11-25,33,Spain,Bayern Munich,Bundesliga,2015/2016,2015
+Jan Kirchhoff,Defensive Midfield,1990-10-01,24,Germany,Bayern Munich,Bundesliga,2015/2016,2015
+Arturo Vidal,Central Midfield,1987-05-22,28,Chile,Bayern Munich,Bundesliga,2015/2016,2015
+Thiago,Central Midfield,1991-04-11,24,Spain,Bayern Munich,Bundesliga,2015/2016,2015
+Sebastian Rode,Central Midfield,1990-10-11,24,Germany,Bayern Munich,Bundesliga,2015/2016,2015
+Pierre-Emile Höjbjerg,Central Midfield,1995-08-05,19,Denmark,Bayern Munich,Bundesliga,2015/2016,2015
+Gianluca Gaudino,Central Midfield,1996-11-11,18,Germany,Bayern Munich,Bundesliga,2015/2016,2015
+Mario Götze,Attacking Midfield,1992-06-03,23,Germany,Bayern Munich,Bundesliga,2015/2016,2015
+Julian Green,Attacking Midfield,1995-06-06,20,United States,Bayern Munich,Bundesliga,2015/2016,2015
+Patrick Weihrauch,Attacking Midfield,1994-03-03,21,Germany,Bayern Munich,Bundesliga,2015/2016,2015
+Fabian Benko,Attacking Midfield,1998-06-05,17,Croatia,Bayern Munich,Bundesliga,2015/2016,2015
+Franck Ribéry,Left Winger,1983-04-07,32,France,Bayern Munich,Bundesliga,2015/2016,2015
+Kingsley Coman,Left Winger,1996-06-13,19,France,Bayern Munich,Bundesliga,2015/2016,2015
+Milos Pantovic,Left Winger,1996-07-07,18,Serbia,Bayern Munich,Bundesliga,2015/2016,2015
+Arjen Robben,Right Winger,1984-01-23,31,Netherlands,Bayern Munich,Bundesliga,2015/2016,2015
+Douglas Costa,Right Winger,1990-09-14,24,Brazil,Bayern Munich,Bundesliga,2015/2016,2015
+Thomas Müller,Second Striker,1989-09-13,25,Germany,Bayern Munich,Bundesliga,2015/2016,2015
+Robert Lewandowski,Centre-Forward,1988-08-21,26,Poland,Bayern Munich,Bundesliga,2015/2016,2015
+Roman Bürki,Goalkeeper,1990-11-14,24,Switzerland,Borussia Dortmund,Bundesliga,2015/2016,2015
+Roman Weidenfeller,Goalkeeper,1980-08-06,34,Germany,Borussia Dortmund,Bundesliga,2015/2016,2015
+Hendrik Bonmann,Goalkeeper,1994-01-22,21,Germany,Borussia Dortmund,Bundesliga,2015/2016,2015
+Mats Hummels,Centre-Back,1988-12-16,26,Germany,Borussia Dortmund,Bundesliga,2015/2016,2015
+Sokratis,Centre-Back,1988-06-09,27,Greece,Borussia Dortmund,Bundesliga,2015/2016,2015
+Neven Subotic,Centre-Back,1988-12-10,26,Serbia,Borussia Dortmund,Bundesliga,2015/2016,2015
+Sven Bender,Centre-Back,1989-04-27,26,Germany,Borussia Dortmund,Bundesliga,2015/2016,2015
+Matthias Ginter,Centre-Back,1994-01-19,21,Germany,Borussia Dortmund,Bundesliga,2015/2016,2015
+Jon Gorenc-Stankovic,Centre-Back,1996-01-14,19,Slovenia,Borussia Dortmund,Bundesliga,2015/2016,2015
+Patrick Fritsch,Centre-Back,1998-12-21,16,Germany,Borussia Dortmund,Bundesliga,2015/2016,2015
+Marcel Schmelzer,Left-Back,1988-01-22,27,Germany,Borussia Dortmund,Bundesliga,2015/2016,2015
+Erik Durm,Left-Back,1992-05-12,23,Germany,Borussia Dortmund,Bundesliga,2015/2016,2015
+Ju-ho Park,Left-Back,1987-01-16,28,"Korea, South",Borussia Dortmund,Bundesliga,2015/2016,2015
+Lukasz Piszczek,Right-Back,1985-06-03,30,Poland,Borussia Dortmund,Bundesliga,2015/2016,2015
+Pascal Stenzel,Right-Back,1996-03-20,19,Germany,Borussia Dortmund,Bundesliga,2015/2016,2015
+Felix Passlack,Right-Back,1998-05-29,17,Germany,Borussia Dortmund,Bundesliga,2015/2016,2015
+Nuri Sahin,Defensive Midfield,1988-09-05,26,Turkey,Borussia Dortmund,Bundesliga,2015/2016,2015
+Julian Weigl,Defensive Midfield,1995-09-08,19,Germany,Borussia Dortmund,Bundesliga,2015/2016,2015
+Ilkay Gündogan,Central Midfield,1990-10-24,24,Germany,Borussia Dortmund,Bundesliga,2015/2016,2015
+Gonzalo Castro,Central Midfield,1987-06-11,28,Germany,Borussia Dortmund,Bundesliga,2015/2016,2015
+Kevin Kampl,Central Midfield,1990-10-09,24,Slovenia,Borussia Dortmund,Bundesliga,2015/2016,2015
+Jonas Hofmann,Central Midfield,1992-07-14,22,Germany,Borussia Dortmund,Bundesliga,2015/2016,2015
+Moritz Leitner,Central Midfield,1992-12-08,22,Germany,Borussia Dortmund,Bundesliga,2015/2016,2015
+Marco Reus,Attacking Midfield,1989-05-31,26,Germany,Borussia Dortmund,Bundesliga,2015/2016,2015
+Henrikh Mkhitaryan,Attacking Midfield,1989-01-21,26,Armenia,Borussia Dortmund,Bundesliga,2015/2016,2015
+Shinji Kagawa,Attacking Midfield,1989-03-17,26,Japan,Borussia Dortmund,Bundesliga,2015/2016,2015
+Adnan Januzaj,Right Winger,1995-02-05,20,Belgium,Borussia Dortmund,Bundesliga,2015/2016,2015
+Christian Pulisic,Right Winger,1998-09-18,16,United States,Borussia Dortmund,Bundesliga,2015/2016,2015
+Pierre-Emerick Aubameyang,Centre-Forward,1989-06-18,26,Gabon,Borussia Dortmund,Bundesliga,2015/2016,2015
+Adrián Ramos,Centre-Forward,1986-01-22,29,Colombia,Borussia Dortmund,Bundesliga,2015/2016,2015
+Diego Benaglio,Goalkeeper,1983-09-08,31,Switzerland,VfL Wolfsburg,Bundesliga,2015/2016,2015
+Koen Casteels,Goalkeeper,1992-06-25,23,Belgium,VfL Wolfsburg,Bundesliga,2015/2016,2015
+Max Grün,Goalkeeper,1987-04-05,28,Germany,VfL Wolfsburg,Bundesliga,2015/2016,2015
+Niklas Klinger,Goalkeeper,1995-10-13,19,Germany,VfL Wolfsburg,Bundesliga,2015/2016,2015
+Robin Knoche,Centre-Back,1992-05-22,23,Germany,VfL Wolfsburg,Bundesliga,2015/2016,2015
+Dante,Centre-Back,1983-10-18,31,Brazil,VfL Wolfsburg,Bundesliga,2015/2016,2015
+Naldo,Centre-Back,1982-09-10,32,Brazil,VfL Wolfsburg,Bundesliga,2015/2016,2015
+Timm Klose,Centre-Back,1988-05-09,27,Switzerland,VfL Wolfsburg,Bundesliga,2015/2016,2015
+Felipe Lopes,Centre-Back,1987-08-07,27,Brazil,VfL Wolfsburg,Bundesliga,2015/2016,2015
+Moritz Sprenger,Centre-Back,1995-02-22,20,Germany,VfL Wolfsburg,Bundesliga,2015/2016,2015
+Ricardo Rodríguez,Left-Back,1992-08-25,22,Switzerland,VfL Wolfsburg,Bundesliga,2015/2016,2015
+Vieirinha,Left-Back,1986-01-24,29,Portugal,VfL Wolfsburg,Bundesliga,2015/2016,2015
+Marcel Schäfer,Left-Back,1984-06-07,31,Germany,VfL Wolfsburg,Bundesliga,2015/2016,2015
+Jannes Horn,Left-Back,1997-02-06,18,Germany,VfL Wolfsburg,Bundesliga,2015/2016,2015
+Sebastian Jung,Right-Back,1990-06-22,25,Germany,VfL Wolfsburg,Bundesliga,2015/2016,2015
+Luiz Gustavo,Defensive Midfield,1987-07-23,27,Brazil,VfL Wolfsburg,Bundesliga,2015/2016,2015
+Josuha Guilavogui,Defensive Midfield,1990-09-19,24,France,VfL Wolfsburg,Bundesliga,2015/2016,2015
+Christian Träsch,Defensive Midfield,1987-09-01,27,Germany,VfL Wolfsburg,Bundesliga,2015/2016,2015
+Paul Seguin,Defensive Midfield,1995-03-29,20,Germany,VfL Wolfsburg,Bundesliga,2015/2016,2015
+Maximilian Arnold,Central Midfield,1994-05-27,21,Germany,VfL Wolfsburg,Bundesliga,2015/2016,2015
+Carlos Ascues,Central Midfield,1992-06-19,23,Peru,VfL Wolfsburg,Bundesliga,2015/2016,2015
+Daniel Caligiuri,Right Midfield,1988-01-15,27,Italy,VfL Wolfsburg,Bundesliga,2015/2016,2015
+Francisco Rodríguez,Left Midfield,1995-09-14,19,Switzerland,VfL Wolfsburg,Bundesliga,2015/2016,2015
+Kevin De Bruyne,Attacking Midfield,1991-06-28,24,Belgium,VfL Wolfsburg,Bundesliga,2015/2016,2015
+Julian Draxler,Attacking Midfield,1993-09-20,21,Germany,VfL Wolfsburg,Bundesliga,2015/2016,2015
+Aaron Hunt,Attacking Midfield,1986-09-04,28,Germany,VfL Wolfsburg,Bundesliga,2015/2016,2015
+André Schürrle,Left Winger,1990-11-06,24,Germany,VfL Wolfsburg,Bundesliga,2015/2016,2015
+Ivan Perisic,Left Winger,1989-02-02,26,Croatia,VfL Wolfsburg,Bundesliga,2015/2016,2015
+Leandro Putaro,Left Winger,1997-01-07,18,Germany,VfL Wolfsburg,Bundesliga,2015/2016,2015
+Bruno Henrique,Right Winger,1990-12-30,24,Brazil,VfL Wolfsburg,Bundesliga,2015/2016,2015
+Sebastian Stolze,Right Winger,1995-01-29,20,Germany,VfL Wolfsburg,Bundesliga,2015/2016,2015
+Ismail Azzaoui,Right Winger,1998-01-06,17,Belgium,VfL Wolfsburg,Bundesliga,2015/2016,2015
+Max Kruse,Centre-Forward,1988-03-19,27,Germany,VfL Wolfsburg,Bundesliga,2015/2016,2015
+Bas Dost,Centre-Forward,1989-05-31,26,Netherlands,VfL Wolfsburg,Bundesliga,2015/2016,2015
+Nicklas Bendtner,Centre-Forward,1988-01-16,27,Denmark,VfL Wolfsburg,Bundesliga,2015/2016,2015
+Ralf Fährmann,Goalkeeper,1988-09-27,26,Germany,FC Schalke 04,Bundesliga,2015/2016,2015
+Fabian Giefer,Goalkeeper,1990-05-17,25,Germany,FC Schalke 04,Bundesliga,2015/2016,2015
+Michael Gspurning,Goalkeeper,1981-05-02,34,Austria,FC Schalke 04,Bundesliga,2015/2016,2015
+Christian Wetklo,Goalkeeper,1980-01-11,35,Germany,FC Schalke 04,Bundesliga,2015/2016,2015
+Alexander Nübel,Goalkeeper,1996-09-30,18,Germany,FC Schalke 04,Bundesliga,2015/2016,2015
+Benedikt Höwedes,Centre-Back,1988-02-29,27,Germany,FC Schalke 04,Bundesliga,2015/2016,2015
+Joel Matip,Centre-Back,1991-08-08,23,Cameroon,FC Schalke 04,Bundesliga,2015/2016,2015
+Matija Nastasic,Centre-Back,1993-03-28,22,Serbia,FC Schalke 04,Bundesliga,2015/2016,2015
+Roman Neustädter,Centre-Back,1988-02-18,27,Russia,FC Schalke 04,Bundesliga,2015/2016,2015
+Kaan Ayhan,Centre-Back,1994-11-10,20,Turkey,FC Schalke 04,Bundesliga,2015/2016,2015
+Marvin Friedrich,Centre-Back,1995-12-13,19,Germany,FC Schalke 04,Bundesliga,2015/2016,2015
+Thilo Kehrer,Centre-Back,1996-09-21,18,Germany,FC Schalke 04,Bundesliga,2015/2016,2015
+Sead Kolasinac,Left-Back,1993-06-20,22,Bosnia-Herzegovina,FC Schalke 04,Bundesliga,2015/2016,2015
+Atsuto Uchida,Right-Back,1988-03-27,27,Japan,FC Schalke 04,Bundesliga,2015/2016,2015
+Júnior Caiçara,Right-Back,1989-04-27,26,Brazil,FC Schalke 04,Bundesliga,2015/2016,2015
+Sascha Riether,Right-Back,1983-03-23,32,Germany,FC Schalke 04,Bundesliga,2015/2016,2015
+Johannes Geis,Defensive Midfield,1993-08-17,21,Germany,FC Schalke 04,Bundesliga,2015/2016,2015
+Marco Höger,Defensive Midfield,1989-09-16,25,Germany,FC Schalke 04,Bundesliga,2015/2016,2015
+Dennis Aogo,Defensive Midfield,1987-01-14,28,Germany,FC Schalke 04,Bundesliga,2015/2016,2015
+Leon Goretzka,Central Midfield,1995-02-06,20,Germany,FC Schalke 04,Bundesliga,2015/2016,2015
+Pierre-Emile Höjbjerg,Central Midfield,1995-08-05,19,Denmark,FC Schalke 04,Bundesliga,2015/2016,2015
+Alessandro Schöpf,Right Midfield,1994-02-07,21,Austria,FC Schalke 04,Bundesliga,2015/2016,2015
+Julian Draxler,Attacking Midfield,1993-09-20,21,Germany,FC Schalke 04,Bundesliga,2015/2016,2015
+Max Meyer,Attacking Midfield,1995-09-18,19,Germany,FC Schalke 04,Bundesliga,2015/2016,2015
+Younès Belhanda,Attacking Midfield,1990-02-25,25,Morocco,FC Schalke 04,Bundesliga,2015/2016,2015
+Leroy Sané,Left Winger,1996-01-11,19,Germany,FC Schalke 04,Bundesliga,2015/2016,2015
+Sidney Sam,Right Winger,1988-01-31,27,Germany,FC Schalke 04,Bundesliga,2015/2016,2015
+Klaas-Jan Huntelaar,Centre-Forward,1983-08-12,31,Netherlands,FC Schalke 04,Bundesliga,2015/2016,2015
+Eric Maxim Choupo-Moting,Centre-Forward,1989-03-23,26,Cameroon,FC Schalke 04,Bundesliga,2015/2016,2015
+Franco Di Santo,Centre-Forward,1989-04-07,26,Argentina,FC Schalke 04,Bundesliga,2015/2016,2015
+Felix Platte,Centre-Forward,1996-02-11,19,Germany,FC Schalke 04,Bundesliga,2015/2016,2015
+Fabian Reese,Centre-Forward,1997-11-29,17,Germany,FC Schalke 04,Bundesliga,2015/2016,2015
+Bernd Leno,Goalkeeper,1992-03-04,23,Germany,Bayer 04 Leverkusen,Bundesliga,2015/2016,2015
+Dario Kresic,Goalkeeper,1984-01-11,31,Croatia,Bayer 04 Leverkusen,Bundesliga,2015/2016,2015
+David Yelldell,Goalkeeper,1981-10-01,33,United States,Bayer 04 Leverkusen,Bundesliga,2015/2016,2015
+Ömer Toprak,Centre-Back,1989-07-21,25,Turkey,Bayer 04 Leverkusen,Bundesliga,2015/2016,2015
+Kyriakos Papadopoulos,Centre-Back,1992-02-23,23,Greece,Bayer 04 Leverkusen,Bundesliga,2015/2016,2015
+Tin Jedvaj,Centre-Back,1995-11-28,19,Croatia,Bayer 04 Leverkusen,Bundesliga,2015/2016,2015
+Jonathan Tah,Centre-Back,1996-02-11,19,Germany,Bayer 04 Leverkusen,Bundesliga,2015/2016,2015
+André Ramalho,Centre-Back,1992-02-16,23,Brazil,Bayer 04 Leverkusen,Bundesliga,2015/2016,2015
+Joel Abu Hanna,Centre-Back,1998-01-22,17,Germany,Bayer 04 Leverkusen,Bundesliga,2015/2016,2015
+Robin Becker,Centre-Back,1997-01-18,18,Germany,Bayer 04 Leverkusen,Bundesliga,2015/2016,2015
+Wendell,Left-Back,1993-07-20,21,Brazil,Bayer 04 Leverkusen,Bundesliga,2015/2016,2015
+Sebastian Boenisch,Left-Back,1987-02-01,28,Poland,Bayer 04 Leverkusen,Bundesliga,2015/2016,2015
+Konstantinos Stafylidis,Left-Back,1993-12-02,21,Greece,Bayer 04 Leverkusen,Bundesliga,2015/2016,2015
+Giulio Donati,Right-Back,1990-02-05,25,Italy,Bayer 04 Leverkusen,Bundesliga,2015/2016,2015
+Roberto Hilbert,Right-Back,1984-10-16,30,Germany,Bayer 04 Leverkusen,Bundesliga,2015/2016,2015
+Lukas Boeder,Right-Back,1997-04-18,18,Germany,Bayer 04 Leverkusen,Bundesliga,2015/2016,2015
+Benjamin Henrichs,Right-Back,1997-02-23,18,Germany,Bayer 04 Leverkusen,Bundesliga,2015/2016,2015
+Lars Bender,Defensive Midfield,1989-04-27,26,Germany,Bayer 04 Leverkusen,Bundesliga,2015/2016,2015
+Christoph Kramer,Defensive Midfield,1991-02-19,24,Germany,Bayer 04 Leverkusen,Bundesliga,2015/2016,2015
+Marlon Frey,Defensive Midfield,1996-03-24,19,Germany,Bayer 04 Leverkusen,Bundesliga,2015/2016,2015
+Kevin Kampl,Central Midfield,1990-10-09,24,Slovenia,Bayer 04 Leverkusen,Bundesliga,2015/2016,2015
+Charles Aránguiz,Central Midfield,1989-04-17,26,Chile,Bayer 04 Leverkusen,Bundesliga,2015/2016,2015
+Seung-uh Ryu,Attacking Midfield,1993-12-17,21,"Korea, South",Bayer 04 Leverkusen,Bundesliga,2015/2016,2015
+Vladlen Yurchenko,Attacking Midfield,1994-01-22,21,Ukraine,Bayer 04 Leverkusen,Bundesliga,2015/2016,2015
+Hakan Calhanoglu,Left Winger,1994-02-08,21,Turkey,Bayer 04 Leverkusen,Bundesliga,2015/2016,2015
+Heung-min Son,Left Winger,1992-07-08,22,"Korea, South",Bayer 04 Leverkusen,Bundesliga,2015/2016,2015
+Julian Brandt,Left Winger,1996-05-02,19,Germany,Bayer 04 Leverkusen,Bundesliga,2015/2016,2015
+Robbie Kruse,Left Winger,1988-10-05,26,Australia,Bayer 04 Leverkusen,Bundesliga,2015/2016,2015
+Karim Bellarabi,Right Winger,1990-04-08,25,Germany,Bayer 04 Leverkusen,Bundesliga,2015/2016,2015
+Admir Mehmedi,Second Striker,1991-03-16,24,Switzerland,Bayer 04 Leverkusen,Bundesliga,2015/2016,2015
+Chicharito,Centre-Forward,1988-06-01,27,Mexico,Bayer 04 Leverkusen,Bundesliga,2015/2016,2015
+Stefan Kießling,Centre-Forward,1984-01-25,31,Germany,Bayer 04 Leverkusen,Bundesliga,2015/2016,2015
+Patrik Dzalto,Centre-Forward,1997-02-19,18,Croatia,Bayer 04 Leverkusen,Bundesliga,2015/2016,2015
+Yann Sommer,Goalkeeper,1988-12-17,26,Switzerland,Borussia Mönchengladbach,Bundesliga,2015/2016,2015
+Tobias Sippel,Goalkeeper,1988-03-22,27,Germany,Borussia Mönchengladbach,Bundesliga,2015/2016,2015
+Christofer Heimeroth,Goalkeeper,1981-08-01,33,Germany,Borussia Mönchengladbach,Bundesliga,2015/2016,2015
+Álvaro Domínguez,Centre-Back,1989-05-16,26,Spain,Borussia Mönchengladbach,Bundesliga,2015/2016,2015
+Martin Hinteregger,Centre-Back,1992-09-07,22,Austria,Borussia Mönchengladbach,Bundesliga,2015/2016,2015
+Tony Jantschke,Centre-Back,1990-04-07,25,Germany,Borussia Mönchengladbach,Bundesliga,2015/2016,2015
+Nico Elvedi,Centre-Back,1996-09-30,18,Switzerland,Borussia Mönchengladbach,Bundesliga,2015/2016,2015
+Martin Stranzl,Centre-Back,1980-06-16,35,Austria,Borussia Mönchengladbach,Bundesliga,2015/2016,2015
+Andreas Christensen,Centre-Back,1996-04-10,19,Denmark,Borussia Mönchengladbach,Bundesliga,2015/2016,2015
+Roel Brouwers,Centre-Back,1981-11-28,33,Netherlands,Borussia Mönchengladbach,Bundesliga,2015/2016,2015
+Nico Schulz,Left-Back,1993-04-01,22,Germany,Borussia Mönchengladbach,Bundesliga,2015/2016,2015
+Oscar Wendt,Left-Back,1985-10-24,29,Sweden,Borussia Mönchengladbach,Bundesliga,2015/2016,2015
+Julian Korb,Right-Back,1992-03-21,23,Germany,Borussia Mönchengladbach,Bundesliga,2015/2016,2015
+Granit Xhaka,Defensive Midfield,1992-09-27,22,Switzerland,Borussia Mönchengladbach,Bundesliga,2015/2016,2015
+Havard Nordtveit,Defensive Midfield,1990-06-21,25,Norway,Borussia Mönchengladbach,Bundesliga,2015/2016,2015
+Marvin Schulz,Defensive Midfield,1995-01-15,20,Germany,Borussia Mönchengladbach,Bundesliga,2015/2016,2015
+Jonas Hofmann,Central Midfield,1992-07-14,22,Germany,Borussia Mönchengladbach,Bundesliga,2015/2016,2015
+Mahmoud Dahoud,Central Midfield,1996-01-01,19,Germany,Borussia Mönchengladbach,Bundesliga,2015/2016,2015
+Djibril Sow,Central Midfield,1997-02-06,18,Switzerland,Borussia Mönchengladbach,Bundesliga,2015/2016,2015
+Marlon Ritter,Attacking Midfield,1994-10-15,20,Germany,Borussia Mönchengladbach,Bundesliga,2015/2016,2015
+Thorgan Hazard,Left Winger,1993-03-29,22,Belgium,Borussia Mönchengladbach,Bundesliga,2015/2016,2015
+Fabian Johnson,Left Winger,1987-12-11,27,United States,Borussia Mönchengladbach,Bundesliga,2015/2016,2015
+Patrick Herrmann,Right Winger,1991-02-12,24,Germany,Borussia Mönchengladbach,Bundesliga,2015/2016,2015
+André Hahn,Right Winger,1990-08-13,24,Germany,Borussia Mönchengladbach,Bundesliga,2015/2016,2015
+Ibrahima Traoré,Right Winger,1988-04-21,27,Guinea,Borussia Mönchengladbach,Bundesliga,2015/2016,2015
+Raffael,Second Striker,1985-03-28,30,Brazil,Borussia Mönchengladbach,Bundesliga,2015/2016,2015
+Lars Stindl,Second Striker,1988-08-26,26,Germany,Borussia Mönchengladbach,Bundesliga,2015/2016,2015
+Josip Drmic,Centre-Forward,1992-08-08,22,Switzerland,Borussia Mönchengladbach,Bundesliga,2015/2016,2015
+Branimir Hrgota,Centre-Forward,1993-01-12,22,Sweden,Borussia Mönchengladbach,Bundesliga,2015/2016,2015
+Oliver Baumann,Goalkeeper,1990-06-02,25,Germany,TSG 1899 Hoffenheim,Bundesliga,2015/2016,2015
+Jens Grahl,Goalkeeper,1988-09-22,26,Germany,TSG 1899 Hoffenheim,Bundesliga,2015/2016,2015
+Alexander Stolz,Goalkeeper,1983-10-13,31,Germany,TSG 1899 Hoffenheim,Bundesliga,2015/2016,2015
+Fabian Schär,Centre-Back,1991-12-20,23,Switzerland,TSG 1899 Hoffenheim,Bundesliga,2015/2016,2015
+Niklas Süle,Centre-Back,1995-09-03,19,Germany,TSG 1899 Hoffenheim,Bundesliga,2015/2016,2015
+Ermin Bicakcic,Centre-Back,1990-01-24,25,Bosnia-Herzegovina,TSG 1899 Hoffenheim,Bundesliga,2015/2016,2015
+Benedikt Gimber,Centre-Back,1997-02-19,18,Germany,TSG 1899 Hoffenheim,Bundesliga,2015/2016,2015
+Jin-su Kim,Left-Back,1992-06-13,23,"Korea, South",TSG 1899 Hoffenheim,Bundesliga,2015/2016,2015
+Jonathan Schmid,Right-Back,1990-06-22,25,France,TSG 1899 Hoffenheim,Bundesliga,2015/2016,2015
+Pavel Kaderabek,Right-Back,1992-04-25,23,Czech Republic,TSG 1899 Hoffenheim,Bundesliga,2015/2016,2015
+Jeremy Toljan,Right-Back,1994-08-08,20,Germany,TSG 1899 Hoffenheim,Bundesliga,2015/2016,2015
+Pirmin Schwegler,Defensive Midfield,1987-03-09,28,Switzerland,TSG 1899 Hoffenheim,Bundesliga,2015/2016,2015
+Sebastian Rudy,Defensive Midfield,1990-02-28,25,Germany,TSG 1899 Hoffenheim,Bundesliga,2015/2016,2015
+Eugen Polanski,Defensive Midfield,1986-03-17,29,Poland,TSG 1899 Hoffenheim,Bundesliga,2015/2016,2015
+Tobias Strobl,Defensive Midfield,1990-05-12,25,Germany,TSG 1899 Hoffenheim,Bundesliga,2015/2016,2015
+Matheus Biteco,Central Midfield,1995-06-28,20,Brazil,TSG 1899 Hoffenheim,Bundesliga,2015/2016,2015
+Nadiem Amiri,Central Midfield,1996-10-27,18,Germany,TSG 1899 Hoffenheim,Bundesliga,2015/2016,2015
+Russell Canouse,Central Midfield,1995-06-11,20,United States,TSG 1899 Hoffenheim,Bundesliga,2015/2016,2015
+Steven Zuber,Left Midfield,1991-08-17,23,Switzerland,TSG 1899 Hoffenheim,Bundesliga,2015/2016,2015
+Jiloan Hamad,Attacking Midfield,1990-11-06,24,Sweden,TSG 1899 Hoffenheim,Bundesliga,2015/2016,2015
+Baris Atik,Attacking Midfield,1995-01-09,20,Germany,TSG 1899 Hoffenheim,Bundesliga,2015/2016,2015
+Tarik Elyounoussi,Left Winger,1988-02-23,27,Norway,TSG 1899 Hoffenheim,Bundesliga,2015/2016,2015
+Kai Herdling,Left Winger,1984-06-27,31,Germany,TSG 1899 Hoffenheim,Bundesliga,2015/2016,2015
+Philipp Ochs,Left Winger,1997-04-17,18,Germany,TSG 1899 Hoffenheim,Bundesliga,2015/2016,2015
+Kevin Volland,Centre-Forward,1992-07-30,22,Germany,TSG 1899 Hoffenheim,Bundesliga,2015/2016,2015
+Andrej Kramaric,Centre-Forward,1991-06-19,24,Croatia,TSG 1899 Hoffenheim,Bundesliga,2015/2016,2015
+Ádám Szalai,Centre-Forward,1987-12-09,27,Hungary,TSG 1899 Hoffenheim,Bundesliga,2015/2016,2015
+Eduardo Vargas,Centre-Forward,1989-11-20,25,Chile,TSG 1899 Hoffenheim,Bundesliga,2015/2016,2015
+Kevin Kuranyi,Centre-Forward,1982-03-02,33,Germany,TSG 1899 Hoffenheim,Bundesliga,2015/2016,2015
+Mark Uth,Centre-Forward,1991-08-24,23,Germany,TSG 1899 Hoffenheim,Bundesliga,2015/2016,2015
+Joelinton,Centre-Forward,1996-08-14,18,Brazil,TSG 1899 Hoffenheim,Bundesliga,2015/2016,2015
+Heinz Lindner,Goalkeeper,1990-07-17,24,Austria,Eintracht Frankfurt,Bundesliga,2015/2016,2015
+Lukas Hradecky,Goalkeeper,1989-11-24,25,Finland,Eintracht Frankfurt,Bundesliga,2015/2016,2015
+Emil Balayev,Goalkeeper,1994-04-17,21,Azerbaijan,Eintracht Frankfurt,Bundesliga,2015/2016,2015
+Yannick Zummack,Goalkeeper,1996-03-26,19,Germany,Eintracht Frankfurt,Bundesliga,2015/2016,2015
+Carlos Zambrano,Centre-Back,1989-07-10,25,Peru,Eintracht Frankfurt,Bundesliga,2015/2016,2015
+Kaan Ayhan,Centre-Back,1994-11-10,20,Turkey,Eintracht Frankfurt,Bundesliga,2015/2016,2015
+Marco Russ,Centre-Back,1985-08-04,29,Germany,Eintracht Frankfurt,Bundesliga,2015/2016,2015
+Bamba Anderson,Centre-Back,1988-01-10,27,Brazil,Eintracht Frankfurt,Bundesliga,2015/2016,2015
+David Abraham,Centre-Back,1986-07-15,28,Argentina,Eintracht Frankfurt,Bundesliga,2015/2016,2015
+Bastian Oczipka,Left-Back,1989-01-12,26,Germany,Eintracht Frankfurt,Bundesliga,2015/2016,2015
+Constant Djakpa,Left-Back,1986-10-17,28,Cote d'Ivoire,Eintracht Frankfurt,Bundesliga,2015/2016,2015
+Timothy Chandler,Right-Back,1990-03-29,25,United States,Eintracht Frankfurt,Bundesliga,2015/2016,2015
+Yanni Regäsel,Right-Back,1996-01-13,19,Germany,Eintracht Frankfurt,Bundesliga,2015/2016,2015
+Stefan Reinartz,Defensive Midfield,1989-01-01,26,Germany,Eintracht Frankfurt,Bundesliga,2015/2016,2015
+Makoto Hasebe,Defensive Midfield,1984-01-18,31,Japan,Eintracht Frankfurt,Bundesliga,2015/2016,2015
+Slobodan Medojevic,Defensive Midfield,1990-10-20,24,Serbia,Eintracht Frankfurt,Bundesliga,2015/2016,2015
+Aleksandar Ignjovski,Defensive Midfield,1991-01-27,24,Serbia,Eintracht Frankfurt,Bundesliga,2015/2016,2015
+David Kinsombi,Defensive Midfield,1995-12-12,19,Germany,Eintracht Frankfurt,Bundesliga,2015/2016,2015
+Marc Stendera,Central Midfield,1995-12-10,19,Germany,Eintracht Frankfurt,Bundesliga,2015/2016,2015
+Johannes Flum,Central Midfield,1987-12-14,27,Germany,Eintracht Frankfurt,Bundesliga,2015/2016,2015
+Szabolcs Huszti,Central Midfield,1983-04-18,32,Hungary,Eintracht Frankfurt,Bundesliga,2015/2016,2015
+Nico Rinderknecht,Central Midfield,1997-10-11,17,Germany,Eintracht Frankfurt,Bundesliga,2015/2016,2015
+Joel Gerezgiher,Left Midfield,1995-10-09,19,Germany,Eintracht Frankfurt,Bundesliga,2015/2016,2015
+Marco Fabián,Attacking Midfield,1989-07-21,25,Mexico,Eintracht Frankfurt,Bundesliga,2015/2016,2015
+Änis Ben-Hatira,Attacking Midfield,1988-07-18,26,Tunisia,Eintracht Frankfurt,Bundesliga,2015/2016,2015
+Mijat Gacinovic,Attacking Midfield,1995-02-08,20,Serbia,Eintracht Frankfurt,Bundesliga,2015/2016,2015
+Sonny Kittel,Attacking Midfield,1993-01-06,22,Germany,Eintracht Frankfurt,Bundesliga,2015/2016,2015
+Enis Bunjaki,Attacking Midfield,1997-10-17,17,Kosovo,Eintracht Frankfurt,Bundesliga,2015/2016,2015
+Takashi Inui,Left Winger,1988-06-02,27,Japan,Eintracht Frankfurt,Bundesliga,2015/2016,2015
+Stefan Aigner,Second Striker,1987-08-20,27,Germany,Eintracht Frankfurt,Bundesliga,2015/2016,2015
+Alexander Meier,Second Striker,1983-01-17,32,Germany,Eintracht Frankfurt,Bundesliga,2015/2016,2015
+Haris Seferovic,Centre-Forward,1992-02-22,23,Switzerland,Eintracht Frankfurt,Bundesliga,2015/2016,2015
+Luc Castaignos,Centre-Forward,1992-09-27,22,Netherlands,Eintracht Frankfurt,Bundesliga,2015/2016,2015
+Vaclav Kadlec,Centre-Forward,1992-05-20,23,Czech Republic,Eintracht Frankfurt,Bundesliga,2015/2016,2015
+Luca Waldschmidt,Centre-Forward,1996-05-19,19,Germany,Eintracht Frankfurt,Bundesliga,2015/2016,2015
+Przemyslaw Tyton,Goalkeeper,1987-01-04,28,Poland,VfB Stuttgart,Bundesliga,2015/2016,2015
+Mitchell Langerak,Goalkeeper,1988-08-22,26,Australia,VfB Stuttgart,Bundesliga,2015/2016,2015
+Odysseas Vlachodimos,Goalkeeper,1994-04-26,21,Greece,VfB Stuttgart,Bundesliga,2015/2016,2015
+Benjamin Uphoff,Goalkeeper,1993-08-08,21,Germany,VfB Stuttgart,Bundesliga,2015/2016,2015
+Daniel Schwaab,Centre-Back,1988-08-23,26,Germany,VfB Stuttgart,Bundesliga,2015/2016,2015
+Toni Sunjic,Centre-Back,1988-12-15,26,Bosnia-Herzegovina,VfB Stuttgart,Bundesliga,2015/2016,2015
+Georg Niedermeier,Centre-Back,1986-02-26,29,Germany,VfB Stuttgart,Bundesliga,2015/2016,2015
+Timo Baumgartl,Centre-Back,1996-03-04,19,Germany,VfB Stuttgart,Bundesliga,2015/2016,2015
+Federico Barba,Centre-Back,1993-09-01,21,Italy,VfB Stuttgart,Bundesliga,2015/2016,2015
+Stephen Sama,Centre-Back,1993-03-05,22,Germany,VfB Stuttgart,Bundesliga,2015/2016,2015
+Emiliano Insúa,Left-Back,1989-01-07,26,Argentina,VfB Stuttgart,Bundesliga,2015/2016,2015
+Adam Hlousek,Left-Back,1988-12-20,26,Czech Republic,VfB Stuttgart,Bundesliga,2015/2016,2015
+Philip Heise,Left-Back,1991-06-20,24,Germany,VfB Stuttgart,Bundesliga,2015/2016,2015
+Kevin Großkreutz,Right-Back,1988-07-19,26,Germany,VfB Stuttgart,Bundesliga,2015/2016,2015
+Florian Klein,Right-Back,1986-11-17,28,Austria,VfB Stuttgart,Bundesliga,2015/2016,2015
+Matthias Zimmermann,Right-Back,1992-06-16,23,Germany,VfB Stuttgart,Bundesliga,2015/2016,2015
+Carlos Gruezo,Defensive Midfield,1995-04-19,20,Ecuador,VfB Stuttgart,Bundesliga,2015/2016,2015
+Geoffroy Serey Dié,Defensive Midfield,1984-11-07,30,Cote d'Ivoire,VfB Stuttgart,Bundesliga,2015/2016,2015
+Mart Ristl,Defensive Midfield,1996-07-07,18,Germany,VfB Stuttgart,Bundesliga,2015/2016,2015
+Christian Gentner,Central Midfield,1985-08-14,29,Germany,VfB Stuttgart,Bundesliga,2015/2016,2015
+Lukas Rupp,Central Midfield,1991-01-08,24,Germany,VfB Stuttgart,Bundesliga,2015/2016,2015
+Marvin Wanitzek,Central Midfield,1993-05-07,22,Germany,VfB Stuttgart,Bundesliga,2015/2016,2015
+Filip Kostic,Left Midfield,1992-11-01,22,Serbia,VfB Stuttgart,Bundesliga,2015/2016,2015
+Alexandru Maxim,Attacking Midfield,1990-07-08,24,Romania,VfB Stuttgart,Bundesliga,2015/2016,2015
+Daniel Didavi,Attacking Midfield,1990-02-21,25,Germany,VfB Stuttgart,Bundesliga,2015/2016,2015
+Kevin Stöger,Attacking Midfield,1993-08-27,21,Austria,VfB Stuttgart,Bundesliga,2015/2016,2015
+Robbie Kruse,Left Winger,1988-10-05,26,Australia,VfB Stuttgart,Bundesliga,2015/2016,2015
+Arianit Ferati,Right Winger,1997-09-07,17,Germany,VfB Stuttgart,Bundesliga,2015/2016,2015
+Timo Werner,Centre-Forward,1996-03-06,19,Germany,VfB Stuttgart,Bundesliga,2015/2016,2015
+Martin Harnik,Centre-Forward,1987-06-10,28,Austria,VfB Stuttgart,Bundesliga,2015/2016,2015
+Artem Kravets,Centre-Forward,1989-06-03,26,Ukraine,VfB Stuttgart,Bundesliga,2015/2016,2015
+Daniel Ginczek,Centre-Forward,1991-04-13,24,Germany,VfB Stuttgart,Bundesliga,2015/2016,2015
+Borys Tashchy,Centre-Forward,1993-07-26,21,Ukraine,VfB Stuttgart,Bundesliga,2015/2016,2015
+Jan Kliment,Centre-Forward,1993-09-01,21,Czech Republic,VfB Stuttgart,Bundesliga,2015/2016,2015
+René Adler,Goalkeeper,1985-01-15,30,Germany,Hamburger SV,Bundesliga,2015/2016,2015
+Jaroslav Drobny,Goalkeeper,1979-10-18,35,Czech Republic,Hamburger SV,Bundesliga,2015/2016,2015
+Tom Mickel,Goalkeeper,1989-04-19,26,Germany,Hamburger SV,Bundesliga,2015/2016,2015
+Tino Dehmelt,Goalkeeper,1992-01-29,23,Germany,Hamburger SV,Bundesliga,2015/2016,2015
+Andreas Hirzel,Goalkeeper,1993-03-25,22,Switzerland,Hamburger SV,Bundesliga,2015/2016,2015
+Cléber Reis,Centre-Back,1990-12-05,24,Brazil,Hamburger SV,Bundesliga,2015/2016,2015
+Johan Djourou,Centre-Back,1987-01-18,28,Switzerland,Hamburger SV,Bundesliga,2015/2016,2015
+Emir Spahic,Centre-Back,1980-08-18,34,Bosnia-Herzegovina,Hamburger SV,Bundesliga,2015/2016,2015
+Gideon Jung,Centre-Back,1994-09-12,20,Germany,Hamburger SV,Bundesliga,2015/2016,2015
+Kerim Carolus,Centre-Back,1994-06-16,21,Germany,Hamburger SV,Bundesliga,2015/2016,2015
+Matthias Ostrzolek,Left-Back,1990-06-05,25,Germany,Hamburger SV,Bundesliga,2015/2016,2015
+Dennis Diekmeier,Right-Back,1989-10-20,25,Germany,Hamburger SV,Bundesliga,2015/2016,2015
+Gotoku Sakai,Right-Back,1991-03-14,24,Japan,Hamburger SV,Bundesliga,2015/2016,2015
+Ashton Götz,Right-Back,1993-07-16,21,Germany,Hamburger SV,Bundesliga,2015/2016,2015
+Albin Ekdal,Defensive Midfield,1989-07-28,25,Sweden,Hamburger SV,Bundesliga,2015/2016,2015
+Marcelo Díaz,Defensive Midfield,1986-12-30,28,Chile,Hamburger SV,Bundesliga,2015/2016,2015
+Gojko Kacar,Defensive Midfield,1987-01-26,28,Serbia,Hamburger SV,Bundesliga,2015/2016,2015
+Dren Feka,Defensive Midfield,1997-06-09,18,Kosovo,Hamburger SV,Bundesliga,2015/2016,2015
+Kerem Demirbay,Central Midfield,1993-07-03,21,Germany,Hamburger SV,Bundesliga,2015/2016,2015
+Lewis Holtby,Attacking Midfield,1990-09-18,24,Germany,Hamburger SV,Bundesliga,2015/2016,2015
+Aaron Hunt,Attacking Midfield,1986-09-04,28,Germany,Hamburger SV,Bundesliga,2015/2016,2015
+Ahmet Arslan,Attacking Midfield,1994-03-30,21,Germany,Hamburger SV,Bundesliga,2015/2016,2015
+Zoltán Stieber,Left Winger,1988-10-16,26,Hungary,Hamburger SV,Bundesliga,2015/2016,2015
+Ivo Ilicevic,Left Winger,1986-11-14,28,Croatia,Hamburger SV,Bundesliga,2015/2016,2015
+Finn Porath,Left Winger,1997-02-23,18,Germany,Hamburger SV,Bundesliga,2015/2016,2015
+Nicolai Müller,Right Winger,1987-09-25,27,Germany,Hamburger SV,Bundesliga,2015/2016,2015
+Philipp Müller,Right Winger,1995-03-03,20,Germany,Hamburger SV,Bundesliga,2015/2016,2015
+Michael Gregoritsch,Second Striker,1994-04-18,21,Austria,Hamburger SV,Bundesliga,2015/2016,2015
+Pierre-Michel Lasogga,Centre-Forward,1991-12-15,23,Germany,Hamburger SV,Bundesliga,2015/2016,2015
+Josip Drmic,Centre-Forward,1992-08-08,22,Switzerland,Hamburger SV,Bundesliga,2015/2016,2015
+Sven Schipplock,Centre-Forward,1988-11-08,26,Germany,Hamburger SV,Bundesliga,2015/2016,2015
+Artjoms Rudnevs,Centre-Forward,1988-01-13,27,Latvia,Hamburger SV,Bundesliga,2015/2016,2015
+Ivica Olic,Centre-Forward,1979-09-14,35,Croatia,Hamburger SV,Bundesliga,2015/2016,2015
+Nabil Bahoui,Centre-Forward,1991-02-05,24,Sweden,Hamburger SV,Bundesliga,2015/2016,2015
+Batuhan Altintas,Centre-Forward,1996-03-14,19,Turkey,Hamburger SV,Bundesliga,2015/2016,2015
+Ron-Robert Zieler,Goalkeeper,1989-02-12,26,Germany,Hannover 96,Bundesliga,2015/2016,2015
+Philipp Tschauner,Goalkeeper,1985-11-03,29,Germany,Hannover 96,Bundesliga,2015/2016,2015
+Timo Königsmann,Goalkeeper,1997-04-05,18,Germany,Hannover 96,Bundesliga,2015/2016,2015
+Samuel Sahin-Radlinger,Goalkeeper,1992-11-07,22,Austria,Hannover 96,Bundesliga,2015/2016,2015
+Andre Hoffmann,Centre-Back,1993-02-28,22,Germany,Hannover 96,Bundesliga,2015/2016,2015
+Marcelo,Centre-Back,1987-05-20,28,Brazil,Hannover 96,Bundesliga,2015/2016,2015
+Salif Sané,Centre-Back,1990-08-25,24,Senegal,Hannover 96,Bundesliga,2015/2016,2015
+Christian Schulz,Centre-Back,1983-04-01,32,Germany,Hannover 96,Bundesliga,2015/2016,2015
+Alexander Milosevic,Centre-Back,1992-01-30,23,Sweden,Hannover 96,Bundesliga,2015/2016,2015
+Felipe,Centre-Back,1987-05-15,28,Brazil,Hannover 96,Bundesliga,2015/2016,2015
+Waldemar Anton,Centre-Back,1996-07-20,18,Germany,Hannover 96,Bundesliga,2015/2016,2015
+Fynn Arkenberg,Centre-Back,1996-03-04,19,Germany,Hannover 96,Bundesliga,2015/2016,2015
+Miiko Albornoz,Left-Back,1990-11-30,24,Chile,Hannover 96,Bundesliga,2015/2016,2015
+Hiroki Sakai,Right-Back,1990-04-12,25,Japan,Hannover 96,Bundesliga,2015/2016,2015
+Oliver Sorg,Right-Back,1990-05-29,25,Germany,Hannover 96,Bundesliga,2015/2016,2015
+Vladimir Rankovic,Right-Back,1993-06-27,22,Germany,Hannover 96,Bundesliga,2015/2016,2015
+Manuel Schmiedebach,Defensive Midfield,1988-12-05,26,Germany,Hannover 96,Bundesliga,2015/2016,2015
+Ceyhun Gülselam,Defensive Midfield,1987-12-25,27,Turkey,Hannover 96,Bundesliga,2015/2016,2015
+Hotaru Yamaguchi,Defensive Midfield,1990-10-06,24,Japan,Hannover 96,Bundesliga,2015/2016,2015
+Maurice Hirsch,Defensive Midfield,1993-05-30,22,Germany,Hannover 96,Bundesliga,2015/2016,2015
+Leon Andreasen,Central Midfield,1983-04-23,32,Denmark,Hannover 96,Bundesliga,2015/2016,2015
+Iver Fossum,Central Midfield,1996-07-15,18,Norway,Hannover 96,Bundesliga,2015/2016,2015
+Niklas Feierabend,Central Midfield,1997-04-28,NA,Germany,Hannover 96,Bundesliga,2015/2016,2015
+Edgar Prib,Left Midfield,1989-12-15,25,Germany,Hannover 96,Bundesliga,2015/2016,2015
+Hiroshi Kiyotake,Attacking Midfield,1989-11-12,25,Japan,Hannover 96,Bundesliga,2015/2016,2015
+Tim Dierßen,Attacking Midfield,1996-01-15,19,Germany,Hannover 96,Bundesliga,2015/2016,2015
+Mike Bähre,Attacking Midfield,1995-08-10,19,Germany,Hannover 96,Bundesliga,2015/2016,2015
+Kenan Karaman,Left Winger,1994-03-05,21,Turkey,Hannover 96,Bundesliga,2015/2016,2015
+Felix Klaus,Right Winger,1992-09-13,22,Germany,Hannover 96,Bundesliga,2015/2016,2015
+Uffe Bech,Right Winger,1993-01-13,22,Denmark,Hannover 96,Bundesliga,2015/2016,2015
+Allan Saint-Maximin,Right Winger,1997-03-12,18,France,Hannover 96,Bundesliga,2015/2016,2015
+Marius Wolf,Right Winger,1995-05-27,20,Germany,Hannover 96,Bundesliga,2015/2016,2015
+Noah Sarenren Bazee,Right Winger,1996-08-21,18,Nigeria,Hannover 96,Bundesliga,2015/2016,2015
+Ádám Szalai,Centre-Forward,1987-12-09,27,Hungary,Hannover 96,Bundesliga,2015/2016,2015
+Mevlüt Erdinc,Centre-Forward,1987-02-25,28,Turkey,Hannover 96,Bundesliga,2015/2016,2015
+Artur Sobiech,Centre-Forward,1990-06-12,25,Poland,Hannover 96,Bundesliga,2015/2016,2015
+Hugo Almeida,Centre-Forward,1984-05-23,31,Portugal,Hannover 96,Bundesliga,2015/2016,2015
+Charlison Benschop,Centre-Forward,1989-08-21,25,Curacao,Hannover 96,Bundesliga,2015/2016,2015
+Valmir Sulejmani,Centre-Forward,1996-02-01,19,Kosovo,Hannover 96,Bundesliga,2015/2016,2015
+Thomas Kraft,Goalkeeper,1988-07-22,26,Germany,Hertha BSC,Bundesliga,2015/2016,2015
+Rune Jarstein,Goalkeeper,1984-09-29,30,Norway,Hertha BSC,Bundesliga,2015/2016,2015
+Marius Gersbeck,Goalkeeper,1995-06-20,20,Germany,Hertha BSC,Bundesliga,2015/2016,2015
+Nils Körber,Goalkeeper,1996-11-13,18,Germany,Hertha BSC,Bundesliga,2015/2016,2015
+Sascha Burchert,Goalkeeper,1989-10-30,25,Germany,Hertha BSC,Bundesliga,2015/2016,2015
+John Anthony Brooks,Centre-Back,1993-01-28,22,United States,Hertha BSC,Bundesliga,2015/2016,2015
+Sebastian Langkamp,Centre-Back,1988-01-15,27,Germany,Hertha BSC,Bundesliga,2015/2016,2015
+Niklas Stark,Centre-Back,1995-04-14,20,Germany,Hertha BSC,Bundesliga,2015/2016,2015
+Nico Beyer,Centre-Back,1996-09-22,18,Germany,Hertha BSC,Bundesliga,2015/2016,2015
+Nico Schulz,Left-Back,1993-04-01,22,Germany,Hertha BSC,Bundesliga,2015/2016,2015
+Marvin Plattenhardt,Left-Back,1992-01-26,23,Germany,Hertha BSC,Bundesliga,2015/2016,2015
+Johannes van den Bergh,Left-Back,1986-11-21,28,Germany,Hertha BSC,Bundesliga,2015/2016,2015
+Maximilian Mittelstädt,Left-Back,1997-03-18,18,Germany,Hertha BSC,Bundesliga,2015/2016,2015
+Peter Pekarik,Right-Back,1986-10-30,28,Slovakia,Hertha BSC,Bundesliga,2015/2016,2015
+Mitchell Weiser,Right-Back,1994-04-21,21,Germany,Hertha BSC,Bundesliga,2015/2016,2015
+Yanni Regäsel,Right-Back,1996-01-13,19,Germany,Hertha BSC,Bundesliga,2015/2016,2015
+Fabian Lustenberger,Defensive Midfield,1988-05-02,27,Switzerland,Hertha BSC,Bundesliga,2015/2016,2015
+Vladimir Darida,Central Midfield,1990-08-08,24,Czech Republic,Hertha BSC,Bundesliga,2015/2016,2015
+Per Ciljan Skjelbred,Central Midfield,1987-06-16,28,Norway,Hertha BSC,Bundesliga,2015/2016,2015
+Tolga Cigerci,Central Midfield,1992-03-23,23,Turkey,Hertha BSC,Bundesliga,2015/2016,2015
+Jens Hegeler,Central Midfield,1988-01-22,27,Germany,Hertha BSC,Bundesliga,2015/2016,2015
+Florian Kohls,Central Midfield,1995-04-03,20,Germany,Hertha BSC,Bundesliga,2015/2016,2015
+Shawn Kauter,Central Midfield,1996-04-13,19,Germany,Hertha BSC,Bundesliga,2015/2016,2015
+Valentin Stocker,Attacking Midfield,1989-04-12,26,Switzerland,Hertha BSC,Bundesliga,2015/2016,2015
+Änis Ben-Hatira,Attacking Midfield,1988-07-18,26,Tunisia,Hertha BSC,Bundesliga,2015/2016,2015
+Ronny,Attacking Midfield,1986-05-11,29,Brazil,Hertha BSC,Bundesliga,2015/2016,2015
+Alexander Baumjohann,Attacking Midfield,1987-01-23,28,Germany,Hertha BSC,Bundesliga,2015/2016,2015
+Salomon Kalou,Left Winger,1985-08-05,29,Cote d'Ivoire,Hertha BSC,Bundesliga,2015/2016,2015
+Genki Haraguchi,Left Winger,1991-05-09,24,Japan,Hertha BSC,Bundesliga,2015/2016,2015
+Sinan Kurt,Left Winger,1996-07-23,18,Germany,Hertha BSC,Bundesliga,2015/2016,2015
+Roy Beerens,Right Winger,1987-12-22,27,Netherlands,Hertha BSC,Bundesliga,2015/2016,2015
+Vedad Ibisevic,Centre-Forward,1984-08-06,30,Bosnia-Herzegovina,Hertha BSC,Bundesliga,2015/2016,2015
+Julian Schieber,Centre-Forward,1989-02-13,26,Germany,Hertha BSC,Bundesliga,2015/2016,2015
+Sami Allagui,Centre-Forward,1986-05-28,29,Tunisia,Hertha BSC,Bundesliga,2015/2016,2015
+Loris Karius,Goalkeeper,1993-06-22,22,Germany,1.FSV Mainz 05,Bundesliga,2015/2016,2015
+Gianluca Curci,Goalkeeper,1985-07-12,29,Italy,1.FSV Mainz 05,Bundesliga,2015/2016,2015
+Robin Zentner,Goalkeeper,1994-10-28,20,Germany,1.FSV Mainz 05,Bundesliga,2015/2016,2015
+Jannik Huth,Goalkeeper,1994-04-15,21,Germany,1.FSV Mainz 05,Bundesliga,2015/2016,2015
+Daniel Zeaiter,Goalkeeper,1995-03-30,20,Lebanon,1.FSV Mainz 05,Bundesliga,2015/2016,2015
+Stefan Bell,Centre-Back,1991-08-24,23,Germany,1.FSV Mainz 05,Bundesliga,2015/2016,2015
+Niko Bungert,Centre-Back,1986-10-24,28,Germany,1.FSV Mainz 05,Bundesliga,2015/2016,2015
+Gonzalo Jara,Centre-Back,1985-08-29,29,Chile,1.FSV Mainz 05,Bundesliga,2015/2016,2015
+Henrique Sereno,Centre-Back,1985-05-18,30,Portugal,1.FSV Mainz 05,Bundesliga,2015/2016,2015
+Leon Balogun,Centre-Back,1988-06-28,27,Nigeria,1.FSV Mainz 05,Bundesliga,2015/2016,2015
+Alexander Hack,Centre-Back,1993-09-08,21,Germany,1.FSV Mainz 05,Bundesliga,2015/2016,2015
+Ju-ho Park,Left-Back,1987-01-16,28,"Korea, South",1.FSV Mainz 05,Bundesliga,2015/2016,2015
+Gaëtan Bussmann,Left-Back,1991-02-02,24,France,1.FSV Mainz 05,Bundesliga,2015/2016,2015
+Pierre Bengtsson,Left-Back,1988-04-12,27,Sweden,1.FSV Mainz 05,Bundesliga,2015/2016,2015
+Giulio Donati,Right-Back,1990-02-05,25,Italy,1.FSV Mainz 05,Bundesliga,2015/2016,2015
+Daniel Brosinski,Right-Back,1988-07-17,26,Germany,1.FSV Mainz 05,Bundesliga,2015/2016,2015
+Fabian Frei,Defensive Midfield,1989-01-08,26,Switzerland,1.FSV Mainz 05,Bundesliga,2015/2016,2015
+Julian Baumgartlinger,Defensive Midfield,1988-01-02,27,Austria,1.FSV Mainz 05,Bundesliga,2015/2016,2015
+Niki Zimling,Defensive Midfield,1985-04-19,30,Denmark,1.FSV Mainz 05,Bundesliga,2015/2016,2015
+Ja-cheol Koo,Central Midfield,1989-02-27,26,"Korea, South",1.FSV Mainz 05,Bundesliga,2015/2016,2015
+Christoph Moritz,Central Midfield,1990-01-27,25,Germany,1.FSV Mainz 05,Bundesliga,2015/2016,2015
+Danny Latza,Central Midfield,1989-12-07,25,Germany,1.FSV Mainz 05,Bundesliga,2015/2016,2015
+Elkin Soto,Central Midfield,1980-08-04,34,Colombia,1.FSV Mainz 05,Bundesliga,2015/2016,2015
+Suat Serdar,Central Midfield,1997-04-11,18,Germany,1.FSV Mainz 05,Bundesliga,2015/2016,2015
+Yunus Malli,Attacking Midfield,1992-02-24,23,Turkey,1.FSV Mainz 05,Bundesliga,2015/2016,2015
+Patrick Pflücke,Attacking Midfield,1996-11-30,18,Germany,1.FSV Mainz 05,Bundesliga,2015/2016,2015
+Philipp Klement,Attacking Midfield,1992-09-09,22,Germany,1.FSV Mainz 05,Bundesliga,2015/2016,2015
+Jairo Samperio,Left Winger,1993-07-11,21,Spain,1.FSV Mainz 05,Bundesliga,2015/2016,2015
+Pablo de Blasis,Left Winger,1988-02-04,27,Argentina,1.FSV Mainz 05,Bundesliga,2015/2016,2015
+Todor Nedelev,Left Winger,1993-02-07,22,Bulgaria,1.FSV Mainz 05,Bundesliga,2015/2016,2015
+Karim Onisiwo,Left Winger,1992-03-17,23,Austria,1.FSV Mainz 05,Bundesliga,2015/2016,2015
+Julian-Maurice Derstroff,Left Winger,1992-01-05,23,Germany,1.FSV Mainz 05,Bundesliga,2015/2016,2015
+Maximilian Beister,Right Winger,1990-09-06,24,Germany,1.FSV Mainz 05,Bundesliga,2015/2016,2015
+Christian Clemens,Right Winger,1991-08-04,23,Germany,1.FSV Mainz 05,Bundesliga,2015/2016,2015
+Devante Parker,Right Winger,1996-03-16,19,Germany,1.FSV Mainz 05,Bundesliga,2015/2016,2015
+Jhon Córdoba,Centre-Forward,1993-05-11,22,Colombia,1.FSV Mainz 05,Bundesliga,2015/2016,2015
+Yoshinori Muto,Centre-Forward,1992-07-15,22,Japan,1.FSV Mainz 05,Bundesliga,2015/2016,2015
+Florian Niederlechner,Centre-Forward,1990-10-24,24,Germany,1.FSV Mainz 05,Bundesliga,2015/2016,2015
+Emil Berggreen,Centre-Forward,1993-05-10,22,Denmark,1.FSV Mainz 05,Bundesliga,2015/2016,2015
+Marwin Hitz,Goalkeeper,1987-09-18,27,Switzerland,FC Augsburg,Bundesliga,2015/2016,2015
+Alexander Manninger,Goalkeeper,1977-06-04,38,Austria,FC Augsburg,Bundesliga,2015/2016,2015
+Ioannis Gelios,Goalkeeper,1992-04-24,23,Greece,FC Augsburg,Bundesliga,2015/2016,2015
+Yannik Oettl,Goalkeeper,1996-11-19,18,Germany,FC Augsburg,Bundesliga,2015/2016,2015
+Ragnar Klavan,Centre-Back,1985-10-30,29,Estonia,FC Augsburg,Bundesliga,2015/2016,2015
+Jeffrey Gouweleeuw,Centre-Back,1991-07-10,23,Netherlands,FC Augsburg,Bundesliga,2015/2016,2015
+Jan-Ingwer Callsen-Bracker,Centre-Back,1984-09-23,30,Germany,FC Augsburg,Bundesliga,2015/2016,2015
+Jeong-ho Hong,Centre-Back,1989-08-12,25,"Korea, South",FC Augsburg,Bundesliga,2015/2016,2015
+Christoph Janker,Centre-Back,1985-02-14,30,Germany,FC Augsburg,Bundesliga,2015/2016,2015
+Max Reinthaler,Centre-Back,1995-03-22,20,Italy,FC Augsburg,Bundesliga,2015/2016,2015
+Abdul Rahman Baba,Left-Back,1994-07-02,20,Ghana,FC Augsburg,Bundesliga,2015/2016,2015
+Konstantinos Stafylidis,Left-Back,1993-12-02,21,Greece,FC Augsburg,Bundesliga,2015/2016,2015
+Philipp Max,Left-Back,1993-09-30,21,Germany,FC Augsburg,Bundesliga,2015/2016,2015
+Daniel Opare,Right-Back,1990-10-18,24,Ghana,FC Augsburg,Bundesliga,2015/2016,2015
+Paul Verhaegh,Right-Back,1983-09-01,31,Netherlands,FC Augsburg,Bundesliga,2015/2016,2015
+Raphael Framberger,Right-Back,1995-09-06,19,Germany,FC Augsburg,Bundesliga,2015/2016,2015
+Tim Rieder,Right-Back,1993-09-03,21,Germany,FC Augsburg,Bundesliga,2015/2016,2015
+Daniel Baier,Defensive Midfield,1984-05-18,31,Germany,FC Augsburg,Bundesliga,2015/2016,2015
+Marco Schuster,Defensive Midfield,1995-10-10,19,Germany,FC Augsburg,Bundesliga,2015/2016,2015
+Maik Uhde,Defensive Midfield,1994-05-23,21,Germany,FC Augsburg,Bundesliga,2015/2016,2015
+Ja-cheol Koo,Central Midfield,1989-02-27,26,"Korea, South",FC Augsburg,Bundesliga,2015/2016,2015
+Dominik Kohr,Central Midfield,1994-01-31,21,Germany,FC Augsburg,Bundesliga,2015/2016,2015
+Jan Morávek,Central Midfield,1989-11-01,25,Czech Republic,FC Augsburg,Bundesliga,2015/2016,2015
+Markus Feulner,Central Midfield,1982-02-12,33,Germany,FC Augsburg,Bundesliga,2015/2016,2015
+Arif Ekin,Central Midfield,1995-09-14,19,Germany,FC Augsburg,Bundesliga,2015/2016,2015
+Erik Thommy,Left Midfield,1994-08-20,20,Germany,FC Augsburg,Bundesliga,2015/2016,2015
+Halil Altintop,Attacking Midfield,1982-12-08,32,Turkey,FC Augsburg,Bundesliga,2015/2016,2015
+Piotr Trochowski,Attacking Midfield,1984-03-22,31,Germany,FC Augsburg,Bundesliga,2015/2016,2015
+Tobias Werner,Left Winger,1985-07-19,29,Germany,FC Augsburg,Bundesliga,2015/2016,2015
+Caiuby,Left Winger,1988-07-14,26,Brazil,FC Augsburg,Bundesliga,2015/2016,2015
+Bastian Kurz,Left Winger,1996-09-23,18,Germany,FC Augsburg,Bundesliga,2015/2016,2015
+Alexander Esswein,Right Winger,1990-03-25,25,Germany,FC Augsburg,Bundesliga,2015/2016,2015
+Alfred Finnbogason,Centre-Forward,1989-02-01,26,Iceland,FC Augsburg,Bundesliga,2015/2016,2015
+Tim Matavz,Centre-Forward,1989-01-13,26,Slovenia,FC Augsburg,Bundesliga,2015/2016,2015
+Raúl Bobadilla,Centre-Forward,1987-06-18,28,Paraguay,FC Augsburg,Bundesliga,2015/2016,2015
+Shawn Parker,Centre-Forward,1993-03-07,22,Germany,FC Augsburg,Bundesliga,2015/2016,2015
+Dong-won Ji,Centre-Forward,1991-05-28,24,"Korea, South",FC Augsburg,Bundesliga,2015/2016,2015
+Sascha Mölders,Centre-Forward,1985-03-20,30,Germany,FC Augsburg,Bundesliga,2015/2016,2015
+Albian Ajeti,Centre-Forward,1997-02-26,18,Switzerland,FC Augsburg,Bundesliga,2015/2016,2015
+Raphael Wolf,Goalkeeper,1988-06-06,27,Germany,SV Werder Bremen,Bundesliga,2015/2016,2015
+Felix Wiedwald,Goalkeeper,1990-03-15,25,Germany,SV Werder Bremen,Bundesliga,2015/2016,2015
+Gerhard Tremmel,Goalkeeper,1978-11-16,36,Germany,SV Werder Bremen,Bundesliga,2015/2016,2015
+Michael Zetterer,Goalkeeper,1995-07-12,19,Germany,SV Werder Bremen,Bundesliga,2015/2016,2015
+Eric Oelschlägel,Goalkeeper,1995-09-20,19,Germany,SV Werder Bremen,Bundesliga,2015/2016,2015
+Papy Djilobodji,Centre-Back,1988-12-01,26,Senegal,SV Werder Bremen,Bundesliga,2015/2016,2015
+Alejandro Gálvez,Centre-Back,1989-06-06,26,Spain,SV Werder Bremen,Bundesliga,2015/2016,2015
+Jannik Vestergaard,Centre-Back,1992-08-03,22,Denmark,SV Werder Bremen,Bundesliga,2015/2016,2015
+Assani Lukimya,Centre-Back,1986-01-25,29,DR Congo,SV Werder Bremen,Bundesliga,2015/2016,2015
+Mateo Pavlovic,Centre-Back,1990-06-09,25,Croatia,SV Werder Bremen,Bundesliga,2015/2016,2015
+Milos Veljkovic,Centre-Back,1995-09-26,19,Serbia,SV Werder Bremen,Bundesliga,2015/2016,2015
+Oliver Hüsing,Centre-Back,1993-02-17,22,Germany,SV Werder Bremen,Bundesliga,2015/2016,2015
+Santiago García,Left-Back,1988-07-08,26,Argentina,SV Werder Bremen,Bundesliga,2015/2016,2015
+Janek Sternberg,Left-Back,1992-10-19,22,Germany,SV Werder Bremen,Bundesliga,2015/2016,2015
+Ulisses Garcia,Left-Back,1996-01-11,19,Switzerland,SV Werder Bremen,Bundesliga,2015/2016,2015
+Leon Guwara,Left-Back,1996-06-28,19,Germany,SV Werder Bremen,Bundesliga,2015/2016,2015
+Theodor Gebre Selassie,Right-Back,1986-12-24,28,Czech Republic,SV Werder Bremen,Bundesliga,2015/2016,2015
+Marnon Busch,Right-Back,1994-12-08,20,Germany,SV Werder Bremen,Bundesliga,2015/2016,2015
+Luca Zander,Right-Back,1995-08-09,19,Germany,SV Werder Bremen,Bundesliga,2015/2016,2015
+Philipp Bargfrede,Defensive Midfield,1989-03-03,26,Germany,SV Werder Bremen,Bundesliga,2015/2016,2015
+Lukas Fröde,Defensive Midfield,1995-01-23,20,Germany,SV Werder Bremen,Bundesliga,2015/2016,2015
+Zlatko Junuzovic,Central Midfield,1987-09-26,27,Austria,SV Werder Bremen,Bundesliga,2015/2016,2015
+Felix Kroos,Central Midfield,1991-03-12,24,Germany,SV Werder Bremen,Bundesliga,2015/2016,2015
+Sambou Yatabaré,Central Midfield,1989-03-02,26,Mali,SV Werder Bremen,Bundesliga,2015/2016,2015
+Clemens Fritz,Central Midfield,1980-12-07,34,Germany,SV Werder Bremen,Bundesliga,2015/2016,2015
+Maximilian Eggestein,Central Midfield,1996-12-08,18,Germany,SV Werder Bremen,Bundesliga,2015/2016,2015
+Julian von Haacke,Central Midfield,1994-02-14,21,Germany,SV Werder Bremen,Bundesliga,2015/2016,2015
+Florian Grillitsch,Central Midfield,1995-08-07,19,Austria,SV Werder Bremen,Bundesliga,2015/2016,2015
+Levin Öztunali,Right Midfield,1996-03-15,19,Germany,SV Werder Bremen,Bundesliga,2015/2016,2015
+Levent Aycicek,Attacking Midfield,1994-02-14,21,Germany,SV Werder Bremen,Bundesliga,2015/2016,2015
+Özkan Yildirim,Attacking Midfield,1993-04-10,22,Germany,SV Werder Bremen,Bundesliga,2015/2016,2015
+László Kleinheisler,Attacking Midfield,1994-04-08,21,Hungary,SV Werder Bremen,Bundesliga,2015/2016,2015
+Melvyn Lorenzen,Left Winger,1994-11-26,20,Uganda,SV Werder Bremen,Bundesliga,2015/2016,2015
+Izet Hajrovic,Right Winger,1991-08-04,23,Bosnia-Herzegovina,SV Werder Bremen,Bundesliga,2015/2016,2015
+Marcel Hilßner,Right Winger,1995-01-30,20,Germany,SV Werder Bremen,Bundesliga,2015/2016,2015
+Fin Bartels,Second Striker,1987-02-07,28,Germany,SV Werder Bremen,Bundesliga,2015/2016,2015
+Aron Jóhannsson,Centre-Forward,1990-11-10,24,United States,SV Werder Bremen,Bundesliga,2015/2016,2015
+Anthony Ujah,Centre-Forward,1990-10-14,24,Nigeria,SV Werder Bremen,Bundesliga,2015/2016,2015
+Claudio Pizarro,Centre-Forward,1978-10-03,36,Peru,SV Werder Bremen,Bundesliga,2015/2016,2015
+Timo Horn,Goalkeeper,1993-05-12,22,Germany,1. FC Köln,Bundesliga,2015/2016,2015
+Thomas Kessler,Goalkeeper,1986-01-20,29,Germany,1. FC Köln,Bundesliga,2015/2016,2015
+Daniel Mesenhöler,Goalkeeper,1995-07-24,19,Germany,1. FC Köln,Bundesliga,2015/2016,2015
+Kevin Vogt,Centre-Back,1991-09-23,23,Germany,1. FC Köln,Bundesliga,2015/2016,2015
+Frederik Sörensen,Centre-Back,1992-04-14,23,Denmark,1. FC Köln,Bundesliga,2015/2016,2015
+Mërgim Mavraj,Centre-Back,1986-06-09,29,Albania,1. FC Köln,Bundesliga,2015/2016,2015
+Dominique Heintz,Centre-Back,1993-08-15,21,Germany,1. FC Köln,Bundesliga,2015/2016,2015
+Dominic Maroh,Centre-Back,1987-03-04,28,Slovenia,1. FC Köln,Bundesliga,2015/2016,2015
+Jonas Hector,Left-Back,1990-05-27,25,Germany,1. FC Köln,Bundesliga,2015/2016,2015
+Dusan Svento,Left-Back,1985-08-01,29,Slovakia,1. FC Köln,Bundesliga,2015/2016,2015
+Filip Mladenovic,Left-Back,1991-08-15,23,Serbia,1. FC Köln,Bundesliga,2015/2016,2015
+Pawel Olkowski,Right-Back,1990-02-13,25,Poland,1. FC Köln,Bundesliga,2015/2016,2015
+Lukas Klünter,Right-Back,1996-05-26,19,Germany,1. FC Köln,Bundesliga,2015/2016,2015
+Matthias Lehmann,Defensive Midfield,1983-05-28,32,Germany,1. FC Köln,Bundesliga,2015/2016,2015
+Yannick Gerhardt,Central Midfield,1994-03-13,21,Germany,1. FC Köln,Bundesliga,2015/2016,2015
+Milos Jojic,Central Midfield,1992-03-19,23,Serbia,1. FC Köln,Bundesliga,2015/2016,2015
+Marcel Risse,Right Midfield,1989-12-17,25,Germany,1. FC Köln,Bundesliga,2015/2016,2015
+Leonardo Bittencourt,Attacking Midfield,1993-12-19,21,Germany,1. FC Köln,Bundesliga,2015/2016,2015
+Kazuki Nagasawa,Attacking Midfield,1991-12-16,23,Japan,1. FC Köln,Bundesliga,2015/2016,2015
+Bard Finne,Left Winger,1995-02-13,20,Norway,1. FC Köln,Bundesliga,2015/2016,2015
+Marcel Hartel,Left Winger,1996-01-19,19,Germany,1. FC Köln,Bundesliga,2015/2016,2015
+Anthony Modeste,Centre-Forward,1988-04-14,27,France,1. FC Köln,Bundesliga,2015/2016,2015
+Simon Zoller,Centre-Forward,1991-06-26,24,Germany,1. FC Köln,Bundesliga,2015/2016,2015
+Yuya Osako,Centre-Forward,1990-05-18,25,Japan,1. FC Köln,Bundesliga,2015/2016,2015
+Philipp Hosiner,Centre-Forward,1989-05-15,26,Austria,1. FC Köln,Bundesliga,2015/2016,2015
+Örjan Nyland,Goalkeeper,1990-09-10,24,Norway,FC Ingolstadt 04,Bundesliga,2015/2016,2015
+Ramazan Özcan,Goalkeeper,1984-06-28,31,Austria,FC Ingolstadt 04,Bundesliga,2015/2016,2015
+Christian Ortag,Goalkeeper,1995-01-14,20,Germany,FC Ingolstadt 04,Bundesliga,2015/2016,2015
+Benjamin Hübner,Centre-Back,1989-07-04,25,Germany,FC Ingolstadt 04,Bundesliga,2015/2016,2015
+Marvin Matip,Centre-Back,1985-09-25,29,Cameroon,FC Ingolstadt 04,Bundesliga,2015/2016,2015
+Romain Brégerie,Centre-Back,1986-08-09,28,France,FC Ingolstadt 04,Bundesliga,2015/2016,2015
+Thomas Blomeyer,Centre-Back,1996-04-24,19,Germany,FC Ingolstadt 04,Bundesliga,2015/2016,2015
+Danilo Soares,Left-Back,1991-10-29,23,Brazil,FC Ingolstadt 04,Bundesliga,2015/2016,2015
+Markus Suttner,Left-Back,1987-04-16,28,Austria,FC Ingolstadt 04,Bundesliga,2015/2016,2015
+Danny da Costa,Right-Back,1993-07-13,21,Germany,FC Ingolstadt 04,Bundesliga,2015/2016,2015
+Tobias Levels,Right-Back,1986-11-22,28,Germany,FC Ingolstadt 04,Bundesliga,2015/2016,2015
+Konstantin Engel,Right-Back,1988-07-27,26,Kazakhstan,FC Ingolstadt 04,Bundesliga,2015/2016,2015
+Robert Bauer,Right-Back,1995-04-09,20,Germany,FC Ingolstadt 04,Bundesliga,2015/2016,2015
+Roger,Defensive Midfield,1985-08-10,29,Brazil,FC Ingolstadt 04,Bundesliga,2015/2016,2015
+Max Christiansen,Defensive Midfield,1996-09-25,18,Germany,FC Ingolstadt 04,Bundesliga,2015/2016,2015
+Stefan Wannenwetsch,Defensive Midfield,1992-01-19,23,Germany,FC Ingolstadt 04,Bundesliga,2015/2016,2015
+Alfredo Morales,Central Midfield,1990-05-12,25,United States,FC Ingolstadt 04,Bundesliga,2015/2016,2015
+Almog Cohen,Central Midfield,1988-09-01,26,Israel,FC Ingolstadt 04,Bundesliga,2015/2016,2015
+Maurice Multhaup,Central Midfield,1996-12-15,18,Germany,FC Ingolstadt 04,Bundesliga,2015/2016,2015
+Pascal Groß,Attacking Midfield,1991-06-15,24,Germany,FC Ingolstadt 04,Bundesliga,2015/2016,2015
+Aloy Ihenacho,Left Winger,1995-07-21,19,Germany,FC Ingolstadt 04,Bundesliga,2015/2016,2015
+Elias Kachunga,Right Winger,1992-04-22,23,DR Congo,FC Ingolstadt 04,Bundesliga,2015/2016,2015
+Mathew Leckie,Right Winger,1991-02-04,24,Australia,FC Ingolstadt 04,Bundesliga,2015/2016,2015
+Stefan Lex,Right Winger,1989-11-27,25,Germany,FC Ingolstadt 04,Bundesliga,2015/2016,2015
+Thomas Pledl,Right Winger,1994-05-23,21,Germany,FC Ingolstadt 04,Bundesliga,2015/2016,2015
+Darío Lezcano,Centre-Forward,1990-06-30,25,Paraguay,FC Ingolstadt 04,Bundesliga,2015/2016,2015
+Lukas Hinterseer,Centre-Forward,1991-03-28,24,Austria,FC Ingolstadt 04,Bundesliga,2015/2016,2015
+Moritz Hartmann,Centre-Forward,1986-06-20,29,Germany,FC Ingolstadt 04,Bundesliga,2015/2016,2015
+Tomas Pekhart,Centre-Forward,1989-05-26,26,Czech Republic,FC Ingolstadt 04,Bundesliga,2015/2016,2015
+Christian Mathenia,Goalkeeper,1992-03-31,23,Germany,SV Darmstadt 98,Bundesliga,2015/2016,2015
+Lukasz Zaluska,Goalkeeper,1982-06-16,33,Poland,SV Darmstadt 98,Bundesliga,2015/2016,2015
+Patrick Platins,Goalkeeper,1983-04-19,32,Germany,SV Darmstadt 98,Bundesliga,2015/2016,2015
+Luca Caldirola,Centre-Back,1991-02-01,24,Italy,SV Darmstadt 98,Bundesliga,2015/2016,2015
+Slobodan Rajkovic,Centre-Back,1989-02-03,26,Serbia,SV Darmstadt 98,Bundesliga,2015/2016,2015
+Aytac Sulu,Centre-Back,1985-12-11,29,Turkey,SV Darmstadt 98,Bundesliga,2015/2016,2015
+Benjamin Gorka,Centre-Back,1984-04-15,31,Germany,SV Darmstadt 98,Bundesliga,2015/2016,2015
+Noel Wembacher,Centre-Back,NA,18,Germany,SV Darmstadt 98,Bundesliga,2015/2016,2015
+Konstantin Rausch,Left-Back,1990-03-15,25,Russia,SV Darmstadt 98,Bundesliga,2015/2016,2015
+Júnior Díaz,Left-Back,1983-09-12,31,Costa Rica,SV Darmstadt 98,Bundesliga,2015/2016,2015
+Fabian Holland,Left-Back,1990-07-11,24,Germany,SV Darmstadt 98,Bundesliga,2015/2016,2015
+Michael Stegmayer,Left-Back,1985-01-12,30,Germany,SV Darmstadt 98,Bundesliga,2015/2016,2015
+György Garics,Right-Back,1984-03-08,31,Austria,SV Darmstadt 98,Bundesliga,2015/2016,2015
+Sandro Sirigu,Right-Back,1988-10-07,26,Germany,SV Darmstadt 98,Bundesliga,2015/2016,2015
+Florian Jungwirth,Defensive Midfield,1989-01-27,26,Germany,SV Darmstadt 98,Bundesliga,2015/2016,2015
+Peter Niemeyer,Defensive Midfield,1983-11-22,31,Germany,SV Darmstadt 98,Bundesliga,2015/2016,2015
+Yannick Stark,Defensive Midfield,1990-10-28,24,Germany,SV Darmstadt 98,Bundesliga,2015/2016,2015
+Jan Finger,Defensive Midfield,NA,18,Germany,SV Darmstadt 98,Bundesliga,2015/2016,2015
+Mario Vrancic,Central Midfield,1989-05-23,26,Bosnia-Herzegovina,SV Darmstadt 98,Bundesliga,2015/2016,2015
+Tobias Kempe,Central Midfield,1989-06-27,26,Germany,SV Darmstadt 98,Bundesliga,2015/2016,2015
+Jérôme Gondorf,Central Midfield,1988-06-26,27,Germany,SV Darmstadt 98,Bundesliga,2015/2016,2015
+Marcel Heller,Right Midfield,1986-02-12,29,Germany,SV Darmstadt 98,Bundesliga,2015/2016,2015
+Milan Ivana,Right Midfield,1983-11-26,31,Slovakia,SV Darmstadt 98,Bundesliga,2015/2016,2015
+Nick Volk,Right Midfield,NA,17,Germany,SV Darmstadt 98,Bundesliga,2015/2016,2015
+Ali Kazimi,Left Winger,NA,18,Germany,SV Darmstadt 98,Bundesliga,2015/2016,2015
+Jan Rosenthal,Second Striker,1986-04-07,29,Germany,SV Darmstadt 98,Bundesliga,2015/2016,2015
+Marco Sailer,Second Striker,1985-11-16,29,Germany,SV Darmstadt 98,Bundesliga,2015/2016,2015
+Dominik Stroh-Engel,Centre-Forward,1985-11-27,29,Germany,SV Darmstadt 98,Bundesliga,2015/2016,2015
+Sandro Wagner,Centre-Forward,1987-11-29,27,Germany,SV Darmstadt 98,Bundesliga,2015/2016,2015
+Felix Platte,Centre-Forward,1996-02-11,19,Germany,SV Darmstadt 98,Bundesliga,2015/2016,2015

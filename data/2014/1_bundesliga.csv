@@ -1,0 +1,575 @@
+player_name,position,date_of_birth,age,nationality,club_name,league_name,season,year
+Manuel Neuer,Goalkeeper,1986-03-27,28,Germany,Bayern Munich,Bundesliga,2014/2015,2014
+Pepe Reina,Goalkeeper,1982-08-31,31,Spain,Bayern Munich,Bundesliga,2014/2015,2014
+Tom Starke,Goalkeeper,1981-03-18,33,Germany,Bayern Munich,Bundesliga,2014/2015,2014
+Leopold Zingerle,Goalkeeper,1994-04-10,20,Germany,Bayern Munich,Bundesliga,2014/2015,2014
+Ivan Lucic,Goalkeeper,1995-03-23,19,Austria,Bayern Munich,Bundesliga,2014/2015,2014
+Jérôme Boateng,Centre-Back,1988-09-03,25,Germany,Bayern Munich,Bundesliga,2014/2015,2014
+Medhi Benatia,Centre-Back,1987-04-17,27,Morocco,Bayern Munich,Bundesliga,2014/2015,2014
+Dante,Centre-Back,1983-10-18,30,Brazil,Bayern Munich,Bundesliga,2014/2015,2014
+Holger Badstuber,Centre-Back,1989-03-13,25,Germany,Bayern Munich,Bundesliga,2014/2015,2014
+David Alaba,Left-Back,1992-06-24,22,Austria,Bayern Munich,Bundesliga,2014/2015,2014
+Juan Bernat,Left-Back,1993-03-01,21,Spain,Bayern Munich,Bundesliga,2014/2015,2014
+Philipp Lahm,Right-Back,1983-11-11,30,Germany,Bayern Munich,Bundesliga,2014/2015,2014
+Rafinha,Right-Back,1985-09-07,28,Brazil,Bayern Munich,Bundesliga,2014/2015,2014
+Mitchell Weiser,Right-Back,1994-04-21,20,Germany,Bayern Munich,Bundesliga,2014/2015,2014
+Javi Martínez,Defensive Midfield,1988-09-02,25,Spain,Bayern Munich,Bundesliga,2014/2015,2014
+Xabi Alonso,Defensive Midfield,1981-11-25,32,Spain,Bayern Munich,Bundesliga,2014/2015,2014
+Rico Strieder,Defensive Midfield,1992-07-06,21,Germany,Bayern Munich,Bundesliga,2014/2015,2014
+Bastian Schweinsteiger,Central Midfield,1984-08-01,29,Germany,Bayern Munich,Bundesliga,2014/2015,2014
+Thiago,Central Midfield,1991-04-11,23,Spain,Bayern Munich,Bundesliga,2014/2015,2014
+Sebastian Rode,Central Midfield,1990-10-11,23,Germany,Bayern Munich,Bundesliga,2014/2015,2014
+Pierre-Emile Höjbjerg,Central Midfield,1995-08-05,18,Denmark,Bayern Munich,Bundesliga,2014/2015,2014
+Lukas Görtler,Central Midfield,1994-06-15,20,Germany,Bayern Munich,Bundesliga,2014/2015,2014
+Gianluca Gaudino,Central Midfield,1996-11-11,17,Germany,Bayern Munich,Bundesliga,2014/2015,2014
+Mario Götze,Attacking Midfield,1992-06-03,22,Germany,Bayern Munich,Bundesliga,2014/2015,2014
+Julian Green,Attacking Midfield,1995-06-06,19,United States,Bayern Munich,Bundesliga,2014/2015,2014
+Lucas Scholl,Attacking Midfield,1996-07-05,17,Germany,Bayern Munich,Bundesliga,2014/2015,2014
+Franck Ribéry,Left Winger,1983-04-07,31,France,Bayern Munich,Bundesliga,2014/2015,2014
+Sinan Kurt,Left Winger,1996-07-23,17,Germany,Bayern Munich,Bundesliga,2014/2015,2014
+Arjen Robben,Right Winger,1984-01-23,30,Netherlands,Bayern Munich,Bundesliga,2014/2015,2014
+Xherdan Shaqiri,Right Winger,1991-10-10,22,Switzerland,Bayern Munich,Bundesliga,2014/2015,2014
+Thomas Müller,Second Striker,1989-09-13,24,Germany,Bayern Munich,Bundesliga,2014/2015,2014
+Robert Lewandowski,Centre-Forward,1988-08-21,25,Poland,Bayern Munich,Bundesliga,2014/2015,2014
+Claudio Pizarro,Centre-Forward,1978-10-03,35,Peru,Bayern Munich,Bundesliga,2014/2015,2014
+Roman Weidenfeller,Goalkeeper,1980-08-06,33,Germany,Borussia Dortmund,Bundesliga,2014/2015,2014
+Mitchell Langerak,Goalkeeper,1988-08-22,25,Australia,Borussia Dortmund,Bundesliga,2014/2015,2014
+Zlatan Alomerovic,Goalkeeper,1991-06-15,23,Serbia,Borussia Dortmund,Bundesliga,2014/2015,2014
+Hendrik Bonmann,Goalkeeper,1994-01-22,20,Germany,Borussia Dortmund,Bundesliga,2014/2015,2014
+Dominik Reimann,Goalkeeper,1997-06-18,17,Germany,Borussia Dortmund,Bundesliga,2014/2015,2014
+Mats Hummels,Centre-Back,1988-12-16,25,Germany,Borussia Dortmund,Bundesliga,2014/2015,2014
+Neven Subotic,Centre-Back,1988-12-10,25,Serbia,Borussia Dortmund,Bundesliga,2014/2015,2014
+Sven Bender,Centre-Back,1989-04-27,25,Germany,Borussia Dortmund,Bundesliga,2014/2015,2014
+Sokratis,Centre-Back,1988-06-09,26,Greece,Borussia Dortmund,Bundesliga,2014/2015,2014
+Matthias Ginter,Centre-Back,1994-01-19,20,Germany,Borussia Dortmund,Bundesliga,2014/2015,2014
+Marian Sarr,Centre-Back,1995-01-30,19,Germany,Borussia Dortmund,Bundesliga,2014/2015,2014
+Marc Hornschuh,Centre-Back,1991-03-02,23,Germany,Borussia Dortmund,Bundesliga,2014/2015,2014
+Jon Gorenc-Stankovic,Centre-Back,1996-01-14,18,Slovenia,Borussia Dortmund,Bundesliga,2014/2015,2014
+Marcel Schmelzer,Left-Back,1988-01-22,26,Germany,Borussia Dortmund,Bundesliga,2014/2015,2014
+Erik Durm,Left-Back,1992-05-12,22,Germany,Borussia Dortmund,Bundesliga,2014/2015,2014
+Jannik Bandowski,Left-Back,1994-03-30,20,Germany,Borussia Dortmund,Bundesliga,2014/2015,2014
+Lukasz Piszczek,Right-Back,1985-06-03,29,Poland,Borussia Dortmund,Bundesliga,2014/2015,2014
+Kevin Großkreutz,Right-Back,1988-07-19,25,Germany,Borussia Dortmund,Bundesliga,2014/2015,2014
+Jeremy Dudziak,Right-Back,1995-08-28,18,Germany,Borussia Dortmund,Bundesliga,2014/2015,2014
+Nuri Sahin,Defensive Midfield,1988-09-05,25,Turkey,Borussia Dortmund,Bundesliga,2014/2015,2014
+Sebastian Kehl,Defensive Midfield,1980-02-13,34,Germany,Borussia Dortmund,Bundesliga,2014/2015,2014
+Oliver Kirch,Defensive Midfield,1982-08-21,31,Germany,Borussia Dortmund,Bundesliga,2014/2015,2014
+Ilkay Gündogan,Central Midfield,1990-10-24,23,Germany,Borussia Dortmund,Bundesliga,2014/2015,2014
+Kevin Kampl,Central Midfield,1990-10-09,23,Slovenia,Borussia Dortmund,Bundesliga,2014/2015,2014
+Jonas Hofmann,Central Midfield,1992-07-14,21,Germany,Borussia Dortmund,Bundesliga,2014/2015,2014
+Milos Jojic,Central Midfield,1992-03-19,22,Serbia,Borussia Dortmund,Bundesliga,2014/2015,2014
+Mustafa Amini,Central Midfield,1993-04-20,21,Australia,Borussia Dortmund,Bundesliga,2014/2015,2014
+Marco Reus,Attacking Midfield,1989-05-31,25,Germany,Borussia Dortmund,Bundesliga,2014/2015,2014
+Henrikh Mkhitaryan,Attacking Midfield,1989-01-21,25,Armenia,Borussia Dortmund,Bundesliga,2014/2015,2014
+Shinji Kagawa,Attacking Midfield,1989-03-17,25,Japan,Borussia Dortmund,Bundesliga,2014/2015,2014
+Mitsuru Maruoka,Left Winger,1996-01-06,18,Japan,Borussia Dortmund,Bundesliga,2014/2015,2014
+Joseph-Claude Gyau,Left Winger,1992-09-16,21,United States,Borussia Dortmund,Bundesliga,2014/2015,2014
+Jakub Blaszczykowski,Right Winger,1985-12-14,28,Poland,Borussia Dortmund,Bundesliga,2014/2015,2014
+Khaled Narey,Right Winger,1994-07-23,19,Germany,Borussia Dortmund,Bundesliga,2014/2015,2014
+Pierre-Emerick Aubameyang,Centre-Forward,1989-06-18,25,Gabon,Borussia Dortmund,Bundesliga,2014/2015,2014
+Ciro Immobile,Centre-Forward,1990-02-20,24,Italy,Borussia Dortmund,Bundesliga,2014/2015,2014
+Adrián Ramos,Centre-Forward,1986-01-22,28,Colombia,Borussia Dortmund,Bundesliga,2014/2015,2014
+Fabian Giefer,Goalkeeper,1990-05-17,24,Germany,FC Schalke 04,Bundesliga,2014/2015,2014
+Ralf Fährmann,Goalkeeper,1988-09-27,25,Germany,FC Schalke 04,Bundesliga,2014/2015,2014
+Christian Wetklo,Goalkeeper,1980-01-11,34,Germany,FC Schalke 04,Bundesliga,2014/2015,2014
+Timon Wellenreuther,Goalkeeper,1995-12-03,18,Germany,FC Schalke 04,Bundesliga,2014/2015,2014
+Matija Nastasic,Centre-Back,1993-03-28,21,Serbia,FC Schalke 04,Bundesliga,2014/2015,2014
+Benedikt Höwedes,Centre-Back,1988-02-29,26,Germany,FC Schalke 04,Bundesliga,2014/2015,2014
+Joel Matip,Centre-Back,1991-08-08,22,Cameroon,FC Schalke 04,Bundesliga,2014/2015,2014
+Roman Neustädter,Centre-Back,1988-02-18,26,Russia,FC Schalke 04,Bundesliga,2014/2015,2014
+Felipe Santana,Centre-Back,1986-03-17,28,Brazil,FC Schalke 04,Bundesliga,2014/2015,2014
+Kaan Ayhan,Centre-Back,1994-11-10,19,Turkey,FC Schalke 04,Bundesliga,2014/2015,2014
+Marvin Friedrich,Centre-Back,1995-12-13,18,Germany,FC Schalke 04,Bundesliga,2014/2015,2014
+Thilo Kehrer,Centre-Back,1996-09-21,17,Germany,FC Schalke 04,Bundesliga,2014/2015,2014
+Sead Kolasinac,Left-Back,1993-06-20,21,Bosnia-Herzegovina,FC Schalke 04,Bundesliga,2014/2015,2014
+Christian Fuchs,Left-Back,1986-04-07,28,Austria,FC Schalke 04,Bundesliga,2014/2015,2014
+Axel Borgmann,Left-Back,1994-07-08,19,Germany,FC Schalke 04,Bundesliga,2014/2015,2014
+Atsuto Uchida,Right-Back,1988-03-27,26,Japan,FC Schalke 04,Bundesliga,2014/2015,2014
+Pascal Itter,Right-Back,1995-04-03,19,Germany,FC Schalke 04,Bundesliga,2014/2015,2014
+Dennis Aogo,Defensive Midfield,1987-01-14,27,Germany,FC Schalke 04,Bundesliga,2014/2015,2014
+Marco Höger,Defensive Midfield,1989-09-16,24,Germany,FC Schalke 04,Bundesliga,2014/2015,2014
+Jan Kirchhoff,Defensive Midfield,1990-10-01,23,Germany,FC Schalke 04,Bundesliga,2014/2015,2014
+Marcel Sobottka,Defensive Midfield,1994-04-25,20,Germany,FC Schalke 04,Bundesliga,2014/2015,2014
+Leon Goretzka,Central Midfield,1995-02-06,19,Germany,FC Schalke 04,Bundesliga,2014/2015,2014
+Maurice Multhaup,Central Midfield,1996-12-15,17,Germany,FC Schalke 04,Bundesliga,2014/2015,2014
+Julian Draxler,Attacking Midfield,1993-09-20,20,Germany,FC Schalke 04,Bundesliga,2014/2015,2014
+Max Meyer,Attacking Midfield,1995-09-18,18,Germany,FC Schalke 04,Bundesliga,2014/2015,2014
+Tranquillo Barnetta,Attacking Midfield,1985-05-22,29,Switzerland,FC Schalke 04,Bundesliga,2014/2015,2014
+Donis Avdijaj,Left Winger,1996-08-25,17,Kosovo,FC Schalke 04,Bundesliga,2014/2015,2014
+Leroy Sané,Left Winger,1996-01-11,18,Germany,FC Schalke 04,Bundesliga,2014/2015,2014
+Jefferson Farfán,Right Winger,1984-10-26,29,Peru,FC Schalke 04,Bundesliga,2014/2015,2014
+Sidney Sam,Right Winger,1988-01-31,26,Germany,FC Schalke 04,Bundesliga,2014/2015,2014
+Christian Clemens,Right Winger,1991-08-04,22,Germany,FC Schalke 04,Bundesliga,2014/2015,2014
+Chinedu Obasi,Right Winger,1986-06-01,28,Nigeria,FC Schalke 04,Bundesliga,2014/2015,2014
+Kevin-Prince Boateng,Centre-Forward,1987-03-06,27,Ghana,FC Schalke 04,Bundesliga,2014/2015,2014
+Klaas-Jan Huntelaar,Centre-Forward,1983-08-12,30,Netherlands,FC Schalke 04,Bundesliga,2014/2015,2014
+Eric Maxim Choupo-Moting,Centre-Forward,1989-03-23,25,Cameroon,FC Schalke 04,Bundesliga,2014/2015,2014
+Felix Platte,Centre-Forward,1996-02-11,18,Germany,FC Schalke 04,Bundesliga,2014/2015,2014
+Diego Benaglio,Goalkeeper,1983-09-08,30,Switzerland,VfL Wolfsburg,Bundesliga,2014/2015,2014
+Max Grün,Goalkeeper,1987-04-05,27,Germany,VfL Wolfsburg,Bundesliga,2014/2015,2014
+Patrick Drewes,Goalkeeper,1993-02-04,21,Germany,VfL Wolfsburg,Bundesliga,2014/2015,2014
+Robin Knoche,Centre-Back,1992-05-22,22,Germany,VfL Wolfsburg,Bundesliga,2014/2015,2014
+Naldo,Centre-Back,1982-09-10,31,Brazil,VfL Wolfsburg,Bundesliga,2014/2015,2014
+Timm Klose,Centre-Back,1988-05-09,26,Switzerland,VfL Wolfsburg,Bundesliga,2014/2015,2014
+Felipe Lopes,Centre-Back,1987-08-07,26,Brazil,VfL Wolfsburg,Bundesliga,2014/2015,2014
+Moritz Sprenger,Centre-Back,1995-02-22,19,Germany,VfL Wolfsburg,Bundesliga,2014/2015,2014
+Ricardo Rodríguez,Left-Back,1992-08-25,21,Switzerland,VfL Wolfsburg,Bundesliga,2014/2015,2014
+Vieirinha,Left-Back,1986-01-24,28,Portugal,VfL Wolfsburg,Bundesliga,2014/2015,2014
+Marcel Schäfer,Left-Back,1984-06-07,30,Germany,VfL Wolfsburg,Bundesliga,2014/2015,2014
+Sebastian Jung,Right-Back,1990-06-22,24,Germany,VfL Wolfsburg,Bundesliga,2014/2015,2014
+Patrick Ochs,Right-Back,1984-05-14,30,Germany,VfL Wolfsburg,Bundesliga,2014/2015,2014
+Luiz Gustavo,Defensive Midfield,1987-07-23,26,Brazil,VfL Wolfsburg,Bundesliga,2014/2015,2014
+Josuha Guilavogui,Defensive Midfield,1990-09-19,23,France,VfL Wolfsburg,Bundesliga,2014/2015,2014
+Junior Malanda,Defensive Midfield,1994-08-28,NA,Belgium,VfL Wolfsburg,Bundesliga,2014/2015,2014
+Christian Träsch,Defensive Midfield,1987-09-01,26,Germany,VfL Wolfsburg,Bundesliga,2014/2015,2014
+Slobodan Medojevic,Defensive Midfield,1990-10-20,23,Serbia,VfL Wolfsburg,Bundesliga,2014/2015,2014
+Paul Seguin,Defensive Midfield,1995-03-29,19,Germany,VfL Wolfsburg,Bundesliga,2014/2015,2014
+Maximilian Arnold,Central Midfield,1994-05-27,20,Germany,VfL Wolfsburg,Bundesliga,2014/2015,2014
+Mateusz Klich,Central Midfield,1990-06-13,24,Poland,VfL Wolfsburg,Bundesliga,2014/2015,2014
+Daniel Caligiuri,Right Midfield,1988-01-15,26,Italy,VfL Wolfsburg,Bundesliga,2014/2015,2014
+Xizhe Zhang,Left Midfield,1991-01-23,23,China,VfL Wolfsburg,Bundesliga,2014/2015,2014
+Kevin De Bruyne,Attacking Midfield,1991-06-28,23,Belgium,VfL Wolfsburg,Bundesliga,2014/2015,2014
+Aaron Hunt,Attacking Midfield,1986-09-04,27,Germany,VfL Wolfsburg,Bundesliga,2014/2015,2014
+André Schürrle,Left Winger,1990-11-06,23,Germany,VfL Wolfsburg,Bundesliga,2014/2015,2014
+Ivan Perisic,Left Winger,1989-02-02,25,Croatia,VfL Wolfsburg,Bundesliga,2014/2015,2014
+Bas Dost,Centre-Forward,1989-05-31,25,Netherlands,VfL Wolfsburg,Bundesliga,2014/2015,2014
+Nicklas Bendtner,Centre-Forward,1988-01-16,26,Denmark,VfL Wolfsburg,Bundesliga,2014/2015,2014
+Ivica Olic,Centre-Forward,1979-09-14,34,Croatia,VfL Wolfsburg,Bundesliga,2014/2015,2014
+Bernd Leno,Goalkeeper,1992-03-04,22,Germany,Bayer 04 Leverkusen,Bundesliga,2014/2015,2014
+Dario Kresic,Goalkeeper,1984-01-11,30,Croatia,Bayer 04 Leverkusen,Bundesliga,2014/2015,2014
+David Yelldell,Goalkeeper,1981-10-01,32,United States,Bayer 04 Leverkusen,Bundesliga,2014/2015,2014
+Ömer Toprak,Centre-Back,1989-07-21,24,Turkey,Bayer 04 Leverkusen,Bundesliga,2014/2015,2014
+Kyriakos Papadopoulos,Centre-Back,1992-02-23,22,Greece,Bayer 04 Leverkusen,Bundesliga,2014/2015,2014
+Tin Jedvaj,Centre-Back,1995-11-28,18,Croatia,Bayer 04 Leverkusen,Bundesliga,2014/2015,2014
+Emir Spahic,Centre-Back,1980-08-18,33,Bosnia-Herzegovina,Bayer 04 Leverkusen,Bundesliga,2014/2015,2014
+Sebastian Boenisch,Left-Back,1987-02-01,27,Poland,Bayer 04 Leverkusen,Bundesliga,2014/2015,2014
+Wendell,Left-Back,1993-07-20,20,Brazil,Bayer 04 Leverkusen,Bundesliga,2014/2015,2014
+Giulio Donati,Right-Back,1990-02-05,24,Italy,Bayer 04 Leverkusen,Bundesliga,2014/2015,2014
+Roberto Hilbert,Right-Back,1984-10-16,29,Germany,Bayer 04 Leverkusen,Bundesliga,2014/2015,2014
+Lukas Boeder,Right-Back,1997-04-18,17,Germany,Bayer 04 Leverkusen,Bundesliga,2014/2015,2014
+Lars Bender,Defensive Midfield,1989-04-27,25,Germany,Bayer 04 Leverkusen,Bundesliga,2014/2015,2014
+Stefan Reinartz,Defensive Midfield,1989-01-01,25,Germany,Bayer 04 Leverkusen,Bundesliga,2014/2015,2014
+Simon Rolfes,Defensive Midfield,1982-01-21,32,Germany,Bayer 04 Leverkusen,Bundesliga,2014/2015,2014
+Marlon Frey,Defensive Midfield,1996-03-24,18,Germany,Bayer 04 Leverkusen,Bundesliga,2014/2015,2014
+Gonzalo Castro,Central Midfield,1987-06-11,27,Germany,Bayer 04 Leverkusen,Bundesliga,2014/2015,2014
+Levin Öztunali,Right Midfield,1996-03-15,18,Germany,Bayer 04 Leverkusen,Bundesliga,2014/2015,2014
+Vladlen Yurchenko,Attacking Midfield,1994-01-22,20,Ukraine,Bayer 04 Leverkusen,Bundesliga,2014/2015,2014
+Heung-min Son,Left Winger,1992-07-08,21,"Korea, South",Bayer 04 Leverkusen,Bundesliga,2014/2015,2014
+Hakan Calhanoglu,Left Winger,1994-02-08,20,Turkey,Bayer 04 Leverkusen,Bundesliga,2014/2015,2014
+Robbie Kruse,Left Winger,1988-10-05,25,Australia,Bayer 04 Leverkusen,Bundesliga,2014/2015,2014
+Julian Brandt,Left Winger,1996-05-02,18,Germany,Bayer 04 Leverkusen,Bundesliga,2014/2015,2014
+Karim Bellarabi,Right Winger,1990-04-08,24,Germany,Bayer 04 Leverkusen,Bundesliga,2014/2015,2014
+Stefan Kießling,Centre-Forward,1984-01-25,30,Germany,Bayer 04 Leverkusen,Bundesliga,2014/2015,2014
+Josip Drmic,Centre-Forward,1992-08-08,21,Switzerland,Bayer 04 Leverkusen,Bundesliga,2014/2015,2014
+René Adler,Goalkeeper,1985-01-15,29,Germany,Hamburger SV,Bundesliga,2014/2015,2014
+Jaroslav Drobny,Goalkeeper,1979-10-18,34,Czech Republic,Hamburger SV,Bundesliga,2014/2015,2014
+Alexander Brunst,Goalkeeper,1995-07-07,18,Germany,Hamburger SV,Bundesliga,2014/2015,2014
+Jonathan Tah,Centre-Back,1996-02-11,18,Germany,Hamburger SV,Bundesliga,2014/2015,2014
+Heiko Westermann,Centre-Back,1983-08-14,30,Germany,Hamburger SV,Bundesliga,2014/2015,2014
+Johan Djourou,Centre-Back,1987-01-18,27,Switzerland,Hamburger SV,Bundesliga,2014/2015,2014
+Cléber Reis,Centre-Back,1990-12-05,23,Brazil,Hamburger SV,Bundesliga,2014/2015,2014
+Slobodan Rajkovic,Centre-Back,1989-02-03,25,Serbia,Hamburger SV,Bundesliga,2014/2015,2014
+Gideon Jung,Centre-Back,1994-09-12,19,Germany,Hamburger SV,Bundesliga,2014/2015,2014
+Marcell Jansen,Left-Back,1985-11-04,28,Germany,Hamburger SV,Bundesliga,2014/2015,2014
+Matthias Ostrzolek,Left-Back,1990-06-05,24,Germany,Hamburger SV,Bundesliga,2014/2015,2014
+Ronny Marcos,Left-Back,1993-10-01,20,Mozambique,Hamburger SV,Bundesliga,2014/2015,2014
+Dennis Diekmeier,Right-Back,1989-10-20,24,Germany,Hamburger SV,Bundesliga,2014/2015,2014
+Ashton Götz,Right-Back,1993-07-16,20,Germany,Hamburger SV,Bundesliga,2014/2015,2014
+Valon Behrami,Defensive Midfield,1985-04-19,29,Switzerland,Hamburger SV,Bundesliga,2014/2015,2014
+Milan Badelj,Defensive Midfield,1989-02-25,25,Croatia,Hamburger SV,Bundesliga,2014/2015,2014
+Marcelo Díaz,Defensive Midfield,1986-12-30,27,Chile,Hamburger SV,Bundesliga,2014/2015,2014
+Gojko Kacar,Defensive Midfield,1987-01-26,27,Serbia,Hamburger SV,Bundesliga,2014/2015,2014
+Matti Steinmann,Defensive Midfield,1995-01-08,19,Germany,Hamburger SV,Bundesliga,2014/2015,2014
+Sven Mende,Defensive Midfield,1994-01-18,20,Germany,Hamburger SV,Bundesliga,2014/2015,2014
+Per Ciljan Skjelbred,Central Midfield,1987-06-16,27,Norway,Hamburger SV,Bundesliga,2014/2015,2014
+Tolgay Arslan,Central Midfield,1990-08-16,23,Germany,Hamburger SV,Bundesliga,2014/2015,2014
+Petr Jiracek,Central Midfield,1986-03-02,28,Czech Republic,Hamburger SV,Bundesliga,2014/2015,2014
+Lewis Holtby,Attacking Midfield,1990-09-18,23,Germany,Hamburger SV,Bundesliga,2014/2015,2014
+Rafael van der Vaart,Attacking Midfield,1983-02-11,31,Netherlands,Hamburger SV,Bundesliga,2014/2015,2014
+Julian Green,Attacking Midfield,1995-06-06,19,United States,Hamburger SV,Bundesliga,2014/2015,2014
+Mohamed Gouaida,Attacking Midfield,1993-05-15,21,Tunisia,Hamburger SV,Bundesliga,2014/2015,2014
+Tolcay Cigerci,Attacking Midfield,1995-01-24,19,Turkey,Hamburger SV,Bundesliga,2014/2015,2014
+Zoltán Stieber,Left Winger,1988-10-16,25,Hungary,Hamburger SV,Bundesliga,2014/2015,2014
+Ivo Ilicevic,Left Winger,1986-11-14,27,Croatia,Hamburger SV,Bundesliga,2014/2015,2014
+Nicolai Müller,Right Winger,1987-09-25,26,Germany,Hamburger SV,Bundesliga,2014/2015,2014
+Maximilian Beister,Right Winger,1990-09-06,23,Germany,Hamburger SV,Bundesliga,2014/2015,2014
+Valmir Nafiu,Right Winger,1994-04-23,20,North Macedonia,Hamburger SV,Bundesliga,2014/2015,2014
+Philipp Müller,Right Winger,1995-03-03,19,Germany,Hamburger SV,Bundesliga,2014/2015,2014
+Pierre-Michel Lasogga,Centre-Forward,1991-12-15,22,Germany,Hamburger SV,Bundesliga,2014/2015,2014
+Artjoms Rudnevs,Centre-Forward,1988-01-13,26,Latvia,Hamburger SV,Bundesliga,2014/2015,2014
+Ivica Olic,Centre-Forward,1979-09-14,34,Croatia,Hamburger SV,Bundesliga,2014/2015,2014
+Jacques Zoua,Centre-Forward,1991-09-06,22,Cameroon,Hamburger SV,Bundesliga,2014/2015,2014
+Yann Sommer,Goalkeeper,1988-12-17,25,Switzerland,Borussia Mönchengladbach,Bundesliga,2014/2015,2014
+Christofer Heimeroth,Goalkeeper,1981-08-01,32,Germany,Borussia Mönchengladbach,Bundesliga,2014/2015,2014
+Janis Blaswich,Goalkeeper,1991-05-02,23,Germany,Borussia Mönchengladbach,Bundesliga,2014/2015,2014
+Álvaro Domínguez,Centre-Back,1989-05-16,25,Spain,Borussia Mönchengladbach,Bundesliga,2014/2015,2014
+Tony Jantschke,Centre-Back,1990-04-07,24,Germany,Borussia Mönchengladbach,Bundesliga,2014/2015,2014
+Martin Stranzl,Centre-Back,1980-06-16,34,Austria,Borussia Mönchengladbach,Bundesliga,2014/2015,2014
+Roel Brouwers,Centre-Back,1981-11-28,32,Netherlands,Borussia Mönchengladbach,Bundesliga,2014/2015,2014
+Oscar Wendt,Left-Back,1985-10-24,28,Sweden,Borussia Mönchengladbach,Bundesliga,2014/2015,2014
+Filip Daems,Left-Back,1978-10-31,35,Belgium,Borussia Mönchengladbach,Bundesliga,2014/2015,2014
+Julian Korb,Right-Back,1992-03-21,22,Germany,Borussia Mönchengladbach,Bundesliga,2014/2015,2014
+Granit Xhaka,Defensive Midfield,1992-09-27,21,Switzerland,Borussia Mönchengladbach,Bundesliga,2014/2015,2014
+Havard Nordtveit,Defensive Midfield,1990-06-21,24,Norway,Borussia Mönchengladbach,Bundesliga,2014/2015,2014
+Christoph Kramer,Defensive Midfield,1991-02-19,23,Germany,Borussia Mönchengladbach,Bundesliga,2014/2015,2014
+Thorben Marx,Defensive Midfield,1981-06-01,33,Germany,Borussia Mönchengladbach,Bundesliga,2014/2015,2014
+Nico Brandenburger,Defensive Midfield,1995-01-17,19,Germany,Borussia Mönchengladbach,Bundesliga,2014/2015,2014
+Bilal Sezer,Defensive Midfield,1994-01-25,20,Turkey,Borussia Mönchengladbach,Bundesliga,2014/2015,2014
+Marvin Schulz,Defensive Midfield,1995-01-15,19,Germany,Borussia Mönchengladbach,Bundesliga,2014/2015,2014
+Mahmoud Dahoud,Central Midfield,1996-01-01,18,Germany,Borussia Mönchengladbach,Bundesliga,2014/2015,2014
+Marlon Ritter,Attacking Midfield,1994-10-15,19,Germany,Borussia Mönchengladbach,Bundesliga,2014/2015,2014
+Thorgan Hazard,Left Winger,1993-03-29,21,Belgium,Borussia Mönchengladbach,Bundesliga,2014/2015,2014
+Fabian Johnson,Left Winger,1987-12-11,26,United States,Borussia Mönchengladbach,Bundesliga,2014/2015,2014
+Patrick Herrmann,Right Winger,1991-02-12,23,Germany,Borussia Mönchengladbach,Bundesliga,2014/2015,2014
+André Hahn,Right Winger,1990-08-13,23,Germany,Borussia Mönchengladbach,Bundesliga,2014/2015,2014
+Ibrahima Traoré,Right Winger,1988-04-21,26,Guinea,Borussia Mönchengladbach,Bundesliga,2014/2015,2014
+Raffael,Second Striker,1985-03-28,29,Brazil,Borussia Mönchengladbach,Bundesliga,2014/2015,2014
+Max Kruse,Centre-Forward,1988-03-19,26,Germany,Borussia Mönchengladbach,Bundesliga,2014/2015,2014
+Branimir Hrgota,Centre-Forward,1993-01-12,21,Sweden,Borussia Mönchengladbach,Bundesliga,2014/2015,2014
+Oliver Baumann,Goalkeeper,1990-06-02,24,Germany,TSG 1899 Hoffenheim,Bundesliga,2014/2015,2014
+Jens Grahl,Goalkeeper,1988-09-22,25,Germany,TSG 1899 Hoffenheim,Bundesliga,2014/2015,2014
+Alexander Stolz,Goalkeeper,1983-10-13,30,Germany,TSG 1899 Hoffenheim,Bundesliga,2014/2015,2014
+Marvin Schwäbe,Goalkeeper,1995-04-25,19,Germany,TSG 1899 Hoffenheim,Bundesliga,2014/2015,2014
+Niklas Süle,Centre-Back,1995-09-03,18,Germany,TSG 1899 Hoffenheim,Bundesliga,2014/2015,2014
+David Abraham,Centre-Back,1986-07-15,27,Argentina,TSG 1899 Hoffenheim,Bundesliga,2014/2015,2014
+Jannik Vestergaard,Centre-Back,1992-08-03,21,Denmark,TSG 1899 Hoffenheim,Bundesliga,2014/2015,2014
+Ermin Bicakcic,Centre-Back,1990-01-24,24,Bosnia-Herzegovina,TSG 1899 Hoffenheim,Bundesliga,2014/2015,2014
+Kevin Akpoguma,Centre-Back,1995-04-19,19,Germany,TSG 1899 Hoffenheim,Bundesliga,2014/2015,2014
+Nicolai Rapp,Centre-Back,1996-12-13,17,Germany,TSG 1899 Hoffenheim,Bundesliga,2014/2015,2014
+Jin-su Kim,Left-Back,1992-06-13,22,"Korea, South",TSG 1899 Hoffenheim,Bundesliga,2014/2015,2014
+Andreas Beck,Right-Back,1987-03-13,27,Germany,TSG 1899 Hoffenheim,Bundesliga,2014/2015,2014
+Jeremy Toljan,Right-Back,1994-08-08,19,Germany,TSG 1899 Hoffenheim,Bundesliga,2014/2015,2014
+Pirmin Schwegler,Defensive Midfield,1987-03-09,27,Switzerland,TSG 1899 Hoffenheim,Bundesliga,2014/2015,2014
+Eugen Polanski,Defensive Midfield,1986-03-17,28,Poland,TSG 1899 Hoffenheim,Bundesliga,2014/2015,2014
+Sebastian Rudy,Defensive Midfield,1990-02-28,24,Germany,TSG 1899 Hoffenheim,Bundesliga,2014/2015,2014
+Tobias Strobl,Defensive Midfield,1990-05-12,24,Germany,TSG 1899 Hoffenheim,Bundesliga,2014/2015,2014
+Sejad Salihovic,Central Midfield,1984-10-08,29,Bosnia-Herzegovina,TSG 1899 Hoffenheim,Bundesliga,2014/2015,2014
+Janik Haberer,Central Midfield,1994-04-02,20,Germany,TSG 1899 Hoffenheim,Bundesliga,2014/2015,2014
+Grischa Prömel,Central Midfield,1995-01-09,19,Germany,TSG 1899 Hoffenheim,Bundesliga,2014/2015,2014
+Nadiem Amiri,Central Midfield,1996-10-27,17,Germany,TSG 1899 Hoffenheim,Bundesliga,2014/2015,2014
+Steven Zuber,Left Midfield,1991-08-17,22,Switzerland,TSG 1899 Hoffenheim,Bundesliga,2014/2015,2014
+Jiloan Hamad,Attacking Midfield,1990-11-06,23,Sweden,TSG 1899 Hoffenheim,Bundesliga,2014/2015,2014
+Tarik Elyounoussi,Left Winger,1988-02-23,26,Norway,TSG 1899 Hoffenheim,Bundesliga,2014/2015,2014
+Kai Herdling,Left Winger,1984-06-27,30,Germany,TSG 1899 Hoffenheim,Bundesliga,2014/2015,2014
+Kevin Volland,Centre-Forward,1992-07-30,21,Germany,TSG 1899 Hoffenheim,Bundesliga,2014/2015,2014
+Roberto Firmino,Centre-Forward,1991-10-02,22,Brazil,TSG 1899 Hoffenheim,Bundesliga,2014/2015,2014
+Ádám Szalai,Centre-Forward,1987-12-09,26,Hungary,TSG 1899 Hoffenheim,Bundesliga,2014/2015,2014
+Anthony Modeste,Centre-Forward,1988-04-14,26,France,TSG 1899 Hoffenheim,Bundesliga,2014/2015,2014
+Sven Schipplock,Centre-Forward,1988-11-08,25,Germany,TSG 1899 Hoffenheim,Bundesliga,2014/2015,2014
+Sven Ulreich,Goalkeeper,1988-08-03,25,Germany,VfB Stuttgart,Bundesliga,2014/2015,2014
+Thorsten Kirschbaum,Goalkeeper,1987-04-20,27,Germany,VfB Stuttgart,Bundesliga,2014/2015,2014
+Odysseas Vlachodimos,Goalkeeper,1994-04-26,20,Greece,VfB Stuttgart,Bundesliga,2014/2015,2014
+Antonio Rüdiger,Centre-Back,1993-03-03,21,Germany,VfB Stuttgart,Bundesliga,2014/2015,2014
+Daniel Schwaab,Centre-Back,1988-08-23,25,Germany,VfB Stuttgart,Bundesliga,2014/2015,2014
+Georg Niedermeier,Centre-Back,1986-02-26,28,Germany,VfB Stuttgart,Bundesliga,2014/2015,2014
+Karim Haggui,Centre-Back,1984-01-20,30,Tunisia,VfB Stuttgart,Bundesliga,2014/2015,2014
+Timo Baumgartl,Centre-Back,1996-03-04,18,Germany,VfB Stuttgart,Bundesliga,2014/2015,2014
+Konstantin Rausch,Left-Back,1990-03-15,24,Russia,VfB Stuttgart,Bundesliga,2014/2015,2014
+Adam Hlousek,Left-Back,1988-12-20,25,Czech Republic,VfB Stuttgart,Bundesliga,2014/2015,2014
+Tim Leibold,Left-Back,1993-11-30,20,Germany,VfB Stuttgart,Bundesliga,2014/2015,2014
+Gotoku Sakai,Right-Back,1991-03-14,23,Japan,VfB Stuttgart,Bundesliga,2014/2015,2014
+Florian Klein,Right-Back,1986-11-17,27,Austria,VfB Stuttgart,Bundesliga,2014/2015,2014
+Oriol Romeu,Defensive Midfield,1991-09-24,22,Spain,VfB Stuttgart,Bundesliga,2014/2015,2014
+Geoffroy Serey Dié,Defensive Midfield,1984-11-07,29,Cote d'Ivoire,VfB Stuttgart,Bundesliga,2014/2015,2014
+Carlos Gruezo,Defensive Midfield,1995-04-19,19,Ecuador,VfB Stuttgart,Bundesliga,2014/2015,2014
+Robin Yalcin,Defensive Midfield,1994-01-25,20,Germany,VfB Stuttgart,Bundesliga,2014/2015,2014
+Christian Gentner,Central Midfield,1985-08-14,28,Germany,VfB Stuttgart,Bundesliga,2014/2015,2014
+Moritz Leitner,Central Midfield,1992-12-08,21,Germany,VfB Stuttgart,Bundesliga,2014/2015,2014
+Marvin Wanitzek,Central Midfield,1993-05-07,21,Germany,VfB Stuttgart,Bundesliga,2014/2015,2014
+Filip Kostic,Left Midfield,1992-11-01,21,Serbia,VfB Stuttgart,Bundesliga,2014/2015,2014
+Alexandru Maxim,Attacking Midfield,1990-07-08,23,Romania,VfB Stuttgart,Bundesliga,2014/2015,2014
+Daniel Didavi,Attacking Midfield,1990-02-21,24,Germany,VfB Stuttgart,Bundesliga,2014/2015,2014
+Sercan Sararer,Left Winger,1989-11-27,24,Turkey,VfB Stuttgart,Bundesliga,2014/2015,2014
+Jerome Kiesewetter,Right Winger,1993-02-09,21,United States,VfB Stuttgart,Bundesliga,2014/2015,2014
+Timo Werner,Centre-Forward,1996-03-06,18,Germany,VfB Stuttgart,Bundesliga,2014/2015,2014
+Vedad Ibisevic,Centre-Forward,1984-08-06,29,Bosnia-Herzegovina,VfB Stuttgart,Bundesliga,2014/2015,2014
+Martin Harnik,Centre-Forward,1987-06-10,27,Austria,VfB Stuttgart,Bundesliga,2014/2015,2014
+Mohammed Abdellaoue,Centre-Forward,1985-10-23,28,Norway,VfB Stuttgart,Bundesliga,2014/2015,2014
+Daniel Ginczek,Centre-Forward,1991-04-13,23,Germany,VfB Stuttgart,Bundesliga,2014/2015,2014
+Ron-Robert Zieler,Goalkeeper,1989-02-12,25,Germany,Hannover 96,Bundesliga,2014/2015,2014
+Robert Almer,Goalkeeper,1984-03-20,30,Austria,Hannover 96,Bundesliga,2014/2015,2014
+Markus Miller,Goalkeeper,1982-04-08,32,Germany,Hannover 96,Bundesliga,2014/2015,2014
+Timo Königsmann,Goalkeeper,1997-04-05,17,Germany,Hannover 96,Bundesliga,2014/2015,2014
+Salif Sané,Centre-Back,1990-08-25,23,Senegal,Hannover 96,Bundesliga,2014/2015,2014
+Marcelo,Centre-Back,1987-05-20,27,Brazil,Hannover 96,Bundesliga,2014/2015,2014
+Andre Hoffmann,Centre-Back,1993-02-28,21,Germany,Hannover 96,Bundesliga,2014/2015,2014
+Christian Schulz,Centre-Back,1983-04-01,31,Germany,Hannover 96,Bundesliga,2014/2015,2014
+Felipe,Centre-Back,1987-05-15,27,Brazil,Hannover 96,Bundesliga,2014/2015,2014
+Stefan Thesker,Centre-Back,1991-04-11,23,Germany,Hannover 96,Bundesliga,2014/2015,2014
+Marius Stankevicius,Centre-Back,1981-07-15,32,Lithuania,Hannover 96,Bundesliga,2014/2015,2014
+Florian Ballas,Centre-Back,1993-01-08,21,Germany,Hannover 96,Bundesliga,2014/2015,2014
+Miiko Albornoz,Left-Back,1990-11-30,23,Chile,Hannover 96,Bundesliga,2014/2015,2014
+Christian Pander,Left-Back,1983-08-28,30,Germany,Hannover 96,Bundesliga,2014/2015,2014
+Niklas Teichgräber,Left-Back,1996-02-07,18,Germany,Hannover 96,Bundesliga,2014/2015,2014
+João Pereira,Right-Back,1984-02-25,30,Portugal,Hannover 96,Bundesliga,2014/2015,2014
+Hiroki Sakai,Right-Back,1990-04-12,24,Japan,Hannover 96,Bundesliga,2014/2015,2014
+Manuel Schmiedebach,Defensive Midfield,1988-12-05,25,Germany,Hannover 96,Bundesliga,2014/2015,2014
+Ceyhun Gülselam,Defensive Midfield,1987-12-25,26,Turkey,Hannover 96,Bundesliga,2014/2015,2014
+Yannik Schulze,Defensive Midfield,1995-02-05,19,Germany,Hannover 96,Bundesliga,2014/2015,2014
+Fabian Pietler,Defensive Midfield,1994-01-07,20,Germany,Hannover 96,Bundesliga,2014/2015,2014
+Maurice Hirsch,Defensive Midfield,1993-05-30,21,Germany,Hannover 96,Bundesliga,2014/2015,2014
+Leon Andreasen,Central Midfield,1983-04-23,31,Denmark,Hannover 96,Bundesliga,2014/2015,2014
+Sebastian Ernst,Central Midfield,1995-03-04,19,Germany,Hannover 96,Bundesliga,2014/2015,2014
+Edgar Prib,Left Midfield,1989-12-15,24,Germany,Hannover 96,Bundesliga,2014/2015,2014
+Hiroshi Kiyotake,Attacking Midfield,1989-11-12,24,Japan,Hannover 96,Bundesliga,2014/2015,2014
+Leonardo Bittencourt,Attacking Midfield,1993-12-19,20,Germany,Hannover 96,Bundesliga,2014/2015,2014
+Tim Dierßen,Attacking Midfield,1996-01-15,18,Germany,Hannover 96,Bundesliga,2014/2015,2014
+Kenan Karaman,Left Winger,1994-03-05,20,Turkey,Hannover 96,Bundesliga,2014/2015,2014
+Lars Stindl,Second Striker,1988-08-26,25,Germany,Hannover 96,Bundesliga,2014/2015,2014
+Jan Schlaudraff,Second Striker,1983-07-18,30,Germany,Hannover 96,Bundesliga,2014/2015,2014
+Didier Ya Konan,Centre-Forward,1984-05-22,30,Cote d'Ivoire,Hannover 96,Bundesliga,2014/2015,2014
+Joselu,Centre-Forward,1990-03-27,24,Spain,Hannover 96,Bundesliga,2014/2015,2014
+Artur Sobiech,Centre-Forward,1990-06-12,24,Poland,Hannover 96,Bundesliga,2014/2015,2014
+Jimmy Briand,Centre-Forward,1985-08-02,28,France,Hannover 96,Bundesliga,2014/2015,2014
+Stefanos Kapino,Goalkeeper,1994-03-18,20,Greece,1.FSV Mainz 05,Bundesliga,2014/2015,2014
+Loris Karius,Goalkeeper,1993-06-22,21,Germany,1.FSV Mainz 05,Bundesliga,2014/2015,2014
+Robin Zentner,Goalkeeper,1994-10-28,19,Germany,1.FSV Mainz 05,Bundesliga,2014/2015,2014
+Philipp Wollscheid,Centre-Back,1989-03-06,25,Germany,1.FSV Mainz 05,Bundesliga,2014/2015,2014
+Niko Bungert,Centre-Back,1986-10-24,27,Germany,1.FSV Mainz 05,Bundesliga,2014/2015,2014
+Gonzalo Jara,Centre-Back,1985-08-29,28,Chile,1.FSV Mainz 05,Bundesliga,2014/2015,2014
+Stefan Bell,Centre-Back,1991-08-24,22,Germany,1.FSV Mainz 05,Bundesliga,2014/2015,2014
+Nikolce Noveski,Centre-Back,1979-04-28,35,North Macedonia,1.FSV Mainz 05,Bundesliga,2014/2015,2014
+Fabian Kalig,Centre-Back,1993-03-28,21,Germany,1.FSV Mainz 05,Bundesliga,2014/2015,2014
+Pierre Bengtsson,Left-Back,1988-04-12,26,Sweden,1.FSV Mainz 05,Bundesliga,2014/2015,2014
+Ju-ho Park,Left-Back,1987-01-16,27,"Korea, South",1.FSV Mainz 05,Bundesliga,2014/2015,2014
+Júnior Díaz,Left-Back,1983-09-12,30,Costa Rica,1.FSV Mainz 05,Bundesliga,2014/2015,2014
+Damian Roßbach,Left-Back,1993-02-27,21,Germany,1.FSV Mainz 05,Bundesliga,2014/2015,2014
+Daniel Brosinski,Right-Back,1988-07-17,25,Germany,1.FSV Mainz 05,Bundesliga,2014/2015,2014
+Benedikt Saller,Right-Back,1992-09-22,21,Germany,1.FSV Mainz 05,Bundesliga,2014/2015,2014
+Johannes Geis,Defensive Midfield,1993-08-17,20,Germany,1.FSV Mainz 05,Bundesliga,2014/2015,2014
+Julian Baumgartlinger,Defensive Midfield,1988-01-02,26,Austria,1.FSV Mainz 05,Bundesliga,2014/2015,2014
+Niki Zimling,Defensive Midfield,1985-04-19,29,Denmark,1.FSV Mainz 05,Bundesliga,2014/2015,2014
+Julian Koch,Defensive Midfield,1990-11-11,23,Germany,1.FSV Mainz 05,Bundesliga,2014/2015,2014
+Ja-cheol Koo,Central Midfield,1989-02-27,25,"Korea, South",1.FSV Mainz 05,Bundesliga,2014/2015,2014
+Jonas Hofmann,Central Midfield,1992-07-14,21,Germany,1.FSV Mainz 05,Bundesliga,2014/2015,2014
+Christoph Moritz,Central Midfield,1990-01-27,24,Germany,1.FSV Mainz 05,Bundesliga,2014/2015,2014
+Elkin Soto,Central Midfield,1980-08-04,33,Colombia,1.FSV Mainz 05,Bundesliga,2014/2015,2014
+Yunus Malli,Attacking Midfield,1992-02-24,22,Turkey,1.FSV Mainz 05,Bundesliga,2014/2015,2014
+Patrick Pflücke,Attacking Midfield,1996-11-30,17,Germany,1.FSV Mainz 05,Bundesliga,2014/2015,2014
+Filip Djuricic,Left Winger,1992-01-30,22,Serbia,1.FSV Mainz 05,Bundesliga,2014/2015,2014
+Jairo Samperio,Left Winger,1993-07-11,20,Spain,1.FSV Mainz 05,Bundesliga,2014/2015,2014
+Todor Nedelev,Left Winger,1993-02-07,21,Bulgaria,1.FSV Mainz 05,Bundesliga,2014/2015,2014
+Pablo de Blasis,Left Winger,1988-02-04,26,Argentina,1.FSV Mainz 05,Bundesliga,2014/2015,2014
+Christian Clemens,Right Winger,1991-08-04,22,Germany,1.FSV Mainz 05,Bundesliga,2014/2015,2014
+Devante Parker,Right Winger,1996-03-16,18,Germany,1.FSV Mainz 05,Bundesliga,2014/2015,2014
+Shinji Okazaki,Centre-Forward,1986-04-16,28,Japan,1.FSV Mainz 05,Bundesliga,2014/2015,2014
+Sami Allagui,Centre-Forward,1986-05-28,28,Tunisia,1.FSV Mainz 05,Bundesliga,2014/2015,2014
+Nicolás Castillo,Centre-Forward,1993-02-14,21,Chile,1.FSV Mainz 05,Bundesliga,2014/2015,2014
+Sebastian Polter,Centre-Forward,1991-04-01,23,Germany,1.FSV Mainz 05,Bundesliga,2014/2015,2014
+Petar Sliskovic,Centre-Forward,1991-02-21,23,Croatia,1.FSV Mainz 05,Bundesliga,2014/2015,2014
+Thomas Kraft,Goalkeeper,1988-07-22,25,Germany,Hertha BSC,Bundesliga,2014/2015,2014
+Rune Jarstein,Goalkeeper,1984-09-29,29,Norway,Hertha BSC,Bundesliga,2014/2015,2014
+Sascha Burchert,Goalkeeper,1989-10-30,24,Germany,Hertha BSC,Bundesliga,2014/2015,2014
+Marius Gersbeck,Goalkeeper,1995-06-20,19,Germany,Hertha BSC,Bundesliga,2014/2015,2014
+Johnny Heitinga,Centre-Back,1983-11-15,30,Netherlands,Hertha BSC,Bundesliga,2014/2015,2014
+John Anthony Brooks,Centre-Back,1993-01-28,21,United States,Hertha BSC,Bundesliga,2014/2015,2014
+Sebastian Langkamp,Centre-Back,1988-01-15,26,Germany,Hertha BSC,Bundesliga,2014/2015,2014
+Marvin Plattenhardt,Left-Back,1992-01-26,22,Germany,Hertha BSC,Bundesliga,2014/2015,2014
+Nico Schulz,Left-Back,1993-04-01,21,Germany,Hertha BSC,Bundesliga,2014/2015,2014
+Johannes van den Bergh,Left-Back,1986-11-21,27,Germany,Hertha BSC,Bundesliga,2014/2015,2014
+Maximilian Mittelstädt,Left-Back,1997-03-18,17,Germany,Hertha BSC,Bundesliga,2014/2015,2014
+Peter Pekarik,Right-Back,1986-10-30,27,Slovakia,Hertha BSC,Bundesliga,2014/2015,2014
+Fabian Lustenberger,Defensive Midfield,1988-05-02,26,Switzerland,Hertha BSC,Bundesliga,2014/2015,2014
+Hajime Hosogai,Defensive Midfield,1986-06-10,28,Japan,Hertha BSC,Bundesliga,2014/2015,2014
+Peter Niemeyer,Defensive Midfield,1983-11-22,30,Germany,Hertha BSC,Bundesliga,2014/2015,2014
+Per Ciljan Skjelbred,Central Midfield,1987-06-16,27,Norway,Hertha BSC,Bundesliga,2014/2015,2014
+Jens Hegeler,Central Midfield,1988-01-22,26,Germany,Hertha BSC,Bundesliga,2014/2015,2014
+Tolga Cigerci,Central Midfield,1992-03-23,22,Turkey,Hertha BSC,Bundesliga,2014/2015,2014
+Marcel Ndjeng,Right Midfield,1982-05-06,32,Cameroon,Hertha BSC,Bundesliga,2014/2015,2014
+Valentin Stocker,Attacking Midfield,1989-04-12,25,Switzerland,Hertha BSC,Bundesliga,2014/2015,2014
+Änis Ben-Hatira,Attacking Midfield,1988-07-18,25,Tunisia,Hertha BSC,Bundesliga,2014/2015,2014
+Ronny,Attacking Midfield,1986-05-11,28,Brazil,Hertha BSC,Bundesliga,2014/2015,2014
+Alexander Baumjohann,Attacking Midfield,1987-01-23,27,Germany,Hertha BSC,Bundesliga,2014/2015,2014
+Hany Mukhtar,Attacking Midfield,1995-03-21,19,Germany,Hertha BSC,Bundesliga,2014/2015,2014
+Salomon Kalou,Left Winger,1985-08-05,28,Cote d'Ivoire,Hertha BSC,Bundesliga,2014/2015,2014
+Genki Haraguchi,Left Winger,1991-05-09,23,Japan,Hertha BSC,Bundesliga,2014/2015,2014
+Roy Beerens,Right Winger,1987-12-22,26,Netherlands,Hertha BSC,Bundesliga,2014/2015,2014
+Sami Allagui,Centre-Forward,1986-05-28,28,Tunisia,Hertha BSC,Bundesliga,2014/2015,2014
+Julian Schieber,Centre-Forward,1989-02-13,25,Germany,Hertha BSC,Bundesliga,2014/2015,2014
+Sandro Wagner,Centre-Forward,1987-11-29,26,Germany,Hertha BSC,Bundesliga,2014/2015,2014
+Kevin Trapp,Goalkeeper,1990-07-08,23,Germany,Eintracht Frankfurt,Bundesliga,2014/2015,2014
+Timo Hildebrand,Goalkeeper,1979-04-05,35,Germany,Eintracht Frankfurt,Bundesliga,2014/2015,2014
+Felix Wiedwald,Goalkeeper,1990-03-15,24,Germany,Eintracht Frankfurt,Bundesliga,2014/2015,2014
+Emil Balayev,Goalkeeper,1994-04-17,20,Azerbaijan,Eintracht Frankfurt,Bundesliga,2014/2015,2014
+Yannick Zummack,Goalkeeper,1996-03-26,18,Germany,Eintracht Frankfurt,Bundesliga,2014/2015,2014
+Carlos Zambrano,Centre-Back,1989-07-10,24,Peru,Eintracht Frankfurt,Bundesliga,2014/2015,2014
+Marco Russ,Centre-Back,1985-08-04,28,Germany,Eintracht Frankfurt,Bundesliga,2014/2015,2014
+Bamba Anderson,Centre-Back,1988-01-10,26,Brazil,Eintracht Frankfurt,Bundesliga,2014/2015,2014
+Alexander Madlung,Centre-Back,1982-07-11,31,Germany,Eintracht Frankfurt,Bundesliga,2014/2015,2014
+Bastian Oczipka,Left-Back,1989-01-12,25,Germany,Eintracht Frankfurt,Bundesliga,2014/2015,2014
+Constant Djakpa,Left-Back,1986-10-17,27,Cote d'Ivoire,Eintracht Frankfurt,Bundesliga,2014/2015,2014
+Timothy Chandler,Right-Back,1990-03-29,24,United States,Eintracht Frankfurt,Bundesliga,2014/2015,2014
+Slobodan Medojevic,Defensive Midfield,1990-10-20,23,Serbia,Eintracht Frankfurt,Bundesliga,2014/2015,2014
+Makoto Hasebe,Defensive Midfield,1984-01-18,30,Japan,Eintracht Frankfurt,Bundesliga,2014/2015,2014
+Aleksandar Ignjovski,Defensive Midfield,1991-01-27,23,Serbia,Eintracht Frankfurt,Bundesliga,2014/2015,2014
+Martin Lanig,Defensive Midfield,1984-07-11,29,Germany,Eintracht Frankfurt,Bundesliga,2014/2015,2014
+David Kinsombi,Defensive Midfield,1995-12-12,18,Germany,Eintracht Frankfurt,Bundesliga,2014/2015,2014
+Johannes Flum,Central Midfield,1987-12-14,26,Germany,Eintracht Frankfurt,Bundesliga,2014/2015,2014
+Marc Stendera,Central Midfield,1995-12-10,18,Germany,Eintracht Frankfurt,Bundesliga,2014/2015,2014
+Joel Gerezgiher,Left Midfield,1995-10-09,18,Germany,Eintracht Frankfurt,Bundesliga,2014/2015,2014
+Sonny Kittel,Attacking Midfield,1993-01-06,21,Germany,Eintracht Frankfurt,Bundesliga,2014/2015,2014
+Takashi Inui,Left Winger,1988-06-02,26,Japan,Eintracht Frankfurt,Bundesliga,2014/2015,2014
+Lucas Piazón,Right Winger,1994-01-20,20,Brazil,Eintracht Frankfurt,Bundesliga,2014/2015,2014
+Stefan Aigner,Second Striker,1987-08-20,26,Germany,Eintracht Frankfurt,Bundesliga,2014/2015,2014
+Alexander Meier,Second Striker,1983-01-17,31,Germany,Eintracht Frankfurt,Bundesliga,2014/2015,2014
+Vaclav Kadlec,Centre-Forward,1992-05-20,22,Czech Republic,Eintracht Frankfurt,Bundesliga,2014/2015,2014
+Haris Seferovic,Centre-Forward,1992-02-22,22,Switzerland,Eintracht Frankfurt,Bundesliga,2014/2015,2014
+Nelson Valdez,Centre-Forward,1983-11-28,30,Paraguay,Eintracht Frankfurt,Bundesliga,2014/2015,2014
+Luca Waldschmidt,Centre-Forward,1996-05-19,18,Germany,Eintracht Frankfurt,Bundesliga,2014/2015,2014
+Yaffa Yusupha,Centre-Forward,1996-12-31,17,The Gambia,Eintracht Frankfurt,Bundesliga,2014/2015,2014
+Koen Casteels,Goalkeeper,1992-06-25,22,Belgium,SV Werder Bremen,Bundesliga,2014/2015,2014
+Raphael Wolf,Goalkeeper,1988-06-06,26,Germany,SV Werder Bremen,Bundesliga,2014/2015,2014
+Richard Strebinger,Goalkeeper,1993-02-14,21,Austria,SV Werder Bremen,Bundesliga,2014/2015,2014
+Michael Zetterer,Goalkeeper,1995-07-12,18,Germany,SV Werder Bremen,Bundesliga,2014/2015,2014
+Raif Husic,Goalkeeper,1996-02-05,18,Germany,SV Werder Bremen,Bundesliga,2014/2015,2014
+Luca Caldirola,Centre-Back,1991-02-01,23,Italy,SV Werder Bremen,Bundesliga,2014/2015,2014
+Jannik Vestergaard,Centre-Back,1992-08-03,21,Denmark,SV Werder Bremen,Bundesliga,2014/2015,2014
+Alejandro Gálvez,Centre-Back,1989-06-06,25,Spain,SV Werder Bremen,Bundesliga,2014/2015,2014
+Sebastian Prödl,Centre-Back,1987-06-21,27,Austria,SV Werder Bremen,Bundesliga,2014/2015,2014
+Assani Lukimya,Centre-Back,1986-01-25,28,DR Congo,SV Werder Bremen,Bundesliga,2014/2015,2014
+Oliver Hüsing,Centre-Back,1993-02-17,21,Germany,SV Werder Bremen,Bundesliga,2014/2015,2014
+Santiago García,Left-Back,1988-07-08,25,Argentina,SV Werder Bremen,Bundesliga,2014/2015,2014
+Janek Sternberg,Left-Back,1992-10-19,21,Germany,SV Werder Bremen,Bundesliga,2014/2015,2014
+Theodor Gebre Selassie,Right-Back,1986-12-24,27,Czech Republic,SV Werder Bremen,Bundesliga,2014/2015,2014
+Luca Zander,Right-Back,1995-08-09,18,Germany,SV Werder Bremen,Bundesliga,2014/2015,2014
+Marnon Busch,Right-Back,1994-12-08,19,Germany,SV Werder Bremen,Bundesliga,2014/2015,2014
+Philipp Bargfrede,Defensive Midfield,1989-03-03,25,Germany,SV Werder Bremen,Bundesliga,2014/2015,2014
+Lukas Fröde,Defensive Midfield,1995-01-23,19,Germany,SV Werder Bremen,Bundesliga,2014/2015,2014
+Zlatko Junuzovic,Central Midfield,1987-09-26,26,Austria,SV Werder Bremen,Bundesliga,2014/2015,2014
+Cédric Makiadi,Central Midfield,1984-02-23,30,DR Congo,SV Werder Bremen,Bundesliga,2014/2015,2014
+Felix Kroos,Central Midfield,1991-03-12,23,Germany,SV Werder Bremen,Bundesliga,2014/2015,2014
+Clemens Fritz,Central Midfield,1980-12-07,33,Germany,SV Werder Bremen,Bundesliga,2014/2015,2014
+Julian von Haacke,Central Midfield,1994-02-14,20,Germany,SV Werder Bremen,Bundesliga,2014/2015,2014
+Maximilian Eggestein,Central Midfield,1996-12-08,17,Germany,SV Werder Bremen,Bundesliga,2014/2015,2014
+Levin Öztunali,Right Midfield,1996-03-15,18,Germany,SV Werder Bremen,Bundesliga,2014/2015,2014
+Ludovic Obraniak,Attacking Midfield,1984-11-10,29,Poland,SV Werder Bremen,Bundesliga,2014/2015,2014
+Özkan Yildirim,Attacking Midfield,1993-04-10,21,Germany,SV Werder Bremen,Bundesliga,2014/2015,2014
+Martin Kobylanski,Attacking Midfield,1994-03-08,20,Poland,SV Werder Bremen,Bundesliga,2014/2015,2014
+Levent Aycicek,Attacking Midfield,1994-02-14,20,Germany,SV Werder Bremen,Bundesliga,2014/2015,2014
+Eljero Elia,Left Winger,1987-02-13,27,Netherlands,SV Werder Bremen,Bundesliga,2014/2015,2014
+Melvyn Lorenzen,Left Winger,1994-11-26,19,Uganda,SV Werder Bremen,Bundesliga,2014/2015,2014
+Izet Hajrovic,Right Winger,1991-08-04,22,Bosnia-Herzegovina,SV Werder Bremen,Bundesliga,2014/2015,2014
+Fin Bartels,Second Striker,1987-02-07,27,Germany,SV Werder Bremen,Bundesliga,2014/2015,2014
+Nils Petersen,Centre-Forward,1988-12-06,25,Germany,SV Werder Bremen,Bundesliga,2014/2015,2014
+Franco Di Santo,Centre-Forward,1989-04-07,25,Argentina,SV Werder Bremen,Bundesliga,2014/2015,2014
+Davie Selke,Centre-Forward,1995-01-20,19,Germany,SV Werder Bremen,Bundesliga,2014/2015,2014
+Roman Bürki,Goalkeeper,1990-11-14,23,Switzerland,SC Freiburg,Bundesliga,2014/2015,2014
+Sebastian Mielitz,Goalkeeper,1989-07-18,24,Germany,SC Freiburg,Bundesliga,2014/2015,2014
+Daniel Batz,Goalkeeper,1991-01-12,23,Germany,SC Freiburg,Bundesliga,2014/2015,2014
+Marc Torrejón,Centre-Back,1986-02-18,28,Spain,SC Freiburg,Bundesliga,2014/2015,2014
+Immanuel Höhn,Centre-Back,1991-12-23,22,Germany,SC Freiburg,Bundesliga,2014/2015,2014
+Stefan Mitrovic,Centre-Back,1990-05-22,24,Serbia,SC Freiburg,Bundesliga,2014/2015,2014
+Marc Oliver Kempf,Centre-Back,1995-01-28,19,Germany,SC Freiburg,Bundesliga,2014/2015,2014
+Pavel Krmas,Centre-Back,1980-03-03,34,Czech Republic,SC Freiburg,Bundesliga,2014/2015,2014
+Christopher Jullien,Centre-Back,1993-03-22,21,France,SC Freiburg,Bundesliga,2014/2015,2014
+Christian Günter,Left-Back,1993-02-28,21,Germany,SC Freiburg,Bundesliga,2014/2015,2014
+Jonathan Schmid,Right-Back,1990-06-22,24,France,SC Freiburg,Bundesliga,2014/2015,2014
+Sascha Riether,Right-Back,1983-03-23,31,Germany,SC Freiburg,Bundesliga,2014/2015,2014
+Mensur Mujdza,Right-Back,1984-03-28,30,Bosnia-Herzegovina,SC Freiburg,Bundesliga,2014/2015,2014
+Oliver Sorg,Right-Back,1990-05-29,24,Germany,SC Freiburg,Bundesliga,2014/2015,2014
+Julian Schuster,Defensive Midfield,1985-04-15,29,Germany,SC Freiburg,Bundesliga,2014/2015,2014
+Nicolas Höfler,Defensive Midfield,1990-03-09,24,Germany,SC Freiburg,Bundesliga,2014/2015,2014
+Caleb Stanko,Defensive Midfield,1993-07-26,20,United States,SC Freiburg,Bundesliga,2014/2015,2014
+Vladimir Darida,Central Midfield,1990-08-08,23,Czech Republic,SC Freiburg,Bundesliga,2014/2015,2014
+Mike Frantz,Central Midfield,1986-10-14,27,Germany,SC Freiburg,Bundesliga,2014/2015,2014
+Mats Möller Daehli,Left Winger,1995-03-02,19,Norway,SC Freiburg,Bundesliga,2014/2015,2014
+Sebastian Kerk,Left Winger,1994-04-17,20,Germany,SC Freiburg,Bundesliga,2014/2015,2014
+Florian Kath,Left Winger,1994-10-21,19,Germany,SC Freiburg,Bundesliga,2014/2015,2014
+Felix Klaus,Right Winger,1992-09-13,21,Germany,SC Freiburg,Bundesliga,2014/2015,2014
+Admir Mehmedi,Second Striker,1991-03-16,23,Switzerland,SC Freiburg,Bundesliga,2014/2015,2014
+Maximilian Philipp,Second Striker,1994-03-01,20,Germany,SC Freiburg,Bundesliga,2014/2015,2014
+Nils Petersen,Centre-Forward,1988-12-06,25,Germany,SC Freiburg,Bundesliga,2014/2015,2014
+Dani Schahin,Centre-Forward,1989-07-09,24,Germany,SC Freiburg,Bundesliga,2014/2015,2014
+Philipp Zulechner,Centre-Forward,1990-04-12,24,Austria,SC Freiburg,Bundesliga,2014/2015,2014
+Sebastian Freis,Centre-Forward,1985-04-23,29,Germany,SC Freiburg,Bundesliga,2014/2015,2014
+Karim Guédé,Centre-Forward,1985-01-07,29,Slovakia,SC Freiburg,Bundesliga,2014/2015,2014
+Timo Horn,Goalkeeper,1993-05-12,21,Germany,1. FC Köln,Bundesliga,2014/2015,2014
+Thomas Kessler,Goalkeeper,1986-01-20,28,Germany,1. FC Köln,Bundesliga,2014/2015,2014
+Daniel Mesenhöler,Goalkeeper,1995-07-24,18,Germany,1. FC Köln,Bundesliga,2014/2015,2014
+Tomas Kalas,Centre-Back,1993-05-15,21,Czech Republic,1. FC Köln,Bundesliga,2014/2015,2014
+Kevin Wimmer,Centre-Back,1992-11-15,21,Austria,1. FC Köln,Bundesliga,2014/2015,2014
+Kevin Vogt,Centre-Back,1991-09-23,22,Germany,1. FC Köln,Bundesliga,2014/2015,2014
+Mërgim Mavraj,Centre-Back,1986-06-09,28,Albania,1. FC Köln,Bundesliga,2014/2015,2014
+Dominic Maroh,Centre-Back,1987-03-04,27,Slovenia,1. FC Köln,Bundesliga,2014/2015,2014
+Jonas Hector,Left-Back,1990-05-27,24,Germany,1. FC Köln,Bundesliga,2014/2015,2014
+Dusan Svento,Left-Back,1985-08-01,28,Slovakia,1. FC Köln,Bundesliga,2014/2015,2014
+Miso Brecko,Right-Back,1984-05-01,30,Slovenia,1. FC Köln,Bundesliga,2014/2015,2014
+Pawel Olkowski,Right-Back,1990-02-13,24,Poland,1. FC Köln,Bundesliga,2014/2015,2014
+Adam Matuschyk,Defensive Midfield,1989-02-14,25,Poland,1. FC Köln,Bundesliga,2014/2015,2014
+Matthias Lehmann,Defensive Midfield,1983-05-28,31,Germany,1. FC Köln,Bundesliga,2014/2015,2014
+Yannick Gerhardt,Central Midfield,1994-03-13,20,Germany,1. FC Köln,Bundesliga,2014/2015,2014
+Marcel Risse,Right Midfield,1989-12-17,24,Germany,1. FC Köln,Bundesliga,2014/2015,2014
+Thomas Bröker,Right Midfield,1985-01-22,29,Germany,1. FC Köln,Bundesliga,2014/2015,2014
+Daniel Halfar,Attacking Midfield,NA,26,Germany,1. FC Köln,Bundesliga,2014/2015,2014
+Kazuki Nagasawa,Attacking Midfield,1991-12-16,22,Japan,1. FC Köln,Bundesliga,2014/2015,2014
+Slawomir Peszko,Left Winger,1985-02-19,29,Poland,1. FC Köln,Bundesliga,2014/2015,2014
+Bard Finne,Left Winger,1995-02-13,19,Norway,1. FC Köln,Bundesliga,2014/2015,2014
+Lucas Cueto,Left Winger,1996-03-24,18,Germany,1. FC Köln,Bundesliga,2014/2015,2014
+Simon Zoller,Centre-Forward,1991-06-26,23,Germany,1. FC Köln,Bundesliga,2014/2015,2014
+Patrick Helmes,Centre-Forward,1984-03-01,30,Germany,1. FC Köln,Bundesliga,2014/2015,2014
+Anthony Ujah,Centre-Forward,1990-10-14,23,Nigeria,1. FC Köln,Bundesliga,2014/2015,2014
+Yuya Osako,Centre-Forward,1990-05-18,24,Japan,1. FC Köln,Bundesliga,2014/2015,2014
+Deyverson,Centre-Forward,1991-05-08,23,Brazil,1. FC Köln,Bundesliga,2014/2015,2014
+Marwin Hitz,Goalkeeper,1987-09-18,26,Switzerland,FC Augsburg,Bundesliga,2014/2015,2014
+Alexander Manninger,Goalkeeper,1977-06-04,37,Austria,FC Augsburg,Bundesliga,2014/2015,2014
+Ioannis Gelios,Goalkeeper,1992-04-24,22,Greece,FC Augsburg,Bundesliga,2014/2015,2014
+Ragnar Klavan,Centre-Back,1985-10-30,28,Estonia,FC Augsburg,Bundesliga,2014/2015,2014
+Jan-Ingwer Callsen-Bracker,Centre-Back,1984-09-23,29,Germany,FC Augsburg,Bundesliga,2014/2015,2014
+Jeong-ho Hong,Centre-Back,1989-08-12,24,"Korea, South",FC Augsburg,Bundesliga,2014/2015,2014
+Christoph Janker,Centre-Back,1985-02-14,29,Germany,FC Augsburg,Bundesliga,2014/2015,2014
+Max Reinthaler,Centre-Back,1995-03-22,19,Italy,FC Augsburg,Bundesliga,2014/2015,2014
+Abdul Rahman Baba,Left-Back,1994-07-02,19,Ghana,FC Augsburg,Bundesliga,2014/2015,2014
+Marcel de Jong,Left-Back,1986-10-15,27,Canada,FC Augsburg,Bundesliga,2014/2015,2014
+Paul Verhaegh,Right-Back,1983-09-01,30,Netherlands,FC Augsburg,Bundesliga,2014/2015,2014
+Ronny Philp,Right-Back,1989-01-28,25,Romania,FC Augsburg,Bundesliga,2014/2015,2014
+Dominik Reinhardt,Right-Back,1984-12-19,29,Germany,FC Augsburg,Bundesliga,2014/2015,2014
+Raphael Framberger,Right-Back,1995-09-06,18,Germany,FC Augsburg,Bundesliga,2014/2015,2014
+Tim Rieder,Right-Back,1993-09-03,20,Germany,FC Augsburg,Bundesliga,2014/2015,2014
+Daniel Baier,Defensive Midfield,1984-05-18,30,Germany,FC Augsburg,Bundesliga,2014/2015,2014
+Maik Uhde,Defensive Midfield,1994-05-23,20,Germany,FC Augsburg,Bundesliga,2014/2015,2014
+Marco Schuster,Defensive Midfield,1995-10-10,18,Germany,FC Augsburg,Bundesliga,2014/2015,2014
+Jan Morávek,Central Midfield,1989-11-01,24,Czech Republic,FC Augsburg,Bundesliga,2014/2015,2014
+Markus Feulner,Central Midfield,1982-02-12,32,Germany,FC Augsburg,Bundesliga,2014/2015,2014
+Pierre-Emile Höjbjerg,Central Midfield,1995-08-05,18,Denmark,FC Augsburg,Bundesliga,2014/2015,2014
+Dominik Kohr,Central Midfield,1994-01-31,20,Germany,FC Augsburg,Bundesliga,2014/2015,2014
+Arif Ekin,Central Midfield,1995-09-14,18,Germany,FC Augsburg,Bundesliga,2014/2015,2014
+Erik Thommy,Left Midfield,1994-08-20,19,Germany,FC Augsburg,Bundesliga,2014/2015,2014
+Halil Altintop,Attacking Midfield,1982-12-08,31,Turkey,FC Augsburg,Bundesliga,2014/2015,2014
+Tobias Werner,Left Winger,1985-07-19,28,Germany,FC Augsburg,Bundesliga,2014/2015,2014
+Caiuby,Left Winger,1988-07-14,25,Brazil,FC Augsburg,Bundesliga,2014/2015,2014
+Bastian Kurz,Left Winger,1996-09-23,17,Germany,FC Augsburg,Bundesliga,2014/2015,2014
+Alexander Esswein,Right Winger,1990-03-25,24,Germany,FC Augsburg,Bundesliga,2014/2015,2014
+Tim Matavz,Centre-Forward,1989-01-13,25,Slovenia,FC Augsburg,Bundesliga,2014/2015,2014
+Raúl Bobadilla,Centre-Forward,1987-06-18,27,Paraguay,FC Augsburg,Bundesliga,2014/2015,2014
+Shawn Parker,Centre-Forward,1993-03-07,21,Germany,FC Augsburg,Bundesliga,2014/2015,2014
+Dong-won Ji,Centre-Forward,1991-05-28,23,"Korea, South",FC Augsburg,Bundesliga,2014/2015,2014
+Sascha Mölders,Centre-Forward,1985-03-20,29,Germany,FC Augsburg,Bundesliga,2014/2015,2014
+Nikola Djurdjic,Centre-Forward,1986-04-01,28,Serbia,FC Augsburg,Bundesliga,2014/2015,2014
+Lukas Kruse,Goalkeeper,1983-07-09,30,Germany,SC Paderborn 07,Bundesliga,2014/2015,2014
+Daniel Lück,Goalkeeper,1991-05-18,23,Germany,SC Paderborn 07,Bundesliga,2014/2015,2014
+Nico Burchert,Goalkeeper,1987-06-24,27,Germany,SC Paderborn 07,Bundesliga,2014/2015,2014
+Alexander Nübel,Goalkeeper,1996-09-30,17,Germany,SC Paderborn 07,Bundesliga,2014/2015,2014
+Rafa López,Centre-Back,1985-04-09,29,Spain,SC Paderborn 07,Bundesliga,2014/2015,2014
+Uwe Hünemeier,Centre-Back,1986-01-09,28,Germany,SC Paderborn 07,Bundesliga,2014/2015,2014
+Christian Strohdiek,Centre-Back,1988-01-22,26,Germany,SC Paderborn 07,Bundesliga,2014/2015,2014
+Patrick Ziegler,Centre-Back,1990-02-09,24,Germany,SC Paderborn 07,Bundesliga,2014/2015,2014
+Tim Welker,Centre-Back,1993-09-08,20,Germany,SC Paderborn 07,Bundesliga,2014/2015,2014
+Thomas Bertels,Left-Back,1986-11-05,27,Germany,SC Paderborn 07,Bundesliga,2014/2015,2014
+Florian Hartherz,Left-Back,1993-05-29,21,Germany,SC Paderborn 07,Bundesliga,2014/2015,2014
+Jens Wemmer,Right-Back,1985-10-31,28,Germany,SC Paderborn 07,Bundesliga,2014/2015,2014
+Michael Heinloth,Right-Back,1992-02-09,22,Germany,SC Paderborn 07,Bundesliga,2014/2015,2014
+Marc Vucinovic,Right-Back,1988-09-19,25,Germany,SC Paderborn 07,Bundesliga,2014/2015,2014
+Mario Vrancic,Central Midfield,1989-05-23,25,Bosnia-Herzegovina,SC Paderborn 07,Bundesliga,2014/2015,2014
+Lukas Rupp,Central Midfield,1991-01-08,23,Germany,SC Paderborn 07,Bundesliga,2014/2015,2014
+Marvin Bakalorz,Central Midfield,1989-09-13,24,Germany,SC Paderborn 07,Bundesliga,2014/2015,2014
+Mirnes Pepic,Central Midfield,1995-12-19,18,Montenegro,SC Paderborn 07,Bundesliga,2014/2015,2014
+Alban Meha,Left Midfield,1986-04-26,28,Kosovo,SC Paderborn 07,Bundesliga,2014/2015,2014
+Daniel Brückner,Left Midfield,1981-02-14,33,Germany,SC Paderborn 07,Bundesliga,2014/2015,2014
+Moritz Stoppelkamp,Left Winger,1986-12-11,27,Germany,SC Paderborn 07,Bundesliga,2014/2015,2014
+Idir Ouali,Left Winger,1988-05-21,26,Algeria,SC Paderborn 07,Bundesliga,2014/2015,2014
+Elias Kachunga,Right Winger,1992-04-22,22,DR Congo,SC Paderborn 07,Bundesliga,2014/2015,2014
+Süleyman Koc,Right Winger,1989-06-09,25,Germany,SC Paderborn 07,Bundesliga,2014/2015,2014
+Marvin Ducksch,Centre-Forward,1994-03-07,20,Germany,SC Paderborn 07,Bundesliga,2014/2015,2014
+Srdjan Lakic,Centre-Forward,1983-10-02,30,Croatia,SC Paderborn 07,Bundesliga,2014/2015,2014
+Mahir Saglik,Centre-Forward,1983-01-18,31,Turkey,SC Paderborn 07,Bundesliga,2014/2015,2014
+Stefan Kutschke,Centre-Forward,1988-11-03,25,Germany,SC Paderborn 07,Bundesliga,2014/2015,2014

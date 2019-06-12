@@ -1,601 +1,601 @@
-shirt_number,position,player_name,date_of_birth,age,nationality,club_name,league_name,season,year
-1,Goalkeeper,"Mar 27, 1986 (31)",NA,NA,Germany,Bayern Munich,Bundesliga,2017/2018,2017
-26,Goalkeeper,"Aug 3, 1988 (28)",NA,NA,Germany,Bayern Munich,Bundesliga,2017/2018,2017
-22,Goalkeeper,"Mar 18, 1981 (36)",NA,NA,Germany,Bayern Munich,Bundesliga,2017/2018,2017
-NA,Goalkeeper,"Jul 7, 1996 (20)",NA,NA,Germany,Bayern Munich,Bundesliga,2017/2018,2017
-NA,Goalkeeper,"Apr 4, 1999 (18)",NA,NA,Germany,Bayern Munich,Bundesliga,2017/2018,2017
-36,Goalkeeper,"Jan 28, 2000 (17)",NA,NA,Germany,Bayern Munich,Bundesliga,2017/2018,2017
-5,Centre-Back,"Dec 16, 1988 (28)",NA,NA,Germany,Bayern Munich,Bundesliga,2017/2018,2017
-17,Centre-Back,"Sep 3, 1988 (28)",NA,NA,Germany,Bayern Munich,Bundesliga,2017/2018,2017
-4,Centre-Back,"Sep 3, 1995 (21)",NA,NA,Germany,Bayern Munich,Bundesliga,2017/2018,2017
-15,Centre-Back,"Mar 31, 2000 (17)",NA,NA,Germany,Bayern Munich,Bundesliga,2017/2018,2017
-27,Left-Back,"Jun 24, 1992 (25)",NA,NA,Austria,Bayern Munich,Bundesliga,2017/2018,2017
-14,Left-Back,"Mar 1, 1993 (24)",NA,NA,Spain,Bayern Munich,Bundesliga,2017/2018,2017
-NA,Left-Back,"Mar 16, 1998 (19)",NA,NA,Austria,Bayern Munich,Bundesliga,2017/2018,2017
-NA,Left-Back,"Nov 11, 1999 (17)",NA,NA,Germany,Bayern Munich,Bundesliga,2017/2018,2017
-32,Right-Back,"Feb 8, 1995 (22)",NA,NA,Germany,Bayern Munich,Bundesliga,2017/2018,2017
-13,Right-Back,"Sep 7, 1985 (31)",NA,NA,Brazil,Bayern Munich,Bundesliga,2017/2018,2017
-8,Defensive Midfield,"Sep 2, 1988 (28)",NA,NA,Spain,Bayern Munich,Bundesliga,2017/2018,2017
-19,Defensive Midfield,"Feb 28, 1990 (27)",NA,NA,Germany,Bayern Munich,Bundesliga,2017/2018,2017
-30,Defensive Midfield,"Jan 15, 1998 (19)",NA,NA,Germany,Bayern Munich,Bundesliga,2017/2018,2017
-20,Defensive Midfield,"Feb 11, 1998 (19)",NA,NA,Germany,Bayern Munich,Bundesliga,2017/2018,2017
-6,Central Midfield,"Apr 11, 1991 (26)",NA,NA,Spain,Bayern Munich,Bundesliga,2017/2018,2017
-23,Central Midfield,"May 22, 1987 (30)",NA,NA,Chile,Bayern Munich,Bundesliga,2017/2018,2017
-NA,Central Midfield,"Aug 18, 1997 (19)",NA,NA,Portugal,Bayern Munich,Bundesliga,2017/2018,2017
-24,Central Midfield,"Aug 3, 1994 (22)",NA,NA,France,Bayern Munich,Bundesliga,2017/2018,2017
-11,Attacking Midfield,"Jul 12, 1991 (25)",NA,NA,Colombia,Bayern Munich,Bundesliga,2017/2018,2017
-40,Attacking Midfield,"Jun 5, 1998 (19)",NA,NA,Croatia,Bayern Munich,Bundesliga,2017/2018,2017
-NA,Attacking Midfield,"Jan 4, 1999 (18)",NA,NA,Germany,Bayern Munich,Bundesliga,2017/2018,2017
-NA,Attacking Midfield,"Mar 15, 1999 (18)",NA,NA,Germany,Bayern Munich,Bundesliga,2017/2018,2017
-29,Left Winger,"Jun 13, 1996 (21)",NA,NA,France,Bayern Munich,Bundesliga,2017/2018,2017
-7,Left Winger,"Apr 7, 1983 (34)",NA,NA,France,Bayern Munich,Bundesliga,2017/2018,2017
-NA,Left Winger,"Jul 7, 1996 (20)",NA,NA,Serbia,Bayern Munich,Bundesliga,2017/2018,2017
-NA,Left Winger,"Jul 5, 2000 (16)",NA,NA,Cameroon,Bayern Munich,Bundesliga,2017/2018,2017
-10,Right Winger,"Jan 23, 1984 (33)",NA,NA,Netherlands,Bayern Munich,Bundesliga,2017/2018,2017
-25,Second Striker,"Sep 13, 1989 (27)",NA,NA,Germany,Bayern Munich,Bundesliga,2017/2018,2017
-9,Centre-Forward,"Aug 21, 1988 (28)",NA,NA,Poland,Bayern Munich,Bundesliga,2017/2018,2017
-2,Centre-Forward,"Nov 29, 1987 (29)",NA,NA,Germany,Bayern Munich,Bundesliga,2017/2018,2017
-28,Centre-Forward,"Jul 10, 1994 (22)",NA,NA,Ghana,Bayern Munich,Bundesliga,2017/2018,2017
-NA,Centre-Forward,"Jan 10, 1999 (18)",NA,NA,Germany,Bayern Munich,Bundesliga,2017/2018,2017
-38,Goalkeeper,"Nov 14, 1990 (26)",NA,NA,Switzerland,Borussia Dortmund,Bundesliga,2017/2018,2017
-1,Goalkeeper,"Aug 6, 1980 (36)",NA,NA,Germany,Borussia Dortmund,Bundesliga,2017/2018,2017
-35,Goalkeeper,"Jun 18, 1997 (20)",NA,NA,Germany,Borussia Dortmund,Bundesliga,2017/2018,2017
-25,Centre-Back,"Jun 9, 1988 (29)",NA,NA,Greece,Borussia Dortmund,Bundesliga,2017/2018,2017
-36,Centre-Back,"Jul 21, 1989 (27)",NA,NA,Turkey,Borussia Dortmund,Bundesliga,2017/2018,2017
-NA,Centre-Back,"Jan 15, 1991 (26)",NA,NA,Spain,Borussia Dortmund,Bundesliga,2017/2018,2017
-NA,Centre-Back,"Dec 10, 1988 (28)",NA,NA,Serbia,Borussia Dortmund,Bundesliga,2017/2018,2017
-16,Centre-Back,"Jul 19, 1995 (21)",NA,NA,Switzerland,Borussia Dortmund,Bundesliga,2017/2018,2017
-2,Centre-Back,"Jun 3, 1999 (18)",NA,NA,France,Borussia Dortmund,Bundesliga,2017/2018,2017
-29,Left-Back,"Jan 22, 1988 (29)",NA,NA,Germany,Borussia Dortmund,Bundesliga,2017/2018,2017
-37,Left-Back,"May 12, 1992 (25)",NA,NA,Germany,Borussia Dortmund,Bundesliga,2017/2018,2017
-NA,Left-Back,"Jan 4, 1999 (18)",NA,NA,Germany,Borussia Dortmund,Bundesliga,2017/2018,2017
-26,Right-Back,"Jun 3, 1985 (32)",NA,NA,Poland,Borussia Dortmund,Bundesliga,2017/2018,2017
-15,Right-Back,"Aug 8, 1994 (22)",NA,NA,Germany,Borussia Dortmund,Bundesliga,2017/2018,2017
-NA,Right-Back,"May 29, 1998 (19)",NA,NA,Germany,Borussia Dortmund,Bundesliga,2017/2018,2017
-33,Defensive Midfield,"Sep 8, 1995 (21)",NA,NA,Germany,Borussia Dortmund,Bundesliga,2017/2018,2017
-8,Defensive Midfield,"Sep 5, 1988 (28)",NA,NA,Turkey,Borussia Dortmund,Bundesliga,2017/2018,2017
-19,Central Midfield,"Jan 1, 1996 (21)",NA,NA,Germany,Borussia Dortmund,Bundesliga,2017/2018,2017
-27,Central Midfield,"Jun 11, 1987 (30)",NA,NA,Germany,Borussia Dortmund,Bundesliga,2017/2018,2017
-18,Central Midfield,"Oct 11, 1990 (26)",NA,NA,Germany,Borussia Dortmund,Bundesliga,2017/2018,2017
-13,Left Midfield,"Dec 22, 1993 (23)",NA,NA,Portugal,Borussia Dortmund,Bundesliga,2017/2018,2017
-11,Attacking Midfield,"May 31, 1989 (28)",NA,NA,Germany,Borussia Dortmund,Bundesliga,2017/2018,2017
-10,Attacking Midfield,"Jun 3, 1992 (25)",NA,NA,Germany,Borussia Dortmund,Bundesliga,2017/2018,2017
-23,Attacking Midfield,"Mar 17, 1989 (28)",NA,NA,Japan,Borussia Dortmund,Bundesliga,2017/2018,2017
-34,Attacking Midfield,"Sep 4, 2000 (16)",NA,NA,Spain,Borussia Dortmund,Bundesliga,2017/2018,2017
-NA,Left Winger,"May 15, 1997 (20)",NA,NA,France,Borussia Dortmund,Bundesliga,2017/2018,2017
-21,Left Winger,"Nov 6, 1990 (26)",NA,NA,Germany,Borussia Dortmund,Bundesliga,2017/2018,2017
-NA,Left Winger,"Sep 19, 1998 (18)",NA,NA,Denmark,Borussia Dortmund,Bundesliga,2017/2018,2017
-9,Right Winger,"Oct 23, 1989 (27)",NA,NA,Ukraine,Borussia Dortmund,Bundesliga,2017/2018,2017
-22,Right Winger,"Sep 18, 1998 (18)",NA,NA,United States,Borussia Dortmund,Bundesliga,2017/2018,2017
-7,Right Winger,"Mar 25, 2000 (17)",NA,NA,England,Borussia Dortmund,Bundesliga,2017/2018,2017
-20,Second Striker,"Mar 1, 1994 (23)",NA,NA,Germany,Borussia Dortmund,Bundesliga,2017/2018,2017
-NA,Centre-Forward,"Jun 18, 1989 (28)",NA,NA,Gabon,Borussia Dortmund,Bundesliga,2017/2018,2017
-44,Centre-Forward,"Oct 2, 1993 (23)",NA,NA,Belgium,Borussia Dortmund,Bundesliga,2017/2018,2017
-14,Centre-Forward,"Sep 21, 1999 (17)",NA,NA,Sweden,Borussia Dortmund,Bundesliga,2017/2018,2017
-1,Goalkeeper,"Mar 4, 1992 (25)",NA,NA,Germany,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
-28,Goalkeeper,"Jun 28, 1984 (33)",NA,NA,Austria,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
-36,Goalkeeper,"Jul 28, 1993 (23)",NA,NA,Germany,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
-4,Centre-Back,"Feb 11, 1996 (21)",NA,NA,Germany,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
-NA,Centre-Back,"Mar 6, 1991 (26)",NA,NA,Austria,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
-5,Centre-Back,"Apr 27, 1989 (28)",NA,NA,Germany,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
-16,Centre-Back,"Nov 28, 1995 (21)",NA,NA,Croatia,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
-3,Centre-Back,"Aug 9, 1998 (18)",NA,NA,Greece,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
-NA,Centre-Back,"Feb 16, 1992 (25)",NA,NA,Brazil,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
-18,Left-Back,"Jul 20, 1993 (23)",NA,NA,Brazil,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
-39,Right-Back,"Feb 23, 1997 (20)",NA,NA,Germany,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
-8,Defensive Midfield,"Apr 27, 1989 (28)",NA,NA,Germany,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
-15,Defensive Midfield,"Jan 2, 1988 (29)",NA,NA,Austria,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
-37,Defensive Midfield,"Mar 24, 1996 (21)",NA,NA,Germany,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
-NA,Central Midfield,"Oct 9, 1990 (26)",NA,NA,Slovenia,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
-20,Central Midfield,"Apr 17, 1989 (28)",NA,NA,Chile,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
-21,Central Midfield,"Jan 31, 1994 (23)",NA,NA,Germany,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
-29,Attacking Midfield,"Jun 11, 1999 (18)",NA,NA,Germany,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
-22,Attacking Midfield,"Jan 22, 1994 (23)",NA,NA,Ukraine,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
-10,Left Winger,"May 2, 1996 (21)",NA,NA,Germany,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
-9,Left Winger,"Aug 9, 1997 (19)",NA,NA,Jamaica,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
-38,Right Winger,"Apr 8, 1990 (27)",NA,NA,Germany,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
-NA,Second Striker,"Mar 16, 1991 (26)",NA,NA,Switzerland,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
-31,Centre-Forward,"Jul 30, 1992 (24)",NA,NA,Germany,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
-13,Centre-Forward,"Oct 8, 1992 (24)",NA,NA,Argentina,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
-17,Centre-Forward,"Sep 13, 1994 (22)",NA,NA,Finland,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
-11,Centre-Forward,"Jan 25, 1984 (33)",NA,NA,Germany,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
-1,Goalkeeper,"Sep 27, 1988 (28)",NA,NA,Germany,FC Schalke 04,Bundesliga,2017/2018,2017
-34,Goalkeeper,"Jan 6, 1985 (32)",NA,NA,Austria,FC Schalke 04,Bundesliga,2017/2018,2017
-35,Goalkeeper,"Sep 30, 1996 (20)",NA,NA,Germany,FC Schalke 04,Bundesliga,2017/2018,2017
-NA,Centre-Back,"Feb 29, 1988 (29)",NA,NA,Germany,FC Schalke 04,Bundesliga,2017/2018,2017
-5,Centre-Back,"Mar 28, 1993 (24)",NA,NA,Serbia,FC Schalke 04,Bundesliga,2017/2018,2017
-17,Centre-Back,"Aug 13, 1990 (26)",NA,NA,France,FC Schalke 04,Bundesliga,2017/2018,2017
-20,Centre-Back,"Sep 21, 1996 (20)",NA,NA,Germany,FC Schalke 04,Bundesliga,2017/2018,2017
-3,Centre-Back,"Sep 9, 1993 (23)",NA,NA,Spain,FC Schalke 04,Bundesliga,2017/2018,2017
-29,Centre-Back,"Sep 10, 1982 (34)",NA,NA,Brazil,FC Schalke 04,Bundesliga,2017/2018,2017
-14,Left-Back,"Jul 2, 1994 (22)",NA,NA,Ghana,FC Schalke 04,Bundesliga,2017/2018,2017
-24,Left-Back,"Jan 12, 1989 (28)",NA,NA,Germany,FC Schalke 04,Bundesliga,2017/2018,2017
-NA,Right-Back,"Apr 26, 1987 (30)",NA,NA,Spain,FC Schalke 04,Bundesliga,2017/2018,2017
-21,Right-Back,"Mar 23, 1983 (34)",NA,NA,Germany,FC Schalke 04,Bundesliga,2017/2018,2017
-NA,Defensive Midfield,"Aug 17, 1993 (23)",NA,NA,Germany,FC Schalke 04,Bundesliga,2017/2018,2017
-8,Central Midfield,"Feb 6, 1995 (22)",NA,NA,Germany,FC Schalke 04,Bundesliga,2017/2018,2017
-10,Central Midfield,"Nov 24, 1994 (22)",NA,NA,Algeria,FC Schalke 04,Bundesliga,2017/2018,2017
-2,Central Midfield,"Aug 28, 1998 (18)",NA,NA,United States,FC Schalke 04,Bundesliga,2017/2018,2017
-28,Right Midfield,"Feb 7, 1994 (23)",NA,NA,Austria,FC Schalke 04,Bundesliga,2017/2018,2017
-18,Right Midfield,"Jan 15, 1988 (29)",NA,NA,Italy,FC Schalke 04,Bundesliga,2017/2018,2017
-7,Attacking Midfield,"Sep 18, 1995 (21)",NA,NA,Germany,FC Schalke 04,Bundesliga,2017/2018,2017
-25,Attacking Midfield,"Jun 18, 1997 (20)",NA,NA,Morocco,FC Schalke 04,Bundesliga,2017/2018,2017
-22,Left Winger,"May 6, 1995 (22)",NA,NA,Croatia,FC Schalke 04,Bundesliga,2017/2018,2017
-11,Left Winger,"Sep 29, 1989 (27)",NA,NA,Ukraine,FC Schalke 04,Bundesliga,2017/2018,2017
-32,Right Winger,"Sep 3, 1997 (19)",NA,NA,Ghana,FC Schalke 04,Bundesliga,2017/2018,2017
-36,Centre-Forward,"Feb 14, 1997 (20)",NA,NA,Switzerland,FC Schalke 04,Bundesliga,2017/2018,2017
-19,Centre-Forward,"Apr 29, 1989 (28)",NA,NA,Austria,FC Schalke 04,Bundesliga,2017/2018,2017
-9,Centre-Forward,"Apr 7, 1989 (28)",NA,NA,Argentina,FC Schalke 04,Bundesliga,2017/2018,2017
-NA,Centre-Forward,"Nov 29, 1997 (19)",NA,NA,Germany,FC Schalke 04,Bundesliga,2017/2018,2017
-23,Centre-Forward,"Jan 14, 1997 (20)",NA,NA,Germany,FC Schalke 04,Bundesliga,2017/2018,2017
-28,Goalkeeper,"Jun 6, 1994 (23)",NA,NA,Switzerland,RB Leipzig,Bundesliga,2017/2018,2017
-32,Goalkeeper,"May 6, 1990 (27)",NA,NA,Hungary,RB Leipzig,Bundesliga,2017/2018,2017
-1,Goalkeeper,"Dec 3, 1980 (36)",NA,NA,Switzerland,RB Leipzig,Bundesliga,2017/2018,2017
-22,Goalkeeper,"Apr 2, 1998 (19)",NA,NA,Switzerland,RB Leipzig,Bundesliga,2017/2018,2017
-4,Centre-Back,"Nov 3, 1992 (24)",NA,NA,Hungary,RB Leipzig,Bundesliga,2017/2018,2017
-5,Centre-Back,"Oct 27, 1998 (18)",NA,NA,France,RB Leipzig,Bundesliga,2017/2018,2017
-NA,Centre-Back,"Jun 14, 1985 (32)",NA,NA,Germany,RB Leipzig,Bundesliga,2017/2018,2017
-6,Centre-Back,"May 25, 1999 (18)",NA,NA,France,RB Leipzig,Bundesliga,2017/2018,2017
-23,Left-Back,"Sep 27, 1991 (25)",NA,NA,Germany,RB Leipzig,Bundesliga,2017/2018,2017
-3,Left-Back,"May 14, 1995 (22)",NA,NA,Brazil,RB Leipzig,Bundesliga,2017/2018,2017
-16,Right-Back,"Jun 3, 1996 (21)",NA,NA,Germany,RB Leipzig,Bundesliga,2017/2018,2017
-20,Right-Back,"Nov 17, 1994 (22)",NA,NA,Germany,RB Leipzig,Bundesliga,2017/2018,2017
-31,Defensive Midfield,"Nov 21, 1991 (25)",NA,NA,Germany,RB Leipzig,Bundesliga,2017/2018,2017
-13,Defensive Midfield,"May 18, 1989 (28)",NA,NA,Austria,RB Leipzig,Bundesliga,2017/2018,2017
-NA,Defensive Midfield,"Jan 22, 2000 (17)",NA,NA,Germany,RB Leipzig,Bundesliga,2017/2018,2017
-8,Central Midfield,"Feb 10, 1995 (22)",NA,NA,Guinea,RB Leipzig,Bundesliga,2017/2018,2017
-44,Central Midfield,"Oct 9, 1990 (26)",NA,NA,Slovenia,RB Leipzig,Bundesliga,2017/2018,2017
-27,Central Midfield,"May 27, 1997 (20)",NA,NA,Austria,RB Leipzig,Bundesliga,2017/2018,2017
-24,Central Midfield,"Sep 16, 1988 (28)",NA,NA,Germany,RB Leipzig,Bundesliga,2017/2018,2017
-10,Left Winger,"Oct 23, 1991 (25)",NA,NA,Sweden,RB Leipzig,Bundesliga,2017/2018,2017
-17,Left Winger,"Oct 24, 1994 (22)",NA,NA,Portugal,RB Leipzig,Bundesliga,2017/2018,2017
-18,Left Winger,"Oct 20, 1997 (19)",NA,NA,England,RB Leipzig,Bundesliga,2017/2018,2017
-7,Right Winger,"Mar 17, 1994 (23)",NA,NA,Austria,RB Leipzig,Bundesliga,2017/2018,2017
-NA,Right Winger,"Apr 7, 1997 (20)",NA,NA,Scotland,RB Leipzig,Bundesliga,2017/2018,2017
-11,Centre-Forward,"Mar 6, 1996 (21)",NA,NA,Germany,RB Leipzig,Bundesliga,2017/2018,2017
-9,Centre-Forward,"Jun 15, 1994 (23)",NA,NA,Denmark,RB Leipzig,Bundesliga,2017/2018,2017
-29,Centre-Forward,"Jun 16, 1997 (20)",NA,NA,France,RB Leipzig,Bundesliga,2017/2018,2017
-NA,Centre-Forward,"Apr 9, 1995 (22)",NA,NA,Germany,RB Leipzig,Bundesliga,2017/2018,2017
-1,Goalkeeper,"Jun 25, 1992 (25)",NA,NA,Belgium,VfL Wolfsburg,Bundesliga,2017/2018,2017
-20,Goalkeeper,"Apr 5, 1987 (30)",NA,NA,Germany,VfL Wolfsburg,Bundesliga,2017/2018,2017
-36,Goalkeeper,"Aug 18, 1998 (18)",NA,NA,Germany,VfL Wolfsburg,Bundesliga,2017/2018,2017
-25,Centre-Back,"Jan 28, 1993 (24)",NA,NA,United States,VfL Wolfsburg,Bundesliga,2017/2018,2017
-5,Centre-Back,"Nov 13, 1991 (25)",NA,NA,Netherlands,VfL Wolfsburg,Bundesliga,2017/2018,2017
-31,Centre-Back,"May 22, 1992 (25)",NA,NA,Germany,VfL Wolfsburg,Bundesliga,2017/2018,2017
-29,Centre-Back,"Jan 10, 1993 (24)",NA,NA,DR Congo,VfL Wolfsburg,Bundesliga,2017/2018,2017
-17,Centre-Back,"Sep 9, 1997 (19)",NA,NA,Germany,VfL Wolfsburg,Bundesliga,2017/2018,2017
-NA,Centre-Back,"Oct 5, 1998 (18)",NA,NA,Germany,VfL Wolfsburg,Bundesliga,2017/2018,2017
-39,Centre-Back,"Jul 22, 1998 (18)",NA,NA,Germany,VfL Wolfsburg,Bundesliga,2017/2018,2017
-35,Left-Back,"Jan 5, 1999 (18)",NA,NA,Germany,VfL Wolfsburg,Bundesliga,2017/2018,2017
-2,Right-Back,"Apr 3, 1995 (22)",NA,NA,Brazil,VfL Wolfsburg,Bundesliga,2017/2018,2017
-24,Right-Back,"Jun 22, 1990 (27)",NA,NA,Germany,VfL Wolfsburg,Bundesliga,2017/2018,2017
-3,Right-Back,"Sep 1, 1983 (33)",NA,NA,Netherlands,VfL Wolfsburg,Bundesliga,2017/2018,2017
-4,Defensive Midfield,"May 4, 1990 (27)",NA,NA,Spain,VfL Wolfsburg,Bundesliga,2017/2018,2017
-23,Defensive Midfield,"Sep 19, 1990 (26)",NA,NA,France,VfL Wolfsburg,Bundesliga,2017/2018,2017
-6,Central Midfield,"Oct 12, 1996 (20)",NA,NA,Netherlands,VfL Wolfsburg,Bundesliga,2017/2018,2017
-13,Central Midfield,"Mar 13, 1994 (23)",NA,NA,Germany,VfL Wolfsburg,Bundesliga,2017/2018,2017
-27,Central Midfield,"May 27, 1994 (23)",NA,NA,Germany,VfL Wolfsburg,Bundesliga,2017/2018,2017
-37,Central Midfield,"Nov 1, 1997 (19)",NA,NA,Germany,VfL Wolfsburg,Bundesliga,2017/2018,2017
-10,Attacking Midfield,"Feb 24, 1992 (25)",NA,NA,Turkey,VfL Wolfsburg,Bundesliga,2017/2018,2017
-11,Attacking Midfield,"Feb 21, 1990 (27)",NA,NA,Germany,VfL Wolfsburg,Bundesliga,2017/2018,2017
-26,Attacking Midfield,"Apr 21, 1997 (20)",NA,NA,Germany,VfL Wolfsburg,Bundesliga,2017/2018,2017
-NA,Left Winger,"Jul 29, 1992 (24)",NA,NA,Cameroon,VfL Wolfsburg,Bundesliga,2017/2018,2017
-21,Left Winger,"Jun 23, 1998 (19)",NA,NA,Croatia,VfL Wolfsburg,Bundesliga,2017/2018,2017
-8,Right Winger,"Nov 3, 1991 (25)",NA,NA,Switzerland,VfL Wolfsburg,Bundesliga,2017/2018,2017
-16,Right Winger,"Dec 14, 1985 (31)",NA,NA,Poland,VfL Wolfsburg,Bundesliga,2017/2018,2017
-22,Second Striker,"Mar 16, 1991 (26)",NA,NA,Switzerland,VfL Wolfsburg,Bundesliga,2017/2018,2017
-NA,Second Striker,"Jan 28, 1998 (19)",NA,NA,England,VfL Wolfsburg,Bundesliga,2017/2018,2017
-14,Centre-Forward,"Apr 18, 1995 (22)",NA,NA,Belgium,VfL Wolfsburg,Bundesliga,2017/2018,2017
-NA,Centre-Forward,"Jul 10, 1985 (31)",NA,NA,Germany,VfL Wolfsburg,Bundesliga,2017/2018,2017
-9,Centre-Forward,"Sep 1, 1997 (19)",NA,NA,Belgium,VfL Wolfsburg,Bundesliga,2017/2018,2017
-18,Centre-Forward,"Dec 29, 1998 (18)",NA,NA,Nigeria,VfL Wolfsburg,Bundesliga,2017/2018,2017
-1,Goalkeeper,"Dec 17, 1988 (28)",NA,NA,Switzerland,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
-21,Goalkeeper,"Mar 22, 1988 (29)",NA,NA,Germany,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
-33,Goalkeeper,"Aug 1, 1981 (35)",NA,NA,Germany,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
-35,Goalkeeper,"Oct 21, 1997 (19)",NA,NA,Germany,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
-28,Centre-Back,"Jan 19, 1994 (23)",NA,NA,Germany,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
-4,Centre-Back,"Aug 3, 1992 (24)",NA,NA,Denmark,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
-30,Centre-Back,"Sep 30, 1996 (20)",NA,NA,Switzerland,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
-24,Centre-Back,"Apr 7, 1990 (27)",NA,NA,Germany,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
-3,Centre-Back,"Dec 16, 1998 (18)",NA,NA,England,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
-29,Centre-Back,"May 21, 1998 (19)",NA,NA,France,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
-NA,Centre-Back,"Mar 4, 1998 (19)",NA,NA,Germany,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
-17,Left-Back,"Oct 24, 1985 (31)",NA,NA,Sweden,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
-NA,Right-Back,"Aug 17, 1997 (19)",NA,NA,England,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
-NA,Right-Back,"Feb 26, 1997 (20)",NA,NA,Germany,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
-NA,Right-Back,"May 19, 2000 (17)",NA,NA,Germany,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
-6,Defensive Midfield,"Feb 19, 1991 (26)",NA,NA,Germany,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
-8,Defensive Midfield,"Nov 20, 1996 (20)",NA,NA,Switzerland,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
-5,Defensive Midfield,"May 12, 1990 (27)",NA,NA,Germany,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
-NA,Defensive Midfield,"Jan 30, 1998 (19)",NA,NA,Germany,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
-NA,Defensive Midfield,"Jul 2, 1998 (18)",NA,NA,Germany,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
-23,Central Midfield,"Jul 14, 1992 (24)",NA,NA,Germany,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
-22,Central Midfield,"Sep 9, 1997 (19)",NA,NA,Slovakia,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
-27,Central Midfield,"Aug 16, 1999 (17)",NA,NA,France,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
-10,Left Winger,"Mar 29, 1993 (24)",NA,NA,Belgium,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
-32,Left Winger,"Apr 7, 1993 (24)",NA,NA,Italy,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
-19,Left Winger,"Dec 11, 1987 (29)",NA,NA,United States,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
-NA,Left Winger,"Jun 2, 1994 (23)",NA,NA,Australia,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
-7,Right Winger,"Feb 12, 1991 (26)",NA,NA,Germany,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
-16,Right Winger,"Apr 21, 1988 (29)",NA,NA,Guinea,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
-13,Second Striker,"Aug 26, 1988 (28)",NA,NA,Germany,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
-11,Second Striker,"Mar 28, 1985 (32)",NA,NA,Brazil,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
-31,Second Striker,"Jan 28, 1997 (20)",NA,NA,Germany,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
-26,Centre-Forward,"Jun 18, 1987 (30)",NA,NA,Paraguay,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
-18,Centre-Forward,"Aug 8, 1992 (24)",NA,NA,Switzerland,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
-20,Centre-Forward,"Sep 17, 1998 (18)",NA,NA,Paraguay,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
-1,Goalkeeper,"Jun 2, 1990 (27)",NA,NA,Germany,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
-36,Goalkeeper,"Dec 6, 1997 (19)",NA,NA,Switzerland,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
-33,Goalkeeper,"Oct 13, 1983 (33)",NA,NA,Germany,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
-22,Centre-Back,"Sep 23, 1991 (25)",NA,NA,Germany,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
-21,Centre-Back,"Jul 4, 1989 (27)",NA,NA,Germany,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
-4,Centre-Back,"Jan 24, 1990 (27)",NA,NA,Bosnia-Herzegovina,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
-24,Centre-Back,"Jun 11, 1998 (19)",NA,NA,Netherlands,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
-25,Centre-Back,"Apr 19, 1995 (22)",NA,NA,Germany,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
-NA,Centre-Back,"Mar 30, 1997 (20)",NA,NA,Germany,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
-38,Centre-Back,"May 14, 1997 (20)",NA,NA,Austria,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
-16,Left-Back,"Apr 1, 1993 (24)",NA,NA,Germany,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
-NA,Left-Back,"Jun 6, 1996 (21)",NA,NA,Germany,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
-3,Right-Back,"Apr 25, 1992 (25)",NA,NA,Czech Republic,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
-NA,Right-Back,"Aug 8, 1994 (22)",NA,NA,Germany,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
-31,Right-Back,"May 29, 1998 (19)",NA,NA,Germany,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
-6,Defensive Midfield,"Jun 21, 1990 (27)",NA,NA,Norway,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
-8,Defensive Midfield,"Mar 17, 1986 (31)",NA,NA,Poland,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
-32,Defensive Midfield,"Jun 10, 1998 (19)",NA,NA,Germany,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
-10,Central Midfield,"Jul 3, 1993 (23)",NA,NA,Germany,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
-18,Central Midfield,"Oct 27, 1996 (20)",NA,NA,Germany,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
-7,Central Midfield,"Jan 8, 1991 (26)",NA,NA,Germany,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
-11,Central Midfield,"Aug 7, 1995 (21)",NA,NA,Austria,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
-NA,Right Midfield,"Jul 26, 1997 (19)",NA,NA,Germany,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
-17,Left Midfield,"Aug 17, 1991 (25)",NA,NA,Switzerland,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
-20,Attacking Midfield,"Feb 5, 1992 (25)",NA,NA,Austria,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
-NA,Attacking Midfield,"Jan 12, 1996 (21)",NA,NA,Germany,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
-NA,Left Winger,"Apr 17, 1997 (20)",NA,NA,Germany,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
-37,Left Winger,"Aug 27, 1998 (18)",NA,NA,Germany,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
-29,Right Winger,"Jul 14, 1995 (21)",NA,NA,Germany,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
-NA,Right Winger,"Aug 24, 1997 (19)",NA,NA,Germany,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
-27,Centre-Forward,"Jun 19, 1991 (26)",NA,NA,Croatia,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
-NA,Centre-Forward,"Nov 29, 1987 (29)",NA,NA,Germany,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
-19,Centre-Forward,"Aug 24, 1991 (25)",NA,NA,Germany,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
-28,Centre-Forward,"Dec 9, 1987 (29)",NA,NA,Hungary,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
-NA,Centre-Forward,"Mar 28, 1998 (19)",NA,NA,Montenegro,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
-26,Centre-Forward,"Mar 3, 1999 (18)",NA,NA,Germany,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
-1,Goalkeeper,"May 12, 1993 (24)",NA,NA,Germany,1. FC Köln,Bundesliga,2017/2018,2017
-18,Goalkeeper,"Jan 20, 1986 (31)",NA,NA,Germany,1. FC Köln,Bundesliga,2017/2018,2017
-35,Goalkeeper,"Feb 16, 1996 (21)",NA,NA,Germany,1. FC Köln,Bundesliga,2017/2018,2017
-NA,Goalkeeper,"Jun 30, 1999 (18)",NA,NA,United States,1. FC Köln,Bundesliga,2017/2018,2017
-3,Centre-Back,"Aug 15, 1993 (23)",NA,NA,Germany,1. FC Köln,Bundesliga,2017/2018,2017
-4,Centre-Back,"Apr 14, 1992 (25)",NA,NA,Denmark,1. FC Köln,Bundesliga,2017/2018,2017
-22,Centre-Back,"Apr 17, 1997 (20)",NA,NA,Spain,1. FC Köln,Bundesliga,2017/2018,2017
-5,Centre-Back,"Mar 4, 1987 (30)",NA,NA,Slovenia,1. FC Köln,Bundesliga,2017/2018,2017
-27,Centre-Back,"Jun 3, 1996 (21)",NA,NA,Serbia,1. FC Köln,Bundesliga,2017/2018,2017
-25,Centre-Back,"Apr 22, 1998 (19)",NA,NA,Portugal,1. FC Köln,Bundesliga,2017/2018,2017
-40,Centre-Back,"Nov 29, 2000 (16)",NA,NA,Germany,1. FC Köln,Bundesliga,2017/2018,2017
-14,Left-Back,"May 27, 1990 (27)",NA,NA,Germany,1. FC Köln,Bundesliga,2017/2018,2017
-23,Left-Back,"Feb 6, 1997 (20)",NA,NA,Germany,1. FC Köln,Bundesliga,2017/2018,2017
-NA,Left-Back,"Mar 15, 1990 (27)",NA,NA,Russia,1. FC Köln,Bundesliga,2017/2018,2017
-NA,Left-Back,"Feb 13, 1998 (19)",NA,NA,Norway,1. FC Köln,Bundesliga,2017/2018,2017
-NA,Left-Back,"Aug 17, 1999 (17)",NA,NA,Germany,1. FC Köln,Bundesliga,2017/2018,2017
-29,Left-Back,"May 19, 1998 (19)",NA,NA,Germany,1. FC Köln,Bundesliga,2017/2018,2017
-16,Right-Back,"Feb 13, 1990 (27)",NA,NA,Poland,1. FC Köln,Bundesliga,2017/2018,2017
-24,Right-Back,"May 26, 1996 (21)",NA,NA,Germany,1. FC Köln,Bundesliga,2017/2018,2017
-NA,Right-Back,"Feb 22, 1999 (18)",NA,NA,Germany,1. FC Köln,Bundesliga,2017/2018,2017
-6,Defensive Midfield,"Sep 16, 1989 (27)",NA,NA,Germany,1. FC Köln,Bundesliga,2017/2018,2017
-33,Defensive Midfield,"May 28, 1983 (34)",NA,NA,Germany,1. FC Köln,Bundesliga,2017/2018,2017
-21,Central Midfield,"Oct 28, 1995 (21)",NA,NA,France,1. FC Köln,Bundesliga,2017/2018,2017
-8,Central Midfield,"Mar 19, 1992 (25)",NA,NA,Serbia,1. FC Köln,Bundesliga,2017/2018,2017
-20,Central Midfield,"Jan 11, 1998 (19)",NA,NA,Germany,1. FC Köln,Bundesliga,2017/2018,2017
-26,Central Midfield,"Jan 9, 1998 (19)",NA,NA,Germany,1. FC Köln,Bundesliga,2017/2018,2017
-38,Central Midfield,"Feb 22, 2000 (17)",NA,NA,Denmark,1. FC Köln,Bundesliga,2017/2018,2017
-7,Right Midfield,"Dec 17, 1989 (27)",NA,NA,Germany,1. FC Köln,Bundesliga,2017/2018,2017
-21,Attacking Midfield,"Dec 19, 1993 (23)",NA,NA,Germany,1. FC Köln,Bundesliga,2017/2018,2017
-37,Attacking Midfield,"Sep 23, 1997 (19)",NA,NA,Morocco,1. FC Köln,Bundesliga,2017/2018,2017
-17,Right Winger,"Aug 4, 1991 (25)",NA,NA,Germany,1. FC Köln,Bundesliga,2017/2018,2017
-15,Centre-Forward,"May 11, 1993 (24)",NA,NA,Colombia,1. FC Köln,Bundesliga,2017/2018,2017
-13,Centre-Forward,"May 18, 1990 (27)",NA,NA,Japan,1. FC Köln,Bundesliga,2017/2018,2017
-9,Centre-Forward,"Mar 2, 1988 (29)",NA,NA,Germany,1. FC Köln,Bundesliga,2017/2018,2017
-11,Centre-Forward,"Jun 26, 1991 (26)",NA,NA,Germany,1. FC Köln,Bundesliga,2017/2018,2017
-NA,Centre-Forward,"Jan 13, 1988 (29)",NA,NA,Latvia,1. FC Köln,Bundesliga,2017/2018,2017
-19,Centre-Forward,"Mar 12, 1996 (21)",NA,NA,France,1. FC Köln,Bundesliga,2017/2018,2017
-39,Centre-Forward,"Oct 3, 1978 (38)",NA,NA,Peru,1. FC Köln,Bundesliga,2017/2018,2017
-22,Goalkeeper,"Sep 29, 1984 (32)",NA,NA,Norway,Hertha BSC,Bundesliga,2017/2018,2017
-1,Goalkeeper,"Jul 22, 1988 (28)",NA,NA,Germany,Hertha BSC,Bundesliga,2017/2018,2017
-NA,Goalkeeper,"Jan 14, 1999 (18)",NA,NA,Germany,Hertha BSC,Bundesliga,2017/2018,2017
-33,Goalkeeper,"Apr 8, 1997 (20)",NA,NA,United States,Hertha BSC,Bundesliga,2017/2018,2017
-5,Centre-Back,"Apr 14, 1995 (22)",NA,NA,Germany,Hertha BSC,Bundesliga,2017/2018,2017
-NA,Centre-Back,"Jan 15, 1988 (29)",NA,NA,Germany,Hertha BSC,Bundesliga,2017/2018,2017
-4,Centre-Back,"Dec 2, 1994 (22)",NA,NA,Netherlands,Hertha BSC,Bundesliga,2017/2018,2017
-25,Centre-Back,"Aug 7, 1997 (19)",NA,NA,Germany,Hertha BSC,Bundesliga,2017/2018,2017
-29,Centre-Back,"Mar 18, 1999 (18)",NA,NA,Germany,Hertha BSC,Bundesliga,2017/2018,2017
-21,Left-Back,"Jan 26, 1992 (25)",NA,NA,Germany,Hertha BSC,Bundesliga,2017/2018,2017
-17,Left-Back,"Mar 18, 1997 (20)",NA,NA,Germany,Hertha BSC,Bundesliga,2017/2018,2017
-23,Right-Back,"Apr 21, 1994 (23)",NA,NA,Germany,Hertha BSC,Bundesliga,2017/2018,2017
-2,Right-Back,"Oct 30, 1986 (30)",NA,NA,Slovakia,Hertha BSC,Bundesliga,2017/2018,2017
-28,Defensive Midfield,"May 2, 1988 (29)",NA,NA,Switzerland,Hertha BSC,Bundesliga,2017/2018,2017
-26,Defensive Midfield,"Jan 8, 1999 (18)",NA,NA,Germany,Hertha BSC,Bundesliga,2017/2018,2017
-6,Central Midfield,"Aug 8, 1990 (26)",NA,NA,Czech Republic,Hertha BSC,Bundesliga,2017/2018,2017
-3,Central Midfield,"Jun 16, 1987 (30)",NA,NA,Norway,Hertha BSC,Bundesliga,2017/2018,2017
-35,Central Midfield,"Apr 12, 1998 (19)",NA,NA,Germany,Hertha BSC,Bundesliga,2017/2018,2017
-20,Right Midfield,"Mar 24, 1996 (21)",NA,NA,Austria,Hertha BSC,Bundesliga,2017/2018,2017
-10,Attacking Midfield,"Dec 5, 1994 (22)",NA,NA,Slovakia,Hertha BSC,Bundesliga,2017/2018,2017
-NA,Attacking Midfield,"Apr 12, 1989 (28)",NA,NA,Switzerland,Hertha BSC,Bundesliga,2017/2018,2017
-30,Attacking Midfield,"May 20, 1999 (18)",NA,NA,Germany,Hertha BSC,Bundesliga,2017/2018,2017
-8,Left Winger,"Aug 5, 1985 (31)",NA,NA,Cote d'Ivoire,Hertha BSC,Bundesliga,2017/2018,2017
-NA,Left Winger,"May 9, 1991 (26)",NA,NA,Japan,Hertha BSC,Bundesliga,2017/2018,2017
-18,Left Winger,"Jul 23, 1996 (20)",NA,NA,Germany,Hertha BSC,Bundesliga,2017/2018,2017
-7,Right Winger,"Mar 25, 1990 (27)",NA,NA,Germany,Hertha BSC,Bundesliga,2017/2018,2017
-11,Right Winger,"Feb 4, 1991 (26)",NA,NA,Australia,Hertha BSC,Bundesliga,2017/2018,2017
-NA,Right Winger,"Apr 17, 1998 (19)",NA,NA,Germany,Hertha BSC,Bundesliga,2017/2018,2017
-32,Right Winger,"Apr 24, 1999 (18)",NA,NA,Germany,Hertha BSC,Bundesliga,2017/2018,2017
-27,Centre-Forward,"Jan 20, 1995 (22)",NA,NA,Germany,Hertha BSC,Bundesliga,2017/2018,2017
-19,Centre-Forward,"Aug 6, 1984 (32)",NA,NA,Bosnia-Herzegovina,Hertha BSC,Bundesliga,2017/2018,2017
-16,Centre-Forward,"Feb 13, 1989 (28)",NA,NA,Germany,Hertha BSC,Bundesliga,2017/2018,2017
-1,Goalkeeper,"Nov 24, 1989 (27)",NA,NA,Finland,Eintracht Frankfurt,Bundesliga,2017/2018,2017
-37,Goalkeeper,"Apr 19, 1985 (32)",NA,NA,Germany,Eintracht Frankfurt,Bundesliga,2017/2018,2017
-34,Goalkeeper,"Jul 9, 1997 (19)",NA,NA,Germany,Eintracht Frankfurt,Bundesliga,2017/2018,2017
-19,Centre-Back,"Jul 15, 1986 (30)",NA,NA,Argentina,Eintracht Frankfurt,Bundesliga,2017/2018,2017
-13,Centre-Back,"Sep 29, 1993 (23)",NA,NA,Mexico,Eintracht Frankfurt,Bundesliga,2017/2018,2017
-3,Centre-Back,"Feb 19, 1992 (25)",NA,NA,Guinea,Eintracht Frankfurt,Bundesliga,2017/2018,2017
-23,Centre-Back,"Aug 4, 1985 (31)",NA,NA,Germany,Eintracht Frankfurt,Bundesliga,2017/2018,2017
-35,Centre-Back,"May 5, 1999 (18)",NA,NA,Germany,Eintracht Frankfurt,Bundesliga,2017/2018,2017
-15,Left-Back,"Mar 30, 1994 (23)",NA,NA,Netherlands,Eintracht Frankfurt,Bundesliga,2017/2018,2017
-33,Left-Back,"Jun 21, 1992 (25)",NA,NA,Israel,Eintracht Frankfurt,Bundesliga,2017/2018,2017
-26,Left-Back,"Sep 6, 1999 (17)",NA,NA,Germany,Eintracht Frankfurt,Bundesliga,2017/2018,2017
-22,Right-Back,"Mar 29, 1990 (27)",NA,NA,United States,Eintracht Frankfurt,Bundesliga,2017/2018,2017
-24,Right-Back,"Jul 13, 1993 (23)",NA,NA,Germany,Eintracht Frankfurt,Bundesliga,2017/2018,2017
-39,Defensive Midfield,"Feb 2, 1993 (24)",NA,NA,Spain,Eintracht Frankfurt,Bundesliga,2017/2018,2017
-5,Defensive Midfield,"Sep 2, 1986 (30)",NA,NA,Switzerland,Eintracht Frankfurt,Bundesliga,2017/2018,2017
-20,Defensive Midfield,"Jan 18, 1984 (33)",NA,NA,Japan,Eintracht Frankfurt,Bundesliga,2017/2018,2017
-NA,Defensive Midfield,"Oct 20, 1990 (26)",NA,NA,Serbia,Eintracht Frankfurt,Bundesliga,2017/2018,2017
-30,Defensive Midfield,"Sep 28, 2000 (16)",NA,NA,Germany,Eintracht Frankfurt,Bundesliga,2017/2018,2017
-21,Central Midfield,"Dec 10, 1995 (21)",NA,NA,Germany,Eintracht Frankfurt,Bundesliga,2017/2018,2017
-6,Central Midfield,"Sep 13, 1987 (29)",NA,NA,Netherlands,Eintracht Frankfurt,Bundesliga,2017/2018,2017
-NA,Central Midfield,"May 31, 1997 (20)",NA,NA,Germany,Eintracht Frankfurt,Bundesliga,2017/2018,2017
-42,Central Midfield,"Feb 2, 1998 (19)",NA,NA,Bosnia-Herzegovina,Eintracht Frankfurt,Bundesliga,2017/2018,2017
-10,Attacking Midfield,"Jul 21, 1989 (27)",NA,NA,Mexico,Eintracht Frankfurt,Bundesliga,2017/2018,2017
-11,Attacking Midfield,"Feb 8, 1995 (22)",NA,NA,Serbia,Eintracht Frankfurt,Bundesliga,2017/2018,2017
-28,Attacking Midfield,"May 21, 1998 (19)",NA,NA,Germany,Eintracht Frankfurt,Bundesliga,2017/2018,2017
-7,Left Winger,"Jan 7, 1991 (26)",NA,NA,Germany,Eintracht Frankfurt,Bundesliga,2017/2018,2017
-27,Right Winger,"May 27, 1995 (22)",NA,NA,Germany,Eintracht Frankfurt,Bundesliga,2017/2018,2017
-4,Second Striker,"Sep 21, 1993 (23)",NA,NA,Croatia,Eintracht Frankfurt,Bundesliga,2017/2018,2017
-14,Second Striker,"Jan 17, 1983 (34)",NA,NA,Germany,Eintracht Frankfurt,Bundesliga,2017/2018,2017
-40,Second Striker,"Aug 5, 1996 (20)",NA,NA,Japan,Eintracht Frankfurt,Bundesliga,2017/2018,2017
-32,Second Striker,"May 4, 1999 (18)",NA,NA,Cameroon,Eintracht Frankfurt,Bundesliga,2017/2018,2017
-9,Centre-Forward,"Jun 22, 1994 (23)",NA,NA,France,Eintracht Frankfurt,Bundesliga,2017/2018,2017
-17,Centre-Forward,"Mar 6, 1987 (30)",NA,NA,Ghana,Eintracht Frankfurt,Bundesliga,2017/2018,2017
-31,Centre-Forward,"Jan 12, 1993 (24)",NA,NA,Sweden,Eintracht Frankfurt,Bundesliga,2017/2018,2017
-8,Centre-Forward,"Dec 23, 1997 (19)",NA,NA,Serbia,Eintracht Frankfurt,Bundesliga,2017/2018,2017
-38,Centre-Forward,"May 17, 1999 (18)",NA,NA,Azerbaijan,Eintracht Frankfurt,Bundesliga,2017/2018,2017
-1,Goalkeeper,"Apr 14, 1992 (25)",NA,NA,Czech Republic,SV Werder Bremen,Bundesliga,2017/2018,2017
-30,Goalkeeper,"Jul 12, 1995 (21)",NA,NA,Germany,SV Werder Bremen,Bundesliga,2017/2018,2017
-33,Goalkeeper,"Oct 18, 1979 (37)",NA,NA,Czech Republic,SV Werder Bremen,Bundesliga,2017/2018,2017
-40,Goalkeeper,"Mar 10, 2000 (17)",NA,NA,Germany,SV Werder Bremen,Bundesliga,2017/2018,2017
-NA,Centre-Back,"Mar 22, 1987 (30)",NA,NA,Senegal,SV Werder Bremen,Bundesliga,2017/2018,2017
-13,Centre-Back,"Sep 26, 1995 (21)",NA,NA,Serbia,SV Werder Bremen,Bundesliga,2017/2018,2017
-15,Centre-Back,"Jan 15, 1988 (29)",NA,NA,Germany,SV Werder Bremen,Bundesliga,2017/2018,2017
-3,Centre-Back,"Feb 1, 1991 (26)",NA,NA,Italy,SV Werder Bremen,Bundesliga,2017/2018,2017
-18,Centre-Back,"Sep 29, 1985 (31)",NA,NA,Finland,SV Werder Bremen,Bundesliga,2017/2018,2017
-28,Centre-Back,"Jun 4, 1996 (21)",NA,NA,Netherlands,SV Werder Bremen,Bundesliga,2017/2018,2017
-5,Left-Back,"Apr 21, 1994 (23)",NA,NA,Sweden,SV Werder Bremen,Bundesliga,2017/2018,2017
-NA,Left-Back,"Jan 11, 1996 (21)",NA,NA,Switzerland,SV Werder Bremen,Bundesliga,2017/2018,2017
-NA,Left-Back,"Apr 19, 1997 (20)",NA,NA,Germany,SV Werder Bremen,Bundesliga,2017/2018,2017
-32,Left-Back,"Mar 16, 1998 (19)",NA,NA,Austria,SV Werder Bremen,Bundesliga,2017/2018,2017
-4,Right-Back,"Apr 9, 1995 (22)",NA,NA,Germany,SV Werder Bremen,Bundesliga,2017/2018,2017
-23,Right-Back,"Dec 24, 1986 (30)",NA,NA,Czech Republic,SV Werder Bremen,Bundesliga,2017/2018,2017
-44,Defensive Midfield,"Mar 3, 1989 (28)",NA,NA,Germany,SV Werder Bremen,Bundesliga,2017/2018,2017
-14,Defensive Midfield,"Jan 9, 1997 (20)",NA,NA,Germany,SV Werder Bremen,Bundesliga,2017/2018,2017
-16,Central Midfield,"Sep 26, 1987 (29)",NA,NA,Austria,SV Werder Bremen,Bundesliga,2017/2018,2017
-6,Central Midfield,"Sep 3, 1991 (25)",NA,NA,Denmark,SV Werder Bremen,Bundesliga,2017/2018,2017
-8,Central Midfield,"Jun 26, 1988 (29)",NA,NA,Germany,SV Werder Bremen,Bundesliga,2017/2018,2017
-35,Central Midfield,"Dec 8, 1996 (20)",NA,NA,Germany,SV Werder Bremen,Bundesliga,2017/2018,2017
-38,Right Midfield,"Mar 1, 1998 (19)",NA,NA,Germany,SV Werder Bremen,Bundesliga,2017/2018,2017
-11,Left Winger,"Jun 28, 1996 (21)",NA,NA,Kosovo,SV Werder Bremen,Bundesliga,2017/2018,2017
-7,Left Winger,"Oct 24, 1992 (24)",NA,NA,Austria,SV Werder Bremen,Bundesliga,2017/2018,2017
-NA,Right Winger,"Aug 4, 1991 (25)",NA,NA,Bosnia-Herzegovina,SV Werder Bremen,Bundesliga,2017/2018,2017
-17,Right Winger,"Jun 13, 1988 (29)",NA,NA,Germany,SV Werder Bremen,Bundesliga,2017/2018,2017
-24,Right Winger,"May 8, 1998 (19)",NA,NA,Germany,SV Werder Bremen,Bundesliga,2017/2018,2017
-22,Second Striker,"Feb 7, 1987 (30)",NA,NA,Germany,SV Werder Bremen,Bundesliga,2017/2018,2017
-10,Centre-Forward,"Mar 19, 1988 (29)",NA,NA,Germany,SV Werder Bremen,Bundesliga,2017/2018,2017
-29,Centre-Forward,"Jan 12, 1992 (25)",NA,NA,Algeria,SV Werder Bremen,Bundesliga,2017/2018,2017
-9,Centre-Forward,"Nov 10, 1990 (26)",NA,NA,United States,SV Werder Bremen,Bundesliga,2017/2018,2017
-19,Centre-Forward,"Jan 5, 1997 (20)",NA,NA,China,SV Werder Bremen,Bundesliga,2017/2018,2017
-1,Goalkeeper,"Jan 15, 1985 (32)",NA,NA,Germany,1.FSV Mainz 05,Bundesliga,2017/2018,2017
-NA,Goalkeeper,"Apr 15, 1994 (23)",NA,NA,Germany,1.FSV Mainz 05,Bundesliga,2017/2018,2017
-22,Goalkeeper,"Nov 13, 1997 (19)",NA,NA,Germany,1.FSV Mainz 05,Bundesliga,2017/2018,2017
-27,Goalkeeper,"Oct 28, 1994 (22)",NA,NA,Germany,1.FSV Mainz 05,Bundesliga,2017/2018,2017
-NA,Goalkeeper,"Mar 27, 1998 (19)",NA,NA,Germany,1.FSV Mainz 05,Bundesliga,2017/2018,2017
-16,Centre-Back,"Aug 24, 1991 (25)",NA,NA,Germany,1.FSV Mainz 05,Bundesliga,2017/2018,2017
-3,Centre-Back,"Jun 28, 1988 (29)",NA,NA,Nigeria,1.FSV Mainz 05,Bundesliga,2017/2018,2017
-42,Centre-Back,"Sep 8, 1993 (23)",NA,NA,Germany,1.FSV Mainz 05,Bundesliga,2017/2018,2017
-26,Centre-Back,"Oct 24, 1986 (30)",NA,NA,Germany,1.FSV Mainz 05,Bundesliga,2017/2018,2017
-4,Centre-Back,"May 4, 1996 (21)",NA,NA,France,1.FSV Mainz 05,Bundesliga,2017/2018,2017
-NA,Left-Back,"Feb 2, 1991 (26)",NA,NA,France,1.FSV Mainz 05,Bundesliga,2017/2018,2017
-13,Left-Back,"Feb 4, 1998 (19)",NA,NA,Croatia,1.FSV Mainz 05,Bundesliga,2017/2018,2017
-2,Right-Back,"Feb 5, 1990 (27)",NA,NA,Italy,1.FSV Mainz 05,Bundesliga,2017/2018,2017
-18,Right-Back,"Jul 17, 1988 (28)",NA,NA,Germany,1.FSV Mainz 05,Bundesliga,2017/2018,2017
-25,Defensive Midfield,"Sep 25, 1995 (21)",NA,NA,Cote d'Ivoire,1.FSV Mainz 05,Bundesliga,2017/2018,2017
-NA,Defensive Midfield,"Jan 8, 1989 (28)",NA,NA,Switzerland,1.FSV Mainz 05,Bundesliga,2017/2018,2017
-5,Defensive Midfield,"Nov 30, 1984 (32)",NA,NA,Netherlands,1.FSV Mainz 05,Bundesliga,2017/2018,2017
-6,Central Midfield,"Dec 7, 1989 (27)",NA,NA,Germany,1.FSV Mainz 05,Bundesliga,2017/2018,2017
-23,Central Midfield,"Apr 11, 1997 (20)",NA,NA,Germany,1.FSV Mainz 05,Bundesliga,2017/2018,2017
-34,Central Midfield,"Apr 8, 1998 (19)",NA,NA,Germany,1.FSV Mainz 05,Bundesliga,2017/2018,2017
-8,Right Midfield,"Mar 15, 1996 (21)",NA,NA,Germany,1.FSV Mainz 05,Bundesliga,2017/2018,2017
-10,Attacking Midfield,"Jul 8, 1990 (26)",NA,NA,Romania,1.FSV Mainz 05,Bundesliga,2017/2018,2017
-NA,Attacking Midfield,"Sep 9, 1992 (24)",NA,NA,Germany,1.FSV Mainz 05,Bundesliga,2017/2018,2017
-NA,Left Winger,"Jun 9, 1994 (23)",NA,NA,Denmark,1.FSV Mainz 05,Bundesliga,2017/2018,2017
-NA,Left Winger,"Jul 11, 1993 (23)",NA,NA,Spain,1.FSV Mainz 05,Bundesliga,2017/2018,2017
-32,Left Winger,"Feb 4, 1988 (29)",NA,NA,Argentina,1.FSV Mainz 05,Bundesliga,2017/2018,2017
-21,Left Winger,"Mar 17, 1992 (25)",NA,NA,Austria,1.FSV Mainz 05,Bundesliga,2017/2018,2017
-38,Left Winger,"Mar 25, 1995 (22)",NA,NA,Germany,1.FSV Mainz 05,Bundesliga,2017/2018,2017
-7,Second Striker,"Oct 9, 1993 (23)",NA,NA,Sweden,1.FSV Mainz 05,Bundesliga,2017/2018,2017
-9,Centre-Forward,"Jul 15, 1992 (24)",NA,NA,Japan,1.FSV Mainz 05,Bundesliga,2017/2018,2017
-20,Centre-Forward,"Oct 14, 1990 (26)",NA,NA,Nigeria,1.FSV Mainz 05,Bundesliga,2017/2018,2017
-NA,Centre-Forward,"Aug 19, 1993 (23)",NA,NA,Bosnia-Herzegovina,1.FSV Mainz 05,Bundesliga,2017/2018,2017
-11,Centre-Forward,"May 10, 1993 (24)",NA,NA,Denmark,1.FSV Mainz 05,Bundesliga,2017/2018,2017
-16,Goalkeeper,"Feb 12, 1989 (28)",NA,NA,Germany,VfB Stuttgart,Bundesliga,2017/2018,2017
-NA,Goalkeeper,"Aug 22, 1988 (28)",NA,NA,Australia,VfB Stuttgart,Bundesliga,2017/2018,2017
-13,Goalkeeper,"Sep 22, 1988 (28)",NA,NA,Germany,VfB Stuttgart,Bundesliga,2017/2018,2017
-26,Goalkeeper,"Apr 13, 1991 (26)",NA,NA,Germany,VfB Stuttgart,Bundesliga,2017/2018,2017
-5,Centre-Back,"Mar 4, 1996 (21)",NA,NA,Germany,VfB Stuttgart,Bundesliga,2017/2018,2017
-21,Centre-Back,"Mar 28, 1996 (21)",NA,NA,France,VfB Stuttgart,Bundesliga,2017/2018,2017
-28,Centre-Back,"Mar 13, 1989 (28)",NA,NA,Germany,VfB Stuttgart,Bundesliga,2017/2018,2017
-35,Centre-Back,"Jan 15, 1992 (25)",NA,NA,Poland,VfB Stuttgart,Bundesliga,2017/2018,2017
-2,Left-Back,"Jan 7, 1989 (28)",NA,NA,Argentina,VfB Stuttgart,Bundesliga,2017/2018,2017
-NA,Left-Back,"Mar 16, 1995 (22)",NA,NA,Brazil,VfB Stuttgart,Bundesliga,2017/2018,2017
-32,Right-Back,"Mar 13, 1987 (30)",NA,NA,Germany,VfB Stuttgart,Bundesliga,2017/2018,2017
-25,Right-Back,"Jun 16, 1992 (25)",NA,NA,Germany,VfB Stuttgart,Bundesliga,2017/2018,2017
-6,Defensive Midfield,"Feb 25, 1997 (20)",NA,NA,Argentina,VfB Stuttgart,Bundesliga,2017/2018,2017
-NA,Defensive Midfield,"Jul 1, 1995 (22)",NA,NA,Ghana,VfB Stuttgart,Bundesliga,2017/2018,2017
-3,Defensive Midfield,"Jan 14, 1987 (30)",NA,NA,Germany,VfB Stuttgart,Bundesliga,2017/2018,2017
-24,Defensive Midfield,"May 22, 1998 (19)",NA,NA,Germany,VfB Stuttgart,Bundesliga,2017/2018,2017
-NA,Defensive Midfield,"Jul 1, 1998 (19)",NA,NA,Germany,VfB Stuttgart,Bundesliga,2017/2018,2017
-23,Defensive Midfield,"Mar 18, 1998 (19)",NA,NA,Belgium,VfB Stuttgart,Bundesliga,2017/2018,2017
-20,Central Midfield,"Aug 14, 1985 (31)",NA,NA,Germany,VfB Stuttgart,Bundesliga,2017/2018,2017
-NA,Central Midfield,"Nov 28, 1996 (20)",NA,NA,Switzerland,VfB Stuttgart,Bundesliga,2017/2018,2017
-17,Left Midfield,"Aug 20, 1994 (22)",NA,NA,Germany,VfB Stuttgart,Bundesliga,2017/2018,2017
-31,Attacking Midfield,"Feb 15, 1998 (19)",NA,NA,Turkey,VfB Stuttgart,Bundesliga,2017/2018,2017
-NA,Attacking Midfield,"Jun 6, 1995 (22)",NA,NA,United States,VfB Stuttgart,Bundesliga,2017/2018,2017
-39,Attacking Midfield,"Mar 23, 1996 (21)",NA,NA,Germany,VfB Stuttgart,Bundesliga,2017/2018,2017
-NA,Left Winger,"Jun 23, 1998 (19)",NA,NA,Croatia,VfB Stuttgart,Bundesliga,2017/2018,2017
-34,Left Winger,"Sep 19, 1998 (18)",NA,NA,Denmark,VfB Stuttgart,Bundesliga,2017/2018,2017
-15,Right Winger,"Mar 11, 1994 (23)",NA,NA,Portugal,VfB Stuttgart,Bundesliga,2017/2018,2017
-19,Right Winger,"Apr 1, 1995 (22)",NA,NA,DR Congo,VfB Stuttgart,Bundesliga,2017/2018,2017
-11,Second Striker,"Nov 10, 1994 (22)",NA,NA,Japan,VfB Stuttgart,Bundesliga,2017/2018,2017
-27,Centre-Forward,"Jul 10, 1985 (31)",NA,NA,Germany,VfB Stuttgart,Bundesliga,2017/2018,2017
-NA,Centre-Forward,"Mar 2, 1988 (29)",NA,NA,Germany,VfB Stuttgart,Bundesliga,2017/2018,2017
-33,Centre-Forward,"Apr 13, 1991 (26)",NA,NA,Germany,VfB Stuttgart,Bundesliga,2017/2018,2017
-14,Centre-Forward,"Aug 29, 1996 (20)",NA,NA,Greece,VfB Stuttgart,Bundesliga,2017/2018,2017
-NA,Centre-Forward,"Feb 2, 1992 (25)",NA,NA,Germany,VfB Stuttgart,Bundesliga,2017/2018,2017
-1,Goalkeeper,"Jun 2, 1992 (25)",NA,NA,Germany,SC Freiburg,Bundesliga,2017/2018,2017
-44,Goalkeeper,"Oct 26, 1987 (29)",NA,NA,Poland,SC Freiburg,Bundesliga,2017/2018,2017
-21,Goalkeeper,"Sep 29, 1983 (33)",NA,NA,Germany,SC Freiburg,Bundesliga,2017/2018,2017
-4,Centre-Back,"May 23, 1996 (21)",NA,NA,Turkey,SC Freiburg,Bundesliga,2017/2018,2017
-20,Centre-Back,"Jan 28, 1995 (22)",NA,NA,Germany,SC Freiburg,Bundesliga,2017/2018,2017
-5,Centre-Back,"Feb 12, 1991 (26)",NA,NA,Germany,SC Freiburg,Bundesliga,2017/2018,2017
-3,Centre-Back,"Jul 11, 1996 (20)",NA,NA,Austria,SC Freiburg,Bundesliga,2017/2018,2017
-25,Centre-Back,"Jul 17, 1996 (20)",NA,NA,Germany,SC Freiburg,Bundesliga,2017/2018,2017
-24,Centre-Back,"Feb 26, 1986 (31)",NA,NA,Germany,SC Freiburg,Bundesliga,2017/2018,2017
-30,Left-Back,"Feb 28, 1993 (24)",NA,NA,Germany,SC Freiburg,Bundesliga,2017/2018,2017
-26,Left-Back,"Feb 2, 1991 (26)",NA,NA,France,SC Freiburg,Bundesliga,2017/2018,2017
-NA,Left-Back,"Apr 19, 1997 (20)",NA,NA,England,SC Freiburg,Bundesliga,2017/2018,2017
-15,Right-Back,"Mar 20, 1996 (21)",NA,NA,Germany,SC Freiburg,Bundesliga,2017/2018,2017
-17,Right-Back,"Aug 30, 1992 (24)",NA,NA,Germany,SC Freiburg,Bundesliga,2017/2018,2017
-40,Right-Back,"Jun 25, 1996 (21)",NA,NA,Tunisia,SC Freiburg,Bundesliga,2017/2018,2017
-27,Defensive Midfield,"Mar 9, 1990 (27)",NA,NA,Germany,SC Freiburg,Bundesliga,2017/2018,2017
-6,Defensive Midfield,"Mar 27, 1990 (27)",NA,NA,Albania,SC Freiburg,Bundesliga,2017/2018,2017
-2,Defensive Midfield,"Jan 27, 1991 (26)",NA,NA,Serbia,SC Freiburg,Bundesliga,2017/2018,2017
-28,Defensive Midfield,"Sep 4, 1994 (22)",NA,NA,Germany,SC Freiburg,Bundesliga,2017/2018,2017
-14,Defensive Midfield,"Feb 11, 1997 (20)",NA,NA,Germany,SC Freiburg,Bundesliga,2017/2018,2017
-23,Defensive Midfield,"Apr 15, 1985 (32)",NA,NA,Germany,SC Freiburg,Bundesliga,2017/2018,2017
-33,Defensive Midfield,"Jul 26, 1993 (23)",NA,NA,United States,SC Freiburg,Bundesliga,2017/2018,2017
-19,Central Midfield,"Apr 2, 1994 (23)",NA,NA,Germany,SC Freiburg,Bundesliga,2017/2018,2017
-8,Central Midfield,"Oct 14, 1986 (30)",NA,NA,Germany,SC Freiburg,Bundesliga,2017/2018,2017
-22,Central Midfield,"Oct 8, 1995 (21)",NA,NA,Switzerland,SC Freiburg,Bundesliga,2017/2018,2017
-32,Attacking Midfield,"Dec 23, 1996 (20)",NA,NA,Poland,SC Freiburg,Bundesliga,2017/2018,2017
-13,Left Winger,"Apr 15, 1991 (26)",NA,NA,Germany,SC Freiburg,Bundesliga,2017/2018,2017
-NA,Left Winger,"Nov 11, 1996 (20)",NA,NA,England,SC Freiburg,Bundesliga,2017/2018,2017
-38,Left Winger,"Oct 21, 1994 (22)",NA,NA,Germany,SC Freiburg,Bundesliga,2017/2018,2017
-16,Right Winger,"Sep 12, 1989 (27)",NA,NA,France,SC Freiburg,Bundesliga,2017/2018,2017
-NA,Right Winger,"Apr 16, 1994 (23)",NA,NA,Germany,SC Freiburg,Bundesliga,2017/2018,2017
-7,Centre-Forward,"Oct 24, 1990 (26)",NA,NA,Germany,SC Freiburg,Bundesliga,2017/2018,2017
-18,Centre-Forward,"Dec 6, 1988 (28)",NA,NA,Germany,SC Freiburg,Bundesliga,2017/2018,2017
-34,Centre-Forward,"Aug 31, 1995 (21)",NA,NA,Germany,SC Freiburg,Bundesliga,2017/2018,2017
-9,Centre-Forward,"Jul 10, 1994 (22)",NA,NA,Germany,SC Freiburg,Bundesliga,2017/2018,2017
-31,Centre-Forward,"Jan 7, 1985 (32)",NA,NA,Slovakia,SC Freiburg,Bundesliga,2017/2018,2017
-13,Goalkeeper,"Aug 16, 1994 (22)",NA,NA,Germany,Hamburger SV,Bundesliga,2017/2018,2017
-1,Goalkeeper,"Mar 31, 1992 (25)",NA,NA,Germany,Hamburger SV,Bundesliga,2017/2018,2017
-36,Goalkeeper,"Apr 19, 1989 (28)",NA,NA,Germany,Hamburger SV,Bundesliga,2017/2018,2017
-30,Goalkeeper,"Mar 25, 1993 (24)",NA,NA,Switzerland,Hamburger SV,Bundesliga,2017/2018,2017
-9,Centre-Back,"Feb 23, 1992 (25)",NA,NA,Greece,Hamburger SV,Bundesliga,2017/2018,2017
-28,Centre-Back,"Sep 12, 1994 (22)",NA,NA,Germany,Hamburger SV,Bundesliga,2017/2018,2017
-5,Centre-Back,"Jun 9, 1986 (31)",NA,NA,Albania,Hamburger SV,Bundesliga,2017/2018,2017
-4,Centre-Back,"Dec 20, 1998 (18)",NA,NA,Netherlands,Hamburger SV,Bundesliga,2017/2018,2017
-22,Centre-Back,"Apr 11, 1992 (25)",NA,NA,Germany,Hamburger SV,Bundesliga,2017/2018,2017
-46,Centre-Back,"Dec 18, 1998 (18)",NA,NA,Germany,Hamburger SV,Bundesliga,2017/2018,2017
-6,Left-Back,"Mar 22, 1994 (23)",NA,NA,Brazil,Hamburger SV,Bundesliga,2017/2018,2017
-37,Left-Back,"May 23, 1995 (22)",NA,NA,"Korea, South",Hamburger SV,Bundesliga,2017/2018,2017
-47,Left-Back,"Dec 11, 2000 (16)",NA,NA,Germany,Hamburger SV,Bundesliga,2017/2018,2017
-24,Right-Back,"Mar 14, 1991 (26)",NA,NA,Japan,Hamburger SV,Bundesliga,2017/2018,2017
-2,Right-Back,"Oct 20, 1989 (27)",NA,NA,Germany,Hamburger SV,Bundesliga,2017/2018,2017
-12,Defensive Midfield,"Apr 4, 1995 (22)",NA,NA,Brazil,Hamburger SV,Bundesliga,2017/2018,2017
-20,Defensive Midfield,"Jul 28, 1989 (27)",NA,NA,Sweden,Hamburger SV,Bundesliga,2017/2018,2017
-16,Defensive Midfield,"Nov 2, 1998 (18)",NA,NA,Switzerland,Hamburger SV,Bundesliga,2017/2018,2017
-29,Defensive Midfield,"Jan 8, 1995 (22)",NA,NA,Germany,Hamburger SV,Bundesliga,2017/2018,2017
-23,Central Midfield,"Oct 8, 1984 (32)",NA,NA,Bosnia-Herzegovina,Hamburger SV,Bundesliga,2017/2018,2017
-17,Left Midfield,"Nov 1, 1992 (24)",NA,NA,Serbia,Hamburger SV,Bundesliga,2017/2018,2017
-8,Attacking Midfield,"Sep 18, 1990 (26)",NA,NA,Germany,Hamburger SV,Bundesliga,2017/2018,2017
-14,Attacking Midfield,"Sep 4, 1986 (30)",NA,NA,Germany,Hamburger SV,Bundesliga,2017/2018,2017
-NA,Attacking Midfield,"May 15, 1993 (24)",NA,NA,Tunisia,Hamburger SV,Bundesliga,2017/2018,2017
-18,Left Winger,"Jun 6, 1998 (19)",NA,NA,The Gambia,Hamburger SV,Bundesliga,2017/2018,2017
-25,Left Winger,"May 2, 1998 (19)",NA,NA,Germany,Hamburger SV,Bundesliga,2017/2018,2017
-43,Left Winger,"Jun 26, 1997 (20)",NA,NA,Japan,Hamburger SV,Bundesliga,2017/2018,2017
-11,Right Winger,"Aug 13, 1990 (26)",NA,NA,Germany,Hamburger SV,Bundesliga,2017/2018,2017
-27,Right Winger,"Sep 25, 1987 (29)",NA,NA,Germany,Hamburger SV,Bundesliga,2017/2018,2017
-7,Centre-Forward,"Nov 15, 1992 (24)",NA,NA,United States,Hamburger SV,Bundesliga,2017/2018,2017
-15,Centre-Forward,"May 19, 1996 (21)",NA,NA,Germany,Hamburger SV,Bundesliga,2017/2018,2017
-19,Centre-Forward,"Nov 8, 1988 (28)",NA,NA,Germany,Hamburger SV,Bundesliga,2017/2018,2017
-NA,Centre-Forward,"Sep 13, 1997 (19)",NA,NA,Germany,Hamburger SV,Bundesliga,2017/2018,2017
-40,Centre-Forward,"Jan 6, 2000 (17)",NA,NA,Germany,Hamburger SV,Bundesliga,2017/2018,2017
-35,Goalkeeper,"Sep 18, 1987 (29)",NA,NA,Switzerland,FC Augsburg,Bundesliga,2017/2018,2017
-1,Goalkeeper,"Mar 10, 1987 (30)",NA,NA,Germany,FC Augsburg,Bundesliga,2017/2018,2017
-13,Goalkeeper,"May 17, 1990 (27)",NA,NA,Germany,FC Augsburg,Bundesliga,2017/2018,2017
-24,Goalkeeper,"Apr 24, 1992 (25)",NA,NA,Greece,FC Augsburg,Bundesliga,2017/2018,2017
-36,Centre-Back,"Sep 7, 1992 (24)",NA,NA,Austria,FC Augsburg,Bundesliga,2017/2018,2017
-6,Centre-Back,"Jul 10, 1991 (25)",NA,NA,Netherlands,FC Augsburg,Bundesliga,2017/2018,2017
-38,Centre-Back,"Sep 19, 1998 (18)",NA,NA,Austria,FC Augsburg,Bundesliga,2017/2018,2017
-NA,Centre-Back,"Sep 23, 1984 (32)",NA,NA,Germany,FC Augsburg,Bundesliga,2017/2018,2017
-16,Centre-Back,"Feb 14, 1985 (32)",NA,NA,Germany,FC Augsburg,Bundesliga,2017/2018,2017
-NA,Left-Back,"Dec 2, 1993 (23)",NA,NA,Greece,FC Augsburg,Bundesliga,2017/2018,2017
-31,Left-Back,"Sep 30, 1993 (23)",NA,NA,Germany,FC Augsburg,Bundesliga,2017/2018,2017
-25,Left-Back,"Jan 25, 1998 (19)",NA,NA,Germany,FC Augsburg,Bundesliga,2017/2018,2017
-17,Right-Back,"Jun 22, 1990 (27)",NA,NA,France,FC Augsburg,Bundesliga,2017/2018,2017
-4,Right-Back,"Oct 18, 1990 (26)",NA,NA,Ghana,FC Augsburg,Bundesliga,2017/2018,2017
-32,Right-Back,"Sep 6, 1995 (21)",NA,NA,Germany,FC Augsburg,Bundesliga,2017/2018,2017
-NA,Right-Back,"Jan 25, 2001 (16)",NA,NA,Germany,FC Augsburg,Bundesliga,2017/2018,2017
-10,Defensive Midfield,"May 18, 1984 (33)",NA,NA,Germany,FC Augsburg,Bundesliga,2017/2018,2017
-20,Defensive Midfield,"Jan 26, 1987 (30)",NA,NA,Serbia,FC Augsburg,Bundesliga,2017/2018,2017
-8,Defensive Midfield,"Jan 27, 1994 (23)",NA,NA,Germany,FC Augsburg,Bundesliga,2017/2018,2017
-19,Central Midfield,"Feb 27, 1989 (28)",NA,NA,"Korea, South",FC Augsburg,Bundesliga,2017/2018,2017
-14,Central Midfield,"Nov 1, 1989 (27)",NA,NA,Czech Republic,FC Augsburg,Bundesliga,2017/2018,2017
-NA,Central Midfield,"Sep 14, 1995 (21)",NA,NA,Germany,FC Augsburg,Bundesliga,2017/2018,2017
-7,Right Midfield,"Feb 12, 1986 (31)",NA,NA,Germany,FC Augsburg,Bundesliga,2017/2018,2017
-NA,Left Midfield,"Aug 20, 1994 (22)",NA,NA,Germany,FC Augsburg,Bundesliga,2017/2018,2017
-NA,Attacking Midfield,"Jul 1, 1999 (18)",NA,NA,Germany,FC Augsburg,Bundesliga,2017/2018,2017
-30,Left Winger,"Jul 14, 1988 (28)",NA,NA,Brazil,FC Augsburg,Bundesliga,2017/2018,2017
-23,Left Winger,"Nov 24, 1997 (19)",NA,NA,Germany,FC Augsburg,Bundesliga,2017/2018,2017
-11,Second Striker,"Apr 18, 1994 (23)",NA,NA,Austria,FC Augsburg,Bundesliga,2017/2018,2017
-27,Centre-Forward,"Feb 1, 1989 (28)",NA,NA,Iceland,FC Augsburg,Bundesliga,2017/2018,2017
-NA,Centre-Forward,"May 28, 1991 (26)",NA,NA,"Korea, South",FC Augsburg,Bundesliga,2017/2018,2017
-21,Centre-Forward,"Aug 9, 1997 (19)",NA,NA,Venezuela,FC Augsburg,Bundesliga,2017/2018,2017
-9,Centre-Forward,"Mar 7, 1993 (24)",NA,NA,Germany,FC Augsburg,Bundesliga,2017/2018,2017
-NA,Centre-Forward,"Aug 17, 2000 (16)",NA,NA,Germany,FC Augsburg,Bundesliga,2017/2018,2017
-23,Goalkeeper,"Nov 22, 1987 (29)",NA,NA,Germany,Hannover 96,Bundesliga,2017/2018,2017
-1,Goalkeeper,"Nov 3, 1985 (31)",NA,NA,Germany,Hannover 96,Bundesliga,2017/2018,2017
-NA,Goalkeeper,"Nov 7, 1992 (24)",NA,NA,Austria,Hannover 96,Bundesliga,2017/2018,2017
-30,Goalkeeper,"May 16, 1998 (19)",NA,NA,Germany,Hannover 96,Bundesliga,2017/2018,2017
-20,Centre-Back,"Aug 25, 1990 (26)",NA,NA,Senegal,Hannover 96,Bundesliga,2017/2018,2017
-31,Centre-Back,"Jul 20, 1996 (20)",NA,NA,Germany,Hannover 96,Bundesliga,2017/2018,2017
-2,Centre-Back,"Apr 25, 1994 (23)",NA,NA,Croatia,Hannover 96,Bundesliga,2017/2018,2017
-19,Centre-Back,"Mar 1, 1991 (26)",NA,NA,Germany,Hannover 96,Bundesliga,2017/2018,2017
-5,Centre-Back,"May 15, 1987 (30)",NA,NA,Brazil,Hannover 96,Bundesliga,2017/2018,2017
-15,Centre-Back,"Jul 20, 1996 (20)",NA,NA,Germany,Hannover 96,Bundesliga,2017/2018,2017
-22,Left-Back,"Jun 5, 1990 (27)",NA,NA,Germany,Hannover 96,Bundesliga,2017/2018,2017
-3,Left-Back,"Nov 30, 1990 (26)",NA,NA,Chile,Hannover 96,Bundesliga,2017/2018,2017
-4,Right-Back,"Mar 21, 1992 (25)",NA,NA,Germany,Hannover 96,Bundesliga,2017/2018,2017
-25,Right-Back,"May 29, 1990 (27)",NA,NA,Germany,Hannover 96,Bundesliga,2017/2018,2017
-8,Defensive Midfield,"Dec 5, 1988 (28)",NA,NA,Germany,Hannover 96,Bundesliga,2017/2018,2017
-27,Defensive Midfield,"Mar 9, 1987 (30)",NA,NA,Switzerland,Hannover 96,Bundesliga,2017/2018,2017
-6,Central Midfield,"Sep 13, 1989 (27)",NA,NA,Germany,Hannover 96,Bundesliga,2017/2018,2017
-18,Central Midfield,"Jul 15, 1996 (20)",NA,NA,Norway,Hannover 96,Bundesliga,2017/2018,2017
-40,Right Midfield,"Jun 23, 1999 (18)",NA,NA,Germany,Hannover 96,Bundesliga,2017/2018,2017
-7,Left Midfield,"Dec 15, 1989 (27)",NA,NA,Germany,Hannover 96,Bundesliga,2017/2018,2017
-10,Attacking Midfield,"Sep 18, 1993 (23)",NA,NA,Germany,Hannover 96,Bundesliga,2017/2018,2017
-NA,Attacking Midfield,"Aug 10, 1995 (21)",NA,NA,Germany,Hannover 96,Bundesliga,2017/2018,2017
-26,Left Winger,"Mar 5, 1994 (23)",NA,NA,Turkey,Hannover 96,Bundesliga,2017/2018,2017
-11,Right Winger,"Sep 13, 1992 (24)",NA,NA,Germany,Hannover 96,Bundesliga,2017/2018,2017
-13,Right Winger,"Apr 23, 1994 (23)",NA,NA,Togo,Hannover 96,Bundesliga,2017/2018,2017
-37,Right Winger,"Aug 21, 1996 (20)",NA,NA,Nigeria,Hannover 96,Bundesliga,2017/2018,2017
-9,Centre-Forward,"Mar 6, 1989 (28)",NA,NA,Brazil,Hannover 96,Bundesliga,2017/2018,2017
-14,Centre-Forward,"Jun 10, 1987 (30)",NA,NA,Austria,Hannover 96,Bundesliga,2017/2018,2017
-24,Centre-Forward,"Feb 9, 1993 (24)",NA,NA,Germany,Hannover 96,Bundesliga,2017/2018,2017
-35,Centre-Forward,"Aug 21, 1989 (27)",NA,NA,Curacao,Hannover 96,Bundesliga,2017/2018,2017
+player_name,position,date_of_birth,age,nationality,club_name,league_name,season,year
+Manuel Neuer,Goalkeeper,1986-03-27,31,Germany,Bayern Munich,Bundesliga,2017/2018,2017
+Sven Ulreich,Goalkeeper,1988-08-03,28,Germany,Bayern Munich,Bundesliga,2017/2018,2017
+Tom Starke,Goalkeeper,1981-03-18,36,Germany,Bayern Munich,Bundesliga,2017/2018,2017
+Leo Weinkauf,Goalkeeper,1996-07-07,20,Germany,Bayern Munich,Bundesliga,2017/2018,2017
+Ron-Thorben Hoffmann,Goalkeeper,1999-04-04,18,Germany,Bayern Munich,Bundesliga,2017/2018,2017
+Christian Früchtl,Goalkeeper,2000-01-28,17,Germany,Bayern Munich,Bundesliga,2017/2018,2017
+Mats Hummels,Centre-Back,1988-12-16,28,Germany,Bayern Munich,Bundesliga,2017/2018,2017
+Jérôme Boateng,Centre-Back,1988-09-03,28,Germany,Bayern Munich,Bundesliga,2017/2018,2017
+Niklas Süle,Centre-Back,1995-09-03,21,Germany,Bayern Munich,Bundesliga,2017/2018,2017
+Lars Lukas Mai,Centre-Back,2000-03-31,17,Germany,Bayern Munich,Bundesliga,2017/2018,2017
+David Alaba,Left-Back,1992-06-24,25,Austria,Bayern Munich,Bundesliga,2017/2018,2017
+Juan Bernat,Left-Back,1993-03-01,24,Spain,Bayern Munich,Bundesliga,2017/2018,2017
+Marco Friedl,Left-Back,1998-03-16,19,Austria,Bayern Munich,Bundesliga,2017/2018,2017
+Jonathan Meier,Left-Back,1999-11-11,17,Germany,Bayern Munich,Bundesliga,2017/2018,2017
+Joshua Kimmich,Right-Back,1995-02-08,22,Germany,Bayern Munich,Bundesliga,2017/2018,2017
+Rafinha,Right-Back,1985-09-07,31,Brazil,Bayern Munich,Bundesliga,2017/2018,2017
+Javi Martínez,Defensive Midfield,1988-09-02,28,Spain,Bayern Munich,Bundesliga,2017/2018,2017
+Sebastian Rudy,Defensive Midfield,1990-02-28,27,Germany,Bayern Munich,Bundesliga,2017/2018,2017
+Niklas Dorsch,Defensive Midfield,1998-01-15,19,Germany,Bayern Munich,Bundesliga,2017/2018,2017
+Felix Götze,Defensive Midfield,1998-02-11,19,Germany,Bayern Munich,Bundesliga,2017/2018,2017
+Thiago,Central Midfield,1991-04-11,26,Spain,Bayern Munich,Bundesliga,2017/2018,2017
+Arturo Vidal,Central Midfield,1987-05-22,30,Chile,Bayern Munich,Bundesliga,2017/2018,2017
+Renato Sanches,Central Midfield,1997-08-18,19,Portugal,Bayern Munich,Bundesliga,2017/2018,2017
+Corentin Tolisso,Central Midfield,1994-08-03,22,France,Bayern Munich,Bundesliga,2017/2018,2017
+James Rodríguez,Attacking Midfield,1991-07-12,25,Colombia,Bayern Munich,Bundesliga,2017/2018,2017
+Fabian Benko,Attacking Midfield,1998-06-05,19,Croatia,Bayern Munich,Bundesliga,2017/2018,2017
+Timothy Tillman,Attacking Midfield,1999-01-04,18,Germany,Bayern Munich,Bundesliga,2017/2018,2017
+Meritan Shabani,Attacking Midfield,1999-03-15,18,Germany,Bayern Munich,Bundesliga,2017/2018,2017
+Kingsley Coman,Left Winger,1996-06-13,21,France,Bayern Munich,Bundesliga,2017/2018,2017
+Franck Ribéry,Left Winger,1983-04-07,34,France,Bayern Munich,Bundesliga,2017/2018,2017
+Milos Pantovic,Left Winger,1996-07-07,20,Serbia,Bayern Munich,Bundesliga,2017/2018,2017
+Franck Evina,Left Winger,2000-07-05,16,Cameroon,Bayern Munich,Bundesliga,2017/2018,2017
+Arjen Robben,Right Winger,1984-01-23,33,Netherlands,Bayern Munich,Bundesliga,2017/2018,2017
+Thomas Müller,Second Striker,1989-09-13,27,Germany,Bayern Munich,Bundesliga,2017/2018,2017
+Robert Lewandowski,Centre-Forward,1988-08-21,28,Poland,Bayern Munich,Bundesliga,2017/2018,2017
+Sandro Wagner,Centre-Forward,1987-11-29,29,Germany,Bayern Munich,Bundesliga,2017/2018,2017
+Kwasi Okyere Wriedt,Centre-Forward,1994-07-10,22,Ghana,Bayern Munich,Bundesliga,2017/2018,2017
+Manuel Wintzheimer,Centre-Forward,1999-01-10,18,Germany,Bayern Munich,Bundesliga,2017/2018,2017
+Roman Bürki,Goalkeeper,1990-11-14,26,Switzerland,Borussia Dortmund,Bundesliga,2017/2018,2017
+Roman Weidenfeller,Goalkeeper,1980-08-06,36,Germany,Borussia Dortmund,Bundesliga,2017/2018,2017
+Dominik Reimann,Goalkeeper,1997-06-18,20,Germany,Borussia Dortmund,Bundesliga,2017/2018,2017
+Sokratis,Centre-Back,1988-06-09,29,Greece,Borussia Dortmund,Bundesliga,2017/2018,2017
+Ömer Toprak,Centre-Back,1989-07-21,27,Turkey,Borussia Dortmund,Bundesliga,2017/2018,2017
+Marc Bartra,Centre-Back,1991-01-15,26,Spain,Borussia Dortmund,Bundesliga,2017/2018,2017
+Neven Subotic,Centre-Back,1988-12-10,28,Serbia,Borussia Dortmund,Bundesliga,2017/2018,2017
+Manuel Akanji,Centre-Back,1995-07-19,21,Switzerland,Borussia Dortmund,Bundesliga,2017/2018,2017
+Dan-Axel Zagadou,Centre-Back,1999-06-03,18,France,Borussia Dortmund,Bundesliga,2017/2018,2017
+Marcel Schmelzer,Left-Back,1988-01-22,29,Germany,Borussia Dortmund,Bundesliga,2017/2018,2017
+Erik Durm,Left-Back,1992-05-12,25,Germany,Borussia Dortmund,Bundesliga,2017/2018,2017
+Jan-Niklas Beste,Left-Back,1999-01-04,18,Germany,Borussia Dortmund,Bundesliga,2017/2018,2017
+Lukasz Piszczek,Right-Back,1985-06-03,32,Poland,Borussia Dortmund,Bundesliga,2017/2018,2017
+Jeremy Toljan,Right-Back,1994-08-08,22,Germany,Borussia Dortmund,Bundesliga,2017/2018,2017
+Felix Passlack,Right-Back,1998-05-29,19,Germany,Borussia Dortmund,Bundesliga,2017/2018,2017
+Julian Weigl,Defensive Midfield,1995-09-08,21,Germany,Borussia Dortmund,Bundesliga,2017/2018,2017
+Nuri Sahin,Defensive Midfield,1988-09-05,28,Turkey,Borussia Dortmund,Bundesliga,2017/2018,2017
+Mahmoud Dahoud,Central Midfield,1996-01-01,21,Germany,Borussia Dortmund,Bundesliga,2017/2018,2017
+Gonzalo Castro,Central Midfield,1987-06-11,30,Germany,Borussia Dortmund,Bundesliga,2017/2018,2017
+Sebastian Rode,Central Midfield,1990-10-11,26,Germany,Borussia Dortmund,Bundesliga,2017/2018,2017
+Raphaël Guerreiro,Left Midfield,1993-12-22,23,Portugal,Borussia Dortmund,Bundesliga,2017/2018,2017
+Marco Reus,Attacking Midfield,1989-05-31,28,Germany,Borussia Dortmund,Bundesliga,2017/2018,2017
+Mario Götze,Attacking Midfield,1992-06-03,25,Germany,Borussia Dortmund,Bundesliga,2017/2018,2017
+Shinji Kagawa,Attacking Midfield,1989-03-17,28,Japan,Borussia Dortmund,Bundesliga,2017/2018,2017
+Sergio Gómez,Attacking Midfield,2000-09-04,16,Spain,Borussia Dortmund,Bundesliga,2017/2018,2017
+Ousmane Dembélé,Left Winger,1997-05-15,20,France,Borussia Dortmund,Bundesliga,2017/2018,2017
+André Schürrle,Left Winger,1990-11-06,26,Germany,Borussia Dortmund,Bundesliga,2017/2018,2017
+Jacob Bruun Larsen,Left Winger,1998-09-19,18,Denmark,Borussia Dortmund,Bundesliga,2017/2018,2017
+Andrii Yarmolenko,Right Winger,1989-10-23,27,Ukraine,Borussia Dortmund,Bundesliga,2017/2018,2017
+Christian Pulisic,Right Winger,1998-09-18,18,United States,Borussia Dortmund,Bundesliga,2017/2018,2017
+Jadon Sancho,Right Winger,2000-03-25,17,England,Borussia Dortmund,Bundesliga,2017/2018,2017
+Maximilian Philipp,Second Striker,1994-03-01,23,Germany,Borussia Dortmund,Bundesliga,2017/2018,2017
+Pierre-Emerick Aubameyang,Centre-Forward,1989-06-18,28,Gabon,Borussia Dortmund,Bundesliga,2017/2018,2017
+Michy Batshuayi,Centre-Forward,1993-10-02,23,Belgium,Borussia Dortmund,Bundesliga,2017/2018,2017
+Alexander Isak,Centre-Forward,1999-09-21,17,Sweden,Borussia Dortmund,Bundesliga,2017/2018,2017
+Bernd Leno,Goalkeeper,1992-03-04,25,Germany,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
+Ramazan Özcan,Goalkeeper,1984-06-28,33,Austria,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
+Niklas Lomb,Goalkeeper,1993-07-28,23,Germany,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
+Jonathan Tah,Centre-Back,1996-02-11,21,Germany,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
+Aleksandar Dragovic,Centre-Back,1991-03-06,26,Austria,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
+Sven Bender,Centre-Back,1989-04-27,28,Germany,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
+Tin Jedvaj,Centre-Back,1995-11-28,21,Croatia,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
+Panagiotis Retsos,Centre-Back,1998-08-09,18,Greece,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
+André Ramalho,Centre-Back,1992-02-16,25,Brazil,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
+Wendell,Left-Back,1993-07-20,23,Brazil,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
+Benjamin Henrichs,Right-Back,1997-02-23,20,Germany,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
+Lars Bender,Defensive Midfield,1989-04-27,28,Germany,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
+Julian Baumgartlinger,Defensive Midfield,1988-01-02,29,Austria,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
+Marlon Frey,Defensive Midfield,1996-03-24,21,Germany,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
+Kevin Kampl,Central Midfield,1990-10-09,26,Slovenia,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
+Charles Aránguiz,Central Midfield,1989-04-17,28,Chile,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
+Dominik Kohr,Central Midfield,1994-01-31,23,Germany,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
+Kai Havertz,Attacking Midfield,1999-06-11,18,Germany,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
+Vladlen Yurchenko,Attacking Midfield,1994-01-22,23,Ukraine,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
+Julian Brandt,Left Winger,1996-05-02,21,Germany,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
+Leon Bailey,Left Winger,1997-08-09,19,Jamaica,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
+Karim Bellarabi,Right Winger,1990-04-08,27,Germany,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
+Admir Mehmedi,Second Striker,1991-03-16,26,Switzerland,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
+Kevin Volland,Centre-Forward,1992-07-30,24,Germany,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
+Lucas Alario,Centre-Forward,1992-10-08,24,Argentina,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
+Joel Pohjanpalo,Centre-Forward,1994-09-13,22,Finland,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
+Stefan Kießling,Centre-Forward,1984-01-25,33,Germany,Bayer 04 Leverkusen,Bundesliga,2017/2018,2017
+Ralf Fährmann,Goalkeeper,1988-09-27,28,Germany,FC Schalke 04,Bundesliga,2017/2018,2017
+Michael Langer,Goalkeeper,1985-01-06,32,Austria,FC Schalke 04,Bundesliga,2017/2018,2017
+Alexander Nübel,Goalkeeper,1996-09-30,20,Germany,FC Schalke 04,Bundesliga,2017/2018,2017
+Benedikt Höwedes,Centre-Back,1988-02-29,29,Germany,FC Schalke 04,Bundesliga,2017/2018,2017
+Matija Nastasic,Centre-Back,1993-03-28,24,Serbia,FC Schalke 04,Bundesliga,2017/2018,2017
+Benjamin Stambouli,Centre-Back,1990-08-13,26,France,FC Schalke 04,Bundesliga,2017/2018,2017
+Thilo Kehrer,Centre-Back,1996-09-21,20,Germany,FC Schalke 04,Bundesliga,2017/2018,2017
+Pablo Insua,Centre-Back,1993-09-09,23,Spain,FC Schalke 04,Bundesliga,2017/2018,2017
+Naldo,Centre-Back,1982-09-10,34,Brazil,FC Schalke 04,Bundesliga,2017/2018,2017
+Abdul Rahman Baba,Left-Back,1994-07-02,22,Ghana,FC Schalke 04,Bundesliga,2017/2018,2017
+Bastian Oczipka,Left-Back,1989-01-12,28,Germany,FC Schalke 04,Bundesliga,2017/2018,2017
+Coke,Right-Back,1987-04-26,30,Spain,FC Schalke 04,Bundesliga,2017/2018,2017
+Sascha Riether,Right-Back,1983-03-23,34,Germany,FC Schalke 04,Bundesliga,2017/2018,2017
+Johannes Geis,Defensive Midfield,1993-08-17,23,Germany,FC Schalke 04,Bundesliga,2017/2018,2017
+Leon Goretzka,Central Midfield,1995-02-06,22,Germany,FC Schalke 04,Bundesliga,2017/2018,2017
+Nabil Bentaleb,Central Midfield,1994-11-24,22,Algeria,FC Schalke 04,Bundesliga,2017/2018,2017
+Weston McKennie,Central Midfield,1998-08-28,18,United States,FC Schalke 04,Bundesliga,2017/2018,2017
+Alessandro Schöpf,Right Midfield,1994-02-07,23,Austria,FC Schalke 04,Bundesliga,2017/2018,2017
+Daniel Caligiuri,Right Midfield,1988-01-15,29,Italy,FC Schalke 04,Bundesliga,2017/2018,2017
+Max Meyer,Attacking Midfield,1995-09-18,21,Germany,FC Schalke 04,Bundesliga,2017/2018,2017
+Amine Harit,Attacking Midfield,1997-06-18,20,Morocco,FC Schalke 04,Bundesliga,2017/2018,2017
+Marko Pjaca,Left Winger,1995-05-06,22,Croatia,FC Schalke 04,Bundesliga,2017/2018,2017
+Yevhen Konoplianka,Left Winger,1989-09-29,27,Ukraine,FC Schalke 04,Bundesliga,2017/2018,2017
+Bernard Tekpetey,Right Winger,1997-09-03,19,Ghana,FC Schalke 04,Bundesliga,2017/2018,2017
+Breel Embolo,Centre-Forward,1997-02-14,20,Switzerland,FC Schalke 04,Bundesliga,2017/2018,2017
+Guido Burgstaller,Centre-Forward,1989-04-29,28,Austria,FC Schalke 04,Bundesliga,2017/2018,2017
+Franco Di Santo,Centre-Forward,1989-04-07,28,Argentina,FC Schalke 04,Bundesliga,2017/2018,2017
+Fabian Reese,Centre-Forward,1997-11-29,19,Germany,FC Schalke 04,Bundesliga,2017/2018,2017
+Cedric Teuchert,Centre-Forward,1997-01-14,20,Germany,FC Schalke 04,Bundesliga,2017/2018,2017
+Yvon Mvogo,Goalkeeper,1994-06-06,23,Switzerland,RB Leipzig,Bundesliga,2017/2018,2017
+Péter Gulácsi,Goalkeeper,1990-05-06,27,Hungary,RB Leipzig,Bundesliga,2017/2018,2017
+Fabio Coltorti,Goalkeeper,1980-12-03,36,Switzerland,RB Leipzig,Bundesliga,2017/2018,2017
+Philipp Köhn,Goalkeeper,1998-04-02,19,Switzerland,RB Leipzig,Bundesliga,2017/2018,2017
+Willi Orban,Centre-Back,1992-11-03,24,Hungary,RB Leipzig,Bundesliga,2017/2018,2017
+Dayot Upamecano,Centre-Back,1998-10-27,18,France,RB Leipzig,Bundesliga,2017/2018,2017
+Marvin Compper,Centre-Back,1985-06-14,32,Germany,RB Leipzig,Bundesliga,2017/2018,2017
+Ibrahima Konaté,Centre-Back,1999-05-25,18,France,RB Leipzig,Bundesliga,2017/2018,2017
+Marcel Halstenberg,Left-Back,1991-09-27,25,Germany,RB Leipzig,Bundesliga,2017/2018,2017
+Bernardo,Left-Back,1995-05-14,22,Brazil,RB Leipzig,Bundesliga,2017/2018,2017
+Lukas Klostermann,Right-Back,1996-06-03,21,Germany,RB Leipzig,Bundesliga,2017/2018,2017
+Benno Schmitz,Right-Back,1994-11-17,22,Germany,RB Leipzig,Bundesliga,2017/2018,2017
+Diego Demme,Defensive Midfield,1991-11-21,25,Germany,RB Leipzig,Bundesliga,2017/2018,2017
+Stefan Ilsanker,Defensive Midfield,1989-05-18,28,Austria,RB Leipzig,Bundesliga,2017/2018,2017
+Niclas Stierlin,Defensive Midfield,2000-01-22,17,Germany,RB Leipzig,Bundesliga,2017/2018,2017
+Naby Keïta,Central Midfield,1995-02-10,22,Guinea,RB Leipzig,Bundesliga,2017/2018,2017
+Kevin Kampl,Central Midfield,1990-10-09,26,Slovenia,RB Leipzig,Bundesliga,2017/2018,2017
+Konrad Laimer,Central Midfield,1997-05-27,20,Austria,RB Leipzig,Bundesliga,2017/2018,2017
+Dominik Kaiser,Central Midfield,1988-09-16,28,Germany,RB Leipzig,Bundesliga,2017/2018,2017
+Emil Forsberg,Left Winger,1991-10-23,25,Sweden,RB Leipzig,Bundesliga,2017/2018,2017
+Bruma,Left Winger,1994-10-24,22,Portugal,RB Leipzig,Bundesliga,2017/2018,2017
+Ademola Lookman,Left Winger,1997-10-20,19,England,RB Leipzig,Bundesliga,2017/2018,2017
+Marcel Sabitzer,Right Winger,1994-03-17,23,Austria,RB Leipzig,Bundesliga,2017/2018,2017
+Oliver Burke,Right Winger,1997-04-07,20,Scotland,RB Leipzig,Bundesliga,2017/2018,2017
+Timo Werner,Centre-Forward,1996-03-06,21,Germany,RB Leipzig,Bundesliga,2017/2018,2017
+Yussuf Poulsen,Centre-Forward,1994-06-15,23,Denmark,RB Leipzig,Bundesliga,2017/2018,2017
+Jean-Kévin Augustin,Centre-Forward,1997-06-16,20,France,RB Leipzig,Bundesliga,2017/2018,2017
+Federico Palacios,Centre-Forward,1995-04-09,22,Germany,RB Leipzig,Bundesliga,2017/2018,2017
+Koen Casteels,Goalkeeper,1992-06-25,25,Belgium,VfL Wolfsburg,Bundesliga,2017/2018,2017
+Max Grün,Goalkeeper,1987-04-05,30,Germany,VfL Wolfsburg,Bundesliga,2017/2018,2017
+Phillip Menzel,Goalkeeper,1998-08-18,18,Germany,VfL Wolfsburg,Bundesliga,2017/2018,2017
+John Anthony Brooks,Centre-Back,1993-01-28,24,United States,VfL Wolfsburg,Bundesliga,2017/2018,2017
+Jeffrey Bruma,Centre-Back,1991-11-13,25,Netherlands,VfL Wolfsburg,Bundesliga,2017/2018,2017
+Robin Knoche,Centre-Back,1992-05-22,25,Germany,VfL Wolfsburg,Bundesliga,2017/2018,2017
+Marcel Tisserand,Centre-Back,1993-01-10,24,DR Congo,VfL Wolfsburg,Bundesliga,2017/2018,2017
+Felix Uduokhai,Centre-Back,1997-09-09,19,Germany,VfL Wolfsburg,Bundesliga,2017/2018,2017
+Dominik Franke,Centre-Back,1998-10-05,18,Germany,VfL Wolfsburg,Bundesliga,2017/2018,2017
+Paul Jaeckel,Centre-Back,1998-07-22,18,Germany,VfL Wolfsburg,Bundesliga,2017/2018,2017
+Gian-Luca Itter,Left-Back,1999-01-05,18,Germany,VfL Wolfsburg,Bundesliga,2017/2018,2017
+William,Right-Back,1995-04-03,22,Brazil,VfL Wolfsburg,Bundesliga,2017/2018,2017
+Sebastian Jung,Right-Back,1990-06-22,27,Germany,VfL Wolfsburg,Bundesliga,2017/2018,2017
+Paul Verhaegh,Right-Back,1983-09-01,33,Netherlands,VfL Wolfsburg,Bundesliga,2017/2018,2017
+Ignacio Camacho,Defensive Midfield,1990-05-04,27,Spain,VfL Wolfsburg,Bundesliga,2017/2018,2017
+Josuha Guilavogui,Defensive Midfield,1990-09-19,26,France,VfL Wolfsburg,Bundesliga,2017/2018,2017
+Riechedly Bazoer,Central Midfield,1996-10-12,20,Netherlands,VfL Wolfsburg,Bundesliga,2017/2018,2017
+Yannick Gerhardt,Central Midfield,1994-03-13,23,Germany,VfL Wolfsburg,Bundesliga,2017/2018,2017
+Maximilian Arnold,Central Midfield,1994-05-27,23,Germany,VfL Wolfsburg,Bundesliga,2017/2018,2017
+Elvis Rexhbecaj,Central Midfield,1997-11-01,19,Germany,VfL Wolfsburg,Bundesliga,2017/2018,2017
+Yunus Malli,Attacking Midfield,1992-02-24,25,Turkey,VfL Wolfsburg,Bundesliga,2017/2018,2017
+Daniel Didavi,Attacking Midfield,1990-02-21,27,Germany,VfL Wolfsburg,Bundesliga,2017/2018,2017
+Justin Möbius,Attacking Midfield,1997-04-21,20,Germany,VfL Wolfsburg,Bundesliga,2017/2018,2017
+Paul-Georges Ntep,Left Winger,1992-07-29,24,Cameroon,VfL Wolfsburg,Bundesliga,2017/2018,2017
+Josip Brekalo,Left Winger,1998-06-23,19,Croatia,VfL Wolfsburg,Bundesliga,2017/2018,2017
+Renato Steffen,Right Winger,1991-11-03,25,Switzerland,VfL Wolfsburg,Bundesliga,2017/2018,2017
+Jakub Blaszczykowski,Right Winger,1985-12-14,31,Poland,VfL Wolfsburg,Bundesliga,2017/2018,2017
+Admir Mehmedi,Second Striker,1991-03-16,26,Switzerland,VfL Wolfsburg,Bundesliga,2017/2018,2017
+Kaylen Hinds,Second Striker,1998-01-28,19,England,VfL Wolfsburg,Bundesliga,2017/2018,2017
+Divock Origi,Centre-Forward,1995-04-18,22,Belgium,VfL Wolfsburg,Bundesliga,2017/2018,2017
+Mario Gómez,Centre-Forward,1985-07-10,31,Germany,VfL Wolfsburg,Bundesliga,2017/2018,2017
+Landry Dimata,Centre-Forward,1997-09-01,19,Belgium,VfL Wolfsburg,Bundesliga,2017/2018,2017
+Victor Osimhen,Centre-Forward,1998-12-29,18,Nigeria,VfL Wolfsburg,Bundesliga,2017/2018,2017
+Yann Sommer,Goalkeeper,1988-12-17,28,Switzerland,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
+Tobias Sippel,Goalkeeper,1988-03-22,29,Germany,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
+Christofer Heimeroth,Goalkeeper,1981-08-01,35,Germany,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
+Moritz Nicolas,Goalkeeper,1997-10-21,19,Germany,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
+Matthias Ginter,Centre-Back,1994-01-19,23,Germany,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
+Jannik Vestergaard,Centre-Back,1992-08-03,24,Denmark,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
+Nico Elvedi,Centre-Back,1996-09-30,20,Switzerland,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
+Tony Jantschke,Centre-Back,1990-04-07,27,Germany,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
+Reece Oxford,Centre-Back,1998-12-16,18,England,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
+Mamadou Doucouré,Centre-Back,1998-05-21,19,France,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
+Florian Mayer,Centre-Back,1998-03-04,19,Germany,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
+Oscar Wendt,Left-Back,1985-10-24,31,Sweden,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
+Mandela Egbo,Right-Back,1997-08-17,19,England,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
+Justin Hoffmanns,Right-Back,1997-02-26,20,Germany,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
+Jordan Beyer,Right-Back,2000-05-19,17,Germany,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
+Christoph Kramer,Defensive Midfield,1991-02-19,26,Germany,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
+Denis Zakaria,Defensive Midfield,1996-11-20,20,Switzerland,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
+Tobias Strobl,Defensive Midfield,1990-05-12,27,Germany,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
+Aaron Herzog,Defensive Midfield,1998-01-30,19,Germany,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
+Marcel Benger,Defensive Midfield,1998-07-02,18,Germany,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
+Jonas Hofmann,Central Midfield,1992-07-14,24,Germany,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
+Lászlo Bénes,Central Midfield,1997-09-09,19,Slovakia,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
+Michaël Cuisance,Central Midfield,1999-08-16,17,France,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
+Thorgan Hazard,Left Winger,1993-03-29,24,Belgium,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
+Vincenzo Grifo,Left Winger,1993-04-07,24,Italy,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
+Fabian Johnson,Left Winger,1987-12-11,29,United States,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
+Kwame Yeboah,Left Winger,1994-06-02,23,Australia,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
+Patrick Herrmann,Right Winger,1991-02-12,26,Germany,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
+Ibrahima Traoré,Right Winger,1988-04-21,29,Guinea,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
+Lars Stindl,Second Striker,1988-08-26,28,Germany,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
+Raffael,Second Striker,1985-03-28,32,Brazil,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
+Ba-Muaka Simakala,Second Striker,1997-01-28,20,Germany,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
+Raúl Bobadilla,Centre-Forward,1987-06-18,30,Paraguay,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
+Josip Drmic,Centre-Forward,1992-08-08,24,Switzerland,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
+Julio Villalba,Centre-Forward,1998-09-17,18,Paraguay,Borussia Mönchengladbach,Bundesliga,2017/2018,2017
+Oliver Baumann,Goalkeeper,1990-06-02,27,Germany,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
+Gregor Kobel,Goalkeeper,1997-12-06,19,Switzerland,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
+Alexander Stolz,Goalkeeper,1983-10-13,33,Germany,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
+Kevin Vogt,Centre-Back,1991-09-23,25,Germany,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
+Benjamin Hübner,Centre-Back,1989-07-04,27,Germany,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
+Ermin Bicakcic,Centre-Back,1990-01-24,27,Bosnia-Herzegovina,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
+Justin Hoogma,Centre-Back,1998-06-11,19,Netherlands,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
+Kevin Akpoguma,Centre-Back,1995-04-19,22,Germany,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
+Simon Lorenz,Centre-Back,1997-03-30,20,Germany,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
+Stefan Posch,Centre-Back,1997-05-14,20,Austria,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
+Nico Schulz,Left-Back,1993-04-01,24,Germany,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
+Alexander Rossipal,Left-Back,1996-06-06,21,Germany,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
+Pavel Kaderabek,Right-Back,1992-04-25,25,Czech Republic,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
+Jeremy Toljan,Right-Back,1994-08-08,22,Germany,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
+Felix Passlack,Right-Back,1998-05-29,19,Germany,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
+Havard Nordtveit,Defensive Midfield,1990-06-21,27,Norway,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
+Eugen Polanski,Defensive Midfield,1986-03-17,31,Poland,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
+Dennis Geiger,Defensive Midfield,1998-06-10,19,Germany,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
+Kerem Demirbay,Central Midfield,1993-07-03,23,Germany,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
+Nadiem Amiri,Central Midfield,1996-10-27,20,Germany,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
+Lukas Rupp,Central Midfield,1991-01-08,26,Germany,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
+Florian Grillitsch,Central Midfield,1995-08-07,21,Austria,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
+Johannes Bühler,Right Midfield,1997-07-26,19,Germany,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
+Steven Zuber,Left Midfield,1991-08-17,25,Switzerland,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
+Robert Zulj,Attacking Midfield,1992-02-05,25,Austria,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
+Maximilian Waack,Attacking Midfield,1996-01-12,21,Germany,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
+Philipp Ochs,Left Winger,1997-04-17,20,Germany,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
+Robin Hack,Left Winger,1998-08-27,18,Germany,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
+Serge Gnabry,Right Winger,1995-07-14,21,Germany,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
+Nicolas Wähling,Right Winger,1997-08-24,19,Germany,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
+Andrej Kramaric,Centre-Forward,1991-06-19,26,Croatia,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
+Sandro Wagner,Centre-Forward,1987-11-29,29,Germany,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
+Mark Uth,Centre-Forward,1991-08-24,25,Germany,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
+Ádám Szalai,Centre-Forward,1987-12-09,29,Hungary,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
+Meris Skenderovic,Centre-Forward,1998-03-28,19,Montenegro,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
+David Otto,Centre-Forward,1999-03-03,18,Germany,TSG 1899 Hoffenheim,Bundesliga,2017/2018,2017
+Timo Horn,Goalkeeper,1993-05-12,24,Germany,1. FC Köln,Bundesliga,2017/2018,2017
+Thomas Kessler,Goalkeeper,1986-01-20,31,Germany,1. FC Köln,Bundesliga,2017/2018,2017
+Sven Müller,Goalkeeper,1996-02-16,21,Germany,1. FC Köln,Bundesliga,2017/2018,2017
+Brady Scott,Goalkeeper,1999-06-30,18,United States,1. FC Köln,Bundesliga,2017/2018,2017
+Dominique Heintz,Centre-Back,1993-08-15,23,Germany,1. FC Köln,Bundesliga,2017/2018,2017
+Frederik Sörensen,Centre-Back,1992-04-14,25,Denmark,1. FC Köln,Bundesliga,2017/2018,2017
+Jorge Meré,Centre-Back,1997-04-17,20,Spain,1. FC Köln,Bundesliga,2017/2018,2017
+Dominic Maroh,Centre-Back,1987-03-04,30,Slovenia,1. FC Köln,Bundesliga,2017/2018,2017
+Filip Kusic,Centre-Back,1996-06-03,21,Serbia,1. FC Köln,Bundesliga,2017/2018,2017
+João Queirós,Centre-Back,1998-04-22,19,Portugal,1. FC Köln,Bundesliga,2017/2018,2017
+Yann Aurel Bisseck,Centre-Back,2000-11-29,16,Germany,1. FC Köln,Bundesliga,2017/2018,2017
+Jonas Hector,Left-Back,1990-05-27,27,Germany,1. FC Köln,Bundesliga,2017/2018,2017
+Jannes Horn,Left-Back,1997-02-06,20,Germany,1. FC Köln,Bundesliga,2017/2018,2017
+Konstantin Rausch,Left-Back,1990-03-15,27,Russia,1. FC Köln,Bundesliga,2017/2018,2017
+Birk Risa,Left-Back,1998-02-13,19,Norway,1. FC Köln,Bundesliga,2017/2018,2017
+Ismail Jakobs,Left-Back,1999-08-17,17,Germany,1. FC Köln,Bundesliga,2017/2018,2017
+Tim Handwerker,Left-Back,1998-05-19,19,Germany,1. FC Köln,Bundesliga,2017/2018,2017
+Pawel Olkowski,Right-Back,1990-02-13,27,Poland,1. FC Köln,Bundesliga,2017/2018,2017
+Lukas Klünter,Right-Back,1996-05-26,21,Germany,1. FC Köln,Bundesliga,2017/2018,2017
+Kevin Goden,Right-Back,1999-02-22,18,Germany,1. FC Köln,Bundesliga,2017/2018,2017
+Marco Höger,Defensive Midfield,1989-09-16,27,Germany,1. FC Köln,Bundesliga,2017/2018,2017
+Matthias Lehmann,Defensive Midfield,1983-05-28,34,Germany,1. FC Köln,Bundesliga,2017/2018,2017
+Vincent Koziello,Central Midfield,1995-10-28,21,France,1. FC Köln,Bundesliga,2017/2018,2017
+Milos Jojic,Central Midfield,1992-03-19,25,Serbia,1. FC Köln,Bundesliga,2017/2018,2017
+Salih Özcan,Central Midfield,1998-01-11,19,Germany,1. FC Köln,Bundesliga,2017/2018,2017
+Chris Führich,Central Midfield,1998-01-09,19,Germany,1. FC Köln,Bundesliga,2017/2018,2017
+Nikolas Nartey,Central Midfield,2000-02-22,17,Denmark,1. FC Köln,Bundesliga,2017/2018,2017
+Marcel Risse,Right Midfield,1989-12-17,27,Germany,1. FC Köln,Bundesliga,2017/2018,2017
+Leonardo Bittencourt,Attacking Midfield,1993-12-19,23,Germany,1. FC Köln,Bundesliga,2017/2018,2017
+Anas Ouahim,Attacking Midfield,1997-09-23,19,Morocco,1. FC Köln,Bundesliga,2017/2018,2017
+Christian Clemens,Right Winger,1991-08-04,25,Germany,1. FC Köln,Bundesliga,2017/2018,2017
+Jhon Córdoba,Centre-Forward,1993-05-11,24,Colombia,1. FC Köln,Bundesliga,2017/2018,2017
+Yuya Osako,Centre-Forward,1990-05-18,27,Japan,1. FC Köln,Bundesliga,2017/2018,2017
+Simon Terodde,Centre-Forward,1988-03-02,29,Germany,1. FC Köln,Bundesliga,2017/2018,2017
+Simon Zoller,Centre-Forward,1991-06-26,26,Germany,1. FC Köln,Bundesliga,2017/2018,2017
+Artjoms Rudnevs,Centre-Forward,1988-01-13,29,Latvia,1. FC Köln,Bundesliga,2017/2018,2017
+Serhou Guirassy,Centre-Forward,1996-03-12,21,France,1. FC Köln,Bundesliga,2017/2018,2017
+Claudio Pizarro,Centre-Forward,1978-10-03,38,Peru,1. FC Köln,Bundesliga,2017/2018,2017
+Rune Jarstein,Goalkeeper,1984-09-29,32,Norway,Hertha BSC,Bundesliga,2017/2018,2017
+Thomas Kraft,Goalkeeper,1988-07-22,28,Germany,Hertha BSC,Bundesliga,2017/2018,2017
+Dennis Smarsch,Goalkeeper,1999-01-14,18,Germany,Hertha BSC,Bundesliga,2017/2018,2017
+Jonathan Klinsmann,Goalkeeper,1997-04-08,20,United States,Hertha BSC,Bundesliga,2017/2018,2017
+Niklas Stark,Centre-Back,1995-04-14,22,Germany,Hertha BSC,Bundesliga,2017/2018,2017
+Sebastian Langkamp,Centre-Back,1988-01-15,29,Germany,Hertha BSC,Bundesliga,2017/2018,2017
+Karim Rekik,Centre-Back,1994-12-02,22,Netherlands,Hertha BSC,Bundesliga,2017/2018,2017
+Jordan Torunarigha,Centre-Back,1997-08-07,19,Germany,Hertha BSC,Bundesliga,2017/2018,2017
+Florian Baak,Centre-Back,1999-03-18,18,Germany,Hertha BSC,Bundesliga,2017/2018,2017
+Marvin Plattenhardt,Left-Back,1992-01-26,25,Germany,Hertha BSC,Bundesliga,2017/2018,2017
+Maximilian Mittelstädt,Left-Back,1997-03-18,20,Germany,Hertha BSC,Bundesliga,2017/2018,2017
+Mitchell Weiser,Right-Back,1994-04-21,23,Germany,Hertha BSC,Bundesliga,2017/2018,2017
+Peter Pekarik,Right-Back,1986-10-30,30,Slovakia,Hertha BSC,Bundesliga,2017/2018,2017
+Fabian Lustenberger,Defensive Midfield,1988-05-02,29,Switzerland,Hertha BSC,Bundesliga,2017/2018,2017
+Arne Maier,Defensive Midfield,1999-01-08,18,Germany,Hertha BSC,Bundesliga,2017/2018,2017
+Vladimir Darida,Central Midfield,1990-08-08,26,Czech Republic,Hertha BSC,Bundesliga,2017/2018,2017
+Per Ciljan Skjelbred,Central Midfield,1987-06-16,30,Norway,Hertha BSC,Bundesliga,2017/2018,2017
+Sidney Friede,Central Midfield,1998-04-12,19,Germany,Hertha BSC,Bundesliga,2017/2018,2017
+Valentino Lazaro,Right Midfield,1996-03-24,21,Austria,Hertha BSC,Bundesliga,2017/2018,2017
+Ondrej Duda,Attacking Midfield,1994-12-05,22,Slovakia,Hertha BSC,Bundesliga,2017/2018,2017
+Valentin Stocker,Attacking Midfield,1989-04-12,28,Switzerland,Hertha BSC,Bundesliga,2017/2018,2017
+Julius Kade,Attacking Midfield,1999-05-20,18,Germany,Hertha BSC,Bundesliga,2017/2018,2017
+Salomon Kalou,Left Winger,1985-08-05,31,Cote d'Ivoire,Hertha BSC,Bundesliga,2017/2018,2017
+Genki Haraguchi,Left Winger,1991-05-09,26,Japan,Hertha BSC,Bundesliga,2017/2018,2017
+Sinan Kurt,Left Winger,1996-07-23,20,Germany,Hertha BSC,Bundesliga,2017/2018,2017
+Alexander Esswein,Right Winger,1990-03-25,27,Germany,Hertha BSC,Bundesliga,2017/2018,2017
+Mathew Leckie,Right Winger,1991-02-04,26,Australia,Hertha BSC,Bundesliga,2017/2018,2017
+Maurice Covic,Right Winger,1998-04-17,19,Germany,Hertha BSC,Bundesliga,2017/2018,2017
+Palko Dárdai,Right Winger,1999-04-24,18,Germany,Hertha BSC,Bundesliga,2017/2018,2017
+Davie Selke,Centre-Forward,1995-01-20,22,Germany,Hertha BSC,Bundesliga,2017/2018,2017
+Vedad Ibisevic,Centre-Forward,1984-08-06,32,Bosnia-Herzegovina,Hertha BSC,Bundesliga,2017/2018,2017
+Julian Schieber,Centre-Forward,1989-02-13,28,Germany,Hertha BSC,Bundesliga,2017/2018,2017
+Lukas Hradecky,Goalkeeper,1989-11-24,27,Finland,Eintracht Frankfurt,Bundesliga,2017/2018,2017
+Jan Zimmermann,Goalkeeper,1985-04-19,32,Germany,Eintracht Frankfurt,Bundesliga,2017/2018,2017
+Leon Bätge,Goalkeeper,1997-07-09,19,Germany,Eintracht Frankfurt,Bundesliga,2017/2018,2017
+David Abraham,Centre-Back,1986-07-15,30,Argentina,Eintracht Frankfurt,Bundesliga,2017/2018,2017
+Carlos Salcedo,Centre-Back,1993-09-29,23,Mexico,Eintracht Frankfurt,Bundesliga,2017/2018,2017
+Simon Falette,Centre-Back,1992-02-19,25,Guinea,Eintracht Frankfurt,Bundesliga,2017/2018,2017
+Marco Russ,Centre-Back,1985-08-04,31,Germany,Eintracht Frankfurt,Bundesliga,2017/2018,2017
+Noel Knothe,Centre-Back,1999-05-05,18,Germany,Eintracht Frankfurt,Bundesliga,2017/2018,2017
+Jetro Willems,Left-Back,1994-03-30,23,Netherlands,Eintracht Frankfurt,Bundesliga,2017/2018,2017
+Taleb Tawatha,Left-Back,1992-06-21,25,Israel,Eintracht Frankfurt,Bundesliga,2017/2018,2017
+Deji Beyreuther,Left-Back,1999-09-06,17,Germany,Eintracht Frankfurt,Bundesliga,2017/2018,2017
+Timothy Chandler,Right-Back,1990-03-29,27,United States,Eintracht Frankfurt,Bundesliga,2017/2018,2017
+Danny da Costa,Right-Back,1993-07-13,23,Germany,Eintracht Frankfurt,Bundesliga,2017/2018,2017
+Omar Mascarell,Defensive Midfield,1993-02-02,24,Spain,Eintracht Frankfurt,Bundesliga,2017/2018,2017
+Gelson Fernandes,Defensive Midfield,1986-09-02,30,Switzerland,Eintracht Frankfurt,Bundesliga,2017/2018,2017
+Makoto Hasebe,Defensive Midfield,1984-01-18,33,Japan,Eintracht Frankfurt,Bundesliga,2017/2018,2017
+Slobodan Medojevic,Defensive Midfield,1990-10-20,26,Serbia,Eintracht Frankfurt,Bundesliga,2017/2018,2017
+Sahverdi Cetin,Defensive Midfield,2000-09-28,16,Germany,Eintracht Frankfurt,Bundesliga,2017/2018,2017
+Marc Stendera,Central Midfield,1995-12-10,21,Germany,Eintracht Frankfurt,Bundesliga,2017/2018,2017
+Jonathan de Guzmán,Central Midfield,1987-09-13,29,Netherlands,Eintracht Frankfurt,Bundesliga,2017/2018,2017
+Max Besuschkow,Central Midfield,1997-05-31,20,Germany,Eintracht Frankfurt,Bundesliga,2017/2018,2017
+Marijan Cavar,Central Midfield,1998-02-02,19,Bosnia-Herzegovina,Eintracht Frankfurt,Bundesliga,2017/2018,2017
+Marco Fabián,Attacking Midfield,1989-07-21,27,Mexico,Eintracht Frankfurt,Bundesliga,2017/2018,2017
+Mijat Gacinovic,Attacking Midfield,1995-02-08,22,Serbia,Eintracht Frankfurt,Bundesliga,2017/2018,2017
+Aymen Barkok,Attacking Midfield,1998-05-21,19,Germany,Eintracht Frankfurt,Bundesliga,2017/2018,2017
+Danny Blum,Left Winger,1991-01-07,26,Germany,Eintracht Frankfurt,Bundesliga,2017/2018,2017
+Marius Wolf,Right Winger,1995-05-27,22,Germany,Eintracht Frankfurt,Bundesliga,2017/2018,2017
+Ante Rebic,Second Striker,1993-09-21,23,Croatia,Eintracht Frankfurt,Bundesliga,2017/2018,2017
+Alexander Meier,Second Striker,1983-01-17,34,Germany,Eintracht Frankfurt,Bundesliga,2017/2018,2017
+Daichi Kamada,Second Striker,1996-08-05,20,Japan,Eintracht Frankfurt,Bundesliga,2017/2018,2017
+Nelson Mandela Mbouhom,Second Striker,1999-05-04,18,Cameroon,Eintracht Frankfurt,Bundesliga,2017/2018,2017
+Sébastien Haller,Centre-Forward,1994-06-22,23,France,Eintracht Frankfurt,Bundesliga,2017/2018,2017
+Kevin-Prince Boateng,Centre-Forward,1987-03-06,30,Ghana,Eintracht Frankfurt,Bundesliga,2017/2018,2017
+Branimir Hrgota,Centre-Forward,1993-01-12,24,Sweden,Eintracht Frankfurt,Bundesliga,2017/2018,2017
+Luka Jovic,Centre-Forward,1997-12-23,19,Serbia,Eintracht Frankfurt,Bundesliga,2017/2018,2017
+Renat Dadashov,Centre-Forward,1999-05-17,18,Azerbaijan,Eintracht Frankfurt,Bundesliga,2017/2018,2017
+Jiri Pavlenka,Goalkeeper,1992-04-14,25,Czech Republic,SV Werder Bremen,Bundesliga,2017/2018,2017
+Michael Zetterer,Goalkeeper,1995-07-12,21,Germany,SV Werder Bremen,Bundesliga,2017/2018,2017
+Jaroslav Drobny,Goalkeeper,1979-10-18,37,Czech Republic,SV Werder Bremen,Bundesliga,2017/2018,2017
+Luca Plogmann,Goalkeeper,2000-03-10,17,Germany,SV Werder Bremen,Bundesliga,2017/2018,2017
+Lamine Sané,Centre-Back,1987-03-22,30,Senegal,SV Werder Bremen,Bundesliga,2017/2018,2017
+Milos Veljkovic,Centre-Back,1995-09-26,21,Serbia,SV Werder Bremen,Bundesliga,2017/2018,2017
+Sebastian Langkamp,Centre-Back,1988-01-15,29,Germany,SV Werder Bremen,Bundesliga,2017/2018,2017
+Luca Caldirola,Centre-Back,1991-02-01,26,Italy,SV Werder Bremen,Bundesliga,2017/2018,2017
+Niklas Moisander,Centre-Back,1985-09-29,31,Finland,SV Werder Bremen,Bundesliga,2017/2018,2017
+Jesper Verlaat,Centre-Back,1996-06-04,21,Netherlands,SV Werder Bremen,Bundesliga,2017/2018,2017
+Ludwig Augustinsson,Left-Back,1994-04-21,23,Sweden,SV Werder Bremen,Bundesliga,2017/2018,2017
+Ulisses Garcia,Left-Back,1996-01-11,21,Switzerland,SV Werder Bremen,Bundesliga,2017/2018,2017
+Thore Jacobsen,Left-Back,1997-04-19,20,Germany,SV Werder Bremen,Bundesliga,2017/2018,2017
+Marco Friedl,Left-Back,1998-03-16,19,Austria,SV Werder Bremen,Bundesliga,2017/2018,2017
+Robert Bauer,Right-Back,1995-04-09,22,Germany,SV Werder Bremen,Bundesliga,2017/2018,2017
+Theodor Gebre Selassie,Right-Back,1986-12-24,30,Czech Republic,SV Werder Bremen,Bundesliga,2017/2018,2017
+Philipp Bargfrede,Defensive Midfield,1989-03-03,28,Germany,SV Werder Bremen,Bundesliga,2017/2018,2017
+Ole Käuper,Defensive Midfield,1997-01-09,20,Germany,SV Werder Bremen,Bundesliga,2017/2018,2017
+Zlatko Junuzovic,Central Midfield,1987-09-26,29,Austria,SV Werder Bremen,Bundesliga,2017/2018,2017
+Thomas Delaney,Central Midfield,1991-09-03,25,Denmark,SV Werder Bremen,Bundesliga,2017/2018,2017
+Jérôme Gondorf,Central Midfield,1988-06-26,29,Germany,SV Werder Bremen,Bundesliga,2017/2018,2017
+Maximilian Eggestein,Central Midfield,1996-12-08,20,Germany,SV Werder Bremen,Bundesliga,2017/2018,2017
+Niklas Schmidt,Right Midfield,1998-03-01,19,Germany,SV Werder Bremen,Bundesliga,2017/2018,2017
+Milot Rashica,Left Winger,1996-06-28,21,Kosovo,SV Werder Bremen,Bundesliga,2017/2018,2017
+Florian Kainz,Left Winger,1992-10-24,24,Austria,SV Werder Bremen,Bundesliga,2017/2018,2017
+Izet Hajrovic,Right Winger,1991-08-04,25,Bosnia-Herzegovina,SV Werder Bremen,Bundesliga,2017/2018,2017
+Justin Eilers,Right Winger,1988-06-13,29,Germany,SV Werder Bremen,Bundesliga,2017/2018,2017
+Johannes Eggestein,Right Winger,1998-05-08,19,Germany,SV Werder Bremen,Bundesliga,2017/2018,2017
+Fin Bartels,Second Striker,1987-02-07,30,Germany,SV Werder Bremen,Bundesliga,2017/2018,2017
+Max Kruse,Centre-Forward,1988-03-19,29,Germany,SV Werder Bremen,Bundesliga,2017/2018,2017
+Ishak Belfodil,Centre-Forward,1992-01-12,25,Algeria,SV Werder Bremen,Bundesliga,2017/2018,2017
+Aron Jóhannsson,Centre-Forward,1990-11-10,26,United States,SV Werder Bremen,Bundesliga,2017/2018,2017
+Yuning Zhang,Centre-Forward,1997-01-05,20,China,SV Werder Bremen,Bundesliga,2017/2018,2017
+René Adler,Goalkeeper,1985-01-15,32,Germany,1.FSV Mainz 05,Bundesliga,2017/2018,2017
+Jannik Huth,Goalkeeper,1994-04-15,23,Germany,1.FSV Mainz 05,Bundesliga,2017/2018,2017
+Florian Müller,Goalkeeper,1997-11-13,19,Germany,1.FSV Mainz 05,Bundesliga,2017/2018,2017
+Robin Zentner,Goalkeeper,1994-10-28,22,Germany,1.FSV Mainz 05,Bundesliga,2017/2018,2017
+Finn Dahmen,Goalkeeper,1998-03-27,19,Germany,1.FSV Mainz 05,Bundesliga,2017/2018,2017
+Stefan Bell,Centre-Back,1991-08-24,25,Germany,1.FSV Mainz 05,Bundesliga,2017/2018,2017
+Leon Balogun,Centre-Back,1988-06-28,29,Nigeria,1.FSV Mainz 05,Bundesliga,2017/2018,2017
+Alexander Hack,Centre-Back,1993-09-08,23,Germany,1.FSV Mainz 05,Bundesliga,2017/2018,2017
+Niko Bungert,Centre-Back,1986-10-24,30,Germany,1.FSV Mainz 05,Bundesliga,2017/2018,2017
+Abdou Diallo,Centre-Back,1996-05-04,21,France,1.FSV Mainz 05,Bundesliga,2017/2018,2017
+Gaëtan Bussmann,Left-Back,1991-02-02,26,France,1.FSV Mainz 05,Bundesliga,2017/2018,2017
+Marin Sverko,Left-Back,1998-02-04,19,Croatia,1.FSV Mainz 05,Bundesliga,2017/2018,2017
+Giulio Donati,Right-Back,1990-02-05,27,Italy,1.FSV Mainz 05,Bundesliga,2017/2018,2017
+Daniel Brosinski,Right-Back,1988-07-17,28,Germany,1.FSV Mainz 05,Bundesliga,2017/2018,2017
+Jean-Philippe Gbamin,Defensive Midfield,1995-09-25,21,Cote d'Ivoire,1.FSV Mainz 05,Bundesliga,2017/2018,2017
+Fabian Frei,Defensive Midfield,1989-01-08,28,Switzerland,1.FSV Mainz 05,Bundesliga,2017/2018,2017
+Nigel de Jong,Defensive Midfield,1984-11-30,32,Netherlands,1.FSV Mainz 05,Bundesliga,2017/2018,2017
+Danny Latza,Central Midfield,1989-12-07,27,Germany,1.FSV Mainz 05,Bundesliga,2017/2018,2017
+Suat Serdar,Central Midfield,1997-04-11,20,Germany,1.FSV Mainz 05,Bundesliga,2017/2018,2017
+Ridle Baku,Central Midfield,1998-04-08,19,Germany,1.FSV Mainz 05,Bundesliga,2017/2018,2017
+Levin Öztunali,Right Midfield,1996-03-15,21,Germany,1.FSV Mainz 05,Bundesliga,2017/2018,2017
+Alexandru Maxim,Attacking Midfield,1990-07-08,26,Romania,1.FSV Mainz 05,Bundesliga,2017/2018,2017
+Philipp Klement,Attacking Midfield,1992-09-09,24,Germany,1.FSV Mainz 05,Bundesliga,2017/2018,2017
+Viktor Fischer,Left Winger,1994-06-09,23,Denmark,1.FSV Mainz 05,Bundesliga,2017/2018,2017
+Jairo Samperio,Left Winger,1993-07-11,23,Spain,1.FSV Mainz 05,Bundesliga,2017/2018,2017
+Pablo de Blasis,Left Winger,1988-02-04,29,Argentina,1.FSV Mainz 05,Bundesliga,2017/2018,2017
+Karim Onisiwo,Left Winger,1992-03-17,25,Austria,1.FSV Mainz 05,Bundesliga,2017/2018,2017
+Gerrit Holtmann,Left Winger,1995-03-25,22,Germany,1.FSV Mainz 05,Bundesliga,2017/2018,2017
+Robin Quaison,Second Striker,1993-10-09,23,Sweden,1.FSV Mainz 05,Bundesliga,2017/2018,2017
+Yoshinori Muto,Centre-Forward,1992-07-15,24,Japan,1.FSV Mainz 05,Bundesliga,2017/2018,2017
+Anthony Ujah,Centre-Forward,1990-10-14,26,Nigeria,1.FSV Mainz 05,Bundesliga,2017/2018,2017
+Kenan Kodro,Centre-Forward,1993-08-19,23,Bosnia-Herzegovina,1.FSV Mainz 05,Bundesliga,2017/2018,2017
+Emil Berggreen,Centre-Forward,1993-05-10,24,Denmark,1.FSV Mainz 05,Bundesliga,2017/2018,2017
+Ron-Robert Zieler,Goalkeeper,1989-02-12,28,Germany,VfB Stuttgart,Bundesliga,2017/2018,2017
+Mitchell Langerak,Goalkeeper,1988-08-22,28,Australia,VfB Stuttgart,Bundesliga,2017/2018,2017
+Jens Grahl,Goalkeeper,1988-09-22,28,Germany,VfB Stuttgart,Bundesliga,2017/2018,2017
+Alexander Meyer,Goalkeeper,1991-04-13,26,Germany,VfB Stuttgart,Bundesliga,2017/2018,2017
+Timo Baumgartl,Centre-Back,1996-03-04,21,Germany,VfB Stuttgart,Bundesliga,2017/2018,2017
+Benjamin Pavard,Centre-Back,1996-03-28,21,France,VfB Stuttgart,Bundesliga,2017/2018,2017
+Holger Badstuber,Centre-Back,1989-03-13,28,Germany,VfB Stuttgart,Bundesliga,2017/2018,2017
+Marcin Kaminski,Centre-Back,1992-01-15,25,Poland,VfB Stuttgart,Bundesliga,2017/2018,2017
+Emiliano Insúa,Left-Back,1989-01-07,28,Argentina,VfB Stuttgart,Bundesliga,2017/2018,2017
+Aílton,Left-Back,1995-03-16,22,Brazil,VfB Stuttgart,Bundesliga,2017/2018,2017
+Andreas Beck,Right-Back,1987-03-13,30,Germany,VfB Stuttgart,Bundesliga,2017/2018,2017
+Matthias Zimmermann,Right-Back,1992-06-16,25,Germany,VfB Stuttgart,Bundesliga,2017/2018,2017
+Santiago Ascacíbar,Defensive Midfield,1997-02-25,20,Argentina,VfB Stuttgart,Bundesliga,2017/2018,2017
+Ebenezer Ofori,Defensive Midfield,1995-07-01,22,Ghana,VfB Stuttgart,Bundesliga,2017/2018,2017
+Dennis Aogo,Defensive Midfield,1987-01-14,30,Germany,VfB Stuttgart,Bundesliga,2017/2018,2017
+Dzenis Burnic,Defensive Midfield,1998-05-22,19,Germany,VfB Stuttgart,Bundesliga,2017/2018,2017
+Alexander Groiß,Defensive Midfield,1998-07-01,19,Germany,VfB Stuttgart,Bundesliga,2017/2018,2017
+Orel Mangala,Defensive Midfield,1998-03-18,19,Belgium,VfB Stuttgart,Bundesliga,2017/2018,2017
+Christian Gentner,Central Midfield,1985-08-14,31,Germany,VfB Stuttgart,Bundesliga,2017/2018,2017
+Anto Grgic,Central Midfield,1996-11-28,20,Switzerland,VfB Stuttgart,Bundesliga,2017/2018,2017
+Erik Thommy,Left Midfield,1994-08-20,22,Germany,VfB Stuttgart,Bundesliga,2017/2018,2017
+Berkay Özcan,Attacking Midfield,1998-02-15,19,Turkey,VfB Stuttgart,Bundesliga,2017/2018,2017
+Julian Green,Attacking Midfield,1995-06-06,22,United States,VfB Stuttgart,Bundesliga,2017/2018,2017
+Nicolas Sessa,Attacking Midfield,1996-03-23,21,Germany,VfB Stuttgart,Bundesliga,2017/2018,2017
+Josip Brekalo,Left Winger,1998-06-23,19,Croatia,VfB Stuttgart,Bundesliga,2017/2018,2017
+Jacob Bruun Larsen,Left Winger,1998-09-19,18,Denmark,VfB Stuttgart,Bundesliga,2017/2018,2017
+Carlos Mané,Right Winger,1994-03-11,23,Portugal,VfB Stuttgart,Bundesliga,2017/2018,2017
+Chadrac Akolo,Right Winger,1995-04-01,22,DR Congo,VfB Stuttgart,Bundesliga,2017/2018,2017
+Takuma Asano,Second Striker,1994-11-10,22,Japan,VfB Stuttgart,Bundesliga,2017/2018,2017
+Mario Gómez,Centre-Forward,1985-07-10,31,Germany,VfB Stuttgart,Bundesliga,2017/2018,2017
+Simon Terodde,Centre-Forward,1988-03-02,29,Germany,VfB Stuttgart,Bundesliga,2017/2018,2017
+Daniel Ginczek,Centre-Forward,1991-04-13,26,Germany,VfB Stuttgart,Bundesliga,2017/2018,2017
+Anastasios Donis,Centre-Forward,1996-08-29,20,Greece,VfB Stuttgart,Bundesliga,2017/2018,2017
+Pascal Breier,Centre-Forward,1992-02-02,25,Germany,VfB Stuttgart,Bundesliga,2017/2018,2017
+Alexander Schwolow,Goalkeeper,1992-06-02,25,Germany,SC Freiburg,Bundesliga,2017/2018,2017
+Rafal Gikiewicz,Goalkeeper,1987-10-26,29,Poland,SC Freiburg,Bundesliga,2017/2018,2017
+Patric Klandt,Goalkeeper,1983-09-29,33,Germany,SC Freiburg,Bundesliga,2017/2018,2017
+Caglar Söyüncü,Centre-Back,1996-05-23,21,Turkey,SC Freiburg,Bundesliga,2017/2018,2017
+Marc Oliver Kempf,Centre-Back,1995-01-28,22,Germany,SC Freiburg,Bundesliga,2017/2018,2017
+Manuel Gulde,Centre-Back,1991-02-12,26,Germany,SC Freiburg,Bundesliga,2017/2018,2017
+Philipp Lienhart,Centre-Back,1996-07-11,20,Austria,SC Freiburg,Bundesliga,2017/2018,2017
+Robin Koch,Centre-Back,1996-07-17,20,Germany,SC Freiburg,Bundesliga,2017/2018,2017
+Georg Niedermeier,Centre-Back,1986-02-26,31,Germany,SC Freiburg,Bundesliga,2017/2018,2017
+Christian Günter,Left-Back,1993-02-28,24,Germany,SC Freiburg,Bundesliga,2017/2018,2017
+Gaëtan Bussmann,Left-Back,1991-02-02,26,France,SC Freiburg,Bundesliga,2017/2018,2017
+Chima Okoroji,Left-Back,1997-04-19,20,England,SC Freiburg,Bundesliga,2017/2018,2017
+Pascal Stenzel,Right-Back,1996-03-20,21,Germany,SC Freiburg,Bundesliga,2017/2018,2017
+Lukas Kübler,Right-Back,1992-08-30,24,Germany,SC Freiburg,Bundesliga,2017/2018,2017
+Mohamed Dräger,Right-Back,1996-06-25,21,Tunisia,SC Freiburg,Bundesliga,2017/2018,2017
+Nicolas Höfler,Defensive Midfield,1990-03-09,27,Germany,SC Freiburg,Bundesliga,2017/2018,2017
+Amir Abrashi,Defensive Midfield,1990-03-27,27,Albania,SC Freiburg,Bundesliga,2017/2018,2017
+Aleksandar Ignjovski,Defensive Midfield,1991-01-27,26,Serbia,SC Freiburg,Bundesliga,2017/2018,2017
+Jonas Meffert,Defensive Midfield,1994-09-04,22,Germany,SC Freiburg,Bundesliga,2017/2018,2017
+Patrick Kammerbauer,Defensive Midfield,1997-02-11,20,Germany,SC Freiburg,Bundesliga,2017/2018,2017
+Julian Schuster,Defensive Midfield,1985-04-15,32,Germany,SC Freiburg,Bundesliga,2017/2018,2017
+Caleb Stanko,Defensive Midfield,1993-07-26,23,United States,SC Freiburg,Bundesliga,2017/2018,2017
+Janik Haberer,Central Midfield,1994-04-02,23,Germany,SC Freiburg,Bundesliga,2017/2018,2017
+Mike Frantz,Central Midfield,1986-10-14,30,Germany,SC Freiburg,Bundesliga,2017/2018,2017
+Vincent Sierro,Central Midfield,1995-10-08,21,Switzerland,SC Freiburg,Bundesliga,2017/2018,2017
+Bartosz Kapustka,Attacking Midfield,1996-12-23,20,Poland,SC Freiburg,Bundesliga,2017/2018,2017
+Marco Terrazzino,Left Winger,1991-04-15,26,Germany,SC Freiburg,Bundesliga,2017/2018,2017
+Ryan Kent,Left Winger,1996-11-11,20,England,SC Freiburg,Bundesliga,2017/2018,2017
+Florian Kath,Left Winger,1994-10-21,22,Germany,SC Freiburg,Bundesliga,2017/2018,2017
+Yoric Ravet,Right Winger,1989-09-12,27,France,SC Freiburg,Bundesliga,2017/2018,2017
+Onur Bulut,Right Winger,1994-04-16,23,Germany,SC Freiburg,Bundesliga,2017/2018,2017
+Florian Niederlechner,Centre-Forward,1990-10-24,26,Germany,SC Freiburg,Bundesliga,2017/2018,2017
+Nils Petersen,Centre-Forward,1988-12-06,28,Germany,SC Freiburg,Bundesliga,2017/2018,2017
+Tim Kleindienst,Centre-Forward,1995-08-31,21,Germany,SC Freiburg,Bundesliga,2017/2018,2017
+Lucas Höler,Centre-Forward,1994-07-10,22,Germany,SC Freiburg,Bundesliga,2017/2018,2017
+Karim Guédé,Centre-Forward,1985-01-07,32,Slovakia,SC Freiburg,Bundesliga,2017/2018,2017
+Julian Pollersbeck,Goalkeeper,1994-08-16,22,Germany,Hamburger SV,Bundesliga,2017/2018,2017
+Christian Mathenia,Goalkeeper,1992-03-31,25,Germany,Hamburger SV,Bundesliga,2017/2018,2017
+Tom Mickel,Goalkeeper,1989-04-19,28,Germany,Hamburger SV,Bundesliga,2017/2018,2017
+Andreas Hirzel,Goalkeeper,1993-03-25,24,Switzerland,Hamburger SV,Bundesliga,2017/2018,2017
+Kyriakos Papadopoulos,Centre-Back,1992-02-23,25,Greece,Hamburger SV,Bundesliga,2017/2018,2017
+Gideon Jung,Centre-Back,1994-09-12,22,Germany,Hamburger SV,Bundesliga,2017/2018,2017
+Mërgim Mavraj,Centre-Back,1986-06-09,31,Albania,Hamburger SV,Bundesliga,2017/2018,2017
+Rick van Drongelen,Centre-Back,1998-12-20,18,Netherlands,Hamburger SV,Bundesliga,2017/2018,2017
+Bjarne Thoelke,Centre-Back,1992-04-11,25,Germany,Hamburger SV,Bundesliga,2017/2018,2017
+Stephan Ambrosius,Centre-Back,1998-12-18,18,Germany,Hamburger SV,Bundesliga,2017/2018,2017
+Douglas Santos,Left-Back,1994-03-22,23,Brazil,Hamburger SV,Bundesliga,2017/2018,2017
+Young-jae Seo,Left-Back,1995-05-23,22,"Korea, South",Hamburger SV,Bundesliga,2017/2018,2017
+Josha Vagnoman,Left-Back,2000-12-11,16,Germany,Hamburger SV,Bundesliga,2017/2018,2017
+Gotoku Sakai,Right-Back,1991-03-14,26,Japan,Hamburger SV,Bundesliga,2017/2018,2017
+Dennis Diekmeier,Right-Back,1989-10-20,27,Germany,Hamburger SV,Bundesliga,2017/2018,2017
+Walace,Defensive Midfield,1995-04-04,22,Brazil,Hamburger SV,Bundesliga,2017/2018,2017
+Albin Ekdal,Defensive Midfield,1989-07-28,27,Sweden,Hamburger SV,Bundesliga,2017/2018,2017
+Vasilije Janjicic,Defensive Midfield,1998-11-02,18,Switzerland,Hamburger SV,Bundesliga,2017/2018,2017
+Matti Steinmann,Defensive Midfield,1995-01-08,22,Germany,Hamburger SV,Bundesliga,2017/2018,2017
+Sejad Salihovic,Central Midfield,1984-10-08,32,Bosnia-Herzegovina,Hamburger SV,Bundesliga,2017/2018,2017
+Filip Kostic,Left Midfield,1992-11-01,24,Serbia,Hamburger SV,Bundesliga,2017/2018,2017
+Lewis Holtby,Attacking Midfield,1990-09-18,26,Germany,Hamburger SV,Bundesliga,2017/2018,2017
+Aaron Hunt,Attacking Midfield,1986-09-04,30,Germany,Hamburger SV,Bundesliga,2017/2018,2017
+Mohamed Gouaida,Attacking Midfield,1993-05-15,24,Tunisia,Hamburger SV,Bundesliga,2017/2018,2017
+Bakery Jatta,Left Winger,1998-06-06,19,The Gambia,Hamburger SV,Bundesliga,2017/2018,2017
+Mats Köhlert,Left Winger,1998-05-02,19,Germany,Hamburger SV,Bundesliga,2017/2018,2017
+Tatsuya Ito,Left Winger,1997-06-26,20,Japan,Hamburger SV,Bundesliga,2017/2018,2017
+André Hahn,Right Winger,1990-08-13,26,Germany,Hamburger SV,Bundesliga,2017/2018,2017
+Nicolai Müller,Right Winger,1987-09-25,29,Germany,Hamburger SV,Bundesliga,2017/2018,2017
+Bobby Wood,Centre-Forward,1992-11-15,24,United States,Hamburger SV,Bundesliga,2017/2018,2017
+Luca Waldschmidt,Centre-Forward,1996-05-19,21,Germany,Hamburger SV,Bundesliga,2017/2018,2017
+Sven Schipplock,Centre-Forward,1988-11-08,28,Germany,Hamburger SV,Bundesliga,2017/2018,2017
+Törles Knöll,Centre-Forward,1997-09-13,19,Germany,Hamburger SV,Bundesliga,2017/2018,2017
+Jann-Fiete Arp,Centre-Forward,2000-01-06,17,Germany,Hamburger SV,Bundesliga,2017/2018,2017
+Marwin Hitz,Goalkeeper,1987-09-18,29,Switzerland,FC Augsburg,Bundesliga,2017/2018,2017
+Andreas Luthe,Goalkeeper,1987-03-10,30,Germany,FC Augsburg,Bundesliga,2017/2018,2017
+Fabian Giefer,Goalkeeper,1990-05-17,27,Germany,FC Augsburg,Bundesliga,2017/2018,2017
+Ioannis Gelios,Goalkeeper,1992-04-24,25,Greece,FC Augsburg,Bundesliga,2017/2018,2017
+Martin Hinteregger,Centre-Back,1992-09-07,24,Austria,FC Augsburg,Bundesliga,2017/2018,2017
+Jeffrey Gouweleeuw,Centre-Back,1991-07-10,25,Netherlands,FC Augsburg,Bundesliga,2017/2018,2017
+Kevin Danso,Centre-Back,1998-09-19,18,Austria,FC Augsburg,Bundesliga,2017/2018,2017
+Jan-Ingwer Callsen-Bracker,Centre-Back,1984-09-23,32,Germany,FC Augsburg,Bundesliga,2017/2018,2017
+Christoph Janker,Centre-Back,1985-02-14,32,Germany,FC Augsburg,Bundesliga,2017/2018,2017
+Konstantinos Stafylidis,Left-Back,1993-12-02,23,Greece,FC Augsburg,Bundesliga,2017/2018,2017
+Philipp Max,Left-Back,1993-09-30,23,Germany,FC Augsburg,Bundesliga,2017/2018,2017
+Kilian Jakob,Left-Back,1998-01-25,19,Germany,FC Augsburg,Bundesliga,2017/2018,2017
+Jonathan Schmid,Right-Back,1990-06-22,27,France,FC Augsburg,Bundesliga,2017/2018,2017
+Daniel Opare,Right-Back,1990-10-18,26,Ghana,FC Augsburg,Bundesliga,2017/2018,2017
+Raphael Framberger,Right-Back,1995-09-06,21,Germany,FC Augsburg,Bundesliga,2017/2018,2017
+Simon Asta,Right-Back,2001-01-25,16,Germany,FC Augsburg,Bundesliga,2017/2018,2017
+Daniel Baier,Defensive Midfield,1984-05-18,33,Germany,FC Augsburg,Bundesliga,2017/2018,2017
+Gojko Kacar,Defensive Midfield,1987-01-26,30,Serbia,FC Augsburg,Bundesliga,2017/2018,2017
+Rani Khedira,Defensive Midfield,1994-01-27,23,Germany,FC Augsburg,Bundesliga,2017/2018,2017
+Ja-cheol Koo,Central Midfield,1989-02-27,28,"Korea, South",FC Augsburg,Bundesliga,2017/2018,2017
+Jan Morávek,Central Midfield,1989-11-01,27,Czech Republic,FC Augsburg,Bundesliga,2017/2018,2017
+Efkan Bekiroglu,Central Midfield,1995-09-14,21,Germany,FC Augsburg,Bundesliga,2017/2018,2017
+Marcel Heller,Right Midfield,1986-02-12,31,Germany,FC Augsburg,Bundesliga,2017/2018,2017
+Erik Thommy,Left Midfield,1994-08-20,22,Germany,FC Augsburg,Bundesliga,2017/2018,2017
+Romario Rösch,Attacking Midfield,1999-07-01,18,Germany,FC Augsburg,Bundesliga,2017/2018,2017
+Caiuby,Left Winger,1988-07-14,28,Brazil,FC Augsburg,Bundesliga,2017/2018,2017
+Marco Richter,Left Winger,1997-11-24,19,Germany,FC Augsburg,Bundesliga,2017/2018,2017
+Michael Gregoritsch,Second Striker,1994-04-18,23,Austria,FC Augsburg,Bundesliga,2017/2018,2017
+Alfred Finnbogason,Centre-Forward,1989-02-01,28,Iceland,FC Augsburg,Bundesliga,2017/2018,2017
+Dong-won Ji,Centre-Forward,1991-05-28,26,"Korea, South",FC Augsburg,Bundesliga,2017/2018,2017
+Sergio Córdova,Centre-Forward,1997-08-09,19,Venezuela,FC Augsburg,Bundesliga,2017/2018,2017
+Shawn Parker,Centre-Forward,1993-03-07,24,Germany,FC Augsburg,Bundesliga,2017/2018,2017
+Maurice Malone,Centre-Forward,2000-08-17,16,Germany,FC Augsburg,Bundesliga,2017/2018,2017
+Michael Esser,Goalkeeper,1987-11-22,29,Germany,Hannover 96,Bundesliga,2017/2018,2017
+Philipp Tschauner,Goalkeeper,1985-11-03,31,Germany,Hannover 96,Bundesliga,2017/2018,2017
+Samuel Sahin-Radlinger,Goalkeeper,1992-11-07,24,Austria,Hannover 96,Bundesliga,2017/2018,2017
+Marlon Sündermann,Goalkeeper,1998-05-16,19,Germany,Hannover 96,Bundesliga,2017/2018,2017
+Salif Sané,Centre-Back,1990-08-25,26,Senegal,Hannover 96,Bundesliga,2017/2018,2017
+Waldemar Anton,Centre-Back,1996-07-20,20,Germany,Hannover 96,Bundesliga,2017/2018,2017
+Josip Elez,Centre-Back,1994-04-25,23,Croatia,Hannover 96,Bundesliga,2017/2018,2017
+Florian Hübner,Centre-Back,1991-03-01,26,Germany,Hannover 96,Bundesliga,2017/2018,2017
+Felipe,Centre-Back,1987-05-15,30,Brazil,Hannover 96,Bundesliga,2017/2018,2017
+Timo Hübers,Centre-Back,1996-07-20,20,Germany,Hannover 96,Bundesliga,2017/2018,2017
+Matthias Ostrzolek,Left-Back,1990-06-05,27,Germany,Hannover 96,Bundesliga,2017/2018,2017
+Miiko Albornoz,Left-Back,1990-11-30,26,Chile,Hannover 96,Bundesliga,2017/2018,2017
+Julian Korb,Right-Back,1992-03-21,25,Germany,Hannover 96,Bundesliga,2017/2018,2017
+Oliver Sorg,Right-Back,1990-05-29,27,Germany,Hannover 96,Bundesliga,2017/2018,2017
+Manuel Schmiedebach,Defensive Midfield,1988-12-05,28,Germany,Hannover 96,Bundesliga,2017/2018,2017
+Pirmin Schwegler,Defensive Midfield,1987-03-09,30,Switzerland,Hannover 96,Bundesliga,2017/2018,2017
+Marvin Bakalorz,Central Midfield,1989-09-13,27,Germany,Hannover 96,Bundesliga,2017/2018,2017
+Iver Fossum,Central Midfield,1996-07-15,20,Norway,Hannover 96,Bundesliga,2017/2018,2017
+Linton Maina,Right Midfield,1999-06-23,18,Germany,Hannover 96,Bundesliga,2017/2018,2017
+Edgar Prib,Left Midfield,1989-12-15,27,Germany,Hannover 96,Bundesliga,2017/2018,2017
+Sebastian Maier,Attacking Midfield,1993-09-18,23,Germany,Hannover 96,Bundesliga,2017/2018,2017
+Mike Bähre,Attacking Midfield,1995-08-10,21,Germany,Hannover 96,Bundesliga,2017/2018,2017
+Kenan Karaman,Left Winger,1994-03-05,23,Turkey,Hannover 96,Bundesliga,2017/2018,2017
+Felix Klaus,Right Winger,1992-09-13,24,Germany,Hannover 96,Bundesliga,2017/2018,2017
+Ihlas Bebou,Right Winger,1994-04-23,23,Togo,Hannover 96,Bundesliga,2017/2018,2017
+Noah Sarenren Bazee,Right Winger,1996-08-21,20,Nigeria,Hannover 96,Bundesliga,2017/2018,2017
+Jonathas,Centre-Forward,1989-03-06,28,Brazil,Hannover 96,Bundesliga,2017/2018,2017
+Martin Harnik,Centre-Forward,1987-06-10,30,Austria,Hannover 96,Bundesliga,2017/2018,2017
+Niclas Füllkrug,Centre-Forward,1993-02-09,24,Germany,Hannover 96,Bundesliga,2017/2018,2017
+Charlison Benschop,Centre-Forward,1989-08-21,27,Curacao,Hannover 96,Bundesliga,2017/2018,2017

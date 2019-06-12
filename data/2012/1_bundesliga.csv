@@ -1,0 +1,599 @@
+player_name,position,date_of_birth,age,nationality,club_name,league_name,season,year
+Manuel Neuer,Goalkeeper,1986-03-27,26,Germany,Bayern Munich,Bundesliga,2012/2013,2012
+Tom Starke,Goalkeeper,1981-03-18,31,Germany,Bayern Munich,Bundesliga,2012/2013,2012
+Maximilian Riedmüller,Goalkeeper,1988-01-04,24,Germany,Bayern Munich,Bundesliga,2012/2013,2012
+Lukas Raeder,Goalkeeper,1993-12-30,18,Germany,Bayern Munich,Bundesliga,2012/2013,2012
+Holger Badstuber,Centre-Back,1989-03-13,23,Germany,Bayern Munich,Bundesliga,2012/2013,2012
+Jérôme Boateng,Centre-Back,1988-09-03,23,Germany,Bayern Munich,Bundesliga,2012/2013,2012
+Dante,Centre-Back,1983-10-18,28,Brazil,Bayern Munich,Bundesliga,2012/2013,2012
+Daniel Van Buyten,Centre-Back,1978-02-07,34,Belgium,Bayern Munich,Bundesliga,2012/2013,2012
+David Alaba,Left-Back,1992-06-24,20,Austria,Bayern Munich,Bundesliga,2012/2013,2012
+Diego Contento,Left-Back,1990-05-01,22,Germany,Bayern Munich,Bundesliga,2012/2013,2012
+Philipp Lahm,Right-Back,1983-11-11,28,Germany,Bayern Munich,Bundesliga,2012/2013,2012
+Rafinha,Right-Back,1985-09-07,26,Brazil,Bayern Munich,Bundesliga,2012/2013,2012
+Mitchell Weiser,Right-Back,1994-04-21,18,Germany,Bayern Munich,Bundesliga,2012/2013,2012
+Vladimir Rankovic,Right-Back,1993-06-27,19,Germany,Bayern Munich,Bundesliga,2012/2013,2012
+Javi Martínez,Defensive Midfield,1988-09-02,23,Spain,Bayern Munich,Bundesliga,2012/2013,2012
+Luiz Gustavo,Defensive Midfield,1987-07-23,24,Brazil,Bayern Munich,Bundesliga,2012/2013,2012
+Anatoliy Tymoshchuk,Defensive Midfield,1979-03-30,33,Ukraine,Bayern Munich,Bundesliga,2012/2013,2012
+Emre Can,Defensive Midfield,1994-01-12,18,Germany,Bayern Munich,Bundesliga,2012/2013,2012
+Bastian Schweinsteiger,Central Midfield,1984-08-01,27,Germany,Bayern Munich,Bundesliga,2012/2013,2012
+Toni Kroos,Central Midfield,1990-01-04,22,Germany,Bayern Munich,Bundesliga,2012/2013,2012
+Pierre-Emile Höjbjerg,Central Midfield,1995-08-05,16,Denmark,Bayern Munich,Bundesliga,2012/2013,2012
+Patrick Weihrauch,Attacking Midfield,1994-03-03,18,Germany,Bayern Munich,Bundesliga,2012/2013,2012
+Franck Ribéry,Left Winger,1983-04-07,29,France,Bayern Munich,Bundesliga,2012/2013,2012
+Arjen Robben,Right Winger,1984-01-23,28,Netherlands,Bayern Munich,Bundesliga,2012/2013,2012
+Xherdan Shaqiri,Right Winger,1991-10-10,20,Switzerland,Bayern Munich,Bundesliga,2012/2013,2012
+Thomas Müller,Second Striker,1989-09-13,22,Germany,Bayern Munich,Bundesliga,2012/2013,2012
+Mario Gómez,Centre-Forward,1985-07-10,26,Germany,Bayern Munich,Bundesliga,2012/2013,2012
+Mario Mandzukic,Centre-Forward,1986-05-21,26,Croatia,Bayern Munich,Bundesliga,2012/2013,2012
+Claudio Pizarro,Centre-Forward,1978-10-03,33,Peru,Bayern Munich,Bundesliga,2012/2013,2012
+Roman Weidenfeller,Goalkeeper,1980-08-06,31,Germany,Borussia Dortmund,Bundesliga,2012/2013,2012
+Mitchell Langerak,Goalkeeper,1988-08-22,23,Australia,Borussia Dortmund,Bundesliga,2012/2013,2012
+Zlatan Alomerovic,Goalkeeper,1991-06-15,21,Serbia,Borussia Dortmund,Bundesliga,2012/2013,2012
+Mats Hummels,Centre-Back,1988-12-16,23,Germany,Borussia Dortmund,Bundesliga,2012/2013,2012
+Neven Subotic,Centre-Back,1988-12-10,23,Serbia,Borussia Dortmund,Bundesliga,2012/2013,2012
+Sven Bender,Centre-Back,1989-04-27,23,Germany,Borussia Dortmund,Bundesliga,2012/2013,2012
+Felipe Santana,Centre-Back,1986-03-17,26,Brazil,Borussia Dortmund,Bundesliga,2012/2013,2012
+Marc Hornschuh,Centre-Back,1991-03-02,21,Germany,Borussia Dortmund,Bundesliga,2012/2013,2012
+Koray Günter,Centre-Back,1994-08-16,17,Germany,Borussia Dortmund,Bundesliga,2012/2013,2012
+Marcel Schmelzer,Left-Back,1988-01-22,24,Germany,Borussia Dortmund,Bundesliga,2012/2013,2012
+Chris Löwe,Left-Back,1989-04-16,23,Germany,Borussia Dortmund,Bundesliga,2012/2013,2012
+Marcel Halstenberg,Left-Back,1991-09-27,20,Germany,Borussia Dortmund,Bundesliga,2012/2013,2012
+Lukasz Piszczek,Right-Back,1985-06-03,27,Poland,Borussia Dortmund,Bundesliga,2012/2013,2012
+Kevin Großkreutz,Right-Back,1988-07-19,23,Germany,Borussia Dortmund,Bundesliga,2012/2013,2012
+Patrick Owomoyela,Right-Back,1979-11-05,32,Germany,Borussia Dortmund,Bundesliga,2012/2013,2012
+Nuri Sahin,Defensive Midfield,1988-09-05,23,Turkey,Borussia Dortmund,Bundesliga,2012/2013,2012
+Sebastian Kehl,Defensive Midfield,1980-02-13,32,Germany,Borussia Dortmund,Bundesliga,2012/2013,2012
+Oliver Kirch,Defensive Midfield,1982-08-21,29,Germany,Borussia Dortmund,Bundesliga,2012/2013,2012
+Ilkay Gündogan,Central Midfield,1990-10-24,21,Germany,Borussia Dortmund,Bundesliga,2012/2013,2012
+Moritz Leitner,Central Midfield,1992-12-08,19,Germany,Borussia Dortmund,Bundesliga,2012/2013,2012
+Mustafa Amini,Central Midfield,1993-04-20,19,Australia,Borussia Dortmund,Bundesliga,2012/2013,2012
+Marvin Bakalorz,Central Midfield,1989-09-13,22,Germany,Borussia Dortmund,Bundesliga,2012/2013,2012
+Jonas Hofmann,Central Midfield,1992-07-14,19,Germany,Borussia Dortmund,Bundesliga,2012/2013,2012
+Mario Götze,Attacking Midfield,1992-06-03,20,Germany,Borussia Dortmund,Bundesliga,2012/2013,2012
+Marco Reus,Attacking Midfield,1989-05-31,23,Germany,Borussia Dortmund,Bundesliga,2012/2013,2012
+Leonardo Bittencourt,Attacking Midfield,1993-12-19,18,Germany,Borussia Dortmund,Bundesliga,2012/2013,2012
+Ivan Perisic,Left Winger,1989-02-02,23,Croatia,Borussia Dortmund,Bundesliga,2012/2013,2012
+Jakub Blaszczykowski,Right Winger,1985-12-14,26,Poland,Borussia Dortmund,Bundesliga,2012/2013,2012
+Robert Lewandowski,Centre-Forward,1988-08-21,23,Poland,Borussia Dortmund,Bundesliga,2012/2013,2012
+Julian Schieber,Centre-Forward,1989-02-13,23,Germany,Borussia Dortmund,Bundesliga,2012/2013,2012
+Bálint Bajner,Centre-Forward,1990-11-18,21,Hungary,Borussia Dortmund,Bundesliga,2012/2013,2012
+Ralf Fährmann,Goalkeeper,1988-09-27,23,Germany,FC Schalke 04,Bundesliga,2012/2013,2012
+Timo Hildebrand,Goalkeeper,1979-04-05,33,Germany,FC Schalke 04,Bundesliga,2012/2013,2012
+Lars Unnerstall,Goalkeeper,1990-07-20,21,Germany,FC Schalke 04,Bundesliga,2012/2013,2012
+Benedikt Höwedes,Centre-Back,1988-02-29,24,Germany,FC Schalke 04,Bundesliga,2012/2013,2012
+Kyriakos Papadopoulos,Centre-Back,1992-02-23,20,Greece,FC Schalke 04,Bundesliga,2012/2013,2012
+Joel Matip,Centre-Back,1991-08-08,20,Cameroon,FC Schalke 04,Bundesliga,2012/2013,2012
+Roman Neustädter,Centre-Back,1988-02-18,24,Russia,FC Schalke 04,Bundesliga,2012/2013,2012
+Christoph Metzelder,Centre-Back,1980-11-05,31,Germany,FC Schalke 04,Bundesliga,2012/2013,2012
+Vasilios Pliatsikas,Centre-Back,1988-04-14,24,Greece,FC Schalke 04,Bundesliga,2012/2013,2012
+Kaan Ayhan,Centre-Back,1994-11-10,17,Turkey,FC Schalke 04,Bundesliga,2012/2013,2012
+Dennis Erdmann,Centre-Back,1990-11-22,21,Germany,FC Schalke 04,Bundesliga,2012/2013,2012
+Christian Fuchs,Left-Back,1986-04-07,26,Austria,FC Schalke 04,Bundesliga,2012/2013,2012
+Sergio Escudero,Left-Back,1989-09-02,22,Spain,FC Schalke 04,Bundesliga,2012/2013,2012
+Sead Kolasinac,Left-Back,1993-06-20,19,Bosnia-Herzegovina,FC Schalke 04,Bundesliga,2012/2013,2012
+Atsuto Uchida,Right-Back,1988-03-27,24,Japan,FC Schalke 04,Bundesliga,2012/2013,2012
+Jermaine Jones,Defensive Midfield,1981-11-03,30,United States,FC Schalke 04,Bundesliga,2012/2013,2012
+Marco Höger,Defensive Midfield,1989-09-16,22,Germany,FC Schalke 04,Bundesliga,2012/2013,2012
+Anthony Annan,Defensive Midfield,1986-07-21,25,Ghana,FC Schalke 04,Bundesliga,2012/2013,2012
+Christoph Moritz,Central Midfield,1990-01-27,22,Germany,FC Schalke 04,Bundesliga,2012/2013,2012
+René Klingenburg,Central Midfield,1993-12-29,18,Germany,FC Schalke 04,Bundesliga,2012/2013,2012
+Manuel Torres,Right Midfield,1991-01-05,21,Spain,FC Schalke 04,Bundesliga,2012/2013,2012
+Michel Bastos,Left Midfield,1983-08-02,28,Brazil,FC Schalke 04,Bundesliga,2012/2013,2012
+Ibrahim Afellay,Left Midfield,1986-04-02,26,Netherlands,FC Schalke 04,Bundesliga,2012/2013,2012
+Julian Draxler,Attacking Midfield,1993-09-20,18,Germany,FC Schalke 04,Bundesliga,2012/2013,2012
+Lewis Holtby,Attacking Midfield,1990-09-18,21,Germany,FC Schalke 04,Bundesliga,2012/2013,2012
+Tranquillo Barnetta,Attacking Midfield,1985-05-22,27,Switzerland,FC Schalke 04,Bundesliga,2012/2013,2012
+Max Meyer,Attacking Midfield,1995-09-18,16,Germany,FC Schalke 04,Bundesliga,2012/2013,2012
+Jefferson Farfán,Right Winger,1984-10-26,27,Peru,FC Schalke 04,Bundesliga,2012/2013,2012
+Chinedu Obasi,Right Winger,1986-06-01,26,Nigeria,FC Schalke 04,Bundesliga,2012/2013,2012
+Raffael,Second Striker,1985-03-28,27,Brazil,FC Schalke 04,Bundesliga,2012/2013,2012
+Klaas-Jan Huntelaar,Centre-Forward,1983-08-12,28,Netherlands,FC Schalke 04,Bundesliga,2012/2013,2012
+Teemu Pukki,Centre-Forward,1990-03-29,22,Finland,FC Schalke 04,Bundesliga,2012/2013,2012
+Ciprian Marica,Centre-Forward,1985-10-02,26,Romania,FC Schalke 04,Bundesliga,2012/2013,2012
+Edú,Centre-Forward,1981-11-30,30,Brazil,FC Schalke 04,Bundesliga,2012/2013,2012
+Diego Benaglio,Goalkeeper,1983-09-08,28,Switzerland,VfL Wolfsburg,Bundesliga,2012/2013,2012
+Marwin Hitz,Goalkeeper,1987-09-18,24,Switzerland,VfL Wolfsburg,Bundesliga,2012/2013,2012
+Marius Sauss,Goalkeeper,1992-08-05,19,Germany,VfL Wolfsburg,Bundesliga,2012/2013,2012
+Patrick Drewes,Goalkeeper,1993-02-04,19,Germany,VfL Wolfsburg,Bundesliga,2012/2013,2012
+Simon Kjær,Centre-Back,1989-03-26,23,Denmark,VfL Wolfsburg,Bundesliga,2012/2013,2012
+Naldo,Centre-Back,1982-09-10,29,Brazil,VfL Wolfsburg,Bundesliga,2012/2013,2012
+Felipe Lopes,Centre-Back,1987-08-07,24,Brazil,VfL Wolfsburg,Bundesliga,2012/2013,2012
+Emanuel Pogatetz,Centre-Back,1983-01-16,29,Austria,VfL Wolfsburg,Bundesliga,2012/2013,2012
+Alexander Madlung,Centre-Back,1982-07-11,29,Germany,VfL Wolfsburg,Bundesliga,2012/2013,2012
+Sotiris Kyrgiakos,Centre-Back,1979-07-23,32,Greece,VfL Wolfsburg,Bundesliga,2012/2013,2012
+Robin Knoche,Centre-Back,1992-05-22,20,Germany,VfL Wolfsburg,Bundesliga,2012/2013,2012
+Ricardo Rodríguez,Left-Back,1992-08-25,19,Switzerland,VfL Wolfsburg,Bundesliga,2012/2013,2012
+Vieirinha,Left-Back,1986-01-24,26,Portugal,VfL Wolfsburg,Bundesliga,2012/2013,2012
+Marcel Schäfer,Left-Back,1984-06-07,28,Germany,VfL Wolfsburg,Bundesliga,2012/2013,2012
+Fágner,Right-Back,1989-06-11,23,Brazil,VfL Wolfsburg,Bundesliga,2012/2013,2012
+Michael Schulze,Right-Back,1989-01-13,23,Germany,VfL Wolfsburg,Bundesliga,2012/2013,2012
+Christian Träsch,Defensive Midfield,1987-09-01,24,Germany,VfL Wolfsburg,Bundesliga,2012/2013,2012
+Makoto Hasebe,Defensive Midfield,1984-01-18,28,Japan,VfL Wolfsburg,Bundesliga,2012/2013,2012
+Slobodan Medojevic,Defensive Midfield,1990-10-20,21,Serbia,VfL Wolfsburg,Bundesliga,2012/2013,2012
+Josué,Defensive Midfield,1979-07-19,32,Brazil,VfL Wolfsburg,Bundesliga,2012/2013,2012
+Jan Polak,Defensive Midfield,1981-03-14,31,Czech Republic,VfL Wolfsburg,Bundesliga,2012/2013,2012
+Kevin Pannewitz,Defensive Midfield,1991-10-16,20,Germany,VfL Wolfsburg,Bundesliga,2012/2013,2012
+Thomas Kahlenberg,Central Midfield,1983-03-20,29,Denmark,VfL Wolfsburg,Bundesliga,2012/2013,2012
+Mateusz Klich,Central Midfield,1990-06-13,22,Poland,VfL Wolfsburg,Bundesliga,2012/2013,2012
+Maximilian Arnold,Central Midfield,1994-05-27,18,Germany,VfL Wolfsburg,Bundesliga,2012/2013,2012
+Vaclav Pilar,Left Midfield,1988-10-13,23,Czech Republic,VfL Wolfsburg,Bundesliga,2012/2013,2012
+Diego,Attacking Midfield,1985-02-28,27,Brazil,VfL Wolfsburg,Bundesliga,2012/2013,2012
+Ferhan Hasani,Attacking Midfield,1990-06-18,22,North Macedonia,VfL Wolfsburg,Bundesliga,2012/2013,2012
+Ivan Perisic,Left Winger,1989-02-02,23,Croatia,VfL Wolfsburg,Bundesliga,2012/2013,2012
+Yohandry Orozco,Left Winger,1991-03-19,21,Venezuela,VfL Wolfsburg,Bundesliga,2012/2013,2012
+Ashkan Dejagah,Right Winger,1986-07-05,25,Iran,VfL Wolfsburg,Bundesliga,2012/2013,2012
+Bas Dost,Centre-Forward,1989-05-31,23,Netherlands,VfL Wolfsburg,Bundesliga,2012/2013,2012
+Patrick Helmes,Centre-Forward,1984-03-01,28,Germany,VfL Wolfsburg,Bundesliga,2012/2013,2012
+Ivica Olic,Centre-Forward,1979-09-14,32,Croatia,VfL Wolfsburg,Bundesliga,2012/2013,2012
+Rasmus Jönsson,Centre-Forward,1990-01-27,22,Sweden,VfL Wolfsburg,Bundesliga,2012/2013,2012
+Srdjan Lakic,Centre-Forward,1983-10-02,28,Croatia,VfL Wolfsburg,Bundesliga,2012/2013,2012
+Bernd Leno,Goalkeeper,1992-03-04,20,Germany,Bayer 04 Leverkusen,Bundesliga,2012/2013,2012
+Michael Rensing,Goalkeeper,1984-05-14,28,Germany,Bayer 04 Leverkusen,Bundesliga,2012/2013,2012
+David Yelldell,Goalkeeper,1981-10-01,30,United States,Bayer 04 Leverkusen,Bundesliga,2012/2013,2012
+Niklas Lomb,Goalkeeper,1993-07-28,18,Germany,Bayer 04 Leverkusen,Bundesliga,2012/2013,2012
+Philipp Wollscheid,Centre-Back,1989-03-06,23,Germany,Bayer 04 Leverkusen,Bundesliga,2012/2013,2012
+Ömer Toprak,Centre-Back,1989-07-21,22,Turkey,Bayer 04 Leverkusen,Bundesliga,2012/2013,2012
+Daniel Schwaab,Centre-Back,1988-08-23,23,Germany,Bayer 04 Leverkusen,Bundesliga,2012/2013,2012
+Manuel Friedrich,Centre-Back,1979-09-13,32,Germany,Bayer 04 Leverkusen,Bundesliga,2012/2013,2012
+Julian Riedel,Centre-Back,1991-08-10,20,Germany,Bayer 04 Leverkusen,Bundesliga,2012/2013,2012
+Michal Kadlec,Left-Back,1984-12-13,27,Czech Republic,Bayer 04 Leverkusen,Bundesliga,2012/2013,2012
+Sebastian Boenisch,Left-Back,1987-02-01,25,Poland,Bayer 04 Leverkusen,Bundesliga,2012/2013,2012
+Daniel Carvajal,Right-Back,1992-01-11,20,Spain,Bayer 04 Leverkusen,Bundesliga,2012/2013,2012
+Lars Bender,Defensive Midfield,1989-04-27,23,Germany,Bayer 04 Leverkusen,Bundesliga,2012/2013,2012
+Stefan Reinartz,Defensive Midfield,1989-01-01,23,Germany,Bayer 04 Leverkusen,Bundesliga,2012/2013,2012
+Simon Rolfes,Defensive Midfield,1982-01-21,30,Germany,Bayer 04 Leverkusen,Bundesliga,2012/2013,2012
+Hajime Hosogai,Defensive Midfield,1986-06-10,26,Japan,Bayer 04 Leverkusen,Bundesliga,2012/2013,2012
+Jonas Meffert,Defensive Midfield,1994-09-04,17,Germany,Bayer 04 Leverkusen,Bundesliga,2012/2013,2012
+Renato Augusto,Central Midfield,1988-02-08,24,Brazil,Bayer 04 Leverkusen,Bundesliga,2012/2013,2012
+Gonzalo Castro,Central Midfield,1987-06-11,25,Germany,Bayer 04 Leverkusen,Bundesliga,2012/2013,2012
+Jens Hegeler,Central Midfield,1988-01-22,24,Germany,Bayer 04 Leverkusen,Bundesliga,2012/2013,2012
+Dominik Kohr,Central Midfield,1994-01-31,18,Germany,Bayer 04 Leverkusen,Bundesliga,2012/2013,2012
+Erik Zenga,Central Midfield,1993-01-18,19,Germany,Bayer 04 Leverkusen,Bundesliga,2012/2013,2012
+Luca Dürholtz,Central Midfield,1993-08-18,18,Germany,Bayer 04 Leverkusen,Bundesliga,2012/2013,2012
+Tobias Steffen,Attacking Midfield,1992-06-03,20,Germany,Bayer 04 Leverkusen,Bundesliga,2012/2013,2012
+Carlinhos,Attacking Midfield,1994-06-22,18,Brazil,Bayer 04 Leverkusen,Bundesliga,2012/2013,2012
+Kolja Pusch,Attacking Midfield,1993-02-12,19,Germany,Bayer 04 Leverkusen,Bundesliga,2012/2013,2012
+André Schürrle,Left Winger,1990-11-06,21,Germany,Bayer 04 Leverkusen,Bundesliga,2012/2013,2012
+Junior Fernandes,Left Winger,1988-04-10,24,Chile,Bayer 04 Leverkusen,Bundesliga,2012/2013,2012
+Okan Aydin,Left Winger,1994-05-08,18,Turkey,Bayer 04 Leverkusen,Bundesliga,2012/2013,2012
+Sidney Sam,Right Winger,1988-01-31,24,Germany,Bayer 04 Leverkusen,Bundesliga,2012/2013,2012
+Karim Bellarabi,Right Winger,1990-04-08,22,Germany,Bayer 04 Leverkusen,Bundesliga,2012/2013,2012
+Stefan Kießling,Centre-Forward,1984-01-25,28,Germany,Bayer 04 Leverkusen,Bundesliga,2012/2013,2012
+Arkadiusz Milik,Centre-Forward,1994-02-28,18,Poland,Bayer 04 Leverkusen,Bundesliga,2012/2013,2012
+René Adler,Goalkeeper,1985-01-15,27,Germany,Hamburger SV,Bundesliga,2012/2013,2012
+Jaroslav Drobny,Goalkeeper,1979-10-18,32,Czech Republic,Hamburger SV,Bundesliga,2012/2013,2012
+Tom Mickel,Goalkeeper,1989-04-19,23,Germany,Hamburger SV,Bundesliga,2012/2013,2012
+Sven Neuhaus,Goalkeeper,1978-04-04,34,Germany,Hamburger SV,Bundesliga,2012/2013,2012
+Heiko Westermann,Centre-Back,1983-08-14,28,Germany,Hamburger SV,Bundesliga,2012/2013,2012
+Jeffrey Bruma,Centre-Back,1991-11-13,20,Netherlands,Hamburger SV,Bundesliga,2012/2013,2012
+Slobodan Rajkovic,Centre-Back,1989-02-03,23,Serbia,Hamburger SV,Bundesliga,2012/2013,2012
+Michael Mancienne,Centre-Back,1988-01-08,24,England,Hamburger SV,Bundesliga,2012/2013,2012
+Paul Scharner,Centre-Back,1980-03-11,32,Austria,Hamburger SV,Bundesliga,2012/2013,2012
+Marcell Jansen,Left-Back,1985-11-04,26,Germany,Hamburger SV,Bundesliga,2012/2013,2012
+Janek Sternberg,Left-Back,1992-10-19,19,Germany,Hamburger SV,Bundesliga,2012/2013,2012
+Dennis Diekmeier,Right-Back,1989-10-20,22,Germany,Hamburger SV,Bundesliga,2012/2013,2012
+Jacopo Sala,Right-Back,1991-12-05,20,Italy,Hamburger SV,Bundesliga,2012/2013,2012
+Dennis Aogo,Defensive Midfield,1987-01-14,25,Germany,Hamburger SV,Bundesliga,2012/2013,2012
+Milan Badelj,Defensive Midfield,1989-02-25,23,Croatia,Hamburger SV,Bundesliga,2012/2013,2012
+Tomás Rincón,Defensive Midfield,1988-01-13,24,Venezuela,Hamburger SV,Bundesliga,2012/2013,2012
+Gojko Kacar,Defensive Midfield,1987-01-26,25,Serbia,Hamburger SV,Bundesliga,2012/2013,2012
+Christian Nörgaard,Defensive Midfield,1994-03-10,18,Denmark,Hamburger SV,Bundesliga,2012/2013,2012
+Petr Jiracek,Central Midfield,1986-03-02,26,Czech Republic,Hamburger SV,Bundesliga,2012/2013,2012
+Tolgay Arslan,Central Midfield,1990-08-16,21,Germany,Hamburger SV,Bundesliga,2012/2013,2012
+Per Ciljan Skjelbred,Central Midfield,1987-06-16,25,Norway,Hamburger SV,Bundesliga,2012/2013,2012
+Robert Tesche,Central Midfield,1987-05-27,25,Germany,Hamburger SV,Bundesliga,2012/2013,2012
+Zhi Gin Lam,Right Midfield,1991-06-04,21,Germany,Hamburger SV,Bundesliga,2012/2013,2012
+Rafael van der Vaart,Attacking Midfield,1983-02-11,29,Netherlands,Hamburger SV,Bundesliga,2012/2013,2012
+Ivo Ilicevic,Left Winger,1986-11-14,25,Croatia,Hamburger SV,Bundesliga,2012/2013,2012
+Heung-min Son,Left Winger,1992-07-08,19,"Korea, South",Hamburger SV,Bundesliga,2012/2013,2012
+Maximilian Beister,Right Winger,1990-09-06,21,Germany,Hamburger SV,Bundesliga,2012/2013,2012
+Valmir Nafiu,Right Winger,1994-04-23,18,North Macedonia,Hamburger SV,Bundesliga,2012/2013,2012
+Artjoms Rudnevs,Centre-Forward,1988-01-13,24,Latvia,Hamburger SV,Bundesliga,2012/2013,2012
+Marcus Berg,Centre-Forward,1986-08-17,25,Sweden,Hamburger SV,Bundesliga,2012/2013,2012
+Sven Ulreich,Goalkeeper,1988-08-03,23,Germany,VfB Stuttgart,Bundesliga,2012/2013,2012
+André Weis,Goalkeeper,1989-09-30,22,Germany,VfB Stuttgart,Bundesliga,2012/2013,2012
+Marc Ziegler,Goalkeeper,1976-06-13,36,Germany,VfB Stuttgart,Bundesliga,2012/2013,2012
+Serdar Tasci,Centre-Back,1987-04-24,25,Germany,VfB Stuttgart,Bundesliga,2012/2013,2012
+Felipe Lopes,Centre-Back,1987-08-07,24,Brazil,VfB Stuttgart,Bundesliga,2012/2013,2012
+Georg Niedermeier,Centre-Back,1986-02-26,26,Germany,VfB Stuttgart,Bundesliga,2012/2013,2012
+Francisco Rodríguez,Centre-Back,1981-10-20,30,Mexico,VfB Stuttgart,Bundesliga,2012/2013,2012
+Tim Hoogland,Centre-Back,1985-06-11,27,Germany,VfB Stuttgart,Bundesliga,2012/2013,2012
+Antonio Rüdiger,Centre-Back,1993-03-03,19,Germany,VfB Stuttgart,Bundesliga,2012/2013,2012
+Benedikt Röcker,Centre-Back,1989-11-19,22,Germany,VfB Stuttgart,Bundesliga,2012/2013,2012
+Cristian Molinaro,Left-Back,1983-07-30,28,Italy,VfB Stuttgart,Bundesliga,2012/2013,2012
+Arthur Boka,Left-Back,1983-04-02,29,Cote d'Ivoire,VfB Stuttgart,Bundesliga,2012/2013,2012
+Michael Vitzthum,Left-Back,1992-06-20,20,Germany,VfB Stuttgart,Bundesliga,2012/2013,2012
+Gotoku Sakai,Right-Back,1991-03-14,21,Japan,VfB Stuttgart,Bundesliga,2012/2013,2012
+William Kvist,Defensive Midfield,1985-02-24,27,Denmark,VfB Stuttgart,Bundesliga,2012/2013,2012
+Raphael Holzhauser,Defensive Midfield,1993-02-16,19,Austria,VfB Stuttgart,Bundesliga,2012/2013,2012
+Mamadou Bah,Defensive Midfield,1988-04-25,24,Guinea,VfB Stuttgart,Bundesliga,2012/2013,2012
+Rani Khedira,Defensive Midfield,1994-01-27,18,Germany,VfB Stuttgart,Bundesliga,2012/2013,2012
+Zdravko Kuzmanović,Central Midfield,1987-09-22,24,Serbia,VfB Stuttgart,Bundesliga,2012/2013,2012
+Christian Gentner,Central Midfield,1985-08-14,26,Germany,VfB Stuttgart,Bundesliga,2012/2013,2012
+Daniel Didavi,Attacking Midfield,1990-02-21,22,Germany,VfB Stuttgart,Bundesliga,2012/2013,2012
+Tamás Hajnal,Attacking Midfield,1981-03-15,31,Hungary,VfB Stuttgart,Bundesliga,2012/2013,2012
+Alexandru Maxim,Attacking Midfield,1990-07-08,21,Romania,VfB Stuttgart,Bundesliga,2012/2013,2012
+Kevin Stöger,Attacking Midfield,1993-08-27,18,Austria,VfB Stuttgart,Bundesliga,2012/2013,2012
+Johan Audel,Left Winger,1983-12-12,28,Martinique,VfB Stuttgart,Bundesliga,2012/2013,2012
+Ibrahima Traoré,Right Winger,1988-04-21,24,Guinea,VfB Stuttgart,Bundesliga,2012/2013,2012
+Tunay Torun,Right Winger,1990-04-21,22,Turkey,VfB Stuttgart,Bundesliga,2012/2013,2012
+Christoph Hemlein,Right Winger,1990-12-16,21,Germany,VfB Stuttgart,Bundesliga,2012/2013,2012
+Martin Harnik,Centre-Forward,1987-06-10,25,Austria,VfB Stuttgart,Bundesliga,2012/2013,2012
+Vedad Ibisevic,Centre-Forward,1984-08-06,27,Bosnia-Herzegovina,VfB Stuttgart,Bundesliga,2012/2013,2012
+Shinji Okazaki,Centre-Forward,1986-04-16,26,Japan,VfB Stuttgart,Bundesliga,2012/2013,2012
+Cacau,Centre-Forward,1981-03-27,31,Germany,VfB Stuttgart,Bundesliga,2012/2013,2012
+Federico Macheda,Centre-Forward,1991-08-22,20,Italy,VfB Stuttgart,Bundesliga,2012/2013,2012
+Soufian Benyamina,Centre-Forward,1990-03-02,22,Germany,VfB Stuttgart,Bundesliga,2012/2013,2012
+Ron-Robert Zieler,Goalkeeper,1989-02-12,23,Germany,Hannover 96,Bundesliga,2012/2013,2012
+Markus Miller,Goalkeeper,1982-04-08,30,Germany,Hannover 96,Bundesliga,2012/2013,2012
+Samuel Sahin-Radlinger,Goalkeeper,1992-11-07,19,Austria,Hannover 96,Bundesliga,2012/2013,2012
+Johan Djourou,Centre-Back,1987-01-18,25,Switzerland,Hannover 96,Bundesliga,2012/2013,2012
+Karim Haggui,Centre-Back,1984-01-20,28,Tunisia,Hannover 96,Bundesliga,2012/2013,2012
+Christian Schulz,Centre-Back,1983-04-01,29,Germany,Hannover 96,Bundesliga,2012/2013,2012
+Felipe,Centre-Back,1987-05-15,25,Brazil,Hannover 96,Bundesliga,2012/2013,2012
+Mario Eggimann,Centre-Back,1981-01-24,31,Switzerland,Hannover 96,Bundesliga,2012/2013,2012
+Andre Hoffmann,Centre-Back,1993-02-28,19,Germany,Hannover 96,Bundesliga,2012/2013,2012
+Jannik Löhden,Centre-Back,1989-07-16,22,Germany,Hannover 96,Bundesliga,2012/2013,2012
+Konstantin Rausch,Left-Back,1990-03-15,22,Russia,Hannover 96,Bundesliga,2012/2013,2012
+Sébastien Pocognoli,Left-Back,1987-08-01,24,Belgium,Hannover 96,Bundesliga,2012/2013,2012
+Christian Pander,Left-Back,1983-08-28,28,Germany,Hannover 96,Bundesliga,2012/2013,2012
+Niko Gießelmann,Left-Back,1991-09-26,20,Germany,Hannover 96,Bundesliga,2012/2013,2012
+Ali Gökdemir,Left-Back,1991-09-17,20,Azerbaijan,Hannover 96,Bundesliga,2012/2013,2012
+Hiroki Sakai,Right-Back,1990-04-12,22,Japan,Hannover 96,Bundesliga,2012/2013,2012
+Steven Cherundolo,Right-Back,1979-02-19,33,United States,Hannover 96,Bundesliga,2012/2013,2012
+Sofian Chahed,Right-Back,1983-04-18,29,Tunisia,Hannover 96,Bundesliga,2012/2013,2012
+Manuel Schmiedebach,Defensive Midfield,1988-12-05,23,Germany,Hannover 96,Bundesliga,2012/2013,2012
+França,Defensive Midfield,1991-04-21,21,Brazil,Hannover 96,Bundesliga,2012/2013,2012
+Yannik Schulze,Defensive Midfield,1995-02-05,17,Germany,Hannover 96,Bundesliga,2012/2013,2012
+Sérgio da Silva Pinto,Central Midfield,1980-10-16,31,Germany,Hannover 96,Bundesliga,2012/2013,2012
+Szabolcs Huszti,Central Midfield,1983-04-18,29,Hungary,Hannover 96,Bundesliga,2012/2013,2012
+Leon Andreasen,Central Midfield,1983-04-23,29,Denmark,Hannover 96,Bundesliga,2012/2013,2012
+Sascha Schünemann,Central Midfield,1992-02-20,20,Germany,Hannover 96,Bundesliga,2012/2013,2012
+Willi Evseev,Attacking Midfield,1992-02-14,20,Germany,Hannover 96,Bundesliga,2012/2013,2012
+Deniz Aycicek,Attacking Midfield,1990-06-05,22,Germany,Hannover 96,Bundesliga,2012/2013,2012
+Adrian Nikci,Left Winger,1989-11-10,22,Switzerland,Hannover 96,Bundesliga,2012/2013,2012
+Lars Stindl,Second Striker,1988-08-26,23,Germany,Hannover 96,Bundesliga,2012/2013,2012
+Jan Schlaudraff,Second Striker,1983-07-18,28,Germany,Hannover 96,Bundesliga,2012/2013,2012
+Mohammed Abdellaoue,Centre-Forward,1985-10-23,26,Norway,Hannover 96,Bundesliga,2012/2013,2012
+Didier Ya Konan,Centre-Forward,1984-05-22,28,Cote d'Ivoire,Hannover 96,Bundesliga,2012/2013,2012
+Mame Diouf,Centre-Forward,1987-12-16,24,Senegal,Hannover 96,Bundesliga,2012/2013,2012
+Artur Sobiech,Centre-Forward,1990-06-12,22,Poland,Hannover 96,Bundesliga,2012/2013,2012
+Deniz Kadah,Centre-Forward,1986-03-02,26,Turkey,Hannover 96,Bundesliga,2012/2013,2012
+Tim Wiese,Goalkeeper,1981-12-17,30,Germany,TSG 1899 Hoffenheim,Bundesliga,2012/2013,2012
+Heurelho Gomes,Goalkeeper,1981-02-15,31,Brazil,TSG 1899 Hoffenheim,Bundesliga,2012/2013,2012
+Koen Casteels,Goalkeeper,1992-06-25,20,Belgium,TSG 1899 Hoffenheim,Bundesliga,2012/2013,2012
+Jens Grahl,Goalkeeper,1988-09-22,23,Germany,TSG 1899 Hoffenheim,Bundesliga,2012/2013,2012
+Marvin Compper,Centre-Back,1985-06-14,27,Germany,TSG 1899 Hoffenheim,Bundesliga,2012/2013,2012
+David Abraham,Centre-Back,1986-07-15,25,Argentina,TSG 1899 Hoffenheim,Bundesliga,2012/2013,2012
+Jannik Vestergaard,Centre-Back,1992-08-03,19,Denmark,TSG 1899 Hoffenheim,Bundesliga,2012/2013,2012
+Matthieu Delpierre,Centre-Back,1981-04-26,31,France,TSG 1899 Hoffenheim,Bundesliga,2012/2013,2012
+Sandro Wieser,Centre-Back,1993-02-03,19,Liechtenstein,TSG 1899 Hoffenheim,Bundesliga,2012/2013,2012
+Chris,Centre-Back,1978-08-25,33,Brazil,TSG 1899 Hoffenheim,Bundesliga,2012/2013,2012
+Matthias Jaissle,Centre-Back,1988-04-05,24,Germany,TSG 1899 Hoffenheim,Bundesliga,2012/2013,2012
+Stefan Thesker,Centre-Back,1991-04-11,21,Germany,TSG 1899 Hoffenheim,Bundesliga,2012/2013,2012
+Pelle Jensen,Centre-Back,1992-05-24,20,Germany,TSG 1899 Hoffenheim,Bundesliga,2012/2013,2012
+Niklas Süle,Centre-Back,1995-09-03,16,Germany,TSG 1899 Hoffenheim,Bundesliga,2012/2013,2012
+Patrick Schorr,Left-Back,1994-10-13,17,Germany,TSG 1899 Hoffenheim,Bundesliga,2012/2013,2012
+Andreas Beck,Right-Back,1987-03-13,25,Germany,TSG 1899 Hoffenheim,Bundesliga,2012/2013,2012
+Patrick Ochs,Right-Back,1984-05-14,28,Germany,TSG 1899 Hoffenheim,Bundesliga,2012/2013,2012
+Luis Advíncula,Right-Back,1990-03-02,22,Peru,TSG 1899 Hoffenheim,Bundesliga,2012/2013,2012
+Jeremy Toljan,Right-Back,1994-08-08,17,Germany,TSG 1899 Hoffenheim,Bundesliga,2012/2013,2012
+Sebastian Rudy,Defensive Midfield,1990-02-28,22,Germany,TSG 1899 Hoffenheim,Bundesliga,2012/2013,2012
+Eugen Polanski,Defensive Midfield,1986-03-17,26,Poland,TSG 1899 Hoffenheim,Bundesliga,2012/2013,2012
+Danny Williams,Defensive Midfield,1989-03-08,23,United States,TSG 1899 Hoffenheim,Bundesliga,2012/2013,2012
+Robin Szarka,Defensive Midfield,1991-09-17,20,Germany,TSG 1899 Hoffenheim,Bundesliga,2012/2013,2012
+Denis Streker,Defensive Midfield,1991-04-06,21,Germany,TSG 1899 Hoffenheim,Bundesliga,2012/2013,2012
+Sejad Salihovic,Central Midfield,1984-10-08,27,Bosnia-Herzegovina,TSG 1899 Hoffenheim,Bundesliga,2012/2013,2012
+Afriyie Acquah,Central Midfield,1992-01-05,20,Ghana,TSG 1899 Hoffenheim,Bundesliga,2012/2013,2012
+Tobias Weis,Central Midfield,1985-07-30,26,Germany,TSG 1899 Hoffenheim,Bundesliga,2012/2013,2012
+Ahmed Sassi,Right Midfield,1993-09-24,18,Tunisia,TSG 1899 Hoffenheim,Bundesliga,2012/2013,2012
+Stephan Schröck,Attacking Midfield,1986-08-21,25,Philippines,TSG 1899 Hoffenheim,Bundesliga,2012/2013,2012
+Andreas Ludwig,Attacking Midfield,1990-09-11,21,Germany,TSG 1899 Hoffenheim,Bundesliga,2012/2013,2012
+Fabian Johnson,Left Winger,1987-12-11,24,United States,TSG 1899 Hoffenheim,Bundesliga,2012/2013,2012
+Takashi Usami,Left Winger,1992-05-06,20,Japan,TSG 1899 Hoffenheim,Bundesliga,2012/2013,2012
+Vincenzo Grifo,Left Winger,1993-04-07,19,Italy,TSG 1899 Hoffenheim,Bundesliga,2012/2013,2012
+Boris Vukcevic,Right Winger,1990-03-16,22,Germany,TSG 1899 Hoffenheim,Bundesliga,2012/2013,2012
+Júnior Ponce,Right Winger,1994-02-16,18,Peru,TSG 1899 Hoffenheim,Bundesliga,2012/2013,2012
+Michael Gregoritsch,Second Striker,1994-04-18,18,Austria,TSG 1899 Hoffenheim,Bundesliga,2012/2013,2012
+Eren Derdiyok,Centre-Forward,1988-06-12,24,Switzerland,TSG 1899 Hoffenheim,Bundesliga,2012/2013,2012
+Roberto Firmino,Centre-Forward,1991-10-02,20,Brazil,TSG 1899 Hoffenheim,Bundesliga,2012/2013,2012
+Igor de Camargo,Centre-Forward,1983-05-12,29,Belgium,TSG 1899 Hoffenheim,Bundesliga,2012/2013,2012
+Kevin Volland,Centre-Forward,1992-07-30,19,Germany,TSG 1899 Hoffenheim,Bundesliga,2012/2013,2012
+Sven Schipplock,Centre-Forward,1988-11-08,23,Germany,TSG 1899 Hoffenheim,Bundesliga,2012/2013,2012
+Filip Malbasic,Centre-Forward,1992-11-18,19,Serbia,TSG 1899 Hoffenheim,Bundesliga,2012/2013,2012
+Joselu,Centre-Forward,1990-03-27,22,Spain,TSG 1899 Hoffenheim,Bundesliga,2012/2013,2012
+Marc-André ter Stegen,Goalkeeper,1992-04-30,20,Germany,Borussia Mönchengladbach,Bundesliga,2012/2013,2012
+Christofer Heimeroth,Goalkeeper,1981-08-01,30,Germany,Borussia Mönchengladbach,Bundesliga,2012/2013,2012
+Janis Blaswich,Goalkeeper,1991-05-02,21,Germany,Borussia Mönchengladbach,Bundesliga,2012/2013,2012
+Niklas Bolten,Goalkeeper,1994-03-29,18,Germany,Borussia Mönchengladbach,Bundesliga,2012/2013,2012
+Álvaro Domínguez,Centre-Back,1989-05-16,23,Spain,Borussia Mönchengladbach,Bundesliga,2012/2013,2012
+Tony Jantschke,Centre-Back,1990-04-07,22,Germany,Borussia Mönchengladbach,Bundesliga,2012/2013,2012
+Martin Stranzl,Centre-Back,1980-06-16,32,Austria,Borussia Mönchengladbach,Bundesliga,2012/2013,2012
+Roel Brouwers,Centre-Back,1981-11-28,30,Netherlands,Borussia Mönchengladbach,Bundesliga,2012/2013,2012
+Niklas Dams,Centre-Back,1990-05-28,22,Germany,Borussia Mönchengladbach,Bundesliga,2012/2013,2012
+Oscar Wendt,Left-Back,1985-10-24,26,Sweden,Borussia Mönchengladbach,Bundesliga,2012/2013,2012
+Filip Daems,Left-Back,1978-10-31,33,Belgium,Borussia Mönchengladbach,Bundesliga,2012/2013,2012
+Matthias Zimmermann,Right-Back,1992-06-16,20,Germany,Borussia Mönchengladbach,Bundesliga,2012/2013,2012
+Julian Korb,Right-Back,1992-03-21,20,Germany,Borussia Mönchengladbach,Bundesliga,2012/2013,2012
+Granit Xhaka,Defensive Midfield,1992-09-27,19,Switzerland,Borussia Mönchengladbach,Bundesliga,2012/2013,2012
+Havard Nordtveit,Defensive Midfield,1990-06-21,22,Norway,Borussia Mönchengladbach,Bundesliga,2012/2013,2012
+Thorben Marx,Defensive Midfield,1981-06-01,31,Germany,Borussia Mönchengladbach,Bundesliga,2012/2013,2012
+Nico Brandenburger,Defensive Midfield,1995-01-17,17,Germany,Borussia Mönchengladbach,Bundesliga,2012/2013,2012
+Alexander Ring,Central Midfield,1991-04-09,21,Finland,Borussia Mönchengladbach,Bundesliga,2012/2013,2012
+Lukas Rupp,Central Midfield,1991-01-08,21,Germany,Borussia Mönchengladbach,Bundesliga,2012/2013,2012
+Tolga Cigerci,Central Midfield,1992-03-23,20,Turkey,Borussia Mönchengladbach,Bundesliga,2012/2013,2012
+Alexander Mühling,Central Midfield,1992-09-05,19,Germany,Borussia Mönchengladbach,Bundesliga,2012/2013,2012
+Juan Arango,Left Midfield,1980-05-17,32,Venezuela,Borussia Mönchengladbach,Bundesliga,2012/2013,2012
+Amin Younes,Left Winger,1993-08-06,18,Germany,Borussia Mönchengladbach,Bundesliga,2012/2013,2012
+Patrick Herrmann,Right Winger,1991-02-12,21,Germany,Borussia Mönchengladbach,Bundesliga,2012/2013,2012
+Luuk de Jong,Centre-Forward,1990-08-27,21,Netherlands,Borussia Mönchengladbach,Bundesliga,2012/2013,2012
+Mike Hanke,Centre-Forward,1983-11-05,28,Germany,Borussia Mönchengladbach,Bundesliga,2012/2013,2012
+Igor de Camargo,Centre-Forward,1983-05-12,29,Belgium,Borussia Mönchengladbach,Bundesliga,2012/2013,2012
+Peniel Mlapa,Centre-Forward,1991-02-20,21,Togo,Borussia Mönchengladbach,Bundesliga,2012/2013,2012
+Branimir Hrgota,Centre-Forward,1993-01-12,19,Sweden,Borussia Mönchengladbach,Bundesliga,2012/2013,2012
+Sebastian Mielitz,Goalkeeper,1989-07-18,22,Germany,SV Werder Bremen,Bundesliga,2012/2013,2012
+Raphael Wolf,Goalkeeper,1988-06-06,24,Germany,SV Werder Bremen,Bundesliga,2012/2013,2012
+Christian Vander,Goalkeeper,1980-10-24,31,Germany,SV Werder Bremen,Bundesliga,2012/2013,2012
+Richard Strebinger,Goalkeeper,1993-02-14,19,Austria,SV Werder Bremen,Bundesliga,2012/2013,2012
+Sokratis,Centre-Back,1988-06-09,24,Greece,SV Werder Bremen,Bundesliga,2012/2013,2012
+Sebastian Prödl,Centre-Back,1987-06-21,25,Austria,SV Werder Bremen,Bundesliga,2012/2013,2012
+Assani Lukimya,Centre-Back,1986-01-25,26,DR Congo,SV Werder Bremen,Bundesliga,2012/2013,2012
+Mateo Pavlovic,Centre-Back,1990-06-09,22,Croatia,SV Werder Bremen,Bundesliga,2012/2013,2012
+Lukas Schmitz,Left-Back,1988-10-13,23,Germany,SV Werder Bremen,Bundesliga,2012/2013,2012
+Florian Hartherz,Left-Back,1993-05-29,19,Germany,SV Werder Bremen,Bundesliga,2012/2013,2012
+Cimo Röcker,Left-Back,1994-01-21,18,Germany,SV Werder Bremen,Bundesliga,2012/2013,2012
+Theodor Gebre Selassie,Right-Back,1986-12-24,25,Czech Republic,SV Werder Bremen,Bundesliga,2012/2013,2012
+Aleksandar Ignjovski,Defensive Midfield,1991-01-27,21,Serbia,SV Werder Bremen,Bundesliga,2012/2013,2012
+Philipp Bargfrede,Defensive Midfield,1989-03-03,23,Germany,SV Werder Bremen,Bundesliga,2012/2013,2012
+Tom Trybull,Defensive Midfield,1993-03-09,19,Germany,SV Werder Bremen,Bundesliga,2012/2013,2012
+Clemens Fritz,Central Midfield,1980-12-07,31,Germany,SV Werder Bremen,Bundesliga,2012/2013,2012
+Zlatko Junuzovic,Central Midfield,1987-09-26,24,Austria,SV Werder Bremen,Bundesliga,2012/2013,2012
+Felix Kroos,Central Midfield,1991-03-12,21,Germany,SV Werder Bremen,Bundesliga,2012/2013,2012
+Aleksandar Stevanovic,Central Midfield,1992-02-16,20,Germany,SV Werder Bremen,Bundesliga,2012/2013,2012
+Kevin De Bruyne,Attacking Midfield,1991-06-28,21,Belgium,SV Werder Bremen,Bundesliga,2012/2013,2012
+Mehmet Ekici,Attacking Midfield,1990-03-25,22,Turkey,SV Werder Bremen,Bundesliga,2012/2013,2012
+Aaron Hunt,Attacking Midfield,1986-09-04,25,Germany,SV Werder Bremen,Bundesliga,2012/2013,2012
+Levent Aycicek,Attacking Midfield,1994-02-14,18,Germany,SV Werder Bremen,Bundesliga,2012/2013,2012
+Predrag Stevanovic,Attacking Midfield,1991-03-03,21,Serbia,SV Werder Bremen,Bundesliga,2012/2013,2012
+Özkan Yildirim,Attacking Midfield,1993-04-10,19,Germany,SV Werder Bremen,Bundesliga,2012/2013,2012
+Eljero Elia,Left Winger,1987-02-13,25,Netherlands,SV Werder Bremen,Bundesliga,2012/2013,2012
+Johannes Wurtz,Second Striker,1992-06-19,20,Germany,SV Werder Bremen,Bundesliga,2012/2013,2012
+Marko Arnautovic,Centre-Forward,1989-04-19,23,Austria,SV Werder Bremen,Bundesliga,2012/2013,2012
+Joseph Akpala,Centre-Forward,1986-08-24,25,Nigeria,SV Werder Bremen,Bundesliga,2012/2013,2012
+Nils Petersen,Centre-Forward,1988-12-06,23,Germany,SV Werder Bremen,Bundesliga,2012/2013,2012
+Niclas Füllkrug,Centre-Forward,1993-02-09,19,Germany,SV Werder Bremen,Bundesliga,2012/2013,2012
+Max Wegner,Centre-Forward,1989-03-24,23,Germany,SV Werder Bremen,Bundesliga,2012/2013,2012
+Kevin Trapp,Goalkeeper,1990-07-08,21,Germany,Eintracht Frankfurt,Bundesliga,2012/2013,2012
+Oka Nikolov,Goalkeeper,1974-05-25,38,North Macedonia,Eintracht Frankfurt,Bundesliga,2012/2013,2012
+Aykut Özer,Goalkeeper,1993-01-01,19,Turkey,Eintracht Frankfurt,Bundesliga,2012/2013,2012
+Marco Russ,Centre-Back,1985-08-04,26,Germany,Eintracht Frankfurt,Bundesliga,2012/2013,2012
+Vadim Demidov,Centre-Back,1986-10-10,25,Norway,Eintracht Frankfurt,Bundesliga,2012/2013,2012
+Carlos Zambrano,Centre-Back,1989-07-10,22,Peru,Eintracht Frankfurt,Bundesliga,2012/2013,2012
+Bamba Anderson,Centre-Back,1988-01-10,24,Brazil,Eintracht Frankfurt,Bundesliga,2012/2013,2012
+Heiko Butscher,Centre-Back,1980-07-28,31,Germany,Eintracht Frankfurt,Bundesliga,2012/2013,2012
+Martin Amedick,Centre-Back,1982-09-06,29,Germany,Eintracht Frankfurt,Bundesliga,2012/2013,2012
+Alexander Hien,Centre-Back,1993-04-03,19,Germany,Eintracht Frankfurt,Bundesliga,2012/2013,2012
+Julian Dudda,Centre-Back,1993-04-08,19,Germany,Eintracht Frankfurt,Bundesliga,2012/2013,2012
+Marc Oliver Kempf,Centre-Back,1995-01-28,17,Germany,Eintracht Frankfurt,Bundesliga,2012/2013,2012
+Bastian Oczipka,Left-Back,1989-01-12,23,Germany,Eintracht Frankfurt,Bundesliga,2012/2013,2012
+Constant Djakpa,Left-Back,1986-10-17,25,Cote d'Ivoire,Eintracht Frankfurt,Bundesliga,2012/2013,2012
+Sebastian Jung,Right-Back,1990-06-22,22,Germany,Eintracht Frankfurt,Bundesliga,2012/2013,2012
+Stefano Celozzi,Right-Back,1988-11-02,23,Germany,Eintracht Frankfurt,Bundesliga,2012/2013,2012
+Erik Wille,Right-Back,1993-03-28,19,Germany,Eintracht Frankfurt,Bundesliga,2012/2013,2012
+Pirmin Schwegler,Defensive Midfield,1987-03-09,25,Switzerland,Eintracht Frankfurt,Bundesliga,2012/2013,2012
+Martin Lanig,Defensive Midfield,1984-07-11,27,Germany,Eintracht Frankfurt,Bundesliga,2012/2013,2012
+Sebastian Rode,Central Midfield,1990-10-11,21,Germany,Eintracht Frankfurt,Bundesliga,2012/2013,2012
+Marc Stendera,Central Midfield,1995-12-10,16,Germany,Eintracht Frankfurt,Bundesliga,2012/2013,2012
+Benjamin Köhler,Left Midfield,1980-08-04,31,Germany,Eintracht Frankfurt,Bundesliga,2012/2013,2012
+Sonny Kittel,Attacking Midfield,1993-01-06,19,Germany,Eintracht Frankfurt,Bundesliga,2012/2013,2012
+Takashi Inui,Left Winger,1988-06-02,24,Japan,Eintracht Frankfurt,Bundesliga,2012/2013,2012
+Karim Matmour,Right Winger,NA,27,Algeria,Eintracht Frankfurt,Bundesliga,2012/2013,2012
+Alexander Meier,Second Striker,1983-01-17,29,Germany,Eintracht Frankfurt,Bundesliga,2012/2013,2012
+Stefan Aigner,Second Striker,1987-08-20,24,Germany,Eintracht Frankfurt,Bundesliga,2012/2013,2012
+Erwin Hoffer,Centre-Forward,1987-04-14,25,Austria,Eintracht Frankfurt,Bundesliga,2012/2013,2012
+Srdjan Lakic,Centre-Forward,1983-10-02,28,Croatia,Eintracht Frankfurt,Bundesliga,2012/2013,2012
+Olivier Occéan,Centre-Forward,1981-10-23,30,Canada,Eintracht Frankfurt,Bundesliga,2012/2013,2012
+Dorge Kouemaha,Centre-Forward,1983-06-28,29,Cameroon,Eintracht Frankfurt,Bundesliga,2012/2013,2012
+Christian Wetklo,Goalkeeper,1980-01-11,32,Germany,1.FSV Mainz 05,Bundesliga,2012/2013,2012
+Heinz Müller,Goalkeeper,1978-05-30,34,Germany,1.FSV Mainz 05,Bundesliga,2012/2013,2012
+Loris Karius,Goalkeeper,1993-06-22,19,Germany,1.FSV Mainz 05,Bundesliga,2012/2013,2012
+Christian Mathenia,Goalkeeper,1992-03-31,20,Germany,1.FSV Mainz 05,Bundesliga,2012/2013,2012
+Niko Bungert,Centre-Back,1986-10-24,25,Germany,1.FSV Mainz 05,Bundesliga,2012/2013,2012
+Marco Caligiuri,Centre-Back,1984-04-14,28,Germany,1.FSV Mainz 05,Bundesliga,2012/2013,2012
+Nikolce Noveski,Centre-Back,1979-04-28,33,North Macedonia,1.FSV Mainz 05,Bundesliga,2012/2013,2012
+Bo Svensson,Centre-Back,1979-08-04,32,Denmark,1.FSV Mainz 05,Bundesliga,2012/2013,2012
+Stefan Bell,Centre-Back,1991-08-24,20,Germany,1.FSV Mainz 05,Bundesliga,2012/2013,2012
+Tobias Schilk,Centre-Back,1992-03-24,20,Germany,1.FSV Mainz 05,Bundesliga,2012/2013,2012
+Júnior Díaz,Left-Back,1983-09-12,28,Costa Rica,1.FSV Mainz 05,Bundesliga,2012/2013,2012
+Radoslav Zabavnik,Left-Back,1980-09-16,31,Slovakia,1.FSV Mainz 05,Bundesliga,2012/2013,2012
+Zdenek Pospech,Right-Back,1978-12-14,33,Czech Republic,1.FSV Mainz 05,Bundesliga,2012/2013,2012
+Benedikt Saller,Right-Back,1992-09-22,19,Germany,1.FSV Mainz 05,Bundesliga,2012/2013,2012
+Eugen Polanski,Defensive Midfield,1986-03-17,26,Poland,1.FSV Mainz 05,Bundesliga,2012/2013,2012
+Niki Zimling,Defensive Midfield,1985-04-19,27,Denmark,1.FSV Mainz 05,Bundesliga,2012/2013,2012
+Jan Kirchhoff,Defensive Midfield,1990-10-01,21,Germany,1.FSV Mainz 05,Bundesliga,2012/2013,2012
+Julian Baumgartlinger,Defensive Midfield,1988-01-02,24,Austria,1.FSV Mainz 05,Bundesliga,2012/2013,2012
+Elkin Soto,Central Midfield,1980-08-04,31,Colombia,1.FSV Mainz 05,Bundesliga,2012/2013,2012
+Marcel Risse,Right Midfield,1989-12-17,22,Germany,1.FSV Mainz 05,Bundesliga,2012/2013,2012
+Nejmeddin Daghfous,Left Midfield,1986-10-01,25,Tunisia,1.FSV Mainz 05,Bundesliga,2012/2013,2012
+Andreas Ivanschitz,Attacking Midfield,1983-10-15,28,Austria,1.FSV Mainz 05,Bundesliga,2012/2013,2012
+Yunus Malli,Attacking Midfield,1992-02-24,20,Turkey,1.FSV Mainz 05,Bundesliga,2012/2013,2012
+Chinedu Ede,Left Winger,1987-02-05,25,Germany,1.FSV Mainz 05,Bundesliga,2012/2013,2012
+Nicolai Müller,Right Winger,1987-09-25,24,Germany,1.FSV Mainz 05,Bundesliga,2012/2013,2012
+Nikita Rukavytsya,Right Winger,1987-06-22,25,Australia,1.FSV Mainz 05,Bundesliga,2012/2013,2012
+Eric Maxim Choupo-Moting,Centre-Forward,1989-03-23,23,Cameroon,1.FSV Mainz 05,Bundesliga,2012/2013,2012
+Ádám Szalai,Centre-Forward,1987-12-09,24,Hungary,1.FSV Mainz 05,Bundesliga,2012/2013,2012
+Anthony Ujah,Centre-Forward,1990-10-14,21,Nigeria,1.FSV Mainz 05,Bundesliga,2012/2013,2012
+Ivan Klasnic,Centre-Forward,1980-01-29,32,Croatia,1.FSV Mainz 05,Bundesliga,2012/2013,2012
+Petar Sliskovic,Centre-Forward,1991-02-21,21,Croatia,1.FSV Mainz 05,Bundesliga,2012/2013,2012
+Shawn Parker,Centre-Forward,1993-03-07,19,Germany,1.FSV Mainz 05,Bundesliga,2012/2013,2012
+Simon Jentzsch,Goalkeeper,1976-05-04,36,Germany,FC Augsburg,Bundesliga,2012/2013,2012
+Mohamed Amsif,Goalkeeper,1989-02-07,23,Morocco,FC Augsburg,Bundesliga,2012/2013,2012
+Alexander Manninger,Goalkeeper,1977-06-04,35,Austria,FC Augsburg,Bundesliga,2012/2013,2012
+Ioannis Gelios,Goalkeeper,1992-04-24,20,Greece,FC Augsburg,Bundesliga,2012/2013,2012
+Sebastian Langkamp,Centre-Back,1988-01-15,24,Germany,FC Augsburg,Bundesliga,2012/2013,2012
+Gibril Sankoh,Centre-Back,1983-05-15,29,Sierra Leone,FC Augsburg,Bundesliga,2012/2013,2012
+Ragnar Klavan,Centre-Back,1985-10-30,26,Estonia,FC Augsburg,Bundesliga,2012/2013,2012
+Jan-Ingwer Callsen-Bracker,Centre-Back,1984-09-23,27,Germany,FC Augsburg,Bundesliga,2012/2013,2012
+Kevin Vogt,Centre-Back,1991-09-23,20,Germany,FC Augsburg,Bundesliga,2012/2013,2012
+Michael Parkhurst,Centre-Back,1984-01-24,28,United States,FC Augsburg,Bundesliga,2012/2013,2012
+Matthias Strohmaier,Centre-Back,1994-03-11,18,Germany,FC Augsburg,Bundesliga,2012/2013,2012
+Marcel de Jong,Left-Back,1986-10-15,25,Canada,FC Augsburg,Bundesliga,2012/2013,2012
+Matthias Ostrzolek,Left-Back,1990-06-05,22,Germany,FC Augsburg,Bundesliga,2012/2013,2012
+Paul Verhaegh,Right-Back,1983-09-01,28,Netherlands,FC Augsburg,Bundesliga,2012/2013,2012
+Dominik Reinhardt,Right-Back,1984-12-19,27,Germany,FC Augsburg,Bundesliga,2012/2013,2012
+Ronny Philp,Right-Back,1989-01-28,23,Romania,FC Augsburg,Bundesliga,2012/2013,2012
+Marco Thiede,Right-Back,1992-05-20,20,Germany,FC Augsburg,Bundesliga,2012/2013,2012
+Daniel Baier,Defensive Midfield,1984-05-18,28,Germany,FC Augsburg,Bundesliga,2012/2013,2012
+Andreas Ottl,Defensive Midfield,1985-03-01,27,Germany,FC Augsburg,Bundesliga,2012/2013,2012
+Ja-cheol Koo,Central Midfield,1989-02-27,23,"Korea, South",FC Augsburg,Bundesliga,2012/2013,2012
+Jan Morávek,Central Midfield,1989-11-01,22,Czech Republic,FC Augsburg,Bundesliga,2012/2013,2012
+Milan Petrzela,Right Midfield,1983-06-19,29,Czech Republic,FC Augsburg,Bundesliga,2012/2013,2012
+Somen Tchoyi,Attacking Midfield,1983-03-29,29,Cameroon,FC Augsburg,Bundesliga,2012/2013,2012
+Knowledge Musona,Left Winger,1990-06-21,22,Zimbabwe,FC Augsburg,Bundesliga,2012/2013,2012
+Tobias Werner,Left Winger,1985-07-19,26,Germany,FC Augsburg,Bundesliga,2012/2013,2012
+Dawda Bah,Left Winger,1983-11-12,28,The Gambia,FC Augsburg,Bundesliga,2012/2013,2012
+André Hahn,Right Winger,1990-08-13,21,Germany,FC Augsburg,Bundesliga,2012/2013,2012
+Giovanni Sio,Centre-Forward,1989-03-31,23,Cote d'Ivoire,FC Augsburg,Bundesliga,2012/2013,2012
+Dong-won Ji,Centre-Forward,1991-05-28,21,"Korea, South",FC Augsburg,Bundesliga,2012/2013,2012
+Sascha Mölders,Centre-Forward,1985-03-20,27,Germany,FC Augsburg,Bundesliga,2012/2013,2012
+Torsten Oehrl,Centre-Forward,1986-01-07,26,Germany,FC Augsburg,Bundesliga,2012/2013,2012
+Stephan Hain,Centre-Forward,1988-09-27,23,Germany,FC Augsburg,Bundesliga,2012/2013,2012
+Aristide Bancé,Centre-Forward,1984-09-19,27,Burkina Faso,FC Augsburg,Bundesliga,2012/2013,2012
+Oliver Baumann,Goalkeeper,1990-06-02,22,Germany,SC Freiburg,Bundesliga,2012/2013,2012
+Daniel Batz,Goalkeeper,1991-01-12,21,Germany,SC Freiburg,Bundesliga,2012/2013,2012
+Alexander Schwolow,Goalkeeper,1992-06-02,20,Germany,SC Freiburg,Bundesliga,2012/2013,2012
+Fallou Diagne,Centre-Back,1989-08-14,22,Senegal,SC Freiburg,Bundesliga,2012/2013,2012
+Matthias Ginter,Centre-Back,1994-01-19,18,Germany,SC Freiburg,Bundesliga,2012/2013,2012
+Immanuel Höhn,Centre-Back,1991-12-23,20,Germany,SC Freiburg,Bundesliga,2012/2013,2012
+Beg Ferati,Centre-Back,1986-11-10,25,Switzerland,SC Freiburg,Bundesliga,2012/2013,2012
+Pavel Krmas,Centre-Back,1980-03-03,32,Czech Republic,SC Freiburg,Bundesliga,2012/2013,2012
+Christian Günter,Left-Back,1993-02-28,19,Germany,SC Freiburg,Bundesliga,2012/2013,2012
+Mensur Mujdza,Right-Back,1984-03-28,28,Bosnia-Herzegovina,SC Freiburg,Bundesliga,2012/2013,2012
+Jonathan Schmid,Right-Back,1990-06-22,22,France,SC Freiburg,Bundesliga,2012/2013,2012
+Oliver Sorg,Right-Back,1990-05-29,22,Germany,SC Freiburg,Bundesliga,2012/2013,2012
+Vegar Eggen Hedenstad,Right-Back,1991-06-26,21,Norway,SC Freiburg,Bundesliga,2012/2013,2012
+Julian Schuster,Defensive Midfield,1985-04-15,27,Germany,SC Freiburg,Bundesliga,2012/2013,2012
+Marc Lais,Defensive Midfield,1991-02-04,21,Germany,SC Freiburg,Bundesliga,2012/2013,2012
+Tim Albutat,Defensive Midfield,1992-09-23,19,Germany,SC Freiburg,Bundesliga,2012/2013,2012
+Johannes Flum,Central Midfield,1987-12-14,24,Germany,SC Freiburg,Bundesliga,2012/2013,2012
+Cédric Makiadi,Central Midfield,1984-02-23,28,DR Congo,SC Freiburg,Bundesliga,2012/2013,2012
+Daniel Caligiuri,Right Midfield,1988-01-15,24,Italy,SC Freiburg,Bundesliga,2012/2013,2012
+Anton Putsila,Attacking Midfield,1987-06-10,25,Belarus,SC Freiburg,Bundesliga,2012/2013,2012
+Marco Terrazzino,Left Winger,1991-04-15,21,Germany,SC Freiburg,Bundesliga,2012/2013,2012
+Sebastian Kerk,Left Winger,1994-04-17,18,Germany,SC Freiburg,Bundesliga,2012/2013,2012
+Ezequiel Calvente,Right Winger,1991-01-12,21,Spain,SC Freiburg,Bundesliga,2012/2013,2012
+Hendrick Zuck,Right Winger,1990-07-21,21,Germany,SC Freiburg,Bundesliga,2012/2013,2012
+Jan Rosenthal,Second Striker,1986-04-07,26,Germany,SC Freiburg,Bundesliga,2012/2013,2012
+Max Kruse,Centre-Forward,1988-03-19,24,Germany,SC Freiburg,Bundesliga,2012/2013,2012
+Garra Dembélé,Centre-Forward,1986-02-21,26,Mali,SC Freiburg,Bundesliga,2012/2013,2012
+Erik Jendrisek,Centre-Forward,1986-10-26,25,Slovakia,SC Freiburg,Bundesliga,2012/2013,2012
+Sebastian Freis,Centre-Forward,1985-04-23,27,Germany,SC Freiburg,Bundesliga,2012/2013,2012
+Ivan Santini,Centre-Forward,1989-05-21,23,Croatia,SC Freiburg,Bundesliga,2012/2013,2012
+Karim Guédé,Centre-Forward,1985-01-07,27,Slovakia,SC Freiburg,Bundesliga,2012/2013,2012
+Mounir Bouziane,Centre-Forward,1991-02-05,21,France,SC Freiburg,Bundesliga,2012/2013,2012
+Raphael Schäfer,Goalkeeper,1979-01-30,33,Germany,1.FC Nuremberg,Bundesliga,2012/2013,2012
+Patrick Rakovsky,Goalkeeper,1993-06-02,19,Germany,1.FC Nuremberg,Bundesliga,2012/2013,2012
+Alexander Stephan,Goalkeeper,1986-09-15,25,Germany,1.FC Nuremberg,Bundesliga,2012/2013,2012
+Benjamin Uphoff,Goalkeeper,1993-08-08,18,Germany,1.FC Nuremberg,Bundesliga,2012/2013,2012
+Max Nawe,Goalkeeper,1995-01-20,17,Germany,1.FC Nuremberg,Bundesliga,2012/2013,2012
+Javier Pinola,Centre-Back,1983-02-24,29,Argentina,1.FC Nuremberg,Bundesliga,2012/2013,2012
+Marcos António,Centre-Back,1983-05-25,29,Brazil,1.FC Nuremberg,Bundesliga,2012/2013,2012
+Timm Klose,Centre-Back,1988-05-09,24,Switzerland,1.FC Nuremberg,Bundesliga,2012/2013,2012
+Per Nilsson,Centre-Back,1982-09-15,29,Sweden,1.FC Nuremberg,Bundesliga,2012/2013,2012
+Berkay Dabanli,Centre-Back,1990-06-27,22,Germany,1.FC Nuremberg,Bundesliga,2012/2013,2012
+Noah Korczowski,Centre-Back,1994-01-08,18,Germany,1.FC Nuremberg,Bundesliga,2012/2013,2012
+Niklas Stark,Centre-Back,1995-04-14,17,Germany,1.FC Nuremberg,Bundesliga,2012/2013,2012
+Adam Hlousek,Left-Back,1988-12-20,23,Czech Republic,1.FC Nuremberg,Bundesliga,2012/2013,2012
+Marvin Plattenhardt,Left-Back,1992-01-26,20,Germany,1.FC Nuremberg,Bundesliga,2012/2013,2012
+Timothy Chandler,Right-Back,1990-03-29,22,United States,1.FC Nuremberg,Bundesliga,2012/2013,2012
+Hanno Balitsch,Defensive Midfield,1981-01-02,31,Germany,1.FC Nuremberg,Bundesliga,2012/2013,2012
+Timmy Simons,Defensive Midfield,1976-12-11,35,Belgium,1.FC Nuremberg,Bundesliga,2012/2013,2012
+Sebastian Gärtner,Defensive Midfield,1993-02-03,19,Germany,1.FC Nuremberg,Bundesliga,2012/2013,2012
+Almog Cohen,Central Midfield,1988-09-01,23,Israel,1.FC Nuremberg,Bundesliga,2012/2013,2012
+Markus Feulner,Central Midfield,1982-02-12,30,Germany,1.FC Nuremberg,Bundesliga,2012/2013,2012
+Mike Frantz,Central Midfield,1986-10-14,25,Germany,1.FC Nuremberg,Bundesliga,2012/2013,2012
+Muhammed Ildiz,Central Midfield,1991-05-14,21,Austria,1.FC Nuremberg,Bundesliga,2012/2013,2012
+Timo Gebhart,Attacking Midfield,1989-04-12,23,Germany,1.FC Nuremberg,Bundesliga,2012/2013,2012
+Hiroshi Kiyotake,Attacking Midfield,1989-11-12,22,Japan,1.FC Nuremberg,Bundesliga,2012/2013,2012
+Philipp Klement,Attacking Midfield,1992-09-09,19,Germany,1.FC Nuremberg,Bundesliga,2012/2013,2012
+Markus Mendler,Left Winger,1993-01-07,19,Germany,1.FC Nuremberg,Bundesliga,2012/2013,2012
+Alexander Esswein,Right Winger,1990-03-25,22,Germany,1.FC Nuremberg,Bundesliga,2012/2013,2012
+Robert Mak,Right Winger,1991-03-08,21,Slovakia,1.FC Nuremberg,Bundesliga,2012/2013,2012
+Tomas Pekhart,Centre-Forward,1989-05-26,23,Czech Republic,1.FC Nuremberg,Bundesliga,2012/2013,2012
+Mu Kanazaki,Centre-Forward,1989-02-16,23,Japan,1.FC Nuremberg,Bundesliga,2012/2013,2012
+Sebastian Polter,Centre-Forward,1991-04-01,21,Germany,1.FC Nuremberg,Bundesliga,2012/2013,2012
+Roussel Ngankam,Centre-Forward,1993-09-15,18,Germany,1.FC Nuremberg,Bundesliga,2012/2013,2012
+Max Grün,Goalkeeper,1987-04-05,25,Germany,SpVgg Greuther Fürth,Bundesliga,2012/2013,2012
+Wolfgang Hesl,Goalkeeper,1986-01-13,26,Germany,SpVgg Greuther Fürth,Bundesliga,2012/2013,2012
+Issa Ndoye,Goalkeeper,1985-12-12,26,Senegal,SpVgg Greuther Fürth,Bundesliga,2012/2013,2012
+Tom Mickel,Goalkeeper,1989-04-19,23,Germany,SpVgg Greuther Fürth,Bundesliga,2012/2013,2012
+Mërgim Mavraj,Centre-Back,1986-06-09,26,Albania,SpVgg Greuther Fürth,Bundesliga,2012/2013,2012
+Lasse Sobiech,Centre-Back,1991-01-18,21,Germany,SpVgg Greuther Fürth,Bundesliga,2012/2013,2012
+Thomas Kleine,Centre-Back,1977-12-28,34,Germany,SpVgg Greuther Fürth,Bundesliga,2012/2013,2012
+Michael Hefele,Centre-Back,1990-09-01,21,Germany,SpVgg Greuther Fürth,Bundesliga,2012/2013,2012
+Heinrich Schmidtgal,Left-Back,1985-11-20,26,Kazakhstan,SpVgg Greuther Fürth,Bundesliga,2012/2013,2012
+Abdul Rahman Baba,Left-Back,1994-07-02,17,Ghana,SpVgg Greuther Fürth,Bundesliga,2012/2013,2012
+Matthias Zimmermann,Right-Back,1992-06-16,20,Germany,SpVgg Greuther Fürth,Bundesliga,2012/2013,2012
+Stephan Fürstner,Defensive Midfield,1987-09-11,24,Germany,SpVgg Greuther Fürth,Bundesliga,2012/2013,2012
+Thanos Petsos,Defensive Midfield,1991-06-05,21,Greece,SpVgg Greuther Fürth,Bundesliga,2012/2013,2012
+József Varga,Defensive Midfield,1988-06-06,24,Hungary,SpVgg Greuther Fürth,Bundesliga,2012/2013,2012
+Milorad Pekovic,Defensive Midfield,1977-08-05,34,Montenegro,SpVgg Greuther Fürth,Bundesliga,2012/2013,2012
+Johannes Geis,Defensive Midfield,1993-08-17,18,Germany,SpVgg Greuther Fürth,Bundesliga,2012/2013,2012
+Bernd Nehrig,Central Midfield,1986-09-28,25,Germany,SpVgg Greuther Fürth,Bundesliga,2012/2013,2012
+Robert Zillner,Central Midfield,1985-08-04,26,Germany,SpVgg Greuther Fürth,Bundesliga,2012/2013,2012
+Sebastian Tyrala,Central Midfield,1988-02-22,24,Poland,SpVgg Greuther Fürth,Bundesliga,2012/2013,2012
+Edgar Prib,Left Midfield,1989-12-15,22,Germany,SpVgg Greuther Fürth,Bundesliga,2012/2013,2012
+Florian Trinks,Attacking Midfield,1992-03-11,20,Germany,SpVgg Greuther Fürth,Bundesliga,2012/2013,2012
+Sercan Sararer,Left Winger,1989-11-27,22,Turkey,SpVgg Greuther Fürth,Bundesliga,2012/2013,2012
+Christopher Nöthe,Left Winger,1988-01-03,24,Germany,SpVgg Greuther Fürth,Bundesliga,2012/2013,2012
+Zoltán Stieber,Left Winger,1988-10-16,23,Hungary,SpVgg Greuther Fürth,Bundesliga,2012/2013,2012
+Tayfun Pektürk,Left Winger,1988-05-13,24,Turkey,SpVgg Greuther Fürth,Bundesliga,2012/2013,2012
+Jung-bin Park,Left Winger,1994-02-22,18,"Korea, South",SpVgg Greuther Fürth,Bundesliga,2012/2013,2012
+Tobias Mikkelsen,Right Winger,1986-09-18,25,Denmark,SpVgg Greuther Fürth,Bundesliga,2012/2013,2012
+Felix Klaus,Right Winger,1992-09-13,19,Germany,SpVgg Greuther Fürth,Bundesliga,2012/2013,2012
+Thomas Pledl,Right Winger,1994-05-23,18,Germany,SpVgg Greuther Fürth,Bundesliga,2012/2013,2012
+Stefan Lex,Right Winger,1989-11-27,22,Germany,SpVgg Greuther Fürth,Bundesliga,2012/2013,2012
+Nikola Djurdjic,Centre-Forward,1986-04-01,26,Serbia,SpVgg Greuther Fürth,Bundesliga,2012/2013,2012
+Djiby Fall,Centre-Forward,1985-04-20,27,Senegal,SpVgg Greuther Fürth,Bundesliga,2012/2013,2012
+Edú,Centre-Forward,1981-11-30,30,Brazil,SpVgg Greuther Fürth,Bundesliga,2012/2013,2012
+Gerald Asamoah,Centre-Forward,1978-10-03,33,Germany,SpVgg Greuther Fürth,Bundesliga,2012/2013,2012
+Kingsley Onuegbu,Centre-Forward,1986-03-05,26,Nigeria,SpVgg Greuther Fürth,Bundesliga,2012/2013,2012
+Ilir Azemi,Centre-Forward,1992-02-21,20,Kosovo,SpVgg Greuther Fürth,Bundesliga,2012/2013,2012
+Franck Ohandza,Centre-Forward,1991-09-28,20,Cameroon,SpVgg Greuther Fürth,Bundesliga,2012/2013,2012
+Robert Almer,Goalkeeper,1984-03-20,28,Austria,Fortuna Düsseldorf,Bundesliga,2012/2013,2012
+Fabian Giefer,Goalkeeper,1990-05-17,22,Germany,Fortuna Düsseldorf,Bundesliga,2012/2013,2012
+Nikolaos Papadopoulos,Goalkeeper,1990-04-11,22,Greece,Fortuna Düsseldorf,Bundesliga,2012/2013,2012
+Stelios Malezas,Centre-Back,1985-03-11,27,Greece,Fortuna Düsseldorf,Bundesliga,2012/2013,2012
+Bruno Soares,Centre-Back,1988-08-21,23,Brazil,Fortuna Düsseldorf,Bundesliga,2012/2013,2012
+Martin Latka,Centre-Back,1984-09-28,27,Czech Republic,Fortuna Düsseldorf,Bundesliga,2012/2013,2012
+Juanan,Centre-Back,1987-04-27,25,Spain,Fortuna Düsseldorf,Bundesliga,2012/2013,2012
+Jens Langeneke,Centre-Back,1977-03-29,35,Germany,Fortuna Düsseldorf,Bundesliga,2012/2013,2012
+Leon Balogun,Centre-Back,1988-06-28,24,Nigeria,Fortuna Düsseldorf,Bundesliga,2012/2013,2012
+Johannes van den Bergh,Left-Back,1986-11-21,25,Germany,Fortuna Düsseldorf,Bundesliga,2012/2013,2012
+André Fomitschow,Left-Back,1990-09-07,21,Germany,Fortuna Düsseldorf,Bundesliga,2012/2013,2012
+Cristian Ramírez,Left-Back,1994-08-12,17,Ecuador,Fortuna Düsseldorf,Bundesliga,2012/2013,2012
+Tobias Levels,Right-Back,1986-11-22,25,Germany,Fortuna Düsseldorf,Bundesliga,2012/2013,2012
+Christian Weber,Right-Back,1983-09-15,28,Germany,Fortuna Düsseldorf,Bundesliga,2012/2013,2012
+Du-ri Cha,Right-Back,1980-07-25,31,"Korea, South",Fortuna Düsseldorf,Bundesliga,2012/2013,2012
+Tugrul Erat,Right-Back,1992-06-17,20,Azerbaijan,Fortuna Düsseldorf,Bundesliga,2012/2013,2012
+Adam Bodzek,Defensive Midfield,1985-09-07,26,Poland,Fortuna Düsseldorf,Bundesliga,2012/2013,2012
+Bastian Müller,Defensive Midfield,1991-07-31,20,Germany,Fortuna Düsseldorf,Bundesliga,2012/2013,2012
+Evans Nyarko,Defensive Midfield,1992-07-06,19,Ghana,Fortuna Düsseldorf,Bundesliga,2012/2013,2012
+Ivan Paurevic,Defensive Midfield,1991-07-01,21,Croatia,Fortuna Düsseldorf,Bundesliga,2012/2013,2012
+Andreas Lambertz,Central Midfield,1984-10-15,27,Germany,Fortuna Düsseldorf,Bundesliga,2012/2013,2012
+Robert Tesche,Central Midfield,1987-05-27,25,Germany,Fortuna Düsseldorf,Bundesliga,2012/2013,2012
+Oliver Fink,Central Midfield,1982-06-06,30,Germany,Fortuna Düsseldorf,Bundesliga,2012/2013,2012
+Axel Bellinghausen,Left Midfield,1983-05-17,29,Germany,Fortuna Düsseldorf,Bundesliga,2012/2013,2012
+Ken Ilsö,Attacking Midfield,1986-12-02,25,Denmark,Fortuna Düsseldorf,Bundesliga,2012/2013,2012
+Ronny Garbuschewski,Attacking Midfield,1986-02-23,26,Germany,Fortuna Düsseldorf,Bundesliga,2012/2013,2012
+Robbie Kruse,Left Winger,1988-10-05,23,Australia,Fortuna Düsseldorf,Bundesliga,2012/2013,2012
+Andrii Voronin,Second Striker,1979-07-21,32,Ukraine,Fortuna Düsseldorf,Bundesliga,2012/2013,2012
+Genki Omae,Second Striker,1989-12-10,22,Japan,Fortuna Düsseldorf,Bundesliga,2012/2013,2012
+Nando Rafael,Centre-Forward,1984-01-10,28,Angola,Fortuna Düsseldorf,Bundesliga,2012/2013,2012
+Stefan Reisinger,Centre-Forward,1981-09-14,30,Germany,Fortuna Düsseldorf,Bundesliga,2012/2013,2012
+Dani Schahin,Centre-Forward,1989-07-09,22,Germany,Fortuna Düsseldorf,Bundesliga,2012/2013,2012
+Gerrit Wegkamp,Centre-Forward,1993-04-13,19,Germany,Fortuna Düsseldorf,Bundesliga,2012/2013,2012
+Mathis Bolly,Centre-Forward,1990-11-14,21,Cote d'Ivoire,Fortuna Düsseldorf,Bundesliga,2012/2013,2012
+Aliosman Aydin,Centre-Forward,1992-02-06,20,Turkey,Fortuna Düsseldorf,Bundesliga,2012/2013,2012

@@ -1,719 +1,719 @@
-shirt_number,position,player_name,date_of_birth,age,nationality,club_name,league_name,season,year
-1,Goalkeeper,"May 20, 1982 (24)",NA,NA,Czech Republic,Chelsea FC,Premier League,2006/2007,2006
-23,Goalkeeper,"Sep 6, 1973 (32)",NA,NA,Italy,Chelsea FC,Premier League,2006/2007,2006
-22,Goalkeeper,"Mar 19, 1973 (33)",NA,NA,Sweden,Chelsea FC,Premier League,2006/2007,2006
-40,Goalkeeper,"Oct 21, 1975 (30)",NA,NA,Portugal,Chelsea FC,Premier League,2006/2007,2006
-41,Goalkeeper,"Jan 31, 1986 (20)",NA,NA,DR Congo,Chelsea FC,Premier League,2006/2007,2006
-52,Goalkeeper,"Apr 7, 1990 (16)",NA,NA,Wales,Chelsea FC,Premier League,2006/2007,2006
-26,Centre-Back,"Dec 7, 1980 (25)",NA,NA,England,Chelsea FC,Premier League,2006/2007,2006
-6,Centre-Back,"May 18, 1978 (28)",NA,NA,Portugal,Chelsea FC,Premier League,2006/2007,2006
-3,Centre-Back,"Aug 17, 1977 (28)",NA,NA,France,Chelsea FC,Premier League,2006/2007,2006
-9,Centre-Back,"Dec 28, 1981 (24)",NA,NA,Netherlands,Chelsea FC,Premier League,2006/2007,2006
-29,Centre-Back,"Aug 18, 1984 (21)",NA,NA,Germany,Chelsea FC,Premier League,2006/2007,2006
-44,Centre-Back,"Jan 8, 1988 (18)",NA,NA,England,Chelsea FC,Premier League,2006/2007,2006
-3,Left-Back,"Dec 20, 1980 (25)",NA,NA,England,Chelsea FC,Premier League,2006/2007,2006
-18,Left-Back,"Aug 5, 1980 (25)",NA,NA,England,Chelsea FC,Premier League,2006/2007,2006
-42,Left-Back,"Feb 28, 1988 (18)",NA,NA,Switzerland,Chelsea FC,Premier League,2006/2007,2006
-43,Left-Back,"Aug 5, 1989 (16)",NA,NA,England,Chelsea FC,Premier League,2006/2007,2006
-20,Right-Back,"Jan 18, 1979 (27)",NA,NA,Portugal,Chelsea FC,Premier League,2006/2007,2006
-5,Defensive Midfield,"Dec 3, 1982 (23)",NA,NA,Ghana,Chelsea FC,Premier League,2006/2007,2006
-4,Defensive Midfield,"Feb 18, 1973 (33)",NA,NA,France,Chelsea FC,Premier League,2006/2007,2006
-19,Defensive Midfield,"Mar 10, 1985 (21)",NA,NA,France,Chelsea FC,Premier League,2006/2007,2006
-33,Defensive Midfield,"Jan 29, 1984 (22)",NA,NA,Portugal,Chelsea FC,Premier League,2006/2007,2006
-12,Defensive Midfield,"Apr 22, 1987 (19)",NA,NA,Nigeria,Chelsea FC,Premier League,2006/2007,2006
-51,Defensive Midfield,"Aug 3, 1989 (16)",NA,NA,England,Chelsea FC,Premier League,2006/2007,2006
-8,Central Midfield,"Jun 20, 1978 (28)",NA,NA,England,Chelsea FC,Premier League,2006/2007,2006
-13,Central Midfield,"Sep 26, 1976 (29)",NA,NA,Germany,Chelsea FC,Premier League,2006/2007,2006
-48,Central Midfield,"Apr 6, 1990 (16)",NA,NA,England,Chelsea FC,Premier League,2006/2007,2006
-46,Central Midfield,"Jan 7, 1987 (19)",NA,NA,England,Chelsea FC,Premier League,2006/2007,2006
-50,Central Midfield,"Sep 10, 1989 (16)",NA,NA,England,Chelsea FC,Premier League,2006/2007,2006
-14,Right Midfield,"Dec 20, 1978 (27)",NA,NA,Cameroon,Chelsea FC,Premier League,2006/2007,2006
-49,Left Midfield,"Mar 25, 1989 (17)",NA,NA,England,Chelsea FC,Premier League,2006/2007,2006
-10,Attacking Midfield,"Nov 8, 1981 (24)",NA,NA,England,Chelsea FC,Premier League,2006/2007,2006
-21,Left Winger,"Aug 5, 1985 (20)",NA,NA,Cote d'Ivoire,Chelsea FC,Premier League,2006/2007,2006
-16,Right Winger,"Jan 23, 1984 (22)",NA,NA,Netherlands,Chelsea FC,Premier League,2006/2007,2006
-24,Right Winger,"Oct 25, 1981 (24)",NA,NA,England,Chelsea FC,Premier League,2006/2007,2006
-7,Centre-Forward,"Sep 29, 1976 (29)",NA,NA,Ukraine,Chelsea FC,Premier League,2006/2007,2006
-11,Centre-Forward,"Mar 11, 1978 (28)",NA,NA,Cote d'Ivoire,Chelsea FC,Premier League,2006/2007,2006
-47,Centre-Forward,"Aug 10, 1989 (16)",NA,NA,Israel,Chelsea FC,Premier League,2006/2007,2006
-1,Goalkeeper,"Oct 29, 1970 (35)",NA,NA,Netherlands,Manchester United,Premier League,2006/2007,2006
-29,Goalkeeper,"Mar 20, 1982 (24)",NA,NA,Poland,Manchester United,Premier League,2006/2007,2006
-38,Goalkeeper,"Apr 15, 1986 (20)",NA,NA,England,Manchester United,Premier League,2006/2007,2006
-5,Centre-Back,"Nov 7, 1978 (27)",NA,NA,England,Manchester United,Premier League,2006/2007,2006
-4,Centre-Back,"Apr 19, 1978 (28)",NA,NA,Argentina,Manchester United,Premier League,2006/2007,2006
-15,Centre-Back,"Oct 21, 1981 (24)",NA,NA,Serbia,Manchester United,Premier League,2006/2007,2006
-27,Centre-Back,"Aug 9, 1977 (28)",NA,NA,France,Manchester United,Premier League,2006/2007,2006
-22,Centre-Back,"Apr 30, 1981 (25)",NA,NA,Ireland,Manchester United,Premier League,2006/2007,2006
-6,Centre-Back,"Oct 13, 1979 (26)",NA,NA,England,Manchester United,Premier League,2006/2007,2006
-NA,Centre-Back,"Oct 4, 1987 (18)",NA,NA,England,Manchester United,Premier League,2006/2007,2006
-4,Centre-Back,"Jan 3, 1988 (18)",NA,NA,Northern Ireland,Manchester United,Premier League,2006/2007,2006
-32,Centre-Back,"Feb 6, 1989 (17)",NA,NA,Northern Ireland,Manchester United,Premier League,2006/2007,2006
-3,Left-Back,"May 15, 1981 (25)",NA,NA,France,Manchester United,Premier League,2006/2007,2006
-23,Left-Back,"Oct 21, 1984 (21)",NA,NA,England,Manchester United,Premier League,2006/2007,2006
-40,Left-Back,"Sep 7, 1985 (20)",NA,NA,England,Manchester United,Premier League,2006/2007,2006
-2,Right-Back,"Feb 18, 1975 (31)",NA,NA,England,Manchester United,Premier League,2006/2007,2006
-25,Right-Back,"Jan 4, 1987 (19)",NA,NA,England,Manchester United,Premier League,2006/2007,2006
-36,Right-Back,"May 4, 1988 (18)",NA,NA,Scotland,Manchester United,Premier League,2006/2007,2006
-16,Defensive Midfield,"Jul 28, 1981 (24)",NA,NA,England,Manchester United,Premier League,2006/2007,2006
-41,Defensive Midfield,"Mar 7, 1987 (19)",NA,NA,Belgium,Manchester United,Premier League,2006/2007,2006
-35,Defensive Midfield,"Jun 22, 1988 (18)",NA,NA,England,Manchester United,Premier League,2006/2007,2006
-18,Central Midfield,"Nov 16, 1974 (31)",NA,NA,England,Manchester United,Premier League,2006/2007,2006
-14,Central Midfield,"Oct 28, 1980 (25)",NA,NA,England,Manchester United,Premier League,2006/2007,2006
-24,Central Midfield,"Feb 1, 1984 (22)",NA,NA,Scotland,Manchester United,Premier League,2006/2007,2006
-NA,Central Midfield,"Nov 4, 1984 (21)",NA,NA,England,Manchester United,Premier League,2006/2007,2006
-49,Central Midfield,"Sep 26, 1986 (19)",NA,NA,England,Manchester United,Premier League,2006/2007,2006
-11,Left Midfield,"Nov 29, 1973 (32)",NA,NA,Wales,Manchester United,Premier League,2006/2007,2006
-NA,Left Midfield,"Jun 24, 1988 (18)",NA,NA,England,Manchester United,Premier League,2006/2007,2006
-13,Attacking Midfield,"Feb 25, 1981 (25)",NA,NA,"Korea, South",Manchester United,Premier League,2006/2007,2006
-30,Attacking Midfield,"Feb 9, 1987 (19)",NA,NA,England,Manchester United,Premier League,2006/2007,2006
-7,Left Winger,"Feb 5, 1985 (21)",NA,NA,Portugal,Manchester United,Premier League,2006/2007,2006
-33,Right Winger,"Nov 19, 1985 (20)",NA,NA,England,Manchester United,Premier League,2006/2007,2006
-20,Second Striker,"Feb 26, 1973 (33)",NA,NA,Norway,Manchester United,Premier League,2006/2007,2006
-8,Centre-Forward,"Oct 24, 1985 (20)",NA,NA,England,Manchester United,Premier League,2006/2007,2006
-9,Centre-Forward,"Aug 8, 1978 (27)",NA,NA,France,Manchester United,Premier League,2006/2007,2006
-17,Centre-Forward,"Sep 20, 1971 (34)",NA,NA,Sweden,Manchester United,Premier League,2006/2007,2006
-21,Centre-Forward,"Jan 23, 1985 (21)",NA,NA,China,Manchester United,Premier League,2006/2007,2006
-NA,Centre-Forward,"Nov 15, 1986 (19)",NA,NA,England,Manchester United,Premier League,2006/2007,2006
-25,Goalkeeper,"Aug 31, 1982 (23)",NA,NA,Spain,Liverpool FC,Premier League,2006/2007,2006
-1,Goalkeeper,"Mar 23, 1973 (33)",NA,NA,Poland,Liverpool FC,Premier League,2006/2007,2006
-30,Goalkeeper,"Oct 25, 1985 (20)",NA,NA,Italy,Liverpool FC,Premier League,2006/2007,2006
-40,Goalkeeper,"Jan 22, 1986 (20)",NA,NA,England,Liverpool FC,Premier League,2006/2007,2006
-23,Centre-Back,"Jan 28, 1978 (28)",NA,NA,England,Liverpool FC,Premier League,2006/2007,2006
-5,Centre-Back,"Dec 12, 1984 (21)",NA,NA,Denmark,Liverpool FC,Premier League,2006/2007,2006
-4,Centre-Back,"Oct 7, 1973 (32)",NA,NA,Finland,Liverpool FC,Premier League,2006/2007,2006
-29,Centre-Back,"Feb 15, 1986 (20)",NA,NA,Italy,Liverpool FC,Premier League,2006/2007,2006
-34,Centre-Back,"Jul 8, 1988 (17)",NA,NA,Spain,Liverpool FC,Premier League,2006/2007,2006
-6,Left-Back,"Sep 24, 1980 (25)",NA,NA,Norway,Liverpool FC,Premier League,2006/2007,2006
-12,Left-Back,"Sep 24, 1979 (26)",NA,NA,Brazil,Liverpool FC,Premier League,2006/2007,2006
-28,Left-Back,"Dec 12, 1981 (24)",NA,NA,England,Liverpool FC,Premier League,2006/2007,2006
-48,Left-Back,"Jan 7, 1989 (17)",NA,NA,Argentina,Liverpool FC,Premier League,2006/2007,2006
-NA,Right-Back,"Aug 17, 1980 (25)",NA,NA,Netherlands,Liverpool FC,Premier League,2006/2007,2006
-3,Right-Back,"Apr 24, 1976 (30)",NA,NA,Ireland,Liverpool FC,Premier League,2006/2007,2006
-2,Right-Back,"Jan 17, 1983 (23)",NA,NA,Spain,Liverpool FC,Premier League,2006/2007,2006
-NA,Right-Back,"Oct 17, 1985 (20)",NA,NA,England,Liverpool FC,Premier League,2006/2007,2006
-37,Right-Back,"Dec 11, 1986 (19)",NA,NA,England,Liverpool FC,Premier League,2006/2007,2006
-39,Right-Back,"Oct 6, 1988 (17)",NA,NA,England,Liverpool FC,Premier League,2006/2007,2006
-14,Defensive Midfield,"Nov 25, 1981 (24)",NA,NA,Spain,Liverpool FC,Premier League,2006/2007,2006
-20,Defensive Midfield,"Jun 8, 1984 (22)",NA,NA,Argentina,Liverpool FC,Premier League,2006/2007,2006
-22,Defensive Midfield,"Jan 22, 1985 (21)",NA,NA,Mali,Liverpool FC,Premier League,2006/2007,2006
-8,Central Midfield,"May 30, 1980 (26)",NA,NA,England,Liverpool FC,Premier League,2006/2007,2006
-NA,Central Midfield,"Apr 18, 1987 (19)",NA,NA,England,Liverpool FC,Premier League,2006/2007,2006
-NA,Central Midfield,"Apr 28, 1988 (18)",NA,NA,Spain,Liverpool FC,Premier League,2006/2007,2006
-NA,Right Midfield,"Sep 7, 1988 (17)",NA,NA,England,Liverpool FC,Premier League,2006/2007,2006
-26,Right Midfield,"Jul 23, 1988 (17)",NA,NA,England,Liverpool FC,Premier League,2006/2007,2006
-17,Left Winger,"Jul 13, 1979 (26)",NA,NA,Wales,Liverpool FC,Premier League,2006/2007,2006
-7,Left Winger,"Sep 22, 1978 (27)",NA,NA,Australia,Liverpool FC,Premier League,2006/2007,2006
-32,Left Winger,"Aug 15, 1976 (29)",NA,NA,Netherlands,Liverpool FC,Premier League,2006/2007,2006
-11,Left Winger,"Jul 10, 1984 (21)",NA,NA,Chile,Liverpool FC,Premier League,2006/2007,2006
-18,Right Winger,"Jul 22, 1980 (25)",NA,NA,Netherlands,Liverpool FC,Premier League,2006/2007,2006
-10,Right Winger,"Jun 24, 1978 (28)",NA,NA,Spain,Liverpool FC,Premier League,2006/2007,2006
-16,Right Winger,"Jan 15, 1983 (23)",NA,NA,England,Liverpool FC,Premier League,2006/2007,2006
-42,Right Winger,"Aug 27, 1986 (19)",NA,NA,Morocco,Liverpool FC,Premier League,2006/2007,2006
-24,Second Striker,"Oct 20, 1984 (21)",NA,NA,France,Liverpool FC,Premier League,2006/2007,2006
-15,Centre-Forward,"Jan 30, 1981 (25)",NA,NA,England,Liverpool FC,Premier League,2006/2007,2006
-9,Centre-Forward,"Apr 9, 1975 (31)",NA,NA,England,Liverpool FC,Premier League,2006/2007,2006
-1,Goalkeeper,"Nov 10, 1969 (36)",NA,NA,Germany,Arsenal FC,Premier League,2006/2007,2006
-21,Goalkeeper,"Feb 3, 1972 (34)",NA,NA,Estonia,Arsenal FC,Premier League,2006/2007,2006
-24,Goalkeeper,"May 19, 1977 (29)",NA,NA,Spain,Arsenal FC,Premier League,2006/2007,2006
-24,Goalkeeper,"Mar 2, 1988 (18)",NA,NA,Italy,Arsenal FC,Premier League,2006/2007,2006
-10,Centre-Back,"Aug 17, 1977 (28)",NA,NA,France,Arsenal FC,Premier League,2006/2007,2006
-5,Centre-Back,"Mar 19, 1981 (25)",NA,NA,Cote d'Ivoire,Arsenal FC,Premier League,2006/2007,2006
-6,Centre-Back,"Feb 14, 1985 (21)",NA,NA,Switzerland,Arsenal FC,Premier League,2006/2007,2006
-NA,Centre-Back,"Apr 29, 1974 (32)",NA,NA,France,Arsenal FC,Premier League,2006/2007,2006
-20,Centre-Back,"Jan 18, 1987 (19)",NA,NA,Switzerland,Arsenal FC,Premier League,2006/2007,2006
-33,Centre-Back,"Sep 24, 1987 (18)",NA,NA,England,Arsenal FC,Premier League,2006/2007,2006
-41,Centre-Back,"Feb 9, 1987 (19)",NA,NA,Ireland,Arsenal FC,Premier League,2006/2007,2006
-22,Left-Back,"Jul 26, 1985 (20)",NA,NA,France,Arsenal FC,Premier League,2006/2007,2006
-30,Left-Back,"Oct 8, 1989 (16)",NA,NA,Senegal,Arsenal FC,Premier League,2006/2007,2006
-40,Left-Back,"Sep 26, 1989 (16)",NA,NA,England,Arsenal FC,Premier League,2006/2007,2006
-12,Right-Back,"Jan 19, 1977 (29)",NA,NA,Cameroon,Arsenal FC,Premier League,2006/2007,2006
-27,Right-Back,"Jun 4, 1983 (23)",NA,NA,Cote d'Ivoire,Arsenal FC,Premier League,2006/2007,2006
-31,Right-Back,"Nov 20, 1984 (21)",NA,NA,Trinidad and Tobago,Arsenal FC,Premier League,2006/2007,2006
-NA,Right-Back,"Feb 28, 1987 (19)",NA,NA,England,Arsenal FC,Premier League,2006/2007,2006
-NA,Right-Back,"Jun 6, 1990 (16)",NA,NA,Trinidad and Tobago,Arsenal FC,Premier League,2006/2007,2006
-19,Defensive Midfield,"Oct 7, 1976 (29)",NA,NA,Brazil,Arsenal FC,Premier League,2006/2007,2006
-16,Defensive Midfield,"Mar 7, 1984 (22)",NA,NA,France,Arsenal FC,Premier League,2006/2007,2006
-17,Defensive Midfield,"Sep 9, 1987 (18)",NA,NA,Cameroon,Arsenal FC,Premier League,2006/2007,2006
-15,Defensive Midfield,"Feb 16, 1988 (18)",NA,NA,Brazil,Arsenal FC,Premier League,2006/2007,2006
-4,Central Midfield,"May 4, 1987 (19)",NA,NA,Spain,Arsenal FC,Premier League,2006/2007,2006
-2,Central Midfield,"May 11, 1986 (20)",NA,NA,France,Arsenal FC,Premier League,2006/2007,2006
-NA,Central Midfield,"Oct 12, 1990 (15)",NA,NA,England,Arsenal FC,Premier League,2006/2007,2006
-47,Central Midfield,"Sep 28, 1989 (16)",NA,NA,England,Arsenal FC,Premier League,2006/2007,2006
-9,Attacking Midfield,"Oct 1, 1981 (24)",NA,NA,Brazil,Arsenal FC,Premier League,2006/2007,2006
-8,Attacking Midfield,"Apr 16, 1977 (29)",NA,NA,Sweden,Arsenal FC,Premier League,2006/2007,2006
-13,Attacking Midfield,"May 1, 1981 (25)",NA,NA,Belarus,Arsenal FC,Premier League,2006/2007,2006
-7,Attacking Midfield,"Oct 4, 1980 (25)",NA,NA,Czech Republic,Arsenal FC,Premier League,2006/2007,2006
-32,Right Winger,"Mar 16, 1989 (17)",NA,NA,England,Arsenal FC,Premier League,2006/2007,2006
-NA,Right Winger,"Jul 5, 1989 (16)",NA,NA,Cyprus,Arsenal FC,Premier League,2006/2007,2006
-14,Centre-Forward,"Aug 17, 1977 (28)",NA,NA,France,Arsenal FC,Premier League,2006/2007,2006
-25,Centre-Forward,"Feb 26, 1984 (22)",NA,NA,Togo,Arsenal FC,Premier League,2006/2007,2006
-11,Centre-Forward,"Aug 6, 1983 (22)",NA,NA,Netherlands,Arsenal FC,Premier League,2006/2007,2006
-NA,Centre-Forward,"Mar 30, 1983 (23)",NA,NA,France,Arsenal FC,Premier League,2006/2007,2006
-1,Goalkeeper,"Oct 15, 1979 (26)",NA,NA,England,Tottenham Hotspur,Premier League,2006/2007,2006
-12,Goalkeeper,"Feb 18, 1974 (32)",NA,NA,Czech Republic,Tottenham Hotspur,Premier League,2006/2007,2006
-17,Goalkeeper,"May 3, 1983 (23)",NA,NA,Hungary,Tottenham Hotspur,Premier League,2006/2007,2006
-17,Goalkeeper,"Jan 1, 1987 (19)",NA,NA,England,Tottenham Hotspur,Premier League,2006/2007,2006
-NA,Goalkeeper,"Oct 8, 1984 (21)",NA,NA,England,Tottenham Hotspur,Premier League,2006/2007,2006
-26,Centre-Back,"Oct 12, 1980 (25)",NA,NA,England,Tottenham Hotspur,Premier League,2006/2007,2006
-20,Centre-Back,"Nov 18, 1983 (22)",NA,NA,England,Tottenham Hotspur,Premier League,2006/2007,2006
-33,Centre-Back,"Oct 3, 1978 (27)",NA,NA,Portugal,Tottenham Hotspur,Premier League,2006/2007,2006
-30,Centre-Back,"Aug 18, 1981 (24)",NA,NA,England,Tottenham Hotspur,Premier League,2006/2007,2006
-27,Centre-Back,"Jan 1, 1983 (23)",NA,NA,England,Tottenham Hotspur,Premier League,2006/2007,2006
-16,Centre-Back,"Jan 16, 1986 (20)",NA,NA,Switzerland,Tottenham Hotspur,Premier League,2006/2007,2006
-35,Centre-Back,"Jul 25, 1988 (17)",NA,NA,France,Tottenham Hotspur,Premier League,2006/2007,2006
-NA,Centre-Back,"Feb 8, 1988 (18)",NA,NA,England,Tottenham Hotspur,Premier League,2006/2007,2006
-3,Left-Back,"Apr 23, 1977 (29)",NA,NA,"Korea, South",Tottenham Hotspur,Premier League,2006/2007,2006
-32,Left-Back,"Mar 24, 1984 (22)",NA,NA,Cameroon,Tottenham Hotspur,Premier League,2006/2007,2006
-2,Right-Back,"Feb 21, 1979 (27)",NA,NA,Guadeloupe,Tottenham Hotspur,Premier League,2006/2007,2006
-7,Right-Back,"Oct 18, 1977 (28)",NA,NA,Canada,Tottenham Hotspur,Premier League,2006/2007,2006
-29,Right-Back,"Nov 18, 1986 (19)",NA,NA,England,Tottenham Hotspur,Premier League,2006/2007,2006
-4,Defensive Midfield,"Dec 14, 1980 (25)",NA,NA,Cote d'Ivoire,Tottenham Hotspur,Premier League,2006/2007,2006
-22,Defensive Midfield,"Dec 28, 1986 (19)",NA,NA,England,Tottenham Hotspur,Premier League,2006/2007,2006
-6,Defensive Midfield,"Nov 27, 1979 (26)",NA,NA,Finland,Tottenham Hotspur,Premier League,2006/2007,2006
-8,Central Midfield,"Feb 18, 1983 (23)",NA,NA,England,Tottenham Hotspur,Premier League,2006/2007,2006
-15,Central Midfield,"Jan 6, 1980 (26)",NA,NA,France,Tottenham Hotspur,Premier League,2006/2007,2006
-5,Central Midfield,"Mar 13, 1973 (33)",NA,NA,Netherlands,Tottenham Hotspur,Premier League,2006/2007,2006
-13,Central Midfield,"Mar 18, 1977 (29)",NA,NA,England,Tottenham Hotspur,Premier League,2006/2007,2006
-14,Central Midfield,"Dec 15, 1981 (24)",NA,NA,Egypt,Tottenham Hotspur,Premier League,2006/2007,2006
-NA,Central Midfield,"Jan 5, 1987 (19)",NA,NA,England,Tottenham Hotspur,Premier League,2006/2007,2006
-24,Central Midfield,"Sep 25, 1986 (19)",NA,NA,England,Tottenham Hotspur,Premier League,2006/2007,2006
-19,Attacking Midfield,"May 24, 1989 (17)",NA,NA,Morocco,Tottenham Hotspur,Premier League,2006/2007,2006
-28,Left Winger,"Jan 11, 1985 (21)",NA,NA,Ireland,Tottenham Hotspur,Premier League,2006/2007,2006
-39,Left Winger,"Dec 16, 1986 (19)",NA,NA,England,Tottenham Hotspur,Premier League,2006/2007,2006
-25,Right Winger,"Apr 16, 1987 (19)",NA,NA,England,Tottenham Hotspur,Premier League,2006/2007,2006
-9,Centre-Forward,"Jan 30, 1981 (25)",NA,NA,Bulgaria,Tottenham Hotspur,Premier League,2006/2007,2006
-18,Centre-Forward,"Oct 7, 1982 (23)",NA,NA,England,Tottenham Hotspur,Premier League,2006/2007,2006
-10,Centre-Forward,"Jul 8, 1980 (25)",NA,NA,Ireland,Tottenham Hotspur,Premier League,2006/2007,2006
-11,Centre-Forward,"Feb 23, 1983 (23)",NA,NA,Egypt,Tottenham Hotspur,Premier League,2006/2007,2006
-NA,Centre-Forward,"May 26, 1989 (17)",NA,NA,Czech Republic,Tottenham Hotspur,Premier League,2006/2007,2006
-28,Centre-Forward,"Jul 18, 1984 (21)",NA,NA,England,Tottenham Hotspur,Premier League,2006/2007,2006
-1,Goalkeeper,"Apr 20, 1976 (30)",NA,NA,Ireland,Newcastle United,Premier League,2006/2007,2006
-12,Goalkeeper,"Mar 14, 1975 (31)",NA,NA,England,Newcastle United,Premier League,2006/2007,2006
-24,Goalkeeper,"Mar 10, 1968 (38)",NA,NA,Czech Republic,Newcastle United,Premier League,2006/2007,2006
-NA,Goalkeeper,"Apr 3, 1988 (18)",NA,NA,Netherlands,Newcastle United,Premier League,2006/2007,2006
-NA,Goalkeeper,"Mar 17, 1988 (18)",NA,NA,England,Newcastle United,Premier League,2006/2007,2006
-15,Centre-Back,"May 13, 1982 (24)",NA,NA,United States,Newcastle United,Premier League,2006/2007,2006
-19,Centre-Back,"Jul 31, 1981 (24)",NA,NA,England,Newcastle United,Premier League,2006/2007,2006
-NA,Centre-Back,"Feb 26, 1978 (28)",NA,NA,Senegal,Newcastle United,Premier League,2006/2007,2006
-26,Centre-Back,"Nov 22, 1983 (22)",NA,NA,England,Newcastle United,Premier League,2006/2007,2006
-27,Centre-Back,"Jan 23, 1986 (20)",NA,NA,England,Newcastle United,Premier League,2006/2007,2006
-18,Centre-Back,"Dec 12, 1975 (30)",NA,NA,Australia,Newcastle United,Premier League,2006/2007,2006
-30,Centre-Back,"May 19, 1987 (19)",NA,NA,Canada,Newcastle United,Premier League,2006/2007,2006
-32,Centre-Back,"Sep 17, 1987 (18)",NA,NA,England,Newcastle United,Premier League,2006/2007,2006
-33,Left-Back,"Aug 29, 1978 (27)",NA,NA,Nigeria,Newcastle United,Premier League,2006/2007,2006
-NA,Left-Back,"Oct 14, 1979 (26)",NA,NA,France,Newcastle United,Premier League,2006/2007,2006
-2,Right-Back,"Aug 29, 1976 (29)",NA,NA,Ireland,Newcastle United,Premier League,2006/2007,2006
-17,Central Midfield,"Oct 13, 1980 (25)",NA,NA,England,Newcastle United,Premier League,2006/2007,2006
-5,Central Midfield,"Sep 7, 1980 (25)",NA,NA,Turkey,Newcastle United,Premier League,2006/2007,2006
-16,Central Midfield,"Jan 4, 1986 (20)",NA,NA,England,Newcastle United,Premier League,2006/2007,2006
-22,Central Midfield,"Jan 21, 1975 (31)",NA,NA,England,Newcastle United,Premier League,2006/2007,2006
-35,Central Midfield,"Oct 27, 1986 (19)",NA,NA,South Africa,Newcastle United,Premier League,2006/2007,2006
-11,Right Midfield,"Mar 2, 1979 (27)",NA,NA,Ireland,Newcastle United,Premier League,2006/2007,2006
-8,Right Midfield,"Dec 29, 1978 (27)",NA,NA,England,Newcastle United,Premier League,2006/2007,2006
-4,Right Midfield,"Dec 12, 1974 (31)",NA,NA,Peru,Newcastle United,Premier League,2006/2007,2006
-37,Left Midfield,"Feb 20, 1985 (21)",NA,NA,Ireland,Newcastle United,Premier League,2006/2007,2006
-20,Attacking Midfield,"Aug 5, 1974 (31)",NA,NA,France,Newcastle United,Premier League,2006/2007,2006
-NA,Attacking Midfield,"Jul 3, 1988 (17)",NA,NA,Australia,Newcastle United,Premier League,2006/2007,2006
-7,Left Winger,"Mar 11, 1978 (28)",NA,NA,Spain,Newcastle United,Premier League,2006/2007,2006
-14,Right Winger,"May 28, 1986 (20)",NA,NA,France,Newcastle United,Premier League,2006/2007,2006
-NA,Second Striker,"Dec 28, 1980 (25)",NA,NA,DR Congo,Newcastle United,Premier League,2006/2007,2006
-10,Centre-Forward,"Dec 14, 1979 (26)",NA,NA,England,Newcastle United,Premier League,2006/2007,2006
-9,Centre-Forward,"Oct 28, 1984 (21)",NA,NA,Nigeria,Newcastle United,Premier League,2006/2007,2006
-23,Centre-Forward,"Oct 12, 1981 (24)",NA,NA,Nigeria,Newcastle United,Premier League,2006/2007,2006
-NA,Centre-Forward,"Feb 1, 1987 (19)",NA,NA,Italy,Newcastle United,Premier League,2006/2007,2006
-39,Centre-Forward,"Jan 6, 1989 (17)",NA,NA,England,Newcastle United,Premier League,2006/2007,2006
-1,Goalkeeper,"Jun 12, 1976 (30)",NA,NA,Denmark,Aston Villa,Premier League,2006/2007,2006
-NA,Goalkeeper,"Apr 1, 1976 (30)",NA,NA,Hungary,Aston Villa,Premier League,2006/2007,2006
-13,Goalkeeper,"Nov 28, 1980 (25)",NA,NA,England,Aston Villa,Premier League,2006/2007,2006
-39,Goalkeeper,"Nov 26, 1986 (19)",NA,NA,Austria,Aston Villa,Premier League,2006/2007,2006
-4,Centre-Back,"Sep 3, 1977 (28)",NA,NA,Sweden,Aston Villa,Premier League,2006/2007,2006
-5,Centre-Back,"Jul 26, 1977 (28)",NA,NA,Denmark,Aston Villa,Premier League,2006/2007,2006
-18,Centre-Back,"Nov 8, 1979 (26)",NA,NA,Northern Ireland,Aston Villa,Premier League,2006/2007,2006
-19,Centre-Back,"Jul 21, 1984 (21)",NA,NA,England,Aston Villa,Premier League,2006/2007,2006
-21,Centre-Back,"Dec 19, 1985 (20)",NA,NA,England,Aston Villa,Premier League,2006/2007,2006
-16,Left-Back,"Jun 15, 1978 (28)",NA,NA,Netherlands,Aston Villa,Premier League,2006/2007,2006
-17,Left-Back,"Jul 9, 1985 (20)",NA,NA,England,Aston Villa,Premier League,2006/2007,2006
-2,Right-Back,"May 13, 1976 (30)",NA,NA,Wales,Aston Villa,Premier League,2006/2007,2006
-24,Right-Back,"Jun 28, 1985 (21)",NA,NA,Scotland,Aston Villa,Premier League,2006/2007,2006
-6,Defensive Midfield,"Feb 23, 1981 (25)",NA,NA,England,Aston Villa,Premier League,2006/2007,2006
-3,Defensive Midfield,"Mar 29, 1981 (25)",NA,NA,Trinidad and Tobago,Aston Villa,Premier League,2006/2007,2006
-14,Defensive Midfield,"May 4, 1981 (25)",NA,NA,Cameroon,Aston Villa,Premier League,2006/2007,2006
-27,Defensive Midfield,"Nov 5, 1987 (18)",NA,NA,England,Aston Villa,Premier League,2006/2007,2006
-11,Central Midfield,"Jul 5, 1979 (26)",NA,NA,Bulgaria,Aston Villa,Premier League,2006/2007,2006
-8,Central Midfield,"Jan 10, 1978 (28)",NA,NA,England,Aston Villa,Premier League,2006/2007,2006
-12,Central Midfield,"Jan 1, 1985 (21)",NA,NA,Northern Ireland,Aston Villa,Premier League,2006/2007,2006
-NA,Central Midfield,"Sep 8, 1984 (21)",NA,NA,England,Aston Villa,Premier League,2006/2007,2006
-26,Central Midfield,"Nov 25, 1986 (19)",NA,NA,England,Aston Villa,Premier League,2006/2007,2006
-31,Right Midfield,"Aug 16, 1975 (30)",NA,NA,France,Aston Villa,Premier League,2006/2007,2006
-7,Left Midfield,"May 18, 1977 (29)",NA,NA,England,Aston Villa,Premier League,2006/2007,2006
-23,Attacking Midfield,"Nov 10, 1973 (32)",NA,NA,Czech Republic,Aston Villa,Premier League,2006/2007,2006
-28,Attacking Midfield,"Jan 24, 1983 (23)",NA,NA,Scotland,Aston Villa,Premier League,2006/2007,2006
-10,Centre-Forward,"Oct 28, 1981 (24)",NA,NA,Czech Republic,Aston Villa,Premier League,2006/2007,2006
-10,Centre-Forward,"Sep 5, 1979 (26)",NA,NA,Norway,Aston Villa,Premier League,2006/2007,2006
-9,Centre-Forward,"Oct 24, 1975 (30)",NA,NA,Colombia,Aston Villa,Premier League,2006/2007,2006
-NA,Centre-Forward,"Jul 25, 1973 (32)",NA,NA,England,Aston Villa,Premier League,2006/2007,2006
-20,Centre-Forward,"Mar 10, 1973 (33)",NA,NA,England,Aston Villa,Premier League,2006/2007,2006
-22,Centre-Forward,"Feb 13, 1986 (20)",NA,NA,England,Aston Villa,Premier League,2006/2007,2006
-30,Centre-Forward,"Oct 13, 1986 (19)",NA,NA,England,Aston Villa,Premier League,2006/2007,2006
-28,Centre-Forward,"Jun 9, 1987 (19)",NA,NA,England,Aston Villa,Premier League,2006/2007,2006
-NA,Goalkeeper,"Jan 18, 1980 (26)",NA,NA,England,West Ham United,Premier League,2006/2007,2006
-NA,Goalkeeper,"Sep 30, 1977 (28)",NA,NA,Northern Ireland,West Ham United,Premier League,2006/2007,2006
-NA,Goalkeeper,"Jul 9, 1973 (32)",NA,NA,England,West Ham United,Premier League,2006/2007,2006
-NA,Centre-Back,"Apr 18, 1979 (27)",NA,NA,England,West Ham United,Premier League,2006/2007,2006
-NA,Centre-Back,"Feb 18, 1985 (21)",NA,NA,England,West Ham United,Premier League,2006/2007,2006
-NA,Centre-Back,"Mar 9, 1978 (28)",NA,NA,Australia,West Ham United,Premier League,2006/2007,2006
-NA,Centre-Back,"Oct 23, 1973 (32)",NA,NA,Scotland,West Ham United,Premier League,2006/2007,2006
-NA,Centre-Back,"Jan 1, 1983 (23)",NA,NA,England,West Ham United,Premier League,2006/2007,2006
-NA,Centre-Back,"Mar 1, 1986 (20)",NA,NA,United States,West Ham United,Premier League,2006/2007,2006
-NA,Centre-Back,"Aug 8, 1979 (26)",NA,NA,Wales,West Ham United,Premier League,2006/2007,2006
-NA,Centre-Back,"Aug 23, 1983 (22)",NA,NA,Wales,West Ham United,Premier League,2006/2007,2006
-NA,Left-Back,"May 15, 1981 (25)",NA,NA,England,West Ham United,Premier League,2006/2007,2006
-NA,Left-Back,"Apr 29, 1981 (25)",NA,NA,Northern Ireland,West Ham United,Premier League,2006/2007,2006
-NA,Right-Back,"Jun 15, 1981 (25)",NA,NA,Ghana,West Ham United,Premier League,2006/2007,2006
-NA,Right-Back,"Feb 18, 1983 (23)",NA,NA,England,West Ham United,Premier League,2006/2007,2006
-NA,Defensive Midfield,"Jun 8, 1984 (22)",NA,NA,Argentina,West Ham United,Premier League,2006/2007,2006
-NA,Defensive Midfield,"May 14, 1984 (22)",NA,NA,England,West Ham United,Premier League,2006/2007,2006
-NA,Defensive Midfield,"Mar 27, 1979 (27)",NA,NA,England,West Ham United,Premier League,2006/2007,2006
-NA,Central Midfield,"Jan 3, 1977 (29)",NA,NA,England,West Ham United,Premier League,2006/2007,2006
-NA,Central Midfield,"Jul 20, 1978 (27)",NA,NA,Scotland,West Ham United,Premier League,2006/2007,2006
-NA,Central Midfield,"May 8, 1987 (19)",NA,NA,England,West Ham United,Premier League,2006/2007,2006
-NA,Central Midfield,"Jan 7, 1987 (19)",NA,NA,England,West Ham United,Premier League,2006/2007,2006
-NA,Right Midfield,"Aug 20, 1975 (30)",NA,NA,England,West Ham United,Premier League,2006/2007,2006
-NA,Left Midfield,"Aug 4, 1977 (28)",NA,NA,Portugal,West Ham United,Premier League,2006/2007,2006
-NA,Left Midfield,"Aug 14, 1981 (24)",NA,NA,England,West Ham United,Premier League,2006/2007,2006
-NA,Left Midfield,"Mar 31, 1988 (18)",NA,NA,England,West Ham United,Premier League,2006/2007,2006
-NA,Left Winger,"Nov 26, 1987 (18)",NA,NA,England,West Ham United,Premier League,2006/2007,2006
-NA,Right Winger,"May 5, 1980 (26)",NA,NA,Israel,West Ham United,Premier League,2006/2007,2006
-NA,Second Striker,"Feb 5, 1984 (22)",NA,NA,Argentina,West Ham United,Premier League,2006/2007,2006
-NA,Centre-Forward,"Nov 24, 1983 (22)",NA,NA,England,West Ham United,Premier League,2006/2007,2006
-NA,Centre-Forward,"Aug 25, 1979 (26)",NA,NA,England,West Ham United,Premier League,2006/2007,2006
-NA,Centre-Forward,"Jan 16, 1981 (25)",NA,NA,England,West Ham United,Premier League,2006/2007,2006
-NA,Centre-Forward,"Oct 12, 1983 (22)",NA,NA,England,West Ham United,Premier League,2006/2007,2006
-NA,Centre-Forward,"Jan 13, 1984 (22)",NA,NA,Spain,West Ham United,Premier League,2006/2007,2006
-NA,Centre-Forward,"Apr 2, 1966 (40)",NA,NA,England,West Ham United,Premier League,2006/2007,2006
-NA,Goalkeeper,"Mar 6, 1979 (27)",NA,NA,United States,Everton FC,Premier League,2006/2007,2006
-NA,Goalkeeper,"Nov 5, 1977 (28)",NA,NA,England,Everton FC,Premier League,2006/2007,2006
-NA,Goalkeeper,"Jan 26, 1984 (22)",NA,NA,Scotland,Everton FC,Premier League,2006/2007,2006
-NA,Centre-Back,"Aug 16, 1982 (23)",NA,NA,England,Everton FC,Premier League,2006/2007,2006
-NA,Centre-Back,"Sep 6, 1980 (25)",NA,NA,Nigeria,Everton FC,Premier League,2006/2007,2006
-NA,Centre-Back,"Oct 6, 1971 (34)",NA,NA,England,Everton FC,Premier League,2006/2007,2006
-NA,Centre-Back,"May 10, 1970 (36)",NA,NA,Scotland,Everton FC,Premier League,2006/2007,2006
-NA,Centre-Back,"Dec 9, 1986 (19)",NA,NA,England,Everton FC,Premier League,2006/2007,2006
-NA,Left-Back,"Sep 12, 1974 (31)",NA,NA,Portugal,Everton FC,Premier League,2006/2007,2006
-NA,Left-Back,"Jul 27, 1975 (30)",NA,NA,Italy,Everton FC,Premier League,2006/2007,2006
-NA,Left-Back,"Nov 16, 1978 (27)",NA,NA,Scotland,Everton FC,Premier League,2006/2007,2006
-NA,Left-Back,"Mar 20, 1987 (19)",NA,NA,Scotland,Everton FC,Premier League,2006/2007,2006
-NA,Right-Back,"Jan 21, 1977 (29)",NA,NA,England,Everton FC,Premier League,2006/2007,2006
-NA,Right-Back,"Feb 20, 1981 (25)",NA,NA,England,Everton FC,Premier League,2006/2007,2006
-NA,Midfielder,"Apr 21, 1978 (28)",NA,NA,England,Everton FC,Premier League,2006/2007,2006
-NA,Defensive Midfield,"Feb 28, 1974 (32)",NA,NA,Ireland,Everton FC,Premier League,2006/2007,2006
-NA,Defensive Midfield,"Aug 28, 1982 (23)",NA,NA,Brazil,Everton FC,Premier League,2006/2007,2006
-NA,Central Midfield,"Mar 26, 1982 (24)",NA,NA,Spain,Everton FC,Premier League,2006/2007,2006
-NA,Central Midfield,"May 17, 1981 (25)",NA,NA,England,Everton FC,Premier League,2006/2007,2006
-NA,Central Midfield,"Mar 5, 1988 (18)",NA,NA,Iceland,Everton FC,Premier League,2006/2007,2006
-NA,Right Midfield,"Oct 23, 1979 (26)",NA,NA,Wales,Everton FC,Premier League,2006/2007,2006
-NA,Left Midfield,"Feb 1, 1977 (29)",NA,NA,Ireland,Everton FC,Premier League,2006/2007,2006
-NA,Attacking Midfield,"Dec 6, 1979 (26)",NA,NA,Australia,Everton FC,Premier League,2006/2007,2006
-NA,Attacking Midfield,"Feb 5, 1986 (20)",NA,NA,Portugal,Everton FC,Premier League,2006/2007,2006
-NA,Right Winger,"Sep 30, 1979 (26)",NA,NA,Netherlands,Everton FC,Premier League,2006/2007,2006
-NA,Second Striker,"Apr 14, 1983 (23)",NA,NA,Scotland,Everton FC,Premier League,2006/2007,2006
-NA,Centre-Forward,"Feb 10, 1981 (25)",NA,NA,England,Everton FC,Premier League,2006/2007,2006
-NA,Centre-Forward,"Feb 27, 1978 (28)",NA,NA,England,Everton FC,Premier League,2006/2007,2006
-NA,Centre-Forward,"Jul 14, 1988 (17)",NA,NA,England,Everton FC,Premier League,2006/2007,2006
-NA,Centre-Forward,"Apr 23, 1988 (18)",NA,NA,Nigeria,Everton FC,Premier League,2006/2007,2006
-1,Goalkeeper,"Oct 6, 1972 (33)",NA,NA,Australia,Middlesbrough FC,Premier League,2006/2007,2006
-22,Goalkeeper,"Mar 19, 1982 (24)",NA,NA,Australia,Middlesbrough FC,Premier League,2006/2007,2006
-21,Goalkeeper,"Jan 4, 1985 (21)",NA,NA,England,Middlesbrough FC,Premier League,2006/2007,2006
-32,Goalkeeper,"Jan 15, 1987 (19)",NA,NA,England,Middlesbrough FC,Premier League,2006/2007,2006
-8,Centre-Back,"Jan 22, 1980 (26)",NA,NA,England,Middlesbrough FC,Premier League,2006/2007,2006
-12,Centre-Back,"Jan 16, 1983 (23)",NA,NA,Austria,Middlesbrough FC,Premier League,2006/2007,2006
-NA,Centre-Back,"Nov 3, 1972 (33)",NA,NA,England,Middlesbrough FC,Premier League,2006/2007,2006
-5,Centre-Back,"Sep 1, 1980 (25)",NA,NA,England,Middlesbrough FC,Premier League,2006/2007,2006
-14,Centre-Back,"Aug 18, 1984 (21)",NA,NA,Germany,Middlesbrough FC,Premier League,2006/2007,2006
-26,Centre-Back,"Dec 10, 1986 (19)",NA,NA,England,Middlesbrough FC,Premier League,2006/2007,2006
-24,Centre-Back,"Dec 17, 1984 (21)",NA,NA,England,Middlesbrough FC,Premier League,2006/2007,2006
-31,Centre-Back,"Feb 14, 1987 (19)",NA,NA,England,Middlesbrough FC,Premier League,2006/2007,2006
-38,Centre-Back,"May 29, 1988 (18)",NA,NA,England,Middlesbrough FC,Premier League,2006/2007,2006
-39,Centre-Back,"Jul 14, 1988 (17)",NA,NA,Australia,Middlesbrough FC,Premier League,2006/2007,2006
-33,Left-Back,"Aug 1, 1986 (19)",NA,NA,England,Middlesbrough FC,Premier League,2006/2007,2006
-2,Right-Back,"Jul 19, 1982 (23)",NA,NA,England,Middlesbrough FC,Premier League,2006/2007,2006
-17,Right-Back,"Nov 30, 1972 (33)",NA,NA,Portugal,Middlesbrough FC,Premier League,2006/2007,2006
-29,Right-Back,"Mar 24, 1986 (20)",NA,NA,England,Middlesbrough FC,Premier League,2006/2007,2006
-7,Defensive Midfield,"Sep 5, 1975 (30)",NA,NA,Netherlands,Middlesbrough FC,Premier League,2006/2007,2006
-27,Defensive Midfield,"Mar 21, 1988 (18)",NA,NA,England,Middlesbrough FC,Premier League,2006/2007,2006
-10,Central Midfield,"Dec 10, 1981 (24)",NA,NA,Brazil,Middlesbrough FC,Premier League,2006/2007,2006
-3,Central Midfield,"Jan 31, 1981 (25)",NA,NA,Argentina,Middlesbrough FC,Premier League,2006/2007,2006
-25,Central Midfield,"May 25, 1986 (20)",NA,NA,Scotland,Middlesbrough FC,Premier League,2006/2007,2006
-41,Central Midfield,"Feb 21, 1989 (17)",NA,NA,England,Middlesbrough FC,Premier League,2006/2007,2006
-6,Right Midfield,"Mar 27, 1974 (32)",NA,NA,Spain,Middlesbrough FC,Premier League,2006/2007,2006
-19,Left Midfield,"Jul 22, 1984 (21)",NA,NA,England,Middlesbrough FC,Premier League,2006/2007,2006
-11,Right Winger,"Apr 11, 1979 (27)",NA,NA,England,Middlesbrough FC,Premier League,2006/2007,2006
-28,Right Winger,"Jul 14, 1987 (18)",NA,NA,England,Middlesbrough FC,Premier League,2006/2007,2006
-16,Second Striker,"Feb 6, 1977 (29)",NA,NA,Jamaica,Middlesbrough FC,Premier League,2006/2007,2006
-20,Centre-Forward,"Nov 22, 1982 (23)",NA,NA,Nigeria,Middlesbrough FC,Premier League,2006/2007,2006
-36,Centre-Forward,"Oct 9, 1975 (30)",NA,NA,Australia,Middlesbrough FC,Premier League,2006/2007,2006
-NA,Centre-Forward,"Sep 6, 1979 (26)",NA,NA,Italy,Middlesbrough FC,Premier League,2006/2007,2006
-18,Centre-Forward,"Apr 29, 1979 (27)",NA,NA,"Korea, South",Middlesbrough FC,Premier League,2006/2007,2006
-NA,Centre-Forward,"Aug 12, 1985 (20)",NA,NA,England,Middlesbrough FC,Premier League,2006/2007,2006
-42,Centre-Forward,"Oct 14, 1986 (19)",NA,NA,England,Middlesbrough FC,Premier League,2006/2007,2006
-1,Goalkeeper,"Oct 3, 1981 (24)",NA,NA,Sweden,Manchester City,Premier League,2006/2007,2006
-NA,Goalkeeper,"Apr 19, 1987 (19)",NA,NA,England,Manchester City,Premier League,2006/2007,2006
-12,Goalkeeper,"Mar 2, 1979 (27)",NA,NA,England,Manchester City,Premier League,2006/2007,2006
-15,Centre-Back,"Dec 16, 1977 (28)",NA,NA,France,Manchester City,Premier League,2006/2007,2006
-22,Centre-Back,"Sep 21, 1979 (26)",NA,NA,Ireland,Manchester City,Premier League,2006/2007,2006
-17,Centre-Back,"Sep 30, 1977 (28)",NA,NA,China,Manchester City,Premier League,2006/2007,2006
-16,Centre-Back,"Nov 12, 1986 (19)",NA,NA,England,Manchester City,Premier League,2006/2007,2006
-4,Centre-Back,"Mar 6, 1982 (24)",NA,NA,England,Manchester City,Premier League,2006/2007,2006
-26,Centre-Back,"Jul 14, 1986 (19)",NA,NA,England,Manchester City,Premier League,2006/2007,2006
-NA,Left-Back,"Nov 30, 1975 (30)",NA,NA,Wales,Manchester City,Premier League,2006/2007,2006
-24,Left-Back,"May 24, 1982 (24)",NA,NA,United States,Manchester City,Premier League,2006/2007,2006
-3,Left-Back,"Oct 2, 1979 (26)",NA,NA,England,Manchester City,Premier League,2006/2007,2006
-18,Right-Back,"May 18, 1977 (29)",NA,NA,England,Manchester City,Premier League,2006/2007,2006
-27,Right-Back,"Jan 25, 1977 (29)",NA,NA,Tunisia,Manchester City,Premier League,2006/2007,2006
-2,Right-Back,"Jun 24, 1988 (18)",NA,NA,England,Manchester City,Premier League,2006/2007,2006
-NA,Right-Back,"Apr 28, 1986 (20)",NA,NA,England,Manchester City,Premier League,2006/2007,2006
-32,Right-Back,"Sep 3, 1985 (20)",NA,NA,England,Manchester City,Premier League,2006/2007,2006
-5,Defensive Midfield,"Feb 8, 1977 (29)",NA,NA,France,Manchester City,Premier League,2006/2007,2006
-21,Defensive Midfield,"Aug 27, 1973 (32)",NA,NA,Germany,Manchester City,Premier League,2006/2007,2006
-33,Defensive Midfield,"Feb 24, 1988 (18)",NA,NA,England,Manchester City,Premier League,2006/2007,2006
-8,Central Midfield,"Sep 2, 1982 (23)",NA,NA,England,Manchester City,Premier League,2006/2007,2006
-NA,Central Midfield,"Jul 20, 1973 (32)",NA,NA,United States,Manchester City,Premier League,2006/2007,2006
-7,Attacking Midfield,"Aug 22, 1986 (19)",NA,NA,Ireland,Manchester City,Premier League,2006/2007,2006
-20,Left Winger,"Feb 21, 1985 (21)",NA,NA,Greece,Manchester City,Premier League,2006/2007,2006
-28,Left Winger,"Mar 2, 1973 (33)",NA,NA,England,Manchester City,Premier League,2006/2007,2006
-10,Right Winger,"Feb 14, 1986 (20)",NA,NA,Algeria,Manchester City,Premier League,2006/2007,2006
-11,Centre-Forward,"Jun 13, 1980 (26)",NA,NA,England,Manchester City,Premier League,2006/2007,2006
-30,Centre-Forward,"Mar 30, 1976 (30)",NA,NA,Italy,Manchester City,Premier League,2006/2007,2006
-9,Centre-Forward,"Jul 4, 1978 (27)",NA,NA,Belgium,Manchester City,Premier League,2006/2007,2006
-14,Centre-Forward,"Nov 1, 1972 (33)",NA,NA,Scotland,Manchester City,Premier League,2006/2007,2006
-43,Centre-Forward,"Mar 5, 1987 (19)",NA,NA,England,Manchester City,Premier League,2006/2007,2006
-36,Centre-Forward,"Sep 1, 1989 (16)",NA,NA,England,Manchester City,Premier League,2006/2007,2006
-1,Goalkeeper,"Aug 1, 1970 (35)",NA,NA,England,Portsmouth FC,Premier League,2006/2007,2006
-NA,Goalkeeper,"Oct 10, 1970 (35)",NA,NA,Ireland,Portsmouth FC,Premier League,2006/2007,2006
-15,Goalkeeper,"Nov 30, 1980 (25)",NA,NA,England,Portsmouth FC,Premier League,2006/2007,2006
-23,Centre-Back,"Sep 18, 1974 (31)",NA,NA,England,Portsmouth FC,Premier League,2006/2007,2006
-5,Centre-Back,"Jun 29, 1979 (27)",NA,NA,Ireland,Portsmouth FC,Premier League,2006/2007,2006
-6,Centre-Back,"Mar 1, 1980 (26)",NA,NA,Mali,Portsmouth FC,Premier League,2006/2007,2006
-11,Centre-Back,"Apr 14, 1979 (27)",NA,NA,France,Portsmouth FC,Premier League,2006/2007,2006
-3,Centre-Back,"Oct 28, 1974 (31)",NA,NA,Serbia,Portsmouth FC,Premier League,2006/2007,2006
-2,Centre-Back,"Sep 14, 1973 (32)",NA,NA,England,Portsmouth FC,Premier League,2006/2007,2006
-10,Right-Back,"Jan 19, 1977 (29)",NA,NA,Cameroon,Portsmouth FC,Premier League,2006/2007,2006
-4,Right-Back,"Aug 23, 1984 (21)",NA,NA,England,Portsmouth FC,Premier League,2006/2007,2006
-16,Right-Back,"Mar 17, 1979 (27)",NA,NA,England,Portsmouth FC,Premier League,2006/2007,2006
-28,Defensive Midfield,"Sep 20, 1979 (26)",NA,NA,England,Portsmouth FC,Premier League,2006/2007,2006
-30,Defensive Midfield,"Feb 26, 1979 (27)",NA,NA,Portugal,Portsmouth FC,Premier League,2006/2007,2006
-34,Defensive Midfield,"Jan 28, 1985 (21)",NA,NA,DR Congo,Portsmouth FC,Premier League,2006/2007,2006
-22,Defensive Midfield,"Jun 25, 1979 (27)",NA,NA,Scotland,Portsmouth FC,Premier League,2006/2007,2006
-26,Central Midfield,"May 18, 1983 (23)",NA,NA,England,Portsmouth FC,Premier League,2006/2007,2006
-NA,Right Midfield,"Sep 12, 1977 (28)",NA,NA,England,Portsmouth FC,Premier League,2006/2007,2006
-14,Left Midfield,"Nov 27, 1981 (24)",NA,NA,England,Portsmouth FC,Premier League,2006/2007,2006
-NA,Attacking Midfield,"Feb 5, 1986 (20)",NA,NA,Portugal,Portsmouth FC,Premier League,2006/2007,2006
-19,Attacking Midfield,"Aug 13, 1984 (21)",NA,NA,Croatia,Portsmouth FC,Premier League,2006/2007,2006
-NA,Attacking Midfield,"Jan 2, 1987 (19)",NA,NA,Northern Ireland,Portsmouth FC,Premier League,2006/2007,2006
-29,Left Winger,"Sep 25, 1978 (27)",NA,NA,Cameroon,Portsmouth FC,Premier League,2006/2007,2006
-NA,Right Winger,"Sep 19, 1978 (27)",NA,NA,Serbia,Portsmouth FC,Premier League,2006/2007,2006
-21,Right Winger,"May 14, 1987 (19)",NA,NA,Cameroon,Portsmouth FC,Premier League,2006/2007,2006
-32,Second Striker,"Dec 28, 1980 (25)",NA,NA,DR Congo,Portsmouth FC,Premier League,2006/2007,2006
-25,Centre-Forward,"Aug 13, 1978 (27)",NA,NA,Zimbabwe,Portsmouth FC,Premier League,2006/2007,2006
-8,Centre-Forward,"Oct 15, 1971 (34)",NA,NA,England,Portsmouth FC,Premier League,2006/2007,2006
-27,Centre-Forward,"Aug 1, 1976 (29)",NA,NA,Nigeria,Portsmouth FC,Premier League,2006/2007,2006
-9,Centre-Forward,"Aug 30, 1978 (27)",NA,NA,Bulgaria,Portsmouth FC,Premier League,2006/2007,2006
-29,Goalkeeper,"May 31, 1972 (34)",NA,NA,Finland,Fulham FC,Premier League,2006/2007,2006
-12,Goalkeeper,"Jul 7, 1982 (23)",NA,NA,Czech Republic,Fulham FC,Premier League,2006/2007,2006
-31,Goalkeeper,"Nov 19, 1986 (19)",NA,NA,Portugal,Fulham FC,Premier League,2006/2007,2006
-1,Goalkeeper,"Jun 16, 1969 (37)",NA,NA,Wales,Fulham FC,Premier League,2006/2007,2006
-30,Goalkeeper,"May 11, 1974 (32)",NA,NA,Trinidad and Tobago,Fulham FC,Premier League,2006/2007,2006
-6,Centre-Back,"May 2, 1980 (26)",NA,NA,England,Fulham FC,Premier League,2006/2007,2006
-3,Centre-Back,"May 25, 1979 (27)",NA,NA,United States,Fulham FC,Premier League,2006/2007,2006
-19,Centre-Back,"May 7, 1974 (32)",NA,NA,England,Fulham FC,Premier League,2006/2007,2006
-5,Centre-Back,"Aug 31, 1978 (27)",NA,NA,France,Fulham FC,Premier League,2006/2007,2006
-18,Centre-Back,"May 31, 1986 (20)",NA,NA,DR Congo,Fulham FC,Premier League,2006/2007,2006
-4,Left-Back,"Aug 27, 1978 (27)",NA,NA,France,Fulham FC,Premier League,2006/2007,2006
-NA,Left-Back,"Aug 17, 1974 (31)",NA,NA,Denmark,Fulham FC,Premier League,2006/2007,2006
-36,Left-Back,"Mar 6, 1991 (15)",NA,NA,Guyana,Fulham FC,Premier League,2006/2007,2006
-2,Right-Back,"Jan 21, 1983 (23)",NA,NA,Germany,Fulham FC,Premier League,2006/2007,2006
-7,Right-Back,"Jul 9, 1984 (21)",NA,NA,England,Fulham FC,Premier League,2006/2007,2006
-32,Right-Back,"Dec 15, 1988 (17)",NA,NA,England,Fulham FC,Premier League,2006/2007,2006
-37,Defensive Midfield,"May 1, 1975 (31)",NA,NA,Russia,Fulham FC,Premier League,2006/2007,2006
-14,Defensive Midfield,"Jan 28, 1978 (28)",NA,NA,Senegal,Fulham FC,Premier League,2006/2007,2006
-17,Defensive Midfield,"Jun 10, 1974 (32)",NA,NA,New Zealand,Fulham FC,Premier League,2006/2007,2006
-21,Central Midfield,"Oct 23, 1978 (27)",NA,NA,England,Fulham FC,Premier League,2006/2007,2006
-8,Central Midfield,"Jan 25, 1977 (29)",NA,NA,England,Fulham FC,Premier League,2006/2007,2006
-NA,Central Midfield,"Mar 19, 1985 (21)",NA,NA,Ireland,Fulham FC,Premier League,2006/2007,2006
-26,Central Midfield,"Mar 31, 1986 (20)",NA,NA,Wales,Fulham FC,Premier League,2006/2007,2006
-28,Central Midfield,"Jan 2, 1987 (19)",NA,NA,England,Fulham FC,Premier League,2006/2007,2006
-25,Right Midfield,"Oct 23, 1979 (26)",NA,NA,Wales,Fulham FC,Premier League,2006/2007,2006
-27,Right Midfield,"May 30, 1981 (25)",NA,NA,Australia,Fulham FC,Premier League,2006/2007,2006
-NA,Left Midfield,"Aug 4, 1977 (28)",NA,NA,Portugal,Fulham FC,Premier League,2006/2007,2006
-24,Left Midfield,"Nov 29, 1970 (35)",NA,NA,Wales,Fulham FC,Premier League,2006/2007,2006
-16,Attacking Midfield,"Apr 29, 1977 (29)",NA,NA,Denmark,Fulham FC,Premier League,2006/2007,2006
-22,Left Winger,"Jan 7, 1985 (21)",NA,NA,England,Fulham FC,Premier League,2006/2007,2006
-23,Second Striker,"Mar 9, 1983 (23)",NA,NA,United States,Fulham FC,Premier League,2006/2007,2006
-11,Centre-Forward,"Jun 18, 1974 (32)",NA,NA,Italy,Fulham FC,Premier League,2006/2007,2006
-13,Centre-Forward,"Dec 14, 1973 (32)",NA,NA,Canada,Fulham FC,Premier League,2006/2007,2006
-10,Centre-Forward,"Mar 1, 1984 (22)",NA,NA,Sweden,Fulham FC,Premier League,2006/2007,2006
-15,Centre-Forward,"Oct 17, 1985 (20)",NA,NA,Netherlands,Fulham FC,Premier League,2006/2007,2006
-20,Centre-Forward,"Jun 19, 1972 (34)",NA,NA,United States,Fulham FC,Premier League,2006/2007,2006
-9,Centre-Forward,"Aug 22, 1977 (28)",NA,NA,Iceland,Fulham FC,Premier League,2006/2007,2006
-36,Goalkeeper,"Oct 16, 1973 (32)",NA,NA,Norway,Charlton Athletic,Premier League,2006/2007,2006
-38,Goalkeeper,"Sep 3, 1985 (20)",NA,NA,England,Charlton Athletic,Premier League,2006/2007,2006
-13,Goalkeeper,"Nov 26, 1981 (24)",NA,NA,Denmark,Charlton Athletic,Premier League,2006/2007,2006
-31,Goalkeeper,"Apr 30, 1986 (20)",NA,NA,Ireland,Charlton Athletic,Premier League,2006/2007,2006
-33,Goalkeeper,"May 12, 1987 (19)",NA,NA,Ireland,Charlton Athletic,Premier League,2006/2007,2006
-23,Centre-Back,"Dec 24, 1978 (27)",NA,NA,Senegal,Charlton Athletic,Premier League,2006/2007,2006
-3,Centre-Back,"Jul 11, 1974 (31)",NA,NA,Iceland,Charlton Athletic,Premier League,2006/2007,2006
-NA,Centre-Back,"Mar 1, 1980 (26)",NA,NA,Mali,Charlton Athletic,Premier League,2006/2007,2006
-25,Centre-Back,"Oct 9, 1979 (26)",NA,NA,Uruguay,Charlton Athletic,Premier League,2006/2007,2006
-15,Centre-Back,"Jul 8, 1976 (29)",NA,NA,Morocco,Charlton Athletic,Premier League,2006/2007,2006
-17,Centre-Back,"Jan 14, 1980 (26)",NA,NA,United States,Charlton Athletic,Premier League,2006/2007,2006
-24,Centre-Back,"Aug 23, 1980 (25)",NA,NA,England,Charlton Athletic,Premier League,2006/2007,2006
-22,Centre-Back,"Oct 7, 1982 (23)",NA,NA,Algeria,Charlton Athletic,Premier League,2006/2007,2006
-32,Left-Back,"Nov 30, 1975 (30)",NA,NA,Wales,Charlton Athletic,Premier League,2006/2007,2006
-35,Left-Back,"Jan 30, 1987 (19)",NA,NA,England,Charlton Athletic,Premier League,2006/2007,2006
-2,Right-Back,"Jul 19, 1979 (26)",NA,NA,England,Charlton Athletic,Premier League,2006/2007,2006
-28,Right-Back,"Mar 19, 1985 (21)",NA,NA,England,Charlton Athletic,Premier League,2006/2007,2006
-31,Midfielder,"Nov 28, 1987 (18)",NA,NA,England,Charlton Athletic,Premier League,2006/2007,2006
-16,Defensive Midfield,"Sep 9, 1987 (18)",NA,NA,Cameroon,Charlton Athletic,Premier League,2006/2007,2006
-4,Defensive Midfield,"Mar 12, 1977 (29)",NA,NA,Senegal,Charlton Athletic,Premier League,2006/2007,2006
-6,Defensive Midfield,"Jul 30, 1974 (31)",NA,NA,Bulgaria,Charlton Athletic,Premier League,2006/2007,2006
-9,Defensive Midfield,"Aug 20, 1980 (25)",NA,NA,China,Charlton Athletic,Premier League,2006/2007,2006
-8,Central Midfield,"Apr 11, 1974 (32)",NA,NA,Ireland,Charlton Athletic,Premier League,2006/2007,2006
-21,Central Midfield,"Sep 13, 1987 (18)",NA,NA,England,Charlton Athletic,Premier League,2006/2007,2006
-13,Central Midfield,"Feb 28, 1980 (26)",NA,NA,Uruguay,Charlton Athletic,Premier League,2006/2007,2006
-39,Right Midfield,"Feb 25, 1988 (18)",NA,NA,Iceland,Charlton Athletic,Premier League,2006/2007,2006
-5,Left Midfield,"Jul 29, 1982 (23)",NA,NA,Ireland,Charlton Athletic,Premier League,2006/2007,2006
-11,Left Midfield,"Feb 29, 1984 (22)",NA,NA,England,Charlton Athletic,Premier League,2006/2007,2006
-20,Attacking Midfield,"Jun 19, 1976 (30)",NA,NA,England,Charlton Athletic,Premier League,2006/2007,2006
-14,Left Winger,"Mar 23, 1983 (23)",NA,NA,England,Charlton Athletic,Premier League,2006/2007,2006
-19,Right Winger,"Jul 22, 1978 (27)",NA,NA,Denmark,Charlton Athletic,Premier League,2006/2007,2006
-29,Right Winger,"Sep 27, 1984 (21)",NA,NA,Ghana,Charlton Athletic,Premier League,2006/2007,2006
-10,Centre-Forward,"Feb 6, 1984 (22)",NA,NA,England,Charlton Athletic,Premier League,2006/2007,2006
-18,Centre-Forward,"Mar 27, 1972 (34)",NA,NA,Netherlands,Charlton Athletic,Premier League,2006/2007,2006
-7,Centre-Forward,"May 19, 1978 (28)",NA,NA,England,Charlton Athletic,Premier League,2006/2007,2006
-12,Centre-Forward,"Oct 17, 1978 (27)",NA,NA,Jamaica,Charlton Athletic,Premier League,2006/2007,2006
-37,Centre-Forward,"Nov 25, 1987 (18)",NA,NA,Antigua and Barbuda,Charlton Athletic,Premier League,2006/2007,2006
-1,Goalkeeper,"May 18, 1971 (35)",NA,NA,United States,Blackburn Rovers,Premier League,2006/2007,2006
-NA,Goalkeeper,"Mar 10, 1977 (29)",NA,NA,Finland,Blackburn Rovers,Premier League,2006/2007,2006
-23,Goalkeeper,"May 18, 1982 (24)",NA,NA,Wales,Blackburn Rovers,Premier League,2006/2007,2006
-NA,Centre-Back,"Sep 7, 1974 (31)",NA,NA,Switzerland,Blackburn Rovers,Premier League,2006/2007,2006
-2,Centre-Back,"Mar 9, 1978 (28)",NA,NA,Australia,Blackburn Rovers,Premier League,2006/2007,2006
-3,Centre-Back,"Oct 6, 1981 (24)",NA,NA,Georgia,Blackburn Rovers,Premier League,2006/2007,2006
-20,Centre-Back,"Jul 11, 1974 (31)",NA,NA,Netherlands,Blackburn Rovers,Premier League,2006/2007,2006
-NA,Centre-Back,"Oct 18, 1977 (28)",NA,NA,New Zealand,Blackburn Rovers,Premier League,2006/2007,2006
-NA,Centre-Back,"Sep 21, 1974 (31)",NA,NA,England,Blackburn Rovers,Premier League,2006/2007,2006
-15,Centre-Back,"Nov 25, 1980 (25)",NA,NA,South Africa,Blackburn Rovers,Premier League,2006/2007,2006
-24,Centre-Back,"Feb 11, 1985 (21)",NA,NA,Scotland,Blackburn Rovers,Premier League,2006/2007,2006
-NA,Centre-Back,"Mar 28, 1984 (22)",NA,NA,Congo,Blackburn Rovers,Premier League,2006/2007,2006
-NA,Centre-Back,"Aug 5, 1988 (17)",NA,NA,Ireland,Blackburn Rovers,Premier League,2006/2007,2006
-NA,Left-Back,"Dec 12, 1981 (24)",NA,NA,England,Blackburn Rovers,Premier League,2006/2007,2006
-33,Left-Back,"Aug 3, 1974 (31)",NA,NA,England,Blackburn Rovers,Premier League,2006/2007,2006
-NA,Left-Back,"Nov 21, 1977 (28)",NA,NA,Switzerland,Blackburn Rovers,Premier League,2006/2007,2006
-NA,Right-Back,"Mar 10, 1981 (25)",NA,NA,Ireland,Blackburn Rovers,Premier League,2006/2007,2006
-5,Defensive Midfield,"Aug 24, 1970 (35)",NA,NA,Turkey,Blackburn Rovers,Premier League,2006/2007,2006
-12,Central Midfield,"Sep 8, 1981 (24)",NA,NA,Norway,Blackburn Rovers,Premier League,2006/2007,2006
-8,Central Midfield,"Oct 18, 1974 (31)",NA,NA,Wales,Blackburn Rovers,Premier League,2006/2007,2006
-28,Central Midfield,"Aug 9, 1984 (21)",NA,NA,Scotland,Blackburn Rovers,Premier League,2006/2007,2006
-7,Right Midfield,"Feb 22, 1979 (27)",NA,NA,Australia,Blackburn Rovers,Premier League,2006/2007,2006
-11,Right Midfield,"Aug 27, 1984 (21)",NA,NA,England,Blackburn Rovers,Premier League,2006/2007,2006
-31,Left Midfield,"Oct 12, 1986 (19)",NA,NA,Germany,Blackburn Rovers,Premier League,2006/2007,2006
-NA,Attacking Midfield,"Dec 27, 1979 (26)",NA,NA,England,Blackburn Rovers,Premier League,2006/2007,2006
-9,Centre-Forward,"Mar 6, 1977 (29)",NA,NA,DR Congo,Blackburn Rovers,Premier League,2006/2007,2006
-10,Centre-Forward,"Nov 12, 1977 (28)",NA,NA,South Africa,Blackburn Rovers,Premier League,2006/2007,2006
-NA,Centre-Forward,"Jan 25, 1978 (28)",NA,NA,Grenada,Blackburn Rovers,Premier League,2006/2007,2006
-17,Centre-Forward,"Jan 25, 1981 (25)",NA,NA,England,Blackburn Rovers,Premier League,2006/2007,2006
-NA,Centre-Forward,"Nov 10, 1976 (29)",NA,NA,Finland,Blackburn Rovers,Premier League,2006/2007,2006
-NA,Centre-Forward,"Apr 14, 1986 (20)",NA,NA,England,Blackburn Rovers,Premier League,2006/2007,2006
-22,Goalkeeper,"Apr 19, 1975 (31)",NA,NA,Finland,Bolton Wanderers,Premier League,2006/2007,2006
-12,Goalkeeper,"Oct 31, 1971 (34)",NA,NA,England,Bolton Wanderers,Premier League,2006/2007,2006
-1,Goalkeeper,"Dec 30, 1981 (24)",NA,NA,Oman,Bolton Wanderers,Premier League,2006/2007,2006
-30,Goalkeeper,"May 23, 1986 (20)",NA,NA,England,Bolton Wanderers,Premier League,2006/2007,2006
-30,Goalkeeper,"May 5, 1988 (18)",NA,NA,Poland,Bolton Wanderers,Premier League,2006/2007,2006
-43,Goalkeeper,"Oct 9, 1986 (19)",NA,NA,England,Bolton Wanderers,Premier League,2006/2007,2006
-5,Centre-Back,"Oct 6, 1980 (25)",NA,NA,Cote d'Ivoire,Bolton Wanderers,Premier League,2006/2007,2006
-25,Centre-Back,"Feb 26, 1978 (28)",NA,NA,Senegal,Bolton Wanderers,Premier League,2006/2007,2006
-26,Centre-Back,"Mar 31, 1982 (24)",NA,NA,Israel,Bolton Wanderers,Premier League,2006/2007,2006
-27,Centre-Back,"Apr 2, 1977 (29)",NA,NA,Spain,Bolton Wanderers,Premier League,2006/2007,2006
-32,Centre-Back,"Oct 17, 1987 (18)",NA,NA,Poland,Bolton Wanderers,Premier League,2006/2007,2006
-28,Centre-Back,"Aug 13, 1983 (22)",NA,NA,Slovakia,Bolton Wanderers,Premier League,2006/2007,2006
-44,Centre-Back,"Jan 26, 1988 (18)",NA,NA,Poland,Bolton Wanderers,Premier League,2006/2007,2006
-11,Left-Back,"Sep 25, 1978 (27)",NA,NA,Jamaica,Bolton Wanderers,Premier League,2006/2007,2006
-42,Left-Back,"Apr 25, 1987 (19)",NA,NA,United States,Bolton Wanderers,Premier League,2006/2007,2006
-46,Left-Back,"Oct 13, 1988 (17)",NA,NA,Australia,Bolton Wanderers,Premier League,2006/2007,2006
-24,Right-Back,"Feb 17, 1986 (20)",NA,NA,Ireland,Bolton Wanderers,Premier League,2006/2007,2006
-2,Right-Back,"Sep 3, 1983 (22)",NA,NA,England,Bolton Wanderers,Premier League,2006/2007,2006
-31,Right-Back,"Oct 22, 1987 (18)",NA,NA,England,Bolton Wanderers,Premier League,2006/2007,2006
-8,Defensive Midfield,"Feb 21, 1974 (32)",NA,NA,Spain,Bolton Wanderers,Premier League,2006/2007,2006
-23,Defensive Midfield,"Sep 13, 1975 (30)",NA,NA,Israel,Bolton Wanderers,Premier League,2006/2007,2006
-16,Defensive Midfield,"Mar 6, 1983 (23)",NA,NA,Iran,Bolton Wanderers,Premier League,2006/2007,2006
-17,Central Midfield,"May 21, 1977 (29)",NA,NA,South Africa,Bolton Wanderers,Premier League,2006/2007,2006
-15,Right Midfield,"Sep 12, 1977 (28)",NA,NA,England,Bolton Wanderers,Premier League,2006/2007,2006
-6,Left Midfield,"Sep 8, 1969 (36)",NA,NA,Wales,Bolton Wanderers,Premier League,2006/2007,2006
-4,Attacking Midfield,"Jun 24, 1982 (24)",NA,NA,England,Bolton Wanderers,Premier League,2006/2007,2006
-7,Right Winger,"Jul 12, 1974 (31)",NA,NA,Greece,Bolton Wanderers,Premier League,2006/2007,2006
-20,Right Winger,"Oct 1, 1986 (19)",NA,NA,Portugal,Bolton Wanderers,Premier League,2006/2007,2006
-39,Centre-Forward,"Mar 14, 1979 (27)",NA,NA,France,Bolton Wanderers,Premier League,2006/2007,2006
-21,Centre-Forward,"Jan 15, 1981 (25)",NA,NA,Senegal,Bolton Wanderers,Premier League,2006/2007,2006
-14,Centre-Forward,"Mar 26, 1977 (29)",NA,NA,England,Bolton Wanderers,Premier League,2006/2007,2006
-9,Centre-Forward,"Jun 10, 1975 (31)",NA,NA,Denmark,Bolton Wanderers,Premier League,2006/2007,2006
-27,Centre-Forward,"Jun 16, 1986 (20)",NA,NA,Martinique,Bolton Wanderers,Premier League,2006/2007,2006
-29,Centre-Forward,"Jun 1, 1987 (19)",NA,NA,Hungary,Bolton Wanderers,Premier League,2006/2007,2006
-13,Goalkeeper,"May 2, 1981 (25)",NA,NA,England,Wigan Athletic,Premier League,2006/2007,2006
-1,Goalkeeper,"Feb 8, 1970 (36)",NA,NA,Australia,Wigan Athletic,Premier League,2006/2007,2006
-12,Goalkeeper,"Feb 29, 1972 (34)",NA,NA,England,Wigan Athletic,Premier League,2006/2007,2006
-28,Goalkeeper,"Sep 13, 1973 (32)",NA,NA,England,Wigan Athletic,Premier League,2006/2007,2006
-5,Centre-Back,"Dec 20, 1980 (25)",NA,NA,England,Wigan Athletic,Premier League,2006/2007,2006
-18,Centre-Back,"Mar 11, 1980 (26)",NA,NA,Austria,Wigan Athletic,Premier League,2006/2007,2006
-6,Centre-Back,"Apr 16, 1970 (36)",NA,NA,Netherlands,Wigan Athletic,Premier League,2006/2007,2006
-NA,Centre-Back,"Apr 23, 1982 (24)",NA,NA,Scotland,Wigan Athletic,Premier League,2006/2007,2006
-2,Centre-Back,"Apr 16, 1985 (21)",NA,NA,Sweden,Wigan Athletic,Premier League,2006/2007,2006
-10,Centre-Back,"May 14, 1978 (28)",NA,NA,Scotland,Wigan Athletic,Premier League,2006/2007,2006
-25,Left-Back,"Oct 16, 1973 (32)",NA,NA,England,Wigan Athletic,Premier League,2006/2007,2006
-26,Left-Back,"Dec 11, 1984 (21)",NA,NA,England,Wigan Athletic,Premier League,2006/2007,2006
-3,Left-Back,"Jan 19, 1976 (30)",NA,NA,Scotland,Wigan Athletic,Premier League,2006/2007,2006
-NA,Right-Back,"Feb 21, 1979 (27)",NA,NA,Guadeloupe,Wigan Athletic,Premier League,2006/2007,2006
-16,Right-Back,"Aug 4, 1985 (20)",NA,NA,Ecuador,Wigan Athletic,Premier League,2006/2007,2006
-19,Right-Back,"Aug 19, 1984 (21)",NA,NA,England,Wigan Athletic,Premier League,2006/2007,2006
-4,Right-Back,"Oct 19, 1971 (34)",NA,NA,England,Wigan Athletic,Premier League,2006/2007,2006
-17,Right-Back,"Sep 24, 1979 (26)",NA,NA,Barbados,Wigan Athletic,Premier League,2006/2007,2006
-32,Midfielder,"Oct 10, 1988 (17)",NA,NA,England,Wigan Athletic,Premier League,2006/2007,2006
-NA,Defensive Midfield,"May 1, 1980 (26)",NA,NA,England,Wigan Athletic,Premier League,2006/2007,2006
-21,Defensive Midfield,"Jun 27, 1988 (18)",NA,NA,Poland,Wigan Athletic,Premier League,2006/2007,2006
-14,Central Midfield,"May 6, 1976 (30)",NA,NA,Netherlands,Wigan Athletic,Premier League,2006/2007,2006
-24,Central Midfield,"Dec 10, 1975 (30)",NA,NA,Australia,Wigan Athletic,Premier League,2006/2007,2006
-NA,Central Midfield,"Dec 2, 1973 (32)",NA,NA,Ireland,Wigan Athletic,Premier League,2006/2007,2006
-11,Central Midfield,"Jul 5, 1978 (27)",NA,NA,Sweden,Wigan Athletic,Premier League,2006/2007,2006
-NA,Central Midfield,"Dec 9, 1983 (22)",NA,NA,Norway,Wigan Athletic,Premier League,2006/2007,2006
-31,Central Midfield,"Nov 17, 1988 (17)",NA,NA,England,Wigan Athletic,Premier League,2006/2007,2006
-27,Right Midfield,"Jan 2, 1990 (16)",NA,NA,Poland,Wigan Athletic,Premier League,2006/2007,2006
-8,Left Midfield,"Feb 1, 1977 (29)",NA,NA,Ireland,Wigan Athletic,Premier League,2006/2007,2006
-NA,Right Winger,"Jul 21, 1978 (27)",NA,NA,Scotland,Wigan Athletic,Premier League,2006/2007,2006
-22,Right Winger,"Dec 4, 1987 (18)",NA,NA,Wales,Wigan Athletic,Premier League,2006/2007,2006
-7,Centre-Forward,"May 10, 1977 (29)",NA,NA,Senegal,Wigan Athletic,Premier League,2006/2007,2006
-9,Centre-Forward,"Jan 11, 1978 (28)",NA,NA,England,Wigan Athletic,Premier League,2006/2007,2006
-NA,Centre-Forward,"Aug 30, 1978 (27)",NA,NA,Bulgaria,Wigan Athletic,Premier League,2006/2007,2006
-NA,Centre-Forward,"Jun 6, 1977 (29)",NA,NA,Ireland,Wigan Athletic,Premier League,2006/2007,2006
-15,Centre-Forward,"Feb 12, 1982 (24)",NA,NA,Nigeria,Wigan Athletic,Premier League,2006/2007,2006
-20,Centre-Forward,"Oct 26, 1982 (23)",NA,NA,Ireland,Wigan Athletic,Premier League,2006/2007,2006
-29,Goalkeeper,"Jan 22, 1973 (33)",NA,NA,England,Sheffield United,Premier League,2006/2007,2006
-1,Goalkeeper,"May 17, 1978 (28)",NA,NA,Ireland,Sheffield United,Premier League,2006/2007,2006
-13,Goalkeeper,"Oct 10, 1971 (34)",NA,NA,England,Sheffield United,Premier League,2006/2007,2006
-40,Goalkeeper,"Jun 21, 1988 (18)",NA,NA,England,Sheffield United,Premier League,2006/2007,2006
-14,Centre-Back,"Aug 10, 1974 (31)",NA,NA,Guadeloupe,Sheffield United,Premier League,2006/2007,2006
-39,Centre-Back,"Aug 23, 1979 (26)",NA,NA,Senegal,Sheffield United,Premier League,2006/2007,2006
-6,Centre-Back,"Aug 17, 1982 (23)",NA,NA,England,Sheffield United,Premier League,2006/2007,2006
-5,Centre-Back,"Nov 9, 1977 (28)",NA,NA,England,Sheffield United,Premier League,2006/2007,2006
-24,Centre-Back,"Jun 25, 1968 (38)",NA,NA,England,Sheffield United,Premier League,2006/2007,2006
-22,Centre-Back,"Sep 28, 1971 (34)",NA,NA,England,Sheffield United,Premier League,2006/2007,2006
-4,Centre-Back,"Mar 6, 1979 (27)",NA,NA,Jamaica,Sheffield United,Premier League,2006/2007,2006
-16,Centre-Back,"Jan 8, 1984 (22)",NA,NA,England,Sheffield United,Premier League,2006/2007,2006
-NA,Left-Back,"Oct 16, 1973 (32)",NA,NA,England,Sheffield United,Premier League,2006/2007,2006
-NA,Left-Back,"Sep 28, 1971 (34)",NA,NA,England,Sheffield United,Premier League,2006/2007,2006
-20,Left-Back,"Aug 5, 1982 (23)",NA,NA,Scotland,Sheffield United,Premier League,2006/2007,2006
-32,Left-Back,"Mar 10, 1986 (20)",NA,NA,England,Sheffield United,Premier League,2006/2007,2006
-2,Right-Back,"Jun 2, 1980 (26)",NA,NA,England,Sheffield United,Premier League,2006/2007,2006
-26,Right-Back,"Jun 19, 1980 (26)",NA,NA,Ireland,Sheffield United,Premier League,2006/2007,2006
-15,Right-Back,"Aug 5, 1977 (28)",NA,NA,England,Sheffield United,Premier League,2006/2007,2006
-NA,Right-Back,"Jan 7, 1987 (19)",NA,NA,Poland,Sheffield United,Premier League,2006/2007,2006
-23,Right-Back,"Nov 10, 1984 (21)",NA,NA,Egypt,Sheffield United,Premier League,2006/2007,2006
-30,Defensive Midfield,"May 18, 1977 (29)",NA,NA,China,Sheffield United,Premier League,2006/2007,2006
-4,Defensive Midfield,"Oct 28, 1981 (24)",NA,NA,Scotland,Sheffield United,Premier League,2006/2007,2006
-21,Defensive Midfield,"Nov 12, 1982 (23)",NA,NA,Antigua and Barbuda,Sheffield United,Premier League,2006/2007,2006
-19,Central Midfield,"Feb 18, 1975 (31)",NA,NA,Northern Ireland,Sheffield United,Premier League,2006/2007,2006
-12,Central Midfield,"Jun 13, 1979 (27)",NA,NA,Ireland,Sheffield United,Premier League,2006/2007,2006
-18,Central Midfield,"Apr 7, 1983 (23)",NA,NA,England,Sheffield United,Premier League,2006/2007,2006
-36,Central Midfield,"Jan 13, 1986 (20)",NA,NA,England,Sheffield United,Premier League,2006/2007,2006
-28,Central Midfield,"Apr 1, 1986 (20)",NA,NA,Ireland,Sheffield United,Premier League,2006/2007,2006
-31,Central Midfield,"Mar 29, 1988 (18)",NA,NA,England,Sheffield United,Premier League,2006/2007,2006
-NA,Right Midfield,"Aug 27, 1985 (20)",NA,NA,England,Sheffield United,Premier League,2006/2007,2006
-7,Left Winger,"Nov 11, 1985 (20)",NA,NA,Jamaica,Sheffield United,Premier League,2006/2007,2006
-NA,Right Winger,"Oct 20, 1979 (26)",NA,NA,Barbados,Sheffield United,Premier League,2006/2007,2006
-NA,Centre-Forward,"Oct 10, 1974 (31)",NA,NA,Nigeria,Sheffield United,Premier League,2006/2007,2006
-8,Centre-Forward,"Apr 7, 1983 (23)",NA,NA,England,Sheffield United,Premier League,2006/2007,2006
-9,Centre-Forward,"Oct 25, 1979 (26)",NA,NA,England,Sheffield United,Premier League,2006/2007,2006
-10,Centre-Forward,"Dec 28, 1981 (24)",NA,NA,England,Sheffield United,Premier League,2006/2007,2006
-30,Centre-Forward,"Nov 1, 1973 (32)",NA,NA,England,Sheffield United,Premier League,2006/2007,2006
-NA,Centre-Forward,"Mar 7, 1981 (25)",NA,NA,England,Sheffield United,Premier League,2006/2007,2006
-27,Centre-Forward,"Sep 18, 1984 (21)",NA,NA,France,Sheffield United,Premier League,2006/2007,2006
-32,Centre-Forward,"Aug 26, 1986 (19)",NA,NA,Turkey,Sheffield United,Premier League,2006/2007,2006
-NA,Centre-Forward,"Sep 23, 1985 (20)",NA,NA,England,Sheffield United,Premier League,2006/2007,2006
-NA,Centre-Forward,"Jul 25, 1986 (19)",NA,NA,Barbados,Sheffield United,Premier League,2006/2007,2006
-1,Goalkeeper,"Jun 15, 1972 (34)",NA,NA,United States,Reading FC,Premier League,2006/2007,2006
-21,Goalkeeper,"Sep 26, 1981 (24)",NA,NA,Ireland,Reading FC,Premier League,2006/2007,2006
-32,Goalkeeper,"Jan 31, 1985 (21)",NA,NA,Australia,Reading FC,Premier League,2006/2007,2006
-36,Goalkeeper,"Dec 17, 1988 (17)",NA,NA,Denmark,Reading FC,Premier League,2006/2007,2006
-29,Centre-Back,"Oct 14, 1975 (30)",NA,NA,England,Reading FC,Premier League,2006/2007,2006
-25,Centre-Back,"Jan 8, 1985 (21)",NA,NA,Cameroon,Reading FC,Premier League,2006/2007,2006
-16,Centre-Back,"Aug 20, 1977 (28)",NA,NA,Iceland,Reading FC,Premier League,2006/2007,2006
-5,Centre-Back,"Jan 22, 1981 (25)",NA,NA,Senegal,Reading FC,Premier League,2006/2007,2006
-27,Centre-Back,"Jun 23, 1983 (23)",NA,NA,England,Reading FC,Premier League,2006/2007,2006
-NA,Centre-Back,"Nov 9, 1988 (17)",NA,NA,Ireland,Reading FC,Premier League,2006/2007,2006
-18,Centre-Back,"May 25, 1979 (27)",NA,NA,Nigeria,Reading FC,Premier League,2006/2007,2006
-25,Centre-Back,"Oct 4, 1981 (24)",NA,NA,Ireland,Reading FC,Premier League,2006/2007,2006
-28,Centre-Back,"Dec 8, 1984 (21)",NA,NA,England,Reading FC,Premier League,2006/2007,2006
-47,Centre-Back,"Dec 2, 1984 (21)",NA,NA,Hungary,Reading FC,Premier League,2006/2007,2006
-3,Left-Back,"Feb 19, 1981 (25)",NA,NA,England,Reading FC,Premier League,2006/2007,2006
-NA,Left-Back,"Feb 29, 1988 (18)",NA,NA,England,Reading FC,Premier League,2006/2007,2006
-23,Right-Back,"Feb 8, 1974 (32)",NA,NA,Ecuador,Reading FC,Premier League,2006/2007,2006
-2,Right-Back,"Nov 13, 1974 (31)",NA,NA,Scotland,Reading FC,Premier League,2006/2007,2006
-26,Right-Back,"Mar 8, 1987 (19)",NA,NA,Kenya,Reading FC,Premier League,2006/2007,2006
-NA,Midfielder,"Dec 5, 1983 (22)",NA,NA,Senegal,Reading FC,Premier League,2006/2007,2006
-6,Defensive Midfield,"Oct 16, 1975 (30)",NA,NA,Iceland,Reading FC,Premier League,2006/2007,2006
-14,Defensive Midfield,"Feb 14, 1982 (24)",NA,NA,England,Reading FC,Premier League,2006/2007,2006
-15,Central Midfield,"Nov 9, 1980 (25)",NA,NA,England,Reading FC,Premier League,2006/2007,2006
-4,Central Midfield,"Dec 14, 1982 (23)",NA,NA,England,Reading FC,Premier League,2006/2007,2006
-11,Central Midfield,"Dec 8, 1978 (27)",NA,NA,Wales,Reading FC,Premier League,2006/2007,2006
-37,Central Midfield,"Jan 8, 1989 (17)",NA,NA,Australia,Reading FC,Premier League,2006/2007,2006
-17,Left Midfield,"May 27, 1983 (23)",NA,NA,United States,Reading FC,Premier League,2006/2007,2006
-10,Left Midfield,"Aug 1, 1981 (24)",NA,NA,Ireland,Reading FC,Premier League,2006/2007,2006
-43,Left Winger,"Jan 25, 1990 (16)",NA,NA,Iceland,Reading FC,Premier League,2006/2007,2006
-19,Right Winger,"Jan 8, 1979 (27)",NA,NA,"Korea, South",Reading FC,Premier League,2006/2007,2006
-7,Right Winger,"Oct 15, 1975 (30)",NA,NA,England,Reading FC,Premier League,2006/2007,2006
-34,Right Winger,"Jun 10, 1989 (17)",NA,NA,England,Reading FC,Premier League,2006/2007,2006
-8,Centre-Forward,"Dec 28, 1984 (21)",NA,NA,England,Reading FC,Premier League,2006/2007,2006
-9,Centre-Forward,"Sep 18, 1983 (22)",NA,NA,Ireland,Reading FC,Premier League,2006/2007,2006
-12,Centre-Forward,"Jan 21, 1980 (26)",NA,NA,England,Reading FC,Premier League,2006/2007,2006
-24,Centre-Forward,"Jan 22, 1987 (19)",NA,NA,Ireland,Reading FC,Premier League,2006/2007,2006
-NA,Centre-Forward,"Apr 28, 1987 (19)",NA,NA,Ireland,Reading FC,Premier League,2006/2007,2006
-26,Goalkeeper,"Apr 3, 1983 (23)",NA,NA,England,Watford FC,Premier League,2006/2007,2006
-1,Goalkeeper,"Jun 20, 1964 (42)",NA,NA,England,Watford FC,Premier League,2006/2007,2006
-16,Goalkeeper,"Oct 5, 1982 (23)",NA,NA,England,Watford FC,Premier League,2006/2007,2006
-33,Goalkeeper,"May 27, 1988 (18)",NA,NA,England,Watford FC,Premier League,2006/2007,2006
-4,Centre-Back,"Feb 19, 1972 (34)",NA,NA,Scotland,Watford FC,Premier League,2006/2007,2006
-12,Centre-Back,"Dec 1, 1982 (23)",NA,NA,Jamaica,Watford FC,Premier League,2006/2007,2006
-5,Centre-Back,"Oct 14, 1979 (26)",NA,NA,England,Watford FC,Premier League,2006/2007,2006
-6,Centre-Back,"Dec 4, 1979 (26)",NA,NA,United States,Watford FC,Premier League,2006/2007,2006
-17,Centre-Back,"Sep 2, 1980 (25)",NA,NA,Nigeria,Watford FC,Premier League,2006/2007,2006
-23,Centre-Back,"Oct 3, 1986 (19)",NA,NA,Jamaica,Watford FC,Premier League,2006/2007,2006
-32,Centre-Back,"Sep 11, 1986 (19)",NA,NA,Guadeloupe,Watford FC,Premier League,2006/2007,2006
-34,Centre-Back,"Oct 9, 1987 (18)",NA,NA,England,Watford FC,Premier League,2006/2007,2006
-15,Left-Back,"Jul 9, 1985 (20)",NA,NA,England,Watford FC,Premier League,2006/2007,2006
-3,Left-Back,"Mar 3, 1982 (24)",NA,NA,England,Watford FC,Premier League,2006/2007,2006
-11,Left-Back,"Sep 8, 1969 (36)",NA,NA,England,Watford FC,Premier League,2006/2007,2006
-22,Left-Back,"Feb 12, 1988 (18)",NA,NA,England,Watford FC,Premier League,2006/2007,2006
-30,Left-Back,"Jul 26, 1989 (16)",NA,NA,England,Watford FC,Premier League,2006/2007,2006
-2,Right-Back,"Nov 20, 1980 (25)",NA,NA,England,Watford FC,Premier League,2006/2007,2006
-NA,Right-Back,"Nov 15, 1987 (18)",NA,NA,England,Watford FC,Premier League,2006/2007,2006
-35,Midfielder,"Oct 11, 1988 (17)",NA,NA,England,Watford FC,Premier League,2006/2007,2006
-21,Defensive Midfield,"Jun 9, 1987 (19)",NA,NA,France,Watford FC,Premier League,2006/2007,2006
-7,Central Midfield,"Feb 27, 1979 (27)",NA,NA,Jamaica,Watford FC,Premier League,2006/2007,2006
-25,Central Midfield,"Dec 16, 1981 (24)",NA,NA,Scotland,Watford FC,Premier League,2006/2007,2006
-8,Central Midfield,"Jan 2, 1977 (29)",NA,NA,England,Watford FC,Premier League,2006/2007,2006
-20,Central Midfield,"Jan 24, 1988 (18)",NA,NA,Sierra Leone,Watford FC,Premier League,2006/2007,2006
-25,Central Midfield,"Nov 17, 1979 (26)",NA,NA,England,Watford FC,Premier League,2006/2007,2006
-14,Central Midfield,"Sep 2, 1985 (20)",NA,NA,England,Watford FC,Premier League,2006/2007,2006
-31,Central Midfield,"Aug 29, 1979 (26)",NA,NA,Brazil,Watford FC,Premier League,2006/2007,2006
-38,Central Midfield,"Jun 7, 1982 (24)",NA,NA,Jamaica,Watford FC,Premier League,2006/2007,2006
-19,Right Midfield,"Jul 13, 1984 (21)",NA,NA,England,Watford FC,Premier League,2006/2007,2006
-28,Left Midfield,"Oct 23, 1984 (21)",NA,NA,Sierra Leone,Watford FC,Premier League,2006/2007,2006
-41,Attacking Midfield,"Sep 12, 1981 (24)",NA,NA,France,Watford FC,Premier League,2006/2007,2006
-NA,Left Winger,"Jun 2, 1988 (18)",NA,NA,Cote d'Ivoire,Watford FC,Premier League,2006/2007,2006
-18,Right Winger,"Feb 22, 1985 (21)",NA,NA,Algeria,Watford FC,Premier League,2006/2007,2006
-27,Right Winger,"Aug 26, 1987 (18)",NA,NA,Jamaica,Watford FC,Premier League,2006/2007,2006
-9,Centre-Forward,"Apr 26, 1980 (26)",NA,NA,Jamaica,Watford FC,Premier League,2006/2007,2006
-15,Centre-Forward,"Mar 7, 1981 (25)",NA,NA,England,Watford FC,Premier League,2006/2007,2006
-10,Centre-Forward,"Sep 7, 1981 (24)",NA,NA,England,Watford FC,Premier League,2006/2007,2006
-29,Centre-Forward,"May 22, 1980 (26)",NA,NA,England,Watford FC,Premier League,2006/2007,2006
-36,Centre-Forward,"Jun 27, 1987 (19)",NA,NA,Antigua and Barbuda,Watford FC,Premier League,2006/2007,2006
-37,Centre-Forward,"May 6, 1986 (20)",NA,NA,England,Watford FC,Premier League,2006/2007,2006
-40,Centre-Forward,"Jan 22, 1989 (17)",NA,NA,Jamaica,Watford FC,Premier League,2006/2007,2006
-24,Centre-Forward,"Sep 27, 1986 (19)",NA,NA,Hungary,Watford FC,Premier League,2006/2007,2006
+player_name,position,date_of_birth,age,nationality,club_name,league_name,season,year
+Petr Cech,Goalkeeper,1982-05-20,24,Czech Republic,Chelsea FC,Premier League,2006/2007,2006
+Carlo Cudicini,Goalkeeper,1973-09-06,32,Italy,Chelsea FC,Premier League,2006/2007,2006
+Magnus Hedman,Goalkeeper,1973-03-19,33,Sweden,Chelsea FC,Premier League,2006/2007,2006
+Henrique Hilário,Goalkeeper,1975-10-21,30,Portugal,Chelsea FC,Premier League,2006/2007,2006
+Yves Makabu-Makalambay,Goalkeeper,1986-01-31,20,DR Congo,Chelsea FC,Premier League,2006/2007,2006
+Rhys Taylor,Goalkeeper,1990-04-07,16,Wales,Chelsea FC,Premier League,2006/2007,2006
+John Terry,Centre-Back,1980-12-07,25,England,Chelsea FC,Premier League,2006/2007,2006
+Ricardo Carvalho,Centre-Back,1978-05-18,28,Portugal,Chelsea FC,Premier League,2006/2007,2006
+William Gallas,Centre-Back,1977-08-17,28,France,Chelsea FC,Premier League,2006/2007,2006
+Khalid Boulahrouz,Centre-Back,1981-12-28,24,Netherlands,Chelsea FC,Premier League,2006/2007,2006
+Robert Huth,Centre-Back,1984-08-18,21,Germany,Chelsea FC,Premier League,2006/2007,2006
+Michael Mancienne,Centre-Back,1988-01-08,18,England,Chelsea FC,Premier League,2006/2007,2006
+Ashley Cole,Left-Back,1980-12-20,25,England,Chelsea FC,Premier League,2006/2007,2006
+Wayne Bridge,Left-Back,1980-08-05,25,England,Chelsea FC,Premier League,2006/2007,2006
+Jonas Elmer,Left-Back,1988-02-28,18,Switzerland,Chelsea FC,Premier League,2006/2007,2006
+Ryan Bertrand,Left-Back,1989-08-05,16,England,Chelsea FC,Premier League,2006/2007,2006
+Paulo Ferreira,Right-Back,1979-01-18,27,Portugal,Chelsea FC,Premier League,2006/2007,2006
+Michael Essien,Defensive Midfield,1982-12-03,23,Ghana,Chelsea FC,Premier League,2006/2007,2006
+Claude Makélélé,Defensive Midfield,1973-02-18,33,France,Chelsea FC,Premier League,2006/2007,2006
+Lassana Diarra,Defensive Midfield,1985-03-10,21,France,Chelsea FC,Premier League,2006/2007,2006
+Nuno Morais,Defensive Midfield,1984-01-29,22,Portugal,Chelsea FC,Premier League,2006/2007,2006
+John Mikel Obi,Defensive Midfield,1987-04-22,19,Nigeria,Chelsea FC,Premier League,2006/2007,2006
+Sam Hutchinson,Defensive Midfield,1989-08-03,16,England,Chelsea FC,Premier League,2006/2007,2006
+Frank Lampard,Central Midfield,1978-06-20,28,England,Chelsea FC,Premier League,2006/2007,2006
+Michael Ballack,Central Midfield,1976-09-26,29,Germany,Chelsea FC,Premier League,2006/2007,2006
+Michael Woods,Central Midfield,1990-04-06,16,England,Chelsea FC,Premier League,2006/2007,2006
+Jimmy Smith,Central Midfield,1987-01-07,19,England,Chelsea FC,Premier League,2006/2007,2006
+Lee Sawyer,Central Midfield,1989-09-10,16,England,Chelsea FC,Premier League,2006/2007,2006
+Njitap Geremi,Right Midfield,1978-12-20,27,Cameroon,Chelsea FC,Premier League,2006/2007,2006
+Scott Sinclair,Left Midfield,1989-03-25,17,England,Chelsea FC,Premier League,2006/2007,2006
+Joe Cole,Attacking Midfield,1981-11-08,24,England,Chelsea FC,Premier League,2006/2007,2006
+Salomon Kalou,Left Winger,1985-08-05,20,Cote d'Ivoire,Chelsea FC,Premier League,2006/2007,2006
+Arjen Robben,Right Winger,1984-01-23,22,Netherlands,Chelsea FC,Premier League,2006/2007,2006
+Shaun Wright-Phillips,Right Winger,1981-10-25,24,England,Chelsea FC,Premier League,2006/2007,2006
+Andrii Shevchenko,Centre-Forward,1976-09-29,29,Ukraine,Chelsea FC,Premier League,2006/2007,2006
+Didier Drogba,Centre-Forward,1978-03-11,28,Cote d'Ivoire,Chelsea FC,Premier League,2006/2007,2006
+Ben Sahar,Centre-Forward,1989-08-10,16,Israel,Chelsea FC,Premier League,2006/2007,2006
+Edwin van der Sar,Goalkeeper,1970-10-29,35,Netherlands,Manchester United,Premier League,2006/2007,2006
+Tomasz Kuszczak,Goalkeeper,1982-03-20,24,Poland,Manchester United,Premier League,2006/2007,2006
+Tom Heaton,Goalkeeper,1986-04-15,20,England,Manchester United,Premier League,2006/2007,2006
+Rio Ferdinand,Centre-Back,1978-11-07,27,England,Manchester United,Premier League,2006/2007,2006
+Gabriel Heinze,Centre-Back,1978-04-19,28,Argentina,Manchester United,Premier League,2006/2007,2006
+Nemanja Vidic‎,Centre-Back,1981-10-21,24,Serbia,Manchester United,Premier League,2006/2007,2006
+Mikaël Silvestre,Centre-Back,1977-08-09,28,France,Manchester United,Premier League,2006/2007,2006
+John O'Shea,Centre-Back,1981-04-30,25,Ireland,Manchester United,Premier League,2006/2007,2006
+Wes Brown,Centre-Back,1979-10-13,26,England,Manchester United,Premier League,2006/2007,2006
+Ryan Shawcross,Centre-Back,1987-10-04,18,England,Manchester United,Premier League,2006/2007,2006
+Jonny Evans,Centre-Back,1988-01-03,18,Northern Ireland,Manchester United,Premier League,2006/2007,2006
+Craig Cathcart,Centre-Back,1989-02-06,17,Northern Ireland,Manchester United,Premier League,2006/2007,2006
+Patrice Evra,Left-Back,1981-05-15,25,France,Manchester United,Premier League,2006/2007,2006
+Kieran Richardson,Left-Back,1984-10-21,21,England,Manchester United,Premier League,2006/2007,2006
+Adam Eckersley,Left-Back,1985-09-07,20,England,Manchester United,Premier League,2006/2007,2006
+Gary Neville,Right-Back,1975-02-18,31,England,Manchester United,Premier League,2006/2007,2006
+Danny Simpson,Right-Back,1987-01-04,19,England,Manchester United,Premier League,2006/2007,2006
+David Gray,Right-Back,1988-05-04,18,Scotland,Manchester United,Premier League,2006/2007,2006
+Michael Carrick,Defensive Midfield,1981-07-28,24,England,Manchester United,Premier League,2006/2007,2006
+Floribert Ngalula,Defensive Midfield,1987-03-07,19,Belgium,Manchester United,Premier League,2006/2007,2006
+Kieran Lee,Defensive Midfield,1988-06-22,18,England,Manchester United,Premier League,2006/2007,2006
+Paul Scholes,Central Midfield,1974-11-16,31,England,Manchester United,Premier League,2006/2007,2006
+Alan Smith,Central Midfield,1980-10-28,25,England,Manchester United,Premier League,2006/2007,2006
+Darren Fletcher,Central Midfield,1984-02-01,22,Scotland,Manchester United,Premier League,2006/2007,2006
+David Jones,Central Midfield,1984-11-04,21,England,Manchester United,Premier League,2006/2007,2006
+Ritchie Jones,Central Midfield,1986-09-26,19,England,Manchester United,Premier League,2006/2007,2006
+Ryan Giggs,Left Midfield,1973-11-29,32,Wales,Manchester United,Premier League,2006/2007,2006
+Michael Barnes,Left Midfield,1988-06-24,18,England,Manchester United,Premier League,2006/2007,2006
+Ji-sung Park,Attacking Midfield,1981-02-25,25,"Korea, South",Manchester United,Premier League,2006/2007,2006
+Lee Martin,Attacking Midfield,1987-02-09,19,England,Manchester United,Premier League,2006/2007,2006
+Cristiano Ronaldo,Left Winger,1985-02-05,21,Portugal,Manchester United,Premier League,2006/2007,2006
+Chris Eagles,Right Winger,1985-11-19,20,England,Manchester United,Premier League,2006/2007,2006
+Ole Gunnar Solskjaer,Second Striker,1973-02-26,33,Norway,Manchester United,Premier League,2006/2007,2006
+Wayne Rooney,Centre-Forward,1985-10-24,20,England,Manchester United,Premier League,2006/2007,2006
+Louis Saha,Centre-Forward,1978-08-08,27,France,Manchester United,Premier League,2006/2007,2006
+Henrik Larsson,Centre-Forward,1971-09-20,34,Sweden,Manchester United,Premier League,2006/2007,2006
+Fangzhuo Dong,Centre-Forward,1985-01-23,21,China,Manchester United,Premier League,2006/2007,2006
+Phil Marsh,Centre-Forward,1986-11-15,19,England,Manchester United,Premier League,2006/2007,2006
+Pepe Reina,Goalkeeper,1982-08-31,23,Spain,Liverpool FC,Premier League,2006/2007,2006
+Jerzy Dudek,Goalkeeper,1973-03-23,33,Poland,Liverpool FC,Premier League,2006/2007,2006
+Daniele Padelli,Goalkeeper,1985-10-25,20,Italy,Liverpool FC,Premier League,2006/2007,2006
+David Martin,Goalkeeper,1986-01-22,20,England,Liverpool FC,Premier League,2006/2007,2006
+Jamie Carragher,Centre-Back,1978-01-28,28,England,Liverpool FC,Premier League,2006/2007,2006
+Daniel Agger,Centre-Back,1984-12-12,21,Denmark,Liverpool FC,Premier League,2006/2007,2006
+Sami Hyypiä,Centre-Back,1973-10-07,32,Finland,Liverpool FC,Premier League,2006/2007,2006
+Gabriel Paletta,Centre-Back,1986-02-15,20,Italy,Liverpool FC,Premier League,2006/2007,2006
+Miki Roqué,Centre-Back,1988-07-08,17,Spain,Liverpool FC,Premier League,2006/2007,2006
+John Arne Riise,Left-Back,1980-09-24,25,Norway,Liverpool FC,Premier League,2006/2007,2006
+Fábio Aurélio,Left-Back,1979-09-24,26,Brazil,Liverpool FC,Premier League,2006/2007,2006
+Stephen Warnock,Left-Back,1981-12-12,24,England,Liverpool FC,Premier League,2006/2007,2006
+Emiliano Insúa,Left-Back,1989-01-07,17,Argentina,Liverpool FC,Premier League,2006/2007,2006
+Jan Kromkamp,Right-Back,1980-08-17,25,Netherlands,Liverpool FC,Premier League,2006/2007,2006
+Steve Finnan,Right-Back,1976-04-24,30,Ireland,Liverpool FC,Premier League,2006/2007,2006
+Álvaro Arbeloa,Right-Back,1983-01-17,23,Spain,Liverpool FC,Premier League,2006/2007,2006
+James Smith,Right-Back,1985-10-17,20,England,Liverpool FC,Premier League,2006/2007,2006
+Lee Peltier,Right-Back,1986-12-11,19,England,Liverpool FC,Premier League,2006/2007,2006
+Stephen Darby,Right-Back,1988-10-06,17,England,Liverpool FC,Premier League,2006/2007,2006
+Xabi Alonso,Defensive Midfield,1981-11-25,24,Spain,Liverpool FC,Premier League,2006/2007,2006
+Javier Mascherano,Defensive Midfield,1984-06-08,22,Argentina,Liverpool FC,Premier League,2006/2007,2006
+Mohamed Sissoko,Defensive Midfield,1985-01-22,21,Mali,Liverpool FC,Premier League,2006/2007,2006
+Steven Gerrard,Central Midfield,1980-05-30,26,England,Liverpool FC,Premier League,2006/2007,2006
+Danny Guthrie,Central Midfield,1987-04-18,19,England,Liverpool FC,Premier League,2006/2007,2006
+Francis Durán,Central Midfield,1988-04-28,18,Spain,Liverpool FC,Premier League,2006/2007,2006
+Craig Lindfield,Right Midfield,1988-09-07,17,England,Liverpool FC,Premier League,2006/2007,2006
+Paul Anderson,Right Midfield,1988-07-23,17,England,Liverpool FC,Premier League,2006/2007,2006
+Craig Bellamy,Left Winger,1979-07-13,26,Wales,Liverpool FC,Premier League,2006/2007,2006
+Harry Kewell,Left Winger,1978-09-22,27,Australia,Liverpool FC,Premier League,2006/2007,2006
+Boudewijn Zenden,Left Winger,1976-08-15,29,Netherlands,Liverpool FC,Premier League,2006/2007,2006
+Mark González,Left Winger,1984-07-10,21,Chile,Liverpool FC,Premier League,2006/2007,2006
+Dirk Kuyt,Right Winger,1980-07-22,25,Netherlands,Liverpool FC,Premier League,2006/2007,2006
+Luis García,Right Winger,1978-06-24,28,Spain,Liverpool FC,Premier League,2006/2007,2006
+Jermaine Pennant,Right Winger,1983-01-15,23,England,Liverpool FC,Premier League,2006/2007,2006
+Nabil El Zhar,Right Winger,1986-08-27,19,Morocco,Liverpool FC,Premier League,2006/2007,2006
+Florent Sinama-Pongolle,Second Striker,1984-10-20,21,France,Liverpool FC,Premier League,2006/2007,2006
+Peter Crouch,Centre-Forward,1981-01-30,25,England,Liverpool FC,Premier League,2006/2007,2006
+Robbie Fowler,Centre-Forward,1975-04-09,31,England,Liverpool FC,Premier League,2006/2007,2006
+Jens Lehmann,Goalkeeper,1969-11-10,36,Germany,Arsenal FC,Premier League,2006/2007,2006
+Mart Poom,Goalkeeper,1972-02-03,34,Estonia,Arsenal FC,Premier League,2006/2007,2006
+Manuel Almunia,Goalkeeper,1977-05-19,29,Spain,Arsenal FC,Premier League,2006/2007,2006
+Vito Mannone,Goalkeeper,1988-03-02,18,Italy,Arsenal FC,Premier League,2006/2007,2006
+William Gallas,Centre-Back,1977-08-17,28,France,Arsenal FC,Premier League,2006/2007,2006
+Kolo Touré,Centre-Back,1981-03-19,25,Cote d'Ivoire,Arsenal FC,Premier League,2006/2007,2006
+Philippe Senderos,Centre-Back,1985-02-14,21,Switzerland,Arsenal FC,Premier League,2006/2007,2006
+Pascal Cygan,Centre-Back,1974-04-29,32,France,Arsenal FC,Premier League,2006/2007,2006
+Johan Djourou,Centre-Back,1987-01-18,19,Switzerland,Arsenal FC,Premier League,2006/2007,2006
+Matthew Connolly,Centre-Back,1987-09-24,18,England,Arsenal FC,Premier League,2006/2007,2006
+Joe O'Cearuill,Centre-Back,1987-02-09,19,Ireland,Arsenal FC,Premier League,2006/2007,2006
+Gaël Clichy,Left-Back,1985-07-26,20,France,Arsenal FC,Premier League,2006/2007,2006
+Armand Traoré,Left-Back,1989-10-08,16,Senegal,Arsenal FC,Premier League,2006/2007,2006
+Kieran Gibbs,Left-Back,1989-09-26,16,England,Arsenal FC,Premier League,2006/2007,2006
+Laurén,Right-Back,1977-01-19,29,Cameroon,Arsenal FC,Premier League,2006/2007,2006
+Emmanuel Eboué,Right-Back,1983-06-04,23,Cote d'Ivoire,Arsenal FC,Premier League,2006/2007,2006
+Justin Hoyte,Right-Back,1984-11-20,21,Trinidad and Tobago,Arsenal FC,Premier League,2006/2007,2006
+Kerrea Gilbert,Right-Back,1987-02-28,19,England,Arsenal FC,Premier League,2006/2007,2006
+Gavin Hoyte,Right-Back,1990-06-06,16,Trinidad and Tobago,Arsenal FC,Premier League,2006/2007,2006
+Gilberto Silva,Defensive Midfield,1976-10-07,29,Brazil,Arsenal FC,Premier League,2006/2007,2006
+Mathieu Flamini,Defensive Midfield,1984-03-07,22,France,Arsenal FC,Premier League,2006/2007,2006
+Alex Song,Defensive Midfield,1987-09-09,18,Cameroon,Arsenal FC,Premier League,2006/2007,2006
+Denílson,Defensive Midfield,1988-02-16,18,Brazil,Arsenal FC,Premier League,2006/2007,2006
+Cesc Fàbregas,Central Midfield,1987-05-04,19,Spain,Arsenal FC,Premier League,2006/2007,2006
+Abou Diaby,Central Midfield,1986-05-11,20,France,Arsenal FC,Premier League,2006/2007,2006
+Henri Lansbury,Central Midfield,1990-10-12,15,England,Arsenal FC,Premier League,2006/2007,2006
+Mark Randall,Central Midfield,1989-09-28,16,England,Arsenal FC,Premier League,2006/2007,2006
+Júlio Baptista,Attacking Midfield,1981-10-01,24,Brazil,Arsenal FC,Premier League,2006/2007,2006
+Freddie Ljungberg,Attacking Midfield,1977-04-16,29,Sweden,Arsenal FC,Premier League,2006/2007,2006
+Aleksandr Hleb,Attacking Midfield,1981-05-01,25,Belarus,Arsenal FC,Premier League,2006/2007,2006
+Tomas Rosicky,Attacking Midfield,1980-10-04,25,Czech Republic,Arsenal FC,Premier League,2006/2007,2006
+Theo Walcott,Right Winger,1989-03-16,17,England,Arsenal FC,Premier League,2006/2007,2006
+Georgios Efrem,Right Winger,1989-07-05,16,Cyprus,Arsenal FC,Premier League,2006/2007,2006
+Thierry Henry,Centre-Forward,1977-08-17,28,France,Arsenal FC,Premier League,2006/2007,2006
+Emmanuel Adebayor,Centre-Forward,1984-02-26,22,Togo,Arsenal FC,Premier League,2006/2007,2006
+Robin van Persie,Centre-Forward,1983-08-06,22,Netherlands,Arsenal FC,Premier League,2006/2007,2006
+Jérémie Aliadière,Centre-Forward,1983-03-30,23,France,Arsenal FC,Premier League,2006/2007,2006
+Paul Robinson,Goalkeeper,1979-10-15,26,England,Tottenham Hotspur,Premier League,2006/2007,2006
+Radek Cerny,Goalkeeper,1974-02-18,32,Czech Republic,Tottenham Hotspur,Premier League,2006/2007,2006
+Márton Fülöp,Goalkeeper,1983-05-03,23,Hungary,Tottenham Hotspur,Premier League,2006/2007,2006
+Ben Alnwick,Goalkeeper,1987-01-01,19,England,Tottenham Hotspur,Premier League,2006/2007,2006
+Robert Burch,Goalkeeper,1984-10-08,21,England,Tottenham Hotspur,Premier League,2006/2007,2006
+Ledley King,Centre-Back,1980-10-12,25,England,Tottenham Hotspur,Premier League,2006/2007,2006
+Michael Dawson,Centre-Back,1983-11-18,22,England,Tottenham Hotspur,Premier League,2006/2007,2006
+Ricardo Rocha,Centre-Back,1978-10-03,27,Portugal,Tottenham Hotspur,Premier League,2006/2007,2006
+Anthony Gardner,Centre-Back,1981-08-18,24,England,Tottenham Hotspur,Premier League,2006/2007,2006
+Calum Davenport,Centre-Back,1983-01-01,23,England,Tottenham Hotspur,Premier League,2006/2007,2006
+Reto Ziegler,Centre-Back,1986-01-16,20,Switzerland,Tottenham Hotspur,Premier League,2006/2007,2006
+Dorian Dervite,Centre-Back,1988-07-25,17,France,Tottenham Hotspur,Premier League,2006/2007,2006
+Leigh Mills,Centre-Back,1988-02-08,18,England,Tottenham Hotspur,Premier League,2006/2007,2006
+Yeong-pyo Lee,Left-Back,1977-04-23,29,"Korea, South",Tottenham Hotspur,Premier League,2006/2007,2006
+Benoît Assou-Ekotto,Left-Back,1984-03-24,22,Cameroon,Tottenham Hotspur,Premier League,2006/2007,2006
+Pascal Chimbonda,Right-Back,1979-02-21,27,Guadeloupe,Tottenham Hotspur,Premier League,2006/2007,2006
+Paul Stalteri,Right-Back,1977-10-18,28,Canada,Tottenham Hotspur,Premier League,2006/2007,2006
+Philip Ifil,Right-Back,1986-11-18,19,England,Tottenham Hotspur,Premier League,2006/2007,2006
+Didier Zokora,Defensive Midfield,1980-12-14,25,Cote d'Ivoire,Tottenham Hotspur,Premier League,2006/2007,2006
+Tom Huddlestone,Defensive Midfield,1986-12-28,19,England,Tottenham Hotspur,Premier League,2006/2007,2006
+Teemu Tainio,Defensive Midfield,1979-11-27,26,Finland,Tottenham Hotspur,Premier League,2006/2007,2006
+Jermaine Jenas,Central Midfield,1983-02-18,23,England,Tottenham Hotspur,Premier League,2006/2007,2006
+Steed Malbranque,Central Midfield,1980-01-06,26,France,Tottenham Hotspur,Premier League,2006/2007,2006
+Edgar Davids,Central Midfield,1973-03-13,33,Netherlands,Tottenham Hotspur,Premier League,2006/2007,2006
+Danny Murphy,Central Midfield,1977-03-18,29,England,Tottenham Hotspur,Premier League,2006/2007,2006
+Hossam Ghaly,Central Midfield,1981-12-15,24,Egypt,Tottenham Hotspur,Premier League,2006/2007,2006
+Charlie Lee,Central Midfield,1987-01-05,19,England,Tottenham Hotspur,Premier League,2006/2007,2006
+Jamie O'Hara,Central Midfield,1986-09-25,19,England,Tottenham Hotspur,Premier League,2006/2007,2006
+Adel Taarabt,Attacking Midfield,1989-05-24,17,Morocco,Tottenham Hotspur,Premier League,2006/2007,2006
+Mark Yeates,Left Winger,1985-01-11,21,Ireland,Tottenham Hotspur,Premier League,2006/2007,2006
+Andy Barcham,Left Winger,1986-12-16,19,England,Tottenham Hotspur,Premier League,2006/2007,2006
+Aaron Lennon,Right Winger,1987-04-16,19,England,Tottenham Hotspur,Premier League,2006/2007,2006
+Dimitar Berbatov,Centre-Forward,1981-01-30,25,Bulgaria,Tottenham Hotspur,Premier League,2006/2007,2006
+Jermain Defoe,Centre-Forward,1982-10-07,23,England,Tottenham Hotspur,Premier League,2006/2007,2006
+Robbie Keane,Centre-Forward,1980-07-08,25,Ireland,Tottenham Hotspur,Premier League,2006/2007,2006
+Mido,Centre-Forward,1983-02-23,23,Egypt,Tottenham Hotspur,Premier League,2006/2007,2006
+Tomas Pekhart,Centre-Forward,1989-05-26,17,Czech Republic,Tottenham Hotspur,Premier League,2006/2007,2006
+Lee Barnard,Centre-Forward,1984-07-18,21,England,Tottenham Hotspur,Premier League,2006/2007,2006
+Shay Given,Goalkeeper,1976-04-20,30,Ireland,Newcastle United,Premier League,2006/2007,2006
+Steve Harper,Goalkeeper,1975-03-14,31,England,Newcastle United,Premier League,2006/2007,2006
+Pavel Srnicek,Goalkeeper,1968-03-10,38,Czech Republic,Newcastle United,Premier League,2006/2007,2006
+Tim Krul,Goalkeeper,1988-04-03,18,Netherlands,Newcastle United,Premier League,2006/2007,2006
+Fraser Forster,Goalkeeper,1988-03-17,18,England,Newcastle United,Premier League,2006/2007,2006
+Oguchi Onyewu,Centre-Back,1982-05-13,24,United States,Newcastle United,Premier League,2006/2007,2006
+Titus Bramble,Centre-Back,1981-07-31,24,England,Newcastle United,Premier League,2006/2007,2006
+Abdoulaye Fayé,Centre-Back,1978-02-26,28,Senegal,Newcastle United,Premier League,2006/2007,2006
+Peter Ramage,Centre-Back,1983-11-22,22,England,Newcastle United,Premier League,2006/2007,2006
+Steven Taylor,Centre-Back,1986-01-23,20,England,Newcastle United,Premier League,2006/2007,2006
+Craig Moore,Centre-Back,1975-12-12,30,Australia,Newcastle United,Premier League,2006/2007,2006
+David Edgar,Centre-Back,1987-05-19,19,Canada,Newcastle United,Premier League,2006/2007,2006
+Paul Huntington,Centre-Back,1987-09-17,18,England,Newcastle United,Premier League,2006/2007,2006
+Celestine Babayaro,Left-Back,1978-08-29,27,Nigeria,Newcastle United,Premier League,2006/2007,2006
+Olivier Bernard,Left-Back,1979-10-14,26,France,Newcastle United,Premier League,2006/2007,2006
+Stephen Carr,Right-Back,1976-08-29,29,Ireland,Newcastle United,Premier League,2006/2007,2006
+Scott Parker,Central Midfield,1980-10-13,25,England,Newcastle United,Premier League,2006/2007,2006
+Emre Belözoglu,Central Midfield,1980-09-07,25,Turkey,Newcastle United,Premier League,2006/2007,2006
+James Milner,Central Midfield,1986-01-04,20,England,Newcastle United,Premier League,2006/2007,2006
+Nicky Butt,Central Midfield,1975-01-21,31,England,Newcastle United,Premier League,2006/2007,2006
+Matthew Pattison,Central Midfield,1986-10-27,19,South Africa,Newcastle United,Premier League,2006/2007,2006
+Damien Duff,Right Midfield,1979-03-02,27,Ireland,Newcastle United,Premier League,2006/2007,2006
+Kieron Dyer,Right Midfield,1978-12-29,27,England,Newcastle United,Premier League,2006/2007,2006
+Nolberto Solano,Right Midfield,1974-12-12,31,Peru,Newcastle United,Premier League,2006/2007,2006
+Alan O'Brien,Left Midfield,1985-02-20,21,Ireland,Newcastle United,Premier League,2006/2007,2006
+Antoine Sibierski,Attacking Midfield,1974-08-05,31,France,Newcastle United,Premier League,2006/2007,2006
+James Troisi,Attacking Midfield,1988-07-03,17,Australia,Newcastle United,Premier League,2006/2007,2006
+Albert Luque,Left Winger,1978-03-11,28,Spain,Newcastle United,Premier League,2006/2007,2006
+Charles N'Zogbia,Right Winger,1986-05-28,20,France,Newcastle United,Premier League,2006/2007,2006
+Lomana LuaLua,Second Striker,1980-12-28,25,DR Congo,Newcastle United,Premier League,2006/2007,2006
+Michael Owen,Centre-Forward,1979-12-14,26,England,Newcastle United,Premier League,2006/2007,2006
+Obafemi Martins,Centre-Forward,1984-10-28,21,Nigeria,Newcastle United,Premier League,2006/2007,2006
+Shola Ameobi,Centre-Forward,1981-10-12,24,Nigeria,Newcastle United,Premier League,2006/2007,2006
+Giuseppe Rossi,Centre-Forward,1987-02-01,19,Italy,Newcastle United,Premier League,2006/2007,2006
+Andy Carroll,Centre-Forward,1989-01-06,17,England,Newcastle United,Premier League,2006/2007,2006
+Thomas Sörensen,Goalkeeper,1976-06-12,30,Denmark,Aston Villa,Premier League,2006/2007,2006
+Gábor Király,Goalkeeper,1976-04-01,30,Hungary,Aston Villa,Premier League,2006/2007,2006
+Stuart Taylor,Goalkeeper,1980-11-28,25,England,Aston Villa,Premier League,2006/2007,2006
+Bobby Olejnik,Goalkeeper,1986-11-26,19,Austria,Aston Villa,Premier League,2006/2007,2006
+Olof Mellberg,Centre-Back,1977-09-03,28,Sweden,Aston Villa,Premier League,2006/2007,2006
+Martin Laursen,Centre-Back,1977-07-26,28,Denmark,Aston Villa,Premier League,2006/2007,2006
+Aaron Hughes,Centre-Back,1979-11-08,26,Northern Ireland,Aston Villa,Premier League,2006/2007,2006
+Liam Ridgewell,Centre-Back,1984-07-21,21,England,Aston Villa,Premier League,2006/2007,2006
+Gary Cahill,Centre-Back,1985-12-19,20,England,Aston Villa,Premier League,2006/2007,2006
+Wilfred Bouma,Left-Back,1978-06-15,28,Netherlands,Aston Villa,Premier League,2006/2007,2006
+Ashley Young,Left-Back,1985-07-09,20,England,Aston Villa,Premier League,2006/2007,2006
+Mark Delaney,Right-Back,1976-05-13,30,Wales,Aston Villa,Premier League,2006/2007,2006
+Phil Bardsley,Right-Back,1985-06-28,21,Scotland,Aston Villa,Premier League,2006/2007,2006
+Gareth Barry,Defensive Midfield,1981-02-23,25,England,Aston Villa,Premier League,2006/2007,2006
+Jlloyd Samuel,Defensive Midfield,1981-03-29,25,Trinidad and Tobago,Aston Villa,Premier League,2006/2007,2006
+Eric Djemba Djemba,Defensive Midfield,1981-05-04,25,Cameroon,Aston Villa,Premier League,2006/2007,2006
+Isaiah Osbourne,Defensive Midfield,1987-11-05,18,England,Aston Villa,Premier League,2006/2007,2006
+Stiliyan Petrov,Central Midfield,1979-07-05,26,Bulgaria,Aston Villa,Premier League,2006/2007,2006
+Gavin McCann,Central Midfield,1978-01-10,28,England,Aston Villa,Premier League,2006/2007,2006
+Steven Davis,Central Midfield,1985-01-01,21,Northern Ireland,Aston Villa,Premier League,2006/2007,2006
+Peter Whittingham,Central Midfield,1984-09-08,21,England,Aston Villa,Premier League,2006/2007,2006
+Craig Gardner,Central Midfield,1986-11-25,19,England,Aston Villa,Premier League,2006/2007,2006
+Didier Agathé,Right Midfield,1975-08-16,30,France,Aston Villa,Premier League,2006/2007,2006
+Lee Hendrie,Left Midfield,1977-05-18,29,England,Aston Villa,Premier League,2006/2007,2006
+Patrik Berger,Attacking Midfield,1973-11-10,32,Czech Republic,Aston Villa,Premier League,2006/2007,2006
+Shaun Maloney,Attacking Midfield,1983-01-24,23,Scotland,Aston Villa,Premier League,2006/2007,2006
+Milan Baros,Centre-Forward,1981-10-28,24,Czech Republic,Aston Villa,Premier League,2006/2007,2006
+John Carew,Centre-Forward,1979-09-05,26,Norway,Aston Villa,Premier League,2006/2007,2006
+Juan Pablo Ángel,Centre-Forward,1975-10-24,30,Colombia,Aston Villa,Premier League,2006/2007,2006
+Kevin Phillips,Centre-Forward,1973-07-25,32,England,Aston Villa,Premier League,2006/2007,2006
+Chris Sutton,Centre-Forward,1973-03-10,33,England,Aston Villa,Premier League,2006/2007,2006
+Luke Moore,Centre-Forward,1986-02-13,20,England,Aston Villa,Premier League,2006/2007,2006
+Gabriel Agbonlahor,Centre-Forward,1986-10-13,19,England,Aston Villa,Premier League,2006/2007,2006
+Sam Williams,Centre-Forward,1987-06-09,19,England,Aston Villa,Premier League,2006/2007,2006
+Rob Green,Goalkeeper,1980-01-18,26,England,West Ham United,Premier League,2006/2007,2006
+Roy Carroll,Goalkeeper,1977-09-30,28,Northern Ireland,West Ham United,Premier League,2006/2007,2006
+Jimmy Walker,Goalkeeper,1973-07-09,32,England,West Ham United,Premier League,2006/2007,2006
+Matthew Upson,Centre-Back,1979-04-18,27,England,West Ham United,Premier League,2006/2007,2006
+Anton Ferdinand,Centre-Back,1985-02-18,21,England,West Ham United,Premier League,2006/2007,2006
+Lucas Neill,Centre-Back,1978-03-09,28,Australia,West Ham United,Premier League,2006/2007,2006
+Christian Dailly,Centre-Back,1973-10-23,32,Scotland,West Ham United,Premier League,2006/2007,2006
+Calum Davenport,Centre-Back,1983-01-01,23,England,West Ham United,Premier League,2006/2007,2006
+Jonathan Spector,Centre-Back,1986-03-01,20,United States,West Ham United,Premier League,2006/2007,2006
+Danny Gabbidon,Centre-Back,1979-08-08,26,Wales,West Ham United,Premier League,2006/2007,2006
+James Collins,Centre-Back,1983-08-23,22,Wales,West Ham United,Premier League,2006/2007,2006
+Paul Konchesky,Left-Back,1981-05-15,25,England,West Ham United,Premier League,2006/2007,2006
+George McCartney,Left-Back,1981-04-29,25,Northern Ireland,West Ham United,Premier League,2006/2007,2006
+John Paintsil,Right-Back,1981-06-15,25,Ghana,West Ham United,Premier League,2006/2007,2006
+Tyrone Mears,Right-Back,1983-02-18,23,England,West Ham United,Premier League,2006/2007,2006
+Javier Mascherano,Defensive Midfield,1984-06-08,22,Argentina,West Ham United,Premier League,2006/2007,2006
+Nigel Reo-Coker,Defensive Midfield,1984-05-14,22,England,West Ham United,Premier League,2006/2007,2006
+Hayden Mullins,Defensive Midfield,1979-03-27,27,England,West Ham United,Premier League,2006/2007,2006
+Lee Bowyer,Central Midfield,1977-01-03,29,England,West Ham United,Premier League,2006/2007,2006
+Nigel Quashie,Central Midfield,1978-07-20,27,Scotland,West Ham United,Premier League,2006/2007,2006
+Mark Noble,Central Midfield,1987-05-08,19,England,West Ham United,Premier League,2006/2007,2006
+Tony Stokes,Central Midfield,1987-01-07,19,England,West Ham United,Premier League,2006/2007,2006
+Shaun Newton,Right Midfield,1975-08-20,30,England,West Ham United,Premier League,2006/2007,2006
+Luís Boa Morte,Left Midfield,1977-08-04,28,Portugal,West Ham United,Premier League,2006/2007,2006
+Matthew Etherington,Left Midfield,1981-08-14,24,England,West Ham United,Premier League,2006/2007,2006
+Hogan Ephraim,Left Midfield,1988-03-31,18,England,West Ham United,Premier League,2006/2007,2006
+Kyel Reid,Left Winger,1987-11-26,18,England,West Ham United,Premier League,2006/2007,2006
+Yossi Benayoun,Right Winger,1980-05-05,26,Israel,West Ham United,Premier League,2006/2007,2006
+Carlos Tévez,Second Striker,1984-02-05,22,Argentina,West Ham United,Premier League,2006/2007,2006
+Dean Ashton,Centre-Forward,1983-11-24,22,England,West Ham United,Premier League,2006/2007,2006
+Marlon Harewood,Centre-Forward,1979-08-25,26,England,West Ham United,Premier League,2006/2007,2006
+Bobby Zamora,Centre-Forward,1981-01-16,25,England,West Ham United,Premier League,2006/2007,2006
+Carlton Cole,Centre-Forward,1983-10-12,22,England,West Ham United,Premier League,2006/2007,2006
+Kepa Blanco,Centre-Forward,1984-01-13,22,Spain,West Ham United,Premier League,2006/2007,2006
+Teddy Sheringham,Centre-Forward,1966-04-02,40,England,West Ham United,Premier League,2006/2007,2006
+Tim Howard,Goalkeeper,1979-03-06,27,United States,Everton FC,Premier League,2006/2007,2006
+Richard Wright,Goalkeeper,1977-11-05,28,England,Everton FC,Premier League,2006/2007,2006
+Iain Turner,Goalkeeper,1984-01-26,22,Scotland,Everton FC,Premier League,2006/2007,2006
+Joleon Lescott,Centre-Back,1982-08-16,23,England,Everton FC,Premier League,2006/2007,2006
+Joseph Yobo,Centre-Back,1980-09-06,25,Nigeria,Everton FC,Premier League,2006/2007,2006
+Alan Stubbs,Centre-Back,1971-10-06,34,England,Everton FC,Premier League,2006/2007,2006
+David Weir,Centre-Back,1970-05-10,36,Scotland,Everton FC,Premier League,2006/2007,2006
+Mark Hughes,Centre-Back,1986-12-09,19,England,Everton FC,Premier League,2006/2007,2006
+Nuno Valente,Left-Back,1974-09-12,31,Portugal,Everton FC,Premier League,2006/2007,2006
+Alessandro Pistone,Left-Back,1975-07-27,30,Italy,Everton FC,Premier League,2006/2007,2006
+Gary Naysmith,Left-Back,1978-11-16,27,Scotland,Everton FC,Premier League,2006/2007,2006
+Paddy Boyle,Left-Back,1987-03-20,19,Scotland,Everton FC,Premier League,2006/2007,2006
+Phil Neville,Right-Back,1977-01-21,29,England,Everton FC,Premier League,2006/2007,2006
+Tony Hibbert,Right-Back,1981-02-20,25,England,Everton FC,Premier League,2006/2007,2006
+Andy Holt,Midfielder,1978-04-21,28,England,Everton FC,Premier League,2006/2007,2006
+Lee Carsley,Defensive Midfield,1974-02-28,32,Ireland,Everton FC,Premier League,2006/2007,2006
+Anderson Silva,Defensive Midfield,1982-08-28,23,Brazil,Everton FC,Premier League,2006/2007,2006
+Mikel Arteta,Central Midfield,1982-03-26,24,Spain,Everton FC,Premier League,2006/2007,2006
+Leon Osman,Central Midfield,1981-05-17,25,England,Everton FC,Premier League,2006/2007,2006
+Bjarni Vidarsson,Central Midfield,1988-03-05,18,Iceland,Everton FC,Premier League,2006/2007,2006
+Simon Davies,Right Midfield,1979-10-23,26,Wales,Everton FC,Premier League,2006/2007,2006
+Kevin Kilbane,Left Midfield,1977-02-01,29,Ireland,Everton FC,Premier League,2006/2007,2006
+Tim Cahill,Attacking Midfield,1979-12-06,26,Australia,Everton FC,Premier League,2006/2007,2006
+Manuel Fernandes,Attacking Midfield,1986-02-05,20,Portugal,Everton FC,Premier League,2006/2007,2006
+Andy van der Meyde,Right Winger,1979-09-30,26,Netherlands,Everton FC,Premier League,2006/2007,2006
+James McFadden,Second Striker,1983-04-14,23,Scotland,Everton FC,Premier League,2006/2007,2006
+Andy Johnson,Centre-Forward,1981-02-10,25,England,Everton FC,Premier League,2006/2007,2006
+James Beattie,Centre-Forward,1978-02-27,28,England,Everton FC,Premier League,2006/2007,2006
+James Vaughan,Centre-Forward,1988-07-14,17,England,Everton FC,Premier League,2006/2007,2006
+Victor Anichebe,Centre-Forward,1988-04-23,18,Nigeria,Everton FC,Premier League,2006/2007,2006
+Mark Schwarzer,Goalkeeper,1972-10-06,33,Australia,Middlesbrough FC,Premier League,2006/2007,2006
+Brad Jones,Goalkeeper,1982-03-19,24,Australia,Middlesbrough FC,Premier League,2006/2007,2006
+Ross Turnbull,Goalkeeper,1985-01-04,21,England,Middlesbrough FC,Premier League,2006/2007,2006
+David Knight,Goalkeeper,1987-01-15,19,England,Middlesbrough FC,Premier League,2006/2007,2006
+Jonathan Woodgate,Centre-Back,1980-01-22,26,England,Middlesbrough FC,Premier League,2006/2007,2006
+Emanuel Pogatetz,Centre-Back,1983-01-16,23,Austria,Middlesbrough FC,Premier League,2006/2007,2006
+Ugo Ehiogu,Centre-Back,1972-11-03,33,England,Middlesbrough FC,Premier League,2006/2007,2006
+Chris Riggott,Centre-Back,1980-09-01,25,England,Middlesbrough FC,Premier League,2006/2007,2006
+Robert Huth,Centre-Back,1984-08-18,21,Germany,Middlesbrough FC,Premier League,2006/2007,2006
+Matthew Bates,Centre-Back,1986-12-10,19,England,Middlesbrough FC,Premier League,2006/2007,2006
+Andrew Davies,Centre-Back,1984-12-17,21,England,Middlesbrough FC,Premier League,2006/2007,2006
+David Wheater,Centre-Back,1987-02-14,19,England,Middlesbrough FC,Premier League,2006/2007,2006
+Seb Hines,Centre-Back,1988-05-29,18,England,Middlesbrough FC,Premier League,2006/2007,2006
+Rhys Williams,Centre-Back,1988-07-14,17,Australia,Middlesbrough FC,Premier League,2006/2007,2006
+Andrew Taylor,Left-Back,1986-08-01,19,England,Middlesbrough FC,Premier League,2006/2007,2006
+Stuart Parnaby,Right-Back,1982-07-19,23,England,Middlesbrough FC,Premier League,2006/2007,2006
+Abel Xavier,Right-Back,1972-11-30,33,Portugal,Middlesbrough FC,Premier League,2006/2007,2006
+Tony McMahon,Right-Back,1986-03-24,20,England,Middlesbrough FC,Premier League,2006/2007,2006
+George Boateng,Defensive Midfield,1975-09-05,30,Netherlands,Middlesbrough FC,Premier League,2006/2007,2006
+Lee Cattermole,Defensive Midfield,1988-03-21,18,England,Middlesbrough FC,Premier League,2006/2007,2006
+Fábio Rochemback,Central Midfield,1981-12-10,24,Brazil,Middlesbrough FC,Premier League,2006/2007,2006
+Julio Arca,Central Midfield,1981-01-31,25,Argentina,Middlesbrough FC,Premier League,2006/2007,2006
+James Morrison,Central Midfield,1986-05-25,20,Scotland,Middlesbrough FC,Premier League,2006/2007,2006
+Josh Walker,Central Midfield,1989-02-21,17,England,Middlesbrough FC,Premier League,2006/2007,2006
+Gaizka Mendieta,Right Midfield,1974-03-27,32,Spain,Middlesbrough FC,Premier League,2006/2007,2006
+Stewart Downing,Left Midfield,1984-07-22,21,England,Middlesbrough FC,Premier League,2006/2007,2006
+Malcolm Christie,Right Winger,1979-04-11,27,England,Middlesbrough FC,Premier League,2006/2007,2006
+Adam Johnson,Right Winger,1987-07-14,18,England,Middlesbrough FC,Premier League,2006/2007,2006
+Jason Euell,Second Striker,1977-02-06,29,Jamaica,Middlesbrough FC,Premier League,2006/2007,2006
+Yakubu Aiyegbeni,Centre-Forward,1982-11-22,23,Nigeria,Middlesbrough FC,Premier League,2006/2007,2006
+Mark Viduka,Centre-Forward,1975-10-09,30,Australia,Middlesbrough FC,Premier League,2006/2007,2006
+Massimo Maccarone,Centre-Forward,1979-09-06,26,Italy,Middlesbrough FC,Premier League,2006/2007,2006
+Dong-guk Lee,Centre-Forward,1979-04-29,27,"Korea, South",Middlesbrough FC,Premier League,2006/2007,2006
+Danny Graham,Centre-Forward,1985-08-12,20,England,Middlesbrough FC,Premier League,2006/2007,2006
+Tom Craddock,Centre-Forward,1986-10-14,19,England,Middlesbrough FC,Premier League,2006/2007,2006
+Andreas Isaksson,Goalkeeper,1981-10-03,24,Sweden,Manchester City,Premier League,2006/2007,2006
+Joe Hart,Goalkeeper,1987-04-19,19,England,Manchester City,Premier League,2006/2007,2006
+Nicky Weaver,Goalkeeper,1979-03-02,27,England,Manchester City,Premier League,2006/2007,2006
+Sylvain Distin,Centre-Back,1977-12-16,28,France,Manchester City,Premier League,2006/2007,2006
+Richard Dunne,Centre-Back,1979-09-21,26,Ireland,Manchester City,Premier League,2006/2007,2006
+Jihai Sun,Centre-Back,1977-09-30,28,China,Manchester City,Premier League,2006/2007,2006
+Nedum Onuoha,Centre-Back,1986-11-12,19,England,Manchester City,Premier League,2006/2007,2006
+Stephen Jordan,Centre-Back,1982-03-06,24,England,Manchester City,Premier League,2006/2007,2006
+Matt Mills,Centre-Back,1986-07-14,19,England,Manchester City,Premier League,2006/2007,2006
+Ben Thatcher,Left-Back,1975-11-30,30,Wales,Manchester City,Premier League,2006/2007,2006
+DaMarcus Beasley,Left-Back,1982-05-24,24,United States,Manchester City,Premier League,2006/2007,2006
+Michael Ball,Left-Back,1979-10-02,26,England,Manchester City,Premier League,2006/2007,2006
+Danny Mills,Right-Back,1977-05-18,29,England,Manchester City,Premier League,2006/2007,2006
+Hatem Trabelsi,Right-Back,1977-01-25,29,Tunisia,Manchester City,Premier League,2006/2007,2006
+Micah Richards,Right-Back,1988-06-24,18,England,Manchester City,Premier League,2006/2007,2006
+Danny Warrender,Right-Back,1986-04-28,20,England,Manchester City,Premier League,2006/2007,2006
+Nathan D'Laryea,Right-Back,1985-09-03,20,England,Manchester City,Premier League,2006/2007,2006
+Ousmane Dabo,Defensive Midfield,1977-02-08,29,France,Manchester City,Premier League,2006/2007,2006
+Dietmar Hamann,Defensive Midfield,1973-08-27,32,Germany,Manchester City,Premier League,2006/2007,2006
+Michael Johnson,Defensive Midfield,1988-02-24,18,England,Manchester City,Premier League,2006/2007,2006
+Joey Barton,Central Midfield,1982-09-02,23,England,Manchester City,Premier League,2006/2007,2006
+Claudio Reyna,Central Midfield,1973-07-20,32,United States,Manchester City,Premier League,2006/2007,2006
+Stephen Ireland,Attacking Midfield,1986-08-22,19,Ireland,Manchester City,Premier League,2006/2007,2006
+Georgios Samaras,Left Winger,1985-02-21,21,Greece,Manchester City,Premier League,2006/2007,2006
+Trevor Sinclair,Left Winger,1973-03-02,33,England,Manchester City,Premier League,2006/2007,2006
+Djamel Abdoun,Right Winger,1986-02-14,20,Algeria,Manchester City,Premier League,2006/2007,2006
+Darius Vassell,Centre-Forward,1980-06-13,26,England,Manchester City,Premier League,2006/2007,2006
+Bernardo Corradi,Centre-Forward,1976-03-30,30,Italy,Manchester City,Premier League,2006/2007,2006
+Emile Mpenza,Centre-Forward,1978-07-04,27,Belgium,Manchester City,Premier League,2006/2007,2006
+Paul Dickov,Centre-Forward,1972-11-01,33,Scotland,Manchester City,Premier League,2006/2007,2006
+Ishmael Miller,Centre-Forward,1987-03-05,19,England,Manchester City,Premier League,2006/2007,2006
+Daniel Sturridge,Centre-Forward,1989-09-01,16,England,Manchester City,Premier League,2006/2007,2006
+David James,Goalkeeper,1970-08-01,35,England,Portsmouth FC,Premier League,2006/2007,2006
+Dean Kiely,Goalkeeper,1970-10-10,35,Ireland,Portsmouth FC,Premier League,2006/2007,2006
+Jamie Ashdown,Goalkeeper,1980-11-30,25,England,Portsmouth FC,Premier League,2006/2007,2006
+Sol Campbell,Centre-Back,1974-09-18,31,England,Portsmouth FC,Premier League,2006/2007,2006
+Andrew O'Brien,Centre-Back,1979-06-29,27,Ireland,Portsmouth FC,Premier League,2006/2007,2006
+Djimi Traoré,Centre-Back,1980-03-01,26,Mali,Portsmouth FC,Premier League,2006/2007,2006
+Noé Pamarot,Centre-Back,1979-04-14,27,France,Portsmouth FC,Premier League,2006/2007,2006
+Dejan Stefanovic,Centre-Back,1974-10-28,31,Serbia,Portsmouth FC,Premier League,2006/2007,2006
+Linvoy Primus,Centre-Back,1973-09-14,32,England,Portsmouth FC,Premier League,2006/2007,2006
+Laurén,Right-Back,1977-01-19,29,Cameroon,Portsmouth FC,Premier League,2006/2007,2006
+Glen Johnson,Right-Back,1984-08-23,21,England,Portsmouth FC,Premier League,2006/2007,2006
+Andy Griffin,Right-Back,1979-03-17,27,England,Portsmouth FC,Premier League,2006/2007,2006
+Sean Davis,Defensive Midfield,1979-09-20,26,England,Portsmouth FC,Premier League,2006/2007,2006
+Pedro Mendes,Defensive Midfield,1979-02-26,27,Portugal,Portsmouth FC,Premier League,2006/2007,2006
+Arnold Mvuemba,Defensive Midfield,1985-01-28,21,DR Congo,Portsmouth FC,Premier League,2006/2007,2006
+Richard Hughes,Defensive Midfield,1979-06-25,27,Scotland,Portsmouth FC,Premier League,2006/2007,2006
+Gary O'Neil,Central Midfield,1983-05-18,23,England,Portsmouth FC,Premier League,2006/2007,2006
+David Thompson,Right Midfield,1977-09-12,28,England,Portsmouth FC,Premier League,2006/2007,2006
+Matthew Taylor,Left Midfield,1981-11-27,24,England,Portsmouth FC,Premier League,2006/2007,2006
+Manuel Fernandes,Attacking Midfield,1986-02-05,20,Portugal,Portsmouth FC,Premier League,2006/2007,2006
+Niko Kranjcar,Attacking Midfield,1984-08-13,21,Croatia,Portsmouth FC,Premier League,2006/2007,2006
+Daryl Fordyce,Attacking Midfield,1987-01-02,19,Northern Ireland,Portsmouth FC,Premier League,2006/2007,2006
+Douala,Left Winger,1978-09-25,27,Cameroon,Portsmouth FC,Premier League,2006/2007,2006
+Ognjen Koroman,Right Winger,1978-09-19,27,Serbia,Portsmouth FC,Premier League,2006/2007,2006
+Franck Songo'o,Right Winger,1987-05-14,19,Cameroon,Portsmouth FC,Premier League,2006/2007,2006
+Lomana LuaLua,Second Striker,1980-12-28,25,DR Congo,Portsmouth FC,Premier League,2006/2007,2006
+Benjani,Centre-Forward,1978-08-13,27,Zimbabwe,Portsmouth FC,Premier League,2006/2007,2006
+Andy Cole,Centre-Forward,1971-10-15,34,England,Portsmouth FC,Premier League,2006/2007,2006
+Nwankwo Kanu,Centre-Forward,1976-08-01,29,Nigeria,Portsmouth FC,Premier League,2006/2007,2006
+Svetoslav Todorov,Centre-Forward,1978-08-30,27,Bulgaria,Portsmouth FC,Premier League,2006/2007,2006
+Antti Niemi,Goalkeeper,1972-05-31,34,Finland,Fulham FC,Premier League,2006/2007,2006
+Jan Lastuvka,Goalkeeper,1982-07-07,23,Czech Republic,Fulham FC,Premier League,2006/2007,2006
+Ricardo Batista,Goalkeeper,1986-11-19,19,Portugal,Fulham FC,Premier League,2006/2007,2006
+Mark Crossley,Goalkeeper,1969-06-16,37,Wales,Fulham FC,Premier League,2006/2007,2006
+Tony Warner,Goalkeeper,1974-05-11,32,Trinidad and Tobago,Fulham FC,Premier League,2006/2007,2006
+Zat Knight,Centre-Back,1980-05-02,26,England,Fulham FC,Premier League,2006/2007,2006
+Carlos Bocanegra,Centre-Back,1979-05-25,27,United States,Fulham FC,Premier League,2006/2007,2006
+Ian Pearce,Centre-Back,1974-05-07,32,England,Fulham FC,Premier League,2006/2007,2006
+Philippe Christanval,Centre-Back,1978-08-31,27,France,Fulham FC,Premier League,2006/2007,2006
+Gabriel Zakuani,Centre-Back,1986-05-31,20,DR Congo,Fulham FC,Premier League,2006/2007,2006
+Franck Queudrue,Left-Back,1978-08-27,27,France,Fulham FC,Premier League,2006/2007,2006
+Niclas Jensen,Left-Back,1974-08-17,31,Denmark,Fulham FC,Premier League,2006/2007,2006
+Matthew Briggs,Left-Back,1991-03-06,15,Guyana,Fulham FC,Premier League,2006/2007,2006
+Moritz Volz,Right-Back,1983-01-21,23,Germany,Fulham FC,Premier League,2006/2007,2006
+Liam Rosenior,Right-Back,1984-07-09,21,England,Fulham FC,Premier League,2006/2007,2006
+Elliot Omozusi,Right-Back,1988-12-15,17,England,Fulham FC,Premier League,2006/2007,2006
+Aleksey Smertin,Defensive Midfield,1975-05-01,31,Russia,Fulham FC,Premier League,2006/2007,2006
+Papa Bouba Diop,Defensive Midfield,1978-01-28,28,Senegal,Fulham FC,Premier League,2006/2007,2006
+Simon Elliott,Defensive Midfield,1974-06-10,32,New Zealand,Fulham FC,Premier League,2006/2007,2006
+Jimmy Bullard,Central Midfield,1978-10-23,27,England,Fulham FC,Premier League,2006/2007,2006
+Michael Brown,Central Midfield,1977-01-25,29,England,Fulham FC,Premier League,2006/2007,2006
+Michael Timlin,Central Midfield,1985-03-19,21,Ireland,Fulham FC,Premier League,2006/2007,2006
+Matthew Collins,Central Midfield,1986-03-31,20,Wales,Fulham FC,Premier League,2006/2007,2006
+Rob Milsom,Central Midfield,1987-01-02,19,England,Fulham FC,Premier League,2006/2007,2006
+Simon Davies,Right Midfield,1979-10-23,26,Wales,Fulham FC,Premier League,2006/2007,2006
+Ahmad Elrich,Right Midfield,1981-05-30,25,Australia,Fulham FC,Premier League,2006/2007,2006
+Luís Boa Morte,Left Midfield,1977-08-04,28,Portugal,Fulham FC,Premier League,2006/2007,2006
+Mark Pembridge,Left Midfield,1970-11-29,35,Wales,Fulham FC,Premier League,2006/2007,2006
+Claus Jensen,Attacking Midfield,1977-04-29,29,Denmark,Fulham FC,Premier League,2006/2007,2006
+Wayne Routledge,Left Winger,1985-01-07,21,England,Fulham FC,Premier League,2006/2007,2006
+Clint Dempsey,Second Striker,1983-03-09,23,United States,Fulham FC,Premier League,2006/2007,2006
+Vincenzo Montella,Centre-Forward,1974-06-18,32,Italy,Fulham FC,Premier League,2006/2007,2006
+Tomasz Radzinski,Centre-Forward,1973-12-14,32,Canada,Fulham FC,Premier League,2006/2007,2006
+Björn Runström,Centre-Forward,1984-03-01,22,Sweden,Fulham FC,Premier League,2006/2007,2006
+Collins John,Centre-Forward,1985-10-17,20,Netherlands,Fulham FC,Premier League,2006/2007,2006
+Brian McBride,Centre-Forward,1972-06-19,34,United States,Fulham FC,Premier League,2006/2007,2006
+Heidar Helguson,Centre-Forward,1977-08-22,28,Iceland,Fulham FC,Premier League,2006/2007,2006
+Thomas Myhre,Goalkeeper,1973-10-16,32,Norway,Charlton Athletic,Premier League,2006/2007,2006
+Scott Carson,Goalkeeper,1985-09-03,20,England,Charlton Athletic,Premier League,2006/2007,2006
+Stephan Andersen,Goalkeeper,1981-11-26,24,Denmark,Charlton Athletic,Premier League,2006/2007,2006
+Rob Elliot,Goalkeeper,1986-04-30,20,Ireland,Charlton Athletic,Premier League,2006/2007,2006
+Darren Randolph,Goalkeeper,1987-05-12,19,Ireland,Charlton Athletic,Premier League,2006/2007,2006
+Souleymane Diawara,Centre-Back,1978-12-24,27,Senegal,Charlton Athletic,Premier League,2006/2007,2006
+Hermann Hreidarsson,Centre-Back,1974-07-11,31,Iceland,Charlton Athletic,Premier League,2006/2007,2006
+Djimi Traoré,Centre-Back,1980-03-01,26,Mali,Charlton Athletic,Premier League,2006/2007,2006
+Gonzalo Sorondo,Centre-Back,1979-10-09,26,Uruguay,Charlton Athletic,Premier League,2006/2007,2006
+Talal El Karkouri,Centre-Back,1976-07-08,29,Morocco,Charlton Athletic,Premier League,2006/2007,2006
+Cory Gibbs,Centre-Back,1980-01-14,26,United States,Charlton Athletic,Premier League,2006/2007,2006
+Jonathan Fortune,Centre-Back,1980-08-23,25,England,Charlton Athletic,Premier League,2006/2007,2006
+Madjid Bougherra,Centre-Back,1982-10-07,23,Algeria,Charlton Athletic,Premier League,2006/2007,2006
+Ben Thatcher,Left-Back,1975-11-30,30,Wales,Charlton Athletic,Premier League,2006/2007,2006
+Nathan Ashton,Left-Back,1987-01-30,19,England,Charlton Athletic,Premier League,2006/2007,2006
+Luke Young,Right-Back,1979-07-19,26,England,Charlton Athletic,Premier League,2006/2007,2006
+Osei Sankofa,Right-Back,1985-03-19,21,England,Charlton Athletic,Premier League,2006/2007,2006
+Alistair John,Midfielder,1987-11-28,18,England,Charlton Athletic,Premier League,2006/2007,2006
+Alex Song,Defensive Midfield,1987-09-09,18,Cameroon,Charlton Athletic,Premier League,2006/2007,2006
+Amdy Fayé,Defensive Midfield,1977-03-12,29,Senegal,Charlton Athletic,Premier League,2006/2007,2006
+Radostin Kishishev,Defensive Midfield,1974-07-30,31,Bulgaria,Charlton Athletic,Premier League,2006/2007,2006
+Zhi Zheng,Defensive Midfield,1980-08-20,25,China,Charlton Athletic,Premier League,2006/2007,2006
+Matt Holland,Central Midfield,1974-04-11,32,Ireland,Charlton Athletic,Premier League,2006/2007,2006
+Simon Walton,Central Midfield,1987-09-13,18,England,Charlton Athletic,Premier League,2006/2007,2006
+Omar Pouso,Central Midfield,1980-02-28,26,Uruguay,Charlton Athletic,Premier League,2006/2007,2006
+Rúrik Gíslason,Right Midfield,1988-02-25,18,Iceland,Charlton Athletic,Premier League,2006/2007,2006
+Andy Reid,Left Midfield,1982-07-29,23,Ireland,Charlton Athletic,Premier League,2006/2007,2006
+Darren Ambrose,Left Midfield,1984-02-29,22,England,Charlton Athletic,Premier League,2006/2007,2006
+Bryan Hughes,Attacking Midfield,1976-06-19,30,England,Charlton Athletic,Premier League,2006/2007,2006
+Jerome Thomas,Left Winger,1983-03-23,23,England,Charlton Athletic,Premier League,2006/2007,2006
+Dennis Rommedahl,Right Winger,1978-07-22,27,Denmark,Charlton Athletic,Premier League,2006/2007,2006
+Lloyd Sam,Right Winger,1984-09-27,21,Ghana,Charlton Athletic,Premier League,2006/2007,2006
+Darren Bent,Centre-Forward,1984-02-06,22,England,Charlton Athletic,Premier League,2006/2007,2006
+Jimmy Floyd Hasselbaink,Centre-Forward,1972-03-27,34,Netherlands,Charlton Athletic,Premier League,2006/2007,2006
+Marcus Bent,Centre-Forward,1978-05-19,28,England,Charlton Athletic,Premier League,2006/2007,2006
+Kevin Lisbie,Centre-Forward,1978-10-17,27,Jamaica,Charlton Athletic,Premier League,2006/2007,2006
+James Walker,Centre-Forward,1987-11-25,18,Antigua and Barbuda,Charlton Athletic,Premier League,2006/2007,2006
+Brad Friedel,Goalkeeper,1971-05-18,35,United States,Blackburn Rovers,Premier League,2006/2007,2006
+Peter Enckelman,Goalkeeper,1977-03-10,29,Finland,Blackburn Rovers,Premier League,2006/2007,2006
+Jason Brown,Goalkeeper,1982-05-18,24,Wales,Blackburn Rovers,Premier League,2006/2007,2006
+Stéphane Henchoz,Centre-Back,1974-09-07,31,Switzerland,Blackburn Rovers,Premier League,2006/2007,2006
+Lucas Neill,Centre-Back,1978-03-09,28,Australia,Blackburn Rovers,Premier League,2006/2007,2006
+Zurab Khizanishvili,Centre-Back,1981-10-06,24,Georgia,Blackburn Rovers,Premier League,2006/2007,2006
+André Ooijer,Centre-Back,1974-07-11,31,Netherlands,Blackburn Rovers,Premier League,2006/2007,2006
+Ryan Nelsen,Centre-Back,1977-10-18,28,New Zealand,Blackburn Rovers,Premier League,2006/2007,2006
+Andy Todd,Centre-Back,1974-09-21,31,England,Blackburn Rovers,Premier League,2006/2007,2006
+Aaron Mokoena,Centre-Back,1980-11-25,25,South Africa,Blackburn Rovers,Premier League,2006/2007,2006
+Jay McEveley,Centre-Back,1985-02-11,21,Scotland,Blackburn Rovers,Premier League,2006/2007,2006
+Christopher Samba,Centre-Back,1984-03-28,22,Congo,Blackburn Rovers,Premier League,2006/2007,2006
+Eddie Nolan,Centre-Back,1988-08-05,17,Ireland,Blackburn Rovers,Premier League,2006/2007,2006
+Stephen Warnock,Left-Back,1981-12-12,24,England,Blackburn Rovers,Premier League,2006/2007,2006
+Michael Gray,Left-Back,1974-08-03,31,England,Blackburn Rovers,Premier League,2006/2007,2006
+Bruno Berner,Left-Back,1977-11-21,28,Switzerland,Blackburn Rovers,Premier League,2006/2007,2006
+Steven Reid,Right-Back,1981-03-10,25,Ireland,Blackburn Rovers,Premier League,2006/2007,2006
+Tugay Kerimoglu,Defensive Midfield,1970-08-24,35,Turkey,Blackburn Rovers,Premier League,2006/2007,2006
+Morten Gamst Pedersen,Central Midfield,1981-09-08,24,Norway,Blackburn Rovers,Premier League,2006/2007,2006
+Robbie Savage,Central Midfield,1974-10-18,31,Wales,Blackburn Rovers,Premier League,2006/2007,2006
+Paul Gallagher,Central Midfield,1984-08-09,21,Scotland,Blackburn Rovers,Premier League,2006/2007,2006
+Brett Emerton,Right Midfield,1979-02-22,27,Australia,Blackburn Rovers,Premier League,2006/2007,2006
+David Bentley,Right Midfield,1984-08-27,21,England,Blackburn Rovers,Premier League,2006/2007,2006
+Sergio Peter,Left Midfield,1986-10-12,19,Germany,Blackburn Rovers,Premier League,2006/2007,2006
+David Dunn,Attacking Midfield,1979-12-27,26,England,Blackburn Rovers,Premier League,2006/2007,2006
+Shabani Nonda,Centre-Forward,1977-03-06,29,DR Congo,Blackburn Rovers,Premier League,2006/2007,2006
+Benni McCarthy,Centre-Forward,1977-11-12,28,South Africa,Blackburn Rovers,Premier League,2006/2007,2006
+Jason Roberts,Centre-Forward,1978-01-25,28,Grenada,Blackburn Rovers,Premier League,2006/2007,2006
+Francis Jeffers,Centre-Forward,1981-01-25,25,England,Blackburn Rovers,Premier League,2006/2007,2006
+Shefki Kuqi,Centre-Forward,1976-11-10,29,Finland,Blackburn Rovers,Premier League,2006/2007,2006
+Matt Derbyshire,Centre-Forward,1986-04-14,20,England,Blackburn Rovers,Premier League,2006/2007,2006
+Jussi Jääskeläinen,Goalkeeper,1975-04-19,31,Finland,Bolton Wanderers,Premier League,2006/2007,2006
+Ian Walker,Goalkeeper,1971-10-31,34,England,Bolton Wanderers,Premier League,2006/2007,2006
+Ali Al-Habsi,Goalkeeper,1981-12-30,24,Oman,Bolton Wanderers,Premier League,2006/2007,2006
+Chris Howarth,Goalkeeper,1986-05-23,20,England,Bolton Wanderers,Premier League,2006/2007,2006
+Przemyslaw Kazimierczak,Goalkeeper,1988-05-05,18,Poland,Bolton Wanderers,Premier League,2006/2007,2006
+Sam Ashton,Goalkeeper,1986-10-09,19,England,Bolton Wanderers,Premier League,2006/2007,2006
+Abdoulaye Méïté,Centre-Back,1980-10-06,25,Cote d'Ivoire,Bolton Wanderers,Premier League,2006/2007,2006
+Abdoulaye Fayé,Centre-Back,1978-02-26,28,Senegal,Bolton Wanderers,Premier League,2006/2007,2006
+Tal Ben Haim,Centre-Back,1982-03-31,24,Israel,Bolton Wanderers,Premier League,2006/2007,2006
+César Martín,Centre-Back,1977-04-02,29,Spain,Bolton Wanderers,Premier League,2006/2007,2006
+Jaroslaw Fojut,Centre-Back,1987-10-17,18,Poland,Bolton Wanderers,Premier League,2006/2007,2006
+Lubomir Michalik,Centre-Back,1983-08-13,22,Slovakia,Bolton Wanderers,Premier League,2006/2007,2006
+Blazej Augustyn,Centre-Back,1988-01-26,18,Poland,Bolton Wanderers,Premier League,2006/2007,2006
+Ricardo Gardner,Left-Back,1978-09-25,27,Jamaica,Bolton Wanderers,Premier League,2006/2007,2006
+Johann Smith,Left-Back,1987-04-25,19,United States,Bolton Wanderers,Premier League,2006/2007,2006
+Scott Jamieson,Left-Back,1988-10-13,17,Australia,Bolton Wanderers,Premier League,2006/2007,2006
+Joey O'Brien,Right-Back,1986-02-17,20,Ireland,Bolton Wanderers,Premier League,2006/2007,2006
+Nicky Hunt,Right-Back,1983-09-03,22,England,Bolton Wanderers,Premier League,2006/2007,2006
+James Sinclair,Right-Back,1987-10-22,18,England,Bolton Wanderers,Premier League,2006/2007,2006
+Iván Campo,Defensive Midfield,1974-02-21,32,Spain,Bolton Wanderers,Premier League,2006/2007,2006
+Idan Tal,Defensive Midfield,1975-09-13,30,Israel,Bolton Wanderers,Premier League,2006/2007,2006
+Andranik Teymourian,Defensive Midfield,1983-03-06,23,Iran,Bolton Wanderers,Premier League,2006/2007,2006
+Quinton Fortune,Central Midfield,1977-05-21,29,South Africa,Bolton Wanderers,Premier League,2006/2007,2006
+David Thompson,Right Midfield,1977-09-12,28,England,Bolton Wanderers,Premier League,2006/2007,2006
+Gary Speed,Left Midfield,1969-09-08,36,Wales,Bolton Wanderers,Premier League,2006/2007,2006
+Kevin Nolan,Attacking Midfield,1982-06-24,24,England,Bolton Wanderers,Premier League,2006/2007,2006
+Stelios Giannakopoulos,Right Winger,1974-07-12,31,Greece,Bolton Wanderers,Premier League,2006/2007,2006
+Ricardo Vaz Tê,Right Winger,1986-10-01,19,Portugal,Bolton Wanderers,Premier League,2006/2007,2006
+Nicolas Anelka,Centre-Forward,1979-03-14,27,France,Bolton Wanderers,Premier League,2006/2007,2006
+El-Hadji Diouf,Centre-Forward,1981-01-15,25,Senegal,Bolton Wanderers,Premier League,2006/2007,2006
+Kevin Davies,Centre-Forward,1977-03-26,29,England,Bolton Wanderers,Premier League,2006/2007,2006
+Henrik Pedersen,Centre-Forward,1975-06-10,31,Denmark,Bolton Wanderers,Premier League,2006/2007,2006
+Bédi Buval,Centre-Forward,1986-06-16,20,Martinique,Bolton Wanderers,Premier League,2006/2007,2006
+Zoltán Harsányi,Centre-Forward,1987-06-01,19,Hungary,Bolton Wanderers,Premier League,2006/2007,2006
+Chris Kirkland,Goalkeeper,1981-05-02,25,England,Wigan Athletic,Premier League,2006/2007,2006
+John Filan,Goalkeeper,1970-02-08,36,Australia,Wigan Athletic,Premier League,2006/2007,2006
+Mike Pollitt,Goalkeeper,1972-02-29,34,England,Wigan Athletic,Premier League,2006/2007,2006
+Carlo Nash,Goalkeeper,1973-09-13,32,England,Wigan Athletic,Premier League,2006/2007,2006
+Fitz Hall,Centre-Back,1980-12-20,25,England,Wigan Athletic,Premier League,2006/2007,2006
+Paul Scharner,Centre-Back,1980-03-11,26,Austria,Wigan Athletic,Premier League,2006/2007,2006
+Arjan de Zeeuw,Centre-Back,1970-04-16,36,Netherlands,Wigan Athletic,Premier League,2006/2007,2006
+Andy Webster,Centre-Back,1982-04-23,24,Scotland,Wigan Athletic,Premier League,2006/2007,2006
+Andreas Granqvist,Centre-Back,1985-04-16,21,Sweden,Wigan Athletic,Premier League,2006/2007,2006
+Lee McCulloch,Centre-Back,1978-05-14,28,Scotland,Wigan Athletic,Premier League,2006/2007,2006
+David Unsworth,Left-Back,1973-10-16,32,England,Wigan Athletic,Premier League,2006/2007,2006
+Leighton Baines,Left-Back,1984-12-11,21,England,Wigan Athletic,Premier League,2006/2007,2006
+Steve McMillan,Left-Back,1976-01-19,30,Scotland,Wigan Athletic,Premier League,2006/2007,2006
+Pascal Chimbonda,Right-Back,1979-02-21,27,Guadeloupe,Wigan Athletic,Premier League,2006/2007,2006
+Antonio Valencia,Right-Back,1985-08-04,20,Ecuador,Wigan Athletic,Premier League,2006/2007,2006
+Ryan Taylor,Right-Back,1984-08-19,21,England,Wigan Athletic,Premier League,2006/2007,2006
+Matt Jackson,Right-Back,1971-10-19,34,England,Wigan Athletic,Premier League,2006/2007,2006
+Emmerson Boyce,Right-Back,1979-09-24,26,Barbados,Wigan Athletic,Premier League,2006/2007,2006
+David Owens,Midfielder,1988-10-10,17,England,Wigan Athletic,Premier League,2006/2007,2006
+David Wright,Defensive Midfield,1980-05-01,26,England,Wigan Athletic,Premier League,2006/2007,2006
+Tomasz Cywka,Defensive Midfield,1988-06-27,18,Poland,Wigan Athletic,Premier League,2006/2007,2006
+Denny Landzaat,Central Midfield,1976-05-06,30,Netherlands,Wigan Athletic,Premier League,2006/2007,2006
+Josip Skoko,Central Midfield,1975-12-10,30,Australia,Wigan Athletic,Premier League,2006/2007,2006
+Graham Kavanagh,Central Midfield,1973-12-02,32,Ireland,Wigan Athletic,Premier League,2006/2007,2006
+Andreas Johansson,Central Midfield,1978-07-05,27,Sweden,Wigan Athletic,Premier League,2006/2007,2006
+Kristofer Haestad,Central Midfield,1983-12-09,22,Norway,Wigan Athletic,Premier League,2006/2007,2006
+Lewis Montrose,Central Midfield,1988-11-17,17,England,Wigan Athletic,Premier League,2006/2007,2006
+Tomasz Kupisz,Right Midfield,1990-01-02,16,Poland,Wigan Athletic,Premier League,2006/2007,2006
+Kevin Kilbane,Left Midfield,1977-02-01,29,Ireland,Wigan Athletic,Premier League,2006/2007,2006
+Gary Teale,Right Winger,1978-07-21,27,Scotland,Wigan Athletic,Premier League,2006/2007,2006
+David Cotterill,Right Winger,1987-12-04,18,Wales,Wigan Athletic,Premier League,2006/2007,2006
+Henri Camara,Centre-Forward,1977-05-10,29,Senegal,Wigan Athletic,Premier League,2006/2007,2006
+Emile Heskey,Centre-Forward,1978-01-11,28,England,Wigan Athletic,Premier League,2006/2007,2006
+Svetoslav Todorov,Centre-Forward,1978-08-30,27,Bulgaria,Wigan Athletic,Premier League,2006/2007,2006
+David Connolly,Centre-Forward,1977-06-06,29,Ireland,Wigan Athletic,Premier League,2006/2007,2006
+Julius Aghahowa,Centre-Forward,1982-02-12,24,Nigeria,Wigan Athletic,Premier League,2006/2007,2006
+Caleb Folan,Centre-Forward,1982-10-26,23,Ireland,Wigan Athletic,Premier League,2006/2007,2006
+Paul Gerrard,Goalkeeper,1973-01-22,33,England,Sheffield United,Premier League,2006/2007,2006
+Paddy Kenny,Goalkeeper,1978-05-17,28,Ireland,Sheffield United,Premier League,2006/2007,2006
+Ian Bennett,Goalkeeper,1971-10-10,34,England,Sheffield United,Premier League,2006/2007,2006
+Jamie Annerson,Goalkeeper,1988-06-21,18,England,Sheffield United,Premier League,2006/2007,2006
+David Sommeil,Centre-Back,1974-08-10,31,Guadeloupe,Sheffield United,Premier League,2006/2007,2006
+Mamadou Seck,Centre-Back,1979-08-23,26,Senegal,Sheffield United,Premier League,2006/2007,2006
+Phil Jagielka,Centre-Back,1982-08-17,23,England,Sheffield United,Premier League,2006/2007,2006
+Chris Morgan,Centre-Back,1977-11-09,28,England,Sheffield United,Premier League,2006/2007,2006
+Craig Short,Centre-Back,1968-06-25,38,England,Sheffield United,Premier League,2006/2007,2006
+Chris Lucketti,Centre-Back,1971-09-28,34,England,Sheffield United,Premier League,2006/2007,2006
+Claude Davis,Centre-Back,1979-03-06,27,Jamaica,Sheffield United,Premier League,2006/2007,2006
+Matthew Kilgallon,Centre-Back,1984-01-08,22,England,Sheffield United,Premier League,2006/2007,2006
+David Unsworth,Left-Back,1973-10-16,32,England,Sheffield United,Premier League,2006/2007,2006
+Alan Wright,Left-Back,1971-09-28,34,England,Sheffield United,Premier League,2006/2007,2006
+Chris Armstrong,Left-Back,1982-08-05,23,Scotland,Sheffield United,Premier League,2006/2007,2006
+Evan Horwood,Left-Back,1986-03-10,20,England,Sheffield United,Premier League,2006/2007,2006
+Leigh Bromby,Right-Back,1980-06-02,26,England,Sheffield United,Premier League,2006/2007,2006
+Derek Geary,Right-Back,1980-06-19,26,Ireland,Sheffield United,Premier League,2006/2007,2006
+Rob Kozluk,Right-Back,1977-08-05,28,England,Sheffield United,Premier League,2006/2007,2006
+Ben Starosta,Right-Back,1987-01-07,19,Poland,Sheffield United,Premier League,2006/2007,2006
+Ahmed Fathi,Right-Back,1984-11-10,21,Egypt,Sheffield United,Premier League,2006/2007,2006
+Tie Li,Defensive Midfield,1977-05-18,29,China,Sheffield United,Premier League,2006/2007,2006
+Nick Montgomery,Defensive Midfield,1981-10-28,24,Scotland,Sheffield United,Premier League,2006/2007,2006
+Mikele Leigertwood,Defensive Midfield,1982-11-12,23,Antigua and Barbuda,Sheffield United,Premier League,2006/2007,2006
+Keith Gillespie,Central Midfield,1975-02-18,31,Northern Ireland,Sheffield United,Premier League,2006/2007,2006
+Alan Quinn,Central Midfield,1979-06-13,27,Ireland,Sheffield United,Premier League,2006/2007,2006
+Michael Tonge,Central Midfield,1983-04-07,23,England,Sheffield United,Premier League,2006/2007,2006
+Ian Ross,Central Midfield,1986-01-13,20,England,Sheffield United,Premier League,2006/2007,2006
+Stephen Quinn,Central Midfield,1986-04-01,20,Ireland,Sheffield United,Premier League,2006/2007,2006
+Nicky Law,Central Midfield,1988-03-29,18,England,Sheffield United,Premier League,2006/2007,2006
+Kevan Hurst,Right Midfield,1985-08-27,20,England,Sheffield United,Premier League,2006/2007,2006
+Luton Shelton,Left Winger,1985-11-11,20,Jamaica,Sheffield United,Premier League,2006/2007,2006
+Paul Ifill,Right Winger,1979-10-20,26,Barbados,Sheffield United,Premier League,2006/2007,2006
+Ade Akinbiyi,Centre-Forward,1974-10-10,31,Nigeria,Sheffield United,Premier League,2006/2007,2006
+Jon Stead,Centre-Forward,1983-04-07,23,England,Sheffield United,Premier League,2006/2007,2006
+Rob Hulse,Centre-Forward,1979-10-25,26,England,Sheffield United,Premier League,2006/2007,2006
+Danny Webber,Centre-Forward,1981-12-28,24,England,Sheffield United,Premier League,2006/2007,2006
+Geoff Horsfield,Centre-Forward,1973-11-01,32,England,Sheffield United,Premier League,2006/2007,2006
+Steve Kabba,Centre-Forward,1981-03-07,25,England,Sheffield United,Premier League,2006/2007,2006
+Christian Nadé,Centre-Forward,1984-09-18,21,France,Sheffield United,Premier League,2006/2007,2006
+Colin Kazim-Richards,Centre-Forward,1986-08-26,19,Turkey,Sheffield United,Premier League,2006/2007,2006
+Colin Marrison,Centre-Forward,1985-09-23,20,England,Sheffield United,Premier League,2006/2007,2006
+Jonathan Forte,Centre-Forward,1986-07-25,19,Barbados,Sheffield United,Premier League,2006/2007,2006
+Marcus Hahnemann,Goalkeeper,1972-06-15,34,United States,Reading FC,Premier League,2006/2007,2006
+Graham Stack,Goalkeeper,1981-09-26,24,Ireland,Reading FC,Premier League,2006/2007,2006
+Adam Federici,Goalkeeper,1985-01-31,21,Australia,Reading FC,Premier League,2006/2007,2006
+Mikkel Andersen,Goalkeeper,1988-12-17,17,Denmark,Reading FC,Premier League,2006/2007,2006
+Michael Duberry,Centre-Back,1975-10-14,30,England,Reading FC,Premier League,2006/2007,2006
+André Bikey,Centre-Back,1985-01-08,21,Cameroon,Reading FC,Premier League,2006/2007,2006
+Ívar Ingimarsson,Centre-Back,1977-08-20,28,Iceland,Reading FC,Premier League,2006/2007,2006
+Ibrahima Sonko,Centre-Back,1981-01-22,25,Senegal,Reading FC,Premier League,2006/2007,2006
+Aaron Brown,Centre-Back,1983-06-23,23,England,Reading FC,Premier League,2006/2007,2006
+Alex Pearce,Centre-Back,1988-11-09,17,Ireland,Reading FC,Premier League,2006/2007,2006
+Sam Sodje,Centre-Back,1979-05-25,27,Nigeria,Reading FC,Premier League,2006/2007,2006
+Alan Bennett,Centre-Back,1981-10-04,24,Ireland,Reading FC,Premier League,2006/2007,2006
+Greg Halford,Centre-Back,1984-12-08,21,England,Reading FC,Premier League,2006/2007,2006
+Péter Máté,Centre-Back,1984-12-02,21,Hungary,Reading FC,Premier League,2006/2007,2006
+Nicky Shorey,Left-Back,1981-02-19,25,England,Reading FC,Premier League,2006/2007,2006
+Scott Golbourne,Left-Back,1988-02-29,18,England,Reading FC,Premier League,2006/2007,2006
+Ulises de la Cruz,Right-Back,1974-02-08,32,Ecuador,Reading FC,Premier League,2006/2007,2006
+Graeme Murty,Right-Back,1974-11-13,31,Scotland,Reading FC,Premier League,2006/2007,2006
+Curtis Osano,Right-Back,1987-03-08,19,Kenya,Reading FC,Premier League,2006/2007,2006
+Daniel Bocande,Midfielder,1983-12-05,22,Senegal,Reading FC,Premier League,2006/2007,2006
+Brynjar Gunnarsson,Defensive Midfield,1975-10-16,30,Iceland,Reading FC,Premier League,2006/2007,2006
+John Halls,Defensive Midfield,1982-02-14,24,England,Reading FC,Premier League,2006/2007,2006
+James Harper,Central Midfield,1980-11-09,25,England,Reading FC,Premier League,2006/2007,2006
+Steve Sidwell,Central Midfield,1982-12-14,23,England,Reading FC,Premier League,2006/2007,2006
+John Oster,Central Midfield,1978-12-08,27,Wales,Reading FC,Premier League,2006/2007,2006
+Oliver Bozanic,Central Midfield,1989-01-08,17,Australia,Reading FC,Premier League,2006/2007,2006
+Bobby Convey,Left Midfield,1983-05-27,23,United States,Reading FC,Premier League,2006/2007,2006
+Stephen Hunt,Left Midfield,1981-08-01,24,Ireland,Reading FC,Premier League,2006/2007,2006
+Viktor Unnar Illugason,Left Winger,1990-01-25,16,Iceland,Reading FC,Premier League,2006/2007,2006
+Ki-hyeon Seol,Right Winger,1979-01-08,27,"Korea, South",Reading FC,Premier League,2006/2007,2006
+Glen Little,Right Winger,1975-10-15,30,England,Reading FC,Premier League,2006/2007,2006
+James Henry,Right Winger,1989-06-10,17,England,Reading FC,Premier League,2006/2007,2006
+Leroy Lita,Centre-Forward,1984-12-28,21,England,Reading FC,Premier League,2006/2007,2006
+Kevin Doyle,Centre-Forward,1983-09-18,22,Ireland,Reading FC,Premier League,2006/2007,2006
+Dave Kitson,Centre-Forward,1980-01-21,26,England,Reading FC,Premier League,2006/2007,2006
+Shane Long,Centre-Forward,1987-01-22,19,Ireland,Reading FC,Premier League,2006/2007,2006
+Simon Cox,Centre-Forward,1987-04-28,19,Ireland,Reading FC,Premier League,2006/2007,2006
+Ben Foster,Goalkeeper,1983-04-03,23,England,Watford FC,Premier League,2006/2007,2006
+Alec Chamberlain,Goalkeeper,1964-06-20,42,England,Watford FC,Premier League,2006/2007,2006
+Richard Lee,Goalkeeper,1982-10-05,23,England,Watford FC,Premier League,2006/2007,2006
+Scott Loach,Goalkeeper,1988-05-27,18,England,Watford FC,Premier League,2006/2007,2006
+Malky Mackay,Centre-Back,1972-02-19,34,Scotland,Watford FC,Premier League,2006/2007,2006
+Lloyd Doyley,Centre-Back,1982-12-01,23,Jamaica,Watford FC,Premier League,2006/2007,2006
+Clarke Carlisle,Centre-Back,1979-10-14,26,England,Watford FC,Premier League,2006/2007,2006
+Jay DeMerit,Centre-Back,1979-12-04,26,United States,Watford FC,Premier League,2006/2007,2006
+Danny Shittu,Centre-Back,1980-09-02,25,Nigeria,Watford FC,Premier League,2006/2007,2006
+Adrian Mariappa,Centre-Back,1986-10-03,19,Jamaica,Watford FC,Premier League,2006/2007,2006
+Cédric Avinel,Centre-Back,1986-09-11,19,Guadeloupe,Watford FC,Premier League,2006/2007,2006
+Ben Gill,Centre-Back,1987-10-09,18,England,Watford FC,Premier League,2006/2007,2006
+Ashley Young,Left-Back,1985-07-09,20,England,Watford FC,Premier League,2006/2007,2006
+Jordan Stewart,Left-Back,1982-03-03,24,England,Watford FC,Premier League,2006/2007,2006
+Chris Powell,Left-Back,1969-09-08,36,England,Watford FC,Premier League,2006/2007,2006
+Junior Osborne,Left-Back,1988-02-12,18,England,Watford FC,Premier League,2006/2007,2006
+Jordan Parkes,Left-Back,1989-07-26,16,England,Watford FC,Premier League,2006/2007,2006
+James Chambers,Right-Back,1980-11-20,25,England,Watford FC,Premier League,2006/2007,2006
+Sheku Kamara,Right-Back,1987-11-15,18,England,Watford FC,Premier League,2006/2007,2006
+Alex Campana,Midfielder,1988-10-11,17,England,Watford FC,Premier League,2006/2007,2006
+Toumani Diagouraga,Defensive Midfield,1987-06-09,19,France,Watford FC,Premier League,2006/2007,2006
+Damien Francis,Central Midfield,1979-02-27,27,Jamaica,Watford FC,Premier League,2006/2007,2006
+Gareth Williams,Central Midfield,1981-12-16,24,Scotland,Watford FC,Premier League,2006/2007,2006
+Gavin Mahon,Central Midfield,1977-01-02,29,England,Watford FC,Premier League,2006/2007,2006
+Al Bangura,Central Midfield,1988-01-24,18,Sierra Leone,Watford FC,Premier League,2006/2007,2006
+Matthew Spring,Central Midfield,1979-11-17,26,England,Watford FC,Premier League,2006/2007,2006
+Dominic Blizzard,Central Midfield,1985-09-02,20,England,Watford FC,Premier League,2006/2007,2006
+Douglas Rinaldi,Central Midfield,1979-08-29,26,Brazil,Watford FC,Premier League,2006/2007,2006
+Lee Williamson,Central Midfield,1982-06-07,24,Jamaica,Watford FC,Premier League,2006/2007,2006
+Anthony McNamee,Right Midfield,1984-07-13,21,England,Watford FC,Premier League,2006/2007,2006
+Albert Jarrett,Left Midfield,1984-10-23,21,Sierra Leone,Watford FC,Premier League,2006/2007,2006
+Johan Cavalli,Attacking Midfield,1981-09-12,24,France,Watford FC,Premier League,2006/2007,2006
+Stephane Seanla,Left Winger,1988-06-02,18,Cote d'Ivoire,Watford FC,Premier League,2006/2007,2006
+Hameur Bouazza,Right Winger,1985-02-22,21,Algeria,Watford FC,Premier League,2006/2007,2006
+Joel Grant,Right Winger,1987-08-26,18,Jamaica,Watford FC,Premier League,2006/2007,2006
+Marlon King,Centre-Forward,1980-04-26,26,Jamaica,Watford FC,Premier League,2006/2007,2006
+Steve Kabba,Centre-Forward,1981-03-07,25,England,Watford FC,Premier League,2006/2007,2006
+Darius Henderson,Centre-Forward,1981-09-07,24,England,Watford FC,Premier League,2006/2007,2006
+Tommy Smith,Centre-Forward,1980-05-22,26,England,Watford FC,Premier League,2006/2007,2006
+Moses Ashikodi,Centre-Forward,1987-06-27,19,Antigua and Barbuda,Watford FC,Premier League,2006/2007,2006
+Will Hoskins,Centre-Forward,1986-05-06,20,England,Watford FC,Premier League,2006/2007,2006
+Theo Robinson,Centre-Forward,1989-01-22,17,Jamaica,Watford FC,Premier League,2006/2007,2006
+Tamás Priskin,Centre-Forward,1986-09-27,19,Hungary,Watford FC,Premier League,2006/2007,2006

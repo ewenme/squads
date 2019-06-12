@@ -1,517 +1,518 @@
-shirt_number,position,player_name,date_of_birth,age,nationality,club_name,league_name,season,year
-1,Goalkeeper,Manuel Neuer,1986-03-27,33,Germany,Bayern Munich,Bundesliga,2018/2019,2018
-26,Goalkeeper,Sven Ulreich,1988-08-03,30,Germany,Bayern Munich,Bundesliga,2018/2019,2018
-36,Goalkeeper,Christian Früchtl,2000-01-28,19,Germany,Bayern Munich,Bundesliga,2018/2019,2018
-39,Goalkeeper,Ron-Thorben Hoffmann,1999-04-04,20,Germany,Bayern Munich,Bundesliga,2018/2019,2018
-4,Centre-Back,Niklas Süle,1995-09-03,23,Germany,Bayern Munich,Bundesliga,2018/2019,2018
-5,Centre-Back,Mats Hummels,1988-12-16,30,Germany,Bayern Munich,Bundesliga,2018/2019,2018
-17,Centre-Back,Jérôme Boateng,1988-09-03,30,Germany,Bayern Munich,Bundesliga,2018/2019,2018
-27,Left-Back,David Alaba,1992-06-24,26,Austria,Bayern Munich,Bundesliga,2018/2019,2018
-32,Right-Back,Joshua Kimmich,1995-02-08,24,Germany,Bayern Munich,Bundesliga,2018/2019,2018
-13,Right-Back,Rafinha,1985-09-07,33,Brazil,Bayern Munich,Bundesliga,2018/2019,2018
-8,Defensive Midfield,Javi Martínez,1988-09-02,30,Spain,Bayern Munich,Bundesliga,2018/2019,2018
-6,Central Midfield,Thiago,1991-04-11,28,Spain,Bayern Munich,Bundesliga,2018/2019,2018
-18,Central Midfield,Leon Goretzka,1995-02-06,24,Germany,Bayern Munich,Bundesliga,2018/2019,2018
-24,Central Midfield,Corentin Tolisso,1994-08-03,24,France,Bayern Munich,Bundesliga,2018/2019,2018
-35,Central Midfield,Renato Sanches,1997-08-18,21,Portugal,Bayern Munich,Bundesliga,2018/2019,2018
-11,Attacking Midfield,James Rodríguez,1991-07-12,27,Colombia,Bayern Munich,Bundesliga,2018/2019,2018
-37,Attacking Midfield,Meritan Shabani,1999-03-15,20,Germany,Bayern Munich,Bundesliga,2018/2019,2018
-29,Left Winger,Kingsley Coman,1996-06-13,22,France,Bayern Munich,Bundesliga,2018/2019,2018
-19,Left Winger,Alphonso Davies,2000-11-02,18,Canada,Bayern Munich,Bundesliga,2018/2019,2018
-7,Left Winger,Franck Ribéry,1983-04-07,36,France,Bayern Munich,Bundesliga,2018/2019,2018
-22,Right Winger,Serge Gnabry,1995-07-14,23,Germany,Bayern Munich,Bundesliga,2018/2019,2018
-10,Right Winger,Arjen Robben,1984-01-23,35,Netherlands,Bayern Munich,Bundesliga,2018/2019,2018
-20,Right Winger,Woo-yeong Jeong,1999-09-20,19,"Korea, South",Bayern Munich,Bundesliga,2018/2019,2018
-25,Second Striker,Thomas Müller,1989-09-13,29,Germany,Bayern Munich,Bundesliga,2018/2019,2018
-9,Centre-Forward,Robert Lewandowski,1988-08-21,30,Poland,Bayern Munich,Bundesliga,2018/2019,2018
-1,Goalkeeper,Roman Bürki,1990-11-14,28,Switzerland,Borussia Dortmund,Bundesliga,2018/2019,2018
-35,Goalkeeper,Marwin Hitz,1987-09-18,31,Switzerland,Borussia Dortmund,Bundesliga,2018/2019,2018
-40,Goalkeeper,Eric Oelschlägel,1995-09-20,23,Germany,Borussia Dortmund,Bundesliga,2018/2019,2018
-16,Centre-Back,Manuel Akanji,1995-07-19,23,Switzerland,Borussia Dortmund,Bundesliga,2018/2019,2018
-4,Centre-Back,Abdou Diallo,1996-05-04,23,France,Borussia Dortmund,Bundesliga,2018/2019,2018
-2,Centre-Back,Dan-Axel Zagadou,1999-06-03,20,France,Borussia Dortmund,Bundesliga,2018/2019,2018
-18,Centre-Back,Leonardo Balerdi,1999-01-26,20,Argentina,Borussia Dortmund,Bundesliga,2018/2019,2018
-36,Centre-Back,Ömer Toprak,1989-07-21,29,Turkey,Borussia Dortmund,Bundesliga,2018/2019,2018
-29,Left-Back,Marcel Schmelzer,1988-01-22,31,Germany,Borussia Dortmund,Bundesliga,2018/2019,2018
-5,Right-Back,Achraf Hakimi,1998-11-04,20,Morocco,Borussia Dortmund,Bundesliga,2018/2019,2018
-26,Right-Back,Lukasz Piszczek,1985-06-03,34,Poland,Borussia Dortmund,Bundesliga,2018/2019,2018
-28,Defensive Midfield,Axel Witsel,1989-01-12,30,Belgium,Borussia Dortmund,Bundesliga,2018/2019,2018
-33,Defensive Midfield,Julian Weigl,1995-09-08,23,Germany,Borussia Dortmund,Bundesliga,2018/2019,2018
-6,Central Midfield,Thomas Delaney,1991-09-03,27,Denmark,Borussia Dortmund,Bundesliga,2018/2019,2018
-19,Central Midfield,Mahmoud Dahoud,1996-01-01,23,Germany,Borussia Dortmund,Bundesliga,2018/2019,2018
-13,Left Midfield,Raphaël Guerreiro,1993-12-22,25,Portugal,Borussia Dortmund,Bundesliga,2018/2019,2018
-11,Attacking Midfield,Marco Reus,1989-05-31,30,Germany,Borussia Dortmund,Bundesliga,2018/2019,2018
-10,Attacking Midfield,Mario Götze,1992-06-03,27,Germany,Borussia Dortmund,Bundesliga,2018/2019,2018
-17,Attacking Midfield,Sergio Gómez,2000-09-04,18,Spain,Borussia Dortmund,Bundesliga,2018/2019,2018
-34,Left Winger,Jacob Bruun Larsen,1998-09-19,20,Denmark,Borussia Dortmund,Bundesliga,2018/2019,2018
-7,Right Winger,Jadon Sancho,2000-03-25,19,England,Borussia Dortmund,Bundesliga,2018/2019,2018
-22,Right Winger,Christian Pulisic,1998-09-18,20,United States,Borussia Dortmund,Bundesliga,2018/2019,2018
-27,Right Winger,Marius Wolf,1995-05-27,24,Germany,Borussia Dortmund,Bundesliga,2018/2019,2018
-20,Second Striker,Maximilian Philipp,1994-03-01,25,Germany,Borussia Dortmund,Bundesliga,2018/2019,2018
-9,Centre-Forward,Paco Alcácer,1993-08-30,25,Spain,Borussia Dortmund,Bundesliga,2018/2019,2018
-1,Goalkeeper,Péter Gulácsi,1990-05-06,29,Hungary,RB Leipzig,Bundesliga,2018/2019,2018
-28,Goalkeeper,Yvon Mvogo,1994-06-06,25,Switzerland,RB Leipzig,Bundesliga,2018/2019,2018
-21,Goalkeeper,Marius Müller,1993-07-12,25,Germany,RB Leipzig,Bundesliga,2018/2019,2018
-32,Goalkeeper,Julian Krahl,2000-01-22,19,Germany,RB Leipzig,Bundesliga,2018/2019,2018
-6,Centre-Back,Ibrahima Konaté,1999-05-25,20,France,RB Leipzig,Bundesliga,2018/2019,2018
-5,Centre-Back,Dayot Upamecano,1998-10-27,20,France,RB Leipzig,Bundesliga,2018/2019,2018
-4,Centre-Back,Willi Orban,1992-11-03,26,Hungary,RB Leipzig,Bundesliga,2018/2019,2018
-33,Centre-Back,Atinc Nukan,1993-07-20,25,Turkey,RB Leipzig,Bundesliga,2018/2019,2018
-23,Left-Back,Marcel Halstenberg,1991-09-27,27,Germany,RB Leipzig,Bundesliga,2018/2019,2018
-3,Left-Back,Marcelo Saracchi,1998-04-23,21,Uruguay,RB Leipzig,Bundesliga,2018/2019,2018
-16,Right-Back,Lukas Klostermann,1996-06-03,23,Germany,RB Leipzig,Bundesliga,2018/2019,2018
-22,Right-Back,Nordi Mukiele,1997-11-01,21,France,RB Leipzig,Bundesliga,2018/2019,2018
-31,Defensive Midfield,Diego Demme,1991-11-21,27,Germany,RB Leipzig,Bundesliga,2018/2019,2018
-14,Defensive Midfield,Tyler Adams,1999-02-14,20,United States,RB Leipzig,Bundesliga,2018/2019,2018
-13,Defensive Midfield,Stefan Ilsanker,1989-05-18,30,Austria,RB Leipzig,Bundesliga,2018/2019,2018
-44,Central Midfield,Kevin Kampl,1990-10-09,28,Slovenia,RB Leipzig,Bundesliga,2018/2019,2018
-8,Central Midfield,Amadou Haidara,1998-01-31,21,Mali,RB Leipzig,Bundesliga,2018/2019,2018
-27,Central Midfield,Konrad Laimer,1997-05-27,22,Austria,RB Leipzig,Bundesliga,2018/2019,2018
-18,Left Midfield,Emile Smith Rowe,2000-07-28,18,England,RB Leipzig,Bundesliga,2018/2019,2018
-10,Left Winger,Emil Forsberg,1991-10-23,27,Sweden,RB Leipzig,Bundesliga,2018/2019,2018
-17,Left Winger,Bruma,1994-10-24,24,Portugal,RB Leipzig,Bundesliga,2018/2019,2018
-7,Right Winger,Marcel Sabitzer,1994-03-17,25,Austria,RB Leipzig,Bundesliga,2018/2019,2018
-11,Centre-Forward,Timo Werner,1996-03-06,23,Germany,RB Leipzig,Bundesliga,2018/2019,2018
-9,Centre-Forward,Yussuf Poulsen,1994-06-15,24,Denmark,RB Leipzig,Bundesliga,2018/2019,2018
-29,Centre-Forward,Jean-Kévin Augustin,1997-06-16,21,France,RB Leipzig,Bundesliga,2018/2019,2018
-20,Centre-Forward,Matheus Cunha,1999-05-27,20,Brazil,RB Leipzig,Bundesliga,2018/2019,2018
-1,Goalkeeper,Lukas Hradecky,1989-11-24,29,Finland,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
-28,Goalkeeper,Ramazan Özcan,1984-06-28,34,Austria,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
-24,Goalkeeper,Thorsten Kirschbaum,1987-04-20,32,Germany,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
-4,Centre-Back,Jonathan Tah,1996-02-11,23,Germany,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
-3,Centre-Back,Panagiotis Retsos,1998-08-09,20,Greece,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
-5,Centre-Back,Sven Bender,1989-04-27,30,Germany,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
-6,Centre-Back,Aleksandar Dragovic,1991-03-06,28,Austria,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
-16,Centre-Back,Tin Jedvaj,1995-11-28,23,Croatia,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
-33,Centre-Back,Jan Boller,2000-03-14,19,Germany,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
-18,Left-Back,Wendell,1993-07-20,25,Brazil,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
-23,Right-Back,Mitchell Weiser,1994-04-21,25,Germany,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
-8,Defensive Midfield,Lars Bender,1989-04-27,30,Germany,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
-15,Defensive Midfield,Julian Baumgartlinger,1988-01-02,31,Austria,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
-20,Central Midfield,Charles Aránguiz,1989-04-17,30,Chile,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
-21,Central Midfield,Dominik Kohr,1994-01-31,25,Germany,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
-29,Attacking Midfield,Kai Havertz,1999-06-11,20,Germany,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
-30,Attacking Midfield,Sam Schreck,1999-01-29,20,Germany,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
-10,Left Winger,Julian Brandt,1996-05-02,23,Germany,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
-9,Left Winger,Leon Bailey,1997-08-09,21,Jamaica,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
-7,Left Winger,Paulinho,2000-07-15,18,Brazil,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
-38,Right Winger,Karim Bellarabi,1990-04-08,29,Germany,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
-31,Centre-Forward,Kevin Volland,1992-07-30,26,Germany,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
-13,Centre-Forward,Lucas Alario,1992-10-08,26,Argentina,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
-11,Centre-Forward,Isaac Kiese Thelin,1992-06-24,26,Sweden,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
-17,Centre-Forward,Joel Pohjanpalo,1994-09-13,24,Finland,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
-1,Goalkeeper,Oliver Baumann,1990-06-02,29,Germany,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
-33,Goalkeeper,Alexander Stolz,1983-10-13,35,Germany,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
-22,Centre-Back,Kevin Vogt,1991-09-23,27,Germany,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
-15,Centre-Back,Kasim Adams,1995-06-22,23,Ghana,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
-21,Centre-Back,Benjamin Hübner,1989-07-04,29,Germany,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
-38,Centre-Back,Stefan Posch,1997-05-14,22,Austria,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
-4,Centre-Back,Ermin Bicakcic,1990-01-24,29,Bosnia-Herzegovina,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
-31,Centre-Back,Lucas Ribeiro,1999-01-19,20,Brazil,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
-16,Left-Back,Nico Schulz,1993-04-01,26,Germany,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
-3,Right-Back,Pavel Kaderabek,1992-04-25,27,Czech Republic,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
-2,Right-Back,Joshua Brenet,1994-03-20,25,Netherlands,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
-41,Right-Back,Alfons Amade,1999-11-12,19,Germany,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
-8,Defensive Midfield,Dennis Geiger,1998-06-10,21,Germany,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
-10,Central Midfield,Kerem Demirbay,1993-07-03,25,Germany,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
-11,Central Midfield,Florian Grillitsch,1995-08-07,23,Austria,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
-18,Central Midfield,Nadiem Amiri,1996-10-27,22,Germany,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
-7,Central Midfield,Lukas Rupp,1991-01-08,28,Germany,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
-13,Attacking Midfield,Leonardo Bittencourt,1993-12-19,25,Germany,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
-42,Attacking Midfield,Christoph Baumgartner,1999-08-01,19,Austria,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
-37,Left Winger,Robin Hack,1998-08-27,20,Germany,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
-9,Right Winger,Reiss Nelson,1999-12-10,19,England,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
-27,Centre-Forward,Andrej Kramaric,1991-06-19,27,Croatia,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
-34,Centre-Forward,Joelinton,1996-08-14,22,Brazil,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
-19,Centre-Forward,Ishak Belfodil,1992-01-12,27,Algeria,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
-28,Centre-Forward,Ádám Szalai,1987-12-09,31,Hungary,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
-26,Centre-Forward,David Otto,1999-03-03,20,Germany,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
-31,Goalkeeper,Kevin Trapp,1990-07-08,28,Germany,Eintracht Frankfurt,Bundesliga,2018/2019,2018
-1,Goalkeeper,Frederik Rönnow,1992-08-04,26,Denmark,Eintracht Frankfurt,Bundesliga,2018/2019,2018
-37,Goalkeeper,Jan Zimmermann,1985-04-19,34,Germany,Eintracht Frankfurt,Bundesliga,2018/2019,2018
-41,Goalkeeper,Tobias Stirl,2000-04-17,19,Germany,Eintracht Frankfurt,Bundesliga,2018/2019,2018
-2,Centre-Back,Evan N'Dicka,1999-08-20,19,France,Eintracht Frankfurt,Bundesliga,2018/2019,2018
-13,Centre-Back,Martin Hinteregger,1992-09-07,26,Austria,Eintracht Frankfurt,Bundesliga,2018/2019,2018
-3,Centre-Back,Simon Falette,1992-02-19,27,Guinea,Eintracht Frankfurt,Bundesliga,2018/2019,2018
-19,Centre-Back,David Abraham,1986-07-15,32,Argentina,Eintracht Frankfurt,Bundesliga,2018/2019,2018
-35,Centre-Back,Tuta,1999-07-04,19,Brazil,Eintracht Frankfurt,Bundesliga,2018/2019,2018
-23,Centre-Back,Marco Russ,1985-08-04,33,Germany,Eintracht Frankfurt,Bundesliga,2018/2019,2018
-15,Left-Back,Jetro Willems,1994-03-30,25,Netherlands,Eintracht Frankfurt,Bundesliga,2018/2019,2018
-33,Left-Back,Taleb Tawatha,1992-06-21,26,Israel,Eintracht Frankfurt,Bundesliga,2018/2019,2018
-24,Right-Back,Danny da Costa,1993-07-13,25,Germany,Eintracht Frankfurt,Bundesliga,2018/2019,2018
-18,Right-Back,Almamy Touré,1996-04-28,23,France,Eintracht Frankfurt,Bundesliga,2018/2019,2018
-22,Right-Back,Timothy Chandler,1990-03-29,29,United States,Eintracht Frankfurt,Bundesliga,2018/2019,2018
-16,Defensive Midfield,Lucas Torró,1994-07-19,24,Spain,Eintracht Frankfurt,Bundesliga,2018/2019,2018
-5,Defensive Midfield,Gelson Fernandes,1986-09-02,32,Switzerland,Eintracht Frankfurt,Bundesliga,2018/2019,2018
-20,Defensive Midfield,Makoto Hasebe,1984-01-18,35,Japan,Eintracht Frankfurt,Bundesliga,2018/2019,2018
-26,Defensive Midfield,Nils Stendera,2000-09-30,18,Germany,Eintracht Frankfurt,Bundesliga,2018/2019,2018
-30,Defensive Midfield,Sahverdi Cetin,2000-09-28,18,Germany,Eintracht Frankfurt,Bundesliga,2018/2019,2018
-17,Central Midfield,Sebastian Rode,1990-10-11,28,Germany,Eintracht Frankfurt,Bundesliga,2018/2019,2018
-6,Central Midfield,Jonathan de Guzmán,1987-09-13,31,Netherlands,Eintracht Frankfurt,Bundesliga,2018/2019,2018
-21,Central Midfield,Marc Stendera,1995-12-10,23,Germany,Eintracht Frankfurt,Bundesliga,2018/2019,2018
-10,Left Midfield,Filip Kostic,1992-11-01,26,Serbia,Eintracht Frankfurt,Bundesliga,2018/2019,2018
-11,Attacking Midfield,Mijat Gacinovic,1995-02-08,24,Serbia,Eintracht Frankfurt,Bundesliga,2018/2019,2018
-38,Attacking Midfield,Patrick Finger,2001-01-01,18,Germany,Eintracht Frankfurt,Bundesliga,2018/2019,2018
-36,Left Winger,Mischa Häuser,2000-01-23,19,Germany,Eintracht Frankfurt,Bundesliga,2018/2019,2018
-25,Right Winger,Patrice Kabuya,2000-01-07,19,Germany,Eintracht Frankfurt,Bundesliga,2018/2019,2018
-4,Second Striker,Ante Rebic,1993-09-21,25,Croatia,Eintracht Frankfurt,Bundesliga,2018/2019,2018
-32,Second Striker,Nelson Mandela Mbouhom,1999-05-04,20,Cameroon,Eintracht Frankfurt,Bundesliga,2018/2019,2018
-8,Centre-Forward,Luka Jovic,1997-12-23,21,Serbia,Eintracht Frankfurt,Bundesliga,2018/2019,2018
-9,Centre-Forward,Sébastien Haller,1994-06-22,24,France,Eintracht Frankfurt,Bundesliga,2018/2019,2018
-39,Centre-Forward,Gonçalo Paciência,1994-08-01,24,Portugal,Eintracht Frankfurt,Bundesliga,2018/2019,2018
-34,Centre-Forward,Branimir Hrgota,1993-01-12,26,Sweden,Eintracht Frankfurt,Bundesliga,2018/2019,2018
-1,Goalkeeper,Yann Sommer,1988-12-17,30,Switzerland,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
-21,Goalkeeper,Tobias Sippel,1988-03-22,31,Germany,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
-35,Goalkeeper,Moritz Nicolas,1997-10-21,21,Germany,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
-28,Centre-Back,Matthias Ginter,1994-01-19,25,Germany,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
-30,Centre-Back,Nico Elvedi,1996-09-30,22,Switzerland,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
-24,Centre-Back,Tony Jantschke,1990-04-07,29,Germany,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
-29,Centre-Back,Mamadou Doucouré,1998-05-21,21,France,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
-42,Centre-Back,Florian Mayer,1998-03-04,21,Germany,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
-40,Left-Back,Andreas Poulsen,1999-10-13,19,Denmark,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
-17,Left-Back,Oscar Wendt,1985-10-24,33,Sweden,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
-3,Right-Back,Michael Lang,1991-02-08,28,Switzerland,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
-15,Right-Back,Jordan Beyer,2000-05-19,19,Germany,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
-8,Defensive Midfield,Denis Zakaria,1996-11-20,22,Switzerland,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
-6,Defensive Midfield,Christoph Kramer,1991-02-19,28,Germany,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
-5,Defensive Midfield,Tobias Strobl,1990-05-12,29,Germany,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
-32,Central Midfield,Florian Neuhaus,1997-03-16,22,Germany,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
-23,Central Midfield,Jonas Hofmann,1992-07-14,26,Germany,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
-27,Central Midfield,Michaël Cuisance,1999-08-16,19,France,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
-26,Attacking Midfield,Torben Müsel,1999-07-25,19,Germany,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
-10,Left Winger,Thorgan Hazard,1993-03-29,26,Belgium,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
-19,Left Winger,Fabian Johnson,1987-12-11,31,United States,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
-37,Left Winger,Keanan Bennetts,1999-03-09,20,England,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
-7,Right Winger,Patrick Herrmann,1991-02-12,28,Germany,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
-16,Right Winger,Ibrahima Traoré,1988-04-21,31,Guinea,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
-13,Second Striker,Lars Stindl,1988-08-26,30,Germany,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
-11,Second Striker,Raffael,1985-03-28,34,Brazil,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
-14,Centre-Forward,Alassane Plea,1993-03-10,26,France,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
-18,Centre-Forward,Josip Drmic,1992-08-08,26,Switzerland,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
-20,Centre-Forward,Julio Villalba,1998-09-17,20,Paraguay,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
-35,Goalkeeper,Alexander Nübel,1996-09-30,22,Germany,FC Schalke 04,Bundesliga,2018/2019,2018
-1,Goalkeeper,Ralf Fährmann,1988-09-27,30,Germany,FC Schalke 04,Bundesliga,2018/2019,2018
-34,Goalkeeper,Michael Langer,1985-01-06,34,Austria,FC Schalke 04,Bundesliga,2018/2019,2018
-5,Centre-Back,Matija Nastasic,1993-03-28,26,Serbia,FC Schalke 04,Bundesliga,2018/2019,2018
-26,Centre-Back,Salif Sané,1990-08-25,28,Senegal,FC Schalke 04,Bundesliga,2018/2019,2018
-17,Centre-Back,Benjamin Stambouli,1990-08-13,28,France,FC Schalke 04,Bundesliga,2018/2019,2018
-27,Centre-Back,Jeffrey Bruma,1991-11-13,27,Netherlands,FC Schalke 04,Bundesliga,2018/2019,2018
-44,Centre-Back,George Timotheou,1997-07-29,21,Australia,FC Schalke 04,Bundesliga,2018/2019,2018
-3,Left-Back,Hamza Mendyl,1997-10-21,21,Morocco,FC Schalke 04,Bundesliga,2018/2019,2018
-24,Left-Back,Bastian Oczipka,1989-01-12,30,Germany,FC Schalke 04,Bundesliga,2018/2019,2018
-42,Left-Back,Jonas Carls,1997-03-25,22,Germany,FC Schalke 04,Bundesliga,2018/2019,2018
-21,Right-Back,Sascha Riether,1983-03-23,36,Germany,FC Schalke 04,Bundesliga,2018/2019,2018
-13,Defensive Midfield,Sebastian Rudy,1990-02-28,29,Germany,FC Schalke 04,Bundesliga,2018/2019,2018
-6,Defensive Midfield,Omar Mascarell,1993-02-02,26,Spain,FC Schalke 04,Bundesliga,2018/2019,2018
-2,Central Midfield,Weston McKennie,1998-08-28,20,United States,FC Schalke 04,Bundesliga,2018/2019,2018
-8,Central Midfield,Suat Serdar,1997-04-11,22,Germany,FC Schalke 04,Bundesliga,2018/2019,2018
-10,Central Midfield,Nabil Bentaleb,1994-11-24,24,Algeria,FC Schalke 04,Bundesliga,2018/2019,2018
-41,Central Midfield,Nassim Boujellab,1999-06-20,19,Morocco,FC Schalke 04,Bundesliga,2018/2019,2018
-18,Right Midfield,Daniel Caligiuri,1988-01-15,31,Italy,FC Schalke 04,Bundesliga,2018/2019,2018
-28,Right Midfield,Alessandro Schöpf,1994-02-07,25,Austria,FC Schalke 04,Bundesliga,2018/2019,2018
-25,Attacking Midfield,Amine Harit,1997-06-18,21,Morocco,FC Schalke 04,Bundesliga,2018/2019,2018
-11,Left Winger,Yevhen Konoplianka,1989-09-29,29,Ukraine,FC Schalke 04,Bundesliga,2018/2019,2018
-14,Right Winger,Rabbi Matondo,2000-09-09,18,Wales,FC Schalke 04,Bundesliga,2018/2019,2018
-22,Right Winger,Steven Skrzybski,1992-11-18,26,Germany,FC Schalke 04,Bundesliga,2018/2019,2018
-39,Right Winger,Benjamin Goller,1999-01-01,20,Germany,FC Schalke 04,Bundesliga,2018/2019,2018
-36,Centre-Forward,Breel Embolo,1997-02-14,22,Switzerland,FC Schalke 04,Bundesliga,2018/2019,2018
-7,Centre-Forward,Mark Uth,1991-08-24,27,Germany,FC Schalke 04,Bundesliga,2018/2019,2018
-19,Centre-Forward,Guido Burgstaller,1989-04-29,30,Austria,FC Schalke 04,Bundesliga,2018/2019,2018
-15,Centre-Forward,Ahmed Kutucu,2000-03-01,19,Turkey,FC Schalke 04,Bundesliga,2018/2019,2018
-23,Centre-Forward,Cedric Teuchert,1997-01-14,22,Germany,FC Schalke 04,Bundesliga,2018/2019,2018
-40,Centre-Forward,Haji Wright,1998-03-27,21,United States,FC Schalke 04,Bundesliga,2018/2019,2018
-22,Goalkeeper,Rune Jarstein,1984-09-29,34,Norway,Hertha BSC,Bundesliga,2018/2019,2018
-1,Goalkeeper,Thomas Kraft,1988-07-22,30,Germany,Hertha BSC,Bundesliga,2018/2019,2018
-35,Goalkeeper,Marius Gersbeck,1995-06-20,23,Germany,Hertha BSC,Bundesliga,2018/2019,2018
-12,Goalkeeper,Dennis Smarsch,1999-01-14,20,Germany,Hertha BSC,Bundesliga,2018/2019,2018
-33,Goalkeeper,Jonathan Klinsmann,1997-04-08,22,United States,Hertha BSC,Bundesliga,2018/2019,2018
-5,Centre-Back,Niklas Stark,1995-04-14,24,Germany,Hertha BSC,Bundesliga,2018/2019,2018
-4,Centre-Back,Karim Rekik,1994-12-02,24,Netherlands,Hertha BSC,Bundesliga,2018/2019,2018
-25,Centre-Back,Jordan Torunarigha,1997-08-07,21,Germany,Hertha BSC,Bundesliga,2018/2019,2018
-31,Centre-Back,Derrick Luckassen,1995-07-03,23,Netherlands,Hertha BSC,Bundesliga,2018/2019,2018
-29,Centre-Back,Florian Baak,1999-03-18,20,Germany,Hertha BSC,Bundesliga,2018/2019,2018
-17,Left-Back,Maximilian Mittelstädt,1997-03-18,22,Germany,Hertha BSC,Bundesliga,2018/2019,2018
-21,Left-Back,Marvin Plattenhardt,1992-01-26,27,Germany,Hertha BSC,Bundesliga,2018/2019,2018
-13,Right-Back,Lukas Klünter,1996-05-26,23,Germany,Hertha BSC,Bundesliga,2018/2019,2018
-2,Right-Back,Peter Pekarik,1986-10-30,32,Slovakia,Hertha BSC,Bundesliga,2018/2019,2018
-23,Defensive Midfield,Arne Maier,1999-01-08,20,Germany,Hertha BSC,Bundesliga,2018/2019,2018
-28,Defensive Midfield,Fabian Lustenberger,1988-05-02,31,Switzerland,Hertha BSC,Bundesliga,2018/2019,2018
-15,Central Midfield,Marko Grujic,1996-04-13,23,Serbia,Hertha BSC,Bundesliga,2018/2019,2018
-6,Central Midfield,Vladimir Darida,1990-08-08,28,Czech Republic,Hertha BSC,Bundesliga,2018/2019,2018
-3,Central Midfield,Per Ciljan Skjelbred,1987-06-16,31,Norway,Hertha BSC,Bundesliga,2018/2019,2018
-20,Right Midfield,Valentino Lazaro,1996-03-24,23,Austria,Hertha BSC,Bundesliga,2018/2019,2018
-10,Attacking Midfield,Ondrej Duda,1994-12-05,24,Slovakia,Hertha BSC,Bundesliga,2018/2019,2018
-30,Attacking Midfield,Julius Kade,1999-05-20,20,Germany,Hertha BSC,Bundesliga,2018/2019,2018
-16,Left Winger,Javairô Dilrosun,1998-06-22,20,Netherlands,Hertha BSC,Bundesliga,2018/2019,2018
-8,Left Winger,Salomon Kalou,1985-08-05,33,Cote d'Ivoire,Hertha BSC,Bundesliga,2018/2019,2018
-32,Left Winger,Dennis Jastrzembski,2000-02-20,19,Germany,Hertha BSC,Bundesliga,2018/2019,2018
-11,Right Winger,Mathew Leckie,1991-02-04,28,Australia,Hertha BSC,Bundesliga,2018/2019,2018
-24,Right Winger,Palko Dárdai,1999-04-24,20,Germany,Hertha BSC,Bundesliga,2018/2019,2018
-34,Right Winger,Maurice Covic,1998-04-17,21,Germany,Hertha BSC,Bundesliga,2018/2019,2018
-27,Centre-Forward,Davie Selke,1995-01-20,24,Germany,Hertha BSC,Bundesliga,2018/2019,2018
-19,Centre-Forward,Vedad Ibisevic,1984-08-06,34,Bosnia-Herzegovina,Hertha BSC,Bundesliga,2018/2019,2018
-14,Centre-Forward,Pascal Köpke,1995-09-03,23,Germany,Hertha BSC,Bundesliga,2018/2019,2018
-1,Goalkeeper,Koen Casteels,1992-06-25,26,Belgium,VfL Wolfsburg,Bundesliga,2018/2019,2018
-12,Goalkeeper,Pavao Pervan,1987-11-13,31,Austria,VfL Wolfsburg,Bundesliga,2018/2019,2018
-36,Goalkeeper,Phillip Menzel,1998-08-18,20,Germany,VfL Wolfsburg,Bundesliga,2018/2019,2018
-25,Centre-Back,John Anthony Brooks,1993-01-28,26,United States,VfL Wolfsburg,Bundesliga,2018/2019,2018
-31,Centre-Back,Robin Knoche,1992-05-22,27,Germany,VfL Wolfsburg,Bundesliga,2018/2019,2018
-32,Centre-Back,Marcel Tisserand,1993-01-10,26,DR Congo,VfL Wolfsburg,Bundesliga,2018/2019,2018
-17,Centre-Back,Felix Uduokhai,1997-09-09,21,Germany,VfL Wolfsburg,Bundesliga,2018/2019,2018
-15,Left-Back,Jérôme Roussillon,1993-01-06,26,France,VfL Wolfsburg,Bundesliga,2018/2019,2018
-35,Left-Back,Gian-Luca Itter,1999-01-05,20,Germany,VfL Wolfsburg,Bundesliga,2018/2019,2018
-2,Right-Back,William,1995-04-03,24,Brazil,VfL Wolfsburg,Bundesliga,2018/2019,2018
-24,Right-Back,Sebastian Jung,1990-06-22,28,Germany,VfL Wolfsburg,Bundesliga,2018/2019,2018
-4,Defensive Midfield,Ignacio Camacho,1990-05-04,29,Spain,VfL Wolfsburg,Bundesliga,2018/2019,2018
-23,Defensive Midfield,Josuha Guilavogui,1990-09-19,28,France,VfL Wolfsburg,Bundesliga,2018/2019,2018
-27,Central Midfield,Maximilian Arnold,1994-05-27,25,Germany,VfL Wolfsburg,Bundesliga,2018/2019,2018
-13,Central Midfield,Yannick Gerhardt,1994-03-13,25,Germany,VfL Wolfsburg,Bundesliga,2018/2019,2018
-37,Central Midfield,Elvis Rexhbecaj,1997-11-01,21,Germany,VfL Wolfsburg,Bundesliga,2018/2019,2018
-10,Attacking Midfield,Yunus Malli,1992-02-24,27,Turkey,VfL Wolfsburg,Bundesliga,2018/2019,2018
-7,Left Winger,Josip Brekalo,1998-06-23,20,Croatia,VfL Wolfsburg,Bundesliga,2018/2019,2018
-21,Left Winger,Paul-Georges Ntep,1992-07-29,26,Cameroon,VfL Wolfsburg,Bundesliga,2018/2019,2018
-29,Left Winger,John Yeboah,2000-06-23,18,Germany,VfL Wolfsburg,Bundesliga,2018/2019,2018
-34,Left Winger,Marvin Stefaniak,1995-02-03,24,Germany,VfL Wolfsburg,Bundesliga,2018/2019,2018
-8,Right Winger,Renato Steffen,1991-11-03,27,Switzerland,VfL Wolfsburg,Bundesliga,2018/2019,2018
-11,Right Winger,Felix Klaus,1992-09-13,26,Germany,VfL Wolfsburg,Bundesliga,2018/2019,2018
-38,Right Winger,Ismail Azzaoui,1998-01-06,21,Belgium,VfL Wolfsburg,Bundesliga,2018/2019,2018
-14,Second Striker,Admir Mehmedi,1991-03-16,28,Switzerland,VfL Wolfsburg,Bundesliga,2018/2019,2018
-9,Centre-Forward,Wout Weghorst,1992-08-07,26,Netherlands,VfL Wolfsburg,Bundesliga,2018/2019,2018
-33,Centre-Forward,Daniel Ginczek,1991-04-13,28,Germany,VfL Wolfsburg,Bundesliga,2018/2019,2018
-1,Goalkeeper,Jiri Pavlenka,1992-04-14,27,Czech Republic,SV Werder Bremen,Bundesliga,2018/2019,2018
-27,Goalkeeper,Stefanos Kapino,1994-03-18,25,Greece,SV Werder Bremen,Bundesliga,2018/2019,2018
-40,Goalkeeper,Luca Plogmann,2000-03-10,19,Germany,SV Werder Bremen,Bundesliga,2018/2019,2018
-13,Centre-Back,Milos Veljkovic,1995-09-26,23,Serbia,SV Werder Bremen,Bundesliga,2018/2019,2018
-15,Centre-Back,Sebastian Langkamp,1988-01-15,31,Germany,SV Werder Bremen,Bundesliga,2018/2019,2018
-18,Centre-Back,Niklas Moisander,1985-09-29,33,Finland,SV Werder Bremen,Bundesliga,2018/2019,2018
-5,Left-Back,Ludwig Augustinsson,1994-04-21,25,Sweden,SV Werder Bremen,Bundesliga,2018/2019,2018
-32,Left-Back,Marco Friedl,1998-03-16,21,Austria,SV Werder Bremen,Bundesliga,2018/2019,2018
-39,Left-Back,Jan-Niklas Beste,1999-01-04,20,Germany,SV Werder Bremen,Bundesliga,2018/2019,2018
-36,Left-Back,Thore Jacobsen,1997-04-19,22,Germany,SV Werder Bremen,Bundesliga,2018/2019,2018
-23,Right-Back,Theodor Gebre Selassie,1986-12-24,32,Czech Republic,SV Werder Bremen,Bundesliga,2018/2019,2018
-2,Right-Back,Felix Beijmo,1998-01-31,21,Sweden,SV Werder Bremen,Bundesliga,2018/2019,2018
-17,Defensive Midfield,Nuri Sahin,1988-09-05,30,Turkey,SV Werder Bremen,Bundesliga,2018/2019,2018
-44,Defensive Midfield,Philipp Bargfrede,1989-03-03,30,Germany,SV Werder Bremen,Bundesliga,2018/2019,2018
-NA,Defensive Midfield,Thanos Petsos,1991-06-05,28,Greece,SV Werder Bremen,Bundesliga,2018/2019,2018
-35,Central Midfield,Maximilian Eggestein,1996-12-08,22,Germany,SV Werder Bremen,Bundesliga,2018/2019,2018
-34,Central Midfield,Jean Manuel Mbom,2000-02-24,19,Germany,SV Werder Bremen,Bundesliga,2018/2019,2018
-30,Attacking Midfield,Davy Klaassen,1993-02-21,26,Netherlands,SV Werder Bremen,Bundesliga,2018/2019,2018
-6,Attacking Midfield,Kevin Möhwald,1993-07-03,25,Germany,SV Werder Bremen,Bundesliga,2018/2019,2018
-11,Left Winger,Milot Rashica,1996-06-28,22,Kosovo,SV Werder Bremen,Bundesliga,2018/2019,2018
-24,Right Winger,Johannes Eggestein,1998-05-08,21,Germany,SV Werder Bremen,Bundesliga,2018/2019,2018
-22,Second Striker,Fin Bartels,1987-02-07,32,Germany,SV Werder Bremen,Bundesliga,2018/2019,2018
-10,Centre-Forward,Max Kruse,1988-03-19,31,Germany,SV Werder Bremen,Bundesliga,2018/2019,2018
-8,Centre-Forward,Yuya Osako,1990-05-18,29,Japan,SV Werder Bremen,Bundesliga,2018/2019,2018
-19,Centre-Forward,Josh Sargent,2000-02-20,19,United States,SV Werder Bremen,Bundesliga,2018/2019,2018
-9,Centre-Forward,Martin Harnik,1987-06-10,32,Austria,SV Werder Bremen,Bundesliga,2018/2019,2018
-20,Centre-Forward,Aron Jóhannsson,1990-11-10,28,United States,SV Werder Bremen,Bundesliga,2018/2019,2018
-4,Centre-Forward,Claudio Pizarro,1978-10-03,40,Peru,SV Werder Bremen,Bundesliga,2018/2019,2018
-22,Goalkeeper,Florian Müller,1997-11-13,21,Germany,1.FSV Mainz 05,Bundesliga,2018/2019,2018
-27,Goalkeeper,Robin Zentner,1994-10-28,24,Germany,1.FSV Mainz 05,Bundesliga,2018/2019,2018
-1,Goalkeeper,René Adler,1985-01-15,34,Germany,1.FSV Mainz 05,Bundesliga,2018/2019,2018
-33,Goalkeeper,Jannik Huth,1994-04-15,25,Germany,1.FSV Mainz 05,Bundesliga,2018/2019,2018
-37,Goalkeeper,Finn Dahmen,1998-03-27,21,Germany,1.FSV Mainz 05,Bundesliga,2018/2019,2018
-19,Centre-Back,Moussa Niakhaté,1996-03-08,23,France,1.FSV Mainz 05,Bundesliga,2018/2019,2018
-16,Centre-Back,Stefan Bell,1991-08-24,27,Germany,1.FSV Mainz 05,Bundesliga,2018/2019,2018
-42,Centre-Back,Alexander Hack,1993-09-08,25,Germany,1.FSV Mainz 05,Bundesliga,2018/2019,2018
-31,Centre-Back,Ahmet Gürleyen,1999-04-26,20,Germany,1.FSV Mainz 05,Bundesliga,2018/2019,2018
-26,Centre-Back,Niko Bungert,1986-10-24,32,Germany,1.FSV Mainz 05,Bundesliga,2018/2019,2018
-3,Left-Back,Aarón Martín,1997-04-22,22,Spain,1.FSV Mainz 05,Bundesliga,2018/2019,2018
-24,Left-Back,Gaëtan Bussmann,1991-02-02,28,France,1.FSV Mainz 05,Bundesliga,2018/2019,2018
-18,Right-Back,Daniel Brosinski,1988-07-17,30,Germany,1.FSV Mainz 05,Bundesliga,2018/2019,2018
-2,Right-Back,Giulio Donati,1990-02-05,29,Italy,1.FSV Mainz 05,Bundesliga,2018/2019,2018
-23,Right-Back,Phillipp Mwene,1994-01-29,25,Austria,1.FSV Mainz 05,Bundesliga,2018/2019,2018
-25,Defensive Midfield,Jean-Philippe Gbamin,1995-09-25,23,Cote d'Ivoire,1.FSV Mainz 05,Bundesliga,2018/2019,2018
-14,Central Midfield,Pierre Kunde Malong,1995-07-26,23,Cameroon,1.FSV Mainz 05,Bundesliga,2018/2019,2018
-6,Central Midfield,Danny Latza,1989-12-07,29,Germany,1.FSV Mainz 05,Bundesliga,2018/2019,2018
-34,Central Midfield,Ridle Baku,1998-04-08,21,Germany,1.FSV Mainz 05,Bundesliga,2018/2019,2018
-35,Central Midfield,Leandro Barreiro Martins,2000-01-03,19,Luxembourg,1.FSV Mainz 05,Bundesliga,2018/2019,2018
-8,Right Midfield,Levin Öztunali,1996-03-15,23,Germany,1.FSV Mainz 05,Bundesliga,2018/2019,2018
-5,Attacking Midfield,Jean-Paul Boëtius,1994-03-22,25,Netherlands,1.FSV Mainz 05,Bundesliga,2018/2019,2018
-10,Attacking Midfield,Alexandru Maxim,1990-07-08,28,Romania,1.FSV Mainz 05,Bundesliga,2018/2019,2018
-21,Left Winger,Karim Onisiwo,1992-03-17,27,Austria,1.FSV Mainz 05,Bundesliga,2018/2019,2018
-38,Left Winger,Gerrit Holtmann,1995-03-25,24,Germany,1.FSV Mainz 05,Bundesliga,2018/2019,2018
-7,Second Striker,Robin Quaison,1993-10-09,25,Sweden,1.FSV Mainz 05,Bundesliga,2018/2019,2018
-9,Centre-Forward,Jean-Philippe Mateta,1997-06-28,21,France,1.FSV Mainz 05,Bundesliga,2018/2019,2018
-29,Centre-Forward,Jonathan Burkardt,2000-07-11,18,Germany,1.FSV Mainz 05,Bundesliga,2018/2019,2018
-20,Centre-Forward,Anthony Ujah,1990-10-14,28,Nigeria,1.FSV Mainz 05,Bundesliga,2018/2019,2018
-28,Centre-Forward,Issah Abass,1998-09-26,20,Ghana,1.FSV Mainz 05,Bundesliga,2018/2019,2018
-11,Centre-Forward,Emil Berggreen,1993-05-10,26,Denmark,1.FSV Mainz 05,Bundesliga,2018/2019,2018
-1,Goalkeeper,Ron-Robert Zieler,1989-02-12,30,Germany,VfB Stuttgart,Bundesliga,2018/2019,2018
-26,Goalkeeper,Alexander Meyer,1991-04-13,28,Germany,VfB Stuttgart,Bundesliga,2018/2019,2018
-13,Goalkeeper,Jens Grahl,1988-09-22,30,Germany,VfB Stuttgart,Bundesliga,2018/2019,2018
-21,Centre-Back,Benjamin Pavard,1996-03-28,23,France,VfB Stuttgart,Bundesliga,2018/2019,2018
-18,Centre-Back,Ozan Kabak,2000-03-25,19,Turkey,VfB Stuttgart,Bundesliga,2018/2019,2018
-5,Centre-Back,Timo Baumgartl,1996-03-04,23,Germany,VfB Stuttgart,Bundesliga,2018/2019,2018
-4,Centre-Back,Marc Oliver Kempf,1995-01-28,24,Germany,VfB Stuttgart,Bundesliga,2018/2019,2018
-28,Centre-Back,Holger Badstuber,1989-03-13,30,Germany,VfB Stuttgart,Bundesliga,2018/2019,2018
-23,Centre-Back,Antonis Aidonis,2001-05-22,18,Germany,VfB Stuttgart,Bundesliga,2018/2019,2018
-24,Left-Back,Borna Sosa,1998-01-21,21,Croatia,VfB Stuttgart,Bundesliga,2018/2019,2018
-2,Left-Back,Emiliano Insúa,1989-01-07,30,Argentina,VfB Stuttgart,Bundesliga,2018/2019,2018
-7,Right-Back,Pablo Maffeo,1997-07-12,21,Spain,VfB Stuttgart,Bundesliga,2018/2019,2018
-32,Right-Back,Andreas Beck,1987-03-13,32,Germany,VfB Stuttgart,Bundesliga,2018/2019,2018
-6,Defensive Midfield,Santiago Ascacíbar,1997-02-25,22,Argentina,VfB Stuttgart,Bundesliga,2018/2019,2018
-3,Defensive Midfield,Dennis Aogo,1987-01-14,32,Germany,VfB Stuttgart,Bundesliga,2018/2019,2018
-8,Central Midfield,Gonzalo Castro,1987-06-11,32,Germany,VfB Stuttgart,Bundesliga,2018/2019,2018
-20,Central Midfield,Christian Gentner,1985-08-14,33,Germany,VfB Stuttgart,Bundesliga,2018/2019,2018
-9,Left Midfield,Steven Zuber,1991-08-17,27,Switzerland,VfB Stuttgart,Bundesliga,2018/2019,2018
-17,Left Midfield,Erik Thommy,1994-08-20,24,Germany,VfB Stuttgart,Bundesliga,2018/2019,2018
-10,Attacking Midfield,Daniel Didavi,1990-02-21,29,Germany,VfB Stuttgart,Bundesliga,2018/2019,2018
-29,Attacking Midfield,David Kopacz,1999-05-29,20,Poland,VfB Stuttgart,Bundesliga,2018/2019,2018
-19,Right Winger,Chadrac Akolo,1995-04-01,24,DR Congo,VfB Stuttgart,Bundesliga,2018/2019,2018
-14,Right Winger,Alexander Esswein,1990-03-25,29,Germany,VfB Stuttgart,Bundesliga,2018/2019,2018
-25,Second Striker,Leon Dajaku,2001-04-12,18,Germany,VfB Stuttgart,Bundesliga,2018/2019,2018
-22,Centre-Forward,Nicólas González,1998-04-06,21,Argentina,VfB Stuttgart,Bundesliga,2018/2019,2018
-11,Centre-Forward,Anastasios Donis,1996-08-29,22,Greece,VfB Stuttgart,Bundesliga,2018/2019,2018
-27,Centre-Forward,Mario Gómez,1985-07-10,33,Germany,VfB Stuttgart,Bundesliga,2018/2019,2018
-40,Goalkeeper,Gregor Kobel,1997-12-06,21,Switzerland,FC Augsburg,Bundesliga,2018/2019,2018
-1,Goalkeeper,Andreas Luthe,1987-03-10,32,Germany,FC Augsburg,Bundesliga,2018/2019,2018
-13,Goalkeeper,Fabian Giefer,1990-05-17,29,Germany,FC Augsburg,Bundesliga,2018/2019,2018
-39,Goalkeeper,Benjamin Leneis,1999-03-08,20,Germany,FC Augsburg,Bundesliga,2018/2019,2018
-6,Centre-Back,Jeffrey Gouweleeuw,1991-07-10,27,Netherlands,FC Augsburg,Bundesliga,2018/2019,2018
-38,Centre-Back,Kevin Danso,1998-09-19,20,Austria,FC Augsburg,Bundesliga,2018/2019,2018
-5,Centre-Back,Reece Oxford,1998-12-16,20,England,FC Augsburg,Bundesliga,2018/2019,2018
-15,Centre-Back,Jozo Stanic,1999-04-06,20,Croatia,FC Augsburg,Bundesliga,2018/2019,2018
-16,Centre-Back,Christoph Janker,1985-02-14,34,Germany,FC Augsburg,Bundesliga,2018/2019,2018
-18,Centre-Back,Jan-Ingwer Callsen-Bracker,1984-09-23,34,Germany,FC Augsburg,Bundesliga,2018/2019,2018
-31,Left-Back,Philipp Max,1993-09-30,25,Germany,FC Augsburg,Bundesliga,2018/2019,2018
-3,Left-Back,Konstantinos Stafylidis,1993-12-02,25,Greece,FC Augsburg,Bundesliga,2018/2019,2018
-25,Left-Back,Kilian Jakob,1998-01-25,21,Germany,FC Augsburg,Bundesliga,2018/2019,2018
-17,Right-Back,Jonathan Schmid,1990-06-22,28,France,FC Augsburg,Bundesliga,2018/2019,2018
-32,Right-Back,Raphael Framberger,1995-09-06,23,Germany,FC Augsburg,Bundesliga,2018/2019,2018
-26,Right-Back,Simon Asta,2001-01-25,18,Germany,FC Augsburg,Bundesliga,2018/2019,2018
-8,Defensive Midfield,Rani Khedira,1994-01-27,25,Germany,FC Augsburg,Bundesliga,2018/2019,2018
-4,Defensive Midfield,Felix Götze,1998-02-11,21,Germany,FC Augsburg,Bundesliga,2018/2019,2018
-10,Defensive Midfield,Daniel Baier,1984-05-18,35,Germany,FC Augsburg,Bundesliga,2018/2019,2018
-33,Defensive Midfield,Felix Schwarzholz,1999-09-24,19,Germany,FC Augsburg,Bundesliga,2018/2019,2018
-19,Central Midfield,Ja-cheol Koo,1989-02-27,30,"Korea, South",FC Augsburg,Bundesliga,2018/2019,2018
-14,Central Midfield,Jan Morávek,1989-11-01,29,Czech Republic,FC Augsburg,Bundesliga,2018/2019,2018
-34,Right Midfield,Georg Teigl,1991-02-09,28,Austria,FC Augsburg,Bundesliga,2018/2019,2018
-24,Attacking Midfield,Fredrik Jensen,1997-09-09,21,Finland,FC Augsburg,Bundesliga,2018/2019,2018
-29,Attacking Midfield,Romario Rösch,1999-07-01,19,Germany,FC Augsburg,Bundesliga,2018/2019,2018
-23,Left Winger,Marco Richter,1997-11-24,21,Germany,FC Augsburg,Bundesliga,2018/2019,2018
-28,Right Winger,André Hahn,1990-08-13,28,Germany,FC Augsburg,Bundesliga,2018/2019,2018
-11,Second Striker,Michael Gregoritsch,1994-04-18,25,Austria,FC Augsburg,Bundesliga,2018/2019,2018
-27,Centre-Forward,Alfred Finnbogason,1989-02-01,30,Iceland,FC Augsburg,Bundesliga,2018/2019,2018
-21,Centre-Forward,Sergio Córdova,1997-08-09,21,Venezuela,FC Augsburg,Bundesliga,2018/2019,2018
-22,Centre-Forward,Dong-won Ji,1991-05-28,28,"Korea, South",FC Augsburg,Bundesliga,2018/2019,2018
-20,Centre-Forward,Julian Schieber,1989-02-13,30,Germany,FC Augsburg,Bundesliga,2018/2019,2018
-1,Goalkeeper,Alexander Schwolow,1992-06-02,27,Germany,SC Freiburg,Bundesliga,2018/2019,2018
-26,Goalkeeper,Mark Flekken,1993-06-13,25,Netherlands,SC Freiburg,Bundesliga,2018/2019,2018
-37,Goalkeeper,Constantin Frommann,1998-05-27,21,Germany,SC Freiburg,Bundesliga,2018/2019,2018
-25,Centre-Back,Robin Koch,1996-07-17,22,Germany,SC Freiburg,Bundesliga,2018/2019,2018
-23,Centre-Back,Dominique Heintz,1993-08-15,25,Germany,SC Freiburg,Bundesliga,2018/2019,2018
-3,Centre-Back,Philipp Lienhart,1996-07-11,22,Austria,SC Freiburg,Bundesliga,2018/2019,2018
-5,Centre-Back,Manuel Gulde,1991-02-12,28,Germany,SC Freiburg,Bundesliga,2018/2019,2018
-31,Centre-Back,Keven Schlotterbeck,1997-04-28,22,Germany,SC Freiburg,Bundesliga,2018/2019,2018
-49,Centre-Back,Nico Schlotterbeck,1999-12-01,19,Germany,SC Freiburg,Bundesliga,2018/2019,2018
-30,Left-Back,Christian Günter,1993-02-28,26,Germany,SC Freiburg,Bundesliga,2018/2019,2018
-36,Left-Back,Chima Okoroji,1997-04-19,22,England,SC Freiburg,Bundesliga,2018/2019,2018
-15,Right-Back,Pascal Stenzel,1996-03-20,23,Germany,SC Freiburg,Bundesliga,2018/2019,2018
-17,Right-Back,Lukas Kübler,1992-08-30,26,Germany,SC Freiburg,Bundesliga,2018/2019,2018
-27,Defensive Midfield,Nicolas Höfler,1990-03-09,29,Germany,SC Freiburg,Bundesliga,2018/2019,2018
-6,Defensive Midfield,Amir Abrashi,1990-03-27,29,Albania,SC Freiburg,Bundesliga,2018/2019,2018
-19,Central Midfield,Janik Haberer,1994-04-02,25,Germany,SC Freiburg,Bundesliga,2018/2019,2018
-20,Central Midfield,Jérôme Gondorf,1988-06-26,30,Germany,SC Freiburg,Bundesliga,2018/2019,2018
-8,Central Midfield,Mike Frantz,1986-10-14,32,Germany,SC Freiburg,Bundesliga,2018/2019,2018
-32,Left Winger,Vincenzo Grifo,1993-04-07,26,Italy,SC Freiburg,Bundesliga,2018/2019,2018
-22,Left Winger,Roland Sallai,1997-05-22,22,Hungary,SC Freiburg,Bundesliga,2018/2019,2018
-13,Left Winger,Marco Terrazzino,1991-04-15,28,Germany,SC Freiburg,Bundesliga,2018/2019,2018
-38,Left Winger,Florian Kath,1994-10-21,24,Germany,SC Freiburg,Bundesliga,2018/2019,2018
-21,Right Winger,Brandon Borrello,1995-07-25,23,Australia,SC Freiburg,Bundesliga,2018/2019,2018
-11,Centre-Forward,Luca Waldschmidt,1996-05-19,23,Germany,SC Freiburg,Bundesliga,2018/2019,2018
-18,Centre-Forward,Nils Petersen,1988-12-06,30,Germany,SC Freiburg,Bundesliga,2018/2019,2018
-7,Centre-Forward,Florian Niederlechner,1990-10-24,28,Germany,SC Freiburg,Bundesliga,2018/2019,2018
-9,Centre-Forward,Lucas Höler,1994-07-10,24,Germany,SC Freiburg,Bundesliga,2018/2019,2018
-34,Centre-Forward,Tim Kleindienst,1995-08-31,23,Germany,SC Freiburg,Bundesliga,2018/2019,2018
-39,Centre-Forward,Christoph Daferner,1998-01-12,21,Germany,SC Freiburg,Bundesliga,2018/2019,2018
-1,Goalkeeper,Michael Rensing,1984-05-14,35,Germany,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
-30,Goalkeeper,Raphael Wolf,1988-06-06,31,Germany,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
-12,Goalkeeper,Jannick Theißen,1998-01-07,21,Germany,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
-16,Goalkeeper,Jaroslav Drobny,1979-10-18,39,Czech Republic,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
-38,Goalkeeper,Tim Wiesner,1996-11-21,22,Germany,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
-5,Centre-Back,Kaan Ayhan,1994-11-10,24,Turkey,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
-35,Centre-Back,Marcin Kaminski,1992-01-15,27,Poland,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
-3,Centre-Back,Andre Hoffmann,1993-02-28,26,Germany,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
-32,Centre-Back,Robin Bormuth,1995-09-19,23,Germany,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
-23,Left-Back,Niko Gießelmann,1991-09-26,27,Germany,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
-14,Left-Back,Markus Suttner,1987-04-16,32,Austria,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
-26,Left-Back,Diego Contento,1990-05-01,29,Germany,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
-24,Left-Back,Georgios Siadas,1999-12-27,19,Germany,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
-25,Right-Back,Matthias Zimmermann,1992-06-16,26,Germany,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
-39,Right-Back,Jean Zimmer,1993-12-06,25,Germany,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
-31,Defensive Midfield,Marcel Sobottka,1994-04-25,25,Germany,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
-13,Defensive Midfield,Adam Bodzek,1985-09-07,33,Poland,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
-6,Central Midfield,Alfredo Morales,1990-05-12,29,United States,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
-7,Central Midfield,Oliver Fink,1982-06-06,37,Germany,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
-22,Attacking Midfield,Kevin Stöger,1993-08-27,25,Austria,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
-8,Attacking Midfield,Aymen Barkok,1998-05-21,21,Germany,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
-40,Attacking Midfield,Kianz Froese,1996-04-16,23,Canada,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
-9,Left Winger,Benito Raman,1994-11-07,24,Belgium,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
-11,Left Winger,Kenan Karaman,1994-03-05,25,Turkey,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
-33,Left Winger,Takashi Usami,1992-05-06,27,Japan,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
-19,Left Winger,Davor Lovren,1998-10-03,20,Croatia,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
-20,Right Winger,Dodi Lukebakio,1997-09-24,21,Belgium,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
-27,Centre-Forward,Dawid Kownacki,1997-03-14,22,Poland,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
-10,Centre-Forward,Marvin Ducksch,1994-03-07,25,Germany,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
-28,Centre-Forward,Rouwen Hennings,1987-08-28,31,Germany,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
-21,Centre-Forward,Emir Kujovic,1988-06-22,30,Sweden,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
-23,Goalkeeper,Michael Esser,1987-11-22,31,Germany,Hannover 96,Bundesliga,2018/2019,2018
-19,Goalkeeper,Samuel Sahin-Radlinger,1992-11-07,26,Austria,Hannover 96,Bundesliga,2018/2019,2018
-30,Goalkeeper,Leo Weinkauf,1996-07-07,22,Germany,Hannover 96,Bundesliga,2018/2019,2018
-31,Centre-Back,Waldemar Anton,1996-07-20,22,Germany,Hannover 96,Bundesliga,2018/2019,2018
-14,Centre-Back,Kevin Akpoguma,1995-04-19,24,Germany,Hannover 96,Bundesliga,2018/2019,2018
-28,Centre-Back,Kevin Wimmer,1992-11-15,26,Austria,Hannover 96,Bundesliga,2018/2019,2018
-2,Centre-Back,Josip Elez,1994-04-25,25,Croatia,Hannover 96,Bundesliga,2018/2019,2018
-15,Centre-Back,Timo Hübers,1996-07-20,22,Germany,Hannover 96,Bundesliga,2018/2019,2018
-5,Centre-Back,Felipe,1987-05-15,32,Brazil,Hannover 96,Bundesliga,2018/2019,2018
-22,Left-Back,Matthias Ostrzolek,1990-06-05,29,Germany,Hannover 96,Bundesliga,2018/2019,2018
-3,Left-Back,Miiko Albornoz,1990-11-30,28,Chile,Hannover 96,Bundesliga,2018/2019,2018
-4,Right-Back,Julian Korb,1992-03-21,27,Germany,Hannover 96,Bundesliga,2018/2019,2018
-25,Right-Back,Oliver Sorg,1990-05-29,29,Germany,Hannover 96,Bundesliga,2018/2019,2018
-8,Defensive Midfield,Walace,1995-04-04,24,Brazil,Hannover 96,Bundesliga,2018/2019,2018
-27,Defensive Midfield,Pirmin Schwegler,1987-03-09,32,Switzerland,Hannover 96,Bundesliga,2018/2019,2018
-6,Central Midfield,Marvin Bakalorz,1989-09-13,29,Germany,Hannover 96,Bundesliga,2018/2019,2018
-18,Central Midfield,Iver Fossum,1996-07-15,22,Norway,Hannover 96,Bundesliga,2018/2019,2018
-40,Right Midfield,Linton Maina,1999-06-23,19,Germany,Hannover 96,Bundesliga,2018/2019,2018
-7,Left Midfield,Edgar Prib,1989-12-15,29,Germany,Hannover 96,Bundesliga,2018/2019,2018
-35,Attacking Midfield,Florent Muslija,1998-07-06,20,Germany,Hannover 96,Bundesliga,2018/2019,2018
-10,Left Winger,Genki Haraguchi,1991-05-09,28,Japan,Hannover 96,Bundesliga,2018/2019,2018
-13,Right Winger,Ihlas Bebou,1994-04-23,25,Togo,Hannover 96,Bundesliga,2018/2019,2018
-21,Right Winger,Nicolai Müller,1987-09-25,31,Germany,Hannover 96,Bundesliga,2018/2019,2018
-37,Right Winger,Noah Sarenren Bazee,1996-08-21,22,Nigeria,Hannover 96,Bundesliga,2018/2019,2018
-33,Right Winger,Uffe Bech,1993-01-13,26,Denmark,Hannover 96,Bundesliga,2018/2019,2018
-11,Second Striker,Takuma Asano,1994-11-10,24,Japan,Hannover 96,Bundesliga,2018/2019,2018
-24,Centre-Forward,Niclas Füllkrug,1993-02-09,26,Germany,Hannover 96,Bundesliga,2018/2019,2018
-9,Centre-Forward,Jonathas,1989-03-06,30,Brazil,Hannover 96,Bundesliga,2018/2019,2018
-17,Centre-Forward,Bobby Wood,1992-11-15,26,United States,Hannover 96,Bundesliga,2018/2019,2018
-26,Centre-Forward,Hendrik Weydandt,1995-07-16,23,Germany,Hannover 96,Bundesliga,2018/2019,2018
-26,Goalkeeper,Christian Mathenia,1992-03-31,27,Germany,1.FC Nuremberg,Bundesliga,2018/2019,2018
-1,Goalkeeper,Fabian Bredlow,1995-03-02,24,Germany,1.FC Nuremberg,Bundesliga,2018/2019,2018
-30,Goalkeeper,Patric Klandt,1983-09-29,35,Germany,1.FC Nuremberg,Bundesliga,2018/2019,2018
-28,Centre-Back,Lukas Mühl,1997-01-27,22,Germany,1.FC Nuremberg,Bundesliga,2018/2019,2018
-4,Centre-Back,Ewerton,1989-03-23,30,Brazil,1.FC Nuremberg,Bundesliga,2018/2019,2018
-33,Centre-Back,Georg Margreitter,1988-11-07,30,Austria,1.FC Nuremberg,Bundesliga,2018/2019,2018
-23,Left-Back,Tim Leibold,1993-11-30,25,Germany,1.FC Nuremberg,Bundesliga,2018/2019,2018
-34,Left-Back,Dennis Lippert,1996-02-20,23,Germany,1.FC Nuremberg,Bundesliga,2018/2019,2018
-8,Right-Back,Robert Bauer,1995-04-09,24,Germany,1.FC Nuremberg,Bundesliga,2018/2019,2018
-22,Right-Back,Enrico Valentini,1989-02-20,30,Germany,1.FC Nuremberg,Bundesliga,2018/2019,2018
-2,Right-Back,Kevin Goden,1999-02-22,20,Germany,1.FC Nuremberg,Bundesliga,2018/2019,2018
-29,Defensive Midfield,Patrick Erras,1995-01-21,24,Germany,1.FC Nuremberg,Bundesliga,2018/2019,2018
-31,Defensive Midfield,Ondrej Petrak,1992-03-11,27,Czech Republic,1.FC Nuremberg,Bundesliga,2018/2019,2018
-38,Defensive Midfield,Simon Rhein,1998-05-18,21,Germany,1.FC Nuremberg,Bundesliga,2018/2019,2018
-20,Defensive Midfield,Lukas Jäger,1994-02-12,25,Austria,1.FC Nuremberg,Bundesliga,2018/2019,2018
-17,Central Midfield,Eduard Löwen,1997-01-28,22,Germany,1.FC Nuremberg,Bundesliga,2018/2019,2018
-18,Central Midfield,Hanno Behrens,1990-03-26,29,Germany,1.FC Nuremberg,Bundesliga,2018/2019,2018
-35,Central Midfield,Alexander Fuchs,1997-01-05,22,Germany,1.FC Nuremberg,Bundesliga,2018/2019,2018
-37,Attacking Midfield,Timothy Tillman,1999-01-04,20,Germany,1.FC Nuremberg,Bundesliga,2018/2019,2018
-10,Left Winger,Sebastian Kerk,1994-04-17,25,Germany,1.FC Nuremberg,Bundesliga,2018/2019,2018
-16,Left Winger,Ivo Ilicevic,1986-11-14,32,Croatia,1.FC Nuremberg,Bundesliga,2018/2019,2018
-27,Right Winger,Matheus Pereira,1996-05-05,23,Brazil,1.FC Nuremberg,Bundesliga,2018/2019,2018
-24,Right Winger,Virgil Misidjan,1993-07-24,25,Netherlands,1.FC Nuremberg,Bundesliga,2018/2019,2018
-7,Right Winger,Edgar Salli,1992-08-17,26,Cameroon,1.FC Nuremberg,Bundesliga,2018/2019,2018
-9,Centre-Forward,Mikael Ishak,1993-03-31,26,Sweden,1.FC Nuremberg,Bundesliga,2018/2019,2018
-14,Centre-Forward,Yuya Kubo,1993-12-24,25,Japan,1.FC Nuremberg,Bundesliga,2018/2019,2018
-11,Centre-Forward,Adam Zrelak,1994-05-05,25,Slovakia,1.FC Nuremberg,Bundesliga,2018/2019,2018
-19,Centre-Forward,Törles Knöll,1997-09-13,21,Germany,1.FC Nuremberg,Bundesliga,2018/2019,2018
-21,Centre-Forward,Federico Palacios,1995-04-09,24,Germany,1.FC Nuremberg,Bundesliga,2018/2019,2018
+player_name,position,date_of_birth,age,nationality,club_name,league_name,season,year
+Manuel Neuer,Goalkeeper,1986-03-27,33,Germany,Bayern Munich,Bundesliga,2018/2019,2018
+Sven Ulreich,Goalkeeper,1988-08-03,30,Germany,Bayern Munich,Bundesliga,2018/2019,2018
+Christian Früchtl,Goalkeeper,2000-01-28,19,Germany,Bayern Munich,Bundesliga,2018/2019,2018
+Ron-Thorben Hoffmann,Goalkeeper,1999-04-04,20,Germany,Bayern Munich,Bundesliga,2018/2019,2018
+Niklas Süle,Centre-Back,1995-09-03,23,Germany,Bayern Munich,Bundesliga,2018/2019,2018
+Mats Hummels,Centre-Back,1988-12-16,30,Germany,Bayern Munich,Bundesliga,2018/2019,2018
+Jérôme Boateng,Centre-Back,1988-09-03,30,Germany,Bayern Munich,Bundesliga,2018/2019,2018
+David Alaba,Left-Back,1992-06-24,26,Austria,Bayern Munich,Bundesliga,2018/2019,2018
+Joshua Kimmich,Right-Back,1995-02-08,24,Germany,Bayern Munich,Bundesliga,2018/2019,2018
+Rafinha,Right-Back,1985-09-07,33,Brazil,Bayern Munich,Bundesliga,2018/2019,2018
+Javi Martínez,Defensive Midfield,1988-09-02,30,Spain,Bayern Munich,Bundesliga,2018/2019,2018
+Thiago,Central Midfield,1991-04-11,28,Spain,Bayern Munich,Bundesliga,2018/2019,2018
+Leon Goretzka,Central Midfield,1995-02-06,24,Germany,Bayern Munich,Bundesliga,2018/2019,2018
+Corentin Tolisso,Central Midfield,1994-08-03,24,France,Bayern Munich,Bundesliga,2018/2019,2018
+Renato Sanches,Central Midfield,1997-08-18,21,Portugal,Bayern Munich,Bundesliga,2018/2019,2018
+James Rodríguez,Attacking Midfield,1991-07-12,27,Colombia,Bayern Munich,Bundesliga,2018/2019,2018
+Meritan Shabani,Attacking Midfield,1999-03-15,20,Germany,Bayern Munich,Bundesliga,2018/2019,2018
+Kingsley Coman,Left Winger,1996-06-13,22,France,Bayern Munich,Bundesliga,2018/2019,2018
+Alphonso Davies,Left Winger,2000-11-02,18,Canada,Bayern Munich,Bundesliga,2018/2019,2018
+Franck Ribéry,Left Winger,1983-04-07,36,France,Bayern Munich,Bundesliga,2018/2019,2018
+Serge Gnabry,Right Winger,1995-07-14,23,Germany,Bayern Munich,Bundesliga,2018/2019,2018
+Arjen Robben,Right Winger,1984-01-23,35,Netherlands,Bayern Munich,Bundesliga,2018/2019,2018
+Woo-yeong Jeong,Right Winger,1999-09-20,19,"Korea, South",Bayern Munich,Bundesliga,2018/2019,2018
+Thomas Müller,Second Striker,1989-09-13,29,Germany,Bayern Munich,Bundesliga,2018/2019,2018
+Robert Lewandowski,Centre-Forward,1988-08-21,30,Poland,Bayern Munich,Bundesliga,2018/2019,2018
+Roman Bürki,Goalkeeper,1990-11-14,28,Switzerland,Borussia Dortmund,Bundesliga,2018/2019,2018
+Marwin Hitz,Goalkeeper,1987-09-18,31,Switzerland,Borussia Dortmund,Bundesliga,2018/2019,2018
+Eric Oelschlägel,Goalkeeper,1995-09-20,23,Germany,Borussia Dortmund,Bundesliga,2018/2019,2018
+Manuel Akanji,Centre-Back,1995-07-19,23,Switzerland,Borussia Dortmund,Bundesliga,2018/2019,2018
+Abdou Diallo,Centre-Back,1996-05-04,23,France,Borussia Dortmund,Bundesliga,2018/2019,2018
+Dan-Axel Zagadou,Centre-Back,1999-06-03,20,France,Borussia Dortmund,Bundesliga,2018/2019,2018
+Leonardo Balerdi,Centre-Back,1999-01-26,20,Argentina,Borussia Dortmund,Bundesliga,2018/2019,2018
+Ömer Toprak,Centre-Back,1989-07-21,29,Turkey,Borussia Dortmund,Bundesliga,2018/2019,2018
+Marcel Schmelzer,Left-Back,1988-01-22,31,Germany,Borussia Dortmund,Bundesliga,2018/2019,2018
+Achraf Hakimi,Right-Back,1998-11-04,20,Morocco,Borussia Dortmund,Bundesliga,2018/2019,2018
+Lukasz Piszczek,Right-Back,1985-06-03,34,Poland,Borussia Dortmund,Bundesliga,2018/2019,2018
+Axel Witsel,Defensive Midfield,1989-01-12,30,Belgium,Borussia Dortmund,Bundesliga,2018/2019,2018
+Julian Weigl,Defensive Midfield,1995-09-08,23,Germany,Borussia Dortmund,Bundesliga,2018/2019,2018
+Thomas Delaney,Central Midfield,1991-09-03,27,Denmark,Borussia Dortmund,Bundesliga,2018/2019,2018
+Mahmoud Dahoud,Central Midfield,1996-01-01,23,Germany,Borussia Dortmund,Bundesliga,2018/2019,2018
+Raphaël Guerreiro,Left Midfield,1993-12-22,25,Portugal,Borussia Dortmund,Bundesliga,2018/2019,2018
+Marco Reus,Attacking Midfield,1989-05-31,30,Germany,Borussia Dortmund,Bundesliga,2018/2019,2018
+Mario Götze,Attacking Midfield,1992-06-03,27,Germany,Borussia Dortmund,Bundesliga,2018/2019,2018
+Sergio Gómez,Attacking Midfield,2000-09-04,18,Spain,Borussia Dortmund,Bundesliga,2018/2019,2018
+Jacob Bruun Larsen,Left Winger,1998-09-19,20,Denmark,Borussia Dortmund,Bundesliga,2018/2019,2018
+Jadon Sancho,Right Winger,2000-03-25,19,England,Borussia Dortmund,Bundesliga,2018/2019,2018
+Christian Pulisic,Right Winger,1998-09-18,20,United States,Borussia Dortmund,Bundesliga,2018/2019,2018
+Marius Wolf,Right Winger,1995-05-27,24,Germany,Borussia Dortmund,Bundesliga,2018/2019,2018
+Maximilian Philipp,Second Striker,1994-03-01,25,Germany,Borussia Dortmund,Bundesliga,2018/2019,2018
+Paco Alcácer,Centre-Forward,1993-08-30,25,Spain,Borussia Dortmund,Bundesliga,2018/2019,2018
+Péter Gulácsi,Goalkeeper,1990-05-06,29,Hungary,RB Leipzig,Bundesliga,2018/2019,2018
+Yvon Mvogo,Goalkeeper,1994-06-06,25,Switzerland,RB Leipzig,Bundesliga,2018/2019,2018
+Marius Müller,Goalkeeper,1993-07-12,25,Germany,RB Leipzig,Bundesliga,2018/2019,2018
+Julian Krahl,Goalkeeper,2000-01-22,19,Germany,RB Leipzig,Bundesliga,2018/2019,2018
+Ibrahima Konaté,Centre-Back,1999-05-25,20,France,RB Leipzig,Bundesliga,2018/2019,2018
+Dayot Upamecano,Centre-Back,1998-10-27,20,France,RB Leipzig,Bundesliga,2018/2019,2018
+Willi Orban,Centre-Back,1992-11-03,26,Hungary,RB Leipzig,Bundesliga,2018/2019,2018
+Atinc Nukan,Centre-Back,1993-07-20,25,Turkey,RB Leipzig,Bundesliga,2018/2019,2018
+Marcel Halstenberg,Left-Back,1991-09-27,27,Germany,RB Leipzig,Bundesliga,2018/2019,2018
+Marcelo Saracchi,Left-Back,1998-04-23,21,Uruguay,RB Leipzig,Bundesliga,2018/2019,2018
+Lukas Klostermann,Right-Back,1996-06-03,23,Germany,RB Leipzig,Bundesliga,2018/2019,2018
+Nordi Mukiele,Right-Back,1997-11-01,21,France,RB Leipzig,Bundesliga,2018/2019,2018
+Diego Demme,Defensive Midfield,1991-11-21,27,Germany,RB Leipzig,Bundesliga,2018/2019,2018
+Tyler Adams,Defensive Midfield,1999-02-14,20,United States,RB Leipzig,Bundesliga,2018/2019,2018
+Stefan Ilsanker,Defensive Midfield,1989-05-18,30,Austria,RB Leipzig,Bundesliga,2018/2019,2018
+Kevin Kampl,Central Midfield,1990-10-09,28,Slovenia,RB Leipzig,Bundesliga,2018/2019,2018
+Amadou Haidara,Central Midfield,1998-01-31,21,Mali,RB Leipzig,Bundesliga,2018/2019,2018
+Konrad Laimer,Central Midfield,1997-05-27,22,Austria,RB Leipzig,Bundesliga,2018/2019,2018
+Emile Smith Rowe,Left Midfield,2000-07-28,18,England,RB Leipzig,Bundesliga,2018/2019,2018
+Emil Forsberg,Left Winger,1991-10-23,27,Sweden,RB Leipzig,Bundesliga,2018/2019,2018
+Bruma,Left Winger,1994-10-24,24,Portugal,RB Leipzig,Bundesliga,2018/2019,2018
+Marcel Sabitzer,Right Winger,1994-03-17,25,Austria,RB Leipzig,Bundesliga,2018/2019,2018
+Timo Werner,Centre-Forward,1996-03-06,23,Germany,RB Leipzig,Bundesliga,2018/2019,2018
+Yussuf Poulsen,Centre-Forward,1994-06-15,24,Denmark,RB Leipzig,Bundesliga,2018/2019,2018
+Jean-Kévin Augustin,Centre-Forward,1997-06-16,21,France,RB Leipzig,Bundesliga,2018/2019,2018
+Matheus Cunha,Centre-Forward,1999-05-27,20,Brazil,RB Leipzig,Bundesliga,2018/2019,2018
+Lukas Hradecky,Goalkeeper,1989-11-24,29,Finland,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
+Ramazan Özcan,Goalkeeper,1984-06-28,34,Austria,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
+Thorsten Kirschbaum,Goalkeeper,1987-04-20,32,Germany,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
+Jonathan Tah,Centre-Back,1996-02-11,23,Germany,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
+Panagiotis Retsos,Centre-Back,1998-08-09,20,Greece,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
+Sven Bender,Centre-Back,1989-04-27,30,Germany,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
+Aleksandar Dragovic,Centre-Back,1991-03-06,28,Austria,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
+Tin Jedvaj,Centre-Back,1995-11-28,23,Croatia,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
+Jan Boller,Centre-Back,2000-03-14,19,Germany,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
+Wendell,Left-Back,1993-07-20,25,Brazil,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
+Mitchell Weiser,Right-Back,1994-04-21,25,Germany,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
+Lars Bender,Defensive Midfield,1989-04-27,30,Germany,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
+Julian Baumgartlinger,Defensive Midfield,1988-01-02,31,Austria,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
+Charles Aránguiz,Central Midfield,1989-04-17,30,Chile,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
+Dominik Kohr,Central Midfield,1994-01-31,25,Germany,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
+Kai Havertz,Attacking Midfield,1999-06-11,20,Germany,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
+Sam Schreck,Attacking Midfield,1999-01-29,20,Germany,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
+Julian Brandt,Left Winger,1996-05-02,23,Germany,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
+Leon Bailey,Left Winger,1997-08-09,21,Jamaica,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
+Paulinho,Left Winger,2000-07-15,18,Brazil,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
+Karim Bellarabi,Right Winger,1990-04-08,29,Germany,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
+Kevin Volland,Centre-Forward,1992-07-30,26,Germany,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
+Lucas Alario,Centre-Forward,1992-10-08,26,Argentina,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
+Isaac Kiese Thelin,Centre-Forward,1992-06-24,26,Sweden,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
+Joel Pohjanpalo,Centre-Forward,1994-09-13,24,Finland,Bayer 04 Leverkusen,Bundesliga,2018/2019,2018
+Oliver Baumann,Goalkeeper,1990-06-02,29,Germany,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
+Alexander Stolz,Goalkeeper,1983-10-13,35,Germany,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
+Kevin Vogt,Centre-Back,1991-09-23,27,Germany,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
+Kasim Adams,Centre-Back,1995-06-22,23,Ghana,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
+Benjamin Hübner,Centre-Back,1989-07-04,29,Germany,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
+Stefan Posch,Centre-Back,1997-05-14,22,Austria,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
+Ermin Bicakcic,Centre-Back,1990-01-24,29,Bosnia-Herzegovina,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
+Lucas Ribeiro,Centre-Back,1999-01-19,20,Brazil,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
+Nico Schulz,Left-Back,1993-04-01,26,Germany,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
+Pavel Kaderabek,Right-Back,1992-04-25,27,Czech Republic,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
+Joshua Brenet,Right-Back,1994-03-20,25,Netherlands,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
+Alfons Amade,Right-Back,1999-11-12,19,Germany,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
+Dennis Geiger,Defensive Midfield,1998-06-10,21,Germany,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
+Kerem Demirbay,Central Midfield,1993-07-03,25,Germany,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
+Florian Grillitsch,Central Midfield,1995-08-07,23,Austria,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
+Nadiem Amiri,Central Midfield,1996-10-27,22,Germany,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
+Lukas Rupp,Central Midfield,1991-01-08,28,Germany,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
+Leonardo Bittencourt,Attacking Midfield,1993-12-19,25,Germany,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
+Christoph Baumgartner,Attacking Midfield,1999-08-01,19,Austria,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
+Robin Hack,Left Winger,1998-08-27,20,Germany,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
+Reiss Nelson,Right Winger,1999-12-10,19,England,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
+Andrej Kramaric,Centre-Forward,1991-06-19,27,Croatia,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
+Joelinton,Centre-Forward,1996-08-14,22,Brazil,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
+Ishak Belfodil,Centre-Forward,1992-01-12,27,Algeria,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
+Ádám Szalai,Centre-Forward,1987-12-09,31,Hungary,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
+David Otto,Centre-Forward,1999-03-03,20,Germany,TSG 1899 Hoffenheim,Bundesliga,2018/2019,2018
+Kevin Trapp,Goalkeeper,1990-07-08,28,Germany,Eintracht Frankfurt,Bundesliga,2018/2019,2018
+Frederik Rönnow,Goalkeeper,1992-08-04,26,Denmark,Eintracht Frankfurt,Bundesliga,2018/2019,2018
+Jan Zimmermann,Goalkeeper,1985-04-19,34,Germany,Eintracht Frankfurt,Bundesliga,2018/2019,2018
+Tobias Stirl,Goalkeeper,2000-04-17,19,Germany,Eintracht Frankfurt,Bundesliga,2018/2019,2018
+Evan N'Dicka,Centre-Back,1999-08-20,19,France,Eintracht Frankfurt,Bundesliga,2018/2019,2018
+Martin Hinteregger,Centre-Back,1992-09-07,26,Austria,Eintracht Frankfurt,Bundesliga,2018/2019,2018
+Simon Falette,Centre-Back,1992-02-19,27,Guinea,Eintracht Frankfurt,Bundesliga,2018/2019,2018
+David Abraham,Centre-Back,1986-07-15,32,Argentina,Eintracht Frankfurt,Bundesliga,2018/2019,2018
+Tuta,Centre-Back,1999-07-04,19,Brazil,Eintracht Frankfurt,Bundesliga,2018/2019,2018
+Marco Russ,Centre-Back,1985-08-04,33,Germany,Eintracht Frankfurt,Bundesliga,2018/2019,2018
+Jetro Willems,Left-Back,1994-03-30,25,Netherlands,Eintracht Frankfurt,Bundesliga,2018/2019,2018
+Taleb Tawatha,Left-Back,1992-06-21,26,Israel,Eintracht Frankfurt,Bundesliga,2018/2019,2018
+Danny da Costa,Right-Back,1993-07-13,25,Germany,Eintracht Frankfurt,Bundesliga,2018/2019,2018
+Almamy Touré,Right-Back,1996-04-28,23,France,Eintracht Frankfurt,Bundesliga,2018/2019,2018
+Timothy Chandler,Right-Back,1990-03-29,29,United States,Eintracht Frankfurt,Bundesliga,2018/2019,2018
+Lucas Torró,Defensive Midfield,1994-07-19,24,Spain,Eintracht Frankfurt,Bundesliga,2018/2019,2018
+Gelson Fernandes,Defensive Midfield,1986-09-02,32,Switzerland,Eintracht Frankfurt,Bundesliga,2018/2019,2018
+Makoto Hasebe,Defensive Midfield,1984-01-18,35,Japan,Eintracht Frankfurt,Bundesliga,2018/2019,2018
+Nils Stendera,Defensive Midfield,2000-09-30,18,Germany,Eintracht Frankfurt,Bundesliga,2018/2019,2018
+Sahverdi Cetin,Defensive Midfield,2000-09-28,18,Germany,Eintracht Frankfurt,Bundesliga,2018/2019,2018
+Sebastian Rode,Central Midfield,1990-10-11,28,Germany,Eintracht Frankfurt,Bundesliga,2018/2019,2018
+Jonathan de Guzmán,Central Midfield,1987-09-13,31,Netherlands,Eintracht Frankfurt,Bundesliga,2018/2019,2018
+Marc Stendera,Central Midfield,1995-12-10,23,Germany,Eintracht Frankfurt,Bundesliga,2018/2019,2018
+Filip Kostic,Left Midfield,1992-11-01,26,Serbia,Eintracht Frankfurt,Bundesliga,2018/2019,2018
+Mijat Gacinovic,Attacking Midfield,1995-02-08,24,Serbia,Eintracht Frankfurt,Bundesliga,2018/2019,2018
+Patrick Finger,Attacking Midfield,2001-01-01,18,Germany,Eintracht Frankfurt,Bundesliga,2018/2019,2018
+Mischa Häuser,Left Winger,2000-01-23,19,Germany,Eintracht Frankfurt,Bundesliga,2018/2019,2018
+Patrice Kabuya,Right Winger,2000-01-07,19,Germany,Eintracht Frankfurt,Bundesliga,2018/2019,2018
+Ante Rebic,Second Striker,1993-09-21,25,Croatia,Eintracht Frankfurt,Bundesliga,2018/2019,2018
+Nelson Mandela Mbouhom,Second Striker,1999-05-04,20,Cameroon,Eintracht Frankfurt,Bundesliga,2018/2019,2018
+Luka Jovic,Centre-Forward,1997-12-23,21,Serbia,Eintracht Frankfurt,Bundesliga,2018/2019,2018
+Sébastien Haller,Centre-Forward,1994-06-22,24,France,Eintracht Frankfurt,Bundesliga,2018/2019,2018
+Gonçalo Paciência,Centre-Forward,1994-08-01,24,Portugal,Eintracht Frankfurt,Bundesliga,2018/2019,2018
+Branimir Hrgota,Centre-Forward,1993-01-12,26,Sweden,Eintracht Frankfurt,Bundesliga,2018/2019,2018
+Yann Sommer,Goalkeeper,1988-12-17,30,Switzerland,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
+Tobias Sippel,Goalkeeper,1988-03-22,31,Germany,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
+Moritz Nicolas,Goalkeeper,1997-10-21,21,Germany,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
+Matthias Ginter,Centre-Back,1994-01-19,25,Germany,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
+Nico Elvedi,Centre-Back,1996-09-30,22,Switzerland,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
+Tony Jantschke,Centre-Back,1990-04-07,29,Germany,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
+Mamadou Doucouré,Centre-Back,1998-05-21,21,France,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
+Florian Mayer,Centre-Back,1998-03-04,21,Germany,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
+Andreas Poulsen,Left-Back,1999-10-13,19,Denmark,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
+Oscar Wendt,Left-Back,1985-10-24,33,Sweden,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
+Michael Lang,Right-Back,1991-02-08,28,Switzerland,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
+Jordan Beyer,Right-Back,2000-05-19,19,Germany,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
+Denis Zakaria,Defensive Midfield,1996-11-20,22,Switzerland,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
+Christoph Kramer,Defensive Midfield,1991-02-19,28,Germany,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
+Tobias Strobl,Defensive Midfield,1990-05-12,29,Germany,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
+Florian Neuhaus,Central Midfield,1997-03-16,22,Germany,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
+Jonas Hofmann,Central Midfield,1992-07-14,26,Germany,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
+Michaël Cuisance,Central Midfield,1999-08-16,19,France,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
+Torben Müsel,Attacking Midfield,1999-07-25,19,Germany,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
+Thorgan Hazard,Left Winger,1993-03-29,26,Belgium,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
+Fabian Johnson,Left Winger,1987-12-11,31,United States,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
+Keanan Bennetts,Left Winger,1999-03-09,20,England,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
+Patrick Herrmann,Right Winger,1991-02-12,28,Germany,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
+Ibrahima Traoré,Right Winger,1988-04-21,31,Guinea,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
+Lars Stindl,Second Striker,1988-08-26,30,Germany,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
+Raffael,Second Striker,1985-03-28,34,Brazil,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
+Alassane Plea,Centre-Forward,1993-03-10,26,France,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
+Josip Drmic,Centre-Forward,1992-08-08,26,Switzerland,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
+Julio Villalba,Centre-Forward,1998-09-17,20,Paraguay,Borussia Mönchengladbach,Bundesliga,2018/2019,2018
+Alexander Nübel,Goalkeeper,1996-09-30,22,Germany,FC Schalke 04,Bundesliga,2018/2019,2018
+Ralf Fährmann,Goalkeeper,1988-09-27,30,Germany,FC Schalke 04,Bundesliga,2018/2019,2018
+Michael Langer,Goalkeeper,1985-01-06,34,Austria,FC Schalke 04,Bundesliga,2018/2019,2018
+Matija Nastasic,Centre-Back,1993-03-28,26,Serbia,FC Schalke 04,Bundesliga,2018/2019,2018
+Salif Sané,Centre-Back,1990-08-25,28,Senegal,FC Schalke 04,Bundesliga,2018/2019,2018
+Benjamin Stambouli,Centre-Back,1990-08-13,28,France,FC Schalke 04,Bundesliga,2018/2019,2018
+Jeffrey Bruma,Centre-Back,1991-11-13,27,Netherlands,FC Schalke 04,Bundesliga,2018/2019,2018
+George Timotheou,Centre-Back,1997-07-29,21,Australia,FC Schalke 04,Bundesliga,2018/2019,2018
+Hamza Mendyl,Left-Back,1997-10-21,21,Morocco,FC Schalke 04,Bundesliga,2018/2019,2018
+Bastian Oczipka,Left-Back,1989-01-12,30,Germany,FC Schalke 04,Bundesliga,2018/2019,2018
+Jonas Carls,Left-Back,1997-03-25,22,Germany,FC Schalke 04,Bundesliga,2018/2019,2018
+Sascha Riether,Right-Back,1983-03-23,36,Germany,FC Schalke 04,Bundesliga,2018/2019,2018
+Sebastian Rudy,Defensive Midfield,1990-02-28,29,Germany,FC Schalke 04,Bundesliga,2018/2019,2018
+Omar Mascarell,Defensive Midfield,1993-02-02,26,Spain,FC Schalke 04,Bundesliga,2018/2019,2018
+Weston McKennie,Central Midfield,1998-08-28,20,United States,FC Schalke 04,Bundesliga,2018/2019,2018
+Suat Serdar,Central Midfield,1997-04-11,22,Germany,FC Schalke 04,Bundesliga,2018/2019,2018
+Nabil Bentaleb,Central Midfield,1994-11-24,24,Algeria,FC Schalke 04,Bundesliga,2018/2019,2018
+Nassim Boujellab,Central Midfield,1999-06-20,19,Morocco,FC Schalke 04,Bundesliga,2018/2019,2018
+Daniel Caligiuri,Right Midfield,1988-01-15,31,Italy,FC Schalke 04,Bundesliga,2018/2019,2018
+Alessandro Schöpf,Right Midfield,1994-02-07,25,Austria,FC Schalke 04,Bundesliga,2018/2019,2018
+Amine Harit,Attacking Midfield,1997-06-18,21,Morocco,FC Schalke 04,Bundesliga,2018/2019,2018
+Yevhen Konoplianka,Left Winger,1989-09-29,29,Ukraine,FC Schalke 04,Bundesliga,2018/2019,2018
+Rabbi Matondo,Right Winger,2000-09-09,18,Wales,FC Schalke 04,Bundesliga,2018/2019,2018
+Steven Skrzybski,Right Winger,1992-11-18,26,Germany,FC Schalke 04,Bundesliga,2018/2019,2018
+Benjamin Goller,Right Winger,1999-01-01,20,Germany,FC Schalke 04,Bundesliga,2018/2019,2018
+Breel Embolo,Centre-Forward,1997-02-14,22,Switzerland,FC Schalke 04,Bundesliga,2018/2019,2018
+Mark Uth,Centre-Forward,1991-08-24,27,Germany,FC Schalke 04,Bundesliga,2018/2019,2018
+Guido Burgstaller,Centre-Forward,1989-04-29,30,Austria,FC Schalke 04,Bundesliga,2018/2019,2018
+Ahmed Kutucu,Centre-Forward,2000-03-01,19,Turkey,FC Schalke 04,Bundesliga,2018/2019,2018
+Cedric Teuchert,Centre-Forward,1997-01-14,22,Germany,FC Schalke 04,Bundesliga,2018/2019,2018
+Haji Wright,Centre-Forward,1998-03-27,21,United States,FC Schalke 04,Bundesliga,2018/2019,2018
+Rune Jarstein,Goalkeeper,1984-09-29,34,Norway,Hertha BSC,Bundesliga,2018/2019,2018
+Thomas Kraft,Goalkeeper,1988-07-22,30,Germany,Hertha BSC,Bundesliga,2018/2019,2018
+Marius Gersbeck,Goalkeeper,1995-06-20,23,Germany,Hertha BSC,Bundesliga,2018/2019,2018
+Dennis Smarsch,Goalkeeper,1999-01-14,20,Germany,Hertha BSC,Bundesliga,2018/2019,2018
+Jonathan Klinsmann,Goalkeeper,1997-04-08,22,United States,Hertha BSC,Bundesliga,2018/2019,2018
+Niklas Stark,Centre-Back,1995-04-14,24,Germany,Hertha BSC,Bundesliga,2018/2019,2018
+Karim Rekik,Centre-Back,1994-12-02,24,Netherlands,Hertha BSC,Bundesliga,2018/2019,2018
+Jordan Torunarigha,Centre-Back,1997-08-07,21,Germany,Hertha BSC,Bundesliga,2018/2019,2018
+Derrick Luckassen,Centre-Back,1995-07-03,23,Netherlands,Hertha BSC,Bundesliga,2018/2019,2018
+Florian Baak,Centre-Back,1999-03-18,20,Germany,Hertha BSC,Bundesliga,2018/2019,2018
+Maximilian Mittelstädt,Left-Back,1997-03-18,22,Germany,Hertha BSC,Bundesliga,2018/2019,2018
+Marvin Plattenhardt,Left-Back,1992-01-26,27,Germany,Hertha BSC,Bundesliga,2018/2019,2018
+Lukas Klünter,Right-Back,1996-05-26,23,Germany,Hertha BSC,Bundesliga,2018/2019,2018
+Peter Pekarik,Right-Back,1986-10-30,32,Slovakia,Hertha BSC,Bundesliga,2018/2019,2018
+Arne Maier,Defensive Midfield,1999-01-08,20,Germany,Hertha BSC,Bundesliga,2018/2019,2018
+Fabian Lustenberger,Defensive Midfield,1988-05-02,31,Switzerland,Hertha BSC,Bundesliga,2018/2019,2018
+Marko Grujic,Central Midfield,1996-04-13,23,Serbia,Hertha BSC,Bundesliga,2018/2019,2018
+Vladimir Darida,Central Midfield,1990-08-08,28,Czech Republic,Hertha BSC,Bundesliga,2018/2019,2018
+Per Ciljan Skjelbred,Central Midfield,1987-06-16,31,Norway,Hertha BSC,Bundesliga,2018/2019,2018
+Valentino Lazaro,Right Midfield,1996-03-24,23,Austria,Hertha BSC,Bundesliga,2018/2019,2018
+Ondrej Duda,Attacking Midfield,1994-12-05,24,Slovakia,Hertha BSC,Bundesliga,2018/2019,2018
+Julius Kade,Attacking Midfield,1999-05-20,20,Germany,Hertha BSC,Bundesliga,2018/2019,2018
+Javairô Dilrosun,Left Winger,1998-06-22,20,Netherlands,Hertha BSC,Bundesliga,2018/2019,2018
+Salomon Kalou,Left Winger,1985-08-05,33,Cote d'Ivoire,Hertha BSC,Bundesliga,2018/2019,2018
+Dennis Jastrzembski,Left Winger,2000-02-20,19,Germany,Hertha BSC,Bundesliga,2018/2019,2018
+Mathew Leckie,Right Winger,1991-02-04,28,Australia,Hertha BSC,Bundesliga,2018/2019,2018
+Palko Dárdai,Right Winger,1999-04-24,20,Germany,Hertha BSC,Bundesliga,2018/2019,2018
+Maurice Covic,Right Winger,1998-04-17,21,Germany,Hertha BSC,Bundesliga,2018/2019,2018
+Davie Selke,Centre-Forward,1995-01-20,24,Germany,Hertha BSC,Bundesliga,2018/2019,2018
+Vedad Ibisevic,Centre-Forward,1984-08-06,34,Bosnia-Herzegovina,Hertha BSC,Bundesliga,2018/2019,2018
+Pascal Köpke,Centre-Forward,1995-09-03,23,Germany,Hertha BSC,Bundesliga,2018/2019,2018
+Koen Casteels,Goalkeeper,1992-06-25,26,Belgium,VfL Wolfsburg,Bundesliga,2018/2019,2018
+Pavao Pervan,Goalkeeper,1987-11-13,31,Austria,VfL Wolfsburg,Bundesliga,2018/2019,2018
+Phillip Menzel,Goalkeeper,1998-08-18,20,Germany,VfL Wolfsburg,Bundesliga,2018/2019,2018
+John Anthony Brooks,Centre-Back,1993-01-28,26,United States,VfL Wolfsburg,Bundesliga,2018/2019,2018
+Robin Knoche,Centre-Back,1992-05-22,27,Germany,VfL Wolfsburg,Bundesliga,2018/2019,2018
+Marcel Tisserand,Centre-Back,1993-01-10,26,DR Congo,VfL Wolfsburg,Bundesliga,2018/2019,2018
+Felix Uduokhai,Centre-Back,1997-09-09,21,Germany,VfL Wolfsburg,Bundesliga,2018/2019,2018
+Jérôme Roussillon,Left-Back,1993-01-06,26,France,VfL Wolfsburg,Bundesliga,2018/2019,2018
+Gian-Luca Itter,Left-Back,1999-01-05,20,Germany,VfL Wolfsburg,Bundesliga,2018/2019,2018
+William,Right-Back,1995-04-03,24,Brazil,VfL Wolfsburg,Bundesliga,2018/2019,2018
+Paul Verhaegh,Right-Back,1983-09-01,35,Netherlands,VfL Wolfsburg,Bundesliga,2018/2019,2018
+Sebastian Jung,Right-Back,1990-06-22,28,Germany,VfL Wolfsburg,Bundesliga,2018/2019,2018
+Ignacio Camacho,Defensive Midfield,1990-05-04,29,Spain,VfL Wolfsburg,Bundesliga,2018/2019,2018
+Josuha Guilavogui,Defensive Midfield,1990-09-19,28,France,VfL Wolfsburg,Bundesliga,2018/2019,2018
+Maximilian Arnold,Central Midfield,1994-05-27,25,Germany,VfL Wolfsburg,Bundesliga,2018/2019,2018
+Yannick Gerhardt,Central Midfield,1994-03-13,25,Germany,VfL Wolfsburg,Bundesliga,2018/2019,2018
+Elvis Rexhbecaj,Central Midfield,1997-11-01,21,Germany,VfL Wolfsburg,Bundesliga,2018/2019,2018
+Yunus Malli,Attacking Midfield,1992-02-24,27,Turkey,VfL Wolfsburg,Bundesliga,2018/2019,2018
+Josip Brekalo,Left Winger,1998-06-23,20,Croatia,VfL Wolfsburg,Bundesliga,2018/2019,2018
+Paul-Georges Ntep,Left Winger,1992-07-29,26,Cameroon,VfL Wolfsburg,Bundesliga,2018/2019,2018
+John Yeboah,Left Winger,2000-06-23,18,Germany,VfL Wolfsburg,Bundesliga,2018/2019,2018
+Marvin Stefaniak,Left Winger,1995-02-03,24,Germany,VfL Wolfsburg,Bundesliga,2018/2019,2018
+Renato Steffen,Right Winger,1991-11-03,27,Switzerland,VfL Wolfsburg,Bundesliga,2018/2019,2018
+Felix Klaus,Right Winger,1992-09-13,26,Germany,VfL Wolfsburg,Bundesliga,2018/2019,2018
+Ismail Azzaoui,Right Winger,1998-01-06,21,Belgium,VfL Wolfsburg,Bundesliga,2018/2019,2018
+Admir Mehmedi,Second Striker,1991-03-16,28,Switzerland,VfL Wolfsburg,Bundesliga,2018/2019,2018
+Wout Weghorst,Centre-Forward,1992-08-07,26,Netherlands,VfL Wolfsburg,Bundesliga,2018/2019,2018
+Daniel Ginczek,Centre-Forward,1991-04-13,28,Germany,VfL Wolfsburg,Bundesliga,2018/2019,2018
+Jiri Pavlenka,Goalkeeper,1992-04-14,27,Czech Republic,SV Werder Bremen,Bundesliga,2018/2019,2018
+Stefanos Kapino,Goalkeeper,1994-03-18,25,Greece,SV Werder Bremen,Bundesliga,2018/2019,2018
+Luca Plogmann,Goalkeeper,2000-03-10,19,Germany,SV Werder Bremen,Bundesliga,2018/2019,2018
+Milos Veljkovic,Centre-Back,1995-09-26,23,Serbia,SV Werder Bremen,Bundesliga,2018/2019,2018
+Sebastian Langkamp,Centre-Back,1988-01-15,31,Germany,SV Werder Bremen,Bundesliga,2018/2019,2018
+Niklas Moisander,Centre-Back,1985-09-29,33,Finland,SV Werder Bremen,Bundesliga,2018/2019,2018
+Ludwig Augustinsson,Left-Back,1994-04-21,25,Sweden,SV Werder Bremen,Bundesliga,2018/2019,2018
+Marco Friedl,Left-Back,1998-03-16,21,Austria,SV Werder Bremen,Bundesliga,2018/2019,2018
+Jan-Niklas Beste,Left-Back,1999-01-04,20,Germany,SV Werder Bremen,Bundesliga,2018/2019,2018
+Thore Jacobsen,Left-Back,1997-04-19,22,Germany,SV Werder Bremen,Bundesliga,2018/2019,2018
+Theodor Gebre Selassie,Right-Back,1986-12-24,32,Czech Republic,SV Werder Bremen,Bundesliga,2018/2019,2018
+Felix Beijmo,Right-Back,1998-01-31,21,Sweden,SV Werder Bremen,Bundesliga,2018/2019,2018
+Nuri Sahin,Defensive Midfield,1988-09-05,30,Turkey,SV Werder Bremen,Bundesliga,2018/2019,2018
+Philipp Bargfrede,Defensive Midfield,1989-03-03,30,Germany,SV Werder Bremen,Bundesliga,2018/2019,2018
+Thanos Petsos,Defensive Midfield,1991-06-05,28,Greece,SV Werder Bremen,Bundesliga,2018/2019,2018
+Maximilian Eggestein,Central Midfield,1996-12-08,22,Germany,SV Werder Bremen,Bundesliga,2018/2019,2018
+Jean Manuel Mbom,Central Midfield,2000-02-24,19,Germany,SV Werder Bremen,Bundesliga,2018/2019,2018
+Davy Klaassen,Attacking Midfield,1993-02-21,26,Netherlands,SV Werder Bremen,Bundesliga,2018/2019,2018
+Kevin Möhwald,Attacking Midfield,1993-07-03,25,Germany,SV Werder Bremen,Bundesliga,2018/2019,2018
+Milot Rashica,Left Winger,1996-06-28,22,Kosovo,SV Werder Bremen,Bundesliga,2018/2019,2018
+Johannes Eggestein,Right Winger,1998-05-08,21,Germany,SV Werder Bremen,Bundesliga,2018/2019,2018
+Fin Bartels,Second Striker,1987-02-07,32,Germany,SV Werder Bremen,Bundesliga,2018/2019,2018
+Max Kruse,Centre-Forward,1988-03-19,31,Germany,SV Werder Bremen,Bundesliga,2018/2019,2018
+Yuya Osako,Centre-Forward,1990-05-18,29,Japan,SV Werder Bremen,Bundesliga,2018/2019,2018
+Josh Sargent,Centre-Forward,2000-02-20,19,United States,SV Werder Bremen,Bundesliga,2018/2019,2018
+Martin Harnik,Centre-Forward,1987-06-10,32,Austria,SV Werder Bremen,Bundesliga,2018/2019,2018
+Aron Jóhannsson,Centre-Forward,1990-11-10,28,United States,SV Werder Bremen,Bundesliga,2018/2019,2018
+Claudio Pizarro,Centre-Forward,1978-10-03,40,Peru,SV Werder Bremen,Bundesliga,2018/2019,2018
+Florian Müller,Goalkeeper,1997-11-13,21,Germany,1.FSV Mainz 05,Bundesliga,2018/2019,2018
+Robin Zentner,Goalkeeper,1994-10-28,24,Germany,1.FSV Mainz 05,Bundesliga,2018/2019,2018
+René Adler,Goalkeeper,1985-01-15,34,Germany,1.FSV Mainz 05,Bundesliga,2018/2019,2018
+Jannik Huth,Goalkeeper,1994-04-15,25,Germany,1.FSV Mainz 05,Bundesliga,2018/2019,2018
+Finn Dahmen,Goalkeeper,1998-03-27,21,Germany,1.FSV Mainz 05,Bundesliga,2018/2019,2018
+Moussa Niakhaté,Centre-Back,1996-03-08,23,France,1.FSV Mainz 05,Bundesliga,2018/2019,2018
+Stefan Bell,Centre-Back,1991-08-24,27,Germany,1.FSV Mainz 05,Bundesliga,2018/2019,2018
+Alexander Hack,Centre-Back,1993-09-08,25,Germany,1.FSV Mainz 05,Bundesliga,2018/2019,2018
+Ahmet Gürleyen,Centre-Back,1999-04-26,20,Germany,1.FSV Mainz 05,Bundesliga,2018/2019,2018
+Niko Bungert,Centre-Back,1986-10-24,32,Germany,1.FSV Mainz 05,Bundesliga,2018/2019,2018
+Aarón Martín,Left-Back,1997-04-22,22,Spain,1.FSV Mainz 05,Bundesliga,2018/2019,2018
+Gaëtan Bussmann,Left-Back,1991-02-02,28,France,1.FSV Mainz 05,Bundesliga,2018/2019,2018
+Daniel Brosinski,Right-Back,1988-07-17,30,Germany,1.FSV Mainz 05,Bundesliga,2018/2019,2018
+Giulio Donati,Right-Back,1990-02-05,29,Italy,1.FSV Mainz 05,Bundesliga,2018/2019,2018
+Phillipp Mwene,Right-Back,1994-01-29,25,Austria,1.FSV Mainz 05,Bundesliga,2018/2019,2018
+Jean-Philippe Gbamin,Defensive Midfield,1995-09-25,23,Cote d'Ivoire,1.FSV Mainz 05,Bundesliga,2018/2019,2018
+Pierre Kunde Malong,Central Midfield,1995-07-26,23,Cameroon,1.FSV Mainz 05,Bundesliga,2018/2019,2018
+Danny Latza,Central Midfield,1989-12-07,29,Germany,1.FSV Mainz 05,Bundesliga,2018/2019,2018
+Ridle Baku,Central Midfield,1998-04-08,21,Germany,1.FSV Mainz 05,Bundesliga,2018/2019,2018
+Leandro Barreiro Martins,Central Midfield,2000-01-03,19,Luxembourg,1.FSV Mainz 05,Bundesliga,2018/2019,2018
+Levin Öztunali,Right Midfield,1996-03-15,23,Germany,1.FSV Mainz 05,Bundesliga,2018/2019,2018
+Jean-Paul Boëtius,Attacking Midfield,1994-03-22,25,Netherlands,1.FSV Mainz 05,Bundesliga,2018/2019,2018
+Alexandru Maxim,Attacking Midfield,1990-07-08,28,Romania,1.FSV Mainz 05,Bundesliga,2018/2019,2018
+Karim Onisiwo,Left Winger,1992-03-17,27,Austria,1.FSV Mainz 05,Bundesliga,2018/2019,2018
+Gerrit Holtmann,Left Winger,1995-03-25,24,Germany,1.FSV Mainz 05,Bundesliga,2018/2019,2018
+Robin Quaison,Second Striker,1993-10-09,25,Sweden,1.FSV Mainz 05,Bundesliga,2018/2019,2018
+Jean-Philippe Mateta,Centre-Forward,1997-06-28,21,France,1.FSV Mainz 05,Bundesliga,2018/2019,2018
+Jonathan Burkardt,Centre-Forward,2000-07-11,18,Germany,1.FSV Mainz 05,Bundesliga,2018/2019,2018
+Anthony Ujah,Centre-Forward,1990-10-14,28,Nigeria,1.FSV Mainz 05,Bundesliga,2018/2019,2018
+Issah Abass,Centre-Forward,1998-09-26,20,Ghana,1.FSV Mainz 05,Bundesliga,2018/2019,2018
+Emil Berggreen,Centre-Forward,1993-05-10,26,Denmark,1.FSV Mainz 05,Bundesliga,2018/2019,2018
+Ron-Robert Zieler,Goalkeeper,1989-02-12,30,Germany,VfB Stuttgart,Bundesliga,2018/2019,2018
+Alexander Meyer,Goalkeeper,1991-04-13,28,Germany,VfB Stuttgart,Bundesliga,2018/2019,2018
+Jens Grahl,Goalkeeper,1988-09-22,30,Germany,VfB Stuttgart,Bundesliga,2018/2019,2018
+Benjamin Pavard,Centre-Back,1996-03-28,23,France,VfB Stuttgart,Bundesliga,2018/2019,2018
+Ozan Kabak,Centre-Back,2000-03-25,19,Turkey,VfB Stuttgart,Bundesliga,2018/2019,2018
+Timo Baumgartl,Centre-Back,1996-03-04,23,Germany,VfB Stuttgart,Bundesliga,2018/2019,2018
+Marc Oliver Kempf,Centre-Back,1995-01-28,24,Germany,VfB Stuttgart,Bundesliga,2018/2019,2018
+Holger Badstuber,Centre-Back,1989-03-13,30,Germany,VfB Stuttgart,Bundesliga,2018/2019,2018
+Antonis Aidonis,Centre-Back,2001-05-22,18,Germany,VfB Stuttgart,Bundesliga,2018/2019,2018
+Borna Sosa,Left-Back,1998-01-21,21,Croatia,VfB Stuttgart,Bundesliga,2018/2019,2018
+Emiliano Insúa,Left-Back,1989-01-07,30,Argentina,VfB Stuttgart,Bundesliga,2018/2019,2018
+Pablo Maffeo,Right-Back,1997-07-12,21,Spain,VfB Stuttgart,Bundesliga,2018/2019,2018
+Andreas Beck,Right-Back,1987-03-13,32,Germany,VfB Stuttgart,Bundesliga,2018/2019,2018
+Santiago Ascacíbar,Defensive Midfield,1997-02-25,22,Argentina,VfB Stuttgart,Bundesliga,2018/2019,2018
+Dennis Aogo,Defensive Midfield,1987-01-14,32,Germany,VfB Stuttgart,Bundesliga,2018/2019,2018
+Gonzalo Castro,Central Midfield,1987-06-11,32,Germany,VfB Stuttgart,Bundesliga,2018/2019,2018
+Christian Gentner,Central Midfield,1985-08-14,33,Germany,VfB Stuttgart,Bundesliga,2018/2019,2018
+Steven Zuber,Left Midfield,1991-08-17,27,Switzerland,VfB Stuttgart,Bundesliga,2018/2019,2018
+Erik Thommy,Left Midfield,1994-08-20,24,Germany,VfB Stuttgart,Bundesliga,2018/2019,2018
+Daniel Didavi,Attacking Midfield,1990-02-21,29,Germany,VfB Stuttgart,Bundesliga,2018/2019,2018
+David Kopacz,Attacking Midfield,1999-05-29,20,Poland,VfB Stuttgart,Bundesliga,2018/2019,2018
+Chadrac Akolo,Right Winger,1995-04-01,24,DR Congo,VfB Stuttgart,Bundesliga,2018/2019,2018
+Alexander Esswein,Right Winger,1990-03-25,29,Germany,VfB Stuttgart,Bundesliga,2018/2019,2018
+Leon Dajaku,Second Striker,2001-04-12,18,Germany,VfB Stuttgart,Bundesliga,2018/2019,2018
+Nicólas González,Centre-Forward,1998-04-06,21,Argentina,VfB Stuttgart,Bundesliga,2018/2019,2018
+Anastasios Donis,Centre-Forward,1996-08-29,22,Greece,VfB Stuttgart,Bundesliga,2018/2019,2018
+Mario Gómez,Centre-Forward,1985-07-10,33,Germany,VfB Stuttgart,Bundesliga,2018/2019,2018
+Gregor Kobel,Goalkeeper,1997-12-06,21,Switzerland,FC Augsburg,Bundesliga,2018/2019,2018
+Andreas Luthe,Goalkeeper,1987-03-10,32,Germany,FC Augsburg,Bundesliga,2018/2019,2018
+Fabian Giefer,Goalkeeper,1990-05-17,29,Germany,FC Augsburg,Bundesliga,2018/2019,2018
+Benjamin Leneis,Goalkeeper,1999-03-08,20,Germany,FC Augsburg,Bundesliga,2018/2019,2018
+Jeffrey Gouweleeuw,Centre-Back,1991-07-10,27,Netherlands,FC Augsburg,Bundesliga,2018/2019,2018
+Kevin Danso,Centre-Back,1998-09-19,20,Austria,FC Augsburg,Bundesliga,2018/2019,2018
+Reece Oxford,Centre-Back,1998-12-16,20,England,FC Augsburg,Bundesliga,2018/2019,2018
+Jozo Stanic,Centre-Back,1999-04-06,20,Croatia,FC Augsburg,Bundesliga,2018/2019,2018
+Christoph Janker,Centre-Back,1985-02-14,34,Germany,FC Augsburg,Bundesliga,2018/2019,2018
+Jan-Ingwer Callsen-Bracker,Centre-Back,1984-09-23,34,Germany,FC Augsburg,Bundesliga,2018/2019,2018
+Philipp Max,Left-Back,1993-09-30,25,Germany,FC Augsburg,Bundesliga,2018/2019,2018
+Konstantinos Stafylidis,Left-Back,1993-12-02,25,Greece,FC Augsburg,Bundesliga,2018/2019,2018
+Kilian Jakob,Left-Back,1998-01-25,21,Germany,FC Augsburg,Bundesliga,2018/2019,2018
+Jonathan Schmid,Right-Back,1990-06-22,28,France,FC Augsburg,Bundesliga,2018/2019,2018
+Raphael Framberger,Right-Back,1995-09-06,23,Germany,FC Augsburg,Bundesliga,2018/2019,2018
+Simon Asta,Right-Back,2001-01-25,18,Germany,FC Augsburg,Bundesliga,2018/2019,2018
+Rani Khedira,Defensive Midfield,1994-01-27,25,Germany,FC Augsburg,Bundesliga,2018/2019,2018
+Felix Götze,Defensive Midfield,1998-02-11,21,Germany,FC Augsburg,Bundesliga,2018/2019,2018
+Daniel Baier,Defensive Midfield,1984-05-18,35,Germany,FC Augsburg,Bundesliga,2018/2019,2018
+Felix Schwarzholz,Defensive Midfield,1999-09-24,19,Germany,FC Augsburg,Bundesliga,2018/2019,2018
+Ja-cheol Koo,Central Midfield,1989-02-27,30,"Korea, South",FC Augsburg,Bundesliga,2018/2019,2018
+Jan Morávek,Central Midfield,1989-11-01,29,Czech Republic,FC Augsburg,Bundesliga,2018/2019,2018
+Georg Teigl,Right Midfield,1991-02-09,28,Austria,FC Augsburg,Bundesliga,2018/2019,2018
+Fredrik Jensen,Attacking Midfield,1997-09-09,21,Finland,FC Augsburg,Bundesliga,2018/2019,2018
+Romario Rösch,Attacking Midfield,1999-07-01,19,Germany,FC Augsburg,Bundesliga,2018/2019,2018
+Marco Richter,Left Winger,1997-11-24,21,Germany,FC Augsburg,Bundesliga,2018/2019,2018
+André Hahn,Right Winger,1990-08-13,28,Germany,FC Augsburg,Bundesliga,2018/2019,2018
+Michael Gregoritsch,Second Striker,1994-04-18,25,Austria,FC Augsburg,Bundesliga,2018/2019,2018
+Alfred Finnbogason,Centre-Forward,1989-02-01,30,Iceland,FC Augsburg,Bundesliga,2018/2019,2018
+Sergio Córdova,Centre-Forward,1997-08-09,21,Venezuela,FC Augsburg,Bundesliga,2018/2019,2018
+Dong-won Ji,Centre-Forward,1991-05-28,28,"Korea, South",FC Augsburg,Bundesliga,2018/2019,2018
+Julian Schieber,Centre-Forward,1989-02-13,30,Germany,FC Augsburg,Bundesliga,2018/2019,2018
+Alexander Schwolow,Goalkeeper,1992-06-02,27,Germany,SC Freiburg,Bundesliga,2018/2019,2018
+Mark Flekken,Goalkeeper,1993-06-13,25,Netherlands,SC Freiburg,Bundesliga,2018/2019,2018
+Constantin Frommann,Goalkeeper,1998-05-27,21,Germany,SC Freiburg,Bundesliga,2018/2019,2018
+Robin Koch,Centre-Back,1996-07-17,22,Germany,SC Freiburg,Bundesliga,2018/2019,2018
+Dominique Heintz,Centre-Back,1993-08-15,25,Germany,SC Freiburg,Bundesliga,2018/2019,2018
+Philipp Lienhart,Centre-Back,1996-07-11,22,Austria,SC Freiburg,Bundesliga,2018/2019,2018
+Manuel Gulde,Centre-Back,1991-02-12,28,Germany,SC Freiburg,Bundesliga,2018/2019,2018
+Keven Schlotterbeck,Centre-Back,1997-04-28,22,Germany,SC Freiburg,Bundesliga,2018/2019,2018
+Nico Schlotterbeck,Centre-Back,1999-12-01,19,Germany,SC Freiburg,Bundesliga,2018/2019,2018
+Christian Günter,Left-Back,1993-02-28,26,Germany,SC Freiburg,Bundesliga,2018/2019,2018
+Chima Okoroji,Left-Back,1997-04-19,22,England,SC Freiburg,Bundesliga,2018/2019,2018
+Pascal Stenzel,Right-Back,1996-03-20,23,Germany,SC Freiburg,Bundesliga,2018/2019,2018
+Lukas Kübler,Right-Back,1992-08-30,26,Germany,SC Freiburg,Bundesliga,2018/2019,2018
+Nicolas Höfler,Defensive Midfield,1990-03-09,29,Germany,SC Freiburg,Bundesliga,2018/2019,2018
+Amir Abrashi,Defensive Midfield,1990-03-27,29,Albania,SC Freiburg,Bundesliga,2018/2019,2018
+Janik Haberer,Central Midfield,1994-04-02,25,Germany,SC Freiburg,Bundesliga,2018/2019,2018
+Jérôme Gondorf,Central Midfield,1988-06-26,30,Germany,SC Freiburg,Bundesliga,2018/2019,2018
+Mike Frantz,Central Midfield,1986-10-14,32,Germany,SC Freiburg,Bundesliga,2018/2019,2018
+Vincenzo Grifo,Left Winger,1993-04-07,26,Italy,SC Freiburg,Bundesliga,2018/2019,2018
+Roland Sallai,Left Winger,1997-05-22,22,Hungary,SC Freiburg,Bundesliga,2018/2019,2018
+Marco Terrazzino,Left Winger,1991-04-15,28,Germany,SC Freiburg,Bundesliga,2018/2019,2018
+Florian Kath,Left Winger,1994-10-21,24,Germany,SC Freiburg,Bundesliga,2018/2019,2018
+Brandon Borrello,Right Winger,1995-07-25,23,Australia,SC Freiburg,Bundesliga,2018/2019,2018
+Luca Waldschmidt,Centre-Forward,1996-05-19,23,Germany,SC Freiburg,Bundesliga,2018/2019,2018
+Nils Petersen,Centre-Forward,1988-12-06,30,Germany,SC Freiburg,Bundesliga,2018/2019,2018
+Florian Niederlechner,Centre-Forward,1990-10-24,28,Germany,SC Freiburg,Bundesliga,2018/2019,2018
+Lucas Höler,Centre-Forward,1994-07-10,24,Germany,SC Freiburg,Bundesliga,2018/2019,2018
+Tim Kleindienst,Centre-Forward,1995-08-31,23,Germany,SC Freiburg,Bundesliga,2018/2019,2018
+Christoph Daferner,Centre-Forward,1998-01-12,21,Germany,SC Freiburg,Bundesliga,2018/2019,2018
+Michael Rensing,Goalkeeper,1984-05-14,35,Germany,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
+Raphael Wolf,Goalkeeper,1988-06-06,31,Germany,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
+Jannick Theißen,Goalkeeper,1998-01-07,21,Germany,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
+Jaroslav Drobny,Goalkeeper,1979-10-18,39,Czech Republic,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
+Tim Wiesner,Goalkeeper,1996-11-21,22,Germany,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
+Kaan Ayhan,Centre-Back,1994-11-10,24,Turkey,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
+Marcin Kaminski,Centre-Back,1992-01-15,27,Poland,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
+Andre Hoffmann,Centre-Back,1993-02-28,26,Germany,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
+Robin Bormuth,Centre-Back,1995-09-19,23,Germany,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
+Niko Gießelmann,Left-Back,1991-09-26,27,Germany,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
+Markus Suttner,Left-Back,1987-04-16,32,Austria,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
+Diego Contento,Left-Back,1990-05-01,29,Germany,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
+Georgios Siadas,Left-Back,1999-12-27,19,Germany,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
+Matthias Zimmermann,Right-Back,1992-06-16,26,Germany,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
+Jean Zimmer,Right-Back,1993-12-06,25,Germany,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
+Marcel Sobottka,Defensive Midfield,1994-04-25,25,Germany,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
+Adam Bodzek,Defensive Midfield,1985-09-07,33,Poland,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
+Alfredo Morales,Central Midfield,1990-05-12,29,United States,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
+Oliver Fink,Central Midfield,1982-06-06,37,Germany,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
+Kevin Stöger,Attacking Midfield,1993-08-27,25,Austria,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
+Aymen Barkok,Attacking Midfield,1998-05-21,21,Germany,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
+Kianz Froese,Attacking Midfield,1996-04-16,23,Canada,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
+Benito Raman,Left Winger,1994-11-07,24,Belgium,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
+Kenan Karaman,Left Winger,1994-03-05,25,Turkey,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
+Takashi Usami,Left Winger,1992-05-06,27,Japan,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
+Davor Lovren,Left Winger,1998-10-03,20,Croatia,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
+Dodi Lukebakio,Right Winger,1997-09-24,21,Belgium,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
+Dawid Kownacki,Centre-Forward,1997-03-14,22,Poland,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
+Marvin Ducksch,Centre-Forward,1994-03-07,25,Germany,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
+Rouwen Hennings,Centre-Forward,1987-08-28,31,Germany,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
+Emir Kujovic,Centre-Forward,1988-06-22,30,Sweden,Fortuna Düsseldorf,Bundesliga,2018/2019,2018
+Michael Esser,Goalkeeper,1987-11-22,31,Germany,Hannover 96,Bundesliga,2018/2019,2018
+Samuel Sahin-Radlinger,Goalkeeper,1992-11-07,26,Austria,Hannover 96,Bundesliga,2018/2019,2018
+Leo Weinkauf,Goalkeeper,1996-07-07,22,Germany,Hannover 96,Bundesliga,2018/2019,2018
+Waldemar Anton,Centre-Back,1996-07-20,22,Germany,Hannover 96,Bundesliga,2018/2019,2018
+Kevin Akpoguma,Centre-Back,1995-04-19,24,Germany,Hannover 96,Bundesliga,2018/2019,2018
+Kevin Wimmer,Centre-Back,1992-11-15,26,Austria,Hannover 96,Bundesliga,2018/2019,2018
+Josip Elez,Centre-Back,1994-04-25,25,Croatia,Hannover 96,Bundesliga,2018/2019,2018
+Timo Hübers,Centre-Back,1996-07-20,22,Germany,Hannover 96,Bundesliga,2018/2019,2018
+Felipe,Centre-Back,1987-05-15,32,Brazil,Hannover 96,Bundesliga,2018/2019,2018
+Matthias Ostrzolek,Left-Back,1990-06-05,29,Germany,Hannover 96,Bundesliga,2018/2019,2018
+Miiko Albornoz,Left-Back,1990-11-30,28,Chile,Hannover 96,Bundesliga,2018/2019,2018
+Julian Korb,Right-Back,1992-03-21,27,Germany,Hannover 96,Bundesliga,2018/2019,2018
+Oliver Sorg,Right-Back,1990-05-29,29,Germany,Hannover 96,Bundesliga,2018/2019,2018
+Walace,Defensive Midfield,1995-04-04,24,Brazil,Hannover 96,Bundesliga,2018/2019,2018
+Pirmin Schwegler,Defensive Midfield,1987-03-09,32,Switzerland,Hannover 96,Bundesliga,2018/2019,2018
+Marvin Bakalorz,Central Midfield,1989-09-13,29,Germany,Hannover 96,Bundesliga,2018/2019,2018
+Iver Fossum,Central Midfield,1996-07-15,22,Norway,Hannover 96,Bundesliga,2018/2019,2018
+Linton Maina,Right Midfield,1999-06-23,19,Germany,Hannover 96,Bundesliga,2018/2019,2018
+Edgar Prib,Left Midfield,1989-12-15,29,Germany,Hannover 96,Bundesliga,2018/2019,2018
+Florent Muslija,Attacking Midfield,1998-07-06,20,Germany,Hannover 96,Bundesliga,2018/2019,2018
+Genki Haraguchi,Left Winger,1991-05-09,28,Japan,Hannover 96,Bundesliga,2018/2019,2018
+Ihlas Bebou,Right Winger,1994-04-23,25,Togo,Hannover 96,Bundesliga,2018/2019,2018
+Nicolai Müller,Right Winger,1987-09-25,31,Germany,Hannover 96,Bundesliga,2018/2019,2018
+Noah Sarenren Bazee,Right Winger,1996-08-21,22,Nigeria,Hannover 96,Bundesliga,2018/2019,2018
+Uffe Bech,Right Winger,1993-01-13,26,Denmark,Hannover 96,Bundesliga,2018/2019,2018
+Takuma Asano,Second Striker,1994-11-10,24,Japan,Hannover 96,Bundesliga,2018/2019,2018
+Niclas Füllkrug,Centre-Forward,1993-02-09,26,Germany,Hannover 96,Bundesliga,2018/2019,2018
+Jonathas,Centre-Forward,1989-03-06,30,Brazil,Hannover 96,Bundesliga,2018/2019,2018
+Bobby Wood,Centre-Forward,1992-11-15,26,United States,Hannover 96,Bundesliga,2018/2019,2018
+Hendrik Weydandt,Centre-Forward,1995-07-16,23,Germany,Hannover 96,Bundesliga,2018/2019,2018
+Christian Mathenia,Goalkeeper,1992-03-31,27,Germany,1.FC Nuremberg,Bundesliga,2018/2019,2018
+Fabian Bredlow,Goalkeeper,1995-03-02,24,Germany,1.FC Nuremberg,Bundesliga,2018/2019,2018
+Patric Klandt,Goalkeeper,1983-09-29,35,Germany,1.FC Nuremberg,Bundesliga,2018/2019,2018
+Lukas Mühl,Centre-Back,1997-01-27,22,Germany,1.FC Nuremberg,Bundesliga,2018/2019,2018
+Ewerton,Centre-Back,1989-03-23,30,Brazil,1.FC Nuremberg,Bundesliga,2018/2019,2018
+Georg Margreitter,Centre-Back,1988-11-07,30,Austria,1.FC Nuremberg,Bundesliga,2018/2019,2018
+Tim Leibold,Left-Back,1993-11-30,25,Germany,1.FC Nuremberg,Bundesliga,2018/2019,2018
+Dennis Lippert,Left-Back,1996-02-20,23,Germany,1.FC Nuremberg,Bundesliga,2018/2019,2018
+Robert Bauer,Right-Back,1995-04-09,24,Germany,1.FC Nuremberg,Bundesliga,2018/2019,2018
+Enrico Valentini,Right-Back,1989-02-20,30,Germany,1.FC Nuremberg,Bundesliga,2018/2019,2018
+Kevin Goden,Right-Back,1999-02-22,20,Germany,1.FC Nuremberg,Bundesliga,2018/2019,2018
+Patrick Erras,Defensive Midfield,1995-01-21,24,Germany,1.FC Nuremberg,Bundesliga,2018/2019,2018
+Ondrej Petrak,Defensive Midfield,1992-03-11,27,Czech Republic,1.FC Nuremberg,Bundesliga,2018/2019,2018
+Simon Rhein,Defensive Midfield,1998-05-18,21,Germany,1.FC Nuremberg,Bundesliga,2018/2019,2018
+Lukas Jäger,Defensive Midfield,1994-02-12,25,Austria,1.FC Nuremberg,Bundesliga,2018/2019,2018
+Eduard Löwen,Central Midfield,1997-01-28,22,Germany,1.FC Nuremberg,Bundesliga,2018/2019,2018
+Hanno Behrens,Central Midfield,1990-03-26,29,Germany,1.FC Nuremberg,Bundesliga,2018/2019,2018
+Alexander Fuchs,Central Midfield,1997-01-05,22,Germany,1.FC Nuremberg,Bundesliga,2018/2019,2018
+Timothy Tillman,Attacking Midfield,1999-01-04,20,Germany,1.FC Nuremberg,Bundesliga,2018/2019,2018
+Sebastian Kerk,Left Winger,1994-04-17,25,Germany,1.FC Nuremberg,Bundesliga,2018/2019,2018
+Ivo Ilicevic,Left Winger,1986-11-14,32,Croatia,1.FC Nuremberg,Bundesliga,2018/2019,2018
+Matheus Pereira,Right Winger,1996-05-05,23,Brazil,1.FC Nuremberg,Bundesliga,2018/2019,2018
+Virgil Misidjan,Right Winger,1993-07-24,25,Netherlands,1.FC Nuremberg,Bundesliga,2018/2019,2018
+Edgar Salli,Right Winger,1992-08-17,26,Cameroon,1.FC Nuremberg,Bundesliga,2018/2019,2018
+Mikael Ishak,Centre-Forward,1993-03-31,26,Sweden,1.FC Nuremberg,Bundesliga,2018/2019,2018
+Yuya Kubo,Centre-Forward,1993-12-24,25,Japan,1.FC Nuremberg,Bundesliga,2018/2019,2018
+Adam Zrelak,Centre-Forward,1994-05-05,25,Slovakia,1.FC Nuremberg,Bundesliga,2018/2019,2018
+Törles Knöll,Centre-Forward,1997-09-13,21,Germany,1.FC Nuremberg,Bundesliga,2018/2019,2018
+Federico Palacios,Centre-Forward,1995-04-09,24,Germany,1.FC Nuremberg,Bundesliga,2018/2019,2018

@@ -1,0 +1,643 @@
+player_name,position,date_of_birth,age,nationality,club_name,league_name,season,year
+Hugo Lloris,Goalkeeper,1986-12-26,21,France,Olympique Lyon,Ligue 1,2008/2009,2008
+Rémy Vercoutre,Goalkeeper,1980-06-26,28,France,Olympique Lyon,Ligue 1,2008/2009,2008
+Joan Hartock,Goalkeeper,1987-02-17,21,Martinique,Olympique Lyon,Ligue 1,2008/2009,2008
+Anthony Lopes,Goalkeeper,1990-10-01,17,Portugal,Olympique Lyon,Ligue 1,2008/2009,2008
+Cris,Centre-Back,1977-06-03,31,Brazil,Olympique Lyon,Ligue 1,2008/2009,2008
+John Mensah,Centre-Back,1982-11-29,25,Ghana,Olympique Lyon,Ligue 1,2008/2009,2008
+Jean-Alain Boumsong,Centre-Back,1979-12-14,28,France,Olympique Lyon,Ligue 1,2008/2009,2008
+Timothée Kolodziejczak,Centre-Back,1991-10-01,16,France,Olympique Lyon,Ligue 1,2008/2009,2008
+Nicolas Seguin,Centre-Back,1990-01-01,18,France,Olympique Lyon,Ligue 1,2008/2009,2008
+Thomas Fontaine,Centre-Back,1991-05-08,17,Madagascar,Olympique Lyon,Ligue 1,2008/2009,2008
+Fabio Grosso,Left-Back,1977-11-28,30,Italy,Olympique Lyon,Ligue 1,2008/2009,2008
+François Clerc,Right-Back,1983-04-18,25,France,Olympique Lyon,Ligue 1,2008/2009,2008
+Anthony Réveillère,Right-Back,1979-11-10,28,France,Olympique Lyon,Ligue 1,2008/2009,2008
+Lamine Gassama,Right-Back,1989-10-20,18,Senegal,Olympique Lyon,Ligue 1,2008/2009,2008
+Jérémy Pied,Right-Back,1989-02-23,19,France,Olympique Lyon,Ligue 1,2008/2009,2008
+Sébastien Faure,Right-Back,1991-01-03,17,France,Olympique Lyon,Ligue 1,2008/2009,2008
+Jérémy Toulalan,Defensive Midfield,1983-09-10,24,France,Olympique Lyon,Ligue 1,2008/2009,2008
+Mathieu Bodmer,Defensive Midfield,1982-11-22,25,France,Olympique Lyon,Ligue 1,2008/2009,2008
+Jean II Makoun,Defensive Midfield,1983-05-29,25,Cameroon,Olympique Lyon,Ligue 1,2008/2009,2008
+Kim Källström,Defensive Midfield,1982-08-24,25,Sweden,Olympique Lyon,Ligue 1,2008/2009,2008
+Miralem Pjanic,Defensive Midfield,1990-04-02,18,Bosnia-Herzegovina,Olympique Lyon,Ligue 1,2008/2009,2008
+Fábio Santos,Defensive Midfield,1980-10-09,27,Brazil,Olympique Lyon,Ligue 1,2008/2009,2008
+Saïd Mehamha,Defensive Midfield,1990-09-04,17,Algeria,Olympique Lyon,Ligue 1,2008/2009,2008
+Pierrick Valdivia,Central Midfield,1988-04-18,20,France,Olympique Lyon,Ligue 1,2008/2009,2008
+Clément Grenier,Central Midfield,1991-01-07,17,France,Olympique Lyon,Ligue 1,2008/2009,2008
+Yannis Tafer,Right Midfield,1991-02-11,17,Algeria,Olympique Lyon,Ligue 1,2008/2009,2008
+Juninho Pernambucano,Attacking Midfield,1975-01-30,33,Brazil,Olympique Lyon,Ligue 1,2008/2009,2008
+Ederson,Attacking Midfield,1986-01-13,22,Brazil,Olympique Lyon,Ligue 1,2008/2009,2008
+Anthony Mounier,Left Winger,1987-09-27,20,France,Olympique Lyon,Ligue 1,2008/2009,2008
+Abdul Kader Keita,Right Winger,1981-08-06,26,Cote d'Ivoire,Olympique Lyon,Ligue 1,2008/2009,2008
+Sidney Govou,Right Winger,1979-07-27,28,France,Olympique Lyon,Ligue 1,2008/2009,2008
+César Delgado,Right Winger,1981-08-18,26,Argentina,Olympique Lyon,Ligue 1,2008/2009,2008
+Karim Benzema,Centre-Forward,1987-12-19,20,France,Olympique Lyon,Ligue 1,2008/2009,2008
+Fred,Centre-Forward,1983-10-03,24,Brazil,Olympique Lyon,Ligue 1,2008/2009,2008
+Frédéric Piquionne,Centre-Forward,1978-12-08,29,Martinique,Olympique Lyon,Ligue 1,2008/2009,2008
+Milan Baros,Centre-Forward,1981-10-28,26,Czech Republic,Olympique Lyon,Ligue 1,2008/2009,2008
+Alexandre Lacazette,Centre-Forward,1991-05-28,17,France,Olympique Lyon,Ligue 1,2008/2009,2008
+Steve Mandanda,Goalkeeper,1985-03-28,23,France,Olympique Marseille,Ligue 1,2008/2009,2008
+Rudy Riou,Goalkeeper,1980-01-22,28,France,Olympique Marseille,Ligue 1,2008/2009,2008
+Hilaire Muñoz,Goalkeeper,1983-04-21,25,France,Olympique Marseille,Ligue 1,2008/2009,2008
+Dmitri Nepogodov,Goalkeeper,1988-02-17,20,Kazakhstan,Olympique Marseille,Ligue 1,2008/2009,2008
+Lorik Cana,Centre-Back,1983-07-27,24,Albania,Olympique Marseille,Ligue 1,2008/2009,2008
+Gaël Givet,Centre-Back,1981-10-09,26,France,Olympique Marseille,Ligue 1,2008/2009,2008
+Julien Rodriguez,Centre-Back,1978-06-11,30,France,Olympique Marseille,Ligue 1,2008/2009,2008
+Hilton,Centre-Back,1977-09-13,30,Brazil,Olympique Marseille,Ligue 1,2008/2009,2008
+Ronald Zubar,Centre-Back,1985-09-20,22,Guadeloupe,Olympique Marseille,Ligue 1,2008/2009,2008
+Renato Civelli,Centre-Back,1983-10-14,24,Argentina,Olympique Marseille,Ligue 1,2008/2009,2008
+Elamine Erbate,Centre-Back,1981-07-01,27,Morocco,Olympique Marseille,Ligue 1,2008/2009,2008
+Taye Taiwo,Left-Back,1985-04-16,23,Nigeria,Olympique Marseille,Ligue 1,2008/2009,2008
+Laurent Bonnart,Left-Back,1979-12-25,28,France,Olympique Marseille,Ligue 1,2008/2009,2008
+Tyrone Mears,Right-Back,1983-02-18,25,England,Olympique Marseille,Ligue 1,2008/2009,2008
+Benoît Cheyrou,Defensive Midfield,1981-05-03,27,France,Olympique Marseille,Ligue 1,2008/2009,2008
+Modeste M'Bami,Defensive Midfield,1982-10-09,25,Cameroon,Olympique Marseille,Ligue 1,2008/2009,2008
+Charles Kaboré,Defensive Midfield,1988-02-09,20,Burkina Faso,Olympique Marseille,Ligue 1,2008/2009,2008
+Hatem Ben Arfa,Attacking Midfield,1987-03-07,21,France,Olympique Marseille,Ligue 1,2008/2009,2008
+Karim Ziani,Attacking Midfield,1982-08-17,25,Algeria,Olympique Marseille,Ligue 1,2008/2009,2008
+Mohamed Dennoun,Attacking Midfield,1986-05-09,22,France,Olympique Marseille,Ligue 1,2008/2009,2008
+Milos Krstic,Attacking Midfield,1987-03-07,21,Serbia,Olympique Marseille,Ligue 1,2008/2009,2008
+Mathieu Valbuena,Left Winger,1984-09-28,23,France,Olympique Marseille,Ligue 1,2008/2009,2008
+Boudewijn Zenden,Left Winger,1976-08-15,31,Netherlands,Olympique Marseille,Ligue 1,2008/2009,2008
+Bakari Koné,Right Winger,1981-09-17,26,Cote d'Ivoire,Olympique Marseille,Ligue 1,2008/2009,2008
+Elliot Grandin,Right Winger,1987-10-17,20,France,Olympique Marseille,Ligue 1,2008/2009,2008
+Sylvain Wiltord,Second Striker,1974-05-10,34,France,Olympique Marseille,Ligue 1,2008/2009,2008
+Mamadou Niang,Centre-Forward,1979-10-13,28,Senegal,Olympique Marseille,Ligue 1,2008/2009,2008
+Djibril Cissé,Centre-Forward,1981-08-12,26,France,Olympique Marseille,Ligue 1,2008/2009,2008
+Brandão,Centre-Forward,1980-06-16,28,Brazil,Olympique Marseille,Ligue 1,2008/2009,2008
+Mamadou Samassa,Centre-Forward,1986-05-01,22,Mali,Olympique Marseille,Ligue 1,2008/2009,2008
+Guy Gnabouyou,Centre-Forward,1989-12-01,18,France,Olympique Marseille,Ligue 1,2008/2009,2008
+Ulrich Ramé,Goalkeeper,1972-09-19,35,France,FC Girondins Bordeaux,Ligue 1,2008/2009,2008
+Mathieu Valverde,Goalkeeper,1983-05-14,25,France,FC Girondins Bordeaux,Ligue 1,2008/2009,2008
+Kévin Olimpa,Goalkeeper,1988-03-10,20,Martinique,FC Girondins Bordeaux,Ligue 1,2008/2009,2008
+Gilles Meslien,Goalkeeper,1989-06-17,19,France,FC Girondins Bordeaux,Ligue 1,2008/2009,2008
+Marc Planus,Centre-Back,1982-03-07,26,France,FC Girondins Bordeaux,Ligue 1,2008/2009,2008
+Souleymane Diawara,Centre-Back,1978-12-24,29,Senegal,FC Girondins Bordeaux,Ligue 1,2008/2009,2008
+Henrique,Centre-Back,1983-05-02,25,Brazil,FC Girondins Bordeaux,Ligue 1,2008/2009,2008
+Lamine Sané,Centre-Back,1987-03-22,21,Senegal,FC Girondins Bordeaux,Ligue 1,2008/2009,2008
+Franck Jurietti,Left-Back,1975-03-30,33,France,FC Girondins Bordeaux,Ligue 1,2008/2009,2008
+Benoît Trémoulinas,Left-Back,1985-12-28,22,France,FC Girondins Bordeaux,Ligue 1,2008/2009,2008
+Diego Placente,Left-Back,1977-04-24,31,Argentina,FC Girondins Bordeaux,Ligue 1,2008/2009,2008
+Matthieu Chalmé,Right-Back,1980-10-07,27,France,FC Girondins Bordeaux,Ligue 1,2008/2009,2008
+Alou Diarra,Defensive Midfield,1981-07-15,26,France,FC Girondins Bordeaux,Ligue 1,2008/2009,2008
+Wendel,Defensive Midfield,1982-04-08,26,Brazil,FC Girondins Bordeaux,Ligue 1,2008/2009,2008
+Fernando,Defensive Midfield,1981-05-03,27,Brazil,FC Girondins Bordeaux,Ligue 1,2008/2009,2008
+Pierre Ducasse,Defensive Midfield,1987-05-07,21,France,FC Girondins Bordeaux,Ligue 1,2008/2009,2008
+Grégory Sertic,Defensive Midfield,1989-08-05,18,France,FC Girondins Bordeaux,Ligue 1,2008/2009,2008
+Abdou Traoré,Central Midfield,1988-01-17,20,Mali,FC Girondins Bordeaux,Ligue 1,2008/2009,2008
+Yoann Gourcuff,Attacking Midfield,1986-07-11,21,France,FC Girondins Bordeaux,Ligue 1,2008/2009,2008
+Jussiê,Attacking Midfield,1983-09-19,24,Brazil,FC Girondins Bordeaux,Ligue 1,2008/2009,2008
+Henri Saivet,Attacking Midfield,1990-10-26,17,Senegal,FC Girondins Bordeaux,Ligue 1,2008/2009,2008
+Yoan Gouffran,Left Winger,1986-05-25,22,France,FC Girondins Bordeaux,Ligue 1,2008/2009,2008
+Gabriel Obertan,Right Winger,1989-02-26,19,France,FC Girondins Bordeaux,Ligue 1,2008/2009,2008
+Fernando Cavenaghi,Centre-Forward,1983-09-21,24,Argentina,FC Girondins Bordeaux,Ligue 1,2008/2009,2008
+David Bellion,Centre-Forward,1982-11-27,25,France,FC Girondins Bordeaux,Ligue 1,2008/2009,2008
+Marouane Chamakh,Centre-Forward,1984-01-10,24,Morocco,FC Girondins Bordeaux,Ligue 1,2008/2009,2008
+Jérémie Janot,Goalkeeper,1977-10-11,30,France,AS Saint-Étienne,Ligue 1,2008/2009,2008
+Jody Viviani,Goalkeeper,1982-01-25,26,France,AS Saint-Étienne,Ligue 1,2008/2009,2008
+Pape Coulibaly,Goalkeeper,1988-03-02,20,Senegal,AS Saint-Étienne,Ligue 1,2008/2009,2008
+Loïc Perrin,Centre-Back,1985-08-07,22,France,AS Saint-Étienne,Ligue 1,2008/2009,2008
+Stathis Tavlaridis,Centre-Back,1980-01-25,28,Greece,AS Saint-Étienne,Ligue 1,2008/2009,2008
+Moustapha Sall,Centre-Back,1985-11-30,22,Senegal,AS Saint-Étienne,Ligue 1,2008/2009,2008
+Sylvain Monsoreau,Centre-Back,1981-03-20,27,France,AS Saint-Étienne,Ligue 1,2008/2009,2008
+Cédric Varrault,Centre-Back,1980-01-30,28,France,AS Saint-Étienne,Ligue 1,2008/2009,2008
+Yohan Benalouane,Centre-Back,1987-03-28,21,Tunisia,AS Saint-Étienne,Ligue 1,2008/2009,2008
+Lounis Lanseur,Centre-Back,1989-01-16,19,France,AS Saint-Étienne,Ligue 1,2008/2009,2008
+Mehdi Messaoudi,Centre-Back,1989-03-08,19,France,AS Saint-Étienne,Ligue 1,2008/2009,2008
+Helton Dos Reis,Centre-Back,1988-05-01,20,France,AS Saint-Étienne,Ligue 1,2008/2009,2008
+David Sauget,Left-Back,1979-11-23,28,France,AS Saint-Étienne,Ligue 1,2008/2009,2008
+Yoann Andreu,Left-Back,1989-05-03,19,France,AS Saint-Étienne,Ligue 1,2008/2009,2008
+Mouhamadou Dabo,Right-Back,1986-11-28,21,France,AS Saint-Étienne,Ligue 1,2008/2009,2008
+Josuha Guilavogui,Defensive Midfield,1990-09-19,17,France,AS Saint-Étienne,Ligue 1,2008/2009,2008
+Boubacar Mansaly,Defensive Midfield,1988-02-04,20,Senegal,AS Saint-Étienne,Ligue 1,2008/2009,2008
+Blaise Matuidi,Central Midfield,1987-04-09,21,France,AS Saint-Étienne,Ligue 1,2008/2009,2008
+Christophe Landrin,Central Midfield,1977-06-30,31,France,AS Saint-Étienne,Ligue 1,2008/2009,2008
+Yohan Hautcoeur,Central Midfield,1981-10-30,26,France,AS Saint-Étienne,Ligue 1,2008/2009,2008
+Paulo Machado,Central Midfield,1986-03-31,22,Portugal,AS Saint-Étienne,Ligue 1,2008/2009,2008
+Amine Linganzi,Central Midfield,1989-11-16,18,Congo,AS Saint-Étienne,Ligue 1,2008/2009,2008
+Daisuke Matsui,Left Midfield,1981-05-11,27,Japan,AS Saint-Étienne,Ligue 1,2008/2009,2008
+Daniel Bilos,Left Midfield,1980-09-03,27,Argentina,AS Saint-Étienne,Ligue 1,2008/2009,2008
+Dimitri Payet,Attacking Midfield,1987-03-29,21,France,AS Saint-Étienne,Ligue 1,2008/2009,2008
+Geoffrey Dernis,Left Winger,1980-12-24,27,France,AS Saint-Étienne,Ligue 1,2008/2009,2008
+Pascal Feindouno,Right Winger,1981-02-27,27,Guinea,AS Saint-Étienne,Ligue 1,2008/2009,2008
+Kevin Mirallas,Right Winger,1987-10-05,20,Belgium,AS Saint-Étienne,Ligue 1,2008/2009,2008
+Bafétimbi Gomis,Centre-Forward,1985-08-06,22,France,AS Saint-Étienne,Ligue 1,2008/2009,2008
+Ilan,Centre-Forward,1980-09-18,27,Brazil,AS Saint-Étienne,Ligue 1,2008/2009,2008
+Sébastien Grax,Centre-Forward,1984-06-23,24,France,AS Saint-Étienne,Ligue 1,2008/2009,2008
+David Gigliotti,Centre-Forward,1985-05-30,23,France,AS Saint-Étienne,Ligue 1,2008/2009,2008
+Emmanuel Rivière,Centre-Forward,1990-03-03,18,France,AS Saint-Étienne,Ligue 1,2008/2009,2008
+Mickaël Landreau,Goalkeeper,1979-05-14,29,France,Paris Saint-Germain,Ligue 1,2008/2009,2008
+Apoula Edel,Goalkeeper,1986-06-17,22,Armenia,Paris Saint-Germain,Ligue 1,2008/2009,2008
+Stéphane Véron,Goalkeeper,1986-01-31,22,France,Paris Saint-Germain,Ligue 1,2008/2009,2008
+Sylvain Armand,Centre-Back,1980-08-01,27,France,Paris Saint-Germain,Ligue 1,2008/2009,2008
+Zoumana Camara,Centre-Back,1979-04-03,29,France,Paris Saint-Germain,Ligue 1,2008/2009,2008
+Grégory Bourillon,Centre-Back,1984-07-01,24,France,Paris Saint-Germain,Ligue 1,2008/2009,2008
+Sammy Traoré,Centre-Back,1976-02-25,32,Mali,Paris Saint-Germain,Ligue 1,2008/2009,2008
+Mamadou Sakho,Centre-Back,1990-02-13,18,France,Paris Saint-Germain,Ligue 1,2008/2009,2008
+Larrys Mabiala,Centre-Back,1987-10-08,20,DR Congo,Paris Saint-Germain,Ligue 1,2008/2009,2008
+Tripy Makonda,Left-Back,1990-01-24,18,France,Paris Saint-Germain,Ligue 1,2008/2009,2008
+Ceará,Right-Back,1980-06-18,28,Brazil,Paris Saint-Germain,Ligue 1,2008/2009,2008
+Claude Makélélé,Defensive Midfield,1973-02-18,35,France,Paris Saint-Germain,Ligue 1,2008/2009,2008
+Jérémy Clément,Defensive Midfield,1984-08-26,23,France,Paris Saint-Germain,Ligue 1,2008/2009,2008
+Clément Chantôme,Defensive Midfield,1987-09-11,20,France,Paris Saint-Germain,Ligue 1,2008/2009,2008
+Youssouf Mulumbu,Defensive Midfield,1987-01-25,21,DR Congo,Paris Saint-Germain,Ligue 1,2008/2009,2008
+Granddi N'Goyi,Defensive Midfield,1988-05-17,20,DR Congo,Paris Saint-Germain,Ligue 1,2008/2009,2008
+Younousse Sankharé,Central Midfield,1989-09-10,18,Senegal,Paris Saint-Germain,Ligue 1,2008/2009,2008
+Florian Makhedjouf,Central Midfield,1991-01-11,17,Algeria,Paris Saint-Germain,Ligue 1,2008/2009,2008
+Jérôme Rothen,Left Midfield,1978-03-31,30,France,Paris Saint-Germain,Ligue 1,2008/2009,2008
+Stéphane Sessègnon,Attacking Midfield,1984-06-01,24,Benin,Paris Saint-Germain,Ligue 1,2008/2009,2008
+Abdelaziz Barrada,Attacking Midfield,1989-06-19,19,Morocco,Paris Saint-Germain,Ligue 1,2008/2009,2008
+Maxime Partouche,Attacking Midfield,1990-06-05,18,France,Paris Saint-Germain,Ligue 1,2008/2009,2008
+Ludovic Giuly,Right Winger,1976-07-10,31,France,Paris Saint-Germain,Ligue 1,2008/2009,2008
+Fabrice Pancrate,Right Winger,1980-05-02,28,France,Paris Saint-Germain,Ligue 1,2008/2009,2008
+Mateja Kezman,Centre-Forward,1979-04-12,29,Serbia,Paris Saint-Germain,Ligue 1,2008/2009,2008
+Guillaume Hoarau,Centre-Forward,1984-03-05,24,France,Paris Saint-Germain,Ligue 1,2008/2009,2008
+Péguy Luyindula,Centre-Forward,1979-05-25,29,France,Paris Saint-Germain,Ligue 1,2008/2009,2008
+Loris Arnaud,Centre-Forward,1987-04-16,21,France,Paris Saint-Germain,Ligue 1,2008/2009,2008
+Yannick Boli,Centre-Forward,1988-01-13,20,Cote d'Ivoire,Paris Saint-Germain,Ligue 1,2008/2009,2008
+Gaëtan Charbonnier,Centre-Forward,1988-12-27,19,France,Paris Saint-Germain,Ligue 1,2008/2009,2008
+Jean-Eudes Maurice,Centre-Forward,1986-06-21,22,Haiti,Paris Saint-Germain,Ligue 1,2008/2009,2008
+Ludovic Butelle,Goalkeeper,1983-04-03,25,France,LOSC Lille,Ligue 1,2008/2009,2008
+Grégory Malicki,Goalkeeper,1973-11-23,34,France,LOSC Lille,Ligue 1,2008/2009,2008
+Alexandre Oukidja,Goalkeeper,1988-07-19,19,Algeria,LOSC Lille,Ligue 1,2008/2009,2008
+Nicolas Plestan,Centre-Back,1981-06-02,27,France,LOSC Lille,Ligue 1,2008/2009,2008
+Adil Rami,Centre-Back,1985-12-27,22,France,LOSC Lille,Ligue 1,2008/2009,2008
+Peter Franquart,Centre-Back,1985-05-04,23,France,LOSC Lille,Ligue 1,2008/2009,2008
+Aurélien Chedjou,Centre-Back,1985-06-20,23,Cameroon,LOSC Lille,Ligue 1,2008/2009,2008
+Jérémy Taravel,Centre-Back,1987-04-17,21,France,LOSC Lille,Ligue 1,2008/2009,2008
+Badis Lebbihi,Centre-Back,1990-03-14,18,Algeria,LOSC Lille,Ligue 1,2008/2009,2008
+Omar Benzerga,Centre-Back,1990-03-13,18,Algeria,LOSC Lille,Ligue 1,2008/2009,2008
+Grégory Tafforeau,Left-Back,1976-09-29,31,France,LOSC Lille,Ligue 1,2008/2009,2008
+Émerson Conceição,Left-Back,1986-02-23,22,Brazil,LOSC Lille,Ligue 1,2008/2009,2008
+Franck Béria,Right-Back,1983-05-23,25,France,LOSC Lille,Ligue 1,2008/2009,2008
+Mathieu Debuchy,Right-Back,1985-07-28,22,France,LOSC Lille,Ligue 1,2008/2009,2008
+Jerry Vandam,Right-Back,1988-12-08,19,France,LOSC Lille,Ligue 1,2008/2009,2008
+Rio Mavuba,Defensive Midfield,1984-03-08,24,France,LOSC Lille,Ligue 1,2008/2009,2008
+Stéphane Dumont,Defensive Midfield,1982-09-06,25,France,LOSC Lille,Ligue 1,2008/2009,2008
+Marko Maric,Defensive Midfield,1983-04-25,25,Croatia,LOSC Lille,Ligue 1,2008/2009,2008
+Yohan Cabaye,Central Midfield,1986-01-14,22,France,LOSC Lille,Ligue 1,2008/2009,2008
+Florent Balmont,Central Midfield,1980-02-02,28,France,LOSC Lille,Ligue 1,2008/2009,2008
+Michel Bastos,Left Midfield,1983-08-02,24,Brazil,LOSC Lille,Ligue 1,2008/2009,2008
+Ludovic Obraniak,Attacking Midfield,1984-11-10,23,Poland,LOSC Lille,Ligue 1,2008/2009,2008
+Brian Obino,Attacking Midfield,1988-01-30,20,France,LOSC Lille,Ligue 1,2008/2009,2008
+Eden Hazard,Left Winger,1991-01-07,17,Belgium,LOSC Lille,Ligue 1,2008/2009,2008
+Larsen Touré,Right Winger,1984-07-20,23,Guinea,LOSC Lille,Ligue 1,2008/2009,2008
+Yannis Salibur,Right Winger,1991-01-24,17,France,LOSC Lille,Ligue 1,2008/2009,2008
+Emil Lyng,Second Striker,1989-08-03,18,Denmark,LOSC Lille,Ligue 1,2008/2009,2008
+Túlio de Melo,Centre-Forward,1985-01-31,23,Brazil,LOSC Lille,Ligue 1,2008/2009,2008
+Róbert Vittek,Centre-Forward,1982-04-01,26,Slovakia,LOSC Lille,Ligue 1,2008/2009,2008
+Pierre-Alain Frau,Centre-Forward,1980-04-15,28,France,LOSC Lille,Ligue 1,2008/2009,2008
+Nicolas Fauvergue,Centre-Forward,1984-10-13,23,France,LOSC Lille,Ligue 1,2008/2009,2008
+Youssef Sofiane,Centre-Forward,1984-08-07,23,France,LOSC Lille,Ligue 1,2008/2009,2008
+Cédric Baseya,Centre-Forward,1987-12-19,20,DR Congo,LOSC Lille,Ligue 1,2008/2009,2008
+Nicolas Douchez,Goalkeeper,1980-04-22,28,France,Stade Rennais FC,Ligue 1,2008/2009,2008
+Patrice Luzi,Goalkeeper,1980-07-08,27,France,Stade Rennais FC,Ligue 1,2008/2009,2008
+Cheick N'Diaye,Goalkeeper,1985-02-15,23,Senegal,Stade Rennais FC,Ligue 1,2008/2009,2008
+Carlos Bocanegra,Centre-Back,1979-05-25,29,United States,Stade Rennais FC,Ligue 1,2008/2009,2008
+Petter Hansson,Centre-Back,1976-12-14,31,Sweden,Stade Rennais FC,Ligue 1,2008/2009,2008
+Lucien Aubey,Centre-Back,1984-05-24,24,Congo,Stade Rennais FC,Ligue 1,2008/2009,2008
+Kader Mangane,Centre-Back,1983-03-23,25,Senegal,Stade Rennais FC,Ligue 1,2008/2009,2008
+Bira Dembélé,Centre-Back,1988-03-22,20,France,Stade Rennais FC,Ligue 1,2008/2009,2008
+Samuel Souprayen,Centre-Back,1989-02-02,19,France,Stade Rennais FC,Ligue 1,2008/2009,2008
+John Boye,Centre-Back,1987-04-23,21,Ghana,Stade Rennais FC,Ligue 1,2008/2009,2008
+Maxime Le Marchand,Centre-Back,1989-10-11,18,France,Stade Rennais FC,Ligue 1,2008/2009,2008
+Kévin Théophile-Catherine,Centre-Back,1989-10-28,18,Martinique,Stade Rennais FC,Ligue 1,2008/2009,2008
+Elderson,Left-Back,1988-01-20,20,Nigeria,Stade Rennais FC,Ligue 1,2008/2009,2008
+Rod Fanni,Right-Back,1981-12-06,26,France,Stade Rennais FC,Ligue 1,2008/2009,2008
+Romain Danzé,Right-Back,1986-07-03,21,France,Stade Rennais FC,Ligue 1,2008/2009,2008
+Guillaume Borne,Right-Back,1988-02-12,20,France,Stade Rennais FC,Ligue 1,2008/2009,2008
+Stéphane Mbia,Defensive Midfield,1986-05-20,22,Cameroon,Stade Rennais FC,Ligue 1,2008/2009,2008
+Olivier Sorlin,Defensive Midfield,1979-04-09,29,France,Stade Rennais FC,Ligue 1,2008/2009,2008
+Fabien Lemoine,Defensive Midfield,1987-03-16,21,France,Stade Rennais FC,Ligue 1,2008/2009,2008
+Yann M'Vila,Defensive Midfield,1990-06-29,18,France,Stade Rennais FC,Ligue 1,2008/2009,2008
+Damien Le Tallec,Defensive Midfield,1990-04-19,18,France,Stade Rennais FC,Ligue 1,2008/2009,2008
+Prince Oniangué,Defensive Midfield,1988-11-04,19,Congo,Stade Rennais FC,Ligue 1,2008/2009,2008
+Bruno Cheyrou,Central Midfield,1978-05-10,30,France,Stade Rennais FC,Ligue 1,2008/2009,2008
+Olivier Thomert,Left Midfield,1980-05-28,28,Martinique,Stade Rennais FC,Ligue 1,2008/2009,2008
+Jérôme Leroy,Attacking Midfield,1974-11-04,33,France,Stade Rennais FC,Ligue 1,2008/2009,2008
+Sylvain Marveaux,Attacking Midfield,1986-04-15,22,Martinique,Stade Rennais FC,Ligue 1,2008/2009,2008
+Felix Katongo,Attacking Midfield,1984-04-18,24,Zambia,Stade Rennais FC,Ligue 1,2008/2009,2008
+Yohann Lasimant,Attacking Midfield,1989-09-04,18,France,Stade Rennais FC,Ligue 1,2008/2009,2008
+Jirès Kembo-Ekoko,Left Winger,1988-01-08,20,France,Stade Rennais FC,Ligue 1,2008/2009,2008
+Yacine Brahimi,Left Winger,1990-02-08,18,Algeria,Stade Rennais FC,Ligue 1,2008/2009,2008
+Abdoul Camara,Left Winger,1990-02-20,18,Guinea,Stade Rennais FC,Ligue 1,2008/2009,2008
+Sylvain Wiltord,Second Striker,1974-05-10,34,France,Stade Rennais FC,Ligue 1,2008/2009,2008
+Mickaël Pagis,Second Striker,1973-08-17,34,France,Stade Rennais FC,Ligue 1,2008/2009,2008
+Daniel Moreira,Second Striker,1977-08-08,30,France,Stade Rennais FC,Ligue 1,2008/2009,2008
+Asamoah Gyan,Centre-Forward,1985-11-22,22,Ghana,Stade Rennais FC,Ligue 1,2008/2009,2008
+Jimmy Briand,Centre-Forward,1985-08-02,22,France,Stade Rennais FC,Ligue 1,2008/2009,2008
+Moussa Sow,Centre-Forward,1986-01-19,22,Senegal,Stade Rennais FC,Ligue 1,2008/2009,2008
+Julian Esteban,Centre-Forward,1986-09-16,21,Switzerland,Stade Rennais FC,Ligue 1,2008/2009,2008
+Gennaro Bracigliano,Goalkeeper,1980-03-01,28,France,AS Nancy-Lorraine,Ligue 1,2008/2009,2008
+Damien Grégorini,Goalkeeper,1979-03-02,29,France,AS Nancy-Lorraine,Ligue 1,2008/2009,2008
+Thomas Gaudu,Goalkeeper,1987-04-04,21,France,AS Nancy-Lorraine,Ligue 1,2008/2009,2008
+Mickaël Chrétien Basser,Centre-Back,1984-07-10,23,Morocco,AS Nancy-Lorraine,Ligue 1,2008/2009,2008
+André Luiz,Centre-Back,1980-01-27,28,Brazil,AS Nancy-Lorraine,Ligue 1,2008/2009,2008
+Abdeslam Ouaddou,Centre-Back,1978-11-01,29,Morocco,AS Nancy-Lorraine,Ligue 1,2008/2009,2008
+Jean Calvé,Centre-Back,1984-04-30,24,France,AS Nancy-Lorraine,Ligue 1,2008/2009,2008
+Joël Sami,Centre-Back,1984-11-13,23,DR Congo,AS Nancy-Lorraine,Ligue 1,2008/2009,2008
+Damián Macaluso,Centre-Back,1980-03-09,28,Uruguay,AS Nancy-Lorraine,Ligue 1,2008/2009,2008
+Jonathan Brison,Left-Back,1983-02-07,25,France,AS Nancy-Lorraine,Ligue 1,2008/2009,2008
+Frédéric Biancalani,Left-Back,1974-07-21,33,France,AS Nancy-Lorraine,Ligue 1,2008/2009,2008
+Geoffrey Adjet,Left-Back,1988-04-15,20,France,AS Nancy-Lorraine,Ligue 1,2008/2009,2008
+Helder,Right-Back,1988-04-13,20,Brazil,AS Nancy-Lorraine,Ligue 1,2008/2009,2008
+Pascal Berenguer,Defensive Midfield,1981-05-20,27,France,AS Nancy-Lorraine,Ligue 1,2008/2009,2008
+Landry N'Guémo,Defensive Midfield,1985-11-28,22,Cameroon,AS Nancy-Lorraine,Ligue 1,2008/2009,2008
+Momar Faye,Defensive Midfield,1987-12-21,20,Senegal,AS Nancy-Lorraine,Ligue 1,2008/2009,2008
+Alfred N'Diaye,Defensive Midfield,1990-03-06,18,Senegal,AS Nancy-Lorraine,Ligue 1,2008/2009,2008
+Benjamin Gavanon,Central Midfield,1980-08-09,27,France,AS Nancy-Lorraine,Ligue 1,2008/2009,2008
+Monsef Zerka,Right Midfield,1981-08-30,26,Morocco,AS Nancy-Lorraine,Ligue 1,2008/2009,2008
+Julien Féret,Attacking Midfield,1982-07-05,25,France,AS Nancy-Lorraine,Ligue 1,2008/2009,2008
+Gastón Curbelo,Forward,1976-04-08,32,France,AS Nancy-Lorraine,Ligue 1,2008/2009,2008
+Chris Malonga,Left Winger,1987-07-11,20,Congo,AS Nancy-Lorraine,Ligue 1,2008/2009,2008
+Issiar Dia,Right Winger,1987-06-08,21,Senegal,AS Nancy-Lorraine,Ligue 1,2008/2009,2008
+Amin Tighazoui,Right Winger,1989-04-20,19,Morocco,AS Nancy-Lorraine,Ligue 1,2008/2009,2008
+Veigar Páll Gunnarsson,Second Striker,1980-03-21,28,Iceland,AS Nancy-Lorraine,Ligue 1,2008/2009,2008
+Marc-Antoine Fortuné,Centre-Forward,1981-07-02,26,French Guiana,AS Nancy-Lorraine,Ligue 1,2008/2009,2008
+Youssouf Hadji,Centre-Forward,1980-02-25,28,Morocco,AS Nancy-Lorraine,Ligue 1,2008/2009,2008
+Basile Camerling,Centre-Forward,1987-04-19,21,France,AS Nancy-Lorraine,Ligue 1,2008/2009,2008
+Olivier Sorin,Goalkeeper,1981-04-16,27,France,AJ Auxerre,Ligue 1,2008/2009,2008
+Rémy Riou,Goalkeeper,1987-08-06,20,France,AJ Auxerre,Ligue 1,2008/2009,2008
+Denis Petric,Goalkeeper,1988-05-24,20,Serbia,AJ Auxerre,Ligue 1,2008/2009,2008
+Adama Coulibaly,Centre-Back,1980-09-10,27,Mali,AJ Auxerre,Ligue 1,2008/2009,2008
+Dariusz Dudka,Centre-Back,1983-12-09,24,Poland,AJ Auxerre,Ligue 1,2008/2009,2008
+Jean-Pascal Mignot,Centre-Back,1981-02-26,27,France,AJ Auxerre,Ligue 1,2008/2009,2008
+Stéphane Grichting,Centre-Back,1979-03-30,29,Switzerland,AJ Auxerre,Ligue 1,2008/2009,2008
+Jérémy Berthod,Left-Back,1984-04-24,24,France,AJ Auxerre,Ligue 1,2008/2009,2008
+Amadou Sidibé,Left-Back,1986-02-19,22,Mali,AJ Auxerre,Ligue 1,2008/2009,2008
+Cédric Hengbart,Right-Back,1980-07-13,27,France,AJ Auxerre,Ligue 1,2008/2009,2008
+Robert Popov,Right-Back,1982-04-16,26,North Macedonia,AJ Auxerre,Ligue 1,2008/2009,2008
+Marc Fachan,Right-Back,1989-01-25,19,France,AJ Auxerre,Ligue 1,2008/2009,2008
+Benoît Pedretti,Defensive Midfield,1980-11-12,27,France,AJ Auxerre,Ligue 1,2008/2009,2008
+Moussa Narry,Defensive Midfield,1986-04-19,22,Ghana,AJ Auxerre,Ligue 1,2008/2009,2008
+Delvin N'Dinga,Defensive Midfield,1988-03-14,20,Congo,AJ Auxerre,Ligue 1,2008/2009,2008
+Thomas Kahlenberg,Central Midfield,1983-03-20,25,Denmark,AJ Auxerre,Ligue 1,2008/2009,2008
+Issa Ba,Central Midfield,1981-11-07,26,Senegal,AJ Auxerre,Ligue 1,2008/2009,2008
+Maxime Jasse,Central Midfield,1988-01-04,20,France,AJ Auxerre,Ligue 1,2008/2009,2008
+Kevin Lejeune,Left Midfield,1985-01-22,23,France,AJ Auxerre,Ligue 1,2008/2009,2008
+Kamel Chafni,Attacking Midfield,1982-06-11,26,Morocco,AJ Auxerre,Ligue 1,2008/2009,2008
+Valter Birsa,Attacking Midfield,1986-08-07,21,Slovenia,AJ Auxerre,Ligue 1,2008/2009,2008
+Alain Traoré,Attacking Midfield,1988-12-31,19,Burkina Faso,AJ Auxerre,Ligue 1,2008/2009,2008
+Steeven Langil,Left Winger,1988-03-04,20,Martinique,AJ Auxerre,Ligue 1,2008/2009,2008
+Dennis Oliech,Right Winger,1985-02-02,23,Kenya,AJ Auxerre,Ligue 1,2008/2009,2008
+Daniel Niculae,Centre-Forward,1982-10-06,25,Romania,AJ Auxerre,Ligue 1,2008/2009,2008
+Ireneusz Jelen,Centre-Forward,1981-04-09,27,Poland,AJ Auxerre,Ligue 1,2008/2009,2008
+Julien Quercia,Centre-Forward,1986-08-17,21,France,AJ Auxerre,Ligue 1,2008/2009,2008
+Lynel Kitambala,Centre-Forward,1988-10-26,19,France,AJ Auxerre,Ligue 1,2008/2009,2008
+Maurice Dalé,Centre-Forward,1985-07-12,22,France,AJ Auxerre,Ligue 1,2008/2009,2008
+Flavio Roma,Goalkeeper,1974-06-21,34,Italy,AS Monaco,Ligue 1,2008/2009,2008
+Stéphane Ruffier,Goalkeeper,1986-09-27,21,France,AS Monaco,Ligue 1,2008/2009,2008
+Manuel Vallaurio,Goalkeeper,1987-02-23,21,Monaco,AS Monaco,Ligue 1,2008/2009,2008
+Yohann Thuram,Goalkeeper,1988-10-31,19,Guadeloupe,AS Monaco,Ligue 1,2008/2009,2008
+François Modesto,Centre-Back,1978-08-19,29,France,AS Monaco,Ligue 1,2008/2009,2008
+Dario Simic,Centre-Back,1975-11-12,32,Croatia,AS Monaco,Ligue 1,2008/2009,2008
+Patrick Müller,Centre-Back,1976-12-17,31,Switzerland,AS Monaco,Ligue 1,2008/2009,2008
+Cédric Mongongu,Centre-Back,1989-06-22,19,DR Congo,AS Monaco,Ligue 1,2008/2009,2008
+Elia Legati,Centre-Back,1986-01-03,22,Italy,AS Monaco,Ligue 1,2008/2009,2008
+Nicolas N'Koulou,Centre-Back,1990-03-27,18,Cameroon,AS Monaco,Ligue 1,2008/2009,2008
+Leandro Cufré,Left-Back,1978-05-09,30,Argentina,AS Monaco,Ligue 1,2008/2009,2008
+Vincent Muratori,Left-Back,1987-08-03,20,France,AS Monaco,Ligue 1,2008/2009,2008
+Adriano,Right-Back,1982-04-03,26,Brazil,AS Monaco,Ligue 1,2008/2009,2008
+Igor Lolo,Right-Back,1982-07-22,25,Cote d'Ivoire,AS Monaco,Ligue 1,2008/2009,2008
+Diego Pérez,Defensive Midfield,1980-05-18,28,Uruguay,AS Monaco,Ligue 1,2008/2009,2008
+Jerko Leko,Defensive Midfield,1980-04-09,28,Croatia,AS Monaco,Ligue 1,2008/2009,2008
+Nikola Pokrivac,Defensive Midfield,1985-11-26,22,Croatia,AS Monaco,Ligue 1,2008/2009,2008
+Sani Kaita,Defensive Midfield,1986-05-02,22,Nigeria,AS Monaco,Ligue 1,2008/2009,2008
+Jean-Jacques Gosso,Defensive Midfield,1983-03-15,25,Cote d'Ivoire,AS Monaco,Ligue 1,2008/2009,2008
+Loïc Dufau,Defensive Midfield,1989-03-15,19,France,AS Monaco,Ligue 1,2008/2009,2008
+Distel Zola,Defensive Midfield,1989-02-05,19,DR Congo,AS Monaco,Ligue 1,2008/2009,2008
+Thomas Mangani,Central Midfield,1987-04-29,21,France,AS Monaco,Ligue 1,2008/2009,2008
+Lukman Haruna,Central Midfield,1990-12-04,17,Nigeria,AS Monaco,Ligue 1,2008/2009,2008
+Alejandro Alonso,Right Midfield,1982-03-03,26,Argentina,AS Monaco,Ligue 1,2008/2009,2008
+Kévin Diaz,Right Midfield,1988-08-18,19,France,AS Monaco,Ligue 1,2008/2009,2008
+Nenê,Attacking Midfield,1981-07-19,26,Brazil,AS Monaco,Ligue 1,2008/2009,2008
+Camel Meriem,Attacking Midfield,1979-10-18,28,France,AS Monaco,Ligue 1,2008/2009,2008
+Freddy Adu,Attacking Midfield,1989-06-02,19,United States,AS Monaco,Ligue 1,2008/2009,2008
+Yohan Mollo,Left Winger,1989-07-18,18,France,AS Monaco,Ligue 1,2008/2009,2008
+Serge Gakpé,Right Winger,1987-05-07,21,Togo,AS Monaco,Ligue 1,2008/2009,2008
+Juan Pablo Pino,Right Winger,1987-03-30,21,Colombia,AS Monaco,Ligue 1,2008/2009,2008
+Jérémy Ménez,Second Striker,1987-05-07,21,France,AS Monaco,Ligue 1,2008/2009,2008
+Ju-yeong Park,Centre-Forward,1985-07-10,22,"Korea, South",AS Monaco,Ligue 1,2008/2009,2008
+Djamel Bakar,Centre-Forward,1989-04-06,19,Comoros,AS Monaco,Ligue 1,2008/2009,2008
+Alexandre Licata,Centre-Forward,1984-01-02,24,France,AS Monaco,Ligue 1,2008/2009,2008
+Frédéric Nimani,Centre-Forward,1988-10-08,19,Central African Republic,AS Monaco,Ligue 1,2008/2009,2008
+Yannick Sagbo,Centre-Forward,1988-04-12,20,Cote d'Ivoire,AS Monaco,Ligue 1,2008/2009,2008
+Lionel Létizi,Goalkeeper,1973-05-28,35,France,OGC Nice,Ligue 1,2008/2009,2008
+Jérémie Moreau,Goalkeeper,1980-07-22,27,France,OGC Nice,Ligue 1,2008/2009,2008
+David Ospina,Goalkeeper,1988-08-31,19,Colombia,OGC Nice,Ligue 1,2008/2009,2008
+Adrien Faviana,Defender,1986-07-21,21,France,OGC Nice,Ligue 1,2008/2009,2008
+Onyekachi Apam,Centre-Back,1986-12-30,21,Nigeria,OGC Nice,Ligue 1,2008/2009,2008
+Vincent Hognon,Centre-Back,1974-08-16,33,France,OGC Nice,Ligue 1,2008/2009,2008
+Cédric Kanté,Centre-Back,1979-07-06,28,Mali,OGC Nice,Ligue 1,2008/2009,2008
+Drissa Diakité,Centre-Back,1985-02-18,23,Mali,OGC Nice,Ligue 1,2008/2009,2008
+Gérald Cid,Centre-Back,1983-02-17,25,France,OGC Nice,Ligue 1,2008/2009,2008
+Alaeddine Yahia,Centre-Back,1981-09-26,26,Tunisia,OGC Nice,Ligue 1,2008/2009,2008
+Ismaël Gace,Centre-Back,1986-09-19,21,France,OGC Nice,Ligue 1,2008/2009,2008
+Cyril Rool,Left-Back,1975-04-15,33,France,OGC Nice,Ligue 1,2008/2009,2008
+Romain Soler,Left-Back,1989-06-07,19,France,OGC Nice,Ligue 1,2008/2009,2008
+Patrick Barul,Right-Back,1977-10-03,30,France,OGC Nice,Ligue 1,2008/2009,2008
+Cyril Jeunechamp,Defensive Midfield,1975-12-18,32,France,OGC Nice,Ligue 1,2008/2009,2008
+Julien Sablé,Defensive Midfield,1980-09-11,27,France,OGC Nice,Ligue 1,2008/2009,2008
+Olivier Echouafni,Defensive Midfield,1972-09-13,35,France,OGC Nice,Ligue 1,2008/2009,2008
+Kafoumba Coulibaly,Defensive Midfield,1985-10-26,22,Cote d'Ivoire,OGC Nice,Ligue 1,2008/2009,2008
+Enoch Kofi Adu,Defensive Midfield,1990-09-14,17,Ghana,OGC Nice,Ligue 1,2008/2009,2008
+David Hellebuyck,Central Midfield,1979-05-12,29,France,OGC Nice,Ligue 1,2008/2009,2008
+Emerse Faé,Central Midfield,1984-01-24,24,Cote d'Ivoire,OGC Nice,Ligue 1,2008/2009,2008
+Mahamane Traoré,Central Midfield,1988-08-31,19,Mali,OGC Nice,Ligue 1,2008/2009,2008
+Chaouki Ben Saada,Attacking Midfield,1984-07-01,24,Tunisia,OGC Nice,Ligue 1,2008/2009,2008
+Nduka Ozokwo,Right Winger,1988-12-25,19,Nigeria,OGC Nice,Ligue 1,2008/2009,2008
+Abeiku Quansah,Right Winger,1990-11-02,17,Ghana,OGC Nice,Ligue 1,2008/2009,2008
+Habib Bamogo,Second Striker,1982-05-08,26,Burkina Faso,OGC Nice,Ligue 1,2008/2009,2008
+Loïc Rémy,Centre-Forward,1987-01-02,21,France,OGC Nice,Ligue 1,2008/2009,2008
+Éric Mouloungui,Centre-Forward,1984-04-01,24,Gabon,OGC Nice,Ligue 1,2008/2009,2008
+Anthony Modeste,Centre-Forward,1988-04-14,20,France,OGC Nice,Ligue 1,2008/2009,2008
+Matt Moussilou,Centre-Forward,1982-06-01,26,Congo,OGC Nice,Ligue 1,2008/2009,2008
+Adeílson,Centre-Forward,1985-10-07,22,Brazil,OGC Nice,Ligue 1,2008/2009,2008
+Cédric Carrasso,Goalkeeper,1981-12-30,26,France,FC Toulouse,Ligue 1,2008/2009,2008
+Sébastien Hamel,Goalkeeper,1975-11-20,32,France,FC Toulouse,Ligue 1,2008/2009,2008
+Olivier Blondel,Goalkeeper,1979-07-09,28,France,FC Toulouse,Ligue 1,2008/2009,2008
+Jérémy Mathieu,Centre-Back,1983-10-29,24,France,FC Toulouse,Ligue 1,2008/2009,2008
+Mauro Cetto,Centre-Back,1982-04-14,26,Argentina,FC Toulouse,Ligue 1,2008/2009,2008
+Daniel Congré,Centre-Back,1985-04-05,23,France,FC Toulouse,Ligue 1,2008/2009,2008
+Mohamed Fofana,Centre-Back,1985-03-07,23,Mali,FC Toulouse,Ligue 1,2008/2009,2008
+Jérémy Michel,Centre-Back,1988-04-19,20,France,FC Toulouse,Ligue 1,2008/2009,2008
+Anthony Ouasfane,Centre-Back,1989-05-29,19,France,FC Toulouse,Ligue 1,2008/2009,2008
+Cheikh M'Bengue,Left-Back,1988-07-23,19,Senegal,FC Toulouse,Ligue 1,2008/2009,2008
+Franck Tabanou,Left-Back,1989-01-30,19,France,FC Toulouse,Ligue 1,2008/2009,2008
+Albin Ebondo,Right-Back,1984-02-23,24,France,FC Toulouse,Ligue 1,2008/2009,2008
+Alassane Touré,Right-Back,1989-02-09,19,France,FC Toulouse,Ligue 1,2008/2009,2008
+Mathieu Berson,Defensive Midfield,1980-02-23,28,France,FC Toulouse,Ligue 1,2008/2009,2008
+Étienne Capoue,Defensive Midfield,1988-07-11,19,France,FC Toulouse,Ligue 1,2008/2009,2008
+Oumar N'Diaye,Defensive Midfield,1988-12-09,19,Mauritania,FC Toulouse,Ligue 1,2008/2009,2008
+Étienne Didot,Central Midfield,1983-07-24,24,France,FC Toulouse,Ligue 1,2008/2009,2008
+Moussa Sissoko,Central Midfield,1989-08-16,18,France,FC Toulouse,Ligue 1,2008/2009,2008
+Pantxi Sirieix,Central Midfield,1980-10-07,27,France,FC Toulouse,Ligue 1,2008/2009,2008
+Alexandre Bonnet,Attacking Midfield,1986-10-17,21,France,FC Toulouse,Ligue 1,2008/2009,2008
+Bryan Bergougnoux,Attacking Midfield,1983-01-12,25,France,FC Toulouse,Ligue 1,2008/2009,2008
+Fodé Mansare,Left Winger,1981-09-03,26,Guinea,FC Toulouse,Ligue 1,2008/2009,2008
+Paulo César,Right Winger,1978-08-26,29,Brazil,FC Toulouse,Ligue 1,2008/2009,2008
+Daniel Braaten,Right Winger,1982-05-25,26,Norway,FC Toulouse,Ligue 1,2008/2009,2008
+André-Pierre Gignac,Centre-Forward,1985-12-05,22,France,FC Toulouse,Ligue 1,2008/2009,2008
+Sören Larsen,Centre-Forward,1981-09-06,26,Denmark,FC Toulouse,Ligue 1,2008/2009,2008
+Xavier Pentecôte,Centre-Forward,1986-08-13,21,France,FC Toulouse,Ligue 1,2008/2009,2008
+Pavel Fort,Centre-Forward,1983-06-26,25,Czech Republic,FC Toulouse,Ligue 1,2008/2009,2008
+Ahmed Soukouna,Centre-Forward,1990-01-13,18,France,FC Toulouse,Ligue 1,2008/2009,2008
+Fabien Audard,Goalkeeper,1978-03-28,30,France,FC Lorient,Ligue 1,2008/2009,2008
+Lionel Cappone,Goalkeeper,1979-02-08,29,France,FC Lorient,Ligue 1,2008/2009,2008
+Alban Joinel,Goalkeeper,1979-09-14,28,France,FC Lorient,Ligue 1,2008/2009,2008
+Michaël Ciani,Centre-Back,1984-04-06,24,France,FC Lorient,Ligue 1,2008/2009,2008
+Jean Calvé,Centre-Back,1984-04-30,24,France,FC Lorient,Ligue 1,2008/2009,2008
+Jérémy Morel,Centre-Back,1984-04-02,24,Madagascar,FC Lorient,Ligue 1,2008/2009,2008
+Sylvain Marchal,Centre-Back,1980-02-10,28,France,FC Lorient,Ligue 1,2008/2009,2008
+Benjamin Genton,Centre-Back,1980-05-20,28,France,FC Lorient,Ligue 1,2008/2009,2008
+Bakary Soro,Centre-Back,1985-12-05,22,Cote d'Ivoire,FC Lorient,Ligue 1,2008/2009,2008
+Arnaud Le Lan,Left-Back,1978-03-22,30,France,FC Lorient,Ligue 1,2008/2009,2008
+Christophe Jallet,Right-Back,1983-10-31,24,France,FC Lorient,Ligue 1,2008/2009,2008
+Marc Boutruche,Right-Back,1976-09-19,31,France,FC Lorient,Ligue 1,2008/2009,2008
+Fabrice Abriel,Central Midfield,1979-07-06,28,France,FC Lorient,Ligue 1,2008/2009,2008
+Oscar Ewolo,Central Midfield,1978-10-09,29,Congo,FC Lorient,Ligue 1,2008/2009,2008
+Yazid Mansouri,Central Midfield,1978-02-25,30,Algeria,FC Lorient,Ligue 1,2008/2009,2008
+Ricardo Sophie,Central Midfield,1988-03-25,20,France,FC Lorient,Ligue 1,2008/2009,2008
+Yann Jouffre,Right Midfield,1984-07-23,23,France,FC Lorient,Ligue 1,2008/2009,2008
+Fabien Robert,Left Midfield,1989-01-06,19,France,FC Lorient,Ligue 1,2008/2009,2008
+Hamed Namouchi,Attacking Midfield,1984-02-14,24,Tunisia,FC Lorient,Ligue 1,2008/2009,2008
+Ulrich Le Pen,Left Winger,1974-01-21,34,France,FC Lorient,Ligue 1,2008/2009,2008
+André Ayew,Left Winger,1989-12-17,18,Ghana,FC Lorient,Ligue 1,2008/2009,2008
+Bertrand Robert,Left Winger,1983-11-16,24,Réunion,FC Lorient,Ligue 1,2008/2009,2008
+Gabriel Obertan,Right Winger,1989-02-26,19,France,FC Lorient,Ligue 1,2008/2009,2008
+Morgan Amalfitano,Right Winger,1985-03-20,23,France,FC Lorient,Ligue 1,2008/2009,2008
+Antoine Buron,Right Winger,1983-10-22,24,France,FC Lorient,Ligue 1,2008/2009,2008
+Rafik Bouderbal,Right Winger,1987-09-19,20,Algeria,FC Lorient,Ligue 1,2008/2009,2008
+Marama Vahirua,Second Striker,1980-05-12,28,Tahiti,FC Lorient,Ligue 1,2008/2009,2008
+Rafik Saïfi,Centre-Forward,1975-02-07,33,Algeria,FC Lorient,Ligue 1,2008/2009,2008
+Kévin Gameiro,Centre-Forward,1987-05-09,21,France,FC Lorient,Ligue 1,2008/2009,2008
+Julian Pinard,Centre-Forward,1986-01-16,22,France,FC Lorient,Ligue 1,2008/2009,2008
+Nicolas Penneteau,Goalkeeper,1981-02-28,27,France,Valenciennes FC,Ligue 1,2008/2009,2008
+Willy Grondin,Goalkeeper,1974-10-12,33,France,Valenciennes FC,Ligue 1,2008/2009,2008
+Jean-Louis Leca,Goalkeeper,1985-09-21,22,France,Valenciennes FC,Ligue 1,2008/2009,2008
+Rafael,Centre-Back,1980-12-17,27,Brazil,Valenciennes FC,Ligue 1,2008/2009,2008
+Milan Bisevac,Centre-Back,1983-08-31,24,Serbia,Valenciennes FC,Ligue 1,2008/2009,2008
+David Sommeil,Centre-Back,1974-08-10,33,Guadeloupe,Valenciennes FC,Ligue 1,2008/2009,2008
+Jacques Abardonado,Centre-Back,1978-05-27,30,France,Valenciennes FC,Ligue 1,2008/2009,2008
+Dame Traoré,Centre-Back,1986-05-19,22,Qatar,Valenciennes FC,Ligue 1,2008/2009,2008
+Siaka Tiéné,Left-Back,1982-02-22,26,Cote d'Ivoire,Valenciennes FC,Ligue 1,2008/2009,2008
+Rudy Mater,Right-Back,1980-10-13,27,France,Valenciennes FC,Ligue 1,2008/2009,2008
+Mody Traoré,Right-Back,1980-07-14,27,France,Valenciennes FC,Ligue 1,2008/2009,2008
+Carlos Sánchez,Defensive Midfield,1986-02-06,22,Colombia,Valenciennes FC,Ligue 1,2008/2009,2008
+David Ducourtioux,Defensive Midfield,1978-04-11,30,France,Valenciennes FC,Ligue 1,2008/2009,2008
+Jeovânio,Defensive Midfield,1977-11-11,30,Brazil,Valenciennes FC,Ligue 1,2008/2009,2008
+José Saez,Central Midfield,1982-05-07,26,France,Valenciennes FC,Ligue 1,2008/2009,2008
+Jonathan Lacourt,Central Midfield,1986-08-17,21,France,Valenciennes FC,Ligue 1,2008/2009,2008
+Djamel Belmadi,Right Midfield,1976-03-25,32,Algeria,Valenciennes FC,Ligue 1,2008/2009,2008
+Amara Bangoura,Right Midfield,1986-03-10,22,Guinea,Valenciennes FC,Ligue 1,2008/2009,2008
+Yacine Bezzaz,Left Midfield,1981-07-10,26,Algeria,Valenciennes FC,Ligue 1,2008/2009,2008
+Johan Audel,Left Winger,1983-12-12,24,Martinique,Valenciennes FC,Ligue 1,2008/2009,2008
+Gaël Danic,Left Winger,1981-11-19,26,France,Valenciennes FC,Ligue 1,2008/2009,2008
+Seïd Khiter,Right Winger,1985-01-19,23,France,Valenciennes FC,Ligue 1,2008/2009,2008
+Jean-Claude Darcheville,Centre-Forward,1975-07-25,32,French Guiana,Valenciennes FC,Ligue 1,2008/2009,2008
+Luigi Pieroni,Centre-Forward,1980-09-08,27,Belgium,Valenciennes FC,Ligue 1,2008/2009,2008
+Grégory Pujol,Centre-Forward,1980-01-25,28,France,Valenciennes FC,Ligue 1,2008/2009,2008
+Filip Sebo,Centre-Forward,1984-02-25,24,Slovakia,Valenciennes FC,Ligue 1,2008/2009,2008
+Teddy Richert,Goalkeeper,1974-09-21,33,France,FC Sochaux-Montbéliard,Ligue 1,2008/2009,2008
+Jérémy Gavanon,Goalkeeper,1983-09-20,24,France,FC Sochaux-Montbéliard,Ligue 1,2008/2009,2008
+Matthieu Dreyer,Goalkeeper,1989-03-20,19,France,FC Sochaux-Montbéliard,Ligue 1,2008/2009,2008
+Rabiu Afolabi,Centre-Back,1980-04-18,28,Nigeria,FC Sochaux-Montbéliard,Ligue 1,2008/2009,2008
+Damien Perquis,Centre-Back,1984-04-10,24,Poland,FC Sochaux-Montbéliard,Ligue 1,2008/2009,2008
+Jacques Faty,Centre-Back,1984-02-25,24,Senegal,FC Sochaux-Montbéliard,Ligue 1,2008/2009,2008
+Carlão,Centre-Back,1986-01-19,22,Brazil,FC Sochaux-Montbéliard,Ligue 1,2008/2009,2008
+Hakim El Bounadi,Centre-Back,1986-08-09,21,France,FC Sochaux-Montbéliard,Ligue 1,2008/2009,2008
+Bojan Jokic,Left-Back,1986-05-17,22,Slovenia,FC Sochaux-Montbéliard,Ligue 1,2008/2009,2008
+Olivier Thomas,Left-Back,1974-10-06,33,France,FC Sochaux-Montbéliard,Ligue 1,2008/2009,2008
+Yassin Mikari,Left-Back,1983-01-09,25,Tunisia,FC Sochaux-Montbéliard,Ligue 1,2008/2009,2008
+Stéphane Pichot,Right-Back,1976-09-02,31,France,FC Sochaux-Montbéliard,Ligue 1,2008/2009,2008
+Omar Daf,Right-Back,1977-02-12,31,Senegal,FC Sochaux-Montbéliard,Ligue 1,2008/2009,2008
+Frédéric Duplus,Right-Back,1990-04-07,18,France,FC Sochaux-Montbéliard,Ligue 1,2008/2009,2008
+Romain Pitau,Defensive Midfield,1977-08-08,30,France,FC Sochaux-Montbéliard,Ligue 1,2008/2009,2008
+Stéphane Dalmat,Central Midfield,1979-02-16,29,France,FC Sochaux-Montbéliard,Ligue 1,2008/2009,2008
+Vincent Nogueira,Central Midfield,1988-01-16,20,France,FC Sochaux-Montbéliard,Ligue 1,2008/2009,2008
+Geoffrey Tulasne,Central Midfield,1988-02-24,20,France,FC Sochaux-Montbéliard,Ligue 1,2008/2009,2008
+Valter Birsa,Attacking Midfield,1986-08-07,21,Slovenia,FC Sochaux-Montbéliard,Ligue 1,2008/2009,2008
+Valéry Mézague,Attacking Midfield,1983-12-08,24,Cameroon,FC Sochaux-Montbéliard,Ligue 1,2008/2009,2008
+Ryad Boudebouz,Attacking Midfield,1990-02-19,18,Algeria,FC Sochaux-Montbéliard,Ligue 1,2008/2009,2008
+Marvin Martin,Attacking Midfield,1988-01-10,20,France,FC Sochaux-Montbéliard,Ligue 1,2008/2009,2008
+Nicolas Maurice-Belay,Left Winger,1985-04-19,23,France,FC Sochaux-Montbéliard,Ligue 1,2008/2009,2008
+Ivan Perisic,Left Winger,1989-02-02,19,Croatia,FC Sochaux-Montbéliard,Ligue 1,2008/2009,2008
+Mickaël Isabey,Right Winger,1975-02-20,33,France,FC Sochaux-Montbéliard,Ligue 1,2008/2009,2008
+Mevlüt Erdinc,Centre-Forward,1987-02-25,21,Turkey,FC Sochaux-Montbéliard,Ligue 1,2008/2009,2008
+Álvaro Santos,Centre-Forward,1980-01-30,28,Brazil,FC Sochaux-Montbéliard,Ligue 1,2008/2009,2008
+Kandia Traoré,Centre-Forward,1980-07-25,27,Cote d'Ivoire,FC Sochaux-Montbéliard,Ligue 1,2008/2009,2008
+Vaclav Sverkos,Centre-Forward,1983-11-01,24,Czech Republic,FC Sochaux-Montbéliard,Ligue 1,2008/2009,2008
+Santos,Centre-Forward,1979-03-20,29,Tunisia,FC Sochaux-Montbéliard,Ligue 1,2008/2009,2008
+Sloan Privat,Centre-Forward,1989-07-24,18,French Guiana,FC Sochaux-Montbéliard,Ligue 1,2008/2009,2008
+Édouard Butin,Centre-Forward,1988-06-16,20,France,FC Sochaux-Montbéliard,Ligue 1,2008/2009,2008
+Tony Heurtebis,Goalkeeper,1975-01-15,33,France,FC Nantes,Ligue 1,2008/2009,2008
+Jérôme Alonzo,Goalkeeper,1972-11-20,35,France,FC Nantes,Ligue 1,2008/2009,2008
+Guy Ndy Assembé,Goalkeeper,1986-02-28,22,Cameroon,FC Nantes,Ligue 1,2008/2009,2008
+Erwin Zelazny,Goalkeeper,1991-09-22,16,France,FC Nantes,Ligue 1,2008/2009,2008
+Michael Gravgaard,Centre-Back,1978-04-03,30,Denmark,FC Nantes,Ligue 1,2008/2009,2008
+Jean-Jacques Pierre,Centre-Back,1981-01-23,27,Haiti,FC Nantes,Ligue 1,2008/2009,2008
+Yoann Poulard,Centre-Back,1976-07-01,32,France,FC Nantes,Ligue 1,2008/2009,2008
+Ibrahim Tall,Centre-Back,1981-06-23,27,Senegal,FC Nantes,Ligue 1,2008/2009,2008
+Loïc Guillon,Centre-Back,1982-01-11,26,France,FC Nantes,Ligue 1,2008/2009,2008
+Karim El Mourabet,Centre-Back,1987-04-30,21,Morocco,FC Nantes,Ligue 1,2008/2009,2008
+Douglão,Centre-Back,1986-05-18,22,Brazil,FC Nantes,Ligue 1,2008/2009,2008
+Rémi Maréval,Left-Back,1983-02-24,25,Martinique,FC Nantes,Ligue 1,2008/2009,2008
+Olivier Thomas,Left-Back,1974-10-06,33,France,FC Nantes,Ligue 1,2008/2009,2008
+Aristote Lusinga,Left-Back,1990-02-20,18,France,FC Nantes,Ligue 1,2008/2009,2008
+Guirane N'Daw,Defensive Midfield,1984-04-24,24,Senegal,FC Nantes,Ligue 1,2008/2009,2008
+Ricardo Faty,Defensive Midfield,1986-08-04,21,Senegal,FC Nantes,Ligue 1,2008/2009,2008
+Kévin Das Neves,Defensive Midfield,1986-05-08,22,France,FC Nantes,Ligue 1,2008/2009,2008
+William Vainqueur,Defensive Midfield,1988-11-19,19,France,FC Nantes,Ligue 1,2008/2009,2008
+David de Freitas,Central Midfield,1979-09-30,28,France,FC Nantes,Ligue 1,2008/2009,2008
+Guillaume Moullec,Right Midfield,1980-07-03,27,France,FC Nantes,Ligue 1,2008/2009,2008
+Stefan Babovic,Attacking Midfield,1987-01-07,21,Serbia,FC Nantes,Ligue 1,2008/2009,2008
+Sofiane Hanni,Attacking Midfield,1990-12-29,17,Algeria,FC Nantes,Ligue 1,2008/2009,2008
+Aurélien Capoue,Left Winger,1982-02-28,26,Guadeloupe,FC Nantes,Ligue 1,2008/2009,2008
+Frédéric Da Rocha,Right Winger,1974-09-16,33,France,FC Nantes,Ligue 1,2008/2009,2008
+Djamel Abdoun,Right Winger,1986-02-14,22,Algeria,FC Nantes,Ligue 1,2008/2009,2008
+Ronny Rodelin,Right Winger,1989-11-18,18,France,FC Nantes,Ligue 1,2008/2009,2008
+Ivan Klasnic,Centre-Forward,1980-01-29,28,Croatia,FC Nantes,Ligue 1,2008/2009,2008
+Nicolas Goussé,Centre-Forward,1976-01-02,32,France,FC Nantes,Ligue 1,2008/2009,2008
+Mamadou Bagayoko,Centre-Forward,1979-05-21,29,Mali,FC Nantes,Ligue 1,2008/2009,2008
+Thomas Dossevi,Centre-Forward,1979-03-06,29,Togo,FC Nantes,Ligue 1,2008/2009,2008
+Claudiu Keseru,Centre-Forward,1986-12-02,21,Romania,FC Nantes,Ligue 1,2008/2009,2008
+Filip Djordjevic,Centre-Forward,1987-09-28,20,Serbia,FC Nantes,Ligue 1,2008/2009,2008
+Christian Bekamenga,Centre-Forward,1986-05-09,22,Cameroon,FC Nantes,Ligue 1,2008/2009,2008
+Christophe Revault,Goalkeeper,1972-03-22,36,France,AC Le Havre,Ligue 1,2008/2009,2008
+Mike Vanhamel,Goalkeeper,1989-11-16,18,Belgium,AC Le Havre,Ligue 1,2008/2009,2008
+Johny Placide,Goalkeeper,1988-01-29,20,Haiti,AC Le Havre,Ligue 1,2008/2009,2008
+Romain Lejeune,Goalkeeper,1991-05-21,17,France,AC Le Havre,Ligue 1,2008/2009,2008
+Jérémy Henin,Centre-Back,1977-11-12,30,France,AC Le Havre,Ligue 1,2008/2009,2008
+Nicolas Gillet,Centre-Back,1976-11-08,31,France,AC Le Havre,Ligue 1,2008/2009,2008
+Massamba Sambou,Centre-Back,1986-09-17,21,Senegal,AC Le Havre,Ligue 1,2008/2009,2008
+Peter Franquart,Centre-Back,1985-05-04,23,France,AC Le Havre,Ligue 1,2008/2009,2008
+Loïc Nestor,Centre-Back,1989-05-20,19,Guadeloupe,AC Le Havre,Ligue 1,2008/2009,2008
+Abasse Ba,Centre-Back,1976-07-12,31,Senegal,AC Le Havre,Ligue 1,2008/2009,2008
+Benjamin Police,Centre-Back,1988-05-19,20,France,AC Le Havre,Ligue 1,2008/2009,2008
+Jean-Armel Kana-Biyik,Centre-Back,1989-07-03,18,Cameroon,AC Le Havre,Ligue 1,2008/2009,2008
+Kévin Franqueville,Centre-Back,1987-06-23,21,France,AC Le Havre,Ligue 1,2008/2009,2008
+Maka Mary,Centre-Back,1989-03-27,19,France,AC Le Havre,Ligue 1,2008/2009,2008
+Olivier Davidas,Left-Back,1981-11-08,26,France,AC Le Havre,Ligue 1,2008/2009,2008
+Florian Marange,Left-Back,1986-03-03,22,France,AC Le Havre,Ligue 1,2008/2009,2008
+Damian Tixier,Left-Back,1980-06-23,28,France,AC Le Havre,Ligue 1,2008/2009,2008
+Maxime Baca,Right-Back,1983-06-02,25,France,AC Le Havre,Ligue 1,2008/2009,2008
+Pierrick Lebourg,Midfielder,1989-12-30,18,France,AC Le Havre,Ligue 1,2008/2009,2008
+Jamel Aït Ben Idir,Defensive Midfield,1984-01-10,24,Morocco,AC Le Havre,Ligue 1,2008/2009,2008
+Jean-Pascal Fontaine,Defensive Midfield,1989-03-11,19,France,AC Le Havre,Ligue 1,2008/2009,2008
+Thomas Martin,Defensive Midfield,1990-01-20,18,France,AC Le Havre,Ligue 1,2008/2009,2008
+Mahamane Traoré,Defensive Midfield,1987-07-20,20,Mali,AC Le Havre,Ligue 1,2008/2009,2008
+Gueïda Fofana,Defensive Midfield,1991-05-16,17,France,AC Le Havre,Ligue 1,2008/2009,2008
+Nicolas Dieuze,Central Midfield,1979-02-07,29,France,AC Le Havre,Ligue 1,2008/2009,2008
+Hassane Alla,Central Midfield,1980-11-24,27,Morocco,AC Le Havre,Ligue 1,2008/2009,2008
+Kévin Anin,Central Midfield,1986-07-05,21,France,AC Le Havre,Ligue 1,2008/2009,2008
+Driss Fettouhi,Central Midfield,1989-09-30,18,Morocco,AC Le Havre,Ligue 1,2008/2009,2008
+Pierrick Rakotoharisoa,Central Midfield,1991-06-04,17,France,AC Le Havre,Ligue 1,2008/2009,2008
+Mohamed Youssouf,Right Midfield,1988-03-26,20,Comoros,AC Le Havre,Ligue 1,2008/2009,2008
+Guillaume Norbert,Right Midfield,1980-10-14,27,France,AC Le Havre,Ligue 1,2008/2009,2008
+Stéphane Noro,Attacking Midfield,1979-11-22,28,France,AC Le Havre,Ligue 1,2008/2009,2008
+Jean-Michel Lesage,Attacking Midfield,1977-05-01,31,France,AC Le Havre,Ligue 1,2008/2009,2008
+Selim Bouadla,Attacking Midfield,1988-08-26,19,France,AC Le Havre,Ligue 1,2008/2009,2008
+Ryan Mendes,Left Winger,1990-01-08,18,Cape Verde,AC Le Havre,Ligue 1,2008/2009,2008
+El Fardou Ben,Right Winger,1989-06-10,19,Comoros,AC Le Havre,Ligue 1,2008/2009,2008
+Cédric Fauré,Centre-Forward,1979-02-14,29,France,AC Le Havre,Ligue 1,2008/2009,2008
+Mamadou Diallo,Centre-Forward,1982-04-17,26,Mali,AC Le Havre,Ligue 1,2008/2009,2008
+Nikola Nikezic,Centre-Forward,1981-06-13,27,Montenegro,AC Le Havre,Ligue 1,2008/2009,2008
+Amadou Alassane,Centre-Forward,1983-04-07,25,France,AC Le Havre,Ligue 1,2008/2009,2008
+Yannick Boli,Centre-Forward,1988-01-13,20,Cote d'Ivoire,AC Le Havre,Ligue 1,2008/2009,2008
+Mathieu Manset,Centre-Forward,1989-08-05,18,France,AC Le Havre,Ligue 1,2008/2009,2008
+Mohamed Chalali,Centre-Forward,1989-04-04,19,Algeria,AC Le Havre,Ligue 1,2008/2009,2008
+Vincent Planté,Goalkeeper,1980-11-19,27,France,SM Caen,Ligue 1,2008/2009,2008
+Alexis Thébaux,Goalkeeper,1985-03-17,23,France,SM Caen,Ligue 1,2008/2009,2008
+Damien Perquis,Goalkeeper,1986-03-08,22,France,SM Caen,Ligue 1,2008/2009,2008
+Jérémy Sorbon,Centre-Back,1983-08-05,24,France,SM Caen,Ligue 1,2008/2009,2008
+Brahim Thiam,Centre-Back,1974-02-24,34,Mali,SM Caen,Ligue 1,2008/2009,2008
+Karl Svensson,Centre-Back,1984-03-21,24,Sweden,SM Caen,Ligue 1,2008/2009,2008
+Florian Boucansaud,Centre-Back,1981-02-15,27,France,SM Caen,Ligue 1,2008/2009,2008
+Mustapha Traoré,Centre-Back,1982-07-09,25,France,SM Caen,Ligue 1,2008/2009,2008
+Juan Eluchans,Left-Back,1980-04-14,28,Argentina,SM Caen,Ligue 1,2008/2009,2008
+Reynald Lemaître,Left-Back,1983-06-28,25,France,SM Caen,Ligue 1,2008/2009,2008
+Alexandre Raineau,Left-Back,1986-06-21,22,France,SM Caen,Ligue 1,2008/2009,2008
+Pablo Barzola,Right-Back,1983-11-17,24,Argentina,SM Caen,Ligue 1,2008/2009,2008
+Grégory Proment,Defensive Midfield,1978-12-10,29,France,SM Caen,Ligue 1,2008/2009,2008
+Rémi Gomis,Defensive Midfield,1984-02-14,24,Senegal,SM Caen,Ligue 1,2008/2009,2008
+Nicolas Seube,Defensive Midfield,1979-08-11,28,France,SM Caen,Ligue 1,2008/2009,2008
+Grégory Leca,Defensive Midfield,1980-08-22,27,France,SM Caen,Ligue 1,2008/2009,2008
+Ismaïla N'Diaye,Defensive Midfield,1988-01-22,20,Senegal,SM Caen,Ligue 1,2008/2009,2008
+Sambou Yatabaré,Central Midfield,1989-03-02,19,Mali,SM Caen,Ligue 1,2008/2009,2008
+Anthony Deroin,Attacking Midfield,1979-03-15,29,France,SM Caen,Ligue 1,2008/2009,2008
+Benjamin Nivet,Attacking Midfield,1977-01-02,31,France,SM Caen,Ligue 1,2008/2009,2008
+Nicolas Florentin,Left Winger,1978-02-16,30,France,SM Caen,Ligue 1,2008/2009,2008
+Rajiv van La Parra,Left Winger,1991-06-04,17,Netherlands,SM Caen,Ligue 1,2008/2009,2008
+Fahid Ben Khalfallah,Right Winger,1982-10-09,25,Tunisia,SM Caen,Ligue 1,2008/2009,2008
+Steve Savidan,Centre-Forward,1978-06-29,30,France,SM Caen,Ligue 1,2008/2009,2008
+Lilian Compan,Centre-Forward,1977-04-30,31,France,SM Caen,Ligue 1,2008/2009,2008
+Sébastien Mazure,Centre-Forward,1979-03-20,29,France,SM Caen,Ligue 1,2008/2009,2008
+Julien Toudic,Centre-Forward,1985-12-19,22,France,SM Caen,Ligue 1,2008/2009,2008
+Youssef El Arabi,Centre-Forward,1987-02-03,21,Morocco,SM Caen,Ligue 1,2008/2009,2008
+Livio Nabab,Centre-Forward,1988-06-14,20,Guadeloupe,SM Caen,Ligue 1,2008/2009,2008
+Youssef Adnane,Centre-Forward,1985-07-16,22,France,SM Caen,Ligue 1,2008/2009,2008
+Yohann Pelé,Goalkeeper,1982-11-04,25,France,Le Mans Union Club 72,Ligue 1,2008/2009,2008
+Rodolphe Roche,Goalkeeper,1979-06-14,29,France,Le Mans Union Club 72,Ligue 1,2008/2009,2008
+Thibault Ferrand,Goalkeeper,1986-03-26,22,France,Le Mans Union Club 72,Ligue 1,2008/2009,2008
+Antônio Géder,Centre-Back,1978-04-23,30,Brazil,Le Mans Union Club 72,Ligue 1,2008/2009,2008
+Grégory Cerdan,Centre-Back,1982-07-28,25,France,Le Mans Union Club 72,Ligue 1,2008/2009,2008
+Cyriaque Louvion,Centre-Back,1987-07-24,20,France,Le Mans Union Club 72,Ligue 1,2008/2009,2008
+Khaled Adénon,Centre-Back,1985-07-28,22,Benin,Le Mans Union Club 72,Ligue 1,2008/2009,2008
+Paulo André,Centre-Back,1983-08-20,24,Brazil,Le Mans Union Club 72,Ligue 1,2008/2009,2008
+Mamadou Wagué,Centre-Back,1990-08-19,17,France,Le Mans Union Club 72,Ligue 1,2008/2009,2008
+Ibrahima Camara,Left-Back,1985-01-01,23,Guinea,Le Mans Union Club 72,Ligue 1,2008/2009,2008
+Samuel Bouhours,Left-Back,1987-06-26,21,France,Le Mans Union Club 72,Ligue 1,2008/2009,2008
+Ludovic Baal,Left-Back,1986-05-24,22,French Guiana,Le Mans Union Club 72,Ligue 1,2008/2009,2008
+Saber Ben Frej,Right-Back,1979-07-03,28,Tunisia,Le Mans Union Club 72,Ligue 1,2008/2009,2008
+Sébastien Corchia,Right-Back,1990-11-01,17,France,Le Mans Union Club 72,Ligue 1,2008/2009,2008
+Alphousseyni Keita,Defensive Midfield,1985-11-13,22,Mali,Le Mans Union Club 72,Ligue 1,2008/2009,2008
+Hérold Goulon,Defensive Midfield,1988-06-12,20,France,Le Mans Union Club 72,Ligue 1,2008/2009,2008
+Mathieu Coutadeur,Central Midfield,1986-03-20,22,France,Le Mans Union Club 72,Ligue 1,2008/2009,2008
+Frédéric Thomas,Central Midfield,1980-08-10,27,France,Le Mans Union Club 72,Ligue 1,2008/2009,2008
+Marcos Paulo,Central Midfield,1988-07-13,19,Brazil,Le Mans Union Club 72,Ligue 1,2008/2009,2008
+Marcelo Estigarribia,Left Midfield,1987-09-21,20,Paraguay,Le Mans Union Club 72,Ligue 1,2008/2009,2008
+Fredrik Strömstad,Attacking Midfield,1982-01-20,26,Norway,Le Mans Union Club 72,Ligue 1,2008/2009,2008
+Gervinho,Left Winger,1987-05-27,21,Cote d'Ivoire,Le Mans Union Club 72,Ligue 1,2008/2009,2008
+Roland Lamah,Left Winger,1987-12-31,20,Belgium,Le Mans Union Club 72,Ligue 1,2008/2009,2008
+Brahim El Bahri,Left Winger,1986-03-26,22,Morocco,Le Mans Union Club 72,Ligue 1,2008/2009,2008
+Abdou Dieye,Left Winger,1988-02-14,20,Senegal,Le Mans Union Club 72,Ligue 1,2008/2009,2008
+Mathieu Dossevi,Right Winger,1988-02-12,20,Togo,Le Mans Union Club 72,Ligue 1,2008/2009,2008
+Anthony Le Tallec,Centre-Forward,1984-10-03,23,France,Le Mans Union Club 72,Ligue 1,2008/2009,2008
+Thorstein Helstad,Centre-Forward,1977-04-28,31,Norway,Le Mans Union Club 72,Ligue 1,2008/2009,2008
+Mamadou Samassa,Centre-Forward,1986-05-01,22,Mali,Le Mans Union Club 72,Ligue 1,2008/2009,2008
+Modibo Maïga,Centre-Forward,1987-09-03,20,Mali,Le Mans Union Club 72,Ligue 1,2008/2009,2008
+Grégory Wimbée,Goalkeeper,1971-08-19,36,France,Grenoble Foot 38,Ligue 1,2008/2009,2008
+Ronan Le Crom,Goalkeeper,1974-07-13,33,France,Grenoble Foot 38,Ligue 1,2008/2009,2008
+Paul Cattier,Goalkeeper,1986-05-01,22,France,Grenoble Foot 38,Ligue 1,2008/2009,2008
+Brice Maubleu,Goalkeeper,1989-12-01,18,France,Grenoble Foot 38,Ligue 1,2008/2009,2008
+Milivoje Vitakic,Centre-Back,1977-05-16,31,Serbia,Grenoble Foot 38,Ligue 1,2008/2009,2008
+Bostjan Cesar,Centre-Back,1982-07-09,25,Slovenia,Grenoble Foot 38,Ligue 1,2008/2009,2008
+Maxence Flachez,Centre-Back,1972-08-05,35,France,Grenoble Foot 38,Ligue 1,2008/2009,2008
+Sandy Paillot,Centre-Back,1987-02-27,21,France,Grenoble Foot 38,Ligue 1,2008/2009,2008
+Zoran Rendulic,Centre-Back,1984-05-22,24,Serbia,Grenoble Foot 38,Ligue 1,2008/2009,2008
+Martial Robin,Left-Back,1977-08-27,30,France,Grenoble Foot 38,Ligue 1,2008/2009,2008
+Francis N'Ganga,Left-Back,1985-06-16,23,Congo,Grenoble Foot 38,Ligue 1,2008/2009,2008
+Biagui Kamissoko,Right-Back,1983-02-09,25,France,Grenoble Foot 38,Ligue 1,2008/2009,2008
+David Jemmali,Right-Back,1974-12-13,33,Tunisia,Grenoble Foot 38,Ligue 1,2008/2009,2008
+Jimmy Mainfroi,Right-Back,1983-03-28,25,France,Grenoble Foot 38,Ligue 1,2008/2009,2008
+Walid Regragui,Right-Back,1975-09-23,32,Morocco,Grenoble Foot 38,Ligue 1,2008/2009,2008
+Logan Alphant,Right-Back,1983-04-05,25,France,Grenoble Foot 38,Ligue 1,2008/2009,2008
+Alaixys Romao,Defensive Midfield,1984-01-18,24,Togo,Grenoble Foot 38,Ligue 1,2008/2009,2008
+Albert Baning,Defensive Midfield,1985-03-19,23,Cameroon,Grenoble Foot 38,Ligue 1,2008/2009,2008
+Laurent Macquet,Central Midfield,1979-08-11,28,France,Grenoble Foot 38,Ligue 1,2008/2009,2008
+Milos Dimitrijevic,Central Midfield,1984-02-16,24,Serbia,Grenoble Foot 38,Ligue 1,2008/2009,2008
+Mathieu Gianni,Central Midfield,1985-01-02,23,France,Grenoble Foot 38,Ligue 1,2008/2009,2008
+Laurent Courtois,Left Midfield,1978-09-11,29,France,Grenoble Foot 38,Ligue 1,2008/2009,2008
+Laurent Batlles,Attacking Midfield,1975-09-23,32,France,Grenoble Foot 38,Ligue 1,2008/2009,2008
+Hristo Yanev,Attacking Midfield,1979-05-04,29,Bulgaria,Grenoble Foot 38,Ligue 1,2008/2009,2008
+Franck Dja Djédjé,Right Winger,1986-06-02,22,Cote d'Ivoire,Grenoble Foot 38,Ligue 1,2008/2009,2008
+Elliot Grandin,Right Winger,1987-10-17,20,France,Grenoble Foot 38,Ligue 1,2008/2009,2008
+Larsen Touré,Right Winger,1984-07-20,23,Guinea,Grenoble Foot 38,Ligue 1,2008/2009,2008
+Sofiane Feghouli,Right Winger,1989-12-26,18,Algeria,Grenoble Foot 38,Ligue 1,2008/2009,2008
+Bouchaib El Moubarki,Right Winger,1978-01-12,30,Morocco,Grenoble Foot 38,Ligue 1,2008/2009,2008
+Yoric Ravet,Right Winger,1989-09-12,18,France,Grenoble Foot 38,Ligue 1,2008/2009,2008
+Daniel Moreira,Second Striker,1977-08-08,30,France,Grenoble Foot 38,Ligue 1,2008/2009,2008
+Nassim Akrour,Centre-Forward,1974-07-10,33,Algeria,Grenoble Foot 38,Ligue 1,2008/2009,2008
+Pierre Boya,Centre-Forward,1984-01-16,24,Cameroon,Grenoble Foot 38,Ligue 1,2008/2009,2008
+Mustafa Kucukovic,Centre-Forward,1986-11-05,21,Germany,Grenoble Foot 38,Ligue 1,2008/2009,2008
+Sho Ito,Centre-Forward,1988-07-24,19,Japan,Grenoble Foot 38,Ligue 1,2008/2009,2008

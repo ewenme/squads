@@ -1,642 +1,642 @@
-shirt_number,position,player_name,date_of_birth,age,nationality,club_name,league_name,season,year
-1,Goalkeeper,"Jan 14, 1982 (28)",NA,NA,Spain,FC Barcelona,LaLiga,2010/2011,2010
-13,Goalkeeper,"Nov 8, 1975 (34)",NA,NA,Spain,FC Barcelona,LaLiga,2010/2011,2010
-38,Goalkeeper,"Sep 14, 1989 (20)",NA,NA,Spain,FC Barcelona,LaLiga,2010/2011,2010
-31,Goalkeeper,"Jan 18, 1989 (21)",NA,NA,Spain,FC Barcelona,LaLiga,2010/2011,2010
-5,Centre-Back,"Apr 13, 1978 (32)",NA,NA,Spain,FC Barcelona,LaLiga,2010/2011,2010
-3,Centre-Back,"Feb 2, 1987 (23)",NA,NA,Spain,FC Barcelona,LaLiga,2010/2011,2010
-18,Centre-Back,"Sep 7, 1980 (29)",NA,NA,Argentina,FC Barcelona,LaLiga,2010/2011,2010
-26,Centre-Back,"Nov 14, 1989 (20)",NA,NA,Spain,FC Barcelona,LaLiga,2010/2011,2010
-32,Centre-Back,"Jan 15, 1991 (19)",NA,NA,Spain,FC Barcelona,LaLiga,2010/2011,2010
-33,Centre-Back,"Mar 28, 1992 (18)",NA,NA,Spain,FC Barcelona,LaLiga,2010/2011,2010
-35,Centre-Back,"Mar 27, 1992 (18)",NA,NA,Spain,FC Barcelona,LaLiga,2010/2011,2010
-21,Left-Back,"Oct 26, 1984 (25)",NA,NA,Brazil,FC Barcelona,LaLiga,2010/2011,2010
-22,Left-Back,"Sep 11, 1979 (30)",NA,NA,France,FC Barcelona,LaLiga,2010/2011,2010
-19,Left-Back,"Aug 27, 1981 (28)",NA,NA,Brazil,FC Barcelona,LaLiga,2010/2011,2010
-2,Right-Back,"May 6, 1983 (27)",NA,NA,Brazil,FC Barcelona,LaLiga,2010/2011,2010
-28,Right-Back,"Feb 7, 1992 (18)",NA,NA,Spain,FC Barcelona,LaLiga,2010/2011,2010
-40,Right-Back,"Apr 14, 1991 (19)",NA,NA,Spain,FC Barcelona,LaLiga,2010/2011,2010
-14,Defensive Midfield,"Jun 8, 1984 (26)",NA,NA,Argentina,FC Barcelona,LaLiga,2010/2011,2010
-16,Defensive Midfield,"Jul 16, 1988 (21)",NA,NA,Spain,FC Barcelona,LaLiga,2010/2011,2010
-37,Defensive Midfield,"Sep 24, 1991 (18)",NA,NA,Spain,FC Barcelona,LaLiga,2010/2011,2010
-6,Central Midfield,"Jan 25, 1980 (30)",NA,NA,Spain,FC Barcelona,LaLiga,2010/2011,2010
-8,Central Midfield,"May 11, 1984 (26)",NA,NA,Spain,FC Barcelona,LaLiga,2010/2011,2010
-15,Central Midfield,"Jan 16, 1980 (30)",NA,NA,Mali,FC Barcelona,LaLiga,2010/2011,2010
-34,Central Midfield,"Apr 26, 1990 (20)",NA,NA,Mexico,FC Barcelona,LaLiga,2010/2011,2010
-30,Central Midfield,"Apr 11, 1991 (19)",NA,NA,Spain,FC Barcelona,LaLiga,2010/2011,2010
-20,Left Midfield,"Apr 2, 1986 (24)",NA,NA,Netherlands,FC Barcelona,LaLiga,2010/2011,2010
-29,Attacking Midfield,"Jan 20, 1987 (23)",NA,NA,Spain,FC Barcelona,LaLiga,2010/2011,2010
-27,Left Winger,"Oct 15, 1986 (23)",NA,NA,Spain,FC Barcelona,LaLiga,2010/2011,2010
-10,Right Winger,"Jun 24, 1987 (23)",NA,NA,Argentina,FC Barcelona,LaLiga,2010/2011,2010
-17,Right Winger,"Jul 28, 1987 (22)",NA,NA,Spain,FC Barcelona,LaLiga,2010/2011,2010
-11,Right Winger,"Jan 20, 1988 (22)",NA,NA,Venezuela,FC Barcelona,LaLiga,2010/2011,2010
-41,Right Winger,"Mar 13, 1994 (16)",NA,NA,Spain,FC Barcelona,LaLiga,2010/2011,2010
-9,Second Striker,"Aug 28, 1990 (19)",NA,NA,Spain,FC Barcelona,LaLiga,2010/2011,2010
-9,Centre-Forward,"Oct 3, 1981 (28)",NA,NA,Sweden,FC Barcelona,LaLiga,2010/2011,2010
-7,Centre-Forward,"Dec 3, 1981 (28)",NA,NA,Spain,FC Barcelona,LaLiga,2010/2011,2010
-1,Goalkeeper,"May 20, 1981 (29)",NA,NA,Spain,Real Madrid,LaLiga,2010/2011,2010
-13,Goalkeeper,"May 13, 1987 (23)",NA,NA,Spain,Real Madrid,LaLiga,2010/2011,2010
-25,Goalkeeper,"Mar 23, 1973 (37)",NA,NA,Poland,Real Madrid,LaLiga,2010/2011,2010
-28,Goalkeeper,"Jun 11, 1988 (22)",NA,NA,Spain,Real Madrid,LaLiga,2010/2011,2010
-32,Goalkeeper,"May 18, 1992 (18)",NA,NA,Spain,Real Madrid,LaLiga,2010/2011,2010
-40,Goalkeeper,"Jan 30, 1989 (21)",NA,NA,Spain,Real Madrid,LaLiga,2010/2011,2010
-4,Centre-Back,"Mar 30, 1986 (24)",NA,NA,Spain,Real Madrid,LaLiga,2010/2011,2010
-3,Centre-Back,"Feb 26, 1983 (27)",NA,NA,Portugal,Real Madrid,LaLiga,2010/2011,2010
-18,Centre-Back,"Sep 4, 1985 (24)",NA,NA,Spain,Real Madrid,LaLiga,2010/2011,2010
-2,Centre-Back,"May 18, 1978 (32)",NA,NA,Portugal,Real Madrid,LaLiga,2010/2011,2010
-19,Centre-Back,"Oct 10, 1986 (23)",NA,NA,Argentina,Real Madrid,LaLiga,2010/2011,2010
-15,Centre-Back,"Apr 22, 1987 (23)",NA,NA,Spain,Real Madrid,LaLiga,2010/2011,2010
-35,Centre-Back,"Jan 18, 1990 (20)",NA,NA,Spain,Real Madrid,LaLiga,2010/2011,2010
-12,Left-Back,"May 12, 1988 (22)",NA,NA,Brazil,Real Madrid,LaLiga,2010/2011,2010
-26,Left-Back,"Mar 30, 1990 (20)",NA,NA,Spain,Real Madrid,LaLiga,2010/2011,2010
-34,Left-Back,"Jun 26, 1989 (21)",NA,NA,Spain,Real Madrid,LaLiga,2010/2011,2010
-17,Right-Back,"Jan 17, 1983 (27)",NA,NA,Spain,Real Madrid,LaLiga,2010/2011,2010
-27,Right-Back,"Sep 11, 1988 (21)",NA,NA,Spain,Real Madrid,LaLiga,2010/2011,2010
-14,Defensive Midfield,"Nov 25, 1981 (28)",NA,NA,Spain,Real Madrid,LaLiga,2010/2011,2010
-10,Defensive Midfield,"Mar 10, 1985 (25)",NA,NA,France,Real Madrid,LaLiga,2010/2011,2010
-5,Defensive Midfield,"Apr 10, 1986 (24)",NA,NA,Argentina,Real Madrid,LaLiga,2010/2011,2010
-6,Defensive Midfield,"May 18, 1981 (29)",NA,NA,Mali,Real Madrid,LaLiga,2010/2011,2010
-38,Defensive Midfield,"Mar 1, 1989 (21)",NA,NA,Spain,Real Madrid,LaLiga,2010/2011,2010
-24,Central Midfield,"Apr 4, 1987 (23)",NA,NA,Germany,Real Madrid,LaLiga,2010/2011,2010
-11,Central Midfield,"Jul 2, 1987 (22)",NA,NA,Spain,Real Madrid,LaLiga,2010/2011,2010
-30,Central Midfield,"Oct 15, 1992 (17)",NA,NA,Spain,Real Madrid,LaLiga,2010/2011,2010
-8,Attacking Midfield,"Apr 22, 1982 (28)",NA,NA,Brazil,Real Madrid,LaLiga,2010/2011,2010
-23,Attacking Midfield,"Oct 15, 1988 (21)",NA,NA,Germany,Real Madrid,LaLiga,2010/2011,2010
-16,Attacking Midfield,"Feb 16, 1991 (19)",NA,NA,Spain,Real Madrid,LaLiga,2010/2011,2010
-33,Attacking Midfield,"May 11, 1992 (18)",NA,NA,Spain,Real Madrid,LaLiga,2010/2011,2010
-7,Left Winger,"Feb 5, 1985 (25)",NA,NA,Portugal,Real Madrid,LaLiga,2010/2011,2010
-22,Right Winger,"Feb 14, 1988 (22)",NA,NA,Argentina,Real Madrid,LaLiga,2010/2011,2010
-21,Right Winger,"Nov 24, 1986 (23)",NA,NA,Spain,Real Madrid,LaLiga,2010/2011,2010
-20,Centre-Forward,"Dec 10, 1987 (22)",NA,NA,Argentina,Real Madrid,LaLiga,2010/2011,2010
-9,Centre-Forward,"Dec 19, 1987 (22)",NA,NA,France,Real Madrid,LaLiga,2010/2011,2010
-6,Centre-Forward,"Feb 26, 1984 (26)",NA,NA,Togo,Real Madrid,LaLiga,2010/2011,2010
-39,Centre-Forward,"Mar 27, 1990 (20)",NA,NA,Spain,Real Madrid,LaLiga,2010/2011,2010
-29,Centre-Forward,"Oct 23, 1992 (17)",NA,NA,Spain,Real Madrid,LaLiga,2010/2011,2010
-1,Goalkeeper,"Oct 22, 1973 (36)",NA,NA,Spain,Sevilla FC,LaLiga,2010/2011,2010
-13,Goalkeeper,"Sep 10, 1982 (27)",NA,NA,Spain,Sevilla FC,LaLiga,2010/2011,2010
-29,Goalkeeper,"Mar 5, 1990 (20)",NA,NA,Spain,Sevilla FC,LaLiga,2010/2011,2010
-4,Centre-Back,"Aug 11, 1980 (29)",NA,NA,France,Sevilla FC,LaLiga,2010/2011,2010
-4,Centre-Back,"Apr 7, 1987 (23)",NA,NA,Uruguay,Sevilla FC,LaLiga,2010/2011,2010
-2,Centre-Back,"Mar 17, 1987 (23)",NA,NA,Argentina,Sevilla FC,LaLiga,2010/2011,2010
-23,Centre-Back,"Aug 4, 1985 (24)",NA,NA,Spain,Sevilla FC,LaLiga,2010/2011,2010
-14,Centre-Back,"Aug 17, 1979 (30)",NA,NA,France,Sevilla FC,LaLiga,2010/2011,2010
-17,Centre-Back,"Apr 3, 1986 (24)",NA,NA,Spain,Sevilla FC,LaLiga,2010/2011,2010
-3,Centre-Back,"Nov 13, 1975 (34)",NA,NA,Serbia,Sevilla FC,LaLiga,2010/2011,2010
-28,Centre-Back,"Nov 26, 1989 (20)",NA,NA,Spain,Sevilla FC,LaLiga,2010/2011,2010
-34,Centre-Back,"Jul 11, 1989 (20)",NA,NA,Colombia,Sevilla FC,LaLiga,2010/2011,2010
-5,Left-Back,"Jun 25, 1982 (28)",NA,NA,Spain,Sevilla FC,LaLiga,2010/2011,2010
-27,Left-Back,"Mar 17, 1991 (19)",NA,NA,Spain,Sevilla FC,LaLiga,2010/2011,2010
-7,Right-Back,"Nov 21, 1985 (24)",NA,NA,Spain,Sevilla FC,LaLiga,2010/2011,2010
-24,Right-Back,"Mar 9, 1984 (26)",NA,NA,France,Sevilla FC,LaLiga,2010/2011,2010
-20,Right-Back,"Nov 28, 1986 (23)",NA,NA,France,Sevilla FC,LaLiga,2010/2011,2010
-8,Defensive Midfield,"Dec 14, 1980 (29)",NA,NA,Cote d'Ivoire,Sevilla FC,LaLiga,2010/2011,2010
-6,Defensive Midfield,"Jun 4, 1983 (27)",NA,NA,Cote d'Ivoire,Sevilla FC,LaLiga,2010/2011,2010
-19,Defensive Midfield,"Jun 20, 1986 (24)",NA,NA,Italy,Sevilla FC,LaLiga,2010/2011,2010
-24,Defensive Midfield,"Aug 3, 1987 (22)",NA,NA,Chile,Sevilla FC,LaLiga,2010/2011,2010
-11,Central Midfield,"May 15, 1979 (31)",NA,NA,Brazil,Sevilla FC,LaLiga,2010/2011,2010
-25,Central Midfield,"Mar 10, 1988 (22)",NA,NA,Croatia,Sevilla FC,LaLiga,2010/2011,2010
-25,Central Midfield,"Nov 1, 1985 (24)",NA,NA,Italy,Sevilla FC,LaLiga,2010/2011,2010
-32,Central Midfield,"May 31, 1993 (17)",NA,NA,Spain,Sevilla FC,LaLiga,2010/2011,2010
-30,Attacking Midfield,"Jul 17, 1987 (22)",NA,NA,Spain,Sevilla FC,LaLiga,2010/2011,2010
-26,Attacking Midfield,"Sep 28, 1992 (17)",NA,NA,Spain,Sevilla FC,LaLiga,2010/2011,2010
-9,Left Winger,"Jul 26, 1988 (21)",NA,NA,Argentina,Sevilla FC,LaLiga,2010/2011,2010
-16,Left Winger,"Feb 16, 1988 (22)",NA,NA,Spain,Sevilla FC,LaLiga,2010/2011,2010
-15,Left Winger,"Nov 23, 1986 (23)",NA,NA,Spain,Sevilla FC,LaLiga,2010/2011,2010
-21,Left Winger,"Mar 14, 1988 (22)",NA,NA,Argentina,Sevilla FC,LaLiga,2010/2011,2010
-10,Centre-Forward,"Nov 8, 1980 (29)",NA,NA,Brazil,Sevilla FC,LaLiga,2010/2011,2010
-12,Centre-Forward,"Sep 2, 1977 (32)",NA,NA,Mali,Sevilla FC,LaLiga,2010/2011,2010
-18,Centre-Forward,"Aug 20, 1985 (24)",NA,NA,Spain,Sevilla FC,LaLiga,2010/2011,2010
-22,Centre-Forward,"Nov 11, 1983 (26)",NA,NA,Cote d'Ivoire,Sevilla FC,LaLiga,2010/2011,2010
-31,Centre-Forward,"Jun 6, 1990 (20)",NA,NA,Spain,Sevilla FC,LaLiga,2010/2011,2010
-13,Goalkeeper,"Nov 7, 1990 (19)",NA,NA,Spain,Atlético Madrid,LaLiga,2010/2011,2010
-27,Goalkeeper,"Jun 17, 1990 (20)",NA,NA,Spain,Atlético Madrid,LaLiga,2010/2011,2010
-50,Goalkeeper,"Jan 25, 1988 (22)",NA,NA,Spain,Atlético Madrid,LaLiga,2010/2011,2010
-15,Centre-Back,"Feb 16, 1986 (24)",NA,NA,Uruguay,Atlético Madrid,LaLiga,2010/2011,2010
-17,Centre-Back,"Mar 24, 1978 (32)",NA,NA,Czech Republic,Atlético Madrid,LaLiga,2010/2011,2010
-18,Centre-Back,"May 16, 1989 (21)",NA,NA,Spain,Atlético Madrid,LaLiga,2010/2011,2010
-21,Centre-Back,"Jan 30, 1979 (31)",NA,NA,Colombia,Atlético Madrid,LaLiga,2010/2011,2010
-16,Centre-Back,"Jul 23, 1976 (33)",NA,NA,Spain,Atlético Madrid,LaLiga,2010/2011,2010
-43,Centre-Back,"Apr 8, 1991 (19)",NA,NA,Spain,Atlético Madrid,LaLiga,2010/2011,2010
-14,Left-Back,"Aug 9, 1985 (24)",NA,NA,Brazil,Atlético Madrid,LaLiga,2010/2011,2010
-3,Left-Back,"Sep 13, 1981 (28)",NA,NA,Spain,Atlético Madrid,LaLiga,2010/2011,2010
-20,Right-Back,"Jan 9, 1985 (25)",NA,NA,Spain,Atlético Madrid,LaLiga,2010/2011,2010
-2,Right-Back,"Dec 21, 1984 (25)",NA,NA,Spain,Atlético Madrid,LaLiga,2010/2011,2010
-12,Defensive Midfield,"Jan 25, 1980 (30)",NA,NA,Brazil,Atlético Madrid,LaLiga,2010/2011,2010
-6,Defensive Midfield,"May 4, 1990 (20)",NA,NA,Spain,Atlético Madrid,LaLiga,2010/2011,2010
-5,Central Midfield,"May 2, 1981 (29)",NA,NA,Portugal,Atlético Madrid,LaLiga,2010/2011,2010
-9,Central Midfield,"May 16, 1985 (25)",NA,NA,Brazil,Atlético Madrid,LaLiga,2010/2011,2010
-4,Central Midfield,"Feb 24, 1987 (23)",NA,NA,Spain,Atlético Madrid,LaLiga,2010/2011,2010
-11,Central Midfield,"Mar 4, 1990 (20)",NA,NA,Spain,Atlético Madrid,LaLiga,2010/2011,2010
-32,Central Midfield,"Jan 8, 1992 (18)",NA,NA,Spain,Atlético Madrid,LaLiga,2010/2011,2010
-8,Attacking Midfield,"Jul 11, 1986 (23)",NA,NA,Spain,Atlético Madrid,LaLiga,2010/2011,2010
-9,Attacking Midfield,"Jun 29, 1986 (24)",NA,NA,Spain,Atlético Madrid,LaLiga,2010/2011,2010
-51,Attacking Midfield,"Sep 24, 1989 (20)",NA,NA,Spain,Atlético Madrid,LaLiga,2010/2011,2010
-20,Left Winger,"Oct 31, 1979 (30)",NA,NA,Portugal,Atlético Madrid,LaLiga,2010/2011,2010
-49,Left Winger,"May 16, 1990 (20)",NA,NA,Spain,Atlético Madrid,LaLiga,2010/2011,2010
-19,Right Winger,"Sep 1, 1983 (26)",NA,NA,Spain,Atlético Madrid,LaLiga,2010/2011,2010
-7,Second Striker,"May 19, 1979 (31)",NA,NA,Uruguay,Atlético Madrid,LaLiga,2010/2011,2010
-10,Centre-Forward,"Jun 2, 1988 (22)",NA,NA,Argentina,Atlético Madrid,LaLiga,2010/2011,2010
-22,Centre-Forward,"Oct 7, 1988 (21)",NA,NA,Spain,Atlético Madrid,LaLiga,2010/2011,2010
-29,Centre-Forward,"Aug 25, 1992 (17)",NA,NA,Spain,Atlético Madrid,LaLiga,2010/2011,2010
-25,Goalkeeper,"Apr 2, 1984 (26)",NA,NA,Spain,Valencia CF,LaLiga,2010/2011,2010
-1,Goalkeeper,"Sep 2, 1971 (38)",NA,NA,Spain,Valencia CF,LaLiga,2010/2011,2010
-13,Goalkeeper,"Jan 10, 1987 (23)",NA,NA,Spain,Valencia CF,LaLiga,2010/2011,2010
-3,Goalkeeper,"Jul 11, 1989 (20)",NA,NA,Spain,Valencia CF,LaLiga,2010/2011,2010
-22,Centre-Back,"Oct 29, 1983 (26)",NA,NA,France,Valencia CF,LaLiga,2010/2011,2010
-15,Centre-Back,"Jan 1, 1983 (27)",NA,NA,Spain,Valencia CF,LaLiga,2010/2011,2010
-4,Centre-Back,"May 25, 1980 (30)",NA,NA,Spain,Valencia CF,LaLiga,2010/2011,2010
-20,Centre-Back,"May 16, 1981 (29)",NA,NA,Portugal,Valencia CF,LaLiga,2010/2011,2010
-17,Centre-Back,"Jul 15, 1981 (28)",NA,NA,Lithuania,Valencia CF,LaLiga,2010/2011,2010
-28,Left-Back,"Mar 21, 1989 (21)",NA,NA,Spain,Valencia CF,LaLiga,2010/2011,2010
-23,Right-Back,"Jan 4, 1980 (30)",NA,NA,Portugal,Valencia CF,LaLiga,2010/2011,2010
-2,Right-Back,"Oct 1, 1980 (29)",NA,NA,Spain,Valencia CF,LaLiga,2010/2011,2010
-5,Defensive Midfield,"Mar 3, 1986 (24)",NA,NA,Turkey,Valencia CF,LaLiga,2010/2011,2010
-3,Defensive Midfield,"Feb 13, 1985 (25)",NA,NA,Netherlands,Valencia CF,LaLiga,2010/2011,2010
-6,Defensive Midfield,"Sep 1, 1977 (32)",NA,NA,Spain,Valencia CF,LaLiga,2010/2011,2010
-21,Central Midfield,"Jun 29, 1988 (22)",NA,NA,Argentina,Valencia CF,LaLiga,2010/2011,2010
-24,Central Midfield,"Jan 9, 1985 (25)",NA,NA,Argentina,Valencia CF,LaLiga,2010/2011,2010
-45,Central Midfield,"Jun 25, 1988 (22)",NA,NA,Spain,Valencia CF,LaLiga,2010/2011,2010
-35,Central Midfield,"Mar 1, 1991 (19)",NA,NA,Spain,Valencia CF,LaLiga,2010/2011,2010
-10,Attacking Midfield,"Apr 28, 1988 (22)",NA,NA,Spain,Valencia CF,LaLiga,2010/2011,2010
-18,Attacking Midfield,"Feb 5, 1986 (24)",NA,NA,Portugal,Valencia CF,LaLiga,2010/2011,2010
-8,Attacking Midfield,"Jun 10, 1981 (29)",NA,NA,Argentina,Valencia CF,LaLiga,2010/2011,2010
-12,Attacking Midfield,"May 14, 1982 (28)",NA,NA,Uruguay,Valencia CF,LaLiga,2010/2011,2010
-26,Attacking Midfield,"Apr 21, 1992 (18)",NA,NA,Spain,Valencia CF,LaLiga,2010/2011,2010
-14,Left Winger,"Jul 16, 1981 (28)",NA,NA,Spain,Valencia CF,LaLiga,2010/2011,2010
-19,Right Winger,"Apr 11, 1985 (25)",NA,NA,Spain,Valencia CF,LaLiga,2010/2011,2010
-7,Right Winger,"Jul 21, 1981 (28)",NA,NA,Spain,Valencia CF,LaLiga,2010/2011,2010
-12,Right Winger,"Dec 26, 1989 (20)",NA,NA,Algeria,Valencia CF,LaLiga,2010/2011,2010
-18,Second Striker,"Apr 1, 1984 (26)",NA,NA,Brazil,Valencia CF,LaLiga,2010/2011,2010
-9,Centre-Forward,"May 27, 1985 (25)",NA,NA,Spain,Valencia CF,LaLiga,2010/2011,2010
-11,Centre-Forward,"Feb 11, 1981 (29)",NA,NA,Spain,Valencia CF,LaLiga,2010/2011,2010
-27,Centre-Forward,"Aug 30, 1993 (16)",NA,NA,Spain,Valencia CF,LaLiga,2010/2011,2010
-13,Goalkeeper,"Nov 3, 1981 (28)",NA,NA,Spain,Villarreal CF,LaLiga,2010/2011,2010
-25,Goalkeeper,"Jul 27, 1987 (22)",NA,NA,Spain,Villarreal CF,LaLiga,2010/2011,2010
-1,Goalkeeper,"May 29, 1976 (34)",NA,NA,Spain,Villarreal CF,LaLiga,2010/2011,2010
-35,Goalkeeper,"May 9, 1990 (20)",NA,NA,Spain,Villarreal CF,LaLiga,2010/2011,2010
-2,Centre-Back,"Apr 10, 1984 (26)",NA,NA,Argentina,Villarreal CF,LaLiga,2010/2011,2010
-5,Centre-Back,"Jul 31, 1979 (30)",NA,NA,Spain,Villarreal CF,LaLiga,2010/2011,2010
-4,Centre-Back,"Aug 26, 1990 (19)",NA,NA,Argentina,Villarreal CF,LaLiga,2010/2011,2010
-26,Centre-Back,"Aug 21, 1988 (21)",NA,NA,Spain,Villarreal CF,LaLiga,2010/2011,2010
-15,Centre-Back,"Jan 1, 1985 (25)",NA,NA,Spain,Villarreal CF,LaLiga,2010/2011,2010
-29,Centre-Back,"May 18, 1988 (22)",NA,NA,Spain,Villarreal CF,LaLiga,2010/2011,2010
-11,Left-Back,"Feb 3, 1978 (32)",NA,NA,Spain,Villarreal CF,LaLiga,2010/2011,2010
-3,Left-Back,"Nov 5, 1986 (23)",NA,NA,Spain,Villarreal CF,LaLiga,2010/2011,2010
-6,Right-Back,"Mar 10, 1981 (29)",NA,NA,Spain,Villarreal CF,LaLiga,2010/2011,2010
-24,Right-Back,"Jun 24, 1980 (30)",NA,NA,Brazil,Villarreal CF,LaLiga,2010/2011,2010
-27,Right-Back,"Nov 24, 1990 (19)",NA,NA,Spain,Villarreal CF,LaLiga,2010/2011,2010
-19,Defensive Midfield,"Jul 17, 1976 (33)",NA,NA,Spain,Villarreal CF,LaLiga,2010/2011,2010
-21,Defensive Midfield,"Jun 12, 1984 (26)",NA,NA,Spain,Villarreal CF,LaLiga,2010/2011,2010
-8,Central Midfield,"Dec 13, 1984 (25)",NA,NA,Spain,Villarreal CF,LaLiga,2010/2011,2010
-20,Central Midfield,"Jan 12, 1985 (25)",NA,NA,Spain,Villarreal CF,LaLiga,2010/2011,2010
-17,Central Midfield,"Jan 1, 1988 (22)",NA,NA,Spain,Villarreal CF,LaLiga,2010/2011,2010
-32,Central Midfield,"Feb 20, 1989 (21)",NA,NA,Spain,Villarreal CF,LaLiga,2010/2011,2010
-43,Central Midfield,"Jul 25, 1990 (19)",NA,NA,Ghana,Villarreal CF,LaLiga,2010/2011,2010
-31,Central Midfield,"Jun 9, 1986 (24)",NA,NA,Malaysia,Villarreal CF,LaLiga,2010/2011,2010
-10,Attacking Midfield,"Aug 3, 1981 (28)",NA,NA,Spain,Villarreal CF,LaLiga,2010/2011,2010
-18,Attacking Midfield,"Apr 21, 1984 (26)",NA,NA,Spain,Villarreal CF,LaLiga,2010/2011,2010
-34,Attacking Midfield,"Aug 10, 1987 (22)",NA,NA,Argentina,Villarreal CF,LaLiga,2010/2011,2010
-23,Left Winger,"Sep 1, 1989 (20)",NA,NA,Ecuador,Villarreal CF,LaLiga,2010/2011,2010
-33,Right Winger,"Feb 25, 1989 (21)",NA,NA,Paraguay,Villarreal CF,LaLiga,2010/2011,2010
-37,Right Winger,"Jan 4, 1990 (20)",NA,NA,Spain,Villarreal CF,LaLiga,2010/2011,2010
-22,Centre-Forward,"Feb 1, 1987 (23)",NA,NA,Italy,Villarreal CF,LaLiga,2010/2011,2010
-7,Centre-Forward,"Jul 14, 1984 (25)",NA,NA,Brazil,Villarreal CF,LaLiga,2010/2011,2010
-9,Centre-Forward,"Oct 26, 1986 (23)",NA,NA,Argentina,Villarreal CF,LaLiga,2010/2011,2010
-12,Centre-Forward,"Nov 6, 1989 (20)",NA,NA,United States,Villarreal CF,LaLiga,2010/2011,2010
-14,Centre-Forward,"Feb 7, 1988 (22)",NA,NA,Denmark,Villarreal CF,LaLiga,2010/2011,2010
-1,Goalkeeper,"Mar 6, 1981 (29)",NA,NA,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
-13,Goalkeeper,"Mar 13, 1988 (22)",NA,NA,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
-30,Goalkeeper,"May 3, 1991 (19)",NA,NA,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
-5,Centre-Back,"Mar 29, 1985 (25)",NA,NA,Venezuela,Athletic Bilbao,LaLiga,2010/2011,2010
-18,Centre-Back,"Aug 19, 1980 (29)",NA,NA,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
-4,Centre-Back,"Feb 16, 1983 (27)",NA,NA,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
-20,Centre-Back,"Nov 28, 1976 (33)",NA,NA,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
-32,Centre-Back,"Mar 6, 1988 (22)",NA,NA,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
-22,Left-Back,"Mar 29, 1986 (24)",NA,NA,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
-3,Left-Back,"Dec 23, 1980 (29)",NA,NA,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
-19,Left-Back,"Feb 29, 1988 (22)",NA,NA,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
-29,Left-Back,"Jan 3, 1992 (18)",NA,NA,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
-15,Right-Back,"Jun 22, 1982 (28)",NA,NA,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
-10,Right-Back,"Apr 14, 1989 (21)",NA,NA,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
-24,Defensive Midfield,"Sep 2, 1988 (21)",NA,NA,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
-6,Defensive Midfield,"May 30, 1989 (21)",NA,NA,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
-16,Defensive Midfield,"Feb 6, 1979 (31)",NA,NA,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
-8,Defensive Midfield,"Mar 8, 1989 (21)",NA,NA,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
-7,Central Midfield,"Sep 10, 1982 (27)",NA,NA,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
-17,Central Midfield,"Jan 18, 1988 (22)",NA,NA,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
-11,Left Midfield,"Feb 10, 1979 (31)",NA,NA,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
-26,Attacking Midfield,"Jul 19, 1989 (20)",NA,NA,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
-27,Left Winger,"Dec 19, 1992 (17)",NA,NA,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
-14,Right Winger,"Dec 14, 1987 (22)",NA,NA,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
-2,Right Winger,"Aug 9, 1984 (25)",NA,NA,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
-28,Right Winger,"Nov 11, 1989 (20)",NA,NA,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
-9,Centre-Forward,"Feb 26, 1985 (25)",NA,NA,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
-23,Centre-Forward,"May 15, 1984 (26)",NA,NA,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
-21,Centre-Forward,"Feb 17, 1985 (25)",NA,NA,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
-33,Centre-Forward,"May 14, 1987 (23)",NA,NA,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
-13,Goalkeeper,"Jun 28, 1989 (21)",NA,NA,Spain,Málaga CF,LaLiga,2010/2011,2010
-13,Goalkeeper,"Sep 28, 1981 (28)",NA,NA,Argentina,Málaga CF,LaLiga,2010/2011,2010
-25,Goalkeeper,"Jun 22, 1984 (26)",NA,NA,Spain,Málaga CF,LaLiga,2010/2011,2010
-13,Goalkeeper,"Apr 10, 1983 (27)",NA,NA,Brazil,Málaga CF,LaLiga,2010/2011,2010
-1,Goalkeeper,"Mar 23, 1975 (35)",NA,NA,Spain,Málaga CF,LaLiga,2010/2011,2010
-28,Goalkeeper,"Jan 19, 1988 (22)",NA,NA,Spain,Málaga CF,LaLiga,2010/2011,2010
-5,Centre-Back,"Dec 20, 1980 (29)",NA,NA,Argentina,Málaga CF,LaLiga,2010/2011,2010
-3,Centre-Back,"Aug 26, 1979 (30)",NA,NA,Brazil,Málaga CF,LaLiga,2010/2011,2010
-6,Centre-Back,"Feb 15, 1988 (22)",NA,NA,Spain,Málaga CF,LaLiga,2010/2011,2010
-14,Centre-Back,"Mar 9, 1980 (30)",NA,NA,Portugal,Málaga CF,LaLiga,2010/2011,2010
-12,Centre-Back,"Aug 1, 1985 (24)",NA,NA,Denmark,Málaga CF,LaLiga,2010/2011,2010
-4,Centre-Back,"Aug 14, 1989 (20)",NA,NA,Spain,Málaga CF,LaLiga,2010/2011,2010
-15,Centre-Back,"Oct 27, 1982 (27)",NA,NA,Argentina,Málaga CF,LaLiga,2010/2011,2010
-18,Left-Back,"Oct 1, 1983 (26)",NA,NA,Portugal,Málaga CF,LaLiga,2010/2011,2010
-19,Left-Back,"Jan 28, 1981 (29)",NA,NA,Denmark,Málaga CF,LaLiga,2010/2011,2010
-2,Right-Back,"Apr 10, 1985 (25)",NA,NA,Spain,Málaga CF,LaLiga,2010/2011,2010
-20,Right-Back,"Feb 3, 1981 (29)",NA,NA,Spain,Málaga CF,LaLiga,2010/2011,2010
-24,Defensive Midfield,"Feb 17, 1980 (30)",NA,NA,Spain,Málaga CF,LaLiga,2010/2011,2010
-24,Defensive Midfield,"May 4, 1990 (20)",NA,NA,Spain,Málaga CF,LaLiga,2010/2011,2010
-22,Defensive Midfield,"Apr 29, 1984 (26)",NA,NA,Brazil,Málaga CF,LaLiga,2010/2011,2010
-16,Central Midfield,"Feb 10, 1980 (30)",NA,NA,Italy,Málaga CF,LaLiga,2010/2011,2010
-10,Central Midfield,"Feb 13, 1984 (26)",NA,NA,Spain,Málaga CF,LaLiga,2010/2011,2010
-16,Central Midfield,"Feb 17, 1992 (18)",NA,NA,Spain,Málaga CF,LaLiga,2010/2011,2010
-37,Central Midfield,"Mar 2, 1990 (20)",NA,NA,Spain,Málaga CF,LaLiga,2010/2011,2010
-45,Central Midfield,"Jan 11, 1991 (19)",NA,NA,Spain,Málaga CF,LaLiga,2010/2011,2010
-17,Left Midfield,"Jun 27, 1980 (30)",NA,NA,Portugal,Málaga CF,LaLiga,2010/2011,2010
-6,Attacking Midfield,"Oct 1, 1981 (28)",NA,NA,Brazil,Málaga CF,LaLiga,2010/2011,2010
-8,Attacking Midfield,"Jun 2, 1979 (31)",NA,NA,Spain,Málaga CF,LaLiga,2010/2011,2010
-27,Attacking Midfield,"Jun 13, 1990 (20)",NA,NA,Spain,Málaga CF,LaLiga,2010/2011,2010
-5,Left Winger,"Mar 11, 1978 (32)",NA,NA,Spain,Málaga CF,LaLiga,2010/2011,2010
-21,Left Winger,"Apr 15, 1986 (24)",NA,NA,Ghana,Málaga CF,LaLiga,2010/2011,2010
-26,Right Winger,"May 20, 1993 (17)",NA,NA,Spain,Málaga CF,LaLiga,2010/2011,2010
-11,Second Striker,"May 23, 1985 (25)",NA,NA,Uruguay,Málaga CF,LaLiga,2010/2011,2010
-7,Centre-Forward,"Aug 12, 1981 (28)",NA,NA,Morocco,Málaga CF,LaLiga,2010/2011,2010
-9,Centre-Forward,"Jul 7, 1982 (27)",NA,NA,Portugal,Málaga CF,LaLiga,2010/2011,2010
-23,Centre-Forward,"Sep 16, 1989 (20)",NA,NA,Venezuela,Málaga CF,LaLiga,2010/2011,2010
-29,Centre-Forward,"Jan 24, 1990 (20)",NA,NA,Spain,Málaga CF,LaLiga,2010/2011,2010
-1,Goalkeeper,"Sep 18, 1979 (30)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2010/2011,2010
-13,Goalkeeper,"May 9, 1986 (24)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2010/2011,2010
-26,Goalkeeper,"Jan 10, 1988 (22)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2010/2011,2010
-7,Centre-Back,"May 5, 1980 (30)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2010/2011,2010
-19,Centre-Back,"Mar 10, 1981 (29)",NA,NA,Argentina,Deportivo de La Coruña,LaLiga,2010/2011,2010
-5,Centre-Back,"Jan 13, 1983 (27)",NA,NA,Portugal,Deportivo de La Coruña,LaLiga,2010/2011,2010
-23,Centre-Back,"Apr 2, 1986 (24)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2010/2011,2010
-27,Centre-Back,"Feb 19, 1990 (20)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2010/2011,2010
-3,Left-Back,"Feb 2, 1978 (32)",NA,NA,Paraguay,Deportivo de La Coruña,LaLiga,2010/2011,2010
-24,Left-Back,"Jul 17, 1985 (24)",NA,NA,Norway,Deportivo de La Coruña,LaLiga,2010/2011,2010
-2,Right-Back,"Jan 25, 1976 (34)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2010/2011,2010
-15,Right-Back,"Mar 22, 1985 (25)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2010/2011,2010
-33,Right-Back,"Apr 26, 1988 (22)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2010/2011,2010
-22,Defensive Midfield,"Apr 1, 1982 (28)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2010/2011,2010
-6,Defensive Midfield,"Nov 19, 1979 (30)",NA,NA,Brazil,Deportivo de La Coruña,LaLiga,2010/2011,2010
-28,Defensive Midfield,"Jan 8, 1990 (20)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2010/2011,2010
-4,Defensive Midfield,"Apr 26, 1989 (21)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2010/2011,2010
-18,Central Midfield,"Sep 28, 1986 (23)",NA,NA,Mexico,Deportivo de La Coruña,LaLiga,2010/2011,2010
-16,Central Midfield,"Jan 13, 1985 (25)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2010/2011,2010
-10,Left Midfield,"Jan 8, 1988 (22)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2010/2011,2010
-9,Attacking Midfield,"Jul 29, 1988 (21)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2010/2011,2010
-12,Attacking Midfield,"Apr 9, 1985 (25)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2010/2011,2010
-21,Attacking Midfield,"Jun 17, 1975 (35)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2010/2011,2010
-20,Left Winger,"Jul 19, 1979 (30)",NA,NA,Haiti,Deportivo de La Coruña,LaLiga,2010/2011,2010
-25,Left Winger,"Nov 4, 1983 (26)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2010/2011,2010
-14,Right Winger,"May 14, 1980 (30)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2010/2011,2010
-17,Right Winger,"Mar 19, 1990 (20)",NA,NA,Uruguay,Deportivo de La Coruña,LaLiga,2010/2011,2010
-24,Centre-Forward,"Jul 17, 1980 (29)",NA,NA,Argentina,Deportivo de La Coruña,LaLiga,2010/2011,2010
-11,Centre-Forward,"Aug 11, 1980 (29)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2010/2011,2010
-17,Centre-Forward,"Jun 26, 1986 (24)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2010/2011,2010
-8,Centre-Forward,"Mar 8, 1986 (24)",NA,NA,Tunisia,Deportivo de La Coruña,LaLiga,2010/2011,2010
-34,Centre-Forward,"Dec 21, 1989 (20)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2010/2011,2010
-39,Centre-Forward,"Mar 15, 1993 (17)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2010/2011,2010
-1,Goalkeeper,"Jul 3, 1986 (23)",NA,NA,Argentina,Getafe CF,LaLiga,2010/2011,2010
-13,Goalkeeper,"Apr 27, 1982 (28)",NA,NA,Spain,Getafe CF,LaLiga,2010/2011,2010
-31,Goalkeeper,"Jan 10, 1988 (22)",NA,NA,Spain,Getafe CF,LaLiga,2010/2011,2010
-23,Centre-Back,"Jun 23, 1987 (23)",NA,NA,Spain,Getafe CF,LaLiga,2010/2011,2010
-2,Centre-Back,"Jul 13, 1979 (30)",NA,NA,Argentina,Getafe CF,LaLiga,2010/2011,2010
-15,Centre-Back,"Apr 9, 1985 (25)",NA,NA,Spain,Getafe CF,LaLiga,2010/2011,2010
-5,Centre-Back,"Feb 2, 1982 (28)",NA,NA,Spain,Getafe CF,LaLiga,2010/2011,2010
-4,Centre-Back,"Sep 20, 1986 (23)",NA,NA,Turkey,Getafe CF,LaLiga,2010/2011,2010
-35,Centre-Back,"Mar 19, 1989 (21)",NA,NA,Spain,Getafe CF,LaLiga,2010/2011,2010
-29,Centre-Back,"Aug 11, 1991 (18)",NA,NA,Spain,Getafe CF,LaLiga,2010/2011,2010
-3,Left-Back,"Dec 21, 1981 (28)",NA,NA,Spain,Getafe CF,LaLiga,2010/2011,2010
-37,Left-Back,"Jun 17, 1992 (18)",NA,NA,Spain,Getafe CF,LaLiga,2010/2011,2010
-24,Right-Back,"Jan 28, 1986 (24)",NA,NA,Spain,Getafe CF,LaLiga,2010/2011,2010
-20,Right-Back,"Jul 1, 1987 (23)",NA,NA,Uruguay,Getafe CF,LaLiga,2010/2011,2010
-18,Defensive Midfield,"May 2, 1983 (27)",NA,NA,Ghana,Getafe CF,LaLiga,2010/2011,2010
-6,Defensive Midfield,"Jan 14, 1981 (29)",NA,NA,Spain,Getafe CF,LaLiga,2010/2011,2010
-22,Defensive Midfield,"Mar 11, 1976 (34)",NA,NA,Spain,Getafe CF,LaLiga,2010/2011,2010
-28,Defensive Midfield,"Feb 28, 1989 (21)",NA,NA,Spain,Getafe CF,LaLiga,2010/2011,2010
-11,Central Midfield,"Apr 16, 1989 (21)",NA,NA,Spain,Getafe CF,LaLiga,2010/2011,2010
-17,Central Midfield,"Sep 8, 1987 (22)",NA,NA,Spain,Getafe CF,LaLiga,2010/2011,2010
-21,Central Midfield,"Apr 21, 1988 (22)",NA,NA,Spain,Getafe CF,LaLiga,2010/2011,2010
-10,Attacking Midfield,"Jul 17, 1986 (23)",NA,NA,Uruguay,Getafe CF,LaLiga,2010/2011,2010
-8,Left Winger,"May 12, 1985 (25)",NA,NA,Spain,Getafe CF,LaLiga,2010/2011,2010
-16,Right Winger,"Dec 12, 1981 (28)",NA,NA,Spain,Getafe CF,LaLiga,2010/2011,2010
-27,Right Winger,"Oct 13, 1990 (19)",NA,NA,Spain,Getafe CF,LaLiga,2010/2011,2010
-14,Centre-Forward,"Feb 25, 1984 (26)",NA,NA,Spain,Getafe CF,LaLiga,2010/2011,2010
-19,Centre-Forward,"Mar 3, 1984 (26)",NA,NA,Spain,Getafe CF,LaLiga,2010/2011,2010
-7,Centre-Forward,"Aug 19, 1985 (24)",NA,NA,Venezuela,Getafe CF,LaLiga,2010/2011,2010
-9,Centre-Forward,"Nov 17, 1984 (25)",NA,NA,Spain,Getafe CF,LaLiga,2010/2011,2010
-25,Goalkeeper,"May 20, 1977 (33)",NA,NA,Argentina,Real Zaragoza,LaLiga,2010/2011,2010
-1,Goalkeeper,"Aug 5, 1980 (29)",NA,NA,Spain,Real Zaragoza,LaLiga,2010/2011,2010
-30,Goalkeeper,"Feb 3, 1991 (19)",NA,NA,Spain,Real Zaragoza,LaLiga,2010/2011,2010
-40,Goalkeeper,"Mar 23, 1989 (21)",NA,NA,Spain,Real Zaragoza,LaLiga,2010/2011,2010
-19,Centre-Back,"Feb 1, 1980 (30)",NA,NA,Paraguay,Real Zaragoza,LaLiga,2010/2011,2010
-4,Centre-Back,"Apr 16, 1980 (30)",NA,NA,Italy,Real Zaragoza,LaLiga,2010/2011,2010
-21,Centre-Back,"Oct 27, 1977 (32)",NA,NA,Czech Republic,Real Zaragoza,LaLiga,2010/2011,2010
-6,Centre-Back,"Mar 14, 1982 (28)",NA,NA,Italy,Real Zaragoza,LaLiga,2010/2011,2010
-6,Centre-Back,"Oct 12, 1988 (21)",NA,NA,Spain,Real Zaragoza,LaLiga,2010/2011,2010
-NA,Centre-Back,"Nov 5, 1989 (20)",NA,NA,Spain,Real Zaragoza,LaLiga,2010/2011,2010
-24,Left-Back,"Jul 25, 1988 (21)",NA,NA,Serbia,Real Zaragoza,LaLiga,2010/2011,2010
-3,Left-Back,"Jul 5, 1982 (27)",NA,NA,Spain,Real Zaragoza,LaLiga,2010/2011,2010
-32,Left-Back,"Jan 29, 1990 (20)",NA,NA,Spain,Real Zaragoza,LaLiga,2010/2011,2010
-2,Right-Back,"Jul 18, 1983 (26)",NA,NA,Uruguay,Real Zaragoza,LaLiga,2010/2011,2010
-26,Right-Back,"Mar 26, 1990 (20)",NA,NA,Spain,Real Zaragoza,LaLiga,2010/2011,2010
-23,Defensive Midfield,"Jan 29, 1982 (28)",NA,NA,Argentina,Real Zaragoza,LaLiga,2010/2011,2010
-14,Defensive Midfield,"Jul 10, 1983 (26)",NA,NA,Spain,Real Zaragoza,LaLiga,2010/2011,2010
-15,Defensive Midfield,"Apr 24, 1984 (26)",NA,NA,Senegal,Real Zaragoza,LaLiga,2010/2011,2010
-5,Defensive Midfield,"Jul 10, 1976 (33)",NA,NA,Brazil,Real Zaragoza,LaLiga,2010/2011,2010
-22,Defensive Midfield,"Jun 12, 1988 (22)",NA,NA,Hungary,Real Zaragoza,LaLiga,2010/2011,2010
-8,Central Midfield,"Aug 14, 1989 (20)",NA,NA,Spain,Real Zaragoza,LaLiga,2010/2011,2010
-20,Attacking Midfield,"Aug 12, 1982 (27)",NA,NA,Netherlands,Real Zaragoza,LaLiga,2010/2011,2010
-17,Left Winger,"Aug 7, 1984 (25)",NA,NA,Spain,Real Zaragoza,LaLiga,2010/2011,2010
-10,Left Winger,"Jan 2, 1986 (24)",NA,NA,Argentina,Real Zaragoza,LaLiga,2010/2011,2010
-7,Right Winger,"Sep 19, 1978 (31)",NA,NA,Spain,Real Zaragoza,LaLiga,2010/2011,2010
-29,Right Winger,"Feb 13, 1992 (18)",NA,NA,Spain,Real Zaragoza,LaLiga,2010/2011,2010
-12,Second Striker,"Oct 20, 1984 (25)",NA,NA,France,Real Zaragoza,LaLiga,2010/2011,2010
-9,Centre-Forward,"Jan 5, 1984 (26)",NA,NA,Nigeria,Real Zaragoza,LaLiga,2010/2011,2010
-16,Centre-Forward,"Sep 18, 1985 (24)",NA,NA,Spain,Real Zaragoza,LaLiga,2010/2011,2010
-18,Centre-Forward,"Sep 18, 1990 (19)",NA,NA,Colombia,Real Zaragoza,LaLiga,2010/2011,2010
-13,Goalkeeper,"Oct 6, 1983 (26)",NA,NA,Spain,CA Osasuna,LaLiga,2010/2011,2010
-1,Goalkeeper,"Dec 30, 1971 (38)",NA,NA,Spain,CA Osasuna,LaLiga,2010/2011,2010
-26,Goalkeeper,"Feb 14, 1987 (23)",NA,NA,Spain,CA Osasuna,LaLiga,2010/2011,2010
-4,Centre-Back,"Aug 19, 1984 (25)",NA,NA,Spain,CA Osasuna,LaLiga,2010/2011,2010
-23,Centre-Back,"May 23, 1977 (33)",NA,NA,Spain,CA Osasuna,LaLiga,2010/2011,2010
-14,Centre-Back,"Feb 25, 1977 (33)",NA,NA,Spain,CA Osasuna,LaLiga,2010/2011,2010
-27,Centre-Back,"Apr 26, 1990 (20)",NA,NA,Spain,CA Osasuna,LaLiga,2010/2011,2010
-3,Left-Back,"Feb 26, 1986 (24)",NA,NA,Spain,CA Osasuna,LaLiga,2010/2011,2010
-12,Right-Back,"Jan 9, 1985 (25)",NA,NA,Spain,CA Osasuna,LaLiga,2010/2011,2010
-2,Right-Back,"Jun 10, 1983 (27)",NA,NA,Portugal,CA Osasuna,LaLiga,2010/2011,2010
-24,Right-Back,"Apr 15, 1982 (28)",NA,NA,Spain,CA Osasuna,LaLiga,2010/2011,2010
-6,Defensive Midfield,"Sep 7, 1980 (29)",NA,NA,Iran,CA Osasuna,LaLiga,2010/2011,2010
-5,Defensive Midfield,"Aug 22, 1984 (25)",NA,NA,Spain,CA Osasuna,LaLiga,2010/2011,2010
-10,Defensive Midfield,"Sep 6, 1975 (34)",NA,NA,Spain,CA Osasuna,LaLiga,2010/2011,2010
-15,Defensive Midfield,"May 25, 1986 (24)",NA,NA,Spain,CA Osasuna,LaLiga,2010/2011,2010
-3,Defensive Midfield,"Oct 17, 1989 (20)",NA,NA,Spain,CA Osasuna,LaLiga,2010/2011,2010
-22,Central Midfield,"Jun 4, 1987 (23)",NA,NA,Spain,CA Osasuna,LaLiga,2010/2011,2010
-21,Central Midfield,"May 3, 1985 (25)",NA,NA,Hungary,CA Osasuna,LaLiga,2010/2011,2010
-19,Left Midfield,"May 12, 1978 (32)",NA,NA,Spain,CA Osasuna,LaLiga,2010/2011,2010
-8,Attacking Midfield,"Jun 9, 1984 (26)",NA,NA,Iran,CA Osasuna,LaLiga,2010/2011,2010
-20,Attacking Midfield,"Sep 24, 1979 (30)",NA,NA,Spain,CA Osasuna,LaLiga,2010/2011,2010
-28,Left Winger,"Aug 31, 1987 (22)",NA,NA,Spain,CA Osasuna,LaLiga,2010/2011,2010
-17,Right Winger,"Jul 17, 1980 (29)",NA,NA,Spain,CA Osasuna,LaLiga,2010/2011,2010
-16,Second Striker,"Jan 29, 1984 (26)",NA,NA,Spain,CA Osasuna,LaLiga,2010/2011,2010
-11,Centre-Forward,"Apr 27, 1976 (34)",NA,NA,Uruguay,CA Osasuna,LaLiga,2010/2011,2010
-7,Centre-Forward,"Jul 27, 1980 (29)",NA,NA,Spain,CA Osasuna,LaLiga,2010/2011,2010
-9,Centre-Forward,"Jun 7, 1985 (25)",NA,NA,Serbia,CA Osasuna,LaLiga,2010/2011,2010
-12,Centre-Forward,"Jan 5, 1983 (27)",NA,NA,Spain,CA Osasuna,LaLiga,2010/2011,2010
-18,Centre-Forward,"Feb 25, 1986 (24)",NA,NA,Spain,CA Osasuna,LaLiga,2010/2011,2010
-1,Goalkeeper,"Jun 24, 1985 (25)",NA,NA,Brazil,UD Almería,LaLiga,2010/2011,2010
-13,Goalkeeper,"Jun 27, 1975 (35)",NA,NA,Spain,UD Almería,LaLiga,2010/2011,2010
-NA,Goalkeeper,"Jan 13, 1990 (20)",NA,NA,Spain,UD Almería,LaLiga,2010/2011,2010
-4,Centre-Back,"Jun 4, 1984 (26)",NA,NA,Argentina,UD Almería,LaLiga,2010/2011,2010
-2,Centre-Back,"Jan 2, 1986 (24)",NA,NA,Denmark,UD Almería,LaLiga,2010/2011,2010
-21,Centre-Back,"Apr 29, 1984 (26)",NA,NA,Spain,UD Almería,LaLiga,2010/2011,2010
-18,Centre-Back,"Nov 22, 1977 (32)",NA,NA,Peru,UD Almería,LaLiga,2010/2011,2010
-3,Centre-Back,"Mar 21, 1989 (21)",NA,NA,Uruguay,UD Almería,LaLiga,2010/2011,2010
-14,Centre-Back,"Jun 26, 1985 (25)",NA,NA,Spain,UD Almería,LaLiga,2010/2011,2010
-14,Left-Back,"Mar 17, 1991 (19)",NA,NA,Spain,UD Almería,LaLiga,2010/2011,2010
-17,Right-Back,"Mar 1, 1982 (28)",NA,NA,Spain,UD Almería,LaLiga,2010/2011,2010
-16,Right-Back,"Feb 15, 1990 (20)",NA,NA,Brazil,UD Almería,LaLiga,2010/2011,2010
-40,Right-Back,"Mar 27, 1989 (21)",NA,NA,Spain,UD Almería,LaLiga,2010/2011,2010
-19,Defensive Midfield,"Oct 9, 1982 (27)",NA,NA,Cameroon,UD Almería,LaLiga,2010/2011,2010
-25,Defensive Midfield,"Aug 3, 1986 (23)",NA,NA,Argentina,UD Almería,LaLiga,2010/2011,2010
-24,Defensive Midfield,"Feb 17, 1980 (30)",NA,NA,Spain,UD Almería,LaLiga,2010/2011,2010
-22,Central Midfield,"Apr 17, 1980 (30)",NA,NA,Colombia,UD Almería,LaLiga,2010/2011,2010
-15,Central Midfield,"Feb 12, 1981 (29)",NA,NA,Spain,UD Almería,LaLiga,2010/2011,2010
-26,Central Midfield,"Jul 23, 1990 (19)",NA,NA,Spain,UD Almería,LaLiga,2010/2011,2010
-9,Attacking Midfield,"May 1, 1986 (24)",NA,NA,Argentina,UD Almería,LaLiga,2010/2011,2010
-42,Attacking Midfield,"Feb 5, 1992 (18)",NA,NA,Spain,UD Almería,LaLiga,2010/2011,2010
-11,Left Winger,"Mar 31, 1989 (21)",NA,NA,Argentina,UD Almería,LaLiga,2010/2011,2010
-8,Left Winger,"May 13, 1982 (28)",NA,NA,Spain,UD Almería,LaLiga,2010/2011,2010
-7,Left Winger,"Jan 12, 1986 (24)",NA,NA,Spain,UD Almería,LaLiga,2010/2011,2010
-7,Right Winger,"Dec 26, 1989 (20)",NA,NA,Algeria,UD Almería,LaLiga,2010/2011,2010
-10,Right Winger,"Aug 4, 1977 (32)",NA,NA,Spain,UD Almería,LaLiga,2010/2011,2010
-43,Right Winger,"Apr 16, 1989 (21)",NA,NA,Burkina Faso,UD Almería,LaLiga,2010/2011,2010
-5,Centre-Forward,"Nov 15, 1982 (27)",NA,NA,Nigeria,UD Almería,LaLiga,2010/2011,2010
-23,Centre-Forward,"Sep 22, 1984 (25)",NA,NA,Eritrea,UD Almería,LaLiga,2010/2011,2010
-20,Centre-Forward,"Jul 26, 1986 (23)",NA,NA,Argentina,UD Almería,LaLiga,2010/2011,2010
-13,Goalkeeper,"Dec 17, 1979 (30)",NA,NA,Spain,Racing Santander,LaLiga,2010/2011,2010
-1,Goalkeeper,"Dec 3, 1980 (29)",NA,NA,Switzerland,Racing Santander,LaLiga,2010/2011,2010
-25,Goalkeeper,"Apr 30, 1988 (22)",NA,NA,Spain,Racing Santander,LaLiga,2010/2011,2010
-2,Centre-Back,"Oct 14, 1986 (23)",NA,NA,Brazil,Racing Santander,LaLiga,2010/2011,2010
-19,Centre-Back,"Feb 18, 1986 (24)",NA,NA,Spain,Racing Santander,LaLiga,2010/2011,2010
-3,Centre-Back,"Oct 15, 1985 (24)",NA,NA,Spain,Racing Santander,LaLiga,2010/2011,2010
-24,Centre-Back,"Dec 4, 1982 (27)",NA,NA,Chile,Racing Santander,LaLiga,2010/2011,2010
-33,Centre-Back,"Jan 8, 1990 (20)",NA,NA,Spain,Racing Santander,LaLiga,2010/2011,2010
-6,Left-Back,"Feb 9, 1982 (28)",NA,NA,Spain,Racing Santander,LaLiga,2010/2011,2010
-15,Right-Back,"Dec 17, 1981 (28)",NA,NA,Spain,Racing Santander,LaLiga,2010/2011,2010
-14,Right-Back,"Jul 9, 1974 (35)",NA,NA,Spain,Racing Santander,LaLiga,2010/2011,2010
-8,Defensive Midfield,"Apr 2, 1979 (31)",NA,NA,Spain,Racing Santander,LaLiga,2010/2011,2010
-5,Defensive Midfield,"May 15, 1984 (26)",NA,NA,Algeria,Racing Santander,LaLiga,2010/2011,2010
-20,Defensive Midfield,"Feb 13, 1985 (25)",NA,NA,Greece,Racing Santander,LaLiga,2010/2011,2010
-21,Defensive Midfield,"Mar 19, 1986 (24)",NA,NA,Senegal,Racing Santander,LaLiga,2010/2011,2010
-4,Defensive Midfield,"Jun 5, 1988 (22)",NA,NA,Spain,Racing Santander,LaLiga,2010/2011,2010
-23,Central Midfield,"May 25, 1988 (22)",NA,NA,Spain,Racing Santander,LaLiga,2010/2011,2010
-18,Central Midfield,"Mar 23, 1989 (21)",NA,NA,Spain,Racing Santander,LaLiga,2010/2011,2010
-28,Central Midfield,"Jan 25, 1991 (19)",NA,NA,Spain,Racing Santander,LaLiga,2010/2011,2010
-32,Central Midfield,"Jul 9, 1992 (17)",NA,NA,Spain,Racing Santander,LaLiga,2010/2011,2010
-16,Right Midfield,"Nov 2, 1980 (29)",NA,NA,Sweden,Racing Santander,LaLiga,2010/2011,2010
-11,Left Midfield,"Sep 30, 1981 (28)",NA,NA,Spain,Racing Santander,LaLiga,2010/2011,2010
-30,Attacking Midfield,"Mar 27, 1992 (18)",NA,NA,Spain,Racing Santander,LaLiga,2010/2011,2010
-7,Right Winger,"Dec 3, 1984 (25)",NA,NA,Spain,Racing Santander,LaLiga,2010/2011,2010
-17,Second Striker,"May 11, 1989 (21)",NA,NA,Mexico,Racing Santander,LaLiga,2010/2011,2010
-10,Second Striker,"Jun 19, 1975 (35)",NA,NA,Spain,Racing Santander,LaLiga,2010/2011,2010
-7,Centre-Forward,"Jan 31, 1984 (26)",NA,NA,Burundi,Racing Santander,LaLiga,2010/2011,2010
-12,Centre-Forward,"Sep 27, 1982 (27)",NA,NA,Sweden,Racing Santander,LaLiga,2010/2011,2010
-9,Centre-Forward,"Jul 3, 1989 (20)",NA,NA,Equatorial Guinea,Racing Santander,LaLiga,2010/2011,2010
-22,Centre-Forward,"Oct 15, 1987 (22)",NA,NA,Argentina,Racing Santander,LaLiga,2010/2011,2010
-25,Goalkeeper,"Nov 3, 1986 (23)",NA,NA,Netherlands,Hércules CF,LaLiga,2010/2011,2010
-1,Goalkeeper,"Dec 21, 1979 (30)",NA,NA,Spain,Hércules CF,LaLiga,2010/2011,2010
-13,Goalkeeper,"Feb 19, 1978 (32)",NA,NA,Spain,Hércules CF,LaLiga,2010/2011,2010
-30,Goalkeeper,"Jun 18, 1989 (21)",NA,NA,Spain,Hércules CF,LaLiga,2010/2011,2010
-4,Centre-Back,"Dec 23, 1983 (26)",NA,NA,Senegal,Hércules CF,LaLiga,2010/2011,2010
-5,Centre-Back,"Jun 29, 1979 (31)",NA,NA,Spain,Hércules CF,LaLiga,2010/2011,2010
-19,Centre-Back,"Aug 17, 1984 (25)",NA,NA,Spain,Hércules CF,LaLiga,2010/2011,2010
-23,Centre-Back,"Apr 14, 1979 (31)",NA,NA,France,Hércules CF,LaLiga,2010/2011,2010
-16,Left-Back,"Jul 25, 1978 (31)",NA,NA,Spain,Hércules CF,LaLiga,2010/2011,2010
-2,Left-Back,"Aug 17, 1984 (25)",NA,NA,Romania,Hércules CF,LaLiga,2010/2011,2010
-31,Left-Back,"Oct 25, 1993 (16)",NA,NA,Spain,Hércules CF,LaLiga,2010/2011,2010
-21,Right-Back,"Aug 29, 1979 (30)",NA,NA,Spain,Hércules CF,LaLiga,2010/2011,2010
-3,Right-Back,"Apr 24, 1980 (30)",NA,NA,Spain,Hércules CF,LaLiga,2010/2011,2010
-15,Right-Back,"Feb 2, 1991 (19)",NA,NA,Spain,Hércules CF,LaLiga,2010/2011,2010
-14,Defensive Midfield,"Jan 6, 1985 (25)",NA,NA,Colombia,Hércules CF,LaLiga,2010/2011,2010
-8,Defensive Midfield,"Mar 29, 1978 (32)",NA,NA,Spain,Hércules CF,LaLiga,2010/2011,2010
-18,Defensive Midfield,"Aug 23, 1986 (23)",NA,NA,Argentina,Hércules CF,LaLiga,2010/2011,2010
-24,Central Midfield,"Aug 19, 1985 (24)",NA,NA,Portugal,Hércules CF,LaLiga,2010/2011,2010
-26,Central Midfield,"Apr 27, 1993 (17)",NA,NA,Venezuela,Hércules CF,LaLiga,2010/2011,2010
-12,Left Midfield,"Apr 8, 1987 (23)",NA,NA,Netherlands,Hércules CF,LaLiga,2010/2011,2010
-22,Left Midfield,"May 28, 1980 (30)",NA,NA,Martinique,Hércules CF,LaLiga,2010/2011,2010
-10,Attacking Midfield,"Nov 23, 1978 (31)",NA,NA,Spain,Hércules CF,LaLiga,2010/2011,2010
-6,Left Winger,"Sep 21, 1983 (26)",NA,NA,Spain,Hércules CF,LaLiga,2010/2011,2010
-11,Left Winger,"Dec 31, 1975 (34)",NA,NA,Spain,Hércules CF,LaLiga,2010/2011,2010
-9,Left Winger,"Dec 16, 1990 (19)",NA,NA,Spain,Hércules CF,LaLiga,2010/2011,2010
-28,Left Winger,"Aug 15, 1997 (12)",NA,NA,Spain,Hércules CF,LaLiga,2010/2011,2010
-7,Right Winger,"Nov 20, 1976 (33)",NA,NA,Spain,Hércules CF,LaLiga,2010/2011,2010
-27,Right Winger,"Feb 5, 1992 (18)",NA,NA,Spain,Hércules CF,LaLiga,2010/2011,2010
-17,Centre-Forward,"Oct 15, 1977 (32)",NA,NA,France,Hércules CF,LaLiga,2010/2011,2010
-20,Centre-Forward,"Nov 28, 1983 (26)",NA,NA,Paraguay,Hércules CF,LaLiga,2010/2011,2010
-9,Centre-Forward,"Mar 30, 1982 (28)",NA,NA,Spain,Hércules CF,LaLiga,2010/2011,2010
-32,Centre-Forward,"Nov 18, 1988 (21)",NA,NA,Spain,Hércules CF,LaLiga,2010/2011,2010
-1,Goalkeeper,"Feb 18, 1984 (26)",NA,NA,Cameroon,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
-25,Goalkeeper,"Nov 13, 1985 (24)",NA,NA,Argentina,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
-13,Goalkeeper,"Oct 2, 1986 (23)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
-26,Goalkeeper,"May 3, 1990 (20)",NA,NA,Romania,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
-18,Centre-Back,"Jan 10, 1988 (22)",NA,NA,Argentina,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
-6,Centre-Back,"Jan 25, 1989 (21)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
-5,Centre-Back,"Mar 21, 1992 (18)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
-32,Centre-Back,"Sep 22, 1987 (22)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
-33,Centre-Back,"Oct 9, 1989 (20)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
-38,Centre-Back,"Nov 30, 1990 (19)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
-3,Left-Back,"Jan 16, 1981 (29)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
-5,Left-Back,"Jun 9, 1989 (21)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
-34,Left-Back,"Mar 14, 1993 (17)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
-2,Right-Back,"May 17, 1985 (25)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
-15,Right-Back,"Oct 15, 1988 (21)",NA,NA,Brazil,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
-14,Right-Back,"Jun 17, 1986 (24)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
-16,Right-Back,"Jan 21, 1986 (24)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
-22,Defensive Midfield,"Mar 22, 1979 (31)",NA,NA,Argentina,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
-7,Defensive Midfield,"Mar 2, 1989 (21)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
-40,Defensive Midfield,"Feb 9, 1987 (23)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
-10,Central Midfield,"Feb 6, 1981 (29)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
-4,Central Midfield,"May 11, 1986 (24)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
-23,Left Midfield,"May 19, 1984 (26)",NA,NA,Argentina,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
-11,Attacking Midfield,"May 5, 1983 (27)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
-9,Attacking Midfield,"May 6, 1976 (34)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
-29,Attacking Midfield,"Nov 20, 1991 (18)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
-39,Left Winger,"May 13, 1992 (18)",NA,NA,Congo,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
-8,Right Winger,"Feb 11, 1987 (23)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
-37,Right Winger,"Apr 1, 1993 (17)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
-19,Centre-Forward,"Jun 9, 1983 (27)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
-17,Centre-Forward,"Jan 12, 1986 (24)",NA,NA,Italy,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
-24,Centre-Forward,"Apr 10, 1979 (31)",NA,NA,Uruguay,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
-20,Centre-Forward,"Jan 5, 1983 (27)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
-35,Centre-Forward,"Apr 23, 1990 (20)",NA,NA,Portugal,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
-20,Centre-Forward,"Apr 27, 1991 (19)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
-1,Goalkeeper,"Sep 2, 1978 (31)",NA,NA,Spain,Sporting Gijón,LaLiga,2010/2011,2010
-13,Goalkeeper,"May 25, 1984 (26)",NA,NA,Spain,Sporting Gijón,LaLiga,2010/2011,2010
-27,Goalkeeper,"Nov 1, 1986 (23)",NA,NA,Spain,Sporting Gijón,LaLiga,2010/2011,2010
-12,Centre-Back,"Nov 10, 1980 (29)",NA,NA,Martinique,Sporting Gijón,LaLiga,2010/2011,2010
-2,Centre-Back,"Jan 27, 1989 (21)",NA,NA,Spain,Sporting Gijón,LaLiga,2010/2011,2010
-14,Centre-Back,"Feb 27, 1980 (30)",NA,NA,Spain,Sporting Gijón,LaLiga,2010/2011,2010
-4,Centre-Back,"Jan 18, 1984 (26)",NA,NA,Spain,Sporting Gijón,LaLiga,2010/2011,2010
-32,Centre-Back,"Nov 13, 1989 (20)",NA,NA,Spain,Sporting Gijón,LaLiga,2010/2011,2010
-25,Centre-Back,"Sep 28, 1986 (23)",NA,NA,Spain,Sporting Gijón,LaLiga,2010/2011,2010
-29,Centre-Back,"Mar 6, 1988 (22)",NA,NA,Spain,Sporting Gijón,LaLiga,2010/2011,2010
-15,Left-Back,"Feb 7, 1988 (22)",NA,NA,Spain,Sporting Gijón,LaLiga,2010/2011,2010
-3,Left-Back,"Sep 5, 1989 (20)",NA,NA,Spain,Sporting Gijón,LaLiga,2010/2011,2010
-7,Left-Back,"Nov 22, 1985 (24)",NA,NA,Spain,Sporting Gijón,LaLiga,2010/2011,2010
-11,Right-Back,"Mar 25, 1987 (23)",NA,NA,Spain,Sporting Gijón,LaLiga,2010/2011,2010
-22,Right-Back,"Oct 20, 1975 (34)",NA,NA,Spain,Sporting Gijón,LaLiga,2010/2011,2010
-19,Defensive Midfield,"Jan 8, 1981 (29)",NA,NA,Uruguay,Sporting Gijón,LaLiga,2010/2011,2010
-24,Defensive Midfield,"Feb 12, 1979 (31)",NA,NA,Spain,Sporting Gijón,LaLiga,2010/2011,2010
-5,Central Midfield,"Feb 16, 1978 (32)",NA,NA,Spain,Sporting Gijón,LaLiga,2010/2011,2010
-16,Central Midfield,"Apr 2, 1988 (22)",NA,NA,Portugal,Sporting Gijón,LaLiga,2010/2011,2010
-16,Central Midfield,"Aug 28, 1988 (21)",NA,NA,Spain,Sporting Gijón,LaLiga,2010/2011,2010
-21,Central Midfield,"May 12, 1987 (23)",NA,NA,Spain,Sporting Gijón,LaLiga,2010/2011,2010
-26,Central Midfield,"Jan 23, 1992 (18)",NA,NA,Spain,Sporting Gijón,LaLiga,2010/2011,2010
-31,Central Midfield,"Dec 22, 1987 (22)",NA,NA,Spain,Sporting Gijón,LaLiga,2010/2011,2010
-6,Attacking Midfield,"Jul 9, 1983 (26)",NA,NA,Spain,Sporting Gijón,LaLiga,2010/2011,2010
-28,Attacking Midfield,"Mar 14, 1992 (18)",NA,NA,Spain,Sporting Gijón,LaLiga,2010/2011,2010
-17,Left Winger,"Jul 2, 1982 (27)",NA,NA,Spain,Sporting Gijón,LaLiga,2010/2011,2010
-20,Right Winger,"Jun 19, 1986 (24)",NA,NA,Spain,Sporting Gijón,LaLiga,2010/2011,2010
-10,Right Winger,"Mar 26, 1979 (31)",NA,NA,Spain,Sporting Gijón,LaLiga,2010/2011,2010
-8,Right Winger,"Oct 5, 1984 (25)",NA,NA,Argentina,Sporting Gijón,LaLiga,2010/2011,2010
-9,Centre-Forward,"Oct 23, 1980 (29)",NA,NA,Croatia,Sporting Gijón,LaLiga,2010/2011,2010
-18,Centre-Forward,"Jul 26, 1987 (22)",NA,NA,Spain,Sporting Gijón,LaLiga,2010/2011,2010
-23,Centre-Forward,"May 10, 1983 (27)",NA,NA,Spain,Sporting Gijón,LaLiga,2010/2011,2010
-30,Centre-Forward,"Jan 31, 1992 (18)",NA,NA,Spain,Sporting Gijón,LaLiga,2010/2011,2010
-13,Goalkeeper,"Oct 17, 1977 (32)",NA,NA,Israel,RCD Mallorca,LaLiga,2010/2011,2010
-1,Goalkeeper,"Jul 6, 1982 (27)",NA,NA,Argentina,RCD Mallorca,LaLiga,2010/2011,2010
-30,Goalkeeper,"Feb 8, 1989 (21)",NA,NA,Spain,RCD Mallorca,LaLiga,2010/2011,2010
-4,Centre-Back,"Oct 25, 1984 (25)",NA,NA,Spain,RCD Mallorca,LaLiga,2010/2011,2010
-16,Centre-Back,"Mar 7, 1977 (33)",NA,NA,Portugal,RCD Mallorca,LaLiga,2010/2011,2010
-21,Centre-Back,"Jun 15, 1987 (23)",NA,NA,Spain,RCD Mallorca,LaLiga,2010/2011,2010
-5,Centre-Back,"Jan 29, 1982 (28)",NA,NA,Spain,RCD Mallorca,LaLiga,2010/2011,2010
-NA,Centre-Back,"Jan 23, 1990 (20)",NA,NA,Spain,RCD Mallorca,LaLiga,2010/2011,2010
-17,Left-Back,"May 25, 1982 (28)",NA,NA,Spain,RCD Mallorca,LaLiga,2010/2011,2010
-23,Left-Back,"Mar 1, 1982 (28)",NA,NA,Spain,RCD Mallorca,LaLiga,2010/2011,2010
-29,Left-Back,"Sep 8, 1989 (20)",NA,NA,Spain,RCD Mallorca,LaLiga,2010/2011,2010
-2,Right-Back,"May 31, 1986 (24)",NA,NA,Brazil,RCD Mallorca,LaLiga,2010/2011,2010
-8,Right-Back,"Sep 30, 1989 (20)",NA,NA,Equatorial Guinea,RCD Mallorca,LaLiga,2010/2011,2010
-22,Right-Back,"Apr 1, 1987 (23)",NA,NA,Spain,RCD Mallorca,LaLiga,2010/2011,2010
-19,Defensive Midfield,"Apr 28, 1975 (35)",NA,NA,Spain,RCD Mallorca,LaLiga,2010/2011,2010
-3,Defensive Midfield,"Nov 7, 1988 (21)",NA,NA,Brazil,RCD Mallorca,LaLiga,2010/2011,2010
-20,Central Midfield,"Sep 13, 1987 (22)",NA,NA,Netherlands,RCD Mallorca,LaLiga,2010/2011,2010
-27,Central Midfield,"May 28, 1990 (20)",NA,NA,Spain,RCD Mallorca,LaLiga,2010/2011,2010
-28,Central Midfield,"Oct 14, 1987 (22)",NA,NA,Spain,RCD Mallorca,LaLiga,2010/2011,2010
-7,Right Midfield,"Dec 8, 1987 (22)",NA,NA,France,RCD Mallorca,LaLiga,2010/2011,2010
-14,Attacking Midfield,"Jun 13, 1986 (24)",NA,NA,Japan,RCD Mallorca,LaLiga,2010/2011,2010
-11,Left Winger,"Sep 14, 1984 (25)",NA,NA,Uruguay,RCD Mallorca,LaLiga,2010/2011,2010
-15,Right Winger,"Jun 14, 1982 (28)",NA,NA,Spain,RCD Mallorca,LaLiga,2010/2011,2010
-10,Centre-Forward,"Sep 21, 1983 (26)",NA,NA,Argentina,RCD Mallorca,LaLiga,2010/2011,2010
-9,Centre-Forward,"Jan 20, 1982 (28)",NA,NA,Cameroon,RCD Mallorca,LaLiga,2010/2011,2010
-18,Centre-Forward,"Feb 28, 1985 (25)",NA,NA,Spain,RCD Mallorca,LaLiga,2010/2011,2010
-NA,Centre-Forward,"Jun 26, 1983 (27)",NA,NA,Guinea,RCD Mallorca,LaLiga,2010/2011,2010
-26,Centre-Forward,"Feb 26, 1990 (20)",NA,NA,Spain,RCD Mallorca,LaLiga,2010/2011,2010
-NA,Centre-Forward,"Dec 7, 1992 (17)",NA,NA,Spain,RCD Mallorca,LaLiga,2010/2011,2010
-1,Goalkeeper,"Apr 13, 1983 (27)",NA,NA,Chile,Real Sociedad,LaLiga,2010/2011,2010
-13,Goalkeeper,"Feb 26, 1984 (26)",NA,NA,Spain,Real Sociedad,LaLiga,2010/2011,2010
-30,Goalkeeper,"Nov 23, 1986 (23)",NA,NA,Spain,Real Sociedad,LaLiga,2010/2011,2010
-16,Centre-Back,"Oct 10, 1986 (23)",NA,NA,Norway,Real Sociedad,LaLiga,2010/2011,2010
-3,Centre-Back,"Sep 24, 1985 (24)",NA,NA,Spain,Real Sociedad,LaLiga,2010/2011,2010
-15,Centre-Back,"Jul 13, 1982 (27)",NA,NA,Spain,Real Sociedad,LaLiga,2010/2011,2010
-6,Centre-Back,"Aug 10, 1980 (29)",NA,NA,Spain,Real Sociedad,LaLiga,2010/2011,2010
-31,Centre-Back,"Mar 5, 1988 (22)",NA,NA,Algeria,Real Sociedad,LaLiga,2010/2011,2010
-24,Left-Back,"Dec 2, 1985 (24)",NA,NA,Spain,Real Sociedad,LaLiga,2010/2011,2010
-22,Right-Back,"Jan 3, 1987 (23)",NA,NA,Spain,Real Sociedad,LaLiga,2010/2011,2010
-2,Right-Back,"Apr 9, 1986 (24)",NA,NA,Spain,Real Sociedad,LaLiga,2010/2011,2010
-11,Defensive Midfield,"Feb 18, 1979 (31)",NA,NA,Spain,Real Sociedad,LaLiga,2010/2011,2010
-4,Defensive Midfield,"Mar 18, 1987 (23)",NA,NA,Spain,Real Sociedad,LaLiga,2010/2011,2010
-5,Defensive Midfield,"May 5, 1986 (24)",NA,NA,Spain,Real Sociedad,LaLiga,2010/2011,2010
-26,Defensive Midfield,"Mar 8, 1990 (20)",NA,NA,Spain,Real Sociedad,LaLiga,2010/2011,2010
-10,Central Midfield,"Aug 29, 1983 (26)",NA,NA,Spain,Real Sociedad,LaLiga,2010/2011,2010
-19,Central Midfield,"Apr 27, 1980 (30)",NA,NA,Spain,Real Sociedad,LaLiga,2010/2011,2010
-17,Central Midfield,"Jul 19, 1986 (23)",NA,NA,Spain,Real Sociedad,LaLiga,2010/2011,2010
-23,Attacking Midfield,"Dec 21, 1984 (25)",NA,NA,Spain,Real Sociedad,LaLiga,2010/2011,2010
-14,Left Winger,"Aug 3, 1988 (21)",NA,NA,Netherlands,Real Sociedad,LaLiga,2010/2011,2010
-8,Centre-Forward,"Nov 24, 1979 (30)",NA,NA,Spain,Real Sociedad,LaLiga,2010/2011,2010
-20,Centre-Forward,"Oct 19, 1977 (32)",NA,NA,Spain,Real Sociedad,LaLiga,2010/2011,2010
-7,Centre-Forward,"Mar 21, 1991 (19)",NA,NA,France,Real Sociedad,LaLiga,2010/2011,2010
-9,Centre-Forward,"Feb 24, 1987 (23)",NA,NA,Spain,Real Sociedad,LaLiga,2010/2011,2010
-21,Centre-Forward,"Jun 8, 1987 (23)",NA,NA,Uruguay,Real Sociedad,LaLiga,2010/2011,2010
-18,Centre-Forward,"Mar 26, 1987 (23)",NA,NA,Spain,Real Sociedad,LaLiga,2010/2011,2010
-13,Goalkeeper,"Jan 27, 1978 (32)",NA,NA,Uruguay,Levante UD,LaLiga,2010/2011,2010
-1,Goalkeeper,"Apr 1, 1985 (25)",NA,NA,Spain,Levante UD,LaLiga,2010/2011,2010
-26,Goalkeeper,"May 16, 1989 (21)",NA,NA,Spain,Levante UD,LaLiga,2010/2011,2010
-3,Centre-Back,"Jul 7, 1980 (29)",NA,NA,Spain,Levante UD,LaLiga,2010/2011,2010
-4,Centre-Back,"Mar 7, 1988 (22)",NA,NA,Spain,Levante UD,LaLiga,2010/2011,2010
-18,Centre-Back,"Sep 4, 1975 (34)",NA,NA,Spain,Levante UD,LaLiga,2010/2011,2010
-5,Centre-Back,"May 20, 1985 (25)",NA,NA,Spain,Levante UD,LaLiga,2010/2011,2010
-29,Centre-Back,"Sep 5, 1989 (20)",NA,NA,Spain,Levante UD,LaLiga,2010/2011,2010
-12,Left-Back,"Jul 15, 1976 (33)",NA,NA,Spain,Levante UD,LaLiga,2010/2011,2010
-15,Left-Back,"Jan 19, 1981 (29)",NA,NA,Spain,Levante UD,LaLiga,2010/2011,2010
-28,Left-Back,"Jan 24, 1989 (21)",NA,NA,Spain,Levante UD,LaLiga,2010/2011,2010
-17,Right-Back,"Dec 13, 1975 (34)",NA,NA,Spain,Levante UD,LaLiga,2010/2011,2010
-2,Right-Back,"Aug 4, 1983 (26)",NA,NA,Spain,Levante UD,LaLiga,2010/2011,2010
-10,Defensive Midfield,"Jan 16, 1988 (22)",NA,NA,Spain,Levante UD,LaLiga,2010/2011,2010
-16,Central Midfield,"Nov 10, 1976 (33)",NA,NA,Spain,Levante UD,LaLiga,2010/2011,2010
-6,Central Midfield,"Sep 5, 1986 (23)",NA,NA,Spain,Levante UD,LaLiga,2010/2011,2010
-14,Central Midfield,"Nov 21, 1986 (23)",NA,NA,Spain,Levante UD,LaLiga,2010/2011,2010
-8,Central Midfield,"Apr 7, 1984 (26)",NA,NA,Spain,Levante UD,LaLiga,2010/2011,2010
-11,Right Midfield,"May 22, 1980 (30)",NA,NA,Spain,Levante UD,LaLiga,2010/2011,2010
-20,Left Midfield,"May 18, 1980 (30)",NA,NA,Spain,Levante UD,LaLiga,2010/2011,2010
-24,Attacking Midfield,"May 14, 1982 (28)",NA,NA,Uruguay,Levante UD,LaLiga,2010/2011,2010
-27,Attacking Midfield,"Feb 12, 1989 (21)",NA,NA,Spain,Levante UD,LaLiga,2010/2011,2010
-24,Left Winger,"Sep 1, 1989 (20)",NA,NA,Ecuador,Levante UD,LaLiga,2010/2011,2010
-23,Right Winger,"Apr 23, 1981 (29)",NA,NA,Cape Verde,Levante UD,LaLiga,2010/2011,2010
-7,Right Winger,"Jun 27, 1986 (24)",NA,NA,Spain,Levante UD,LaLiga,2010/2011,2010
-11,Right Winger,"Jan 6, 1993 (17)",NA,NA,Brazil,Levante UD,LaLiga,2010/2011,2010
-30,Right Winger,"May 22, 1991 (19)",NA,NA,Spain,Levante UD,LaLiga,2010/2011,2010
-19,Second Striker,"Sep 5, 1980 (29)",NA,NA,Spain,Levante UD,LaLiga,2010/2011,2010
-21,Second Striker,"Feb 19, 1979 (31)",NA,NA,Spain,Levante UD,LaLiga,2010/2011,2010
-25,Centre-Forward,"Sep 5, 1988 (21)",NA,NA,Ecuador,Levante UD,LaLiga,2010/2011,2010
-22,Centre-Forward,"Oct 12, 1986 (23)",NA,NA,Uruguay,Levante UD,LaLiga,2010/2011,2010
-9,Centre-Forward,"Jan 1, 1984 (26)",NA,NA,Spain,Levante UD,LaLiga,2010/2011,2010
-31,Centre-Forward,"Mar 1, 1989 (21)",NA,NA,Spain,Levante UD,LaLiga,2010/2011,2010
+player_name,position,date_of_birth,age,nationality,club_name,league_name,season,year
+Víctor Valdés,Goalkeeper,1982-01-14,28,Spain,FC Barcelona,LaLiga,2010/2011,2010
+José Manuel Pinto,Goalkeeper,1975-11-08,34,Spain,FC Barcelona,LaLiga,2010/2011,2010
+Oier Olazábal,Goalkeeper,1989-09-14,20,Spain,FC Barcelona,LaLiga,2010/2011,2010
+Rubén Miño,Goalkeeper,1989-01-18,21,Spain,FC Barcelona,LaLiga,2010/2011,2010
+Carles Puyol,Centre-Back,1978-04-13,32,Spain,FC Barcelona,LaLiga,2010/2011,2010
+Gerard Piqué,Centre-Back,1987-02-02,23,Spain,FC Barcelona,LaLiga,2010/2011,2010
+Gabriel Milito,Centre-Back,1980-09-07,29,Argentina,FC Barcelona,LaLiga,2010/2011,2010
+Andreu Fontàs,Centre-Back,1989-11-14,20,Spain,FC Barcelona,LaLiga,2010/2011,2010
+Marc Bartra,Centre-Back,1991-01-15,19,Spain,FC Barcelona,LaLiga,2010/2011,2010
+Sergi Gómez,Centre-Back,1992-03-28,18,Spain,FC Barcelona,LaLiga,2010/2011,2010
+Marc Muniesa,Centre-Back,1992-03-27,18,Spain,FC Barcelona,LaLiga,2010/2011,2010
+Adriano,Left-Back,1984-10-26,25,Brazil,FC Barcelona,LaLiga,2010/2011,2010
+Éric Abidal,Left-Back,1979-09-11,30,France,FC Barcelona,LaLiga,2010/2011,2010
+Maxwell,Left-Back,1981-08-27,28,Brazil,FC Barcelona,LaLiga,2010/2011,2010
+Dani Alves,Right-Back,1983-05-06,27,Brazil,FC Barcelona,LaLiga,2010/2011,2010
+Sergi Roberto,Right-Back,1992-02-07,18,Spain,FC Barcelona,LaLiga,2010/2011,2010
+Martín Montoya,Right-Back,1991-04-14,19,Spain,FC Barcelona,LaLiga,2010/2011,2010
+Javier Mascherano,Defensive Midfield,1984-06-08,26,Argentina,FC Barcelona,LaLiga,2010/2011,2010
+Sergio Busquets,Defensive Midfield,1988-07-16,21,Spain,FC Barcelona,LaLiga,2010/2011,2010
+Oriol Romeu,Defensive Midfield,1991-09-24,18,Spain,FC Barcelona,LaLiga,2010/2011,2010
+Xavi,Central Midfield,1980-01-25,30,Spain,FC Barcelona,LaLiga,2010/2011,2010
+Andrés Iniesta,Central Midfield,1984-05-11,26,Spain,FC Barcelona,LaLiga,2010/2011,2010
+Seydou Keita,Central Midfield,1980-01-16,30,Mali,FC Barcelona,LaLiga,2010/2011,2010
+Jonathan dos Santos,Central Midfield,1990-04-26,20,Mexico,FC Barcelona,LaLiga,2010/2011,2010
+Thiago,Central Midfield,1991-04-11,19,Spain,FC Barcelona,LaLiga,2010/2011,2010
+Ibrahim Afellay,Left Midfield,1986-04-02,24,Netherlands,FC Barcelona,LaLiga,2010/2011,2010
+Víctor Vázquez,Attacking Midfield,1987-01-20,23,Spain,FC Barcelona,LaLiga,2010/2011,2010
+Nolito,Left Winger,1986-10-15,23,Spain,FC Barcelona,LaLiga,2010/2011,2010
+Lionel Messi,Right Winger,1987-06-24,23,Argentina,FC Barcelona,LaLiga,2010/2011,2010
+Pedro,Right Winger,1987-07-28,22,Spain,FC Barcelona,LaLiga,2010/2011,2010
+Jeffren,Right Winger,1988-01-20,22,Venezuela,FC Barcelona,LaLiga,2010/2011,2010
+Gerard Deulofeu,Right Winger,1994-03-13,16,Spain,FC Barcelona,LaLiga,2010/2011,2010
+Bojan Krkic,Second Striker,1990-08-28,19,Spain,FC Barcelona,LaLiga,2010/2011,2010
+Zlatan Ibrahimovic,Centre-Forward,1981-10-03,28,Sweden,FC Barcelona,LaLiga,2010/2011,2010
+David Villa,Centre-Forward,1981-12-03,28,Spain,FC Barcelona,LaLiga,2010/2011,2010
+Iker Casillas,Goalkeeper,1981-05-20,29,Spain,Real Madrid,LaLiga,2010/2011,2010
+Antonio Adán,Goalkeeper,1987-05-13,23,Spain,Real Madrid,LaLiga,2010/2011,2010
+Jerzy Dudek,Goalkeeper,1973-03-23,37,Poland,Real Madrid,LaLiga,2010/2011,2010
+Jesús Fernández,Goalkeeper,1988-06-11,22,Spain,Real Madrid,LaLiga,2010/2011,2010
+Fernando Pacheco,Goalkeeper,1992-05-18,18,Spain,Real Madrid,LaLiga,2010/2011,2010
+Tomás Mejías,Goalkeeper,1989-01-30,21,Spain,Real Madrid,LaLiga,2010/2011,2010
+Sergio Ramos,Centre-Back,1986-03-30,24,Spain,Real Madrid,LaLiga,2010/2011,2010
+Pepe,Centre-Back,1983-02-26,27,Portugal,Real Madrid,LaLiga,2010/2011,2010
+Raúl Albiol,Centre-Back,1985-09-04,24,Spain,Real Madrid,LaLiga,2010/2011,2010
+Ricardo Carvalho,Centre-Back,1978-05-18,32,Portugal,Real Madrid,LaLiga,2010/2011,2010
+Ezequiel Garay,Centre-Back,1986-10-10,23,Argentina,Real Madrid,LaLiga,2010/2011,2010
+David Mateos,Centre-Back,1987-04-22,23,Spain,Real Madrid,LaLiga,2010/2011,2010
+Nacho,Centre-Back,1990-01-18,20,Spain,Real Madrid,LaLiga,2010/2011,2010
+Marcelo,Left-Back,1988-05-12,22,Brazil,Real Madrid,LaLiga,2010/2011,2010
+Juankar,Left-Back,1990-03-30,20,Spain,Real Madrid,LaLiga,2010/2011,2010
+Jorge Casado,Left-Back,1989-06-26,21,Spain,Real Madrid,LaLiga,2010/2011,2010
+Álvaro Arbeloa,Right-Back,1983-01-17,27,Spain,Real Madrid,LaLiga,2010/2011,2010
+Juanfran,Right-Back,1988-09-11,21,Spain,Real Madrid,LaLiga,2010/2011,2010
+Xabi Alonso,Defensive Midfield,1981-11-25,28,Spain,Real Madrid,LaLiga,2010/2011,2010
+Lassana Diarra,Defensive Midfield,1985-03-10,25,France,Real Madrid,LaLiga,2010/2011,2010
+Fernando Gago,Defensive Midfield,1986-04-10,24,Argentina,Real Madrid,LaLiga,2010/2011,2010
+Mahamadou Diarra,Defensive Midfield,1981-05-18,29,Mali,Real Madrid,LaLiga,2010/2011,2010
+Mandi,Defensive Midfield,1989-03-01,21,Spain,Real Madrid,LaLiga,2010/2011,2010
+Sami Khedira,Central Midfield,1987-04-04,23,Germany,Real Madrid,LaLiga,2010/2011,2010
+Esteban Granero,Central Midfield,1987-07-02,22,Spain,Real Madrid,LaLiga,2010/2011,2010
+Álex Fernández,Central Midfield,1992-10-15,17,Spain,Real Madrid,LaLiga,2010/2011,2010
+Kaká,Attacking Midfield,1982-04-22,28,Brazil,Real Madrid,LaLiga,2010/2011,2010
+Mesut Özil,Attacking Midfield,1988-10-15,21,Germany,Real Madrid,LaLiga,2010/2011,2010
+Sergio Canales,Attacking Midfield,1991-02-16,19,Spain,Real Madrid,LaLiga,2010/2011,2010
+Pablo Sarabia,Attacking Midfield,1992-05-11,18,Spain,Real Madrid,LaLiga,2010/2011,2010
+Cristiano Ronaldo,Left Winger,1985-02-05,25,Portugal,Real Madrid,LaLiga,2010/2011,2010
+Ángel Di María,Right Winger,1988-02-14,22,Argentina,Real Madrid,LaLiga,2010/2011,2010
+Pedro León,Right Winger,1986-11-24,23,Spain,Real Madrid,LaLiga,2010/2011,2010
+Gonzalo Higuaín,Centre-Forward,1987-12-10,22,Argentina,Real Madrid,LaLiga,2010/2011,2010
+Karim Benzema,Centre-Forward,1987-12-19,22,France,Real Madrid,LaLiga,2010/2011,2010
+Emmanuel Adebayor,Centre-Forward,1984-02-26,26,Togo,Real Madrid,LaLiga,2010/2011,2010
+Joselu,Centre-Forward,1990-03-27,20,Spain,Real Madrid,LaLiga,2010/2011,2010
+Álvaro Morata,Centre-Forward,1992-10-23,17,Spain,Real Madrid,LaLiga,2010/2011,2010
+Andrés Palop,Goalkeeper,1973-10-22,36,Spain,Sevilla FC,LaLiga,2010/2011,2010
+Javi Varas,Goalkeeper,1982-09-10,27,Spain,Sevilla FC,LaLiga,2010/2011,2010
+Dani Jiménez,Goalkeeper,1990-03-05,20,Spain,Sevilla FC,LaLiga,2010/2011,2010
+Sébastien Squillaci,Centre-Back,1980-08-11,29,France,Sevilla FC,LaLiga,2010/2011,2010
+Martín Cáceres,Centre-Back,1987-04-07,23,Uruguay,Sevilla FC,LaLiga,2010/2011,2010
+Federico Fazio,Centre-Back,1987-03-17,23,Argentina,Sevilla FC,LaLiga,2010/2011,2010
+Alexis,Centre-Back,1985-08-04,24,Spain,Sevilla FC,LaLiga,2010/2011,2010
+Julien Escudé,Centre-Back,1979-08-17,30,France,Sevilla FC,LaLiga,2010/2011,2010
+Sergio Sánchez,Centre-Back,1986-04-03,24,Spain,Sevilla FC,LaLiga,2010/2011,2010
+Ivica Dragutinovic,Centre-Back,1975-11-13,34,Serbia,Sevilla FC,LaLiga,2010/2011,2010
+Juan Cala,Centre-Back,1989-11-26,20,Spain,Sevilla FC,LaLiga,2010/2011,2010
+Bernardo Espinosa,Centre-Back,1989-07-11,20,Colombia,Sevilla FC,LaLiga,2010/2011,2010
+Fernando Navarro,Left-Back,1982-06-25,28,Spain,Sevilla FC,LaLiga,2010/2011,2010
+Antonio Luna,Left-Back,1991-03-17,19,Spain,Sevilla FC,LaLiga,2010/2011,2010
+Jesús Navas,Right-Back,1985-11-21,24,Spain,Sevilla FC,LaLiga,2010/2011,2010
+Abdoulay Konko,Right-Back,1984-03-09,26,France,Sevilla FC,LaLiga,2010/2011,2010
+Mouhamadou Dabo,Right-Back,1986-11-28,23,France,Sevilla FC,LaLiga,2010/2011,2010
+Didier Zokora,Defensive Midfield,1980-12-14,29,Cote d'Ivoire,Sevilla FC,LaLiga,2010/2011,2010
+Romaric,Defensive Midfield,1983-06-04,27,Cote d'Ivoire,Sevilla FC,LaLiga,2010/2011,2010
+Luca Cigarini,Defensive Midfield,1986-06-20,24,Italy,Sevilla FC,LaLiga,2010/2011,2010
+Gary Medel,Defensive Midfield,1987-08-03,22,Chile,Sevilla FC,LaLiga,2010/2011,2010
+Renato,Central Midfield,1979-05-15,31,Brazil,Sevilla FC,LaLiga,2010/2011,2010
+Ivan Rakitic,Central Midfield,1988-03-10,22,Croatia,Sevilla FC,LaLiga,2010/2011,2010
+Tiberio Guarente,Central Midfield,1985-11-01,24,Italy,Sevilla FC,LaLiga,2010/2011,2010
+José Campaña,Central Midfield,1993-05-31,17,Spain,Sevilla FC,LaLiga,2010/2011,2010
+José Carlos,Attacking Midfield,1987-07-17,22,Spain,Sevilla FC,LaLiga,2010/2011,2010
+Luis Alberto,Attacking Midfield,1992-09-28,17,Spain,Sevilla FC,LaLiga,2010/2011,2010
+Diego Perotti,Left Winger,1988-07-26,21,Argentina,Sevilla FC,LaLiga,2010/2011,2010
+Diego Capel,Left Winger,1988-02-16,22,Spain,Sevilla FC,LaLiga,2010/2011,2010
+Alejandro Alfaro,Left Winger,1986-11-23,23,Spain,Sevilla FC,LaLiga,2010/2011,2010
+Lautaro Acosta,Left Winger,1988-03-14,22,Argentina,Sevilla FC,LaLiga,2010/2011,2010
+Luís Fabiano,Centre-Forward,1980-11-08,29,Brazil,Sevilla FC,LaLiga,2010/2011,2010
+Frédéric Kanouté,Centre-Forward,1977-09-02,32,Mali,Sevilla FC,LaLiga,2010/2011,2010
+Álvaro Negredo,Centre-Forward,1985-08-20,24,Spain,Sevilla FC,LaLiga,2010/2011,2010
+Arouna Koné,Centre-Forward,1983-11-11,26,Cote d'Ivoire,Sevilla FC,LaLiga,2010/2011,2010
+Rodri,Centre-Forward,1990-06-06,20,Spain,Sevilla FC,LaLiga,2010/2011,2010
+David de Gea,Goalkeeper,1990-11-07,19,Spain,Atlético Madrid,LaLiga,2010/2011,2010
+Joel Robles,Goalkeeper,1990-06-17,20,Spain,Atlético Madrid,LaLiga,2010/2011,2010
+Iago Herrerín,Goalkeeper,1988-01-25,22,Spain,Atlético Madrid,LaLiga,2010/2011,2010
+Diego Godín,Centre-Back,1986-02-16,24,Uruguay,Atlético Madrid,LaLiga,2010/2011,2010
+Tomás Ujfalusi,Centre-Back,1978-03-24,32,Czech Republic,Atlético Madrid,LaLiga,2010/2011,2010
+Álvaro Domínguez,Centre-Back,1989-05-16,21,Spain,Atlético Madrid,LaLiga,2010/2011,2010
+Luis Perea,Centre-Back,1979-01-30,31,Colombia,Atlético Madrid,LaLiga,2010/2011,2010
+Juanito,Centre-Back,1976-07-23,33,Spain,Atlético Madrid,LaLiga,2010/2011,2010
+Jorge Pulido,Centre-Back,1991-04-08,19,Spain,Atlético Madrid,LaLiga,2010/2011,2010
+Filipe Luís,Left-Back,1985-08-09,24,Brazil,Atlético Madrid,LaLiga,2010/2011,2010
+Antonio López,Left-Back,1981-09-13,28,Spain,Atlético Madrid,LaLiga,2010/2011,2010
+Juanfran,Right-Back,1985-01-09,25,Spain,Atlético Madrid,LaLiga,2010/2011,2010
+Juan Valera,Right-Back,1984-12-21,25,Spain,Atlético Madrid,LaLiga,2010/2011,2010
+Paulo Assunção,Defensive Midfield,1980-01-25,30,Brazil,Atlético Madrid,LaLiga,2010/2011,2010
+Ignacio Camacho,Defensive Midfield,1990-05-04,20,Spain,Atlético Madrid,LaLiga,2010/2011,2010
+Tiago,Central Midfield,1981-05-02,29,Portugal,Atlético Madrid,LaLiga,2010/2011,2010
+Elias,Central Midfield,1985-05-16,25,Brazil,Atlético Madrid,LaLiga,2010/2011,2010
+Mario Suárez,Central Midfield,1987-02-24,23,Spain,Atlético Madrid,LaLiga,2010/2011,2010
+Fran Mérida,Central Midfield,1990-03-04,20,Spain,Atlético Madrid,LaLiga,2010/2011,2010
+Koke,Central Midfield,1992-01-08,18,Spain,Atlético Madrid,LaLiga,2010/2011,2010
+Raúl García,Attacking Midfield,1986-07-11,23,Spain,Atlético Madrid,LaLiga,2010/2011,2010
+José Manuel Jurado,Attacking Midfield,1986-06-29,24,Spain,Atlético Madrid,LaLiga,2010/2011,2010
+Alberto Noguera,Attacking Midfield,1989-09-24,20,Spain,Atlético Madrid,LaLiga,2010/2011,2010
+Simão,Left Winger,1979-10-31,30,Portugal,Atlético Madrid,LaLiga,2010/2011,2010
+Alberto Perea,Left Winger,1990-05-16,20,Spain,Atlético Madrid,LaLiga,2010/2011,2010
+José Antonio Reyes,Right Winger,1983-09-01,26,Spain,Atlético Madrid,LaLiga,2010/2011,2010
+Diego Forlán,Second Striker,1979-05-19,31,Uruguay,Atlético Madrid,LaLiga,2010/2011,2010
+Sergio Agüero,Centre-Forward,1988-06-02,22,Argentina,Atlético Madrid,LaLiga,2010/2011,2010
+Diego Costa,Centre-Forward,1988-10-07,21,Spain,Atlético Madrid,LaLiga,2010/2011,2010
+Borja Bastón,Centre-Forward,1992-08-25,17,Spain,Atlético Madrid,LaLiga,2010/2011,2010
+Miguel Ángel Moyà,Goalkeeper,1984-04-02,26,Spain,Valencia CF,LaLiga,2010/2011,2010
+César Sánchez,Goalkeeper,1971-09-02,38,Spain,Valencia CF,LaLiga,2010/2011,2010
+Vicente Guaita,Goalkeeper,1987-01-10,23,Spain,Valencia CF,LaLiga,2010/2011,2010
+Saúl Figueroa,Goalkeeper,1989-07-11,20,Spain,Valencia CF,LaLiga,2010/2011,2010
+Jérémy Mathieu,Centre-Back,1983-10-29,26,France,Valencia CF,LaLiga,2010/2011,2010
+Ángel Dealbert,Centre-Back,1983-01-01,27,Spain,Valencia CF,LaLiga,2010/2011,2010
+David Navarro,Centre-Back,1980-05-25,30,Spain,Valencia CF,LaLiga,2010/2011,2010
+Ricardo Costa,Centre-Back,1981-05-16,29,Portugal,Valencia CF,LaLiga,2010/2011,2010
+Marius Stankevicius,Centre-Back,1981-07-15,28,Lithuania,Valencia CF,LaLiga,2010/2011,2010
+Jordi Alba,Left-Back,1989-03-21,21,Spain,Valencia CF,LaLiga,2010/2011,2010
+Miguel,Right-Back,1980-01-04,30,Portugal,Valencia CF,LaLiga,2010/2011,2010
+Bruno,Right-Back,1980-10-01,29,Spain,Valencia CF,LaLiga,2010/2011,2010
+Mehmet Topal,Defensive Midfield,1986-03-03,24,Turkey,Valencia CF,LaLiga,2010/2011,2010
+Hedwiges Maduro,Defensive Midfield,1985-02-13,25,Netherlands,Valencia CF,LaLiga,2010/2011,2010
+David Albelda,Defensive Midfield,1977-09-01,32,Spain,Valencia CF,LaLiga,2010/2011,2010
+Éver Banega,Central Midfield,1988-06-29,22,Argentina,Valencia CF,LaLiga,2010/2011,2010
+Tino Costa,Central Midfield,1985-01-09,25,Argentina,Valencia CF,LaLiga,2010/2011,2010
+Ángel Montoro,Central Midfield,1988-06-25,22,Spain,Valencia CF,LaLiga,2010/2011,2010
+Iván Rubio,Central Midfield,1991-03-01,19,Spain,Valencia CF,LaLiga,2010/2011,2010
+Juan Mata,Attacking Midfield,1988-04-28,22,Spain,Valencia CF,LaLiga,2010/2011,2010
+Manuel Fernandes,Attacking Midfield,1986-02-05,24,Portugal,Valencia CF,LaLiga,2010/2011,2010
+Alejandro Domínguez,Attacking Midfield,1981-06-10,29,Argentina,Valencia CF,LaLiga,2010/2011,2010
+Ignacio González,Attacking Midfield,1982-05-14,28,Uruguay,Valencia CF,LaLiga,2010/2011,2010
+Isco,Attacking Midfield,1992-04-21,18,Spain,Valencia CF,LaLiga,2010/2011,2010
+Vicente,Left Winger,1981-07-16,28,Spain,Valencia CF,LaLiga,2010/2011,2010
+Pablo Hernández,Right Winger,1985-04-11,25,Spain,Valencia CF,LaLiga,2010/2011,2010
+Joaquín,Right Winger,1981-07-21,28,Spain,Valencia CF,LaLiga,2010/2011,2010
+Sofiane Feghouli,Right Winger,1989-12-26,20,Algeria,Valencia CF,LaLiga,2010/2011,2010
+Jonas,Second Striker,1984-04-01,26,Brazil,Valencia CF,LaLiga,2010/2011,2010
+Roberto Soldado,Centre-Forward,1985-05-27,25,Spain,Valencia CF,LaLiga,2010/2011,2010
+Aritz Aduriz,Centre-Forward,1981-02-11,29,Spain,Valencia CF,LaLiga,2010/2011,2010
+Paco Alcácer,Centre-Forward,1993-08-30,16,Spain,Valencia CF,LaLiga,2010/2011,2010
+Diego López,Goalkeeper,1981-11-03,28,Spain,Villarreal CF,LaLiga,2010/2011,2010
+Juan Carlos,Goalkeeper,1987-07-27,22,Spain,Villarreal CF,LaLiga,2010/2011,2010
+Xavier Oliva,Goalkeeper,1976-05-29,34,Spain,Villarreal CF,LaLiga,2010/2011,2010
+Diego Mariño,Goalkeeper,1990-05-09,20,Spain,Villarreal CF,LaLiga,2010/2011,2010
+Gonzalo Rodríguez,Centre-Back,1984-04-10,26,Argentina,Villarreal CF,LaLiga,2010/2011,2010
+Carlos Marchena,Centre-Back,1979-07-31,30,Spain,Villarreal CF,LaLiga,2010/2011,2010
+Mateo Musacchio,Centre-Back,1990-08-26,19,Argentina,Villarreal CF,LaLiga,2010/2011,2010
+Kiko Olivas,Centre-Back,1988-08-21,21,Spain,Villarreal CF,LaLiga,2010/2011,2010
+José Manuel Catalá,Centre-Back,1985-01-01,25,Spain,Villarreal CF,LaLiga,2010/2011,2010
+Carlos Tomás,Centre-Back,1988-05-18,22,Spain,Villarreal CF,LaLiga,2010/2011,2010
+Joan Capdevila,Left-Back,1978-02-03,32,Spain,Villarreal CF,LaLiga,2010/2011,2010
+Joan Oriol,Left-Back,1986-11-05,23,Spain,Villarreal CF,LaLiga,2010/2011,2010
+Ángel López,Right-Back,1981-03-10,29,Spain,Villarreal CF,LaLiga,2010/2011,2010
+Cicinho,Right-Back,1980-06-24,30,Brazil,Villarreal CF,LaLiga,2010/2011,2010
+Mario Gaspar,Right-Back,1990-11-24,19,Spain,Villarreal CF,LaLiga,2010/2011,2010
+Marcos Senna,Defensive Midfield,1976-07-17,33,Spain,Villarreal CF,LaLiga,2010/2011,2010
+Bruno Soriano,Defensive Midfield,1984-06-12,26,Spain,Villarreal CF,LaLiga,2010/2011,2010
+Santi Cazorla,Central Midfield,1984-12-13,25,Spain,Villarreal CF,LaLiga,2010/2011,2010
+Borja Valero,Central Midfield,1985-01-12,25,Spain,Villarreal CF,LaLiga,2010/2011,2010
+Javier Matilla,Central Midfield,1988-01-01,22,Spain,Villarreal CF,LaLiga,2010/2011,2010
+Marcos Gullón,Central Midfield,1989-02-20,21,Spain,Villarreal CF,LaLiga,2010/2011,2010
+Mubarak Wakaso,Central Midfield,1990-07-25,19,Ghana,Villarreal CF,LaLiga,2010/2011,2010
+Natxo Insa,Central Midfield,1986-06-09,24,Malaysia,Villarreal CF,LaLiga,2010/2011,2010
+Cani,Attacking Midfield,1981-08-03,28,Spain,Villarreal CF,LaLiga,2010/2011,2010
+Cristóbal Márquez,Attacking Midfield,1984-04-21,26,Spain,Villarreal CF,LaLiga,2010/2011,2010
+Gonzalo Castellani,Attacking Midfield,1987-08-10,22,Argentina,Villarreal CF,LaLiga,2010/2011,2010
+Jefferson Montero,Left Winger,1989-09-01,20,Ecuador,Villarreal CF,LaLiga,2010/2011,2010
+Hernán Pérez,Right Winger,1989-02-25,21,Paraguay,Villarreal CF,LaLiga,2010/2011,2010
+Iago Falque,Right Winger,1990-01-04,20,Spain,Villarreal CF,LaLiga,2010/2011,2010
+Giuseppe Rossi,Centre-Forward,1987-02-01,23,Italy,Villarreal CF,LaLiga,2010/2011,2010
+Nilmar,Centre-Forward,1984-07-14,25,Brazil,Villarreal CF,LaLiga,2010/2011,2010
+Marco Ruben,Centre-Forward,1986-10-26,23,Argentina,Villarreal CF,LaLiga,2010/2011,2010
+Jozy Altidore,Centre-Forward,1989-11-06,20,United States,Villarreal CF,LaLiga,2010/2011,2010
+Nicki Bille Nielsen,Centre-Forward,1988-02-07,22,Denmark,Villarreal CF,LaLiga,2010/2011,2010
+Gorka Iraizoz,Goalkeeper,1981-03-06,29,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
+Raúl Fernández,Goalkeeper,1988-03-13,22,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
+Aitor Fernández,Goalkeeper,1991-05-03,19,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
+Fernando Amorebieta,Centre-Back,1985-03-29,25,Venezuela,Athletic Bilbao,LaLiga,2010/2011,2010
+Carlos Gurpegi,Centre-Back,1980-08-19,29,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
+Ustaritz,Centre-Back,1983-02-16,27,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
+Aitor Ocio,Centre-Back,1976-11-28,33,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
+Borja Ekiza,Centre-Back,1988-03-06,22,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
+Xabier Castillo,Left-Back,1986-03-29,24,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
+Koikili,Left-Back,1980-12-23,29,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
+Mikel Balenziaga,Left-Back,1988-02-29,22,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
+Jon Aurtenetxe,Left-Back,1992-01-03,18,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
+Andoni Iraola,Right-Back,1982-06-22,28,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
+Óscar de Marcos,Right-Back,1989-04-14,21,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
+Javi Martínez,Defensive Midfield,1988-09-02,21,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
+Mikel San José,Defensive Midfield,1989-05-30,21,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
+Pablo Orbaiz,Defensive Midfield,1979-02-06,31,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
+Ander Iturraspe,Defensive Midfield,1989-03-08,21,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
+David López,Central Midfield,1982-09-10,27,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
+Iñigo Pérez,Central Midfield,1988-01-18,22,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
+Igor Gabilondo,Left Midfield,1979-02-10,31,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
+Igor Martínez,Attacking Midfield,1989-07-19,20,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
+Iker Muniain,Left Winger,1992-12-19,17,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
+Markel Susaeta,Right Winger,1987-12-14,22,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
+Gaizka Toquero,Right Winger,1984-08-09,25,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
+Ibai Gómez,Right Winger,1989-11-11,20,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
+Fernando Llorente,Centre-Forward,1985-02-26,25,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
+Iñigo Díaz de Cerio,Centre-Forward,1984-05-15,26,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
+Ion Vélez,Centre-Forward,1985-02-17,25,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
+Urko Vera,Centre-Forward,1987-05-14,23,Spain,Athletic Bilbao,LaLiga,2010/2011,2010
+Sergio Asenjo,Goalkeeper,1989-06-28,21,Spain,Málaga CF,LaLiga,2010/2011,2010
+Willy Caballero,Goalkeeper,1981-09-28,28,Argentina,Málaga CF,LaLiga,2010/2011,2010
+Rubén Martínez,Goalkeeper,1984-06-22,26,Spain,Málaga CF,LaLiga,2010/2011,2010
+Galatto,Goalkeeper,1983-04-10,27,Brazil,Málaga CF,LaLiga,2010/2011,2010
+Francesc Arnau,Goalkeeper,1975-03-23,35,Spain,Málaga CF,LaLiga,2010/2011,2010
+Fran Marmolejo,Goalkeeper,1988-01-19,22,Spain,Málaga CF,LaLiga,2010/2011,2010
+Martín Demichelis,Centre-Back,1980-12-20,29,Argentina,Málaga CF,LaLiga,2010/2011,2010
+Weligton,Centre-Back,1979-08-26,30,Brazil,Málaga CF,LaLiga,2010/2011,2010
+Iván González,Centre-Back,1988-02-15,22,Spain,Málaga CF,LaLiga,2010/2011,2010
+Hélder Rosário,Centre-Back,1980-03-09,30,Portugal,Málaga CF,LaLiga,2010/2011,2010
+Kris Stadsgaard,Centre-Back,1985-08-01,24,Denmark,Málaga CF,LaLiga,2010/2011,2010
+Manu Torres,Centre-Back,1989-08-14,20,Spain,Málaga CF,LaLiga,2010/2011,2010
+Javier Malagueño,Centre-Back,1982-10-27,27,Argentina,Málaga CF,LaLiga,2010/2011,2010
+Eliseu,Left-Back,1983-10-01,26,Portugal,Málaga CF,LaLiga,2010/2011,2010
+Patrick Mtiliga,Left-Back,1981-01-28,29,Denmark,Málaga CF,LaLiga,2010/2011,2010
+Jesús Gámez,Right-Back,1985-04-10,25,Spain,Málaga CF,LaLiga,2010/2011,2010
+Manolo Gaspar,Right-Back,1981-02-03,29,Spain,Málaga CF,LaLiga,2010/2011,2010
+Juanito,Defensive Midfield,1980-02-17,30,Spain,Málaga CF,LaLiga,2010/2011,2010
+Ignacio Camacho,Defensive Midfield,1990-05-04,20,Spain,Málaga CF,LaLiga,2010/2011,2010
+Sandro Silva,Defensive Midfield,1984-04-29,26,Brazil,Málaga CF,LaLiga,2010/2011,2010
+Enzo Maresca,Central Midfield,1980-02-10,30,Italy,Málaga CF,LaLiga,2010/2011,2010
+Apoño,Central Midfield,1984-02-13,26,Spain,Málaga CF,LaLiga,2010/2011,2010
+Edu Ramos,Central Midfield,1992-02-17,18,Spain,Málaga CF,LaLiga,2010/2011,2010
+Cala,Central Midfield,1990-03-02,20,Spain,Málaga CF,LaLiga,2010/2011,2010
+Recio,Central Midfield,1991-01-11,19,Spain,Málaga CF,LaLiga,2010/2011,2010
+Duda,Left Midfield,1980-06-27,30,Portugal,Málaga CF,LaLiga,2010/2011,2010
+Júlio Baptista,Attacking Midfield,1981-10-01,28,Brazil,Málaga CF,LaLiga,2010/2011,2010
+Fernando,Attacking Midfield,1979-06-02,31,Spain,Málaga CF,LaLiga,2010/2011,2010
+Francisco Portillo,Attacking Midfield,1990-06-13,20,Spain,Málaga CF,LaLiga,2010/2011,2010
+Albert Luque,Left Winger,1978-03-11,32,Spain,Málaga CF,LaLiga,2010/2011,2010
+Quincy Owusu-Abeyie,Left Winger,1986-04-15,24,Ghana,Málaga CF,LaLiga,2010/2011,2010
+Juanmi,Right Winger,1993-05-20,17,Spain,Málaga CF,LaLiga,2010/2011,2010
+Sebastián Fernández,Second Striker,1985-05-23,25,Uruguay,Málaga CF,LaLiga,2010/2011,2010
+Nabil Baha,Centre-Forward,1981-08-12,28,Morocco,Málaga CF,LaLiga,2010/2011,2010
+Edinho,Centre-Forward,1982-07-07,27,Portugal,Málaga CF,LaLiga,2010/2011,2010
+José Salomón Rondón,Centre-Forward,1989-09-16,20,Venezuela,Málaga CF,LaLiga,2010/2011,2010
+Jonathan Sánchez,Centre-Forward,1990-01-24,20,Spain,Málaga CF,LaLiga,2010/2011,2010
+Daniel Aranzubia,Goalkeeper,1979-09-18,30,Spain,Deportivo de La Coruña,LaLiga,2010/2011,2010
+Manu Fernández,Goalkeeper,1986-05-09,24,Spain,Deportivo de La Coruña,LaLiga,2010/2011,2010
+Felipe Ramos,Goalkeeper,1988-01-10,22,Spain,Deportivo de La Coruña,LaLiga,2010/2011,2010
+Alberto Lopo,Centre-Back,1980-05-05,30,Spain,Deportivo de La Coruña,LaLiga,2010/2011,2010
+Diego Colotto,Centre-Back,1981-03-10,29,Argentina,Deportivo de La Coruña,LaLiga,2010/2011,2010
+Zé Castro,Centre-Back,1983-01-13,27,Portugal,Deportivo de La Coruña,LaLiga,2010/2011,2010
+Aythami Artiles,Centre-Back,1986-04-02,24,Spain,Deportivo de La Coruña,LaLiga,2010/2011,2010
+David Rochela,Centre-Back,1990-02-19,20,Spain,Deportivo de La Coruña,LaLiga,2010/2011,2010
+Claudio Morel,Left-Back,1978-02-02,32,Paraguay,Deportivo de La Coruña,LaLiga,2010/2011,2010
+Knut Olav Rindaröy,Left-Back,1985-07-17,24,Norway,Deportivo de La Coruña,LaLiga,2010/2011,2010
+Manuel Pablo,Right-Back,1976-01-25,34,Spain,Deportivo de La Coruña,LaLiga,2010/2011,2010
+Laure,Right-Back,1985-03-22,25,Spain,Deportivo de La Coruña,LaLiga,2010/2011,2010
+Diego Seoane,Right-Back,1988-04-26,22,Spain,Deportivo de La Coruña,LaLiga,2010/2011,2010
+Juan Rodríguez,Defensive Midfield,1982-04-01,28,Spain,Deportivo de La Coruña,LaLiga,2010/2011,2010
+Juca,Defensive Midfield,1979-11-19,30,Brazil,Deportivo de La Coruña,LaLiga,2010/2011,2010
+Juan Domínguez,Defensive Midfield,1990-01-08,20,Spain,Deportivo de La Coruña,LaLiga,2010/2011,2010
+Rubén Pérez,Defensive Midfield,1989-04-26,21,Spain,Deportivo de La Coruña,LaLiga,2010/2011,2010
+Andrés Guardado,Central Midfield,1986-09-28,23,Mexico,Deportivo de La Coruña,LaLiga,2010/2011,2010
+Antonio Tomás,Central Midfield,1985-01-13,25,Spain,Deportivo de La Coruña,LaLiga,2010/2011,2010
+Adrián López,Left Midfield,1988-01-08,22,Spain,Deportivo de La Coruña,LaLiga,2010/2011,2010
+Míchel,Attacking Midfield,1988-07-29,21,Spain,Deportivo de La Coruña,LaLiga,2010/2011,2010
+Saúl,Attacking Midfield,1985-04-09,25,Spain,Deportivo de La Coruña,LaLiga,2010/2011,2010
+Juan Carlos Valerón,Attacking Midfield,1975-06-17,35,Spain,Deportivo de La Coruña,LaLiga,2010/2011,2010
+Yves Desmarets,Left Winger,1979-07-19,30,Haiti,Deportivo de La Coruña,LaLiga,2010/2011,2010
+Javito,Left Winger,1983-11-04,26,Spain,Deportivo de La Coruña,LaLiga,2010/2011,2010
+Pablo Álvarez,Right Winger,1980-05-14,30,Spain,Deportivo de La Coruña,LaLiga,2010/2011,2010
+Jonathan Urretaviscaya,Right Winger,1990-03-19,20,Uruguay,Deportivo de La Coruña,LaLiga,2010/2011,2010
+José Sand,Centre-Forward,1980-07-17,29,Argentina,Deportivo de La Coruña,LaLiga,2010/2011,2010
+Riki,Centre-Forward,1980-08-11,29,Spain,Deportivo de La Coruña,LaLiga,2010/2011,2010
+Xisco,Centre-Forward,1986-06-26,24,Spain,Deportivo de La Coruña,LaLiga,2010/2011,2010
+Lassad Nouioui,Centre-Forward,1986-03-08,24,Tunisia,Deportivo de La Coruña,LaLiga,2010/2011,2010
+Dioni,Centre-Forward,1989-12-21,20,Spain,Deportivo de La Coruña,LaLiga,2010/2011,2010
+Iago Beceiro,Centre-Forward,1993-03-15,17,Spain,Deportivo de La Coruña,LaLiga,2010/2011,2010
+Óscar Ustari,Goalkeeper,1986-07-03,23,Argentina,Getafe CF,LaLiga,2010/2011,2010
+Jordi Codina,Goalkeeper,1982-04-27,28,Spain,Getafe CF,LaLiga,2010/2011,2010
+Gonzalo,Goalkeeper,1988-01-10,22,Spain,Getafe CF,LaLiga,2010/2011,2010
+Iván Marcano,Centre-Back,1987-06-23,23,Spain,Getafe CF,LaLiga,2010/2011,2010
+Cata Díaz,Centre-Back,1979-07-13,30,Argentina,Getafe CF,LaLiga,2010/2011,2010
+Rafa López,Centre-Back,1985-04-09,25,Spain,Getafe CF,LaLiga,2010/2011,2010
+Mario Álvarez,Centre-Back,1982-02-02,28,Spain,Getafe CF,LaLiga,2010/2011,2010
+Ibrahim Kas,Centre-Back,1986-09-20,23,Turkey,Getafe CF,LaLiga,2010/2011,2010
+Pedro Alcalá,Centre-Back,1989-03-19,21,Spain,Getafe CF,LaLiga,2010/2011,2010
+Álex Pérez,Centre-Back,1991-08-11,18,Spain,Getafe CF,LaLiga,2010/2011,2010
+Mané,Left-Back,1981-12-21,28,Spain,Getafe CF,LaLiga,2010/2011,2010
+Adrián Cañas,Left-Back,1992-06-17,18,Spain,Getafe CF,LaLiga,2010/2011,2010
+Miguel Torres,Right-Back,1986-01-28,24,Spain,Getafe CF,LaLiga,2010/2011,2010
+Pablo Pintos,Right-Back,1987-07-01,23,Uruguay,Getafe CF,LaLiga,2010/2011,2010
+Derek Boateng,Defensive Midfield,1983-05-02,27,Ghana,Getafe CF,LaLiga,2010/2011,2010
+Borja Fernández,Defensive Midfield,1981-01-14,29,Spain,Getafe CF,LaLiga,2010/2011,2010
+Javier Casquero,Defensive Midfield,1976-03-11,34,Spain,Getafe CF,LaLiga,2010/2011,2010
+Alberto Escassi,Defensive Midfield,1989-02-28,21,Spain,Getafe CF,LaLiga,2010/2011,2010
+Dani Parejo,Central Midfield,1989-04-16,21,Spain,Getafe CF,LaLiga,2010/2011,2010
+Víctor Sánchez,Central Midfield,1987-09-08,22,Spain,Getafe CF,LaLiga,2010/2011,2010
+Pedro Mosquera,Central Midfield,1988-04-21,22,Spain,Getafe CF,LaLiga,2010/2011,2010
+Juan Ángel Albín,Attacking Midfield,1986-07-17,23,Uruguay,Getafe CF,LaLiga,2010/2011,2010
+Jaime Gavilán,Left Winger,1985-05-12,25,Spain,Getafe CF,LaLiga,2010/2011,2010
+Pedro Ríos,Right Winger,1981-12-12,28,Spain,Getafe CF,LaLiga,2010/2011,2010
+Adrián Sardinero,Right Winger,1990-10-13,19,Spain,Getafe CF,LaLiga,2010/2011,2010
+Manu del Moral,Centre-Forward,1984-02-25,26,Spain,Getafe CF,LaLiga,2010/2011,2010
+Javier Arizmendi,Centre-Forward,1984-03-03,26,Spain,Getafe CF,LaLiga,2010/2011,2010
+Miku Fedor,Centre-Forward,1985-08-19,24,Venezuela,Getafe CF,LaLiga,2010/2011,2010
+Adrián Colunga,Centre-Forward,1984-11-17,25,Spain,Getafe CF,LaLiga,2010/2011,2010
+Leo Franco,Goalkeeper,1977-05-20,33,Argentina,Real Zaragoza,LaLiga,2010/2011,2010
+Toni Doblas,Goalkeeper,1980-08-05,29,Spain,Real Zaragoza,LaLiga,2010/2011,2010
+Álex Sánchez,Goalkeeper,1991-02-03,19,Spain,Real Zaragoza,LaLiga,2010/2011,2010
+Pablo Alcolea,Goalkeeper,1989-03-23,21,Spain,Real Zaragoza,LaLiga,2010/2011,2010
+Paulo da Silva,Centre-Back,1980-02-01,30,Paraguay,Real Zaragoza,LaLiga,2010/2011,2010
+Matteo Contini,Centre-Back,1980-04-16,30,Italy,Real Zaragoza,LaLiga,2010/2011,2010
+Jiri Jarosik,Centre-Back,1977-10-27,32,Czech Republic,Real Zaragoza,LaLiga,2010/2011,2010
+Maurizio Lanzaro,Centre-Back,1982-03-14,28,Italy,Real Zaragoza,LaLiga,2010/2011,2010
+Raúl Goni,Centre-Back,1988-10-12,21,Spain,Real Zaragoza,LaLiga,2010/2011,2010
+Víctor Laguardia,Centre-Back,1989-11-05,20,Spain,Real Zaragoza,LaLiga,2010/2011,2010
+Ivan Obradovic,Left-Back,1988-07-25,21,Serbia,Real Zaragoza,LaLiga,2010/2011,2010
+Javier Paredes,Left-Back,1982-07-05,27,Spain,Real Zaragoza,LaLiga,2010/2011,2010
+Isma López,Left-Back,1990-01-29,20,Spain,Real Zaragoza,LaLiga,2010/2011,2010
+Carlos Diogo,Right-Back,1983-07-18,26,Uruguay,Real Zaragoza,LaLiga,2010/2011,2010
+José Ruiz,Right-Back,1990-03-26,20,Spain,Real Zaragoza,LaLiga,2010/2011,2010
+Leonardo Ponzio,Defensive Midfield,1982-01-29,28,Argentina,Real Zaragoza,LaLiga,2010/2011,2010
+Gabi,Defensive Midfield,1983-07-10,26,Spain,Real Zaragoza,LaLiga,2010/2011,2010
+Guirane N'Daw,Defensive Midfield,1984-04-24,26,Senegal,Real Zaragoza,LaLiga,2010/2011,2010
+Edmílson,Defensive Midfield,1976-07-10,33,Brazil,Real Zaragoza,LaLiga,2010/2011,2010
+Ádám Pintér,Defensive Midfield,1988-06-12,22,Hungary,Real Zaragoza,LaLiga,2010/2011,2010
+Ander Herrera,Central Midfield,1989-08-14,20,Spain,Real Zaragoza,LaLiga,2010/2011,2010
+Saïd Boutahar,Attacking Midfield,1982-08-12,27,Netherlands,Real Zaragoza,LaLiga,2010/2011,2010
+Ángel Lafita,Left Winger,1984-08-07,25,Spain,Real Zaragoza,LaLiga,2010/2011,2010
+Nicolás Bertolo,Left Winger,1986-01-02,24,Argentina,Real Zaragoza,LaLiga,2010/2011,2010
+Jorge López,Right Winger,1978-09-19,31,Spain,Real Zaragoza,LaLiga,2010/2011,2010
+Kevin Lacruz,Right Winger,1992-02-13,18,Spain,Real Zaragoza,LaLiga,2010/2011,2010
+Florent Sinama-Pongolle,Second Striker,1984-10-20,25,France,Real Zaragoza,LaLiga,2010/2011,2010
+Ikechukwu Uche,Centre-Forward,1984-01-05,26,Nigeria,Real Zaragoza,LaLiga,2010/2011,2010
+Braulio Nóbrega,Centre-Forward,1985-09-18,24,Spain,Real Zaragoza,LaLiga,2010/2011,2010
+Marco Pérez,Centre-Forward,1990-09-18,19,Colombia,Real Zaragoza,LaLiga,2010/2011,2010
+Asier Riesgo,Goalkeeper,1983-10-06,26,Spain,CA Osasuna,LaLiga,2010/2011,2010
+Ricardo,Goalkeeper,1971-12-30,38,Spain,CA Osasuna,LaLiga,2010/2011,2010
+Nacho Zabal,Goalkeeper,1987-02-14,23,Spain,CA Osasuna,LaLiga,2010/2011,2010
+Miguel Flaño,Centre-Back,1984-08-19,25,Spain,CA Osasuna,LaLiga,2010/2011,2010
+Sergio,Centre-Back,1977-05-23,33,Spain,CA Osasuna,LaLiga,2010/2011,2010
+Josetxo,Centre-Back,1977-02-25,33,Spain,CA Osasuna,LaLiga,2010/2011,2010
+Ekhi Senar,Centre-Back,1990-04-26,20,Spain,CA Osasuna,LaLiga,2010/2011,2010
+Nacho Monreal,Left-Back,1986-02-26,24,Spain,CA Osasuna,LaLiga,2010/2011,2010
+Juanfran,Right-Back,1985-01-09,25,Spain,CA Osasuna,LaLiga,2010/2011,2010
+Nélson,Right-Back,1983-06-10,27,Portugal,CA Osasuna,LaLiga,2010/2011,2010
+Damià,Right-Back,1982-04-15,28,Spain,CA Osasuna,LaLiga,2010/2011,2010
+Javad Nekounam,Defensive Midfield,1980-09-07,29,Iran,CA Osasuna,LaLiga,2010/2011,2010
+Lolo,Defensive Midfield,1984-08-22,25,Spain,CA Osasuna,LaLiga,2010/2011,2010
+Patxi Puñal,Defensive Midfield,1975-09-06,34,Spain,CA Osasuna,LaLiga,2010/2011,2010
+Oier,Defensive Midfield,1986-05-25,24,Spain,CA Osasuna,LaLiga,2010/2011,2010
+David Timor,Defensive Midfield,1989-10-17,20,Spain,CA Osasuna,LaLiga,2010/2011,2010
+Rúper,Central Midfield,1987-06-04,23,Spain,CA Osasuna,LaLiga,2010/2011,2010
+Krisztián Vadócz,Central Midfield,1985-05-03,25,Hungary,CA Osasuna,LaLiga,2010/2011,2010
+Javier Calleja,Left Midfield,1978-05-12,32,Spain,CA Osasuna,LaLiga,2010/2011,2010
+Masoud Shojaei,Attacking Midfield,1984-06-09,26,Iran,CA Osasuna,LaLiga,2010/2011,2010
+Fernando Soriano,Attacking Midfield,1979-09-24,30,Spain,CA Osasuna,LaLiga,2010/2011,2010
+Xavier Annunziata,Left Winger,1987-08-31,22,Spain,CA Osasuna,LaLiga,2010/2011,2010
+Javier Camuñas,Right Winger,1980-07-17,29,Spain,CA Osasuna,LaLiga,2010/2011,2010
+Álvaro Cejudo,Second Striker,1984-01-29,26,Spain,CA Osasuna,LaLiga,2010/2011,2010
+Wálter Pandiani,Centre-Forward,1976-04-27,34,Uruguay,CA Osasuna,LaLiga,2010/2011,2010
+Carlos Aranda,Centre-Forward,1980-07-27,29,Spain,CA Osasuna,LaLiga,2010/2011,2010
+Dejan Lekic,Centre-Forward,1985-06-07,25,Serbia,CA Osasuna,LaLiga,2010/2011,2010
+Coro,Centre-Forward,1983-01-05,27,Spain,CA Osasuna,LaLiga,2010/2011,2010
+Kike Sola,Centre-Forward,1986-02-25,24,Spain,CA Osasuna,LaLiga,2010/2011,2010
+Diego Alves,Goalkeeper,1985-06-24,25,Brazil,UD Almería,LaLiga,2010/2011,2010
+Esteban,Goalkeeper,1975-06-27,35,Spain,UD Almería,LaLiga,2010/2011,2010
+Diego García,Goalkeeper,1990-01-13,20,Spain,UD Almería,LaLiga,2010/2011,2010
+Hernán Pellerano,Centre-Back,1984-06-04,26,Argentina,UD Almería,LaLiga,2010/2011,2010
+Michael Jakobsen,Centre-Back,1986-01-02,24,Denmark,UD Almería,LaLiga,2010/2011,2010
+Carlos García,Centre-Back,1984-04-29,26,Spain,UD Almería,LaLiga,2010/2011,2010
+Santiago Acasiete,Centre-Back,1977-11-22,32,Peru,UD Almería,LaLiga,2010/2011,2010
+Marcelo Silva,Centre-Back,1989-03-21,21,Uruguay,UD Almería,LaLiga,2010/2011,2010
+Baltasar Rigo,Centre-Back,1985-06-26,25,Spain,UD Almería,LaLiga,2010/2011,2010
+Antonio Luna,Left-Back,1991-03-17,19,Spain,UD Almería,LaLiga,2010/2011,2010
+Juanma Ortiz,Right-Back,1982-03-01,28,Spain,UD Almería,LaLiga,2010/2011,2010
+Míchel,Right-Back,1990-02-15,20,Brazil,UD Almería,LaLiga,2010/2011,2010
+Lillo Castellano,Right-Back,1989-03-27,21,Spain,UD Almería,LaLiga,2010/2011,2010
+Modeste M'Bami,Defensive Midfield,1982-10-09,27,Cameroon,UD Almería,LaLiga,2010/2011,2010
+Hernán Bernardello,Defensive Midfield,1986-08-03,23,Argentina,UD Almería,LaLiga,2010/2011,2010
+Juanito,Defensive Midfield,1980-02-17,30,Spain,UD Almería,LaLiga,2010/2011,2010
+Fabián Vargas,Central Midfield,1980-04-17,30,Colombia,UD Almería,LaLiga,2010/2011,2010
+Corona,Central Midfield,1981-02-12,29,Spain,UD Almería,LaLiga,2010/2011,2010
+Miguel Ángel Luque,Central Midfield,1990-07-23,19,Spain,UD Almería,LaLiga,2010/2011,2010
+Diego Váleri,Attacking Midfield,1986-05-01,24,Argentina,UD Almería,LaLiga,2010/2011,2010
+Cristóbal Gil,Attacking Midfield,1992-02-05,18,Spain,UD Almería,LaLiga,2010/2011,2010
+Pablo Piatti,Left Winger,1989-03-31,21,Argentina,UD Almería,LaLiga,2010/2011,2010
+Albert Crusat,Left Winger,1982-05-13,28,Spain,UD Almería,LaLiga,2010/2011,2010
+Miguel Ángel Nieto,Left Winger,1986-01-12,24,Spain,UD Almería,LaLiga,2010/2011,2010
+Sofiane Feghouli,Right Winger,1989-12-26,20,Algeria,UD Almería,LaLiga,2010/2011,2010
+José Ortiz,Right Winger,1977-08-04,32,Spain,UD Almería,LaLiga,2010/2011,2010
+Jonathan Zongo,Right Winger,1989-04-16,21,Burkina Faso,UD Almería,LaLiga,2010/2011,2010
+Kalu Uche,Centre-Forward,1982-11-15,27,Nigeria,UD Almería,LaLiga,2010/2011,2010
+Henok Goitom,Centre-Forward,1984-09-22,25,Eritrea,UD Almería,LaLiga,2010/2011,2010
+Leonardo Ulloa,Centre-Forward,1986-07-26,23,Argentina,UD Almería,LaLiga,2010/2011,2010
+Toño,Goalkeeper,1979-12-17,30,Spain,Racing Santander,LaLiga,2010/2011,2010
+Fabio Coltorti,Goalkeeper,1980-12-03,29,Switzerland,Racing Santander,LaLiga,2010/2011,2010
+Mario Fernández,Goalkeeper,1988-04-30,22,Spain,Racing Santander,LaLiga,2010/2011,2010
+Henrique,Centre-Back,1986-10-14,23,Brazil,Racing Santander,LaLiga,2010/2011,2010
+Marc Torrejón,Centre-Back,1986-02-18,24,Spain,Racing Santander,LaLiga,2010/2011,2010
+Christian Fernández,Centre-Back,1985-10-15,24,Spain,Racing Santander,LaLiga,2010/2011,2010
+Waldo Ponce,Centre-Back,1982-12-04,27,Chile,Racing Santander,LaLiga,2010/2011,2010
+Álvaro González,Centre-Back,1990-01-08,20,Spain,Racing Santander,LaLiga,2010/2011,2010
+Domingo Cisma,Left-Back,1982-02-09,28,Spain,Racing Santander,LaLiga,2010/2011,2010
+Francis Pérez,Right-Back,1981-12-17,28,Spain,Racing Santander,LaLiga,2010/2011,2010
+Pablo Pinillos,Right-Back,1974-07-09,35,Spain,Racing Santander,LaLiga,2010/2011,2010
+Gonzalo Colsa,Defensive Midfield,1979-04-02,31,Spain,Racing Santander,LaLiga,2010/2011,2010
+Mehdi Lacen,Defensive Midfield,1984-05-15,26,Algeria,Racing Santander,LaLiga,2010/2011,2010
+Alexandros Tziolis,Defensive Midfield,1985-02-13,25,Greece,Racing Santander,LaLiga,2010/2011,2010
+Pape Diop,Defensive Midfield,1986-03-19,24,Senegal,Racing Santander,LaLiga,2010/2011,2010
+Osmar,Defensive Midfield,1988-06-05,22,Spain,Racing Santander,LaLiga,2010/2011,2010
+Adrián González,Central Midfield,1988-05-25,22,Spain,Racing Santander,LaLiga,2010/2011,2010
+Edu Bedia,Central Midfield,1989-03-23,21,Spain,Racing Santander,LaLiga,2010/2011,2010
+Ramón Arcas,Central Midfield,1991-01-25,19,Spain,Racing Santander,LaLiga,2010/2011,2010
+Tato,Central Midfield,1992-07-09,17,Spain,Racing Santander,LaLiga,2010/2011,2010
+Kennedy,Right Midfield,1980-11-02,29,Sweden,Racing Santander,LaLiga,2010/2011,2010
+Óscar Serrano,Left Midfield,1981-09-30,28,Spain,Racing Santander,LaLiga,2010/2011,2010
+Julián Luque,Attacking Midfield,1992-03-27,18,Spain,Racing Santander,LaLiga,2010/2011,2010
+Manuel Arana,Right Winger,1984-12-03,25,Spain,Racing Santander,LaLiga,2010/2011,2010
+Giovani dos Santos,Second Striker,1989-05-11,21,Mexico,Racing Santander,LaLiga,2010/2011,2010
+Pedro Munitis,Second Striker,1975-06-19,35,Spain,Racing Santander,LaLiga,2010/2011,2010
+Mémé Tchité,Centre-Forward,1984-01-31,26,Burundi,Racing Santander,LaLiga,2010/2011,2010
+Markus Rosenberg,Centre-Forward,1982-09-27,27,Sweden,Racing Santander,LaLiga,2010/2011,2010
+Iván Bolado,Centre-Forward,1989-07-03,20,Equatorial Guinea,Racing Santander,LaLiga,2010/2011,2010
+Ariel Nahuelpán,Centre-Forward,1987-10-15,22,Argentina,Racing Santander,LaLiga,2010/2011,2010
+Piet Velthuizen,Goalkeeper,1986-11-03,23,Netherlands,Hércules CF,LaLiga,2010/2011,2010
+Juan Calatayud,Goalkeeper,1979-12-21,30,Spain,Hércules CF,LaLiga,2010/2011,2010
+Unai Alba,Goalkeeper,1978-02-19,32,Spain,Hércules CF,LaLiga,2010/2011,2010
+Álex Berenguer,Goalkeeper,1989-06-18,21,Spain,Hércules CF,LaLiga,2010/2011,2010
+Mohamed Sarr,Centre-Back,1983-12-23,26,Senegal,Hércules CF,LaLiga,2010/2011,2010
+Abraham Paz,Centre-Back,1979-06-29,31,Spain,Hércules CF,LaLiga,2010/2011,2010
+Rodri,Centre-Back,1984-08-17,25,Spain,Hércules CF,LaLiga,2010/2011,2010
+Noé Pamarot,Centre-Back,1979-04-14,31,France,Hércules CF,LaLiga,2010/2011,2010
+Paco Peña,Left-Back,1978-07-25,31,Spain,Hércules CF,LaLiga,2010/2011,2010
+Cristian Pulhac,Left-Back,1984-08-17,25,Romania,Hércules CF,LaLiga,2010/2011,2010
+Pepe Sellés,Left-Back,1993-10-25,16,Spain,Hércules CF,LaLiga,2010/2011,2010
+David Cortés,Right-Back,1979-08-29,30,Spain,Hércules CF,LaLiga,2010/2011,2010
+Juanra,Right-Back,1980-04-24,30,Spain,Hércules CF,LaLiga,2010/2011,2010
+Kiko Femenía,Right-Back,1991-02-02,19,Spain,Hércules CF,LaLiga,2010/2011,2010
+Abel Aguilar,Defensive Midfield,1985-01-06,25,Colombia,Hércules CF,LaLiga,2010/2011,2010
+Francisco Farinós,Defensive Midfield,1978-03-29,32,Spain,Hércules CF,LaLiga,2010/2011,2010
+Matías Fritzler,Defensive Midfield,1986-08-23,23,Argentina,Hércules CF,LaLiga,2010/2011,2010
+Tiago Gomes,Central Midfield,1985-08-19,24,Portugal,Hércules CF,LaLiga,2010/2011,2010
+Jesús Pastor,Central Midfield,1993-04-27,17,Venezuela,Hércules CF,LaLiga,2010/2011,2010
+Royston Drenthe,Left Midfield,1987-04-08,23,Netherlands,Hércules CF,LaLiga,2010/2011,2010
+Olivier Thomert,Left Midfield,1980-05-28,30,Martinique,Hércules CF,LaLiga,2010/2011,2010
+Tote,Attacking Midfield,1978-11-23,31,Spain,Hércules CF,LaLiga,2010/2011,2010
+Cristian Hidalgo,Left Winger,1983-09-21,26,Spain,Hércules CF,LaLiga,2010/2011,2010
+Sendoa Agirre,Left Winger,1975-12-31,34,Spain,Hércules CF,LaLiga,2010/2011,2010
+Luis Carlos Martín,Left Winger,1990-12-16,19,Spain,Hércules CF,LaLiga,2010/2011,2010
+Borja Arlanzon,Left Winger,1997-08-15,12,Spain,Hércules CF,LaLiga,2010/2011,2010
+Francisco Rufete,Right Winger,1976-11-20,33,Spain,Hércules CF,LaLiga,2010/2011,2010
+Javo,Right Winger,1992-02-05,18,Spain,Hércules CF,LaLiga,2010/2011,2010
+David Trézéguet,Centre-Forward,1977-10-15,32,France,Hércules CF,LaLiga,2010/2011,2010
+Nelson Valdez,Centre-Forward,1983-11-28,26,Paraguay,Hércules CF,LaLiga,2010/2011,2010
+Javier Portillo,Centre-Forward,1982-03-30,28,Spain,Hércules CF,LaLiga,2010/2011,2010
+Sergio Poveda,Centre-Forward,1988-11-18,21,Spain,Hércules CF,LaLiga,2010/2011,2010
+Carlos Kameni,Goalkeeper,1984-02-18,26,Cameroon,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
+Cristian Álvarez,Goalkeeper,1985-11-13,24,Argentina,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
+Kiko Casilla,Goalkeeper,1986-10-02,23,Spain,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
+Dinu Moldovan,Goalkeeper,1990-05-03,20,Romania,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
+Juan Forlín,Centre-Back,1988-01-10,22,Argentina,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
+Víctor Ruiz,Centre-Back,1989-01-25,21,Spain,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
+Jordi Amat,Centre-Back,1992-03-21,18,Spain,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
+Raúl Rodríguez,Centre-Back,1987-09-22,22,Spain,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
+David López,Centre-Back,1989-10-09,20,Spain,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
+Albert Canal,Centre-Back,1990-11-30,19,Spain,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
+David García,Left-Back,1981-01-16,29,Spain,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
+Dídac Vilà,Left-Back,1989-06-09,21,Spain,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
+Víctor Álvarez,Left-Back,1993-03-14,17,Spain,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
+Javi Chica,Right-Back,1985-05-17,25,Spain,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
+Felipe Mattioni,Right-Back,1988-10-15,21,Brazil,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
+Ernesto Galán,Right-Back,1986-06-17,24,Spain,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
+Javi López,Right-Back,1986-01-21,24,Spain,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
+Aldo Duscher,Defensive Midfield,1979-03-22,31,Argentina,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
+Raúl Baena,Defensive Midfield,1989-03-02,21,Spain,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
+Isaías,Defensive Midfield,1987-02-09,23,Spain,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
+Luis García,Central Midfield,1981-02-06,29,Spain,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
+Javi Márquez,Central Midfield,1986-05-11,24,Spain,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
+Jesús Dátolo,Left Midfield,1984-05-19,26,Argentina,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
+Joan Verdú,Attacking Midfield,1983-05-05,27,Spain,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
+Iván de la Peña,Attacking Midfield,1976-05-06,34,Spain,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
+Manu Molina,Attacking Midfield,1991-11-20,18,Spain,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
+Thievy Bifouma,Left Winger,1992-05-13,18,Congo,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
+José Callejón,Right Winger,1987-02-11,23,Spain,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
+Eric López,Right Winger,1993-04-01,17,Spain,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
+Sergio García,Centre-Forward,1983-06-09,27,Spain,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
+Daniel Osvaldo,Centre-Forward,1986-01-12,24,Italy,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
+Iván Alonso,Centre-Forward,1979-04-10,31,Uruguay,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
+Coro,Centre-Forward,1983-01-05,27,Spain,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
+Rui Fonte,Centre-Forward,1990-04-23,20,Portugal,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
+Álvaro Vázquez,Centre-Forward,1991-04-27,19,Spain,RCD Espanyol Barcelona,LaLiga,2010/2011,2010
+Juan Pablo,Goalkeeper,1978-09-02,31,Spain,Sporting Gijón,LaLiga,2010/2011,2010
+Iván Cuéllar,Goalkeeper,1984-05-25,26,Spain,Sporting Gijón,LaLiga,2010/2011,2010
+Raúl Domínguez,Goalkeeper,1986-11-01,23,Spain,Sporting Gijón,LaLiga,2010/2011,2010
+Grégory Arnolin,Centre-Back,1980-11-10,29,Martinique,Sporting Gijón,LaLiga,2010/2011,2010
+Alberto Botía,Centre-Back,1989-01-27,21,Spain,Sporting Gijón,LaLiga,2010/2011,2010
+Iván Hernández,Centre-Back,1980-02-27,30,Spain,Sporting Gijón,LaLiga,2010/2011,2010
+Jorge García,Centre-Back,1984-01-18,26,Spain,Sporting Gijón,LaLiga,2010/2011,2010
+Alain Álvarez,Centre-Back,1989-11-13,20,Spain,Sporting Gijón,LaLiga,2010/2011,2010
+Javi Poves,Centre-Back,1986-09-28,23,Spain,Sporting Gijón,LaLiga,2010/2011,2010
+Pedro Orfila,Centre-Back,1988-03-06,22,Spain,Sporting Gijón,LaLiga,2010/2011,2010
+Roberto Canella,Left-Back,1988-02-07,22,Spain,Sporting Gijón,LaLiga,2010/2011,2010
+José Ángel,Left-Back,1989-09-05,20,Spain,Sporting Gijón,LaLiga,2010/2011,2010
+Ayoze,Left-Back,1985-11-22,24,Spain,Sporting Gijón,LaLiga,2010/2011,2010
+Alberto Lora,Right-Back,1987-03-25,23,Spain,Sporting Gijón,LaLiga,2010/2011,2010
+Rafael Sastre,Right-Back,1975-10-20,34,Spain,Sporting Gijón,LaLiga,2010/2011,2010
+Sebastián Eguren,Defensive Midfield,1981-01-08,29,Uruguay,Sporting Gijón,LaLiga,2010/2011,2010
+Sergio Matabuena,Defensive Midfield,1979-02-12,31,Spain,Sporting Gijón,LaLiga,2010/2011,2010
+Alberto Rivera,Central Midfield,1978-02-16,32,Spain,Sporting Gijón,LaLiga,2010/2011,2010
+André Castro,Central Midfield,1988-04-02,22,Portugal,Sporting Gijón,LaLiga,2010/2011,2010
+Cristian Portilla,Central Midfield,1988-08-28,21,Spain,Sporting Gijón,LaLiga,2010/2011,2010
+Marcos Landeira,Central Midfield,1987-05-12,23,Spain,Sporting Gijón,LaLiga,2010/2011,2010
+Sergio Álvarez,Central Midfield,1992-01-23,18,Spain,Sporting Gijón,LaLiga,2010/2011,2010
+Nacho Cases,Central Midfield,1987-12-22,22,Spain,Sporting Gijón,LaLiga,2010/2011,2010
+Carmelo,Attacking Midfield,1983-07-09,26,Spain,Sporting Gijón,LaLiga,2010/2011,2010
+Juan Muñiz,Attacking Midfield,1992-03-14,18,Spain,Sporting Gijón,LaLiga,2010/2011,2010
+Diego Castro,Left Winger,1982-07-02,27,Spain,Sporting Gijón,LaLiga,2010/2011,2010
+Miguel de las Cuevas,Right Winger,1986-06-19,24,Spain,Sporting Gijón,LaLiga,2010/2011,2010
+Nacho Novo,Right Winger,1979-03-26,31,Spain,Sporting Gijón,LaLiga,2010/2011,2010
+Gastón Sangoy,Right Winger,1984-10-05,25,Argentina,Sporting Gijón,LaLiga,2010/2011,2010
+Mate Bilic,Centre-Forward,1980-10-23,29,Croatia,Sporting Gijón,LaLiga,2010/2011,2010
+Luis Morán,Centre-Forward,1987-07-26,22,Spain,Sporting Gijón,LaLiga,2010/2011,2010
+David Barral,Centre-Forward,1983-05-10,27,Spain,Sporting Gijón,LaLiga,2010/2011,2010
+Guillermo Méndez,Centre-Forward,1992-01-31,18,Spain,Sporting Gijón,LaLiga,2010/2011,2010
+Dudu Aouate,Goalkeeper,1977-10-17,32,Israel,RCD Mallorca,LaLiga,2010/2011,2010
+Germán Lux,Goalkeeper,1982-07-06,27,Argentina,RCD Mallorca,LaLiga,2010/2011,2010
+Tomeu Nadal,Goalkeeper,1989-02-08,21,Spain,RCD Mallorca,LaLiga,2010/2011,2010
+Iván Ramis,Centre-Back,1984-10-25,25,Spain,RCD Mallorca,LaLiga,2010/2011,2010
+José Nunes,Centre-Back,1977-03-07,33,Portugal,RCD Mallorca,LaLiga,2010/2011,2010
+Martí Crespí,Centre-Back,1987-06-15,23,Spain,RCD Mallorca,LaLiga,2010/2011,2010
+Rubén González,Centre-Back,1982-01-29,28,Spain,RCD Mallorca,LaLiga,2010/2011,2010
+Ximo Navarro,Centre-Back,1990-01-23,20,Spain,RCD Mallorca,LaLiga,2010/2011,2010
+Ayoze Díaz,Left-Back,1982-05-25,28,Spain,RCD Mallorca,LaLiga,2010/2011,2010
+Enrique Corrales,Left-Back,1982-03-01,28,Spain,RCD Mallorca,LaLiga,2010/2011,2010
+Kevin García,Left-Back,1989-09-08,20,Spain,RCD Mallorca,LaLiga,2010/2011,2010
+Edson Ratinho,Right-Back,1986-05-31,24,Brazil,RCD Mallorca,LaLiga,2010/2011,2010
+Emilio Nsue,Right-Back,1989-09-30,20,Equatorial Guinea,RCD Mallorca,LaLiga,2010/2011,2010
+Pau Cendrós,Right-Back,1987-04-01,23,Spain,RCD Mallorca,LaLiga,2010/2011,2010
+Josep Lluís Martí,Defensive Midfield,1975-04-28,35,Spain,RCD Mallorca,LaLiga,2010/2011,2010
+João Victor,Defensive Midfield,1988-11-07,21,Brazil,RCD Mallorca,LaLiga,2010/2011,2010
+Jonathan de Guzmán,Central Midfield,1987-09-13,22,Netherlands,RCD Mallorca,LaLiga,2010/2011,2010
+Sergio Tejera,Central Midfield,1990-05-28,20,Spain,RCD Mallorca,LaLiga,2010/2011,2010
+Tomás Pina,Central Midfield,1987-10-14,22,Spain,RCD Mallorca,LaLiga,2010/2011,2010
+Michaël Pereira,Right Midfield,1987-12-08,22,France,RCD Mallorca,LaLiga,2010/2011,2010
+Akihiro Ienaga,Attacking Midfield,1986-06-13,24,Japan,RCD Mallorca,LaLiga,2010/2011,2010
+Chory Castro,Left Winger,1984-09-14,25,Uruguay,RCD Mallorca,LaLiga,2010/2011,2010
+Tuni,Right Winger,1982-06-14,28,Spain,RCD Mallorca,LaLiga,2010/2011,2010
+Fernando Cavenaghi,Centre-Forward,1983-09-21,26,Argentina,RCD Mallorca,LaLiga,2010/2011,2010
+Pierre Webó,Centre-Forward,1982-01-20,28,Cameroon,RCD Mallorca,LaLiga,2010/2011,2010
+Víctor Casadesús,Centre-Forward,1985-02-28,25,Spain,RCD Mallorca,LaLiga,2010/2011,2010
+Alhassane Keita,Centre-Forward,1983-06-26,27,Guinea,RCD Mallorca,LaLiga,2010/2011,2010
+Sergi Enrich,Centre-Forward,1990-02-26,20,Spain,RCD Mallorca,LaLiga,2010/2011,2010
+Abdón Prats,Centre-Forward,1992-12-07,17,Spain,RCD Mallorca,LaLiga,2010/2011,2010
+Claudio Bravo,Goalkeeper,1983-04-13,27,Chile,Real Sociedad,LaLiga,2010/2011,2010
+Eñaut Zubikarai,Goalkeeper,1984-02-26,26,Spain,Real Sociedad,LaLiga,2010/2011,2010
+Toño,Goalkeeper,1986-11-23,23,Spain,Real Sociedad,LaLiga,2010/2011,2010
+Vadim Demidov,Centre-Back,1986-10-10,23,Norway,Real Sociedad,LaLiga,2010/2011,2010
+Mikel González,Centre-Back,1985-09-24,24,Spain,Real Sociedad,LaLiga,2010/2011,2010
+Ion Ansotegi,Centre-Back,1982-07-13,27,Spain,Real Sociedad,LaLiga,2010/2011,2010
+Mikel Labaka,Centre-Back,1980-08-10,29,Spain,Real Sociedad,LaLiga,2010/2011,2010
+Liassine Cadamuro,Centre-Back,1988-03-05,22,Algeria,Real Sociedad,LaLiga,2010/2011,2010
+Alberto de la Bella,Left-Back,1985-12-02,24,Spain,Real Sociedad,LaLiga,2010/2011,2010
+Daniel Estrada,Right-Back,1987-01-03,23,Spain,Real Sociedad,LaLiga,2010/2011,2010
+Carlos Martínez,Right-Back,1986-04-09,24,Spain,Real Sociedad,LaLiga,2010/2011,2010
+Mikel Aranburu,Defensive Midfield,1979-02-18,31,Spain,Real Sociedad,LaLiga,2010/2011,2010
+Gorka Elustondo,Defensive Midfield,1987-03-18,23,Spain,Real Sociedad,LaLiga,2010/2011,2010
+Markel Bergara,Defensive Midfield,1986-05-05,24,Spain,Real Sociedad,LaLiga,2010/2011,2010
+Asier Illarramendi,Defensive Midfield,1990-03-08,20,Spain,Real Sociedad,LaLiga,2010/2011,2010
+Xabi Prieto,Central Midfield,1983-08-29,26,Spain,Real Sociedad,LaLiga,2010/2011,2010
+Diego Rivas,Central Midfield,1980-04-27,30,Spain,Real Sociedad,LaLiga,2010/2011,2010
+David Zurutuza,Central Midfield,1986-07-19,23,Spain,Real Sociedad,LaLiga,2010/2011,2010
+Paco Sutil,Attacking Midfield,1984-12-21,25,Spain,Real Sociedad,LaLiga,2010/2011,2010
+Jeffrey Sarpong,Left Winger,1988-08-03,21,Netherlands,Real Sociedad,LaLiga,2010/2011,2010
+Joseba Llorente,Centre-Forward,1979-11-24,30,Spain,Real Sociedad,LaLiga,2010/2011,2010
+Raúl Tamudo,Centre-Forward,1977-10-19,32,Spain,Real Sociedad,LaLiga,2010/2011,2010
+Antoine Griezmann,Centre-Forward,1991-03-21,19,France,Real Sociedad,LaLiga,2010/2011,2010
+Imanol Agirretxe,Centre-Forward,1987-02-24,23,Spain,Real Sociedad,LaLiga,2010/2011,2010
+Diego Ifrán,Centre-Forward,1987-06-08,23,Uruguay,Real Sociedad,LaLiga,2010/2011,2010
+Borja Viguera,Centre-Forward,1987-03-26,23,Spain,Real Sociedad,LaLiga,2010/2011,2010
+Gustavo Munúa,Goalkeeper,1978-01-27,32,Uruguay,Levante UD,LaLiga,2010/2011,2010
+Manolo Reina,Goalkeeper,1985-04-01,25,Spain,Levante UD,LaLiga,2010/2011,2010
+Sergio Garabato,Goalkeeper,1989-05-16,21,Spain,Levante UD,LaLiga,2010/2011,2010
+Nano,Centre-Back,1980-07-07,29,Spain,Levante UD,LaLiga,2010/2011,2010
+Héctor Rodas,Centre-Back,1988-03-07,22,Spain,Levante UD,LaLiga,2010/2011,2010
+Sergio Ballesteros,Centre-Back,1975-09-04,34,Spain,Levante UD,LaLiga,2010/2011,2010
+Miquel Robusté,Centre-Back,1985-05-20,25,Spain,Levante UD,LaLiga,2010/2011,2010
+Antonio López,Centre-Back,1989-09-05,20,Spain,Levante UD,LaLiga,2010/2011,2010
+Juanfran,Left-Back,1976-07-15,33,Spain,Levante UD,LaLiga,2010/2011,2010
+Asier del Horno,Left-Back,1981-01-19,29,Spain,Levante UD,LaLiga,2010/2011,2010
+Mossa,Left-Back,1989-01-24,21,Spain,Levante UD,LaLiga,2010/2011,2010
+Javi Venta,Right-Back,1975-12-13,34,Spain,Levante UD,LaLiga,2010/2011,2010
+David Cerra,Right-Back,1983-08-04,26,Spain,Levante UD,LaLiga,2010/2011,2010
+Vicente Iborra,Defensive Midfield,1988-01-16,22,Spain,Levante UD,LaLiga,2010/2011,2010
+Sergio,Central Midfield,1976-11-10,33,Spain,Levante UD,LaLiga,2010/2011,2010
+Miguel Pallardó,Central Midfield,1986-09-05,23,Spain,Levante UD,LaLiga,2010/2011,2010
+Xavi Torres,Central Midfield,1986-11-21,23,Spain,Levante UD,LaLiga,2010/2011,2010
+Gorka Larrea,Central Midfield,1984-04-07,26,Spain,Levante UD,LaLiga,2010/2011,2010
+Miguel Pérez,Right Midfield,1980-05-22,30,Spain,Levante UD,LaLiga,2010/2011,2010
+Juanlu,Left Midfield,1980-05-18,30,Spain,Levante UD,LaLiga,2010/2011,2010
+Ignacio González,Attacking Midfield,1982-05-14,28,Uruguay,Levante UD,LaLiga,2010/2011,2010
+Adrián Lois,Attacking Midfield,1989-02-12,21,Spain,Levante UD,LaLiga,2010/2011,2010
+Jefferson Montero,Left Winger,1989-09-01,20,Ecuador,Levante UD,LaLiga,2010/2011,2010
+Valdo,Right Winger,1981-04-23,29,Cape Verde,Levante UD,LaLiga,2010/2011,2010
+Xisco Nadal,Right Winger,1986-06-27,24,Spain,Levante UD,LaLiga,2010/2011,2010
+Wellington Silva,Right Winger,1993-01-06,17,Brazil,Levante UD,LaLiga,2010/2011,2010
+José Higón,Right Winger,1991-05-22,19,Spain,Levante UD,LaLiga,2010/2011,2010
+Xisco,Second Striker,1980-09-05,29,Spain,Levante UD,LaLiga,2010/2011,2010
+Rubén Suárez,Second Striker,1979-02-19,31,Spain,Levante UD,LaLiga,2010/2011,2010
+Felipe Caicedo,Centre-Forward,1988-09-05,21,Ecuador,Levante UD,LaLiga,2010/2011,2010
+Cristhian Stuani,Centre-Forward,1986-10-12,23,Uruguay,Levante UD,LaLiga,2010/2011,2010
+Rafa Jordá,Centre-Forward,1984-01-01,26,Spain,Levante UD,LaLiga,2010/2011,2010
+Mono,Centre-Forward,1989-03-01,21,Spain,Levante UD,LaLiga,2010/2011,2010

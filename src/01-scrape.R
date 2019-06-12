@@ -16,7 +16,7 @@ league_meta <- tibble(
 )
 
 # seasons to scrape
-seasons <- 2005:2018
+seasons <- 2004:2018
 
 # create directory tree
 fs::dir_create(path = file.path("data", seasons))
