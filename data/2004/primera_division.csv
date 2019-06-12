@@ -1,0 +1,637 @@
+player_name,position,date_of_birth,age,nationality,club_name,league_name,season,year
+Dudu Aouate,Goalkeeper,1977-10-17,26,Israel,Racing Santander,LaLiga,2004/2005,2004
+Mauricio Nanni,Goalkeeper,1979-07-12,24,Uruguay,Racing Santander,LaLiga,2004/2005,2004
+Toño,Goalkeeper,1979-12-17,24,Spain,Racing Santander,LaLiga,2004/2005,2004
+Sergio López,Goalkeeper,1985-10-29,18,Spain,Racing Santander,LaLiga,2004/2005,2004
+Alessandro Pierini,Centre-Back,1973-03-22,31,Italy,Racing Santander,LaLiga,2004/2005,2004
+Oriol Lozano,Centre-Back,1981-05-23,23,Spain,Racing Santander,LaLiga,2004/2005,2004
+Pablo Casar,Centre-Back,1978-09-17,25,Spain,Racing Santander,LaLiga,2004/2005,2004
+Argel Fucks,Centre-Back,1974-09-04,29,Brazil,Racing Santander,LaLiga,2004/2005,2004
+José Moratón,Centre-Back,1979-07-14,24,Spain,Racing Santander,LaLiga,2004/2005,2004
+Juanma Delgado,Centre-Back,1977-01-13,27,Spain,Racing Santander,LaLiga,2004/2005,2004
+Frantz Bertin,Centre-Back,1983-05-30,21,Haiti,Racing Santander,LaLiga,2004/2005,2004
+Ayoze Díaz,Left-Back,1982-05-25,22,Spain,Racing Santander,LaLiga,2004/2005,2004
+Walid Regragui,Right-Back,1975-09-23,28,Morocco,Racing Santander,LaLiga,2004/2005,2004
+Cristian Álvarez,Right-Back,1978-01-09,26,Argentina,Racing Santander,LaLiga,2004/2005,2004
+Pedro López,Right-Back,1983-11-01,20,Spain,Racing Santander,LaLiga,2004/2005,2004
+Pablo Ríos,Midfielder,1985-02-13,19,Spain,Racing Santander,LaLiga,2004/2005,2004
+Mehdi Nafti,Defensive Midfield,1978-11-28,25,Tunisia,Racing Santander,LaLiga,2004/2005,2004
+Diego Mateo,Defensive Midfield,1978-08-07,25,Argentina,Racing Santander,LaLiga,2004/2005,2004
+Gerardo Torrado,Defensive Midfield,1979-04-30,25,Mexico,Racing Santander,LaLiga,2004/2005,2004
+Anderson Silva,Defensive Midfield,1982-08-28,21,Brazil,Racing Santander,LaLiga,2004/2005,2004
+Sergio Matabuena,Defensive Midfield,1979-02-12,25,Spain,Racing Santander,LaLiga,2004/2005,2004
+Antonio Tomás,Central Midfield,1985-01-13,19,Spain,Racing Santander,LaLiga,2004/2005,2004
+Fernando Morán,Right Midfield,1976-04-27,28,Spain,Racing Santander,LaLiga,2004/2005,2004
+Jonathan Valle,Attacking Midfield,1984-12-30,19,Spain,Racing Santander,LaLiga,2004/2005,2004
+Líbero Parri,Attacking Midfield,1982-01-18,22,Spain,Racing Santander,LaLiga,2004/2005,2004
+Pablo Sierra,Forward,1978-10-03,25,Spain,Racing Santander,LaLiga,2004/2005,2004
+Mario Regueiro,Left Winger,1978-09-09,25,Uruguay,Racing Santander,LaLiga,2004/2005,2004
+Fernando Marqués,Right Winger,1984-12-04,19,Spain,Racing Santander,LaLiga,2004/2005,2004
+Yossi Benayoun,Right Winger,1980-05-05,24,Israel,Racing Santander,LaLiga,2004/2005,2004
+Juan José Collantes,Right Winger,1983-01-07,21,Spain,Racing Santander,LaLiga,2004/2005,2004
+Juanjo Expósito,Centre-Forward,1985-10-28,18,Spain,Racing Santander,LaLiga,2004/2005,2004
+David Aganzo,Centre-Forward,1981-01-10,23,Spain,Racing Santander,LaLiga,2004/2005,2004
+Javi Guerrero,Centre-Forward,1976-10-22,27,Spain,Racing Santander,LaLiga,2004/2005,2004
+Javier Arizmendi,Centre-Forward,1984-03-03,20,Spain,Racing Santander,LaLiga,2004/2005,2004
+Alberto López,Goalkeeper,1969-05-20,35,Spain,Real Sociedad,LaLiga,2004/2005,2004
+Asier Riesgo,Goalkeeper,1983-10-06,20,Spain,Real Sociedad,LaLiga,2004/2005,2004
+Eñaut Zubikarai,Goalkeeper,1984-02-26,20,Spain,Real Sociedad,LaLiga,2004/2005,2004
+Ignacio Azpilicueta,Centre-Back,1981-10-28,22,Spain,Real Sociedad,LaLiga,2004/2005,2004
+Luiz Alberto,Centre-Back,1977-12-01,26,Brazil,Real Sociedad,LaLiga,2004/2005,2004
+Jérémie Bréchet,Centre-Back,1979-08-14,24,France,Real Sociedad,LaLiga,2004/2005,2004
+Mikel Labaka,Centre-Back,1980-08-10,23,Spain,Real Sociedad,LaLiga,2004/2005,2004
+Igor Jauregi,Centre-Back,1974-04-29,30,Spain,Real Sociedad,LaLiga,2004/2005,2004
+Mikel Azparren,Centre-Back,1981-05-21,23,Spain,Real Sociedad,LaLiga,2004/2005,2004
+Mikel González,Centre-Back,1985-09-24,18,Spain,Real Sociedad,LaLiga,2004/2005,2004
+Fabiano Rossato,Left-Back,1977-08-27,26,Brazil,Real Sociedad,LaLiga,2004/2005,2004
+Javier Garrido,Left-Back,1985-03-15,19,Spain,Real Sociedad,LaLiga,2004/2005,2004
+Aitor López Rekarte,Right-Back,1975-08-18,28,Spain,Real Sociedad,LaLiga,2004/2005,2004
+Iban Zubiaurre,Right-Back,1983-01-22,21,Spain,Real Sociedad,LaLiga,2004/2005,2004
+Markel Bergara,Defensive Midfield,1986-05-05,18,Spain,Real Sociedad,LaLiga,2004/2005,2004
+Mikel Aranburu,Defensive Midfield,1979-02-18,25,Spain,Real Sociedad,LaLiga,2004/2005,2004
+Dragan Mladenovic,Defensive Midfield,1976-02-16,28,Serbia,Real Sociedad,LaLiga,2004/2005,2004
+Mikel Arteta,Central Midfield,1982-03-26,22,Spain,Real Sociedad,LaLiga,2004/2005,2004
+Mikel Alonso,Central Midfield,1980-05-17,24,Spain,Real Sociedad,LaLiga,2004/2005,2004
+Xabi Prieto,Central Midfield,1983-08-29,20,Spain,Real Sociedad,LaLiga,2004/2005,2004
+Gorka Larrea,Central Midfield,1984-04-07,20,Spain,Real Sociedad,LaLiga,2004/2005,2004
+Valeri Karpin,Right Midfield,1969-02-02,35,Russia,Real Sociedad,LaLiga,2004/2005,2004
+Igor Gabilondo,Left Midfield,1979-02-10,25,Spain,Real Sociedad,LaLiga,2004/2005,2004
+Bittor Alkiza,Left Midfield,1970-10-26,33,Spain,Real Sociedad,LaLiga,2004/2005,2004
+Gari Uranga,Attacking Midfield,1980-06-21,24,Spain,Real Sociedad,LaLiga,2004/2005,2004
+José Javier Barkero,Attacking Midfield,1979-04-27,25,Spain,Real Sociedad,LaLiga,2004/2005,2004
+Juan Domínguez,Attacking Midfield,1983-12-29,20,Spain,Real Sociedad,LaLiga,2004/2005,2004
+Oskitz Estefanía,Left Winger,1986-10-12,17,Spain,Real Sociedad,LaLiga,2004/2005,2004
+Darko Kovacevic,Centre-Forward,1973-11-18,30,Serbia,Real Sociedad,LaLiga,2004/2005,2004
+Nihat Kahveci,Centre-Forward,1979-11-23,24,Turkey,Real Sociedad,LaLiga,2004/2005,2004
+Óscar de Paula,Centre-Forward,1975-05-31,29,Spain,Real Sociedad,LaLiga,2004/2005,2004
+Imanol Agirretxe,Centre-Forward,1987-02-24,17,Spain,Real Sociedad,LaLiga,2004/2005,2004
+Francisco Galán,Goalkeeper,1985-01-09,19,Spain,Atlético Madrid,LaLiga,2004/2005,2004
+Sergio Aragoneses,Goalkeeper,1977-02-01,27,Spain,Atlético Madrid,LaLiga,2004/2005,2004
+Leo Franco,Goalkeeper,1977-05-20,27,Argentina,Atlético Madrid,LaLiga,2004/2005,2004
+Iván Cuéllar,Goalkeeper,1984-05-25,20,Spain,Atlético Madrid,LaLiga,2004/2005,2004
+García Calvo,Centre-Back,1975-04-01,29,Spain,Atlético Madrid,LaLiga,2004/2005,2004
+Santi Denia,Centre-Back,1974-03-09,30,Spain,Atlético Madrid,LaLiga,2004/2005,2004
+Nano,Centre-Back,1982-04-20,22,Spain,Atlético Madrid,LaLiga,2004/2005,2004
+Luis Perea,Centre-Back,1979-01-30,25,Colombia,Atlético Madrid,LaLiga,2004/2005,2004
+Pablo Ibáñez,Centre-Back,1981-08-03,22,Spain,Atlético Madrid,LaLiga,2004/2005,2004
+Pablo Sicilia,Centre-Back,1981-09-10,22,Spain,Atlético Madrid,LaLiga,2004/2005,2004
+Antonio López,Left-Back,1981-09-13,22,Spain,Atlético Madrid,LaLiga,2004/2005,2004
+Sergi Barjuán,Left-Back,1971-12-28,32,Spain,Atlético Madrid,LaLiga,2004/2005,2004
+Cosmin Contra,Right-Back,1975-12-15,28,Romania,Atlético Madrid,LaLiga,2004/2005,2004
+Juan Velasco,Right-Back,1977-05-15,27,Spain,Atlético Madrid,LaLiga,2004/2005,2004
+Juan Carlos Aguilera,Right-Back,1969-05-22,35,Spain,Atlético Madrid,LaLiga,2004/2005,2004
+Francisco Molinero,Right-Back,1985-07-26,18,Spain,Atlético Madrid,LaLiga,2004/2005,2004
+Gabi,Defensive Midfield,1983-07-10,20,Spain,Atlético Madrid,LaLiga,2004/2005,2004
+Gonzalo Colsa,Defensive Midfield,1979-04-02,25,Spain,Atlético Madrid,LaLiga,2004/2005,2004
+José Ignacio Zahinos,Defensive Midfield,1977-12-01,26,Spain,Atlético Madrid,LaLiga,2004/2005,2004
+Marcelo Sosa,Defensive Midfield,1978-06-02,26,Uruguay,Atlético Madrid,LaLiga,2004/2005,2004
+Peter Luccin,Defensive Midfield,1979-04-09,25,France,Atlético Madrid,LaLiga,2004/2005,2004
+Jorge Larena,Central Midfield,1981-09-29,22,Spain,Atlético Madrid,LaLiga,2004/2005,2004
+Diego Simeone,Central Midfield,1970-04-28,34,Argentina,Atlético Madrid,LaLiga,2004/2005,2004
+Raúl Medina,Central Midfield,1983-03-10,21,Spain,Atlético Madrid,LaLiga,2004/2005,2004
+Álvaro Novo,Right Midfield,1978-05-16,26,Spain,Atlético Madrid,LaLiga,2004/2005,2004
+Richard Núñez,Attacking Midfield,1976-02-16,28,Uruguay,Atlético Madrid,LaLiga,2004/2005,2004
+Ariel Ibagaza,Attacking Midfield,1976-10-27,27,Argentina,Atlético Madrid,LaLiga,2004/2005,2004
+Jacobo Ynclán,Left Winger,1984-02-04,20,Spain,Atlético Madrid,LaLiga,2004/2005,2004
+Kiki Musampa,Left Winger,1977-07-20,26,Netherlands,Atlético Madrid,LaLiga,2004/2005,2004
+Jesper Grönkjaer,Left Winger,1977-08-12,26,Denmark,Atlético Madrid,LaLiga,2004/2005,2004
+Nacho Novo,Right Winger,1979-03-26,25,Spain,Atlético Madrid,LaLiga,2004/2005,2004
+Veljko Paunovic,Centre-Forward,1977-08-21,26,Serbia,Atlético Madrid,LaLiga,2004/2005,2004
+Javi Moreno,Centre-Forward,1974-09-10,29,Spain,Atlético Madrid,LaLiga,2004/2005,2004
+Fernando Torres,Centre-Forward,1984-03-20,20,Spain,Atlético Madrid,LaLiga,2004/2005,2004
+Salva Ballesta,Centre-Forward,1975-05-22,29,Spain,Atlético Madrid,LaLiga,2004/2005,2004
+Braulio Nóbrega,Centre-Forward,1985-09-18,18,Spain,Atlético Madrid,LaLiga,2004/2005,2004
+Javier Arizmendi,Centre-Forward,1984-03-03,20,Spain,Atlético Madrid,LaLiga,2004/2005,2004
+Erwin Lemmens,Goalkeeper,1976-05-12,28,Belgium,RCD Espanyol Barcelona,LaLiga,2004/2005,2004
+Carlos Kameni,Goalkeeper,1984-02-18,20,Cameroon,RCD Espanyol Barcelona,LaLiga,2004/2005,2004
+Biel Ribas,Goalkeeper,1985-12-02,18,Spain,RCD Espanyol Barcelona,LaLiga,2004/2005,2004
+Alberto Lopo,Centre-Back,1980-05-05,24,Spain,RCD Espanyol Barcelona,LaLiga,2004/2005,2004
+Toni Soldevilla,Centre-Back,1978-09-19,25,Spain,RCD Espanyol Barcelona,LaLiga,2004/2005,2004
+Mauricio Pochettino,Centre-Back,1972-03-02,32,Argentina,RCD Espanyol Barcelona,LaLiga,2004/2005,2004
+Dani Jarque,Centre-Back,1983-01-01,21,Spain,RCD Espanyol Barcelona,LaLiga,2004/2005,2004
+Sergio Sánchez,Centre-Back,1986-04-03,18,Spain,RCD Espanyol Barcelona,LaLiga,2004/2005,2004
+David García,Left-Back,1981-01-16,23,Spain,RCD Espanyol Barcelona,LaLiga,2004/2005,2004
+Didier Domi,Left-Back,1978-05-02,26,France,RCD Espanyol Barcelona,LaLiga,2004/2005,2004
+Hugo Ibarra,Right-Back,1974-04-01,30,Argentina,RCD Espanyol Barcelona,LaLiga,2004/2005,2004
+Óscar Miñambres,Right-Back,1981-02-01,23,Spain,RCD Espanyol Barcelona,LaLiga,2004/2005,2004
+Marc Bertrán,Right-Back,1982-05-22,22,Spain,RCD Espanyol Barcelona,LaLiga,2004/2005,2004
+Àngel Morales,Defensive Midfield,1975-07-13,28,Spain,RCD Espanyol Barcelona,LaLiga,2004/2005,2004
+Frédson,Defensive Midfield,1981-02-22,23,Brazil,RCD Espanyol Barcelona,LaLiga,2004/2005,2004
+Álex Fernández,Defensive Midfield,1974-02-14,30,Spain,RCD Espanyol Barcelona,LaLiga,2004/2005,2004
+Ito,Central Midfield,1975-01-21,29,Spain,RCD Espanyol Barcelona,LaLiga,2004/2005,2004
+Héctor Simón,Central Midfield,1984-03-13,20,Spain,RCD Espanyol Barcelona,LaLiga,2004/2005,2004
+Miki Martínez,Central Midfield,1984-06-28,20,Spain,RCD Espanyol Barcelona,LaLiga,2004/2005,2004
+Toni Velamazán,Right Midfield,1977-01-22,27,Spain,RCD Espanyol Barcelona,LaLiga,2004/2005,2004
+José Amavisca,Left Midfield,1971-06-19,33,Spain,RCD Espanyol Barcelona,LaLiga,2004/2005,2004
+Óscar Serrano,Left Midfield,1981-09-30,22,Spain,RCD Espanyol Barcelona,LaLiga,2004/2005,2004
+Iván de la Peña,Attacking Midfield,1976-05-06,28,Spain,RCD Espanyol Barcelona,LaLiga,2004/2005,2004
+Maxi Rodríguez,Left Winger,1981-01-02,23,Argentina,RCD Espanyol Barcelona,LaLiga,2004/2005,2004
+Martín Posse,Right Winger,1975-08-02,28,Argentina,RCD Espanyol Barcelona,LaLiga,2004/2005,2004
+Dani García,Centre-Forward,1974-12-22,29,Spain,RCD Espanyol Barcelona,LaLiga,2004/2005,2004
+Coro,Centre-Forward,1983-01-05,21,Spain,RCD Espanyol Barcelona,LaLiga,2004/2005,2004
+Raúl Tamudo,Centre-Forward,1977-10-19,26,Spain,RCD Espanyol Barcelona,LaLiga,2004/2005,2004
+Jonathan Soriano,Centre-Forward,1985-09-24,18,Spain,RCD Espanyol Barcelona,LaLiga,2004/2005,2004
+Víctor Valdés,Goalkeeper,1982-01-14,22,Spain,FC Barcelona,LaLiga,2004/2005,2004
+Albert Jorquera,Goalkeeper,1979-03-03,25,Spain,FC Barcelona,LaLiga,2004/2005,2004
+Rubén Martínez,Goalkeeper,1984-06-22,20,Spain,FC Barcelona,LaLiga,2004/2005,2004
+Urko Pardo,Goalkeeper,1983-01-28,21,Cyprus,FC Barcelona,LaLiga,2004/2005,2004
+Rafael Márquez,Centre-Back,1979-02-13,25,Mexico,FC Barcelona,LaLiga,2004/2005,2004
+Carles Puyol,Centre-Back,1978-04-13,26,Spain,FC Barcelona,LaLiga,2004/2005,2004
+Oleguer,Centre-Back,1980-02-02,24,Spain,FC Barcelona,LaLiga,2004/2005,2004
+Pepe Mora,Centre-Back,1981-06-11,23,Spain,FC Barcelona,LaLiga,2004/2005,2004
+Rodri,Centre-Back,1984-08-17,19,Spain,FC Barcelona,LaLiga,2004/2005,2004
+Giovanni van Bronckhorst,Left-Back,1975-02-05,29,Netherlands,FC Barcelona,LaLiga,2004/2005,2004
+Sylvinho,Left-Back,1974-04-12,30,Brazil,FC Barcelona,LaLiga,2004/2005,2004
+Fernando Navarro,Left-Back,1982-06-25,22,Spain,FC Barcelona,LaLiga,2004/2005,2004
+Carlos Peña,Left-Back,1983-07-28,20,Spain,FC Barcelona,LaLiga,2004/2005,2004
+Juliano Belletti,Right-Back,1976-06-20,28,Brazil,FC Barcelona,LaLiga,2004/2005,2004
+Damià,Right-Back,1982-04-15,22,Spain,FC Barcelona,LaLiga,2004/2005,2004
+Thiago Motta,Defensive Midfield,1982-08-28,21,Italy,FC Barcelona,LaLiga,2004/2005,2004
+Edmílson,Defensive Midfield,1976-07-10,27,Brazil,FC Barcelona,LaLiga,2004/2005,2004
+Gabri,Defensive Midfield,1979-02-10,25,Spain,FC Barcelona,LaLiga,2004/2005,2004
+Demetrio Albertini,Defensive Midfield,1971-08-23,32,Italy,FC Barcelona,LaLiga,2004/2005,2004
+Xavi,Central Midfield,1980-01-25,24,Spain,FC Barcelona,LaLiga,2004/2005,2004
+Gerard López,Central Midfield,1979-03-12,25,Spain,FC Barcelona,LaLiga,2004/2005,2004
+Andrés Iniesta,Central Midfield,1984-05-11,20,Spain,FC Barcelona,LaLiga,2004/2005,2004
+Lolo González,Central Midfield,1982-08-05,21,Spain,FC Barcelona,LaLiga,2004/2005,2004
+Ronaldinho,Attacking Midfield,1980-03-21,24,Brazil,FC Barcelona,LaLiga,2004/2005,2004
+Deco,Attacking Midfield,1977-08-27,26,Portugal,FC Barcelona,LaLiga,2004/2005,2004
+Joan Verdú,Attacking Midfield,1983-05-05,21,Spain,FC Barcelona,LaLiga,2004/2005,2004
+Cristian Hidalgo,Left Winger,1983-09-21,20,Spain,FC Barcelona,LaLiga,2004/2005,2004
+Arnau Riera,Left Winger,1981-10-01,22,Spain,FC Barcelona,LaLiga,2004/2005,2004
+Javito,Left Winger,1983-11-04,20,Spain,FC Barcelona,LaLiga,2004/2005,2004
+Ludovic Giuly,Right Winger,1976-07-10,27,France,FC Barcelona,LaLiga,2004/2005,2004
+Lionel Messi,Right Winger,1987-06-24,17,Argentina,FC Barcelona,LaLiga,2004/2005,2004
+Henrik Larsson,Centre-Forward,1971-09-20,32,Sweden,FC Barcelona,LaLiga,2004/2005,2004
+Samuel Eto'o,Centre-Forward,1981-03-10,23,Cameroon,FC Barcelona,LaLiga,2004/2005,2004
+Maxi López,Centre-Forward,1984-04-03,20,Argentina,FC Barcelona,LaLiga,2004/2005,2004
+Oriol Riera,Centre-Forward,1986-07-03,17,Spain,FC Barcelona,LaLiga,2004/2005,2004
+José Francisco Molina,Goalkeeper,1970-08-08,33,Spain,Deportivo de La Coruña,LaLiga,2004/2005,2004
+Gustavo Munúa,Goalkeeper,1978-01-27,26,Uruguay,Deportivo de La Coruña,LaLiga,2004/2005,2004
+Dani Mallo,Goalkeeper,1979-01-25,25,Spain,Deportivo de La Coruña,LaLiga,2004/2005,2004
+César Martín,Centre-Back,1977-04-02,27,Spain,Deportivo de La Coruña,LaLiga,2004/2005,2004
+Jorge Andrade,Centre-Back,1978-04-09,26,Portugal,Deportivo de La Coruña,LaLiga,2004/2005,2004
+Pablo Amo,Centre-Back,1978-01-15,26,Spain,Deportivo de La Coruña,LaLiga,2004/2005,2004
+Fabricio Coloccini,Centre-Back,1982-01-22,22,Argentina,Deportivo de La Coruña,LaLiga,2004/2005,2004
+Romero,Left-Back,1971-06-23,33,Spain,Deportivo de La Coruña,LaLiga,2004/2005,2004
+Joan Capdevila,Left-Back,1978-02-03,26,Spain,Deportivo de La Coruña,LaLiga,2004/2005,2004
+Manuel Pablo,Right-Back,1976-01-25,28,Spain,Deportivo de La Coruña,LaLiga,2004/2005,2004
+Lionel Scaloni,Right-Back,1978-05-16,26,Argentina,Deportivo de La Coruña,LaLiga,2004/2005,2004
+Héctor Berenguel,Right-Back,1974-10-11,29,Spain,Deportivo de La Coruña,LaLiga,2004/2005,2004
+Aldo Duscher,Defensive Midfield,1979-03-22,25,Argentina,Deportivo de La Coruña,LaLiga,2004/2005,2004
+Mauro Silva,Defensive Midfield,1968-01-12,36,Brazil,Deportivo de La Coruña,LaLiga,2004/2005,2004
+Álex Bergantiños,Defensive Midfield,1985-06-07,19,Spain,Deportivo de La Coruña,LaLiga,2004/2005,2004
+Sergio,Central Midfield,1976-11-10,27,Spain,Deportivo de La Coruña,LaLiga,2004/2005,2004
+Roberto Acuña,Central Midfield,1972-03-25,32,Paraguay,Deportivo de La Coruña,LaLiga,2004/2005,2004
+Carlos Pita,Central Midfield,1984-12-08,19,Spain,Deportivo de La Coruña,LaLiga,2004/2005,2004
+Fran,Left Midfield,1969-07-14,34,Spain,Deportivo de La Coruña,LaLiga,2004/2005,2004
+Juan Carlos Valerón,Attacking Midfield,1975-06-17,29,Spain,Deportivo de La Coruña,LaLiga,2004/2005,2004
+Albert Luque,Left Winger,1978-03-11,26,Spain,Deportivo de La Coruña,LaLiga,2004/2005,2004
+Víctor Sánchez,Right Winger,1976-02-23,28,Spain,Deportivo de La Coruña,LaLiga,2004/2005,2004
+Pedro Munitis,Second Striker,1975-06-19,29,Spain,Deportivo de La Coruña,LaLiga,2004/2005,2004
+Wálter Pandiani,Centre-Forward,1976-04-27,28,Uruguay,Deportivo de La Coruña,LaLiga,2004/2005,2004
+Rubén Rivera,Centre-Forward,1985-05-03,19,Spain,Deportivo de La Coruña,LaLiga,2004/2005,2004
+Diego Tristán,Centre-Forward,1976-01-05,28,Spain,Deportivo de La Coruña,LaLiga,2004/2005,2004
+Rubén Castro,Centre-Forward,1981-06-27,23,Spain,Deportivo de La Coruña,LaLiga,2004/2005,2004
+Changui,Centre-Forward,1977-04-10,27,Spain,Deportivo de La Coruña,LaLiga,2004/2005,2004
+Xisco,Centre-Forward,1986-06-26,18,Spain,Deportivo de La Coruña,LaLiga,2004/2005,2004
+César Laínez,Goalkeeper,1977-04-10,27,Spain,Real Zaragoza,LaLiga,2004/2005,2004
+Luis García,Goalkeeper,1979-04-23,25,Spain,Real Zaragoza,LaLiga,2004/2005,2004
+Rubén Falcón,Goalkeeper,1977-10-08,26,Spain,Real Zaragoza,LaLiga,2004/2005,2004
+Jorge Zaparaín,Goalkeeper,1984-04-26,20,Spain,Real Zaragoza,LaLiga,2004/2005,2004
+Miguel Martínez,Goalkeeper,1981-11-25,22,Spain,Real Zaragoza,LaLiga,2004/2005,2004
+Álvaro,Centre-Back,1977-11-01,26,Brazil,Real Zaragoza,LaLiga,2004/2005,2004
+Gabriel Milito,Centre-Back,1980-09-07,23,Argentina,Real Zaragoza,LaLiga,2004/2005,2004
+César Jiménez,Centre-Back,1977-11-28,26,Spain,Real Zaragoza,LaLiga,2004/2005,2004
+Capi,Centre-Back,1981-04-02,23,Spain,Real Zaragoza,LaLiga,2004/2005,2004
+Agustín Aranzabal,Left-Back,1973-03-15,31,Spain,Real Zaragoza,LaLiga,2004/2005,2004
+Delio Toledo,Left-Back,1976-10-02,27,Paraguay,Real Zaragoza,LaLiga,2004/2005,2004
+Carlos Cuartero,Right-Back,1975-08-17,28,Spain,Real Zaragoza,LaLiga,2004/2005,2004
+Leonardo Ponzio,Defensive Midfield,1982-01-29,22,Argentina,Real Zaragoza,LaLiga,2004/2005,2004
+José María Movilla,Defensive Midfield,1975-02-08,29,Spain,Real Zaragoza,LaLiga,2004/2005,2004
+Alberto Zapater,Defensive Midfield,1985-06-13,19,Spain,Real Zaragoza,LaLiga,2004/2005,2004
+David Generelo,Central Midfield,1982-08-11,21,Spain,Real Zaragoza,LaLiga,2004/2005,2004
+David Pirri,Left Midfield,1974-02-12,30,Spain,Real Zaragoza,LaLiga,2004/2005,2004
+García Granero,Left Midfield,1981-04-26,23,Spain,Real Zaragoza,LaLiga,2004/2005,2004
+Piti,Attacking Midfield,1981-05-26,23,Spain,Real Zaragoza,LaLiga,2004/2005,2004
+Cani,Attacking Midfield,1981-08-03,22,Spain,Real Zaragoza,LaLiga,2004/2005,2004
+Juanjo Camacho,Attacking Midfield,1980-08-02,23,Spain,Real Zaragoza,LaLiga,2004/2005,2004
+Óscar González,Attacking Midfield,1982-11-12,21,Spain,Real Zaragoza,LaLiga,2004/2005,2004
+Fernando Soriano,Attacking Midfield,1979-09-24,24,Spain,Real Zaragoza,LaLiga,2004/2005,2004
+Sávio,Left Winger,1974-01-09,30,Brazil,Real Zaragoza,LaLiga,2004/2005,2004
+Luciano Galletti,Right Winger,1980-04-09,24,Argentina,Real Zaragoza,LaLiga,2004/2005,2004
+David Villa,Centre-Forward,1981-12-03,22,Spain,Real Zaragoza,LaLiga,2004/2005,2004
+Goran Drulic,Centre-Forward,1977-04-17,27,Serbia,Real Zaragoza,LaLiga,2004/2005,2004
+Javi Moreno,Centre-Forward,1974-09-10,29,Spain,Real Zaragoza,LaLiga,2004/2005,2004
+Jonathan López,Goalkeeper,1981-04-16,23,Spain,Valencia CF,LaLiga,2004/2005,2004
+Santiago Cañizares,Goalkeeper,1969-12-18,34,Spain,Valencia CF,LaLiga,2004/2005,2004
+Andrés Palop,Goalkeeper,1973-10-22,30,Spain,Valencia CF,LaLiga,2004/2005,2004
+Ludovic Butelle,Goalkeeper,1983-04-03,21,France,Valencia CF,LaLiga,2004/2005,2004
+Rafael Santacruz,Centre-Back,1987-01-27,17,Spain,Valencia CF,LaLiga,2004/2005,2004
+Mauricio Pellegrino,Centre-Back,1971-10-05,32,Argentina,Valencia CF,LaLiga,2004/2005,2004
+Roberto Ayala,Centre-Back,1973-04-14,31,Argentina,Valencia CF,LaLiga,2004/2005,2004
+Carlos Marchena,Centre-Back,1979-07-31,24,Spain,Valencia CF,LaLiga,2004/2005,2004
+Marco Caneira,Centre-Back,1979-02-09,25,Portugal,Valencia CF,LaLiga,2004/2005,2004
+David Navarro,Centre-Back,1980-05-25,24,Spain,Valencia CF,LaLiga,2004/2005,2004
+Emiliano Moretti,Centre-Back,1981-06-11,23,Italy,Valencia CF,LaLiga,2004/2005,2004
+Roberto Amarilla,Centre-Back,1981-07-27,22,Paraguay,Valencia CF,LaLiga,2004/2005,2004
+Fábio Aurélio,Left-Back,1979-09-24,24,Brazil,Valencia CF,LaLiga,2004/2005,2004
+Amedeo Carboni,Left-Back,1965-04-06,39,Italy,Valencia CF,LaLiga,2004/2005,2004
+Curro Torres,Right-Back,1976-12-27,27,Spain,Valencia CF,LaLiga,2004/2005,2004
+Manuel Ruz,Right-Back,1986-04-05,18,Spain,Valencia CF,LaLiga,2004/2005,2004
+Nicolas Karlamoff,Midfielder,1983-01-20,21,France,Valencia CF,LaLiga,2004/2005,2004
+David Albelda,Defensive Midfield,1977-09-01,26,Spain,Valencia CF,LaLiga,2004/2005,2004
+Mohamed Sissoko,Defensive Midfield,1985-01-22,19,Mali,Valencia CF,LaLiga,2004/2005,2004
+Gonzalo de los Santos,Defensive Midfield,1976-07-19,27,Uruguay,Valencia CF,LaLiga,2004/2005,2004
+Rubén Baraja,Central Midfield,1975-07-11,28,Spain,Valencia CF,LaLiga,2004/2005,2004
+Miguel Pallardó,Central Midfield,1986-09-05,17,Spain,Valencia CF,LaLiga,2004/2005,2004
+Stefano Fiore,Attacking Midfield,1975-04-17,29,Italy,Valencia CF,LaLiga,2004/2005,2004
+Pablo Aimar,Attacking Midfield,1979-11-03,24,Argentina,Valencia CF,LaLiga,2004/2005,2004
+Juanlu Hens,Attacking Midfield,1984-02-07,20,Spain,Valencia CF,LaLiga,2004/2005,2004
+Vicente,Left Winger,1981-07-16,22,Spain,Valencia CF,LaLiga,2004/2005,2004
+Francisco Rufete,Right Winger,1976-11-20,27,Spain,Valencia CF,LaLiga,2004/2005,2004
+Miguel Ángel Angulo,Second Striker,1977-06-23,27,Spain,Valencia CF,LaLiga,2004/2005,2004
+Xisco,Second Striker,1980-09-05,23,Spain,Valencia CF,LaLiga,2004/2005,2004
+Bernardo Corradi,Centre-Forward,1976-03-30,28,Italy,Valencia CF,LaLiga,2004/2005,2004
+Marco Di Vaio,Centre-Forward,1976-07-15,27,Italy,Valencia CF,LaLiga,2004/2005,2004
+Mista,Centre-Forward,1978-11-12,25,Spain,Valencia CF,LaLiga,2004/2005,2004
+Pablo Vargas,Goalkeeper,1984-02-16,20,Spain,Real Betis Balompié,LaLiga,2004/2005,2004
+Toni Prats,Goalkeeper,1971-09-09,32,Spain,Real Betis Balompié,LaLiga,2004/2005,2004
+Pedro Contreras,Goalkeeper,1972-01-07,32,Spain,Real Betis Balompié,LaLiga,2004/2005,2004
+Toni Doblas,Goalkeeper,1980-08-05,23,Spain,Real Betis Balompié,LaLiga,2004/2005,2004
+Óscar Tena,Centre-Back,1982-07-28,21,Spain,Real Betis Balompié,LaLiga,2004/2005,2004
+Alejandro Lembo,Centre-Back,1978-02-15,26,Uruguay,Real Betis Balompié,LaLiga,2004/2005,2004
+Juanito,Centre-Back,1976-07-23,27,Spain,Real Betis Balompié,LaLiga,2004/2005,2004
+David Rivas,Centre-Back,1978-12-02,25,Spain,Real Betis Balompié,LaLiga,2004/2005,2004
+Melli,Centre-Back,1984-06-06,20,Spain,Real Betis Balompié,LaLiga,2004/2005,2004
+Luis Fernández,Left-Back,1972-09-29,31,Spain,Real Betis Balompié,LaLiga,2004/2005,2004
+Paolo Castellini,Left-Back,1979-03-25,25,Italy,Real Betis Balompié,LaLiga,2004/2005,2004
+Fernando Varela,Right-Back,1979-09-01,24,Spain,Real Betis Balompié,LaLiga,2004/2005,2004
+Washington Tais,Right-Back,1972-12-21,31,Uruguay,Real Betis Balompié,LaLiga,2004/2005,2004
+David Llano,Right-Back,1982-04-23,22,Spain,Real Betis Balompié,LaLiga,2004/2005,2004
+Isidoro,Right-Back,1986-08-01,17,Spain,Real Betis Balompié,LaLiga,2004/2005,2004
+Ismael López,Midfielder,1978-02-27,26,Spain,Real Betis Balompié,LaLiga,2004/2005,2004
+Pablo Niño,Midfielder,1978-05-15,26,Spain,Real Betis Balompié,LaLiga,2004/2005,2004
+Arzu,Defensive Midfield,1981-03-17,23,Spain,Real Betis Balompié,LaLiga,2004/2005,2004
+Juanjo Cañas,Defensive Midfield,1972-04-17,32,Spain,Real Betis Balompié,LaLiga,2004/2005,2004
+Marcos Assunção,Central Midfield,1976-07-25,27,Brazil,Real Betis Balompié,LaLiga,2004/2005,2004
+Israel Bascón,Right Midfield,1987-03-16,17,Spain,Real Betis Balompié,LaLiga,2004/2005,2004
+Benjamín,Left Midfield,1976-03-02,28,Equatorial Guinea,Real Betis Balompié,LaLiga,2004/2005,2004
+Tote,Attacking Midfield,1978-11-23,25,Spain,Real Betis Balompié,LaLiga,2004/2005,2004
+Fernando,Attacking Midfield,1979-06-02,25,Spain,Real Betis Balompié,LaLiga,2004/2005,2004
+Capi,Attacking Midfield,1977-03-26,27,Spain,Real Betis Balompié,LaLiga,2004/2005,2004
+Rafael Cabello,Forward,1984-07-13,19,Spain,Real Betis Balompié,LaLiga,2004/2005,2004
+Denílson,Left Winger,1977-08-24,26,Brazil,Real Betis Balompié,LaLiga,2004/2005,2004
+Joaquín,Right Winger,1981-07-21,22,Spain,Real Betis Balompié,LaLiga,2004/2005,2004
+Edú,Second Striker,1979-01-10,25,Brazil,Real Betis Balompié,LaLiga,2004/2005,2004
+Dani,Centre-Forward,1981-09-16,22,Spain,Real Betis Balompié,LaLiga,2004/2005,2004
+Ricardo Oliveira,Centre-Forward,1980-05-06,24,Brazil,Real Betis Balompié,LaLiga,2004/2005,2004
+Alfonso,Centre-Forward,1972-09-26,31,Spain,Real Betis Balompié,LaLiga,2004/2005,2004
+Javier López Vallejo,Goalkeeper,1975-09-25,28,Spain,Villarreal CF,LaLiga,2004/2005,2004
+Pepe Reina,Goalkeeper,1982-08-31,21,Spain,Villarreal CF,LaLiga,2004/2005,2004
+Juan Carlos,Goalkeeper,1987-07-27,16,Spain,Villarreal CF,LaLiga,2004/2005,2004
+Sergio Ballesteros,Centre-Back,1975-09-04,28,Spain,Villarreal CF,LaLiga,2004/2005,2004
+Fran Erencia,Centre-Back,1986-05-15,18,Spain,Villarreal CF,LaLiga,2004/2005,2004
+Gonzalo Rodríguez,Centre-Back,1984-04-10,20,Argentina,Villarreal CF,LaLiga,2004/2005,2004
+Quique Álvarez,Centre-Back,1975-07-20,28,Spain,Villarreal CF,LaLiga,2004/2005,2004
+Juan Manuel Peña,Centre-Back,1973-01-17,31,Bolivia,Villarreal CF,LaLiga,2004/2005,2004
+César Arzo,Centre-Back,1986-01-21,18,Spain,Villarreal CF,LaLiga,2004/2005,2004
+Rodolfo Arruabarrena,Left-Back,1975-07-20,28,Argentina,Villarreal CF,LaLiga,2004/2005,2004
+Juan Pablo Sorín,Left-Back,1976-05-05,28,Argentina,Villarreal CF,LaLiga,2004/2005,2004
+Carlos Alcántara,Left-Back,1985-02-01,19,Spain,Villarreal CF,LaLiga,2004/2005,2004
+Javi Venta,Right-Back,1975-12-13,28,Spain,Villarreal CF,LaLiga,2004/2005,2004
+Armando Sá,Right-Back,1975-09-16,28,Mozambique,Villarreal CF,LaLiga,2004/2005,2004
+Javier Antoli Gonzalez,Midfielder,1982-05-20,22,Spain,Villarreal CF,LaLiga,2004/2005,2004
+Pere Martí,Defensive Midfield,1982-01-22,22,Spain,Villarreal CF,LaLiga,2004/2005,2004
+Josico,Defensive Midfield,1975-01-06,29,Spain,Villarreal CF,LaLiga,2004/2005,2004
+Marcos Senna,Defensive Midfield,1976-07-17,27,Spain,Villarreal CF,LaLiga,2004/2005,2004
+Sebastián Battaglia,Defensive Midfield,1980-11-08,23,Argentina,Villarreal CF,LaLiga,2004/2005,2004
+Verza,Central Midfield,1986-09-29,17,Spain,Villarreal CF,LaLiga,2004/2005,2004
+Santi Cazorla,Central Midfield,1984-12-13,19,Spain,Villarreal CF,LaLiga,2004/2005,2004
+Héctor Font,Central Midfield,1984-06-15,20,Spain,Villarreal CF,LaLiga,2004/2005,2004
+Roger García,Left Midfield,1976-12-15,27,Spain,Villarreal CF,LaLiga,2004/2005,2004
+Javier Calleja,Left Midfield,1978-05-12,26,Spain,Villarreal CF,LaLiga,2004/2005,2004
+Marquitos,Attacking Midfield,1987-03-21,17,Spain,Villarreal CF,LaLiga,2004/2005,2004
+Juan Román Riquelme,Attacking Midfield,1978-06-24,26,Argentina,Villarreal CF,LaLiga,2004/2005,2004
+José María Cases,Attacking Midfield,1986-11-23,17,Spain,Villarreal CF,LaLiga,2004/2005,2004
+David Fuster,Attacking Midfield,1982-02-03,22,Spain,Villarreal CF,LaLiga,2004/2005,2004
+Antonio Guayre,Right Winger,1980-04-23,24,Spain,Villarreal CF,LaLiga,2004/2005,2004
+Xisco Nadal,Right Winger,1986-06-27,18,Spain,Villarreal CF,LaLiga,2004/2005,2004
+Diego Forlán,Second Striker,1979-05-19,25,Uruguay,Villarreal CF,LaLiga,2004/2005,2004
+Víctor,Centre-Forward,1974-04-17,30,Spain,Villarreal CF,LaLiga,2004/2005,2004
+Jonathan Pereira,Centre-Forward,1987-05-12,17,Spain,Villarreal CF,LaLiga,2004/2005,2004
+Luciano Figueroa,Centre-Forward,1981-05-19,23,Argentina,Villarreal CF,LaLiga,2004/2005,2004
+Sonny Anderson,Centre-Forward,1970-09-19,33,Brazil,Villarreal CF,LaLiga,2004/2005,2004
+José Mari,Centre-Forward,1978-12-10,25,Spain,Villarreal CF,LaLiga,2004/2005,2004
+Miguel Ángel Moyà,Goalkeeper,1984-04-02,20,Spain,RCD Mallorca,LaLiga,2004/2005,2004
+Sander Westerveld,Goalkeeper,1974-10-23,29,Netherlands,RCD Mallorca,LaLiga,2004/2005,2004
+Alberto Cifuentes,Goalkeeper,1979-05-29,25,Spain,RCD Mallorca,LaLiga,2004/2005,2004
+Mark Iuliano,Centre-Back,1973-08-12,30,Italy,RCD Mallorca,LaLiga,2004/2005,2004
+Iván Ramis,Centre-Back,1984-10-25,19,Spain,RCD Mallorca,LaLiga,2004/2005,2004
+Fernando Niño,Centre-Back,1974-09-16,29,Spain,RCD Mallorca,LaLiga,2004/2005,2004
+Patrick Müller,Centre-Back,1976-12-17,27,Switzerland,RCD Mallorca,LaLiga,2004/2005,2004
+Miguel Ángel Nadal,Centre-Back,1966-07-28,37,Spain,RCD Mallorca,LaLiga,2004/2005,2004
+Sergio Ballesteros,Centre-Back,1975-09-04,28,Spain,RCD Mallorca,LaLiga,2004/2005,2004
+Xisco Campos,Centre-Back,1982-03-10,22,Spain,RCD Mallorca,LaLiga,2004/2005,2004
+Daniel Camacho,Centre-Back,1983-02-09,21,Spain,RCD Mallorca,LaLiga,2004/2005,2004
+Poli,Left-Back,1977-03-20,27,Spain,RCD Mallorca,LaLiga,2004/2005,2004
+David Cortés,Right-Back,1979-08-29,24,Spain,RCD Mallorca,LaLiga,2004/2005,2004
+Gonzalo de los Santos,Defensive Midfield,1976-07-19,27,Uruguay,RCD Mallorca,LaLiga,2004/2005,2004
+Francisco Farinós,Defensive Midfield,1978-03-29,26,Spain,RCD Mallorca,LaLiga,2004/2005,2004
+Marcos Martín,Defensive Midfield,1968-09-17,35,Spain,RCD Mallorca,LaLiga,2004/2005,2004
+Felipe Melo,Defensive Midfield,1983-06-26,21,Brazil,RCD Mallorca,LaLiga,2004/2005,2004
+Guillermo Pereyra,Central Midfield,1980-02-20,24,Argentina,RCD Mallorca,LaLiga,2004/2005,2004
+Txomin Nagore,Central Midfield,1974-08-26,29,Spain,RCD Mallorca,LaLiga,2004/2005,2004
+Luis García,Central Midfield,1981-02-06,23,Spain,RCD Mallorca,LaLiga,2004/2005,2004
+Alejandro Campano,Right Midfield,1978-12-29,25,Spain,RCD Mallorca,LaLiga,2004/2005,2004
+Marcos Vales,Right Midfield,1975-04-05,29,Spain,RCD Mallorca,LaLiga,2004/2005,2004
+Juan Arango,Left Midfield,1980-05-17,24,Venezuela,RCD Mallorca,LaLiga,2004/2005,2004
+Fernando Correa,Forward,1974-01-06,30,Uruguay,RCD Mallorca,LaLiga,2004/2005,2004
+Carlos Carmona,Right Winger,1987-07-05,16,Spain,RCD Mallorca,LaLiga,2004/2005,2004
+Tuni,Right Winger,1982-06-14,22,Spain,RCD Mallorca,LaLiga,2004/2005,2004
+Jorge López,Right Winger,1978-09-19,25,Spain,RCD Mallorca,LaLiga,2004/2005,2004
+Bernardo Romeo,Centre-Forward,1977-09-10,26,Argentina,RCD Mallorca,LaLiga,2004/2005,2004
+Yoshito Okubo,Centre-Forward,1982-06-09,22,Japan,RCD Mallorca,LaLiga,2004/2005,2004
+Jesús Perera,Centre-Forward,1980-04-12,24,Spain,RCD Mallorca,LaLiga,2004/2005,2004
+Andrija Delibasic,Centre-Forward,1981-04-24,23,Montenegro,RCD Mallorca,LaLiga,2004/2005,2004
+Víctor Casadesús,Centre-Forward,1985-02-28,19,Spain,RCD Mallorca,LaLiga,2004/2005,2004
+Francesc Arnau,Goalkeeper,1975-03-23,29,Spain,Málaga CF,LaLiga,2004/2005,2004
+Juan Calatayud,Goalkeeper,1979-12-21,24,Spain,Málaga CF,LaLiga,2004/2005,2004
+Iñaki Goitia,Goalkeeper,1982-03-02,22,Spain,Málaga CF,LaLiga,2004/2005,2004
+Javi Muñoz,Goalkeeper,1982-01-27,22,Spain,Málaga CF,LaLiga,2004/2005,2004
+Litos,Centre-Back,1974-02-25,30,Portugal,Málaga CF,LaLiga,2004/2005,2004
+Fernando Sanz,Centre-Back,1974-01-04,30,Spain,Málaga CF,LaLiga,2004/2005,2004
+Alexis,Centre-Back,1985-08-04,18,Spain,Málaga CF,LaLiga,2004/2005,2004
+César Navas,Centre-Back,1980-02-14,24,Spain,Málaga CF,LaLiga,2004/2005,2004
+Alberto Aguilar,Centre-Back,1984-07-12,19,Spain,Málaga CF,LaLiga,2004/2005,2004
+Álvaro Silva,Centre-Back,1984-03-30,20,Philippines,Málaga CF,LaLiga,2004/2005,2004
+Vicente Valcarce,Left-Back,1974-10-19,29,Spain,Málaga CF,LaLiga,2004/2005,2004
+Raúl Iznata,Left-Back,1977-09-21,26,Spain,Málaga CF,LaLiga,2004/2005,2004
+Gerardo,Right-Back,1974-12-07,29,Spain,Málaga CF,LaLiga,2004/2005,2004
+Juanito,Defensive Midfield,1980-02-17,24,Spain,Málaga CF,LaLiga,2004/2005,2004
+Miguel Ángel,Defensive Midfield,1978-09-16,25,Spain,Málaga CF,LaLiga,2004/2005,2004
+Juan Rodríguez,Defensive Midfield,1982-04-01,22,Spain,Málaga CF,LaLiga,2004/2005,2004
+Marcelo Romero,Central Midfield,1976-07-04,27,Uruguay,Málaga CF,LaLiga,2004/2005,2004
+Fernando Usero,Central Midfield,1984-03-27,20,Spain,Málaga CF,LaLiga,2004/2005,2004
+Manu Sánchez,Right Midfield,1979-01-25,25,Spain,Málaga CF,LaLiga,2004/2005,2004
+José Luque,Left Midfield,1977-10-16,26,Spain,Málaga CF,LaLiga,2004/2005,2004
+Duda,Left Midfield,1980-06-27,24,Portugal,Málaga CF,LaLiga,2004/2005,2004
+Míchel,Attacking Midfield,1975-10-30,28,Spain,Málaga CF,LaLiga,2004/2005,2004
+Tote,Attacking Midfield,1978-11-23,25,Spain,Málaga CF,LaLiga,2004/2005,2004
+Ivan Leko,Attacking Midfield,1978-02-07,26,Croatia,Málaga CF,LaLiga,2004/2005,2004
+Perico,Attacking Midfield,1985-01-18,19,Spain,Málaga CF,LaLiga,2004/2005,2004
+Edgar,Right Winger,1977-08-07,26,Portugal,Málaga CF,LaLiga,2004/2005,2004
+Fernando Baiano,Centre-Forward,1979-03-18,25,Brazil,Málaga CF,LaLiga,2004/2005,2004
+Márcio Amoroso,Centre-Forward,1974-07-05,29,Brazil,Málaga CF,LaLiga,2004/2005,2004
+Paulo Wanchope,Centre-Forward,1976-07-31,27,Costa Rica,Málaga CF,LaLiga,2004/2005,2004
+Álex Geijo,Centre-Forward,1982-03-11,22,Spain,Málaga CF,LaLiga,2004/2005,2004
+Paco Esteban,Centre-Forward,1981-08-21,22,Spain,Málaga CF,LaLiga,2004/2005,2004
+Ricardo Sanzol,Goalkeeper,1976-04-08,28,Spain,CA Osasuna,LaLiga,2004/2005,2004
+Juantxo Elía,Goalkeeper,1979-01-24,25,Spain,CA Osasuna,LaLiga,2004/2005,2004
+Gonzalo Eraso,Goalkeeper,1981-05-14,23,Spain,CA Osasuna,LaLiga,2004/2005,2004
+Carlos Cuéllar,Centre-Back,1981-08-23,22,Spain,CA Osasuna,LaLiga,2004/2005,2004
+César Cruchaga,Centre-Back,1974-01-26,30,Spain,CA Osasuna,LaLiga,2004/2005,2004
+Miguel Flaño,Centre-Back,1984-08-19,19,Spain,CA Osasuna,LaLiga,2004/2005,2004
+Josetxo,Centre-Back,1977-02-25,27,Spain,CA Osasuna,LaLiga,2004/2005,2004
+Rafael Clavero,Left-Back,1977-01-10,27,Spain,CA Osasuna,LaLiga,2004/2005,2004
+Enrique Corrales,Left-Back,1982-03-01,22,Spain,CA Osasuna,LaLiga,2004/2005,2004
+José Izquierdo,Right-Back,1980-08-03,23,Spain,CA Osasuna,LaLiga,2004/2005,2004
+Juanma Ortiz,Right-Back,1982-03-01,22,Spain,CA Osasuna,LaLiga,2004/2005,2004
+Unai Expósito,Right-Back,1980-01-23,24,Spain,CA Osasuna,LaLiga,2004/2005,2004
+Sota,Midfielder,1982-01-11,22,Spain,CA Osasuna,LaLiga,2004/2005,2004
+Pablo García,Defensive Midfield,1977-05-11,27,Uruguay,CA Osasuna,LaLiga,2004/2005,2004
+Patxi Puñal,Defensive Midfield,1975-09-06,28,Spain,CA Osasuna,LaLiga,2004/2005,2004
+Iñaki Muñoz,Defensive Midfield,1978-07-02,25,Spain,CA Osasuna,LaLiga,2004/2005,2004
+David López,Central Midfield,1982-09-10,21,Spain,CA Osasuna,LaLiga,2004/2005,2004
+Moha,Attacking Midfield,1977-09-12,26,Morocco,CA Osasuna,LaLiga,2004/2005,2004
+Raúl García,Attacking Midfield,1986-07-11,17,Spain,CA Osasuna,LaLiga,2004/2005,2004
+Ludovic Delporte,Left Winger,1980-02-06,24,France,CA Osasuna,LaLiga,2004/2005,2004
+Valdo,Right Winger,1981-04-23,23,Cape Verde,CA Osasuna,LaLiga,2004/2005,2004
+Iván Rosado,Centre-Forward,1974-04-24,30,Spain,CA Osasuna,LaLiga,2004/2005,2004
+Savo Milosevic,Centre-Forward,1973-09-01,30,Serbia,CA Osasuna,LaLiga,2004/2005,2004
+Pierre Webó,Centre-Forward,1982-01-20,22,Cameroon,CA Osasuna,LaLiga,2004/2005,2004
+Richard Morales,Centre-Forward,1975-02-21,29,Uruguay,CA Osasuna,LaLiga,2004/2005,2004
+John Aloisi,Centre-Forward,1976-02-05,28,Australia,CA Osasuna,LaLiga,2004/2005,2004
+Raúl Núñez Aural,Goalkeeper,1982-03-10,22,Spain,Albacete Balompié,LaLiga,2004/2005,2004
+Ronny Gaspercic,Goalkeeper,1969-05-09,35,Belgium,Albacete Balompié,LaLiga,2004/2005,2004
+Pinda,Goalkeeper,1976-04-24,28,Spain,Albacete Balompié,LaLiga,2004/2005,2004
+Raúl Valbuena,Goalkeeper,1975-04-23,29,Spain,Albacete Balompié,LaLiga,2004/2005,2004
+Casto,Goalkeeper,1982-06-18,22,Spain,Albacete Balompié,LaLiga,2004/2005,2004
+Agus García,Centre-Back,1985-05-03,19,Spain,Albacete Balompié,LaLiga,2004/2005,2004
+Gaspar Gálvez,Centre-Back,1979-07-07,24,Spain,Albacete Balompié,LaLiga,2004/2005,2004
+Rubén González,Centre-Back,1982-01-29,22,Spain,Albacete Balompié,LaLiga,2004/2005,2004
+Santi Denia,Centre-Back,1974-03-09,30,Spain,Albacete Balompié,LaLiga,2004/2005,2004
+Gustavo Siviero,Centre-Back,1969-09-13,34,Argentina,Albacete Balompié,LaLiga,2004/2005,2004
+Mingo,Left-Back,1977-06-10,27,Spain,Albacete Balompié,LaLiga,2004/2005,2004
+Paco Peña,Left-Back,1978-07-25,25,Spain,Albacete Balompié,LaLiga,2004/2005,2004
+Jordi Ferrón,Right-Back,1978-08-15,25,Spain,Albacete Balompié,LaLiga,2004/2005,2004
+Pablo García,Right-Back,1985-05-30,19,Spain,Albacete Balompié,LaLiga,2004/2005,2004
+Montiel,Right-Back,1970-07-06,33,Spain,Albacete Balompié,LaLiga,2004/2005,2004
+Miquel Buades,Right-Back,1980-03-04,24,Spain,Albacete Balompié,LaLiga,2004/2005,2004
+Carlos Alfaro,Midfielder,1983-01-04,21,Spain,Albacete Balompié,LaLiga,2004/2005,2004
+Francisco Farinós,Defensive Midfield,1978-03-29,26,Spain,Albacete Balompié,LaLiga,2004/2005,2004
+Laurent Viaud,Defensive Midfield,1969-10-08,34,France,Albacete Balompié,LaLiga,2004/2005,2004
+Jaime,Defensive Midfield,1973-03-20,31,Spain,Albacete Balompié,LaLiga,2004/2005,2004
+Álvaro Rubio,Defensive Midfield,1979-04-18,25,Spain,Albacete Balompié,LaLiga,2004/2005,2004
+Iñaki Segura,Central Midfield,1986-04-12,18,Spain,Albacete Balompié,LaLiga,2004/2005,2004
+Iván Díaz,Central Midfield,1978-07-10,25,Spain,Albacete Balompié,LaLiga,2004/2005,2004
+David Sánchez,Central Midfield,1982-07-25,21,Spain,Albacete Balompié,LaLiga,2004/2005,2004
+Alberto Cano,Central Midfield,1983-08-01,20,Spain,Albacete Balompié,LaLiga,2004/2005,2004
+Elías Molina,Central Midfield,1982-02-16,22,Spain,Albacete Balompié,LaLiga,2004/2005,2004
+Lawal,Right Midfield,1980-09-13,23,Nigeria,Albacete Balompié,LaLiga,2004/2005,2004
+Pablo Redondo,Attacking Midfield,1982-04-17,22,Spain,Albacete Balompié,LaLiga,2004/2005,2004
+Manuel Gato,Left Winger,1984-01-28,20,Spain,Albacete Balompié,LaLiga,2004/2005,2004
+Mark González,Left Winger,1984-07-10,19,Chile,Albacete Balompié,LaLiga,2004/2005,2004
+Momo,Left Winger,1982-07-15,21,Spain,Albacete Balompié,LaLiga,2004/2005,2004
+Pablo García,Right Winger,1986-03-01,18,Spain,Albacete Balompié,LaLiga,2004/2005,2004
+Luismi,Second Striker,1983-07-18,20,Spain,Albacete Balompié,LaLiga,2004/2005,2004
+Nicolás Olivera,Second Striker,1978-05-30,26,Uruguay,Albacete Balompié,LaLiga,2004/2005,2004
+Antonio Pacheco,Second Striker,1976-04-11,28,Uruguay,Albacete Balompié,LaLiga,2004/2005,2004
+Francisco Rodríguez,Centre-Forward,1978-09-17,25,Spain,Albacete Balompié,LaLiga,2004/2005,2004
+Rubén Castro,Centre-Forward,1981-06-27,23,Spain,Albacete Balompié,LaLiga,2004/2005,2004
+Mikel,Centre-Forward,1974-08-26,29,Spain,Albacete Balompié,LaLiga,2004/2005,2004
+Horacio Peralta,Centre-Forward,1982-06-03,22,Uruguay,Albacete Balompié,LaLiga,2004/2005,2004
+Esteban,Goalkeeper,1975-06-27,29,Spain,Sevilla FC,LaLiga,2004/2005,2004
+Antonio Notario,Goalkeeper,1972-11-19,31,Spain,Sevilla FC,LaLiga,2004/2005,2004
+Fernando Thorices,Goalkeeper,1983-07-31,20,Spain,Sevilla FC,LaLiga,2004/2005,2004
+Óscar Rodríguez,Centre-Back,1980-04-17,24,Spain,Sevilla FC,LaLiga,2004/2005,2004
+Javi Navarro,Centre-Back,1974-02-06,30,Spain,Sevilla FC,LaLiga,2004/2005,2004
+Sergio Ramos,Centre-Back,1986-03-30,18,Spain,Sevilla FC,LaLiga,2004/2005,2004
+Aitor Ocio,Centre-Back,1976-11-28,27,Spain,Sevilla FC,LaLiga,2004/2005,2004
+Pablo Alfaro,Centre-Back,1969-04-24,35,Spain,Sevilla FC,LaLiga,2004/2005,2004
+Pablo Ruiz,Centre-Back,1981-02-25,23,Spain,Sevilla FC,LaLiga,2004/2005,2004
+David Prieto,Centre-Back,1983-01-02,21,Spain,Sevilla FC,LaLiga,2004/2005,2004
+David Castedo,Left-Back,1974-01-26,30,Spain,Sevilla FC,LaLiga,2004/2005,2004
+Adriano,Left-Back,1984-10-26,19,Brazil,Sevilla FC,LaLiga,2004/2005,2004
+Antonio Puerta,Left-Back,1984-11-26,19,Spain,Sevilla FC,LaLiga,2004/2005,2004
+Antonio Barragán,Right-Back,1987-06-12,17,Spain,Sevilla FC,LaLiga,2004/2005,2004
+Dani Alves,Right-Back,1983-05-06,21,Brazil,Sevilla FC,LaLiga,2004/2005,2004
+Juan Luis Redondo,Right-Back,1977-01-17,27,Spain,Sevilla FC,LaLiga,2004/2005,2004
+Jesús Navas,Right-Back,1985-11-21,18,Spain,Sevilla FC,LaLiga,2004/2005,2004
+Josep Lluís Martí,Defensive Midfield,1975-04-28,29,Spain,Sevilla FC,LaLiga,2004/2005,2004
+Javier Casquero,Defensive Midfield,1976-03-11,28,Spain,Sevilla FC,LaLiga,2004/2005,2004
+Renato,Central Midfield,1979-05-15,25,Brazil,Sevilla FC,LaLiga,2004/2005,2004
+Jordi López,Central Midfield,1981-02-28,23,Spain,Sevilla FC,LaLiga,2004/2005,2004
+Antonio López,Left Midfield,1980-05-12,24,Spain,Sevilla FC,LaLiga,2004/2005,2004
+Júlio Baptista,Attacking Midfield,1981-10-01,22,Brazil,Sevilla FC,LaLiga,2004/2005,2004
+Jesuli,Attacking Midfield,1978-01-24,26,Spain,Sevilla FC,LaLiga,2004/2005,2004
+Carlitos,Forward,1976-09-18,27,Spain,Sevilla FC,LaLiga,2004/2005,2004
+Diego Capel,Left Winger,1988-02-16,16,Spain,Sevilla FC,LaLiga,2004/2005,2004
+Marco Navas,Right Winger,1982-09-21,21,Spain,Sevilla FC,LaLiga,2004/2005,2004
+Fernando Sales,Right Winger,1977-09-12,26,Spain,Sevilla FC,LaLiga,2004/2005,2004
+Darío Silva,Centre-Forward,1972-11-02,31,Uruguay,Sevilla FC,LaLiga,2004/2005,2004
+Ariza Makukula,Centre-Forward,1981-03-04,23,Portugal,Sevilla FC,LaLiga,2004/2005,2004
+Antoñito,Centre-Forward,1978-02-02,26,Spain,Sevilla FC,LaLiga,2004/2005,2004
+Carlos Aranda,Centre-Forward,1980-07-27,23,Spain,Sevilla FC,LaLiga,2004/2005,2004
+Kepa Blanco,Centre-Forward,1984-01-13,20,Spain,Sevilla FC,LaLiga,2004/2005,2004
+Diego de Miguel,Goalkeeper,1984-09-01,19,Spain,CD Numancia,LaLiga,2004/2005,2004
+Juanma,Goalkeeper,1980-06-27,24,Spain,CD Numancia,LaLiga,2004/2005,2004
+Álvaro Núñez,Goalkeeper,1973-05-11,31,Uruguay,CD Numancia,LaLiga,2004/2005,2004
+Velasco,Defender,1972-01-16,32,Spain,CD Numancia,LaLiga,2004/2005,2004
+Juan Ochoa,Centre-Back,1979-03-04,25,Spain,CD Numancia,LaLiga,2004/2005,2004
+Antonio González,Centre-Back,1972-12-28,31,Spain,CD Numancia,LaLiga,2004/2005,2004
+Jaime Molina,Centre-Back,1969-06-15,35,Spain,CD Numancia,LaLiga,2004/2005,2004
+Francisco Tarantino,Centre-Back,1984-06-26,20,Spain,CD Numancia,LaLiga,2004/2005,2004
+Patricio Graff,Left-Back,1975-11-18,28,Argentina,CD Numancia,LaLiga,2004/2005,2004
+Stéphane Pignol,Right-Back,1977-01-03,27,France,CD Numancia,LaLiga,2004/2005,2004
+Juanpa,Right-Back,1978-09-28,25,Spain,CD Numancia,LaLiga,2004/2005,2004
+Pablo Sanz,Defensive Midfield,1973-08-30,30,Spain,CD Numancia,LaLiga,2004/2005,2004
+Ros,Defensive Midfield,1981-02-02,23,Spain,CD Numancia,LaLiga,2004/2005,2004
+Konstantinos Kiassos,Central Midfield,1975-12-13,28,Greece,CD Numancia,LaLiga,2004/2005,2004
+César Palacios,Central Midfield,1974-10-19,29,Spain,CD Numancia,LaLiga,2004/2005,2004
+Miguel Pérez,Right Midfield,1980-05-22,24,Spain,CD Numancia,LaLiga,2004/2005,2004
+Juanlu,Left Midfield,1980-05-18,24,Spain,CD Numancia,LaLiga,2004/2005,2004
+Juan Carlos Moreno,Left Midfield,1975-04-19,29,Spain,CD Numancia,LaLiga,2004/2005,2004
+Carlos Merino,Attacking Midfield,1980-03-15,24,Spain,CD Numancia,LaLiga,2004/2005,2004
+Miguel Ángel Núñez,Attacking Midfield,1979-04-06,25,Spain,CD Numancia,LaLiga,2004/2005,2004
+Mario Martínez,Attacking Midfield,1985-03-25,19,Spain,CD Numancia,LaLiga,2004/2005,2004
+Chun-soo Lee,Second Striker,1981-07-09,22,"Korea, South",CD Numancia,LaLiga,2004/2005,2004
+Luis Tevenet,Centre-Forward,1974-05-08,30,Spain,CD Numancia,LaLiga,2004/2005,2004
+Silvio González,Centre-Forward,1980-06-08,24,Argentina,CD Numancia,LaLiga,2004/2005,2004
+Sergio Sestelo,Centre-Forward,1978-08-19,25,Spain,CD Numancia,LaLiga,2004/2005,2004
+Miguel Ángel López,Centre-Forward,1978-06-03,26,Spain,CD Numancia,LaLiga,2004/2005,2004
+Julio Pineda,Centre-Forward,1972-07-17,31,Spain,CD Numancia,LaLiga,2004/2005,2004
+Toché,Centre-Forward,1983-01-01,21,Spain,CD Numancia,LaLiga,2004/2005,2004
+Rafa Jordá,Centre-Forward,1984-01-01,20,Spain,CD Numancia,LaLiga,2004/2005,2004
+Aldo Osorio,Centre-Forward,1974-06-12,30,Argentina,CD Numancia,LaLiga,2004/2005,2004
+Diego López,Goalkeeper,1981-11-03,22,Spain,Real Madrid,LaLiga,2004/2005,2004
+Iker Casillas,Goalkeeper,1981-05-20,23,Spain,Real Madrid,LaLiga,2004/2005,2004
+César Sánchez,Goalkeeper,1971-09-02,32,Spain,Real Madrid,LaLiga,2004/2005,2004
+Iván Helguera,Centre-Back,1975-03-28,29,Spain,Real Madrid,LaLiga,2004/2005,2004
+Raúl Bravo,Centre-Back,1981-04-14,23,Spain,Real Madrid,LaLiga,2004/2005,2004
+Jonathan Woodgate,Centre-Back,1980-01-22,24,England,Real Madrid,LaLiga,2004/2005,2004
+Wálter Samuel,Centre-Back,1978-03-23,26,Argentina,Real Madrid,LaLiga,2004/2005,2004
+Francisco Pavón,Centre-Back,1980-01-09,24,Spain,Real Madrid,LaLiga,2004/2005,2004
+Álvaro Mejía,Centre-Back,1982-01-18,22,Spain,Real Madrid,LaLiga,2004/2005,2004
+Javier Paredes,Left-Back,1982-07-05,21,Spain,Real Madrid,LaLiga,2004/2005,2004
+Roberto Carlos,Left-Back,1973-04-10,31,Brazil,Real Madrid,LaLiga,2004/2005,2004
+Miguel Palencia,Right-Back,1984-01-02,20,Spain,Real Madrid,LaLiga,2004/2005,2004
+Míchel Salgado,Right-Back,1975-10-22,28,Spain,Real Madrid,LaLiga,2004/2005,2004
+Álvaro Arbeloa,Right-Back,1983-01-17,21,Spain,Real Madrid,LaLiga,2004/2005,2004
+Juanfran,Right-Back,1985-01-09,19,Spain,Real Madrid,LaLiga,2004/2005,2004
+Borja Fernández,Defensive Midfield,1981-01-14,23,Spain,Real Madrid,LaLiga,2004/2005,2004
+Thomas Gravesen,Defensive Midfield,1976-03-11,28,Denmark,Real Madrid,LaLiga,2004/2005,2004
+Albert Celades,Defensive Midfield,1975-09-29,28,Spain,Real Madrid,LaLiga,2004/2005,2004
+Javi García,Defensive Midfield,1987-02-08,17,Spain,Real Madrid,LaLiga,2004/2005,2004
+Rubén de la Red,Central Midfield,1985-06-05,19,Spain,Real Madrid,LaLiga,2004/2005,2004
+Guti,Central Midfield,1976-10-31,27,Spain,Real Madrid,LaLiga,2004/2005,2004
+David Beckham,Right Midfield,1975-05-02,29,England,Real Madrid,LaLiga,2004/2005,2004
+Santiago Solari,Left Midfield,1976-10-07,27,Argentina,Real Madrid,LaLiga,2004/2005,2004
+José Manuel Jurado,Attacking Midfield,1986-06-29,18,Spain,Real Madrid,LaLiga,2004/2005,2004
+Zinédine Zidane,Attacking Midfield,1972-06-23,32,France,Real Madrid,LaLiga,2004/2005,2004
+Jotha Pérez,Attacking Midfield,1982-06-06,22,Spain,Real Madrid,LaLiga,2004/2005,2004
+Álex Pérez,Left Winger,1985-01-21,19,Spain,Real Madrid,LaLiga,2004/2005,2004
+Luís Figo,Right Winger,1972-11-04,31,Portugal,Real Madrid,LaLiga,2004/2005,2004
+Raúl,Second Striker,1977-06-27,27,Spain,Real Madrid,LaLiga,2004/2005,2004
+Roberto Soldado,Centre-Forward,1985-05-27,19,Spain,Real Madrid,LaLiga,2004/2005,2004
+Fernando Morientes,Centre-Forward,1976-04-05,28,Spain,Real Madrid,LaLiga,2004/2005,2004
+Ronaldo,Centre-Forward,1976-09-18,27,Brazil,Real Madrid,LaLiga,2004/2005,2004
+Michael Owen,Centre-Forward,1979-12-14,24,England,Real Madrid,LaLiga,2004/2005,2004
+Javier Portillo,Centre-Forward,1982-03-30,22,Spain,Real Madrid,LaLiga,2004/2005,2004
+Juan Luis Mora,Goalkeeper,1973-07-12,30,Spain,Levante UD,LaLiga,2004/2005,2004
+Ignacio Aizpurúa,Goalkeeper,1970-05-05,34,Spain,Levante UD,LaLiga,2004/2005,2004
+Pablo Cavallero,Goalkeeper,1974-04-13,30,Argentina,Levante UD,LaLiga,2004/2005,2004
+Alexis,Centre-Back,1974-03-08,30,Spain,Levante UD,LaLiga,2004/2005,2004
+Johan Mjällby,Centre-Back,1971-02-09,33,Sweden,Levante UD,LaLiga,2004/2005,2004
+Jesule,Centre-Back,1973-05-26,31,Spain,Levante UD,LaLiga,2004/2005,2004
+José Antonio Culebras,Centre-Back,1979-01-16,25,Spain,Levante UD,LaLiga,2004/2005,2004
+Ian Harte,Left-Back,1977-08-31,26,Ireland,Levante UD,LaLiga,2004/2005,2004
+Félix Carballo,Left-Back,1968-01-06,36,Spain,Levante UD,LaLiga,2004/2005,2004
+Luis Rubiales,Left-Back,1977-08-23,26,Spain,Levante UD,LaLiga,2004/2005,2004
+Nacho,Left-Back,1980-06-24,24,Spain,Levante UD,LaLiga,2004/2005,2004
+Pablo Pinillos,Right-Back,1974-07-09,29,Spain,Levante UD,LaLiga,2004/2005,2004
+Iñaki Descarga,Right-Back,1976-08-25,27,Spain,Levante UD,LaLiga,2004/2005,2004
+Diego Camacho,Defensive Midfield,1976-10-03,27,Spain,Levante UD,LaLiga,2004/2005,2004
+Fabio Celestini,Defensive Midfield,1975-10-31,28,Switzerland,Levante UD,LaLiga,2004/2005,2004
+Tito,Defensive Midfield,1971-07-15,32,Spain,Levante UD,LaLiga,2004/2005,2004
+Alberto Rivera,Central Midfield,1978-02-16,26,Spain,Levante UD,LaLiga,2004/2005,2004
+Sandro,Central Midfield,1974-10-14,29,Spain,Levante UD,LaLiga,2004/2005,2004
+Félix Ettien,Right Midfield,1979-09-26,24,Cote d'Ivoire,Levante UD,LaLiga,2004/2005,2004
+Ángel Cuéllar,Forward,1972-09-13,31,Spain,Levante UD,LaLiga,2004/2005,2004
+Jofre,Left Winger,1980-01-24,24,Spain,Levante UD,LaLiga,2004/2005,2004
+Juanma,Right Winger,1981-05-29,23,Spain,Levante UD,LaLiga,2004/2005,2004
+Sergio García,Centre-Forward,1983-06-09,21,Spain,Levante UD,LaLiga,2004/2005,2004
+Edwin Congo,Centre-Forward,1976-10-07,27,Colombia,Levante UD,LaLiga,2004/2005,2004
+Vladimir Manchev,Centre-Forward,1977-10-06,26,Bulgaria,Levante UD,LaLiga,2004/2005,2004
+Gustavo Reggi,Centre-Forward,1973-05-28,31,Argentina,Levante UD,LaLiga,2004/2005,2004
+Oinatz Aulestia,Goalkeeper,1981-03-23,23,Spain,Athletic Bilbao,LaLiga,2004/2005,2004
+Iñaki Lafuente,Goalkeeper,1976-01-24,28,Spain,Athletic Bilbao,LaLiga,2004/2005,2004
+Daniel Aranzubia,Goalkeeper,1979-09-18,24,Spain,Athletic Bilbao,LaLiga,2004/2005,2004
+Roberto Pampín,Goalkeeper,1984-01-05,20,Spain,Athletic Bilbao,LaLiga,2004/2005,2004
+Aitor Karanka,Centre-Back,1973-09-18,30,Spain,Athletic Bilbao,LaLiga,2004/2005,2004
+Luis Prieto,Centre-Back,1979-02-19,25,Spain,Athletic Bilbao,LaLiga,2004/2005,2004
+Carlos Gurpegi,Centre-Back,1980-08-19,23,Spain,Athletic Bilbao,LaLiga,2004/2005,2004
+Ander Murillo,Centre-Back,1983-07-22,20,Spain,Athletic Bilbao,LaLiga,2004/2005,2004
+César Caneda,Centre-Back,1978-05-10,26,Spain,Athletic Bilbao,LaLiga,2004/2005,2004
+Jon Moya,Centre-Back,1983-01-05,21,Spain,Athletic Bilbao,LaLiga,2004/2005,2004
+Javi Casas,Left-Back,1982-05-09,22,Spain,Athletic Bilbao,LaLiga,2004/2005,2004
+Asier del Horno,Left-Back,1981-01-19,23,Spain,Athletic Bilbao,LaLiga,2004/2005,2004
+Felipe Guréndez,Right-Back,1975-11-18,28,Spain,Athletic Bilbao,LaLiga,2004/2005,2004
+Oskar Vales,Right-Back,1974-09-13,29,Spain,Athletic Bilbao,LaLiga,2004/2005,2004
+Mari Lacruz,Right-Back,1978-04-25,26,Spain,Athletic Bilbao,LaLiga,2004/2005,2004
+Andoni Iraola,Right-Back,1982-06-22,22,Spain,Athletic Bilbao,LaLiga,2004/2005,2004
+Pablo Orbaiz,Defensive Midfield,1979-02-06,25,Spain,Athletic Bilbao,LaLiga,2004/2005,2004
+Pablo Paredes,Central Midfield,1983-02-11,21,Spain,Athletic Bilbao,LaLiga,2004/2005,2004
+Endika Bordas,Central Midfield,1982-03-08,22,Spain,Athletic Bilbao,LaLiga,2004/2005,2004
+Tiko,Central Midfield,1976-09-10,27,Spain,Athletic Bilbao,LaLiga,2004/2005,2004
+Javi González,Right Midfield,1974-03-22,30,Spain,Athletic Bilbao,LaLiga,2004/2005,2004
+Aritz Solabarrieta,Right Midfield,1983-07-22,20,Spain,Athletic Bilbao,LaLiga,2004/2005,2004
+Julen Guerrero,Attacking Midfield,1974-01-07,30,Spain,Athletic Bilbao,LaLiga,2004/2005,2004
+Fran Yeste,Attacking Midfield,1979-12-06,24,Spain,Athletic Bilbao,LaLiga,2004/2005,2004
+Jonan García,Attacking Midfield,1983-01-08,21,Spain,Athletic Bilbao,LaLiga,2004/2005,2004
+Joseba Etxeberria,Right Winger,1977-09-05,26,Spain,Athletic Bilbao,LaLiga,2004/2005,2004
+Gorka Azkorra,Right Winger,1983-01-25,21,Spain,Athletic Bilbao,LaLiga,2004/2005,2004
+Santiago Ezquerro,Centre-Forward,1976-12-14,27,Spain,Athletic Bilbao,LaLiga,2004/2005,2004
+Ismael Urzaiz,Centre-Forward,1971-10-07,32,Spain,Athletic Bilbao,LaLiga,2004/2005,2004
+Joseba Arriaga,Centre-Forward,1982-07-28,21,Spain,Athletic Bilbao,LaLiga,2004/2005,2004
+Igor Angulo,Centre-Forward,1984-01-26,20,Spain,Athletic Bilbao,LaLiga,2004/2005,2004
+Fernando Llorente,Centre-Forward,1985-02-26,19,Spain,Athletic Bilbao,LaLiga,2004/2005,2004
+Sergio Sánchez,Goalkeeper,1977-04-28,27,Spain,Getafe CF,LaLiga,2004/2005,2004
+Javier Sanchez Broto,Goalkeeper,1971-08-25,32,Spain,Getafe CF,LaLiga,2004/2005,2004
+Sergio Aragoneses,Goalkeeper,1977-02-01,27,Spain,Getafe CF,LaLiga,2004/2005,2004
+Alberto Fernández,Goalkeeper,1981-08-09,22,Spain,Getafe CF,LaLiga,2004/2005,2004
+Nano,Centre-Back,1980-07-07,23,Spain,Getafe CF,LaLiga,2004/2005,2004
+Iván Amaya,Centre-Back,1978-09-03,25,Spain,Getafe CF,LaLiga,2004/2005,2004
+Raúl Albiol,Centre-Back,1985-09-04,18,Spain,Getafe CF,LaLiga,2004/2005,2004
+David Belenguer,Centre-Back,1972-12-17,31,Spain,Getafe CF,LaLiga,2004/2005,2004
+Quique Medina,Centre-Back,1974-09-14,29,Spain,Getafe CF,LaLiga,2004/2005,2004
+Manuel Tena,Centre-Back,1978-02-03,26,Spain,Getafe CF,LaLiga,2004/2005,2004
+Mariano Pernía,Left-Back,1977-05-04,27,Spain,Getafe CF,LaLiga,2004/2005,2004
+José Antonio Serrano,Left-Back,1984-08-06,19,Spain,Getafe CF,LaLiga,2004/2005,2004
+Martín Ariel Vitali,Right-Back,1975-11-11,28,Argentina,Getafe CF,LaLiga,2004/2005,2004
+José Manuel Yanguas,Right-Back,1972-06-20,32,Spain,Getafe CF,LaLiga,2004/2005,2004
+David Cubillo,Defensive Midfield,1978-01-06,26,Spain,Getafe CF,LaLiga,2004/2005,2004
+Gabi,Defensive Midfield,1983-07-10,20,Spain,Getafe CF,LaLiga,2004/2005,2004
+Diego Rivas,Central Midfield,1980-04-27,24,Spain,Getafe CF,LaLiga,2004/2005,2004
+Mario Cotelo,Right Midfield,1975-02-10,29,Spain,Getafe CF,LaLiga,2004/2005,2004
+Paco Gallardo,Right Midfield,1980-01-13,24,Spain,Getafe CF,LaLiga,2004/2005,2004
+Alberto Ruiz,Attacking Midfield,1977-12-22,26,Spain,Getafe CF,LaLiga,2004/2005,2004
+Ángel Vivar Dorado,Attacking Midfield,1974-02-12,30,Spain,Getafe CF,LaLiga,2004/2005,2004
+Rubén Pulido,Forward,NA,NA,Spain,Getafe CF,LaLiga,2004/2005,2004
+Daniel Komé,Right Winger,1980-05-19,24,Cameroon,Getafe CF,LaLiga,2004/2005,2004
+Míchel,Centre-Forward,1977-08-03,26,Spain,Getafe CF,LaLiga,2004/2005,2004
+Gheorghe Craioveanu,Centre-Forward,1968-02-14,36,Romania,Getafe CF,LaLiga,2004/2005,2004
+Yordi,Centre-Forward,1974-09-14,29,Spain,Getafe CF,LaLiga,2004/2005,2004
+Jaime Asen,Centre-Forward,1978-10-07,25,Spain,Getafe CF,LaLiga,2004/2005,2004
+Sergio Pachón,Centre-Forward,1977-02-05,27,Spain,Getafe CF,LaLiga,2004/2005,2004
+Riki,Centre-Forward,1980-08-11,23,Spain,Getafe CF,LaLiga,2004/2005,2004

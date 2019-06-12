@@ -1,0 +1,641 @@
+shirt_number,position,player_name,date_of_birth,age,nationality,club_name,league_name,season,year
+1,Goalkeeper,"Dec 15, 1986 (28)",NA,NA,Costa Rica,Real Madrid,LaLiga,2015/2016,2015
+13,Goalkeeper,"Oct 2, 1986 (28)",NA,NA,Spain,Real Madrid,LaLiga,2015/2016,2015
+31,Goalkeeper,"Oct 12, 1993 (21)",NA,NA,Spain,Real Madrid,LaLiga,2015/2016,2015
+42,Goalkeeper,"Oct 21, 1995 (19)",NA,NA,Belgium,Real Madrid,LaLiga,2015/2016,2015
+4,Centre-Back,"Mar 30, 1986 (29)",NA,NA,Spain,Real Madrid,LaLiga,2015/2016,2015
+2,Centre-Back,"Apr 25, 1993 (22)",NA,NA,France,Real Madrid,LaLiga,2015/2016,2015
+3,Centre-Back,"Feb 26, 1983 (32)",NA,NA,Portugal,Real Madrid,LaLiga,2015/2016,2015
+6,Centre-Back,"Jan 18, 1990 (25)",NA,NA,Spain,Real Madrid,LaLiga,2015/2016,2015
+32,Centre-Back,"Jul 11, 1996 (18)",NA,NA,Austria,Real Madrid,LaLiga,2015/2016,2015
+12,Left-Back,"May 12, 1988 (27)",NA,NA,Brazil,Real Madrid,LaLiga,2015/2016,2015
+15,Right-Back,"Jan 11, 1992 (23)",NA,NA,Spain,Real Madrid,LaLiga,2015/2016,2015
+23,Right-Back,"Jul 15, 1991 (23)",NA,NA,Brazil,Real Madrid,LaLiga,2015/2016,2015
+17,Right-Back,"Jan 17, 1983 (32)",NA,NA,Spain,Real Madrid,LaLiga,2015/2016,2015
+34,Right-Back,"Jul 20, 1996 (18)",NA,NA,Spain,Real Madrid,LaLiga,2015/2016,2015
+14,Defensive Midfield,"Feb 23, 1992 (23)",NA,NA,Brazil,Real Madrid,LaLiga,2015/2016,2015
+28,Defensive Midfield,"Jan 30, 1995 (20)",NA,NA,Spain,Real Madrid,LaLiga,2015/2016,2015
+19,Central Midfield,"Sep 9, 1985 (29)",NA,NA,Croatia,Real Madrid,LaLiga,2015/2016,2015
+8,Central Midfield,"Jan 4, 1990 (25)",NA,NA,Germany,Real Madrid,LaLiga,2015/2016,2015
+16,Central Midfield,"May 6, 1994 (21)",NA,NA,Croatia,Real Madrid,LaLiga,2015/2016,2015
+10,Attacking Midfield,"Jul 12, 1991 (23)",NA,NA,Colombia,Real Madrid,LaLiga,2015/2016,2015
+22,Attacking Midfield,"Apr 21, 1992 (23)",NA,NA,Spain,Real Madrid,LaLiga,2015/2016,2015
+7,Left Winger,"Feb 5, 1985 (30)",NA,NA,Portugal,Real Madrid,LaLiga,2015/2016,2015
+NA,Left Winger,"Dec 26, 1990 (24)",NA,NA,Russia,Real Madrid,LaLiga,2015/2016,2015
+33,Left Winger,"Feb 16, 1996 (19)",NA,NA,Spain,Real Madrid,LaLiga,2015/2016,2015
+11,Right Winger,"Jul 16, 1989 (25)",NA,NA,Wales,Real Madrid,LaLiga,2015/2016,2015
+18,Right Winger,"Jul 1, 1991 (24)",NA,NA,Spain,Real Madrid,LaLiga,2015/2016,2015
+27,Right Winger,"Dec 17, 1998 (16)",NA,NA,Norway,Real Madrid,LaLiga,2015/2016,2015
+9,Centre-Forward,"Dec 19, 1987 (27)",NA,NA,France,Real Madrid,LaLiga,2015/2016,2015
+20,Centre-Forward,"Feb 26, 1993 (22)",NA,NA,Spain,Real Madrid,LaLiga,2015/2016,2015
+29,Centre-Forward,"Apr 5, 1997 (18)",NA,NA,Spain,Real Madrid,LaLiga,2015/2016,2015
+1,Goalkeeper,"Apr 30, 1992 (23)",NA,NA,Germany,FC Barcelona,LaLiga,2015/2016,2015
+13,Goalkeeper,"Apr 13, 1983 (32)",NA,NA,Chile,FC Barcelona,LaLiga,2015/2016,2015
+25,Goalkeeper,"Jan 3, 1989 (26)",NA,NA,Spain,FC Barcelona,LaLiga,2015/2016,2015
+3,Centre-Back,"Feb 2, 1987 (28)",NA,NA,Spain,FC Barcelona,LaLiga,2015/2016,2015
+24,Centre-Back,"Oct 29, 1983 (31)",NA,NA,France,FC Barcelona,LaLiga,2015/2016,2015
+15,Centre-Back,"Jan 15, 1991 (24)",NA,NA,Spain,FC Barcelona,LaLiga,2015/2016,2015
+23,Centre-Back,"Nov 14, 1985 (29)",NA,NA,Belgium,FC Barcelona,LaLiga,2015/2016,2015
+18,Left-Back,"Mar 21, 1989 (26)",NA,NA,Spain,FC Barcelona,LaLiga,2015/2016,2015
+21,Left-Back,"Oct 26, 1984 (30)",NA,NA,Brazil,FC Barcelona,LaLiga,2015/2016,2015
+6,Right-Back,"May 6, 1983 (32)",NA,NA,Brazil,FC Barcelona,LaLiga,2015/2016,2015
+20,Right-Back,"Feb 7, 1992 (23)",NA,NA,Spain,FC Barcelona,LaLiga,2015/2016,2015
+2,Right-Back,"Aug 6, 1990 (24)",NA,NA,Brazil,FC Barcelona,LaLiga,2015/2016,2015
+5,Defensive Midfield,"Jul 16, 1988 (26)",NA,NA,Spain,FC Barcelona,LaLiga,2015/2016,2015
+14,Defensive Midfield,"Jun 8, 1984 (31)",NA,NA,Argentina,FC Barcelona,LaLiga,2015/2016,2015
+NA,Defensive Midfield,"Jan 20, 1995 (20)",NA,NA,Spain,FC Barcelona,LaLiga,2015/2016,2015
+8,Central Midfield,"May 11, 1984 (31)",NA,NA,Spain,FC Barcelona,LaLiga,2015/2016,2015
+4,Central Midfield,"Mar 10, 1988 (27)",NA,NA,Croatia,FC Barcelona,LaLiga,2015/2016,2015
+12,Central Midfield,"Feb 12, 1993 (22)",NA,NA,Brazil,FC Barcelona,LaLiga,2015/2016,2015
+NA,Central Midfield,"Jul 7, 1996 (18)",NA,NA,Cameroon,FC Barcelona,LaLiga,2015/2016,2015
+NA,Central Midfield,"Dec 18, 1994 (20)",NA,NA,Spain,FC Barcelona,LaLiga,2015/2016,2015
+NA,Central Midfield,"Jan 5, 1998 (17)",NA,NA,Spain,FC Barcelona,LaLiga,2015/2016,2015
+22,Right Midfield,"Aug 21, 1989 (25)",NA,NA,Spain,FC Barcelona,LaLiga,2015/2016,2015
+11,Left Winger,"Feb 5, 1992 (23)",NA,NA,Brazil,FC Barcelona,LaLiga,2015/2016,2015
+7,Left Winger,"Jan 30, 1987 (28)",NA,NA,Turkey,FC Barcelona,LaLiga,2015/2016,2015
+NA,Left Winger,"Feb 13, 1994 (21)",NA,NA,Spain,FC Barcelona,LaLiga,2015/2016,2015
+10,Right Winger,"Jun 24, 1987 (28)",NA,NA,Argentina,FC Barcelona,LaLiga,2015/2016,2015
+NA,Right Winger,"Jul 28, 1987 (27)",NA,NA,Spain,FC Barcelona,LaLiga,2015/2016,2015
+NA,Right Winger,"Feb 10, 1996 (19)",NA,NA,Spain,FC Barcelona,LaLiga,2015/2016,2015
+9,Centre-Forward,"Jan 24, 1987 (28)",NA,NA,Uruguay,FC Barcelona,LaLiga,2015/2016,2015
+17,Centre-Forward,"Sep 1, 1995 (19)",NA,NA,Spain,FC Barcelona,LaLiga,2015/2016,2015
+19,Centre-Forward,"Jul 9, 1995 (19)",NA,NA,Spain,FC Barcelona,LaLiga,2015/2016,2015
+NA,Centre-Forward,"Aug 23, 1995 (19)",NA,NA,Spain,FC Barcelona,LaLiga,2015/2016,2015
+13,Goalkeeper,"Jan 7, 1993 (22)",NA,NA,Slovenia,Atlético Madrid,LaLiga,2015/2016,2015
+1,Goalkeeper,"Apr 2, 1984 (31)",NA,NA,Spain,Atlético Madrid,LaLiga,2015/2016,2015
+2,Centre-Back,"Feb 16, 1986 (29)",NA,NA,Uruguay,Atlético Madrid,LaLiga,2015/2016,2015
+24,Centre-Back,"Jan 20, 1995 (20)",NA,NA,Uruguay,Atlético Madrid,LaLiga,2015/2016,2015
+15,Centre-Back,"Jan 8, 1991 (24)",NA,NA,Montenegro,Atlético Madrid,LaLiga,2015/2016,2015
+NA,Centre-Back,"Apr 27, 1994 (21)",NA,NA,Spain,Atlético Madrid,LaLiga,2015/2016,2015
+19,Centre-Back,"Feb 14, 1996 (19)",NA,NA,France,Atlético Madrid,LaLiga,2015/2016,2015
+3,Left-Back,"Aug 9, 1985 (29)",NA,NA,Brazil,Atlético Madrid,LaLiga,2015/2016,2015
+NA,Left-Back,"Apr 28, 1986 (29)",NA,NA,Brazil,Atlético Madrid,LaLiga,2015/2016,2015
+NA,Left-Back,"Oct 6, 1997 (17)",NA,NA,France,Atlético Madrid,LaLiga,2015/2016,2015
+20,Right-Back,"Jan 9, 1985 (30)",NA,NA,Spain,Atlético Madrid,LaLiga,2015/2016,2015
+18,Right-Back,"Apr 10, 1985 (30)",NA,NA,Spain,Atlético Madrid,LaLiga,2015/2016,2015
+NA,Right-Back,"Nov 17, 1995 (19)",NA,NA,Spain,Atlético Madrid,LaLiga,2015/2016,2015
+14,Defensive Midfield,"Jul 10, 1983 (31)",NA,NA,Spain,Atlético Madrid,LaLiga,2015/2016,2015
+22,Defensive Midfield,"Jun 13, 1993 (22)",NA,NA,Ghana,Atlético Madrid,LaLiga,2015/2016,2015
+8,Defensive Midfield,"May 21, 1993 (22)",NA,NA,Argentina,Atlético Madrid,LaLiga,2015/2016,2015
+6,Central Midfield,"Jan 8, 1992 (23)",NA,NA,Spain,Atlético Madrid,LaLiga,2015/2016,2015
+10,Central Midfield,"Nov 10, 1994 (20)",NA,NA,Spain,Atlético Madrid,LaLiga,2015/2016,2015
+17,Central Midfield,"Nov 21, 1994 (20)",NA,NA,Spain,Atlético Madrid,LaLiga,2015/2016,2015
+12,Central Midfield,"Apr 10, 1986 (29)",NA,NA,Argentina,Atlético Madrid,LaLiga,2015/2016,2015
+5,Central Midfield,"May 2, 1981 (34)",NA,NA,Portugal,Atlético Madrid,LaLiga,2015/2016,2015
+NA,Attacking Midfield,"Jul 11, 1986 (28)",NA,NA,Spain,Atlético Madrid,LaLiga,2015/2016,2015
+21,Left Winger,"Sep 4, 1993 (21)",NA,NA,Belgium,Atlético Madrid,LaLiga,2015/2016,2015
+16,Right Winger,"Mar 9, 1995 (20)",NA,NA,Argentina,Atlético Madrid,LaLiga,2015/2016,2015
+NA,Right Winger,"Sep 16, 1994 (20)",NA,NA,Spain,Atlético Madrid,LaLiga,2015/2016,2015
+7,Centre-Forward,"Mar 21, 1991 (24)",NA,NA,France,Atlético Madrid,LaLiga,2015/2016,2015
+NA,Centre-Forward,"Oct 3, 1986 (28)",NA,NA,Colombia,Atlético Madrid,LaLiga,2015/2016,2015
+23,Centre-Forward,"Dec 5, 1993 (21)",NA,NA,Argentina,Atlético Madrid,LaLiga,2015/2016,2015
+9,Centre-Forward,"Mar 20, 1984 (31)",NA,NA,Spain,Atlético Madrid,LaLiga,2015/2016,2015
+NA,Centre-Forward,"Jan 3, 1996 (19)",NA,NA,Spain,Atlético Madrid,LaLiga,2015/2016,2015
+1,Goalkeeper,"Jun 24, 1985 (30)",NA,NA,Brazil,Valencia CF,LaLiga,2015/2016,2015
+25,Goalkeeper,"Apr 8, 1992 (23)",NA,NA,Australia,Valencia CF,LaLiga,2015/2016,2015
+NA,Goalkeeper,"Aug 28, 1988 (26)",NA,NA,Spain,Valencia CF,LaLiga,2015/2016,2015
+13,Goalkeeper,"Nov 5, 1990 (24)",NA,NA,Spain,Valencia CF,LaLiga,2015/2016,2015
+5,Centre-Back,"Apr 17, 1992 (23)",NA,NA,Germany,Valencia CF,LaLiga,2015/2016,2015
+23,Centre-Back,"Aug 6, 1989 (25)",NA,NA,Tunisia,Valencia CF,LaLiga,2015/2016,2015
+4,Centre-Back,"Apr 9, 1989 (26)",NA,NA,Brazil,Valencia CF,LaLiga,2015/2016,2015
+NA,Centre-Back,"Feb 3, 1989 (26)",NA,NA,Argentina,Valencia CF,LaLiga,2015/2016,2015
+3,Centre-Back,"Apr 25, 1994 (21)",NA,NA,Portugal,Valencia CF,LaLiga,2015/2016,2015
+NA,Centre-Back,"Aug 12, 1996 (18)",NA,NA,Mali,Valencia CF,LaLiga,2015/2016,2015
+14,Left-Back,"May 25, 1995 (20)",NA,NA,Spain,Valencia CF,LaLiga,2015/2016,2015
+6,Left-Back,"Apr 28, 1986 (29)",NA,NA,Brazil,Valencia CF,LaLiga,2015/2016,2015
+NA,Left-Back,"Feb 17, 1994 (21)",NA,NA,Spain,Valencia CF,LaLiga,2015/2016,2015
+NA,Left-Back,"Nov 21, 1997 (17)",NA,NA,Spain,Valencia CF,LaLiga,2015/2016,2015
+19,Right-Back,"Jun 12, 1987 (28)",NA,NA,Spain,Valencia CF,LaLiga,2015/2016,2015
+2,Right-Back,"May 27, 1994 (21)",NA,NA,Portugal,Valencia CF,LaLiga,2015/2016,2015
+18,Defensive Midfield,"Jan 4, 1984 (31)",NA,NA,Spain,Valencia CF,LaLiga,2015/2016,2015
+12,Defensive Midfield,"Feb 28, 1996 (19)",NA,NA,Brazil,Valencia CF,LaLiga,2015/2016,2015
+15,Central Midfield,"Feb 22, 1986 (29)",NA,NA,Argentina,Valencia CF,LaLiga,2015/2016,2015
+10,Central Midfield,"Apr 16, 1989 (26)",NA,NA,Spain,Valencia CF,LaLiga,2015/2016,2015
+21,Central Midfield,"Jul 30, 1993 (21)",NA,NA,Portugal,Valencia CF,LaLiga,2015/2016,2015
+NA,Central Midfield,"Aug 21, 1993 (21)",NA,NA,France,Valencia CF,LaLiga,2015/2016,2015
+NA,Central Midfield,"May 12, 1995 (20)",NA,NA,Spain,Valencia CF,LaLiga,2015/2016,2015
+NA,Right Midfield,"Jan 2, 1997 (18)",NA,NA,Spain,Valencia CF,LaLiga,2015/2016,2015
+NA,Attacking Midfield,"May 11, 1998 (17)",NA,NA,Spain,Valencia CF,LaLiga,2015/2016,2015
+NA,Left Winger,"Dec 26, 1990 (24)",NA,NA,Russia,Valencia CF,LaLiga,2015/2016,2015
+11,Left Winger,"Mar 31, 1989 (26)",NA,NA,Argentina,Valencia CF,LaLiga,2015/2016,2015
+NA,Left Winger,"May 24, 1994 (21)",NA,NA,Argentina,Valencia CF,LaLiga,2015/2016,2015
+16,Left Winger,"Jan 26, 1996 (19)",NA,NA,Belgium,Valencia CF,LaLiga,2015/2016,2015
+NA,Left Winger,"Nov 18, 1996 (18)",NA,NA,Spain,Valencia CF,LaLiga,2015/2016,2015
+NA,Left Winger,"Sep 9, 1995 (19)",NA,NA,Spain,Valencia CF,LaLiga,2015/2016,2015
+8,Right Winger,"Dec 26, 1989 (25)",NA,NA,Algeria,Valencia CF,LaLiga,2015/2016,2015
+NA,Right Winger,"Dec 11, 1995 (19)",NA,NA,Equatorial Guinea,Valencia CF,LaLiga,2015/2016,2015
+7,Centre-Forward,"Aug 20, 1985 (29)",NA,NA,Spain,Valencia CF,LaLiga,2015/2016,2015
+9,Centre-Forward,"Aug 30, 1993 (21)",NA,NA,Spain,Valencia CF,LaLiga,2015/2016,2015
+17,Centre-Forward,"Mar 6, 1991 (24)",NA,NA,Spain,Valencia CF,LaLiga,2015/2016,2015
+22,Centre-Forward,"Dec 7, 1995 (19)",NA,NA,Spain,Valencia CF,LaLiga,2015/2016,2015
+NA,Centre-Forward,"Jun 18, 1997 (18)",NA,NA,Spain,Valencia CF,LaLiga,2015/2016,2015
+13,Goalkeeper,"May 1, 1982 (33)",NA,NA,Portugal,Sevilla FC,LaLiga,2015/2016,2015
+1,Goalkeeper,"Sep 1, 1993 (21)",NA,NA,Spain,Sevilla FC,LaLiga,2015/2016,2015
+31,Goalkeeper,"Apr 4, 1993 (22)",NA,NA,Spain,Sevilla FC,LaLiga,2015/2016,2015
+3,Centre-Back,"Dec 27, 1985 (29)",NA,NA,France,Sevilla FC,LaLiga,2015/2016,2015
+6,Centre-Back,"Aug 4, 1988 (26)",NA,NA,Portugal,Sevilla FC,LaLiga,2015/2016,2015
+16,Centre-Back,"Mar 17, 1987 (28)",NA,NA,Argentina,Sevilla FC,LaLiga,2015/2016,2015
+21,Centre-Back,"Jan 19, 1984 (31)",NA,NA,Argentina,Sevilla FC,LaLiga,2015/2016,2015
+NA,Centre-Back,"Jun 10, 1986 (29)",NA,NA,Italy,Sevilla FC,LaLiga,2015/2016,2015
+5,Centre-Back,"Oct 1, 1991 (23)",NA,NA,France,Sevilla FC,LaLiga,2015/2016,2015
+NA,Centre-Back,"Jan 28, 1995 (20)",NA,NA,Spain,Sevilla FC,LaLiga,2015/2016,2015
+2,Left-Back,"Dec 28, 1985 (29)",NA,NA,France,Sevilla FC,LaLiga,2015/2016,2015
+18,Left-Back,"Sep 2, 1989 (25)",NA,NA,Spain,Sevilla FC,LaLiga,2015/2016,2015
+NA,Left-Back,"May 6, 1995 (20)",NA,NA,Spain,Sevilla FC,LaLiga,2015/2016,2015
+25,Right-Back,"Jun 23, 1986 (29)",NA,NA,Brazil,Sevilla FC,LaLiga,2015/2016,2015
+23,Right-Back,"Apr 26, 1987 (28)",NA,NA,Spain,Sevilla FC,LaLiga,2015/2016,2015
+17,Right-Back,"Jul 1, 1991 (24)",NA,NA,Portugal,Sevilla FC,LaLiga,2015/2016,2015
+NA,Right-Back,"Jan 11, 1997 (18)",NA,NA,Spain,Sevilla FC,LaLiga,2015/2016,2015
+4,Defensive Midfield,"Jan 29, 1990 (25)",NA,NA,Poland,Sevilla FC,LaLiga,2015/2016,2015
+8,Defensive Midfield,"Jan 16, 1988 (27)",NA,NA,Spain,Sevilla FC,LaLiga,2015/2016,2015
+15,Defensive Midfield,"Dec 15, 1988 (26)",NA,NA,France,Sevilla FC,LaLiga,2015/2016,2015
+NA,Defensive Midfield,"May 5, 1992 (23)",NA,NA,Spain,Sevilla FC,LaLiga,2015/2016,2015
+NA,Central Midfield,"Jan 6, 1994 (21)",NA,NA,Spain,Sevilla FC,LaLiga,2015/2016,2015
+19,Central Midfield,"Jun 29, 1988 (27)",NA,NA,Argentina,Sevilla FC,LaLiga,2015/2016,2015
+7,Central Midfield,"Jun 6, 1983 (32)",NA,NA,Denmark,Sevilla FC,LaLiga,2015/2016,2015
+14,Central Midfield,"Aug 23, 1993 (21)",NA,NA,Uruguay,Sevilla FC,LaLiga,2015/2016,2015
+NA,Central Midfield,"Sep 19, 1995 (19)",NA,NA,Spain,Sevilla FC,LaLiga,2015/2016,2015
+NA,Attacking Midfield,"Jan 3, 1996 (19)",NA,NA,Spain,Sevilla FC,LaLiga,2015/2016,2015
+NA,Attacking Midfield,"Jan 1, 1994 (21)",NA,NA,Spain,Sevilla FC,LaLiga,2015/2016,2015
+22,Left Winger,"Sep 29, 1989 (25)",NA,NA,Ukraine,Sevilla FC,LaLiga,2015/2016,2015
+20,Left Winger,"Nov 2, 1989 (25)",NA,NA,Spain,Sevilla FC,LaLiga,2015/2016,2015
+NA,Left Winger,"Jun 21, 1991 (24)",NA,NA,DR Congo,Sevilla FC,LaLiga,2015/2016,2015
+10,Right Winger,"Sep 1, 1983 (31)",NA,NA,Spain,Sevilla FC,LaLiga,2015/2016,2015
+NA,Right Winger,"Jun 29, 1994 (21)",NA,NA,Spain,Sevilla FC,LaLiga,2015/2016,2015
+24,Centre-Forward,"Feb 26, 1985 (30)",NA,NA,Spain,Sevilla FC,LaLiga,2015/2016,2015
+NA,Centre-Forward,"Feb 20, 1990 (25)",NA,NA,Italy,Sevilla FC,LaLiga,2015/2016,2015
+9,Centre-Forward,"May 9, 1987 (28)",NA,NA,France,Sevilla FC,LaLiga,2015/2016,2015
+NA,Centre-Forward,"May 22, 1996 (19)",NA,NA,Spain,Sevilla FC,LaLiga,2015/2016,2015
+11,Centre-Forward,"Nov 12, 1995 (19)",NA,NA,Spain,Sevilla FC,LaLiga,2015/2016,2015
+1,Goalkeeper,"Mar 6, 1981 (34)",NA,NA,Spain,Athletic Bilbao,LaLiga,2015/2016,2015
+13,Goalkeeper,"Jan 25, 1988 (27)",NA,NA,Spain,Athletic Bilbao,LaLiga,2015/2016,2015
+NA,Goalkeeper,"Mar 24, 1995 (20)",NA,NA,Spain,Athletic Bilbao,LaLiga,2015/2016,2015
+4,Centre-Back,"May 27, 1994 (21)",NA,NA,France,Athletic Bilbao,LaLiga,2015/2016,2015
+16,Centre-Back,"Oct 31, 1987 (27)",NA,NA,Spain,Athletic Bilbao,LaLiga,2015/2016,2015
+18,Centre-Back,"Aug 19, 1980 (34)",NA,NA,Spain,Athletic Bilbao,LaLiga,2015/2016,2015
+NA,Centre-Back,"Jan 24, 1995 (20)",NA,NA,Spain,Athletic Bilbao,LaLiga,2015/2016,2015
+24,Left-Back,"Feb 29, 1988 (27)",NA,NA,Spain,Athletic Bilbao,LaLiga,2015/2016,2015
+NA,Left-Back,"Apr 27, 1992 (23)",NA,NA,Spain,Athletic Bilbao,LaLiga,2015/2016,2015
+10,Right-Back,"Apr 14, 1989 (26)",NA,NA,Spain,Athletic Bilbao,LaLiga,2015/2016,2015
+2,Right-Back,"Dec 14, 1988 (26)",NA,NA,Spain,Athletic Bilbao,LaLiga,2015/2016,2015
+NA,Right-Back,"May 4, 1993 (22)",NA,NA,Spain,Athletic Bilbao,LaLiga,2015/2016,2015
+8,Defensive Midfield,"Mar 8, 1989 (26)",NA,NA,Spain,Athletic Bilbao,LaLiga,2015/2016,2015
+6,Defensive Midfield,"May 30, 1989 (26)",NA,NA,Spain,Athletic Bilbao,LaLiga,2015/2016,2015
+3,Defensive Midfield,"Mar 18, 1987 (28)",NA,NA,Spain,Athletic Bilbao,LaLiga,2015/2016,2015
+17,Central Midfield,"Nov 4, 1984 (30)",NA,NA,Spain,Athletic Bilbao,LaLiga,2015/2016,2015
+7,Central Midfield,"Feb 19, 1987 (28)",NA,NA,Spain,Athletic Bilbao,LaLiga,2015/2016,2015
+22,Attacking Midfield,"Jul 11, 1986 (28)",NA,NA,Spain,Athletic Bilbao,LaLiga,2015/2016,2015
+NA,Attacking Midfield,"Dec 30, 1993 (21)",NA,NA,Spain,Athletic Bilbao,LaLiga,2015/2016,2015
+5,Attacking Midfield,"Mar 22, 1990 (25)",NA,NA,Spain,Athletic Bilbao,LaLiga,2015/2016,2015
+19,Left Winger,"Dec 19, 1992 (22)",NA,NA,Spain,Athletic Bilbao,LaLiga,2015/2016,2015
+25,Left Winger,"Jan 4, 1992 (23)",NA,NA,Spain,Athletic Bilbao,LaLiga,2015/2016,2015
+14,Right Winger,"Dec 14, 1987 (27)",NA,NA,Spain,Athletic Bilbao,LaLiga,2015/2016,2015
+11,Right Winger,"Nov 11, 1989 (25)",NA,NA,Spain,Athletic Bilbao,LaLiga,2015/2016,2015
+20,Centre-Forward,"Feb 11, 1981 (34)",NA,NA,Spain,Athletic Bilbao,LaLiga,2015/2016,2015
+15,Centre-Forward,"Jun 15, 1994 (21)",NA,NA,Spain,Athletic Bilbao,LaLiga,2015/2016,2015
+21,Centre-Forward,"Mar 26, 1987 (28)",NA,NA,Spain,Athletic Bilbao,LaLiga,2015/2016,2015
+NA,Centre-Forward,"Feb 25, 1986 (29)",NA,NA,Spain,Athletic Bilbao,LaLiga,2015/2016,2015
+1,Goalkeeper,"May 20, 1992 (23)",NA,NA,Argentina,Real Sociedad,LaLiga,2015/2016,2015
+13,Goalkeeper,"Sep 14, 1989 (25)",NA,NA,Spain,Real Sociedad,LaLiga,2015/2016,2015
+NA,Goalkeeper,"May 3, 1995 (20)",NA,NA,Spain,Real Sociedad,LaLiga,2015/2016,2015
+6,Centre-Back,"May 17, 1991 (24)",NA,NA,Spain,Real Sociedad,LaLiga,2015/2016,2015
+23,Centre-Back,"Sep 19, 1992 (22)",NA,NA,Mexico,Real Sociedad,LaLiga,2015/2016,2015
+3,Centre-Back,"Sep 24, 1985 (29)",NA,NA,Spain,Real Sociedad,LaLiga,2015/2016,2015
+NA,Centre-Back,"Jul 13, 1982 (32)",NA,NA,Spain,Real Sociedad,LaLiga,2015/2016,2015
+25,Centre-Back,"May 11, 1988 (27)",NA,NA,Spain,Real Sociedad,LaLiga,2015/2016,2015
+30,Centre-Back,"Mar 28, 1994 (21)",NA,NA,Spain,Real Sociedad,LaLiga,2015/2016,2015
+24,Left-Back,"Dec 2, 1985 (29)",NA,NA,Spain,Real Sociedad,LaLiga,2015/2016,2015
+19,Left-Back,"Feb 10, 1990 (25)",NA,NA,Spain,Real Sociedad,LaLiga,2015/2016,2015
+21,Left-Back,"May 23, 1991 (24)",NA,NA,Spain,Real Sociedad,LaLiga,2015/2016,2015
+2,Right-Back,"Apr 9, 1986 (29)",NA,NA,Spain,Real Sociedad,LaLiga,2015/2016,2015
+20,Right-Back,"Jun 24, 1992 (23)",NA,NA,Spain,Real Sociedad,LaLiga,2015/2016,2015
+NA,Right-Back,"Dec 14, 1995 (19)",NA,NA,Spain,Real Sociedad,LaLiga,2015/2016,2015
+4,Defensive Midfield,"Mar 8, 1990 (25)",NA,NA,Spain,Real Sociedad,LaLiga,2015/2016,2015
+5,Defensive Midfield,"May 5, 1986 (29)",NA,NA,Spain,Real Sociedad,LaLiga,2015/2016,2015
+NA,Defensive Midfield,"Mar 30, 1997 (18)",NA,NA,Spain,Real Sociedad,LaLiga,2015/2016,2015
+10,Central Midfield,"Aug 29, 1983 (31)",NA,NA,Spain,Real Sociedad,LaLiga,2015/2016,2015
+8,Central Midfield,"Jul 2, 1987 (27)",NA,NA,Spain,Real Sociedad,LaLiga,2015/2016,2015
+14,Central Midfield,"Oct 22, 1992 (22)",NA,NA,Spain,Real Sociedad,LaLiga,2015/2016,2015
+17,Central Midfield,"Jul 19, 1986 (28)",NA,NA,Spain,Real Sociedad,LaLiga,2015/2016,2015
+16,Attacking Midfield,"Feb 16, 1991 (24)",NA,NA,Spain,Real Sociedad,LaLiga,2015/2016,2015
+NA,Attacking Midfield,"Jun 13, 1995 (20)",NA,NA,Spain,Real Sociedad,LaLiga,2015/2016,2015
+7,Left Winger,"Oct 24, 1994 (20)",NA,NA,Portugal,Real Sociedad,LaLiga,2015/2016,2015
+NA,Left Winger,"Sep 14, 1984 (30)",NA,NA,Uruguay,Real Sociedad,LaLiga,2015/2016,2015
+NA,Left Winger,"Sep 27, 1993 (21)",NA,NA,Spain,Real Sociedad,LaLiga,2015/2016,2015
+28,Left Winger,"Apr 21, 1997 (18)",NA,NA,Spain,Real Sociedad,LaLiga,2015/2016,2015
+11,Right Winger,"Mar 1, 1989 (26)",NA,NA,Mexico,Real Sociedad,LaLiga,2015/2016,2015
+22,Centre-Forward,"Mar 6, 1989 (26)",NA,NA,Brazil,Real Sociedad,LaLiga,2015/2016,2015
+9,Centre-Forward,"Feb 24, 1987 (28)",NA,NA,Spain,Real Sociedad,LaLiga,2015/2016,2015
+NA,Centre-Forward,"Jul 3, 1995 (19)",NA,NA,Spain,Real Sociedad,LaLiga,2015/2016,2015
+1,Goalkeeper,"Jun 28, 1989 (26)",NA,NA,Spain,Villarreal CF,LaLiga,2015/2016,2015
+13,Goalkeeper,"Feb 27, 1993 (22)",NA,NA,France,Villarreal CF,LaLiga,2015/2016,2015
+25,Goalkeeper,"Jul 27, 1984 (30)",NA,NA,Argentina,Villarreal CF,LaLiga,2015/2016,2015
+5,Centre-Back,"Aug 26, 1990 (24)",NA,NA,Argentina,Villarreal CF,LaLiga,2015/2016,2015
+6,Centre-Back,"Jan 25, 1989 (26)",NA,NA,Spain,Villarreal CF,LaLiga,2015/2016,2015
+24,Centre-Back,"Apr 12, 1994 (21)",NA,NA,Cote d'Ivoire,Villarreal CF,LaLiga,2015/2016,2015
+NA,Centre-Back,"Jan 20, 1994 (21)",NA,NA,Spain,Villarreal CF,LaLiga,2015/2016,2015
+23,Centre-Back,"May 31, 1981 (34)",NA,NA,Italy,Villarreal CF,LaLiga,2015/2016,2015
+11,Left-Back,"Mar 18, 1988 (27)",NA,NA,Spain,Villarreal CF,LaLiga,2015/2016,2015
+27,Left-Back,"Jan 9, 1997 (18)",NA,NA,Spain,Villarreal CF,LaLiga,2015/2016,2015
+NA,Left-Back,"May 17, 1986 (29)",NA,NA,Slovenia,Villarreal CF,LaLiga,2015/2016,2015
+NA,Left-Back,"Apr 9, 1996 (19)",NA,NA,Spain,Villarreal CF,LaLiga,2015/2016,2015
+2,Right-Back,"Nov 24, 1990 (24)",NA,NA,Spain,Villarreal CF,LaLiga,2015/2016,2015
+22,Right-Back,"Jan 26, 1984 (31)",NA,NA,Serbia,Villarreal CF,LaLiga,2015/2016,2015
+NA,Right-Back,"Jan 18, 1996 (19)",NA,NA,Spain,Villarreal CF,LaLiga,2015/2016,2015
+21,Defensive Midfield,"Jun 12, 1984 (31)",NA,NA,Spain,Villarreal CF,LaLiga,2015/2016,2015
+NA,Defensive Midfield,"Jun 22, 1996 (19)",NA,NA,Spain,Villarreal CF,LaLiga,2015/2016,2015
+18,Central Midfield,"Jan 6, 1994 (21)",NA,NA,Spain,Villarreal CF,LaLiga,2015/2016,2015
+8,Central Midfield,"Apr 26, 1990 (25)",NA,NA,Mexico,Villarreal CF,LaLiga,2015/2016,2015
+14,Central Midfield,"Oct 17, 1991 (23)",NA,NA,Spain,Villarreal CF,LaLiga,2015/2016,2015
+4,Central Midfield,"Oct 14, 1987 (27)",NA,NA,Spain,Villarreal CF,LaLiga,2015/2016,2015
+20,Left Midfield,"Jan 8, 1988 (27)",NA,NA,Spain,Villarreal CF,LaLiga,2015/2016,2015
+26,Left Winger,"Nov 22, 1996 (18)",NA,NA,Spain,Villarreal CF,LaLiga,2015/2016,2015
+10,Right Winger,"Aug 26, 1992 (22)",NA,NA,Brazil,Villarreal CF,LaLiga,2015/2016,2015
+7,Right Winger,"Jul 13, 1990 (24)",NA,NA,Spain,Villarreal CF,LaLiga,2015/2016,2015
+19,Right Winger,"Jan 18, 1995 (20)",NA,NA,Spain,Villarreal CF,LaLiga,2015/2016,2015
+9,Centre-Forward,"May 27, 1985 (30)",NA,NA,Spain,Villarreal CF,LaLiga,2015/2016,2015
+17,Centre-Forward,"Apr 11, 1991 (24)",NA,NA,DR Congo,Villarreal CF,LaLiga,2015/2016,2015
+13,Goalkeeper,"Jul 13, 1985 (29)",NA,NA,Mexico,Málaga CF,LaLiga,2015/2016,2015
+1,Goalkeeper,"Feb 18, 1984 (31)",NA,NA,Cameroon,Málaga CF,LaLiga,2015/2016,2015
+27,Goalkeeper,"Sep 27, 1995 (19)",NA,NA,Spain,Málaga CF,LaLiga,2015/2016,2015
+21,Centre-Back,"Apr 10, 1988 (27)",NA,NA,Belarus,Málaga CF,LaLiga,2015/2016,2015
+2,Centre-Back,"Sep 7, 1988 (26)",NA,NA,Spain,Málaga CF,LaLiga,2015/2016,2015
+3,Centre-Back,"Aug 26, 1979 (35)",NA,NA,Brazil,Málaga CF,LaLiga,2015/2016,2015
+4,Centre-Back,"Oct 19, 1991 (23)",NA,NA,Portugal,Málaga CF,LaLiga,2015/2016,2015
+15,Centre-Back,"Apr 7, 1983 (32)",NA,NA,Argentina,Málaga CF,LaLiga,2015/2016,2015
+7,Left-Back,"Mar 30, 1990 (25)",NA,NA,Spain,Málaga CF,LaLiga,2015/2016,2015
+19,Left-Back,"Apr 2, 1983 (32)",NA,NA,Cote d'Ivoire,Málaga CF,LaLiga,2015/2016,2015
+15,Left-Back,"Dec 1, 1994 (20)",NA,NA,Uruguay,Málaga CF,LaLiga,2015/2016,2015
+18,Right-Back,"Nov 20, 1988 (26)",NA,NA,Venezuela,Málaga CF,LaLiga,2015/2016,2015
+23,Right-Back,"Jan 28, 1986 (29)",NA,NA,Spain,Málaga CF,LaLiga,2015/2016,2015
+4,Right-Back,"Oct 5, 1990 (24)",NA,NA,Spain,Málaga CF,LaLiga,2015/2016,2015
+6,Defensive Midfield,"May 4, 1990 (25)",NA,NA,Spain,Málaga CF,LaLiga,2015/2016,2015
+30,Central Midfield,"Dec 22, 1993 (21)",NA,NA,Spain,Málaga CF,LaLiga,2015/2016,2015
+14,Central Midfield,"Jan 11, 1991 (24)",NA,NA,Spain,Málaga CF,LaLiga,2015/2016,2015
+12,Central Midfield,"Jul 24, 1986 (28)",NA,NA,Argentina,Málaga CF,LaLiga,2015/2016,2015
+10,Left Midfield,"Sep 15, 1994 (20)",NA,NA,Portugal,Málaga CF,LaLiga,2015/2016,2015
+17,Left Midfield,"Jun 27, 1980 (35)",NA,NA,Portugal,Málaga CF,LaLiga,2015/2016,2015
+8,Attacking Midfield,"Aug 18, 1985 (29)",NA,NA,Portugal,Málaga CF,LaLiga,2015/2016,2015
+16,Attacking Midfield,"Jun 15, 1998 (17)",NA,NA,Morocco,Málaga CF,LaLiga,2015/2016,2015
+31,Attacking Midfield,"Feb 22, 1996 (19)",NA,NA,Spain,Málaga CF,LaLiga,2015/2016,2015
+11,Left Winger,"Mar 31, 1987 (28)",NA,NA,Morocco,Málaga CF,LaLiga,2015/2016,2015
+5,Left Winger,"Sep 14, 1984 (30)",NA,NA,Uruguay,Málaga CF,LaLiga,2015/2016,2015
+11,Left Winger,"Jan 10, 1992 (23)",NA,NA,Ghana,Málaga CF,LaLiga,2015/2016,2015
+22,Left Winger,"Oct 30, 1992 (22)",NA,NA,Morocco,Málaga CF,LaLiga,2015/2016,2015
+28,Right Winger,"Jan 24, 1994 (21)",NA,NA,Venezuela,Málaga CF,LaLiga,2015/2016,2015
+39,Right Winger,"Sep 9, 1997 (17)",NA,NA,Spain,Málaga CF,LaLiga,2015/2016,2015
+8,Centre-Forward,"Jan 5, 1984 (31)",NA,NA,Nigeria,Málaga CF,LaLiga,2015/2016,2015
+20,Centre-Forward,"Feb 1, 1990 (25)",NA,NA,Croatia,Málaga CF,LaLiga,2015/2016,2015
+9,Centre-Forward,"Apr 4, 1984 (31)",NA,NA,Brazil,Málaga CF,LaLiga,2015/2016,2015
+24,Centre-Forward,"Aug 16, 1981 (33)",NA,NA,Paraguay,Málaga CF,LaLiga,2015/2016,2015
+13,Goalkeeper,"Dec 17, 1986 (28)",NA,NA,Spain,Granada CF,LaLiga,2015/2016,2015
+25,Goalkeeper,"Jun 11, 1988 (27)",NA,NA,Spain,Granada CF,LaLiga,2015/2016,2015
+1,Goalkeeper,"Feb 20, 1988 (27)",NA,NA,Croatia,Granada CF,LaLiga,2015/2016,2015
+NA,Goalkeeper,"Dec 25, 1993 (21)",NA,NA,North Macedonia,Granada CF,LaLiga,2015/2016,2015
+12,Centre-Back,"Nov 8, 1994 (20)",NA,NA,Brazil,Granada CF,LaLiga,2015/2016,2015
+6,Centre-Back,"Oct 14, 1986 (28)",NA,NA,Martinique,Granada CF,LaLiga,2015/2016,2015
+2,Centre-Back,"Jun 5, 1987 (28)",NA,NA,Spain,Granada CF,LaLiga,2015/2016,2015
+5,Centre-Back,"Dec 29, 1982 (32)",NA,NA,Spain,Granada CF,LaLiga,2015/2016,2015
+24,Centre-Back,"May 16, 1981 (34)",NA,NA,Portugal,Granada CF,LaLiga,2015/2016,2015
+NA,Centre-Back,"Mar 14, 1990 (25)",NA,NA,Brazil,Granada CF,LaLiga,2015/2016,2015
+3,Left-Back,"Sep 1, 1992 (22)",NA,NA,Italy,Granada CF,LaLiga,2015/2016,2015
+14,Left-Back,"May 17, 1995 (20)",NA,NA,Spain,Granada CF,LaLiga,2015/2016,2015
+18,Right-Back,"Dec 19, 1986 (28)",NA,NA,Portugal,Granada CF,LaLiga,2015/2016,2015
+22,Right-Back,"Mar 23, 1993 (22)",NA,NA,Guadeloupe,Granada CF,LaLiga,2015/2016,2015
+20,Defensive Midfield,"Apr 26, 1989 (26)",NA,NA,Spain,Granada CF,LaLiga,2015/2016,2015
+21,Defensive Midfield,"May 21, 1990 (25)",NA,NA,Slovenia,Granada CF,LaLiga,2015/2016,2015
+NA,Defensive Midfield,"Dec 4, 1995 (19)",NA,NA,Nigeria,Granada CF,LaLiga,2015/2016,2015
+16,Central Midfield,"Jan 1, 1993 (22)",NA,NA,France,Granada CF,LaLiga,2015/2016,2015
+4,Central Midfield,"Aug 3, 1987 (27)",NA,NA,Spain,Granada CF,LaLiga,2015/2016,2015
+8,Central Midfield,"May 11, 1986 (29)",NA,NA,Spain,Granada CF,LaLiga,2015/2016,2015
+19,Right Midfield,"Apr 27, 1991 (24)",NA,NA,Spain,Granada CF,LaLiga,2015/2016,2015
+NA,Attacking Midfield,"May 26, 1981 (34)",NA,NA,Spain,Granada CF,LaLiga,2015/2016,2015
+23,Attacking Midfield,"Mar 23, 1991 (24)",NA,NA,Spain,Granada CF,LaLiga,2015/2016,2015
+NA,Attacking Midfield,"Feb 11, 1995 (20)",NA,NA,Ghana,Granada CF,LaLiga,2015/2016,2015
+NA,Left Winger,"May 13, 1992 (23)",NA,NA,Congo,Granada CF,LaLiga,2015/2016,2015
+11,Left Winger,"Jan 7, 1996 (19)",NA,NA,Nigeria,Granada CF,LaLiga,2015/2016,2015
+17,Right Winger,"Jan 2, 1990 (25)",NA,NA,Spain,Granada CF,LaLiga,2015/2016,2015
+7,Right Winger,"Mar 22, 1993 (22)",NA,NA,Spain,Granada CF,LaLiga,2015/2016,2015
+NA,Centre-Forward,"Feb 3, 1987 (28)",NA,NA,Morocco,Granada CF,LaLiga,2015/2016,2015
+NA,Centre-Forward,"Oct 1, 1993 (21)",NA,NA,Uruguay,Granada CF,LaLiga,2015/2016,2015
+NA,Centre-Forward,"May 11, 1993 (22)",NA,NA,Colombia,Granada CF,LaLiga,2015/2016,2015
+15,Centre-Forward,"May 10, 1983 (32)",NA,NA,Spain,Granada CF,LaLiga,2015/2016,2015
+27,Centre-Forward,"May 31, 1997 (18)",NA,NA,Venezuela,Granada CF,LaLiga,2015/2016,2015
+13,Goalkeeper,"May 13, 1987 (28)",NA,NA,Spain,Real Betis Balompié,LaLiga,2015/2016,2015
+1,Goalkeeper,"Jul 30, 1983 (31)",NA,NA,Spain,Real Betis Balompié,LaLiga,2015/2016,2015
+NA,Goalkeeper,"Jan 21, 1995 (20)",NA,NA,Spain,Real Betis Balompié,LaLiga,2015/2016,2015
+NA,Goalkeeper,"Sep 2, 1994 (20)",NA,NA,Spain,Real Betis Balompié,LaLiga,2015/2016,2015
+17,Centre-Back,"Aug 14, 1983 (31)",NA,NA,Germany,Real Betis Balompié,LaLiga,2015/2016,2015
+NA,Centre-Back,"May 16, 1987 (28)",NA,NA,Spain,Real Betis Balompié,LaLiga,2015/2016,2015
+20,Centre-Back,"Jun 27, 1991 (24)",NA,NA,Argentina,Real Betis Balompié,LaLiga,2015/2016,2015
+4,Centre-Back,"May 24, 1990 (25)",NA,NA,Spain,Real Betis Balompié,LaLiga,2015/2016,2015
+NA,Centre-Back,"May 17, 1992 (23)",NA,NA,Egypt,Real Betis Balompié,LaLiga,2015/2016,2015
+11,Left-Back,"Oct 5, 1983 (31)",NA,NA,Peru,Real Betis Balompié,LaLiga,2015/2016,2015
+6,Left-Back,"Oct 26, 1994 (20)",NA,NA,Spain,Real Betis Balompié,LaLiga,2015/2016,2015
+3,Right-Back,"Apr 14, 1991 (24)",NA,NA,Spain,Real Betis Balompié,LaLiga,2015/2016,2015
+2,Right-Back,"Jul 26, 1985 (29)",NA,NA,Spain,Real Betis Balompié,LaLiga,2015/2016,2015
+NA,Right-Back,"Sep 26, 1992 (22)",NA,NA,Italy,Real Betis Balompié,LaLiga,2015/2016,2015
+18,Defensive Midfield,"Mar 6, 1990 (25)",NA,NA,Senegal,Real Betis Balompié,LaLiga,2015/2016,2015
+15,Defensive Midfield,"Jul 12, 1986 (28)",NA,NA,France,Real Betis Balompié,LaLiga,2015/2016,2015
+25,Defensive Midfield,"May 29, 1989 (26)",NA,NA,Brazil,Real Betis Balompié,LaLiga,2015/2016,2015
+14,Central Midfield,"Nov 21, 1986 (28)",NA,NA,Spain,Real Betis Balompié,LaLiga,2015/2016,2015
+10,Central Midfield,"Aug 7, 1996 (18)",NA,NA,Spain,Real Betis Balompié,LaLiga,2015/2016,2015
+NA,Central Midfield,"Apr 3, 1996 (19)",NA,NA,Spain,Real Betis Balompié,LaLiga,2015/2016,2015
+23,Attacking Midfield,"Feb 11, 1983 (32)",NA,NA,Netherlands,Real Betis Balompié,LaLiga,2015/2016,2015
+5,Attacking Midfield,"Dec 5, 1983 (31)",NA,NA,Algeria,Real Betis Balompié,LaLiga,2015/2016,2015
+22,Attacking Midfield,"Jun 13, 1990 (25)",NA,NA,Spain,Real Betis Balompié,LaLiga,2015/2016,2015
+8,Attacking Midfield,"Oct 15, 1996 (18)",NA,NA,Belgium,Real Betis Balompié,LaLiga,2015/2016,2015
+21,Right Winger,"Sep 12, 1994 (20)",NA,NA,Spain,Real Betis Balompié,LaLiga,2015/2016,2015
+7,Right Winger,"Jul 21, 1981 (33)",NA,NA,Spain,Real Betis Balompié,LaLiga,2015/2016,2015
+NA,Right Winger,"Aug 17, 1994 (20)",NA,NA,Spain,Real Betis Balompié,LaLiga,2015/2016,2015
+16,Second Striker,"Jan 29, 1984 (31)",NA,NA,Spain,Real Betis Balompié,LaLiga,2015/2016,2015
+12,Centre-Forward,"Jul 22, 1989 (25)",NA,NA,Brazil,Real Betis Balompié,LaLiga,2015/2016,2015
+9,Centre-Forward,"Jan 27, 1989 (26)",NA,NA,Netherlands,Real Betis Balompié,LaLiga,2015/2016,2015
+24,Centre-Forward,"Jun 27, 1981 (34)",NA,NA,Spain,Real Betis Balompié,LaLiga,2015/2016,2015
+NA,Centre-Forward,"Oct 8, 1988 (26)",NA,NA,Italy,Real Betis Balompié,LaLiga,2015/2016,2015
+19,Centre-Forward,"Apr 22, 1982 (33)",NA,NA,Spain,Real Betis Balompié,LaLiga,2015/2016,2015
+1,Goalkeeper,"May 9, 1990 (25)",NA,NA,Spain,Levante UD,LaLiga,2015/2016,2015
+13,Goalkeeper,"Jun 22, 1984 (31)",NA,NA,Spain,Levante UD,LaLiga,2015/2016,2015
+NA,Goalkeeper,"Jun 11, 1988 (27)",NA,NA,Spain,Levante UD,LaLiga,2015/2016,2015
+15,Centre-Back,"Feb 3, 1989 (26)",NA,NA,Argentina,Levante UD,LaLiga,2015/2016,2015
+16,Centre-Back,"Sep 8, 1987 (27)",NA,NA,Spain,Levante UD,LaLiga,2015/2016,2015
+5,Centre-Back,"Jun 23, 1988 (27)",NA,NA,Mozambique,Levante UD,LaLiga,2015/2016,2015
+NA,Centre-Back,"Dec 23, 1989 (25)",NA,NA,Morocco,Levante UD,LaLiga,2015/2016,2015
+4,Centre-Back,"May 25, 1980 (35)",NA,NA,Spain,Levante UD,LaLiga,2015/2016,2015
+NA,Centre-Back,"Apr 1, 1994 (21)",NA,NA,Spain,Levante UD,LaLiga,2015/2016,2015
+NA,Left-Back,"Dec 20, 1984 (30)",NA,NA,Greece,Levante UD,LaLiga,2015/2016,2015
+3,Left-Back,"Nov 7, 1989 (25)",NA,NA,Spain,Levante UD,LaLiga,2015/2016,2015
+NA,Left-Back,"Jul 15, 1976 (38)",NA,NA,Spain,Levante UD,LaLiga,2015/2016,2015
+19,Right-Back,"Nov 1, 1983 (31)",NA,NA,Spain,Levante UD,LaLiga,2015/2016,2015
+2,Right-Back,"Aug 23, 1993 (21)",NA,NA,Spain,Levante UD,LaLiga,2015/2016,2015
+14,Defensive Midfield,"May 15, 1985 (30)",NA,NA,Algeria,Levante UD,LaLiga,2015/2016,2015
+22,Defensive Midfield,"Dec 6, 1987 (27)",NA,NA,Spain,Levante UD,LaLiga,2015/2016,2015
+8,Defensive Midfield,"Oct 25, 1994 (20)",NA,NA,Colombia,Levante UD,LaLiga,2015/2016,2015
+7,Central Midfield,"Sep 29, 1986 (28)",NA,NA,Spain,Levante UD,LaLiga,2015/2016,2015
+6,Central Midfield,"May 28, 1994 (21)",NA,NA,Spain,Levante UD,LaLiga,2015/2016,2015
+NA,Central Midfield,"Aug 11, 1998 (16)",NA,NA,Spain,Levante UD,LaLiga,2015/2016,2015
+10,Attacking Midfield,"Jul 14, 1993 (21)",NA,NA,Spain,Levante UD,LaLiga,2015/2016,2015
+25,Attacking Midfield,"May 5, 1983 (32)",NA,NA,Spain,Levante UD,LaLiga,2015/2016,2015
+17,Right Winger,"Oct 24, 1985 (29)",NA,NA,Spain,Levante UD,LaLiga,2015/2016,2015
+9,Right Winger,"Jan 28, 1993 (22)",NA,NA,Colombia,Levante UD,LaLiga,2015/2016,2015
+NA,Right Winger,"Apr 1, 1993 (22)",NA,NA,Spain,Levante UD,LaLiga,2015/2016,2015
+21,Centre-Forward,"Feb 1, 1987 (28)",NA,NA,Italy,Levante UD,LaLiga,2015/2016,2015
+23,Centre-Forward,"Apr 20, 1990 (25)",NA,NA,Algeria,Levante UD,LaLiga,2015/2016,2015
+18,Centre-Forward,"Feb 28, 1985 (30)",NA,NA,Spain,Levante UD,LaLiga,2015/2016,2015
+NA,Centre-Forward,"Jan 3, 1991 (24)",NA,NA,Spain,Levante UD,LaLiga,2015/2016,2015
+11,Centre-Forward,"Jul 23, 1987 (27)",NA,NA,Spain,Levante UD,LaLiga,2015/2016,2015
+20,Centre-Forward,"May 8, 1991 (24)",NA,NA,Brazil,Levante UD,LaLiga,2015/2016,2015
+1,Goalkeeper,"Aug 3, 1986 (28)",NA,NA,Spain,Celta de Vigo,LaLiga,2015/2016,2015
+13,Goalkeeper,"Jul 25, 1995 (19)",NA,NA,Spain,Celta de Vigo,LaLiga,2015/2016,2015
+NA,Goalkeeper,"Jun 26, 1992 (23)",NA,NA,Spain,Celta de Vigo,LaLiga,2015/2016,2015
+3,Centre-Back,"Nov 14, 1989 (25)",NA,NA,Spain,Celta de Vigo,LaLiga,2015/2016,2015
+20,Centre-Back,"Mar 28, 1992 (23)",NA,NA,Spain,Celta de Vigo,LaLiga,2015/2016,2015
+22,Centre-Back,"Oct 14, 1985 (29)",NA,NA,Argentina,Celta de Vigo,LaLiga,2015/2016,2015
+NA,Centre-Back,"Sep 15, 1994 (20)",NA,NA,Spain,Celta de Vigo,LaLiga,2015/2016,2015
+NA,Centre-Back,"Aug 25, 1997 (17)",NA,NA,Spain,Celta de Vigo,LaLiga,2015/2016,2015
+19,Left-Back,"Mar 3, 1994 (21)",NA,NA,Spain,Celta de Vigo,LaLiga,2015/2016,2015
+21,Left-Back,"Mar 4, 1991 (24)",NA,NA,Spain,Celta de Vigo,LaLiga,2015/2016,2015
+2,Right-Back,"Jun 22, 1991 (24)",NA,NA,Spain,Celta de Vigo,LaLiga,2015/2016,2015
+6,Defensive Midfield,"Feb 6, 1993 (22)",NA,NA,Serbia,Celta de Vigo,LaLiga,2015/2016,2015
+5,Defensive Midfield,"Dec 30, 1986 (28)",NA,NA,Chile,Celta de Vigo,LaLiga,2015/2016,2015
+NA,Central Midfield,"Apr 10, 1986 (29)",NA,NA,Argentina,Celta de Vigo,LaLiga,2015/2016,2015
+18,Central Midfield,"May 31, 1989 (26)",NA,NA,Denmark,Celta de Vigo,LaLiga,2015/2016,2015
+8,Central Midfield,"Oct 24, 1986 (28)",NA,NA,Chile,Celta de Vigo,LaLiga,2015/2016,2015
+28,Central Midfield,"Aug 16, 1995 (19)",NA,NA,Spain,Celta de Vigo,LaLiga,2015/2016,2015
+33,Central Midfield,"Aug 8, 1997 (17)",NA,NA,Spain,Celta de Vigo,LaLiga,2015/2016,2015
+NA,Attacking Midfield,"Jun 22, 1992 (23)",NA,NA,Gabon,Celta de Vigo,LaLiga,2015/2016,2015
+23,Attacking Midfield,"Dec 10, 1991 (23)",NA,NA,Spain,Celta de Vigo,LaLiga,2015/2016,2015
+10,Left Winger,"Oct 15, 1986 (28)",NA,NA,Spain,Celta de Vigo,LaLiga,2015/2016,2015
+7,Left Winger,"Nov 20, 1995 (19)",NA,NA,Belgium,Celta de Vigo,LaLiga,2015/2016,2015
+16,Left Winger,"Sep 26, 1995 (19)",NA,NA,Serbia,Celta de Vigo,LaLiga,2015/2016,2015
+12,Right Winger,"Apr 16, 1988 (27)",NA,NA,Guadeloupe,Celta de Vigo,LaLiga,2015/2016,2015
+14,Right Winger,"Jan 27, 1986 (29)",NA,NA,Chile,Celta de Vigo,LaLiga,2015/2016,2015
+9,Centre-Forward,"Aug 1, 1987 (27)",NA,NA,Spain,Celta de Vigo,LaLiga,2015/2016,2015
+11,Centre-Forward,"Apr 15, 1992 (23)",NA,NA,Sweden,Celta de Vigo,LaLiga,2015/2016,2015
+NA,Centre-Forward,"Jan 17, 1993 (22)",NA,NA,Spain,Celta de Vigo,LaLiga,2015/2016,2015
+NA,Goalkeeper,"Jan 18, 1992 (23)",NA,NA,Italy,RCD Espanyol Barcelona,LaLiga,2015/2016,2015
+1,Goalkeeper,"Dec 1, 1987 (27)",NA,NA,Lithuania,RCD Espanyol Barcelona,LaLiga,2015/2016,2015
+13,Goalkeeper,"Dec 13, 1994 (20)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2015/2016,2015
+NA,Goalkeeper,"Oct 17, 1993 (21)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2015/2016,2015
+24,Centre-Back,"Jun 3, 1989 (26)",NA,NA,Costa Rica,RCD Espanyol Barcelona,LaLiga,2015/2016,2015
+22,Centre-Back,"Jan 8, 1990 (25)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2015/2016,2015
+23,Centre-Back,"May 15, 1987 (28)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2015/2016,2015
+6,Centre-Back,"Aug 16, 1992 (22)",NA,NA,Chile,RCD Espanyol Barcelona,LaLiga,2015/2016,2015
+15,Centre-Back,"Apr 6, 1984 (31)",NA,NA,France,RCD Espanyol Barcelona,LaLiga,2015/2016,2015
+NA,Centre-Back,"Oct 8, 1991 (23)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2015/2016,2015
+NA,Centre-Back,"Mar 5, 1997 (18)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2015/2016,2015
+18,Left-Back,"Jan 5, 1990 (25)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2015/2016,2015
+3,Left-Back,"Oct 18, 1995 (19)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2015/2016,2015
+5,Left-Back,"Mar 14, 1993 (22)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2015/2016,2015
+NA,Left-Back,"Feb 15, 1993 (22)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2015/2016,2015
+16,Right-Back,"Jan 21, 1986 (29)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2015/2016,2015
+2,Right-Back,"Sep 20, 1992 (22)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2015/2016,2015
+NA,Right-Back,"Jul 2, 1995 (19)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2015/2016,2015
+14,Defensive Midfield,"May 27, 1987 (28)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2015/2016,2015
+12,Defensive Midfield,"Mar 19, 1986 (29)",NA,NA,Senegal,RCD Espanyol Barcelona,LaLiga,2015/2016,2015
+4,Central Midfield,"Sep 8, 1987 (27)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2015/2016,2015
+8,Central Midfield,"Mar 18, 1984 (31)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2015/2016,2015
+10,Central Midfield,"Jul 16, 1985 (29)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2015/2016,2015
+19,Central Midfield,"Jul 6, 1994 (20)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2015/2016,2015
+25,Left Winger,"Jan 21, 1996 (19)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2015/2016,2015
+11,Left Winger,"Oct 8, 1986 (28)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2015/2016,2015
+9,Left Winger,"Oct 29, 1993 (21)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2015/2016,2015
+17,Right Winger,"Feb 25, 1989 (26)",NA,NA,Paraguay,RCD Espanyol Barcelona,LaLiga,2015/2016,2015
+NA,Second Striker,"Jan 13, 1993 (22)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2015/2016,2015
+20,Centre-Forward,"Sep 5, 1988 (26)",NA,NA,Ecuador,RCD Espanyol Barcelona,LaLiga,2015/2016,2015
+7,Centre-Forward,"Apr 7, 1992 (23)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2015/2016,2015
+28,Centre-Forward,"Mar 20, 1994 (21)",NA,NA,Senegal,RCD Espanyol Barcelona,LaLiga,2015/2016,2015
+NA,Centre-Forward,"Mar 23, 1994 (21)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2015/2016,2015
+13,Goalkeeper,"Jan 10, 1987 (28)",NA,NA,Spain,Getafe CF,LaLiga,2015/2016,2015
+1,Goalkeeper,"Mar 31, 1990 (25)",NA,NA,Hungary,Getafe CF,LaLiga,2015/2016,2015
+4,Centre-Back,"Apr 30, 1994 (21)",NA,NA,Uruguay,Getafe CF,LaLiga,2015/2016,2015
+NA,Centre-Back,"Aug 4, 1985 (29)",NA,NA,Spain,Getafe CF,LaLiga,2015/2016,2015
+5,Centre-Back,"Aug 3, 1988 (26)",NA,NA,Argentina,Getafe CF,LaLiga,2015/2016,2015
+6,Centre-Back,"Nov 26, 1989 (25)",NA,NA,Spain,Getafe CF,LaLiga,2015/2016,2015
+NA,Centre-Back,"Aug 17, 1988 (26)",NA,NA,Argentina,Getafe CF,LaLiga,2015/2016,2015
+NA,Centre-Back,"Mar 4, 1995 (20)",NA,NA,Spain,Getafe CF,LaLiga,2015/2016,2015
+2,Left-Back,"Nov 28, 1985 (29)",NA,NA,Uruguay,Getafe CF,LaLiga,2015/2016,2015
+3,Left-Back,"Aug 30, 1985 (29)",NA,NA,Spain,Getafe CF,LaLiga,2015/2016,2015
+NA,Left-Back,"Mar 18, 1993 (22)",NA,NA,Spain,Getafe CF,LaLiga,2015/2016,2015
+19,Right-Back,"Apr 27, 1988 (27)",NA,NA,Uruguay,Getafe CF,LaLiga,2015/2016,2015
+15,Right-Back,"Sep 7, 1994 (20)",NA,NA,Spain,Getafe CF,LaLiga,2015/2016,2015
+NA,Right-Back,"Jan 26, 1995 (20)",NA,NA,Spain,Getafe CF,LaLiga,2015/2016,2015
+8,Defensive Midfield,"May 15, 1984 (31)",NA,NA,Algeria,Getafe CF,LaLiga,2015/2016,2015
+22,Defensive Midfield,"Apr 1, 1982 (33)",NA,NA,Spain,Getafe CF,LaLiga,2015/2016,2015
+17,Central Midfield,"Oct 17, 1994 (20)",NA,NA,Ghana,Getafe CF,LaLiga,2015/2016,2015
+23,Central Midfield,"Mar 15, 1994 (21)",NA,NA,Spain,Getafe CF,LaLiga,2015/2016,2015
+21,Attacking Midfield,"Jun 23, 1994 (21)",NA,NA,Spain,Getafe CF,LaLiga,2015/2016,2015
+10,Attacking Midfield,"May 11, 1992 (23)",NA,NA,Spain,Getafe CF,LaLiga,2015/2016,2015
+NA,Left Winger,"Aug 7, 1984 (30)",NA,NA,Spain,Getafe CF,LaLiga,2015/2016,2015
+NA,Left Winger,"Jul 23, 1989 (25)",NA,NA,Spain,Getafe CF,LaLiga,2015/2016,2015
+11,Left Winger,"Oct 25, 1988 (26)",NA,NA,France,Getafe CF,LaLiga,2015/2016,2015
+NA,Left Winger,"Apr 26, 1993 (22)",NA,NA,Spain,Getafe CF,LaLiga,2015/2016,2015
+14,Right Winger,"Nov 24, 1986 (28)",NA,NA,Spain,Getafe CF,LaLiga,2015/2016,2015
+30,Right Winger,"Oct 7, 1994 (20)",NA,NA,Brazil,Getafe CF,LaLiga,2015/2016,2015
+32,Right Winger,"Dec 25, 1996 (18)",NA,NA,Argentina,Getafe CF,LaLiga,2015/2016,2015
+9,Centre-Forward,"Apr 27, 1991 (24)",NA,NA,Spain,Getafe CF,LaLiga,2015/2016,2015
+NA,Centre-Forward,"Jan 10, 1990 (25)",NA,NA,Serbia,Getafe CF,LaLiga,2015/2016,2015
+7,Centre-Forward,"Sep 22, 1984 (30)",NA,NA,Eritrea,Getafe CF,LaLiga,2015/2016,2015
+NA,Centre-Forward,"Feb 11, 1993 (22)",NA,NA,Spain,Getafe CF,LaLiga,2015/2016,2015
+25,Goalkeeper,"Aug 28, 1988 (26)",NA,NA,Spain,Rayo Vallecano,LaLiga,2015/2016,2015
+NA,Goalkeeper,"Dec 17, 1979 (35)",NA,NA,Spain,Rayo Vallecano,LaLiga,2015/2016,2015
+13,Goalkeeper,"Jan 20, 1988 (27)",NA,NA,Spain,Rayo Vallecano,LaLiga,2015/2016,2015
+1,Goalkeeper,"Apr 6, 1982 (33)",NA,NA,Spain,Rayo Vallecano,LaLiga,2015/2016,2015
+NA,Goalkeeper,"Jun 28, 1991 (24)",NA,NA,Spain,Rayo Vallecano,LaLiga,2015/2016,2015
+4,Centre-Back,"May 31, 1983 (32)",NA,NA,Spain,Rayo Vallecano,LaLiga,2015/2016,2015
+18,Centre-Back,"Jan 13, 1983 (32)",NA,NA,Portugal,Rayo Vallecano,LaLiga,2015/2016,2015
+5,Centre-Back,"Jul 10, 1982 (32)",NA,NA,Spain,Rayo Vallecano,LaLiga,2015/2016,2015
+22,Centre-Back,"Feb 9, 1987 (28)",NA,NA,Spain,Rayo Vallecano,LaLiga,2015/2016,2015
+27,Centre-Back,"Aug 16, 1993 (21)",NA,NA,Spain,Rayo Vallecano,LaLiga,2015/2016,2015
+15,Left-Back,"May 26, 1981 (34)",NA,NA,Romania,Rayo Vallecano,LaLiga,2015/2016,2015
+3,Left-Back,"Mar 7, 1989 (26)",NA,NA,Spain,Rayo Vallecano,LaLiga,2015/2016,2015
+NA,Left-Back,"Dec 16, 1997 (17)",NA,NA,Equatorial Guinea,Rayo Vallecano,LaLiga,2015/2016,2015
+2,Right-Back,"Jul 11, 1985 (29)",NA,NA,Spain,Rayo Vallecano,LaLiga,2015/2016,2015
+17,Right-Back,"Sep 24, 1989 (25)",NA,NA,Spain,Rayo Vallecano,LaLiga,2015/2016,2015
+6,Defensive Midfield,"Jun 23, 1984 (31)",NA,NA,Chile,Rayo Vallecano,LaLiga,2015/2016,2015
+8,Defensive Midfield,"Mar 2, 1989 (26)",NA,NA,Spain,Rayo Vallecano,LaLiga,2015/2016,2015
+NA,Defensive Midfield,"Apr 6, 1991 (24)",NA,NA,Mali,Rayo Vallecano,LaLiga,2015/2016,2015
+10,Central Midfield,"Feb 28, 1981 (34)",NA,NA,Spain,Rayo Vallecano,LaLiga,2015/2016,2015
+21,Central Midfield,"Mar 8, 1991 (24)",NA,NA,Spain,Rayo Vallecano,LaLiga,2015/2016,2015
+NA,Central Midfield,"Apr 1, 1996 (19)",NA,NA,Spain,Rayo Vallecano,LaLiga,2015/2016,2015
+20,Attacking Midfield,"Mar 17, 1987 (28)",NA,NA,Germany,Rayo Vallecano,LaLiga,2015/2016,2015
+NA,Attacking Midfield,"Apr 20, 1991 (24)",NA,NA,Argentina,Rayo Vallecano,LaLiga,2015/2016,2015
+12,Attacking Midfield,"May 26, 1981 (34)",NA,NA,Spain,Rayo Vallecano,LaLiga,2015/2016,2015
+26,Attacking Midfield,"Sep 3, 1998 (16)",NA,NA,Spain,Rayo Vallecano,LaLiga,2015/2016,2015
+23,Left Winger,"Jul 12, 1990 (24)",NA,NA,Portugal,Rayo Vallecano,LaLiga,2015/2016,2015
+14,Right Winger,"Apr 11, 1985 (30)",NA,NA,Spain,Rayo Vallecano,LaLiga,2015/2016,2015
+16,Right Winger,"Mar 9, 1990 (25)",NA,NA,Armenia,Rayo Vallecano,LaLiga,2015/2016,2015
+NA,Right Winger,"Mar 30, 1992 (23)",NA,NA,Guinea,Rayo Vallecano,LaLiga,2015/2016,2015
+NA,Right Winger,"Feb 9, 1989 (26)",NA,NA,China,Rayo Vallecano,LaLiga,2015/2016,2015
+11,Right Winger,"May 7, 1992 (23)",NA,NA,Spain,Rayo Vallecano,LaLiga,2015/2016,2015
+24,Centre-Forward,"Mar 15, 1982 (33)",NA,NA,Spain,Rayo Vallecano,LaLiga,2015/2016,2015
+7,Centre-Forward,"Aug 19, 1985 (29)",NA,NA,Venezuela,Rayo Vallecano,LaLiga,2015/2016,2015
+9,Centre-Forward,"Mar 7, 1983 (32)",NA,NA,Angola,Rayo Vallecano,LaLiga,2015/2016,2015
+NA,Centre-Forward,"Jan 24, 1996 (19)",NA,NA,Colombia,Rayo Vallecano,LaLiga,2015/2016,2015
+NA,Goalkeeper,"Dec 31, 1987 (27)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2015/2016,2015
+1,Goalkeeper,"Jul 6, 1982 (32)",NA,NA,Argentina,Deportivo de La Coruña,LaLiga,2015/2016,2015
+13,Goalkeeper,"Jan 8, 1979 (36)",NA,NA,Croatia,Deportivo de La Coruña,LaLiga,2015/2016,2015
+25,Goalkeeper,"May 9, 1986 (29)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2015/2016,2015
+NA,Goalkeeper,"Apr 11, 1994 (21)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2015/2016,2015
+14,Centre-Back,"May 1, 1989 (26)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2015/2016,2015
+12,Centre-Back,"Aug 23, 1989 (25)",NA,NA,Brazil,Deportivo de La Coruña,LaLiga,2015/2016,2015
+23,Centre-Back,"May 5, 1980 (35)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2015/2016,2015
+NA,Centre-Back,"Feb 16, 1995 (20)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2015/2016,2015
+16,Left-Back,"May 5, 1985 (30)",NA,NA,Portugal,Deportivo de La Coruña,LaLiga,2015/2016,2015
+3,Left-Back,"Jun 25, 1982 (33)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2015/2016,2015
+NA,Left-Back,"Nov 9, 1994 (20)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2015/2016,2015
+11,Right-Back,"Sep 11, 1988 (26)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2015/2016,2015
+15,Right-Back,"Mar 22, 1985 (30)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2015/2016,2015
+2,Right-Back,"Jan 25, 1976 (39)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2015/2016,2015
+10,Defensive Midfield,"Jan 8, 1990 (25)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2015/2016,2015
+4,Defensive Midfield,"Jun 7, 1985 (30)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2015/2016,2015
+NA,Central Midfield,"Mar 8, 1985 (30)",NA,NA,Bosnia-Herzegovina,Deportivo de La Coruña,LaLiga,2015/2016,2015
+5,Central Midfield,"Apr 21, 1988 (27)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2015/2016,2015
+22,Central Midfield,"May 27, 1988 (27)",NA,NA,Costa Rica,Deportivo de La Coruña,LaLiga,2015/2016,2015
+24,Central Midfield,"Jul 5, 1983 (31)",NA,NA,Argentina,Deportivo de La Coruña,LaLiga,2015/2016,2015
+21,Attacking Midfield,"Sep 28, 1992 (22)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2015/2016,2015
+19,Attacking Midfield,"Aug 1, 1988 (26)",NA,NA,Morocco,Deportivo de La Coruña,LaLiga,2015/2016,2015
+6,Attacking Midfield,"Aug 3, 1981 (33)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2015/2016,2015
+17,Right Winger,"Jan 20, 1993 (22)",NA,NA,Argentina,Deportivo de La Coruña,LaLiga,2015/2016,2015
+NA,Right Winger,"Jun 19, 1994 (21)",NA,NA,Portugal,Deportivo de La Coruña,LaLiga,2015/2016,2015
+NA,Right Winger,"Jan 17, 1996 (19)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2015/2016,2015
+20,Centre-Forward,"Jul 6, 1993 (21)",NA,NA,Uruguay,Deportivo de La Coruña,LaLiga,2015/2016,2015
+7,Centre-Forward,"Sep 10, 1988 (26)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2015/2016,2015
+9,Centre-Forward,"Jul 3, 1986 (28)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2015/2016,2015
+1,Goalkeeper,"Mar 21, 1986 (29)",NA,NA,Spain,SD Eibar,LaLiga,2015/2016,2015
+13,Goalkeeper,"Oct 6, 1983 (31)",NA,NA,Spain,SD Eibar,LaLiga,2015/2016,2015
+25,Goalkeeper,"Dec 10, 1980 (34)",NA,NA,Spain,SD Eibar,LaLiga,2015/2016,2015
+NA,Goalkeeper,"Jun 16, 1993 (22)",NA,NA,Spain,SD Eibar,LaLiga,2015/2016,2015
+3,Centre-Back,"Apr 11, 1992 (23)",NA,NA,Serbia,SD Eibar,LaLiga,2015/2016,2015
+4,Centre-Back,"Oct 25, 1984 (30)",NA,NA,Spain,SD Eibar,LaLiga,2015/2016,2015
+2,Centre-Back,"Jul 13, 1982 (32)",NA,NA,Spain,SD Eibar,LaLiga,2015/2016,2015
+15,Centre-Back,"Jul 7, 1989 (25)",NA,NA,Argentina,SD Eibar,LaLiga,2015/2016,2015
+23,Centre-Back,"Mar 6, 1988 (27)",NA,NA,Spain,SD Eibar,LaLiga,2015/2016,2015
+19,Left-Back,"Mar 17, 1991 (24)",NA,NA,Spain,SD Eibar,LaLiga,2015/2016,2015
+17,Left-Back,"Nov 16, 1993 (21)",NA,NA,Spain,SD Eibar,LaLiga,2015/2016,2015
+NA,Left-Back,"Mar 19, 1994 (21)",NA,NA,Spain,SD Eibar,LaLiga,2015/2016,2015
+NA,Left-Back,"Jul 20, 1995 (19)",NA,NA,Spain,SD Eibar,LaLiga,2015/2016,2015
+32,Left-Back,"Jul 20, 1993 (21)",NA,NA,Spain,SD Eibar,LaLiga,2015/2016,2015
+7,Right-Back,"Feb 8, 1992 (23)",NA,NA,Spain,SD Eibar,LaLiga,2015/2016,2015
+16,Right-Back,"Mar 27, 1989 (26)",NA,NA,Spain,SD Eibar,LaLiga,2015/2016,2015
+6,Defensive Midfield,"Apr 3, 1994 (21)",NA,NA,Croatia,SD Eibar,LaLiga,2015/2016,2015
+NA,Defensive Midfield,"Jun 6, 1988 (27)",NA,NA,Spain,SD Eibar,LaLiga,2015/2016,2015
+14,Central Midfield,"May 24, 1990 (25)",NA,NA,Spain,SD Eibar,LaLiga,2015/2016,2015
+24,Central Midfield,"May 25, 1988 (27)",NA,NA,Spain,SD Eibar,LaLiga,2015/2016,2015
+NA,Central Midfield,"Aug 2, 1992 (22)",NA,NA,Azerbaijan,SD Eibar,LaLiga,2015/2016,2015
+5,Central Midfield,"Mar 27, 1993 (22)",NA,NA,Argentina,SD Eibar,LaLiga,2015/2016,2015
+NA,Central Midfield,"Jan 10, 1994 (21)",NA,NA,Spain,SD Eibar,LaLiga,2015/2016,2015
+NA,Attacking Midfield,"Apr 7, 1994 (21)",NA,NA,Spain,SD Eibar,LaLiga,2015/2016,2015
+8,Left Winger,"Jun 2, 1988 (27)",NA,NA,Japan,SD Eibar,LaLiga,2015/2016,2015
+21,Left Winger,"May 24, 1986 (29)",NA,NA,Spain,SD Eibar,LaLiga,2015/2016,2015
+NA,Right Winger,"Jul 12, 1992 (22)",NA,NA,Italy,SD Eibar,LaLiga,2015/2016,2015
+11,Right Winger,"Aug 4, 1991 (23)",NA,NA,Bosnia-Herzegovina,SD Eibar,LaLiga,2015/2016,2015
+22,Right Winger,"Jun 16, 1991 (24)",NA,NA,Spain,SD Eibar,LaLiga,2015/2016,2015
+20,Right Winger,"Dec 27, 1991 (23)",NA,NA,Spain,SD Eibar,LaLiga,2015/2016,2015
+NA,Second Striker,"Feb 9, 1983 (32)",NA,NA,Spain,SD Eibar,LaLiga,2015/2016,2015
+NA,Centre-Forward,"Nov 25, 1989 (25)",NA,NA,Spain,SD Eibar,LaLiga,2015/2016,2015
+18,Centre-Forward,"Aug 25, 1992 (22)",NA,NA,Spain,SD Eibar,LaLiga,2015/2016,2015
+9,Centre-Forward,"Feb 26, 1990 (25)",NA,NA,Spain,SD Eibar,LaLiga,2015/2016,2015
+NA,Centre-Forward,"Feb 27, 1994 (21)",NA,NA,Angola,SD Eibar,LaLiga,2015/2016,2015
+1,Goalkeeper,"May 25, 1984 (31)",NA,NA,Spain,Sporting Gijón,LaLiga,2015/2016,2015
+13,Goalkeeper,"Feb 9, 1985 (30)",NA,NA,Spain,Sporting Gijón,LaLiga,2015/2016,2015
+NA,Goalkeeper,"Aug 8, 1992 (22)",NA,NA,Spain,Sporting Gijón,LaLiga,2015/2016,2015
+5,Centre-Back,"Jul 11, 1989 (25)",NA,NA,Colombia,Sporting Gijón,LaLiga,2015/2016,2015
+2,Centre-Back,"Apr 14, 1989 (26)",NA,NA,Spain,Sporting Gijón,LaLiga,2015/2016,2015
+21,Centre-Back,"Oct 24, 1989 (25)",NA,NA,Bosnia-Herzegovina,Sporting Gijón,LaLiga,2015/2016,2015
+28,Centre-Back,"Apr 17, 1997 (18)",NA,NA,Spain,Sporting Gijón,LaLiga,2015/2016,2015
+4,Centre-Back,"Mar 7, 1994 (21)",NA,NA,Chile,Sporting Gijón,LaLiga,2015/2016,2015
+NA,Centre-Back,"Jul 29, 1990 (24)",NA,NA,Spain,Sporting Gijón,LaLiga,2015/2016,2015
+15,Left-Back,"Feb 7, 1988 (27)",NA,NA,Spain,Sporting Gijón,LaLiga,2015/2016,2015
+18,Left-Back,"Jan 29, 1990 (25)",NA,NA,Spain,Sporting Gijón,LaLiga,2015/2016,2015
+3,Left-Back,"Jul 15, 1991 (23)",NA,NA,Spain,Sporting Gijón,LaLiga,2015/2016,2015
+11,Right-Back,"Mar 25, 1987 (28)",NA,NA,Spain,Sporting Gijón,LaLiga,2015/2016,2015
+17,Defensive Midfield,"Feb 2, 1993 (22)",NA,NA,Spain,Sporting Gijón,LaLiga,2015/2016,2015
+6,Central Midfield,"Jan 23, 1992 (23)",NA,NA,Spain,Sporting Gijón,LaLiga,2015/2016,2015
+10,Central Midfield,"Dec 22, 1987 (27)",NA,NA,Spain,Sporting Gijón,LaLiga,2015/2016,2015
+24,Central Midfield,"Jan 4, 1993 (22)",NA,NA,Algeria,Sporting Gijón,LaLiga,2015/2016,2015
+25,Attacking Midfield,"Jun 18, 1996 (19)",NA,NA,Croatia,Sporting Gijón,LaLiga,2015/2016,2015
+8,Attacking Midfield,"May 12, 1991 (24)",NA,NA,Spain,Sporting Gijón,LaLiga,2015/2016,2015
+22,Attacking Midfield,"Aug 2, 1993 (21)",NA,NA,Spain,Sporting Gijón,LaLiga,2015/2016,2015
+33,Attacking Midfield,"Aug 18, 1995 (19)",NA,NA,Cameroon,Sporting Gijón,LaLiga,2015/2016,2015
+NA,Attacking Midfield,"Mar 14, 1992 (23)",NA,NA,Spain,Sporting Gijón,LaLiga,2015/2016,2015
+23,Left Winger,"Jul 9, 1991 (23)",NA,NA,Spain,Sporting Gijón,LaLiga,2015/2016,2015
+19,Right Winger,"Jul 5, 1987 (27)",NA,NA,Spain,Sporting Gijón,LaLiga,2015/2016,2015
+NA,Right Winger,"Mar 16, 1987 (28)",NA,NA,Spain,Sporting Gijón,LaLiga,2015/2016,2015
+20,Centre-Forward,"Mar 4, 1996 (19)",NA,NA,Paraguay,Sporting Gijón,LaLiga,2015/2016,2015
+9,Centre-Forward,"Jul 12, 1990 (24)",NA,NA,Spain,Sporting Gijón,LaLiga,2015/2016,2015
+16,Centre-Forward,"Jun 1, 1995 (20)",NA,NA,Spain,Sporting Gijón,LaLiga,2015/2016,2015
+NA,Centre-Forward,"Jun 12, 1993 (22)",NA,NA,Spain,Sporting Gijón,LaLiga,2015/2016,2015
+13,Goalkeeper,"Sep 10, 1982 (32)",NA,NA,Spain,UD Las Palmas,LaLiga,2015/2016,2015
+1,Goalkeeper,"Jan 27, 1991 (24)",NA,NA,Spain,UD Las Palmas,LaLiga,2015/2016,2015
+NA,Goalkeeper,"Apr 20, 1993 (22)",NA,NA,Spain,UD Las Palmas,LaLiga,2015/2016,2015
+NA,Centre-Back,"Jul 30, 1982 (32)",NA,NA,Paraguay,UD Las Palmas,LaLiga,2015/2016,2015
+16,Centre-Back,"Apr 2, 1986 (29)",NA,NA,Spain,UD Las Palmas,LaLiga,2015/2016,2015
+17,Centre-Back,"May 15, 1990 (25)",NA,NA,Spain,UD Las Palmas,LaLiga,2015/2016,2015
+3,Centre-Back,"Dec 28, 1995 (19)",NA,NA,Uruguay,UD Las Palmas,LaLiga,2015/2016,2015
+5,Centre-Back,"Feb 25, 1982 (33)",NA,NA,Spain,UD Las Palmas,LaLiga,2015/2016,2015
+NA,Centre-Back,"May 18, 1995 (20)",NA,NA,Spain,UD Las Palmas,LaLiga,2015/2016,2015
+22,Left-Back,"Mar 15, 1985 (30)",NA,NA,Spain,UD Las Palmas,LaLiga,2015/2016,2015
+23,Left-Back,"Nov 2, 1987 (27)",NA,NA,Spain,UD Las Palmas,LaLiga,2015/2016,2015
+2,Right-Back,"Dec 16, 1988 (26)",NA,NA,Spain,UD Las Palmas,LaLiga,2015/2016,2015
+6,Right-Back,"Mar 10, 1981 (34)",NA,NA,Spain,UD Las Palmas,LaLiga,2015/2016,2015
+NA,Defensive Midfield,"Nov 2, 1987 (27)",NA,NA,Spain,UD Las Palmas,LaLiga,2015/2016,2015
+4,Defensive Midfield,"Aug 31, 1988 (26)",NA,NA,Spain,UD Las Palmas,LaLiga,2015/2016,2015
+12,Central Midfield,"Jul 25, 1990 (24)",NA,NA,Ghana,UD Las Palmas,LaLiga,2015/2016,2015
+18,Central Midfield,"Jun 25, 1988 (27)",NA,NA,Spain,UD Las Palmas,LaLiga,2015/2016,2015
+NA,Central Midfield,"Aug 30, 1983 (31)",NA,NA,Argentina,UD Las Palmas,LaLiga,2015/2016,2015
+14,Central Midfield,"Aug 26, 1990 (24)",NA,NA,Spain,UD Las Palmas,LaLiga,2015/2016,2015
+15,Central Midfield,"Jun 7, 1989 (26)",NA,NA,Spain,UD Las Palmas,LaLiga,2015/2016,2015
+20,Attacking Midfield,"Oct 21, 1989 (25)",NA,NA,Spain,UD Las Palmas,LaLiga,2015/2016,2015
+24,Attacking Midfield,"Sep 20, 1990 (24)",NA,NA,Spain,UD Las Palmas,LaLiga,2015/2016,2015
+21,Attacking Midfield,"Jun 17, 1975 (40)",NA,NA,Spain,UD Las Palmas,LaLiga,2015/2016,2015
+NA,Attacking Midfield,"Feb 18, 1994 (21)",NA,NA,Spain,UD Las Palmas,LaLiga,2015/2016,2015
+11,Left Winger,"Jul 15, 1982 (32)",NA,NA,Spain,UD Las Palmas,LaLiga,2015/2016,2015
+NA,Left Winger,"May 20, 1997 (18)",NA,NA,Spain,UD Las Palmas,LaLiga,2015/2016,2015
+25,Right Winger,"Aug 27, 1986 (28)",NA,NA,Morocco,UD Las Palmas,LaLiga,2015/2016,2015
+7,Right Winger,"Feb 25, 1985 (30)",NA,NA,Spain,UD Las Palmas,LaLiga,2015/2016,2015
+10,Centre-Forward,"Jan 28, 1992 (23)",NA,NA,Argentina,UD Las Palmas,LaLiga,2015/2016,2015
+8,Centre-Forward,"Nov 23, 1991 (23)",NA,NA,Brazil,UD Las Palmas,LaLiga,2015/2016,2015
+NA,Centre-Forward,"Mar 13, 1991 (24)",NA,NA,Spain,UD Las Palmas,LaLiga,2015/2016,2015
+NA,Centre-Forward,"Jul 6, 1993 (21)",NA,NA,Spain,UD Las Palmas,LaLiga,2015/2016,2015
+NA,Centre-Forward,"Sep 10, 1998 (16)",NA,NA,Spain,UD Las Palmas,LaLiga,2015/2016,2015

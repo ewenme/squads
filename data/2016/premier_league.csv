@@ -1,0 +1,792 @@
+shirt_number,position,player_name,date_of_birth,age,nationality,club_name,league_name,season,year
+NA,Goalkeeper,"Apr 19, 1987 (29)",NA,NA,England,Manchester City,Premier League,2016/2017,2016
+1,Goalkeeper,"Apr 13, 1983 (33)",NA,NA,Chile,Manchester City,Premier League,2016/2017,2016
+13,Goalkeeper,"Sep 28, 1981 (34)",NA,NA,Argentina,Manchester City,Premier League,2016/2017,2016
+54,Goalkeeper,"Jan 22, 1996 (20)",NA,NA,England,Manchester City,Premier League,2016/2017,2016
+30,Centre-Back,"Feb 12, 1988 (28)",NA,NA,Argentina,Manchester City,Premier League,2016/2017,2016
+4,Centre-Back,"Apr 10, 1986 (30)",NA,NA,Belgium,Manchester City,Premier League,2016/2017,2016
+5,Centre-Back,"May 28, 1994 (22)",NA,NA,England,Manchester City,Premier League,2016/2017,2016
+20,Centre-Back,"Feb 13, 1991 (25)",NA,NA,France,Manchester City,Premier League,2016/2017,2016
+28,Centre-Back,"Jun 28, 1995 (21)",NA,NA,Belgium,Manchester City,Premier League,2016/2017,2016
+NA,Centre-Back,"Aug 31, 1993 (22)",NA,NA,Spain,Manchester City,Premier League,2016/2017,2016
+NA,Centre-Back,"Sep 24, 1997 (18)",NA,NA,England,Manchester City,Premier League,2016/2017,2016
+11,Left-Back,"Nov 10, 1985 (30)",NA,NA,Serbia,Manchester City,Premier League,2016/2017,2016
+22,Left-Back,"Jul 26, 1985 (30)",NA,NA,France,Manchester City,Premier League,2016/2017,2016
+35,Left-Back,"Dec 15, 1996 (19)",NA,NA,Ukraine,Manchester City,Premier League,2016/2017,2016
+NA,Left-Back,"Jan 4, 1997 (19)",NA,NA,Spain,Manchester City,Premier League,2016/2017,2016
+15,Right-Back,"Nov 21, 1985 (30)",NA,NA,Spain,Manchester City,Premier League,2016/2017,2016
+5,Right-Back,"Jan 16, 1985 (31)",NA,NA,Argentina,Manchester City,Premier League,2016/2017,2016
+3,Right-Back,"Feb 14, 1983 (33)",NA,NA,France,Manchester City,Premier League,2016/2017,2016
+NA,Right-Back,"Jul 12, 1997 (18)",NA,NA,Spain,Manchester City,Premier League,2016/2017,2016
+25,Defensive Midfield,"May 4, 1985 (31)",NA,NA,Brazil,Manchester City,Premier League,2016/2017,2016
+6,Defensive Midfield,"Jul 25, 1987 (28)",NA,NA,Brazil,Manchester City,Premier League,2016/2017,2016
+36,Defensive Midfield,"Apr 2, 1993 (23)",NA,NA,Argentina,Manchester City,Premier League,2016/2017,2016
+NA,Defensive Midfield,"Mar 8, 1990 (26)",NA,NA,Australia,Manchester City,Premier League,2016/2017,2016
+75,Defensive Midfield,"Jun 28, 1997 (19)",NA,NA,Spain,Manchester City,Premier League,2016/2017,2016
+8,Central Midfield,"Oct 24, 1990 (25)",NA,NA,Germany,Manchester City,Premier League,2016/2017,2016
+42,Central Midfield,"May 13, 1983 (33)",NA,NA,Cote d'Ivoire,Manchester City,Premier League,2016/2017,2016
+18,Central Midfield,"Nov 21, 1989 (26)",NA,NA,England,Manchester City,Premier League,2016/2017,2016
+NA,Central Midfield,"Sep 15, 1990 (25)",NA,NA,Australia,Manchester City,Premier League,2016/2017,2016
+NA,Central Midfield,"May 28, 2000 (16)",NA,NA,England,Manchester City,Premier League,2016/2017,2016
+17,Attacking Midfield,"Jun 28, 1991 (25)",NA,NA,Belgium,Manchester City,Premier League,2016/2017,2016
+21,Attacking Midfield,"Jan 8, 1986 (30)",NA,NA,Spain,Manchester City,Premier League,2016/2017,2016
+NA,Attacking Midfield,"Jun 26, 1987 (29)",NA,NA,France,Manchester City,Premier League,2016/2017,2016
+19,Left Winger,"Jan 11, 1996 (20)",NA,NA,Germany,Manchester City,Premier League,2016/2017,2016
+9,Left Winger,"Oct 15, 1986 (29)",NA,NA,Spain,Manchester City,Premier League,2016/2017,2016
+NA,Left Winger,"Sep 20, 1996 (19)",NA,NA,Colombia,Manchester City,Premier League,2016/2017,2016
+NA,Left Winger,"Aug 3, 1999 (16)",NA,NA,Spain,Manchester City,Premier League,2016/2017,2016
+7,Right Winger,"Dec 8, 1994 (21)",NA,NA,England,Manchester City,Premier League,2016/2017,2016
+27,Right Winger,"Feb 5, 1997 (19)",NA,NA,England,Manchester City,Premier League,2016/2017,2016
+10,Centre-Forward,"Jun 2, 1988 (28)",NA,NA,Argentina,Manchester City,Premier League,2016/2017,2016
+14,Centre-Forward,"Dec 10, 1988 (27)",NA,NA,Cote d'Ivoire,Manchester City,Premier League,2016/2017,2016
+33,Centre-Forward,"Apr 3, 1997 (19)",NA,NA,Brazil,Manchester City,Premier League,2016/2017,2016
+72,Centre-Forward,"Oct 3, 1996 (19)",NA,NA,Nigeria,Manchester City,Premier League,2016/2017,2016
+NA,Centre-Forward,"May 10, 1997 (19)",NA,NA,Turkey,Manchester City,Premier League,2016/2017,2016
+NA,Centre-Forward,"Jun 1, 1992 (24)",NA,NA,Spain,Manchester City,Premier League,2016/2017,2016
+13,Goalkeeper,"May 11, 1992 (24)",NA,NA,Belgium,Chelsea FC,Premier League,2016/2017,2016
+1,Goalkeeper,"Jun 20, 1987 (29)",NA,NA,Bosnia-Herzegovina,Chelsea FC,Premier League,2016/2017,2016
+37,Goalkeeper,"Sep 19, 1982 (33)",NA,NA,Portugal,Chelsea FC,Premier League,2016/2017,2016
+NA,Goalkeeper,"Aug 20, 1992 (23)",NA,NA,Croatia,Chelsea FC,Premier League,2016/2017,2016
+NA,Goalkeeper,"Oct 27, 1993 (22)",NA,NA,England,Chelsea FC,Premier League,2016/2017,2016
+30,Centre-Back,"Apr 22, 1987 (29)",NA,NA,Brazil,Chelsea FC,Premier League,2016/2017,2016
+5,Centre-Back,"Oct 27, 1994 (21)",NA,NA,France,Chelsea FC,Premier League,2016/2017,2016
+24,Centre-Back,"Dec 19, 1985 (30)",NA,NA,England,Chelsea FC,Premier League,2016/2017,2016
+NA,Centre-Back,"Feb 22, 1984 (32)",NA,NA,Serbia,Chelsea FC,Premier League,2016/2017,2016
+NA,Centre-Back,"Apr 10, 1996 (20)",NA,NA,Denmark,Chelsea FC,Premier League,2016/2017,2016
+6,Centre-Back,"Feb 18, 1995 (21)",NA,NA,Netherlands,Chelsea FC,Premier League,2016/2017,2016
+NA,Centre-Back,"May 15, 1993 (23)",NA,NA,Czech Republic,Chelsea FC,Premier League,2016/2017,2016
+NA,Centre-Back,"Jul 19, 1992 (23)",NA,NA,Jamaica,Chelsea FC,Premier League,2016/2017,2016
+26,Centre-Back,"Dec 7, 1980 (35)",NA,NA,England,Chelsea FC,Premier League,2016/2017,2016
+NA,Centre-Back,"Jul 19, 1995 (20)",NA,NA,United States,Chelsea FC,Premier League,2016/2017,2016
+NA,Centre-Back,"Oct 17, 1993 (22)",NA,NA,Nigeria,Chelsea FC,Premier League,2016/2017,2016
+NA,Left-Back,"Jul 2, 1994 (21)",NA,NA,Ghana,Chelsea FC,Premier League,2016/2017,2016
+3,Left-Back,"Dec 28, 1990 (25)",NA,NA,Spain,Chelsea FC,Premier League,2016/2017,2016
+NA,Left-Back,"Apr 2, 1995 (21)",NA,NA,Chile,Chelsea FC,Premier League,2016/2017,2016
+28,Right-Back,"Aug 28, 1989 (26)",NA,NA,Spain,Chelsea FC,Premier League,2016/2017,2016
+NA,Right-Back,"May 1, 1994 (22)",NA,NA,Brazil,Chelsea FC,Premier League,2016/2017,2016
+NA,Right-Back,"Sep 17, 1993 (22)",NA,NA,England,Chelsea FC,Premier League,2016/2017,2016
+34,Right-Back,"Oct 8, 1996 (19)",NA,NA,Nigeria,Chelsea FC,Premier League,2016/2017,2016
+21,Defensive Midfield,"Aug 1, 1988 (27)",NA,NA,Serbia,Chelsea FC,Premier League,2016/2017,2016
+29,Defensive Midfield,"Dec 12, 1994 (21)",NA,NA,England,Chelsea FC,Premier League,2016/2017,2016
+NA,Defensive Midfield,"Sep 29, 1996 (19)",NA,NA,Cote d'Ivoire,Chelsea FC,Premier League,2016/2017,2016
+4,Central Midfield,"May 4, 1987 (29)",NA,NA,Spain,Chelsea FC,Premier League,2016/2017,2016
+7,Central Midfield,"Mar 29, 1991 (25)",NA,NA,France,Chelsea FC,Premier League,2016/2017,2016
+NA,Central Midfield,"Dec 1, 1992 (23)",NA,NA,Netherlands,Chelsea FC,Premier League,2016/2017,2016
+NA,Central Midfield,"Feb 9, 1995 (21)",NA,NA,Croatia,Chelsea FC,Premier League,2016/2017,2016
+14,Central Midfield,"Jan 23, 1996 (20)",NA,NA,England,Chelsea FC,Premier League,2016/2017,2016
+NA,Central Midfield,"Apr 25, 1995 (21)",NA,NA,England,Chelsea FC,Premier League,2016/2017,2016
+16,Left Midfield,"Feb 8, 1996 (20)",NA,NA,Brazil,Chelsea FC,Premier League,2016/2017,2016
+NA,Attacking Midfield,"Sep 9, 1991 (24)",NA,NA,Brazil,Chelsea FC,Premier League,2016/2017,2016
+NA,Attacking Midfield,"Oct 26, 1996 (19)",NA,NA,Serbia,Chelsea FC,Premier League,2016/2017,2016
+10,Left Winger,"Jan 7, 1991 (25)",NA,NA,Belgium,Chelsea FC,Premier League,2016/2017,2016
+NA,Left Winger,"Jan 10, 1992 (24)",NA,NA,Ghana,Chelsea FC,Premier League,2016/2017,2016
+NA,Left Winger,"Jan 3, 1997 (19)",NA,NA,Cote d'Ivoire,Chelsea FC,Premier League,2016/2017,2016
+NA,Left Winger,"Mar 13, 1996 (20)",NA,NA,Brazil,Chelsea FC,Premier League,2016/2017,2016
+22,Right Winger,"Aug 9, 1988 (27)",NA,NA,Brazil,Chelsea FC,Premier League,2016/2017,2016
+NA,Right Winger,"May 26, 1988 (28)",NA,NA,Colombia,Chelsea FC,Premier League,2016/2017,2016
+11,Right Winger,"Jul 28, 1987 (28)",NA,NA,Spain,Chelsea FC,Premier League,2016/2017,2016
+15,Right Winger,"Dec 12, 1990 (25)",NA,NA,Nigeria,Chelsea FC,Premier League,2016/2017,2016
+NA,Right Winger,"Sep 6, 1995 (20)",NA,NA,Burkina Faso,Chelsea FC,Premier League,2016/2017,2016
+NA,Right Winger,"Jan 20, 1994 (22)",NA,NA,Brazil,Chelsea FC,Premier League,2016/2017,2016
+19,Centre-Forward,"Oct 7, 1988 (27)",NA,NA,Spain,Chelsea FC,Premier League,2016/2017,2016
+23,Centre-Forward,"Oct 2, 1993 (22)",NA,NA,Belgium,Chelsea FC,Premier League,2016/2017,2016
+NA,Centre-Forward,"Jan 2, 1987 (29)",NA,NA,France,Chelsea FC,Premier League,2016/2017,2016
+NA,Centre-Forward,"Sep 14, 1997 (18)",NA,NA,England,Chelsea FC,Premier League,2016/2017,2016
+1,Goalkeeper,"Nov 7, 1990 (25)",NA,NA,Spain,Manchester United,Premier League,2016/2017,2016
+20,Goalkeeper,"Feb 22, 1987 (29)",NA,NA,Argentina,Manchester United,Premier League,2016/2017,2016
+NA,Goalkeeper,"Mar 25, 1993 (23)",NA,NA,England,Manchester United,Premier League,2016/2017,2016
+NA,Goalkeeper,"Jun 28, 1996 (20)",NA,NA,Portugal,Manchester United,Premier League,2016/2017,2016
+NA,Goalkeeper,"Mar 12, 1997 (19)",NA,NA,England,Manchester United,Premier League,2016/2017,2016
+NA,Goalkeeper,"Apr 22, 1996 (20)",NA,NA,Ireland,Manchester United,Premier League,2016/2017,2016
+12,Centre-Back,"Nov 22, 1989 (26)",NA,NA,England,Manchester United,Premier League,2016/2017,2016
+17,Centre-Back,"Mar 9, 1990 (26)",NA,NA,Netherlands,Manchester United,Premier League,2016/2017,2016
+5,Centre-Back,"Mar 20, 1990 (26)",NA,NA,Argentina,Manchester United,Premier League,2016/2017,2016
+4,Centre-Back,"Feb 21, 1992 (24)",NA,NA,England,Manchester United,Premier League,2016/2017,2016
+3,Centre-Back,"Apr 12, 1994 (22)",NA,NA,Cote d'Ivoire,Manchester United,Premier League,2016/2017,2016
+NA,Centre-Back,"Nov 14, 1997 (18)",NA,NA,England,Manchester United,Premier League,2016/2017,2016
+23,Left-Back,"Jul 12, 1995 (20)",NA,NA,England,Manchester United,Premier League,2016/2017,2016
+18,Left-Back,"Jul 9, 1985 (30)",NA,NA,England,Manchester United,Premier League,2016/2017,2016
+43,Left-Back,"Feb 2, 1997 (19)",NA,NA,England,Manchester United,Premier League,2016/2017,2016
+NA,Left-Back,"Jan 11, 1997 (19)",NA,NA,England,Manchester United,Premier League,2016/2017,2016
+36,Right-Back,"Dec 2, 1989 (26)",NA,NA,Italy,Manchester United,Premier League,2016/2017,2016
+25,Right-Back,"Aug 4, 1985 (30)",NA,NA,Ecuador,Manchester United,Premier League,2016/2017,2016
+NA,Right-Back,"Mar 24, 1993 (23)",NA,NA,Uruguay,Manchester United,Premier League,2016/2017,2016
+24,Right-Back,"Jan 2, 1998 (18)",NA,NA,Netherlands,Manchester United,Premier League,2016/2017,2016
+NA,Defensive Midfield,"Nov 8, 1989 (26)",NA,NA,France,Manchester United,Premier League,2016/2017,2016
+16,Defensive Midfield,"Jul 28, 1981 (34)",NA,NA,England,Manchester United,Premier League,2016/2017,2016
+6,Central Midfield,"Mar 15, 1993 (23)",NA,NA,France,Manchester United,Premier League,2016/2017,2016
+21,Central Midfield,"Aug 14, 1989 (26)",NA,NA,Spain,Manchester United,Premier League,2016/2017,2016
+27,Central Midfield,"Nov 22, 1987 (28)",NA,NA,Belgium,Manchester United,Premier League,2016/2017,2016
+NA,Central Midfield,"Aug 1, 1984 (31)",NA,NA,Germany,Manchester United,Premier League,2016/2017,2016
+NA,Central Midfield,"Aug 20, 1996 (19)",NA,NA,England,Manchester United,Premier League,2016/2017,2016
+NA,Central Midfield,"Dec 8, 1996 (19)",NA,NA,Scotland,Manchester United,Premier League,2016/2017,2016
+8,Attacking Midfield,"Apr 28, 1988 (28)",NA,NA,Spain,Manchester United,Premier League,2016/2017,2016
+22,Attacking Midfield,"Jan 21, 1989 (27)",NA,NA,Armenia,Manchester United,Premier League,2016/2017,2016
+NA,Attacking Midfield,"Jan 1, 1996 (20)",NA,NA,Brazil,Manchester United,Premier League,2016/2017,2016
+NA,Attacking Midfield,"Dec 15, 1995 (20)",NA,NA,England,Manchester United,Premier League,2016/2017,2016
+NA,Attacking Midfield,"Aug 31, 2000 (15)",NA,NA,England,Manchester United,Premier League,2016/2017,2016
+11,Left Winger,"Dec 5, 1995 (20)",NA,NA,France,Manchester United,Premier League,2016/2017,2016
+15,Right Winger,"Feb 5, 1995 (21)",NA,NA,Belgium,Manchester United,Premier League,2016/2017,2016
+14,Right Winger,"Dec 15, 1992 (23)",NA,NA,England,Manchester United,Premier League,2016/2017,2016
+NA,Right Winger,"Sep 28, 1998 (17)",NA,NA,England,Manchester United,Premier League,2016/2017,2016
+10,Centre-Forward,"Oct 24, 1985 (30)",NA,NA,England,Manchester United,Premier League,2016/2017,2016
+NA,Centre-Forward,"Feb 13, 1994 (22)",NA,NA,Netherlands,Manchester United,Premier League,2016/2017,2016
+9,Centre-Forward,"Oct 3, 1981 (34)",NA,NA,Sweden,Manchester United,Premier League,2016/2017,2016
+19,Centre-Forward,"Oct 31, 1997 (18)",NA,NA,England,Manchester United,Premier League,2016/2017,2016
+49,Centre-Forward,"Dec 1, 1995 (20)",NA,NA,England,Manchester United,Premier League,2016/2017,2016
+NA,Goalkeeper,"Apr 18, 1990 (26)",NA,NA,Poland,Arsenal FC,Premier League,2016/2017,2016
+33,Goalkeeper,"May 20, 1982 (34)",NA,NA,Czech Republic,Arsenal FC,Premier League,2016/2017,2016
+13,Goalkeeper,"Aug 31, 1988 (27)",NA,NA,Colombia,Arsenal FC,Premier League,2016/2017,2016
+26,Goalkeeper,"Sep 2, 1992 (23)",NA,NA,Argentina,Arsenal FC,Premier League,2016/2017,2016
+54,Goalkeeper,"Sep 9, 1994 (21)",NA,NA,England,Arsenal FC,Premier League,2016/2017,2016
+6,Centre-Back,"Sep 10, 1985 (30)",NA,NA,France,Arsenal FC,Premier League,2016/2017,2016
+20,Centre-Back,"Apr 17, 1992 (24)",NA,NA,Germany,Arsenal FC,Premier League,2016/2017,2016
+4,Centre-Back,"Sep 29, 1984 (31)",NA,NA,Germany,Arsenal FC,Premier League,2016/2017,2016
+NA,Centre-Back,"Jan 20, 1995 (21)",NA,NA,England,Arsenal FC,Premier League,2016/2017,2016
+5,Centre-Back,"Nov 26, 1990 (25)",NA,NA,Brazil,Arsenal FC,Premier League,2016/2017,2016
+NA,Centre-Back,"Jan 4, 1998 (18)",NA,NA,Poland,Arsenal FC,Premier League,2016/2017,2016
+16,Centre-Back,"Sep 20, 1995 (20)",NA,NA,England,Arsenal FC,Premier League,2016/2017,2016
+18,Left-Back,"Feb 26, 1986 (30)",NA,NA,Spain,Arsenal FC,Premier League,2016/2017,2016
+3,Left-Back,"Sep 26, 1989 (26)",NA,NA,England,Arsenal FC,Premier League,2016/2017,2016
+NA,Left-Back,"Dec 9, 1997 (18)",NA,NA,England,Arsenal FC,Premier League,2016/2017,2016
+24,Right-Back,"Mar 19, 1995 (21)",NA,NA,Spain,Arsenal FC,Premier League,2016/2017,2016
+25,Right-Back,"Feb 8, 1992 (24)",NA,NA,England,Arsenal FC,Premier League,2016/2017,2016
+2,Right-Back,"Jul 28, 1985 (30)",NA,NA,France,Arsenal FC,Premier League,2016/2017,2016
+29,Defensive Midfield,"Sep 27, 1992 (23)",NA,NA,Switzerland,Arsenal FC,Premier League,2016/2017,2016
+34,Defensive Midfield,"May 13, 1991 (25)",NA,NA,France,Arsenal FC,Premier League,2016/2017,2016
+35,Defensive Midfield,"Jul 11, 1992 (23)",NA,NA,Egypt,Arsenal FC,Premier League,2016/2017,2016
+NA,Defensive Midfield,"Feb 5, 1998 (18)",NA,NA,England,Arsenal FC,Premier League,2016/2017,2016
+NA,Defensive Midfield,"Oct 23, 1998 (17)",NA,NA,England,Arsenal FC,Premier League,2016/2017,2016
+8,Central Midfield,"Dec 26, 1990 (25)",NA,NA,Wales,Arsenal FC,Premier League,2016/2017,2016
+19,Central Midfield,"Dec 13, 1984 (31)",NA,NA,Spain,Arsenal FC,Premier League,2016/2017,2016
+NA,Central Midfield,"Jan 1, 1992 (24)",NA,NA,England,Arsenal FC,Premier League,2016/2017,2016
+15,Central Midfield,"Aug 15, 1993 (22)",NA,NA,England,Arsenal FC,Premier League,2016/2017,2016
+NA,Central Midfield,"Jan 17, 1998 (18)",NA,NA,France,Arsenal FC,Premier League,2016/2017,2016
+NA,Central Midfield,"Jan 26, 1997 (19)",NA,NA,United States,Arsenal FC,Premier League,2016/2017,2016
+NA,Right Midfield,"Aug 29, 1997 (18)",NA,NA,England,Arsenal FC,Premier League,2016/2017,2016
+11,Attacking Midfield,"Oct 15, 1988 (27)",NA,NA,Germany,Arsenal FC,Premier League,2016/2017,2016
+7,Left Winger,"Dec 19, 1988 (27)",NA,NA,Chile,Arsenal FC,Premier League,2016/2017,2016
+17,Left Winger,"May 3, 1996 (20)",NA,NA,Nigeria,Arsenal FC,Premier League,2016/2017,2016
+14,Right Winger,"Mar 16, 1989 (27)",NA,NA,England,Arsenal FC,Premier League,2016/2017,2016
+NA,Right Winger,"Jun 26, 1992 (24)",NA,NA,Costa Rica,Arsenal FC,Premier League,2016/2017,2016
+NA,Right Winger,"Jan 31, 1998 (18)",NA,NA,England,Arsenal FC,Premier League,2016/2017,2016
+12,Centre-Forward,"Sep 30, 1986 (29)",NA,NA,France,Arsenal FC,Premier League,2016/2017,2016
+23,Centre-Forward,"Nov 26, 1990 (25)",NA,NA,England,Arsenal FC,Premier League,2016/2017,2016
+9,Centre-Forward,"Sep 10, 1988 (27)",NA,NA,Spain,Arsenal FC,Premier League,2016/2017,2016
+22,Centre-Forward,"Jan 27, 1993 (23)",NA,NA,France,Arsenal FC,Premier League,2016/2017,2016
+NA,Centre-Forward,"Oct 9, 1995 (20)",NA,NA,England,Arsenal FC,Premier League,2016/2017,2016
+NA,Centre-Forward,"May 31, 1998 (18)",NA,NA,England,Arsenal FC,Premier League,2016/2017,2016
+22,Goalkeeper,"Mar 6, 1988 (28)",NA,NA,Belgium,Liverpool FC,Premier League,2016/2017,2016
+1,Goalkeeper,"Jun 22, 1993 (23)",NA,NA,Germany,Liverpool FC,Premier League,2016/2017,2016
+34,Goalkeeper,"Sep 27, 1987 (28)",NA,NA,Hungary,Liverpool FC,Premier League,2016/2017,2016
+NA,Goalkeeper,"Jun 22, 1993 (23)",NA,NA,Wales,Liverpool FC,Premier League,2016/2017,2016
+13,Goalkeeper,"Jun 4, 1977 (39)",NA,NA,Austria,Liverpool FC,Premier League,2016/2017,2016
+3,Centre-Back,"Feb 13, 1990 (26)",NA,NA,France,Liverpool FC,Premier League,2016/2017,2016
+32,Centre-Back,"Aug 8, 1991 (24)",NA,NA,Cameroon,Liverpool FC,Premier League,2016/2017,2016
+6,Centre-Back,"Jul 5, 1989 (26)",NA,NA,Croatia,Liverpool FC,Premier League,2016/2017,2016
+12,Centre-Back,"May 23, 1997 (19)",NA,NA,England,Liverpool FC,Premier League,2016/2017,2016
+17,Centre-Back,"Oct 30, 1985 (30)",NA,NA,Estonia,Liverpool FC,Premier League,2016/2017,2016
+18,Left-Back,"Jul 5, 1992 (23)",NA,NA,Spain,Liverpool FC,Premier League,2016/2017,2016
+2,Right-Back,"Apr 5, 1991 (25)",NA,NA,England,Liverpool FC,Premier League,2016/2017,2016
+NA,Right-Back,"Jan 1, 1993 (23)",NA,NA,England,Liverpool FC,Premier League,2016/2017,2016
+NA,Right-Back,"May 9, 1993 (23)",NA,NA,England,Liverpool FC,Premier League,2016/2017,2016
+56,Right-Back,"Oct 21, 1995 (20)",NA,NA,England,Liverpool FC,Premier League,2016/2017,2016
+66,Right-Back,"Oct 7, 1998 (17)",NA,NA,England,Liverpool FC,Premier League,2016/2017,2016
+23,Defensive Midfield,"Jan 12, 1994 (22)",NA,NA,Germany,Liverpool FC,Premier League,2016/2017,2016
+21,Defensive Midfield,"Jan 9, 1987 (29)",NA,NA,Brazil,Liverpool FC,Premier League,2016/2017,2016
+35,Defensive Midfield,"Sep 7, 1993 (22)",NA,NA,England,Liverpool FC,Premier League,2016/2017,2016
+NA,Defensive Midfield,"Nov 6, 1995 (20)",NA,NA,Wales,Liverpool FC,Premier League,2016/2017,2016
+14,Central Midfield,"Jun 17, 1990 (26)",NA,NA,England,Liverpool FC,Premier League,2016/2017,2016
+5,Central Midfield,"Nov 11, 1990 (25)",NA,NA,Netherlands,Liverpool FC,Premier League,2016/2017,2016
+7,Central Midfield,"Jan 4, 1986 (30)",NA,NA,England,Liverpool FC,Premier League,2016/2017,2016
+16,Central Midfield,"Apr 13, 1996 (20)",NA,NA,Serbia,Liverpool FC,Premier League,2016/2017,2016
+NA,Central Midfield,"Nov 18, 1997 (18)",NA,NA,England,Liverpool FC,Premier League,2016/2017,2016
+20,Attacking Midfield,"May 10, 1988 (28)",NA,NA,England,Liverpool FC,Premier League,2016/2017,2016
+NA,Attacking Midfield,"Dec 25, 1997 (18)",NA,NA,Portugal,Liverpool FC,Premier League,2016/2017,2016
+10,Left Winger,"Jun 12, 1992 (24)",NA,NA,Brazil,Liverpool FC,Premier League,2016/2017,2016
+19,Left Winger,"Apr 10, 1992 (24)",NA,NA,Senegal,Liverpool FC,Premier League,2016/2017,2016
+58,Left Winger,"Oct 15, 1999 (16)",NA,NA,Wales,Liverpool FC,Premier League,2016/2017,2016
+NA,Right Winger,"Mar 2, 1994 (22)",NA,NA,Serbia,Liverpool FC,Premier League,2016/2017,2016
+54,Right Winger,"Jun 19, 1997 (19)",NA,NA,England,Liverpool FC,Premier League,2016/2017,2016
+NA,Right Winger,"Mar 22, 1997 (19)",NA,NA,Wales,Liverpool FC,Premier League,2016/2017,2016
+9,Centre-Forward,"Oct 2, 1991 (24)",NA,NA,Brazil,Liverpool FC,Premier League,2016/2017,2016
+15,Centre-Forward,"Sep 1, 1989 (26)",NA,NA,England,Liverpool FC,Premier League,2016/2017,2016
+28,Centre-Forward,"Jul 23, 1992 (23)",NA,NA,England,Liverpool FC,Premier League,2016/2017,2016
+27,Centre-Forward,"Apr 18, 1995 (21)",NA,NA,Belgium,Liverpool FC,Premier League,2016/2017,2016
+NA,Centre-Forward,"Apr 1, 2000 (16)",NA,NA,England,Liverpool FC,Premier League,2016/2017,2016
+1,Goalkeeper,"Dec 26, 1986 (29)",NA,NA,France,Tottenham Hotspur,Premier League,2016/2017,2016
+13,Goalkeeper,"Oct 20, 1983 (32)",NA,NA,Netherlands,Tottenham Hotspur,Premier League,2016/2017,2016
+NA,Goalkeeper,"Dec 13, 1994 (21)",NA,NA,Spain,Tottenham Hotspur,Premier League,2016/2017,2016
+NA,Goalkeeper,"Sep 2, 1995 (20)",NA,NA,England,Tottenham Hotspur,Premier League,2016/2017,2016
+NA,Goalkeeper,"Oct 2, 1998 (17)",NA,NA,England,Tottenham Hotspur,Premier League,2016/2017,2016
+4,Centre-Back,"Mar 2, 1989 (27)",NA,NA,Belgium,Tottenham Hotspur,Premier League,2016/2017,2016
+5,Centre-Back,"Apr 24, 1987 (29)",NA,NA,Belgium,Tottenham Hotspur,Premier League,2016/2017,2016
+NA,Centre-Back,"Mar 17, 1987 (29)",NA,NA,Argentina,Tottenham Hotspur,Premier League,2016/2017,2016
+27,Centre-Back,"Nov 15, 1992 (23)",NA,NA,Austria,Tottenham Hotspur,Premier League,2016/2017,2016
+38,Centre-Back,"Dec 31, 1997 (18)",NA,NA,United States,Tottenham Hotspur,Premier League,2016/2017,2016
+3,Left-Back,"Jul 2, 1990 (25)",NA,NA,England,Tottenham Hotspur,Premier League,2016/2017,2016
+33,Left-Back,"Apr 24, 1993 (23)",NA,NA,Wales,Tottenham Hotspur,Premier League,2016/2017,2016
+2,Right-Back,"May 28, 1990 (26)",NA,NA,England,Tottenham Hotspur,Premier League,2016/2017,2016
+16,Right-Back,"Sep 19, 1990 (25)",NA,NA,England,Tottenham Hotspur,Premier League,2016/2017,2016
+NA,Right-Back,"Apr 13, 1997 (19)",NA,NA,England,Tottenham Hotspur,Premier League,2016/2017,2016
+15,Defensive Midfield,"Jan 15, 1994 (22)",NA,NA,England,Tottenham Hotspur,Premier League,2016/2017,2016
+12,Defensive Midfield,"Jun 25, 1991 (25)",NA,NA,Kenya,Tottenham Hotspur,Premier League,2016/2017,2016
+NA,Defensive Midfield,"May 14, 1996 (20)",NA,NA,Slovakia,Tottenham Hotspur,Premier League,2016/2017,2016
+NA,Defensive Midfield,"Feb 23, 1997 (19)",NA,NA,England,Tottenham Hotspur,Premier League,2016/2017,2016
+NA,Defensive Midfield,"Feb 8, 1997 (19)",NA,NA,England,Tottenham Hotspur,Premier League,2016/2017,2016
+19,Central Midfield,"Jul 16, 1987 (28)",NA,NA,Belgium,Tottenham Hotspur,Premier League,2016/2017,2016
+17,Central Midfield,"Aug 16, 1989 (26)",NA,NA,France,Tottenham Hotspur,Premier League,2016/2017,2016
+NA,Central Midfield,"Nov 24, 1994 (21)",NA,NA,Algeria,Tottenham Hotspur,Premier League,2016/2017,2016
+NA,Central Midfield,"Jun 13, 1991 (25)",NA,NA,England,Tottenham Hotspur,Premier League,2016/2017,2016
+NA,Central Midfield,"May 28, 1992 (24)",NA,NA,England,Tottenham Hotspur,Premier League,2016/2017,2016
+29,Central Midfield,"Feb 2, 1996 (20)",NA,NA,England,Tottenham Hotspur,Premier League,2016/2017,2016
+23,Attacking Midfield,"Feb 14, 1992 (24)",NA,NA,Denmark,Tottenham Hotspur,Premier League,2016/2017,2016
+20,Attacking Midfield,"Apr 11, 1996 (20)",NA,NA,England,Tottenham Hotspur,Premier League,2016/2017,2016
+25,Attacking Midfield,"Apr 27, 1997 (19)",NA,NA,England,Tottenham Hotspur,Premier League,2016/2017,2016
+7,Left Winger,"Jul 8, 1992 (23)",NA,NA,"Korea, South",Tottenham Hotspur,Premier League,2016/2017,2016
+14,Left Winger,"Feb 13, 1995 (21)",NA,NA,France,Tottenham Hotspur,Premier League,2016/2017,2016
+NA,Left Winger,"May 13, 1999 (17)",NA,NA,England,Tottenham Hotspur,Premier League,2016/2017,2016
+11,Right Winger,"Mar 4, 1992 (24)",NA,NA,Argentina,Tottenham Hotspur,Premier League,2016/2017,2016
+NA,Right Winger,"Dec 3, 1998 (17)",NA,NA,England,Tottenham Hotspur,Premier League,2016/2017,2016
+10,Centre-Forward,"Jul 28, 1993 (22)",NA,NA,England,Tottenham Hotspur,Premier League,2016/2017,2016
+NA,Centre-Forward,"Aug 15, 1993 (22)",NA,NA,Cameroon,Tottenham Hotspur,Premier League,2016/2017,2016
+9,Centre-Forward,"Jun 15, 1994 (22)",NA,NA,Netherlands,Tottenham Hotspur,Premier League,2016/2017,2016
+NA,Centre-Forward,"Jul 13, 1997 (18)",NA,NA,England,Tottenham Hotspur,Premier League,2016/2017,2016
+1,Goalkeeper,"Jun 17, 1990 (26)",NA,NA,Spain,Everton FC,Premier League,2016/2017,2016
+22,Goalkeeper,"Sep 22, 1982 (33)",NA,NA,Netherlands,Everton FC,Premier League,2016/2017,2016
+NA,Goalkeeper,"Sep 23, 1996 (19)",NA,NA,Poland,Everton FC,Premier League,2016/2017,2016
+25,Centre-Back,"Mar 5, 1991 (25)",NA,NA,Argentina,Everton FC,Premier League,2016/2017,2016
+5,Centre-Back,"Aug 23, 1984 (31)",NA,NA,Wales,Everton FC,Premier League,2016/2017,2016
+6,Centre-Back,"Aug 17, 1982 (33)",NA,NA,England,Everton FC,Premier League,2016/2017,2016
+27,Centre-Back,"May 27, 1994 (22)",NA,NA,England,Everton FC,Premier League,2016/2017,2016
+30,Centre-Back,"Oct 22, 1996 (19)",NA,NA,England,Everton FC,Premier League,2016/2017,2016
+38,Centre-Back,"Oct 6, 1994 (21)",NA,NA,England,Everton FC,Premier League,2016/2017,2016
+3,Left-Back,"Dec 11, 1984 (31)",NA,NA,England,Everton FC,Premier League,2016/2017,2016
+NA,Left-Back,"Feb 18, 1990 (26)",NA,NA,Costa Rica,Everton FC,Premier League,2016/2017,2016
+32,Left-Back,"Mar 17, 1996 (20)",NA,NA,England,Everton FC,Premier League,2016/2017,2016
+NA,Left-Back,"May 21, 1993 (23)",NA,NA,England,Everton FC,Premier League,2016/2017,2016
+23,Right-Back,"Oct 11, 1988 (27)",NA,NA,Ireland,Everton FC,Premier League,2016/2017,2016
+NA,Right-Back,"Mar 15, 1997 (19)",NA,NA,England,Everton FC,Premier League,2016/2017,2016
+2,Defensive Midfield,"Nov 8, 1989 (26)",NA,NA,France,Everton FC,Premier League,2016/2017,2016
+21,Defensive Midfield,"Sep 10, 1992 (23)",NA,NA,Bosnia-Herzegovina,Everton FC,Premier League,2016/2017,2016
+18,Defensive Midfield,"Feb 23, 1981 (35)",NA,NA,England,Everton FC,Premier League,2016/2017,2016
+8,Central Midfield,"Dec 5, 1993 (22)",NA,NA,England,Everton FC,Premier League,2016/2017,2016
+16,Central Midfield,"Nov 12, 1990 (25)",NA,NA,Ireland,Everton FC,Premier League,2016/2017,2016
+NA,Central Midfield,"Aug 12, 1989 (26)",NA,NA,England,Everton FC,Premier League,2016/2017,2016
+17,Central Midfield,"Sep 26, 1989 (26)",NA,NA,Senegal,Everton FC,Premier League,2016/2017,2016
+NA,Central Midfield,"Oct 25, 1987 (28)",NA,NA,Ireland,Everton FC,Premier League,2016/2017,2016
+NA,Central Midfield,"Dec 8, 1996 (19)",NA,NA,England,Everton FC,Premier League,2016/2017,2016
+26,Central Midfield,"Jun 30, 1998 (18)",NA,NA,England,Everton FC,Premier League,2016/2017,2016
+14,Left Winger,"May 24, 1989 (27)",NA,NA,DR Congo,Everton FC,Premier League,2016/2017,2016
+NA,Left Winger,"Apr 4, 1986 (30)",NA,NA,Ireland,Everton FC,Premier League,2016/2017,2016
+31,Left Winger,"Oct 20, 1997 (18)",NA,NA,England,Everton FC,Premier League,2016/2017,2016
+11,Right Winger,"Oct 5, 1987 (28)",NA,NA,Belgium,Everton FC,Premier League,2016/2017,2016
+NA,Right Winger,"Mar 13, 1994 (22)",NA,NA,Spain,Everton FC,Premier League,2016/2017,2016
+12,Right Winger,"Apr 16, 1987 (29)",NA,NA,England,Everton FC,Premier League,2016/2017,2016
+10,Centre-Forward,"May 13, 1993 (23)",NA,NA,Belgium,Everton FC,Premier League,2016/2017,2016
+24,Centre-Forward,"Apr 18, 1990 (26)",NA,NA,Senegal,Everton FC,Premier League,2016/2017,2016
+NA,Centre-Forward,"Nov 4, 1989 (26)",NA,NA,Ecuador,Everton FC,Premier League,2016/2017,2016
+NA,Centre-Forward,"Feb 7, 1995 (21)",NA,NA,Switzerland,Everton FC,Premier League,2016/2017,2016
+9,Centre-Forward,"Nov 11, 1983 (32)",NA,NA,Cote d'Ivoire,Everton FC,Premier League,2016/2017,2016
+92,Centre-Forward,"Nov 19, 1992 (23)",NA,NA,Uruguay,Everton FC,Premier League,2016/2017,2016
+67,Centre-Forward,"Aug 12, 1992 (23)",NA,NA,England,Everton FC,Premier League,2016/2017,2016
+29,Centre-Forward,"Mar 16, 1997 (19)",NA,NA,England,Everton FC,Premier League,2016/2017,2016
+13,Goalkeeper,"Jan 3, 1987 (29)",NA,NA,Spain,West Ham United,Premier League,2016/2017,2016
+1,Goalkeeper,"May 12, 1987 (29)",NA,NA,Ireland,West Ham United,Premier League,2016/2017,2016
+34,Goalkeeper,"Dec 19, 1992 (23)",NA,NA,Switzerland,West Ham United,Premier League,2016/2017,2016
+2,Centre-Back,"Jul 3, 1988 (27)",NA,NA,New Zealand,West Ham United,Premier League,2016/2017,2016
+21,Centre-Back,"May 23, 1988 (28)",NA,NA,Italy,West Ham United,Premier League,2016/2017,2016
+23,Centre-Back,"Dec 22, 1983 (32)",NA,NA,Portugal,West Ham United,Premier League,2016/2017,2016
+19,Centre-Back,"Aug 23, 1983 (32)",NA,NA,Wales,West Ham United,Premier League,2016/2017,2016
+35,Centre-Back,"Dec 16, 1998 (17)",NA,NA,England,West Ham United,Premier League,2016/2017,2016
+32,Centre-Back,"Sep 2, 1996 (19)",NA,NA,England,West Ham United,Premier League,2016/2017,2016
+25,Centre-Back,"Apr 20, 1993 (23)",NA,NA,Canada,West Ham United,Premier League,2016/2017,2016
+3,Left-Back,"Dec 15, 1989 (26)",NA,NA,England,West Ham United,Premier League,2016/2017,2016
+26,Left-Back,"Nov 7, 1993 (22)",NA,NA,DR Congo,West Ham United,Premier League,2016/2017,2016
+NA,Left-Back,"Jan 8, 1995 (21)",NA,NA,Scotland,West Ham United,Premier League,2016/2017,2016
+NA,Left-Back,"May 20, 1996 (20)",NA,NA,England,West Ham United,Premier League,2016/2017,2016
+22,Right-Back,"Sep 16, 1993 (22)",NA,NA,England,West Ham United,Premier League,2016/2017,2016
+5,Right-Back,"Jan 17, 1983 (33)",NA,NA,Spain,West Ham United,Premier League,2016/2017,2016
+52,Right-Back,"Feb 4, 1994 (22)",NA,NA,England,West Ham United,Premier League,2016/2017,2016
+NA,Right-Back,"Feb 8, 1997 (19)",NA,NA,England,West Ham United,Premier League,2016/2017,2016
+8,Defensive Midfield,"Dec 21, 1989 (26)",NA,NA,Senegal,West Ham United,Premier League,2016/2017,2016
+4,Defensive Midfield,"Jun 21, 1990 (26)",NA,NA,Norway,West Ham United,Premier League,2016/2017,2016
+NA,Defensive Midfield,"Jan 14, 1999 (17)",NA,NA,England,West Ham United,Premier League,2016/2017,2016
+14,Central Midfield,"Mar 27, 1992 (24)",NA,NA,Equatorial Guinea,West Ham United,Premier League,2016/2017,2016
+16,Central Midfield,"May 8, 1987 (29)",NA,NA,England,West Ham United,Premier League,2016/2017,2016
+31,Central Midfield,"Apr 15, 1996 (20)",NA,NA,Switzerland,West Ham United,Premier League,2016/2017,2016
+NA,Central Midfield,"Sep 22, 1995 (20)",NA,NA,England,West Ham United,Premier League,2016/2017,2016
+NA,Central Midfield,"Nov 18, 1999 (16)",NA,NA,Portugal,West Ham United,Premier League,2016/2017,2016
+39,Central Midfield,"Apr 7, 1996 (20)",NA,NA,Ireland,West Ham United,Premier League,2016/2017,2016
+NA,Attacking Midfield,"Mar 29, 1987 (29)",NA,NA,France,West Ham United,Premier League,2016/2017,2016
+10,Attacking Midfield,"Feb 15, 1993 (23)",NA,NA,Argentina,West Ham United,Premier League,2016/2017,2016
+NA,Attacking Midfield,"Dec 18, 1997 (18)",NA,NA,England,West Ham United,Premier League,2016/2017,2016
+20,Left Winger,"Dec 17, 1989 (26)",NA,NA,Ghana,West Ham United,Premier League,2016/2017,2016
+NA,Left Winger,"Jun 19, 1998 (18)",NA,NA,England,West Ham United,Premier League,2016/2017,2016
+NA,Right Winger,"Jan 20, 1992 (24)",NA,NA,Turkey,West Ham United,Premier League,2016/2017,2016
+7,Right Winger,"Dec 26, 1989 (26)",NA,NA,Algeria,West Ham United,Premier League,2016/2017,2016
+30,Right Winger,"Mar 28, 1990 (26)",NA,NA,England,West Ham United,Premier League,2016/2017,2016
+11,Right Winger,"Sep 7, 1987 (28)",NA,NA,Scotland,West Ham United,Premier League,2016/2017,2016
+NA,Right Winger,"Apr 19, 1998 (18)",NA,NA,England,West Ham United,Premier League,2016/2017,2016
+NA,Right Winger,"Jan 11, 1999 (17)",NA,NA,England,West Ham United,Premier League,2016/2017,2016
+NA,Centre-Forward,"Jun 25, 1991 (25)",NA,NA,Italy,West Ham United,Premier League,2016/2017,2016
+NA,Centre-Forward,"Nov 4, 1989 (26)",NA,NA,Ecuador,West Ham United,Premier League,2016/2017,2016
+NA,Centre-Forward,"Sep 23, 1993 (22)",NA,NA,Argentina,West Ham United,Premier League,2016/2017,2016
+9,Centre-Forward,"Jan 6, 1989 (27)",NA,NA,England,West Ham United,Premier League,2016/2017,2016
+15,Centre-Forward,"Dec 24, 1989 (26)",NA,NA,Senegal,West Ham United,Premier League,2016/2017,2016
+24,Centre-Forward,"Oct 2, 1995 (20)",NA,NA,England,West Ham United,Premier League,2016/2017,2016
+30,Goalkeeper,"Mar 28, 1985 (31)",NA,NA,France,Crystal Palace,Premier League,2016/2017,2016
+13,Goalkeeper,"Jan 24, 1987 (29)",NA,NA,Wales,Crystal Palace,Premier League,2016/2017,2016
+1,Goalkeeper,"May 18, 1979 (37)",NA,NA,Argentina,Crystal Palace,Premier League,2016/2017,2016
+NA,Goalkeeper,"Jan 8, 1995 (21)",NA,NA,Albania,Crystal Palace,Premier League,2016/2017,2016
+NA,Centre-Back,"Feb 13, 1990 (26)",NA,NA,France,Crystal Palace,Premier League,2016/2017,2016
+5,Centre-Back,"Mar 29, 1989 (27)",NA,NA,England,Crystal Palace,Premier League,2016/2017,2016
+6,Centre-Back,"Feb 14, 1987 (29)",NA,NA,England,Crystal Palace,Premier League,2016/2017,2016
+27,Centre-Back,"Jul 20, 1981 (34)",NA,NA,Ireland,Crystal Palace,Premier League,2016/2017,2016
+NA,Centre-Back,"Jun 5, 1995 (21)",NA,NA,England,Crystal Palace,Premier League,2016/2017,2016
+NA,Centre-Back,"Jan 10, 1995 (21)",NA,NA,England,Crystal Palace,Premier League,2016/2017,2016
+23,Left-Back,"Jun 6, 1990 (26)",NA,NA,Senegal,Crystal Palace,Premier League,2016/2017,2016
+3,Left-Back,"Aug 29, 1990 (25)",NA,NA,Netherlands,Crystal Palace,Premier League,2016/2017,2016
+19,Left-Back,"Sep 9, 1992 (23)",NA,NA,England,Crystal Palace,Premier League,2016/2017,2016
+2,Right-Back,"Oct 29, 1989 (26)",NA,NA,England,Crystal Palace,Premier League,2016/2017,2016
+34,Right-Back,"Apr 27, 1990 (26)",NA,NA,England,Crystal Palace,Premier League,2016/2017,2016
+NA,Right-Back,"Dec 11, 1997 (18)",NA,NA,England,Crystal Palace,Premier League,2016/2017,2016
+NA,Right-Back,"Nov 26, 1997 (18)",NA,NA,England,Crystal Palace,Premier League,2016/2017,2016
+NA,Midfielder,"Sep 22, 1997 (18)",NA,NA,England,Crystal Palace,Premier League,2016/2017,2016
+NA,Midfielder,"Nov 27, 1998 (17)",NA,NA,England,Crystal Palace,Premier League,2016/2017,2016
+28,Defensive Midfield,"Apr 7, 1991 (25)",NA,NA,Serbia,Crystal Palace,Premier League,2016/2017,2016
+NA,Defensive Midfield,"Aug 3, 1984 (31)",NA,NA,Australia,Crystal Palace,Premier League,2016/2017,2016
+4,Defensive Midfield,"Mar 7, 1984 (32)",NA,NA,France,Crystal Palace,Premier League,2016/2017,2016
+38,Defensive Midfield,"Jan 8, 1996 (20)",NA,NA,England,Crystal Palace,Premier League,2016/2017,2016
+7,Central Midfield,"Jan 14, 1986 (30)",NA,NA,France,Crystal Palace,Premier League,2016/2017,2016
+18,Central Midfield,"Oct 7, 1987 (28)",NA,NA,Scotland,Crystal Palace,Premier League,2016/2017,2016
+22,Central Midfield,"Dec 2, 1991 (24)",NA,NA,England,Crystal Palace,Premier League,2016/2017,2016
+16,Central Midfield,"Jan 23, 1987 (29)",NA,NA,Wales,Crystal Palace,Premier League,2016/2017,2016
+NA,Central Midfield,"Mar 3, 1997 (19)",NA,NA,Afghanistan,Crystal Palace,Premier League,2016/2017,2016
+31,Left Midfield,"Dec 23, 1992 (23)",NA,NA,Ghana,Crystal Palace,Premier League,2016/2017,2016
+42,Attacking Midfield,"Jun 26, 1986 (30)",NA,NA,England,Crystal Palace,Premier League,2016/2017,2016
+14,Attacking Midfield,"Jul 2, 1988 (27)",NA,NA,"Korea, South",Crystal Palace,Premier League,2016/2017,2016
+NA,Attacking Midfield,"Oct 9, 1993 (22)",NA,NA,Wales,Crystal Palace,Premier League,2016/2017,2016
+NA,Left Winger,"May 24, 1989 (27)",NA,NA,DR Congo,Crystal Palace,Premier League,2016/2017,2016
+26,Left Winger,"Apr 26, 1988 (28)",NA,NA,Mali,Crystal Palace,Premier League,2016/2017,2016
+NA,Left Winger,"Aug 26, 1995 (20)",NA,NA,England,Crystal Palace,Premier League,2016/2017,2016
+NA,Left Winger,"Apr 6, 1995 (21)",NA,NA,England,Crystal Palace,Premier League,2016/2017,2016
+10,Right Winger,"Jul 16, 1991 (24)",NA,NA,England,Crystal Palace,Premier League,2016/2017,2016
+11,Right Winger,"Nov 10, 1992 (23)",NA,NA,Cote d'Ivoire,Crystal Palace,Premier League,2016/2017,2016
+17,Centre-Forward,"Dec 3, 1990 (25)",NA,NA,Belgium,Crystal Palace,Premier League,2016/2017,2016
+NA,Centre-Forward,"Jan 2, 1987 (29)",NA,NA,France,Crystal Palace,Premier League,2016/2017,2016
+21,Centre-Forward,"Mar 31, 1993 (23)",NA,NA,England,Crystal Palace,Premier League,2016/2017,2016
+9,Centre-Forward,"Sep 13, 1987 (28)",NA,NA,England,Crystal Palace,Premier League,2016/2017,2016
+NA,Centre-Forward,"Apr 28, 1995 (21)",NA,NA,Belgium,Crystal Palace,Premier League,2016/2017,2016
+NA,Centre-Forward,"Aug 12, 1990 (25)",NA,NA,Ghana,Crystal Palace,Premier League,2016/2017,2016
+36,Centre-Forward,"Feb 1, 1993 (23)",NA,NA,England,Crystal Palace,Premier League,2016/2017,2016
+1,Goalkeeper,"Mar 17, 1988 (28)",NA,NA,England,Southampton FC,Premier League,2016/2017,2016
+13,Goalkeeper,"Dec 3, 1989 (26)",NA,NA,England,Southampton FC,Premier League,2016/2017,2016
+NA,Goalkeeper,"Mar 5, 1995 (21)",NA,NA,Tunisia,Southampton FC,Premier League,2016/2017,2016
+NA,Goalkeeper,"Jan 2, 1992 (24)",NA,NA,Argentina,Southampton FC,Premier League,2016/2017,2016
+28,Goalkeeper,"Nov 28, 1980 (35)",NA,NA,England,Southampton FC,Premier League,2016/2017,2016
+NA,Goalkeeper,"Dec 20, 1997 (18)",NA,NA,England,Southampton FC,Premier League,2016/2017,2016
+17,Centre-Back,"Jul 8, 1991 (24)",NA,NA,Netherlands,Southampton FC,Premier League,2016/2017,2016
+12,Centre-Back,"Apr 7, 1987 (29)",NA,NA,Uruguay,Southampton FC,Premier League,2016/2017,2016
+NA,Centre-Back,"Dec 22, 1983 (32)",NA,NA,Portugal,Southampton FC,Premier League,2016/2017,2016
+5,Centre-Back,"Oct 29, 1988 (27)",NA,NA,Romania,Southampton FC,Premier League,2016/2017,2016
+3,Centre-Back,"Aug 24, 1988 (27)",NA,NA,Japan,Southampton FC,Premier League,2016/2017,2016
+24,Centre-Back,"Jan 27, 1994 (22)",NA,NA,England,Southampton FC,Premier League,2016/2017,2016
+21,Left-Back,"Aug 5, 1989 (26)",NA,NA,England,Southampton FC,Premier League,2016/2017,2016
+33,Left-Back,"Sep 18, 1995 (20)",NA,NA,England,Southampton FC,Premier League,2016/2017,2016
+38,Left-Back,"Feb 6, 1995 (21)",NA,NA,England,Southampton FC,Premier League,2016/2017,2016
+2,Right-Back,"Aug 31, 1991 (24)",NA,NA,Portugal,Southampton FC,Premier League,2016/2017,2016
+26,Right-Back,"Feb 23, 1989 (27)",NA,NA,France,Southampton FC,Premier League,2016/2017,2016
+15,Right-Back,"Sep 25, 1989 (26)",NA,NA,Curacao,Southampton FC,Premier League,2016/2017,2016
+4,Defensive Midfield,"Jun 27, 1991 (25)",NA,NA,Netherlands,Southampton FC,Premier League,2016/2017,2016
+14,Defensive Midfield,"Sep 24, 1991 (24)",NA,NA,Spain,Southampton FC,Premier League,2016/2017,2016
+16,Central Midfield,"Nov 1, 1994 (21)",NA,NA,England,Southampton FC,Premier League,2016/2017,2016
+8,Central Midfield,"Jan 1, 1985 (31)",NA,NA,Northern Ireland,Southampton FC,Premier League,2016/2017,2016
+23,Central Midfield,"Aug 5, 1995 (20)",NA,NA,Denmark,Southampton FC,Premier League,2016/2017,2016
+18,Central Midfield,"Jan 27, 1995 (21)",NA,NA,England,Southampton FC,Premier League,2016/2017,2016
+19,Attacking Midfield,"Sep 17, 1993 (22)",NA,NA,Morocco,Southampton FC,Premier League,2016/2017,2016
+NA,Attacking Midfield,"Mar 27, 1996 (20)",NA,NA,England,Southampton FC,Premier League,2016/2017,2016
+11,Left Winger,"Nov 20, 1988 (27)",NA,NA,Serbia,Southampton FC,Premier League,2016/2017,2016
+22,Left Winger,"Mar 6, 1994 (22)",NA,NA,England,Southampton FC,Premier League,2016/2017,2016
+27,Left Winger,"Jan 12, 1993 (23)",NA,NA,Wales,Southampton FC,Premier League,2016/2017,2016
+39,Right Winger,"Mar 28, 1997 (19)",NA,NA,England,Southampton FC,Premier League,2016/2017,2016
+20,Centre-Forward,"Nov 26, 1991 (24)",NA,NA,Italy,Southampton FC,Premier League,2016/2017,2016
+9,Centre-Forward,"Jul 29, 1989 (26)",NA,NA,England,Southampton FC,Premier League,2016/2017,2016
+10,Centre-Forward,"Jul 5, 1989 (26)",NA,NA,England,Southampton FC,Premier League,2016/2017,2016
+7,Centre-Forward,"Jan 22, 1987 (29)",NA,NA,Ireland,Southampton FC,Premier League,2016/2017,2016
+NA,Centre-Forward,"Sep 15, 1995 (20)",NA,NA,England,Southampton FC,Premier League,2016/2017,2016
+NA,Centre-Forward,"Sep 5, 1997 (18)",NA,NA,England,Southampton FC,Premier League,2016/2017,2016
+1,Goalkeeper,"Mar 10, 1993 (23)",NA,NA,England,Stoke City,Premier League,2016/2017,2016
+29,Goalkeeper,"May 1, 1992 (24)",NA,NA,Denmark,Stoke City,Premier League,2016/2017,2016
+24,Goalkeeper,"Apr 20, 1976 (40)",NA,NA,Ireland,Stoke City,Premier League,2016/2017,2016
+33,Goalkeeper,"Jan 27, 1983 (33)",NA,NA,England,Stoke City,Premier League,2016/2017,2016
+35,Goalkeeper,"Jul 9, 1994 (21)",NA,NA,Austria,Stoke City,Premier League,2016/2017,2016
+NA,Centre-Back,"Feb 8, 1992 (24)",NA,NA,Netherlands,Stoke City,Premier League,2016/2017,2016
+17,Centre-Back,"Oct 4, 1987 (28)",NA,NA,England,Stoke City,Premier League,2016/2017,2016
+NA,Centre-Back,"Mar 6, 1989 (27)",NA,NA,Germany,Stoke City,Premier League,2016/2017,2016
+5,Centre-Back,"Mar 27, 1992 (24)",NA,NA,Spain,Stoke City,Premier League,2016/2017,2016
+NA,Centre-Back,"Apr 15, 1997 (19)",NA,NA,Ireland,Stoke City,Premier League,2016/2017,2016
+3,Left-Back,"Aug 7, 1988 (27)",NA,NA,Netherlands,Stoke City,Premier League,2016/2017,2016
+NA,Left-Back,"Mar 24, 1996 (20)",NA,NA,England,Stoke City,Premier League,2016/2017,2016
+8,Right-Back,"Aug 23, 1984 (31)",NA,NA,England,Stoke City,Premier League,2016/2017,2016
+2,Right-Back,"Jun 28, 1985 (31)",NA,NA,Scotland,Stoke City,Premier League,2016/2017,2016
+NA,Right-Back,"Jan 22, 1999 (17)",NA,NA,England,Stoke City,Premier League,2016/2017,2016
+21,Defensive Midfield,"Sep 12, 1992 (23)",NA,NA,DR Congo,Stoke City,Premier League,2016/2017,2016
+6,Defensive Midfield,"Jan 13, 1984 (32)",NA,NA,Ireland,Stoke City,Premier League,2016/2017,2016
+20,Defensive Midfield,"Jul 11, 1985 (30)",NA,NA,United States,Stoke City,Premier League,2016/2017,2016
+4,Central Midfield,"Mar 14, 1990 (26)",NA,NA,Wales,Stoke City,Premier League,2016/2017,2016
+16,Central Midfield,"Dec 10, 1985 (30)",NA,NA,Scotland,Stoke City,Premier League,2016/2017,2016
+14,Left Midfield,"Apr 2, 1986 (30)",NA,NA,Netherlands,Stoke City,Premier League,2016/2017,2016
+7,Attacking Midfield,"Aug 22, 1986 (29)",NA,NA,Ireland,Stoke City,Premier League,2016/2017,2016
+32,Left Winger,"Jan 23, 1997 (19)",NA,NA,Egypt,Stoke City,Premier League,2016/2017,2016
+22,Right Winger,"Oct 10, 1991 (24)",NA,NA,Switzerland,Stoke City,Premier League,2016/2017,2016
+19,Right Winger,"Sep 20, 1983 (32)",NA,NA,Ireland,Stoke City,Premier League,2016/2017,2016
+NA,Right Winger,"Jul 9, 1999 (16)",NA,NA,Belgium,Stoke City,Premier League,2016/2017,2016
+NA,Second Striker,"Aug 28, 1990 (25)",NA,NA,Spain,Stoke City,Premier League,2016/2017,2016
+NA,Centre-Forward,"Dec 10, 1988 (27)",NA,NA,Cote d'Ivoire,Stoke City,Premier League,2016/2017,2016
+9,Centre-Forward,"Aug 4, 1993 (22)",NA,NA,Burundi,Stoke City,Premier League,2016/2017,2016
+10,Centre-Forward,"Apr 19, 1989 (27)",NA,NA,Austria,Stoke City,Premier League,2016/2017,2016
+18,Centre-Forward,"Dec 16, 1987 (28)",NA,NA,Senegal,Stoke City,Premier League,2016/2017,2016
+NA,Centre-Forward,"Mar 27, 1990 (26)",NA,NA,Spain,Stoke City,Premier League,2016/2017,2016
+25,Centre-Forward,"Jan 30, 1981 (35)",NA,NA,England,Stoke City,Premier League,2016/2017,2016
+NA,Centre-Forward,"Nov 2, 1997 (18)",NA,NA,Belgium,Stoke City,Premier League,2016/2017,2016
+30,Goalkeeper,"Feb 1, 1987 (29)",NA,NA,Romania,Watford FC,Premier League,2016/2017,2016
+34,Goalkeeper,"Dec 1, 1987 (28)",NA,NA,Lithuania,Watford FC,Premier League,2016/2017,2016
+1,Goalkeeper,"Feb 15, 1981 (35)",NA,NA,Brazil,Watford FC,Premier League,2016/2017,2016
+13,Goalkeeper,"May 31, 1987 (29)",NA,NA,Ireland,Watford FC,Premier League,2016/2017,2016
+27,Centre-Back,"Feb 24, 1991 (25)",NA,NA,Belgium,Watford FC,Premier League,2016/2017,2016
+5,Centre-Back,"Jun 21, 1987 (29)",NA,NA,Austria,Watford FC,Premier League,2016/2017,2016
+15,Centre-Back,"Feb 6, 1989 (27)",NA,NA,Northern Ireland,Watford FC,Premier League,2016/2017,2016
+3,Centre-Back,"Jul 17, 1985 (30)",NA,NA,Uruguay,Watford FC,Premier League,2016/2017,2016
+4,Centre-Back,"Jan 4, 1986 (30)",NA,NA,France,Watford FC,Premier League,2016/2017,2016
+6,Centre-Back,"Oct 3, 1986 (29)",NA,NA,Jamaica,Watford FC,Premier League,2016/2017,2016
+31,Centre-Back,"Jan 24, 1994 (22)",NA,NA,Ireland,Watford FC,Premier League,2016/2017,2016
+NA,Centre-Back,"Dec 14, 1997 (18)",NA,NA,England,Watford FC,Premier League,2016/2017,2016
+25,Left-Back,"Jun 27, 1984 (32)",NA,NA,Greece,Watford FC,Premier League,2016/2017,2016
+NA,Left-Back,"Sep 30, 1997 (18)",NA,NA,England,Watford FC,Premier League,2016/2017,2016
+22,Right-Back,"Jul 22, 1989 (26)",NA,NA,Netherlands,Watford FC,Premier League,2016/2017,2016
+NA,Right-Back,"May 10, 1988 (28)",NA,NA,Cameroon,Watford FC,Premier League,2016/2017,2016
+NA,Right-Back,"Jul 8, 1987 (28)",NA,NA,Ecuador,Watford FC,Premier League,2016/2017,2016
+NA,Right-Back,"Dec 14, 1985 (30)",NA,NA,Colombia,Watford FC,Premier League,2016/2017,2016
+NA,Right-Back,"Nov 8, 1997 (18)",NA,NA,England,Watford FC,Premier League,2016/2017,2016
+NA,Midfielder,"May 2, 1997 (19)",NA,NA,England,Watford FC,Premier League,2016/2017,2016
+29,Defensive Midfield,"Jul 11, 1988 (27)",NA,NA,France,Watford FC,Premier League,2016/2017,2016
+NA,Defensive Midfield,"Feb 26, 1988 (28)",NA,NA,Belgium,Watford FC,Premier League,2016/2017,2016
+26,Defensive Midfield,"Dec 23, 1990 (25)",NA,NA,Cote d'Ivoire,Watford FC,Premier League,2016/2017,2016
+11,Defensive Midfield,"Apr 19, 1985 (31)",NA,NA,Switzerland,Watford FC,Premier League,2016/2017,2016
+NA,Central Midfield,"Aug 12, 1989 (26)",NA,NA,England,Watford FC,Premier League,2016/2017,2016
+NA,Central Midfield,"Feb 24, 1987 (29)",NA,NA,Spain,Watford FC,Premier League,2016/2017,2016
+16,Central Midfield,"Jan 1, 1993 (23)",NA,NA,France,Watford FC,Premier League,2016/2017,2016
+23,Central Midfield,"Jul 9, 1985 (30)",NA,NA,England,Watford FC,Premier League,2016/2017,2016
+NA,Central Midfield,"Nov 12, 1985 (30)",NA,NA,Algeria,Watford FC,Premier League,2016/2017,2016
+37,Left Midfield,"Jan 7, 1991 (25)",NA,NA,Argentina,Watford FC,Premier League,2016/2017,2016
+NA,Left Midfield,"Feb 8, 1996 (20)",NA,NA,Brazil,Watford FC,Premier League,2016/2017,2016
+NA,Left Midfield,"Jan 3, 1988 (28)",NA,NA,Scotland,Watford FC,Premier League,2016/2017,2016
+NA,Forward,"Feb 25, 1998 (18)",NA,NA,England,Watford FC,Premier League,2016/2017,2016
+7,Left Winger,"Mar 31, 1987 (29)",NA,NA,Morocco,Watford FC,Premier League,2016/2017,2016
+10,Left Winger,"Jan 7, 1996 (20)",NA,NA,Nigeria,Watford FC,Premier League,2016/2017,2016
+NA,Left Winger,"Mar 25, 1999 (17)",NA,NA,England,Watford FC,Premier League,2016/2017,2016
+NA,Right Winger,"Dec 19, 1991 (24)",NA,NA,Netherlands,Watford FC,Premier League,2016/2017,2016
+20,Second Striker,"Mar 18, 1987 (29)",NA,NA,Argentina,Watford FC,Premier League,2016/2017,2016
+NA,Centre-Forward,"Jun 16, 1989 (27)",NA,NA,Nigeria,Watford FC,Premier League,2016/2017,2016
+NA,Centre-Forward,"Dec 19, 1994 (21)",NA,NA,Senegal,Watford FC,Premier League,2016/2017,2016
+9,Centre-Forward,"Jun 29, 1988 (28)",NA,NA,England,Watford FC,Premier League,2016/2017,2016
+33,Centre-Forward,"Aug 9, 1989 (26)",NA,NA,Italy,Watford FC,Premier League,2016/2017,2016
+NA,Centre-Forward,"Jan 8, 1996 (20)",NA,NA,Belgium,Watford FC,Premier League,2016/2017,2016
+NA,Centre-Forward,"May 1, 1992 (24)",NA,NA,Czech Republic,Watford FC,Premier League,2016/2017,2016
+NA,Centre-Forward,"Jun 14, 1984 (32)",NA,NA,Sweden,Watford FC,Premier League,2016/2017,2016
+19,Centre-Forward,"Sep 20, 1996 (19)",NA,NA,England,Watford FC,Premier League,2016/2017,2016
+21,Goalkeeper,"Feb 12, 1989 (27)",NA,NA,Germany,Leicester City,Premier League,2016/2017,2016
+1,Goalkeeper,"Nov 5, 1986 (29)",NA,NA,Denmark,Leicester City,Premier League,2016/2017,2016
+12,Goalkeeper,"Nov 20, 1987 (28)",NA,NA,England,Leicester City,Premier League,2016/2017,2016
+6,Centre-Back,"Aug 18, 1984 (31)",NA,NA,Germany,Leicester City,Premier League,2016/2017,2016
+29,Centre-Back,"Mar 28, 1987 (29)",NA,NA,Tunisia,Leicester City,Premier League,2016/2017,2016
+NA,Centre-Back,"Apr 14, 1989 (27)",NA,NA,Spain,Leicester City,Premier League,2016/2017,2016
+5,Centre-Back,"Jan 21, 1984 (32)",NA,NA,Jamaica,Leicester City,Premier League,2016/2017,2016
+NA,Centre-Back,"Feb 21, 1991 (25)",NA,NA,Mali,Leicester City,Premier League,2016/2017,2016
+27,Centre-Back,"Jun 9, 1980 (36)",NA,NA,Poland,Leicester City,Premier League,2016/2017,2016
+NA,Centre-Back,"Mar 16, 1997 (19)",NA,NA,England,Leicester City,Premier League,2016/2017,2016
+28,Left-Back,"Apr 7, 1986 (30)",NA,NA,Austria,Leicester City,Premier League,2016/2017,2016
+3,Left-Back,"Dec 21, 1996 (19)",NA,NA,England,Leicester City,Premier League,2016/2017,2016
+17,Right-Back,"Jan 4, 1987 (29)",NA,NA,England,Leicester City,Premier League,2016/2017,2016
+24,Defensive Midfield,"Jun 23, 1992 (24)",NA,NA,France,Leicester City,Premier League,2016/2017,2016
+13,Defensive Midfield,"Dec 21, 1994 (21)",NA,NA,Ghana,Leicester City,Premier League,2016/2017,2016
+25,Defensive Midfield,"Dec 16, 1996 (19)",NA,NA,Nigeria,Leicester City,Premier League,2016/2017,2016
+4,Central Midfield,"Mar 5, 1990 (26)",NA,NA,England,Leicester City,Premier League,2016/2017,2016
+10,Central Midfield,"Oct 29, 1988 (27)",NA,NA,Wales,Leicester City,Premier League,2016/2017,2016
+8,Central Midfield,"Jul 22, 1991 (24)",NA,NA,England,Leicester City,Premier League,2016/2017,2016
+11,Right Midfield,"Nov 18, 1989 (26)",NA,NA,England,Leicester City,Premier League,2016/2017,2016
+NA,Left Midfield,"Dec 23, 1992 (23)",NA,NA,Ghana,Leicester City,Premier League,2016/2017,2016
+14,Attacking Midfield,"Dec 23, 1996 (19)",NA,NA,Poland,Leicester City,Premier League,2016/2017,2016
+NA,Attacking Midfield,"Dec 9, 1997 (18)",NA,NA,England,Leicester City,Premier League,2016/2017,2016
+22,Left Winger,"Jun 28, 1996 (20)",NA,NA,England,Leicester City,Premier League,2016/2017,2016
+NA,Left Winger,"Jan 13, 1994 (22)",NA,NA,Wales,Leicester City,Premier League,2016/2017,2016
+26,Right Winger,"Feb 21, 1991 (25)",NA,NA,Algeria,Leicester City,Premier League,2016/2017,2016
+7,Centre-Forward,"Oct 14, 1992 (23)",NA,NA,Nigeria,Leicester City,Premier League,2016/2017,2016
+9,Centre-Forward,"Jan 11, 1987 (29)",NA,NA,England,Leicester City,Premier League,2016/2017,2016
+19,Centre-Forward,"Jun 18, 1988 (28)",NA,NA,Algeria,Leicester City,Premier League,2016/2017,2016
+20,Centre-Forward,"Apr 16, 1986 (30)",NA,NA,Japan,Leicester City,Premier League,2016/2017,2016
+23,Centre-Forward,"Jul 26, 1986 (29)",NA,NA,Argentina,Leicester City,Premier League,2016/2017,2016
+1,Goalkeeper,"Apr 18, 1985 (31)",NA,NA,Poland,Swansea City,Premier League,2016/2017,2016
+13,Goalkeeper,"Jun 23, 1989 (27)",NA,NA,Sweden,Swansea City,Premier League,2016/2017,2016
+25,Goalkeeper,"Nov 16, 1978 (37)",NA,NA,Germany,Swansea City,Premier League,2016/2017,2016
+19,Goalkeeper,"Apr 17, 1991 (25)",NA,NA,Australia,Swansea City,Premier League,2016/2017,2016
+33,Centre-Back,"Feb 21, 1989 (27)",NA,NA,Argentina,Swansea City,Premier League,2016/2017,2016
+2,Centre-Back,"Mar 21, 1992 (24)",NA,NA,Spain,Swansea City,Premier League,2016/2017,2016
+5,Centre-Back,"Oct 15, 1992 (23)",NA,NA,Netherlands,Swansea City,Premier League,2016/2017,2016
+NA,Centre-Back,"May 22, 1991 (25)",NA,NA,England,Swansea City,Premier League,2016/2017,2016
+6,Centre-Back,"Jan 19, 1994 (22)",NA,NA,England,Swansea City,Premier League,2016/2017,2016
+NA,Left-Back,"Feb 7, 1989 (27)",NA,NA,Wales,Swansea City,Premier League,2016/2017,2016
+NA,Left-Back,"Jan 30, 1989 (27)",NA,NA,France,Swansea City,Premier League,2016/2017,2016
+16,Left-Back,"May 17, 1988 (28)",NA,NA,Sweden,Swansea City,Premier League,2016/2017,2016
+35,Left-Back,"Jul 23, 1994 (21)",NA,NA,Scotland,Swansea City,Premier League,2016/2017,2016
+26,Right-Back,"Nov 11, 1988 (27)",NA,NA,England,Swansea City,Premier League,2016/2017,2016
+22,Right-Back,"Oct 28, 1982 (33)",NA,NA,Spain,Swansea City,Premier League,2016/2017,2016
+NA,Right-Back,"Sep 23, 1995 (20)",NA,NA,Wales,Swansea City,Premier League,2016/2017,2016
+4,Defensive Midfield,"Jan 24, 1989 (27)",NA,NA,"Korea, South",Swansea City,Premier League,2016/2017,2016
+24,Defensive Midfield,"Jun 25, 1989 (27)",NA,NA,England,Swansea City,Premier League,2016/2017,2016
+8,Central Midfield,"Jan 5, 1990 (26)",NA,NA,Netherlands,Swansea City,Premier League,2016/2017,2016
+42,Central Midfield,"May 28, 1992 (24)",NA,NA,England,Swansea City,Premier League,2016/2017,2016
+NA,Central Midfield,"Jul 15, 1995 (20)",NA,NA,England,Swansea City,Premier League,2016/2017,2016
+7,Central Midfield,"Sep 16, 1982 (33)",NA,NA,England,Swansea City,Premier League,2016/2017,2016
+56,Central Midfield,"Apr 4, 1994 (22)",NA,NA,Scotland,Swansea City,Premier League,2016/2017,2016
+23,Attacking Midfield,"Sep 8, 1989 (26)",NA,NA,Iceland,Swansea City,Premier League,2016/2017,2016
+20,Left Winger,"Sep 1, 1989 (26)",NA,NA,Ecuador,Swansea City,Premier League,2016/2017,2016
+15,Left Winger,"Jan 7, 1985 (31)",NA,NA,England,Swansea City,Premier League,2016/2017,2016
+NA,Left Winger,"Nov 10, 1997 (18)",NA,NA,Wales,Swansea City,Premier League,2016/2017,2016
+28,Right Winger,"Sep 13, 1990 (25)",NA,NA,Netherlands,Swansea City,Premier League,2016/2017,2016
+12,Right Winger,"Nov 29, 1987 (28)",NA,NA,England,Swansea City,Premier League,2016/2017,2016
+17,Right Winger,"Oct 13, 1992 (23)",NA,NA,The Gambia,Swansea City,Premier League,2016/2017,2016
+46,Right Winger,"Sep 29, 1994 (21)",NA,NA,Curacao,Swansea City,Premier League,2016/2017,2016
+NA,Centre-Forward,"Aug 6, 1985 (30)",NA,NA,France,Swansea City,Premier League,2016/2017,2016
+9,Centre-Forward,"Feb 26, 1985 (31)",NA,NA,Spain,Swansea City,Premier League,2016/2017,2016
+3,Centre-Forward,"Sep 11, 1991 (24)",NA,NA,Ghana,Swansea City,Premier League,2016/2017,2016
+10,Centre-Forward,"Aug 25, 1992 (23)",NA,NA,Spain,Swansea City,Premier League,2016/2017,2016
+11,Centre-Forward,"May 27, 1988 (28)",NA,NA,Netherlands,Swansea City,Premier League,2016/2017,2016
+62,Centre-Forward,"Jun 4, 1996 (20)",NA,NA,Scotland,Swansea City,Premier League,2016/2017,2016
+23,Goalkeeper,"Mar 5, 1985 (31)",NA,NA,Scotland,Hull City,Premier League,2016/2017,2016
+NA,Goalkeeper,"Jan 31, 1982 (34)",NA,NA,Scotland,Hull City,Premier League,2016/2017,2016
+NA,Goalkeeper,"May 21, 1985 (31)",NA,NA,Slovakia,Hull City,Premier League,2016/2017,2016
+16,Goalkeeper,"Oct 2, 1984 (31)",NA,NA,Switzerland,Hull City,Premier League,2016/2017,2016
+NA,Goalkeeper,"May 5, 1998 (18)",NA,NA,England,Hull City,Premier League,2016/2017,2016
+NA,Centre-Back,"Feb 16, 1988 (28)",NA,NA,Italy,Hull City,Premier League,2016/2017,2016
+6,Centre-Back,"Mar 15, 1985 (31)",NA,NA,England,Hull City,Premier League,2016/2017,2016
+21,Centre-Back,"Nov 18, 1983 (32)",NA,NA,England,Hull City,Premier League,2016/2017,2016
+5,Centre-Back,"Mar 5, 1993 (23)",NA,NA,England,Hull City,Premier League,2016/2017,2016
+NA,Centre-Back,"Sep 28, 1984 (31)",NA,NA,Northern Ireland,Hull City,Premier League,2016/2017,2016
+3,Left-Back,"Mar 11, 1994 (22)",NA,NA,Scotland,Hull City,Premier League,2016/2017,2016
+28,Left-Back,"May 22, 1999 (17)",NA,NA,England,Hull City,Premier League,2016/2017,2016
+NA,Right-Back,"Dec 5, 1991 (24)",NA,NA,Norway,Hull City,Premier League,2016/2017,2016
+2,Right-Back,"Jul 28, 1993 (22)",NA,NA,England,Hull City,Premier League,2016/2017,2016
+27,Right-Back,"Sep 9, 1987 (28)",NA,NA,Egypt,Hull City,Premier League,2016/2017,2016
+31,Right-Back,"Jun 8, 1994 (22)",NA,NA,Ireland,Hull City,Premier League,2016/2017,2016
+NA,Right-Back,"Sep 18, 1996 (19)",NA,NA,England,Hull City,Premier League,2016/2017,2016
+NA,Right-Back,"Oct 20, 1996 (19)",NA,NA,England,Hull City,Premier League,2016/2017,2016
+NA,Midfielder,"Sep 25, 1997 (18)",NA,NA,England,Hull City,Premier League,2016/2017,2016
+8,Defensive Midfield,"Dec 28, 1986 (29)",NA,NA,England,Hull City,Premier League,2016/2017,2016
+NA,Defensive Midfield,"Nov 14, 1989 (26)",NA,NA,England,Hull City,Premier League,2016/2017,2016
+NA,Defensive Midfield,"Mar 6, 1990 (26)",NA,NA,Senegal,Hull City,Premier League,2016/2017,2016
+25,Central Midfield,"Jun 13, 1991 (25)",NA,NA,England,Hull City,Premier League,2016/2017,2016
+22,Central Midfield,"Jul 25, 1992 (23)",NA,NA,Norway,Hull City,Premier League,2016/2017,2016
+7,Central Midfield,"May 29, 1989 (27)",NA,NA,Ireland,Hull City,Premier League,2016/2017,2016
+NA,Central Midfield,"Dec 10, 1997 (18)",NA,NA,England,Hull City,Premier League,2016/2017,2016
+NA,Right Midfield,"Feb 2, 1996 (20)",NA,NA,England,Hull City,Premier League,2016/2017,2016
+11,Left Midfield,"Sep 25, 1990 (25)",NA,NA,England,Hull City,Premier League,2016/2017,2016
+NA,Left Midfield,"Aug 4, 1995 (20)",NA,NA,England,Hull City,Premier League,2016/2017,2016
+40,Attacking Midfield,"Aug 23, 1986 (29)",NA,NA,Brazil,Hull City,Premier League,2016/2017,2016
+15,Attacking Midfield,"Jan 24, 1983 (33)",NA,NA,Scotland,Hull City,Premier League,2016/2017,2016
+NA,Forward,"Apr 6, 1995 (21)",NA,NA,England,Hull City,Premier League,2016/2017,2016
+17,Left Winger,"Jun 8, 1988 (28)",NA,NA,Poland,Hull City,Premier League,2016/2017,2016
+NA,Right Winger,"Mar 2, 1994 (22)",NA,NA,Serbia,Hull City,Premier League,2016/2017,2016
+NA,Right Winger,"Sep 7, 1987 (28)",NA,NA,Scotland,Hull City,Premier League,2016/2017,2016
+29,Right Winger,"Dec 20, 1996 (19)",NA,NA,England,Hull City,Premier League,2016/2017,2016
+NA,Centre-Forward,"Apr 18, 1990 (26)",NA,NA,Senegal,Hull City,Premier League,2016/2017,2016
+9,Centre-Forward,"Aug 8, 1990 (25)",NA,NA,Uruguay,Hull City,Premier League,2016/2017,2016
+NA,Centre-Forward,"Nov 22, 1985 (30)",NA,NA,DR Congo,Hull City,Premier League,2016/2017,2016
+20,Centre-Forward,"Feb 14, 1990 (26)",NA,NA,Norway,Hull City,Premier League,2016/2017,2016
+19,Centre-Forward,"Jan 11, 1993 (23)",NA,NA,England,Hull City,Premier League,2016/2017,2016
+32,Centre-Forward,"Dec 6, 1994 (21)",NA,NA,England,Hull City,Premier League,2016/2017,2016
+26,Goalkeeper,"Jan 14, 1982 (34)",NA,NA,Spain,Middlesbrough FC,Premier League,2016/2017,2016
+12,Goalkeeper,"Sep 9, 1984 (31)",NA,NA,United States,Middlesbrough FC,Premier League,2016/2017,2016
+NA,Goalkeeper,"Jan 30, 1989 (27)",NA,NA,Spain,Middlesbrough FC,Premier League,2016/2017,2016
+NA,Goalkeeper,"Feb 13, 1993 (23)",NA,NA,England,Middlesbrough FC,Premier League,2016/2017,2016
+1,Goalkeeper,"Nov 29, 1978 (37)",NA,NA,Greece,Middlesbrough FC,Premier League,2016/2017,2016
+NA,Centre-Back,"Jan 20, 1995 (21)",NA,NA,England,Middlesbrough FC,Premier League,2016/2017,2016
+5,Centre-Back,"Jul 11, 1989 (26)",NA,NA,Colombia,Middlesbrough FC,Premier League,2016/2017,2016
+6,Centre-Back,"Jan 15, 1993 (23)",NA,NA,England,Middlesbrough FC,Premier League,2016/2017,2016
+4,Centre-Back,"Nov 7, 1990 (25)",NA,NA,Spain,Middlesbrough FC,Premier League,2016/2017,2016
+22,Centre-Back,"Aug 30, 1997 (18)",NA,NA,England,Middlesbrough FC,Premier League,2016/2017,2016
+3,Left-Back,"Oct 19, 1987 (28)",NA,NA,England,Middlesbrough FC,Premier League,2016/2017,2016
+40,Left-Back,"Jan 3, 1994 (22)",NA,NA,England,Middlesbrough FC,Premier League,2016/2017,2016
+17,Right-Back,"Jun 12, 1987 (29)",NA,NA,Spain,Middlesbrough FC,Premier League,2016/2017,2016
+2,Right-Back,"Jul 9, 1990 (25)",NA,NA,Brazil,Middlesbrough FC,Premier League,2016/2017,2016
+NA,Right-Back,"Sep 30, 1989 (26)",NA,NA,Equatorial Guinea,Middlesbrough FC,Premier League,2016/2017,2016
+15,Right-Back,"Jan 31, 1986 (30)",NA,NA,England,Middlesbrough FC,Premier League,2016/2017,2016
+8,Defensive Midfield,"Jan 14, 1989 (27)",NA,NA,England,Middlesbrough FC,Premier League,2016/2017,2016
+23,Defensive Midfield,"Dec 23, 1994 (21)",NA,NA,Belgium,Middlesbrough FC,Premier League,2016/2017,2016
+14,Central Midfield,"Mar 29, 1991 (25)",NA,NA,Netherlands,Middlesbrough FC,Premier League,2016/2017,2016
+34,Central Midfield,"Oct 8, 1991 (24)",NA,NA,England,Middlesbrough FC,Premier League,2016/2017,2016
+7,Central Midfield,"Jan 7, 1986 (30)",NA,NA,England,Middlesbrough FC,Premier League,2016/2017,2016
+27,Central Midfield,"Nov 12, 1985 (30)",NA,NA,Algeria,Middlesbrough FC,Premier League,2016/2017,2016
+19,Left Midfield,"Jul 22, 1984 (31)",NA,NA,England,Middlesbrough FC,Premier League,2016/2017,2016
+NA,Left Midfield,"Feb 3, 1993 (23)",NA,NA,England,Middlesbrough FC,Premier League,2016/2017,2016
+21,Attacking Midfield,"Dec 2, 1990 (25)",NA,NA,Uruguay,Middlesbrough FC,Premier League,2016/2017,2016
+11,Left Winger,"Jun 9, 1994 (22)",NA,NA,Denmark,Middlesbrough FC,Premier League,2016/2017,2016
+NA,Left Winger,"Mar 11, 1992 (24)",NA,NA,Uruguay,Middlesbrough FC,Premier League,2016/2017,2016
+37,Right Winger,"Jan 25, 1996 (20)",NA,NA,Spain,Middlesbrough FC,Premier League,2016/2017,2016
+NA,Right Winger,"Dec 13, 1987 (28)",NA,NA,Ghana,Middlesbrough FC,Premier League,2016/2017,2016
+NA,Centre-Forward,"Feb 5, 1990 (26)",NA,NA,Scotland,Middlesbrough FC,Premier League,2016/2017,2016
+NA,Centre-Forward,"Aug 20, 1985 (30)",NA,NA,Spain,Middlesbrough FC,Premier League,2016/2017,2016
+29,Centre-Forward,"Oct 10, 1988 (27)",NA,NA,Benin,Middlesbrough FC,Premier League,2016/2017,2016
+20,Centre-Forward,"Sep 5, 1993 (22)",NA,NA,England,Middlesbrough FC,Premier League,2016/2017,2016
+18,Centre-Forward,"Oct 12, 1986 (29)",NA,NA,Uruguay,Middlesbrough FC,Premier League,2016/2017,2016
+NA,Centre-Forward,"May 2, 1985 (31)",NA,NA,England,Middlesbrough FC,Premier League,2016/2017,2016
+1,Goalkeeper,"Apr 3, 1983 (33)",NA,NA,England,West Bromwich Albion,Premier League,2016/2017,2016
+13,Goalkeeper,"Nov 9, 1982 (33)",NA,NA,Wales,West Bromwich Albion,Premier League,2016/2017,2016
+38,Goalkeeper,"Jan 31, 1995 (21)",NA,NA,England,West Bromwich Albion,Premier League,2016/2017,2016
+NA,Goalkeeper,"Aug 10, 1996 (19)",NA,NA,England,West Bromwich Albion,Premier League,2016/2017,2016
+6,Centre-Back,"Jan 3, 1988 (28)",NA,NA,Northern Ireland,West Bromwich Albion,Premier League,2016/2017,2016
+25,Centre-Back,"May 6, 1990 (26)",NA,NA,England,West Bromwich Albion,Premier League,2016/2017,2016
+NA,Centre-Back,"Aug 17, 1987 (28)",NA,NA,Ireland,West Bromwich Albion,Premier League,2016/2017,2016
+NA,Centre-Back,"Mar 10, 1983 (33)",NA,NA,Sweden,West Bromwich Albion,Premier League,2016/2017,2016
+23,Centre-Back,"Dec 5, 1979 (36)",NA,NA,Northern Ireland,West Bromwich Albion,Premier League,2016/2017,2016
+NA,Left-Back,"Mar 17, 1996 (20)",NA,NA,England,West Bromwich Albion,Premier League,2016/2017,2016
+NA,Left-Back,"Aug 1, 1987 (28)",NA,NA,Belgium,West Bromwich Albion,Premier League,2016/2017,2016
+2,Right-Back,"May 10, 1988 (28)",NA,NA,Cameroon,West Bromwich Albion,Premier League,2016/2017,2016
+NA,Right-Back,"Mar 11, 2000 (16)",NA,NA,England,West Bromwich Albion,Premier League,2016/2017,2016
+8,Defensive Midfield,"Nov 14, 1989 (26)",NA,NA,England,West Bromwich Albion,Premier League,2016/2017,2016
+5,Defensive Midfield,"Jul 18, 1987 (28)",NA,NA,Argentina,West Bromwich Albion,Premier League,2016/2017,2016
+7,Central Midfield,"May 25, 1986 (30)",NA,NA,Scotland,West Bromwich Albion,Premier League,2016/2017,2016
+NA,Central Midfield,"Nov 25, 1986 (29)",NA,NA,England,West Bromwich Albion,Premier League,2016/2017,2016
+24,Central Midfield,"Feb 1, 1984 (32)",NA,NA,Scotland,West Bromwich Albion,Premier League,2016/2017,2016
+NA,Central Midfield,"Mar 8, 2000 (16)",NA,NA,England,West Bromwich Albion,Premier League,2016/2017,2016
+47,Central Midfield,"May 8, 1998 (18)",NA,NA,England,West Bromwich Albion,Premier League,2016/2017,2016
+11,Left Midfield,"Dec 14, 1984 (31)",NA,NA,Northern Ireland,West Bromwich Albion,Premier League,2016/2017,2016
+22,Left Winger,"Aug 2, 1989 (26)",NA,NA,Belgium,West Bromwich Albion,Premier League,2016/2017,2016
+14,Left Winger,"Apr 22, 1989 (27)",NA,NA,Ireland,West Bromwich Albion,Premier League,2016/2017,2016
+4,Left Winger,"May 21, 1989 (27)",NA,NA,Wales,West Bromwich Albion,Premier League,2016/2017,2016
+10,Right Winger,"Mar 13, 1991 (25)",NA,NA,Scotland,West Bromwich Albion,Premier League,2016/2017,2016
+19,Right Winger,"Apr 25, 1991 (25)",NA,NA,England,West Bromwich Albion,Premier League,2016/2017,2016
+45,Right Winger,"Apr 24, 1999 (17)",NA,NA,England,West Bromwich Albion,Premier League,2016/2017,2016
+NA,Centre-Forward,"Aug 4, 1993 (22)",NA,NA,Burundi,West Bromwich Albion,Premier League,2016/2017,2016
+9,Centre-Forward,"Sep 16, 1989 (26)",NA,NA,Venezuela,West Bromwich Albion,Premier League,2016/2017,2016
+NA,Centre-Forward,"Feb 16, 1982 (34)",NA,NA,England,West Bromwich Albion,Premier League,2016/2017,2016
+1,Goalkeeper,"Mar 2, 1988 (28)",NA,NA,Italy,Sunderland AFC,Premier League,2016/2017,2016
+12,Goalkeeper,"Mar 8, 1991 (25)",NA,NA,Portugal,Sunderland AFC,Premier League,2016/2017,2016
+13,Goalkeeper,"Mar 7, 1994 (22)",NA,NA,England,Sunderland AFC,Premier League,2016/2017,2016
+NA,Goalkeeper,"Jul 18, 1996 (19)",NA,NA,Poland,Sunderland AFC,Premier League,2016/2017,2016
+23,Centre-Back,"Feb 1, 1989 (27)",NA,NA,Cote d'Ivoire,Sunderland AFC,Premier League,2016/2017,2016
+NA,Centre-Back,"Jun 28, 1995 (21)",NA,NA,Belgium,Sunderland AFC,Premier League,2016/2017,2016
+5,Centre-Back,"Dec 1, 1988 (27)",NA,NA,Senegal,Sunderland AFC,Premier League,2016/2017,2016
+NA,Centre-Back,"Jan 4, 1986 (30)",NA,NA,France,Sunderland AFC,Premier League,2016/2017,2016
+15,Centre-Back,"Aug 16, 1982 (33)",NA,NA,England,Sunderland AFC,Premier League,2016/2017,2016
+16,Centre-Back,"Apr 30, 1981 (35)",NA,NA,Ireland,Sunderland AFC,Premier League,2016/2017,2016
+NA,Centre-Back,"Aug 15, 1997 (18)",NA,NA,England,Sunderland AFC,Premier League,2016/2017,2016
+NA,Left-Back,"Aug 29, 1990 (25)",NA,NA,Netherlands,Sunderland AFC,Premier League,2016/2017,2016
+3,Left-Back,"Feb 18, 1990 (26)",NA,NA,Costa Rica,Sunderland AFC,Premier League,2016/2017,2016
+NA,Left-Back,"Sep 11, 1995 (20)",NA,NA,England,Sunderland AFC,Premier League,2016/2017,2016
+NA,Right-Back,"May 5, 1994 (22)",NA,NA,Spain,Sunderland AFC,Premier League,2016/2017,2016
+NA,Right-Back,"Jan 13, 1992 (24)",NA,NA,Wales,Sunderland AFC,Premier League,2016/2017,2016
+2,Right-Back,"Mar 24, 1987 (29)",NA,NA,England,Sunderland AFC,Premier League,2016/2017,2016
+NA,Right-Back,"Feb 3, 1998 (18)",NA,NA,England,Sunderland AFC,Premier League,2016/2017,2016
+22,Right-Back,"Dec 2, 1994 (21)",NA,NA,Scotland,Sunderland AFC,Premier League,2016/2017,2016
+8,Defensive Midfield,"Mar 11, 1991 (25)",NA,NA,England,Sunderland AFC,Premier League,2016/2017,2016
+19,Defensive Midfield,"Apr 27, 1995 (21)",NA,NA,Northern Ireland,Sunderland AFC,Premier League,2016/2017,2016
+6,Defensive Midfield,"Mar 21, 1988 (28)",NA,NA,England,Sunderland AFC,Premier League,2016/2017,2016
+27,Defensive Midfield,"Oct 1, 1990 (25)",NA,NA,Germany,Sunderland AFC,Premier League,2016/2017,2016
+17,Central Midfield,"Jun 17, 1994 (22)",NA,NA,Gabon,Sunderland AFC,Premier League,2016/2017,2016
+7,Central Midfield,"Jun 6, 1985 (31)",NA,NA,Sweden,Sunderland AFC,Premier League,2016/2017,2016
+24,Central Midfield,"Oct 25, 1987 (28)",NA,NA,Ireland,Sunderland AFC,Premier League,2016/2017,2016
+NA,Central Midfield,"Oct 25, 1996 (19)",NA,NA,England,Sunderland AFC,Premier League,2016/2017,2016
+NA,Central Midfield,"Apr 2, 1999 (17)",NA,NA,England,Sunderland AFC,Premier League,2016/2017,2016
+10,Attacking Midfield,"Feb 8, 1991 (25)",NA,NA,Tunisia,Sunderland AFC,Premier League,2016/2017,2016
+39,Attacking Midfield,"Sep 8, 1994 (21)",NA,NA,England,Sunderland AFC,Premier League,2016/2017,2016
+9,Left Winger,"Mar 29, 1991 (25)",NA,NA,Italy,Sunderland AFC,Premier League,2016/2017,2016
+20,Left Winger,"Mar 17, 1982 (34)",NA,NA,South Africa,Sunderland AFC,Premier League,2016/2017,2016
+NA,Left Winger,"Dec 10, 1996 (19)",NA,NA,England,Sunderland AFC,Premier League,2016/2017,2016
+NA,Right Winger,"Nov 24, 1987 (28)",NA,NA,Netherlands,Sunderland AFC,Premier League,2016/2017,2016
+NA,Right Winger,"Feb 5, 1995 (21)",NA,NA,Belgium,Sunderland AFC,Premier League,2016/2017,2016
+NA,Right Winger,"Nov 21, 1989 (26)",NA,NA,England,Sunderland AFC,Premier League,2016/2017,2016
+14,Right Winger,"Mar 8, 1994 (22)",NA,NA,England,Sunderland AFC,Premier League,2016/2017,2016
+46,Right Winger,"Dec 24, 1995 (20)",NA,NA,United States,Sunderland AFC,Premier League,2016/2017,2016
+18,Centre-Forward,"Oct 7, 1982 (33)",NA,NA,England,Sunderland AFC,Premier League,2016/2017,2016
+28,Centre-Forward,"Apr 23, 1988 (28)",NA,NA,Nigeria,Sunderland AFC,Premier League,2016/2017,2016
+NA,Centre-Forward,"Apr 27, 1999 (17)",NA,NA,Sweden,Sunderland AFC,Premier League,2016/2017,2016
+NA,Centre-Forward,"Dec 27, 1998 (17)",NA,NA,England,Sunderland AFC,Premier League,2016/2017,2016
+1,Goalkeeper,"Feb 20, 1980 (36)",NA,NA,Poland,AFC Bournemouth,Premier League,2016/2017,2016
+23,Goalkeeper,"Jan 31, 1985 (31)",NA,NA,Australia,AFC Bournemouth,Premier League,2016/2017,2016
+21,Goalkeeper,"Jun 17, 1992 (24)",NA,NA,England,AFC Bournemouth,Premier League,2016/2017,2016
+NA,Goalkeeper,"May 8, 1997 (19)",NA,NA,Australia,AFC Bournemouth,Premier League,2016/2017,2016
+12,Goalkeeper,"May 14, 1998 (18)",NA,NA,England,AFC Bournemouth,Premier League,2016/2017,2016
+26,Centre-Back,"Mar 13, 1993 (23)",NA,NA,England,AFC Bournemouth,Premier League,2016/2017,2016
+NA,Centre-Back,"Feb 18, 1995 (21)",NA,NA,Netherlands,AFC Bournemouth,Premier League,2016/2017,2016
+3,Centre-Back,"Apr 19, 1991 (25)",NA,NA,England,AFC Bournemouth,Premier League,2016/2017,2016
+20,Centre-Back,"Aug 17, 1987 (28)",NA,NA,Ireland,AFC Bournemouth,Premier League,2016/2017,2016
+38,Centre-Back,"Oct 13, 1995 (20)",NA,NA,England,AFC Bournemouth,Premier League,2016/2017,2016
+NA,Centre-Back,"Jan 8, 1997 (19)",NA,NA,England,AFC Bournemouth,Premier League,2016/2017,2016
+NA,Centre-Back,"Mar 4, 1999 (17)",NA,NA,England,AFC Bournemouth,Premier League,2016/2017,2016
+11,Left-Back,"Sep 7, 1986 (29)",NA,NA,England,AFC Bournemouth,Premier League,2016/2017,2016
+29,Left-Back,"Nov 4, 1987 (28)",NA,NA,Wales,AFC Bournemouth,Premier League,2016/2017,2016
+14,Left-Back,"Apr 9, 1994 (22)",NA,NA,Australia,AFC Bournemouth,Premier League,2016/2017,2016
+NA,Left-Back,"Jan 12, 1996 (20)",NA,NA,England,AFC Bournemouth,Premier League,2016/2017,2016
+2,Right-Back,"Feb 16, 1985 (31)",NA,NA,England,AFC Bournemouth,Premier League,2016/2017,2016
+15,Right-Back,"Apr 29, 1991 (25)",NA,NA,England,AFC Bournemouth,Premier League,2016/2017,2016
+NA,Right-Back,"Dec 31, 1996 (19)",NA,NA,England,AFC Bournemouth,Premier League,2016/2017,2016
+NA,Central Midfield,"Jan 1, 1992 (24)",NA,NA,England,AFC Bournemouth,Premier League,2016/2017,2016
+18,Central Midfield,"Feb 3, 1997 (19)",NA,NA,England,AFC Bournemouth,Premier League,2016/2017,2016
+4,Central Midfield,"Feb 1, 1990 (26)",NA,NA,England,AFC Bournemouth,Premier League,2016/2017,2016
+NA,Central Midfield,"Jul 10, 1990 (25)",NA,NA,Ireland,AFC Bournemouth,Premier League,2016/2017,2016
+6,Central Midfield,"Aug 20, 1986 (29)",NA,NA,England,AFC Bournemouth,Premier League,2016/2017,2016
+8,Central Midfield,"Dec 28, 1989 (26)",NA,NA,Ireland,AFC Bournemouth,Premier League,2016/2017,2016
+NA,Central Midfield,"Apr 7, 1996 (20)",NA,NA,United States,AFC Bournemouth,Premier League,2016/2017,2016
+NA,Central Midfield,"Dec 18, 1997 (18)",NA,NA,England,AFC Bournemouth,Premier League,2016/2017,2016
+NA,Right Midfield,"Nov 30, 1999 (16)",NA,NA,England,AFC Bournemouth,Premier League,2016/2017,2016
+NA,Left Midfield,"Jan 9, 1998 (18)",NA,NA,England,AFC Bournemouth,Premier League,2016/2017,2016
+10,Left Winger,"Nov 30, 1987 (28)",NA,NA,Cote d'Ivoire,AFC Bournemouth,Premier League,2016/2017,2016
+19,Left Winger,"Nov 26, 1989 (26)",NA,NA,England,AFC Bournemouth,Premier League,2016/2017,2016
+7,Left Winger,"Apr 2, 1987 (29)",NA,NA,England,AFC Bournemouth,Premier League,2016/2017,2016
+24,Left Winger,"Feb 24, 1994 (22)",NA,NA,Scotland,AFC Bournemouth,Premier League,2016/2017,2016
+33,Right Winger,"Dec 8, 1995 (20)",NA,NA,England,AFC Bournemouth,Premier League,2016/2017,2016
+NA,Right Winger,"Apr 9, 1995 (21)",NA,NA,England,AFC Bournemouth,Premier League,2016/2017,2016
+17,Second Striker,"Jan 15, 1992 (24)",NA,NA,Norway,AFC Bournemouth,Premier League,2016/2017,2016
+9,Centre-Forward,"Feb 12, 1993 (23)",NA,NA,DR Congo,AFC Bournemouth,Premier League,2016/2017,2016
+13,Centre-Forward,"Feb 27, 1992 (24)",NA,NA,England,AFC Bournemouth,Premier League,2016/2017,2016
+28,Centre-Forward,"Jan 12, 1988 (28)",NA,NA,Jamaica,AFC Bournemouth,Premier League,2016/2017,2016
+31,Centre-Forward,"Feb 8, 1996 (20)",NA,NA,France,AFC Bournemouth,Premier League,2016/2017,2016
+NA,Centre-Forward,"Jul 28, 1998 (17)",NA,NA,England,AFC Bournemouth,Premier League,2016/2017,2016
+1,Goalkeeper,"Apr 15, 1986 (30)",NA,NA,England,Burnley FC,Premier League,2016/2017,2016
+17,Goalkeeper,"Oct 15, 1979 (36)",NA,NA,England,Burnley FC,Premier League,2016/2017,2016
+29,Goalkeeper,"Apr 19, 1992 (24)",NA,NA,England,Burnley FC,Premier League,2016/2017,2016
+5,Centre-Back,"Jan 11, 1993 (23)",NA,NA,England,Burnley FC,Premier League,2016/2017,2016
+6,Centre-Back,"Sep 21, 1989 (26)",NA,NA,England,Burnley FC,Premier League,2016/2017,2016
+26,Centre-Back,"Nov 19, 1992 (23)",NA,NA,England,Burnley FC,Premier League,2016/2017,2016
+28,Centre-Back,"Aug 18, 1990 (25)",NA,NA,Ireland,Burnley FC,Premier League,2016/2017,2016
+NA,Centre-Back,"Sep 2, 1993 (22)",NA,NA,England,Burnley FC,Premier League,2016/2017,2016
+23,Left-Back,"Aug 20, 1985 (30)",NA,NA,Ireland,Burnley FC,Premier League,2016/2017,2016
+NA,Left-Back,"May 18, 1989 (27)",NA,NA,Northern Ireland,Burnley FC,Premier League,2016/2017,2016
+NA,Right-Back,"Jan 1, 1993 (23)",NA,NA,England,Burnley FC,Premier League,2016/2017,2016
+2,Right-Back,"Jun 9, 1989 (27)",NA,NA,England,Burnley FC,Premier League,2016/2017,2016
+27,Right-Back,"Dec 13, 1991 (24)",NA,NA,Zimbabwe,Burnley FC,Premier League,2016/2017,2016
+21,Midfielder,"Oct 2, 1985 (30)",NA,NA,Scotland,Burnley FC,Premier League,2016/2017,2016
+18,Defensive Midfield,"Apr 1, 1990 (26)",NA,NA,England,Burnley FC,Premier League,2016/2017,2016
+16,Central Midfield,"Apr 15, 1988 (28)",NA,NA,Belgium,Burnley FC,Premier League,2016/2017,2016
+NA,Central Midfield,"Nov 4, 1984 (31)",NA,NA,England,Burnley FC,Premier League,2016/2017,2016
+8,Central Midfield,"Jan 31, 1984 (32)",NA,NA,England,Burnley FC,Premier League,2016/2017,2016
+13,Central Midfield,"Jan 31, 1992 (24)",NA,NA,Ireland,Burnley FC,Premier League,2016/2017,2016
+19,Central Midfield,"Sep 2, 1982 (33)",NA,NA,England,Burnley FC,Premier League,2016/2017,2016
+20,Central Midfield,"May 19, 1992 (24)",NA,NA,Norway,Burnley FC,Premier League,2016/2017,2016
+NA,Central Midfield,"Jul 4, 1998 (17)",NA,NA,Australia,Burnley FC,Premier League,2016/2017,2016
+12,Left Midfield,"Jan 14, 1992 (24)",NA,NA,Ireland,Burnley FC,Premier League,2016/2017,2016
+37,Left Midfield,"Nov 1, 1988 (27)",NA,NA,Canada,Burnley FC,Premier League,2016/2017,2016
+NA,Forward,"Oct 20, 1996 (19)",NA,NA,England,Burnley FC,Premier League,2016/2017,2016
+11,Left Winger,"Jan 24, 1986 (30)",NA,NA,England,Burnley FC,Premier League,2016/2017,2016
+25,Right Winger,"Oct 27, 1990 (25)",NA,NA,Iceland,Burnley FC,Premier League,2016/2017,2016
+7,Centre-Forward,"Jun 26, 1991 (25)",NA,NA,England,Burnley FC,Premier League,2016/2017,2016
+NA,Centre-Forward,"Sep 5, 1993 (22)",NA,NA,England,Burnley FC,Premier League,2016/2017,2016
+9,Centre-Forward,"Oct 21, 1989 (26)",NA,NA,Wales,Burnley FC,Premier League,2016/2017,2016
+10,Centre-Forward,"Oct 30, 1989 (26)",NA,NA,England,Burnley FC,Premier League,2016/2017,2016
+NA,Centre-Forward,"Aug 28, 1987 (28)",NA,NA,Germany,Burnley FC,Premier League,2016/2017,2016
+NA,Centre-Forward,"Feb 25, 1995 (21)",NA,NA,England,Burnley FC,Premier League,2016/2017,2016
+NA,Centre-Forward,"Mar 28, 1989 (27)",NA,NA,England,Burnley FC,Premier League,2016/2017,2016
+NA,Centre-Forward,"Jun 1, 1997 (19)",NA,NA,England,Burnley FC,Premier League,2016/2017,2016
+NA,Centre-Forward,"Nov 30, 1996 (19)",NA,NA,England,Burnley FC,Premier League,2016/2017,2016

@@ -1,8 +1,8 @@
 squads
 ================
 
-Data on European football clubs' playing squads, through 2017/18 to 2018/19 seasons (as found on
-[Transfermarkt](https://www.transfermarkt.co.uk/).
+Data on European football clubs' playing squads, seasons 2004/05 through 2018/19 (as found on
+[Transfermarkt](https://www.transfermarkt.co.uk/)).
 
 Data
 ----
@@ -21,9 +21,8 @@ Squads can be found in the `data` directory, in .csv format. There's a sub-direc
 
 Common variables:
 
-  - `shirt_number` (shirt no.)
-  - `position` (preferred position)
   - `player_name` (player name)
+  - `position` (preferred position)
   - `date_of_birth` (date of birth)
   - `age` (age, at time of scrape)
   - `nationality` (primary nationality)
@@ -31,7 +30,6 @@ Common variables:
   - `league_name` (league of player)
   - `season` (season, interpolated from `year`)
   - `year` (year)
-
 
 Code
 ----

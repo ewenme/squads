@@ -2,7 +2,7 @@
 # setup -------------------------------------------------------------------
 
 # load functions / packages
-source("./src/00-setup.R")
+source("src/00-setup.R")
 
 # set league urls to scrape
 league_meta <- tibble(
@@ -10,13 +10,13 @@ league_meta <- tibble(
     "GB1", "ES1", "L1", "IT1", "FR1", "GB2", "PO1", "NL1", "RU1"
     ),
   league_name = c(
-    "premier-league", "primera-division", "1-bundesliga", "serie-a", 
+    "premier-league", "primera-division", "1-bundesliga", "serie-a",
     "ligue-1", "championship", "liga-nos", "eredivisie", "premier-liga"
     )
 )
 
 # seasons to scrape
-seasons <- 1992:2016
+seasons <- 2005:2018
 
 # create directory tree
 fs::dir_create(path = file.path("data", seasons))
@@ -29,7 +29,7 @@ squads <- map2(league_meta$league_id, league_meta$league_name, function(x, y){
   league_name_edit <- gsub("-", "_", y)
   
   # scrape data
-  map(seasons, function(z) {
+  lapply(seasons, function(z) {
     
     data <- scrape_league_squads(league_id = x, league_name = y, season_id = z)
     

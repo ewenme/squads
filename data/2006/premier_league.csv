@@ -1,0 +1,719 @@
+shirt_number,position,player_name,date_of_birth,age,nationality,club_name,league_name,season,year
+1,Goalkeeper,"May 20, 1982 (24)",NA,NA,Czech Republic,Chelsea FC,Premier League,2006/2007,2006
+23,Goalkeeper,"Sep 6, 1973 (32)",NA,NA,Italy,Chelsea FC,Premier League,2006/2007,2006
+22,Goalkeeper,"Mar 19, 1973 (33)",NA,NA,Sweden,Chelsea FC,Premier League,2006/2007,2006
+40,Goalkeeper,"Oct 21, 1975 (30)",NA,NA,Portugal,Chelsea FC,Premier League,2006/2007,2006
+41,Goalkeeper,"Jan 31, 1986 (20)",NA,NA,DR Congo,Chelsea FC,Premier League,2006/2007,2006
+52,Goalkeeper,"Apr 7, 1990 (16)",NA,NA,Wales,Chelsea FC,Premier League,2006/2007,2006
+26,Centre-Back,"Dec 7, 1980 (25)",NA,NA,England,Chelsea FC,Premier League,2006/2007,2006
+6,Centre-Back,"May 18, 1978 (28)",NA,NA,Portugal,Chelsea FC,Premier League,2006/2007,2006
+3,Centre-Back,"Aug 17, 1977 (28)",NA,NA,France,Chelsea FC,Premier League,2006/2007,2006
+9,Centre-Back,"Dec 28, 1981 (24)",NA,NA,Netherlands,Chelsea FC,Premier League,2006/2007,2006
+29,Centre-Back,"Aug 18, 1984 (21)",NA,NA,Germany,Chelsea FC,Premier League,2006/2007,2006
+44,Centre-Back,"Jan 8, 1988 (18)",NA,NA,England,Chelsea FC,Premier League,2006/2007,2006
+3,Left-Back,"Dec 20, 1980 (25)",NA,NA,England,Chelsea FC,Premier League,2006/2007,2006
+18,Left-Back,"Aug 5, 1980 (25)",NA,NA,England,Chelsea FC,Premier League,2006/2007,2006
+42,Left-Back,"Feb 28, 1988 (18)",NA,NA,Switzerland,Chelsea FC,Premier League,2006/2007,2006
+43,Left-Back,"Aug 5, 1989 (16)",NA,NA,England,Chelsea FC,Premier League,2006/2007,2006
+20,Right-Back,"Jan 18, 1979 (27)",NA,NA,Portugal,Chelsea FC,Premier League,2006/2007,2006
+5,Defensive Midfield,"Dec 3, 1982 (23)",NA,NA,Ghana,Chelsea FC,Premier League,2006/2007,2006
+4,Defensive Midfield,"Feb 18, 1973 (33)",NA,NA,France,Chelsea FC,Premier League,2006/2007,2006
+19,Defensive Midfield,"Mar 10, 1985 (21)",NA,NA,France,Chelsea FC,Premier League,2006/2007,2006
+33,Defensive Midfield,"Jan 29, 1984 (22)",NA,NA,Portugal,Chelsea FC,Premier League,2006/2007,2006
+12,Defensive Midfield,"Apr 22, 1987 (19)",NA,NA,Nigeria,Chelsea FC,Premier League,2006/2007,2006
+51,Defensive Midfield,"Aug 3, 1989 (16)",NA,NA,England,Chelsea FC,Premier League,2006/2007,2006
+8,Central Midfield,"Jun 20, 1978 (28)",NA,NA,England,Chelsea FC,Premier League,2006/2007,2006
+13,Central Midfield,"Sep 26, 1976 (29)",NA,NA,Germany,Chelsea FC,Premier League,2006/2007,2006
+48,Central Midfield,"Apr 6, 1990 (16)",NA,NA,England,Chelsea FC,Premier League,2006/2007,2006
+46,Central Midfield,"Jan 7, 1987 (19)",NA,NA,England,Chelsea FC,Premier League,2006/2007,2006
+50,Central Midfield,"Sep 10, 1989 (16)",NA,NA,England,Chelsea FC,Premier League,2006/2007,2006
+14,Right Midfield,"Dec 20, 1978 (27)",NA,NA,Cameroon,Chelsea FC,Premier League,2006/2007,2006
+49,Left Midfield,"Mar 25, 1989 (17)",NA,NA,England,Chelsea FC,Premier League,2006/2007,2006
+10,Attacking Midfield,"Nov 8, 1981 (24)",NA,NA,England,Chelsea FC,Premier League,2006/2007,2006
+21,Left Winger,"Aug 5, 1985 (20)",NA,NA,Cote d'Ivoire,Chelsea FC,Premier League,2006/2007,2006
+16,Right Winger,"Jan 23, 1984 (22)",NA,NA,Netherlands,Chelsea FC,Premier League,2006/2007,2006
+24,Right Winger,"Oct 25, 1981 (24)",NA,NA,England,Chelsea FC,Premier League,2006/2007,2006
+7,Centre-Forward,"Sep 29, 1976 (29)",NA,NA,Ukraine,Chelsea FC,Premier League,2006/2007,2006
+11,Centre-Forward,"Mar 11, 1978 (28)",NA,NA,Cote d'Ivoire,Chelsea FC,Premier League,2006/2007,2006
+47,Centre-Forward,"Aug 10, 1989 (16)",NA,NA,Israel,Chelsea FC,Premier League,2006/2007,2006
+1,Goalkeeper,"Oct 29, 1970 (35)",NA,NA,Netherlands,Manchester United,Premier League,2006/2007,2006
+29,Goalkeeper,"Mar 20, 1982 (24)",NA,NA,Poland,Manchester United,Premier League,2006/2007,2006
+38,Goalkeeper,"Apr 15, 1986 (20)",NA,NA,England,Manchester United,Premier League,2006/2007,2006
+5,Centre-Back,"Nov 7, 1978 (27)",NA,NA,England,Manchester United,Premier League,2006/2007,2006
+4,Centre-Back,"Apr 19, 1978 (28)",NA,NA,Argentina,Manchester United,Premier League,2006/2007,2006
+15,Centre-Back,"Oct 21, 1981 (24)",NA,NA,Serbia,Manchester United,Premier League,2006/2007,2006
+27,Centre-Back,"Aug 9, 1977 (28)",NA,NA,France,Manchester United,Premier League,2006/2007,2006
+22,Centre-Back,"Apr 30, 1981 (25)",NA,NA,Ireland,Manchester United,Premier League,2006/2007,2006
+6,Centre-Back,"Oct 13, 1979 (26)",NA,NA,England,Manchester United,Premier League,2006/2007,2006
+NA,Centre-Back,"Oct 4, 1987 (18)",NA,NA,England,Manchester United,Premier League,2006/2007,2006
+4,Centre-Back,"Jan 3, 1988 (18)",NA,NA,Northern Ireland,Manchester United,Premier League,2006/2007,2006
+32,Centre-Back,"Feb 6, 1989 (17)",NA,NA,Northern Ireland,Manchester United,Premier League,2006/2007,2006
+3,Left-Back,"May 15, 1981 (25)",NA,NA,France,Manchester United,Premier League,2006/2007,2006
+23,Left-Back,"Oct 21, 1984 (21)",NA,NA,England,Manchester United,Premier League,2006/2007,2006
+40,Left-Back,"Sep 7, 1985 (20)",NA,NA,England,Manchester United,Premier League,2006/2007,2006
+2,Right-Back,"Feb 18, 1975 (31)",NA,NA,England,Manchester United,Premier League,2006/2007,2006
+25,Right-Back,"Jan 4, 1987 (19)",NA,NA,England,Manchester United,Premier League,2006/2007,2006
+36,Right-Back,"May 4, 1988 (18)",NA,NA,Scotland,Manchester United,Premier League,2006/2007,2006
+16,Defensive Midfield,"Jul 28, 1981 (24)",NA,NA,England,Manchester United,Premier League,2006/2007,2006
+41,Defensive Midfield,"Mar 7, 1987 (19)",NA,NA,Belgium,Manchester United,Premier League,2006/2007,2006
+35,Defensive Midfield,"Jun 22, 1988 (18)",NA,NA,England,Manchester United,Premier League,2006/2007,2006
+18,Central Midfield,"Nov 16, 1974 (31)",NA,NA,England,Manchester United,Premier League,2006/2007,2006
+14,Central Midfield,"Oct 28, 1980 (25)",NA,NA,England,Manchester United,Premier League,2006/2007,2006
+24,Central Midfield,"Feb 1, 1984 (22)",NA,NA,Scotland,Manchester United,Premier League,2006/2007,2006
+NA,Central Midfield,"Nov 4, 1984 (21)",NA,NA,England,Manchester United,Premier League,2006/2007,2006
+49,Central Midfield,"Sep 26, 1986 (19)",NA,NA,England,Manchester United,Premier League,2006/2007,2006
+11,Left Midfield,"Nov 29, 1973 (32)",NA,NA,Wales,Manchester United,Premier League,2006/2007,2006
+NA,Left Midfield,"Jun 24, 1988 (18)",NA,NA,England,Manchester United,Premier League,2006/2007,2006
+13,Attacking Midfield,"Feb 25, 1981 (25)",NA,NA,"Korea, South",Manchester United,Premier League,2006/2007,2006
+30,Attacking Midfield,"Feb 9, 1987 (19)",NA,NA,England,Manchester United,Premier League,2006/2007,2006
+7,Left Winger,"Feb 5, 1985 (21)",NA,NA,Portugal,Manchester United,Premier League,2006/2007,2006
+33,Right Winger,"Nov 19, 1985 (20)",NA,NA,England,Manchester United,Premier League,2006/2007,2006
+20,Second Striker,"Feb 26, 1973 (33)",NA,NA,Norway,Manchester United,Premier League,2006/2007,2006
+8,Centre-Forward,"Oct 24, 1985 (20)",NA,NA,England,Manchester United,Premier League,2006/2007,2006
+9,Centre-Forward,"Aug 8, 1978 (27)",NA,NA,France,Manchester United,Premier League,2006/2007,2006
+17,Centre-Forward,"Sep 20, 1971 (34)",NA,NA,Sweden,Manchester United,Premier League,2006/2007,2006
+21,Centre-Forward,"Jan 23, 1985 (21)",NA,NA,China,Manchester United,Premier League,2006/2007,2006
+NA,Centre-Forward,"Nov 15, 1986 (19)",NA,NA,England,Manchester United,Premier League,2006/2007,2006
+25,Goalkeeper,"Aug 31, 1982 (23)",NA,NA,Spain,Liverpool FC,Premier League,2006/2007,2006
+1,Goalkeeper,"Mar 23, 1973 (33)",NA,NA,Poland,Liverpool FC,Premier League,2006/2007,2006
+30,Goalkeeper,"Oct 25, 1985 (20)",NA,NA,Italy,Liverpool FC,Premier League,2006/2007,2006
+40,Goalkeeper,"Jan 22, 1986 (20)",NA,NA,England,Liverpool FC,Premier League,2006/2007,2006
+23,Centre-Back,"Jan 28, 1978 (28)",NA,NA,England,Liverpool FC,Premier League,2006/2007,2006
+5,Centre-Back,"Dec 12, 1984 (21)",NA,NA,Denmark,Liverpool FC,Premier League,2006/2007,2006
+4,Centre-Back,"Oct 7, 1973 (32)",NA,NA,Finland,Liverpool FC,Premier League,2006/2007,2006
+29,Centre-Back,"Feb 15, 1986 (20)",NA,NA,Italy,Liverpool FC,Premier League,2006/2007,2006
+34,Centre-Back,"Jul 8, 1988 (17)",NA,NA,Spain,Liverpool FC,Premier League,2006/2007,2006
+6,Left-Back,"Sep 24, 1980 (25)",NA,NA,Norway,Liverpool FC,Premier League,2006/2007,2006
+12,Left-Back,"Sep 24, 1979 (26)",NA,NA,Brazil,Liverpool FC,Premier League,2006/2007,2006
+28,Left-Back,"Dec 12, 1981 (24)",NA,NA,England,Liverpool FC,Premier League,2006/2007,2006
+48,Left-Back,"Jan 7, 1989 (17)",NA,NA,Argentina,Liverpool FC,Premier League,2006/2007,2006
+NA,Right-Back,"Aug 17, 1980 (25)",NA,NA,Netherlands,Liverpool FC,Premier League,2006/2007,2006
+3,Right-Back,"Apr 24, 1976 (30)",NA,NA,Ireland,Liverpool FC,Premier League,2006/2007,2006
+2,Right-Back,"Jan 17, 1983 (23)",NA,NA,Spain,Liverpool FC,Premier League,2006/2007,2006
+NA,Right-Back,"Oct 17, 1985 (20)",NA,NA,England,Liverpool FC,Premier League,2006/2007,2006
+37,Right-Back,"Dec 11, 1986 (19)",NA,NA,England,Liverpool FC,Premier League,2006/2007,2006
+39,Right-Back,"Oct 6, 1988 (17)",NA,NA,England,Liverpool FC,Premier League,2006/2007,2006
+14,Defensive Midfield,"Nov 25, 1981 (24)",NA,NA,Spain,Liverpool FC,Premier League,2006/2007,2006
+20,Defensive Midfield,"Jun 8, 1984 (22)",NA,NA,Argentina,Liverpool FC,Premier League,2006/2007,2006
+22,Defensive Midfield,"Jan 22, 1985 (21)",NA,NA,Mali,Liverpool FC,Premier League,2006/2007,2006
+8,Central Midfield,"May 30, 1980 (26)",NA,NA,England,Liverpool FC,Premier League,2006/2007,2006
+NA,Central Midfield,"Apr 18, 1987 (19)",NA,NA,England,Liverpool FC,Premier League,2006/2007,2006
+NA,Central Midfield,"Apr 28, 1988 (18)",NA,NA,Spain,Liverpool FC,Premier League,2006/2007,2006
+NA,Right Midfield,"Sep 7, 1988 (17)",NA,NA,England,Liverpool FC,Premier League,2006/2007,2006
+26,Right Midfield,"Jul 23, 1988 (17)",NA,NA,England,Liverpool FC,Premier League,2006/2007,2006
+17,Left Winger,"Jul 13, 1979 (26)",NA,NA,Wales,Liverpool FC,Premier League,2006/2007,2006
+7,Left Winger,"Sep 22, 1978 (27)",NA,NA,Australia,Liverpool FC,Premier League,2006/2007,2006
+32,Left Winger,"Aug 15, 1976 (29)",NA,NA,Netherlands,Liverpool FC,Premier League,2006/2007,2006
+11,Left Winger,"Jul 10, 1984 (21)",NA,NA,Chile,Liverpool FC,Premier League,2006/2007,2006
+18,Right Winger,"Jul 22, 1980 (25)",NA,NA,Netherlands,Liverpool FC,Premier League,2006/2007,2006
+10,Right Winger,"Jun 24, 1978 (28)",NA,NA,Spain,Liverpool FC,Premier League,2006/2007,2006
+16,Right Winger,"Jan 15, 1983 (23)",NA,NA,England,Liverpool FC,Premier League,2006/2007,2006
+42,Right Winger,"Aug 27, 1986 (19)",NA,NA,Morocco,Liverpool FC,Premier League,2006/2007,2006
+24,Second Striker,"Oct 20, 1984 (21)",NA,NA,France,Liverpool FC,Premier League,2006/2007,2006
+15,Centre-Forward,"Jan 30, 1981 (25)",NA,NA,England,Liverpool FC,Premier League,2006/2007,2006
+9,Centre-Forward,"Apr 9, 1975 (31)",NA,NA,England,Liverpool FC,Premier League,2006/2007,2006
+1,Goalkeeper,"Nov 10, 1969 (36)",NA,NA,Germany,Arsenal FC,Premier League,2006/2007,2006
+21,Goalkeeper,"Feb 3, 1972 (34)",NA,NA,Estonia,Arsenal FC,Premier League,2006/2007,2006
+24,Goalkeeper,"May 19, 1977 (29)",NA,NA,Spain,Arsenal FC,Premier League,2006/2007,2006
+24,Goalkeeper,"Mar 2, 1988 (18)",NA,NA,Italy,Arsenal FC,Premier League,2006/2007,2006
+10,Centre-Back,"Aug 17, 1977 (28)",NA,NA,France,Arsenal FC,Premier League,2006/2007,2006
+5,Centre-Back,"Mar 19, 1981 (25)",NA,NA,Cote d'Ivoire,Arsenal FC,Premier League,2006/2007,2006
+6,Centre-Back,"Feb 14, 1985 (21)",NA,NA,Switzerland,Arsenal FC,Premier League,2006/2007,2006
+NA,Centre-Back,"Apr 29, 1974 (32)",NA,NA,France,Arsenal FC,Premier League,2006/2007,2006
+20,Centre-Back,"Jan 18, 1987 (19)",NA,NA,Switzerland,Arsenal FC,Premier League,2006/2007,2006
+33,Centre-Back,"Sep 24, 1987 (18)",NA,NA,England,Arsenal FC,Premier League,2006/2007,2006
+41,Centre-Back,"Feb 9, 1987 (19)",NA,NA,Ireland,Arsenal FC,Premier League,2006/2007,2006
+22,Left-Back,"Jul 26, 1985 (20)",NA,NA,France,Arsenal FC,Premier League,2006/2007,2006
+30,Left-Back,"Oct 8, 1989 (16)",NA,NA,Senegal,Arsenal FC,Premier League,2006/2007,2006
+40,Left-Back,"Sep 26, 1989 (16)",NA,NA,England,Arsenal FC,Premier League,2006/2007,2006
+12,Right-Back,"Jan 19, 1977 (29)",NA,NA,Cameroon,Arsenal FC,Premier League,2006/2007,2006
+27,Right-Back,"Jun 4, 1983 (23)",NA,NA,Cote d'Ivoire,Arsenal FC,Premier League,2006/2007,2006
+31,Right-Back,"Nov 20, 1984 (21)",NA,NA,Trinidad and Tobago,Arsenal FC,Premier League,2006/2007,2006
+NA,Right-Back,"Feb 28, 1987 (19)",NA,NA,England,Arsenal FC,Premier League,2006/2007,2006
+NA,Right-Back,"Jun 6, 1990 (16)",NA,NA,Trinidad and Tobago,Arsenal FC,Premier League,2006/2007,2006
+19,Defensive Midfield,"Oct 7, 1976 (29)",NA,NA,Brazil,Arsenal FC,Premier League,2006/2007,2006
+16,Defensive Midfield,"Mar 7, 1984 (22)",NA,NA,France,Arsenal FC,Premier League,2006/2007,2006
+17,Defensive Midfield,"Sep 9, 1987 (18)",NA,NA,Cameroon,Arsenal FC,Premier League,2006/2007,2006
+15,Defensive Midfield,"Feb 16, 1988 (18)",NA,NA,Brazil,Arsenal FC,Premier League,2006/2007,2006
+4,Central Midfield,"May 4, 1987 (19)",NA,NA,Spain,Arsenal FC,Premier League,2006/2007,2006
+2,Central Midfield,"May 11, 1986 (20)",NA,NA,France,Arsenal FC,Premier League,2006/2007,2006
+NA,Central Midfield,"Oct 12, 1990 (15)",NA,NA,England,Arsenal FC,Premier League,2006/2007,2006
+47,Central Midfield,"Sep 28, 1989 (16)",NA,NA,England,Arsenal FC,Premier League,2006/2007,2006
+9,Attacking Midfield,"Oct 1, 1981 (24)",NA,NA,Brazil,Arsenal FC,Premier League,2006/2007,2006
+8,Attacking Midfield,"Apr 16, 1977 (29)",NA,NA,Sweden,Arsenal FC,Premier League,2006/2007,2006
+13,Attacking Midfield,"May 1, 1981 (25)",NA,NA,Belarus,Arsenal FC,Premier League,2006/2007,2006
+7,Attacking Midfield,"Oct 4, 1980 (25)",NA,NA,Czech Republic,Arsenal FC,Premier League,2006/2007,2006
+32,Right Winger,"Mar 16, 1989 (17)",NA,NA,England,Arsenal FC,Premier League,2006/2007,2006
+NA,Right Winger,"Jul 5, 1989 (16)",NA,NA,Cyprus,Arsenal FC,Premier League,2006/2007,2006
+14,Centre-Forward,"Aug 17, 1977 (28)",NA,NA,France,Arsenal FC,Premier League,2006/2007,2006
+25,Centre-Forward,"Feb 26, 1984 (22)",NA,NA,Togo,Arsenal FC,Premier League,2006/2007,2006
+11,Centre-Forward,"Aug 6, 1983 (22)",NA,NA,Netherlands,Arsenal FC,Premier League,2006/2007,2006
+NA,Centre-Forward,"Mar 30, 1983 (23)",NA,NA,France,Arsenal FC,Premier League,2006/2007,2006
+1,Goalkeeper,"Oct 15, 1979 (26)",NA,NA,England,Tottenham Hotspur,Premier League,2006/2007,2006
+12,Goalkeeper,"Feb 18, 1974 (32)",NA,NA,Czech Republic,Tottenham Hotspur,Premier League,2006/2007,2006
+17,Goalkeeper,"May 3, 1983 (23)",NA,NA,Hungary,Tottenham Hotspur,Premier League,2006/2007,2006
+17,Goalkeeper,"Jan 1, 1987 (19)",NA,NA,England,Tottenham Hotspur,Premier League,2006/2007,2006
+NA,Goalkeeper,"Oct 8, 1984 (21)",NA,NA,England,Tottenham Hotspur,Premier League,2006/2007,2006
+26,Centre-Back,"Oct 12, 1980 (25)",NA,NA,England,Tottenham Hotspur,Premier League,2006/2007,2006
+20,Centre-Back,"Nov 18, 1983 (22)",NA,NA,England,Tottenham Hotspur,Premier League,2006/2007,2006
+33,Centre-Back,"Oct 3, 1978 (27)",NA,NA,Portugal,Tottenham Hotspur,Premier League,2006/2007,2006
+30,Centre-Back,"Aug 18, 1981 (24)",NA,NA,England,Tottenham Hotspur,Premier League,2006/2007,2006
+27,Centre-Back,"Jan 1, 1983 (23)",NA,NA,England,Tottenham Hotspur,Premier League,2006/2007,2006
+16,Centre-Back,"Jan 16, 1986 (20)",NA,NA,Switzerland,Tottenham Hotspur,Premier League,2006/2007,2006
+35,Centre-Back,"Jul 25, 1988 (17)",NA,NA,France,Tottenham Hotspur,Premier League,2006/2007,2006
+NA,Centre-Back,"Feb 8, 1988 (18)",NA,NA,England,Tottenham Hotspur,Premier League,2006/2007,2006
+3,Left-Back,"Apr 23, 1977 (29)",NA,NA,"Korea, South",Tottenham Hotspur,Premier League,2006/2007,2006
+32,Left-Back,"Mar 24, 1984 (22)",NA,NA,Cameroon,Tottenham Hotspur,Premier League,2006/2007,2006
+2,Right-Back,"Feb 21, 1979 (27)",NA,NA,Guadeloupe,Tottenham Hotspur,Premier League,2006/2007,2006
+7,Right-Back,"Oct 18, 1977 (28)",NA,NA,Canada,Tottenham Hotspur,Premier League,2006/2007,2006
+29,Right-Back,"Nov 18, 1986 (19)",NA,NA,England,Tottenham Hotspur,Premier League,2006/2007,2006
+4,Defensive Midfield,"Dec 14, 1980 (25)",NA,NA,Cote d'Ivoire,Tottenham Hotspur,Premier League,2006/2007,2006
+22,Defensive Midfield,"Dec 28, 1986 (19)",NA,NA,England,Tottenham Hotspur,Premier League,2006/2007,2006
+6,Defensive Midfield,"Nov 27, 1979 (26)",NA,NA,Finland,Tottenham Hotspur,Premier League,2006/2007,2006
+8,Central Midfield,"Feb 18, 1983 (23)",NA,NA,England,Tottenham Hotspur,Premier League,2006/2007,2006
+15,Central Midfield,"Jan 6, 1980 (26)",NA,NA,France,Tottenham Hotspur,Premier League,2006/2007,2006
+5,Central Midfield,"Mar 13, 1973 (33)",NA,NA,Netherlands,Tottenham Hotspur,Premier League,2006/2007,2006
+13,Central Midfield,"Mar 18, 1977 (29)",NA,NA,England,Tottenham Hotspur,Premier League,2006/2007,2006
+14,Central Midfield,"Dec 15, 1981 (24)",NA,NA,Egypt,Tottenham Hotspur,Premier League,2006/2007,2006
+NA,Central Midfield,"Jan 5, 1987 (19)",NA,NA,England,Tottenham Hotspur,Premier League,2006/2007,2006
+24,Central Midfield,"Sep 25, 1986 (19)",NA,NA,England,Tottenham Hotspur,Premier League,2006/2007,2006
+19,Attacking Midfield,"May 24, 1989 (17)",NA,NA,Morocco,Tottenham Hotspur,Premier League,2006/2007,2006
+28,Left Winger,"Jan 11, 1985 (21)",NA,NA,Ireland,Tottenham Hotspur,Premier League,2006/2007,2006
+39,Left Winger,"Dec 16, 1986 (19)",NA,NA,England,Tottenham Hotspur,Premier League,2006/2007,2006
+25,Right Winger,"Apr 16, 1987 (19)",NA,NA,England,Tottenham Hotspur,Premier League,2006/2007,2006
+9,Centre-Forward,"Jan 30, 1981 (25)",NA,NA,Bulgaria,Tottenham Hotspur,Premier League,2006/2007,2006
+18,Centre-Forward,"Oct 7, 1982 (23)",NA,NA,England,Tottenham Hotspur,Premier League,2006/2007,2006
+10,Centre-Forward,"Jul 8, 1980 (25)",NA,NA,Ireland,Tottenham Hotspur,Premier League,2006/2007,2006
+11,Centre-Forward,"Feb 23, 1983 (23)",NA,NA,Egypt,Tottenham Hotspur,Premier League,2006/2007,2006
+NA,Centre-Forward,"May 26, 1989 (17)",NA,NA,Czech Republic,Tottenham Hotspur,Premier League,2006/2007,2006
+28,Centre-Forward,"Jul 18, 1984 (21)",NA,NA,England,Tottenham Hotspur,Premier League,2006/2007,2006
+1,Goalkeeper,"Apr 20, 1976 (30)",NA,NA,Ireland,Newcastle United,Premier League,2006/2007,2006
+12,Goalkeeper,"Mar 14, 1975 (31)",NA,NA,England,Newcastle United,Premier League,2006/2007,2006
+24,Goalkeeper,"Mar 10, 1968 (38)",NA,NA,Czech Republic,Newcastle United,Premier League,2006/2007,2006
+NA,Goalkeeper,"Apr 3, 1988 (18)",NA,NA,Netherlands,Newcastle United,Premier League,2006/2007,2006
+NA,Goalkeeper,"Mar 17, 1988 (18)",NA,NA,England,Newcastle United,Premier League,2006/2007,2006
+15,Centre-Back,"May 13, 1982 (24)",NA,NA,United States,Newcastle United,Premier League,2006/2007,2006
+19,Centre-Back,"Jul 31, 1981 (24)",NA,NA,England,Newcastle United,Premier League,2006/2007,2006
+NA,Centre-Back,"Feb 26, 1978 (28)",NA,NA,Senegal,Newcastle United,Premier League,2006/2007,2006
+26,Centre-Back,"Nov 22, 1983 (22)",NA,NA,England,Newcastle United,Premier League,2006/2007,2006
+27,Centre-Back,"Jan 23, 1986 (20)",NA,NA,England,Newcastle United,Premier League,2006/2007,2006
+18,Centre-Back,"Dec 12, 1975 (30)",NA,NA,Australia,Newcastle United,Premier League,2006/2007,2006
+30,Centre-Back,"May 19, 1987 (19)",NA,NA,Canada,Newcastle United,Premier League,2006/2007,2006
+32,Centre-Back,"Sep 17, 1987 (18)",NA,NA,England,Newcastle United,Premier League,2006/2007,2006
+33,Left-Back,"Aug 29, 1978 (27)",NA,NA,Nigeria,Newcastle United,Premier League,2006/2007,2006
+NA,Left-Back,"Oct 14, 1979 (26)",NA,NA,France,Newcastle United,Premier League,2006/2007,2006
+2,Right-Back,"Aug 29, 1976 (29)",NA,NA,Ireland,Newcastle United,Premier League,2006/2007,2006
+17,Central Midfield,"Oct 13, 1980 (25)",NA,NA,England,Newcastle United,Premier League,2006/2007,2006
+5,Central Midfield,"Sep 7, 1980 (25)",NA,NA,Turkey,Newcastle United,Premier League,2006/2007,2006
+16,Central Midfield,"Jan 4, 1986 (20)",NA,NA,England,Newcastle United,Premier League,2006/2007,2006
+22,Central Midfield,"Jan 21, 1975 (31)",NA,NA,England,Newcastle United,Premier League,2006/2007,2006
+35,Central Midfield,"Oct 27, 1986 (19)",NA,NA,South Africa,Newcastle United,Premier League,2006/2007,2006
+11,Right Midfield,"Mar 2, 1979 (27)",NA,NA,Ireland,Newcastle United,Premier League,2006/2007,2006
+8,Right Midfield,"Dec 29, 1978 (27)",NA,NA,England,Newcastle United,Premier League,2006/2007,2006
+4,Right Midfield,"Dec 12, 1974 (31)",NA,NA,Peru,Newcastle United,Premier League,2006/2007,2006
+37,Left Midfield,"Feb 20, 1985 (21)",NA,NA,Ireland,Newcastle United,Premier League,2006/2007,2006
+20,Attacking Midfield,"Aug 5, 1974 (31)",NA,NA,France,Newcastle United,Premier League,2006/2007,2006
+NA,Attacking Midfield,"Jul 3, 1988 (17)",NA,NA,Australia,Newcastle United,Premier League,2006/2007,2006
+7,Left Winger,"Mar 11, 1978 (28)",NA,NA,Spain,Newcastle United,Premier League,2006/2007,2006
+14,Right Winger,"May 28, 1986 (20)",NA,NA,France,Newcastle United,Premier League,2006/2007,2006
+NA,Second Striker,"Dec 28, 1980 (25)",NA,NA,DR Congo,Newcastle United,Premier League,2006/2007,2006
+10,Centre-Forward,"Dec 14, 1979 (26)",NA,NA,England,Newcastle United,Premier League,2006/2007,2006
+9,Centre-Forward,"Oct 28, 1984 (21)",NA,NA,Nigeria,Newcastle United,Premier League,2006/2007,2006
+23,Centre-Forward,"Oct 12, 1981 (24)",NA,NA,Nigeria,Newcastle United,Premier League,2006/2007,2006
+NA,Centre-Forward,"Feb 1, 1987 (19)",NA,NA,Italy,Newcastle United,Premier League,2006/2007,2006
+39,Centre-Forward,"Jan 6, 1989 (17)",NA,NA,England,Newcastle United,Premier League,2006/2007,2006
+1,Goalkeeper,"Jun 12, 1976 (30)",NA,NA,Denmark,Aston Villa,Premier League,2006/2007,2006
+NA,Goalkeeper,"Apr 1, 1976 (30)",NA,NA,Hungary,Aston Villa,Premier League,2006/2007,2006
+13,Goalkeeper,"Nov 28, 1980 (25)",NA,NA,England,Aston Villa,Premier League,2006/2007,2006
+39,Goalkeeper,"Nov 26, 1986 (19)",NA,NA,Austria,Aston Villa,Premier League,2006/2007,2006
+4,Centre-Back,"Sep 3, 1977 (28)",NA,NA,Sweden,Aston Villa,Premier League,2006/2007,2006
+5,Centre-Back,"Jul 26, 1977 (28)",NA,NA,Denmark,Aston Villa,Premier League,2006/2007,2006
+18,Centre-Back,"Nov 8, 1979 (26)",NA,NA,Northern Ireland,Aston Villa,Premier League,2006/2007,2006
+19,Centre-Back,"Jul 21, 1984 (21)",NA,NA,England,Aston Villa,Premier League,2006/2007,2006
+21,Centre-Back,"Dec 19, 1985 (20)",NA,NA,England,Aston Villa,Premier League,2006/2007,2006
+16,Left-Back,"Jun 15, 1978 (28)",NA,NA,Netherlands,Aston Villa,Premier League,2006/2007,2006
+17,Left-Back,"Jul 9, 1985 (20)",NA,NA,England,Aston Villa,Premier League,2006/2007,2006
+2,Right-Back,"May 13, 1976 (30)",NA,NA,Wales,Aston Villa,Premier League,2006/2007,2006
+24,Right-Back,"Jun 28, 1985 (21)",NA,NA,Scotland,Aston Villa,Premier League,2006/2007,2006
+6,Defensive Midfield,"Feb 23, 1981 (25)",NA,NA,England,Aston Villa,Premier League,2006/2007,2006
+3,Defensive Midfield,"Mar 29, 1981 (25)",NA,NA,Trinidad and Tobago,Aston Villa,Premier League,2006/2007,2006
+14,Defensive Midfield,"May 4, 1981 (25)",NA,NA,Cameroon,Aston Villa,Premier League,2006/2007,2006
+27,Defensive Midfield,"Nov 5, 1987 (18)",NA,NA,England,Aston Villa,Premier League,2006/2007,2006
+11,Central Midfield,"Jul 5, 1979 (26)",NA,NA,Bulgaria,Aston Villa,Premier League,2006/2007,2006
+8,Central Midfield,"Jan 10, 1978 (28)",NA,NA,England,Aston Villa,Premier League,2006/2007,2006
+12,Central Midfield,"Jan 1, 1985 (21)",NA,NA,Northern Ireland,Aston Villa,Premier League,2006/2007,2006
+NA,Central Midfield,"Sep 8, 1984 (21)",NA,NA,England,Aston Villa,Premier League,2006/2007,2006
+26,Central Midfield,"Nov 25, 1986 (19)",NA,NA,England,Aston Villa,Premier League,2006/2007,2006
+31,Right Midfield,"Aug 16, 1975 (30)",NA,NA,France,Aston Villa,Premier League,2006/2007,2006
+7,Left Midfield,"May 18, 1977 (29)",NA,NA,England,Aston Villa,Premier League,2006/2007,2006
+23,Attacking Midfield,"Nov 10, 1973 (32)",NA,NA,Czech Republic,Aston Villa,Premier League,2006/2007,2006
+28,Attacking Midfield,"Jan 24, 1983 (23)",NA,NA,Scotland,Aston Villa,Premier League,2006/2007,2006
+10,Centre-Forward,"Oct 28, 1981 (24)",NA,NA,Czech Republic,Aston Villa,Premier League,2006/2007,2006
+10,Centre-Forward,"Sep 5, 1979 (26)",NA,NA,Norway,Aston Villa,Premier League,2006/2007,2006
+9,Centre-Forward,"Oct 24, 1975 (30)",NA,NA,Colombia,Aston Villa,Premier League,2006/2007,2006
+NA,Centre-Forward,"Jul 25, 1973 (32)",NA,NA,England,Aston Villa,Premier League,2006/2007,2006
+20,Centre-Forward,"Mar 10, 1973 (33)",NA,NA,England,Aston Villa,Premier League,2006/2007,2006
+22,Centre-Forward,"Feb 13, 1986 (20)",NA,NA,England,Aston Villa,Premier League,2006/2007,2006
+30,Centre-Forward,"Oct 13, 1986 (19)",NA,NA,England,Aston Villa,Premier League,2006/2007,2006
+28,Centre-Forward,"Jun 9, 1987 (19)",NA,NA,England,Aston Villa,Premier League,2006/2007,2006
+NA,Goalkeeper,"Jan 18, 1980 (26)",NA,NA,England,West Ham United,Premier League,2006/2007,2006
+NA,Goalkeeper,"Sep 30, 1977 (28)",NA,NA,Northern Ireland,West Ham United,Premier League,2006/2007,2006
+NA,Goalkeeper,"Jul 9, 1973 (32)",NA,NA,England,West Ham United,Premier League,2006/2007,2006
+NA,Centre-Back,"Apr 18, 1979 (27)",NA,NA,England,West Ham United,Premier League,2006/2007,2006
+NA,Centre-Back,"Feb 18, 1985 (21)",NA,NA,England,West Ham United,Premier League,2006/2007,2006
+NA,Centre-Back,"Mar 9, 1978 (28)",NA,NA,Australia,West Ham United,Premier League,2006/2007,2006
+NA,Centre-Back,"Oct 23, 1973 (32)",NA,NA,Scotland,West Ham United,Premier League,2006/2007,2006
+NA,Centre-Back,"Jan 1, 1983 (23)",NA,NA,England,West Ham United,Premier League,2006/2007,2006
+NA,Centre-Back,"Mar 1, 1986 (20)",NA,NA,United States,West Ham United,Premier League,2006/2007,2006
+NA,Centre-Back,"Aug 8, 1979 (26)",NA,NA,Wales,West Ham United,Premier League,2006/2007,2006
+NA,Centre-Back,"Aug 23, 1983 (22)",NA,NA,Wales,West Ham United,Premier League,2006/2007,2006
+NA,Left-Back,"May 15, 1981 (25)",NA,NA,England,West Ham United,Premier League,2006/2007,2006
+NA,Left-Back,"Apr 29, 1981 (25)",NA,NA,Northern Ireland,West Ham United,Premier League,2006/2007,2006
+NA,Right-Back,"Jun 15, 1981 (25)",NA,NA,Ghana,West Ham United,Premier League,2006/2007,2006
+NA,Right-Back,"Feb 18, 1983 (23)",NA,NA,England,West Ham United,Premier League,2006/2007,2006
+NA,Defensive Midfield,"Jun 8, 1984 (22)",NA,NA,Argentina,West Ham United,Premier League,2006/2007,2006
+NA,Defensive Midfield,"May 14, 1984 (22)",NA,NA,England,West Ham United,Premier League,2006/2007,2006
+NA,Defensive Midfield,"Mar 27, 1979 (27)",NA,NA,England,West Ham United,Premier League,2006/2007,2006
+NA,Central Midfield,"Jan 3, 1977 (29)",NA,NA,England,West Ham United,Premier League,2006/2007,2006
+NA,Central Midfield,"Jul 20, 1978 (27)",NA,NA,Scotland,West Ham United,Premier League,2006/2007,2006
+NA,Central Midfield,"May 8, 1987 (19)",NA,NA,England,West Ham United,Premier League,2006/2007,2006
+NA,Central Midfield,"Jan 7, 1987 (19)",NA,NA,England,West Ham United,Premier League,2006/2007,2006
+NA,Right Midfield,"Aug 20, 1975 (30)",NA,NA,England,West Ham United,Premier League,2006/2007,2006
+NA,Left Midfield,"Aug 4, 1977 (28)",NA,NA,Portugal,West Ham United,Premier League,2006/2007,2006
+NA,Left Midfield,"Aug 14, 1981 (24)",NA,NA,England,West Ham United,Premier League,2006/2007,2006
+NA,Left Midfield,"Mar 31, 1988 (18)",NA,NA,England,West Ham United,Premier League,2006/2007,2006
+NA,Left Winger,"Nov 26, 1987 (18)",NA,NA,England,West Ham United,Premier League,2006/2007,2006
+NA,Right Winger,"May 5, 1980 (26)",NA,NA,Israel,West Ham United,Premier League,2006/2007,2006
+NA,Second Striker,"Feb 5, 1984 (22)",NA,NA,Argentina,West Ham United,Premier League,2006/2007,2006
+NA,Centre-Forward,"Nov 24, 1983 (22)",NA,NA,England,West Ham United,Premier League,2006/2007,2006
+NA,Centre-Forward,"Aug 25, 1979 (26)",NA,NA,England,West Ham United,Premier League,2006/2007,2006
+NA,Centre-Forward,"Jan 16, 1981 (25)",NA,NA,England,West Ham United,Premier League,2006/2007,2006
+NA,Centre-Forward,"Oct 12, 1983 (22)",NA,NA,England,West Ham United,Premier League,2006/2007,2006
+NA,Centre-Forward,"Jan 13, 1984 (22)",NA,NA,Spain,West Ham United,Premier League,2006/2007,2006
+NA,Centre-Forward,"Apr 2, 1966 (40)",NA,NA,England,West Ham United,Premier League,2006/2007,2006
+NA,Goalkeeper,"Mar 6, 1979 (27)",NA,NA,United States,Everton FC,Premier League,2006/2007,2006
+NA,Goalkeeper,"Nov 5, 1977 (28)",NA,NA,England,Everton FC,Premier League,2006/2007,2006
+NA,Goalkeeper,"Jan 26, 1984 (22)",NA,NA,Scotland,Everton FC,Premier League,2006/2007,2006
+NA,Centre-Back,"Aug 16, 1982 (23)",NA,NA,England,Everton FC,Premier League,2006/2007,2006
+NA,Centre-Back,"Sep 6, 1980 (25)",NA,NA,Nigeria,Everton FC,Premier League,2006/2007,2006
+NA,Centre-Back,"Oct 6, 1971 (34)",NA,NA,England,Everton FC,Premier League,2006/2007,2006
+NA,Centre-Back,"May 10, 1970 (36)",NA,NA,Scotland,Everton FC,Premier League,2006/2007,2006
+NA,Centre-Back,"Dec 9, 1986 (19)",NA,NA,England,Everton FC,Premier League,2006/2007,2006
+NA,Left-Back,"Sep 12, 1974 (31)",NA,NA,Portugal,Everton FC,Premier League,2006/2007,2006
+NA,Left-Back,"Jul 27, 1975 (30)",NA,NA,Italy,Everton FC,Premier League,2006/2007,2006
+NA,Left-Back,"Nov 16, 1978 (27)",NA,NA,Scotland,Everton FC,Premier League,2006/2007,2006
+NA,Left-Back,"Mar 20, 1987 (19)",NA,NA,Scotland,Everton FC,Premier League,2006/2007,2006
+NA,Right-Back,"Jan 21, 1977 (29)",NA,NA,England,Everton FC,Premier League,2006/2007,2006
+NA,Right-Back,"Feb 20, 1981 (25)",NA,NA,England,Everton FC,Premier League,2006/2007,2006
+NA,Midfielder,"Apr 21, 1978 (28)",NA,NA,England,Everton FC,Premier League,2006/2007,2006
+NA,Defensive Midfield,"Feb 28, 1974 (32)",NA,NA,Ireland,Everton FC,Premier League,2006/2007,2006
+NA,Defensive Midfield,"Aug 28, 1982 (23)",NA,NA,Brazil,Everton FC,Premier League,2006/2007,2006
+NA,Central Midfield,"Mar 26, 1982 (24)",NA,NA,Spain,Everton FC,Premier League,2006/2007,2006
+NA,Central Midfield,"May 17, 1981 (25)",NA,NA,England,Everton FC,Premier League,2006/2007,2006
+NA,Central Midfield,"Mar 5, 1988 (18)",NA,NA,Iceland,Everton FC,Premier League,2006/2007,2006
+NA,Right Midfield,"Oct 23, 1979 (26)",NA,NA,Wales,Everton FC,Premier League,2006/2007,2006
+NA,Left Midfield,"Feb 1, 1977 (29)",NA,NA,Ireland,Everton FC,Premier League,2006/2007,2006
+NA,Attacking Midfield,"Dec 6, 1979 (26)",NA,NA,Australia,Everton FC,Premier League,2006/2007,2006
+NA,Attacking Midfield,"Feb 5, 1986 (20)",NA,NA,Portugal,Everton FC,Premier League,2006/2007,2006
+NA,Right Winger,"Sep 30, 1979 (26)",NA,NA,Netherlands,Everton FC,Premier League,2006/2007,2006
+NA,Second Striker,"Apr 14, 1983 (23)",NA,NA,Scotland,Everton FC,Premier League,2006/2007,2006
+NA,Centre-Forward,"Feb 10, 1981 (25)",NA,NA,England,Everton FC,Premier League,2006/2007,2006
+NA,Centre-Forward,"Feb 27, 1978 (28)",NA,NA,England,Everton FC,Premier League,2006/2007,2006
+NA,Centre-Forward,"Jul 14, 1988 (17)",NA,NA,England,Everton FC,Premier League,2006/2007,2006
+NA,Centre-Forward,"Apr 23, 1988 (18)",NA,NA,Nigeria,Everton FC,Premier League,2006/2007,2006
+1,Goalkeeper,"Oct 6, 1972 (33)",NA,NA,Australia,Middlesbrough FC,Premier League,2006/2007,2006
+22,Goalkeeper,"Mar 19, 1982 (24)",NA,NA,Australia,Middlesbrough FC,Premier League,2006/2007,2006
+21,Goalkeeper,"Jan 4, 1985 (21)",NA,NA,England,Middlesbrough FC,Premier League,2006/2007,2006
+32,Goalkeeper,"Jan 15, 1987 (19)",NA,NA,England,Middlesbrough FC,Premier League,2006/2007,2006
+8,Centre-Back,"Jan 22, 1980 (26)",NA,NA,England,Middlesbrough FC,Premier League,2006/2007,2006
+12,Centre-Back,"Jan 16, 1983 (23)",NA,NA,Austria,Middlesbrough FC,Premier League,2006/2007,2006
+NA,Centre-Back,"Nov 3, 1972 (33)",NA,NA,England,Middlesbrough FC,Premier League,2006/2007,2006
+5,Centre-Back,"Sep 1, 1980 (25)",NA,NA,England,Middlesbrough FC,Premier League,2006/2007,2006
+14,Centre-Back,"Aug 18, 1984 (21)",NA,NA,Germany,Middlesbrough FC,Premier League,2006/2007,2006
+26,Centre-Back,"Dec 10, 1986 (19)",NA,NA,England,Middlesbrough FC,Premier League,2006/2007,2006
+24,Centre-Back,"Dec 17, 1984 (21)",NA,NA,England,Middlesbrough FC,Premier League,2006/2007,2006
+31,Centre-Back,"Feb 14, 1987 (19)",NA,NA,England,Middlesbrough FC,Premier League,2006/2007,2006
+38,Centre-Back,"May 29, 1988 (18)",NA,NA,England,Middlesbrough FC,Premier League,2006/2007,2006
+39,Centre-Back,"Jul 14, 1988 (17)",NA,NA,Australia,Middlesbrough FC,Premier League,2006/2007,2006
+33,Left-Back,"Aug 1, 1986 (19)",NA,NA,England,Middlesbrough FC,Premier League,2006/2007,2006
+2,Right-Back,"Jul 19, 1982 (23)",NA,NA,England,Middlesbrough FC,Premier League,2006/2007,2006
+17,Right-Back,"Nov 30, 1972 (33)",NA,NA,Portugal,Middlesbrough FC,Premier League,2006/2007,2006
+29,Right-Back,"Mar 24, 1986 (20)",NA,NA,England,Middlesbrough FC,Premier League,2006/2007,2006
+7,Defensive Midfield,"Sep 5, 1975 (30)",NA,NA,Netherlands,Middlesbrough FC,Premier League,2006/2007,2006
+27,Defensive Midfield,"Mar 21, 1988 (18)",NA,NA,England,Middlesbrough FC,Premier League,2006/2007,2006
+10,Central Midfield,"Dec 10, 1981 (24)",NA,NA,Brazil,Middlesbrough FC,Premier League,2006/2007,2006
+3,Central Midfield,"Jan 31, 1981 (25)",NA,NA,Argentina,Middlesbrough FC,Premier League,2006/2007,2006
+25,Central Midfield,"May 25, 1986 (20)",NA,NA,Scotland,Middlesbrough FC,Premier League,2006/2007,2006
+41,Central Midfield,"Feb 21, 1989 (17)",NA,NA,England,Middlesbrough FC,Premier League,2006/2007,2006
+6,Right Midfield,"Mar 27, 1974 (32)",NA,NA,Spain,Middlesbrough FC,Premier League,2006/2007,2006
+19,Left Midfield,"Jul 22, 1984 (21)",NA,NA,England,Middlesbrough FC,Premier League,2006/2007,2006
+11,Right Winger,"Apr 11, 1979 (27)",NA,NA,England,Middlesbrough FC,Premier League,2006/2007,2006
+28,Right Winger,"Jul 14, 1987 (18)",NA,NA,England,Middlesbrough FC,Premier League,2006/2007,2006
+16,Second Striker,"Feb 6, 1977 (29)",NA,NA,Jamaica,Middlesbrough FC,Premier League,2006/2007,2006
+20,Centre-Forward,"Nov 22, 1982 (23)",NA,NA,Nigeria,Middlesbrough FC,Premier League,2006/2007,2006
+36,Centre-Forward,"Oct 9, 1975 (30)",NA,NA,Australia,Middlesbrough FC,Premier League,2006/2007,2006
+NA,Centre-Forward,"Sep 6, 1979 (26)",NA,NA,Italy,Middlesbrough FC,Premier League,2006/2007,2006
+18,Centre-Forward,"Apr 29, 1979 (27)",NA,NA,"Korea, South",Middlesbrough FC,Premier League,2006/2007,2006
+NA,Centre-Forward,"Aug 12, 1985 (20)",NA,NA,England,Middlesbrough FC,Premier League,2006/2007,2006
+42,Centre-Forward,"Oct 14, 1986 (19)",NA,NA,England,Middlesbrough FC,Premier League,2006/2007,2006
+1,Goalkeeper,"Oct 3, 1981 (24)",NA,NA,Sweden,Manchester City,Premier League,2006/2007,2006
+NA,Goalkeeper,"Apr 19, 1987 (19)",NA,NA,England,Manchester City,Premier League,2006/2007,2006
+12,Goalkeeper,"Mar 2, 1979 (27)",NA,NA,England,Manchester City,Premier League,2006/2007,2006
+15,Centre-Back,"Dec 16, 1977 (28)",NA,NA,France,Manchester City,Premier League,2006/2007,2006
+22,Centre-Back,"Sep 21, 1979 (26)",NA,NA,Ireland,Manchester City,Premier League,2006/2007,2006
+17,Centre-Back,"Sep 30, 1977 (28)",NA,NA,China,Manchester City,Premier League,2006/2007,2006
+16,Centre-Back,"Nov 12, 1986 (19)",NA,NA,England,Manchester City,Premier League,2006/2007,2006
+4,Centre-Back,"Mar 6, 1982 (24)",NA,NA,England,Manchester City,Premier League,2006/2007,2006
+26,Centre-Back,"Jul 14, 1986 (19)",NA,NA,England,Manchester City,Premier League,2006/2007,2006
+NA,Left-Back,"Nov 30, 1975 (30)",NA,NA,Wales,Manchester City,Premier League,2006/2007,2006
+24,Left-Back,"May 24, 1982 (24)",NA,NA,United States,Manchester City,Premier League,2006/2007,2006
+3,Left-Back,"Oct 2, 1979 (26)",NA,NA,England,Manchester City,Premier League,2006/2007,2006
+18,Right-Back,"May 18, 1977 (29)",NA,NA,England,Manchester City,Premier League,2006/2007,2006
+27,Right-Back,"Jan 25, 1977 (29)",NA,NA,Tunisia,Manchester City,Premier League,2006/2007,2006
+2,Right-Back,"Jun 24, 1988 (18)",NA,NA,England,Manchester City,Premier League,2006/2007,2006
+NA,Right-Back,"Apr 28, 1986 (20)",NA,NA,England,Manchester City,Premier League,2006/2007,2006
+32,Right-Back,"Sep 3, 1985 (20)",NA,NA,England,Manchester City,Premier League,2006/2007,2006
+5,Defensive Midfield,"Feb 8, 1977 (29)",NA,NA,France,Manchester City,Premier League,2006/2007,2006
+21,Defensive Midfield,"Aug 27, 1973 (32)",NA,NA,Germany,Manchester City,Premier League,2006/2007,2006
+33,Defensive Midfield,"Feb 24, 1988 (18)",NA,NA,England,Manchester City,Premier League,2006/2007,2006
+8,Central Midfield,"Sep 2, 1982 (23)",NA,NA,England,Manchester City,Premier League,2006/2007,2006
+NA,Central Midfield,"Jul 20, 1973 (32)",NA,NA,United States,Manchester City,Premier League,2006/2007,2006
+7,Attacking Midfield,"Aug 22, 1986 (19)",NA,NA,Ireland,Manchester City,Premier League,2006/2007,2006
+20,Left Winger,"Feb 21, 1985 (21)",NA,NA,Greece,Manchester City,Premier League,2006/2007,2006
+28,Left Winger,"Mar 2, 1973 (33)",NA,NA,England,Manchester City,Premier League,2006/2007,2006
+10,Right Winger,"Feb 14, 1986 (20)",NA,NA,Algeria,Manchester City,Premier League,2006/2007,2006
+11,Centre-Forward,"Jun 13, 1980 (26)",NA,NA,England,Manchester City,Premier League,2006/2007,2006
+30,Centre-Forward,"Mar 30, 1976 (30)",NA,NA,Italy,Manchester City,Premier League,2006/2007,2006
+9,Centre-Forward,"Jul 4, 1978 (27)",NA,NA,Belgium,Manchester City,Premier League,2006/2007,2006
+14,Centre-Forward,"Nov 1, 1972 (33)",NA,NA,Scotland,Manchester City,Premier League,2006/2007,2006
+43,Centre-Forward,"Mar 5, 1987 (19)",NA,NA,England,Manchester City,Premier League,2006/2007,2006
+36,Centre-Forward,"Sep 1, 1989 (16)",NA,NA,England,Manchester City,Premier League,2006/2007,2006
+1,Goalkeeper,"Aug 1, 1970 (35)",NA,NA,England,Portsmouth FC,Premier League,2006/2007,2006
+NA,Goalkeeper,"Oct 10, 1970 (35)",NA,NA,Ireland,Portsmouth FC,Premier League,2006/2007,2006
+15,Goalkeeper,"Nov 30, 1980 (25)",NA,NA,England,Portsmouth FC,Premier League,2006/2007,2006
+23,Centre-Back,"Sep 18, 1974 (31)",NA,NA,England,Portsmouth FC,Premier League,2006/2007,2006
+5,Centre-Back,"Jun 29, 1979 (27)",NA,NA,Ireland,Portsmouth FC,Premier League,2006/2007,2006
+6,Centre-Back,"Mar 1, 1980 (26)",NA,NA,Mali,Portsmouth FC,Premier League,2006/2007,2006
+11,Centre-Back,"Apr 14, 1979 (27)",NA,NA,France,Portsmouth FC,Premier League,2006/2007,2006
+3,Centre-Back,"Oct 28, 1974 (31)",NA,NA,Serbia,Portsmouth FC,Premier League,2006/2007,2006
+2,Centre-Back,"Sep 14, 1973 (32)",NA,NA,England,Portsmouth FC,Premier League,2006/2007,2006
+10,Right-Back,"Jan 19, 1977 (29)",NA,NA,Cameroon,Portsmouth FC,Premier League,2006/2007,2006
+4,Right-Back,"Aug 23, 1984 (21)",NA,NA,England,Portsmouth FC,Premier League,2006/2007,2006
+16,Right-Back,"Mar 17, 1979 (27)",NA,NA,England,Portsmouth FC,Premier League,2006/2007,2006
+28,Defensive Midfield,"Sep 20, 1979 (26)",NA,NA,England,Portsmouth FC,Premier League,2006/2007,2006
+30,Defensive Midfield,"Feb 26, 1979 (27)",NA,NA,Portugal,Portsmouth FC,Premier League,2006/2007,2006
+34,Defensive Midfield,"Jan 28, 1985 (21)",NA,NA,DR Congo,Portsmouth FC,Premier League,2006/2007,2006
+22,Defensive Midfield,"Jun 25, 1979 (27)",NA,NA,Scotland,Portsmouth FC,Premier League,2006/2007,2006
+26,Central Midfield,"May 18, 1983 (23)",NA,NA,England,Portsmouth FC,Premier League,2006/2007,2006
+NA,Right Midfield,"Sep 12, 1977 (28)",NA,NA,England,Portsmouth FC,Premier League,2006/2007,2006
+14,Left Midfield,"Nov 27, 1981 (24)",NA,NA,England,Portsmouth FC,Premier League,2006/2007,2006
+NA,Attacking Midfield,"Feb 5, 1986 (20)",NA,NA,Portugal,Portsmouth FC,Premier League,2006/2007,2006
+19,Attacking Midfield,"Aug 13, 1984 (21)",NA,NA,Croatia,Portsmouth FC,Premier League,2006/2007,2006
+NA,Attacking Midfield,"Jan 2, 1987 (19)",NA,NA,Northern Ireland,Portsmouth FC,Premier League,2006/2007,2006
+29,Left Winger,"Sep 25, 1978 (27)",NA,NA,Cameroon,Portsmouth FC,Premier League,2006/2007,2006
+NA,Right Winger,"Sep 19, 1978 (27)",NA,NA,Serbia,Portsmouth FC,Premier League,2006/2007,2006
+21,Right Winger,"May 14, 1987 (19)",NA,NA,Cameroon,Portsmouth FC,Premier League,2006/2007,2006
+32,Second Striker,"Dec 28, 1980 (25)",NA,NA,DR Congo,Portsmouth FC,Premier League,2006/2007,2006
+25,Centre-Forward,"Aug 13, 1978 (27)",NA,NA,Zimbabwe,Portsmouth FC,Premier League,2006/2007,2006
+8,Centre-Forward,"Oct 15, 1971 (34)",NA,NA,England,Portsmouth FC,Premier League,2006/2007,2006
+27,Centre-Forward,"Aug 1, 1976 (29)",NA,NA,Nigeria,Portsmouth FC,Premier League,2006/2007,2006
+9,Centre-Forward,"Aug 30, 1978 (27)",NA,NA,Bulgaria,Portsmouth FC,Premier League,2006/2007,2006
+29,Goalkeeper,"May 31, 1972 (34)",NA,NA,Finland,Fulham FC,Premier League,2006/2007,2006
+12,Goalkeeper,"Jul 7, 1982 (23)",NA,NA,Czech Republic,Fulham FC,Premier League,2006/2007,2006
+31,Goalkeeper,"Nov 19, 1986 (19)",NA,NA,Portugal,Fulham FC,Premier League,2006/2007,2006
+1,Goalkeeper,"Jun 16, 1969 (37)",NA,NA,Wales,Fulham FC,Premier League,2006/2007,2006
+30,Goalkeeper,"May 11, 1974 (32)",NA,NA,Trinidad and Tobago,Fulham FC,Premier League,2006/2007,2006
+6,Centre-Back,"May 2, 1980 (26)",NA,NA,England,Fulham FC,Premier League,2006/2007,2006
+3,Centre-Back,"May 25, 1979 (27)",NA,NA,United States,Fulham FC,Premier League,2006/2007,2006
+19,Centre-Back,"May 7, 1974 (32)",NA,NA,England,Fulham FC,Premier League,2006/2007,2006
+5,Centre-Back,"Aug 31, 1978 (27)",NA,NA,France,Fulham FC,Premier League,2006/2007,2006
+18,Centre-Back,"May 31, 1986 (20)",NA,NA,DR Congo,Fulham FC,Premier League,2006/2007,2006
+4,Left-Back,"Aug 27, 1978 (27)",NA,NA,France,Fulham FC,Premier League,2006/2007,2006
+NA,Left-Back,"Aug 17, 1974 (31)",NA,NA,Denmark,Fulham FC,Premier League,2006/2007,2006
+36,Left-Back,"Mar 6, 1991 (15)",NA,NA,Guyana,Fulham FC,Premier League,2006/2007,2006
+2,Right-Back,"Jan 21, 1983 (23)",NA,NA,Germany,Fulham FC,Premier League,2006/2007,2006
+7,Right-Back,"Jul 9, 1984 (21)",NA,NA,England,Fulham FC,Premier League,2006/2007,2006
+32,Right-Back,"Dec 15, 1988 (17)",NA,NA,England,Fulham FC,Premier League,2006/2007,2006
+37,Defensive Midfield,"May 1, 1975 (31)",NA,NA,Russia,Fulham FC,Premier League,2006/2007,2006
+14,Defensive Midfield,"Jan 28, 1978 (28)",NA,NA,Senegal,Fulham FC,Premier League,2006/2007,2006
+17,Defensive Midfield,"Jun 10, 1974 (32)",NA,NA,New Zealand,Fulham FC,Premier League,2006/2007,2006
+21,Central Midfield,"Oct 23, 1978 (27)",NA,NA,England,Fulham FC,Premier League,2006/2007,2006
+8,Central Midfield,"Jan 25, 1977 (29)",NA,NA,England,Fulham FC,Premier League,2006/2007,2006
+NA,Central Midfield,"Mar 19, 1985 (21)",NA,NA,Ireland,Fulham FC,Premier League,2006/2007,2006
+26,Central Midfield,"Mar 31, 1986 (20)",NA,NA,Wales,Fulham FC,Premier League,2006/2007,2006
+28,Central Midfield,"Jan 2, 1987 (19)",NA,NA,England,Fulham FC,Premier League,2006/2007,2006
+25,Right Midfield,"Oct 23, 1979 (26)",NA,NA,Wales,Fulham FC,Premier League,2006/2007,2006
+27,Right Midfield,"May 30, 1981 (25)",NA,NA,Australia,Fulham FC,Premier League,2006/2007,2006
+NA,Left Midfield,"Aug 4, 1977 (28)",NA,NA,Portugal,Fulham FC,Premier League,2006/2007,2006
+24,Left Midfield,"Nov 29, 1970 (35)",NA,NA,Wales,Fulham FC,Premier League,2006/2007,2006
+16,Attacking Midfield,"Apr 29, 1977 (29)",NA,NA,Denmark,Fulham FC,Premier League,2006/2007,2006
+22,Left Winger,"Jan 7, 1985 (21)",NA,NA,England,Fulham FC,Premier League,2006/2007,2006
+23,Second Striker,"Mar 9, 1983 (23)",NA,NA,United States,Fulham FC,Premier League,2006/2007,2006
+11,Centre-Forward,"Jun 18, 1974 (32)",NA,NA,Italy,Fulham FC,Premier League,2006/2007,2006
+13,Centre-Forward,"Dec 14, 1973 (32)",NA,NA,Canada,Fulham FC,Premier League,2006/2007,2006
+10,Centre-Forward,"Mar 1, 1984 (22)",NA,NA,Sweden,Fulham FC,Premier League,2006/2007,2006
+15,Centre-Forward,"Oct 17, 1985 (20)",NA,NA,Netherlands,Fulham FC,Premier League,2006/2007,2006
+20,Centre-Forward,"Jun 19, 1972 (34)",NA,NA,United States,Fulham FC,Premier League,2006/2007,2006
+9,Centre-Forward,"Aug 22, 1977 (28)",NA,NA,Iceland,Fulham FC,Premier League,2006/2007,2006
+36,Goalkeeper,"Oct 16, 1973 (32)",NA,NA,Norway,Charlton Athletic,Premier League,2006/2007,2006
+38,Goalkeeper,"Sep 3, 1985 (20)",NA,NA,England,Charlton Athletic,Premier League,2006/2007,2006
+13,Goalkeeper,"Nov 26, 1981 (24)",NA,NA,Denmark,Charlton Athletic,Premier League,2006/2007,2006
+31,Goalkeeper,"Apr 30, 1986 (20)",NA,NA,Ireland,Charlton Athletic,Premier League,2006/2007,2006
+33,Goalkeeper,"May 12, 1987 (19)",NA,NA,Ireland,Charlton Athletic,Premier League,2006/2007,2006
+23,Centre-Back,"Dec 24, 1978 (27)",NA,NA,Senegal,Charlton Athletic,Premier League,2006/2007,2006
+3,Centre-Back,"Jul 11, 1974 (31)",NA,NA,Iceland,Charlton Athletic,Premier League,2006/2007,2006
+NA,Centre-Back,"Mar 1, 1980 (26)",NA,NA,Mali,Charlton Athletic,Premier League,2006/2007,2006
+25,Centre-Back,"Oct 9, 1979 (26)",NA,NA,Uruguay,Charlton Athletic,Premier League,2006/2007,2006
+15,Centre-Back,"Jul 8, 1976 (29)",NA,NA,Morocco,Charlton Athletic,Premier League,2006/2007,2006
+17,Centre-Back,"Jan 14, 1980 (26)",NA,NA,United States,Charlton Athletic,Premier League,2006/2007,2006
+24,Centre-Back,"Aug 23, 1980 (25)",NA,NA,England,Charlton Athletic,Premier League,2006/2007,2006
+22,Centre-Back,"Oct 7, 1982 (23)",NA,NA,Algeria,Charlton Athletic,Premier League,2006/2007,2006
+32,Left-Back,"Nov 30, 1975 (30)",NA,NA,Wales,Charlton Athletic,Premier League,2006/2007,2006
+35,Left-Back,"Jan 30, 1987 (19)",NA,NA,England,Charlton Athletic,Premier League,2006/2007,2006
+2,Right-Back,"Jul 19, 1979 (26)",NA,NA,England,Charlton Athletic,Premier League,2006/2007,2006
+28,Right-Back,"Mar 19, 1985 (21)",NA,NA,England,Charlton Athletic,Premier League,2006/2007,2006
+31,Midfielder,"Nov 28, 1987 (18)",NA,NA,England,Charlton Athletic,Premier League,2006/2007,2006
+16,Defensive Midfield,"Sep 9, 1987 (18)",NA,NA,Cameroon,Charlton Athletic,Premier League,2006/2007,2006
+4,Defensive Midfield,"Mar 12, 1977 (29)",NA,NA,Senegal,Charlton Athletic,Premier League,2006/2007,2006
+6,Defensive Midfield,"Jul 30, 1974 (31)",NA,NA,Bulgaria,Charlton Athletic,Premier League,2006/2007,2006
+9,Defensive Midfield,"Aug 20, 1980 (25)",NA,NA,China,Charlton Athletic,Premier League,2006/2007,2006
+8,Central Midfield,"Apr 11, 1974 (32)",NA,NA,Ireland,Charlton Athletic,Premier League,2006/2007,2006
+21,Central Midfield,"Sep 13, 1987 (18)",NA,NA,England,Charlton Athletic,Premier League,2006/2007,2006
+13,Central Midfield,"Feb 28, 1980 (26)",NA,NA,Uruguay,Charlton Athletic,Premier League,2006/2007,2006
+39,Right Midfield,"Feb 25, 1988 (18)",NA,NA,Iceland,Charlton Athletic,Premier League,2006/2007,2006
+5,Left Midfield,"Jul 29, 1982 (23)",NA,NA,Ireland,Charlton Athletic,Premier League,2006/2007,2006
+11,Left Midfield,"Feb 29, 1984 (22)",NA,NA,England,Charlton Athletic,Premier League,2006/2007,2006
+20,Attacking Midfield,"Jun 19, 1976 (30)",NA,NA,England,Charlton Athletic,Premier League,2006/2007,2006
+14,Left Winger,"Mar 23, 1983 (23)",NA,NA,England,Charlton Athletic,Premier League,2006/2007,2006
+19,Right Winger,"Jul 22, 1978 (27)",NA,NA,Denmark,Charlton Athletic,Premier League,2006/2007,2006
+29,Right Winger,"Sep 27, 1984 (21)",NA,NA,Ghana,Charlton Athletic,Premier League,2006/2007,2006
+10,Centre-Forward,"Feb 6, 1984 (22)",NA,NA,England,Charlton Athletic,Premier League,2006/2007,2006
+18,Centre-Forward,"Mar 27, 1972 (34)",NA,NA,Netherlands,Charlton Athletic,Premier League,2006/2007,2006
+7,Centre-Forward,"May 19, 1978 (28)",NA,NA,England,Charlton Athletic,Premier League,2006/2007,2006
+12,Centre-Forward,"Oct 17, 1978 (27)",NA,NA,Jamaica,Charlton Athletic,Premier League,2006/2007,2006
+37,Centre-Forward,"Nov 25, 1987 (18)",NA,NA,Antigua and Barbuda,Charlton Athletic,Premier League,2006/2007,2006
+1,Goalkeeper,"May 18, 1971 (35)",NA,NA,United States,Blackburn Rovers,Premier League,2006/2007,2006
+NA,Goalkeeper,"Mar 10, 1977 (29)",NA,NA,Finland,Blackburn Rovers,Premier League,2006/2007,2006
+23,Goalkeeper,"May 18, 1982 (24)",NA,NA,Wales,Blackburn Rovers,Premier League,2006/2007,2006
+NA,Centre-Back,"Sep 7, 1974 (31)",NA,NA,Switzerland,Blackburn Rovers,Premier League,2006/2007,2006
+2,Centre-Back,"Mar 9, 1978 (28)",NA,NA,Australia,Blackburn Rovers,Premier League,2006/2007,2006
+3,Centre-Back,"Oct 6, 1981 (24)",NA,NA,Georgia,Blackburn Rovers,Premier League,2006/2007,2006
+20,Centre-Back,"Jul 11, 1974 (31)",NA,NA,Netherlands,Blackburn Rovers,Premier League,2006/2007,2006
+NA,Centre-Back,"Oct 18, 1977 (28)",NA,NA,New Zealand,Blackburn Rovers,Premier League,2006/2007,2006
+NA,Centre-Back,"Sep 21, 1974 (31)",NA,NA,England,Blackburn Rovers,Premier League,2006/2007,2006
+15,Centre-Back,"Nov 25, 1980 (25)",NA,NA,South Africa,Blackburn Rovers,Premier League,2006/2007,2006
+24,Centre-Back,"Feb 11, 1985 (21)",NA,NA,Scotland,Blackburn Rovers,Premier League,2006/2007,2006
+NA,Centre-Back,"Mar 28, 1984 (22)",NA,NA,Congo,Blackburn Rovers,Premier League,2006/2007,2006
+NA,Centre-Back,"Aug 5, 1988 (17)",NA,NA,Ireland,Blackburn Rovers,Premier League,2006/2007,2006
+NA,Left-Back,"Dec 12, 1981 (24)",NA,NA,England,Blackburn Rovers,Premier League,2006/2007,2006
+33,Left-Back,"Aug 3, 1974 (31)",NA,NA,England,Blackburn Rovers,Premier League,2006/2007,2006
+NA,Left-Back,"Nov 21, 1977 (28)",NA,NA,Switzerland,Blackburn Rovers,Premier League,2006/2007,2006
+NA,Right-Back,"Mar 10, 1981 (25)",NA,NA,Ireland,Blackburn Rovers,Premier League,2006/2007,2006
+5,Defensive Midfield,"Aug 24, 1970 (35)",NA,NA,Turkey,Blackburn Rovers,Premier League,2006/2007,2006
+12,Central Midfield,"Sep 8, 1981 (24)",NA,NA,Norway,Blackburn Rovers,Premier League,2006/2007,2006
+8,Central Midfield,"Oct 18, 1974 (31)",NA,NA,Wales,Blackburn Rovers,Premier League,2006/2007,2006
+28,Central Midfield,"Aug 9, 1984 (21)",NA,NA,Scotland,Blackburn Rovers,Premier League,2006/2007,2006
+7,Right Midfield,"Feb 22, 1979 (27)",NA,NA,Australia,Blackburn Rovers,Premier League,2006/2007,2006
+11,Right Midfield,"Aug 27, 1984 (21)",NA,NA,England,Blackburn Rovers,Premier League,2006/2007,2006
+31,Left Midfield,"Oct 12, 1986 (19)",NA,NA,Germany,Blackburn Rovers,Premier League,2006/2007,2006
+NA,Attacking Midfield,"Dec 27, 1979 (26)",NA,NA,England,Blackburn Rovers,Premier League,2006/2007,2006
+9,Centre-Forward,"Mar 6, 1977 (29)",NA,NA,DR Congo,Blackburn Rovers,Premier League,2006/2007,2006
+10,Centre-Forward,"Nov 12, 1977 (28)",NA,NA,South Africa,Blackburn Rovers,Premier League,2006/2007,2006
+NA,Centre-Forward,"Jan 25, 1978 (28)",NA,NA,Grenada,Blackburn Rovers,Premier League,2006/2007,2006
+17,Centre-Forward,"Jan 25, 1981 (25)",NA,NA,England,Blackburn Rovers,Premier League,2006/2007,2006
+NA,Centre-Forward,"Nov 10, 1976 (29)",NA,NA,Finland,Blackburn Rovers,Premier League,2006/2007,2006
+NA,Centre-Forward,"Apr 14, 1986 (20)",NA,NA,England,Blackburn Rovers,Premier League,2006/2007,2006
+22,Goalkeeper,"Apr 19, 1975 (31)",NA,NA,Finland,Bolton Wanderers,Premier League,2006/2007,2006
+12,Goalkeeper,"Oct 31, 1971 (34)",NA,NA,England,Bolton Wanderers,Premier League,2006/2007,2006
+1,Goalkeeper,"Dec 30, 1981 (24)",NA,NA,Oman,Bolton Wanderers,Premier League,2006/2007,2006
+30,Goalkeeper,"May 23, 1986 (20)",NA,NA,England,Bolton Wanderers,Premier League,2006/2007,2006
+30,Goalkeeper,"May 5, 1988 (18)",NA,NA,Poland,Bolton Wanderers,Premier League,2006/2007,2006
+43,Goalkeeper,"Oct 9, 1986 (19)",NA,NA,England,Bolton Wanderers,Premier League,2006/2007,2006
+5,Centre-Back,"Oct 6, 1980 (25)",NA,NA,Cote d'Ivoire,Bolton Wanderers,Premier League,2006/2007,2006
+25,Centre-Back,"Feb 26, 1978 (28)",NA,NA,Senegal,Bolton Wanderers,Premier League,2006/2007,2006
+26,Centre-Back,"Mar 31, 1982 (24)",NA,NA,Israel,Bolton Wanderers,Premier League,2006/2007,2006
+27,Centre-Back,"Apr 2, 1977 (29)",NA,NA,Spain,Bolton Wanderers,Premier League,2006/2007,2006
+32,Centre-Back,"Oct 17, 1987 (18)",NA,NA,Poland,Bolton Wanderers,Premier League,2006/2007,2006
+28,Centre-Back,"Aug 13, 1983 (22)",NA,NA,Slovakia,Bolton Wanderers,Premier League,2006/2007,2006
+44,Centre-Back,"Jan 26, 1988 (18)",NA,NA,Poland,Bolton Wanderers,Premier League,2006/2007,2006
+11,Left-Back,"Sep 25, 1978 (27)",NA,NA,Jamaica,Bolton Wanderers,Premier League,2006/2007,2006
+42,Left-Back,"Apr 25, 1987 (19)",NA,NA,United States,Bolton Wanderers,Premier League,2006/2007,2006
+46,Left-Back,"Oct 13, 1988 (17)",NA,NA,Australia,Bolton Wanderers,Premier League,2006/2007,2006
+24,Right-Back,"Feb 17, 1986 (20)",NA,NA,Ireland,Bolton Wanderers,Premier League,2006/2007,2006
+2,Right-Back,"Sep 3, 1983 (22)",NA,NA,England,Bolton Wanderers,Premier League,2006/2007,2006
+31,Right-Back,"Oct 22, 1987 (18)",NA,NA,England,Bolton Wanderers,Premier League,2006/2007,2006
+8,Defensive Midfield,"Feb 21, 1974 (32)",NA,NA,Spain,Bolton Wanderers,Premier League,2006/2007,2006
+23,Defensive Midfield,"Sep 13, 1975 (30)",NA,NA,Israel,Bolton Wanderers,Premier League,2006/2007,2006
+16,Defensive Midfield,"Mar 6, 1983 (23)",NA,NA,Iran,Bolton Wanderers,Premier League,2006/2007,2006
+17,Central Midfield,"May 21, 1977 (29)",NA,NA,South Africa,Bolton Wanderers,Premier League,2006/2007,2006
+15,Right Midfield,"Sep 12, 1977 (28)",NA,NA,England,Bolton Wanderers,Premier League,2006/2007,2006
+6,Left Midfield,"Sep 8, 1969 (36)",NA,NA,Wales,Bolton Wanderers,Premier League,2006/2007,2006
+4,Attacking Midfield,"Jun 24, 1982 (24)",NA,NA,England,Bolton Wanderers,Premier League,2006/2007,2006
+7,Right Winger,"Jul 12, 1974 (31)",NA,NA,Greece,Bolton Wanderers,Premier League,2006/2007,2006
+20,Right Winger,"Oct 1, 1986 (19)",NA,NA,Portugal,Bolton Wanderers,Premier League,2006/2007,2006
+39,Centre-Forward,"Mar 14, 1979 (27)",NA,NA,France,Bolton Wanderers,Premier League,2006/2007,2006
+21,Centre-Forward,"Jan 15, 1981 (25)",NA,NA,Senegal,Bolton Wanderers,Premier League,2006/2007,2006
+14,Centre-Forward,"Mar 26, 1977 (29)",NA,NA,England,Bolton Wanderers,Premier League,2006/2007,2006
+9,Centre-Forward,"Jun 10, 1975 (31)",NA,NA,Denmark,Bolton Wanderers,Premier League,2006/2007,2006
+27,Centre-Forward,"Jun 16, 1986 (20)",NA,NA,Martinique,Bolton Wanderers,Premier League,2006/2007,2006
+29,Centre-Forward,"Jun 1, 1987 (19)",NA,NA,Hungary,Bolton Wanderers,Premier League,2006/2007,2006
+13,Goalkeeper,"May 2, 1981 (25)",NA,NA,England,Wigan Athletic,Premier League,2006/2007,2006
+1,Goalkeeper,"Feb 8, 1970 (36)",NA,NA,Australia,Wigan Athletic,Premier League,2006/2007,2006
+12,Goalkeeper,"Feb 29, 1972 (34)",NA,NA,England,Wigan Athletic,Premier League,2006/2007,2006
+28,Goalkeeper,"Sep 13, 1973 (32)",NA,NA,England,Wigan Athletic,Premier League,2006/2007,2006
+5,Centre-Back,"Dec 20, 1980 (25)",NA,NA,England,Wigan Athletic,Premier League,2006/2007,2006
+18,Centre-Back,"Mar 11, 1980 (26)",NA,NA,Austria,Wigan Athletic,Premier League,2006/2007,2006
+6,Centre-Back,"Apr 16, 1970 (36)",NA,NA,Netherlands,Wigan Athletic,Premier League,2006/2007,2006
+NA,Centre-Back,"Apr 23, 1982 (24)",NA,NA,Scotland,Wigan Athletic,Premier League,2006/2007,2006
+2,Centre-Back,"Apr 16, 1985 (21)",NA,NA,Sweden,Wigan Athletic,Premier League,2006/2007,2006
+10,Centre-Back,"May 14, 1978 (28)",NA,NA,Scotland,Wigan Athletic,Premier League,2006/2007,2006
+25,Left-Back,"Oct 16, 1973 (32)",NA,NA,England,Wigan Athletic,Premier League,2006/2007,2006
+26,Left-Back,"Dec 11, 1984 (21)",NA,NA,England,Wigan Athletic,Premier League,2006/2007,2006
+3,Left-Back,"Jan 19, 1976 (30)",NA,NA,Scotland,Wigan Athletic,Premier League,2006/2007,2006
+NA,Right-Back,"Feb 21, 1979 (27)",NA,NA,Guadeloupe,Wigan Athletic,Premier League,2006/2007,2006
+16,Right-Back,"Aug 4, 1985 (20)",NA,NA,Ecuador,Wigan Athletic,Premier League,2006/2007,2006
+19,Right-Back,"Aug 19, 1984 (21)",NA,NA,England,Wigan Athletic,Premier League,2006/2007,2006
+4,Right-Back,"Oct 19, 1971 (34)",NA,NA,England,Wigan Athletic,Premier League,2006/2007,2006
+17,Right-Back,"Sep 24, 1979 (26)",NA,NA,Barbados,Wigan Athletic,Premier League,2006/2007,2006
+32,Midfielder,"Oct 10, 1988 (17)",NA,NA,England,Wigan Athletic,Premier League,2006/2007,2006
+NA,Defensive Midfield,"May 1, 1980 (26)",NA,NA,England,Wigan Athletic,Premier League,2006/2007,2006
+21,Defensive Midfield,"Jun 27, 1988 (18)",NA,NA,Poland,Wigan Athletic,Premier League,2006/2007,2006
+14,Central Midfield,"May 6, 1976 (30)",NA,NA,Netherlands,Wigan Athletic,Premier League,2006/2007,2006
+24,Central Midfield,"Dec 10, 1975 (30)",NA,NA,Australia,Wigan Athletic,Premier League,2006/2007,2006
+NA,Central Midfield,"Dec 2, 1973 (32)",NA,NA,Ireland,Wigan Athletic,Premier League,2006/2007,2006
+11,Central Midfield,"Jul 5, 1978 (27)",NA,NA,Sweden,Wigan Athletic,Premier League,2006/2007,2006
+NA,Central Midfield,"Dec 9, 1983 (22)",NA,NA,Norway,Wigan Athletic,Premier League,2006/2007,2006
+31,Central Midfield,"Nov 17, 1988 (17)",NA,NA,England,Wigan Athletic,Premier League,2006/2007,2006
+27,Right Midfield,"Jan 2, 1990 (16)",NA,NA,Poland,Wigan Athletic,Premier League,2006/2007,2006
+8,Left Midfield,"Feb 1, 1977 (29)",NA,NA,Ireland,Wigan Athletic,Premier League,2006/2007,2006
+NA,Right Winger,"Jul 21, 1978 (27)",NA,NA,Scotland,Wigan Athletic,Premier League,2006/2007,2006
+22,Right Winger,"Dec 4, 1987 (18)",NA,NA,Wales,Wigan Athletic,Premier League,2006/2007,2006
+7,Centre-Forward,"May 10, 1977 (29)",NA,NA,Senegal,Wigan Athletic,Premier League,2006/2007,2006
+9,Centre-Forward,"Jan 11, 1978 (28)",NA,NA,England,Wigan Athletic,Premier League,2006/2007,2006
+NA,Centre-Forward,"Aug 30, 1978 (27)",NA,NA,Bulgaria,Wigan Athletic,Premier League,2006/2007,2006
+NA,Centre-Forward,"Jun 6, 1977 (29)",NA,NA,Ireland,Wigan Athletic,Premier League,2006/2007,2006
+15,Centre-Forward,"Feb 12, 1982 (24)",NA,NA,Nigeria,Wigan Athletic,Premier League,2006/2007,2006
+20,Centre-Forward,"Oct 26, 1982 (23)",NA,NA,Ireland,Wigan Athletic,Premier League,2006/2007,2006
+29,Goalkeeper,"Jan 22, 1973 (33)",NA,NA,England,Sheffield United,Premier League,2006/2007,2006
+1,Goalkeeper,"May 17, 1978 (28)",NA,NA,Ireland,Sheffield United,Premier League,2006/2007,2006
+13,Goalkeeper,"Oct 10, 1971 (34)",NA,NA,England,Sheffield United,Premier League,2006/2007,2006
+40,Goalkeeper,"Jun 21, 1988 (18)",NA,NA,England,Sheffield United,Premier League,2006/2007,2006
+14,Centre-Back,"Aug 10, 1974 (31)",NA,NA,Guadeloupe,Sheffield United,Premier League,2006/2007,2006
+39,Centre-Back,"Aug 23, 1979 (26)",NA,NA,Senegal,Sheffield United,Premier League,2006/2007,2006
+6,Centre-Back,"Aug 17, 1982 (23)",NA,NA,England,Sheffield United,Premier League,2006/2007,2006
+5,Centre-Back,"Nov 9, 1977 (28)",NA,NA,England,Sheffield United,Premier League,2006/2007,2006
+24,Centre-Back,"Jun 25, 1968 (38)",NA,NA,England,Sheffield United,Premier League,2006/2007,2006
+22,Centre-Back,"Sep 28, 1971 (34)",NA,NA,England,Sheffield United,Premier League,2006/2007,2006
+4,Centre-Back,"Mar 6, 1979 (27)",NA,NA,Jamaica,Sheffield United,Premier League,2006/2007,2006
+16,Centre-Back,"Jan 8, 1984 (22)",NA,NA,England,Sheffield United,Premier League,2006/2007,2006
+NA,Left-Back,"Oct 16, 1973 (32)",NA,NA,England,Sheffield United,Premier League,2006/2007,2006
+NA,Left-Back,"Sep 28, 1971 (34)",NA,NA,England,Sheffield United,Premier League,2006/2007,2006
+20,Left-Back,"Aug 5, 1982 (23)",NA,NA,Scotland,Sheffield United,Premier League,2006/2007,2006
+32,Left-Back,"Mar 10, 1986 (20)",NA,NA,England,Sheffield United,Premier League,2006/2007,2006
+2,Right-Back,"Jun 2, 1980 (26)",NA,NA,England,Sheffield United,Premier League,2006/2007,2006
+26,Right-Back,"Jun 19, 1980 (26)",NA,NA,Ireland,Sheffield United,Premier League,2006/2007,2006
+15,Right-Back,"Aug 5, 1977 (28)",NA,NA,England,Sheffield United,Premier League,2006/2007,2006
+NA,Right-Back,"Jan 7, 1987 (19)",NA,NA,Poland,Sheffield United,Premier League,2006/2007,2006
+23,Right-Back,"Nov 10, 1984 (21)",NA,NA,Egypt,Sheffield United,Premier League,2006/2007,2006
+30,Defensive Midfield,"May 18, 1977 (29)",NA,NA,China,Sheffield United,Premier League,2006/2007,2006
+4,Defensive Midfield,"Oct 28, 1981 (24)",NA,NA,Scotland,Sheffield United,Premier League,2006/2007,2006
+21,Defensive Midfield,"Nov 12, 1982 (23)",NA,NA,Antigua and Barbuda,Sheffield United,Premier League,2006/2007,2006
+19,Central Midfield,"Feb 18, 1975 (31)",NA,NA,Northern Ireland,Sheffield United,Premier League,2006/2007,2006
+12,Central Midfield,"Jun 13, 1979 (27)",NA,NA,Ireland,Sheffield United,Premier League,2006/2007,2006
+18,Central Midfield,"Apr 7, 1983 (23)",NA,NA,England,Sheffield United,Premier League,2006/2007,2006
+36,Central Midfield,"Jan 13, 1986 (20)",NA,NA,England,Sheffield United,Premier League,2006/2007,2006
+28,Central Midfield,"Apr 1, 1986 (20)",NA,NA,Ireland,Sheffield United,Premier League,2006/2007,2006
+31,Central Midfield,"Mar 29, 1988 (18)",NA,NA,England,Sheffield United,Premier League,2006/2007,2006
+NA,Right Midfield,"Aug 27, 1985 (20)",NA,NA,England,Sheffield United,Premier League,2006/2007,2006
+7,Left Winger,"Nov 11, 1985 (20)",NA,NA,Jamaica,Sheffield United,Premier League,2006/2007,2006
+NA,Right Winger,"Oct 20, 1979 (26)",NA,NA,Barbados,Sheffield United,Premier League,2006/2007,2006
+NA,Centre-Forward,"Oct 10, 1974 (31)",NA,NA,Nigeria,Sheffield United,Premier League,2006/2007,2006
+8,Centre-Forward,"Apr 7, 1983 (23)",NA,NA,England,Sheffield United,Premier League,2006/2007,2006
+9,Centre-Forward,"Oct 25, 1979 (26)",NA,NA,England,Sheffield United,Premier League,2006/2007,2006
+10,Centre-Forward,"Dec 28, 1981 (24)",NA,NA,England,Sheffield United,Premier League,2006/2007,2006
+30,Centre-Forward,"Nov 1, 1973 (32)",NA,NA,England,Sheffield United,Premier League,2006/2007,2006
+NA,Centre-Forward,"Mar 7, 1981 (25)",NA,NA,England,Sheffield United,Premier League,2006/2007,2006
+27,Centre-Forward,"Sep 18, 1984 (21)",NA,NA,France,Sheffield United,Premier League,2006/2007,2006
+32,Centre-Forward,"Aug 26, 1986 (19)",NA,NA,Turkey,Sheffield United,Premier League,2006/2007,2006
+NA,Centre-Forward,"Sep 23, 1985 (20)",NA,NA,England,Sheffield United,Premier League,2006/2007,2006
+NA,Centre-Forward,"Jul 25, 1986 (19)",NA,NA,Barbados,Sheffield United,Premier League,2006/2007,2006
+1,Goalkeeper,"Jun 15, 1972 (34)",NA,NA,United States,Reading FC,Premier League,2006/2007,2006
+21,Goalkeeper,"Sep 26, 1981 (24)",NA,NA,Ireland,Reading FC,Premier League,2006/2007,2006
+32,Goalkeeper,"Jan 31, 1985 (21)",NA,NA,Australia,Reading FC,Premier League,2006/2007,2006
+36,Goalkeeper,"Dec 17, 1988 (17)",NA,NA,Denmark,Reading FC,Premier League,2006/2007,2006
+29,Centre-Back,"Oct 14, 1975 (30)",NA,NA,England,Reading FC,Premier League,2006/2007,2006
+25,Centre-Back,"Jan 8, 1985 (21)",NA,NA,Cameroon,Reading FC,Premier League,2006/2007,2006
+16,Centre-Back,"Aug 20, 1977 (28)",NA,NA,Iceland,Reading FC,Premier League,2006/2007,2006
+5,Centre-Back,"Jan 22, 1981 (25)",NA,NA,Senegal,Reading FC,Premier League,2006/2007,2006
+27,Centre-Back,"Jun 23, 1983 (23)",NA,NA,England,Reading FC,Premier League,2006/2007,2006
+NA,Centre-Back,"Nov 9, 1988 (17)",NA,NA,Ireland,Reading FC,Premier League,2006/2007,2006
+18,Centre-Back,"May 25, 1979 (27)",NA,NA,Nigeria,Reading FC,Premier League,2006/2007,2006
+25,Centre-Back,"Oct 4, 1981 (24)",NA,NA,Ireland,Reading FC,Premier League,2006/2007,2006
+28,Centre-Back,"Dec 8, 1984 (21)",NA,NA,England,Reading FC,Premier League,2006/2007,2006
+47,Centre-Back,"Dec 2, 1984 (21)",NA,NA,Hungary,Reading FC,Premier League,2006/2007,2006
+3,Left-Back,"Feb 19, 1981 (25)",NA,NA,England,Reading FC,Premier League,2006/2007,2006
+NA,Left-Back,"Feb 29, 1988 (18)",NA,NA,England,Reading FC,Premier League,2006/2007,2006
+23,Right-Back,"Feb 8, 1974 (32)",NA,NA,Ecuador,Reading FC,Premier League,2006/2007,2006
+2,Right-Back,"Nov 13, 1974 (31)",NA,NA,Scotland,Reading FC,Premier League,2006/2007,2006
+26,Right-Back,"Mar 8, 1987 (19)",NA,NA,Kenya,Reading FC,Premier League,2006/2007,2006
+NA,Midfielder,"Dec 5, 1983 (22)",NA,NA,Senegal,Reading FC,Premier League,2006/2007,2006
+6,Defensive Midfield,"Oct 16, 1975 (30)",NA,NA,Iceland,Reading FC,Premier League,2006/2007,2006
+14,Defensive Midfield,"Feb 14, 1982 (24)",NA,NA,England,Reading FC,Premier League,2006/2007,2006
+15,Central Midfield,"Nov 9, 1980 (25)",NA,NA,England,Reading FC,Premier League,2006/2007,2006
+4,Central Midfield,"Dec 14, 1982 (23)",NA,NA,England,Reading FC,Premier League,2006/2007,2006
+11,Central Midfield,"Dec 8, 1978 (27)",NA,NA,Wales,Reading FC,Premier League,2006/2007,2006
+37,Central Midfield,"Jan 8, 1989 (17)",NA,NA,Australia,Reading FC,Premier League,2006/2007,2006
+17,Left Midfield,"May 27, 1983 (23)",NA,NA,United States,Reading FC,Premier League,2006/2007,2006
+10,Left Midfield,"Aug 1, 1981 (24)",NA,NA,Ireland,Reading FC,Premier League,2006/2007,2006
+43,Left Winger,"Jan 25, 1990 (16)",NA,NA,Iceland,Reading FC,Premier League,2006/2007,2006
+19,Right Winger,"Jan 8, 1979 (27)",NA,NA,"Korea, South",Reading FC,Premier League,2006/2007,2006
+7,Right Winger,"Oct 15, 1975 (30)",NA,NA,England,Reading FC,Premier League,2006/2007,2006
+34,Right Winger,"Jun 10, 1989 (17)",NA,NA,England,Reading FC,Premier League,2006/2007,2006
+8,Centre-Forward,"Dec 28, 1984 (21)",NA,NA,England,Reading FC,Premier League,2006/2007,2006
+9,Centre-Forward,"Sep 18, 1983 (22)",NA,NA,Ireland,Reading FC,Premier League,2006/2007,2006
+12,Centre-Forward,"Jan 21, 1980 (26)",NA,NA,England,Reading FC,Premier League,2006/2007,2006
+24,Centre-Forward,"Jan 22, 1987 (19)",NA,NA,Ireland,Reading FC,Premier League,2006/2007,2006
+NA,Centre-Forward,"Apr 28, 1987 (19)",NA,NA,Ireland,Reading FC,Premier League,2006/2007,2006
+26,Goalkeeper,"Apr 3, 1983 (23)",NA,NA,England,Watford FC,Premier League,2006/2007,2006
+1,Goalkeeper,"Jun 20, 1964 (42)",NA,NA,England,Watford FC,Premier League,2006/2007,2006
+16,Goalkeeper,"Oct 5, 1982 (23)",NA,NA,England,Watford FC,Premier League,2006/2007,2006
+33,Goalkeeper,"May 27, 1988 (18)",NA,NA,England,Watford FC,Premier League,2006/2007,2006
+4,Centre-Back,"Feb 19, 1972 (34)",NA,NA,Scotland,Watford FC,Premier League,2006/2007,2006
+12,Centre-Back,"Dec 1, 1982 (23)",NA,NA,Jamaica,Watford FC,Premier League,2006/2007,2006
+5,Centre-Back,"Oct 14, 1979 (26)",NA,NA,England,Watford FC,Premier League,2006/2007,2006
+6,Centre-Back,"Dec 4, 1979 (26)",NA,NA,United States,Watford FC,Premier League,2006/2007,2006
+17,Centre-Back,"Sep 2, 1980 (25)",NA,NA,Nigeria,Watford FC,Premier League,2006/2007,2006
+23,Centre-Back,"Oct 3, 1986 (19)",NA,NA,Jamaica,Watford FC,Premier League,2006/2007,2006
+32,Centre-Back,"Sep 11, 1986 (19)",NA,NA,Guadeloupe,Watford FC,Premier League,2006/2007,2006
+34,Centre-Back,"Oct 9, 1987 (18)",NA,NA,England,Watford FC,Premier League,2006/2007,2006
+15,Left-Back,"Jul 9, 1985 (20)",NA,NA,England,Watford FC,Premier League,2006/2007,2006
+3,Left-Back,"Mar 3, 1982 (24)",NA,NA,England,Watford FC,Premier League,2006/2007,2006
+11,Left-Back,"Sep 8, 1969 (36)",NA,NA,England,Watford FC,Premier League,2006/2007,2006
+22,Left-Back,"Feb 12, 1988 (18)",NA,NA,England,Watford FC,Premier League,2006/2007,2006
+30,Left-Back,"Jul 26, 1989 (16)",NA,NA,England,Watford FC,Premier League,2006/2007,2006
+2,Right-Back,"Nov 20, 1980 (25)",NA,NA,England,Watford FC,Premier League,2006/2007,2006
+NA,Right-Back,"Nov 15, 1987 (18)",NA,NA,England,Watford FC,Premier League,2006/2007,2006
+35,Midfielder,"Oct 11, 1988 (17)",NA,NA,England,Watford FC,Premier League,2006/2007,2006
+21,Defensive Midfield,"Jun 9, 1987 (19)",NA,NA,France,Watford FC,Premier League,2006/2007,2006
+7,Central Midfield,"Feb 27, 1979 (27)",NA,NA,Jamaica,Watford FC,Premier League,2006/2007,2006
+25,Central Midfield,"Dec 16, 1981 (24)",NA,NA,Scotland,Watford FC,Premier League,2006/2007,2006
+8,Central Midfield,"Jan 2, 1977 (29)",NA,NA,England,Watford FC,Premier League,2006/2007,2006
+20,Central Midfield,"Jan 24, 1988 (18)",NA,NA,Sierra Leone,Watford FC,Premier League,2006/2007,2006
+25,Central Midfield,"Nov 17, 1979 (26)",NA,NA,England,Watford FC,Premier League,2006/2007,2006
+14,Central Midfield,"Sep 2, 1985 (20)",NA,NA,England,Watford FC,Premier League,2006/2007,2006
+31,Central Midfield,"Aug 29, 1979 (26)",NA,NA,Brazil,Watford FC,Premier League,2006/2007,2006
+38,Central Midfield,"Jun 7, 1982 (24)",NA,NA,Jamaica,Watford FC,Premier League,2006/2007,2006
+19,Right Midfield,"Jul 13, 1984 (21)",NA,NA,England,Watford FC,Premier League,2006/2007,2006
+28,Left Midfield,"Oct 23, 1984 (21)",NA,NA,Sierra Leone,Watford FC,Premier League,2006/2007,2006
+41,Attacking Midfield,"Sep 12, 1981 (24)",NA,NA,France,Watford FC,Premier League,2006/2007,2006
+NA,Left Winger,"Jun 2, 1988 (18)",NA,NA,Cote d'Ivoire,Watford FC,Premier League,2006/2007,2006
+18,Right Winger,"Feb 22, 1985 (21)",NA,NA,Algeria,Watford FC,Premier League,2006/2007,2006
+27,Right Winger,"Aug 26, 1987 (18)",NA,NA,Jamaica,Watford FC,Premier League,2006/2007,2006
+9,Centre-Forward,"Apr 26, 1980 (26)",NA,NA,Jamaica,Watford FC,Premier League,2006/2007,2006
+15,Centre-Forward,"Mar 7, 1981 (25)",NA,NA,England,Watford FC,Premier League,2006/2007,2006
+10,Centre-Forward,"Sep 7, 1981 (24)",NA,NA,England,Watford FC,Premier League,2006/2007,2006
+29,Centre-Forward,"May 22, 1980 (26)",NA,NA,England,Watford FC,Premier League,2006/2007,2006
+36,Centre-Forward,"Jun 27, 1987 (19)",NA,NA,Antigua and Barbuda,Watford FC,Premier League,2006/2007,2006
+37,Centre-Forward,"May 6, 1986 (20)",NA,NA,England,Watford FC,Premier League,2006/2007,2006
+40,Centre-Forward,"Jan 22, 1989 (17)",NA,NA,Jamaica,Watford FC,Premier League,2006/2007,2006
+24,Centre-Forward,"Sep 27, 1986 (19)",NA,NA,Hungary,Watford FC,Premier League,2006/2007,2006

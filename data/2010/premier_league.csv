@@ -1,0 +1,755 @@
+shirt_number,position,player_name,date_of_birth,age,nationality,club_name,league_name,season,year
+1,Goalkeeper,"May 20, 1982 (28)",NA,NA,Czech Republic,Chelsea FC,Premier League,2010/2011,2010
+22,Goalkeeper,"Jan 4, 1985 (25)",NA,NA,England,Chelsea FC,Premier League,2010/2011,2010
+40,Goalkeeper,"Oct 21, 1975 (34)",NA,NA,Portugal,Chelsea FC,Premier League,2010/2011,2010
+26,Centre-Back,"Dec 7, 1980 (29)",NA,NA,England,Chelsea FC,Premier League,2010/2011,2010
+2,Centre-Back,"Feb 22, 1984 (26)",NA,NA,Serbia,Chelsea FC,Premier League,2010/2011,2010
+33,Centre-Back,"Jun 17, 1982 (28)",NA,NA,Brazil,Chelsea FC,Premier League,2010/2011,2010
+4,Centre-Back,"Apr 22, 1987 (23)",NA,NA,Brazil,Chelsea FC,Premier League,2010/2011,2010
+42,Centre-Back,"Jan 8, 1988 (22)",NA,NA,England,Chelsea FC,Premier League,2010/2011,2010
+43,Centre-Back,"Nov 13, 1991 (18)",NA,NA,Netherlands,Chelsea FC,Premier League,2010/2011,2010
+3,Left-Back,"Dec 20, 1980 (29)",NA,NA,England,Chelsea FC,Premier League,2010/2011,2010
+34,Left-Back,"Aug 5, 1989 (20)",NA,NA,England,Chelsea FC,Premier League,2010/2011,2010
+38,Left-Back,"Aug 29, 1990 (19)",NA,NA,Netherlands,Chelsea FC,Premier League,2010/2011,2010
+17,Right-Back,"Aug 24, 1982 (27)",NA,NA,Portugal,Chelsea FC,Premier League,2010/2011,2010
+19,Right-Back,"Jan 18, 1979 (31)",NA,NA,Portugal,Chelsea FC,Premier League,2010/2011,2010
+NA,Right-Back,"Dec 5, 1991 (18)",NA,NA,Italy,Chelsea FC,Premier League,2010/2011,2010
+5,Defensive Midfield,"Dec 3, 1982 (27)",NA,NA,Ghana,Chelsea FC,Premier League,2010/2011,2010
+12,Defensive Midfield,"Apr 22, 1987 (23)",NA,NA,Nigeria,Chelsea FC,Premier League,2010/2011,2010
+NA,Defensive Midfield,"Dec 12, 1994 (15)",NA,NA,England,Chelsea FC,Premier League,2010/2011,2010
+8,Central Midfield,"Jun 20, 1978 (32)",NA,NA,England,Chelsea FC,Premier League,2010/2011,2010
+7,Central Midfield,"Mar 24, 1987 (23)",NA,NA,Brazil,Chelsea FC,Premier League,2010/2011,2010
+NA,Central Midfield,"Jan 8, 1991 (19)",NA,NA,England,Chelsea FC,Premier League,2010/2011,2010
+NA,Central Midfield,"Oct 18, 1992 (17)",NA,NA,England,Chelsea FC,Premier League,2010/2011,2010
+46,Central Midfield,"Mar 1, 1993 (17)",NA,NA,England,Chelsea FC,Premier League,2010/2011,2010
+18,Left Midfield,"Aug 20, 1983 (26)",NA,NA,Russia,Chelsea FC,Premier League,2010/2011,2010
+15,Left Winger,"Jun 13, 1980 (30)",NA,NA,French Guiana,Chelsea FC,Premier League,2010/2011,2010
+21,Left Winger,"Aug 5, 1985 (24)",NA,NA,Cote d'Ivoire,Chelsea FC,Premier League,2010/2011,2010
+44,Left Winger,"Jun 21, 1991 (19)",NA,NA,DR Congo,Chelsea FC,Premier League,2010/2011,2010
+NA,Left Winger,"Mar 29, 1991 (19)",NA,NA,Italy,Chelsea FC,Premier League,2010/2011,2010
+10,Right Winger,"May 5, 1980 (30)",NA,NA,Israel,Chelsea FC,Premier League,2010/2011,2010
+9,Centre-Forward,"Mar 20, 1984 (26)",NA,NA,Spain,Chelsea FC,Premier League,2010/2011,2010
+11,Centre-Forward,"Mar 11, 1978 (32)",NA,NA,Cote d'Ivoire,Chelsea FC,Premier League,2010/2011,2010
+39,Centre-Forward,"Mar 14, 1979 (31)",NA,NA,France,Chelsea FC,Premier League,2010/2011,2010
+23,Centre-Forward,"Sep 1, 1989 (20)",NA,NA,England,Chelsea FC,Premier League,2010/2011,2010
+1,Goalkeeper,"Oct 29, 1970 (39)",NA,NA,Netherlands,Manchester United,Premier League,2010/2011,2010
+29,Goalkeeper,"Mar 20, 1982 (28)",NA,NA,Poland,Manchester United,Premier League,2010/2011,2010
+34,Goalkeeper,"Apr 13, 1984 (26)",NA,NA,Denmark,Manchester United,Premier League,2010/2011,2010
+40,Goalkeeper,"Apr 10, 1990 (20)",NA,NA,England,Manchester United,Premier League,2010/2011,2010
+15,Centre-Back,"Oct 21, 1981 (28)",NA,NA,Serbia,Manchester United,Premier League,2010/2011,2010
+5,Centre-Back,"Nov 7, 1978 (31)",NA,NA,England,Manchester United,Premier League,2010/2011,2010
+23,Centre-Back,"Jan 3, 1988 (22)",NA,NA,Northern Ireland,Manchester United,Premier League,2010/2011,2010
+6,Centre-Back,"Oct 13, 1979 (30)",NA,NA,England,Manchester United,Premier League,2010/2011,2010
+22,Centre-Back,"Apr 30, 1981 (29)",NA,NA,Ireland,Manchester United,Premier League,2010/2011,2010
+12,Centre-Back,"Nov 22, 1989 (20)",NA,NA,England,Manchester United,Premier League,2010/2011,2010
+45,Centre-Back,"Sep 15, 1990 (19)",NA,NA,England,Manchester United,Premier League,2010/2011,2010
+3,Left-Back,"May 15, 1981 (29)",NA,NA,France,Manchester United,Premier League,2010/2011,2010
+25,Right-Back,"Aug 4, 1985 (24)",NA,NA,Ecuador,Manchester United,Premier League,2010/2011,2010
+21,Right-Back,"Jul 9, 1990 (19)",NA,NA,Brazil,Manchester United,Premier League,2010/2011,2010
+2,Right-Back,"Feb 18, 1975 (35)",NA,NA,England,Manchester United,Premier League,2010/2011,2010
+20,Right-Back,"Jul 9, 1990 (19)",NA,NA,Brazil,Manchester United,Premier League,2010/2011,2010
+30,Right-Back,"Nov 28, 1988 (21)",NA,NA,Belgium,Manchester United,Premier League,2010/2011,2010
+16,Defensive Midfield,"Jul 28, 1981 (28)",NA,NA,England,Manchester United,Premier League,2010/2011,2010
+4,Defensive Midfield,"Jan 20, 1981 (29)",NA,NA,England,Manchester United,Premier League,2010/2011,2010
+8,Central Midfield,"Apr 13, 1988 (22)",NA,NA,Brazil,Manchester United,Premier League,2010/2011,2010
+24,Central Midfield,"Feb 1, 1984 (26)",NA,NA,Scotland,Manchester United,Premier League,2010/2011,2010
+18,Central Midfield,"Nov 16, 1974 (35)",NA,NA,England,Manchester United,Premier League,2010/2011,2010
+28,Central Midfield,"Oct 25, 1987 (22)",NA,NA,Ireland,Manchester United,Premier League,2010/2011,2010
+35,Central Midfield,"Aug 12, 1989 (20)",NA,NA,England,Manchester United,Premier League,2010/2011,2010
+31,Central Midfield,"Jul 30, 1990 (19)",NA,NA,Northern Ireland,Manchester United,Premier League,2010/2011,2010
+42,Central Midfield,"Aug 8, 1990 (19)",NA,NA,Norway,Manchester United,Premier League,2010/2011,2010
+42,Central Midfield,"Mar 15, 1993 (17)",NA,NA,France,Manchester United,Premier League,2010/2011,2010
+46,Central Midfield,"Dec 30, 1992 (17)",NA,NA,England,Manchester United,Premier League,2010/2011,2010
+11,Left Midfield,"Nov 29, 1973 (36)",NA,NA,Wales,Manchester United,Premier League,2010/2011,2010
+37,Left Midfield,"Jan 14, 1992 (18)",NA,NA,Ireland,Manchester United,Premier League,2010/2011,2010
+13,Attacking Midfield,"Feb 25, 1981 (29)",NA,NA,"Korea, South",Manchester United,Premier League,2010/2011,2010
+49,Attacking Midfield,"Feb 2, 1993 (17)",NA,NA,Jamaica,Manchester United,Premier League,2010/2011,2010
+17,Left Winger,"Nov 17, 1986 (23)",NA,NA,Portugal,Manchester United,Premier League,2010/2011,2010
+33,Left Winger,"Jul 12, 1990 (19)",NA,NA,Portugal,Manchester United,Premier League,2010/2011,2010
+26,Right Winger,"Feb 26, 1989 (21)",NA,NA,France,Manchester United,Premier League,2010/2011,2010
+41,Second Striker,"Jan 15, 1992 (18)",NA,NA,Norway,Manchester United,Premier League,2010/2011,2010
+10,Centre-Forward,"Oct 24, 1985 (24)",NA,NA,England,Manchester United,Premier League,2010/2011,2010
+9,Centre-Forward,"Jan 30, 1981 (29)",NA,NA,Bulgaria,Manchester United,Premier League,2010/2011,2010
+7,Centre-Forward,"Dec 14, 1979 (30)",NA,NA,England,Manchester United,Premier League,2010/2011,2010
+14,Centre-Forward,"Jun 1, 1988 (22)",NA,NA,Mexico,Manchester United,Premier League,2010/2011,2010
+32,Centre-Forward,"Dec 16, 1987 (22)",NA,NA,Senegal,Manchester United,Premier League,2010/2011,2010
+19,Centre-Forward,"Nov 26, 1990 (19)",NA,NA,England,Manchester United,Premier League,2010/2011,2010
+27,Centre-Forward,"Aug 22, 1991 (18)",NA,NA,Italy,Manchester United,Premier League,2010/2011,2010
+1,Goalkeeper,"Apr 20, 1976 (34)",NA,NA,Ireland,Manchester City,Premier League,2010/2011,2010
+25,Goalkeeper,"Apr 19, 1987 (23)",NA,NA,England,Manchester City,Premier League,2010/2011,2010
+12,Goalkeeper,"Nov 28, 1980 (29)",NA,NA,England,Manchester City,Premier League,2010/2011,2010
+26,Goalkeeper,"Jul 20, 1982 (27)",NA,NA,Colombia,Manchester City,Premier League,2010/2011,2010
+28,Centre-Back,"Mar 19, 1981 (29)",NA,NA,Cote d'Ivoire,Manchester City,Premier League,2010/2011,2010
+17,Centre-Back,"Sep 3, 1988 (21)",NA,NA,Germany,Manchester City,Premier League,2010/2011,2010
+19,Centre-Back,"Aug 16, 1982 (27)",NA,NA,England,Manchester City,Premier League,2010/2011,2010
+4,Centre-Back,"Apr 10, 1986 (24)",NA,NA,Belgium,Manchester City,Premier League,2010/2011,2010
+24,Centre-Back,"Nov 12, 1986 (23)",NA,NA,England,Manchester City,Premier League,2010/2011,2010
+38,Centre-Back,"Nov 28, 1990 (19)",NA,NA,Belgium,Manchester City,Premier League,2010/2011,2010
+NA,Centre-Back,"Nov 20, 1992 (17)",NA,NA,Albania,Manchester City,Premier League,2010/2011,2010
+41,Centre-Back,"Sep 21, 1989 (20)",NA,NA,England,Manchester City,Premier League,2010/2011,2010
+13,Left-Back,"Nov 10, 1985 (24)",NA,NA,Serbia,Manchester City,Premier League,2010/2011,2010
+3,Left-Back,"Aug 5, 1980 (29)",NA,NA,England,Manchester City,Premier League,2010/2011,2010
+48,Left-Back,"Jan 8, 1990 (20)",NA,NA,Northern Ireland,Manchester City,Premier League,2010/2011,2010
+22,Left-Back,"Jan 31, 1991 (19)",NA,NA,Ireland,Manchester City,Premier League,2010/2011,2010
+53,Left-Back,"Dec 16, 1990 (19)",NA,NA,England,Manchester City,Premier League,2010/2011,2010
+2,Right-Back,"Jun 24, 1988 (22)",NA,NA,England,Manchester City,Premier League,2010/2011,2010
+5,Right-Back,"Jan 16, 1985 (25)",NA,NA,Argentina,Manchester City,Premier League,2010/2011,2010
+30,Right-Back,"Jan 29, 1988 (22)",NA,NA,England,Manchester City,Premier League,2010/2011,2010
+36,Right-Back,"May 10, 1989 (21)",NA,NA,England,Manchester City,Premier League,2010/2011,2010
+57,Right-Back,"Dec 28, 1991 (18)",NA,NA,England,Manchester City,Premier League,2010/2011,2010
+59,Right-Back,"Dec 5, 1991 (18)",NA,NA,Norway,Manchester City,Premier League,2010/2011,2010
+18,Defensive Midfield,"Feb 23, 1981 (29)",NA,NA,England,Manchester City,Premier League,2010/2011,2010
+34,Defensive Midfield,"Nov 30, 1984 (25)",NA,NA,Netherlands,Manchester City,Premier League,2010/2011,2010
+24,Defensive Midfield,"Jun 23, 1976 (34)",NA,NA,France,Manchester City,Premier League,2010/2011,2010
+6,Defensive Midfield,"Feb 24, 1988 (22)",NA,NA,England,Manchester City,Premier League,2010/2011,2010
+42,Central Midfield,"May 13, 1983 (27)",NA,NA,Cote d'Ivoire,Manchester City,Premier League,2010/2011,2010
+7,Central Midfield,"Jan 4, 1986 (24)",NA,NA,England,Manchester City,Premier League,2010/2011,2010
+50,Central Midfield,"May 4, 1991 (19)",NA,NA,Norway,Manchester City,Premier League,2010/2011,2010
+35,Central Midfield,"Sep 18, 1989 (20)",NA,NA,England,Manchester City,Premier League,2010/2011,2010
+62,Central Midfield,"Nov 11, 1992 (17)",NA,NA,Cote d'Ivoire,Manchester City,Premier League,2010/2011,2010
+21,Attacking Midfield,"Jan 8, 1986 (24)",NA,NA,Spain,Manchester City,Premier League,2010/2011,2010
+39,Left Winger,"Jul 13, 1979 (30)",NA,NA,Wales,Manchester City,Premier League,2010/2011,2010
+40,Left Winger,"Nov 30, 1989 (20)",NA,NA,Slovakia,Manchester City,Premier League,2010/2011,2010
+8,Right Winger,"Oct 25, 1981 (28)",NA,NA,England,Manchester City,Premier League,2010/2011,2010
+11,Right Winger,"Jul 14, 1987 (22)",NA,NA,England,Manchester City,Premier League,2010/2011,2010
+32,Second Striker,"Feb 5, 1984 (26)",NA,NA,Argentina,Manchester City,Premier League,2010/2011,2010
+10,Centre-Forward,"Mar 17, 1986 (24)",NA,NA,Bosnia-Herzegovina,Manchester City,Premier League,2010/2011,2010
+9,Centre-Forward,"Feb 26, 1984 (26)",NA,NA,Togo,Manchester City,Premier League,2010/2011,2010
+45,Centre-Forward,"Aug 12, 1990 (19)",NA,NA,Italy,Manchester City,Premier League,2010/2011,2010
+14,Centre-Forward,"Aug 16, 1981 (28)",NA,NA,Paraguay,Manchester City,Premier League,2010/2011,2010
+27,Centre-Forward,"Mar 20, 1987 (23)",NA,NA,Brazil,Manchester City,Premier League,2010/2011,2010
+43,Centre-Forward,"May 11, 1991 (19)",NA,NA,England,Manchester City,Premier League,2010/2011,2010
+60,Centre-Forward,"Apr 15, 1992 (18)",NA,NA,Sweden,Manchester City,Premier League,2010/2011,2010
+25,Goalkeeper,"Aug 31, 1982 (27)",NA,NA,Spain,Liverpool FC,Premier League,2010/2011,2010
+NA,Goalkeeper,"Dec 1, 1982 (27)",NA,NA,Brazil,Liverpool FC,Premier League,2010/2011,2010
+1,Goalkeeper,"Mar 19, 1982 (28)",NA,NA,Australia,Liverpool FC,Premier League,2010/2011,2010
+41,Goalkeeper,"Jun 15, 1990 (20)",NA,NA,Denmark,Liverpool FC,Premier League,2010/2011,2010
+42,Goalkeeper,"May 6, 1990 (20)",NA,NA,Hungary,Liverpool FC,Premier League,2010/2011,2010
+23,Centre-Back,"Jan 28, 1978 (32)",NA,NA,England,Liverpool FC,Premier League,2010/2011,2010
+37,Centre-Back,"Dec 15, 1984 (25)",NA,NA,Slovakia,Liverpool FC,Premier League,2010/2011,2010
+5,Centre-Back,"Dec 12, 1984 (25)",NA,NA,Denmark,Liverpool FC,Premier League,2010/2011,2010
+16,Centre-Back,"Jul 23, 1979 (30)",NA,NA,Greece,Liverpool FC,Premier League,2010/2011,2010
+22,Centre-Back,"Dec 27, 1991 (18)",NA,NA,Scotland,Liverpool FC,Premier League,2010/2011,2010
+40,Centre-Back,"Nov 7, 1990 (19)",NA,NA,Spain,Liverpool FC,Premier League,2010/2011,2010
+35,Centre-Back,"Feb 25, 1993 (17)",NA,NA,England,Liverpool FC,Premier League,2010/2011,2010
+6,Left-Back,"Sep 24, 1979 (30)",NA,NA,Brazil,Liverpool FC,Premier League,2010/2011,2010
+3,Left-Back,"May 15, 1981 (29)",NA,NA,England,Liverpool FC,Premier League,2010/2011,2010
+49,Left-Back,"Sep 1, 1993 (16)",NA,NA,England,Liverpool FC,Premier League,2010/2011,2010
+2,Right-Back,"Aug 23, 1984 (25)",NA,NA,England,Liverpool FC,Premier League,2010/2011,2010
+32,Right-Back,"Oct 6, 1988 (21)",NA,NA,England,Liverpool FC,Premier League,2010/2011,2010
+34,Right-Back,"Apr 27, 1990 (20)",NA,NA,England,Liverpool FC,Premier League,2010/2011,2010
+38,Right-Back,"Jan 1, 1993 (17)",NA,NA,England,Liverpool FC,Premier League,2010/2011,2010
+47,Right-Back,"May 9, 1993 (17)",NA,NA,England,Liverpool FC,Premier League,2010/2011,2010
+20,Defensive Midfield,"Jun 8, 1984 (26)",NA,NA,Argentina,Liverpool FC,Premier League,2010/2011,2010
+21,Defensive Midfield,"Jan 9, 1987 (23)",NA,NA,Brazil,Liverpool FC,Premier League,2010/2011,2010
+28,Defensive Midfield,"Feb 28, 1980 (30)",NA,NA,Denmark,Liverpool FC,Premier League,2010/2011,2010
+26,Defensive Midfield,"Nov 25, 1988 (21)",NA,NA,England,Liverpool FC,Premier League,2010/2011,2010
+8,Central Midfield,"May 30, 1980 (30)",NA,NA,England,Liverpool FC,Premier League,2010/2011,2010
+4,Central Midfield,"Jul 7, 1984 (25)",NA,NA,Italy,Liverpool FC,Premier League,2010/2011,2010
+4,Central Midfield,"Mar 17, 1983 (27)",NA,NA,Portugal,Liverpool FC,Premier League,2010/2011,2010
+33,Central Midfield,"Feb 27, 1992 (18)",NA,NA,England,Liverpool FC,Premier League,2010/2011,2010
+10,Attacking Midfield,"Nov 8, 1981 (28)",NA,NA,England,Liverpool FC,Premier League,2010/2011,2010
+17,Left Winger,"Jan 2, 1981 (29)",NA,NA,Argentina,Liverpool FC,Premier League,2010/2011,2010
+14,Left Winger,"Apr 18, 1981 (29)",NA,NA,Serbia,Liverpool FC,Premier League,2010/2011,2010
+19,Left Winger,"Dec 19, 1986 (23)",NA,NA,Netherlands,Liverpool FC,Premier League,2010/2011,2010
+12,Left Winger,"Jan 5, 1991 (19)",NA,NA,Spain,Liverpool FC,Premier League,2010/2011,2010
+18,Right Winger,"Jul 22, 1980 (29)",NA,NA,Netherlands,Liverpool FC,Premier League,2010/2011,2010
+45,Right Winger,"Jan 30, 1992 (18)",NA,NA,England,Liverpool FC,Premier League,2010/2011,2010
+46,Right Winger,"Apr 13, 1991 (19)",NA,NA,England,Liverpool FC,Premier League,2010/2011,2010
+9,Centre-Forward,"Mar 20, 1984 (26)",NA,NA,Spain,Liverpool FC,Premier League,2010/2011,2010
+7,Centre-Forward,"Jan 24, 1987 (23)",NA,NA,Uruguay,Liverpool FC,Premier League,2010/2011,2010
+24,Centre-Forward,"Apr 1, 1989 (21)",NA,NA,France,Liverpool FC,Premier League,2010/2011,2010
+9,Centre-Forward,"Jan 6, 1989 (21)",NA,NA,England,Liverpool FC,Premier League,2010/2011,2010
+39,Centre-Forward,"Dec 30, 1990 (19)",NA,NA,England,Liverpool FC,Premier League,2010/2011,2010
+38,Centre-Forward,"Sep 14, 1991 (18)",NA,NA,Finland,Liverpool FC,Premier League,2010/2011,2010
+1,Goalkeeper,"May 19, 1977 (33)",NA,NA,Spain,Arsenal FC,Premier League,2010/2011,2010
+21,Goalkeeper,"Apr 18, 1985 (25)",NA,NA,Poland,Arsenal FC,Premier League,2010/2011,2010
+13,Goalkeeper,"Nov 10, 1969 (40)",NA,NA,Germany,Arsenal FC,Premier League,2010/2011,2010
+24,Goalkeeper,"Mar 2, 1988 (22)",NA,NA,Italy,Arsenal FC,Premier League,2010/2011,2010
+53,Goalkeeper,"Apr 18, 1990 (20)",NA,NA,Poland,Arsenal FC,Premier League,2010/2011,2010
+NA,Goalkeeper,"Jun 16, 1991 (19)",NA,NA,England,Arsenal FC,Premier League,2010/2011,2010
+5,Centre-Back,"Nov 14, 1985 (24)",NA,NA,Belgium,Arsenal FC,Premier League,2010/2011,2010
+18,Centre-Back,"Aug 11, 1980 (29)",NA,NA,France,Arsenal FC,Premier League,2010/2011,2010
+6,Centre-Back,"Sep 10, 1985 (24)",NA,NA,France,Arsenal FC,Premier League,2010/2011,2010
+20,Centre-Back,"Jan 18, 1987 (23)",NA,NA,Switzerland,Arsenal FC,Premier League,2010/2011,2010
+NA,Centre-Back,"Sep 28, 1992 (17)",NA,NA,Spain,Arsenal FC,Premier League,2010/2011,2010
+22,Left-Back,"Jul 26, 1985 (24)",NA,NA,France,Arsenal FC,Premier League,2010/2011,2010
+28,Left-Back,"Sep 26, 1989 (20)",NA,NA,England,Arsenal FC,Premier League,2010/2011,2010
+3,Right-Back,"Feb 14, 1983 (27)",NA,NA,France,Arsenal FC,Premier League,2010/2011,2010
+27,Right-Back,"Jun 4, 1983 (27)",NA,NA,Cote d'Ivoire,Arsenal FC,Premier League,2010/2011,2010
+17,Defensive Midfield,"Sep 9, 1987 (22)",NA,NA,Cameroon,Arsenal FC,Premier League,2010/2011,2010
+15,Defensive Midfield,"Feb 16, 1988 (22)",NA,NA,Brazil,Arsenal FC,Premier League,2010/2011,2010
+NA,Defensive Midfield,"Jun 21, 1990 (20)",NA,NA,Norway,Arsenal FC,Premier League,2010/2011,2010
+NA,Defensive Midfield,"Dec 9, 1990 (19)",NA,NA,England,Arsenal FC,Premier League,2010/2011,2010
+4,Central Midfield,"May 4, 1987 (23)",NA,NA,Spain,Arsenal FC,Premier League,2010/2011,2010
+2,Central Midfield,"May 11, 1986 (24)",NA,NA,France,Arsenal FC,Premier League,2010/2011,2010
+16,Central Midfield,"Dec 26, 1990 (19)",NA,NA,Wales,Arsenal FC,Premier League,2010/2011,2010
+19,Central Midfield,"Jan 1, 1992 (18)",NA,NA,England,Arsenal FC,Premier League,2010/2011,2010
+NA,Central Midfield,"Oct 12, 1990 (19)",NA,NA,England,Arsenal FC,Premier League,2010/2011,2010
+NA,Central Midfield,"Sep 8, 1991 (18)",NA,NA,Ireland,Arsenal FC,Premier League,2010/2011,2010
+8,Attacking Midfield,"Jun 26, 1987 (23)",NA,NA,France,Arsenal FC,Premier League,2010/2011,2010
+7,Attacking Midfield,"Oct 4, 1980 (29)",NA,NA,Czech Republic,Arsenal FC,Premier League,2010/2011,2010
+14,Right Winger,"Mar 16, 1989 (21)",NA,NA,England,Arsenal FC,Premier League,2010/2011,2010
+11,Right Winger,"Mar 1, 1989 (21)",NA,NA,Mexico,Arsenal FC,Premier League,2010/2011,2010
+23,Second Striker,"May 29, 1981 (29)",NA,NA,Russia,Arsenal FC,Premier League,2010/2011,2010
+10,Centre-Forward,"Aug 6, 1983 (26)",NA,NA,Netherlands,Arsenal FC,Premier League,2010/2011,2010
+29,Centre-Forward,"Jan 10, 1984 (26)",NA,NA,Morocco,Arsenal FC,Premier League,2010/2011,2010
+52,Centre-Forward,"Jan 16, 1988 (22)",NA,NA,Denmark,Arsenal FC,Premier League,2010/2011,2010
+NA,Centre-Forward,"Dec 27, 1990 (19)",NA,NA,England,Arsenal FC,Premier League,2010/2011,2010
+1,Goalkeeper,"Feb 15, 1981 (29)",NA,NA,Brazil,Tottenham Hotspur,Premier League,2010/2011,2010
+37,Goalkeeper,"Jan 8, 1979 (31)",NA,NA,Croatia,Tottenham Hotspur,Premier League,2010/2011,2010
+23,Goalkeeper,"Sep 6, 1973 (36)",NA,NA,Italy,Tottenham Hotspur,Premier League,2010/2011,2010
+27,Goalkeeper,"Jan 1, 1987 (23)",NA,NA,England,Tottenham Hotspur,Premier League,2010/2011,2010
+35,Goalkeeper,"Feb 27, 1989 (21)",NA,NA,England,Tottenham Hotspur,Premier League,2010/2011,2010
+13,Centre-Back,"Aug 17, 1977 (32)",NA,NA,France,Tottenham Hotspur,Premier League,2010/2011,2010
+22,Centre-Back,"Feb 5, 1986 (24)",NA,NA,Croatia,Tottenham Hotspur,Premier League,2010/2011,2010
+26,Centre-Back,"Oct 12, 1980 (29)",NA,NA,England,Tottenham Hotspur,Premier League,2010/2011,2010
+19,Centre-Back,"Jul 9, 1986 (23)",NA,NA,Cameroon,Tottenham Hotspur,Premier League,2010/2011,2010
+39,Centre-Back,"Jan 22, 1980 (30)",NA,NA,England,Tottenham Hotspur,Premier League,2010/2011,2010
+20,Centre-Back,"Nov 18, 1983 (26)",NA,NA,England,Tottenham Hotspur,Premier League,2010/2011,2010
+4,Centre-Back,"Jan 4, 1986 (24)",NA,NA,France,Tottenham Hotspur,Premier League,2010/2011,2010
+36,Centre-Back,"Jan 6, 1987 (23)",NA,NA,South Africa,Tottenham Hotspur,Premier League,2010/2011,2010
+45,Centre-Back,"Dec 29, 1991 (18)",NA,NA,England,Tottenham Hotspur,Premier League,2010/2011,2010
+32,Left-Back,"Mar 24, 1984 (26)",NA,NA,Cameroon,Tottenham Hotspur,Premier League,2010/2011,2010
+25,Left-Back,"Jul 2, 1990 (19)",NA,NA,England,Tottenham Hotspur,Premier League,2010/2011,2010
+2,Right-Back,"Nov 30, 1984 (25)",NA,NA,Scotland,Tottenham Hotspur,Premier League,2010/2011,2010
+16,Right-Back,"Nov 11, 1988 (21)",NA,NA,England,Tottenham Hotspur,Premier League,2010/2011,2010
+16,Right-Back,"May 28, 1990 (20)",NA,NA,England,Tottenham Hotspur,Premier League,2010/2011,2010
+12,Defensive Midfield,"Jul 29, 1984 (25)",NA,NA,Honduras,Tottenham Hotspur,Premier League,2010/2011,2010
+6,Defensive Midfield,"Dec 28, 1986 (23)",NA,NA,England,Tottenham Hotspur,Premier League,2010/2011,2010
+30,Defensive Midfield,"Mar 15, 1989 (21)",NA,NA,Brazil,Tottenham Hotspur,Premier League,2010/2011,2010
+29,Defensive Midfield,"Nov 14, 1989 (20)",NA,NA,England,Tottenham Hotspur,Premier League,2010/2011,2010
+14,Central Midfield,"Sep 9, 1985 (24)",NA,NA,Croatia,Tottenham Hotspur,Premier League,2010/2011,2010
+8,Central Midfield,"Feb 18, 1983 (27)",NA,NA,England,Tottenham Hotspur,Premier League,2010/2011,2010
+51,Central Midfield,"Jan 15, 1992 (18)",NA,NA,Trinidad and Tobago,Tottenham Hotspur,Premier League,2010/2011,2010
+5,Right Midfield,"Aug 27, 1984 (25)",NA,NA,England,Tottenham Hotspur,Premier League,2010/2011,2010
+11,Attacking Midfield,"Feb 11, 1983 (27)",NA,NA,Netherlands,Tottenham Hotspur,Premier League,2010/2011,2010
+21,Attacking Midfield,"Aug 13, 1984 (25)",NA,NA,Croatia,Tottenham Hotspur,Premier League,2010/2011,2010
+40,Left Winger,"Mar 17, 1982 (28)",NA,NA,South Africa,Tottenham Hotspur,Premier League,2010/2011,2010
+7,Right Winger,"Apr 16, 1987 (23)",NA,NA,England,Tottenham Hotspur,Premier League,2010/2011,2010
+3,Right Winger,"Jul 16, 1989 (20)",NA,NA,Wales,Tottenham Hotspur,Premier League,2010/2011,2010
+31,Right Winger,"Jul 16, 1991 (18)",NA,NA,England,Tottenham Hotspur,Premier League,2010/2011,2010
+17,Second Striker,"May 11, 1989 (21)",NA,NA,Mexico,Tottenham Hotspur,Premier League,2010/2011,2010
+18,Centre-Forward,"Oct 7, 1982 (27)",NA,NA,England,Tottenham Hotspur,Premier League,2010/2011,2010
+10,Centre-Forward,"Jul 8, 1980 (29)",NA,NA,Ireland,Tottenham Hotspur,Premier League,2010/2011,2010
+15,Centre-Forward,"Jan 30, 1981 (29)",NA,NA,England,Tottenham Hotspur,Premier League,2010/2011,2010
+9,Centre-Forward,"Dec 15, 1981 (28)",NA,NA,Russia,Tottenham Hotspur,Premier League,2010/2011,2010
+1,Goalkeeper,"May 18, 1971 (39)",NA,NA,United States,Aston Villa,Premier League,2010/2011,2010
+22,Goalkeeper,"Sep 9, 1984 (25)",NA,NA,United States,Aston Villa,Premier League,2010/2011,2010
+33,Goalkeeper,"Apr 14, 1975 (35)",NA,NA,England,Aston Villa,Premier League,2010/2011,2010
+5,Centre-Back,"Sep 21, 1979 (30)",NA,NA,Ireland,Aston Villa,Premier League,2010/2011,2010
+24,Centre-Back,"Aug 23, 1981 (28)",NA,NA,Spain,Aston Villa,Premier League,2010/2011,2010
+15,Centre-Back,"Mar 15, 1985 (25)",NA,NA,England,Aston Villa,Premier League,2010/2011,2010
+29,Centre-Back,"Aug 23, 1983 (26)",NA,NA,Wales,Aston Villa,Premier League,2010/2011,2010
+34,Centre-Back,"Jun 12, 1989 (21)",NA,NA,Australia,Aston Villa,Premier League,2010/2011,2010
+21,Centre-Back,"Sep 26, 1989 (20)",NA,NA,Ireland,Aston Villa,Premier League,2010/2011,2010
+32,Centre-Back,"Apr 23, 1991 (19)",NA,NA,England,Aston Villa,Premier League,2010/2011,2010
+7,Left-Back,"Jul 9, 1985 (24)",NA,NA,England,Aston Villa,Premier League,2010/2011,2010
+3,Left-Back,"Dec 12, 1981 (28)",NA,NA,England,Aston Villa,Premier League,2010/2011,2010
+2,Right-Back,"Jul 19, 1979 (30)",NA,NA,England,Aston Villa,Premier League,2010/2011,2010
+36,Right-Back,"May 28, 1990 (20)",NA,NA,England,Aston Villa,Premier League,2010/2011,2010
+23,Right-Back,"Oct 19, 1977 (32)",NA,NA,Senegal,Aston Villa,Premier League,2010/2011,2010
+30,Right-Back,"Nov 17, 1988 (21)",NA,NA,United States,Aston Villa,Premier League,2010/2011,2010
+17,Defensive Midfield,"May 29, 1983 (27)",NA,NA,Cameroon,Aston Villa,Premier League,2010/2011,2010
+20,Defensive Midfield,"May 14, 1984 (26)",NA,NA,England,Aston Villa,Premier League,2010/2011,2010
+27,Defensive Midfield,"Nov 5, 1987 (22)",NA,NA,England,Aston Villa,Premier League,2010/2011,2010
+31,Defensive Midfield,"Apr 4, 1989 (21)",NA,NA,Australia,Aston Villa,Premier League,2010/2011,2010
+8,Central Midfield,"Jan 4, 1986 (24)",NA,NA,England,Aston Villa,Premier League,2010/2011,2010
+19,Central Midfield,"Jul 5, 1979 (30)",NA,NA,Bulgaria,Aston Villa,Premier League,2010/2011,2010
+13,Central Midfield,"Jul 31, 1987 (22)",NA,NA,United States,Aston Villa,Premier League,2010/2011,2010
+4,Central Midfield,"Dec 14, 1982 (27)",NA,NA,England,Aston Villa,Premier League,2010/2011,2010
+16,Central Midfield,"Nov 21, 1989 (20)",NA,NA,England,Aston Villa,Premier League,2010/2011,2010
+25,Central Midfield,"Dec 1, 1989 (20)",NA,NA,Scotland,Aston Villa,Premier League,2010/2011,2010
+28,Central Midfield,"Dec 6, 1988 (21)",NA,NA,England,Aston Villa,Premier League,2010/2011,2010
+35,Central Midfield,"Oct 8, 1992 (17)",NA,NA,Jamaica,Aston Villa,Premier League,2010/2011,2010
+12,Right Midfield,"Nov 18, 1989 (20)",NA,NA,England,Aston Villa,Premier League,2010/2011,2010
+6,Left Midfield,"Jul 22, 1984 (25)",NA,NA,England,Aston Villa,Premier League,2010/2011,2010
+8,Left Midfield,"Oct 29, 1973 (36)",NA,NA,France,Aston Villa,Premier League,2010/2011,2010
+9,Attacking Midfield,"Aug 22, 1986 (23)",NA,NA,Ireland,Aston Villa,Premier League,2010/2011,2010
+37,Attacking Midfield,"Jun 1, 1983 (27)",NA,NA,Togo,Aston Villa,Premier League,2010/2011,2010
+26,Right Winger,"Aug 5, 1991 (18)",NA,NA,Austria,Aston Villa,Premier League,2010/2011,2010
+11,Centre-Forward,"Oct 13, 1986 (23)",NA,NA,England,Aston Villa,Premier League,2010/2011,2010
+39,Centre-Forward,"Feb 6, 1984 (26)",NA,NA,England,Aston Villa,Premier League,2010/2011,2010
+10,Centre-Forward,"Sep 5, 1979 (30)",NA,NA,Norway,Aston Villa,Premier League,2010/2011,2010
+18,Centre-Forward,"Jan 11, 1978 (32)",NA,NA,England,Aston Villa,Premier League,2010/2011,2010
+14,Centre-Forward,"Feb 2, 1991 (19)",NA,NA,England,Aston Villa,Premier League,2010/2011,2010
+24,Goalkeeper,"Mar 6, 1979 (31)",NA,NA,United States,Everton FC,Premier League,2010/2011,2010
+1,Goalkeeper,"Dec 5, 1982 (27)",NA,NA,Slovakia,Everton FC,Premier League,2010/2011,2010
+12,Goalkeeper,"Jan 26, 1984 (26)",NA,NA,Scotland,Everton FC,Premier League,2010/2011,2010
+6,Centre-Back,"Aug 17, 1982 (27)",NA,NA,England,Everton FC,Premier League,2010/2011,2010
+5,Centre-Back,"Nov 15, 1983 (26)",NA,NA,Netherlands,Everton FC,Premier League,2010/2011,2010
+15,Centre-Back,"Dec 16, 1977 (32)",NA,NA,France,Everton FC,Premier League,2010/2011,2010
+34,Centre-Back,"Jan 1, 1992 (18)",NA,NA,Ireland,Everton FC,Premier League,2010/2011,2010
+43,Centre-Back,"Apr 17, 1992 (18)",NA,NA,Germany,Everton FC,Premier League,2010/2011,2010
+36,Centre-Back,"Mar 25, 1992 (18)",NA,NA,DR Congo,Everton FC,Premier League,2010/2011,2010
+3,Left-Back,"Dec 11, 1984 (25)",NA,NA,England,Everton FC,Premier League,2010/2011,2010
+18,Right-Back,"Jan 21, 1977 (33)",NA,NA,England,Everton FC,Premier League,2010/2011,2010
+2,Right-Back,"Feb 20, 1981 (29)",NA,NA,England,Everton FC,Premier League,2010/2011,2010
+23,Right-Back,"Oct 11, 1988 (21)",NA,NA,Ireland,Everton FC,Premier League,2010/2011,2010
+26,Defensive Midfield,"Mar 11, 1991 (19)",NA,NA,England,Everton FC,Premier League,2010/2011,2010
+25,Central Midfield,"Nov 22, 1987 (22)",NA,NA,Belgium,Everton FC,Premier League,2010/2011,2010
+10,Central Midfield,"Mar 26, 1982 (28)",NA,NA,Spain,Everton FC,Premier League,2010/2011,2010
+21,Central Midfield,"May 17, 1981 (29)",NA,NA,England,Everton FC,Premier League,2010/2011,2010
+32,Central Midfield,"Dec 5, 1993 (16)",NA,NA,England,Everton FC,Premier League,2010/2011,2010
+33,Central Midfield,"Oct 8, 1991 (18)",NA,NA,England,Everton FC,Premier League,2010/2011,2010
+17,Attacking Midfield,"Dec 6, 1979 (30)",NA,NA,Australia,Everton FC,Premier League,2010/2011,2010
+7,Attacking Midfield,"Feb 27, 1985 (25)",NA,NA,Russia,Everton FC,Premier League,2010/2011,2010
+37,Attacking Midfield,"Feb 7, 1992 (18)",NA,NA,England,Everton FC,Premier League,2010/2011,2010
+20,Left Winger,"Mar 17, 1982 (28)",NA,NA,South Africa,Everton FC,Premier League,2010/2011,2010
+22,Centre-Forward,"Nov 22, 1982 (27)",NA,NA,Nigeria,Everton FC,Premier League,2010/2011,2010
+8,Centre-Forward,"Aug 8, 1978 (31)",NA,NA,France,Everton FC,Premier League,2010/2011,2010
+28,Centre-Forward,"Apr 23, 1988 (22)",NA,NA,Nigeria,Everton FC,Premier League,2010/2011,2010
+14,Centre-Forward,"Jul 14, 1988 (21)",NA,NA,England,Everton FC,Premier League,2010/2011,2010
+16,Centre-Forward,"Dec 9, 1983 (26)",NA,NA,Jamaica,Everton FC,Premier League,2010/2011,2010
+19,Centre-Forward,"Jul 6, 1990 (19)",NA,NA,Senegal,Everton FC,Premier League,2010/2011,2010
+29,Centre-Forward,"May 21, 1990 (20)",NA,NA,Portugal,Everton FC,Premier League,2010/2011,2010
+27,Centre-Forward,"Jan 8, 1992 (18)",NA,NA,Greece,Everton FC,Premier League,2010/2011,2010
+31,Centre-Forward,"Aug 12, 1992 (17)",NA,NA,England,Everton FC,Premier League,2010/2011,2010
+1,Goalkeeper,"Jan 18, 1980 (30)",NA,NA,England,West Ham United,Premier League,2010/2011,2010
+31,Goalkeeper,"Nov 5, 1987 (22)",NA,NA,Belgium,West Ham United,Premier League,2010/2011,2010
+29,Goalkeeper,"Jan 28, 1990 (20)",NA,NA,Czech Republic,West Ham United,Premier League,2010/2011,2010
+NA,Goalkeeper,"Jan 11, 1994 (16)",NA,NA,England,West Ham United,Premier League,2010/2011,2010
+15,Centre-Back,"Apr 18, 1979 (31)",NA,NA,England,West Ham United,Premier League,2010/2011,2010
+14,Centre-Back,"Nov 27, 1979 (30)",NA,NA,Czech Republic,West Ham United,Premier League,2010/2011,2010
+3,Centre-Back,"Mar 31, 1982 (28)",NA,NA,Israel,West Ham United,Premier League,2010/2011,2010
+5,Centre-Back,"Mar 29, 1989 (21)",NA,NA,England,West Ham United,Premier League,2010/2011,2010
+18,Centre-Back,"Mar 1, 1986 (24)",NA,NA,United States,West Ham United,Premier League,2010/2011,2010
+22,Centre-Back,"May 6, 1986 (24)",NA,NA,Morocco,West Ham United,Premier League,2010/2011,2010
+4,Centre-Back,"Aug 8, 1979 (30)",NA,NA,Wales,West Ham United,Premier League,2010/2011,2010
+2,Centre-Back,"Jul 3, 1988 (21)",NA,NA,New Zealand,West Ham United,Premier League,2010/2011,2010
+36,Left-Back,"Aug 5, 1980 (29)",NA,NA,England,West Ham United,Premier League,2010/2011,2010
+23,Left-Back,"Feb 25, 1982 (28)",NA,NA,DR Congo,West Ham United,Premier League,2010/2011,2010
+44,Left-Back,"Oct 11, 1991 (18)",NA,NA,England,West Ham United,Premier League,2010/2011,2010
+37,Right-Back,"Sep 20, 1979 (30)",NA,NA,Denmark,West Ham United,Premier League,2010/2011,2010
+27,Right-Back,"May 24, 1990 (20)",NA,NA,England,West Ham United,Premier League,2010/2011,2010
+21,Defensive Midfield,"Apr 19, 1985 (25)",NA,NA,Switzerland,West Ham United,Premier League,2010/2011,2010
+20,Defensive Midfield,"Aug 1, 1983 (26)",NA,NA,Martinique,West Ham United,Premier League,2010/2011,2010
+8,Central Midfield,"Oct 13, 1980 (29)",NA,NA,England,West Ham United,Premier League,2010/2011,2010
+16,Central Midfield,"May 8, 1987 (23)",NA,NA,England,West Ham United,Premier League,2010/2011,2010
+11,Central Midfield,"Apr 5, 1982 (28)",NA,NA,Germany,West Ham United,Premier League,2010/2011,2010
+10,Central Midfield,"Oct 2, 1988 (21)",NA,NA,Wales,West Ham United,Premier League,2010/2011,2010
+32,Central Midfield,"May 18, 1983 (27)",NA,NA,England,West Ham United,Premier League,2010/2011,2010
+7,Right Midfield,"Dec 29, 1978 (31)",NA,NA,England,West Ham United,Premier League,2010/2011,2010
+13,Left Midfield,"Aug 4, 1977 (32)",NA,NA,Portugal,West Ham United,Premier League,2010/2011,2010
+25,Left Winger,"Nov 26, 1989 (20)",NA,NA,England,West Ham United,Premier League,2010/2011,2010
+36,Left Winger,"Sep 30, 1990 (19)",NA,NA,England,West Ham United,Premier League,2010/2011,2010
+12,Right Winger,"Jun 21, 1987 (23)",NA,NA,Mexico,West Ham United,Premier League,2010/2011,2010
+26,Right Winger,"Dec 27, 1988 (21)",NA,NA,England,West Ham United,Premier League,2010/2011,2010
+32,Second Striker,"May 2, 1983 (27)",NA,NA,Italy,West Ham United,Premier League,2010/2011,2010
+33,Second Striker,"Mar 25, 1987 (23)",NA,NA,Nigeria,West Ham United,Premier League,2010/2011,2010
+19,Second Striker,"Nov 27, 1989 (20)",NA,NA,England,West Ham United,Premier League,2010/2011,2010
+34,Centre-Forward,"Jul 8, 1980 (29)",NA,NA,Ireland,West Ham United,Premier League,2010/2011,2010
+9,Centre-Forward,"Oct 12, 1983 (26)",NA,NA,England,West Ham United,Premier League,2010/2011,2010
+21,Centre-Forward,"May 25, 1985 (25)",NA,NA,Senegal,West Ham United,Premier League,2010/2011,2010
+17,Centre-Forward,"Nov 12, 1977 (32)",NA,NA,South Africa,West Ham United,Premier League,2010/2011,2010
+30,Centre-Forward,"Dec 8, 1978 (31)",NA,NA,Martinique,West Ham United,Premier League,2010/2011,2010
+24,Centre-Forward,"Sep 24, 1991 (18)",NA,NA,England,West Ham United,Premier League,2010/2011,2010
+38,Centre-Forward,"Mar 8, 1994 (16)",NA,NA,Australia,West Ham United,Premier League,2010/2011,2010
+1,Goalkeeper,"Dec 31, 1982 (27)",NA,NA,Scotland,Sunderland AFC,Premier League,2010/2011,2010
+22,Goalkeeper,"Mar 6, 1988 (22)",NA,NA,Belgium,Sunderland AFC,Premier League,2010/2011,2010
+24,Goalkeeper,"Mar 5, 1988 (22)",NA,NA,Northern Ireland,Sunderland AFC,Premier League,2010/2011,2010
+4,Centre-Back,"Nov 9, 1983 (26)",NA,NA,England,Sunderland AFC,Premier League,2010/2011,2010
+5,Centre-Back,"Nov 29, 1982 (27)",NA,NA,Ghana,Sunderland AFC,Premier League,2010/2011,2010
+29,Centre-Back,"Feb 18, 1985 (25)",NA,NA,England,Sunderland AFC,Premier League,2010/2011,2010
+15,Centre-Back,"Nov 12, 1986 (23)",NA,NA,England,Sunderland AFC,Premier League,2010/2011,2010
+19,Centre-Back,"Jul 31, 1981 (28)",NA,NA,England,Sunderland AFC,Premier League,2010/2011,2010
+12,Centre-Back,"Apr 7, 1983 (27)",NA,NA,Argentina,Sunderland AFC,Premier League,2010/2011,2010
+14,Centre-Back,"Feb 1, 1980 (30)",NA,NA,Paraguay,Sunderland AFC,Premier League,2010/2011,2010
+21,Centre-Back,"Oct 11, 1980 (29)",NA,NA,Jamaica,Sunderland AFC,Premier League,2010/2011,2010
+NA,Centre-Back,"Jan 8, 1984 (26)",NA,NA,England,Sunderland AFC,Premier League,2010/2011,2010
+NA,Centre-Back,"Sep 6, 1988 (21)",NA,NA,France,Sunderland AFC,Premier League,2010/2011,2010
+40,Centre-Back,"Mar 6, 1993 (17)",NA,NA,England,Sunderland AFC,Premier League,2010/2011,2010
+3,Left-Back,"Oct 21, 1984 (25)",NA,NA,England,Sunderland AFC,Premier League,2010/2011,2010
+23,Left-Back,"Apr 29, 1981 (29)",NA,NA,Northern Ireland,Sunderland AFC,Premier League,2010/2011,2010
+34,Left-Back,"Sep 8, 1991 (18)",NA,NA,England,Sunderland AFC,Premier League,2010/2011,2010
+2,Right-Back,"Jun 28, 1985 (25)",NA,NA,Scotland,Sunderland AFC,Premier League,2010/2011,2010
+27,Right-Back,"Sep 9, 1987 (22)",NA,NA,Egypt,Sunderland AFC,Premier League,2010/2011,2010
+6,Defensive Midfield,"Mar 21, 1988 (22)",NA,NA,England,Sunderland AFC,Premier League,2010/2011,2010
+16,Defensive Midfield,"Oct 16, 1982 (27)",NA,NA,Paraguay,Sunderland AFC,Premier League,2010/2011,2010
+25,Defensive Midfield,"Oct 24, 1989 (20)",NA,NA,England,Sunderland AFC,Premier League,2010/2011,2010
+26,Defensive Midfield,"May 8, 1991 (19)",NA,NA,Philippines,Sunderland AFC,Premier League,2010/2011,2010
+11,Central Midfield,"Aug 27, 1984 (25)",NA,NA,Ghana,Sunderland AFC,Premier League,2010/2011,2010
+8,Central Midfield,"Jan 6, 1980 (30)",NA,NA,France,Sunderland AFC,Premier League,2010/2011,2010
+10,Central Midfield,"Jun 17, 1990 (20)",NA,NA,England,Sunderland AFC,Premier League,2010/2011,2010
+18,Central Midfield,"May 29, 1989 (21)",NA,NA,Ireland,Sunderland AFC,Premier League,2010/2011,2010
+30,Central Midfield,"Nov 28, 1992 (17)",NA,NA,England,Sunderland AFC,Premier League,2010/2011,2010
+20,Left Midfield,"Jul 29, 1982 (27)",NA,NA,Ireland,Sunderland AFC,Premier League,2010/2011,2010
+28,Attacking Midfield,"Jun 1, 1984 (26)",NA,NA,Benin,Sunderland AFC,Premier League,2010/2011,2010
+7,Left Winger,"Aug 15, 1976 (33)",NA,NA,Netherlands,Sunderland AFC,Premier League,2010/2011,2010
+26,Second Striker,"Mar 20, 1990 (20)",NA,NA,England,Sunderland AFC,Premier League,2010/2011,2010
+11,Centre-Forward,"Feb 6, 1984 (26)",NA,NA,England,Sunderland AFC,Premier League,2010/2011,2010
+33,Centre-Forward,"Nov 22, 1985 (24)",NA,NA,Ghana,Sunderland AFC,Premier League,2010/2011,2010
+9,Centre-Forward,"Sep 13, 1987 (22)",NA,NA,England,Sunderland AFC,Premier League,2010/2011,2010
+17,Centre-Forward,"Nov 26, 1990 (19)",NA,NA,England,Sunderland AFC,Premier League,2010/2011,2010
+26,Centre-Forward,"Jan 23, 1990 (20)",NA,NA,England,Sunderland AFC,Premier League,2010/2011,2010
+31,Centre-Forward,"Jun 11, 1991 (19)",NA,NA,England,Sunderland AFC,Premier League,2010/2011,2010
+38,Centre-Forward,"Mar 25, 1992 (18)",NA,NA,England,Sunderland AFC,Premier League,2010/2011,2010
+1,Goalkeeper,"Oct 6, 1972 (37)",NA,NA,Australia,Fulham FC,Premier League,2010/2011,2010
+12,Goalkeeper,"Sep 20, 1985 (24)",NA,NA,England,Fulham FC,Premier League,2010/2011,2010
+19,Goalkeeper,"Jan 8, 1971 (39)",NA,NA,Switzerland,Fulham FC,Premier League,2010/2011,2010
+38,Goalkeeper,"Feb 7, 1990 (20)",NA,NA,Philippines,Fulham FC,Premier League,2010/2011,2010
+5,Centre-Back,"Jun 20, 1981 (29)",NA,NA,Norway,Fulham FC,Premier League,2010/2011,2010
+18,Centre-Back,"Nov 8, 1979 (30)",NA,NA,Northern Ireland,Fulham FC,Premier League,2010/2011,2010
+3,Centre-Back,"Apr 2, 1980 (30)",NA,NA,Mexico,Fulham FC,Premier League,2010/2011,2010
+14,Centre-Back,"Feb 14, 1985 (25)",NA,NA,Switzerland,Fulham FC,Premier League,2010/2011,2010
+32,Centre-Back,"Sep 2, 1986 (23)",NA,NA,Algeria,Fulham FC,Premier League,2010/2011,2010
+3,Left-Back,"May 15, 1981 (29)",NA,NA,England,Fulham FC,Premier League,2010/2011,2010
+28,Left-Back,"Mar 6, 1991 (19)",NA,NA,Guyana,Fulham FC,Premier League,2010/2011,2010
+4,Right-Back,"Jun 15, 1981 (29)",NA,NA,Ghana,Fulham FC,Premier League,2010/2011,2010
+2,Right-Back,"Sep 6, 1983 (26)",NA,NA,Ireland,Fulham FC,Premier League,2010/2011,2010
+22,Right-Back,"Feb 28, 1984 (26)",NA,NA,Sweden,Fulham FC,Premier League,2010/2011,2010
+20,Defensive Midfield,"Jun 8, 1982 (28)",NA,NA,Nigeria,Fulham FC,Premier League,2010/2011,2010
+6,Defensive Midfield,"Feb 25, 1982 (28)",NA,NA,Northern Ireland,Fulham FC,Premier League,2010/2011,2010
+30,Central Midfield,"Jul 16, 1987 (22)",NA,NA,Belgium,Fulham FC,Premier League,2010/2011,2010
+13,Central Midfield,"Mar 18, 1977 (33)",NA,NA,England,Fulham FC,Premier League,2010/2011,2010
+7,Central Midfield,"Dec 14, 1982 (27)",NA,NA,England,Fulham FC,Premier League,2010/2011,2010
+11,Central Midfield,"Apr 22, 1979 (31)",NA,NA,Hungary,Fulham FC,Premier League,2010/2011,2010
+27,Central Midfield,"Jan 2, 1979 (31)",NA,NA,England,Fulham FC,Premier League,2010/2011,2010
+26,Central Midfield,"Nov 24, 1984 (25)",NA,NA,South Africa,Fulham FC,Premier League,2010/2011,2010
+16,Right Midfield,"Mar 2, 1979 (31)",NA,NA,Ireland,Fulham FC,Premier League,2010/2011,2010
+29,Right Midfield,"Oct 23, 1979 (30)",NA,NA,Wales,Fulham FC,Premier League,2010/2011,2010
+17,Right Midfield,"Jun 21, 1983 (27)",NA,NA,Norway,Fulham FC,Premier League,2010/2011,2010
+24,Left Winger,"Jun 21, 1991 (19)",NA,NA,DR Congo,Fulham FC,Premier League,2010/2011,2010
+15,Right Winger,"Nov 8, 1980 (29)",NA,NA,Senegal,Fulham FC,Premier League,2010/2011,2010
+23,Second Striker,"Mar 9, 1983 (27)",NA,NA,United States,Fulham FC,Premier League,2010/2011,2010
+8,Centre-Forward,"Feb 10, 1981 (29)",NA,NA,England,Fulham FC,Premier League,2010/2011,2010
+25,Centre-Forward,"Jan 16, 1981 (29)",NA,NA,England,Fulham FC,Premier League,2010/2011,2010
+22,Centre-Forward,"Sep 15, 1978 (31)",NA,NA,Iceland,Fulham FC,Premier League,2010/2011,2010
+21,Centre-Forward,"Mar 31, 1984 (26)",NA,NA,United States,Fulham FC,Premier League,2010/2011,2010
+35,Centre-Forward,"Jan 10, 1983 (27)",NA,NA,Sweden,Fulham FC,Premier League,2010/2011,2010
+33,Centre-Forward,"Jan 15, 1991 (19)",NA,NA,Netherlands,Fulham FC,Premier League,2010/2011,2010
+26,Goalkeeper,"Apr 3, 1983 (27)",NA,NA,England,Birmingham City,Premier League,2010/2011,2010
+1,Goalkeeper,"Sep 4, 1971 (38)",NA,NA,Northern Ireland,Birmingham City,Premier League,2010/2011,2010
+13,Goalkeeper,"Jun 12, 1985 (25)",NA,NA,Ireland,Birmingham City,Premier League,2010/2011,2010
+32,Centre-Back,"Mar 15, 1985 (25)",NA,NA,England,Birmingham City,Premier League,2010/2011,2010
+5,Centre-Back,"Apr 28, 1983 (27)",NA,NA,England,Birmingham City,Premier League,2010/2011,2010
+28,Centre-Back,"May 25, 1979 (31)",NA,NA,Czech Republic,Birmingham City,Premier League,2010/2011,2010
+6,Centre-Back,"Jul 21, 1984 (25)",NA,NA,England,Birmingham City,Premier League,2010/2011,2010
+15,Centre-Back,"Feb 14, 1987 (23)",NA,NA,England,Birmingham City,Premier League,2010/2011,2010
+38,Centre-Back,"Jan 17, 1993 (17)",NA,NA,Scotland,Birmingham City,Premier League,2010/2011,2010
+23,Left-Back,"Jun 1, 1984 (26)",NA,NA,Chile,Birmingham City,Premier League,2010/2011,2010
+3,Left-Back,"Mar 1, 1984 (26)",NA,NA,England,Birmingham City,Premier League,2010/2011,2010
+2,Right-Back,"Aug 29, 1976 (33)",NA,NA,Ireland,Birmingham City,Premier League,2010/2011,2010
+21,Right-Back,"Jul 19, 1982 (27)",NA,NA,England,Birmingham City,Premier League,2010/2011,2010
+12,Defensive Midfield,"Feb 2, 1978 (32)",NA,NA,Scotland,Birmingham City,Premier League,2010/2011,2010
+20,Defensive Midfield,"Mar 1, 1990 (20)",NA,NA,Spain,Birmingham City,Premier League,2010/2011,2010
+33,Defensive Midfield,"Jul 16, 1993 (16)",NA,NA,Turkey,Birmingham City,Premier League,2010/2011,2010
+7,Central Midfield,"Jun 6, 1985 (25)",NA,NA,Sweden,Birmingham City,Premier League,2010/2011,2010
+4,Central Midfield,"Jan 3, 1977 (33)",NA,NA,England,Birmingham City,Premier League,2010/2011,2010
+17,Central Midfield,"Nov 8, 1985 (24)",NA,NA,Spain,Birmingham City,Premier League,2010/2011,2010
+8,Central Midfield,"Nov 25, 1986 (23)",NA,NA,England,Birmingham City,Premier League,2010/2011,2010
+18,Central Midfield,"Jan 15, 1983 (27)",NA,NA,Ireland,Birmingham City,Premier League,2010/2011,2010
+25,Central Midfield,"Dec 2, 1991 (18)",NA,NA,England,Birmingham City,Premier League,2010/2011,2010
+11,Right Midfield,"Aug 27, 1984 (25)",NA,NA,England,Birmingham City,Premier League,2010/2011,2010
+22,Attacking Midfield,"May 1, 1981 (29)",NA,NA,Belarus,Birmingham City,Premier League,2010/2011,2010
+34,Left Winger,"Mar 6, 1994 (16)",NA,NA,England,Birmingham City,Premier League,2010/2011,2010
+16,Second Striker,"Apr 14, 1983 (27)",NA,NA,Scotland,Birmingham City,Premier League,2010/2011,2010
+17,Centre-Forward,"Oct 28, 1984 (25)",NA,NA,Nigeria,Birmingham City,Premier League,2010/2011,2010
+19,Centre-Forward,"Sep 25, 1980 (29)",NA,NA,Serbia,Birmingham City,Premier League,2010/2011,2010
+14,Centre-Forward,"Apr 14, 1986 (24)",NA,NA,England,Birmingham City,Premier League,2010/2011,2010
+10,Centre-Forward,"Aug 14, 1986 (23)",NA,NA,England,Birmingham City,Premier League,2010/2011,2010
+11,Centre-Forward,"May 7, 1983 (27)",NA,NA,Scotland,Birmingham City,Premier League,2010/2011,2010
+9,Centre-Forward,"Jul 25, 1973 (36)",NA,NA,England,Birmingham City,Premier League,2010/2011,2010
+23,Centre-Forward,"May 19, 1978 (32)",NA,NA,England,Birmingham City,Premier League,2010/2011,2010
+30,Centre-Forward,"Sep 6, 1992 (17)",NA,NA,Netherlands,Birmingham City,Premier League,2010/2011,2010
+29,Goalkeeper,"Jun 12, 1976 (34)",NA,NA,Denmark,Stoke City,Premier League,2010/2011,2010
+1,Goalkeeper,"Jun 20, 1987 (23)",NA,NA,Bosnia-Herzegovina,Stoke City,Premier League,2010/2011,2010
+27,Goalkeeper,"Sep 13, 1973 (36)",NA,NA,England,Stoke City,Premier League,2010/2011,2010
+17,Centre-Back,"Oct 4, 1987 (22)",NA,NA,England,Stoke City,Premier League,2010/2011,2010
+4,Centre-Back,"Aug 18, 1984 (25)",NA,NA,Germany,Stoke City,Premier League,2010/2011,2010
+5,Centre-Back,"Aug 6, 1980 (29)",NA,NA,Wales,Stoke City,Premier League,2010/2011,2010
+25,Centre-Back,"Feb 26, 1978 (32)",NA,NA,Senegal,Stoke City,Premier League,2010/2011,2010
+3,Centre-Back,"Dec 29, 1978 (31)",NA,NA,Gibraltar,Stoke City,Premier League,2010/2011,2010
+12,Centre-Back,"Aug 17, 1987 (22)",NA,NA,Ireland,Stoke City,Premier League,2010/2011,2010
+21,Centre-Back,"Dec 17, 1984 (25)",NA,NA,England,Stoke City,Premier League,2010/2011,2010
+22,Centre-Back,"Jan 22, 1981 (29)",NA,NA,Senegal,Stoke City,Premier League,2010/2011,2010
+14,Left-Back,"Oct 19, 1982 (27)",NA,NA,England,Stoke City,Premier League,2010/2011,2010
+31,Left-Back,"Mar 31, 1987 (23)",NA,NA,England,Stoke City,Premier League,2010/2011,2010
+28,Right-Back,"Aug 6, 1984 (25)",NA,NA,England,Stoke City,Premier League,2010/2011,2010
+30,Right-Back,"Sep 30, 1988 (21)",NA,NA,England,Stoke City,Premier League,2010/2011,2010
+6,Defensive Midfield,"Jan 13, 1984 (26)",NA,NA,Ireland,Stoke City,Premier League,2010/2011,2010
+15,Defensive Midfield,"Feb 10, 1977 (33)",NA,NA,Senegal,Stoke City,Premier League,2010/2011,2010
+32,Defensive Midfield,"Jan 25, 1988 (22)",NA,NA,Uruguay,Stoke City,Premier League,2010/2011,2010
+18,Central Midfield,"Jan 21, 1982 (28)",NA,NA,England,Stoke City,Premier League,2010/2011,2010
+24,Central Midfield,"Jul 6, 1976 (33)",NA,NA,Ireland,Stoke City,Premier League,2010/2011,2010
+8,Central Midfield,"Jul 10, 1986 (23)",NA,NA,England,Stoke City,Premier League,2010/2011,2010
+23,Central Midfield,"Apr 7, 1983 (27)",NA,NA,England,Stoke City,Premier League,2010/2011,2010
+36,Central Midfield,"Nov 21, 1990 (19)",NA,NA,Northern Ireland,Stoke City,Premier League,2010/2011,2010
+35,Right Midfield,"Mar 29, 1991 (19)",NA,NA,England,Stoke City,Premier League,2010/2011,2010
+26,Left Midfield,"Aug 14, 1981 (28)",NA,NA,England,Stoke City,Premier League,2010/2011,2010
+20,Left Winger,"Jan 16, 1982 (28)",NA,NA,Turkey,Stoke City,Premier League,2010/2011,2010
+16,Right Winger,"Jan 15, 1983 (27)",NA,NA,England,Stoke City,Premier League,2010/2011,2010
+19,Right Winger,"Sep 20, 1983 (26)",NA,NA,Ireland,Stoke City,Premier League,2010/2011,2010
+9,Centre-Forward,"Oct 5, 1984 (25)",NA,NA,Trinidad and Tobago,Stoke City,Premier League,2010/2011,2010
+22,Centre-Forward,"Sep 5, 1979 (30)",NA,NA,Norway,Stoke City,Premier League,2010/2011,2010
+7,Centre-Forward,"Sep 15, 1978 (31)",NA,NA,Iceland,Stoke City,Premier League,2010/2011,2010
+10,Centre-Forward,"Oct 31, 1979 (30)",NA,NA,Jamaica,Stoke City,Premier League,2010/2011,2010
+11,Centre-Forward,"Dec 18, 1979 (30)",NA,NA,Mali,Stoke City,Premier League,2010/2011,2010
+1,Goalkeeper,"Mar 14, 1975 (35)",NA,NA,England,Newcastle United,Premier League,2010/2011,2010
+26,Goalkeeper,"Apr 3, 1988 (22)",NA,NA,Netherlands,Newcastle United,Premier League,2010/2011,2010
+21,Goalkeeper,"Mar 17, 1988 (22)",NA,NA,England,Newcastle United,Premier League,2010/2011,2010
+33,Goalkeeper,"Jul 20, 1990 (19)",NA,NA,Sweden,Newcastle United,Premier League,2010/2011,2010
+2,Centre-Back,"Jan 22, 1982 (28)",NA,NA,Argentina,Newcastle United,Premier League,2010/2011,2010
+27,Centre-Back,"Jan 23, 1986 (24)",NA,NA,England,Newcastle United,Premier League,2010/2011,2010
+5,Centre-Back,"Sep 18, 1974 (35)",NA,NA,England,Newcastle United,Premier League,2010/2011,2010
+6,Centre-Back,"Nov 8, 1983 (26)",NA,NA,England,Newcastle United,Premier League,2010/2011,2010
+28,Centre-Back,"Mar 14, 1990 (20)",NA,NA,Hungary,Newcastle United,Premier League,2010/2011,2010
+3,Left-Back,"Jan 23, 1986 (24)",NA,NA,Spain,Newcastle United,Premier League,2010/2011,2010
+16,Right-Back,"Aug 19, 1984 (25)",NA,NA,England,Newcastle United,Premier League,2010/2011,2010
+12,Right-Back,"Jan 4, 1987 (23)",NA,NA,England,Newcastle United,Premier League,2010/2011,2010
+14,Right-Back,"Sep 28, 1985 (24)",NA,NA,England,Newcastle United,Premier League,2010/2011,2010
+NA,Right-Back,"Oct 31, 1991 (18)",NA,NA,England,Newcastle United,Premier League,2010/2011,2010
+24,Defensive Midfield,"Jun 21, 1986 (24)",NA,NA,Cote d'Ivoire,Newcastle United,Premier League,2010/2011,2010
+NA,Defensive Midfield,"Mar 17, 1992 (18)",NA,NA,England,Newcastle United,Premier League,2010/2011,2010
+18,Central Midfield,"Jul 5, 1983 (26)",NA,NA,Argentina,Newcastle United,Premier League,2010/2011,2010
+8,Central Midfield,"Apr 18, 1987 (23)",NA,NA,England,Newcastle United,Premier League,2010/2011,2010
+17,Central Midfield,"Oct 28, 1980 (29)",NA,NA,England,Newcastle United,Premier League,2010/2011,2010
+7,Central Midfield,"Sep 2, 1982 (27)",NA,NA,England,Newcastle United,Premier League,2010/2011,2010
+15,Central Midfield,"Feb 1, 1990 (20)",NA,NA,England,Newcastle United,Premier League,2010/2011,2010
+31,Left Midfield,"Jul 12, 1991 (18)",NA,NA,Northern Ireland,Newcastle United,Premier League,2010/2011,2010
+NA,Attacking Midfield,"Aug 22, 1986 (23)",NA,NA,Ireland,Newcastle United,Premier League,2010/2011,2010
+37,Attacking Midfield,"Mar 7, 1987 (23)",NA,NA,France,Newcastle United,Premier League,2010/2011,2010
+4,Attacking Midfield,"Jun 24, 1982 (28)",NA,NA,England,Newcastle United,Premier League,2010/2011,2010
+29,Attacking Midfield,"Aug 21, 1992 (17)",NA,NA,Slovenia,Newcastle United,Premier League,2010/2011,2010
+NA,Attacking Midfield,"May 1, 1991 (19)",NA,NA,England,Newcastle United,Premier League,2010/2011,2010
+NA,Left Winger,"Jan 7, 1985 (25)",NA,NA,England,Newcastle United,Premier League,2010/2011,2010
+25,Left Winger,"Dec 10, 1990 (19)",NA,NA,DR Congo,Newcastle United,Premier League,2010/2011,2010
+NA,Centre-Forward,"Jan 6, 1989 (21)",NA,NA,England,Newcastle United,Premier League,2010/2011,2010
+23,Centre-Forward,"Oct 12, 1981 (28)",NA,NA,Nigeria,Newcastle United,Premier League,2010/2011,2010
+11,Centre-Forward,"Jan 29, 1980 (30)",NA,NA,Denmark,Newcastle United,Premier League,2010/2011,2010
+NA,Centre-Forward,"Jun 26, 1986 (24)",NA,NA,Spain,Newcastle United,Premier League,2010/2011,2010
+42,Centre-Forward,"Nov 10, 1976 (33)",NA,NA,Finland,Newcastle United,Premier League,2010/2011,2010
+20,Centre-Forward,"Sep 19, 1986 (23)",NA,NA,Ireland,Newcastle United,Premier League,2010/2011,2010
+30,Centre-Forward,"Apr 11, 1991 (19)",NA,NA,England,Newcastle United,Premier League,2010/2011,2010
+NA,Centre-Forward,"Jan 19, 1991 (19)",NA,NA,England,Newcastle United,Premier League,2010/2011,2010
+NA,Centre-Forward,"May 1, 1992 (18)",NA,NA,England,Newcastle United,Premier League,2010/2011,2010
+1,Goalkeeper,"Oct 15, 1979 (30)",NA,NA,England,Blackburn Rovers,Premier League,2010/2011,2010
+32,Goalkeeper,"May 18, 1982 (28)",NA,NA,Wales,Blackburn Rovers,Premier League,2010/2011,2010
+13,Goalkeeper,"Nov 16, 1984 (25)",NA,NA,England,Blackburn Rovers,Premier League,2010/2011,2010
+34,Goalkeeper,"Apr 4, 1988 (22)",NA,NA,England,Blackburn Rovers,Premier League,2010/2011,2010
+4,Centre-Back,"Mar 28, 1984 (26)",NA,NA,Congo,Blackburn Rovers,Premier League,2010/2011,2010
+5,Centre-Back,"Oct 9, 1981 (28)",NA,NA,France,Blackburn Rovers,Premier League,2010/2011,2010
+6,Centre-Back,"Oct 18, 1977 (32)",NA,NA,New Zealand,Blackburn Rovers,Premier League,2010/2011,2010
+13,Centre-Back,"Oct 6, 1981 (28)",NA,NA,Georgia,Blackburn Rovers,Premier League,2010/2011,2010
+28,Centre-Back,"Feb 21, 1992 (18)",NA,NA,England,Blackburn Rovers,Premier League,2010/2011,2010
+31,Centre-Back,"Nov 20, 1991 (18)",NA,NA,Scotland,Blackburn Rovers,Premier League,2010/2011,2010
+3,Left-Back,"May 17, 1988 (22)",NA,NA,Sweden,Blackburn Rovers,Premier League,2010/2011,2010
+39,Right-Back,"Feb 21, 1979 (31)",NA,NA,Guadeloupe,Blackburn Rovers,Premier League,2010/2011,2010
+2,Right-Back,"Sep 20, 1979 (30)",NA,NA,Denmark,Blackburn Rovers,Premier League,2010/2011,2010
+27,Right-Back,"Oct 22, 1975 (34)",NA,NA,Spain,Blackburn Rovers,Premier League,2010/2011,2010
+2,Defensive Midfield,"Nov 3, 1981 (28)",NA,NA,United States,Blackburn Rovers,Premier League,2010/2011,2010
+15,Defensive Midfield,"Dec 15, 1988 (21)",NA,NA,France,Blackburn Rovers,Premier League,2010/2011,2010
+26,Defensive Midfield,"Jun 12, 1988 (22)",NA,NA,France,Blackburn Rovers,Premier League,2010/2011,2010
+35,Defensive Midfield,"Sep 2, 1991 (18)",NA,NA,England,Blackburn Rovers,Premier League,2010/2011,2010
+12,Central Midfield,"Sep 8, 1981 (28)",NA,NA,Norway,Blackburn Rovers,Premier League,2010/2011,2010
+11,Central Midfield,"Oct 5, 1979 (30)",NA,NA,Australia,Blackburn Rovers,Premier League,2010/2011,2010
+17,Central Midfield,"Sep 13, 1980 (29)",NA,NA,Ireland,Blackburn Rovers,Premier League,2010/2011,2010
+14,Central Midfield,"Nov 16, 1989 (20)",NA,NA,Congo,Blackburn Rovers,Premier League,2010/2011,2010
+7,Right Midfield,"Feb 22, 1979 (31)",NA,NA,Australia,Blackburn Rovers,Premier League,2010/2011,2010
+19,Right Midfield,"May 13, 1991 (19)",NA,NA,Ireland,Blackburn Rovers,Premier League,2010/2011,2010
+25,Left Midfield,"Nov 11, 1988 (21)",NA,NA,Ireland,Blackburn Rovers,Premier League,2010/2011,2010
+33,Left Midfield,"Sep 30, 1991 (18)",NA,NA,England,Blackburn Rovers,Premier League,2010/2011,2010
+8,Attacking Midfield,"Dec 27, 1979 (30)",NA,NA,England,Blackburn Rovers,Premier League,2010/2011,2010
+10,Attacking Midfield,"Apr 4, 1988 (22)",NA,NA,Argentina,Blackburn Rovers,Premier League,2010/2011,2010
+20,Attacking Midfield,"Mar 23, 1991 (19)",NA,NA,Spain,Blackburn Rovers,Premier League,2010/2011,2010
+37,Attacking Midfield,"Sep 15, 1994 (15)",NA,NA,England,Blackburn Rovers,Premier League,2010/2011,2010
+23,Left Winger,"Jun 5, 1990 (20)",NA,NA,Canada,Blackburn Rovers,Premier League,2010/2011,2010
+18,Centre-Forward,"Aug 16, 1981 (28)",NA,NA,Paraguay,Blackburn Rovers,Premier League,2010/2011,2010
+9,Centre-Forward,"Jan 5, 1988 (22)",NA,NA,Croatia,Blackburn Rovers,Premier League,2010/2011,2010
+21,Centre-Forward,"Aug 13, 1978 (31)",NA,NA,Zimbabwe,Blackburn Rovers,Premier League,2010/2011,2010
+10,Centre-Forward,"Jan 15, 1981 (29)",NA,NA,Senegal,Blackburn Rovers,Premier League,2010/2011,2010
+30,Centre-Forward,"Jan 25, 1978 (32)",NA,NA,Grenada,Blackburn Rovers,Premier League,2010/2011,2010
+41,Centre-Forward,"Dec 16, 1987 (22)",NA,NA,Senegal,Blackburn Rovers,Premier League,2010/2011,2010
+22,Goalkeeper,"Apr 19, 1975 (35)",NA,NA,Finland,Bolton Wanderers,Premier League,2010/2011,2010
+26,Goalkeeper,"Dec 30, 1981 (28)",NA,NA,Oman,Bolton Wanderers,Premier League,2010/2011,2010
+1,Goalkeeper,"Sep 27, 1987 (22)",NA,NA,Hungary,Bolton Wanderers,Premier League,2010/2011,2010
+NA,Goalkeeper,"Oct 12, 1989 (20)",NA,NA,England,Bolton Wanderers,Premier League,2010/2011,2010
+5,Centre-Back,"Dec 19, 1985 (24)",NA,NA,England,Bolton Wanderers,Premier League,2010/2011,2010
+31,Centre-Back,"Feb 14, 1987 (23)",NA,NA,England,Bolton Wanderers,Premier League,2010/2011,2010
+12,Centre-Back,"May 2, 1980 (30)",NA,NA,England,Bolton Wanderers,Premier League,2010/2011,2010
+NA,Centre-Back,"Jun 29, 1979 (31)",NA,NA,Ireland,Bolton Wanderers,Premier League,2010/2011,2010
+4,Centre-Back,"Dec 14, 1978 (31)",NA,NA,England,Bolton Wanderers,Premier League,2010/2011,2010
+11,Left-Back,"Sep 25, 1978 (31)",NA,NA,Jamaica,Bolton Wanderers,Premier League,2010/2011,2010
+25,Left-Back,"Dec 28, 1990 (19)",NA,NA,Spain,Bolton Wanderers,Premier League,2010/2011,2010
+2,Right-Back,"Jan 9, 1982 (28)",NA,NA,Iceland,Bolton Wanderers,Premier League,2010/2011,2010
+18,Right-Back,"Oct 11, 1981 (28)",NA,NA,Wales,Bolton Wanderers,Premier League,2010/2011,2010
+NA,Right-Back,"Feb 17, 1986 (24)",NA,NA,Ireland,Bolton Wanderers,Premier League,2010/2011,2010
+23,Defensive Midfield,"Sep 20, 1979 (30)",NA,NA,England,Bolton Wanderers,Premier League,2010/2011,2010
+NA,Defensive Midfield,"Mar 29, 1981 (29)",NA,NA,Trinidad and Tobago,Bolton Wanderers,Premier League,2010/2011,2010
+6,Central Midfield,"Apr 6, 1988 (22)",NA,NA,England,Bolton Wanderers,Premier League,2010/2011,2010
+21,Central Midfield,"Mar 4, 1984 (26)",NA,NA,Israel,Bolton Wanderers,Premier League,2010/2011,2010
+16,Central Midfield,"Feb 18, 1988 (22)",NA,NA,England,Bolton Wanderers,Premier League,2010/2011,2010
+8,Central Midfield,"Aug 1, 1985 (24)",NA,NA,United States,Bolton Wanderers,Premier League,2010/2011,2010
+NA,Central Midfield,"Dec 14, 1993 (16)",NA,NA,England,Bolton Wanderers,Premier League,2010/2011,2010
+7,Left Midfield,"Nov 27, 1981 (28)",NA,NA,England,Bolton Wanderers,Premier League,2010/2011,2010
+27,Attacking Midfield,"Jul 2, 1988 (21)",NA,NA,"Korea, South",Bolton Wanderers,Premier League,2010/2011,2010
+10,Left Winger,"Jan 15, 1979 (31)",NA,NA,Bulgaria,Bolton Wanderers,Premier League,2010/2011,2010
+35,Left Winger,"Oct 29, 1989 (20)",NA,NA,England,Bolton Wanderers,Premier League,2010/2011,2010
+NA,Right Winger,"Jan 6, 1991 (19)",NA,NA,Scotland,Bolton Wanderers,Premier League,2010/2011,2010
+20,Second Striker,"Mar 4, 1976 (34)",NA,NA,England,Bolton Wanderers,Premier League,2010/2011,2010
+9,Centre-Forward,"May 27, 1981 (29)",NA,NA,Sweden,Bolton Wanderers,Premier League,2010/2011,2010
+17,Centre-Forward,"Jan 29, 1980 (30)",NA,NA,Croatia,Bolton Wanderers,Premier League,2010/2011,2010
+14,Centre-Forward,"Mar 26, 1977 (33)",NA,NA,England,Bolton Wanderers,Premier League,2010/2011,2010
+NA,Centre-Forward,"Sep 1, 1989 (20)",NA,NA,England,Bolton Wanderers,Premier League,2010/2011,2010
+33,Centre-Forward,"Dec 9, 1990 (19)",NA,NA,England,Bolton Wanderers,Premier League,2010/2011,2010
+40,Centre-Forward,"Jan 14, 1992 (18)",NA,NA,England,Bolton Wanderers,Premier League,2010/2011,2010
+19,Centre-Forward,"Mar 6, 1991 (19)",NA,NA,Spain,Bolton Wanderers,Premier League,2010/2011,2010
+1,Goalkeeper,"Sep 3, 1985 (24)",NA,NA,England,West Bromwich Albion,Premier League,2010/2011,2010
+13,Goalkeeper,"Nov 9, 1982 (27)",NA,NA,Wales,West Bromwich Albion,Premier League,2010/2011,2010
+40,Goalkeeper,"Oct 10, 1970 (39)",NA,NA,Ireland,West Bromwich Albion,Premier League,2010/2011,2010
+19,Goalkeeper,"Jan 5, 1988 (22)",NA,NA,England,West Bromwich Albion,Premier League,2010/2011,2010
+33,Centre-Back,"Mar 11, 1980 (30)",NA,NA,Austria,West Bromwich Albion,Premier League,2010/2011,2010
+22,Centre-Back,"Dec 30, 1986 (23)",NA,NA,Netherlands,West Bromwich Albion,Premier League,2010/2011,2010
+30,Centre-Back,"Nov 9, 1983 (26)",NA,NA,Romania,West Bromwich Albion,Premier League,2010/2011,2010
+23,Centre-Back,"Oct 6, 1980 (29)",NA,NA,Cote d'Ivoire,West Bromwich Albion,Premier League,2010/2011,2010
+6,Centre-Back,"Aug 3, 1981 (28)",NA,NA,Spain,West Bromwich Albion,Premier League,2010/2011,2010
+NA,Centre-Back,"Nov 30, 1985 (24)",NA,NA,England,West Bromwich Albion,Premier League,2010/2011,2010
+3,Centre-Back,"Mar 10, 1983 (27)",NA,NA,Sweden,West Bromwich Albion,Premier League,2010/2011,2010
+36,Centre-Back,"Aug 29, 1985 (24)",NA,NA,Chile,West Bromwich Albion,Premier League,2010/2011,2010
+NA,Centre-Back,"May 6, 1990 (20)",NA,NA,England,West Bromwich Albion,Premier League,2010/2011,2010
+34,Centre-Back,"Oct 26, 1991 (18)",NA,NA,England,West Bromwich Albion,Premier League,2010/2011,2010
+20,Left-Back,"Feb 19, 1981 (29)",NA,NA,England,West Bromwich Albion,Premier League,2010/2011,2010
+4,Left-Back,"Jan 26, 1983 (27)",NA,NA,Slovakia,West Bromwich Albion,Premier League,2010/2011,2010
+2,Left-Back,"May 15, 1990 (20)",NA,NA,England,West Bromwich Albion,Premier League,2010/2011,2010
+12,Right-Back,"Mar 10, 1981 (29)",NA,NA,Ireland,West Bromwich Albion,Premier League,2010/2011,2010
+26,Right-Back,"Jan 31, 1992 (18)",NA,NA,England,West Bromwich Albion,Premier League,2010/2011,2010
+21,Defensive Midfield,"Jan 25, 1987 (23)",NA,NA,DR Congo,West Bromwich Albion,Premier League,2010/2011,2010
+30,Defensive Midfield,"Jan 4, 1993 (17)",NA,NA,England,West Bromwich Albion,Premier League,2010/2011,2010
+7,Central Midfield,"May 25, 1986 (24)",NA,NA,Scotland,West Bromwich Albion,Premier League,2010/2011,2010
+17,Central Midfield,"May 5, 1987 (23)",NA,NA,Scotland,West Bromwich Albion,Premier League,2010/2011,2010
+NA,Central Midfield,"Feb 20, 1992 (18)",NA,NA,England,West Bromwich Albion,Premier League,2010/2011,2010
+11,Left Midfield,"Dec 14, 1984 (25)",NA,NA,Northern Ireland,West Bromwich Albion,Premier League,2010/2011,2010
+5,Attacking Midfield,"Mar 29, 1983 (27)",NA,NA,Cameroon,West Bromwich Albion,Premier League,2010/2011,2010
+14,Left Winger,"Mar 23, 1983 (27)",NA,NA,England,West Bromwich Albion,Premier League,2010/2011,2010
+24,Right Winger,"Jul 15, 1981 (28)",NA,NA,Nigeria,West Bromwich Albion,Premier League,2010/2011,2010
+NA,Right Winger,"Mar 1, 1989 (21)",NA,NA,Mexico,West Bromwich Albion,Premier League,2010/2011,2010
+28,Centre-Forward,"Jul 2, 1981 (28)",NA,NA,French Guiana,West Bromwich Albion,Premier League,2010/2011,2010
+10,Centre-Forward,"Mar 5, 1987 (23)",NA,NA,England,West Bromwich Albion,Premier League,2010/2011,2010
+NA,Centre-Forward,"Mar 26, 1983 (27)",NA,NA,Czech Republic,West Bromwich Albion,Premier League,2010/2011,2010
+NA,Centre-Forward,"Feb 13, 1986 (24)",NA,NA,England,West Bromwich Albion,Premier League,2010/2011,2010
+8,Centre-Forward,"Aug 5, 1988 (21)",NA,NA,Jamaica,West Bromwich Albion,Premier League,2010/2011,2010
+31,Centre-Forward,"Apr 28, 1987 (23)",NA,NA,Ireland,West Bromwich Albion,Premier League,2010/2011,2010
+15,Centre-Forward,"Dec 7, 1991 (18)",NA,NA,New Zealand,West Bromwich Albion,Premier League,2010/2011,2010
+NA,Centre-Forward,"Aug 4, 1993 (16)",NA,NA,Burundi,West Bromwich Albion,Premier League,2010/2011,2010
+13,Goalkeeper,"Jan 24, 1987 (23)",NA,NA,Wales,Wolverhampton Wanderers,Premier League,2010/2011,2010
+1,Goalkeeper,"Jun 15, 1972 (38)",NA,NA,United States,Wolverhampton Wanderers,Premier League,2010/2011,2010
+30,Goalkeeper,"Jun 8, 1986 (24)",NA,NA,Nigeria,Wolverhampton Wanderers,Premier League,2010/2011,2010
+26,Goalkeeper,"Apr 18, 1975 (35)",NA,NA,Brazil,Wolverhampton Wanderers,Premier League,2010/2011,2010
+2,Centre-Back,"Oct 10, 1983 (26)",NA,NA,Belgium,Wolverhampton Wanderers,Premier League,2010/2011,2010
+16,Centre-Back,"Jan 31, 1985 (25)",NA,NA,Scotland,Wolverhampton Wanderers,Premier League,2010/2011,2010
+5,Centre-Back,"Aug 19, 1987 (22)",NA,NA,England,Wolverhampton Wanderers,Premier League,2010/2011,2010
+3,Centre-Back,"Jan 31, 1986 (24)",NA,NA,Cameroon,Wolverhampton Wanderers,Premier League,2010/2011,2010
+6,Centre-Back,"Jul 25, 1975 (34)",NA,NA,England,Wolverhampton Wanderers,Premier League,2010/2011,2010
+15,Centre-Back,"Dec 8, 1984 (25)",NA,NA,England,Wolverhampton Wanderers,Premier League,2010/2011,2010
+21,Centre-Back,"Jan 8, 1988 (22)",NA,NA,England,Wolverhampton Wanderers,Premier League,2010/2011,2010
+23,Centre-Back,"Sep 20, 1985 (24)",NA,NA,Guadeloupe,Wolverhampton Wanderers,Premier League,2010/2011,2010
+22,Centre-Back,"Jan 24, 1987 (23)",NA,NA,France,Wolverhampton Wanderers,Premier League,2010/2011,2010
+40,Centre-Back,"Sep 21, 1990 (19)",NA,NA,England,Wolverhampton Wanderers,Premier League,2010/2011,2010
+35,Centre-Back,"Dec 12, 1992 (17)",NA,NA,England,Wolverhampton Wanderers,Premier League,2010/2011,2010
+36,Centre-Back,"Jul 3, 1991 (18)",NA,NA,Ireland,Wolverhampton Wanderers,Premier League,2010/2011,2010
+11,Left-Back,"Aug 20, 1985 (24)",NA,NA,Ireland,Wolverhampton Wanderers,Premier League,2010/2011,2010
+42,Left-Back,"Mar 25, 1991 (19)",NA,NA,England,Wolverhampton Wanderers,Premier League,2010/2011,2010
+32,Right-Back,"Nov 1, 1984 (25)",NA,NA,Ireland,Wolverhampton Wanderers,Premier League,2010/2011,2010
+46,Right-Back,"Jan 16, 1992 (18)",NA,NA,Ireland,Wolverhampton Wanderers,Premier League,2010/2011,2010
+8,Defensive Midfield,"Nov 26, 1982 (27)",NA,NA,England,Wolverhampton Wanderers,Premier League,2010/2011,2010
+20,Central Midfield,"Apr 30, 1983 (27)",NA,NA,Serbia,Wolverhampton Wanderers,Premier League,2010/2011,2010
+24,Central Midfield,"Sep 25, 1986 (23)",NA,NA,England,Wolverhampton Wanderers,Premier League,2010/2011,2010
+4,Central Midfield,"Feb 3, 1986 (24)",NA,NA,Wales,Wolverhampton Wanderers,Premier League,2010/2011,2010
+14,Central Midfield,"Nov 4, 1984 (25)",NA,NA,England,Wolverhampton Wanderers,Premier League,2010/2011,2010
+34,Central Midfield,"Nov 12, 1985 (24)",NA,NA,Algeria,Wolverhampton Wanderers,Premier League,2010/2011,2010
+37,Central Midfield,"Feb 20, 1991 (19)",NA,NA,England,Wolverhampton Wanderers,Premier League,2010/2011,2010
+45,Central Midfield,"Oct 2, 1992 (17)",NA,NA,England,Wolverhampton Wanderers,Premier League,2010/2011,2010
+12,Left Midfield,"Aug 1, 1981 (28)",NA,NA,Ireland,Wolverhampton Wanderers,Premier League,2010/2011,2010
+41,Left Midfield,"Mar 3, 1991 (19)",NA,NA,England,Wolverhampton Wanderers,Premier League,2010/2011,2010
+7,Left Winger,"Jan 24, 1986 (24)",NA,NA,England,Wolverhampton Wanderers,Premier League,2010/2011,2010
+17,Left Winger,"May 22, 1986 (24)",NA,NA,England,Wolverhampton Wanderers,Premier League,2010/2011,2010
+25,Right Winger,"Aug 12, 1989 (20)",NA,NA,Belgium,Wolverhampton Wanderers,Premier League,2010/2011,2010
+19,Right Winger,"Jan 25, 1988 (22)",NA,NA,England,Wolverhampton Wanderers,Premier League,2010/2011,2010
+29,Centre-Forward,"Sep 18, 1983 (26)",NA,NA,Ireland,Wolverhampton Wanderers,Premier League,2010/2011,2010
+10,Centre-Forward,"Mar 26, 1987 (23)",NA,NA,Scotland,Wolverhampton Wanderers,Premier League,2010/2011,2010
+9,Centre-Forward,"Mar 29, 1986 (24)",NA,NA,England,Wolverhampton Wanderers,Premier League,2010/2011,2010
+15,Centre-Forward,"May 16, 1986 (24)",NA,NA,Ireland,Wolverhampton Wanderers,Premier League,2010/2011,2010
+19,Centre-Forward,"May 19, 1978 (32)",NA,NA,England,Wolverhampton Wanderers,Premier League,2010/2011,2010
+28,Centre-Forward,"Aug 20, 1990 (19)",NA,NA,Scotland,Wolverhampton Wanderers,Premier League,2010/2011,2010
+18,Centre-Forward,"Oct 21, 1989 (20)",NA,NA,Wales,Wolverhampton Wanderers,Premier League,2010/2011,2010
+39,Centre-Forward,"Jan 19, 1991 (19)",NA,NA,England,Wolverhampton Wanderers,Premier League,2010/2011,2010
+1,Goalkeeper,"May 2, 1981 (29)",NA,NA,England,Wigan Athletic,Premier League,2010/2011,2010
+26,Goalkeeper,"Dec 30, 1981 (28)",NA,NA,Oman,Wigan Athletic,Premier League,2010/2011,2010
+12,Goalkeeper,"Feb 29, 1972 (38)",NA,NA,England,Wigan Athletic,Premier League,2010/2011,2010
+46,Goalkeeper,"Oct 5, 1992 (17)",NA,NA,England,Wigan Athletic,Premier League,2010/2011,2010
+5,Centre-Back,"Apr 12, 1982 (28)",NA,NA,Scotland,Wigan Athletic,Premier League,2010/2011,2010
+3,Centre-Back,"Jul 30, 1982 (27)",NA,NA,Paraguay,Wigan Athletic,Premier League,2010/2011,2010
+13,Centre-Back,"Sep 12, 1980 (29)",NA,NA,Scotland,Wigan Athletic,Premier League,2010/2011,2010
+2,Centre-Back,"Feb 8, 1981 (29)",NA,NA,Cote d'Ivoire,Wigan Athletic,Premier League,2010/2011,2010
+24,Centre-Back,"Feb 25, 1987 (23)",NA,NA,Spain,Wigan Athletic,Premier League,2010/2011,2010
+32,Centre-Back,"Apr 28, 1991 (19)",NA,NA,England,Wigan Athletic,Premier League,2010/2011,2010
+35,Centre-Back,"Mar 21, 1992 (18)",NA,NA,Spain,Wigan Athletic,Premier League,2010/2011,2010
+31,Left-Back,"May 2, 1983 (27)",NA,NA,Honduras,Wigan Athletic,Premier League,2010/2011,2010
+27,Left-Back,"Jan 28, 1991 (19)",NA,NA,England,Wigan Athletic,Premier League,2010/2011,2010
+23,Right-Back,"Jun 18, 1984 (26)",NA,NA,Netherlands,Wigan Athletic,Premier League,2010/2011,2010
+17,Right-Back,"Sep 24, 1979 (30)",NA,NA,Barbados,Wigan Athletic,Premier League,2010/2011,2010
+43,Right-Back,"May 12, 1992 (18)",NA,NA,England,Wigan Athletic,Premier League,2010/2011,2010
+6,Defensive Midfield,"Feb 23, 1985 (25)",NA,NA,Honduras,Wigan Athletic,Premier League,2010/2011,2010
+21,Central Midfield,"Jun 14, 1987 (23)",NA,NA,Senegal,Wigan Athletic,Premier League,2010/2011,2010
+8,Central Midfield,"Jul 9, 1985 (24)",NA,NA,England,Wigan Athletic,Premier League,2010/2011,2010
+14,Central Midfield,"May 24, 1985 (25)",NA,NA,Spain,Wigan Athletic,Premier League,2010/2011,2010
+16,Central Midfield,"Oct 7, 1987 (22)",NA,NA,Scotland,Wigan Athletic,Premier League,2010/2011,2010
+4,Central Midfield,"Nov 12, 1990 (19)",NA,NA,Ireland,Wigan Athletic,Premier League,2010/2011,2010
+15,Central Midfield,"Aug 12, 1989 (20)",NA,NA,England,Wigan Athletic,Premier League,2010/2011,2010
+NA,Central Midfield,"Sep 1, 1992 (17)",NA,NA,England,Wigan Athletic,Premier League,2010/2011,2010
+29,Attacking Midfield,"Sep 25, 1979 (30)",NA,NA,Wales,Wigan Athletic,Premier League,2010/2011,2010
+41,Attacking Midfield,"Mar 2, 1991 (19)",NA,NA,England,Wigan Athletic,Premier League,2010/2011,2010
+28,Left Winger,"Mar 6, 1984 (26)",NA,NA,Netherlands,Wigan Athletic,Premier League,2010/2011,2010
+10,Right Winger,"May 28, 1986 (24)",NA,NA,France,Wigan Athletic,Premier League,2010/2011,2010
+11,Right Winger,"Dec 12, 1990 (19)",NA,NA,Nigeria,Wigan Athletic,Premier League,2010/2011,2010
+38,Right Winger,"Apr 25, 1991 (19)",NA,NA,England,Wigan Athletic,Premier League,2010/2011,2010
+9,Centre-Forward,"May 22, 1985 (25)",NA,NA,Argentina,Wigan Athletic,Premier League,2010/2011,2010
+20,Centre-Forward,"Jul 25, 1985 (24)",NA,NA,Colombia,Wigan Athletic,Premier League,2010/2011,2010
+7,Centre-Forward,"Apr 7, 1989 (21)",NA,NA,Argentina,Wigan Athletic,Premier League,2010/2011,2010
+9,Centre-Forward,"Feb 18, 1979 (31)",NA,NA,Trinidad and Tobago,Wigan Athletic,Premier League,2010/2011,2010
+18,Centre-Forward,"Nov 6, 1986 (23)",NA,NA,Ireland,Wigan Athletic,Premier League,2010/2011,2010
+1,Goalkeeper,"May 21, 1981 (29)",NA,NA,England,Blackpool FC,Premier League,2010/2011,2010
+28,Goalkeeper,"Jun 13, 1978 (32)",NA,NA,Ghana,Blackpool FC,Premier League,2010/2011,2010
+21,Goalkeeper,"Jun 4, 1982 (28)",NA,NA,Scotland,Blackpool FC,Premier League,2010/2011,2010
+13,Goalkeeper,"Jan 1, 1990 (20)",NA,NA,England,Blackpool FC,Premier League,2010/2011,2010
+35,Goalkeeper,"Oct 25, 1992 (17)",NA,NA,Scotland,Blackpool FC,Premier League,2010/2011,2010
+33,Defender,- (-),NA,NA,England,Blackpool FC,Premier League,2010/2011,2010
+24,Centre-Back,"Dec 25, 1982 (27)",NA,NA,Wales,Blackpool FC,Premier League,2010/2011,2010
+6,Centre-Back,"Nov 19, 1981 (28)",NA,NA,England,Blackpool FC,Premier League,2010/2011,2010
+17,Centre-Back,"Jul 20, 1988 (21)",NA,NA,England,Blackpool FC,Premier League,2010/2011,2010
+20,Centre-Back,"Feb 6, 1989 (21)",NA,NA,Northern Ireland,Blackpool FC,Premier League,2010/2011,2010
+31,Centre-Back,"Sep 15, 1984 (25)",NA,NA,Israel,Blackpool FC,Premier League,2010/2011,2010
+22,Centre-Back,"Mar 22, 1991 (19)",NA,NA,England,Blackpool FC,Premier League,2010/2011,2010
+35,Centre-Back,"Oct 4, 1992 (17)",NA,NA,Ireland,Blackpool FC,Premier League,2010/2011,2010
+3,Left-Back,"Jun 22, 1981 (29)",NA,NA,Scotland,Blackpool FC,Premier League,2010/2011,2010
+31,Left-Back,"Aug 21, 1985 (24)",NA,NA,Morocco,Blackpool FC,Premier League,2010/2011,2010
+28,Left-Back,"May 14, 1993 (17)",NA,NA,England,Blackpool FC,Premier League,2010/2011,2010
+15,Right-Back,"Jan 31, 1986 (24)",NA,NA,England,Blackpool FC,Premier League,2010/2011,2010
+5,Right-Back,"Nov 6, 1988 (21)",NA,NA,Wales,Blackpool FC,Premier League,2010/2011,2010
+2,Right-Back,"Oct 3, 1981 (28)",NA,NA,England,Blackpool FC,Premier League,2010/2011,2010
+40,Midfielder,- (-),NA,NA,Belgium,Blackpool FC,Premier League,2010/2011,2010
+11,Defensive Midfield,"Feb 18, 1983 (27)",NA,NA,Wales,Blackpool FC,Premier League,2010/2011,2010
+26,Central Midfield,"Dec 10, 1985 (24)",NA,NA,Scotland,Blackpool FC,Premier League,2010/2011,2010
+19,Central Midfield,"Feb 5, 1984 (26)",NA,NA,France,Blackpool FC,Premier League,2010/2011,2010
+4,Central Midfield,"Apr 24, 1981 (29)",NA,NA,England,Blackpool FC,Premier League,2010/2011,2010
+8,Central Midfield,"Aug 25, 1988 (21)",NA,NA,France,Blackpool FC,Premier League,2010/2011,2010
+30,Central Midfield,"Oct 29, 1990 (19)",NA,NA,Scotland,Blackpool FC,Premier League,2010/2011,2010
+34,Central Midfield,"Oct 21, 1992 (17)",NA,NA,England,Blackpool FC,Premier League,2010/2011,2010
+36,Right Midfield,"Oct 28, 1992 (17)",NA,NA,England,Blackpool FC,Premier League,2010/2011,2010
+43,Left Midfield,"Jul 29, 1982 (27)",NA,NA,Ireland,Blackpool FC,Premier League,2010/2011,2010
+42,Attacking Midfield,"Jun 26, 1986 (24)",NA,NA,England,Blackpool FC,Premier League,2010/2011,2010
+7,Attacking Midfield,"Dec 13, 1987 (22)",NA,NA,Ireland,Blackpool FC,Premier League,2010/2011,2010
+16,Left Winger,"Sep 28, 1982 (27)",NA,NA,England,Blackpool FC,Premier League,2010/2011,2010
+29,Left Winger,"Nov 30, 1983 (26)",NA,NA,Australia,Blackpool FC,Premier League,2010/2011,2010
+27,Left Winger,"Jun 15, 1988 (22)",NA,NA,England,Blackpool FC,Premier League,2010/2011,2010
+12,Right Winger,"Jun 4, 1981 (29)",NA,NA,England,Blackpool FC,Premier League,2010/2011,2010
+23,Right Winger,"Mar 13, 1991 (19)",NA,NA,Scotland,Blackpool FC,Premier League,2010/2011,2010
+14,Right Winger,"Oct 17, 1987 (22)",NA,NA,France,Blackpool FC,Premier League,2010/2011,2010
+32,Right Winger,"Jul 4, 1993 (16)",NA,NA,England,Blackpool FC,Premier League,2010/2011,2010
+18,Second Striker,"Feb 6, 1977 (33)",NA,NA,Jamaica,Blackpool FC,Premier League,2010/2011,2010
+44,Centre-Forward,"Feb 27, 1978 (32)",NA,NA,England,Blackpool FC,Premier League,2010/2011,2010
+9,Centre-Forward,"Aug 25, 1979 (30)",NA,NA,England,Blackpool FC,Premier League,2010/2011,2010
+10,Centre-Forward,"Oct 18, 1976 (33)",NA,NA,England,Blackpool FC,Premier League,2010/2011,2010
+41,Centre-Forward,"Jun 14, 1983 (27)",NA,NA,Belarus,Blackpool FC,Premier League,2010/2011,2010
+39,Centre-Forward,"Nov 12, 1981 (28)",NA,NA,England,Blackpool FC,Premier League,2010/2011,2010
+30,Centre-Forward,"Jan 5, 1992 (18)",NA,NA,England,Blackpool FC,Premier League,2010/2011,2010

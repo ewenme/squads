@@ -1,0 +1,617 @@
+shirt_number,position,player_name,date_of_birth,age,nationality,club_name,league_name,season,year
+1,Goalkeeper,"May 20, 1981 (24)",NA,NA,Spain,Real Madrid,LaLiga,2005/2006,2005
+NA,Goalkeeper,"Nov 3, 1981 (23)",NA,NA,Spain,Real Madrid,LaLiga,2005/2006,2005
+30,Goalkeeper,"Apr 27, 1982 (23)",NA,NA,Spain,Real Madrid,LaLiga,2005/2006,2005
+42,Goalkeeper,"Apr 6, 1982 (23)",NA,NA,Spain,Real Madrid,LaLiga,2005/2006,2005
+18,Centre-Back,"Jan 22, 1980 (25)",NA,NA,England,Real Madrid,LaLiga,2005/2006,2005
+6,Centre-Back,"Mar 28, 1975 (30)",NA,NA,Spain,Real Madrid,LaLiga,2005/2006,2005
+4,Centre-Back,"Mar 30, 1986 (19)",NA,NA,Spain,Real Madrid,LaLiga,2005/2006,2005
+22,Centre-Back,"Jan 9, 1980 (25)",NA,NA,Spain,Real Madrid,LaLiga,2005/2006,2005
+15,Centre-Back,"Apr 14, 1981 (24)",NA,NA,Spain,Real Madrid,LaLiga,2005/2006,2005
+24,Centre-Back,"Jan 18, 1982 (23)",NA,NA,Spain,Real Madrid,LaLiga,2005/2006,2005
+NA,Centre-Back,"Jan 29, 1982 (23)",NA,NA,Spain,Real Madrid,LaLiga,2005/2006,2005
+3,Left-Back,"Apr 10, 1973 (32)",NA,NA,Brazil,Real Madrid,LaLiga,2005/2006,2005
+2,Right-Back,"Oct 22, 1975 (29)",NA,NA,Spain,Real Madrid,LaLiga,2005/2006,2005
+11,Right-Back,"Jun 24, 1980 (25)",NA,NA,Brazil,Real Madrid,LaLiga,2005/2006,2005
+26,Right-Back,"Jan 17, 1983 (22)",NA,NA,Spain,Real Madrid,LaLiga,2005/2006,2005
+21,Right-Back,"Jul 18, 1983 (21)",NA,NA,Uruguay,Real Madrid,LaLiga,2005/2006,2005
+16,Defensive Midfield,"Mar 11, 1976 (29)",NA,NA,Denmark,Real Madrid,LaLiga,2005/2006,2005
+12,Defensive Midfield,"May 11, 1977 (28)",NA,NA,Uruguay,Real Madrid,LaLiga,2005/2006,2005
+34,Defensive Midfield,"Feb 8, 1987 (18)",NA,NA,Spain,Real Madrid,LaLiga,2005/2006,2005
+14,Central Midfield,"Oct 31, 1976 (28)",NA,NA,Spain,Real Madrid,LaLiga,2005/2006,2005
+NA,Central Midfield,"Jun 5, 1985 (20)",NA,NA,Spain,Real Madrid,LaLiga,2005/2006,2005
+37,Central Midfield,"Jan 12, 1985 (20)",NA,NA,Spain,Real Madrid,LaLiga,2005/2006,2005
+23,Right Midfield,"May 2, 1975 (30)",NA,NA,England,Real Madrid,LaLiga,2005/2006,2005
+8,Attacking Midfield,"Oct 1, 1981 (23)",NA,NA,Brazil,Real Madrid,LaLiga,2005/2006,2005
+5,Attacking Midfield,"Jun 23, 1972 (33)",NA,NA,France,Real Madrid,LaLiga,2005/2006,2005
+29,Attacking Midfield,"Jun 29, 1986 (19)",NA,NA,Spain,Real Madrid,LaLiga,2005/2006,2005
+40,Attacking Midfield,"Oct 10, 1982 (22)",NA,NA,Spain,Real Madrid,LaLiga,2005/2006,2005
+NA,Right Winger,"May 13, 1985 (20)",NA,NA,Equatorial Guinea,Real Madrid,LaLiga,2005/2006,2005
+7,Second Striker,"Jun 27, 1977 (28)",NA,NA,Spain,Real Madrid,LaLiga,2005/2006,2005
+10,Second Striker,"Jan 25, 1984 (21)",NA,NA,Brazil,Real Madrid,LaLiga,2005/2006,2005
+NA,Second Striker,"Jul 12, 1982 (22)",NA,NA,Italy,Real Madrid,LaLiga,2005/2006,2005
+9,Centre-Forward,"Sep 18, 1976 (28)",NA,NA,Brazil,Real Madrid,LaLiga,2005/2006,2005
+NA,Centre-Forward,"Mar 30, 1982 (23)",NA,NA,Spain,Real Madrid,LaLiga,2005/2006,2005
+27,Centre-Forward,"May 27, 1985 (20)",NA,NA,Spain,Real Madrid,LaLiga,2005/2006,2005
+31,Centre-Forward,"May 10, 1983 (22)",NA,NA,Spain,Real Madrid,LaLiga,2005/2006,2005
+1,Goalkeeper,"Jan 14, 1982 (23)",NA,NA,Spain,FC Barcelona,LaLiga,2005/2006,2005
+25,Goalkeeper,"Mar 3, 1979 (26)",NA,NA,Spain,FC Barcelona,LaLiga,2005/2006,2005
+5,Centre-Back,"Apr 13, 1978 (27)",NA,NA,Spain,FC Barcelona,LaLiga,2005/2006,2005
+4,Centre-Back,"Feb 13, 1979 (26)",NA,NA,Mexico,FC Barcelona,LaLiga,2005/2006,2005
+23,Centre-Back,"Feb 2, 1980 (25)",NA,NA,Spain,FC Barcelona,LaLiga,2005/2006,2005
+26,Centre-Back,"Aug 17, 1984 (20)",NA,NA,Spain,FC Barcelona,LaLiga,2005/2006,2005
+40,Centre-Back,"Jan 4, 1984 (21)",NA,NA,Spain,FC Barcelona,LaLiga,2005/2006,2005
+31,Centre-Back,"Jan 24, 1985 (20)",NA,NA,Spain,FC Barcelona,LaLiga,2005/2006,2005
+45,Centre-Back,"Oct 27, 1987 (17)",NA,NA,Spain,FC Barcelona,LaLiga,2005/2006,2005
+12,Left-Back,"Feb 5, 1975 (30)",NA,NA,Netherlands,FC Barcelona,LaLiga,2005/2006,2005
+16,Left-Back,"Apr 12, 1974 (31)",NA,NA,Brazil,FC Barcelona,LaLiga,2005/2006,2005
+27,Left-Back,"Jul 28, 1983 (21)",NA,NA,Spain,FC Barcelona,LaLiga,2005/2006,2005
+2,Right-Back,"Jun 20, 1976 (29)",NA,NA,Brazil,FC Barcelona,LaLiga,2005/2006,2005
+NA,Right-Back,"Apr 15, 1982 (23)",NA,NA,Spain,FC Barcelona,LaLiga,2005/2006,2005
+17,Defensive Midfield,"Apr 22, 1977 (28)",NA,NA,Netherlands,FC Barcelona,LaLiga,2005/2006,2005
+15,Defensive Midfield,"Jul 10, 1976 (28)",NA,NA,Brazil,FC Barcelona,LaLiga,2005/2006,2005
+3,Defensive Midfield,"Aug 28, 1982 (22)",NA,NA,Italy,FC Barcelona,LaLiga,2005/2006,2005
+18,Defensive Midfield,"Feb 10, 1979 (26)",NA,NA,Spain,FC Barcelona,LaLiga,2005/2006,2005
+6,Central Midfield,"Jan 25, 1980 (25)",NA,NA,Spain,FC Barcelona,LaLiga,2005/2006,2005
+24,Central Midfield,"May 11, 1984 (21)",NA,NA,Spain,FC Barcelona,LaLiga,2005/2006,2005
+27,Central Midfield,"Nov 24, 1983 (21)",NA,NA,Spain,FC Barcelona,LaLiga,2005/2006,2005
+33,Central Midfield,"May 24, 1985 (20)",NA,NA,Spain,FC Barcelona,LaLiga,2005/2006,2005
+41,Central Midfield,"Feb 5, 1984 (21)",NA,NA,France,FC Barcelona,LaLiga,2005/2006,2005
+44,Central Midfield,"Aug 3, 1984 (20)",NA,NA,Spain,FC Barcelona,LaLiga,2005/2006,2005
+10,Attacking Midfield,"Mar 21, 1980 (25)",NA,NA,Brazil,FC Barcelona,LaLiga,2005/2006,2005
+20,Attacking Midfield,"Aug 27, 1977 (27)",NA,NA,Portugal,FC Barcelona,LaLiga,2005/2006,2005
+35,Left Winger,"Sep 21, 1983 (21)",NA,NA,Spain,FC Barcelona,LaLiga,2005/2006,2005
+42,Left Winger,"Oct 8, 1986 (18)",NA,NA,Spain,FC Barcelona,LaLiga,2005/2006,2005
+8,Right Winger,"Jul 10, 1976 (28)",NA,NA,France,FC Barcelona,LaLiga,2005/2006,2005
+30,Right Winger,"Jun 24, 1987 (18)",NA,NA,Argentina,FC Barcelona,LaLiga,2005/2006,2005
+9,Centre-Forward,"Mar 10, 1981 (24)",NA,NA,Cameroon,FC Barcelona,LaLiga,2005/2006,2005
+11,Centre-Forward,"Apr 3, 1984 (21)",NA,NA,Argentina,FC Barcelona,LaLiga,2005/2006,2005
+7,Centre-Forward,"Sep 20, 1971 (33)",NA,NA,Sweden,FC Barcelona,LaLiga,2005/2006,2005
+14,Centre-Forward,"Dec 14, 1976 (28)",NA,NA,Spain,FC Barcelona,LaLiga,2005/2006,2005
+1,Goalkeeper,"Dec 18, 1969 (35)",NA,NA,Spain,Valencia CF,LaLiga,2005/2006,2005
+NA,Goalkeeper,"Apr 3, 1983 (22)",NA,NA,France,Valencia CF,LaLiga,2005/2006,2005
+13,Goalkeeper,"Jul 12, 1973 (31)",NA,NA,Spain,Valencia CF,LaLiga,2005/2006,2005
+5,Centre-Back,"Jul 31, 1979 (25)",NA,NA,Spain,Valencia CF,LaLiga,2005/2006,2005
+4,Centre-Back,"Apr 14, 1973 (32)",NA,NA,Argentina,Valencia CF,LaLiga,2005/2006,2005
+24,Centre-Back,"Jun 11, 1981 (24)",NA,NA,Italy,Valencia CF,LaLiga,2005/2006,2005
+12,Centre-Back,"Feb 9, 1979 (26)",NA,NA,Portugal,Valencia CF,LaLiga,2005/2006,2005
+NA,Centre-Back,"May 25, 1980 (25)",NA,NA,Spain,Valencia CF,LaLiga,2005/2006,2005
+16,Centre-Back,"Sep 4, 1985 (19)",NA,NA,Spain,Valencia CF,LaLiga,2005/2006,2005
+3,Left-Back,"Sep 24, 1979 (25)",NA,NA,Brazil,Valencia CF,LaLiga,2005/2006,2005
+NA,Left-Back,"Apr 6, 1965 (40)",NA,NA,Italy,Valencia CF,LaLiga,2005/2006,2005
+NA,Right-Back,"Jan 4, 1980 (25)",NA,NA,Portugal,Valencia CF,LaLiga,2005/2006,2005
+NA,Right-Back,"Dec 27, 1976 (28)",NA,NA,Spain,Valencia CF,LaLiga,2005/2006,2005
+NA,Right-Back,"Nov 1, 1983 (21)",NA,NA,Spain,Valencia CF,LaLiga,2005/2006,2005
+2,Right-Back,"Apr 5, 1986 (19)",NA,NA,Spain,Valencia CF,LaLiga,2005/2006,2005
+6,Defensive Midfield,"Sep 1, 1977 (27)",NA,NA,Spain,Valencia CF,LaLiga,2005/2006,2005
+8,Central Midfield,"Jul 11, 1975 (29)",NA,NA,Spain,Valencia CF,LaLiga,2005/2006,2005
+NA,Central Midfield,"Jan 15, 1983 (22)",NA,NA,Portugal,Valencia CF,LaLiga,2005/2006,2005
+NA,Central Midfield,"May 15, 1978 (27)",NA,NA,Brazil,Valencia CF,LaLiga,2005/2006,2005
+21,Attacking Midfield,"Nov 3, 1979 (25)",NA,NA,Argentina,Valencia CF,LaLiga,2005/2006,2005
+NA,Attacking Midfield,"Feb 7, 1984 (21)",NA,NA,Spain,Valencia CF,LaLiga,2005/2006,2005
+14,Left Winger,"Jul 16, 1981 (23)",NA,NA,Spain,Valencia CF,LaLiga,2005/2006,2005
+NA,Left Winger,"Sep 9, 1978 (26)",NA,NA,Uruguay,Valencia CF,LaLiga,2005/2006,2005
+19,Right Winger,"Nov 20, 1976 (28)",NA,NA,Spain,Valencia CF,LaLiga,2005/2006,2005
+NA,Right Winger,"Sep 19, 1978 (26)",NA,NA,Spain,Valencia CF,LaLiga,2005/2006,2005
+10,Second Striker,"Jun 23, 1977 (28)",NA,NA,Spain,Valencia CF,LaLiga,2005/2006,2005
+22,Centre-Forward,"Jul 15, 1976 (28)",NA,NA,Italy,Valencia CF,LaLiga,2005/2006,2005
+7,Centre-Forward,"Dec 3, 1981 (23)",NA,NA,Spain,Valencia CF,LaLiga,2005/2006,2005
+20,Centre-Forward,"Nov 12, 1978 (26)",NA,NA,Spain,Valencia CF,LaLiga,2005/2006,2005
+9,Centre-Forward,"Jul 1, 1976 (29)",NA,NA,Netherlands,Valencia CF,LaLiga,2005/2006,2005
+1,Goalkeeper,"Aug 8, 1970 (34)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2005/2006,2005
+13,Goalkeeper,"Jan 27, 1978 (27)",NA,NA,Uruguay,Deportivo de La Coruña,LaLiga,2005/2006,2005
+25,Goalkeeper,"Jan 25, 1979 (26)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2005/2006,2005
+14,Centre-Back,"Apr 9, 1978 (27)",NA,NA,Portugal,Deportivo de La Coruña,LaLiga,2005/2006,2005
+23,Centre-Back,"Jan 22, 1982 (23)",NA,NA,Argentina,Deportivo de La Coruña,LaLiga,2005/2006,2005
+5,Centre-Back,"Apr 2, 1977 (28)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2005/2006,2005
+20,Centre-Back,"Jan 15, 1978 (27)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2005/2006,2005
+22,Centre-Back,"Jan 13, 1977 (28)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2005/2006,2005
+42,Centre-Back,"Apr 12, 1985 (20)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2005/2006,2005
+15,Left-Back,"Feb 3, 1978 (27)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2005/2006,2005
+3,Left-Back,"Jun 23, 1971 (34)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2005/2006,2005
+24,Right-Back,"Oct 11, 1974 (30)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2005/2006,2005
+2,Right-Back,"Jan 25, 1976 (29)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2005/2006,2005
+12,Right-Back,"May 16, 1978 (27)",NA,NA,Argentina,Deportivo de La Coruña,LaLiga,2005/2006,2005
+4,Defensive Midfield,"Mar 22, 1979 (26)",NA,NA,Argentina,Deportivo de La Coruña,LaLiga,2005/2006,2005
+6,Defensive Midfield,"Mar 25, 1981 (24)",NA,NA,Canada,Deportivo de La Coruña,LaLiga,2005/2006,2005
+8,Central Midfield,"Nov 10, 1976 (28)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2005/2006,2005
+16,Central Midfield,"Mar 25, 1972 (33)",NA,NA,Paraguay,Deportivo de La Coruña,LaLiga,2005/2006,2005
+19,Central Midfield,"Jan 1, 1976 (29)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2005/2006,2005
+12,Right Midfield,"Jan 13, 1980 (25)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2005/2006,2005
+21,Attacking Midfield,"Jun 17, 1975 (30)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2005/2006,2005
+35,Attacking Midfield,"Feb 13, 1985 (20)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2005/2006,2005
+41,Attacking Midfield,"Feb 23, 1984 (21)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2005/2006,2005
+NA,Left Winger,"Mar 11, 1978 (27)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2005/2006,2005
+20,Left Winger,"Jul 15, 1982 (22)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2005/2006,2005
+18,Right Winger,"Feb 23, 1976 (29)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2005/2006,2005
+11,Second Striker,"Jun 19, 1975 (30)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2005/2006,2005
+9,Centre-Forward,"Jan 5, 1976 (29)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2005/2006,2005
+10,Centre-Forward,"Mar 3, 1984 (21)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2005/2006,2005
+17,Centre-Forward,"Jun 27, 1981 (24)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2005/2006,2005
+7,Centre-Forward,"May 22, 1981 (24)",NA,NA,Uruguay,Deportivo de La Coruña,LaLiga,2005/2006,2005
+36,Centre-Forward,"Jun 26, 1986 (19)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2005/2006,2005
+40,Centre-Forward,"May 13, 1984 (21)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2005/2006,2005
+25,Goalkeeper,"May 20, 1977 (28)",NA,NA,Argentina,Atlético Madrid,LaLiga,2005/2006,2005
+1,Goalkeeper,"May 25, 1984 (21)",NA,NA,Spain,Atlético Madrid,LaLiga,2005/2006,2005
+30,Goalkeeper,"Apr 24, 1984 (21)",NA,NA,Spain,Atlético Madrid,LaLiga,2005/2006,2005
+33,Goalkeeper,"Feb 10, 1986 (19)",NA,NA,Spain,Atlético Madrid,LaLiga,2005/2006,2005
+21,Centre-Back,"Jan 30, 1979 (26)",NA,NA,Colombia,Atlético Madrid,LaLiga,2005/2006,2005
+22,Centre-Back,"Aug 3, 1981 (23)",NA,NA,Spain,Atlético Madrid,LaLiga,2005/2006,2005
+5,Centre-Back,"Apr 1, 1975 (30)",NA,NA,Spain,Atlético Madrid,LaLiga,2005/2006,2005
+27,Centre-Back,"Sep 10, 1981 (23)",NA,NA,Spain,Atlético Madrid,LaLiga,2005/2006,2005
+3,Left-Back,"Sep 13, 1981 (23)",NA,NA,Spain,Atlético Madrid,LaLiga,2005/2006,2005
+2,Right-Back,"May 15, 1977 (28)",NA,NA,Spain,Atlético Madrid,LaLiga,2005/2006,2005
+18,Right-Back,"Dec 21, 1984 (20)",NA,NA,Spain,Atlético Madrid,LaLiga,2005/2006,2005
+15,Right-Back,"Jul 26, 1985 (19)",NA,NA,Spain,Atlético Madrid,LaLiga,2005/2006,2005
+31,Right-Back,"Feb 13, 1983 (22)",NA,NA,Spain,Atlético Madrid,LaLiga,2005/2006,2005
+38,Right-Back,"Nov 17, 1983 (21)",NA,NA,Spain,Atlético Madrid,LaLiga,2005/2006,2005
+23,Defensive Midfield,"Apr 9, 1979 (26)",NA,NA,France,Atlético Madrid,LaLiga,2005/2006,2005
+4,Defensive Midfield,"Apr 2, 1979 (26)",NA,NA,Spain,Atlético Madrid,LaLiga,2005/2006,2005
+20,Defensive Midfield,"Jul 10, 1983 (21)",NA,NA,Spain,Atlético Madrid,LaLiga,2005/2006,2005
+6,Defensive Midfield,"Dec 1, 1977 (27)",NA,NA,Spain,Atlético Madrid,LaLiga,2005/2006,2005
+31,Central Midfield,"Feb 24, 1987 (18)",NA,NA,Spain,Atlético Madrid,LaLiga,2005/2006,2005
+8,Attacking Midfield,"Oct 27, 1976 (28)",NA,NA,Argentina,Atlético Madrid,LaLiga,2005/2006,2005
+11,Left Winger,"Jan 2, 1981 (24)",NA,NA,Argentina,Atlético Madrid,LaLiga,2005/2006,2005
+17,Left Winger,"Jan 15, 1979 (26)",NA,NA,Bulgaria,Atlético Madrid,LaLiga,2005/2006,2005
+7,Right Winger,"Apr 9, 1980 (25)",NA,NA,Argentina,Atlético Madrid,LaLiga,2005/2006,2005
+7,Right Winger,"Dec 4, 1984 (20)",NA,NA,Spain,Atlético Madrid,LaLiga,2005/2006,2005
+9,Centre-Forward,"Mar 20, 1984 (21)",NA,NA,Spain,Atlético Madrid,LaLiga,2005/2006,2005
+10,Centre-Forward,"Apr 12, 1979 (26)",NA,NA,Serbia,Atlético Madrid,LaLiga,2005/2006,2005
+14,Centre-Forward,"Mar 3, 1984 (21)",NA,NA,Spain,Atlético Madrid,LaLiga,2005/2006,2005
+26,Centre-Forward,"Sep 18, 1985 (19)",NA,NA,Spain,Atlético Madrid,LaLiga,2005/2006,2005
+28,Centre-Forward,"Feb 25, 1984 (21)",NA,NA,Spain,Atlético Madrid,LaLiga,2005/2006,2005
+40,Centre-Forward,"Mar 1, 1985 (20)",NA,NA,Spain,Atlético Madrid,LaLiga,2005/2006,2005
+NA,Goalkeeper,"Jan 7, 1972 (33)",NA,NA,Spain,Real Betis Balompié,LaLiga,2005/2006,2005
+NA,Goalkeeper,"Aug 5, 1980 (24)",NA,NA,Spain,Real Betis Balompié,LaLiga,2005/2006,2005
+NA,Goalkeeper,"Apr 22, 1982 (23)",NA,NA,Spain,Real Betis Balompié,LaLiga,2005/2006,2005
+NA,Centre-Back,"Jul 23, 1976 (28)",NA,NA,Spain,Real Betis Balompié,LaLiga,2005/2006,2005
+NA,Centre-Back,"Jun 6, 1984 (21)",NA,NA,Spain,Real Betis Balompié,LaLiga,2005/2006,2005
+NA,Centre-Back,"Feb 15, 1978 (27)",NA,NA,Uruguay,Real Betis Balompié,LaLiga,2005/2006,2005
+NA,Centre-Back,"Dec 2, 1978 (26)",NA,NA,Spain,Real Betis Balompié,LaLiga,2005/2006,2005
+NA,Centre-Back,"Jul 7, 1980 (24)",NA,NA,Spain,Real Betis Balompié,LaLiga,2005/2006,2005
+NA,Left-Back,"Mar 25, 1979 (26)",NA,NA,Italy,Real Betis Balompié,LaLiga,2005/2006,2005
+NA,Left-Back,"Sep 29, 1972 (32)",NA,NA,Spain,Real Betis Balompié,LaLiga,2005/2006,2005
+NA,Right-Back,"May 11, 1980 (25)",NA,NA,Spain,Real Betis Balompié,LaLiga,2005/2006,2005
+NA,Right-Back,"Sep 1, 1979 (25)",NA,NA,Spain,Real Betis Balompié,LaLiga,2005/2006,2005
+NA,Defensive Midfield,"Sep 16, 1978 (26)",NA,NA,Spain,Real Betis Balompié,LaLiga,2005/2006,2005
+NA,Defensive Midfield,"Mar 17, 1981 (24)",NA,NA,Spain,Real Betis Balompié,LaLiga,2005/2006,2005
+NA,Defensive Midfield,"Apr 17, 1972 (33)",NA,NA,Spain,Real Betis Balompié,LaLiga,2005/2006,2005
+NA,Defensive Midfield,"Aug 12, 1986 (18)",NA,NA,Spain,Real Betis Balompié,LaLiga,2005/2006,2005
+NA,Defensive Midfield,"May 27, 1987 (18)",NA,NA,Spain,Real Betis Balompié,LaLiga,2005/2006,2005
+NA,Central Midfield,"Jul 25, 1976 (28)",NA,NA,Brazil,Real Betis Balompié,LaLiga,2005/2006,2005
+NA,Central Midfield,"Feb 16, 1978 (27)",NA,NA,Spain,Real Betis Balompié,LaLiga,2005/2006,2005
+NA,Right Midfield,"Mar 16, 1987 (18)",NA,NA,Spain,Real Betis Balompié,LaLiga,2005/2006,2005
+NA,Left Midfield,"May 18, 1980 (25)",NA,NA,Spain,Real Betis Balompié,LaLiga,2005/2006,2005
+NA,Attacking Midfield,"Mar 26, 1977 (28)",NA,NA,Spain,Real Betis Balompié,LaLiga,2005/2006,2005
+NA,Attacking Midfield,"Jun 2, 1979 (26)",NA,NA,Spain,Real Betis Balompié,LaLiga,2005/2006,2005
+NA,Left Winger,"Aug 24, 1977 (27)",NA,NA,Brazil,Real Betis Balompié,LaLiga,2005/2006,2005
+NA,Right Winger,"Jul 21, 1981 (23)",NA,NA,Spain,Real Betis Balompié,LaLiga,2005/2006,2005
+NA,Second Striker,"Sep 5, 1980 (24)",NA,NA,Spain,Real Betis Balompié,LaLiga,2005/2006,2005
+NA,Second Striker,"Jan 10, 1979 (26)",NA,NA,Brazil,Real Betis Balompié,LaLiga,2005/2006,2005
+NA,Centre-Forward,"May 6, 1980 (25)",NA,NA,Brazil,Real Betis Balompié,LaLiga,2005/2006,2005
+NA,Centre-Forward,"Feb 27, 1981 (24)",NA,NA,Brazil,Real Betis Balompié,LaLiga,2005/2006,2005
+NA,Centre-Forward,"Sep 16, 1981 (23)",NA,NA,Spain,Real Betis Balompié,LaLiga,2005/2006,2005
+NA,Centre-Forward,"May 10, 1985 (20)",NA,NA,Brazil,Real Betis Balompié,LaLiga,2005/2006,2005
+1,Goalkeeper,"Oct 22, 1973 (31)",NA,NA,Spain,Sevilla FC,LaLiga,2005/2006,2005
+13,Goalkeeper,"Nov 19, 1972 (32)",NA,NA,Spain,Sevilla FC,LaLiga,2005/2006,2005
+NA,Centre-Back,"Mar 30, 1986 (19)",NA,NA,Spain,Sevilla FC,LaLiga,2005/2006,2005
+14,Centre-Back,"Aug 17, 1979 (25)",NA,NA,France,Sevilla FC,LaLiga,2005/2006,2005
+19,Centre-Back,"Nov 13, 1975 (29)",NA,NA,Serbia,Sevilla FC,LaLiga,2005/2006,2005
+2,Centre-Back,"Feb 6, 1974 (31)",NA,NA,Spain,Sevilla FC,LaLiga,2005/2006,2005
+39,Centre-Back,"Apr 24, 1969 (36)",NA,NA,Spain,Sevilla FC,LaLiga,2005/2006,2005
+20,Centre-Back,"Nov 28, 1976 (28)",NA,NA,Spain,Sevilla FC,LaLiga,2005/2006,2005
+23,Centre-Back,"Feb 25, 1981 (24)",NA,NA,Spain,Sevilla FC,LaLiga,2005/2006,2005
+28,Centre-Back,"Jan 2, 1983 (22)",NA,NA,Spain,Sevilla FC,LaLiga,2005/2006,2005
+35,Centre-Back,"Feb 9, 1987 (18)",NA,NA,Spain,Sevilla FC,LaLiga,2005/2006,2005
+3,Left-Back,"Jan 26, 1974 (31)",NA,NA,Spain,Sevilla FC,LaLiga,2005/2006,2005
+27,Left-Back,"Nov 26, 1984 (20)",NA,NA,Spain,Sevilla FC,LaLiga,2005/2006,2005
+16,Left-Back,"Oct 26, 1984 (20)",NA,NA,Brazil,Sevilla FC,LaLiga,2005/2006,2005
+4,Right-Back,"May 6, 1983 (22)",NA,NA,Brazil,Sevilla FC,LaLiga,2005/2006,2005
+15,Right-Back,"Nov 21, 1985 (19)",NA,NA,Spain,Sevilla FC,LaLiga,2005/2006,2005
+31,Right-Back,"Mar 1, 1982 (23)",NA,NA,Spain,Sevilla FC,LaLiga,2005/2006,2005
+18,Defensive Midfield,"Apr 28, 1975 (30)",NA,NA,Spain,Sevilla FC,LaLiga,2005/2006,2005
+29,Defensive Midfield,"Oct 11, 1986 (18)",NA,NA,Spain,Sevilla FC,LaLiga,2005/2006,2005
+25,Central Midfield,"Feb 10, 1980 (25)",NA,NA,Italy,Sevilla FC,LaLiga,2005/2006,2005
+11,Central Midfield,"May 15, 1979 (26)",NA,NA,Brazil,Sevilla FC,LaLiga,2005/2006,2005
+8,Central Midfield,"Feb 28, 1981 (24)",NA,NA,Spain,Sevilla FC,LaLiga,2005/2006,2005
+NA,Central Midfield,"Feb 13, 1985 (20)",NA,NA,Spain,Sevilla FC,LaLiga,2005/2006,2005
+NA,Left Midfield,"May 12, 1980 (25)",NA,NA,Spain,Sevilla FC,LaLiga,2005/2006,2005
+17,Attacking Midfield,"Jan 24, 1978 (27)",NA,NA,Spain,Sevilla FC,LaLiga,2005/2006,2005
+14,Forward,"Sep 18, 1976 (28)",NA,NA,Spain,Sevilla FC,LaLiga,2005/2006,2005
+33,Left Winger,"Feb 16, 1988 (17)",NA,NA,Spain,Sevilla FC,LaLiga,2005/2006,2005
+NA,Left Winger,"Nov 23, 1986 (18)",NA,NA,Spain,Sevilla FC,LaLiga,2005/2006,2005
+22,Right Winger,"Sep 12, 1977 (27)",NA,NA,Spain,Sevilla FC,LaLiga,2005/2006,2005
+7,Second Striker,"Dec 11, 1981 (23)",NA,NA,Argentina,Sevilla FC,LaLiga,2005/2006,2005
+10,Centre-Forward,"Nov 8, 1980 (24)",NA,NA,Brazil,Sevilla FC,LaLiga,2005/2006,2005
+12,Centre-Forward,"Sep 2, 1977 (27)",NA,NA,Mali,Sevilla FC,LaLiga,2005/2006,2005
+9,Centre-Forward,"Mar 4, 1981 (24)",NA,NA,Portugal,Sevilla FC,LaLiga,2005/2006,2005
+30,Centre-Forward,"Jan 13, 1984 (21)",NA,NA,Spain,Sevilla FC,LaLiga,2005/2006,2005
+1,Goalkeeper,"Sep 25, 1975 (29)",NA,NA,Spain,Villarreal CF,LaLiga,2005/2006,2005
+13,Goalkeeper,"Mar 7, 1983 (22)",NA,NA,Uruguay,Villarreal CF,LaLiga,2005/2006,2005
+25,Goalkeeper,"Jul 27, 1984 (20)",NA,NA,Argentina,Villarreal CF,LaLiga,2005/2006,2005
+31,Goalkeeper,"Jul 27, 1987 (17)",NA,NA,Spain,Villarreal CF,LaLiga,2005/2006,2005
+2,Centre-Back,"Apr 10, 1984 (21)",NA,NA,Argentina,Villarreal CF,LaLiga,2005/2006,2005
+24,Centre-Back,"Nov 15, 1979 (25)",NA,NA,Spain,Villarreal CF,LaLiga,2005/2006,2005
+22,Centre-Back,"Jan 17, 1973 (32)",NA,NA,Bolivia,Villarreal CF,LaLiga,2005/2006,2005
+16,Centre-Back,"Jul 20, 1975 (29)",NA,NA,Spain,Villarreal CF,LaLiga,2005/2006,2005
+4,Centre-Back,"Jan 21, 1986 (19)",NA,NA,Spain,Villarreal CF,LaLiga,2005/2006,2005
+NA,Centre-Back,"Feb 5, 1984 (21)",NA,NA,Spain,Villarreal CF,LaLiga,2005/2006,2005
+12,Left-Back,"May 5, 1976 (29)",NA,NA,Argentina,Villarreal CF,LaLiga,2005/2006,2005
+3,Left-Back,"Jul 20, 1975 (29)",NA,NA,Argentina,Villarreal CF,LaLiga,2005/2006,2005
+33,Left-Back,"Feb 1, 1985 (20)",NA,NA,Spain,Villarreal CF,LaLiga,2005/2006,2005
+NA,Right-Back,"Aug 17, 1980 (24)",NA,NA,Netherlands,Villarreal CF,LaLiga,2005/2006,2005
+17,Right-Back,"Dec 13, 1975 (29)",NA,NA,Spain,Villarreal CF,LaLiga,2005/2006,2005
+NA,Right-Back,"Aug 4, 1985 (19)",NA,NA,Ecuador,Villarreal CF,LaLiga,2005/2006,2005
+18,Defensive Midfield,"Jul 23, 1975 (29)",NA,NA,Italy,Villarreal CF,LaLiga,2005/2006,2005
+6,Defensive Midfield,"Jan 6, 1975 (30)",NA,NA,Spain,Villarreal CF,LaLiga,2005/2006,2005
+19,Defensive Midfield,"Jul 17, 1976 (28)",NA,NA,Spain,Villarreal CF,LaLiga,2005/2006,2005
+14,Central Midfield,"Jun 15, 1984 (21)",NA,NA,Spain,Villarreal CF,LaLiga,2005/2006,2005
+21,Central Midfield,"Dec 13, 1984 (20)",NA,NA,Spain,Villarreal CF,LaLiga,2005/2006,2005
+10,Left Midfield,"Dec 15, 1976 (28)",NA,NA,Spain,Villarreal CF,LaLiga,2005/2006,2005
+11,Left Midfield,"May 12, 1978 (27)",NA,NA,Spain,Villarreal CF,LaLiga,2005/2006,2005
+8,Attacking Midfield,"Jun 24, 1978 (27)",NA,NA,Argentina,Villarreal CF,LaLiga,2005/2006,2005
+NA,Attacking Midfield,"Mar 21, 1987 (18)",NA,NA,Spain,Villarreal CF,LaLiga,2005/2006,2005
+32,Attacking Midfield,"Nov 16, 1984 (20)",NA,NA,Spain,Villarreal CF,LaLiga,2005/2006,2005
+26,Right Winger,"Jun 27, 1986 (19)",NA,NA,Spain,Villarreal CF,LaLiga,2005/2006,2005
+7,Right Winger,"Apr 23, 1980 (25)",NA,NA,Spain,Villarreal CF,LaLiga,2005/2006,2005
+5,Second Striker,"May 19, 1979 (26)",NA,NA,Uruguay,Villarreal CF,LaLiga,2005/2006,2005
+9,Centre-Forward,"May 19, 1981 (24)",NA,NA,Argentina,Villarreal CF,LaLiga,2005/2006,2005
+23,Centre-Forward,"Dec 10, 1978 (26)",NA,NA,Spain,Villarreal CF,LaLiga,2005/2006,2005
+9,Centre-Forward,"Nov 3, 1976 (28)",NA,NA,Mexico,Villarreal CF,LaLiga,2005/2006,2005
+13,Goalkeeper,"Feb 18, 1984 (21)",NA,NA,Cameroon,RCD Espanyol Barcelona,LaLiga,2005/2006,2005
+26,Goalkeeper,"Dec 2, 1985 (19)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2005/2006,2005
+1,Goalkeeper,"Mar 6, 1981 (24)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2005/2006,2005
+5,Centre-Back,"Mar 2, 1972 (33)",NA,NA,Argentina,RCD Espanyol Barcelona,LaLiga,2005/2006,2005
+4,Centre-Back,"May 5, 1980 (25)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2005/2006,2005
+21,Centre-Back,"Jan 1, 1983 (22)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2005/2006,2005
+NA,Centre-Back,"Feb 18, 1986 (19)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2005/2006,2005
+27,Centre-Back,"Apr 3, 1986 (19)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2005/2006,2005
+28,Centre-Back,"May 20, 1985 (20)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2005/2006,2005
+18,Left-Back,"May 2, 1978 (27)",NA,NA,France,RCD Espanyol Barcelona,LaLiga,2005/2006,2005
+3,Left-Back,"Jan 16, 1981 (24)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2005/2006,2005
+17,Right-Back,"Jan 9, 1985 (20)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2005/2006,2005
+2,Right-Back,"Sep 16, 1975 (29)",NA,NA,Mozambique,RCD Espanyol Barcelona,LaLiga,2005/2006,2005
+19,Right-Back,"Jan 16, 1985 (20)",NA,NA,Argentina,RCD Espanyol Barcelona,LaLiga,2005/2006,2005
+6,Defensive Midfield,"Sep 23, 1982 (22)",NA,NA,Brazil,RCD Espanyol Barcelona,LaLiga,2005/2006,2005
+15,Defensive Midfield,"Feb 22, 1981 (24)",NA,NA,Brazil,RCD Espanyol Barcelona,LaLiga,2005/2006,2005
+22,Defensive Midfield,"Feb 20, 1981 (24)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2005/2006,2005
+8,Defensive Midfield,"Jul 13, 1975 (29)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2005/2006,2005
+10,Central Midfield,"Feb 6, 1981 (24)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2005/2006,2005
+14,Central Midfield,"Jan 21, 1975 (30)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2005/2006,2005
+31,Central Midfield,"Jun 28, 1984 (21)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2005/2006,2005
+NA,Right Midfield,"Jan 22, 1977 (28)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2005/2006,2005
+9,Attacking Midfield,"May 6, 1976 (29)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2005/2006,2005
+7,Left Winger,"Apr 15, 1982 (23)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2005/2006,2005
+11,Left Winger,"Jan 24, 1980 (25)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2005/2006,2005
+25,Right Winger,"Aug 2, 1975 (29)",NA,NA,Argentina,RCD Espanyol Barcelona,LaLiga,2005/2006,2005
+7,Centre-Forward,"Apr 27, 1976 (29)",NA,NA,Uruguay,RCD Espanyol Barcelona,LaLiga,2005/2006,2005
+23,Centre-Forward,"Oct 19, 1977 (27)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2005/2006,2005
+NA,Centre-Forward,"Sep 24, 1985 (19)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2005/2006,2005
+20,Centre-Forward,"Jan 5, 1983 (22)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2005/2006,2005
+29,Centre-Forward,"Mar 27, 1985 (20)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2005/2006,2005
+NA,Goalkeeper,"Sep 2, 1971 (33)",NA,NA,Spain,Real Zaragoza,LaLiga,2005/2006,2005
+NA,Goalkeeper,"Apr 23, 1975 (30)",NA,NA,Spain,Real Zaragoza,LaLiga,2005/2006,2005
+NA,Defender,"Oct 19, 1964 (40)",NA,NA,Spain,Real Zaragoza,LaLiga,2005/2006,2005
+NA,Centre-Back,"Sep 7, 1980 (24)",NA,NA,Argentina,Real Zaragoza,LaLiga,2005/2006,2005
+NA,Centre-Back,"Nov 1, 1977 (27)",NA,NA,Brazil,Real Zaragoza,LaLiga,2005/2006,2005
+NA,Centre-Back,"Nov 28, 1977 (27)",NA,NA,Spain,Real Zaragoza,LaLiga,2005/2006,2005
+NA,Centre-Back,"Apr 2, 1981 (24)",NA,NA,Spain,Real Zaragoza,LaLiga,2005/2006,2005
+NA,Centre-Back,"Feb 10, 1984 (21)",NA,NA,Spain,Real Zaragoza,LaLiga,2005/2006,2005
+NA,Left-Back,"Mar 15, 1973 (32)",NA,NA,Spain,Real Zaragoza,LaLiga,2005/2006,2005
+NA,Left-Back,"Oct 2, 1976 (28)",NA,NA,Paraguay,Real Zaragoza,LaLiga,2005/2006,2005
+NA,Right-Back,"Aug 17, 1975 (29)",NA,NA,Spain,Real Zaragoza,LaLiga,2005/2006,2005
+NA,Defensive Midfield,"Sep 29, 1975 (29)",NA,NA,Spain,Real Zaragoza,LaLiga,2005/2006,2005
+NA,Defensive Midfield,"Feb 8, 1975 (30)",NA,NA,Spain,Real Zaragoza,LaLiga,2005/2006,2005
+NA,Defensive Midfield,"Jan 29, 1982 (23)",NA,NA,Argentina,Real Zaragoza,LaLiga,2005/2006,2005
+NA,Defensive Midfield,"Jun 13, 1985 (20)",NA,NA,Spain,Real Zaragoza,LaLiga,2005/2006,2005
+NA,Central Midfield,"Feb 12, 1981 (24)",NA,NA,Spain,Real Zaragoza,LaLiga,2005/2006,2005
+NA,Central Midfield,"Aug 11, 1982 (22)",NA,NA,Spain,Real Zaragoza,LaLiga,2005/2006,2005
+NA,Attacking Midfield,"Nov 12, 1982 (22)",NA,NA,Spain,Real Zaragoza,LaLiga,2005/2006,2005
+NA,Attacking Midfield,"Aug 3, 1981 (23)",NA,NA,Spain,Real Zaragoza,LaLiga,2005/2006,2005
+NA,Left Winger,"Jan 9, 1974 (31)",NA,NA,Brazil,Real Zaragoza,LaLiga,2005/2006,2005
+NA,Left Winger,"Aug 7, 1984 (20)",NA,NA,Spain,Real Zaragoza,LaLiga,2005/2006,2005
+NA,Centre-Forward,"Jun 10, 1981 (24)",NA,NA,Brazil,Real Zaragoza,LaLiga,2005/2006,2005
+NA,Centre-Forward,"Jun 12, 1979 (26)",NA,NA,Argentina,Real Zaragoza,LaLiga,2005/2006,2005
+NA,Centre-Forward,"Jun 9, 1983 (22)",NA,NA,Spain,Real Zaragoza,LaLiga,2005/2006,2005
+13,Goalkeeper,"Oct 6, 1983 (21)",NA,NA,Spain,Real Sociedad,LaLiga,2005/2006,2005
+1,Goalkeeper,"May 20, 1969 (36)",NA,NA,Spain,Real Sociedad,LaLiga,2005/2006,2005
+5,Centre-Back,"Aug 14, 1979 (25)",NA,NA,France,Real Sociedad,LaLiga,2005/2006,2005
+23,Centre-Back,"May 26, 1980 (25)",NA,NA,Spain,Real Sociedad,LaLiga,2005/2006,2005
+7,Centre-Back,"Apr 29, 1974 (31)",NA,NA,Spain,Real Sociedad,LaLiga,2005/2006,2005
+6,Centre-Back,"Aug 10, 1980 (24)",NA,NA,Spain,Real Sociedad,LaLiga,2005/2006,2005
+31,Centre-Back,"Jul 13, 1982 (22)",NA,NA,Spain,Real Sociedad,LaLiga,2005/2006,2005
+41,Centre-Back,"Sep 24, 1985 (19)",NA,NA,Spain,Real Sociedad,LaLiga,2005/2006,2005
+19,Left-Back,"Mar 15, 1985 (20)",NA,NA,Spain,Real Sociedad,LaLiga,2005/2006,2005
+NA,Left-Back,"Mar 29, 1986 (19)",NA,NA,Spain,Real Sociedad,LaLiga,2005/2006,2005
+14,Right-Back,"Aug 18, 1975 (29)",NA,NA,Spain,Real Sociedad,LaLiga,2005/2006,2005
+18,Right-Back,"Jul 13, 1980 (24)",NA,NA,Spain,Real Sociedad,LaLiga,2005/2006,2005
+11,Defensive Midfield,"Feb 18, 1979 (26)",NA,NA,Spain,Real Sociedad,LaLiga,2005/2006,2005
+NA,Defensive Midfield,"Oct 27, 1978 (26)",NA,NA,Colombia,Real Sociedad,LaLiga,2005/2006,2005
+8,Defensive Midfield,"Jul 9, 1975 (29)",NA,NA,Spain,Real Sociedad,LaLiga,2005/2006,2005
+22,Central Midfield,"May 17, 1980 (25)",NA,NA,Spain,Real Sociedad,LaLiga,2005/2006,2005
+24,Central Midfield,"Aug 29, 1983 (21)",NA,NA,Spain,Real Sociedad,LaLiga,2005/2006,2005
+4,Central Midfield,"Sep 27, 1984 (20)",NA,NA,Slovenia,Real Sociedad,LaLiga,2005/2006,2005
+33,Central Midfield,"Apr 7, 1984 (21)",NA,NA,Spain,Real Sociedad,LaLiga,2005/2006,2005
+10,Right Midfield,"May 16, 1978 (27)",NA,NA,Spain,Real Sociedad,LaLiga,2005/2006,2005
+17,Left Midfield,"Feb 10, 1979 (26)",NA,NA,Spain,Real Sociedad,LaLiga,2005/2006,2005
+20,Attacking Midfield,"Apr 27, 1979 (26)",NA,NA,Spain,Real Sociedad,LaLiga,2005/2006,2005
+16,Attacking Midfield,"Jun 21, 1980 (25)",NA,NA,Spain,Real Sociedad,LaLiga,2005/2006,2005
+3,Left Winger,"Jul 10, 1984 (20)",NA,NA,Chile,Real Sociedad,LaLiga,2005/2006,2005
+26,Left Winger,"Oct 12, 1986 (18)",NA,NA,Spain,Real Sociedad,LaLiga,2005/2006,2005
+15,Centre-Forward,"Nov 23, 1979 (25)",NA,NA,Turkey,Real Sociedad,LaLiga,2005/2006,2005
+9,Centre-Forward,"Nov 18, 1973 (31)",NA,NA,Serbia,Real Sociedad,LaLiga,2005/2006,2005
+12,Centre-Forward,"Jun 30, 1980 (25)",NA,NA,Denmark,Real Sociedad,LaLiga,2005/2006,2005
+21,Centre-Forward,"May 31, 1975 (30)",NA,NA,Spain,Real Sociedad,LaLiga,2005/2006,2005
+39,Centre-Forward,"May 15, 1984 (21)",NA,NA,Spain,Real Sociedad,LaLiga,2005/2006,2005
+40,Centre-Forward,"Feb 24, 1987 (18)",NA,NA,Spain,Real Sociedad,LaLiga,2005/2006,2005
+1,Goalkeeper,"Apr 2, 1984 (21)",NA,NA,Spain,RCD Mallorca,LaLiga,2005/2006,2005
+25,Goalkeeper,"Sep 9, 1971 (33)",NA,NA,Spain,RCD Mallorca,LaLiga,2005/2006,2005
+23,Centre-Back,"Mar 8, 1984 (21)",NA,NA,Italy,RCD Mallorca,LaLiga,2005/2006,2005
+20,Centre-Back,"Jul 31, 1974 (30)",NA,NA,Argentina,RCD Mallorca,LaLiga,2005/2006,2005
+21,Centre-Back,"Aug 12, 1973 (31)",NA,NA,Italy,RCD Mallorca,LaLiga,2005/2006,2005
+22,Centre-Back,"Sep 4, 1975 (29)",NA,NA,Spain,RCD Mallorca,LaLiga,2005/2006,2005
+16,Centre-Back,"Mar 7, 1977 (28)",NA,NA,Portugal,RCD Mallorca,LaLiga,2005/2006,2005
+26,Centre-Back,"Jul 1, 1985 (20)",NA,NA,Spain,RCD Mallorca,LaLiga,2005/2006,2005
+3,Left-Back,"Jun 25, 1982 (23)",NA,NA,Spain,RCD Mallorca,LaLiga,2005/2006,2005
+8,Right-Back,"Aug 29, 1979 (25)",NA,NA,Spain,RCD Mallorca,LaLiga,2005/2006,2005
+14,Right-Back,"Sep 17, 1977 (27)",NA,NA,Argentina,RCD Mallorca,LaLiga,2005/2006,2005
+NA,Right-Back,"Aug 18, 1982 (22)",NA,NA,Spain,RCD Mallorca,LaLiga,2005/2006,2005
+2,Defensive Midfield,"Jan 3, 1976 (29)",NA,NA,Greece,RCD Mallorca,LaLiga,2005/2006,2005
+10,Defensive Midfield,"Mar 29, 1978 (27)",NA,NA,Spain,RCD Mallorca,LaLiga,2005/2006,2005
+6,Defensive Midfield,"Jan 14, 1981 (24)",NA,NA,Spain,RCD Mallorca,LaLiga,2005/2006,2005
+4,Central Midfield,"Feb 20, 1980 (25)",NA,NA,Argentina,RCD Mallorca,LaLiga,2005/2006,2005
+11,Central Midfield,"Jul 5, 1983 (21)",NA,NA,Argentina,RCD Mallorca,LaLiga,2005/2006,2005
+33,Central Midfield,"Jan 23, 1987 (18)",NA,NA,Philippines,RCD Mallorca,LaLiga,2005/2006,2005
+7,Right Midfield,"Dec 29, 1978 (26)",NA,NA,Spain,RCD Mallorca,LaLiga,2005/2006,2005
+18,Left Midfield,"May 17, 1980 (25)",NA,NA,Venezuela,RCD Mallorca,LaLiga,2005/2006,2005
+16,Left Midfield,"May 8, 1982 (23)",NA,NA,Argentina,RCD Mallorca,LaLiga,2005/2006,2005
+5,Attacking Midfield,"Apr 1, 1973 (32)",NA,NA,Italy,RCD Mallorca,LaLiga,2005/2006,2005
+12,Attacking Midfield,"Jan 18, 1984 (21)",NA,NA,Argentina,RCD Mallorca,LaLiga,2005/2006,2005
+15,Right Winger,"Jun 14, 1982 (23)",NA,NA,Spain,RCD Mallorca,LaLiga,2005/2006,2005
+24,Centre-Forward,"Dec 7, 1979 (25)",NA,NA,Greece,RCD Mallorca,LaLiga,2005/2006,2005
+17,Centre-Forward,"Jun 9, 1982 (23)",NA,NA,Japan,RCD Mallorca,LaLiga,2005/2006,2005
+9,Centre-Forward,"Sep 14, 1974 (30)",NA,NA,Spain,RCD Mallorca,LaLiga,2005/2006,2005
+NA,Centre-Forward,"Sep 18, 1985 (19)",NA,NA,Spain,RCD Mallorca,LaLiga,2005/2006,2005
+NA,Centre-Forward,"Aug 13, 1982 (22)",NA,NA,Spain,RCD Mallorca,LaLiga,2005/2006,2005
+19,Centre-Forward,"Feb 28, 1985 (20)",NA,NA,Spain,RCD Mallorca,LaLiga,2005/2006,2005
+32,Centre-Forward,"Jun 24, 1986 (19)",NA,NA,Spain,RCD Mallorca,LaLiga,2005/2006,2005
+13,Goalkeeper,"Sep 18, 1979 (25)",NA,NA,Spain,Athletic Bilbao,LaLiga,2005/2006,2005
+1,Goalkeeper,"Jan 24, 1976 (29)",NA,NA,Spain,Athletic Bilbao,LaLiga,2005/2006,2005
+25,Goalkeeper,"Nov 22, 1983 (21)",NA,NA,Spain,Athletic Bilbao,LaLiga,2005/2006,2005
+42,Defender,"Aug 22, 1983 (21)",NA,NA,Spain,Athletic Bilbao,LaLiga,2005/2006,2005
+18,Centre-Back,"Aug 19, 1980 (24)",NA,NA,Spain,Athletic Bilbao,LaLiga,2005/2006,2005
+4,Centre-Back,"Sep 18, 1973 (31)",NA,NA,Spain,Athletic Bilbao,LaLiga,2005/2006,2005
+14,Centre-Back,"Feb 19, 1979 (26)",NA,NA,Spain,Athletic Bilbao,LaLiga,2005/2006,2005
+19,Centre-Back,"Jul 22, 1983 (21)",NA,NA,Spain,Athletic Bilbao,LaLiga,2005/2006,2005
+21,Centre-Back,"Jun 26, 1984 (21)",NA,NA,Spain,Athletic Bilbao,LaLiga,2005/2006,2005
+29,Centre-Back,"Feb 16, 1983 (22)",NA,NA,Spain,Athletic Bilbao,LaLiga,2005/2006,2005
+30,Centre-Back,"Mar 29, 1985 (20)",NA,NA,Venezuela,Athletic Bilbao,LaLiga,2005/2006,2005
+31,Centre-Back,"Jan 5, 1983 (22)",NA,NA,Spain,Athletic Bilbao,LaLiga,2005/2006,2005
+3,Left-Back,"May 9, 1982 (23)",NA,NA,Spain,Athletic Bilbao,LaLiga,2005/2006,2005
+15,Right-Back,"Jun 22, 1982 (23)",NA,NA,Spain,Athletic Bilbao,LaLiga,2005/2006,2005
+12,Right-Back,"Apr 25, 1978 (27)",NA,NA,Spain,Athletic Bilbao,LaLiga,2005/2006,2005
+5,Right-Back,"Nov 18, 1975 (29)",NA,NA,Spain,Athletic Bilbao,LaLiga,2005/2006,2005
+2,Right-Back,"Jan 23, 1980 (25)",NA,NA,Spain,Athletic Bilbao,LaLiga,2005/2006,2005
+28,Right-Back,"Oct 21, 1982 (22)",NA,NA,Spain,Athletic Bilbao,LaLiga,2005/2006,2005
+39,Midfielder,"Jan 4, 1982 (23)",NA,NA,Spain,Athletic Bilbao,LaLiga,2005/2006,2005
+16,Defensive Midfield,"Feb 6, 1979 (26)",NA,NA,Spain,Athletic Bilbao,LaLiga,2005/2006,2005
+7,Central Midfield,"Sep 10, 1976 (28)",NA,NA,Spain,Athletic Bilbao,LaLiga,2005/2006,2005
+6,Central Midfield,"Mar 8, 1982 (23)",NA,NA,Spain,Athletic Bilbao,LaLiga,2005/2006,2005
+22,Central Midfield,"Jul 10, 1984 (20)",NA,NA,Spain,Athletic Bilbao,LaLiga,2005/2006,2005
+32,Central Midfield,"Apr 11, 1985 (20)",NA,NA,Spain,Athletic Bilbao,LaLiga,2005/2006,2005
+33,Central Midfield,"Feb 11, 1983 (22)",NA,NA,Spain,Athletic Bilbao,LaLiga,2005/2006,2005
+36,Central Midfield,"May 3, 1984 (21)",NA,NA,Spain,Athletic Bilbao,LaLiga,2005/2006,2005
+40,Central Midfield,"May 28, 1983 (22)",NA,NA,Spain,Athletic Bilbao,LaLiga,2005/2006,2005
+11,Right Midfield,"Mar 22, 1974 (31)",NA,NA,Spain,Athletic Bilbao,LaLiga,2005/2006,2005
+27,Right Midfield,"Jul 22, 1983 (21)",NA,NA,Spain,Athletic Bilbao,LaLiga,2005/2006,2005
+10,Attacking Midfield,"Dec 6, 1979 (25)",NA,NA,Spain,Athletic Bilbao,LaLiga,2005/2006,2005
+8,Attacking Midfield,"Jan 7, 1974 (31)",NA,NA,Spain,Athletic Bilbao,LaLiga,2005/2006,2005
+21,Attacking Midfield,"Jan 8, 1983 (22)",NA,NA,Spain,Athletic Bilbao,LaLiga,2005/2006,2005
+38,Left Winger,"Mar 5, 1986 (19)",NA,NA,Spain,Athletic Bilbao,LaLiga,2005/2006,2005
+48,Left Winger,"May 14, 1987 (18)",NA,NA,Spain,Athletic Bilbao,LaLiga,2005/2006,2005
+17,Right Winger,"Sep 5, 1977 (27)",NA,NA,Spain,Athletic Bilbao,LaLiga,2005/2006,2005
+20,Centre-Forward,"Oct 7, 1971 (33)",NA,NA,Spain,Athletic Bilbao,LaLiga,2005/2006,2005
+22,Centre-Forward,"Jul 28, 1982 (22)",NA,NA,Spain,Athletic Bilbao,LaLiga,2005/2006,2005
+9,Centre-Forward,"Feb 26, 1985 (20)",NA,NA,Spain,Athletic Bilbao,LaLiga,2005/2006,2005
+23,Centre-Forward,"Feb 11, 1981 (24)",NA,NA,Spain,Athletic Bilbao,LaLiga,2005/2006,2005
+37,Centre-Forward,"Mar 23, 1985 (20)",NA,NA,Spain,Athletic Bilbao,LaLiga,2005/2006,2005
+1,Goalkeeper,"Jun 27, 1975 (30)",NA,NA,Spain,Celta de Vigo,LaLiga,2005/2006,2005
+13,Goalkeeper,"Nov 8, 1975 (29)",NA,NA,Spain,Celta de Vigo,LaLiga,2005/2006,2005
+9,Goalkeeper,"Jul 27, 1987 (17)",NA,NA,Spain,Celta de Vigo,LaLiga,2005/2006,2005
+23,Centre-Back,"May 23, 1977 (28)",NA,NA,Spain,Celta de Vigo,LaLiga,2005/2006,2005
+3,Centre-Back,"May 13, 1981 (24)",NA,NA,Argentina,Celta de Vigo,LaLiga,2005/2006,2005
+15,Centre-Back,"Sep 11, 1978 (26)",NA,NA,Chile,Celta de Vigo,LaLiga,2005/2006,2005
+17,Centre-Back,"Jul 4, 1977 (27)",NA,NA,Argentina,Celta de Vigo,LaLiga,2005/2006,2005
+19,Centre-Back,"Aug 19, 1979 (25)",NA,NA,Equatorial Guinea,Celta de Vigo,LaLiga,2005/2006,2005
+12,Left-Back,"Apr 24, 1977 (28)",NA,NA,Argentina,Celta de Vigo,LaLiga,2005/2006,2005
+2,Left-Back,"Jan 23, 1986 (19)",NA,NA,Spain,Celta de Vigo,LaLiga,2005/2006,2005
+8,Right-Back,"Mar 10, 1981 (24)",NA,NA,Spain,Celta de Vigo,LaLiga,2005/2006,2005
+4,Defensive Midfield,"May 17, 1982 (23)",NA,NA,Spain,Celta de Vigo,LaLiga,2005/2006,2005
+6,Defensive Midfield,"Jan 18, 1985 (20)",NA,NA,Brazil,Celta de Vigo,LaLiga,2005/2006,2005
+21,Central Midfield,"Sep 29, 1981 (23)",NA,NA,Spain,Celta de Vigo,LaLiga,2005/2006,2005
+5,Central Midfield,"Sep 13, 1970 (34)",NA,NA,Brazil,Celta de Vigo,LaLiga,2005/2006,2005
+20,Central Midfield,"Feb 28, 1982 (23)",NA,NA,Spain,Celta de Vigo,LaLiga,2005/2006,2005
+19,Central Midfield,"May 28, 1979 (26)",NA,NA,Spain,Celta de Vigo,LaLiga,2005/2006,2005
+25,Central Midfield,"Apr 23, 1981 (24)",NA,NA,Brazil,Celta de Vigo,LaLiga,2005/2006,2005
+24,Attacking Midfield,"Mar 8, 1980 (25)",NA,NA,Uruguay,Celta de Vigo,LaLiga,2005/2006,2005
+16,Attacking Midfield,"Jan 8, 1986 (19)",NA,NA,Spain,Celta de Vigo,LaLiga,2005/2006,2005
+11,Left Winger,"Apr 13, 1973 (32)",NA,NA,Argentina,Celta de Vigo,LaLiga,2005/2006,2005
+22,Left Winger,"Mar 6, 1984 (21)",NA,NA,Netherlands,Celta de Vigo,LaLiga,2005/2006,2005
+7,Right Winger,"Jan 15, 1979 (26)",NA,NA,Spain,Celta de Vigo,LaLiga,2005/2006,2005
+NA,Right Winger,"Mar 1, 1989 (16)",NA,NA,Mexico,Celta de Vigo,LaLiga,2005/2006,2005
+NA,Centre-Forward,"Feb 15, 1972 (33)",NA,NA,Spain,Celta de Vigo,LaLiga,2005/2006,2005
+10,Centre-Forward,"Oct 22, 1976 (28)",NA,NA,Spain,Celta de Vigo,LaLiga,2005/2006,2005
+18,Centre-Forward,"Mar 18, 1979 (26)",NA,NA,Brazil,Celta de Vigo,LaLiga,2005/2006,2005
+14,Centre-Forward,"Apr 12, 1980 (25)",NA,NA,Spain,Celta de Vigo,LaLiga,2005/2006,2005
+13,Goalkeeper,"Dec 30, 1971 (33)",NA,NA,Spain,CA Osasuna,LaLiga,2005/2006,2005
+1,Goalkeeper,"Jan 24, 1979 (26)",NA,NA,Spain,CA Osasuna,LaLiga,2005/2006,2005
+26,Goalkeeper,"Feb 17, 1985 (20)",NA,NA,Spain,CA Osasuna,LaLiga,2005/2006,2005
+7,Centre-Back,"Jan 26, 1974 (31)",NA,NA,Spain,CA Osasuna,LaLiga,2005/2006,2005
+14,Centre-Back,"Feb 25, 1977 (28)",NA,NA,Spain,CA Osasuna,LaLiga,2005/2006,2005
+5,Centre-Back,"Aug 23, 1981 (23)",NA,NA,Spain,CA Osasuna,LaLiga,2005/2006,2005
+4,Centre-Back,"Aug 19, 1984 (20)",NA,NA,Spain,CA Osasuna,LaLiga,2005/2006,2005
+19,Left-Back,"Mar 1, 1982 (23)",NA,NA,Spain,CA Osasuna,LaLiga,2005/2006,2005
+3,Left-Back,"Jan 10, 1977 (28)",NA,NA,Spain,CA Osasuna,LaLiga,2005/2006,2005
+8,Right-Back,"Mar 1, 1982 (23)",NA,NA,Spain,CA Osasuna,LaLiga,2005/2006,2005
+2,Right-Back,"Aug 3, 1980 (24)",NA,NA,Spain,CA Osasuna,LaLiga,2005/2006,2005
+17,Right-Back,"Aug 19, 1984 (20)",NA,NA,Spain,CA Osasuna,LaLiga,2005/2006,2005
+18,Defensive Midfield,"Jun 2, 1978 (27)",NA,NA,Uruguay,CA Osasuna,LaLiga,2005/2006,2005
+10,Defensive Midfield,"Sep 6, 1975 (29)",NA,NA,Spain,CA Osasuna,LaLiga,2005/2006,2005
+22,Defensive Midfield,"Jul 2, 1978 (26)",NA,NA,Spain,CA Osasuna,LaLiga,2005/2006,2005
+16,Central Midfield,"Sep 10, 1982 (22)",NA,NA,Spain,CA Osasuna,LaLiga,2005/2006,2005
+11,Attacking Midfield,"Sep 12, 1977 (27)",NA,NA,Morocco,CA Osasuna,LaLiga,2005/2006,2005
+6,Attacking Midfield,"Jul 11, 1986 (18)",NA,NA,Spain,CA Osasuna,LaLiga,2005/2006,2005
+25,Attacking Midfield,"May 7, 1984 (21)",NA,NA,Spain,CA Osasuna,LaLiga,2005/2006,2005
+23,Left Winger,"Feb 6, 1980 (25)",NA,NA,France,CA Osasuna,LaLiga,2005/2006,2005
+21,Right Winger,"Apr 23, 1981 (24)",NA,NA,Cape Verde,CA Osasuna,LaLiga,2005/2006,2005
+9,Centre-Forward,"Sep 1, 1973 (31)",NA,NA,Serbia,CA Osasuna,LaLiga,2005/2006,2005
+20,Centre-Forward,"Sep 10, 1977 (27)",NA,NA,Argentina,CA Osasuna,LaLiga,2005/2006,2005
+15,Centre-Forward,"Jan 20, 1982 (23)",NA,NA,Cameroon,CA Osasuna,LaLiga,2005/2006,2005
+NA,Centre-Forward,"Apr 19, 1978 (27)",NA,NA,Spain,CA Osasuna,LaLiga,2005/2006,2005
+1,Goalkeeper,"Oct 17, 1977 (27)",NA,NA,Israel,Racing Santander,LaLiga,2005/2006,2005
+NA,Goalkeeper,"Dec 10, 1982 (22)",NA,NA,Spain,Racing Santander,LaLiga,2005/2006,2005
+13,Goalkeeper,"Dec 17, 1979 (25)",NA,NA,Spain,Racing Santander,LaLiga,2005/2006,2005
+16,Centre-Back,"Apr 24, 1969 (36)",NA,NA,Spain,Racing Santander,LaLiga,2005/2006,2005
+22,Centre-Back,"Jul 14, 1979 (25)",NA,NA,Spain,Racing Santander,LaLiga,2005/2006,2005
+3,Centre-Back,"May 23, 1981 (24)",NA,NA,Spain,Racing Santander,LaLiga,2005/2006,2005
+4,Centre-Back,"Oct 10, 1986 (18)",NA,NA,Argentina,Racing Santander,LaLiga,2005/2006,2005
+25,Centre-Back,"Mar 9, 1983 (22)",NA,NA,"Korea, South",Racing Santander,LaLiga,2005/2006,2005
+28,Centre-Back,"Mar 1, 1984 (21)",NA,NA,Spain,Racing Santander,LaLiga,2005/2006,2005
+NA,Left-Back,"Mar 25, 1979 (26)",NA,NA,Italy,Racing Santander,LaLiga,2005/2006,2005
+21,Left-Back,"May 25, 1982 (23)",NA,NA,Spain,Racing Santander,LaLiga,2005/2006,2005
+5,Left-Back,"Jan 20, 1974 (31)",NA,NA,Spain,Racing Santander,LaLiga,2005/2006,2005
+2,Right-Back,"Apr 15, 1982 (23)",NA,NA,Spain,Racing Santander,LaLiga,2005/2006,2005
+14,Right-Back,"Jul 9, 1974 (30)",NA,NA,Spain,Racing Santander,LaLiga,2005/2006,2005
+8,Right-Back,"Sep 23, 1975 (29)",NA,NA,Morocco,Racing Santander,LaLiga,2005/2006,2005
+24,Defensive Midfield,"Feb 12, 1979 (26)",NA,NA,Spain,Racing Santander,LaLiga,2005/2006,2005
+19,Defensive Midfield,"Mar 11, 1976 (29)",NA,NA,Spain,Racing Santander,LaLiga,2005/2006,2005
+23,Defensive Midfield,"Jun 26, 1983 (22)",NA,NA,Brazil,Racing Santander,LaLiga,2005/2006,2005
+18,Central Midfield,"Feb 16, 1979 (26)",NA,NA,France,Racing Santander,LaLiga,2005/2006,2005
+NA,Central Midfield,"Aug 28, 1988 (16)",NA,NA,Spain,Racing Santander,LaLiga,2005/2006,2005
+NA,Central Midfield,"Dec 6, 1981 (23)",NA,NA,Spain,Racing Santander,LaLiga,2005/2006,2005
+6,Central Midfield,"Sep 9, 1983 (21)",NA,NA,Spain,Racing Santander,LaLiga,2005/2006,2005
+35,Central Midfield,"Jan 13, 1985 (20)",NA,NA,Spain,Racing Santander,LaLiga,2005/2006,2005
+NA,Right Midfield,"Jul 27, 1982 (22)",NA,NA,Spain,Racing Santander,LaLiga,2005/2006,2005
+NA,Right Midfield,"Mar 16, 1987 (18)",NA,NA,Spain,Racing Santander,LaLiga,2005/2006,2005
+11,Left Midfield,"Sep 30, 1981 (23)",NA,NA,Spain,Racing Santander,LaLiga,2005/2006,2005
+NA,Attacking Midfield,"Dec 30, 1984 (20)",NA,NA,Spain,Racing Santander,LaLiga,2005/2006,2005
+NA,Left Winger,"Sep 24, 1984 (20)",NA,NA,Spain,Racing Santander,LaLiga,2005/2006,2005
+NA,Right Winger,"Dec 4, 1984 (20)",NA,NA,Spain,Racing Santander,LaLiga,2005/2006,2005
+17,Right Winger,"Jul 17, 1982 (22)",NA,NA,France,Racing Santander,LaLiga,2005/2006,2005
+15,Centre-Forward,"Feb 4, 1984 (21)",NA,NA,Chile,Racing Santander,LaLiga,2005/2006,2005
+9,Centre-Forward,"Jan 10, 1981 (24)",NA,NA,Spain,Racing Santander,LaLiga,2005/2006,2005
+20,Centre-Forward,"Feb 2, 1978 (27)",NA,NA,Spain,Racing Santander,LaLiga,2005/2006,2005
+32,Centre-Forward,"Oct 28, 1985 (19)",NA,NA,Spain,Racing Santander,LaLiga,2005/2006,2005
+1,Goalkeeper,"Mar 23, 1975 (30)",NA,NA,Spain,Málaga CF,LaLiga,2005/2006,2005
+13,Goalkeeper,"Mar 2, 1982 (23)",NA,NA,Spain,Málaga CF,LaLiga,2005/2006,2005
+26,Goalkeeper,"Apr 1, 1985 (20)",NA,NA,Spain,Málaga CF,LaLiga,2005/2006,2005
+4,Centre-Back,"Feb 25, 1974 (31)",NA,NA,Portugal,Málaga CF,LaLiga,2005/2006,2005
+19,Centre-Back,"Jan 4, 1974 (31)",NA,NA,Spain,Málaga CF,LaLiga,2005/2006,2005
+6,Centre-Back,"Aug 4, 1985 (19)",NA,NA,Spain,Málaga CF,LaLiga,2005/2006,2005
+5,Centre-Back,"Feb 14, 1980 (25)",NA,NA,Spain,Málaga CF,LaLiga,2005/2006,2005
+42,Centre-Back,"Feb 18, 1986 (19)",NA,NA,Spain,Málaga CF,LaLiga,2005/2006,2005
+24,Left-Back,"Nov 9, 1981 (23)",NA,NA,Portugal,Málaga CF,LaLiga,2005/2006,2005
+12,Left-Back,"Oct 19, 1974 (30)",NA,NA,Spain,Málaga CF,LaLiga,2005/2006,2005
+11,Left-Back,"Jun 24, 1980 (25)",NA,NA,Spain,Málaga CF,LaLiga,2005/2006,2005
+7,Right-Back,"Dec 7, 1974 (30)",NA,NA,Spain,Málaga CF,LaLiga,2005/2006,2005
+2,Right-Back,"Jun 5, 1981 (24)",NA,NA,Brazil,Málaga CF,LaLiga,2005/2006,2005
+27,Right-Back,"Apr 10, 1985 (20)",NA,NA,Spain,Málaga CF,LaLiga,2005/2006,2005
+3,Defensive Midfield,"Aug 28, 1982 (22)",NA,NA,Brazil,Málaga CF,LaLiga,2005/2006,2005
+22,Defensive Midfield,"Apr 1, 1982 (23)",NA,NA,Spain,Málaga CF,LaLiga,2005/2006,2005
+23,Defensive Midfield,"Jan 17, 1982 (23)",NA,NA,Brazil,Málaga CF,LaLiga,2005/2006,2005
+8,Central Midfield,"Feb 8, 1979 (26)",NA,NA,Spain,Málaga CF,LaLiga,2005/2006,2005
+14,Central Midfield,"Jul 4, 1976 (28)",NA,NA,Uruguay,Málaga CF,LaLiga,2005/2006,2005
+31,Central Midfield,"Mar 27, 1984 (21)",NA,NA,Spain,Málaga CF,LaLiga,2005/2006,2005
+43,Central Midfield,"Feb 20, 1982 (23)",NA,NA,Spain,Málaga CF,LaLiga,2005/2006,2005
+15,Right Midfield,"Jan 25, 1979 (26)",NA,NA,Spain,Málaga CF,LaLiga,2005/2006,2005
+20,Left Midfield,"Jun 27, 1980 (25)",NA,NA,Portugal,Málaga CF,LaLiga,2005/2006,2005
+21,Left Midfield,"May 12, 1980 (25)",NA,NA,Spain,Málaga CF,LaLiga,2005/2006,2005
+38,Attacking Midfield,"Apr 9, 1985 (20)",NA,NA,Spain,Málaga CF,LaLiga,2005/2006,2005
+32,Left Winger,"Jul 2, 1982 (22)",NA,NA,Spain,Málaga CF,LaLiga,2005/2006,2005
+10,Right Winger,"Aug 7, 1977 (27)",NA,NA,Portugal,Málaga CF,LaLiga,2005/2006,2005
+33,Second Striker,"Feb 28, 1983 (22)",NA,NA,Spain,Málaga CF,LaLiga,2005/2006,2005
+17,Centre-Forward,"May 22, 1975 (30)",NA,NA,Spain,Málaga CF,LaLiga,2005/2006,2005
+16,Centre-Forward,"Feb 21, 1975 (30)",NA,NA,Uruguay,Málaga CF,LaLiga,2005/2006,2005
+18,Centre-Forward,"Aug 9, 1979 (25)",NA,NA,Spain,Málaga CF,LaLiga,2005/2006,2005
+9,Centre-Forward,"Aug 21, 1981 (23)",NA,NA,Spain,Málaga CF,LaLiga,2005/2006,2005
+34,Centre-Forward,"Sep 2, 1985 (19)",NA,NA,Spain,Málaga CF,LaLiga,2005/2006,2005
+NA,Goalkeeper,"Jan 24, 1970 (35)",NA,NA,Argentina,Deportivo Alavés,LaLiga,2005/2006,2005
+NA,Goalkeeper,"Sep 5, 1980 (24)",NA,NA,Argentina,Deportivo Alavés,LaLiga,2005/2006,2005
+13,Goalkeeper,"Feb 7, 1978 (27)",NA,NA,France,Deportivo Alavés,LaLiga,2005/2006,2005
+NA,Centre-Back,"Jul 7, 1979 (25)",NA,NA,Spain,Deportivo Alavés,LaLiga,2005/2006,2005
+NA,Centre-Back,"Oct 5, 1971 (33)",NA,NA,Argentina,Deportivo Alavés,LaLiga,2005/2006,2005
+NA,Centre-Back,"Jan 19, 1979 (26)",NA,NA,Spain,Deportivo Alavés,LaLiga,2005/2006,2005
+NA,Centre-Back,"Apr 2, 1975 (30)",NA,NA,Spain,Deportivo Alavés,LaLiga,2005/2006,2005
+NA,Left-Back,"Mar 20, 1977 (28)",NA,NA,Spain,Deportivo Alavés,LaLiga,2005/2006,2005
+NA,Left-Back,"Sep 24, 1972 (32)",NA,NA,Spain,Deportivo Alavés,LaLiga,2005/2006,2005
+NA,Left-Back,"Nov 17, 1973 (31)",NA,NA,Spain,Deportivo Alavés,LaLiga,2005/2006,2005
+NA,Right-Back,"Sep 9, 1974 (30)",NA,NA,Spain,Deportivo Alavés,LaLiga,2005/2006,2005
+NA,Right-Back,"May 30, 1974 (31)",NA,NA,Spain,Deportivo Alavés,LaLiga,2005/2006,2005
+NA,Defensive Midfield,"Feb 17, 1980 (25)",NA,NA,Spain,Deportivo Alavés,LaLiga,2005/2006,2005
+NA,Defensive Midfield,"Sep 3, 1983 (21)",NA,NA,Brazil,Deportivo Alavés,LaLiga,2005/2006,2005
+NA,Defensive Midfield,"May 15, 1984 (21)",NA,NA,Algeria,Deportivo Alavés,LaLiga,2005/2006,2005
+NA,Central Midfield,"Dec 21, 1981 (23)",NA,NA,Bulgaria,Deportivo Alavés,LaLiga,2005/2006,2005
+NA,Central Midfield,"Jul 10, 1977 (27)",NA,NA,Argentina,Deportivo Alavés,LaLiga,2005/2006,2005
+NA,Central Midfield,"Sep 28, 1976 (28)",NA,NA,Spain,Deportivo Alavés,LaLiga,2005/2006,2005
+NA,Attacking Midfield,"Aug 17, 1978 (26)",NA,NA,Spain,Deportivo Alavés,LaLiga,2005/2006,2005
+NA,Attacking Midfield,"Feb 27, 1979 (26)",NA,NA,Spain,Deportivo Alavés,LaLiga,2005/2006,2005
+NA,Attacking Midfield,"Jul 19, 1981 (23)",NA,NA,Brazil,Deportivo Alavés,LaLiga,2005/2006,2005
+NA,Second Striker,"Nov 10, 1980 (24)",NA,NA,Brazil,Deportivo Alavés,LaLiga,2005/2006,2005
+NA,Centre-Forward,"Aug 2, 1979 (25)",NA,NA,Gabon,Deportivo Alavés,LaLiga,2005/2006,2005
+NA,Centre-Forward,"Feb 5, 1976 (29)",NA,NA,Australia,Deportivo Alavés,LaLiga,2005/2006,2005
+NA,Centre-Forward,"Feb 5, 1981 (24)",NA,NA,Senegal,Deportivo Alavés,LaLiga,2005/2006,2005
+NA,Centre-Forward,"Oct 25, 1977 (27)",NA,NA,Equatorial Guinea,Deportivo Alavés,LaLiga,2005/2006,2005
+NA,Centre-Forward,"Sep 28, 1978 (26)",NA,NA,Spain,Deportivo Alavés,LaLiga,2005/2006,2005
+NA,Centre-Forward,"Sep 9, 1978 (26)",NA,NA,Spain,Deportivo Alavés,LaLiga,2005/2006,2005
+NA,Centre-Forward,"Aug 27, 1982 (22)",NA,NA,Brazil,Deportivo Alavés,LaLiga,2005/2006,2005
+NA,Goalkeeper,"Dec 21, 1979 (25)",NA,NA,Spain,Getafe CF,LaLiga,2005/2006,2005
+NA,Goalkeeper,"Apr 23, 1979 (26)",NA,NA,Spain,Getafe CF,LaLiga,2005/2006,2005
+NA,Centre-Back,"Apr 20, 1982 (23)",NA,NA,Spain,Getafe CF,LaLiga,2005/2006,2005
+NA,Centre-Back,"May 8, 1977 (28)",NA,NA,Argentina,Getafe CF,LaLiga,2005/2006,2005
+NA,Centre-Back,"Feb 2, 1979 (26)",NA,NA,Spain,Getafe CF,LaLiga,2005/2006,2005
+NA,Centre-Back,"Dec 17, 1972 (32)",NA,NA,Spain,Getafe CF,LaLiga,2005/2006,2005
+NA,Centre-Back,"Feb 3, 1978 (27)",NA,NA,Spain,Getafe CF,LaLiga,2005/2006,2005
+NA,Centre-Back,"Jul 12, 1984 (20)",NA,NA,Spain,Getafe CF,LaLiga,2005/2006,2005
+NA,Left-Back,"May 4, 1977 (28)",NA,NA,Spain,Getafe CF,LaLiga,2005/2006,2005
+NA,Left-Back,"Jul 5, 1982 (22)",NA,NA,Spain,Getafe CF,LaLiga,2005/2006,2005
+NA,Right-Back,"Dec 15, 1975 (29)",NA,NA,Romania,Getafe CF,LaLiga,2005/2006,2005
+NA,Defensive Midfield,"Oct 31, 1975 (29)",NA,NA,Switzerland,Getafe CF,LaLiga,2005/2006,2005
+NA,Defensive Midfield,"Jan 6, 1978 (27)",NA,NA,Spain,Getafe CF,LaLiga,2005/2006,2005
+NA,Central Midfield,"Apr 27, 1980 (25)",NA,NA,Spain,Getafe CF,LaLiga,2005/2006,2005
+NA,Right Midfield,"Feb 10, 1975 (30)",NA,NA,Spain,Getafe CF,LaLiga,2005/2006,2005
+NA,Attacking Midfield,"Feb 12, 1974 (31)",NA,NA,Spain,Getafe CF,LaLiga,2005/2006,2005
+NA,Attacking Midfield,"Apr 17, 1982 (23)",NA,NA,Spain,Getafe CF,LaLiga,2005/2006,2005
+NA,Left Winger,"May 12, 1985 (20)",NA,NA,Spain,Getafe CF,LaLiga,2005/2006,2005
+NA,Centre-Forward,"Aug 11, 1980 (24)",NA,NA,Spain,Getafe CF,LaLiga,2005/2006,2005
+NA,Centre-Forward,"Aug 21, 1977 (27)",NA,NA,Serbia,Getafe CF,LaLiga,2005/2006,2005
+NA,Centre-Forward,"Feb 5, 1977 (28)",NA,NA,Spain,Getafe CF,LaLiga,2005/2006,2005
+NA,Centre-Forward,"Feb 28, 1986 (19)",NA,NA,Brazil,Getafe CF,LaLiga,2005/2006,2005
+NA,Centre-Forward,"Feb 14, 1968 (37)",NA,NA,Romania,Getafe CF,LaLiga,2005/2006,2005
+NA,Centre-Forward,"Aug 17, 1980 (24)",NA,NA,Spain,Getafe CF,LaLiga,2005/2006,2005
+NA,Goalkeeper,"Jul 16, 1975 (29)",NA,NA,Argentina,Cádiz CF,LaLiga,2005/2006,2005
+NA,Goalkeeper,"May 3, 1978 (27)",NA,NA,Spain,Cádiz CF,LaLiga,2005/2006,2005
+NA,Goalkeeper,"Jan 16, 1971 (34)",NA,NA,Spain,Cádiz CF,LaLiga,2005/2006,2005
+NA,Centre-Back,"Nov 13, 1969 (35)",NA,NA,Argentina,Cádiz CF,LaLiga,2005/2006,2005
+NA,Centre-Back,"Jun 29, 1979 (26)",NA,NA,Spain,Cádiz CF,LaLiga,2005/2006,2005
+NA,Centre-Back,"Feb 6, 1972 (33)",NA,NA,Spain,Cádiz CF,LaLiga,2005/2006,2005
+NA,Centre-Back,"Feb 10, 1983 (22)",NA,NA,Colombia,Cádiz CF,LaLiga,2005/2006,2005
+NA,Left-Back,"Apr 24, 1977 (28)",NA,NA,Portugal,Cádiz CF,LaLiga,2005/2006,2005
+NA,Left-Back,"Sep 17, 1976 (28)",NA,NA,Spain,Cádiz CF,LaLiga,2005/2006,2005
+NA,Right-Back,"May 22, 1982 (23)",NA,NA,Spain,Cádiz CF,LaLiga,2005/2006,2005
+NA,Right-Back,"Apr 13, 1981 (24)",NA,NA,Argentina,Cádiz CF,LaLiga,2005/2006,2005
+NA,Right-Back,"Oct 5, 1973 (31)",NA,NA,Spain,Cádiz CF,LaLiga,2005/2006,2005
+NA,Defensive Midfield,"Feb 8, 1975 (30)",NA,NA,Uruguay,Cádiz CF,LaLiga,2005/2006,2005
+NA,Central Midfield,"Apr 7, 1974 (31)",NA,NA,Spain,Cádiz CF,LaLiga,2005/2006,2005
+NA,Central Midfield,"Aug 31, 1976 (28)",NA,NA,Spain,Cádiz CF,LaLiga,2005/2006,2005
+NA,Right Midfield,"Apr 27, 1976 (29)",NA,NA,Spain,Cádiz CF,LaLiga,2005/2006,2005
+NA,Right Midfield,"Sep 27, 1982 (22)",NA,NA,Uruguay,Cádiz CF,LaLiga,2005/2006,2005
+NA,Left Midfield,"Mar 2, 1976 (29)",NA,NA,Equatorial Guinea,Cádiz CF,LaLiga,2005/2006,2005
+NA,Left Midfield,"Oct 24, 1977 (27)",NA,NA,Spain,Cádiz CF,LaLiga,2005/2006,2005
+NA,Attacking Midfield,"May 17, 1981 (24)",NA,NA,Spain,Cádiz CF,LaLiga,2005/2006,2005
+NA,Attacking Midfield,"Sep 25, 1980 (24)",NA,NA,Argentina,Cádiz CF,LaLiga,2005/2006,2005
+NA,Left Winger,"Jul 2, 1977 (27)",NA,NA,Spain,Cádiz CF,LaLiga,2005/2006,2005
+NA,Left Winger,"Nov 14, 1978 (26)",NA,NA,Spain,Cádiz CF,LaLiga,2005/2006,2005
+NA,Second Striker,"Aug 3, 1981 (23)",NA,NA,Mexico,Cádiz CF,LaLiga,2005/2006,2005
+NA,Centre-Forward,"Aug 8, 1978 (26)",NA,NA,Uruguay,Cádiz CF,LaLiga,2005/2006,2005
+NA,Centre-Forward,"Apr 2, 1972 (33)",NA,NA,Spain,Cádiz CF,LaLiga,2005/2006,2005
+NA,Centre-Forward,"Sep 4, 1977 (27)",NA,NA,Serbia,Cádiz CF,LaLiga,2005/2006,2005

@@ -1,0 +1,642 @@
+shirt_number,position,player_name,date_of_birth,age,nationality,club_name,league_name,season,year
+1,Goalkeeper,"Jan 14, 1982 (30)",NA,NA,Spain,FC Barcelona,LaLiga,2012/2013,2012
+31,Goalkeeper,"Sep 14, 1989 (22)",NA,NA,Spain,FC Barcelona,LaLiga,2012/2013,2012
+32,Goalkeeper,"Jan 3, 1989 (23)",NA,NA,Spain,FC Barcelona,LaLiga,2012/2013,2012
+13,Goalkeeper,"Nov 8, 1975 (36)",NA,NA,Spain,FC Barcelona,LaLiga,2012/2013,2012
+3,Centre-Back,"Feb 2, 1987 (25)",NA,NA,Spain,FC Barcelona,LaLiga,2012/2013,2012
+5,Centre-Back,"Apr 13, 1978 (34)",NA,NA,Spain,FC Barcelona,LaLiga,2012/2013,2012
+15,Centre-Back,"Jan 15, 1991 (21)",NA,NA,Spain,FC Barcelona,LaLiga,2012/2013,2012
+NA,Centre-Back,"Mar 28, 1992 (20)",NA,NA,Spain,FC Barcelona,LaLiga,2012/2013,2012
+21,Left-Back,"Oct 26, 1984 (27)",NA,NA,Brazil,FC Barcelona,LaLiga,2012/2013,2012
+18,Left-Back,"Mar 21, 1989 (23)",NA,NA,Spain,FC Barcelona,LaLiga,2012/2013,2012
+22,Left-Back,"Sep 11, 1979 (32)",NA,NA,France,FC Barcelona,LaLiga,2012/2013,2012
+29,Left-Back,"Mar 4, 1991 (21)",NA,NA,Spain,FC Barcelona,LaLiga,2012/2013,2012
+2,Right-Back,"May 6, 1983 (29)",NA,NA,Brazil,FC Barcelona,LaLiga,2012/2013,2012
+19,Right-Back,"Apr 14, 1991 (21)",NA,NA,Spain,FC Barcelona,LaLiga,2012/2013,2012
+28,Right-Back,"Feb 7, 1992 (20)",NA,NA,Spain,FC Barcelona,LaLiga,2012/2013,2012
+16,Defensive Midfield,"Jul 16, 1988 (23)",NA,NA,Spain,FC Barcelona,LaLiga,2012/2013,2012
+14,Defensive Midfield,"Jun 8, 1984 (28)",NA,NA,Argentina,FC Barcelona,LaLiga,2012/2013,2012
+25,Defensive Midfield,"Sep 9, 1987 (24)",NA,NA,Cameroon,FC Barcelona,LaLiga,2012/2013,2012
+8,Central Midfield,"May 11, 1984 (28)",NA,NA,Spain,FC Barcelona,LaLiga,2012/2013,2012
+4,Central Midfield,"May 4, 1987 (25)",NA,NA,Spain,FC Barcelona,LaLiga,2012/2013,2012
+6,Central Midfield,"Jan 25, 1980 (32)",NA,NA,Spain,FC Barcelona,LaLiga,2012/2013,2012
+11,Central Midfield,"Apr 11, 1991 (21)",NA,NA,Spain,FC Barcelona,LaLiga,2012/2013,2012
+12,Central Midfield,"Apr 26, 1990 (22)",NA,NA,Mexico,FC Barcelona,LaLiga,2012/2013,2012
+30,Central Midfield,"Feb 12, 1993 (19)",NA,NA,Brazil,FC Barcelona,LaLiga,2012/2013,2012
+9,Left Winger,"Dec 19, 1988 (23)",NA,NA,Chile,FC Barcelona,LaLiga,2012/2013,2012
+37,Left Winger,"Aug 11, 1991 (20)",NA,NA,Spain,FC Barcelona,LaLiga,2012/2013,2012
+10,Right Winger,"Jun 24, 1987 (25)",NA,NA,Argentina,FC Barcelona,LaLiga,2012/2013,2012
+17,Right Winger,"Jul 28, 1987 (24)",NA,NA,Spain,FC Barcelona,LaLiga,2012/2013,2012
+27,Right Winger,"Mar 13, 1994 (18)",NA,NA,Spain,FC Barcelona,LaLiga,2012/2013,2012
+7,Centre-Forward,"Dec 3, 1981 (30)",NA,NA,Spain,FC Barcelona,LaLiga,2012/2013,2012
+1,Goalkeeper,"May 20, 1981 (31)",NA,NA,Spain,Real Madrid,LaLiga,2012/2013,2012
+25,Goalkeeper,"Nov 3, 1981 (30)",NA,NA,Spain,Real Madrid,LaLiga,2012/2013,2012
+13,Goalkeeper,"May 13, 1987 (25)",NA,NA,Spain,Real Madrid,LaLiga,2012/2013,2012
+35,Goalkeeper,"Jun 11, 1988 (24)",NA,NA,Spain,Real Madrid,LaLiga,2012/2013,2012
+4,Centre-Back,"Mar 30, 1986 (26)",NA,NA,Spain,Real Madrid,LaLiga,2012/2013,2012
+3,Centre-Back,"Feb 26, 1983 (29)",NA,NA,Portugal,Real Madrid,LaLiga,2012/2013,2012
+18,Centre-Back,"Sep 4, 1985 (26)",NA,NA,Spain,Real Madrid,LaLiga,2012/2013,2012
+2,Centre-Back,"Apr 25, 1993 (19)",NA,NA,France,Real Madrid,LaLiga,2012/2013,2012
+11,Centre-Back,"May 18, 1978 (34)",NA,NA,Portugal,Real Madrid,LaLiga,2012/2013,2012
+27,Centre-Back,"Jan 18, 1990 (22)",NA,NA,Spain,Real Madrid,LaLiga,2012/2013,2012
+37,Centre-Back,"Aug 16, 1993 (18)",NA,NA,Spain,Real Madrid,LaLiga,2012/2013,2012
+12,Left-Back,"May 12, 1988 (24)",NA,NA,Brazil,Real Madrid,LaLiga,2012/2013,2012
+5,Left-Back,"Mar 11, 1988 (24)",NA,NA,Portugal,Real Madrid,LaLiga,2012/2013,2012
+17,Right-Back,"Jan 17, 1983 (29)",NA,NA,Spain,Real Madrid,LaLiga,2012/2013,2012
+14,Defensive Midfield,"Nov 25, 1981 (30)",NA,NA,Spain,Real Madrid,LaLiga,2012/2013,2012
+15,Defensive Midfield,"Dec 3, 1982 (29)",NA,NA,Ghana,Real Madrid,LaLiga,2012/2013,2012
+24,Defensive Midfield,"Mar 10, 1985 (27)",NA,NA,France,Real Madrid,LaLiga,2012/2013,2012
+38,Defensive Midfield,"Feb 23, 1992 (20)",NA,NA,Brazil,Real Madrid,LaLiga,2012/2013,2012
+33,Defensive Midfield,"Oct 23, 1993 (18)",NA,NA,Brazil,Real Madrid,LaLiga,2012/2013,2012
+39,Defensive Midfield,"Feb 2, 1993 (19)",NA,NA,Spain,Real Madrid,LaLiga,2012/2013,2012
+19,Central Midfield,"Sep 9, 1985 (26)",NA,NA,Croatia,Real Madrid,LaLiga,2012/2013,2012
+6,Central Midfield,"Apr 4, 1987 (25)",NA,NA,Germany,Real Madrid,LaLiga,2012/2013,2012
+11,Central Midfield,"Jul 2, 1987 (24)",NA,NA,Spain,Real Madrid,LaLiga,2012/2013,2012
+30,Central Midfield,"Oct 15, 1992 (19)",NA,NA,Spain,Real Madrid,LaLiga,2012/2013,2012
+34,Central Midfield,"Dec 16, 1994 (17)",NA,NA,Spain,Real Madrid,LaLiga,2012/2013,2012
+10,Attacking Midfield,"Oct 15, 1988 (23)",NA,NA,Germany,Real Madrid,LaLiga,2012/2013,2012
+8,Attacking Midfield,"Apr 22, 1982 (30)",NA,NA,Brazil,Real Madrid,LaLiga,2012/2013,2012
+7,Left Winger,"Feb 5, 1985 (27)",NA,NA,Portugal,Real Madrid,LaLiga,2012/2013,2012
+23,Left Winger,"Dec 26, 1990 (21)",NA,NA,Russia,Real Madrid,LaLiga,2012/2013,2012
+22,Right Winger,"Feb 14, 1988 (24)",NA,NA,Argentina,Real Madrid,LaLiga,2012/2013,2012
+21,Right Winger,"Feb 11, 1987 (25)",NA,NA,Spain,Real Madrid,LaLiga,2012/2013,2012
+9,Centre-Forward,"Dec 19, 1987 (24)",NA,NA,France,Real Madrid,LaLiga,2012/2013,2012
+20,Centre-Forward,"Dec 10, 1987 (24)",NA,NA,Argentina,Real Madrid,LaLiga,2012/2013,2012
+29,Centre-Forward,"Oct 23, 1992 (19)",NA,NA,Spain,Real Madrid,LaLiga,2012/2013,2012
+13,Goalkeeper,"May 11, 1992 (20)",NA,NA,Belgium,Atlético Madrid,LaLiga,2012/2013,2012
+1,Goalkeeper,"Jun 28, 1989 (23)",NA,NA,Spain,Atlético Madrid,LaLiga,2012/2013,2012
+25,Goalkeeper,"Jun 17, 1990 (22)",NA,NA,Spain,Atlético Madrid,LaLiga,2012/2013,2012
+2,Centre-Back,"Feb 16, 1986 (26)",NA,NA,Uruguay,Atlético Madrid,LaLiga,2012/2013,2012
+23,Centre-Back,"Sep 7, 1984 (27)",NA,NA,Brazil,Atlético Madrid,LaLiga,2012/2013,2012
+18,Centre-Back,"Jul 13, 1979 (32)",NA,NA,Argentina,Atlético Madrid,LaLiga,2012/2013,2012
+12,Centre-Back,"Apr 8, 1991 (21)",NA,NA,Spain,Atlético Madrid,LaLiga,2012/2013,2012
+3,Left-Back,"Aug 9, 1985 (26)",NA,NA,Brazil,Atlético Madrid,LaLiga,2012/2013,2012
+22,Left-Back,"Jan 7, 1989 (23)",NA,NA,Argentina,Atlético Madrid,LaLiga,2012/2013,2012
+15,Left-Back,"Feb 9, 1982 (30)",NA,NA,Spain,Atlético Madrid,LaLiga,2012/2013,2012
+NA,Right-Back,"Sep 28, 1987 (24)",NA,NA,Portugal,Atlético Madrid,LaLiga,2012/2013,2012
+20,Right-Back,"Jan 9, 1985 (27)",NA,NA,Spain,Atlético Madrid,LaLiga,2012/2013,2012
+26,Right-Back,"May 5, 1994 (18)",NA,NA,Spain,Atlético Madrid,LaLiga,2012/2013,2012
+34,Right-Back,"Apr 21, 1995 (17)",NA,NA,Spain,Atlético Madrid,LaLiga,2012/2013,2012
+14,Defensive Midfield,"Jul 10, 1983 (28)",NA,NA,Spain,Atlético Madrid,LaLiga,2012/2013,2012
+NA,Central Midfield,"Sep 7, 1980 (31)",NA,NA,Turkey,Atlético Madrid,LaLiga,2012/2013,2012
+5,Central Midfield,"May 2, 1981 (31)",NA,NA,Portugal,Atlético Madrid,LaLiga,2012/2013,2012
+4,Central Midfield,"Feb 24, 1987 (25)",NA,NA,Spain,Atlético Madrid,LaLiga,2012/2013,2012
+11,Central Midfield,"Sep 30, 1985 (26)",NA,NA,Uruguay,Atlético Madrid,LaLiga,2012/2013,2012
+6,Central Midfield,"Jan 8, 1992 (20)",NA,NA,Spain,Atlético Madrid,LaLiga,2012/2013,2012
+28,Central Midfield,"Nov 21, 1994 (17)",NA,NA,Spain,Atlético Madrid,LaLiga,2012/2013,2012
+30,Central Midfield,"Nov 10, 1994 (17)",NA,NA,Spain,Atlético Madrid,LaLiga,2012/2013,2012
+42,Right Midfield,"Oct 7, 1991 (20)",NA,NA,Tunisia,Atlético Madrid,LaLiga,2012/2013,2012
+7,Left Midfield,"Jan 8, 1988 (24)",NA,NA,Spain,Atlético Madrid,LaLiga,2012/2013,2012
+8,Attacking Midfield,"Jul 11, 1986 (25)",NA,NA,Spain,Atlético Madrid,LaLiga,2012/2013,2012
+10,Left Winger,"Jan 30, 1987 (25)",NA,NA,Turkey,Atlético Madrid,LaLiga,2012/2013,2012
+NA,Left Winger,"Mar 10, 1992 (20)",NA,NA,Senegal,Atlético Madrid,LaLiga,2012/2013,2012
+31,Left Winger,"Apr 26, 1993 (19)",NA,NA,Spain,Atlético Madrid,LaLiga,2012/2013,2012
+9,Centre-Forward,"Feb 10, 1986 (26)",NA,NA,Colombia,Atlético Madrid,LaLiga,2012/2013,2012
+19,Centre-Forward,"Oct 7, 1988 (23)",NA,NA,Spain,Atlético Madrid,LaLiga,2012/2013,2012
+NA,Centre-Forward,"Jan 16, 1992 (20)",NA,NA,Spain,Atlético Madrid,LaLiga,2012/2013,2012
+1,Goalkeeper,"Jun 24, 1985 (27)",NA,NA,Brazil,Valencia CF,LaLiga,2012/2013,2012
+13,Goalkeeper,"Jan 10, 1987 (25)",NA,NA,Spain,Valencia CF,LaLiga,2012/2013,2012
+26,Goalkeeper,"Jan 10, 1988 (24)",NA,NA,Spain,Valencia CF,LaLiga,2012/2013,2012
+4,Centre-Back,"Dec 27, 1985 (26)",NA,NA,France,Valencia CF,LaLiga,2012/2013,2012
+22,Centre-Back,"Oct 29, 1983 (28)",NA,NA,France,Valencia CF,LaLiga,2012/2013,2012
+18,Centre-Back,"Jan 25, 1989 (23)",NA,NA,Spain,Valencia CF,LaLiga,2012/2013,2012
+20,Centre-Back,"May 16, 1981 (31)",NA,NA,Portugal,Valencia CF,LaLiga,2012/2013,2012
+30,Centre-Back,"Apr 22, 1990 (22)",NA,NA,Spain,Valencia CF,LaLiga,2012/2013,2012
+29,Centre-Back,"Jul 2, 1990 (21)",NA,NA,Spain,Valencia CF,LaLiga,2012/2013,2012
+3,Left-Back,"Sep 15, 1987 (24)",NA,NA,France,Valencia CF,LaLiga,2012/2013,2012
+28,Left-Back,"Mar 1, 1993 (19)",NA,NA,Spain,Valencia CF,LaLiga,2012/2013,2012
+NA,Left-Back,"May 17, 1995 (17)",NA,NA,Spain,Valencia CF,LaLiga,2012/2013,2012
+36,Left-Back,"May 25, 1995 (17)",NA,NA,Spain,Valencia CF,LaLiga,2012/2013,2012
+12,Right-Back,"Feb 25, 1984 (28)",NA,NA,Portugal,Valencia CF,LaLiga,2012/2013,2012
+14,Right-Back,"Jun 12, 1987 (25)",NA,NA,Spain,Valencia CF,LaLiga,2012/2013,2012
+31,Right-Back,"Mar 16, 1992 (20)",NA,NA,Spain,Valencia CF,LaLiga,2012/2013,2012
+5,Defensive Midfield,"Apr 10, 1986 (26)",NA,NA,Argentina,Valencia CF,LaLiga,2012/2013,2012
+6,Defensive Midfield,"Sep 1, 1977 (34)",NA,NA,Spain,Valencia CF,LaLiga,2012/2013,2012
+10,Central Midfield,"Jun 29, 1988 (24)",NA,NA,Argentina,Valencia CF,LaLiga,2012/2013,2012
+24,Central Midfield,"Jan 9, 1985 (27)",NA,NA,Argentina,Valencia CF,LaLiga,2012/2013,2012
+21,Central Midfield,"Apr 16, 1989 (23)",NA,NA,Spain,Valencia CF,LaLiga,2012/2013,2012
+17,Central Midfield,"Sep 28, 1986 (25)",NA,NA,Mexico,Valencia CF,LaLiga,2012/2013,2012
+23,Attacking Midfield,"Feb 16, 1991 (21)",NA,NA,Spain,Valencia CF,LaLiga,2012/2013,2012
+15,Attacking Midfield,"Oct 21, 1989 (22)",NA,NA,Spain,Valencia CF,LaLiga,2012/2013,2012
+32,Attacking Midfield,"May 21, 1992 (20)",NA,NA,Spain,Valencia CF,LaLiga,2012/2013,2012
+11,Left Winger,"Mar 31, 1989 (23)",NA,NA,Argentina,Valencia CF,LaLiga,2012/2013,2012
+8,Right Winger,"Dec 26, 1989 (22)",NA,NA,Algeria,Valencia CF,LaLiga,2012/2013,2012
+7,Second Striker,"Apr 1, 1984 (28)",NA,NA,Brazil,Valencia CF,LaLiga,2012/2013,2012
+9,Centre-Forward,"May 27, 1985 (27)",NA,NA,Spain,Valencia CF,LaLiga,2012/2013,2012
+16,Centre-Forward,"Nov 28, 1983 (28)",NA,NA,Paraguay,Valencia CF,LaLiga,2012/2013,2012
+NA,Goalkeeper,"Nov 3, 1981 (30)",NA,NA,Spain,Sevilla FC,LaLiga,2012/2013,2012
+13,Goalkeeper,"May 1, 1982 (30)",NA,NA,Portugal,Sevilla FC,LaLiga,2012/2013,2012
+1,Goalkeeper,"Oct 22, 1973 (38)",NA,NA,Spain,Sevilla FC,LaLiga,2012/2013,2012
+29,Goalkeeper,"Mar 28, 1991 (21)",NA,NA,Spain,Sevilla FC,LaLiga,2012/2013,2012
+30,Goalkeeper,"Sep 1, 1993 (18)",NA,NA,Spain,Sevilla FC,LaLiga,2012/2013,2012
+24,Centre-Back,"Jan 27, 1989 (23)",NA,NA,Spain,Sevilla FC,LaLiga,2012/2013,2012
+NA,Centre-Back,"Aug 18, 1980 (31)",NA,NA,Bosnia-Herzegovina,Sevilla FC,LaLiga,2012/2013,2012
+2,Centre-Back,"Mar 17, 1987 (25)",NA,NA,Argentina,Sevilla FC,LaLiga,2012/2013,2012
+5,Centre-Back,"Nov 26, 1989 (22)",NA,NA,Spain,Sevilla FC,LaLiga,2012/2013,2012
+18,Centre-Back,"Jul 11, 1989 (22)",NA,NA,Colombia,Sevilla FC,LaLiga,2012/2013,2012
+NA,Centre-Back,"Jun 15, 1993 (19)",NA,NA,Spain,Sevilla FC,LaLiga,2012/2013,2012
+3,Left-Back,"Jun 25, 1982 (30)",NA,NA,Spain,Sevilla FC,LaLiga,2012/2013,2012
+NA,Left-Back,"Mar 17, 1991 (21)",NA,NA,Spain,Sevilla FC,LaLiga,2012/2013,2012
+35,Left-Back,"Jul 5, 1992 (19)",NA,NA,Spain,Sevilla FC,LaLiga,2012/2013,2012
+7,Right-Back,"Nov 21, 1985 (26)",NA,NA,Spain,Sevilla FC,LaLiga,2012/2013,2012
+23,Right-Back,"Apr 26, 1987 (25)",NA,NA,Spain,Sevilla FC,LaLiga,2012/2013,2012
+21,Right-Back,"Aug 4, 1986 (25)",NA,NA,Brazil,Sevilla FC,LaLiga,2012/2013,2012
+8,Defensive Midfield,"Aug 3, 1987 (24)",NA,NA,Chile,Sevilla FC,LaLiga,2012/2013,2012
+12,Defensive Midfield,"Feb 13, 1985 (27)",NA,NA,Netherlands,Sevilla FC,LaLiga,2012/2013,2012
+11,Central Midfield,"Mar 10, 1988 (24)",NA,NA,Croatia,Sevilla FC,LaLiga,2012/2013,2012
+22,Central Midfield,"Feb 15, 1993 (19)",NA,NA,Central African Republic,Sevilla FC,LaLiga,2012/2013,2012
+6,Central Midfield,"May 31, 1993 (19)",NA,NA,Spain,Sevilla FC,LaLiga,2012/2013,2012
+17,Central Midfield,"Jun 9, 1989 (23)",NA,NA,Spain,Sevilla FC,LaLiga,2012/2013,2012
+33,Central Midfield,"Sep 19, 1995 (16)",NA,NA,Spain,Sevilla FC,LaLiga,2012/2013,2012
+18,Right Midfield,"Jul 29, 1990 (21)",NA,NA,Bosnia-Herzegovina,Sevilla FC,LaLiga,2012/2013,2012
+15,Attacking Midfield,"Mar 22, 1984 (28)",NA,NA,Germany,Sevilla FC,LaLiga,2012/2013,2012
+30,Attacking Midfield,"May 16, 1994 (18)",NA,NA,Chile,Sevilla FC,LaLiga,2012/2013,2012
+10,Left Winger,"Jul 26, 1988 (23)",NA,NA,Argentina,Sevilla FC,LaLiga,2012/2013,2012
+19,Right Winger,"Sep 1, 1983 (28)",NA,NA,Spain,Sevilla FC,LaLiga,2012/2013,2012
+9,Centre-Forward,"Aug 20, 1985 (26)",NA,NA,Spain,Sevilla FC,LaLiga,2012/2013,2012
+14,Centre-Forward,"Feb 25, 1984 (28)",NA,NA,Spain,Sevilla FC,LaLiga,2012/2013,2012
+20,Centre-Forward,"Jan 5, 1988 (24)",NA,NA,Senegal,Sevilla FC,LaLiga,2012/2013,2012
+28,Centre-Forward,"Jul 23, 1993 (18)",NA,NA,Spain,Sevilla FC,LaLiga,2012/2013,2012
+41,Centre-Forward,"Apr 22, 1994 (18)",NA,NA,Spain,Sevilla FC,LaLiga,2012/2013,2012
+1,Goalkeeper,"Mar 6, 1981 (31)",NA,NA,Spain,Athletic Bilbao,LaLiga,2012/2013,2012
+13,Goalkeeper,"Mar 13, 1988 (24)",NA,NA,Spain,Athletic Bilbao,LaLiga,2012/2013,2012
+30,Goalkeeper,"Oct 3, 1994 (17)",NA,NA,Spain,Athletic Bilbao,LaLiga,2012/2013,2012
+5,Centre-Back,"Mar 29, 1985 (27)",NA,NA,Venezuela,Athletic Bilbao,LaLiga,2012/2013,2012
+23,Centre-Back,"Mar 6, 1988 (24)",NA,NA,Spain,Athletic Bilbao,LaLiga,2012/2013,2012
+18,Centre-Back,"Aug 19, 1980 (31)",NA,NA,Spain,Athletic Bilbao,LaLiga,2012/2013,2012
+28,Centre-Back,"Jun 10, 1993 (19)",NA,NA,Angola,Athletic Bilbao,LaLiga,2012/2013,2012
+4,Centre-Back,"May 27, 1994 (18)",NA,NA,France,Athletic Bilbao,LaLiga,2012/2013,2012
+3,Left-Back,"Jan 3, 1992 (20)",NA,NA,Spain,Athletic Bilbao,LaLiga,2012/2013,2012
+22,Left-Back,"Mar 29, 1986 (26)",NA,NA,Spain,Athletic Bilbao,LaLiga,2012/2013,2012
+16,Left-Back,"Jan 29, 1990 (22)",NA,NA,Spain,Athletic Bilbao,LaLiga,2012/2013,2012
+32,Left-Back,"Apr 27, 1992 (20)",NA,NA,Spain,Athletic Bilbao,LaLiga,2012/2013,2012
+15,Right-Back,"Jun 22, 1982 (30)",NA,NA,Spain,Athletic Bilbao,LaLiga,2012/2013,2012
+10,Right-Back,"Apr 14, 1989 (23)",NA,NA,Spain,Athletic Bilbao,LaLiga,2012/2013,2012
+29,Right-Back,"Feb 15, 1995 (17)",NA,NA,Spain,Athletic Bilbao,LaLiga,2012/2013,2012
+16,Midfielder,"Feb 27, 1978 (34)",NA,NA,Spain,Athletic Bilbao,LaLiga,2012/2013,2012
+6,Defensive Midfield,"May 30, 1989 (23)",NA,NA,Spain,Athletic Bilbao,LaLiga,2012/2013,2012
+8,Defensive Midfield,"Mar 8, 1989 (23)",NA,NA,Spain,Athletic Bilbao,LaLiga,2012/2013,2012
+39,Defensive Midfield,"May 25, 1991 (21)",NA,NA,Spain,Athletic Bilbao,LaLiga,2012/2013,2012
+21,Central Midfield,"Aug 14, 1989 (22)",NA,NA,Spain,Athletic Bilbao,LaLiga,2012/2013,2012
+17,Central Midfield,"Jan 18, 1988 (24)",NA,NA,Spain,Athletic Bilbao,LaLiga,2012/2013,2012
+NA,Central Midfield,"Oct 24, 1991 (20)",NA,NA,Spain,Athletic Bilbao,LaLiga,2012/2013,2012
+NA,Central Midfield,"May 15, 1995 (17)",NA,NA,Spain,Athletic Bilbao,LaLiga,2012/2013,2012
+27,Central Midfield,"Aug 6, 1993 (18)",NA,NA,Spain,Athletic Bilbao,LaLiga,2012/2013,2012
+26,Attacking Midfield,"Jul 19, 1989 (22)",NA,NA,Spain,Athletic Bilbao,LaLiga,2012/2013,2012
+37,Attacking Midfield,"Dec 30, 1993 (18)",NA,NA,Spain,Athletic Bilbao,LaLiga,2012/2013,2012
+19,Left Winger,"Dec 19, 1992 (19)",NA,NA,Spain,Athletic Bilbao,LaLiga,2012/2013,2012
+NA,Left Winger,"Jul 20, 1991 (20)",NA,NA,Spain,Athletic Bilbao,LaLiga,2012/2013,2012
+34,Left Winger,"Apr 27, 1995 (17)",NA,NA,Spain,Athletic Bilbao,LaLiga,2012/2013,2012
+14,Right Winger,"Dec 14, 1987 (24)",NA,NA,Spain,Athletic Bilbao,LaLiga,2012/2013,2012
+2,Right Winger,"Aug 9, 1984 (27)",NA,NA,Spain,Athletic Bilbao,LaLiga,2012/2013,2012
+11,Right Winger,"Nov 11, 1989 (22)",NA,NA,Spain,Athletic Bilbao,LaLiga,2012/2013,2012
+9,Centre-Forward,"Feb 26, 1985 (27)",NA,NA,Spain,Athletic Bilbao,LaLiga,2012/2013,2012
+20,Centre-Forward,"Feb 11, 1981 (31)",NA,NA,Spain,Athletic Bilbao,LaLiga,2012/2013,2012
+31,Centre-Forward,"May 23, 1993 (19)",NA,NA,Spain,Athletic Bilbao,LaLiga,2012/2013,2012
+13,Goalkeeper,"Sep 28, 1981 (30)",NA,NA,Argentina,Málaga CF,LaLiga,2012/2013,2012
+1,Goalkeeper,"Feb 18, 1984 (28)",NA,NA,Cameroon,Málaga CF,LaLiga,2012/2013,2012
+32,Goalkeeper,"Aug 22, 1991 (20)",NA,NA,Spain,Málaga CF,LaLiga,2012/2013,2012
+23,Centre-Back,"May 13, 1982 (30)",NA,NA,United States,Málaga CF,LaLiga,2012/2013,2012
+4,Centre-Back,"Nov 2, 1980 (31)",NA,NA,Uruguay,Málaga CF,LaLiga,2012/2013,2012
+21,Centre-Back,"Apr 3, 1986 (26)",NA,NA,Spain,Málaga CF,LaLiga,2012/2013,2012
+5,Centre-Back,"Dec 20, 1980 (31)",NA,NA,Argentina,Málaga CF,LaLiga,2012/2013,2012
+3,Centre-Back,"Aug 26, 1979 (32)",NA,NA,Brazil,Málaga CF,LaLiga,2012/2013,2012
+47,Centre-Back,"Jan 8, 1991 (21)",NA,NA,Uruguay,Málaga CF,LaLiga,2012/2013,2012
+46,Centre-Back,"Nov 6, 1992 (19)",NA,NA,Spain,Málaga CF,LaLiga,2012/2013,2012
+15,Left-Back,"Feb 26, 1986 (26)",NA,NA,Spain,Málaga CF,LaLiga,2012/2013,2012
+18,Left-Back,"Oct 1, 1983 (28)",NA,NA,Portugal,Málaga CF,LaLiga,2012/2013,2012
+25,Left-Back,"Apr 1, 1987 (25)",NA,NA,Portugal,Málaga CF,LaLiga,2012/2013,2012
+2,Right-Back,"Apr 10, 1985 (27)",NA,NA,Spain,Málaga CF,LaLiga,2012/2013,2012
+30,Right-Back,"Mar 14, 1990 (22)",NA,NA,Spain,Málaga CF,LaLiga,2012/2013,2012
+8,Defensive Midfield,"Sep 10, 1983 (28)",NA,NA,France,Málaga CF,LaLiga,2012/2013,2012
+6,Defensive Midfield,"May 4, 1990 (22)",NA,NA,Spain,Málaga CF,LaLiga,2012/2013,2012
+16,Defensive Midfield,"Jun 23, 1984 (28)",NA,NA,Chile,Málaga CF,LaLiga,2012/2013,2012
+16,Central Midfield,"Feb 10, 1980 (32)",NA,NA,Italy,Málaga CF,LaLiga,2012/2013,2012
+28,Central Midfield,"Jan 11, 1991 (21)",NA,NA,Spain,Málaga CF,LaLiga,2012/2013,2012
+17,Left Midfield,"Jun 27, 1980 (32)",NA,NA,Portugal,Málaga CF,LaLiga,2012/2013,2012
+22,Attacking Midfield,"Apr 21, 1992 (20)",NA,NA,Spain,Málaga CF,LaLiga,2012/2013,2012
+10,Attacking Midfield,"Oct 1, 1981 (30)",NA,NA,Brazil,Málaga CF,LaLiga,2012/2013,2012
+20,Attacking Midfield,"Apr 19, 1988 (24)",NA,NA,Argentina,Málaga CF,LaLiga,2012/2013,2012
+14,Attacking Midfield,"May 25, 1985 (27)",NA,NA,Chile,Málaga CF,LaLiga,2012/2013,2012
+19,Attacking Midfield,"Jun 13, 1990 (22)",NA,NA,Spain,Málaga CF,LaLiga,2012/2013,2012
+45,Left Winger,"May 12, 1996 (16)",NA,NA,Cameroon,Málaga CF,LaLiga,2012/2013,2012
+12,Right Winger,"Jan 20, 1994 (18)",NA,NA,Brazil,Málaga CF,LaLiga,2012/2013,2012
+7,Right Winger,"Jul 21, 1981 (30)",NA,NA,Spain,Málaga CF,LaLiga,2012/2013,2012
+26,Right Winger,"May 20, 1993 (19)",NA,NA,Spain,Málaga CF,LaLiga,2012/2013,2012
+9,Second Striker,"Dec 11, 1981 (30)",NA,NA,Argentina,Málaga CF,LaLiga,2012/2013,2012
+11,Second Striker,"May 23, 1985 (27)",NA,NA,Uruguay,Málaga CF,LaLiga,2012/2013,2012
+24,Centre-Forward,"Aug 16, 1981 (30)",NA,NA,Paraguay,Málaga CF,LaLiga,2012/2013,2012
+1,Goalkeeper,"Dec 17, 1979 (32)",NA,NA,Spain,Granada CF,LaLiga,2012/2013,2012
+13,Goalkeeper,"Jan 25, 1979 (33)",NA,NA,Spain,Granada CF,LaLiga,2012/2013,2012
+26,Goalkeeper,"Mar 22, 1993 (19)",NA,NA,Spain,Granada CF,LaLiga,2012/2013,2012
+15,Centre-Back,"Jun 21, 1984 (28)",NA,NA,Senegal,Granada CF,LaLiga,2012/2013,2012
+8,Centre-Back,"Jul 23, 1982 (29)",NA,NA,Spain,Granada CF,LaLiga,2012/2013,2012
+20,Centre-Back,"May 14, 1988 (24)",NA,NA,Spain,Granada CF,LaLiga,2012/2013,2012
+5,Centre-Back,"Dec 29, 1982 (29)",NA,NA,Spain,Granada CF,LaLiga,2012/2013,2012
+18,Centre-Back,"Nov 18, 1982 (29)",NA,NA,Spain,Granada CF,LaLiga,2012/2013,2012
+6,Left-Back,"Apr 28, 1986 (26)",NA,NA,Brazil,Granada CF,LaLiga,2012/2013,2012
+16,Left-Back,"Nov 2, 1989 (22)",NA,NA,Colombia,Granada CF,LaLiga,2012/2013,2012
+47,Left-Back,"Apr 17, 1991 (21)",NA,NA,Spain,Granada CF,LaLiga,2012/2013,2012
+2,Right-Back,"May 10, 1988 (24)",NA,NA,Cameroon,Granada CF,LaLiga,2012/2013,2012
+21,Right-Back,"Mar 1, 1982 (30)",NA,NA,Spain,Granada CF,LaLiga,2012/2013,2012
+NA,Defensive Midfield,"Feb 20, 1981 (31)",NA,NA,Spain,Granada CF,LaLiga,2012/2013,2012
+17,Central Midfield,"May 14, 1984 (28)",NA,NA,Algeria,Granada CF,LaLiga,2012/2013,2012
+14,Central Midfield,"Nov 4, 1984 (27)",NA,NA,Spain,Granada CF,LaLiga,2012/2013,2012
+24,Central Midfield,"Apr 23, 1981 (31)",NA,NA,Brazil,Granada CF,LaLiga,2012/2013,2012
+28,Central Midfield,"Jan 11, 1991 (21)",NA,NA,Spain,Granada CF,LaLiga,2012/2013,2012
+4,Central Midfield,"Aug 3, 1987 (24)",NA,NA,Spain,Granada CF,LaLiga,2012/2013,2012
+12,Attacking Midfield,"Apr 19, 1988 (24)",NA,NA,Argentina,Granada CF,LaLiga,2012/2013,2012
+10,Left Winger,"Oct 15, 1986 (25)",NA,NA,Spain,Granada CF,LaLiga,2012/2013,2012
+3,Left Winger,"Feb 8, 1990 (22)",NA,NA,Algeria,Granada CF,LaLiga,2012/2013,2012
+11,Left Winger,"Apr 7, 1987 (25)",NA,NA,Spain,Granada CF,LaLiga,2012/2013,2012
+NA,Left Winger,"Feb 7, 1993 (19)",NA,NA,Venezuela,Granada CF,LaLiga,2012/2013,2012
+22,Right Winger,"Nov 22, 1989 (22)",NA,NA,Romania,Granada CF,LaLiga,2012/2013,2012
+NA,Right Winger,"Jan 27, 1986 (26)",NA,NA,Chile,Granada CF,LaLiga,2012/2013,2012
+NA,Right Winger,"Jul 31, 1990 (21)",NA,NA,Spain,Granada CF,LaLiga,2012/2013,2012
+9,Centre-Forward,"Feb 3, 1987 (25)",NA,NA,Morocco,Granada CF,LaLiga,2012/2013,2012
+NA,Centre-Forward,"Jun 18, 1983 (29)",NA,NA,Italy,Granada CF,LaLiga,2012/2013,2012
+7,Centre-Forward,"Jul 27, 1980 (31)",NA,NA,Spain,Granada CF,LaLiga,2012/2013,2012
+25,Centre-Forward,"Jun 16, 1989 (23)",NA,NA,Nigeria,Granada CF,LaLiga,2012/2013,2012
+1,Goalkeeper,"Apr 2, 1984 (28)",NA,NA,Spain,Getafe CF,LaLiga,2012/2013,2012
+13,Goalkeeper,"Apr 27, 1982 (30)",NA,NA,Spain,Getafe CF,LaLiga,2012/2013,2012
+33,Goalkeeper,"Feb 11, 1988 (24)",NA,NA,Spain,Getafe CF,LaLiga,2012/2013,2012
+NA,Centre-Back,"Jul 15, 1986 (25)",NA,NA,Argentina,Getafe CF,LaLiga,2012/2013,2012
+12,Centre-Back,"Feb 21, 1989 (23)",NA,NA,Argentina,Getafe CF,LaLiga,2012/2013,2012
+6,Centre-Back,"May 5, 1980 (32)",NA,NA,Spain,Getafe CF,LaLiga,2012/2013,2012
+2,Centre-Back,"Aug 4, 1985 (26)",NA,NA,Spain,Getafe CF,LaLiga,2012/2013,2012
+15,Centre-Back,"Apr 9, 1985 (27)",NA,NA,Spain,Getafe CF,LaLiga,2012/2013,2012
+32,Centre-Back,"Nov 4, 1988 (23)",NA,NA,Spain,Getafe CF,LaLiga,2012/2013,2012
+3,Left-Back,"Dec 21, 1981 (30)",NA,NA,Spain,Getafe CF,LaLiga,2012/2013,2012
+16,Left-Back,"Sep 2, 1989 (22)",NA,NA,Spain,Getafe CF,LaLiga,2012/2013,2012
+4,Right-Back,"Jan 28, 1986 (26)",NA,NA,Spain,Getafe CF,LaLiga,2012/2013,2012
+20,Right-Back,"Dec 21, 1984 (27)",NA,NA,Spain,Getafe CF,LaLiga,2012/2013,2012
+30,Right-Back,"Mar 26, 1990 (22)",NA,NA,Spain,Getafe CF,LaLiga,2012/2013,2012
+5,Defensive Midfield,"May 15, 1984 (28)",NA,NA,Algeria,Getafe CF,LaLiga,2012/2013,2012
+22,Defensive Midfield,"Apr 1, 1982 (30)",NA,NA,Spain,Getafe CF,LaLiga,2012/2013,2012
+23,Defensive Midfield,"Jan 14, 1981 (31)",NA,NA,Spain,Getafe CF,LaLiga,2012/2013,2012
+25,Central Midfield,"Nov 21, 1986 (25)",NA,NA,Spain,Getafe CF,LaLiga,2012/2013,2012
+21,Central Midfield,"Nov 8, 1985 (26)",NA,NA,Spain,Getafe CF,LaLiga,2012/2013,2012
+NA,Central Midfield,"Aug 25, 1988 (23)",NA,NA,Spain,Getafe CF,LaLiga,2012/2013,2012
+19,Attacking Midfield,"Jun 19, 1989 (23)",NA,NA,Morocco,Getafe CF,LaLiga,2012/2013,2012
+8,Attacking Midfield,"May 11, 1992 (20)",NA,NA,Spain,Getafe CF,LaLiga,2012/2013,2012
+17,Left Winger,"Jul 2, 1982 (29)",NA,NA,Spain,Getafe CF,LaLiga,2012/2013,2012
+18,Left Winger,"Aug 7, 1984 (27)",NA,NA,Spain,Getafe CF,LaLiga,2012/2013,2012
+10,Left Winger,"May 12, 1985 (27)",NA,NA,Spain,Getafe CF,LaLiga,2012/2013,2012
+14,Right Winger,"Nov 24, 1986 (25)",NA,NA,Spain,Getafe CF,LaLiga,2012/2013,2012
+24,Right Winger,"Mar 16, 1987 (25)",NA,NA,Spain,Getafe CF,LaLiga,2012/2013,2012
+NA,Centre-Forward,"Aug 19, 1985 (26)",NA,NA,Venezuela,Getafe CF,LaLiga,2012/2013,2012
+11,Centre-Forward,"Nov 17, 1984 (27)",NA,NA,Spain,Getafe CF,LaLiga,2012/2013,2012
+7,Centre-Forward,"Apr 27, 1991 (21)",NA,NA,Spain,Getafe CF,LaLiga,2012/2013,2012
+26,Centre-Forward,"Aug 30, 1993 (18)",NA,NA,Spain,Getafe CF,LaLiga,2012/2013,2012
+1,Goalkeeper,"Apr 13, 1983 (29)",NA,NA,Chile,Real Sociedad,LaLiga,2012/2013,2012
+13,Goalkeeper,"Feb 26, 1984 (28)",NA,NA,Spain,Real Sociedad,LaLiga,2012/2013,2012
+NA,Goalkeeper,"Jun 14, 1991 (21)",NA,NA,Spain,Real Sociedad,LaLiga,2012/2013,2012
+3,Centre-Back,"Sep 24, 1985 (26)",NA,NA,Spain,Real Sociedad,LaLiga,2012/2013,2012
+6,Centre-Back,"May 17, 1991 (21)",NA,NA,Spain,Real Sociedad,LaLiga,2012/2013,2012
+15,Centre-Back,"Jul 13, 1982 (29)",NA,NA,Spain,Real Sociedad,LaLiga,2012/2013,2012
+19,Centre-Back,"Mar 5, 1988 (24)",NA,NA,Algeria,Real Sociedad,LaLiga,2012/2013,2012
+20,Left-Back,"Sep 5, 1989 (22)",NA,NA,Spain,Real Sociedad,LaLiga,2012/2013,2012
+24,Left-Back,"Dec 2, 1985 (26)",NA,NA,Spain,Real Sociedad,LaLiga,2012/2013,2012
+2,Right-Back,"Apr 9, 1986 (26)",NA,NA,Spain,Real Sociedad,LaLiga,2012/2013,2012
+22,Right-Back,"Jan 3, 1987 (25)",NA,NA,Spain,Real Sociedad,LaLiga,2012/2013,2012
+4,Defensive Midfield,"Mar 18, 1987 (25)",NA,NA,Spain,Real Sociedad,LaLiga,2012/2013,2012
+5,Defensive Midfield,"May 5, 1986 (26)",NA,NA,Spain,Real Sociedad,LaLiga,2012/2013,2012
+8,Defensive Midfield,"Mar 8, 1990 (22)",NA,NA,Spain,Real Sociedad,LaLiga,2012/2013,2012
+34,Defensive Midfield,"Jun 10, 1992 (20)",NA,NA,France,Real Sociedad,LaLiga,2012/2013,2012
+10,Central Midfield,"Aug 29, 1983 (28)",NA,NA,Spain,Real Sociedad,LaLiga,2012/2013,2012
+17,Central Midfield,"Jul 19, 1986 (25)",NA,NA,Spain,Real Sociedad,LaLiga,2012/2013,2012
+14,Central Midfield,"Oct 22, 1992 (19)",NA,NA,Spain,Real Sociedad,LaLiga,2012/2013,2012
+23,Central Midfield,"Feb 16, 1990 (22)",NA,NA,Spain,Real Sociedad,LaLiga,2012/2013,2012
+18,Left Winger,"Sep 14, 1984 (27)",NA,NA,Uruguay,Real Sociedad,LaLiga,2012/2013,2012
+16,Left Winger,"Aug 3, 1988 (23)",NA,NA,Netherlands,Real Sociedad,LaLiga,2012/2013,2012
+11,Right Winger,"Mar 1, 1989 (23)",NA,NA,Mexico,Real Sociedad,LaLiga,2012/2013,2012
+29,Right Winger,"Mar 8, 1993 (19)",NA,NA,Spain,Real Sociedad,LaLiga,2012/2013,2012
+7,Centre-Forward,"Mar 21, 1991 (21)",NA,NA,France,Real Sociedad,LaLiga,2012/2013,2012
+9,Centre-Forward,"Feb 24, 1987 (25)",NA,NA,Spain,Real Sociedad,LaLiga,2012/2013,2012
+21,Centre-Forward,"Jun 8, 1987 (25)",NA,NA,Uruguay,Real Sociedad,LaLiga,2012/2013,2012
+33,Centre-Forward,"Feb 21, 1992 (20)",NA,NA,France,Real Sociedad,LaLiga,2012/2013,2012
+13,Goalkeeper,"Oct 17, 1977 (34)",NA,NA,Israel,RCD Mallorca,LaLiga,2012/2013,2012
+1,Goalkeeper,"Dec 21, 1979 (32)",NA,NA,Spain,RCD Mallorca,LaLiga,2012/2013,2012
+25,Goalkeeper,"Jan 18, 1989 (23)",NA,NA,Spain,RCD Mallorca,LaLiga,2012/2013,2012
+14,Centre-Back,"Sep 21, 1985 (26)",NA,NA,Brazil,RCD Mallorca,LaLiga,2012/2013,2012
+24,Centre-Back,"Nov 14, 1989 (22)",NA,NA,Spain,RCD Mallorca,LaLiga,2012/2013,2012
+16,Centre-Back,"Mar 7, 1977 (35)",NA,NA,Portugal,RCD Mallorca,LaLiga,2012/2013,2012
+17,Centre-Back,"May 15, 1990 (22)",NA,NA,Spain,RCD Mallorca,LaLiga,2012/2013,2012
+27,Centre-Back,"Jan 23, 1990 (22)",NA,NA,Spain,RCD Mallorca,LaLiga,2012/2013,2012
+4,Centre-Back,"Oct 24, 1989 (22)",NA,NA,Brazil,RCD Mallorca,LaLiga,2012/2013,2012
+NA,Centre-Back,"May 25, 1993 (19)",NA,NA,Cameroon,RCD Mallorca,LaLiga,2012/2013,2012
+34,Centre-Back,"Aug 31, 1993 (18)",NA,NA,Spain,RCD Mallorca,LaLiga,2012/2013,2012
+6,Left-Back,"Sep 13, 1981 (30)",NA,NA,Spain,RCD Mallorca,LaLiga,2012/2013,2012
+20,Left-Back,"Mar 17, 1991 (21)",NA,NA,Spain,RCD Mallorca,LaLiga,2012/2013,2012
+23,Left-Back,"Sep 8, 1989 (22)",NA,NA,Spain,RCD Mallorca,LaLiga,2012/2013,2012
+2,Right-Back,"Nov 30, 1984 (27)",NA,NA,Scotland,RCD Mallorca,LaLiga,2012/2013,2012
+8,Right-Back,"Sep 30, 1989 (22)",NA,NA,Equatorial Guinea,RCD Mallorca,LaLiga,2012/2013,2012
+36,Right-Back,"Feb 16, 1992 (20)",NA,NA,Spain,RCD Mallorca,LaLiga,2012/2013,2012
+3,Defensive Midfield,"Nov 7, 1988 (23)",NA,NA,Brazil,RCD Mallorca,LaLiga,2012/2013,2012
+19,Defensive Midfield,"Apr 28, 1975 (37)",NA,NA,Spain,RCD Mallorca,LaLiga,2012/2013,2012
+11,Central Midfield,"May 11, 1986 (26)",NA,NA,Spain,RCD Mallorca,LaLiga,2012/2013,2012
+12,Central Midfield,"Jul 24, 1986 (25)",NA,NA,Argentina,RCD Mallorca,LaLiga,2012/2013,2012
+5,Central Midfield,"Oct 14, 1987 (24)",NA,NA,Spain,RCD Mallorca,LaLiga,2012/2013,2012
+NA,Central Midfield,"Nov 16, 1992 (19)",NA,NA,Spain,RCD Mallorca,LaLiga,2012/2013,2012
+NA,Central Midfield,"Jun 3, 1991 (21)",NA,NA,Nigeria,RCD Mallorca,LaLiga,2012/2013,2012
+41,Central Midfield,"Jun 21, 1994 (18)",NA,NA,Spain,RCD Mallorca,LaLiga,2012/2013,2012
+7,Right Midfield,"Dec 8, 1987 (24)",NA,NA,France,RCD Mallorca,LaLiga,2012/2013,2012
+NA,Attacking Midfield,"May 13, 1994 (18)",NA,NA,Spain,RCD Mallorca,LaLiga,2012/2013,2012
+21,Left Winger,"Nov 23, 1986 (25)",NA,NA,Spain,RCD Mallorca,LaLiga,2012/2013,2012
+35,Left Winger,"Apr 29, 1990 (22)",NA,NA,Spain,RCD Mallorca,LaLiga,2012/2013,2012
+9,Second Striker,"May 11, 1989 (23)",NA,NA,Mexico,RCD Mallorca,LaLiga,2012/2013,2012
+18,Centre-Forward,"Feb 28, 1985 (27)",NA,NA,Spain,RCD Mallorca,LaLiga,2012/2013,2012
+10,Centre-Forward,"May 2, 1987 (25)",NA,NA,Israel,RCD Mallorca,LaLiga,2012/2013,2012
+22,Centre-Forward,"Mar 3, 1984 (28)",NA,NA,Spain,RCD Mallorca,LaLiga,2012/2013,2012
+NA,Centre-Forward,"May 19, 1991 (21)",NA,NA,Spain,RCD Mallorca,LaLiga,2012/2013,2012
+33,Centre-Forward,"Dec 7, 1992 (19)",NA,NA,Spain,RCD Mallorca,LaLiga,2012/2013,2012
+37,Centre-Forward,"Feb 4, 1995 (17)",NA,NA,Spain,RCD Mallorca,LaLiga,2012/2013,2012
+1,Goalkeeper,"Sep 18, 1979 (32)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2012/2013,2012
+13,Goalkeeper,"Jul 6, 1982 (29)",NA,NA,Argentina,Deportivo de La Coruña,LaLiga,2012/2013,2012
+26,Goalkeeper,"Apr 4, 1990 (22)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2012/2013,2012
+24,Centre-Back,"Jul 31, 1979 (32)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2012/2013,2012
+6,Centre-Back,"Apr 2, 1986 (26)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2012/2013,2012
+5,Centre-Back,"Jan 13, 1983 (29)",NA,NA,Portugal,Deportivo de La Coruña,LaLiga,2012/2013,2012
+NA,Centre-Back,"Mar 30, 1991 (21)",NA,NA,Portugal,Deportivo de La Coruña,LaLiga,2012/2013,2012
+23,Centre-Back,"May 16, 1981 (31)",NA,NA,Brazil,Deportivo de La Coruña,LaLiga,2012/2013,2012
+28,Centre-Back,"Sep 9, 1993 (18)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2012/2013,2012
+3,Left-Back,"Mar 18, 1982 (30)",NA,NA,Brazil,Deportivo de La Coruña,LaLiga,2012/2013,2012
+17,Left-Back,"May 25, 1982 (30)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2012/2013,2012
+NA,Left-Back,"Feb 1, 1988 (24)",NA,NA,Portugal,Deportivo de La Coruña,LaLiga,2012/2013,2012
+19,Right-Back,"Sep 28, 1987 (24)",NA,NA,Portugal,Deportivo de La Coruña,LaLiga,2012/2013,2012
+15,Right-Back,"Mar 22, 1985 (27)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2012/2013,2012
+2,Right-Back,"Jan 25, 1976 (36)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2012/2013,2012
+33,Right-Back,"Apr 26, 1988 (24)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2012/2013,2012
+8,Defensive Midfield,"Mar 2, 1989 (23)",NA,NA,Portugal,Deportivo de La Coruña,LaLiga,2012/2013,2012
+14,Defensive Midfield,"Jan 6, 1985 (27)",NA,NA,Colombia,Deportivo de La Coruña,LaLiga,2012/2013,2012
+4,Defensive Midfield,"Jun 7, 1985 (27)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2012/2013,2012
+10,Defensive Midfield,"Jan 8, 1990 (22)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2012/2013,2012
+12,Defensive Midfield,"Jan 25, 1980 (32)",NA,NA,Brazil,Deportivo de La Coruña,LaLiga,2012/2013,2012
+9,Right Midfield,"Oct 6, 1989 (22)",NA,NA,Portugal,Deportivo de La Coruña,LaLiga,2012/2013,2012
+NA,Attacking Midfield,"Apr 9, 1985 (27)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2012/2013,2012
+20,Attacking Midfield,"Jan 18, 1980 (32)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2012/2013,2012
+21,Attacking Midfield,"Jun 17, 1975 (37)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2012/2013,2012
+22,Left Winger,"Sep 14, 1988 (23)",NA,NA,Portugal,Deportivo de La Coruña,LaLiga,2012/2013,2012
+18,Right Winger,"Jul 17, 1980 (31)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2012/2013,2012
+16,Right Winger,"Nov 15, 1987 (24)",NA,NA,Portugal,Deportivo de La Coruña,LaLiga,2012/2013,2012
+25,Centre-Forward,"Aug 8, 1991 (20)",NA,NA,Portugal,Deportivo de La Coruña,LaLiga,2012/2013,2012
+11,Centre-Forward,"Aug 11, 1980 (31)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2012/2013,2012
+NA,Centre-Forward,"Oct 25, 1977 (34)",NA,NA,Equatorial Guinea,Deportivo de La Coruña,LaLiga,2012/2013,2012
+1,Goalkeeper,"Nov 13, 1985 (26)",NA,NA,Argentina,RCD Espanyol Barcelona,LaLiga,2012/2013,2012
+13,Goalkeeper,"Oct 2, 1986 (25)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2012/2013,2012
+35,Goalkeeper,"Feb 16, 1993 (19)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2012/2013,2012
+15,Centre-Back,"Jan 17, 1988 (24)",NA,NA,Mexico,RCD Espanyol Barcelona,LaLiga,2012/2013,2012
+6,Centre-Back,"Jan 10, 1988 (24)",NA,NA,Argentina,RCD Espanyol Barcelona,LaLiga,2012/2013,2012
+19,Centre-Back,"Mar 10, 1981 (31)",NA,NA,Argentina,RCD Espanyol Barcelona,LaLiga,2012/2013,2012
+3,Centre-Back,"Sep 22, 1987 (24)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2012/2013,2012
+38,Centre-Back,"Dec 6, 1992 (19)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2012/2013,2012
+18,Left-Back,"Feb 3, 1978 (34)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2012/2013,2012
+27,Left-Back,"Mar 14, 1993 (19)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2012/2013,2012
+16,Right-Back,"Jan 21, 1986 (26)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2012/2013,2012
+2,Right-Back,"Oct 15, 1988 (23)",NA,NA,Brazil,RCD Espanyol Barcelona,LaLiga,2012/2013,2012
+NA,Right-Back,"Jun 17, 1986 (26)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2012/2013,2012
+7,Defensive Midfield,"Mar 2, 1989 (23)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2012/2013,2012
+22,Central Midfield,"Jul 25, 1990 (21)",NA,NA,Ghana,RCD Espanyol Barcelona,LaLiga,2012/2013,2012
+4,Central Midfield,"Sep 8, 1987 (24)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2012/2013,2012
+5,Central Midfield,"May 28, 1990 (22)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2012/2013,2012
+29,Central Midfield,"Mar 27, 1988 (24)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2012/2013,2012
+10,Attacking Midfield,"May 5, 1983 (29)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2012/2013,2012
+NA,Attacking Midfield,"Jul 17, 1986 (25)",NA,NA,Uruguay,RCD Espanyol Barcelona,LaLiga,2012/2013,2012
+23,Attacking Midfield,"Jul 27, 1989 (22)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2012/2013,2012
+24,Attacking Midfield,"May 2, 1989 (23)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2012/2013,2012
+20,Left Winger,"Oct 31, 1979 (32)",NA,NA,Portugal,RCD Espanyol Barcelona,LaLiga,2012/2013,2012
+28,Left Winger,"May 13, 1992 (20)",NA,NA,Congo,RCD Espanyol Barcelona,LaLiga,2012/2013,2012
+17,Left Winger,"Jan 15, 1979 (33)",NA,NA,Bulgaria,RCD Espanyol Barcelona,LaLiga,2012/2013,2012
+9,Centre-Forward,"Jun 9, 1983 (29)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2012/2013,2012
+8,Centre-Forward,"Oct 12, 1986 (25)",NA,NA,Uruguay,RCD Espanyol Barcelona,LaLiga,2012/2013,2012
+NA,Centre-Forward,"Apr 27, 1991 (21)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2012/2013,2012
+12,Centre-Forward,"Jan 12, 1992 (20)",NA,NA,Italy,RCD Espanyol Barcelona,LaLiga,2012/2013,2012
+NA,Centre-Forward,"Apr 23, 1990 (22)",NA,NA,Portugal,RCD Espanyol Barcelona,LaLiga,2012/2013,2012
+34,Centre-Forward,"Jun 19, 1990 (22)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2012/2013,2012
+1,Goalkeeper,"Jun 18, 1982 (30)",NA,NA,Spain,Real Betis Balompié,LaLiga,2012/2013,2012
+25,Goalkeeper,"Dec 31, 1987 (24)",NA,NA,Spain,Real Betis Balompié,LaLiga,2012/2013,2012
+13,Goalkeeper,"Jan 3, 1987 (25)",NA,NA,Spain,Real Betis Balompié,LaLiga,2012/2013,2012
+16,Centre-Back,"Apr 10, 1984 (28)",NA,NA,Poland,Real Betis Balompié,LaLiga,2012/2013,2012
+NA,Centre-Back,"Jul 10, 1982 (29)",NA,NA,Spain,Real Betis Balompié,LaLiga,2012/2013,2012
+12,Centre-Back,"Aug 6, 1982 (29)",NA,NA,Brazil,Real Betis Balompié,LaLiga,2012/2013,2012
+3,Centre-Back,"Feb 2, 1982 (30)",NA,NA,Spain,Real Betis Balompié,LaLiga,2012/2013,2012
+4,Centre-Back,"May 31, 1983 (29)",NA,NA,Spain,Real Betis Balompié,LaLiga,2012/2013,2012
+35,Centre-Back,"May 13, 1988 (24)",NA,NA,Spain,Real Betis Balompié,LaLiga,2012/2013,2012
+23,Left-Back,"Jun 24, 1980 (32)",NA,NA,Spain,Real Betis Balompié,LaLiga,2012/2013,2012
+17,Left-Back,"Mar 30, 1990 (22)",NA,NA,Spain,Real Betis Balompié,LaLiga,2012/2013,2012
+6,Left-Back,"Aug 12, 1990 (21)",NA,NA,Spain,Real Betis Balompié,LaLiga,2012/2013,2012
+33,Left-Back,"Oct 26, 1994 (17)",NA,NA,Spain,Real Betis Balompié,LaLiga,2012/2013,2012
+7,Right-Back,"Mar 10, 1981 (31)",NA,NA,Spain,Real Betis Balompié,LaLiga,2012/2013,2012
+NA,Right-Back,"Jun 10, 1983 (29)",NA,NA,Portugal,Real Betis Balompié,LaLiga,2012/2013,2012
+2,Right-Back,"May 17, 1985 (27)",NA,NA,Spain,Real Betis Balompié,LaLiga,2012/2013,2012
+32,Right-Back,"Oct 25, 1990 (21)",NA,NA,Spain,Real Betis Balompié,LaLiga,2012/2013,2012
+8,Defensive Midfield,"Apr 26, 1989 (23)",NA,NA,Spain,Real Betis Balompié,LaLiga,2012/2013,2012
+21,Defensive Midfield,"May 27, 1987 (25)",NA,NA,Spain,Real Betis Balompié,LaLiga,2012/2013,2012
+10,Central Midfield,"Feb 19, 1987 (25)",NA,NA,Spain,Real Betis Balompié,LaLiga,2012/2013,2012
+14,Central Midfield,"Mar 18, 1984 (28)",NA,NA,Spain,Real Betis Balompié,LaLiga,2012/2013,2012
+20,Central Midfield,"Nov 9, 1990 (21)",NA,NA,Nigeria,Real Betis Balompié,LaLiga,2012/2013,2012
+NA,Central Midfield,"Jan 8, 1990 (22)",NA,NA,Spain,Real Betis Balompié,LaLiga,2012/2013,2012
+29,Central Midfield,"Mar 30, 1993 (19)",NA,NA,Spain,Real Betis Balompié,LaLiga,2012/2013,2012
+11,Attacking Midfield,"Sep 20, 1991 (20)",NA,NA,Spain,Real Betis Balompié,LaLiga,2012/2013,2012
+NA,Attacking Midfield,"Feb 9, 1990 (22)",NA,NA,Spain,Real Betis Balompié,LaLiga,2012/2013,2012
+NA,Attacking Midfield,"Sep 7, 1992 (19)",NA,NA,Spain,Real Betis Balompié,LaLiga,2012/2013,2012
+NA,Attacking Midfield,"Sep 17, 1993 (18)",NA,NA,Spain,Real Betis Balompié,LaLiga,2012/2013,2012
+38,Left Winger,"Jun 10, 1990 (22)",NA,NA,Spain,Real Betis Balompié,LaLiga,2012/2013,2012
+22,Right Winger,"Jan 24, 1988 (24)",NA,NA,Colombia,Real Betis Balompié,LaLiga,2012/2013,2012
+15,Right Winger,"Jun 26, 1992 (20)",NA,NA,Costa Rica,Real Betis Balompié,LaLiga,2012/2013,2012
+NA,Right Winger,"Nov 11, 1991 (20)",NA,NA,Portugal,Real Betis Balompié,LaLiga,2012/2013,2012
+9,Right Winger,"Sep 12, 1994 (17)",NA,NA,Spain,Real Betis Balompié,LaLiga,2012/2013,2012
+24,Centre-Forward,"Jun 27, 1981 (31)",NA,NA,Spain,Real Betis Balompié,LaLiga,2012/2013,2012
+NA,Centre-Forward,"May 12, 1987 (25)",NA,NA,Spain,Real Betis Balompié,LaLiga,2012/2013,2012
+18,Centre-Forward,"Sep 26, 1988 (23)",NA,NA,Sweden,Real Betis Balompié,LaLiga,2012/2013,2012
+19,Centre-Forward,"Apr 22, 1982 (30)",NA,NA,Spain,Real Betis Balompié,LaLiga,2012/2013,2012
+1,Goalkeeper,"Jan 27, 1978 (34)",NA,NA,Uruguay,Levante UD,LaLiga,2012/2013,2012
+13,Goalkeeper,"Dec 15, 1986 (25)",NA,NA,Costa Rica,Levante UD,LaLiga,2012/2013,2012
+26,Goalkeeper,"May 16, 1989 (23)",NA,NA,Spain,Levante UD,LaLiga,2012/2013,2012
+24,Centre-Back,"Jun 23, 1988 (24)",NA,NA,Mozambique,Levante UD,LaLiga,2012/2013,2012
+6,Centre-Back,"Feb 5, 1981 (31)",NA,NA,Greece,Levante UD,LaLiga,2012/2013,2012
+14,Centre-Back,"Dec 9, 1983 (28)",NA,NA,Poland,Levante UD,LaLiga,2012/2013,2012
+4,Centre-Back,"May 25, 1980 (32)",NA,NA,Spain,Levante UD,LaLiga,2012/2013,2012
+2,Centre-Back,"May 14, 1987 (25)",NA,NA,Italy,Levante UD,LaLiga,2012/2013,2012
+18,Centre-Back,"Sep 4, 1975 (36)",NA,NA,Spain,Levante UD,LaLiga,2012/2013,2012
+5,Centre-Back,"Mar 7, 1988 (24)",NA,NA,Spain,Levante UD,LaLiga,2012/2013,2012
+15,Left-Back,"Dec 20, 1984 (27)",NA,NA,Greece,Levante UD,LaLiga,2012/2013,2012
+12,Left-Back,"Jul 15, 1976 (35)",NA,NA,Spain,Levante UD,LaLiga,2012/2013,2012
+22,Right-Back,"Aug 29, 1984 (27)",NA,NA,Germany,Levante UD,LaLiga,2012/2013,2012
+19,Right-Back,"Nov 1, 1983 (28)",NA,NA,Spain,Levante UD,LaLiga,2012/2013,2012
+28,Right-Back,"Aug 23, 1993 (18)",NA,NA,Spain,Levante UD,LaLiga,2012/2013,2012
+23,Defensive Midfield,"Mar 19, 1986 (26)",NA,NA,Senegal,Levante UD,LaLiga,2012/2013,2012
+10,Defensive Midfield,"Jan 16, 1988 (24)",NA,NA,Spain,Levante UD,LaLiga,2012/2013,2012
+6,Central Midfield,"Sep 5, 1986 (25)",NA,NA,Spain,Levante UD,LaLiga,2012/2013,2012
+20,Left Midfield,"May 18, 1980 (32)",NA,NA,Spain,Levante UD,LaLiga,2012/2013,2012
+11,Left Midfield,"Sep 30, 1981 (30)",NA,NA,Spain,Levante UD,LaLiga,2012/2013,2012
+7,Attacking Midfield,"Apr 27, 1979 (33)",NA,NA,Spain,Levante UD,LaLiga,2012/2013,2012
+21,Attacking Midfield,"Jul 29, 1988 (23)",NA,NA,Spain,Levante UD,LaLiga,2012/2013,2012
+11,Attacking Midfield,"Jul 14, 1993 (18)",NA,NA,Spain,Levante UD,LaLiga,2012/2013,2012
+16,Right Winger,"Dec 12, 1981 (30)",NA,NA,Spain,Levante UD,LaLiga,2012/2013,2012
+17,Right Winger,"Apr 23, 1981 (31)",NA,NA,Cape Verde,Levante UD,LaLiga,2012/2013,2012
+8,Right Winger,"Aug 27, 1986 (25)",NA,NA,Morocco,Levante UD,LaLiga,2012/2013,2012
+9,Centre-Forward,"Sep 11, 1987 (24)",NA,NA,Italy,Levante UD,LaLiga,2012/2013,2012
+24,Centre-Forward,"Oct 28, 1984 (27)",NA,NA,Nigeria,Levante UD,LaLiga,2012/2013,2012
+17,Centre-Forward,"May 23, 1980 (32)",NA,NA,Greece,Levante UD,LaLiga,2012/2013,2012
+9,Centre-Forward,"Apr 26, 1987 (25)",NA,NA,Spain,Levante UD,LaLiga,2012/2013,2012
+27,Centre-Forward,"Jan 3, 1991 (21)",NA,NA,Spain,Levante UD,LaLiga,2012/2013,2012
+1,Goalkeeper,"Feb 10, 1986 (26)",NA,NA,Spain,Real Zaragoza,LaLiga,2012/2013,2012
+13,Goalkeeper,"May 20, 1977 (35)",NA,NA,Argentina,Real Zaragoza,LaLiga,2012/2013,2012
+13,Goalkeeper,"Aug 5, 1980 (31)",NA,NA,Spain,Real Zaragoza,LaLiga,2012/2013,2012
+NA,Goalkeeper,"Mar 23, 1989 (23)",NA,NA,Spain,Real Zaragoza,LaLiga,2012/2013,2012
+40,Goalkeeper,"Sep 28, 1992 (19)",NA,NA,Spain,Real Zaragoza,LaLiga,2012/2013,2012
+19,Centre-Back,"Apr 5, 1984 (28)",NA,NA,Romania,Real Zaragoza,LaLiga,2012/2013,2012
+4,Centre-Back,"Jan 8, 1990 (22)",NA,NA,Spain,Real Zaragoza,LaLiga,2012/2013,2012
+5,Centre-Back,"Mar 14, 1982 (30)",NA,NA,Italy,Real Zaragoza,LaLiga,2012/2013,2012
+16,Centre-Back,"Oct 22, 1983 (28)",NA,NA,Netherlands,Real Zaragoza,LaLiga,2012/2013,2012
+NA,Centre-Back,"Oct 12, 1988 (23)",NA,NA,Spain,Real Zaragoza,LaLiga,2012/2013,2012
+33,Centre-Back,"Sep 15, 1990 (21)",NA,NA,Spain,Real Zaragoza,LaLiga,2012/2013,2012
+35,Left-Back,"Jul 25, 1988 (23)",NA,NA,Serbia,Real Zaragoza,LaLiga,2012/2013,2012
+3,Left-Back,"Jul 5, 1982 (29)",NA,NA,Spain,Real Zaragoza,LaLiga,2012/2013,2012
+21,Left-Back,"Feb 22, 1986 (26)",NA,NA,Spain,Real Zaragoza,LaLiga,2012/2013,2012
+NA,Left-Back,"May 23, 1991 (21)",NA,NA,Spain,Real Zaragoza,LaLiga,2012/2013,2012
+14,Right-Back,"Nov 18, 1989 (22)",NA,NA,Spain,Real Zaragoza,LaLiga,2012/2013,2012
+12,Defensive Midfield,"Jun 4, 1983 (29)",NA,NA,Cote d'Ivoire,Real Zaragoza,LaLiga,2012/2013,2012
+22,Defensive Midfield,"Jun 12, 1988 (24)",NA,NA,Hungary,Real Zaragoza,LaLiga,2012/2013,2012
+2,Defensive Midfield,"Feb 8, 1975 (37)",NA,NA,Spain,Real Zaragoza,LaLiga,2012/2013,2012
+NA,Defensive Midfield,"Feb 1, 1989 (23)",NA,NA,Spain,Real Zaragoza,LaLiga,2012/2013,2012
+15,Defensive Midfield,"Dec 6, 1987 (24)",NA,NA,Spain,Real Zaragoza,LaLiga,2012/2013,2012
+10,Central Midfield,"Feb 13, 1984 (28)",NA,NA,Spain,Real Zaragoza,LaLiga,2012/2013,2012
+20,Central Midfield,"Sep 5, 1990 (21)",NA,NA,Argentina,Real Zaragoza,LaLiga,2012/2013,2012
+NA,Central Midfield,"Oct 16, 1994 (17)",NA,NA,Spain,Real Zaragoza,LaLiga,2012/2013,2012
+17,Attacking Midfield,"Jan 7, 1987 (25)",NA,NA,Serbia,Real Zaragoza,LaLiga,2012/2013,2012
+24,Attacking Midfield,"Mar 23, 1991 (21)",NA,NA,Spain,Real Zaragoza,LaLiga,2012/2013,2012
+18,Attacking Midfield,"Oct 31, 1983 (28)",NA,NA,Argentina,Real Zaragoza,LaLiga,2012/2013,2012
+8,Left Winger,"Nov 5, 1986 (25)",NA,NA,Spain,Real Zaragoza,LaLiga,2012/2013,2012
+11,Left Winger,"Oct 8, 1986 (25)",NA,NA,Spain,Real Zaragoza,LaLiga,2012/2013,2012
+25,Left Winger,"Feb 8, 1992 (20)",NA,NA,Spain,Real Zaragoza,LaLiga,2012/2013,2012
+32,Left Winger,"Jul 23, 1989 (22)",NA,NA,Spain,Real Zaragoza,LaLiga,2012/2013,2012
+23,Right Winger,"Aug 18, 1988 (23)",NA,NA,Spain,Real Zaragoza,LaLiga,2012/2013,2012
+7,Centre-Forward,"Jul 5, 1988 (23)",NA,NA,Cameroon,Real Zaragoza,LaLiga,2012/2013,2012
+9,Centre-Forward,"Aug 2, 1982 (29)",NA,NA,Portugal,Real Zaragoza,LaLiga,2012/2013,2012
+NA,Centre-Forward,"Jul 27, 1980 (31)",NA,NA,Spain,Real Zaragoza,LaLiga,2012/2013,2012
+6,Centre-Forward,"Jun 6, 1990 (22)",NA,NA,Spain,Real Zaragoza,LaLiga,2012/2013,2012
+26,Centre-Forward,"Apr 28, 1993 (19)",NA,NA,Spain,Real Zaragoza,LaLiga,2012/2013,2012
+13,Goalkeeper,"Dec 17, 1986 (25)",NA,NA,Spain,CA Osasuna,LaLiga,2012/2013,2012
+1,Goalkeeper,"Oct 6, 1983 (28)",NA,NA,Spain,CA Osasuna,LaLiga,2012/2013,2012
+25,Goalkeeper,"Dec 30, 1971 (40)",NA,NA,Spain,CA Osasuna,LaLiga,2012/2013,2012
+26,Goalkeeper,"Aug 17, 1990 (21)",NA,NA,Spain,CA Osasuna,LaLiga,2012/2013,2012
+4,Centre-Back,"Aug 19, 1984 (27)",NA,NA,Spain,CA Osasuna,LaLiga,2012/2013,2012
+14,Centre-Back,"May 1, 1989 (23)",NA,NA,Spain,CA Osasuna,LaLiga,2012/2013,2012
+3,Centre-Back,"Jan 29, 1982 (30)",NA,NA,Spain,CA Osasuna,LaLiga,2012/2013,2012
+NA,Centre-Back,"Jan 5, 1988 (24)",NA,NA,Spain,CA Osasuna,LaLiga,2012/2013,2012
+19,Centre-Back,"Apr 20, 1982 (30)",NA,NA,Spain,CA Osasuna,LaLiga,2012/2013,2012
+NA,Centre-Back,"Sep 3, 1992 (19)",NA,NA,Spain,CA Osasuna,LaLiga,2012/2013,2012
+2,Right-Back,"May 22, 1982 (30)",NA,NA,Spain,CA Osasuna,LaLiga,2012/2013,2012
+24,Right-Back,"Apr 15, 1982 (30)",NA,NA,Spain,CA Osasuna,LaLiga,2012/2013,2012
+11,Defensive Midfield,"Jul 21, 1986 (25)",NA,NA,Ghana,CA Osasuna,LaLiga,2012/2013,2012
+5,Defensive Midfield,"Aug 22, 1984 (27)",NA,NA,Spain,CA Osasuna,LaLiga,2012/2013,2012
+20,Defensive Midfield,"Feb 11, 1986 (26)",NA,NA,Chile,CA Osasuna,LaLiga,2012/2013,2012
+22,Defensive Midfield,"Oct 17, 1989 (22)",NA,NA,Spain,CA Osasuna,LaLiga,2012/2013,2012
+10,Defensive Midfield,"Sep 6, 1975 (36)",NA,NA,Spain,CA Osasuna,LaLiga,2012/2013,2012
+15,Defensive Midfield,"May 25, 1986 (26)",NA,NA,Spain,CA Osasuna,LaLiga,2012/2013,2012
+23,Defensive Midfield,"Jan 31, 1989 (23)",NA,NA,Cameroon,CA Osasuna,LaLiga,2012/2013,2012
+NA,Attacking Midfield,"Apr 22, 1986 (26)",NA,NA,Spain,CA Osasuna,LaLiga,2012/2013,2012
+8,Attacking Midfield,"Jun 9, 1984 (28)",NA,NA,Iran,CA Osasuna,LaLiga,2012/2013,2012
+NA,Attacking Midfield,"May 3, 1991 (21)",NA,NA,Spain,CA Osasuna,LaLiga,2012/2013,2012
+21,Attacking Midfield,"Mar 7, 1989 (23)",NA,NA,Spain,CA Osasuna,LaLiga,2012/2013,2012
+9,Left Winger,"Jan 18, 1986 (26)",NA,NA,Argentina,CA Osasuna,LaLiga,2012/2013,2012
+NA,Left Winger,"Dec 31, 1987 (24)",NA,NA,Belgium,CA Osasuna,LaLiga,2012/2013,2012
+6,Right Winger,"Jun 19, 1986 (26)",NA,NA,Spain,CA Osasuna,LaLiga,2012/2013,2012
+16,Second Striker,"Jan 29, 1984 (28)",NA,NA,Spain,CA Osasuna,LaLiga,2012/2013,2012
+12,Centre-Forward,"Nov 24, 1979 (32)",NA,NA,Spain,CA Osasuna,LaLiga,2012/2013,2012
+17,Centre-Forward,"Jun 10, 1980 (32)",NA,NA,Spain,CA Osasuna,LaLiga,2012/2013,2012
+7,Centre-Forward,"Feb 25, 1986 (26)",NA,NA,Spain,CA Osasuna,LaLiga,2012/2013,2012
+18,Centre-Forward,"Jan 11, 1988 (24)",NA,NA,Spain,CA Osasuna,LaLiga,2012/2013,2012
+25,Goalkeeper,"Apr 6, 1982 (30)",NA,NA,Spain,Rayo Vallecano,LaLiga,2012/2013,2012
+13,Goalkeeper,"Jul 30, 1983 (28)",NA,NA,Spain,Rayo Vallecano,LaLiga,2012/2013,2012
+1,Goalkeeper,"Jun 22, 1984 (28)",NA,NA,Spain,Rayo Vallecano,LaLiga,2012/2013,2012
+26,Goalkeeper,"Jan 23, 1989 (23)",NA,NA,Spain,Rayo Vallecano,LaLiga,2012/2013,2012
+NA,Defender,"May 21, 1970 (42)",NA,NA,Spain,Rayo Vallecano,LaLiga,2012/2013,2012
+22,Centre-Back,"May 16, 1987 (25)",NA,NA,Spain,Rayo Vallecano,LaLiga,2012/2013,2012
+16,Centre-Back,"Mar 21, 1992 (20)",NA,NA,Spain,Rayo Vallecano,LaLiga,2012/2013,2012
+4,Centre-Back,"Aug 10, 1980 (31)",NA,NA,Spain,Rayo Vallecano,LaLiga,2012/2013,2012
+6,Centre-Back,"Aug 17, 1984 (27)",NA,NA,Spain,Rayo Vallecano,LaLiga,2012/2013,2012
+14,Centre-Back,"May 15, 1987 (25)",NA,NA,Spain,Rayo Vallecano,LaLiga,2012/2013,2012
+5,Centre-Back,"Jun 6, 1989 (23)",NA,NA,Spain,Rayo Vallecano,LaLiga,2012/2013,2012
+3,Left-Back,"Aug 9, 1986 (25)",NA,NA,Spain,Rayo Vallecano,LaLiga,2012/2013,2012
+38,Left-Back,"Mar 7, 1989 (23)",NA,NA,Spain,Rayo Vallecano,LaLiga,2012/2013,2012
+2,Right-Back,"Jul 11, 1985 (26)",NA,NA,Spain,Rayo Vallecano,LaLiga,2012/2013,2012
+NA,Right-Back,"Aug 19, 1986 (25)",NA,NA,Brazil,Rayo Vallecano,LaLiga,2012/2013,2012
+31,Right-Back,"Sep 20, 1992 (19)",NA,NA,Spain,Rayo Vallecano,LaLiga,2012/2013,2012
+18,Defensive Midfield,"Jan 4, 1984 (28)",NA,NA,Spain,Rayo Vallecano,LaLiga,2012/2013,2012
+NA,Defensive Midfield,"Nov 14, 1991 (20)",NA,NA,Ghana,Rayo Vallecano,LaLiga,2012/2013,2012
+8,Central Midfield,"May 25, 1988 (24)",NA,NA,Spain,Rayo Vallecano,LaLiga,2012/2013,2012
+17,Central Midfield,"Feb 28, 1981 (31)",NA,NA,Spain,Rayo Vallecano,LaLiga,2012/2013,2012
+20,Attacking Midfield,"Feb 22, 1989 (23)",NA,NA,Argentina,Rayo Vallecano,LaLiga,2012/2013,2012
+10,Attacking Midfield,"May 26, 1981 (31)",NA,NA,Spain,Rayo Vallecano,LaLiga,2012/2013,2012
+11,Attacking Midfield,"Jun 10, 1981 (31)",NA,NA,Argentina,Rayo Vallecano,LaLiga,2012/2013,2012
+9,Attacking Midfield,"Jul 17, 1987 (24)",NA,NA,Spain,Rayo Vallecano,LaLiga,2012/2013,2012
+39,Attacking Midfield,"Oct 28, 1995 (16)",NA,NA,Spain,Rayo Vallecano,LaLiga,2012/2013,2012
+NA,Forward,"Feb 26, 1974 (38)",NA,NA,Spain,Rayo Vallecano,LaLiga,2012/2013,2012
+33,Left Winger,"May 16, 1990 (22)",NA,NA,Spain,Rayo Vallecano,LaLiga,2012/2013,2012
+32,Left Winger,"May 28, 1991 (21)",NA,NA,Spain,Rayo Vallecano,LaLiga,2012/2013,2012
+37,Left Winger,"Apr 16, 1993 (19)",NA,NA,Spain,Rayo Vallecano,LaLiga,2012/2013,2012
+NA,Right Winger,"Dec 3, 1984 (27)",NA,NA,Spain,Rayo Vallecano,LaLiga,2012/2013,2012
+19,Right Winger,"Mar 30, 1992 (20)",NA,NA,Guinea,Rayo Vallecano,LaLiga,2012/2013,2012
+29,Right Winger,"Aug 26, 1992 (19)",NA,NA,Brazil,Rayo Vallecano,LaLiga,2012/2013,2012
+NA,Centre-Forward,"Feb 7, 1988 (24)",NA,NA,Denmark,Rayo Vallecano,LaLiga,2012/2013,2012
+15,Centre-Forward,"Oct 19, 1977 (34)",NA,NA,Spain,Rayo Vallecano,LaLiga,2012/2013,2012
+23,Centre-Forward,"Apr 24, 1981 (31)",NA,NA,Montenegro,Rayo Vallecano,LaLiga,2012/2013,2012
+40,Centre-Forward,"Jul 7, 1995 (16)",NA,NA,Spain,Rayo Vallecano,LaLiga,2012/2013,2012
+13,Goalkeeper,"Sep 10, 1982 (29)",NA,NA,Spain,Celta de Vigo,LaLiga,2012/2013,2012
+1,Goalkeeper,"Aug 3, 1986 (25)",NA,NA,Spain,Celta de Vigo,LaLiga,2012/2013,2012
+26,Goalkeeper,"Jul 25, 1995 (16)",NA,NA,Spain,Celta de Vigo,LaLiga,2012/2013,2012
+15,Centre-Back,"Oct 10, 1986 (25)",NA,NA,Norway,Celta de Vigo,LaLiga,2012/2013,2012
+21,Centre-Back,"Apr 26, 1985 (27)",NA,NA,Spain,Celta de Vigo,LaLiga,2012/2013,2012
+12,Centre-Back,"Oct 14, 1985 (26)",NA,NA,Argentina,Celta de Vigo,LaLiga,2012/2013,2012
+5,Centre-Back,"Mar 15, 1987 (25)",NA,NA,Venezuela,Celta de Vigo,LaLiga,2012/2013,2012
+11,Left-Back,"Dec 2, 1981 (30)",NA,NA,Croatia,Celta de Vigo,LaLiga,2012/2013,2012
+3,Left-Back,"Aug 30, 1985 (26)",NA,NA,Spain,Celta de Vigo,LaLiga,2012/2013,2012
+16,Left-Back,"Apr 24, 1985 (27)",NA,NA,Spain,Celta de Vigo,LaLiga,2012/2013,2012
+28,Left-Back,"Mar 3, 1994 (18)",NA,NA,Spain,Celta de Vigo,LaLiga,2012/2013,2012
+2,Right-Back,"Jun 22, 1991 (21)",NA,NA,Spain,Celta de Vigo,LaLiga,2012/2013,2012
+4,Defensive Midfield,"May 17, 1982 (30)",NA,NA,Spain,Celta de Vigo,LaLiga,2012/2013,2012
+23,Central Midfield,"Jun 6, 1983 (29)",NA,NA,Denmark,Celta de Vigo,LaLiga,2012/2013,2012
+24,Central Midfield,"Apr 10, 1986 (26)",NA,NA,Argentina,Celta de Vigo,LaLiga,2012/2013,2012
+NA,Central Midfield,"May 29, 1983 (29)",NA,NA,Spain,Celta de Vigo,LaLiga,2012/2013,2012
+6,Central Midfield,"Mar 6, 1986 (26)",NA,NA,Spain,Celta de Vigo,LaLiga,2012/2013,2012
+8,Central Midfield,"Jan 11, 1988 (24)",NA,NA,Spain,Celta de Vigo,LaLiga,2012/2013,2012
+25,Central Midfield,"Jun 9, 1986 (26)",NA,NA,Malaysia,Celta de Vigo,LaLiga,2012/2013,2012
+30,Central Midfield,"Aug 25, 1989 (22)",NA,NA,Spain,Celta de Vigo,LaLiga,2012/2013,2012
+NA,Attacking Midfield,"May 17, 1985 (27)",NA,NA,Spain,Celta de Vigo,LaLiga,2012/2013,2012
+22,Attacking Midfield,"Aug 17, 1978 (33)",NA,NA,Spain,Celta de Vigo,LaLiga,2012/2013,2012
+29,Attacking Midfield,"Jun 22, 1992 (20)",NA,NA,Gabon,Celta de Vigo,LaLiga,2012/2013,2012
+19,Right Winger,"Jan 27, 1986 (26)",NA,NA,Chile,Celta de Vigo,LaLiga,2012/2013,2012
+NA,Right Winger,"Sep 29, 1987 (24)",NA,NA,Spain,Celta de Vigo,LaLiga,2012/2013,2012
+20,Right Winger,"Apr 4, 1990 (22)",NA,NA,Spain,Celta de Vigo,LaLiga,2012/2013,2012
+9,Second Striker,"Oct 7, 1978 (33)",NA,NA,Spain,Celta de Vigo,LaLiga,2012/2013,2012
+18,Centre-Forward,"Jul 10, 1985 (26)",NA,NA,"Korea, South",Celta de Vigo,LaLiga,2012/2013,2012
+10,Centre-Forward,"Aug 1, 1987 (24)",NA,NA,Spain,Celta de Vigo,LaLiga,2012/2013,2012
+31,Centre-Forward,"Dec 7, 1995 (16)",NA,NA,Spain,Celta de Vigo,LaLiga,2012/2013,2012
+1,Goalkeeper,"Dec 10, 1980 (31)",NA,NA,Spain,Real Valladolid CF,LaLiga,2012/2013,2012
+13,Goalkeeper,"Oct 21, 1985 (26)",NA,NA,Venezuela,Real Valladolid CF,LaLiga,2012/2013,2012
+5,Centre-Back,"May 18, 1985 (27)",NA,NA,Portugal,Real Valladolid CF,LaLiga,2012/2013,2012
+6,Centre-Back,"Feb 19, 1987 (25)",NA,NA,Spain,Real Valladolid CF,LaLiga,2012/2013,2012
+4,Centre-Back,"Mar 29, 1987 (25)",NA,NA,Spain,Real Valladolid CF,LaLiga,2012/2013,2012
+32,Centre-Back,"Jul 6, 1993 (18)",NA,NA,Spain,Real Valladolid CF,LaLiga,2012/2013,2012
+17,Left-Back,"Jul 28, 1983 (28)",NA,NA,Spain,Real Valladolid CF,LaLiga,2012/2013,2012
+24,Left-Back,"Feb 29, 1988 (24)",NA,NA,Spain,Real Valladolid CF,LaLiga,2012/2013,2012
+2,Right-Back,"Jan 26, 1984 (28)",NA,NA,Serbia,Real Valladolid CF,LaLiga,2012/2013,2012
+28,Right-Back,"Jul 18, 1991 (20)",NA,NA,Spain,Real Valladolid CF,LaLiga,2012/2013,2012
+8,Defensive Midfield,"Aug 24, 1980 (31)",NA,NA,Spain,Real Valladolid CF,LaLiga,2012/2013,2012
+18,Defensive Midfield,"Apr 18, 1979 (33)",NA,NA,Spain,Real Valladolid CF,LaLiga,2012/2013,2012
+22,Central Midfield,"Jan 12, 1988 (24)",NA,NA,Spain,Real Valladolid CF,LaLiga,2012/2013,2012
+16,Central Midfield,"Mar 26, 1986 (26)",NA,NA,Spain,Real Valladolid CF,LaLiga,2012/2013,2012
+30,Central Midfield,"Apr 24, 1992 (20)",NA,NA,Spain,Real Valladolid CF,LaLiga,2012/2013,2012
+20,Attacking Midfield,"Mar 17, 1987 (25)",NA,NA,Germany,Real Valladolid CF,LaLiga,2012/2013,2012
+7,Attacking Midfield,"Feb 21, 1989 (23)",NA,NA,Argentina,Real Valladolid CF,LaLiga,2012/2013,2012
+10,Attacking Midfield,"Nov 12, 1982 (29)",NA,NA,Spain,Real Valladolid CF,LaLiga,2012/2013,2012
+11,Left Winger,"Jan 25, 1987 (25)",NA,NA,Sweden,Real Valladolid CF,LaLiga,2012/2013,2012
+23,Left Winger,"Nov 20, 1987 (24)",NA,NA,Albania,Real Valladolid CF,LaLiga,2012/2013,2012
+14,Right Winger,"Jan 26, 1988 (24)",NA,NA,Spain,Real Valladolid CF,LaLiga,2012/2013,2012
+15,Second Striker,"Mar 20, 1988 (24)",NA,NA,Spain,Real Valladolid CF,LaLiga,2012/2013,2012
+9,Centre-Forward,"Mar 15, 1982 (30)",NA,NA,Spain,Real Valladolid CF,LaLiga,2012/2013,2012
+25,Centre-Forward,"Mar 7, 1983 (29)",NA,NA,Angola,Real Valladolid CF,LaLiga,2012/2013,2012
+27,Centre-Forward,"Apr 7, 1993 (19)",NA,NA,Spain,Real Valladolid CF,LaLiga,2012/2013,2012

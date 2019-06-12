@@ -1,0 +1,569 @@
+player_name,position,date_of_birth,age,nationality,club_name,league_name,season,year
+Oliver Kahn,Goalkeeper,1969-06-15,35,Germany,Bayern Munich,Bundesliga,2004/2005,2004
+Michael Rensing,Goalkeeper,1984-05-14,20,Germany,Bayern Munich,Bundesliga,2004/2005,2004
+Bernd Dreher,Goalkeeper,1966-11-02,37,Germany,Bayern Munich,Bundesliga,2004/2005,2004
+Jan Schlösser,Goalkeeper,1982-09-27,21,Germany,Bayern Munich,Bundesliga,2004/2005,2004
+Lúcio,Centre-Back,1978-05-08,26,Brazil,Bayern Munich,Bundesliga,2004/2005,2004
+Samuel Kuffour,Centre-Back,1976-09-03,27,Ghana,Bayern Munich,Bundesliga,2004/2005,2004
+Robert Kovac,Centre-Back,1974-04-06,30,Croatia,Bayern Munich,Bundesliga,2004/2005,2004
+Martín Demichelis,Centre-Back,1980-12-20,23,Argentina,Bayern Munich,Bundesliga,2004/2005,2004
+Thomas Linke,Centre-Back,1969-12-26,34,Germany,Bayern Munich,Bundesliga,2004/2005,2004
+Tobias Rau,Left-Back,1981-12-31,22,Germany,Bayern Munich,Bundesliga,2004/2005,2004
+Bixente Lizarazu,Left-Back,1969-12-09,34,France,Bayern Munich,Bundesliga,2004/2005,2004
+Willy Sagnol,Right-Back,1977-03-18,27,France,Bayern Munich,Bundesliga,2004/2005,2004
+Andreas Görlitz,Right-Back,1982-01-31,22,Germany,Bayern Munich,Bundesliga,2004/2005,2004
+Torsten Frings,Defensive Midfield,1976-11-22,27,Germany,Bayern Munich,Bundesliga,2004/2005,2004
+Jens Jeremies,Defensive Midfield,1974-03-05,30,Germany,Bayern Munich,Bundesliga,2004/2005,2004
+Owen Hargreaves,Defensive Midfield,1981-01-20,23,England,Bayern Munich,Bundesliga,2004/2005,2004
+Michael Ballack,Central Midfield,1976-09-26,27,Germany,Bayern Munich,Bundesliga,2004/2005,2004
+Bastian Schweinsteiger,Central Midfield,1984-08-01,19,Germany,Bayern Munich,Bundesliga,2004/2005,2004
+Hasan Salihamidzic,Right Midfield,1977-01-01,27,Bosnia-Herzegovina,Bayern Munich,Bundesliga,2004/2005,2004
+Sebastian Deisler,Right Midfield,1980-01-05,24,Germany,Bayern Munich,Bundesliga,2004/2005,2004
+Zé Roberto,Left Midfield,1974-07-06,29,Brazil,Bayern Munich,Bundesliga,2004/2005,2004
+Mehmet Scholl,Attacking Midfield,1970-10-16,33,Germany,Bayern Munich,Bundesliga,2004/2005,2004
+Piotr Trochowski,Attacking Midfield,1984-03-22,20,Germany,Bayern Munich,Bundesliga,2004/2005,2004
+Vahid Hashemian,Centre-Forward,1976-07-21,27,Iran,Bayern Munich,Bundesliga,2004/2005,2004
+Roy Makaay,Centre-Forward,1975-03-09,29,Netherlands,Bayern Munich,Bundesliga,2004/2005,2004
+Claudio Pizarro,Centre-Forward,1978-10-03,25,Peru,Bayern Munich,Bundesliga,2004/2005,2004
+Alexander Zickler,Centre-Forward,1974-02-28,30,Germany,Bayern Munich,Bundesliga,2004/2005,2004
+Roque Santa Cruz,Centre-Forward,1981-08-16,22,Paraguay,Bayern Munich,Bundesliga,2004/2005,2004
+Paolo Guerrero,Centre-Forward,1984-01-01,20,Peru,Bayern Munich,Bundesliga,2004/2005,2004
+Roman Weidenfeller,Goalkeeper,1980-08-06,23,Germany,Borussia Dortmund,Bundesliga,2004/2005,2004
+Guillaume Warmuz,Goalkeeper,1970-05-22,34,France,Borussia Dortmund,Bundesliga,2004/2005,2004
+Matthias Kleinsteiber,Goalkeeper,1978-01-05,26,Germany,Borussia Dortmund,Bundesliga,2004/2005,2004
+Sören Pirson,Goalkeeper,1985-08-27,18,Germany,Borussia Dortmund,Bundesliga,2004/2005,2004
+Christian Wörns,Centre-Back,1972-05-10,32,Germany,Borussia Dortmund,Bundesliga,2004/2005,2004
+Christoph Metzelder,Centre-Back,1980-11-05,23,Germany,Borussia Dortmund,Bundesliga,2004/2005,2004
+Ahmed Madouni,Centre-Back,1980-10-04,23,Algeria,Borussia Dortmund,Bundesliga,2004/2005,2004
+André Bergdölmo,Centre-Back,1971-10-13,32,Norway,Borussia Dortmund,Bundesliga,2004/2005,2004
+Uwe Hünemeier,Centre-Back,1986-01-09,18,Germany,Borussia Dortmund,Bundesliga,2004/2005,2004
+Markus Brzenska,Centre-Back,1984-05-25,20,Germany,Borussia Dortmund,Bundesliga,2004/2005,2004
+Marc Heitmeier,Centre-Back,1985-03-18,19,Germany,Borussia Dortmund,Bundesliga,2004/2005,2004
+Niclas Jensen,Left-Back,1974-08-17,29,Denmark,Borussia Dortmund,Bundesliga,2004/2005,2004
+Dedê,Left-Back,1978-04-18,26,Brazil,Borussia Dortmund,Bundesliga,2004/2005,2004
+Patrick Kohlmann,Left-Back,1983-02-25,21,Ireland,Borussia Dortmund,Bundesliga,2004/2005,2004
+Evanilson,Right-Back,1975-09-12,28,Brazil,Borussia Dortmund,Bundesliga,2004/2005,2004
+Juan Fernández,Right-Back,1980-03-05,24,Argentina,Borussia Dortmund,Bundesliga,2004/2005,2004
+Guy Demel,Right-Back,1981-06-13,23,Cote d'Ivoire,Borussia Dortmund,Bundesliga,2004/2005,2004
+Sebastian Kehl,Defensive Midfield,1980-02-13,24,Germany,Borussia Dortmund,Bundesliga,2004/2005,2004
+Sunday Oliseh,Defensive Midfield,1974-09-14,29,Nigeria,Borussia Dortmund,Bundesliga,2004/2005,2004
+Malte Metzelder,Defensive Midfield,1982-05-19,22,Germany,Borussia Dortmund,Bundesliga,2004/2005,2004
+Florian Kringe,Central Midfield,1982-08-18,21,Germany,Borussia Dortmund,Bundesliga,2004/2005,2004
+Mehmet Akgün,Central Midfield,1986-08-06,17,Turkey,Borussia Dortmund,Bundesliga,2004/2005,2004
+Marc-André Kruska,Central Midfield,1987-06-29,17,Germany,Borussia Dortmund,Bundesliga,2004/2005,2004
+Tomas Rosicky,Attacking Midfield,1980-10-04,23,Czech Republic,Borussia Dortmund,Bundesliga,2004/2005,2004
+Otto Addo,Attacking Midfield,1975-06-09,29,Ghana,Borussia Dortmund,Bundesliga,2004/2005,2004
+Lars Ricken,Attacking Midfield,1976-07-10,27,Germany,Borussia Dortmund,Bundesliga,2004/2005,2004
+Sascha Rammel,Attacking Midfield,1985-03-11,19,Germany,Borussia Dortmund,Bundesliga,2004/2005,2004
+Thiago,Forward,1984-07-13,19,Brazil,Borussia Dortmund,Bundesliga,2004/2005,2004
+David Odonkor,Right Winger,NA,20,Germany,Borussia Dortmund,Bundesliga,2004/2005,2004
+Salvatore Gambino,Second Striker,1983-11-27,20,Germany,Borussia Dortmund,Bundesliga,2004/2005,2004
+Jan Koller,Centre-Forward,1973-03-30,31,Czech Republic,Borussia Dortmund,Bundesliga,2004/2005,2004
+Ewerthon,Centre-Forward,1981-06-10,23,Brazil,Borussia Dortmund,Bundesliga,2004/2005,2004
+Ebi Smolarek,Centre-Forward,1981-01-09,23,Poland,Borussia Dortmund,Bundesliga,2004/2005,2004
+Sahr Senesie,Centre-Forward,1985-06-20,19,Germany,Borussia Dortmund,Bundesliga,2004/2005,2004
+Mahir Saglik,Centre-Forward,1983-01-18,21,Turkey,Borussia Dortmund,Bundesliga,2004/2005,2004
+Marcus Steegmann,Centre-Forward,1981-02-04,23,Germany,Borussia Dortmund,Bundesliga,2004/2005,2004
+Hans Jörg Butt,Goalkeeper,1974-05-28,30,Germany,Bayer 04 Leverkusen,Bundesliga,2004/2005,2004
+Tom Starke,Goalkeeper,1981-03-18,23,Germany,Bayer 04 Leverkusen,Bundesliga,2004/2005,2004
+René Adler,Goalkeeper,1985-01-15,19,Germany,Bayer 04 Leverkusen,Bundesliga,2004/2005,2004
+Jens Nowotny,Sweeper,1974-01-11,30,Germany,Bayer 04 Leverkusen,Bundesliga,2004/2005,2004
+Roque Júnior,Centre-Back,1976-08-31,27,Brazil,Bayer 04 Leverkusen,Bundesliga,2004/2005,2004
+Juan,Centre-Back,1979-02-01,25,Brazil,Bayer 04 Leverkusen,Bundesliga,2004/2005,2004
+Teddy Lucic,Centre-Back,1973-04-15,31,Sweden,Bayer 04 Leverkusen,Bundesliga,2004/2005,2004
+Jan-Ingwer Callsen-Bracker,Centre-Back,1984-09-23,19,Germany,Bayer 04 Leverkusen,Bundesliga,2004/2005,2004
+Marius Schultens,Centre-Back,1986-10-07,17,Germany,Bayer 04 Leverkusen,Bundesliga,2004/2005,2004
+Thomas Hübener,Centre-Back,1982-06-25,22,Germany,Bayer 04 Leverkusen,Bundesliga,2004/2005,2004
+Diego Placente,Left-Back,1977-04-24,27,Argentina,Bayer 04 Leverkusen,Bundesliga,2004/2005,2004
+Jermaine Jones,Defensive Midfield,1981-11-03,22,United States,Bayer 04 Leverkusen,Bundesliga,2004/2005,2004
+Hanno Balitsch,Defensive Midfield,1981-01-02,23,Germany,Bayer 04 Leverkusen,Bundesliga,2004/2005,2004
+Radoslaw Kaluzny,Defensive Midfield,1974-02-02,30,Poland,Bayer 04 Leverkusen,Bundesliga,2004/2005,2004
+Carsten Ramelow,Defensive Midfield,NA,30,Germany,Bayer 04 Leverkusen,Bundesliga,2004/2005,2004
+Clemens Fritz,Central Midfield,1980-12-07,23,Germany,Bayer 04 Leverkusen,Bundesliga,2004/2005,2004
+Gonzalo Castro,Central Midfield,1987-06-11,17,Germany,Bayer 04 Leverkusen,Bundesliga,2004/2005,2004
+Paul Freier,Right Midfield,1979-07-26,24,Germany,Bayer 04 Leverkusen,Bundesliga,2004/2005,2004
+Bernd Schneider,Right Midfield,1973-11-17,30,Germany,Bayer 04 Leverkusen,Bundesliga,2004/2005,2004
+Daniel Bierofka,Left Midfield,1979-02-07,25,Germany,Bayer 04 Leverkusen,Bundesliga,2004/2005,2004
+Jacek Krzynowek,Left Midfield,1976-05-15,28,Poland,Bayer 04 Leverkusen,Bundesliga,2004/2005,2004
+Marko Babic,Left Midfield,1981-01-28,23,Croatia,Bayer 04 Leverkusen,Bundesliga,2004/2005,2004
+Sascha Dum,Left Midfield,1986-07-03,17,Germany,Bayer 04 Leverkusen,Bundesliga,2004/2005,2004
+Robson Ponté,Attacking Midfield,1976-11-06,27,Brazil,Bayer 04 Leverkusen,Bundesliga,2004/2005,2004
+Sezer Öztürk,Attacking Midfield,1985-11-03,18,Turkey,Bayer 04 Leverkusen,Bundesliga,2004/2005,2004
+Domenico Cozza,Attacking Midfield,1983-01-18,21,Germany,Bayer 04 Leverkusen,Bundesliga,2004/2005,2004
+Andrii Voronin,Second Striker,1979-07-21,24,Ukraine,Bayer 04 Leverkusen,Bundesliga,2004/2005,2004
+Landon Donovan,Second Striker,1982-03-04,22,United States,Bayer 04 Leverkusen,Bundesliga,2004/2005,2004
+Dimitar Berbatov,Centre-Forward,1981-01-30,23,Bulgaria,Bayer 04 Leverkusen,Bundesliga,2004/2005,2004
+França,Centre-Forward,1976-03-02,28,Brazil,Bayer 04 Leverkusen,Bundesliga,2004/2005,2004
+Kenan Sahin,Centre-Forward,1984-10-27,19,Turkey,Bayer 04 Leverkusen,Bundesliga,2004/2005,2004
+Timo Röttger,Centre-Forward,1985-07-12,18,Germany,Bayer 04 Leverkusen,Bundesliga,2004/2005,2004
+Frank Rost,Goalkeeper,1973-06-30,31,Germany,FC Schalke 04,Bundesliga,2004/2005,2004
+Christofer Heimeroth,Goalkeeper,1981-08-01,22,Germany,FC Schalke 04,Bundesliga,2004/2005,2004
+Volkan Ünlü,Goalkeeper,1983-07-08,20,Turkey,FC Schalke 04,Bundesliga,2004/2005,2004
+Thomas Kläsener,Centre-Back,1976-08-14,27,Germany,FC Schalke 04,Bundesliga,2004/2005,2004
+Marcelo Bordon,Centre-Back,1976-01-07,28,Brazil,FC Schalke 04,Bundesliga,2004/2005,2004
+Marco van Hoogdalem,Centre-Back,1972-05-23,32,Netherlands,FC Schalke 04,Bundesliga,2004/2005,2004
+Tomasz Waldoch,Centre-Back,1971-05-10,33,Poland,FC Schalke 04,Bundesliga,2004/2005,2004
+Mladen Krstajic,Centre-Back,1974-03-04,30,Serbia,FC Schalke 04,Bundesliga,2004/2005,2004
+Tim Hoogland,Centre-Back,1985-06-11,19,Germany,FC Schalke 04,Bundesliga,2004/2005,2004
+Simon Talarek,Centre-Back,1985-07-08,18,Germany,FC Schalke 04,Bundesliga,2004/2005,2004
+Christian Petereit,Centre-Back,1984-02-01,20,Germany,FC Schalke 04,Bundesliga,2004/2005,2004
+Niko Bungert,Centre-Back,1986-10-24,17,Germany,FC Schalke 04,Bundesliga,2004/2005,2004
+Darío Rodríguez,Left-Back,1974-09-17,29,Uruguay,FC Schalke 04,Bundesliga,2004/2005,2004
+Christian Pander,Left-Back,1983-08-28,20,Germany,FC Schalke 04,Bundesliga,2004/2005,2004
+Ahmet Cebe,Right-Back,1983-05-02,21,Turkey,FC Schalke 04,Bundesliga,2004/2005,2004
+Fabian Lamotte,Right-Back,1983-02-25,21,Germany,FC Schalke 04,Bundesliga,2004/2005,2004
+Christian Poulsen,Defensive Midfield,1980-02-28,24,Denmark,FC Schalke 04,Bundesliga,2004/2005,2004
+Niels Oude Kamphuis,Defensive Midfield,1977-11-14,26,Netherlands,FC Schalke 04,Bundesliga,2004/2005,2004
+Sven Kmetsch,Defensive Midfield,1970-08-13,33,Germany,FC Schalke 04,Bundesliga,2004/2005,2004
+Sven Vermant,Central Midfield,1973-04-04,31,Belgium,FC Schalke 04,Bundesliga,2004/2005,2004
+Hamit Altintop,Right Midfield,1982-12-08,21,Turkey,FC Schalke 04,Bundesliga,2004/2005,2004
+Gustavo Varela,Right Midfield,1978-05-14,26,Uruguay,FC Schalke 04,Bundesliga,2004/2005,2004
+Levan Kobiashvili,Left Midfield,1977-07-10,26,Georgia,FC Schalke 04,Bundesliga,2004/2005,2004
+Jörg Böhme,Left Midfield,1974-01-22,30,Germany,FC Schalke 04,Bundesliga,2004/2005,2004
+Lincoln,Attacking Midfield,1979-01-22,25,Brazil,FC Schalke 04,Bundesliga,2004/2005,2004
+Alexander Baumjohann,Attacking Midfield,1987-01-23,17,Germany,FC Schalke 04,Bundesliga,2004/2005,2004
+Mimoun Azaouagh,Attacking Midfield,1982-11-17,21,Germany,FC Schalke 04,Bundesliga,2004/2005,2004
+Michael Delura,Right Winger,1985-07-01,19,Germany,FC Schalke 04,Bundesliga,2004/2005,2004
+Aílton,Centre-Forward,1973-07-19,30,Brazil,FC Schalke 04,Bundesliga,2004/2005,2004
+Ebbe Sand,Centre-Forward,1972-07-19,31,Denmark,FC Schalke 04,Bundesliga,2004/2005,2004
+Gerald Asamoah,Centre-Forward,1978-10-03,25,Germany,FC Schalke 04,Bundesliga,2004/2005,2004
+Kai Hesse,Centre-Forward,1985-06-20,19,Germany,FC Schalke 04,Bundesliga,2004/2005,2004
+Mike Hanke,Centre-Forward,1983-11-05,20,Germany,FC Schalke 04,Bundesliga,2004/2005,2004
+Richard Golz,Goalkeeper,1968-06-05,36,Germany,SC Freiburg,Bundesliga,2004/2005,2004
+Timo Reus,Goalkeeper,1974-05-02,30,Germany,SC Freiburg,Bundesliga,2004/2005,2004
+Dominik Wohlfarth,Goalkeeper,1978-04-27,26,Germany,SC Freiburg,Bundesliga,2004/2005,2004
+Julian Reinard,Goalkeeper,1983-03-05,21,Germany,SC Freiburg,Bundesliga,2004/2005,2004
+Lars Hermel,Sweeper,1970-09-28,33,Germany,SC Freiburg,Bundesliga,2004/2005,2004
+Daniel Schumann,Centre-Back,NA,27,Germany,SC Freiburg,Bundesliga,2004/2005,2004
+Youssef Mohamad,Centre-Back,1980-07-01,24,Lebanon,SC Freiburg,Bundesliga,2004/2005,2004
+Otar Khizaneishvili,Centre-Back,1981-09-26,22,Georgia,SC Freiburg,Bundesliga,2004/2005,2004
+Oumar Kondé,Centre-Back,1979-08-19,24,Switzerland,SC Freiburg,Bundesliga,2004/2005,2004
+Stefan Müller,Centre-Back,1974-03-08,30,Germany,SC Freiburg,Bundesliga,2004/2005,2004
+Boubacar Diarra,Centre-Back,1979-07-15,24,Mali,SC Freiburg,Bundesliga,2004/2005,2004
+Seyi Olajengbesi,Centre-Back,1980-11-17,23,Nigeria,SC Freiburg,Bundesliga,2004/2005,2004
+Torge Hollmann,Centre-Back,1982-01-28,22,Germany,SC Freiburg,Bundesliga,2004/2005,2004
+Bruno Berner,Left-Back,1977-11-21,26,Switzerland,SC Freiburg,Bundesliga,2004/2005,2004
+Andreas Ibertsberger,Left-Back,1982-07-27,21,Austria,SC Freiburg,Bundesliga,2004/2005,2004
+Dennis Bührer,Left-Back,NA,21,Germany,SC Freiburg,Bundesliga,2004/2005,2004
+Sascha Riether,Right-Back,1983-03-23,21,Germany,SC Freiburg,Bundesliga,2004/2005,2004
+Tobias Willi,Right-Back,1979-12-14,24,Germany,SC Freiburg,Bundesliga,2004/2005,2004
+Zlatan Bajramovic,Defensive Midfield,1979-08-12,24,Bosnia-Herzegovina,SC Freiburg,Bundesliga,2004/2005,2004
+Roda Antar,Defensive Midfield,1980-09-12,23,Lebanon,SC Freiburg,Bundesliga,2004/2005,2004
+Dennis Aogo,Defensive Midfield,1987-01-14,17,Germany,SC Freiburg,Bundesliga,2004/2005,2004
+Levan Tskitishvili,Left Midfield,1976-10-10,27,Georgia,SC Freiburg,Bundesliga,2004/2005,2004
+Soumaila Coulibaly,Attacking Midfield,1978-04-15,26,Mali,SC Freiburg,Bundesliga,2004/2005,2004
+Wilfried Sanou,Left Winger,1984-03-16,20,Burkina Faso,SC Freiburg,Bundesliga,2004/2005,2004
+Ellery Cairo,Right Winger,1978-08-03,25,Netherlands,SC Freiburg,Bundesliga,2004/2005,2004
+Jonathan Pitroipa,Right Winger,1986-04-12,18,Burkina Faso,SC Freiburg,Bundesliga,2004/2005,2004
+Alexander Iashvili,Second Striker,1977-10-23,26,Georgia,SC Freiburg,Bundesliga,2004/2005,2004
+Dennis Kruppke,Second Striker,1980-04-01,24,Germany,SC Freiburg,Bundesliga,2004/2005,2004
+Ibrahim Tanko,Second Striker,1977-07-25,26,Ghana,SC Freiburg,Bundesliga,2004/2005,2004
+Samuel Koejoe,Centre-Forward,1974-08-17,29,Netherlands,SC Freiburg,Bundesliga,2004/2005,2004
+Abder Ramdane,Centre-Forward,1974-02-23,30,France,SC Freiburg,Bundesliga,2004/2005,2004
+Régis Dorn,Centre-Forward,1979-12-22,24,France,SC Freiburg,Bundesliga,2004/2005,2004
+Rein van Duijnhoven,Goalkeeper,1967-09-05,36,Netherlands,VfL Bochum,Bundesliga,2004/2005,2004
+Christian Vander,Goalkeeper,1980-10-24,23,Germany,VfL Bochum,Bundesliga,2004/2005,2004
+Polat Keser,Goalkeeper,1985-12-04,18,Turkey,VfL Bochum,Bundesliga,2004/2005,2004
+Peter Skov-Jensen,Goalkeeper,1971-06-09,33,Denmark,VfL Bochum,Bundesliga,2004/2005,2004
+Martin Meichelbeck,Centre-Back,1976-11-21,27,Germany,VfL Bochum,Bundesliga,2004/2005,2004
+Marcel Maltritz,Centre-Back,1978-10-02,25,Germany,VfL Bochum,Bundesliga,2004/2005,2004
+Raymond Kalla,Centre-Back,1975-04-22,29,Cameroon,VfL Bochum,Bundesliga,2004/2005,2004
+Aleksander Knavs,Centre-Back,1975-12-05,28,Slovenia,VfL Bochum,Bundesliga,2004/2005,2004
+Marvin Matip,Centre-Back,1985-09-25,18,Cameroon,VfL Bochum,Bundesliga,2004/2005,2004
+Alexander Thamm,Centre-Back,NA,21,Germany,VfL Bochum,Bundesliga,2004/2005,2004
+Philipp Bönig,Left-Back,NA,24,Germany,VfL Bochum,Bundesliga,2004/2005,2004
+Michael Bemben,Right-Back,1976-01-28,28,Poland,VfL Bochum,Bundesliga,2004/2005,2004
+Sören Colding,Right-Back,1972-09-02,31,Denmark,VfL Bochum,Bundesliga,2004/2005,2004
+Fatih Akyel,Right-Back,1977-12-26,26,Turkey,VfL Bochum,Bundesliga,2004/2005,2004
+Tomasz Zdebel,Defensive Midfield,1973-05-25,31,Poland,VfL Bochum,Bundesliga,2004/2005,2004
+Christoph Preuß,Defensive Midfield,1981-07-04,22,Germany,VfL Bochum,Bundesliga,2004/2005,2004
+Filip Tapalovic,Defensive Midfield,1976-10-22,27,Croatia,VfL Bochum,Bundesliga,2004/2005,2004
+Miroslav Stevic,Defensive Midfield,1970-01-07,34,Serbia,VfL Bochum,Bundesliga,2004/2005,2004
+Dennis Grote,Central Midfield,1986-08-09,17,Germany,VfL Bochum,Bundesliga,2004/2005,2004
+Dariusz Wosz,Attacking Midfield,1969-06-08,35,Germany,VfL Bochum,Bundesliga,2004/2005,2004
+Zvjezdan Misimovic,Attacking Midfield,1982-06-05,22,Bosnia-Herzegovina,VfL Bochum,Bundesliga,2004/2005,2004
+Ersan Tekkan,Attacking Midfield,1985-01-06,19,Germany,VfL Bochum,Bundesliga,2004/2005,2004
+Moharram Navidkia,Attacking Midfield,1982-11-01,21,Iran,VfL Bochum,Bundesliga,2004/2005,2004
+Filip Trojan,Left Winger,1983-02-21,21,Czech Republic,VfL Bochum,Bundesliga,2004/2005,2004
+Thórdur Gudjónsson,Right Winger,1973-10-14,30,Iceland,VfL Bochum,Bundesliga,2004/2005,2004
+Gaetano Manno,Second Striker,1982-07-26,21,Germany,VfL Bochum,Bundesliga,2004/2005,2004
+Tommy Bechmann,Centre-Forward,1981-12-22,22,Denmark,VfL Bochum,Bundesliga,2004/2005,2004
+Peter Madsen,Centre-Forward,1978-04-26,26,Denmark,VfL Bochum,Bundesliga,2004/2005,2004
+Vratislav Lokvenc,Centre-Forward,1973-09-27,30,Czech Republic,VfL Bochum,Bundesliga,2004/2005,2004
+Mamadou Diabang,Centre-Forward,1979-01-21,25,Senegal,VfL Bochum,Bundesliga,2004/2005,2004
+Edú,Centre-Forward,1981-11-30,22,Brazil,VfL Bochum,Bundesliga,2004/2005,2004
+Martin Pieckenhagen,Goalkeeper,1971-11-15,32,Germany,Hamburger SV,Bundesliga,2004/2005,2004
+Stefan Wächter,Goalkeeper,1978-04-20,26,Germany,Hamburger SV,Bundesliga,2004/2005,2004
+Björn Schlicke,Centre-Back,1981-06-23,23,Germany,Hamburger SV,Bundesliga,2004/2005,2004
+Bastian Reinhardt,Centre-Back,1975-11-19,28,Germany,Hamburger SV,Bundesliga,2004/2005,2004
+Daniel Van Buyten,Centre-Back,1978-02-07,26,Belgium,Hamburger SV,Bundesliga,2004/2005,2004
+René Klingbeil,Centre-Back,NA,23,Germany,Hamburger SV,Bundesliga,2004/2005,2004
+Tomás Ujfalusi,Centre-Back,1978-03-24,26,Czech Republic,Hamburger SV,Bundesliga,2004/2005,2004
+Khalid Boulahrouz,Centre-Back,1981-12-28,22,Netherlands,Hamburger SV,Bundesliga,2004/2005,2004
+Jean Carlos,Left-Back,1983-08-12,20,Brazil,Hamburger SV,Bundesliga,2004/2005,2004
+Christian Rahn,Left-Back,1979-06-15,25,Germany,Hamburger SV,Bundesliga,2004/2005,2004
+Stephan Kling,Left-Back,1981-03-22,23,Germany,Hamburger SV,Bundesliga,2004/2005,2004
+Miso Brecko,Right-Back,1984-05-01,20,Slovenia,Hamburger SV,Bundesliga,2004/2005,2004
+Raphael Wicky,Defensive Midfield,1977-04-26,27,Switzerland,Hamburger SV,Bundesliga,2004/2005,2004
+David Jarolim,Defensive Midfield,1979-05-17,25,Czech Republic,Hamburger SV,Bundesliga,2004/2005,2004
+Collin Benjamin,Defensive Midfield,1978-08-03,25,Namibia,Hamburger SV,Bundesliga,2004/2005,2004
+Leonhard Haas,Central Midfield,NA,22,Germany,Hamburger SV,Bundesliga,2004/2005,2004
+Oliver Hampel,Central Midfield,1985-03-02,19,Germany,Hamburger SV,Bundesliga,2004/2005,2004
+Mehdi Mahdavikia,Right Midfield,1977-07-24,26,Iran,Hamburger SV,Bundesliga,2004/2005,2004
+Alexander Laas,Left Midfield,1984-05-05,20,Germany,Hamburger SV,Bundesliga,2004/2005,2004
+Almami Moreira,Attacking Midfield,1978-06-16,26,Guinea-Bissau,Hamburger SV,Bundesliga,2004/2005,2004
+Piotr Trochowski,Attacking Midfield,1984-03-22,20,Germany,Hamburger SV,Bundesliga,2004/2005,2004
+Stefan Beinlich,Attacking Midfield,1972-01-13,32,Germany,Hamburger SV,Bundesliga,2004/2005,2004
+Sergej Barbarez,Second Striker,1971-09-17,32,Bosnia-Herzegovina,Hamburger SV,Bundesliga,2004/2005,2004
+Vyacheslav Hleb,Second Striker,1983-02-12,21,Belarus,Hamburger SV,Bundesliga,2004/2005,2004
+Bernardo Romeo,Centre-Forward,1977-09-10,26,Argentina,Hamburger SV,Bundesliga,2004/2005,2004
+Benjamin Lauth,Centre-Forward,1981-08-04,22,Germany,Hamburger SV,Bundesliga,2004/2005,2004
+Mustafa Kucukovic,Centre-Forward,1986-11-05,17,Germany,Hamburger SV,Bundesliga,2004/2005,2004
+Emile Mpenza,Centre-Forward,1978-07-04,25,Belgium,Hamburger SV,Bundesliga,2004/2005,2004
+Eren Sen,Centre-Forward,1984-09-28,19,Germany,Hamburger SV,Bundesliga,2004/2005,2004
+Naohiro Takahara,Centre-Forward,1979-06-04,25,Japan,Hamburger SV,Bundesliga,2004/2005,2004
+Darius Kampa,Goalkeeper,1977-01-16,27,Germany,Borussia Mönchengladbach,Bundesliga,2004/2005,2004
+Kasey Keller,Goalkeeper,1969-11-29,34,United States,Borussia Mönchengladbach,Bundesliga,2004/2005,2004
+Sead Ramovic,Goalkeeper,1979-03-14,25,Bosnia-Herzegovina,Borussia Mönchengladbach,Bundesliga,2004/2005,2004
+Michael Melka,Goalkeeper,NA,25,Germany,Borussia Mönchengladbach,Bundesliga,2004/2005,2004
+Steffen Korell,Sweeper,1971-10-27,32,Germany,Borussia Mönchengladbach,Bundesliga,2004/2005,2004
+Jeff Strasser,Centre-Back,1974-10-05,29,Luxembourg,Borussia Mönchengladbach,Bundesliga,2004/2005,2004
+Joris Van Hout,Centre-Back,1977-01-10,27,Belgium,Borussia Mönchengladbach,Bundesliga,2004/2005,2004
+Milan Fukal,Centre-Back,1975-05-16,29,Czech Republic,Borussia Mönchengladbach,Bundesliga,2004/2005,2004
+Marcelo Pletsch,Centre-Back,1976-05-13,28,Brazil,Borussia Mönchengladbach,Bundesliga,2004/2005,2004
+Craig Moore,Centre-Back,1975-12-12,28,Australia,Borussia Mönchengladbach,Bundesliga,2004/2005,2004
+Bradley Carnell,Left-Back,1977-01-21,27,South Africa,Borussia Mönchengladbach,Bundesliga,2004/2005,2004
+Filip Daems,Left-Back,1978-10-31,25,Belgium,Borussia Mönchengladbach,Bundesliga,2004/2005,2004
+Nico Van Kerckhoven,Left-Back,1970-12-14,33,Belgium,Borussia Mönchengladbach,Bundesliga,2004/2005,2004
+Marcell Jansen,Left-Back,1985-11-04,18,Germany,Borussia Mönchengladbach,Bundesliga,2004/2005,2004
+Max Eberl,Right-Back,1973-09-21,30,Germany,Borussia Mönchengladbach,Bundesliga,2004/2005,2004
+Bernd Korzynietz,Right-Back,1979-09-08,24,Germany,Borussia Mönchengladbach,Bundesliga,2004/2005,2004
+Sebastian Plate,Right-Back,1979-08-07,24,Germany,Borussia Mönchengladbach,Bundesliga,2004/2005,2004
+Bernd Thijs,Defensive Midfield,1978-06-28,26,Belgium,Borussia Mönchengladbach,Bundesliga,2004/2005,2004
+Markus Hausweiler,Defensive Midfield,1976-04-15,28,Germany,Borussia Mönchengladbach,Bundesliga,2004/2005,2004
+Oliver Kirch,Defensive Midfield,1982-08-21,21,Germany,Borussia Mönchengladbach,Bundesliga,2004/2005,2004
+Peer Kluge,Defensive Midfield,1980-11-22,23,Germany,Borussia Mönchengladbach,Bundesliga,2004/2005,2004
+Enrico Gaede,Defensive Midfield,1982-01-31,22,Germany,Borussia Mönchengladbach,Bundesliga,2004/2005,2004
+Eugen Polanski,Defensive Midfield,1986-03-17,18,Poland,Borussia Mönchengladbach,Bundesliga,2004/2005,2004
+Igor Demo,Central Midfield,1975-09-18,28,Slovakia,Borussia Mönchengladbach,Bundesliga,2004/2005,2004
+Ivo Ulich,Central Midfield,1974-09-05,29,Czech Republic,Borussia Mönchengladbach,Bundesliga,2004/2005,2004
+Jörg Böhme,Left Midfield,1974-01-22,30,Germany,Borussia Mönchengladbach,Bundesliga,2004/2005,2004
+Christian Ziege,Left Midfield,1972-02-01,32,Germany,Borussia Mönchengladbach,Bundesliga,2004/2005,2004
+Vladimir Ivic,Attacking Midfield,1977-05-07,27,Serbia,Borussia Mönchengladbach,Bundesliga,2004/2005,2004
+Thomas Broich,Attacking Midfield,1981-01-29,23,Germany,Borussia Mönchengladbach,Bundesliga,2004/2005,2004
+Jan Schlaudraff,Second Striker,1983-07-18,20,Germany,Borussia Mönchengladbach,Bundesliga,2004/2005,2004
+Andreas Spann,Centre-Forward,1984-05-17,20,Germany,Borussia Mönchengladbach,Bundesliga,2004/2005,2004
+Wesley Sonck,Centre-Forward,1978-08-09,25,Belgium,Borussia Mönchengladbach,Bundesliga,2004/2005,2004
+Giovane Elber,Centre-Forward,1972-07-23,31,Brazil,Borussia Mönchengladbach,Bundesliga,2004/2005,2004
+Morten Skoubo,Centre-Forward,1980-06-30,24,Denmark,Borussia Mönchengladbach,Bundesliga,2004/2005,2004
+Vaclav Sverkos,Centre-Forward,1983-11-01,20,Czech Republic,Borussia Mönchengladbach,Bundesliga,2004/2005,2004
+Oliver Neuville,Centre-Forward,1973-05-01,31,Germany,Borussia Mönchengladbach,Bundesliga,2004/2005,2004
+Marek Heinz,Centre-Forward,1977-08-04,26,Czech Republic,Borussia Mönchengladbach,Bundesliga,2004/2005,2004
+Mathias Schober,Goalkeeper,1976-04-08,28,Germany,FC Hansa Rostock,Bundesliga,2004/2005,2004
+Axel Keller,Goalkeeper,1977-03-25,27,Germany,FC Hansa Rostock,Bundesliga,2004/2005,2004
+Carsten Busch,Goalkeeper,1980-08-07,23,Germany,FC Hansa Rostock,Bundesliga,2004/2005,2004
+Uwe Möhrle,Centre-Back,1979-12-03,24,Germany,FC Hansa Rostock,Bundesliga,2004/2005,2004
+Kim Madsen,Centre-Back,1978-02-13,26,Denmark,FC Hansa Rostock,Bundesliga,2004/2005,2004
+Tim Sebastian,Centre-Back,1984-01-17,20,Germany,FC Hansa Rostock,Bundesliga,2004/2005,2004
+Joakim Persson,Centre-Back,1975-04-03,29,Sweden,FC Hansa Rostock,Bundesliga,2004/2005,2004
+Gabriel Melkam,Centre-Back,1980-03-13,24,Nigeria,FC Hansa Rostock,Bundesliga,2004/2005,2004
+Delano Hill,Centre-Back,1975-04-29,29,Netherlands,FC Hansa Rostock,Bundesliga,2004/2005,2004
+Ronald Maul,Left-Back,1973-02-13,31,Germany,FC Hansa Rostock,Bundesliga,2004/2005,2004
+Thomas Rasmussen,Left-Back,1977-04-16,27,Denmark,FC Hansa Rostock,Bundesliga,2004/2005,2004
+Razundara Tjikuzu,Defensive Midfield,1979-12-12,24,Namibia,FC Hansa Rostock,Bundesliga,2004/2005,2004
+Godfried Aduobe,Defensive Midfield,1975-10-29,28,Ghana,FC Hansa Rostock,Bundesliga,2004/2005,2004
+Denis Lapaczinski,Defensive Midfield,1981-09-26,22,Germany,FC Hansa Rostock,Bundesliga,2004/2005,2004
+Marcus Lantz,Central Midfield,1975-10-23,28,Sweden,FC Hansa Rostock,Bundesliga,2004/2005,2004
+Kevin Hansen,Central Midfield,1979-08-13,24,Germany,FC Hansa Rostock,Bundesliga,2004/2005,2004
+René Rydlewicz,Right Midfield,1973-07-18,30,Germany,FC Hansa Rostock,Bundesliga,2004/2005,2004
+David Rasmussen,Right Midfield,1976-12-01,27,Denmark,FC Hansa Rostock,Bundesliga,2004/2005,2004
+Michael Hartmann,Left Midfield,1974-07-11,29,Germany,FC Hansa Rostock,Bundesliga,2004/2005,2004
+Thomas Meggle,Attacking Midfield,1975-02-22,29,Germany,FC Hansa Rostock,Bundesliga,2004/2005,2004
+Jari Litmanen,Attacking Midfield,1971-02-20,33,Finland,FC Hansa Rostock,Bundesliga,2004/2005,2004
+Shergo Biran,Forward,1979-01-04,25,Germany,FC Hansa Rostock,Bundesliga,2004/2005,2004
+Amir Shapourzadeh,Right Winger,1982-09-19,21,Iran,FC Hansa Rostock,Bundesliga,2004/2005,2004
+Rade Prica,Centre-Forward,1980-06-30,24,Sweden,FC Hansa Rostock,Bundesliga,2004/2005,2004
+Magnus Arvidsson,Centre-Forward,1973-02-12,31,Sweden,FC Hansa Rostock,Bundesliga,2004/2005,2004
+Antonio di Salvo,Centre-Forward,1979-06-05,25,Italy,FC Hansa Rostock,Bundesliga,2004/2005,2004
+Marcus Allbäck,Centre-Forward,1973-07-05,30,Sweden,FC Hansa Rostock,Bundesliga,2004/2005,2004
+Marco Vorbeck,Centre-Forward,1981-06-24,23,Germany,FC Hansa Rostock,Bundesliga,2004/2005,2004
+Robert Enke,Goalkeeper,1977-08-24,26,Germany,Hannover 96,Bundesliga,2004/2005,2004
+Frank Juric,Goalkeeper,1973-10-28,30,Australia,Hannover 96,Bundesliga,2004/2005,2004
+Daniel Haas,Goalkeeper,1983-08-01,20,Germany,Hannover 96,Bundesliga,2004/2005,2004
+Vinícius,Centre-Back,1980-07-31,23,Brazil,Hannover 96,Bundesliga,2004/2005,2004
+Dariusz Zuraw,Centre-Back,1972-11-14,31,Poland,Hannover 96,Bundesliga,2004/2005,2004
+Dame Diouf,Centre-Back,1978-03-31,26,Senegal,Hannover 96,Bundesliga,2004/2005,2004
+Thomas Schneider,Centre-Back,1972-11-24,31,Germany,Hannover 96,Bundesliga,2004/2005,2004
+Per Mertesacker,Centre-Back,1984-09-29,19,Germany,Hannover 96,Bundesliga,2004/2005,2004
+Gürman Agac,Centre-Back,1982-11-18,21,Turkey,Hannover 96,Bundesliga,2004/2005,2004
+Michael Tarnat,Left-Back,1969-10-27,34,Germany,Hannover 96,Bundesliga,2004/2005,2004
+Sören Halfar,Left-Back,1987-01-02,17,Germany,Hannover 96,Bundesliga,2004/2005,2004
+Steven Cherundolo,Right-Back,1979-02-19,25,United States,Hannover 96,Bundesliga,2004/2005,2004
+Danijel Stefulj,Right-Back,1973-06-02,31,Croatia,Hannover 96,Bundesliga,2004/2005,2004
+Christoph Dabrowski,Defensive Midfield,1978-07-01,26,Germany,Hannover 96,Bundesliga,2004/2005,2004
+Altin Lala,Defensive Midfield,1975-11-18,28,Albania,Hannover 96,Bundesliga,2004/2005,2004
+Julian de Guzmán,Defensive Midfield,1981-03-25,23,Canada,Hannover 96,Bundesliga,2004/2005,2004
+Silvio Schröter,Right Midfield,1979-06-29,25,Germany,Hannover 96,Bundesliga,2004/2005,2004
+Markus Schinner,Left Midfield,1981-01-20,23,Germany,Hannover 96,Bundesliga,2004/2005,2004
+Ricardo Sousa,Attacking Midfield,1979-01-11,25,Portugal,Hannover 96,Bundesliga,2004/2005,2004
+Tranquillo Barnetta,Attacking Midfield,1985-05-22,19,Switzerland,Hannover 96,Bundesliga,2004/2005,2004
+Nebojsa Krupnikovic,Attacking Midfield,1973-08-15,30,Serbia,Hannover 96,Bundesliga,2004/2005,2004
+Vladimir But,Attacking Midfield,1977-09-07,26,Russia,Hannover 96,Bundesliga,2004/2005,2004
+Denis Wolf,Attacking Midfield,1983-01-15,21,Philippines,Hannover 96,Bundesliga,2004/2005,2004
+Clint Mathis,Attacking Midfield,1976-11-25,27,United States,Hannover 96,Bundesliga,2004/2005,2004
+Sezai Demircan,Left Winger,1985-02-09,19,Turkey,Hannover 96,Bundesliga,2004/2005,2004
+Daniel Stendel,Right Winger,1974-04-04,30,Germany,Hannover 96,Bundesliga,2004/2005,2004
+Jiri Stajner,Second Striker,1976-05-27,28,Czech Republic,Hannover 96,Bundesliga,2004/2005,2004
+Mohamadou Idrissou,Centre-Forward,1980-03-08,24,Cameroon,Hannover 96,Bundesliga,2004/2005,2004
+Thomas Christiansen,Centre-Forward,1973-03-11,31,Spain,Hannover 96,Bundesliga,2004/2005,2004
+Roman Wallner,Centre-Forward,1982-02-04,22,Austria,Hannover 96,Bundesliga,2004/2005,2004
+Veljko Paunovic,Centre-Forward,1977-08-21,26,Serbia,Hannover 96,Bundesliga,2004/2005,2004
+Leandro,Centre-Forward,1975-02-14,29,Brazil,Hannover 96,Bundesliga,2004/2005,2004
+Fabian Montabell,Centre-Forward,1985-02-13,19,Germany,Hannover 96,Bundesliga,2004/2005,2004
+Jiri Kaufman,Centre-Forward,1979-11-28,24,Czech Republic,Hannover 96,Bundesliga,2004/2005,2004
+Raphael Schäfer,Goalkeeper,1979-01-30,25,Germany,1.FC Nuremberg,Bundesliga,2004/2005,2004
+Dirk Langerbein,Goalkeeper,1971-09-09,32,Germany,1.FC Nuremberg,Bundesliga,2004/2005,2004
+Daniel Klewer,Goalkeeper,1977-03-04,27,Germany,1.FC Nuremberg,Bundesliga,2004/2005,2004
+Philipp Tschauner,Goalkeeper,1985-11-03,18,Germany,1.FC Nuremberg,Bundesliga,2004/2005,2004
+Tigrao,Defender,1982-07-06,21,Brazil,1.FC Nuremberg,Bundesliga,2004/2005,2004
+Tomasz Hajto,Centre-Back,1972-10-16,31,Poland,1.FC Nuremberg,Bundesliga,2004/2005,2004
+Andreas Wolf,Centre-Back,1982-06-12,22,Germany,1.FC Nuremberg,Bundesliga,2004/2005,2004
+Marek Nikl,Centre-Back,1976-02-20,28,Czech Republic,1.FC Nuremberg,Bundesliga,2004/2005,2004
+Bartosz Bosacki,Centre-Back,1975-12-20,28,Poland,1.FC Nuremberg,Bundesliga,2004/2005,2004
+Thomas Paulus,Centre-Back,1982-03-14,22,Germany,1.FC Nuremberg,Bundesliga,2004/2005,2004
+Frank Wiblishauser,Left-Back,1977-10-18,26,Germany,1.FC Nuremberg,Bundesliga,2004/2005,2004
+Lars Müller,Left-Back,NA,28,Germany,1.FC Nuremberg,Bundesliga,2004/2005,2004
+Christian Wiesner,Right-Back,1981-09-22,22,Germany,1.FC Nuremberg,Bundesliga,2004/2005,2004
+Dominik Reinhardt,Right-Back,1984-12-19,19,Germany,1.FC Nuremberg,Bundesliga,2004/2005,2004
+Ivica Banovic,Defensive Midfield,1980-08-02,23,Croatia,1.FC Nuremberg,Bundesliga,2004/2005,2004
+Mario Cantaluppi,Defensive Midfield,1974-04-11,30,Switzerland,1.FC Nuremberg,Bundesliga,2004/2005,2004
+Tommy Svindal Larsen,Defensive Midfield,1973-08-11,30,Norway,1.FC Nuremberg,Bundesliga,2004/2005,2004
+Pekka Lagerblom,Defensive Midfield,1982-10-19,21,Finland,1.FC Nuremberg,Bundesliga,2004/2005,2004
+Maik Wagefeld,Defensive Midfield,1981-02-25,23,Germany,1.FC Nuremberg,Bundesliga,2004/2005,2004
+Sebastian Szikal,Defensive Midfield,1986-11-17,17,Germany,1.FC Nuremberg,Bundesliga,2004/2005,2004
+Sven Müller,Right Midfield,NA,24,Germany,1.FC Nuremberg,Bundesliga,2004/2005,2004
+Marcel Ketelaer,Left Midfield,1977-11-03,26,Germany,1.FC Nuremberg,Bundesliga,2004/2005,2004
+Marek Mintal,Attacking Midfield,1977-09-02,26,Slovakia,1.FC Nuremberg,Bundesliga,2004/2005,2004
+Samuel Slovak,Attacking Midfield,1975-10-17,28,Slovakia,1.FC Nuremberg,Bundesliga,2004/2005,2004
+Markus Daun,Centre-Forward,1980-09-10,23,Germany,1.FC Nuremberg,Bundesliga,2004/2005,2004
+Markus Schroth,Centre-Forward,1975-01-25,29,Germany,1.FC Nuremberg,Bundesliga,2004/2005,2004
+Lawrence Aidoo,Centre-Forward,1982-01-14,22,Ghana,1.FC Nuremberg,Bundesliga,2004/2005,2004
+Stefan Kießling,Centre-Forward,1984-01-25,20,Germany,1.FC Nuremberg,Bundesliga,2004/2005,2004
+Róbert Vittek,Centre-Forward,1982-04-01,22,Slovakia,1.FC Nuremberg,Bundesliga,2004/2005,2004
+Simon Jentzsch,Goalkeeper,1976-05-04,28,Germany,VfL Wolfsburg,Bundesliga,2004/2005,2004
+André Lenz,Goalkeeper,1973-11-19,30,Germany,VfL Wolfsburg,Bundesliga,2004/2005,2004
+Patrick Platins,Goalkeeper,1983-04-19,21,Germany,VfL Wolfsburg,Bundesliga,2004/2005,2004
+Marino Biliskov,Centre-Back,1976-03-17,28,Croatia,VfL Wolfsburg,Bundesliga,2004/2005,2004
+Stefan Schnoor,Centre-Back,1971-04-18,33,Germany,VfL Wolfsburg,Bundesliga,2004/2005,2004
+Facundo Quiroga,Centre-Back,1978-01-10,26,Argentina,VfL Wolfsburg,Bundesliga,2004/2005,2004
+Kevin Hofland,Centre-Back,1979-06-07,25,Netherlands,VfL Wolfsburg,Bundesliga,2004/2005,2004
+Maik Franz,Centre-Back,1981-08-05,22,Germany,VfL Wolfsburg,Bundesliga,2004/2005,2004
+Stefan Lorenz,Centre-Back,NA,22,Germany,VfL Wolfsburg,Bundesliga,2004/2005,2004
+Patrick Weiser,Left-Back,1971-12-25,32,Germany,VfL Wolfsburg,Bundesliga,2004/2005,2004
+Mirko Hrgovic,Left-Back,1979-02-05,25,Bosnia-Herzegovina,VfL Wolfsburg,Bundesliga,2004/2005,2004
+Hans Sarpei,Left-Back,1976-06-28,28,Ghana,VfL Wolfsburg,Bundesliga,2004/2005,2004
+Thomas Rytter,Right-Back,1974-01-06,30,Denmark,VfL Wolfsburg,Bundesliga,2004/2005,2004
+Pablo Thiam,Defensive Midfield,1974-01-03,30,Guinea,VfL Wolfsburg,Bundesliga,2004/2005,2004
+Marian Hristov,Defensive Midfield,1973-07-29,30,Bulgaria,VfL Wolfsburg,Bundesliga,2004/2005,2004
+Óscar Ahumada,Defensive Midfield,1982-08-31,21,Argentina,VfL Wolfsburg,Bundesliga,2004/2005,2004
+Karsten Fischer,Defensive Midfield,1984-05-27,20,Germany,VfL Wolfsburg,Bundesliga,2004/2005,2004
+Miroslav Karhan,Central Midfield,1976-06-21,28,Slovakia,VfL Wolfsburg,Bundesliga,2004/2005,2004
+Cédric Makiadi,Central Midfield,1984-02-23,20,DR Congo,VfL Wolfsburg,Bundesliga,2004/2005,2004
+Bartosz Romanczuk,Left Midfield,1983-10-28,20,Poland,VfL Wolfsburg,Bundesliga,2004/2005,2004
+Andrés D'Alessandro,Attacking Midfield,1981-04-15,23,Argentina,VfL Wolfsburg,Bundesliga,2004/2005,2004
+Martin Petrov,Left Winger,1979-01-15,25,Bulgaria,VfL Wolfsburg,Bundesliga,2004/2005,2004
+Juan Carlos Menseguez,Second Striker,1984-02-18,20,Argentina,VfL Wolfsburg,Bundesliga,2004/2005,2004
+Diego Klimowicz,Centre-Forward,1974-07-06,29,Argentina,VfL Wolfsburg,Bundesliga,2004/2005,2004
+Tomislav Maric,Centre-Forward,1973-01-28,31,Croatia,VfL Wolfsburg,Bundesliga,2004/2005,2004
+Thomas Brdaric,Centre-Forward,1975-01-23,29,Germany,VfL Wolfsburg,Bundesliga,2004/2005,2004
+Marko Topic,Centre-Forward,1976-01-01,28,Bosnia-Herzegovina,VfL Wolfsburg,Bundesliga,2004/2005,2004
+Roy Präger,Centre-Forward,1971-09-22,32,Germany,VfL Wolfsburg,Bundesliga,2004/2005,2004
+Timo Hildebrand,Goalkeeper,1979-04-05,25,Germany,VfB Stuttgart,Bundesliga,2004/2005,2004
+Dirk Heinen,Goalkeeper,1970-12-03,33,Germany,VfB Stuttgart,Bundesliga,2004/2005,2004
+Diego Benaglio,Goalkeeper,1983-09-08,20,Switzerland,VfB Stuttgart,Bundesliga,2004/2005,2004
+Heiko Butscher,Centre-Back,1980-07-28,23,Germany,VfB Stuttgart,Bundesliga,2004/2005,2004
+Martin Stranzl,Centre-Back,1980-06-16,24,Austria,VfB Stuttgart,Bundesliga,2004/2005,2004
+Markus Babbel,Centre-Back,1972-09-08,31,Germany,VfB Stuttgart,Bundesliga,2004/2005,2004
+Fernando Meira,Centre-Back,1978-06-05,26,Portugal,VfB Stuttgart,Bundesliga,2004/2005,2004
+Matthieu Delpierre,Centre-Back,1981-04-26,23,France,VfB Stuttgart,Bundesliga,2004/2005,2004
+Marco Caligiuri,Centre-Back,1984-04-14,20,Germany,VfB Stuttgart,Bundesliga,2004/2005,2004
+Steffen Dangelmayr,Centre-Back,1978-09-09,25,Germany,VfB Stuttgart,Bundesliga,2004/2005,2004
+Heiko Gerber,Left-Back,1972-07-11,31,Germany,VfB Stuttgart,Bundesliga,2004/2005,2004
+Andreas Hinkel,Right-Back,1982-03-26,22,Germany,VfB Stuttgart,Bundesliga,2004/2005,2004
+Boris Zivkovic,Right-Back,1975-11-15,28,Croatia,VfB Stuttgart,Bundesliga,2004/2005,2004
+Philipp Lahm,Right-Back,1983-11-11,20,Germany,VfB Stuttgart,Bundesliga,2004/2005,2004
+Silvio Meißner,Defensive Midfield,1973-01-19,31,Germany,VfB Stuttgart,Bundesliga,2004/2005,2004
+Jurica Vranjes,Defensive Midfield,1980-01-31,24,Croatia,VfB Stuttgart,Bundesliga,2004/2005,2004
+Christian Tiffert,Defensive Midfield,1982-02-18,22,Germany,VfB Stuttgart,Bundesliga,2004/2005,2004
+Zvonimir Soldo,Defensive Midfield,1967-11-02,36,Croatia,VfB Stuttgart,Bundesliga,2004/2005,2004
+Tobias Rathgeb,Defensive Midfield,1982-05-03,22,Germany,VfB Stuttgart,Bundesliga,2004/2005,2004
+Christian Gentner,Central Midfield,1985-08-14,18,Germany,VfB Stuttgart,Bundesliga,2004/2005,2004
+Emanuel Centurión,Left Midfield,1982-08-25,21,Argentina,VfB Stuttgart,Bundesliga,2004/2005,2004
+Horst Heldt,Left Midfield,1969-12-09,34,Germany,VfB Stuttgart,Bundesliga,2004/2005,2004
+Aleksandr Hleb,Attacking Midfield,1981-05-01,23,Belarus,VfB Stuttgart,Bundesliga,2004/2005,2004
+Hakan Yakin,Attacking Midfield,1977-02-22,27,Switzerland,VfB Stuttgart,Bundesliga,2004/2005,2004
+Élson,Attacking Midfield,1981-11-16,22,Brazil,VfB Stuttgart,Bundesliga,2004/2005,2004
+Ivan Stoyanov,Right Winger,1983-07-24,20,Bulgaria,VfB Stuttgart,Bundesliga,2004/2005,2004
+Imre Szabics,Second Striker,1981-03-22,23,Hungary,VfB Stuttgart,Bundesliga,2004/2005,2004
+Marco Streller,Centre-Forward,1981-06-18,23,Switzerland,VfB Stuttgart,Bundesliga,2004/2005,2004
+Cacau,Centre-Forward,1981-03-27,23,Germany,VfB Stuttgart,Bundesliga,2004/2005,2004
+Kevin Kuranyi,Centre-Forward,1982-03-02,22,Germany,VfB Stuttgart,Bundesliga,2004/2005,2004
+Mario Gómez,Centre-Forward,1985-07-10,18,Germany,VfB Stuttgart,Bundesliga,2004/2005,2004
+Dimo Wache,Goalkeeper,1973-11-01,30,Germany,1.FSV Mainz 05,Bundesliga,2004/2005,2004
+Sven Hoffmeister,Goalkeeper,1970-10-13,33,Germany,1.FSV Mainz 05,Bundesliga,2004/2005,2004
+Christian Wetklo,Goalkeeper,1980-01-11,24,Germany,1.FSV Mainz 05,Bundesliga,2004/2005,2004
+Marco Walker,Centre-Back,1970-05-02,34,Switzerland,1.FSV Mainz 05,Bundesliga,2004/2005,2004
+Nikolce Noveski,Centre-Back,1979-04-28,25,North Macedonia,1.FSV Mainz 05,Bundesliga,2004/2005,2004
+Peter Neustädter,Centre-Back,1966-02-16,38,Kazakhstan,1.FSV Mainz 05,Bundesliga,2004/2005,2004
+Manuel Friedrich,Centre-Back,1979-09-13,24,Germany,1.FSV Mainz 05,Bundesliga,2004/2005,2004
+Benjamin Weigelt,Centre-Back,1982-09-04,21,Germany,1.FSV Mainz 05,Bundesliga,2004/2005,2004
+Tamás Bódog,Centre-Back,1970-09-27,33,Hungary,1.FSV Mainz 05,Bundesliga,2004/2005,2004
+Mathias Abel,Centre-Back,1981-06-22,23,Germany,1.FSV Mainz 05,Bundesliga,2004/2005,2004
+Rajko Tavcar,Left-Back,1974-07-21,29,Slovenia,1.FSV Mainz 05,Bundesliga,2004/2005,2004
+Marco Rose,Left-Back,1976-09-11,27,Germany,1.FSV Mainz 05,Bundesliga,2004/2005,2004
+Christopher Ihm,Left-Back,1982-12-21,21,Germany,1.FSV Mainz 05,Bundesliga,2004/2005,2004
+Robert Nikolic,Right-Back,1968-08-01,35,Germany,1.FSV Mainz 05,Bundesliga,2004/2005,2004
+Christian Demirtas,Right-Back,1984-05-25,20,Germany,1.FSV Mainz 05,Bundesliga,2004/2005,2004
+Michael Falkenmayer,Defensive Midfield,1982-11-26,21,Germany,1.FSV Mainz 05,Bundesliga,2004/2005,2004
+Hanno Balitsch,Defensive Midfield,1981-01-02,23,Germany,1.FSV Mainz 05,Bundesliga,2004/2005,2004
+Christof Babatz,Defensive Midfield,1974-09-03,29,Germany,1.FSV Mainz 05,Bundesliga,2004/2005,2004
+Dennis Probst,Defensive Midfield,1978-10-11,25,Germany,1.FSV Mainz 05,Bundesliga,2004/2005,2004
+Fabian Gerber,Right Midfield,1979-11-28,24,Germany,1.FSV Mainz 05,Bundesliga,2004/2005,2004
+Jürgen Kramny,Right Midfield,1971-10-18,32,Germany,1.FSV Mainz 05,Bundesliga,2004/2005,2004
+Dennis Weiland,Left Midfield,1974-08-30,29,Germany,1.FSV Mainz 05,Bundesliga,2004/2005,2004
+Antônio da Silva,Attacking Midfield,1978-06-13,26,Brazil,1.FSV Mainz 05,Bundesliga,2004/2005,2004
+Mimoun Azaouagh,Attacking Midfield,1982-11-17,21,Germany,1.FSV Mainz 05,Bundesliga,2004/2005,2004
+Markus Dworrak,Left Winger,1978-01-23,26,Germany,1.FSV Mainz 05,Bundesliga,2004/2005,2004
+Niclas Weiland,Right Winger,1972-07-22,31,Germany,1.FSV Mainz 05,Bundesliga,2004/2005,2004
+Benjamin Auer,Centre-Forward,1981-01-11,23,Germany,1.FSV Mainz 05,Bundesliga,2004/2005,2004
+Christoph Teinert,Centre-Forward,1980-01-30,24,Germany,1.FSV Mainz 05,Bundesliga,2004/2005,2004
+Claudius Weber,Centre-Forward,1978-04-15,26,Germany,1.FSV Mainz 05,Bundesliga,2004/2005,2004
+Ranisav Jovanovic,Centre-Forward,NA,23,Germany,1.FSV Mainz 05,Bundesliga,2004/2005,2004
+Conor Casey,Centre-Forward,1981-07-25,22,United States,1.FSV Mainz 05,Bundesliga,2004/2005,2004
+Michael Thurk,Centre-Forward,1976-05-28,28,Germany,1.FSV Mainz 05,Bundesliga,2004/2005,2004
+Andreas Reinke,Goalkeeper,1969-01-10,35,Germany,SV Werder Bremen,Bundesliga,2004/2005,2004
+Pascal Borel,Goalkeeper,1978-09-26,25,Germany,SV Werder Bremen,Bundesliga,2004/2005,2004
+Alexander Walke,Goalkeeper,1983-06-06,21,Germany,SV Werder Bremen,Bundesliga,2004/2005,2004
+Florian Mohr,Centre-Back,1984-08-25,19,Germany,SV Werder Bremen,Bundesliga,2004/2005,2004
+Frank Fahrenhorst,Centre-Back,1977-09-24,26,Germany,SV Werder Bremen,Bundesliga,2004/2005,2004
+Petri Pasanen,Centre-Back,1980-09-24,23,Finland,SV Werder Bremen,Bundesliga,2004/2005,2004
+Robert Paul,Centre-Back,1984-10-17,19,Germany,SV Werder Bremen,Bundesliga,2004/2005,2004
+Valérien Ismaël,Centre-Back,1975-09-28,28,France,SV Werder Bremen,Bundesliga,2004/2005,2004
+Christian Schulz,Centre-Back,1983-04-01,21,Germany,SV Werder Bremen,Bundesliga,2004/2005,2004
+Francis Banecki,Centre-Back,1985-07-17,18,Germany,SV Werder Bremen,Bundesliga,2004/2005,2004
+Gustavo Nery,Left-Back,1977-07-22,26,Brazil,SV Werder Bremen,Bundesliga,2004/2005,2004
+Ludovic Magnin,Left-Back,1979-04-20,25,Switzerland,SV Werder Bremen,Bundesliga,2004/2005,2004
+Paul Stalteri,Right-Back,1977-10-18,26,Canada,SV Werder Bremen,Bundesliga,2004/2005,2004
+Fabian Ernst,Defensive Midfield,1979-05-30,25,Germany,SV Werder Bremen,Bundesliga,2004/2005,2004
+Frank Baumann,Defensive Midfield,1975-10-29,28,Germany,SV Werder Bremen,Bundesliga,2004/2005,2004
+Pekka Lagerblom,Defensive Midfield,1982-10-19,21,Finland,SV Werder Bremen,Bundesliga,2004/2005,2004
+Stefan Beckert,Defensive Midfield,1982-05-03,22,Germany,SV Werder Bremen,Bundesliga,2004/2005,2004
+Daniel Jensen,Central Midfield,1979-06-25,25,Denmark,SV Werder Bremen,Bundesliga,2004/2005,2004
+Tim Borowski,Central Midfield,1980-05-02,24,Germany,SV Werder Bremen,Bundesliga,2004/2005,2004
+Ümit Davala,Right Midfield,1973-07-30,30,Turkey,SV Werder Bremen,Bundesliga,2004/2005,2004
+Krisztián Lisztes,Attacking Midfield,1976-07-02,27,Hungary,SV Werder Bremen,Bundesliga,2004/2005,2004
+Johan Micoud,Attacking Midfield,1973-07-24,30,France,SV Werder Bremen,Bundesliga,2004/2005,2004
+Aaron Hunt,Attacking Midfield,1986-09-04,17,Germany,SV Werder Bremen,Bundesliga,2004/2005,2004
+Marco Stier,Left Winger,NA,20,Germany,SV Werder Bremen,Bundesliga,2004/2005,2004
+Mohamed Zidan,Second Striker,1981-12-11,22,Egypt,SV Werder Bremen,Bundesliga,2004/2005,2004
+Angelos Charisteas,Centre-Forward,1980-02-09,24,Greece,SV Werder Bremen,Bundesliga,2004/2005,2004
+Miroslav Klose,Centre-Forward,1978-06-09,26,Germany,SV Werder Bremen,Bundesliga,2004/2005,2004
+Ivan Klasnic,Centre-Forward,1980-01-29,24,Croatia,SV Werder Bremen,Bundesliga,2004/2005,2004
+Nelson Valdez,Centre-Forward,1983-11-28,20,Paraguay,SV Werder Bremen,Bundesliga,2004/2005,2004
+Tim Wiese,Goalkeeper,1981-12-17,22,Germany,1.FC Kaiserslautern,Bundesliga,2004/2005,2004
+Jürgen Macho,Goalkeeper,1977-08-24,26,Austria,1.FC Kaiserslautern,Bundesliga,2004/2005,2004
+Thomas Ernst,Goalkeeper,1967-12-23,36,Germany,1.FC Kaiserslautern,Bundesliga,2004/2005,2004
+Florian Fromlowitz,Goalkeeper,1986-07-02,17,Germany,1.FC Kaiserslautern,Bundesliga,2004/2005,2004
+Hervé Nzelo-Lembi,Centre-Back,1975-08-25,28,DR Congo,1.FC Kaiserslautern,Bundesliga,2004/2005,2004
+Timo Wenzel,Centre-Back,1977-11-30,26,Germany,1.FC Kaiserslautern,Bundesliga,2004/2005,2004
+Ingo Hertzsch,Centre-Back,1977-07-22,26,Germany,1.FC Kaiserslautern,Bundesliga,2004/2005,2004
+Hany Ramzy,Centre-Back,1969-03-10,35,Egypt,1.FC Kaiserslautern,Bundesliga,2004/2005,2004
+Matthias Henn,Centre-Back,1985-04-28,19,Germany,1.FC Kaiserslautern,Bundesliga,2004/2005,2004
+Lucién Mettomo,Centre-Back,1977-04-19,27,Cameroon,1.FC Kaiserslautern,Bundesliga,2004/2005,2004
+Bill Tchato,Left-Back,1975-05-14,29,Cameroon,1.FC Kaiserslautern,Bundesliga,2004/2005,2004
+Stefan Blank,Left-Back,1977-03-10,27,Germany,1.FC Kaiserslautern,Bundesliga,2004/2005,2004
+Thomas Drescher,Left-Back,1978-11-24,25,Germany,1.FC Kaiserslautern,Bundesliga,2004/2005,2004
+Christian Nerlinger,Defensive Midfield,1973-03-21,31,Germany,1.FC Kaiserslautern,Bundesliga,2004/2005,2004
+Dimitrios Grammozis,Defensive Midfield,1978-07-08,25,Greece,1.FC Kaiserslautern,Bundesliga,2004/2005,2004
+Marco Engelhardt,Defensive Midfield,1980-12-02,23,Germany,1.FC Kaiserslautern,Bundesliga,2004/2005,2004
+Thomas Riedl,Defensive Midfield,1976-06-18,28,Germany,1.FC Kaiserslautern,Bundesliga,2004/2005,2004
+Michael Lehmann,Defensive Midfield,1984-10-16,19,Germany,1.FC Kaiserslautern,Bundesliga,2004/2005,2004
+Daniel Damm,Defensive Midfield,1981-12-02,22,Germany,1.FC Kaiserslautern,Bundesliga,2004/2005,2004
+Patrick Wittich,Defensive Midfield,NA,21,Germany,1.FC Kaiserslautern,Bundesliga,2004/2005,2004
+Ciriaco Sforza,Central Midfield,1970-03-02,34,Switzerland,1.FC Kaiserslautern,Bundesliga,2004/2005,2004
+Jürgen Gjasula,Central Midfield,1985-12-05,18,Albania,1.FC Kaiserslautern,Bundesliga,2004/2005,2004
+Selim Teber,Central Midfield,1981-03-07,23,Germany,1.FC Kaiserslautern,Bundesliga,2004/2005,2004
+Mihael Mikic,Right Midfield,1980-01-06,24,Croatia,1.FC Kaiserslautern,Bundesliga,2004/2005,2004
+Mika Nurmela,Right Midfield,1971-12-26,32,Finland,1.FC Kaiserslautern,Bundesliga,2004/2005,2004
+Kamil Kosowski,Left Midfield,1977-08-30,26,Poland,1.FC Kaiserslautern,Bundesliga,2004/2005,2004
+Ferydoon Zandi,Attacking Midfield,1979-04-26,25,Iran,1.FC Kaiserslautern,Bundesliga,2004/2005,2004
+Halil Altintop,Attacking Midfield,1982-12-08,21,Turkey,1.FC Kaiserslautern,Bundesliga,2004/2005,2004
+Jochen Seitz,Left Winger,1976-10-11,27,Germany,1.FC Kaiserslautern,Bundesliga,2004/2005,2004
+Christian Timm,Right Winger,1979-02-27,25,Germany,1.FC Kaiserslautern,Bundesliga,2004/2005,2004
+Carsten Jancker,Centre-Forward,1974-08-28,29,Germany,1.FC Kaiserslautern,Bundesliga,2004/2005,2004
+Ioannis Amanatidis,Centre-Forward,1981-12-03,22,Greece,1.FC Kaiserslautern,Bundesliga,2004/2005,2004
+Mathias Hain,Goalkeeper,1972-12-31,31,Germany,Arminia Bielefeld,Bundesliga,2004/2005,2004
+Dennis Eilhoff,Goalkeeper,1982-07-31,21,Germany,Arminia Bielefeld,Bundesliga,2004/2005,2004
+Ronny Kockel,Goalkeeper,NA,28,Germany,Arminia Bielefeld,Bundesliga,2004/2005,2004
+Márcio Borges,Centre-Back,1973-01-20,31,Brazil,Arminia Bielefeld,Bundesliga,2004/2005,2004
+Petr Gabriel,Centre-Back,1973-05-17,31,Czech Republic,Arminia Bielefeld,Bundesliga,2004/2005,2004
+Daniel Bogusz,Centre-Back,1974-09-21,29,Poland,Arminia Bielefeld,Bundesliga,2004/2005,2004
+Bernd Rauw,Centre-Back,1980-01-08,24,Belgium,Arminia Bielefeld,Bundesliga,2004/2005,2004
+Matthias Langkamp,Centre-Back,1984-02-24,20,Germany,Arminia Bielefeld,Bundesliga,2004/2005,2004
+Tomasz Wisio,Centre-Back,1982-01-20,22,Poland,Arminia Bielefeld,Bundesliga,2004/2005,2004
+Markus Schuler,Left-Back,1977-08-01,26,Germany,Arminia Bielefeld,Bundesliga,2004/2005,2004
+Benjamin Lense,Right-Back,1978-11-30,25,Germany,Arminia Bielefeld,Bundesliga,2004/2005,2004
+Patrick Owomoyela,Right-Back,1979-11-05,24,Germany,Arminia Bielefeld,Bundesliga,2004/2005,2004
+Finn Holsing,Right-Back,1983-08-09,20,Germany,Arminia Bielefeld,Bundesliga,2004/2005,2004
+Renato Bernardi Bauer,Midfielder,1978-05-26,26,Brazil,Arminia Bielefeld,Bundesliga,2004/2005,2004
+Rüdiger Kauf,Defensive Midfield,1975-03-01,29,Germany,Arminia Bielefeld,Bundesliga,2004/2005,2004
+Detlev Dammeier,Defensive Midfield,NA,35,Germany,Arminia Bielefeld,Bundesliga,2004/2005,2004
+Vanco Trajanov,Defensive Midfield,1978-08-09,25,North Macedonia,Arminia Bielefeld,Bundesliga,2004/2005,2004
+Michael Fink,Defensive Midfield,1982-02-01,22,Germany,Arminia Bielefeld,Bundesliga,2004/2005,2004
+Massimilian Porcello,Central Midfield,1980-06-23,24,Germany,Arminia Bielefeld,Bundesliga,2004/2005,2004
+Roberto Pinto,Right Midfield,1978-08-22,25,Portugal,Arminia Bielefeld,Bundesliga,2004/2005,2004
+Philipp Heithölter,Left Midfield,1982-08-28,21,Germany,Arminia Bielefeld,Bundesliga,2004/2005,2004
+Henning Grieneisen,Left Midfield,1984-09-09,19,Germany,Arminia Bielefeld,Bundesliga,2004/2005,2004
+Fatmir Vata,Attacking Midfield,1971-09-20,32,Albania,Arminia Bielefeld,Bundesliga,2004/2005,2004
+Ervin Skela,Attacking Midfield,1976-11-17,27,Albania,Arminia Bielefeld,Bundesliga,2004/2005,2004
+Klodian Duro,Attacking Midfield,1977-12-21,26,Albania,Arminia Bielefeld,Bundesliga,2004/2005,2004
+Diego León,Attacking Midfield,1984-01-16,20,Spain,Arminia Bielefeld,Bundesliga,2004/2005,2004
+Christian Wieczorek,Attacking Midfield,1985-12-09,18,Germany,Arminia Bielefeld,Bundesliga,2004/2005,2004
+Delron Buckley,Left Winger,1977-12-07,26,South Africa,Arminia Bielefeld,Bundesliga,2004/2005,2004
+Ferhat Cerci,Left Winger,NA,22,Germany,Arminia Bielefeld,Bundesliga,2004/2005,2004
+Claudiu Raducanu,Centre-Forward,1976-12-03,27,Romania,Arminia Bielefeld,Bundesliga,2004/2005,2004
+Marco Küntzel,Centre-Forward,1976-01-22,28,Germany,Arminia Bielefeld,Bundesliga,2004/2005,2004
+Isaac Boakye,Centre-Forward,1981-11-26,22,Ghana,Arminia Bielefeld,Bundesliga,2004/2005,2004
+Radomir Djalovic,Centre-Forward,1982-10-29,21,Montenegro,Arminia Bielefeld,Bundesliga,2004/2005,2004
+Marijo Maric,Centre-Forward,1977-01-12,27,Croatia,Arminia Bielefeld,Bundesliga,2004/2005,2004
+Engin Yildiz,Centre-Forward,1986-03-05,18,Germany,Arminia Bielefeld,Bundesliga,2004/2005,2004
+Gerhard Tremmel,Goalkeeper,1978-11-16,25,Germany,Hertha BSC,Bundesliga,2004/2005,2004
+Christian Fiedler,Goalkeeper,1975-03-27,29,Germany,Hertha BSC,Bundesliga,2004/2005,2004
+Arne Friedrich,Centre-Back,1979-05-29,25,Germany,Hertha BSC,Bundesliga,2004/2005,2004
+Dick van Burik,Centre-Back,1973-11-29,30,Netherlands,Hertha BSC,Bundesliga,2004/2005,2004
+Josip Simunic,Centre-Back,1978-02-18,26,Croatia,Hertha BSC,Bundesliga,2004/2005,2004
+Alexander Madlung,Centre-Back,1982-07-11,21,Germany,Hertha BSC,Bundesliga,2004/2005,2004
+Dennis Cagara,Left-Back,1985-02-19,19,Philippines,Hertha BSC,Bundesliga,2004/2005,2004
+Pascal Bieler,Left-Back,1986-02-26,18,Germany,Hertha BSC,Bundesliga,2004/2005,2004
+Sofian Chahed,Right-Back,1983-04-18,21,Tunisia,Hertha BSC,Bundesliga,2004/2005,2004
+Marko Rehmer,Right-Back,1972-04-29,32,Germany,Hertha BSC,Bundesliga,2004/2005,2004
+Niko Kovac,Defensive Midfield,1971-10-15,32,Croatia,Hertha BSC,Bundesliga,2004/2005,2004
+Pál Dárdai,Defensive Midfield,1976-03-16,28,Hungary,Hertha BSC,Bundesliga,2004/2005,2004
+Andreas Schmidt,Defensive Midfield,1973-09-14,30,Germany,Hertha BSC,Bundesliga,2004/2005,2004
+Oliver Schröder,Defensive Midfield,1980-06-11,24,Germany,Hertha BSC,Bundesliga,2004/2005,2004
+Thorben Marx,Defensive Midfield,1981-06-01,23,Germany,Hertha BSC,Bundesliga,2004/2005,2004
+Gilberto,Central Midfield,1976-04-25,28,Brazil,Hertha BSC,Bundesliga,2004/2005,2004
+Andreas Neuendorf,Central Midfield,1975-02-09,29,Germany,Hertha BSC,Bundesliga,2004/2005,2004
+Alexander Ludwig,Central Midfield,1984-01-31,20,Germany,Hertha BSC,Bundesliga,2004/2005,2004
+Malik Fathi,Central Midfield,1983-10-29,20,Germany,Hertha BSC,Bundesliga,2004/2005,2004
+Sejad Salihovic,Central Midfield,1984-10-08,19,Bosnia-Herzegovina,Hertha BSC,Bundesliga,2004/2005,2004
+Michael Hartmann,Left Midfield,1974-07-11,29,Germany,Hertha BSC,Bundesliga,2004/2005,2004
+Yildiray Bastürk,Attacking Midfield,1978-12-24,25,Turkey,Hertha BSC,Bundesliga,2004/2005,2004
+Marcelinho Paraíba,Attacking Midfield,1975-05-17,29,Brazil,Hertha BSC,Bundesliga,2004/2005,2004
+Christian Müller,Attacking Midfield,1984-02-28,20,Germany,Hertha BSC,Bundesliga,2004/2005,2004
+Giuseppe Reina,Right Winger,1972-04-15,32,Germany,Hertha BSC,Bundesliga,2004/2005,2004
+Ashkan Dejagah,Right Winger,1986-07-05,17,Iran,Hertha BSC,Bundesliga,2004/2005,2004
+Fredi Bobic,Centre-Forward,1971-10-30,32,Germany,Hertha BSC,Bundesliga,2004/2005,2004
+Artur Wichniarek,Centre-Forward,1977-02-28,27,Poland,Hertha BSC,Bundesliga,2004/2005,2004
+Nando Rafael,Centre-Forward,1984-01-10,20,Angola,Hertha BSC,Bundesliga,2004/2005,2004
+Ilhan Mansiz,Centre-Forward,1975-08-10,28,Turkey,Hertha BSC,Bundesliga,2004/2005,2004

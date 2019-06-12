@@ -1,0 +1,621 @@
+player_name,position,date_of_birth,age,nationality,club_name,league_name,season,year
+Grégory Coupet,Goalkeeper,1972-12-31,31,France,Olympique Lyon,Ligue 1,2004/2005,2004
+Joan Hartock,Goalkeeper,1987-02-17,17,Martinique,Olympique Lyon,Ligue 1,2004/2005,2004
+Nicolas Puydebois,Goalkeeper,1981-02-28,23,France,Olympique Lyon,Ligue 1,2004/2005,2004
+Cris,Centre-Back,1977-06-03,27,Brazil,Olympique Lyon,Ligue 1,2004/2005,2004
+Caçapa,Centre-Back,1976-05-29,28,Brazil,Olympique Lyon,Ligue 1,2004/2005,2004
+Lamine Diatta,Centre-Back,1975-07-02,28,Senegal,Olympique Lyon,Ligue 1,2004/2005,2004
+Éric Abidal,Left-Back,1979-09-11,24,France,Olympique Lyon,Ligue 1,2004/2005,2004
+Jérémy Berthod,Left-Back,1984-04-24,20,France,Olympique Lyon,Ligue 1,2004/2005,2004
+Anthony Réveillère,Right-Back,1979-11-10,24,France,Olympique Lyon,Ligue 1,2004/2005,2004
+Johann Truchet,Right-Back,1983-08-16,20,France,Olympique Lyon,Ligue 1,2004/2005,2004
+Michael Essien,Defensive Midfield,1982-12-03,21,Ghana,Olympique Lyon,Ligue 1,2004/2005,2004
+Mahamadou Diarra,Defensive Midfield,1981-05-18,23,Mali,Olympique Lyon,Ligue 1,2004/2005,2004
+Jérémy Clément,Defensive Midfield,1984-08-26,19,France,Olympique Lyon,Ligue 1,2004/2005,2004
+Yohann Gomez,Defensive Midfield,1981-09-25,22,France,Olympique Lyon,Ligue 1,2004/2005,2004
+Florent Balmont,Central Midfield,1980-02-02,24,France,Olympique Lyon,Ligue 1,2004/2005,2004
+Yacine Hima,Central Midfield,1984-03-25,20,Algeria,Olympique Lyon,Ligue 1,2004/2005,2004
+Juninho Pernambucano,Attacking Midfield,1975-01-30,29,Brazil,Olympique Lyon,Ligue 1,2004/2005,2004
+Bryan Bergougnoux,Attacking Midfield,1983-01-12,21,France,Olympique Lyon,Ligue 1,2004/2005,2004
+Hatem Ben Arfa,Attacking Midfield,1987-03-07,17,France,Olympique Lyon,Ligue 1,2004/2005,2004
+Florent Malouda,Left Winger,1980-06-13,24,French Guiana,Olympique Lyon,Ligue 1,2004/2005,2004
+Sylvain Idangar,Left Winger,1984-03-08,20,Chad,Olympique Lyon,Ligue 1,2004/2005,2004
+Sidney Govou,Right Winger,1979-07-27,24,France,Olympique Lyon,Ligue 1,2004/2005,2004
+Sylvain Wiltord,Second Striker,1974-05-10,30,France,Olympique Lyon,Ligue 1,2004/2005,2004
+Giovane Elber,Centre-Forward,1972-07-23,31,Brazil,Olympique Lyon,Ligue 1,2004/2005,2004
+Nilmar,Centre-Forward,1984-07-14,19,Brazil,Olympique Lyon,Ligue 1,2004/2005,2004
+Pierre-Alain Frau,Centre-Forward,1980-04-15,24,France,Olympique Lyon,Ligue 1,2004/2005,2004
+Julien Viale,Centre-Forward,1982-02-13,22,France,Olympique Lyon,Ligue 1,2004/2005,2004
+Karim Benzema,Centre-Forward,1987-12-19,16,France,Olympique Lyon,Ligue 1,2004/2005,2004
+Lionel Létizi,Goalkeeper,1973-05-28,31,France,Paris Saint-Germain,Ligue 1,2004/2005,2004
+Jérôme Alonzo,Goalkeeper,1972-11-20,31,France,Paris Saint-Germain,Ligue 1,2004/2005,2004
+Mohamed Benhamou,Goalkeeper,1979-12-17,24,Algeria,Paris Saint-Germain,Ligue 1,2004/2005,2004
+Nicolas Cousin,Goalkeeper,1985-07-11,18,France,Paris Saint-Germain,Ligue 1,2004/2005,2004
+Mario Yepes,Centre-Back,1976-01-13,28,Colombia,Paris Saint-Germain,Ligue 1,2004/2005,2004
+Lorik Cana,Centre-Back,1983-07-27,20,Albania,Paris Saint-Germain,Ligue 1,2004/2005,2004
+Hélder Cristóvão,Centre-Back,1971-03-21,33,Portugal,Paris Saint-Germain,Ligue 1,2004/2005,2004
+Sylvain Armand,Centre-Back,1980-08-01,23,France,Paris Saint-Germain,Ligue 1,2004/2005,2004
+José-Karl Pierre-Fanfan,Centre-Back,1975-07-26,28,Martinique,Paris Saint-Germain,Ligue 1,2004/2005,2004
+Jean-Michel Badiane,Centre-Back,1983-05-09,21,France,Paris Saint-Germain,Ligue 1,2004/2005,2004
+Ahmed Kantari,Centre-Back,1985-06-28,19,Morocco,Paris Saint-Germain,Ligue 1,2004/2005,2004
+Sol Bamba,Centre-Back,1985-01-13,19,Cote d'Ivoire,Paris Saint-Germain,Ligue 1,2004/2005,2004
+Jean-Hugues Ateba,Left-Back,1981-09-01,22,Cameroon,Paris Saint-Germain,Ligue 1,2004/2005,2004
+Stéphane Pichot,Right-Back,1976-09-02,27,France,Paris Saint-Germain,Ligue 1,2004/2005,2004
+Bernard Mendy,Right-Back,1981-08-20,22,France,Paris Saint-Germain,Ligue 1,2004/2005,2004
+Hocine Ragued,Defensive Midfield,1983-02-11,21,Tunisia,Paris Saint-Germain,Ligue 1,2004/2005,2004
+Édouard Cissé,Defensive Midfield,1978-03-30,26,France,Paris Saint-Germain,Ligue 1,2004/2005,2004
+Clément Chantôme,Defensive Midfield,1987-09-11,16,France,Paris Saint-Germain,Ligue 1,2004/2005,2004
+Modeste M'Bami,Defensive Midfield,1982-10-09,21,Cameroon,Paris Saint-Germain,Ligue 1,2004/2005,2004
+Branko Boskovic,Central Midfield,1980-06-21,24,Montenegro,Paris Saint-Germain,Ligue 1,2004/2005,2004
+Sergey Semak,Central Midfield,1976-02-27,28,Russia,Paris Saint-Germain,Ligue 1,2004/2005,2004
+Jérôme Rothen,Left Midfield,1978-03-31,26,France,Paris Saint-Germain,Ligue 1,2004/2005,2004
+Rudy Haddad,Attacking Midfield,1985-02-05,19,Israel,Paris Saint-Germain,Ligue 1,2004/2005,2004
+Selim Benachour,Attacking Midfield,1981-09-08,22,Tunisia,Paris Saint-Germain,Ligue 1,2004/2005,2004
+Charles-Edouard Coridon,Attacking Midfield,1973-04-09,31,Martinique,Paris Saint-Germain,Ligue 1,2004/2005,2004
+Fabrice Pancrate,Right Winger,1980-05-02,24,France,Paris Saint-Germain,Ligue 1,2004/2005,2004
+Alioune Touré,Right Winger,1978-09-09,25,France,Paris Saint-Germain,Ligue 1,2004/2005,2004
+Fabrice Fiorèse,Right Winger,1975-07-26,28,France,Paris Saint-Germain,Ligue 1,2004/2005,2004
+Filipe Teixeira,Right Winger,1980-10-02,23,Portugal,Paris Saint-Germain,Ligue 1,2004/2005,2004
+Reinaldo,Centre-Forward,1979-03-14,25,Brazil,Paris Saint-Germain,Ligue 1,2004/2005,2004
+Pauleta,Centre-Forward,1973-04-28,31,Portugal,Paris Saint-Germain,Ligue 1,2004/2005,2004
+Bartholomew Ogbeche,Centre-Forward,1984-10-01,19,Nigeria,Paris Saint-Germain,Ligue 1,2004/2005,2004
+Vedad Ibisevic,Centre-Forward,1984-08-06,19,Bosnia-Herzegovina,Paris Saint-Germain,Ligue 1,2004/2005,2004
+Danijel Ljuboja,Centre-Forward,1978-09-04,25,Serbia,Paris Saint-Germain,Ligue 1,2004/2005,2004
+André Biancarelli,Goalkeeper,1970-03-11,34,France,AS Monaco,Ligue 1,2004/2005,2004
+Fabien Audard,Goalkeeper,1978-03-28,26,France,AS Monaco,Ligue 1,2004/2005,2004
+Flavio Roma,Goalkeeper,1974-06-21,30,Italy,AS Monaco,Ligue 1,2004/2005,2004
+François Modesto,Centre-Back,1978-08-19,25,France,AS Monaco,Ligue 1,2004/2005,2004
+Joseph Dayo Oshadogan,Centre-Back,1976-06-27,28,Italy,AS Monaco,Ligue 1,2004/2005,2004
+Sébastien Squillaci,Centre-Back,1980-08-11,23,France,AS Monaco,Ligue 1,2004/2005,2004
+Arnaud Lescure,Centre-Back,1986-02-13,18,France,AS Monaco,Ligue 1,2004/2005,2004
+Massamba Sambou,Centre-Back,1986-09-17,17,Senegal,AS Monaco,Ligue 1,2004/2005,2004
+Marko Muslin,Centre-Back,1985-06-17,19,France,AS Monaco,Ligue 1,2004/2005,2004
+Julien Rodriguez,Centre-Back,1978-06-11,26,France,AS Monaco,Ligue 1,2004/2005,2004
+Gaël Givet,Centre-Back,1981-10-09,22,France,AS Monaco,Ligue 1,2004/2005,2004
+Patrice Evra,Left-Back,1981-05-15,23,France,AS Monaco,Ligue 1,2004/2005,2004
+Olivier Veigneau,Left-Back,1985-07-16,18,France,AS Monaco,Ligue 1,2004/2005,2004
+Marco Ramos,Left-Back,1983-04-26,21,Portugal,AS Monaco,Ligue 1,2004/2005,2004
+Hassan El Fakiri,Left-Back,1977-04-18,27,Norway,AS Monaco,Ligue 1,2004/2005,2004
+Maicon,Right-Back,1981-07-26,22,Brazil,AS Monaco,Ligue 1,2004/2005,2004
+Diego Pérez,Defensive Midfield,1980-05-18,24,Uruguay,AS Monaco,Ligue 1,2004/2005,2004
+Akis Zikos,Defensive Midfield,1974-06-01,30,Greece,AS Monaco,Ligue 1,2004/2005,2004
+Jimmy Juan,Central Midfield,1983-06-10,21,France,AS Monaco,Ligue 1,2004/2005,2004
+Jaroslav Plasil,Central Midfield,1982-01-05,22,Czech Republic,AS Monaco,Ligue 1,2004/2005,2004
+Lucas Bernardi,Central Midfield,1977-09-27,26,Argentina,AS Monaco,Ligue 1,2004/2005,2004
+Pontus Farnerud,Central Midfield,1980-06-04,24,Sweden,AS Monaco,Ligue 1,2004/2005,2004
+Antoine Grauss,Left Midfield,1984-08-03,19,France,AS Monaco,Ligue 1,2004/2005,2004
+Nicolas Maurice-Belay,Left Winger,1985-04-19,19,France,AS Monaco,Ligue 1,2004/2005,2004
+Grégory Lacombe,Right Winger,1982-01-11,22,France,AS Monaco,Ligue 1,2004/2005,2004
+Souleymane Camara,Right Winger,1982-12-22,21,Senegal,AS Monaco,Ligue 1,2004/2005,2004
+Javier Saviola,Second Striker,1981-12-11,22,Argentina,AS Monaco,Ligue 1,2004/2005,2004
+Mohamed Kallon,Centre-Forward,1979-10-06,24,Sierra Leone,AS Monaco,Ligue 1,2004/2005,2004
+Javier Chevantón,Centre-Forward,1980-08-12,23,Uruguay,AS Monaco,Ligue 1,2004/2005,2004
+Shabani Nonda,Centre-Forward,1977-03-06,27,DR Congo,AS Monaco,Ligue 1,2004/2005,2004
+David Gigliotti,Centre-Forward,1985-05-30,19,France,AS Monaco,Ligue 1,2004/2005,2004
+Emmanuel Adebayor,Centre-Forward,1984-02-26,20,Togo,AS Monaco,Ligue 1,2004/2005,2004
+Benoît Tardieu,Goalkeeper,1986-01-21,18,Benin,AJ Auxerre,Ligue 1,2004/2005,2004
+Fabien Cool,Goalkeeper,1972-08-30,31,France,AJ Auxerre,Ligue 1,2004/2005,2004
+Sébastien Hamel,Goalkeeper,1975-11-20,28,France,AJ Auxerre,Ligue 1,2004/2005,2004
+Baptiste Chabert,Goalkeeper,1983-04-07,21,France,AJ Auxerre,Ligue 1,2004/2005,2004
+Aurélien Chedjou,Centre-Back,1985-06-20,19,Cameroon,AJ Auxerre,Ligue 1,2004/2005,2004
+Guillaume Lecacheur,Centre-Back,1982-08-02,21,France,AJ Auxerre,Ligue 1,2004/2005,2004
+Stéphane Grichting,Centre-Back,1979-03-30,25,Switzerland,AJ Auxerre,Ligue 1,2004/2005,2004
+Jean-Pascal Mignot,Centre-Back,1981-02-26,23,France,AJ Auxerre,Ligue 1,2004/2005,2004
+René Bolf,Centre-Back,1974-02-25,30,Czech Republic,AJ Auxerre,Ligue 1,2004/2005,2004
+David Recorbet,Centre-Back,1976-10-24,27,France,AJ Auxerre,Ligue 1,2004/2005,2004
+Younès Kaboul,Centre-Back,1986-01-04,18,France,AJ Auxerre,Ligue 1,2004/2005,2004
+Mamoutou Coulibaly,Centre-Back,1984-02-23,20,Mali,AJ Auxerre,Ligue 1,2004/2005,2004
+Michaël Ciani,Centre-Back,1984-04-06,20,France,AJ Auxerre,Ligue 1,2004/2005,2004
+Baptiste Martin,Centre-Back,1985-05-14,19,France,AJ Auxerre,Ligue 1,2004/2005,2004
+Jean-Sébastien Jaurès,Left-Back,1977-09-30,26,France,AJ Auxerre,Ligue 1,2004/2005,2004
+Pierre Vignaud,Left-Back,1983-03-10,21,France,AJ Auxerre,Ligue 1,2004/2005,2004
+Johan Radet,Right-Back,1976-11-24,27,France,AJ Auxerre,Ligue 1,2004/2005,2004
+Richard Suriano,Right-Back,1982-01-28,22,France,AJ Auxerre,Ligue 1,2004/2005,2004
+Bacary Sagna,Right-Back,1983-02-14,21,France,AJ Auxerre,Ligue 1,2004/2005,2004
+David Vandenbossche,Midfielder,1980-09-27,23,France,AJ Auxerre,Ligue 1,2004/2005,2004
+Philippe Violeau,Defensive Midfield,1970-09-19,33,France,AJ Auxerre,Ligue 1,2004/2005,2004
+Benoît Cheyrou,Defensive Midfield,1981-05-03,23,France,AJ Auxerre,Ligue 1,2004/2005,2004
+Teemu Tainio,Defensive Midfield,1979-11-27,24,Finland,AJ Auxerre,Ligue 1,2004/2005,2004
+Lionel Mathis,Defensive Midfield,1981-10-04,22,France,AJ Auxerre,Ligue 1,2004/2005,2004
+Damien Dufour,Central Midfield,1981-10-30,22,France,AJ Auxerre,Ligue 1,2004/2005,2004
+Hassan Yebda,Central Midfield,1984-05-14,20,Algeria,AJ Auxerre,Ligue 1,2004/2005,2004
+Abou Diaby,Central Midfield,1986-05-11,18,France,AJ Auxerre,Ligue 1,2004/2005,2004
+Kevin Lejeune,Left Midfield,1985-01-22,19,France,AJ Auxerre,Ligue 1,2004/2005,2004
+Irélé Apo,Attacking Midfield,1987-01-16,17,Benin,AJ Auxerre,Ligue 1,2004/2005,2004
+Yann Lachuer,Attacking Midfield,1972-08-05,31,France,AJ Auxerre,Ligue 1,2004/2005,2004
+Ludovic Genest,Attacking Midfield,1987-09-18,16,France,AJ Auxerre,Ligue 1,2004/2005,2004
+Pascal Vahirua,Left Winger,1966-03-09,38,France,AJ Auxerre,Ligue 1,2004/2005,2004
+Kanga Akalé,Left Winger,1981-03-07,23,Cote d'Ivoire,AJ Auxerre,Ligue 1,2004/2005,2004
+Bonaventure Kalou,Right Winger,1978-01-12,26,Cote d'Ivoire,AJ Auxerre,Ligue 1,2004/2005,2004
+Luigi Pieroni,Centre-Forward,1980-09-08,23,Belgium,AJ Auxerre,Ligue 1,2004/2005,2004
+Arnaud Gonzalez,Centre-Forward,1977-08-24,26,France,AJ Auxerre,Ligue 1,2004/2005,2004
+Benjani,Centre-Forward,1978-08-13,25,Zimbabwe,AJ Auxerre,Ligue 1,2004/2005,2004
+Gérard Gnanhouan,Goalkeeper,1979-02-12,25,Cote d'Ivoire,FC Sochaux-Montbéliard,Ligue 1,2004/2005,2004
+Teddy Richert,Goalkeeper,1974-09-21,29,France,FC Sochaux-Montbéliard,Ligue 1,2004/2005,2004
+Alexandre Martinovic,Goalkeeper,1985-05-31,19,France,FC Sochaux-Montbéliard,Ligue 1,2004/2005,2004
+Aimé Lavie,Defender,1984-12-07,19,France,FC Sochaux-Montbéliard,Ligue 1,2004/2005,2004
+Maxence Flachez,Centre-Back,1972-08-05,31,France,FC Sochaux-Montbéliard,Ligue 1,2004/2005,2004
+Ibrahim Tall,Centre-Back,1981-06-23,23,Senegal,FC Sochaux-Montbéliard,Ligue 1,2004/2005,2004
+Sylvain Monsoreau,Centre-Back,1981-03-20,23,France,FC Sochaux-Montbéliard,Ligue 1,2004/2005,2004
+Souleymane Diawara,Centre-Back,1978-12-24,25,Senegal,FC Sochaux-Montbéliard,Ligue 1,2004/2005,2004
+Jérémy Mathieu,Centre-Back,1983-10-29,20,France,FC Sochaux-Montbéliard,Ligue 1,2004/2005,2004
+Grégory Paisley,Left-Back,1977-05-07,27,France,FC Sochaux-Montbéliard,Ligue 1,2004/2005,2004
+Lionel Potillon,Left-Back,1974-02-10,30,France,FC Sochaux-Montbéliard,Ligue 1,2004/2005,2004
+Ahmed Samir Farag,Left-Back,1986-05-20,18,Egypt,FC Sochaux-Montbéliard,Ligue 1,2004/2005,2004
+Cédric Rey,Left-Back,1984-08-25,19,France,FC Sochaux-Montbéliard,Ligue 1,2004/2005,2004
+Omar Daf,Right-Back,1977-02-12,27,Senegal,FC Sochaux-Montbéliard,Ligue 1,2004/2005,2004
+Maxime Josse,Right-Back,1987-03-21,17,France,FC Sochaux-Montbéliard,Ligue 1,2004/2005,2004
+Fabien Boudarène,Defensive Midfield,1978-10-05,25,France,FC Sochaux-Montbéliard,Ligue 1,2004/2005,2004
+Romain Pitau,Defensive Midfield,1977-08-08,26,France,FC Sochaux-Montbéliard,Ligue 1,2004/2005,2004
+Guirane N'Daw,Defensive Midfield,1984-04-24,20,Senegal,FC Sochaux-Montbéliard,Ligue 1,2004/2005,2004
+Johann Lonfat,Right Midfield,1973-03-11,31,Switzerland,FC Sochaux-Montbéliard,Ligue 1,2004/2005,2004
+Jaouad Zairi,Right Midfield,1982-04-17,22,Morocco,FC Sochaux-Montbéliard,Ligue 1,2004/2005,2004
+Sigamary Diarra,Left Midfield,1984-01-10,20,Mali,FC Sochaux-Montbéliard,Ligue 1,2004/2005,2004
+Wilson Oruma,Attacking Midfield,1976-12-30,27,Nigeria,FC Sochaux-Montbéliard,Ligue 1,2004/2005,2004
+Marcelo Luis Trapasso,Attacking Midfield,1976-04-30,28,Argentina,FC Sochaux-Montbéliard,Ligue 1,2004/2005,2004
+Mickaël Isabey,Right Winger,1975-02-20,29,France,FC Sochaux-Montbéliard,Ligue 1,2004/2005,2004
+Jérémy Ménez,Second Striker,1987-05-07,17,France,FC Sochaux-Montbéliard,Ligue 1,2004/2005,2004
+Mohamed Kader,Centre-Forward,1979-04-08,25,Togo,FC Sochaux-Montbéliard,Ligue 1,2004/2005,2004
+Ilan,Centre-Forward,1980-09-18,23,Brazil,FC Sochaux-Montbéliard,Ligue 1,2004/2005,2004
+Santos,Centre-Forward,1979-03-20,25,Tunisia,FC Sochaux-Montbéliard,Ligue 1,2004/2005,2004
+Basile de Carvalho,Centre-Forward,1981-10-31,22,Guinea-Bissau,FC Sochaux-Montbéliard,Ligue 1,2004/2005,2004
+Thomas Régnier,Centre-Forward,1984-03-11,20,France,FC Sochaux-Montbéliard,Ligue 1,2004/2005,2004
+Mickaël Landreau,Goalkeeper,1979-05-14,25,France,FC Nantes,Ligue 1,2004/2005,2004
+Willy Grondin,Goalkeeper,1974-10-12,29,France,FC Nantes,Ligue 1,2004/2005,2004
+Perica Radic,Goalkeeper,1984-03-13,20,Serbia,FC Nantes,Ligue 1,2004/2005,2004
+Alexis Thébaux,Goalkeeper,1985-03-17,19,France,FC Nantes,Ligue 1,2004/2005,2004
+Mauro Cetto,Centre-Back,1982-04-14,22,Argentina,FC Nantes,Ligue 1,2004/2005,2004
+Julio Cáceres,Centre-Back,1979-10-05,24,Paraguay,FC Nantes,Ligue 1,2004/2005,2004
+Pascal Delhommeau,Centre-Back,1978-08-14,25,France,FC Nantes,Ligue 1,2004/2005,2004
+Loïc Guillon,Centre-Back,1982-01-11,22,France,FC Nantes,Ligue 1,2004/2005,2004
+Alexander Viveros,Left-Back,1977-10-08,26,Colombia,FC Nantes,Ligue 1,2004/2005,2004
+Stéphen Drouin,Left-Back,1984-02-27,20,France,FC Nantes,Ligue 1,2004/2005,2004
+Denis Stinat,Left-Back,1983-07-18,20,France,FC Nantes,Ligue 1,2004/2005,2004
+David Leray,Right-Back,1984-03-02,20,France,FC Nantes,Ligue 1,2004/2005,2004
+Mickaël Tavares,Defensive Midfield,1982-10-25,21,Senegal,FC Nantes,Ligue 1,2004/2005,2004
+Mathieu Berson,Defensive Midfield,1980-02-23,24,France,FC Nantes,Ligue 1,2004/2005,2004
+Gilles Yapi,Defensive Midfield,1982-01-30,22,Cote d'Ivoire,FC Nantes,Ligue 1,2004/2005,2004
+Nicolas Savinaud,Defensive Midfield,1975-11-20,28,France,FC Nantes,Ligue 1,2004/2005,2004
+Jérémy Toulalan,Defensive Midfield,1983-09-10,20,France,FC Nantes,Ligue 1,2004/2005,2004
+William Vainqueur,Defensive Midfield,1988-11-19,15,France,FC Nantes,Ligue 1,2004/2005,2004
+Fodil Hadjadj,Defensive Midfield,1983-04-18,21,Algeria,FC Nantes,Ligue 1,2004/2005,2004
+Loïc Pailleres,Defensive Midfield,1980-05-20,24,France,FC Nantes,Ligue 1,2004/2005,2004
+Bocundji Ca,Defensive Midfield,1986-12-28,17,Guinea-Bissau,FC Nantes,Ligue 1,2004/2005,2004
+Emerse Faé,Central Midfield,1984-01-24,20,Cote d'Ivoire,FC Nantes,Ligue 1,2004/2005,2004
+Milos Dimitrijevic,Central Midfield,1984-02-16,20,Serbia,FC Nantes,Ligue 1,2004/2005,2004
+Guillaume Norbert,Right Midfield,1980-10-14,23,France,FC Nantes,Ligue 1,2004/2005,2004
+Goran Rubil,Right Midfield,1981-03-09,23,Croatia,FC Nantes,Ligue 1,2004/2005,2004
+Olivier Quint,Left Midfield,1971-11-29,32,France,FC Nantes,Ligue 1,2004/2005,2004
+Hassan Ahamada,Attacking Midfield,1981-04-13,23,France,FC Nantes,Ligue 1,2004/2005,2004
+Boubacar Baldé,Forward,1986-01-06,18,Guinea,FC Nantes,Ligue 1,2004/2005,2004
+Shiva N'Zigou,Left Winger,1983-10-24,20,Gabon,FC Nantes,Ligue 1,2004/2005,2004
+Aurélien Capoue,Left Winger,1982-02-28,22,Guadeloupe,FC Nantes,Ligue 1,2004/2005,2004
+Frédéric Da Rocha,Right Winger,1974-09-16,29,France,FC Nantes,Ligue 1,2004/2005,2004
+Luigi Glombard,Right Winger,1984-08-21,19,France,FC Nantes,Ligue 1,2004/2005,2004
+Grégory Pujol,Centre-Forward,1980-01-25,24,France,FC Nantes,Ligue 1,2004/2005,2004
+Florin Bratu,Centre-Forward,1980-01-02,24,Romania,FC Nantes,Ligue 1,2004/2005,2004
+Mamadou Diallo,Centre-Forward,1982-04-17,22,Mali,FC Nantes,Ligue 1,2004/2005,2004
+Mamadou Bagayoko,Centre-Forward,1979-05-21,25,Mali,FC Nantes,Ligue 1,2004/2005,2004
+Claudiu Keseru,Centre-Forward,1986-12-02,17,Romania,FC Nantes,Ligue 1,2004/2005,2004
+Fouad Bouguerra,Centre-Forward,1981-05-07,23,Algeria,FC Nantes,Ligue 1,2004/2005,2004
+Fabien Barthez,Goalkeeper,1971-06-28,33,France,Olympique Marseille,Ligue 1,2004/2005,2004
+Jérémy Gavanon,Goalkeeper,1983-09-20,20,France,Olympique Marseille,Ligue 1,2004/2005,2004
+Philippe Christanval,Centre-Back,1978-08-31,25,France,Olympique Marseille,Ligue 1,2004/2005,2004
+Frédéric Déhu,Centre-Back,1972-10-24,31,France,Olympique Marseille,Ligue 1,2004/2005,2004
+Abdoulaye Méïté,Centre-Back,1980-10-06,23,Cote d'Ivoire,Olympique Marseille,Ligue 1,2004/2005,2004
+Johnny Ecker,Centre-Back,1973-01-16,31,France,Olympique Marseille,Ligue 1,2004/2005,2004
+Leyti N'Diaye,Centre-Back,1985-08-19,18,Senegal,Olympique Marseille,Ligue 1,2004/2005,2004
+Taye Taiwo,Left-Back,1985-04-16,19,Nigeria,Olympique Marseille,Ligue 1,2004/2005,2004
+Bixente Lizarazu,Left-Back,1969-12-09,34,France,Olympique Marseille,Ligue 1,2004/2005,2004
+Léo Matos,Right-Back,1986-04-02,18,Brazil,Olympique Marseille,Ligue 1,2004/2005,2004
+Demetrius Ferreira,Right-Back,1974-01-19,30,Brazil,Olympique Marseille,Ligue 1,2004/2005,2004
+Habib Bèye,Right-Back,1977-10-19,26,Senegal,Olympique Marseille,Ligue 1,2004/2005,2004
+Brahim Hemdani,Defensive Midfield,1978-03-15,26,Algeria,Olympique Marseille,Ligue 1,2004/2005,2004
+Benoît Pedretti,Defensive Midfield,1980-11-12,23,France,Olympique Marseille,Ligue 1,2004/2005,2004
+Eduardo Costa,Defensive Midfield,1982-09-23,21,Brazil,Olympique Marseille,Ligue 1,2004/2005,2004
+Sylvain N'Diaye,Defensive Midfield,1976-06-25,28,Senegal,Olympique Marseille,Ligue 1,2004/2005,2004
+Koji Nakata,Defensive Midfield,1979-07-09,24,Japan,Olympique Marseille,Ligue 1,2004/2005,2004
+Bruno Cheyrou,Central Midfield,1978-05-10,26,France,Olympique Marseille,Ligue 1,2004/2005,2004
+Ahmed Yahiaoui,Central Midfield,1987-01-12,17,France,Olympique Marseille,Ligue 1,2004/2005,2004
+Salomon Olembé,Left Midfield,1980-12-08,23,Cameroon,Olympique Marseille,Ligue 1,2004/2005,2004
+Laurent Batlles,Attacking Midfield,1975-09-23,28,France,Olympique Marseille,Ligue 1,2004/2005,2004
+Samir Nasri,Attacking Midfield,1987-06-26,17,France,Olympique Marseille,Ligue 1,2004/2005,2004
+Fabrice Fiorèse,Right Winger,1975-07-26,28,France,Olympique Marseille,Ligue 1,2004/2005,2004
+Habib Bamogo,Second Striker,1982-05-08,22,Burkina Faso,Olympique Marseille,Ligue 1,2004/2005,2004
+Rahmane Barry,Second Striker,1986-08-30,17,Senegal,Olympique Marseille,Ligue 1,2004/2005,2004
+Steve Marlet,Centre-Forward,1974-01-10,30,France,Olympique Marseille,Ligue 1,2004/2005,2004
+Koke,Centre-Forward,1983-04-27,21,Spain,Olympique Marseille,Ligue 1,2004/2005,2004
+Péguy Luyindula,Centre-Forward,1979-05-25,25,France,Olympique Marseille,Ligue 1,2004/2005,2004
+Sébastien Chabbert,Goalkeeper,1978-05-15,26,France,RC Lens,Ligue 1,2004/2005,2004
+Niki Mäenpää,Goalkeeper,1985-01-23,19,Finland,RC Lens,Ligue 1,2004/2005,2004
+Charles Itandje,Goalkeeper,1982-11-02,21,Cameroon,RC Lens,Ligue 1,2004/2005,2004
+Hilton,Centre-Back,1977-09-13,26,Brazil,RC Lens,Ligue 1,2004/2005,2004
+Adama Coulibaly,Centre-Back,1980-09-10,23,Mali,RC Lens,Ligue 1,2004/2005,2004
+Nicolas Gillet,Centre-Back,1976-11-08,27,France,RC Lens,Ligue 1,2004/2005,2004
+Jacek Bak,Centre-Back,1973-03-24,31,Poland,RC Lens,Ligue 1,2004/2005,2004
+Yoann Lachor,Centre-Back,1976-01-17,28,France,RC Lens,Ligue 1,2004/2005,2004
+Stéphane Besle,Centre-Back,1984-01-23,20,France,RC Lens,Ligue 1,2004/2005,2004
+Lesly Malouda,Left-Back,1983-11-16,20,French Guiana,RC Lens,Ligue 1,2004/2005,2004
+Benoît Assou-Ekotto,Left-Back,1984-03-24,20,Cameroon,RC Lens,Ligue 1,2004/2005,2004
+Éric Cubilier,Right-Back,1979-08-09,24,France,RC Lens,Ligue 1,2004/2005,2004
+Jonathan Martins Pereira,Right-Back,1986-01-30,18,France,RC Lens,Ligue 1,2004/2005,2004
+Daouda Jabi,Right-Back,1981-04-10,23,Guinea,RC Lens,Ligue 1,2004/2005,2004
+Patrick Barul,Right-Back,1977-10-03,26,France,RC Lens,Ligue 1,2004/2005,2004
+Martin Ekani,Right-Back,1984-04-21,20,France,RC Lens,Ligue 1,2004/2005,2004
+Alou Diarra,Defensive Midfield,1981-07-15,22,France,RC Lens,Ligue 1,2004/2005,2004
+Seydou Keita,Central Midfield,1980-01-16,24,Mali,RC Lens,Ligue 1,2004/2005,2004
+Olivier Thomert,Left Midfield,1980-05-28,24,Martinique,RC Lens,Ligue 1,2004/2005,2004
+Jérôme Leroy,Attacking Midfield,1974-11-04,29,France,RC Lens,Ligue 1,2004/2005,2004
+Éric Carrière,Attacking Midfield,1973-05-24,31,France,RC Lens,Ligue 1,2004/2005,2004
+Jussiê,Attacking Midfield,1983-09-19,20,Brazil,RC Lens,Ligue 1,2004/2005,2004
+Pape Sarr,Attacking Midfield,1977-12-07,26,Senegal,RC Lens,Ligue 1,2004/2005,2004
+Mounir Diane,Attacking Midfield,1982-05-16,22,Morocco,RC Lens,Ligue 1,2004/2005,2004
+John Utaka,Left Winger,1982-01-08,22,Nigeria,RC Lens,Ligue 1,2004/2005,2004
+Daniel Cousin,Centre-Forward,1977-02-07,27,Gabon,RC Lens,Ligue 1,2004/2005,2004
+Mathieu Bucher,Centre-Forward,1982-02-11,22,France,RC Lens,Ligue 1,2004/2005,2004
+Dagui Bakari,Centre-Forward,1974-09-06,29,Cote d'Ivoire,RC Lens,Ligue 1,2004/2005,2004
+Andreas Isaksson,Goalkeeper,1981-10-03,22,Sweden,Stade Rennais FC,Ligue 1,2004/2005,2004
+Florent Chaigneau,Goalkeeper,1984-03-21,20,France,Stade Rennais FC,Ligue 1,2004/2005,2004
+Simon Pouplin,Goalkeeper,1985-05-28,19,France,Stade Rennais FC,Ligue 1,2004/2005,2004
+Alex Silva,Centre-Back,1985-03-10,19,Brazil,Stade Rennais FC,Ligue 1,2004/2005,2004
+Abdeslam Ouaddou,Centre-Back,1978-11-01,25,Morocco,Stade Rennais FC,Ligue 1,2004/2005,2004
+Adailton,Centre-Back,1983-04-14,21,Brazil,Stade Rennais FC,Ligue 1,2004/2005,2004
+Jacques Faty,Centre-Back,1984-02-25,20,Senegal,Stade Rennais FC,Ligue 1,2004/2005,2004
+Grégory Bourillon,Centre-Back,1984-07-01,20,France,Stade Rennais FC,Ligue 1,2004/2005,2004
+Grégory Tanagro,Centre-Back,1984-06-17,20,France,Stade Rennais FC,Ligue 1,2004/2005,2004
+Arnaud Le Lan,Left-Back,1978-03-22,26,France,Stade Rennais FC,Ligue 1,2004/2005,2004
+Jure Primorac,Left-Back,1981-12-10,22,Croatia,Stade Rennais FC,Ligue 1,2004/2005,2004
+Jean-Joël Perrier-Doumbé,Right-Back,1978-09-27,25,Cameroon,Stade Rennais FC,Ligue 1,2004/2005,2004
+Guillaume Borne,Right-Back,1988-02-12,16,France,Stade Rennais FC,Ligue 1,2004/2005,2004
+Amadou Makhtar N'Diaye,Defensive Midfield,1981-12-31,22,Senegal,Stade Rennais FC,Ligue 1,2004/2005,2004
+Olivier Sorlin,Defensive Midfield,1979-04-09,25,France,Stade Rennais FC,Ligue 1,2004/2005,2004
+Kim Källström,Defensive Midfield,1982-08-24,21,Sweden,Stade Rennais FC,Ligue 1,2004/2005,2004
+Stéphane Mbia,Defensive Midfield,1986-05-20,18,Cameroon,Stade Rennais FC,Ligue 1,2004/2005,2004
+Jonathan Bru,Defensive Midfield,1985-05-02,19,Mauritius,Stade Rennais FC,Ligue 1,2004/2005,2004
+Cyril Jeunechamp,Defensive Midfield,1975-12-18,28,France,Stade Rennais FC,Ligue 1,2004/2005,2004
+Arnold Mvuemba,Defensive Midfield,1985-01-28,19,DR Congo,Stade Rennais FC,Ligue 1,2004/2005,2004
+Dudu Cearense,Central Midfield,1983-04-15,21,Brazil,Stade Rennais FC,Ligue 1,2004/2005,2004
+Étienne Didot,Central Midfield,1983-07-24,20,France,Stade Rennais FC,Ligue 1,2004/2005,2004
+Olivier Monterrubio,Left Midfield,1976-08-08,27,France,Stade Rennais FC,Ligue 1,2004/2005,2004
+Yoann Gourcuff,Attacking Midfield,1986-07-11,17,France,Stade Rennais FC,Ligue 1,2004/2005,2004
+Cédric Barbosa,Left Winger,1976-03-06,28,France,Stade Rennais FC,Ligue 1,2004/2005,2004
+Stéphane N'Guéma,Right Winger,1984-11-20,19,Gabon,Stade Rennais FC,Ligue 1,2004/2005,2004
+Ivica Mornar,Centre-Forward,1974-01-12,30,Croatia,Stade Rennais FC,Ligue 1,2004/2005,2004
+Toifilou Maoulida,Centre-Forward,1979-06-08,25,France,Stade Rennais FC,Ligue 1,2004/2005,2004
+Jimmy Briand,Centre-Forward,1985-08-02,18,France,Stade Rennais FC,Ligue 1,2004/2005,2004
+Alex Frei,Centre-Forward,1979-07-15,24,Switzerland,Stade Rennais FC,Ligue 1,2004/2005,2004
+Moussa Sow,Centre-Forward,1986-01-19,18,Senegal,Stade Rennais FC,Ligue 1,2004/2005,2004
+Yohann Lacroix,Goalkeeper,1985-02-01,19,France,LOSC Lille,Ligue 1,2004/2005,2004
+Tony Sylva,Goalkeeper,1975-05-17,29,Senegal,LOSC Lille,Ligue 1,2004/2005,2004
+Grégory Malicki,Goalkeeper,1973-11-23,30,France,LOSC Lille,Ligue 1,2004/2005,2004
+Laurent Pichon,Goalkeeper,1981-03-08,23,France,LOSC Lille,Ligue 1,2004/2005,2004
+Stathis Tavlaridis,Centre-Back,1980-01-25,24,Greece,LOSC Lille,Ligue 1,2004/2005,2004
+Rafael,Centre-Back,1980-12-17,23,Brazil,LOSC Lille,Ligue 1,2004/2005,2004
+Dante,Centre-Back,1983-10-18,20,Brazil,LOSC Lille,Ligue 1,2004/2005,2004
+Milivoje Vitakic,Centre-Back,1977-05-16,27,Serbia,LOSC Lille,Ligue 1,2004/2005,2004
+Nicolas Plestan,Centre-Back,1981-06-02,23,France,LOSC Lille,Ligue 1,2004/2005,2004
+Grégory Tafforeau,Left-Back,1976-09-29,27,France,LOSC Lille,Ligue 1,2004/2005,2004
+Mathieu Debuchy,Right-Back,1985-07-28,18,France,LOSC Lille,Ligue 1,2004/2005,2004
+Matthieu Chalmé,Right-Back,1980-10-07,23,France,LOSC Lille,Ligue 1,2004/2005,2004
+Benoît Angbwa,Right-Back,1982-01-01,22,Cameroon,LOSC Lille,Ligue 1,2004/2005,2004
+Mathieu Bodmer,Defensive Midfield,1982-11-22,21,France,LOSC Lille,Ligue 1,2004/2005,2004
+Jean II Makoun,Defensive Midfield,1983-05-29,21,Cameroon,LOSC Lille,Ligue 1,2004/2005,2004
+Stéphane Dumont,Defensive Midfield,1982-09-06,21,France,LOSC Lille,Ligue 1,2004/2005,2004
+José Saez,Central Midfield,1982-05-07,22,France,LOSC Lille,Ligue 1,2004/2005,2004
+Yohan Cabaye,Central Midfield,1986-01-14,18,France,LOSC Lille,Ligue 1,2004/2005,2004
+Christophe Landrin,Central Midfield,1977-06-30,27,France,LOSC Lille,Ligue 1,2004/2005,2004
+Philippe Brunel,Left Midfield,1973-02-28,31,France,LOSC Lille,Ligue 1,2004/2005,2004
+Milenko Acimovic,Left Midfield,1977-02-15,27,Slovenia,LOSC Lille,Ligue 1,2004/2005,2004
+Geoffrey Dernis,Left Winger,1980-12-24,23,France,LOSC Lille,Ligue 1,2004/2005,2004
+Johan Audel,Left Winger,1983-12-12,20,Martinique,LOSC Lille,Ligue 1,2004/2005,2004
+Adékambi Olufadé,Right Winger,1980-01-07,24,Togo,LOSC Lille,Ligue 1,2004/2005,2004
+Peter Odemwingie,Right Winger,1981-07-15,22,Nigeria,LOSC Lille,Ligue 1,2004/2005,2004
+Kevin Mirallas,Right Winger,1987-10-05,16,Belgium,LOSC Lille,Ligue 1,2004/2005,2004
+Vladimir Manchev,Centre-Forward,1977-10-06,26,Bulgaria,LOSC Lille,Ligue 1,2004/2005,2004
+Matt Moussilou,Centre-Forward,1982-06-01,22,Congo,LOSC Lille,Ligue 1,2004/2005,2004
+Nicolas Raynier,Centre-Forward,1984-03-04,20,France,LOSC Lille,Ligue 1,2004/2005,2004
+Nicolas Fauvergue,Centre-Forward,1984-10-13,19,France,LOSC Lille,Ligue 1,2004/2005,2004
+Damien Grégorini,Goalkeeper,1979-03-02,25,France,OGC Nice,Ligue 1,2004/2005,2004
+Bruno Valencony,Goalkeeper,1968-06-16,36,France,OGC Nice,Ligue 1,2004/2005,2004
+Hilaire Muñoz,Goalkeeper,1983-04-21,21,France,OGC Nice,Ligue 1,2004/2005,2004
+Noé Pamarot,Centre-Back,1979-04-14,25,France,OGC Nice,Ligue 1,2004/2005,2004
+Cédric Varrault,Centre-Back,1980-01-30,24,France,OGC Nice,Ligue 1,2004/2005,2004
+Jacques Abardonado,Centre-Back,1978-05-27,26,France,OGC Nice,Ligue 1,2004/2005,2004
+Florian Jarjat,Centre-Back,1980-02-18,24,France,OGC Nice,Ligue 1,2004/2005,2004
+Sammy Traoré,Centre-Back,1976-02-25,28,Mali,OGC Nice,Ligue 1,2004/2005,2004
+Martin Djetou,Centre-Back,1974-12-15,29,France,OGC Nice,Ligue 1,2004/2005,2004
+José Cobos,Left-Back,1968-04-23,36,France,OGC Nice,Ligue 1,2004/2005,2004
+Anthony Scaramozzino,Left-Back,1985-04-30,19,France,OGC Nice,Ligue 1,2004/2005,2004
+François Grenet,Right-Back,1975-03-08,29,France,OGC Nice,Ligue 1,2004/2005,2004
+Thibault Scotto,Right-Back,1978-09-17,25,France,OGC Nice,Ligue 1,2004/2005,2004
+Romain Pitau,Defensive Midfield,1977-08-08,26,France,OGC Nice,Ligue 1,2004/2005,2004
+Olivier Echouafni,Defensive Midfield,1972-09-13,31,France,OGC Nice,Ligue 1,2004/2005,2004
+Roberto Bisconti,Defensive Midfield,1973-07-21,30,Belgium,OGC Nice,Ligue 1,2004/2005,2004
+Serge Dié,Defensive Midfield,1977-10-04,26,Cote d'Ivoire,OGC Nice,Ligue 1,2004/2005,2004
+Franco Dolci,Defensive Midfield,1984-01-01,20,Argentina,OGC Nice,Ligue 1,2004/2005,2004
+Jean-Paul Kalala,Central Midfield,1982-03-16,22,DR Congo,OGC Nice,Ligue 1,2004/2005,2004
+Florent Balmont,Central Midfield,1980-02-02,24,France,OGC Nice,Ligue 1,2004/2005,2004
+Yoann Bigné,Central Midfield,1977-08-23,26,France,OGC Nice,Ligue 1,2004/2005,2004
+Ederson,Attacking Midfield,1986-01-13,18,Brazil,OGC Nice,Ligue 1,2004/2005,2004
+Sébastien Roudet,Attacking Midfield,1981-06-16,23,France,OGC Nice,Ligue 1,2004/2005,2004
+Marama Vahirua,Second Striker,1980-05-12,24,Tahiti,OGC Nice,Ligue 1,2004/2005,2004
+Olivier Fauconnier,Centre-Forward,1976-06-22,28,Guadeloupe,OGC Nice,Ligue 1,2004/2005,2004
+Roland Linz,Centre-Forward,1981-08-09,22,Austria,OGC Nice,Ligue 1,2004/2005,2004
+Edgaras Jankauskas,Centre-Forward,1975-03-12,29,Lithuania,OGC Nice,Ligue 1,2004/2005,2004
+Kamel Larbi,Centre-Forward,1985-02-20,19,Algeria,OGC Nice,Ligue 1,2004/2005,2004
+Victor Agali,Centre-Forward,1978-12-29,25,Nigeria,OGC Nice,Ligue 1,2004/2005,2004
+Christophe Meslin,Centre-Forward,1977-07-13,26,France,OGC Nice,Ligue 1,2004/2005,2004
+Frédéric Roux,Goalkeeper,1973-06-27,31,France,FC Girondins Bordeaux,Ligue 1,2004/2005,2004
+Ulrich Ramé,Goalkeeper,1972-09-19,31,France,FC Girondins Bordeaux,Ligue 1,2004/2005,2004
+Mathieu Valverde,Goalkeeper,1983-05-14,21,France,FC Girondins Bordeaux,Ligue 1,2004/2005,2004
+Mamadou Baldé,Centre-Back,1985-12-12,18,Equatorial Guinea,FC Girondins Bordeaux,Ligue 1,2004/2005,2004
+Michalis Kapsis,Centre-Back,1973-10-18,30,Greece,FC Girondins Bordeaux,Ligue 1,2004/2005,2004
+Kodjo Julien Afanou,Centre-Back,1977-11-21,26,Togo,FC Girondins Bordeaux,Ligue 1,2004/2005,2004
+Gérald Cid,Centre-Back,1983-02-17,21,France,FC Girondins Bordeaux,Ligue 1,2004/2005,2004
+Marc Planus,Centre-Back,1982-03-07,22,France,FC Girondins Bordeaux,Ligue 1,2004/2005,2004
+Bruno Basto,Left-Back,1978-05-21,26,Portugal,FC Girondins Bordeaux,Ligue 1,2004/2005,2004
+Franck Jurietti,Left-Back,1975-03-30,29,France,FC Girondins Bordeaux,Ligue 1,2004/2005,2004
+Cyril Rool,Left-Back,1975-04-15,29,France,FC Girondins Bordeaux,Ligue 1,2004/2005,2004
+Florian Marange,Left-Back,1986-03-03,18,France,FC Girondins Bordeaux,Ligue 1,2004/2005,2004
+David Jemmali,Right-Back,1974-12-13,29,Tunisia,FC Girondins Bordeaux,Ligue 1,2004/2005,2004
+Julien Faubert,Defensive Midfield,1983-08-01,20,Martinique,FC Girondins Bordeaux,Ligue 1,2004/2005,2004
+Rio Mavuba,Defensive Midfield,1984-03-08,20,France,FC Girondins Bordeaux,Ligue 1,2004/2005,2004
+Renaud Cohade,Central Midfield,1984-09-29,19,France,FC Girondins Bordeaux,Ligue 1,2004/2005,2004
+Camel Meriem,Attacking Midfield,1979-10-18,24,France,FC Girondins Bordeaux,Ligue 1,2004/2005,2004
+Juan Pablo Francia,Attacking Midfield,1984-12-03,19,Argentina,FC Girondins Bordeaux,Ligue 1,2004/2005,2004
+Albert Riera,Left Winger,1982-04-15,22,Spain,FC Girondins Bordeaux,Ligue 1,2004/2005,2004
+Thiago Ribeiro,Left Winger,1986-02-24,18,Brazil,FC Girondins Bordeaux,Ligue 1,2004/2005,2004
+Hervé Bugnet,Right Winger,1981-08-24,22,France,FC Girondins Bordeaux,Ligue 1,2004/2005,2004
+Lilian Laslandes,Centre-Forward,1971-09-04,32,France,FC Girondins Bordeaux,Ligue 1,2004/2005,2004
+Jean-Claude Darcheville,Centre-Forward,1975-07-25,28,French Guiana,FC Girondins Bordeaux,Ligue 1,2004/2005,2004
+Kalu Uche,Centre-Forward,1982-11-15,21,Nigeria,FC Girondins Bordeaux,Ligue 1,2004/2005,2004
+Marouane Chamakh,Centre-Forward,1984-01-10,20,Morocco,FC Girondins Bordeaux,Ligue 1,2004/2005,2004
+Sylvain Franco,Centre-Forward,1983-02-21,21,France,FC Girondins Bordeaux,Ligue 1,2004/2005,2004
+Richard Dutruel,Goalkeeper,1972-12-24,31,France,RC Strasbourg Alsace,Ligue 1,2004/2005,2004
+Stéphane Cassard,Goalkeeper,1972-11-11,31,France,RC Strasbourg Alsace,Ligue 1,2004/2005,2004
+Rémy Vercoutre,Goalkeeper,1980-06-26,24,France,RC Strasbourg Alsace,Ligue 1,2004/2005,2004
+Nicolas Bonis,Goalkeeper,1981-08-30,22,France,RC Strasbourg Alsace,Ligue 1,2004/2005,2004
+Pape Sow,Centre-Back,1985-12-02,18,Senegal,RC Strasbourg Alsace,Ligue 1,2004/2005,2004
+Jean-Christophe Devaux,Centre-Back,1975-05-16,29,France,RC Strasbourg Alsace,Ligue 1,2004/2005,2004
+Christian Bassila,Centre-Back,1977-10-05,26,France,RC Strasbourg Alsace,Ligue 1,2004/2005,2004
+Cédric Kanté,Centre-Back,1979-07-06,24,Mali,RC Strasbourg Alsace,Ligue 1,2004/2005,2004
+Karim Haggui,Centre-Back,1984-01-20,20,Tunisia,RC Strasbourg Alsace,Ligue 1,2004/2005,2004
+Abdelilah Fahmi,Centre-Back,1973-08-03,30,Morocco,RC Strasbourg Alsace,Ligue 1,2004/2005,2004
+Habib Bellaid,Centre-Back,1986-03-28,18,Algeria,RC Strasbourg Alsace,Ligue 1,2004/2005,2004
+Yann Schneider,Left-Back,1986-01-19,18,France,RC Strasbourg Alsace,Ligue 1,2004/2005,2004
+Arthur Boka,Left-Back,1983-04-02,21,Cote d'Ivoire,RC Strasbourg Alsace,Ligue 1,2004/2005,2004
+Jacques Momha,Left-Back,1982-08-07,21,Cameroon,RC Strasbourg Alsace,Ligue 1,2004/2005,2004
+Hervé Batoménila,Right-Back,1984-05-18,20,Gabon,RC Strasbourg Alsace,Ligue 1,2004/2005,2004
+Yves Deroff,Right-Back,1978-08-29,25,France,RC Strasbourg Alsace,Ligue 1,2004/2005,2004
+Guillaume Lacour,Right-Back,1980-08-02,23,France,RC Strasbourg Alsace,Ligue 1,2004/2005,2004
+Sidi Keita,Defensive Midfield,1985-03-20,19,Mali,RC Strasbourg Alsace,Ligue 1,2004/2005,2004
+Alexander Farnerud,Central Midfield,1984-05-01,20,Sweden,RC Strasbourg Alsace,Ligue 1,2004/2005,2004
+Pascal Camadini,Central Midfield,1972-04-02,32,France,RC Strasbourg Alsace,Ligue 1,2004/2005,2004
+Pascal Johansen,Central Midfield,1979-04-28,25,France,RC Strasbourg Alsace,Ligue 1,2004/2005,2004
+David Ulm,Attacking Midfield,1984-06-30,20,France,RC Strasbourg Alsace,Ligue 1,2004/2005,2004
+Tommy de Jong,Attacking Midfield,1987-02-06,17,France,RC Strasbourg Alsace,Ligue 1,2004/2005,2004
+Salim Arrache,Left Winger,1982-07-14,21,Algeria,RC Strasbourg Alsace,Ligue 1,2004/2005,2004
+Ulrich Le Pen,Left Winger,1974-01-21,30,France,RC Strasbourg Alsace,Ligue 1,2004/2005,2004
+Yacine Abdessadki,Right Winger,1981-01-01,23,Morocco,RC Strasbourg Alsace,Ligue 1,2004/2005,2004
+Mickaël Pagis,Second Striker,1973-08-17,30,France,RC Strasbourg Alsace,Ligue 1,2004/2005,2004
+Omer Peretz,Centre-Forward,1986-01-26,18,Israel,RC Strasbourg Alsace,Ligue 1,2004/2005,2004
+Mamadou Niang,Centre-Forward,1979-10-13,24,Senegal,RC Strasbourg Alsace,Ligue 1,2004/2005,2004
+Katlego Mphela,Centre-Forward,1984-11-29,19,South Africa,RC Strasbourg Alsace,Ligue 1,2004/2005,2004
+Éric Mouloungui,Centre-Forward,1984-04-01,20,Gabon,RC Strasbourg Alsace,Ligue 1,2004/2005,2004
+Rudy Carlier,Centre-Forward,1986-01-19,18,France,RC Strasbourg Alsace,Ligue 1,2004/2005,2004
+Grégory Wimbée,Goalkeeper,1971-08-19,32,France,FC Metz,Ligue 1,2004/2005,2004
+Kossi Agassa,Goalkeeper,1978-07-02,25,Togo,FC Metz,Ligue 1,2004/2005,2004
+Guillaume Cherreau,Goalkeeper,1983-06-26,21,France,FC Metz,Ligue 1,2004/2005,2004
+Ivan Gvozdenović,Centre-Back,1978-08-19,25,Serbia,FC Metz,Ligue 1,2004/2005,2004
+Mehdi Méniri,Centre-Back,1977-06-29,27,Algeria,FC Metz,Ligue 1,2004/2005,2004
+Stéphane Borbiconi,Centre-Back,1979-03-22,25,France,FC Metz,Ligue 1,2004/2005,2004
+Bruno Pompière,Centre-Back,1980-06-10,24,Martinique,FC Metz,Ligue 1,2004/2005,2004
+Jean-Philippe Caillet,Centre-Back,1977-06-24,27,France,FC Metz,Ligue 1,2004/2005,2004
+Hemza Mihoubi,Left-Back,1986-01-13,18,Algeria,FC Metz,Ligue 1,2004/2005,2004
+Franck Signorino,Left-Back,1981-09-19,22,France,FC Metz,Ligue 1,2004/2005,2004
+Christophe Avezac,Left-Back,1977-03-12,27,France,FC Metz,Ligue 1,2004/2005,2004
+Franck Béria,Right-Back,1983-05-23,21,France,FC Metz,Ligue 1,2004/2005,2004
+Samuel Allegro,Right-Back,1978-03-14,26,France,FC Metz,Ligue 1,2004/2005,2004
+Daniel Bocande,Midfielder,1983-12-05,20,Senegal,FC Metz,Ligue 1,2004/2005,2004
+Dino Djiba,Midfielder,1985-12-20,18,Senegal,FC Metz,Ligue 1,2004/2005,2004
+Grégory Proment,Defensive Midfield,1978-12-10,25,France,FC Metz,Ligue 1,2004/2005,2004
+Grégory Leca,Defensive Midfield,1980-08-22,23,France,FC Metz,Ligue 1,2004/2005,2004
+Venn Toure,Defensive Midfield,1984-04-06,20,Cote d'Ivoire,FC Metz,Ligue 1,2004/2005,2004
+Benjamin Nicaise,Defensive Midfield,1980-09-28,23,France,FC Metz,Ligue 1,2004/2005,2004
+Julien Gorius,Central Midfield,1985-03-17,19,France,FC Metz,Ligue 1,2004/2005,2004
+Mathieu Dinet,Central Midfield,1985-08-01,18,France,FC Metz,Ligue 1,2004/2005,2004
+Ludovic Obraniak,Attacking Midfield,1984-11-10,19,Poland,FC Metz,Ligue 1,2004/2005,2004
+Nicolas N´Dione,Forward,1982-03-03,22,Senegal,FC Metz,Ligue 1,2004/2005,2004
+Franck Ribéry,Left Winger,1983-04-07,21,France,FC Metz,Ligue 1,2004/2005,2004
+Momar N'Diaye,Right Winger,1987-07-13,16,Senegal,FC Metz,Ligue 1,2004/2005,2004
+Sébastien Renouard,Right Winger,1984-07-11,19,France,FC Metz,Ligue 1,2004/2005,2004
+Roy Contout,Right Winger,1985-02-11,19,French Guiana,FC Metz,Ligue 1,2004/2005,2004
+Ruslan Pimenov,Centre-Forward,1981-11-25,22,Russia,FC Metz,Ligue 1,2004/2005,2004
+Hervé Tum,Centre-Forward,1979-02-15,25,Cameroon,FC Metz,Ligue 1,2004/2005,2004
+Richard Socrier,Centre-Forward,1979-03-28,25,Guadeloupe,FC Metz,Ligue 1,2004/2005,2004
+Bartholomew Ogbeche,Centre-Forward,1984-10-01,19,Nigeria,FC Metz,Ligue 1,2004/2005,2004
+Babacar Guèye,Centre-Forward,1986-03-02,18,Senegal,FC Metz,Ligue 1,2004/2005,2004
+Alexandre Negri,Goalkeeper,1981-03-27,23,Cyprus,AC Ajaccio,Ligue 1,2004/2005,2004
+Stéphane Porato,Goalkeeper,1973-09-12,30,France,AC Ajaccio,Ligue 1,2004/2005,2004
+Stéphane Trévisan,Goalkeeper,1974-03-27,30,France,AC Ajaccio,Ligue 1,2004/2005,2004
+Florian Lucchini,Goalkeeper,1981-02-13,23,France,AC Ajaccio,Ligue 1,2004/2005,2004
+David Terrier,Defender,1973-08-04,30,France,AC Ajaccio,Ligue 1,2004/2005,2004
+Gaspar,Centre-Back,1975-06-01,29,Portugal,AC Ajaccio,Ligue 1,2004/2005,2004
+Mamadou Seck,Centre-Back,1979-08-23,24,Senegal,AC Ajaccio,Ligue 1,2004/2005,2004
+Nenad Dzodic,Centre-Back,1977-01-04,27,Serbia,AC Ajaccio,Ligue 1,2004/2005,2004
+Christophe Destruhaut,Centre-Back,1973-01-24,31,France,AC Ajaccio,Ligue 1,2004/2005,2004
+Franklin Anzité,Centre-Back,1985-11-02,18,Central African Republic,AC Ajaccio,Ligue 1,2004/2005,2004
+Martial Robin,Left-Back,1977-08-27,26,France,AC Ajaccio,Ligue 1,2004/2005,2004
+Abderaouf Zarabi,Left-Back,1979-03-26,25,Algeria,AC Ajaccio,Ligue 1,2004/2005,2004
+Xavier Collin,Left-Back,1974-08-17,29,France,AC Ajaccio,Ligue 1,2004/2005,2004
+Fabien Laurenti,Right-Back,1983-01-06,21,France,AC Ajaccio,Ligue 1,2004/2005,2004
+Yohan Demont,Right-Back,1978-05-15,26,France,AC Ajaccio,Ligue 1,2004/2005,2004
+Rodrigo,Defensive Midfield,1980-10-06,23,Brazil,AC Ajaccio,Ligue 1,2004/2005,2004
+Nicolas Bonnal,Left Midfield,1976-10-16,27,France,AC Ajaccio,Ligue 1,2004/2005,2004
+Yacine Bezzaz,Left Midfield,1981-07-10,22,Algeria,AC Ajaccio,Ligue 1,2004/2005,2004
+André Luiz,Attacking Midfield,1974-11-14,29,Brazil,AC Ajaccio,Ligue 1,2004/2005,2004
+Marcelinho Carioca,Attacking Midfield,1971-02-01,33,Brazil,AC Ajaccio,Ligue 1,2004/2005,2004
+Laurent Merlin,Attacking Midfield,1984-09-17,19,France,AC Ajaccio,Ligue 1,2004/2005,2004
+Renaud Connen,Attacking Midfield,1980-03-21,24,Monaco,AC Ajaccio,Ligue 1,2004/2005,2004
+Mickaël Marquet,Forward,1981-12-10,22,France,AC Ajaccio,Ligue 1,2004/2005,2004
+Abdelnasser Ouadah,Left Winger,1975-09-13,28,Algeria,AC Ajaccio,Ligue 1,2004/2005,2004
+Djamel Abdoun,Right Winger,1986-02-14,18,Algeria,AC Ajaccio,Ligue 1,2004/2005,2004
+Lucas Pereira,Centre-Forward,1982-02-05,22,Brazil,AC Ajaccio,Ligue 1,2004/2005,2004
+Marcelo de Faria,Centre-Forward,1979-02-08,25,Brazil,AC Ajaccio,Ligue 1,2004/2005,2004
+Cyril Chapuis,Centre-Forward,1979-03-21,25,France,AC Ajaccio,Ligue 1,2004/2005,2004
+Olivier Fauconnier,Centre-Forward,1976-06-22,28,Guadeloupe,AC Ajaccio,Ligue 1,2004/2005,2004
+Christophe Revault,Goalkeeper,1972-03-22,32,France,FC Toulouse,Ligue 1,2004/2005,2004
+Nicolas Douchez,Goalkeeper,1980-04-22,24,France,FC Toulouse,Ligue 1,2004/2005,2004
+Benoît Benvegnu,Goalkeeper,1985-01-18,19,France,FC Toulouse,Ligue 1,2004/2005,2004
+Ludovic Clément,Defender,1976-12-05,27,Martinique,FC Toulouse,Ligue 1,2004/2005,2004
+Daniel Congré,Centre-Back,1985-04-05,19,France,FC Toulouse,Ligue 1,2004/2005,2004
+Dominique Arribagé,Centre-Back,1971-05-11,33,France,FC Toulouse,Ligue 1,2004/2005,2004
+Issoumaila Dao,Centre-Back,1983-10-27,20,Cote d'Ivoire,FC Toulouse,Ligue 1,2004/2005,2004
+Lucien Aubey,Centre-Back,1984-05-24,20,Congo,FC Toulouse,Ligue 1,2004/2005,2004
+Mohamed Fofana,Centre-Back,1985-03-07,19,Mali,FC Toulouse,Ligue 1,2004/2005,2004
+Stéphane Lièvre,Left-Back,1972-10-03,31,France,FC Toulouse,Ligue 1,2004/2005,2004
+Henri Bedimo,Left-Back,1984-06-04,20,Cameroon,FC Toulouse,Ligue 1,2004/2005,2004
+Predrag Ocokoljic,Right-Back,1977-07-29,26,Serbia,FC Toulouse,Ligue 1,2004/2005,2004
+François Clerc,Right-Back,1983-04-18,21,France,FC Toulouse,Ligue 1,2004/2005,2004
+Albin Ebondo,Right-Back,1984-02-23,20,France,FC Toulouse,Ligue 1,2004/2005,2004
+Julien Sola,Midfielder,1984-06-13,20,France,FC Toulouse,Ligue 1,2004/2005,2004
+Julien Cardy,Defensive Midfield,1981-09-29,22,France,FC Toulouse,Ligue 1,2004/2005,2004
+Pantxi Sirieix,Central Midfield,1980-10-07,23,France,FC Toulouse,Ligue 1,2004/2005,2004
+Stéphane Dalmat,Central Midfield,1979-02-16,25,France,FC Toulouse,Ligue 1,2004/2005,2004
+Nabil Taïder,Central Midfield,1983-05-26,21,Tunisia,FC Toulouse,Ligue 1,2004/2005,2004
+Nicolas Dieuze,Central Midfield,1979-02-07,25,France,FC Toulouse,Ligue 1,2004/2005,2004
+Anthony Braizat,Right Midfield,1977-08-16,26,France,FC Toulouse,Ligue 1,2004/2005,2004
+Thibault Giresse,Left Midfield,1981-05-25,23,France,FC Toulouse,Ligue 1,2004/2005,2004
+Achille Emaná,Attacking Midfield,1982-06-05,22,Cameroon,FC Toulouse,Ligue 1,2004/2005,2004
+Benjamin Psaume,Right Winger,1985-01-12,19,France,FC Toulouse,Ligue 1,2004/2005,2004
+Daniel Moreira,Second Striker,1977-08-08,26,France,FC Toulouse,Ligue 1,2004/2005,2004
+David Suarez,Second Striker,1979-06-09,25,France,FC Toulouse,Ligue 1,2004/2005,2004
+Eduardo,Centre-Forward,1979-10-13,24,Brazil,FC Toulouse,Ligue 1,2004/2005,2004
+Jean-Louis Akpa Akpro,Centre-Forward,1985-01-04,19,France,FC Toulouse,Ligue 1,2004/2005,2004
+Xavier Pentecôte,Centre-Forward,1986-08-13,17,France,FC Toulouse,Ligue 1,2004/2005,2004
+Nicolas Penneteau,Goalkeeper,1981-02-28,23,France,SC Bastia,Ligue 1,2004/2005,2004
+Daniel Yéboah,Goalkeeper,1984-11-13,19,Cote d'Ivoire,SC Bastia,Ligue 1,2004/2005,2004
+Jean-Louis Leca,Goalkeeper,1985-09-21,18,France,SC Bastia,Ligue 1,2004/2005,2004
+Cédric Uras,Defender,1977-11-29,26,France,SC Bastia,Ligue 1,2004/2005,2004
+Greg Vanney,Centre-Back,1974-06-11,30,United States,SC Bastia,Ligue 1,2004/2005,2004
+Bjørn Tore Kvarme,Centre-Back,1972-06-17,32,Norway,SC Bastia,Ligue 1,2004/2005,2004
+Anthar Yahia,Centre-Back,1982-03-21,22,Algeria,SC Bastia,Ligue 1,2004/2005,2004
+David Sauget,Left-Back,1979-11-23,24,France,SC Bastia,Ligue 1,2004/2005,2004
+Bernt Haas,Right-Back,1978-04-08,26,Switzerland,SC Bastia,Ligue 1,2004/2005,2004
+Pascal Chimbonda,Right-Back,1979-02-21,25,Guadeloupe,SC Bastia,Ligue 1,2004/2005,2004
+Gilles Cioni,Right-Back,1984-06-14,20,France,SC Bastia,Ligue 1,2004/2005,2004
+Benjamin Longue,Right-Back,1980-12-03,23,Neukaledonien,SC Bastia,Ligue 1,2004/2005,2004
+Alex Song,Defensive Midfield,1987-09-09,16,Cameroon,SC Bastia,Ligue 1,2004/2005,2004
+Romain Rocchi,Defensive Midfield,1981-10-02,22,France,SC Bastia,Ligue 1,2004/2005,2004
+Sébastien Piocelle,Defensive Midfield,1978-11-10,25,France,SC Bastia,Ligue 1,2004/2005,2004
+Christian Karembeu,Defensive Midfield,1970-12-03,33,France,SC Bastia,Ligue 1,2004/2005,2004
+Franck Matingou,Defensive Midfield,1979-12-04,24,DR Congo,SC Bastia,Ligue 1,2004/2005,2004
+Djibril Sidibé,Defensive Midfield,1982-03-23,22,Mali,SC Bastia,Ligue 1,2004/2005,2004
+Gary Coulibaly,Defensive Midfield,1986-03-30,18,France,SC Bastia,Ligue 1,2004/2005,2004
+Paul Essola,Defensive Midfield,1981-12-13,22,Cameroon,SC Bastia,Ligue 1,2004/2005,2004
+Grégory Leca,Defensive Midfield,1980-08-22,23,France,SC Bastia,Ligue 1,2004/2005,2004
+Florent Ghisolfi,Central Midfield,1985-02-28,19,France,SC Bastia,Ligue 1,2004/2005,2004
+Fabrice Jau,Right Midfield,1978-09-04,25,France,SC Bastia,Ligue 1,2004/2005,2004
+Stéphane Ziani,Attacking Midfield,1971-12-09,32,France,SC Bastia,Ligue 1,2004/2005,2004
+Samir Bertin d'Avesnes,Attacking Midfield,1986-04-15,18,Comoros,SC Bastia,Ligue 1,2004/2005,2004
+Chaouki Ben Saada,Attacking Midfield,1984-07-01,20,Tunisia,SC Bastia,Ligue 1,2004/2005,2004
+Frédéric Née,Centre-Forward,1975-04-18,29,France,SC Bastia,Ligue 1,2004/2005,2004
+Tony Vairelles,Centre-Forward,1973-04-10,31,France,SC Bastia,Ligue 1,2004/2005,2004
+Youssouf Hadji,Centre-Forward,1980-02-25,24,Morocco,SC Bastia,Ligue 1,2004/2005,2004
+Henoch Conombo,Centre-Forward,1986-06-13,18,Burkina Faso,SC Bastia,Ligue 1,2004/2005,2004
+Abdelmalek Cherrad,Centre-Forward,1981-01-14,23,Algeria,SC Bastia,Ligue 1,2004/2005,2004
+Pierre-Yves André,Centre-Forward,1974-05-14,30,France,SC Bastia,Ligue 1,2004/2005,2004
+Ronan Le Crom,Goalkeeper,1974-07-13,29,France,AS Saint-Étienne,Ligue 1,2004/2005,2004
+Jérémie Janot,Goalkeeper,1977-10-11,26,France,AS Saint-Étienne,Ligue 1,2004/2005,2004
+Florent Guillaud,Goalkeeper,1984-03-04,20,France,AS Saint-Étienne,Ligue 1,2004/2005,2004
+Patrice Carteron,Centre-Back,1970-07-30,33,France,AS Saint-Étienne,Ligue 1,2004/2005,2004
+Vincent Hognon,Centre-Back,1974-08-16,29,France,AS Saint-Étienne,Ligue 1,2004/2005,2004
+Zoumana Camara,Centre-Back,1979-04-03,25,France,AS Saint-Étienne,Ligue 1,2004/2005,2004
+Fousseni Diawara,Centre-Back,1980-08-28,23,Mali,AS Saint-Étienne,Ligue 1,2004/2005,2004
+Loïc Perrin,Centre-Back,1985-08-07,18,France,AS Saint-Étienne,Ligue 1,2004/2005,2004
+Stéphane Hernandez,Centre-Back,1979-08-24,24,France,AS Saint-Étienne,Ligue 1,2004/2005,2004
+Alaeddine Yahia,Centre-Back,1981-09-26,22,Tunisia,AS Saint-Étienne,Ligue 1,2004/2005,2004
+Abdelaziz Kamara,Left-Back,1984-04-10,20,Mauritania,AS Saint-Étienne,Ligue 1,2004/2005,2004
+Hérita Ilunga,Left-Back,1982-02-25,22,DR Congo,AS Saint-Étienne,Ligue 1,2004/2005,2004
+Javier Garrido,Right-Back,1979-07-01,25,Spain,AS Saint-Étienne,Ligue 1,2004/2005,2004
+Mouhamadou Dabo,Right-Back,1986-11-28,17,France,AS Saint-Étienne,Ligue 1,2004/2005,2004
+Didier Zokora,Defensive Midfield,1980-12-14,23,Cote d'Ivoire,AS Saint-Étienne,Ligue 1,2004/2005,2004
+Julien Sablé,Defensive Midfield,1980-09-11,23,France,AS Saint-Étienne,Ligue 1,2004/2005,2004
+David Hellebuyck,Central Midfield,1979-05-12,25,France,AS Saint-Étienne,Ligue 1,2004/2005,2004
+Serisay Barthélémy,Right Midfield,1984-01-06,20,France,AS Saint-Étienne,Ligue 1,2004/2005,2004
+Ousmane Sarr,Left Midfield,1986-08-02,17,Senegal,AS Saint-Étienne,Ligue 1,2004/2005,2004
+Frédéric Mendy,Left Winger,1981-11-06,22,Senegal,AS Saint-Étienne,Ligue 1,2004/2005,2004
+Lamine Sakho,Left Winger,1977-09-28,26,Senegal,AS Saint-Étienne,Ligue 1,2004/2005,2004
+Mickaël Citony,Right Winger,1980-08-21,23,Martinique,AS Saint-Étienne,Ligue 1,2004/2005,2004
+Nicolas Marin,Right Winger,1980-08-29,23,France,AS Saint-Étienne,Ligue 1,2004/2005,2004
+Pascal Feindouno,Right Winger,1981-02-27,23,Guinea,AS Saint-Étienne,Ligue 1,2004/2005,2004
+Anthony Le Tallec,Centre-Forward,1984-10-03,19,France,AS Saint-Étienne,Ligue 1,2004/2005,2004
+Frédéric Piquionne,Centre-Forward,1978-12-08,25,Martinique,AS Saint-Étienne,Ligue 1,2004/2005,2004
+Bafétimbi Gomis,Centre-Forward,1985-08-06,18,France,AS Saint-Étienne,Ligue 1,2004/2005,2004
+Lilian Compan,Centre-Forward,1977-04-30,27,France,AS Saint-Étienne,Ligue 1,2004/2005,2004
+Steeve Elana,Goalkeeper,1980-07-11,23,Martinique,SM Caen,Ligue 1,2004/2005,2004
+Vincent Planté,Goalkeeper,1980-11-19,23,France,SM Caen,Ligue 1,2004/2005,2004
+Benoît Costil,Goalkeeper,1987-07-03,16,France,SM Caen,Ligue 1,2004/2005,2004
+Alexandre Clément,Centre-Back,1975-03-23,29,France,SM Caen,Ligue 1,2004/2005,2004
+Gaël Suares,Centre-Back,1981-04-09,23,France,SM Caen,Ligue 1,2004/2005,2004
+Aziz Ben Askar,Centre-Back,1976-03-30,28,Morocco,SM Caen,Ligue 1,2004/2005,2004
+Ronald Zubar,Centre-Back,1985-09-20,18,Guadeloupe,SM Caen,Ligue 1,2004/2005,2004
+Frédéric Danjou,Centre-Back,1974-09-28,29,France,SM Caen,Ligue 1,2004/2005,2004
+Jérémy Sorbon,Centre-Back,1983-08-05,20,France,SM Caen,Ligue 1,2004/2005,2004
+Ibrahima Fayé,Centre-Back,1979-10-22,24,Senegal,SM Caen,Ligue 1,2004/2005,2004
+Reynald Lemaître,Left-Back,1983-06-28,21,France,SM Caen,Ligue 1,2004/2005,2004
+Cédric Hengbart,Right-Back,1980-07-13,23,France,SM Caen,Ligue 1,2004/2005,2004
+Nicolas Seube,Defensive Midfield,1979-08-11,24,France,SM Caen,Ligue 1,2004/2005,2004
+Steve Dugardein,Defensive Midfield,1974-01-28,30,Belgium,SM Caen,Ligue 1,2004/2005,2004
+Matthias Jouan,Defensive Midfield,1984-02-04,20,France,SM Caen,Ligue 1,2004/2005,2004
+Salah Bakour,Central Midfield,1982-04-15,22,Algeria,SM Caen,Ligue 1,2004/2005,2004
+Jimmy Hébert,Central Midfield,1972-07-01,32,France,SM Caen,Ligue 1,2004/2005,2004
+Ljubisa Rankovic,Left Midfield,1973-12-10,30,Serbia,SM Caen,Ligue 1,2004/2005,2004
+Igor Matic,Attacking Midfield,1981-07-22,22,Serbia,SM Caen,Ligue 1,2004/2005,2004
+Anthony Deroin,Attacking Midfield,1979-03-15,25,France,SM Caen,Ligue 1,2004/2005,2004
+Samy Mawéné,Attacking Midfield,1984-11-12,19,France,SM Caen,Ligue 1,2004/2005,2004
+Franck Berrier,Attacking Midfield,1984-02-02,20,France,SM Caen,Ligue 1,2004/2005,2004
+Kor Sarr,Forward,1975-12-13,28,Senegal,SM Caen,Ligue 1,2004/2005,2004
+Benoît Lesoimier,Left Winger,1983-02-21,21,France,SM Caen,Ligue 1,2004/2005,2004
+Yoan Gouffran,Left Winger,1986-05-25,18,France,SM Caen,Ligue 1,2004/2005,2004
+Elliot Grandin,Right Winger,1987-10-17,16,France,SM Caen,Ligue 1,2004/2005,2004
+Yohann Eudeline,Right Winger,1982-06-23,22,France,SM Caen,Ligue 1,2004/2005,2004
+Gregory Dufer,Right Winger,1981-12-19,22,Belgium,SM Caen,Ligue 1,2004/2005,2004
+Julien Valero,Second Striker,1984-02-23,20,France,SM Caen,Ligue 1,2004/2005,2004
+Mohamadou Idrissou,Centre-Forward,1980-03-08,24,Cameroon,SM Caen,Ligue 1,2004/2005,2004
+Sébastien Mazure,Centre-Forward,1979-03-20,25,France,SM Caen,Ligue 1,2004/2005,2004
+Zoran Jovicic,Centre-Forward,1973-04-17,31,Serbia,SM Caen,Ligue 1,2004/2005,2004
+Cyrille Watier,Centre-Forward,1972-06-25,32,France,SM Caen,Ligue 1,2004/2005,2004
+Laurent Weber,Goalkeeper,1972-09-01,31,France,FC Istres Ouest Provence,Ligue 1,2004/2005,2004
+Rudy Riou,Goalkeeper,1980-01-22,24,France,FC Istres Ouest Provence,Ligue 1,2004/2005,2004
+Noureddine Kacemi,Defender,1977-10-17,26,Morocco,FC Istres Ouest Provence,Ligue 1,2004/2005,2004
+Abdoulaye Fayé,Centre-Back,1978-02-26,26,Senegal,FC Istres Ouest Provence,Ligue 1,2004/2005,2004
+Brahim Thiam,Centre-Back,1974-02-24,30,Mali,FC Istres Ouest Provence,Ligue 1,2004/2005,2004
+Bruno Savry,Centre-Back,1974-03-11,30,France,FC Istres Ouest Provence,Ligue 1,2004/2005,2004
+Niša Saveljić,Centre-Back,1970-03-27,34,Montenegro,FC Istres Ouest Provence,Ligue 1,2004/2005,2004
+Patrick Leugueun,Centre-Back,1981-02-25,23,France,FC Istres Ouest Provence,Ligue 1,2004/2005,2004
+Steven Pelé,Centre-Back,1981-08-28,22,France,FC Istres Ouest Provence,Ligue 1,2004/2005,2004
+Christophe Dumolin,Left-Back,1973-01-04,31,France,FC Istres Ouest Provence,Ligue 1,2004/2005,2004
+Sébastien Pérez,Right-Back,1973-11-24,30,France,FC Istres Ouest Provence,Ligue 1,2004/2005,2004
+Amor Kehiha,Right-Back,1977-09-05,26,France,FC Istres Ouest Provence,Ligue 1,2004/2005,2004
+David Hamed,Right-Back,1974-01-02,30,France,FC Istres Ouest Provence,Ligue 1,2004/2005,2004
+Cédric Gimenez,Midfielder,1986-05-30,18,France,FC Istres Ouest Provence,Ligue 1,2004/2005,2004
+Laurent Mohellebi,Midfielder,1984-01-05,20,France,FC Istres Ouest Provence,Ligue 1,2004/2005,2004
+Luka Zinko,Defensive Midfield,1983-03-23,21,Slovenia,FC Istres Ouest Provence,Ligue 1,2004/2005,2004
+Gérald Forschelet,Defensive Midfield,1981-09-19,22,France,FC Istres Ouest Provence,Ligue 1,2004/2005,2004
+Philippe Delaye,Central Midfield,1975-06-26,29,France,FC Istres Ouest Provence,Ligue 1,2004/2005,2004
+Dejan Ilic,Central Midfield,1976-03-24,28,Serbia,FC Istres Ouest Provence,Ligue 1,2004/2005,2004
+Franck Chaussidière,Central Midfield,1978-08-01,25,France,FC Istres Ouest Provence,Ligue 1,2004/2005,2004
+Adel Chedli,Central Midfield,1976-09-16,27,Tunisia,FC Istres Ouest Provence,Ligue 1,2004/2005,2004
+Anthony Sichi,Right Midfield,1986-01-21,18,France,FC Istres Ouest Provence,Ligue 1,2004/2005,2004
+Laurent Courtois,Left Midfield,1978-09-11,25,France,FC Istres Ouest Provence,Ligue 1,2004/2005,2004
+Azzedine Ourahou,Attacking Midfield,1984-08-12,19,France,FC Istres Ouest Provence,Ligue 1,2004/2005,2004
+Fiston Kuku,Forward,1985-10-02,18,DR Congo,FC Istres Ouest Provence,Ligue 1,2004/2005,2004
+Christophe Caldeirinha,Forward,1984-03-30,20,France,FC Istres Ouest Provence,Ligue 1,2004/2005,2004
+Moussa N'Diaye,Right Winger,1979-02-20,25,Senegal,FC Istres Ouest Provence,Ligue 1,2004/2005,2004
+Leandro Amaral,Centre-Forward,1977-08-06,26,Brazil,FC Istres Ouest Provence,Ligue 1,2004/2005,2004
+Rafik Saïfi,Centre-Forward,1975-02-07,29,Algeria,FC Istres Ouest Provence,Ligue 1,2004/2005,2004
+Víctor Montaño,Centre-Forward,1984-05-01,20,Colombia,FC Istres Ouest Provence,Ligue 1,2004/2005,2004
+Florian Maurice,Centre-Forward,1974-01-20,30,France,FC Istres Ouest Provence,Ligue 1,2004/2005,2004
+Ibrahima Bakayoko,Centre-Forward,1976-12-31,27,Cote d'Ivoire,FC Istres Ouest Provence,Ligue 1,2004/2005,2004
+Steeve Théophile,Centre-Forward,1980-09-09,23,France,FC Istres Ouest Provence,Ligue 1,2004/2005,2004

@@ -57,25 +57,33 @@ scrape_club_squad <- function(club_url) {
   player_data <- html_nodes(club_page, "#yw1.grid-view") %>%
     html_node("table") %>%
     html_table(fill = TRUE, header = TRUE) %>%
-    bind_rows()
+    bind_rows() %>% 
+    clean_names()
+  
+  # get player names
+  player_names <- club_page %>% 
+    html_nodes(".responsive-table") %>% 
+    html_nodes("[class='spielprofil_tooltip']") %>% 
+    html_attr("title") %>% 
+    .[c(TRUE, FALSE)]
   
   # select cols to keep
-  player_data <- player_data[, c(1, 5, 6, 7)]
+  player_data <- player_data[, c("nat", "current_club", "market_value")]
   
   # set colnames
-  colnames(player_data) <- c("shirt_number", "position", "player_name", "date_of_birth")
-  
-  # set shirt no as numeric
-  player_data$shirt_number <- suppressWarnings(as.numeric(player_data$shirt_number ))
+  colnames(player_data) <- c("player_name", "position",  "date_of_birth")
   
   # remove empty rows
   player_data <- filter(player_data, !is.na(player_name))
+  
+  # replace names
+  player_data$player_name <- player_names
   
   # create age col
   player_data$age <- gsub(".*\\((.*)\\).*", "\\1", player_data$date_of_birth)
   
   # normalise age cols
-  player_data$date_of_birth <- gsub("\\s*\\([^\\)]+\\)","", as.character(player_data$date_of_birth))
+  player_data$date_of_birth <- gsub("\\s*\\([^\\)]+\\)", "", as.character(player_data$date_of_birth))
   player_data$date_of_birth <- suppressWarnings(mdy(player_data$date_of_birth))
   player_data$age <- suppressWarnings(as.numeric(player_data$age))
   
@@ -83,10 +91,12 @@ scrape_club_squad <- function(club_url) {
   player_list <- html_nodes(club_page, "#yw1.grid-view")
   player_data$nationality <- map_chr(seq_len(nrow(player_data)), function(x) {
     
-    player_list %>%
+    nat <- player_list %>%
       html_nodes(paste0("tr:nth-child(", x, ") img.flaggenrahmen")) %>%
       html_attr("title") %>% 
-      .[[1]]
+      head(1)
+    
+    ifelse(identical(nat, character(0)), "Unknown", nat)
   })
   
   # add club url cols
@@ -109,7 +119,7 @@ scrape_league_squads <- function(league_id, league_name, season_id) {
   squads <- inner_join(squads, club_meta, by = "club_url")
   
   # select cols to keep
-  squads <- select(squads, shirt_number:nationality, club_name, league_name, season)
+  squads <- select(squads, player_name:nationality, club_name, league_name, season)
   
   # add year
   squads$year <- season_id

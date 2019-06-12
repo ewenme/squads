@@ -1,0 +1,628 @@
+shirt_number,position,player_name,date_of_birth,age,nationality,club_name,league_name,season,year
+1,Goalkeeper,"Jan 14, 1982 (25)",NA,NA,Spain,FC Barcelona,LaLiga,2007/2008,2007
+13,Goalkeeper,"Nov 8, 1975 (31)",NA,NA,Spain,FC Barcelona,LaLiga,2007/2008,2007
+25,Goalkeeper,"Mar 3, 1979 (28)",NA,NA,Spain,FC Barcelona,LaLiga,2007/2008,2007
+28,Goalkeeper,"Sep 14, 1989 (17)",NA,NA,Spain,FC Barcelona,LaLiga,2007/2008,2007
+5,Centre-Back,"Apr 13, 1978 (29)",NA,NA,Spain,FC Barcelona,LaLiga,2007/2008,2007
+3,Centre-Back,"Sep 7, 1980 (26)",NA,NA,Argentina,FC Barcelona,LaLiga,2007/2008,2007
+4,Centre-Back,"Feb 13, 1979 (28)",NA,NA,Mexico,FC Barcelona,LaLiga,2007/2008,2007
+21,Centre-Back,"Jan 1, 1972 (35)",NA,NA,France,FC Barcelona,LaLiga,2007/2008,2007
+23,Centre-Back,"Feb 2, 1980 (27)",NA,NA,Spain,FC Barcelona,LaLiga,2007/2008,2007
+29,Centre-Back,"Jan 27, 1989 (18)",NA,NA,Spain,FC Barcelona,LaLiga,2007/2008,2007
+31,Centre-Back,"Mar 29, 1987 (20)",NA,NA,Spain,FC Barcelona,LaLiga,2007/2008,2007
+22,Left-Back,"Sep 11, 1979 (27)",NA,NA,France,FC Barcelona,LaLiga,2007/2008,2007
+16,Left-Back,"Apr 12, 1974 (33)",NA,NA,Brazil,FC Barcelona,LaLiga,2007/2008,2007
+26,Left-Back,"Mar 16, 1985 (22)",NA,NA,Spain,FC Barcelona,LaLiga,2007/2008,2007
+11,Right-Back,"Feb 19, 1977 (30)",NA,NA,Italy,FC Barcelona,LaLiga,2007/2008,2007
+34,Right-Back,"Feb 22, 1986 (21)",NA,NA,Spain,FC Barcelona,LaLiga,2007/2008,2007
+15,Defensive Midfield,"Jul 10, 1976 (30)",NA,NA,Brazil,FC Barcelona,LaLiga,2007/2008,2007
+26,Defensive Midfield,"Jan 9, 1988 (19)",NA,NA,Spain,FC Barcelona,LaLiga,2007/2008,2007
+6,Central Midfield,"Jan 25, 1980 (27)",NA,NA,Spain,FC Barcelona,LaLiga,2007/2008,2007
+8,Central Midfield,"May 11, 1984 (23)",NA,NA,Spain,FC Barcelona,LaLiga,2007/2008,2007
+24,Central Midfield,"May 13, 1983 (24)",NA,NA,Cote d'Ivoire,FC Barcelona,LaLiga,2007/2008,2007
+30,Central Midfield,"Sep 8, 1987 (19)",NA,NA,Spain,FC Barcelona,LaLiga,2007/2008,2007
+35,Central Midfield,"Jan 30, 1988 (19)",NA,NA,Spain,FC Barcelona,LaLiga,2007/2008,2007
+10,Attacking Midfield,"Mar 21, 1980 (27)",NA,NA,Brazil,FC Barcelona,LaLiga,2007/2008,2007
+20,Attacking Midfield,"Aug 27, 1977 (29)",NA,NA,Portugal,FC Barcelona,LaLiga,2007/2008,2007
+32,Attacking Midfield,"Jan 20, 1987 (20)",NA,NA,Spain,FC Barcelona,LaLiga,2007/2008,2007
+19,Right Winger,"Jun 24, 1987 (20)",NA,NA,Argentina,FC Barcelona,LaLiga,2007/2008,2007
+33,Right Winger,"Jul 28, 1987 (19)",NA,NA,Spain,FC Barcelona,LaLiga,2007/2008,2007
+27,Second Striker,"Aug 28, 1990 (16)",NA,NA,Spain,FC Barcelona,LaLiga,2007/2008,2007
+17,Second Striker,"May 11, 1989 (18)",NA,NA,Mexico,FC Barcelona,LaLiga,2007/2008,2007
+14,Centre-Forward,"Aug 17, 1977 (29)",NA,NA,France,FC Barcelona,LaLiga,2007/2008,2007
+9,Centre-Forward,"Mar 10, 1981 (26)",NA,NA,Cameroon,FC Barcelona,LaLiga,2007/2008,2007
+7,Centre-Forward,"Sep 15, 1978 (28)",NA,NA,Iceland,FC Barcelona,LaLiga,2007/2008,2007
+18,Centre-Forward,"Dec 14, 1976 (30)",NA,NA,Spain,FC Barcelona,LaLiga,2007/2008,2007
+1,Goalkeeper,"May 20, 1981 (26)",NA,NA,Spain,Real Madrid,LaLiga,2007/2008,2007
+25,Goalkeeper,"Mar 23, 1973 (34)",NA,NA,Poland,Real Madrid,LaLiga,2007/2008,2007
+13,Goalkeeper,"Apr 27, 1982 (25)",NA,NA,Spain,Real Madrid,LaLiga,2007/2008,2007
+4,Centre-Back,"Mar 30, 1986 (21)",NA,NA,Spain,Real Madrid,LaLiga,2007/2008,2007
+5,Centre-Back,"Sep 13, 1973 (33)",NA,NA,Italy,Real Madrid,LaLiga,2007/2008,2007
+16,Centre-Back,"Apr 19, 1978 (29)",NA,NA,Argentina,Real Madrid,LaLiga,2007/2008,2007
+3,Centre-Back,"Feb 26, 1983 (24)",NA,NA,Portugal,Real Madrid,LaLiga,2007/2008,2007
+21,Centre-Back,"Nov 5, 1980 (26)",NA,NA,Germany,Real Madrid,LaLiga,2007/2008,2007
+12,Left-Back,"May 12, 1988 (19)",NA,NA,Brazil,Real Madrid,LaLiga,2007/2008,2007
+22,Right-Back,"Jan 28, 1986 (21)",NA,NA,Spain,Real Madrid,LaLiga,2007/2008,2007
+2,Right-Back,"Oct 22, 1975 (31)",NA,NA,Spain,Real Madrid,LaLiga,2007/2008,2007
+6,Defensive Midfield,"May 18, 1981 (26)",NA,NA,Mali,Real Madrid,LaLiga,2007/2008,2007
+8,Defensive Midfield,"Apr 10, 1986 (21)",NA,NA,Argentina,Real Madrid,LaLiga,2007/2008,2007
+14,Central Midfield,"Oct 31, 1976 (30)",NA,NA,Spain,Real Madrid,LaLiga,2007/2008,2007
+NA,Central Midfield,"Jun 5, 1985 (22)",NA,NA,Spain,Real Madrid,LaLiga,2007/2008,2007
+15,Left Midfield,"Apr 8, 1987 (20)",NA,NA,Netherlands,Real Madrid,LaLiga,2007/2008,2007
+23,Attacking Midfield,"Jun 9, 1984 (23)",NA,NA,Netherlands,Real Madrid,LaLiga,2007/2008,2007
+19,Attacking Midfield,"Oct 1, 1981 (25)",NA,NA,Brazil,Real Madrid,LaLiga,2007/2008,2007
+11,Right Winger,"Jan 23, 1984 (23)",NA,NA,Netherlands,Real Madrid,LaLiga,2007/2008,2007
+24,Right Winger,"May 13, 1985 (22)",NA,NA,Equatorial Guinea,Real Madrid,LaLiga,2007/2008,2007
+10,Second Striker,"Jan 25, 1984 (23)",NA,NA,Brazil,Real Madrid,LaLiga,2007/2008,2007
+7,Second Striker,"Jun 27, 1977 (30)",NA,NA,Spain,Real Madrid,LaLiga,2007/2008,2007
+18,Second Striker,"Dec 11, 1981 (25)",NA,NA,Argentina,Real Madrid,LaLiga,2007/2008,2007
+17,Centre-Forward,"Jul 1, 1976 (31)",NA,NA,Netherlands,Real Madrid,LaLiga,2007/2008,2007
+20,Centre-Forward,"Dec 10, 1987 (19)",NA,NA,Argentina,Real Madrid,LaLiga,2007/2008,2007
+9,Centre-Forward,"May 27, 1985 (22)",NA,NA,Spain,Real Madrid,LaLiga,2007/2008,2007
+13,Goalkeeper,"Apr 5, 1979 (28)",NA,NA,Germany,Valencia CF,LaLiga,2007/2008,2007
+1,Goalkeeper,"Dec 18, 1969 (37)",NA,NA,Spain,Valencia CF,LaLiga,2007/2008,2007
+25,Goalkeeper,"Jul 12, 1973 (33)",NA,NA,Spain,Valencia CF,LaLiga,2007/2008,2007
+30,Goalkeeper,"Jan 10, 1987 (20)",NA,NA,Spain,Valencia CF,LaLiga,2007/2008,2007
+4,Centre-Back,"Sep 4, 1985 (21)",NA,NA,Spain,Valencia CF,LaLiga,2007/2008,2007
+5,Centre-Back,"Jul 31, 1979 (27)",NA,NA,Spain,Valencia CF,LaLiga,2007/2008,2007
+20,Centre-Back,"Aug 4, 1985 (21)",NA,NA,Spain,Valencia CF,LaLiga,2007/2008,2007
+24,Centre-Back,"Jun 11, 1981 (26)",NA,NA,Italy,Valencia CF,LaLiga,2007/2008,2007
+15,Centre-Back,"Mar 28, 1975 (32)",NA,NA,Spain,Valencia CF,LaLiga,2007/2008,2007
+12,Centre-Back,"Feb 9, 1979 (28)",NA,NA,Portugal,Valencia CF,LaLiga,2007/2008,2007
+33,Centre-Back,"Jun 5, 1987 (20)",NA,NA,Spain,Valencia CF,LaLiga,2007/2008,2007
+23,Right-Back,"Jan 4, 1980 (27)",NA,NA,Portugal,Valencia CF,LaLiga,2007/2008,2007
+6,Defensive Midfield,"Sep 1, 1977 (29)",NA,NA,Spain,Valencia CF,LaLiga,2007/2008,2007
+3,Defensive Midfield,"Feb 13, 1985 (22)",NA,NA,Netherlands,Valencia CF,LaLiga,2007/2008,2007
+2,Defensive Midfield,"Sep 17, 1988 (18)",NA,NA,Nigeria,Valencia CF,LaLiga,2007/2008,2007
+8,Central Midfield,"Jul 11, 1975 (31)",NA,NA,Spain,Valencia CF,LaLiga,2007/2008,2007
+22,Central Midfield,"May 15, 1978 (29)",NA,NA,Brazil,Valencia CF,LaLiga,2007/2008,2007
+NA,Central Midfield,"Jun 25, 1988 (19)",NA,NA,Spain,Valencia CF,LaLiga,2007/2008,2007
+11,Central Midfield,"Jun 29, 1988 (19)",NA,NA,Argentina,Valencia CF,LaLiga,2007/2008,2007
+21,Attacking Midfield,"Jan 8, 1986 (21)",NA,NA,Spain,Valencia CF,LaLiga,2007/2008,2007
+NA,Attacking Midfield,"Feb 5, 1986 (21)",NA,NA,Portugal,Valencia CF,LaLiga,2007/2008,2007
+16,Attacking Midfield,"Apr 28, 1988 (19)",NA,NA,Spain,Valencia CF,LaLiga,2007/2008,2007
+14,Left Winger,"Jul 16, 1981 (25)",NA,NA,Spain,Valencia CF,LaLiga,2007/2008,2007
+NA,Left Winger,"May 12, 1985 (22)",NA,NA,Spain,Valencia CF,LaLiga,2007/2008,2007
+17,Right Winger,"Jul 21, 1981 (25)",NA,NA,Spain,Valencia CF,LaLiga,2007/2008,2007
+10,Second Striker,"Jun 23, 1977 (30)",NA,NA,Spain,Valencia CF,LaLiga,2007/2008,2007
+7,Centre-Forward,"Dec 3, 1981 (25)",NA,NA,Spain,Valencia CF,LaLiga,2007/2008,2007
+9,Centre-Forward,"Apr 5, 1976 (31)",NA,NA,Spain,Valencia CF,LaLiga,2007/2008,2007
+18,Centre-Forward,"Sep 25, 1980 (26)",NA,NA,Serbia,Valencia CF,LaLiga,2007/2008,2007
+19,Centre-Forward,"Mar 3, 1984 (23)",NA,NA,Spain,Valencia CF,LaLiga,2007/2008,2007
+25,Goalkeeper,"May 20, 1977 (30)",NA,NA,Argentina,Atlético Madrid,LaLiga,2007/2008,2007
+13,Goalkeeper,"Jul 8, 1977 (29)",NA,NA,Italy,Atlético Madrid,LaLiga,2007/2008,2007
+1,Goalkeeper,"Apr 24, 1984 (23)",NA,NA,Spain,Atlético Madrid,LaLiga,2007/2008,2007
+21,Centre-Back,"Jan 30, 1979 (28)",NA,NA,Colombia,Atlético Madrid,LaLiga,2007/2008,2007
+22,Centre-Back,"Aug 3, 1981 (25)",NA,NA,Spain,Atlético Madrid,LaLiga,2007/2008,2007
+14,Centre-Back,"Jan 13, 1983 (24)",NA,NA,Portugal,Atlético Madrid,LaLiga,2007/2008,2007
+12,Centre-Back,"Nov 16, 1977 (29)",NA,NA,Brazil,Atlético Madrid,LaLiga,2007/2008,2007
+NA,Centre-Back,"Apr 6, 1985 (22)",NA,NA,Spain,Atlético Madrid,LaLiga,2007/2008,2007
+33,Centre-Back,"May 16, 1989 (18)",NA,NA,Spain,Atlético Madrid,LaLiga,2007/2008,2007
+34,Centre-Back,"Jan 30, 1989 (18)",NA,NA,Spain,Atlético Madrid,LaLiga,2007/2008,2007
+3,Left-Back,"Sep 13, 1981 (25)",NA,NA,Spain,Atlético Madrid,LaLiga,2007/2008,2007
+4,Left-Back,"May 4, 1977 (30)",NA,NA,Spain,Atlético Madrid,LaLiga,2007/2008,2007
+2,Right-Back,"Jun 4, 1981 (26)",NA,NA,Greece,Atlético Madrid,LaLiga,2007/2008,2007
+23,Right-Back,"Dec 21, 1984 (22)",NA,NA,Spain,Atlético Madrid,LaLiga,2007/2008,2007
+NA,Defensive Midfield,"Dec 1, 1974 (32)",NA,NA,Portugal,Atlético Madrid,LaLiga,2007/2008,2007
+5,Defensive Midfield,"Aug 28, 1982 (24)",NA,NA,Italy,Atlético Madrid,LaLiga,2007/2008,2007
+NA,Defensive Midfield,"Apr 9, 1979 (28)",NA,NA,France,Atlético Madrid,LaLiga,2007/2008,2007
+29,Defensive Midfield,"May 4, 1990 (17)",NA,NA,Spain,Atlético Madrid,LaLiga,2007/2008,2007
+18,Central Midfield,"Nov 11, 1977 (29)",NA,NA,Portugal,Atlético Madrid,LaLiga,2007/2008,2007
+6,Central Midfield,"Jun 27, 1981 (26)",NA,NA,Brazil,Atlético Madrid,LaLiga,2007/2008,2007
+27,Central Midfield,"Oct 7, 1986 (20)",NA,NA,Spain,Atlético Madrid,LaLiga,2007/2008,2007
+35,Central Midfield,"Jan 28, 1989 (18)",NA,NA,Spain,Atlético Madrid,LaLiga,2007/2008,2007
+8,Attacking Midfield,"Jul 11, 1986 (20)",NA,NA,Spain,Atlético Madrid,LaLiga,2007/2008,2007
+15,Attacking Midfield,"Jun 29, 1986 (21)",NA,NA,Spain,Atlético Madrid,LaLiga,2007/2008,2007
+24,Left Winger,"Oct 31, 1979 (27)",NA,NA,Portugal,Atlético Madrid,LaLiga,2007/2008,2007
+11,Left Winger,"Jan 2, 1981 (26)",NA,NA,Argentina,Atlético Madrid,LaLiga,2007/2008,2007
+NA,Left Winger,"Jan 15, 1979 (28)",NA,NA,Bulgaria,Atlético Madrid,LaLiga,2007/2008,2007
+17,Right Winger,"Sep 1, 1983 (23)",NA,NA,Spain,Atlético Madrid,LaLiga,2007/2008,2007
+9,Right Winger,"Jun 24, 1978 (29)",NA,NA,Spain,Atlético Madrid,LaLiga,2007/2008,2007
+19,Right Winger,"Jun 19, 1986 (21)",NA,NA,Spain,Atlético Madrid,LaLiga,2007/2008,2007
+32,Right Winger,"Feb 20, 1985 (22)",NA,NA,Spain,Atlético Madrid,LaLiga,2007/2008,2007
+7,Second Striker,"May 19, 1979 (28)",NA,NA,Uruguay,Atlético Madrid,LaLiga,2007/2008,2007
+10,Centre-Forward,"Jun 2, 1988 (19)",NA,NA,Argentina,Atlético Madrid,LaLiga,2007/2008,2007
+20,Centre-Forward,"Nov 12, 1978 (28)",NA,NA,Spain,Atlético Madrid,LaLiga,2007/2008,2007
+NA,Centre-Forward,"Sep 18, 1985 (21)",NA,NA,Spain,Atlético Madrid,LaLiga,2007/2008,2007
+NA,Centre-Forward,"Nov 13, 1984 (22)",NA,NA,Spain,Atlético Madrid,LaLiga,2007/2008,2007
+26,Centre-Forward,"Jan 8, 1986 (21)",NA,NA,Spain,Atlético Madrid,LaLiga,2007/2008,2007
+13,Goalkeeper,"Mar 26, 1977 (30)",NA,NA,Italy,Sevilla FC,LaLiga,2007/2008,2007
+1,Goalkeeper,"Oct 22, 1973 (33)",NA,NA,Spain,Sevilla FC,LaLiga,2007/2008,2007
+33,Goalkeeper,"Feb 16, 1984 (23)",NA,NA,Spain,Sevilla FC,LaLiga,2007/2008,2007
+23,Centre-Back,"Dec 28, 1981 (25)",NA,NA,Netherlands,Sevilla FC,LaLiga,2007/2008,2007
+14,Centre-Back,"Aug 17, 1979 (27)",NA,NA,France,Sevilla FC,LaLiga,2007/2008,2007
+2,Centre-Back,"Feb 6, 1974 (33)",NA,NA,Spain,Sevilla FC,LaLiga,2007/2008,2007
+3,Centre-Back,"Nov 13, 1975 (31)",NA,NA,Serbia,Sevilla FC,LaLiga,2007/2008,2007
+26,Centre-Back,"Feb 9, 1987 (20)",NA,NA,Spain,Sevilla FC,LaLiga,2007/2008,2007
+28,Centre-Back,"Mar 17, 1987 (20)",NA,NA,Argentina,Sevilla FC,LaLiga,2007/2008,2007
+18,Centre-Back,"Jan 2, 1983 (24)",NA,NA,Spain,Sevilla FC,LaLiga,2007/2008,2007
+15,Centre-Back,"Jun 22, 1981 (26)",NA,NA,Colombia,Sevilla FC,LaLiga,2007/2008,2007
+6,Left-Back,"Oct 26, 1984 (22)",NA,NA,Brazil,Sevilla FC,LaLiga,2007/2008,2007
+NA,Left-Back,"Nov 26, 1984 (†22)",NA,NA,Spain,Sevilla FC,LaLiga,2007/2008,2007
+32,Left-Back,"Aug 9, 1986 (20)",NA,NA,Spain,Sevilla FC,LaLiga,2007/2008,2007
+4,Right-Back,"May 6, 1983 (24)",NA,NA,Brazil,Sevilla FC,LaLiga,2007/2008,2007
+7,Right-Back,"Nov 21, 1985 (21)",NA,NA,Spain,Sevilla FC,LaLiga,2007/2008,2007
+NA,Right-Back,"Mar 26, 1982 (25)",NA,NA,Germany,Sevilla FC,LaLiga,2007/2008,2007
+16,Right-Back,"Feb 23, 1988 (19)",NA,NA,Spain,Sevilla FC,LaLiga,2007/2008,2007
+8,Defensive Midfield,"Feb 28, 1980 (27)",NA,NA,Denmark,Sevilla FC,LaLiga,2007/2008,2007
+NA,Defensive Midfield,"Apr 28, 1975 (32)",NA,NA,Spain,Sevilla FC,LaLiga,2007/2008,2007
+31,Defensive Midfield,"Aug 22, 1984 (22)",NA,NA,Spain,Sevilla FC,LaLiga,2007/2008,2007
+21,Central Midfield,"Jan 16, 1980 (27)",NA,NA,Mali,Sevilla FC,LaLiga,2007/2008,2007
+11,Central Midfield,"May 15, 1979 (28)",NA,NA,Brazil,Sevilla FC,LaLiga,2007/2008,2007
+25,Central Midfield,"Feb 10, 1980 (27)",NA,NA,Italy,Sevilla FC,LaLiga,2007/2008,2007
+20,Right Midfield,"Mar 4, 1986 (21)",NA,NA,Belgium,Sevilla FC,LaLiga,2007/2008,2007
+5,Left Midfield,"Jun 27, 1980 (27)",NA,NA,Portugal,Sevilla FC,LaLiga,2007/2008,2007
+27,Left Winger,"Nov 23, 1986 (20)",NA,NA,Spain,Sevilla FC,LaLiga,2007/2008,2007
+17,Left Winger,"Feb 16, 1988 (19)",NA,NA,Spain,Sevilla FC,LaLiga,2007/2008,2007
+12,Centre-Forward,"Sep 2, 1977 (29)",NA,NA,Mali,Sevilla FC,LaLiga,2007/2008,2007
+10,Centre-Forward,"Nov 8, 1980 (26)",NA,NA,Brazil,Sevilla FC,LaLiga,2007/2008,2007
+22,Centre-Forward,"Nov 11, 1983 (23)",NA,NA,Cote d'Ivoire,Sevilla FC,LaLiga,2007/2008,2007
+NA,Centre-Forward,"Nov 27, 1982 (24)",NA,NA,Russia,Sevilla FC,LaLiga,2007/2008,2007
+19,Centre-Forward,"Aug 12, 1980 (26)",NA,NA,Uruguay,Sevilla FC,LaLiga,2007/2008,2007
+35,Centre-Forward,"Oct 28, 1985 (21)",NA,NA,Spain,Sevilla FC,LaLiga,2007/2008,2007
+34,Centre-Forward,"Feb 1, 1983 (24)",NA,NA,Spain,Sevilla FC,LaLiga,2007/2008,2007
+25,Goalkeeper,"Sep 25, 1975 (31)",NA,NA,Spain,Real Zaragoza,LaLiga,2007/2008,2007
+1,Goalkeeper,"Sep 2, 1971 (35)",NA,NA,Spain,Real Zaragoza,LaLiga,2007/2008,2007
+13,Goalkeeper,"Nov 25, 1981 (25)",NA,NA,Spain,Real Zaragoza,LaLiga,2007/2008,2007
+6,Centre-Back,"Apr 14, 1973 (34)",NA,NA,Argentina,Real Zaragoza,LaLiga,2007/2008,2007
+23,Centre-Back,"May 23, 1977 (30)",NA,NA,Spain,Real Zaragoza,LaLiga,2007/2008,2007
+15,Centre-Back,"Jan 9, 1980 (27)",NA,NA,Spain,Real Zaragoza,LaLiga,2007/2008,2007
+24,Centre-Back,"Feb 10, 1984 (23)",NA,NA,Spain,Real Zaragoza,LaLiga,2007/2008,2007
+26,Centre-Back,"Oct 12, 1988 (18)",NA,NA,Spain,Real Zaragoza,LaLiga,2007/2008,2007
+27,Centre-Back,"Apr 14, 1987 (20)",NA,NA,Spain,Real Zaragoza,LaLiga,2007/2008,2007
+11,Left-Back,"Jul 15, 1976 (30)",NA,NA,Spain,Real Zaragoza,LaLiga,2007/2008,2007
+3,Left-Back,"Jul 5, 1982 (24)",NA,NA,Spain,Real Zaragoza,LaLiga,2007/2008,2007
+32,Left-Back,"Aug 25, 1987 (19)",NA,NA,Spain,Real Zaragoza,LaLiga,2007/2008,2007
+2,Right-Back,"Jul 18, 1983 (23)",NA,NA,Uruguay,Real Zaragoza,LaLiga,2007/2008,2007
+4,Right-Back,"Aug 17, 1975 (31)",NA,NA,Spain,Real Zaragoza,LaLiga,2007/2008,2007
+34,Midfielder,"Jan 19, 1988 (19)",NA,NA,Spain,Real Zaragoza,LaLiga,2007/2008,2007
+20,Defensive Midfield,"Jun 10, 1980 (27)",NA,NA,Brazil,Real Zaragoza,LaLiga,2007/2008,2007
+7,Defensive Midfield,"Apr 9, 1979 (28)",NA,NA,France,Real Zaragoza,LaLiga,2007/2008,2007
+21,Defensive Midfield,"Jun 13, 1985 (22)",NA,NA,Spain,Real Zaragoza,LaLiga,2007/2008,2007
+16,Defensive Midfield,"Sep 29, 1975 (31)",NA,NA,Spain,Real Zaragoza,LaLiga,2007/2008,2007
+14,Defensive Midfield,"Jul 10, 1983 (23)",NA,NA,Spain,Real Zaragoza,LaLiga,2007/2008,2007
+19,Central Midfield,"Aug 11, 1982 (24)",NA,NA,Spain,Real Zaragoza,LaLiga,2007/2008,2007
+28,Central Midfield,"Aug 28, 1985 (21)",NA,NA,Spain,Real Zaragoza,LaLiga,2007/2008,2007
+29,Central Midfield,"Jul 18, 1985 (21)",NA,NA,Spain,Real Zaragoza,LaLiga,2007/2008,2007
+33,Central Midfield,"Mar 21, 1987 (20)",NA,NA,Spain,Real Zaragoza,LaLiga,2007/2008,2007
+8,Attacking Midfield,"Nov 3, 1979 (27)",NA,NA,Argentina,Real Zaragoza,LaLiga,2007/2008,2007
+NA,Attacking Midfield,"Apr 15, 1981 (26)",NA,NA,Argentina,Real Zaragoza,LaLiga,2007/2008,2007
+5,Attacking Midfield,"Nov 12, 1982 (24)",NA,NA,Spain,Real Zaragoza,LaLiga,2007/2008,2007
+22,Centre-Forward,"Jun 12, 1979 (28)",NA,NA,Argentina,Real Zaragoza,LaLiga,2007/2008,2007
+12,Centre-Forward,"May 6, 1980 (27)",NA,NA,Brazil,Real Zaragoza,LaLiga,2007/2008,2007
+9,Centre-Forward,"Jun 9, 1983 (24)",NA,NA,Spain,Real Zaragoza,LaLiga,2007/2008,2007
+30,Centre-Forward,"Aug 21, 1986 (20)",NA,NA,Spain,Real Zaragoza,LaLiga,2007/2008,2007
+31,Centre-Forward,"Jan 2, 1987 (20)",NA,NA,Spain,Real Zaragoza,LaLiga,2007/2008,2007
+13,Goalkeeper,"Nov 3, 1981 (25)",NA,NA,Spain,Villarreal CF,LaLiga,2007/2008,2007
+1,Goalkeeper,"Mar 7, 1983 (24)",NA,NA,Uruguay,Villarreal CF,LaLiga,2007/2008,2007
+26,Goalkeeper,"Jul 27, 1987 (19)",NA,NA,Spain,Villarreal CF,LaLiga,2007/2008,2007
+2,Centre-Back,"Apr 10, 1984 (23)",NA,NA,Argentina,Villarreal CF,LaLiga,2007/2008,2007
+3,Centre-Back,"Nov 15, 1979 (27)",NA,NA,Spain,Villarreal CF,LaLiga,2007/2008,2007
+12,Centre-Back,"Apr 29, 1974 (33)",NA,NA,France,Villarreal CF,LaLiga,2007/2008,2007
+20,Centre-Back,"Oct 13, 1976 (30)",NA,NA,Argentina,Villarreal CF,LaLiga,2007/2008,2007
+4,Centre-Back,"Feb 16, 1986 (21)",NA,NA,Uruguay,Villarreal CF,LaLiga,2007/2008,2007
+28,Centre-Back,"Aug 21, 1988 (18)",NA,NA,Spain,Villarreal CF,LaLiga,2007/2008,2007
+5,Left-Back,"Feb 3, 1978 (29)",NA,NA,Spain,Villarreal CF,LaLiga,2007/2008,2007
+17,Right-Back,"Dec 13, 1975 (31)",NA,NA,Spain,Villarreal CF,LaLiga,2007/2008,2007
+18,Right-Back,"Mar 10, 1981 (26)",NA,NA,Spain,Villarreal CF,LaLiga,2007/2008,2007
+NA,Defensive Midfield,"Mar 8, 1984 (23)",NA,NA,France,Villarreal CF,LaLiga,2007/2008,2007
+19,Defensive Midfield,"Jul 17, 1976 (30)",NA,NA,Spain,Villarreal CF,LaLiga,2007/2008,2007
+6,Defensive Midfield,"Jan 6, 1975 (32)",NA,NA,Spain,Villarreal CF,LaLiga,2007/2008,2007
+23,Defensive Midfield,"Jan 8, 1981 (26)",NA,NA,Uruguay,Villarreal CF,LaLiga,2007/2008,2007
+21,Defensive Midfield,"Jun 12, 1984 (23)",NA,NA,Spain,Villarreal CF,LaLiga,2007/2008,2007
+8,Central Midfield,"Dec 13, 1984 (22)",NA,NA,Spain,Villarreal CF,LaLiga,2007/2008,2007
+NA,Central Midfield,"Feb 7, 1985 (22)",NA,NA,Spain,Villarreal CF,LaLiga,2007/2008,2007
+7,Left Midfield,"Oct 29, 1973 (33)",NA,NA,France,Villarreal CF,LaLiga,2007/2008,2007
+NA,Attacking Midfield,"Jun 24, 1978 (29)",NA,NA,Argentina,Villarreal CF,LaLiga,2007/2008,2007
+10,Attacking Midfield,"Aug 3, 1981 (25)",NA,NA,Spain,Villarreal CF,LaLiga,2007/2008,2007
+14,Attacking Midfield,"May 15, 1986 (21)",NA,NA,Chile,Villarreal CF,LaLiga,2007/2008,2007
+24,Attacking Midfield,"Apr 6, 1987 (20)",NA,NA,Portugal,Villarreal CF,LaLiga,2007/2008,2007
+27,Left Winger,"Jan 21, 1989 (18)",NA,NA,Spain,Villarreal CF,LaLiga,2007/2008,2007
+NA,Right Winger,"Jun 27, 1986 (21)",NA,NA,Spain,Villarreal CF,LaLiga,2007/2008,2007
+15,Centre-Forward,"Nov 23, 1979 (27)",NA,NA,Turkey,Villarreal CF,LaLiga,2007/2008,2007
+22,Centre-Forward,"Feb 1, 1987 (20)",NA,NA,Italy,Villarreal CF,LaLiga,2007/2008,2007
+11,Centre-Forward,"Aug 29, 1976 (30)",NA,NA,Denmark,Villarreal CF,LaLiga,2007/2008,2007
+9,Centre-Forward,"Nov 3, 1976 (30)",NA,NA,Mexico,Villarreal CF,LaLiga,2007/2008,2007
+1,Goalkeeper,"Feb 11, 1976 (31)",NA,NA,Portugal,Real Betis Balompié,LaLiga,2007/2008,2007
+25,Goalkeeper,"Aug 5, 1980 (26)",NA,NA,Spain,Real Betis Balompié,LaLiga,2007/2008,2007
+13,Goalkeeper,"Jun 18, 1982 (25)",NA,NA,Spain,Real Betis Balompié,LaLiga,2007/2008,2007
+28,Goalkeeper,"Dec 15, 1983 (23)",NA,NA,Spain,Real Betis Balompié,LaLiga,2007/2008,2007
+4,Centre-Back,"Jul 23, 1976 (30)",NA,NA,Spain,Real Betis Balompié,LaLiga,2007/2008,2007
+2,Centre-Back,"Jun 6, 1984 (23)",NA,NA,Spain,Real Betis Balompié,LaLiga,2007/2008,2007
+6,Centre-Back,"Feb 6, 1983 (24)",NA,NA,Slovenia,Real Betis Balompié,LaLiga,2007/2008,2007
+15,Centre-Back,"Jul 7, 1980 (26)",NA,NA,Spain,Real Betis Balompié,LaLiga,2007/2008,2007
+5,Centre-Back,"Dec 2, 1978 (28)",NA,NA,Spain,Real Betis Balompié,LaLiga,2007/2008,2007
+22,Centre-Back,"Feb 10, 1985 (22)",NA,NA,Brazil,Real Betis Balompié,LaLiga,2007/2008,2007
+29,Centre-Back,"Apr 22, 1984 (23)",NA,NA,Spain,Real Betis Balompié,LaLiga,2007/2008,2007
+33,Centre-Back,"Sep 25, 1985 (21)",NA,NA,Spain,Real Betis Balompié,LaLiga,2007/2008,2007
+3,Left-Back,"Jul 3, 1984 (22)",NA,NA,Spain,Real Betis Balompié,LaLiga,2007/2008,2007
+32,Left-Back,"Feb 7, 1985 (22)",NA,NA,Spain,Real Betis Balompié,LaLiga,2007/2008,2007
+12,Right-Back,"Apr 15, 1982 (25)",NA,NA,Spain,Real Betis Balompié,LaLiga,2007/2008,2007
+30,Right-Back,"Aug 1, 1986 (20)",NA,NA,Spain,Real Betis Balompié,LaLiga,2007/2008,2007
+20,Defensive Midfield,"Jan 26, 1981 (26)",NA,NA,Argentina,Real Betis Balompié,LaLiga,2007/2008,2007
+27,Defensive Midfield,"Aug 12, 1986 (20)",NA,NA,Spain,Real Betis Balompié,LaLiga,2007/2008,2007
+8,Defensive Midfield,"Mar 17, 1981 (26)",NA,NA,Spain,Real Betis Balompié,LaLiga,2007/2008,2007
+18,Central Midfield,"Feb 16, 1978 (29)",NA,NA,Spain,Real Betis Balompié,LaLiga,2007/2008,2007
+31,Right Midfield,"Mar 7, 1986 (21)",NA,NA,Spain,Real Betis Balompié,LaLiga,2007/2008,2007
+17,Left Midfield,"Jan 28, 1981 (26)",NA,NA,Croatia,Real Betis Balompié,LaLiga,2007/2008,2007
+7,Left Midfield,"Sep 30, 1984 (22)",NA,NA,Argentina,Real Betis Balompié,LaLiga,2007/2008,2007
+14,Attacking Midfield,"Mar 26, 1977 (30)",NA,NA,Spain,Real Betis Balompié,LaLiga,2007/2008,2007
+9,Attacking Midfield,"Jun 2, 1979 (28)",NA,NA,Spain,Real Betis Balompié,LaLiga,2007/2008,2007
+11,Left Winger,"Jul 10, 1984 (22)",NA,NA,Chile,Real Betis Balompié,LaLiga,2007/2008,2007
+23,Right Winger,N/A (23),NA,NA,Germany,Real Betis Balompié,LaLiga,2007/2008,2007
+19,Second Striker,"Sep 5, 1980 (26)",NA,NA,Spain,Real Betis Balompié,LaLiga,2007/2008,2007
+10,Second Striker,"Jan 10, 1979 (28)",NA,NA,Brazil,Real Betis Balompié,LaLiga,2007/2008,2007
+21,Centre-Forward,"Jun 17, 1985 (22)",NA,NA,Brazil,Real Betis Balompié,LaLiga,2007/2008,2007
+24,Centre-Forward,"Dec 10, 1978 (28)",NA,NA,Spain,Real Betis Balompié,LaLiga,2007/2008,2007
+16,Centre-Forward,"May 27, 1982 (25)",NA,NA,Argentina,Real Betis Balompié,LaLiga,2007/2008,2007
+1,Goalkeeper,"Oct 17, 1977 (29)",NA,NA,Israel,Deportivo de La Coruña,LaLiga,2007/2008,2007
+13,Goalkeeper,"Jan 27, 1978 (29)",NA,NA,Uruguay,Deportivo de La Coruña,LaLiga,2007/2008,2007
+30,Goalkeeper,"Dec 31, 1987 (19)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2007/2008,2007
+27,Goalkeeper,"May 9, 1986 (21)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2007/2008,2007
+5,Centre-Back,"Jan 22, 1982 (25)",NA,NA,Argentina,Deportivo de La Coruña,LaLiga,2007/2008,2007
+NA,Centre-Back,"Aug 17, 1984 (22)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2007/2008,2007
+4,Centre-Back,"May 5, 1980 (27)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2007/2008,2007
+24,Centre-Back,"Jan 15, 1978 (29)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2007/2008,2007
+29,Centre-Back,"Apr 12, 1985 (22)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2007/2008,2007
+NA,Centre-Back,"Apr 2, 1986 (21)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2007/2008,2007
+28,Centre-Back,"Feb 25, 1987 (20)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2007/2008,2007
+3,Left-Back,"Aug 9, 1985 (21)",NA,NA,Brazil,Deportivo de La Coruña,LaLiga,2007/2008,2007
+2,Right-Back,"Jan 25, 1976 (31)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2007/2008,2007
+19,Right-Back,"Jun 12, 1987 (20)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2007/2008,2007
+32,Right-Back,"Mar 22, 1985 (22)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2007/2008,2007
+6,Defensive Midfield,"Mar 25, 1981 (26)",NA,NA,Canada,Deportivo de La Coruña,LaLiga,2007/2008,2007
+22,Defensive Midfield,"Apr 1, 1982 (25)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2007/2008,2007
+8,Central Midfield,"Nov 10, 1976 (30)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2007/2008,2007
+18,Central Midfield,"Sep 28, 1986 (20)",NA,NA,Mexico,Deportivo de La Coruña,LaLiga,2007/2008,2007
+16,Central Midfield,"Jan 13, 1985 (22)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2007/2008,2007
+NA,Left Midfield,"Jan 8, 1988 (19)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2007/2008,2007
+21,Attacking Midfield,"Jun 17, 1975 (32)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2007/2008,2007
+10,Attacking Midfield,"May 5, 1983 (24)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2007/2008,2007
+31,Attacking Midfield,"Feb 13, 1985 (22)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2007/2008,2007
+17,Left Winger,"Aug 7, 1984 (22)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2007/2008,2007
+20,Left Winger,"Sep 21, 1983 (23)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2007/2008,2007
+14,Right Winger,"Dec 8, 1979 (27)",NA,NA,Sweden,Deportivo de La Coruña,LaLiga,2007/2008,2007
+NA,Right Winger,"May 14, 1980 (27)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2007/2008,2007
+11,Centre-Forward,"Aug 11, 1980 (26)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2007/2008,2007
+9,Centre-Forward,"May 22, 1981 (26)",NA,NA,Uruguay,Deportivo de La Coruña,LaLiga,2007/2008,2007
+7,Centre-Forward,"Oct 25, 1977 (29)",NA,NA,Equatorial Guinea,Deportivo de La Coruña,LaLiga,2007/2008,2007
+15,Centre-Forward,"Jun 27, 1981 (26)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2007/2008,2007
+23,Centre-Forward,"Jun 26, 1986 (21)",NA,NA,Spain,Deportivo de La Coruña,LaLiga,2007/2008,2007
+13,Goalkeeper,"Dec 30, 1971 (35)",NA,NA,Spain,CA Osasuna,LaLiga,2007/2008,2007
+1,Goalkeeper,"Jan 24, 1979 (28)",NA,NA,Spain,CA Osasuna,LaLiga,2007/2008,2007
+26,Goalkeeper,"Dec 17, 1986 (20)",NA,NA,Spain,CA Osasuna,LaLiga,2007/2008,2007
+4,Centre-Back,"Aug 19, 1984 (22)",NA,NA,Spain,CA Osasuna,LaLiga,2007/2008,2007
+7,Centre-Back,"Jan 26, 1974 (33)",NA,NA,Spain,CA Osasuna,LaLiga,2007/2008,2007
+14,Centre-Back,"Feb 25, 1977 (30)",NA,NA,Spain,CA Osasuna,LaLiga,2007/2008,2007
+15,Centre-Back,"Oct 31, 1981 (25)",NA,NA,Spain,CA Osasuna,LaLiga,2007/2008,2007
+27,Centre-Back,"Jan 5, 1988 (19)",NA,NA,Spain,CA Osasuna,LaLiga,2007/2008,2007
+19,Left-Back,"Mar 1, 1982 (25)",NA,NA,Spain,CA Osasuna,LaLiga,2007/2008,2007
+3,Left-Back,"Feb 26, 1986 (21)",NA,NA,Spain,CA Osasuna,LaLiga,2007/2008,2007
+17,Right-Back,"Aug 19, 1984 (22)",NA,NA,Spain,CA Osasuna,LaLiga,2007/2008,2007
+12,Right-Back,"Jan 9, 1985 (22)",NA,NA,Spain,CA Osasuna,LaLiga,2007/2008,2007
+2,Right-Back,"Aug 3, 1980 (26)",NA,NA,Spain,CA Osasuna,LaLiga,2007/2008,2007
+40,Right-Back,"Aug 28, 1989 (17)",NA,NA,Spain,CA Osasuna,LaLiga,2007/2008,2007
+25,Defensive Midfield,"Sep 7, 1980 (26)",NA,NA,Iran,CA Osasuna,LaLiga,2007/2008,2007
+10,Defensive Midfield,"Sep 6, 1975 (31)",NA,NA,Spain,CA Osasuna,LaLiga,2007/2008,2007
+16,Defensive Midfield,"Feb 8, 1987 (20)",NA,NA,Spain,CA Osasuna,LaLiga,2007/2008,2007
+29,Defensive Midfield,"May 25, 1986 (21)",NA,NA,Spain,CA Osasuna,LaLiga,2007/2008,2007
+20,Central Midfield,"Jan 15, 1983 (24)",NA,NA,Portugal,CA Osasuna,LaLiga,2007/2008,2007
+6,Central Midfield,"Jan 5, 1982 (25)",NA,NA,Czech Republic,CA Osasuna,LaLiga,2007/2008,2007
+24,Central Midfield,"Jul 10, 1977 (29)",NA,NA,Argentina,CA Osasuna,LaLiga,2007/2008,2007
+8,Central Midfield,"Jun 15, 1984 (23)",NA,NA,Spain,CA Osasuna,LaLiga,2007/2008,2007
+NA,Central Midfield,"Nov 3, 1986 (20)",NA,NA,Spain,CA Osasuna,LaLiga,2007/2008,2007
+5,Attacking Midfield,"Jan 7, 1984 (23)",NA,NA,Switzerland,CA Osasuna,LaLiga,2007/2008,2007
+23,Left Winger,"Feb 6, 1980 (27)",NA,NA,France,CA Osasuna,LaLiga,2007/2008,2007
+28,Left Winger,"Jun 15, 1988 (19)",NA,NA,Spain,CA Osasuna,LaLiga,2007/2008,2007
+21,Right Winger,"Mar 1, 1989 (18)",NA,NA,Mexico,CA Osasuna,LaLiga,2007/2008,2007
+11,Centre-Forward,"Apr 27, 1976 (31)",NA,NA,Uruguay,CA Osasuna,LaLiga,2007/2008,2007
+9,Centre-Forward,"Mar 30, 1982 (25)",NA,NA,Spain,CA Osasuna,LaLiga,2007/2008,2007
+18,Centre-Forward,"Aug 13, 1981 (25)",NA,NA,Cape Verde,CA Osasuna,LaLiga,2007/2008,2007
+22,Centre-Forward,"Feb 25, 1986 (21)",NA,NA,Spain,CA Osasuna,LaLiga,2007/2008,2007
+13,Goalkeeper,"Sep 18, 1979 (27)",NA,NA,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+1,Goalkeeper,"Jan 16, 1971 (36)",NA,NA,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+28,Goalkeeper,"Mar 6, 1981 (26)",NA,NA,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+26,Goalkeeper,"Mar 13, 1988 (19)",NA,NA,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+18,Centre-Back,"Aug 19, 1980 (26)",NA,NA,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+20,Centre-Back,"Nov 28, 1976 (30)",NA,NA,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+19,Centre-Back,"Jul 22, 1983 (23)",NA,NA,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+14,Centre-Back,"Feb 19, 1979 (28)",NA,NA,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+4,Centre-Back,"Feb 16, 1983 (24)",NA,NA,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+5,Centre-Back,"Mar 29, 1985 (22)",NA,NA,Venezuela,Athletic Bilbao,LaLiga,2007/2008,2007
+3,Left-Back,"Jan 19, 1981 (26)",NA,NA,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+29,Left-Back,"May 9, 1982 (25)",NA,NA,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+12,Left-Back,"Dec 23, 1980 (26)",NA,NA,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+15,Right-Back,"Jun 22, 1982 (25)",NA,NA,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+2,Right-Back,"Jan 23, 1980 (27)",NA,NA,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+6,Right-Back,"Jan 22, 1983 (24)",NA,NA,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+24,Defensive Midfield,"Sep 2, 1988 (18)",NA,NA,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+16,Defensive Midfield,"Feb 6, 1979 (28)",NA,NA,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+22,Defensive Midfield,"Jul 2, 1978 (28)",NA,NA,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+25,Central Midfield,"Sep 10, 1982 (24)",NA,NA,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+7,Central Midfield,"Sep 10, 1976 (30)",NA,NA,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+21,Right Midfield,"Nov 1, 1979 (27)",NA,NA,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+11,Left Midfield,"Feb 10, 1979 (28)",NA,NA,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+10,Attacking Midfield,"Dec 6, 1979 (27)",NA,NA,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+8,Attacking Midfield,"Oct 4, 1985 (21)",NA,NA,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+30,Left Winger,"May 14, 1987 (20)",NA,NA,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+17,Right Winger,"Sep 5, 1977 (29)",NA,NA,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+27,Right Winger,"Dec 14, 1987 (19)",NA,NA,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+45,Right Winger,"Jun 11, 1985 (22)",NA,NA,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+23,Centre-Forward,"Feb 11, 1981 (26)",NA,NA,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+9,Centre-Forward,"Feb 26, 1985 (22)",NA,NA,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+NA,Centre-Forward,"Feb 17, 1985 (22)",NA,NA,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+13,Goalkeeper,"Feb 18, 1984 (23)",NA,NA,Cameroon,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+1,Goalkeeper,"Jan 24, 1976 (31)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+26,Goalkeeper,"Oct 2, 1986 (20)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+40,Goalkeeper,"Mar 15, 1980 (27)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+30,Goalkeeper,"Jun 18, 1988 (19)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+21,Centre-Back,"Jan 1, 1983 (24)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+19,Centre-Back,"Feb 18, 1986 (21)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+27,Centre-Back,"Jul 17, 1984 (22)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+6,Left-Back,"Jul 31, 1981 (25)",NA,NA,Argentina,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+3,Left-Back,"Jan 16, 1981 (26)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+17,Left-Back,"Jan 23, 1984 (23)",NA,NA,Argentina,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+8,Right-Back,"Jan 16, 1985 (22)",NA,NA,Argentina,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+4,Right-Back,"Apr 25, 1978 (29)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+2,Right-Back,"May 17, 1985 (22)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+25,Defensive Midfield,"Nov 19, 1986 (20)",NA,NA,Serbia,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+15,Defensive Midfield,"Feb 22, 1981 (26)",NA,NA,Brazil,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+22,Defensive Midfield,"Feb 20, 1981 (26)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+10,Central Midfield,"Feb 6, 1981 (26)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+NA,Central Midfield,"Jul 29, 1982 (24)",NA,NA,Brazil,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+31,Central Midfield,"May 24, 1985 (22)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+14,Central Midfield,"Jan 31, 1986 (21)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+9,Attacking Midfield,"May 6, 1976 (31)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+17,Attacking Midfield,"Sep 12, 1977 (29)",NA,NA,Morocco,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+11,Left Winger,"Apr 15, 1982 (25)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+18,Right Winger,"Nov 20, 1976 (30)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+7,Right Winger,"Apr 23, 1981 (26)",NA,NA,Cape Verde,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+12,Centre-Forward,"Jun 10, 1981 (26)",NA,NA,Brazil,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+23,Centre-Forward,"Oct 19, 1977 (29)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+24,Centre-Forward,"Sep 24, 1985 (21)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+20,Centre-Forward,"Jan 5, 1983 (24)",NA,NA,Spain,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+1,Goalkeeper,"Jul 3, 1986 (20)",NA,NA,Argentina,Getafe CF,LaLiga,2007/2008,2007
+13,Goalkeeper,"Aug 19, 1972 (34)",NA,NA,Argentina,Getafe CF,LaLiga,2007/2008,2007
+32,Goalkeeper,"Jan 9, 1985 (22)",NA,NA,Spain,Getafe CF,LaLiga,2007/2008,2007
+5,Centre-Back,"Feb 2, 1982 (25)",NA,NA,Spain,Getafe CF,LaLiga,2007/2008,2007
+4,Centre-Back,"Dec 17, 1972 (34)",NA,NA,Spain,Getafe CF,LaLiga,2007/2008,2007
+NA,Centre-Back,"Jul 12, 1984 (22)",NA,NA,Spain,Getafe CF,LaLiga,2007/2008,2007
+23,Centre-Back,"Feb 3, 1978 (29)",NA,NA,Spain,Getafe CF,LaLiga,2007/2008,2007
+3,Centre-Back,"Jul 13, 1979 (27)",NA,NA,Argentina,Getafe CF,LaLiga,2007/2008,2007
+30,Centre-Back,"Apr 16, 1985 (22)",NA,NA,Spain,Getafe CF,LaLiga,2007/2008,2007
+19,Left-Back,"Sep 19, 1981 (25)",NA,NA,France,Getafe CF,LaLiga,2007/2008,2007
+NA,Left-Back,"Jun 24, 1980 (27)",NA,NA,Spain,Getafe CF,LaLiga,2007/2008,2007
+12,Left-Back,"Apr 6, 1981 (26)",NA,NA,Argentina,Getafe CF,LaLiga,2007/2008,2007
+21,Right-Back,"Aug 29, 1979 (27)",NA,NA,Spain,Getafe CF,LaLiga,2007/2008,2007
+2,Right-Back,"Dec 15, 1975 (31)",NA,NA,Romania,Getafe CF,LaLiga,2007/2008,2007
+26,Right-Back,"Sep 22, 1989 (17)",NA,NA,Spain,Getafe CF,LaLiga,2007/2008,2007
+28,Right-Back,"Sep 11, 1988 (18)",NA,NA,Spain,Getafe CF,LaLiga,2007/2008,2007
+6,Defensive Midfield,"Oct 31, 1975 (31)",NA,NA,Switzerland,Getafe CF,LaLiga,2007/2008,2007
+22,Defensive Midfield,"Mar 11, 1976 (31)",NA,NA,Spain,Getafe CF,LaLiga,2007/2008,2007
+29,Defensive Midfield,"Jun 6, 1986 (21)",NA,NA,Spain,Getafe CF,LaLiga,2007/2008,2007
+10,Central Midfield,"Jun 5, 1985 (22)",NA,NA,Spain,Getafe CF,LaLiga,2007/2008,2007
+20,Central Midfield,"Sep 5, 1986 (20)",NA,NA,Spain,Getafe CF,LaLiga,2007/2008,2007
+25,Central Midfield,"Jul 2, 1987 (19)",NA,NA,Spain,Getafe CF,LaLiga,2007/2008,2007
+7,Right Midfield,"Feb 10, 1975 (32)",NA,NA,Spain,Getafe CF,LaLiga,2007/2008,2007
+27,Attacking Midfield,"Apr 17, 1982 (25)",NA,NA,Spain,Getafe CF,LaLiga,2007/2008,2007
+11,Attacking Midfield,"Feb 3, 1980 (27)",NA,NA,Spain,Getafe CF,LaLiga,2007/2008,2007
+16,Attacking Midfield,"Jul 17, 1986 (20)",NA,NA,Uruguay,Getafe CF,LaLiga,2007/2008,2007
+8,Left Winger,"May 12, 1985 (22)",NA,NA,Spain,Getafe CF,LaLiga,2007/2008,2007
+24,Right Winger,"Apr 11, 1985 (22)",NA,NA,Spain,Getafe CF,LaLiga,2007/2008,2007
+17,Centre-Forward,"Jan 13, 1984 (23)",NA,NA,Spain,Getafe CF,LaLiga,2007/2008,2007
+18,Centre-Forward,"Jan 5, 1984 (23)",NA,NA,Nigeria,Getafe CF,LaLiga,2007/2008,2007
+14,Centre-Forward,"Feb 25, 1984 (23)",NA,NA,Spain,Getafe CF,LaLiga,2007/2008,2007
+9,Centre-Forward,"Sep 18, 1985 (21)",NA,NA,Spain,Getafe CF,LaLiga,2007/2008,2007
+13,Goalkeeper,"Dec 17, 1979 (27)",NA,NA,Spain,Racing Santander,LaLiga,2007/2008,2007
+1,Goalkeeper,"Dec 3, 1980 (26)",NA,NA,Switzerland,Racing Santander,LaLiga,2007/2008,2007
+25,Goalkeeper,"Dec 21, 1979 (27)",NA,NA,Spain,Racing Santander,LaLiga,2007/2008,2007
+31,Goalkeeper,"Apr 30, 1988 (19)",NA,NA,Spain,Racing Santander,LaLiga,2007/2008,2007
+34,Goalkeeper,"Jan 9, 1991 (16)",NA,NA,Spain,Racing Santander,LaLiga,2007/2008,2007
+4,Centre-Back,"Oct 10, 1986 (20)",NA,NA,Argentina,Racing Santander,LaLiga,2007/2008,2007
+3,Centre-Back,"May 23, 1981 (26)",NA,NA,Spain,Racing Santander,LaLiga,2007/2008,2007
+24,Centre-Back,"Feb 14, 1980 (27)",NA,NA,Spain,Racing Santander,LaLiga,2007/2008,2007
+22,Centre-Back,"Jul 14, 1979 (27)",NA,NA,Spain,Racing Santander,LaLiga,2007/2008,2007
+16,Centre-Back,"Apr 3, 1986 (21)",NA,NA,Spain,Racing Santander,LaLiga,2007/2008,2007
+NA,Centre-Back,"Mar 1, 1984 (23)",NA,NA,Spain,Racing Santander,LaLiga,2007/2008,2007
+5,Centre-Back,"Oct 15, 1985 (21)",NA,NA,Spain,Racing Santander,LaLiga,2007/2008,2007
+29,Centre-Back,"Jun 23, 1987 (20)",NA,NA,Spain,Racing Santander,LaLiga,2007/2008,2007
+17,Left-Back,"Sep 29, 1972 (34)",NA,NA,Spain,Racing Santander,LaLiga,2007/2008,2007
+21,Left-Back,"May 25, 1982 (25)",NA,NA,Spain,Racing Santander,LaLiga,2007/2008,2007
+14,Right-Back,"Jul 9, 1974 (32)",NA,NA,Spain,Racing Santander,LaLiga,2007/2008,2007
+6,Defensive Midfield,"Mar 22, 1979 (28)",NA,NA,Argentina,Racing Santander,LaLiga,2007/2008,2007
+8,Defensive Midfield,"Apr 2, 1979 (28)",NA,NA,Spain,Racing Santander,LaLiga,2007/2008,2007
+2,Defensive Midfield,"Sep 29, 1978 (28)",NA,NA,Uruguay,Racing Santander,LaLiga,2007/2008,2007
+18,Central Midfield,"Feb 28, 1981 (26)",NA,NA,Spain,Racing Santander,LaLiga,2007/2008,2007
+NA,Central Midfield,"Aug 28, 1988 (18)",NA,NA,Spain,Racing Santander,LaLiga,2007/2008,2007
+NA,Central Midfield,"Jun 17, 1987 (20)",NA,NA,United States,Racing Santander,LaLiga,2007/2008,2007
+11,Left Midfield,"Sep 30, 1981 (25)",NA,NA,Spain,Racing Santander,LaLiga,2007/2008,2007
+23,Attacking Midfield,"Dec 30, 1984 (22)",NA,NA,Spain,Racing Santander,LaLiga,2007/2008,2007
+15,Attacking Midfield,"Apr 22, 1990 (17)",NA,NA,Argentina,Racing Santander,LaLiga,2007/2008,2007
+19,Attacking Midfield,"Mar 10, 1989 (18)",NA,NA,Peru,Racing Santander,LaLiga,2007/2008,2007
+26,Attacking Midfield,"Aug 11, 1989 (17)",NA,NA,Spain,Racing Santander,LaLiga,2007/2008,2007
+7,Right Winger,"Sep 19, 1978 (28)",NA,NA,Spain,Racing Santander,LaLiga,2007/2008,2007
+5,Right Winger,"May 14, 1980 (27)",NA,NA,Spain,Racing Santander,LaLiga,2007/2008,2007
+10,Second Striker,"Jun 19, 1975 (32)",NA,NA,Spain,Racing Santander,LaLiga,2007/2008,2007
+9,Centre-Forward,"Jan 31, 1984 (23)",NA,NA,Burundi,Racing Santander,LaLiga,2007/2008,2007
+12,Centre-Forward,"Jan 9, 1981 (26)",NA,NA,Poland,Racing Santander,LaLiga,2007/2008,2007
+32,Centre-Forward,"Jul 3, 1989 (17)",NA,NA,Equatorial Guinea,Racing Santander,LaLiga,2007/2008,2007
+1,Goalkeeper,"Apr 2, 1984 (23)",NA,NA,Spain,RCD Mallorca,LaLiga,2007/2008,2007
+25,Goalkeeper,"Jul 6, 1982 (24)",NA,NA,Argentina,RCD Mallorca,LaLiga,2007/2008,2007
+29,Goalkeeper,"Aug 7, 1987 (19)",NA,NA,Spain,RCD Mallorca,LaLiga,2007/2008,2007
+17,Centre-Back,"May 25, 1980 (27)",NA,NA,Spain,RCD Mallorca,LaLiga,2007/2008,2007
+2,Centre-Back,"Oct 25, 1984 (22)",NA,NA,Spain,RCD Mallorca,LaLiga,2007/2008,2007
+16,Centre-Back,"Mar 7, 1977 (30)",NA,NA,Portugal,RCD Mallorca,LaLiga,2007/2008,2007
+22,Centre-Back,"Sep 4, 1975 (31)",NA,NA,Spain,RCD Mallorca,LaLiga,2007/2008,2007
+30,Centre-Back,"Jan 11, 1987 (20)",NA,NA,Spain,RCD Mallorca,LaLiga,2007/2008,2007
+3,Left-Back,"Jun 25, 1982 (25)",NA,NA,Spain,RCD Mallorca,LaLiga,2007/2008,2007
+21,Left-Back,"Feb 17, 1977 (30)",NA,NA,Spain,RCD Mallorca,LaLiga,2007/2008,2007
+24,Right-Back,"Oct 11, 1974 (32)",NA,NA,Spain,RCD Mallorca,LaLiga,2007/2008,2007
+5,Right-Back,"May 16, 1978 (29)",NA,NA,Argentina,RCD Mallorca,LaLiga,2007/2008,2007
+7,Right-Back,"Sep 1, 1979 (27)",NA,NA,Spain,RCD Mallorca,LaLiga,2007/2008,2007
+15,Right-Back,"Jul 26, 1985 (21)",NA,NA,Spain,RCD Mallorca,LaLiga,2007/2008,2007
+26,Right-Back,"Sep 30, 1989 (17)",NA,NA,Equatorial Guinea,RCD Mallorca,LaLiga,2007/2008,2007
+6,Defensive Midfield,"Jan 3, 1976 (31)",NA,NA,Greece,RCD Mallorca,LaLiga,2007/2008,2007
+31,Defensive Midfield,"Nov 2, 1987 (19)",NA,NA,Spain,RCD Mallorca,LaLiga,2007/2008,2007
+NA,Central Midfield,"Feb 20, 1980 (27)",NA,NA,Argentina,RCD Mallorca,LaLiga,2007/2008,2007
+23,Central Midfield,"Jul 5, 1983 (23)",NA,NA,Argentina,RCD Mallorca,LaLiga,2007/2008,2007
+8,Central Midfield,"Jan 12, 1985 (22)",NA,NA,Spain,RCD Mallorca,LaLiga,2007/2008,2007
+18,Left Midfield,"May 17, 1980 (27)",NA,NA,Venezuela,RCD Mallorca,LaLiga,2007/2008,2007
+10,Attacking Midfield,"Oct 27, 1976 (30)",NA,NA,Argentina,RCD Mallorca,LaLiga,2007/2008,2007
+20,Attacking Midfield,"Apr 26, 1988 (19)",NA,NA,Argentina,RCD Mallorca,LaLiga,2007/2008,2007
+12,Left Winger,"Sep 14, 1984 (22)",NA,NA,Uruguay,RCD Mallorca,LaLiga,2007/2008,2007
+11,Right Winger,"Jun 14, 1982 (25)",NA,NA,Spain,RCD Mallorca,LaLiga,2007/2008,2007
+33,Right Winger,"Mar 9, 1988 (19)",NA,NA,Spain,RCD Mallorca,LaLiga,2007/2008,2007
+9,Centre-Forward,"Jan 20, 1982 (25)",NA,NA,Cameroon,RCD Mallorca,LaLiga,2007/2008,2007
+14,Centre-Forward,"Aug 17, 1980 (26)",NA,NA,Spain,RCD Mallorca,LaLiga,2007/2008,2007
+NA,Centre-Forward,"Feb 28, 1985 (22)",NA,NA,Spain,RCD Mallorca,LaLiga,2007/2008,2007
+1,Goalkeeper,"Mar 28, 1979 (28)",NA,NA,Italy,Recreativo Huelva,LaLiga,2007/2008,2007
+25,Goalkeeper,"Jul 27, 1984 (22)",NA,NA,Argentina,Recreativo Huelva,LaLiga,2007/2008,2007
+13,Goalkeeper,"Feb 16, 1974 (33)",NA,NA,Spain,Recreativo Huelva,LaLiga,2007/2008,2007
+22,Centre-Back,"May 3, 1976 (31)",NA,NA,Portugal,Recreativo Huelva,LaLiga,2007/2008,2007
+16,Centre-Back,"Jul 20, 1975 (31)",NA,NA,Spain,Recreativo Huelva,LaLiga,2007/2008,2007
+5,Centre-Back,"Jun 16, 1983 (24)",NA,NA,Spain,Recreativo Huelva,LaLiga,2007/2008,2007
+4,Centre-Back,"Apr 7, 1987 (20)",NA,NA,Uruguay,Recreativo Huelva,LaLiga,2007/2008,2007
+3,Left-Back,"Feb 25, 1981 (26)",NA,NA,Spain,Recreativo Huelva,LaLiga,2007/2008,2007
+21,Left-Back,"Mar 24, 1976 (31)",NA,NA,Spain,Recreativo Huelva,LaLiga,2007/2008,2007
+20,Left-Back,"Mar 20, 1977 (30)",NA,NA,Spain,Recreativo Huelva,LaLiga,2007/2008,2007
+2,Right-Back,"Jan 3, 1981 (26)",NA,NA,Spain,Recreativo Huelva,LaLiga,2007/2008,2007
+24,Right-Back,"Jul 15, 1981 (25)",NA,NA,Argentina,Recreativo Huelva,LaLiga,2007/2008,2007
+28,Right-Back,"Mar 8, 1987 (20)",NA,NA,Spain,Recreativo Huelva,LaLiga,2007/2008,2007
+NA,Midfielder,"Nov 30, 1989 (17)",NA,NA,Spain,Recreativo Huelva,LaLiga,2007/2008,2007
+18,Defensive Midfield,"Dec 1, 1977 (29)",NA,NA,Spain,Recreativo Huelva,LaLiga,2007/2008,2007
+6,Central Midfield,"Mar 12, 1979 (28)",NA,NA,Spain,Recreativo Huelva,LaLiga,2007/2008,2007
+17,Central Midfield,"Oct 2, 1980 (26)",NA,NA,Spain,Recreativo Huelva,LaLiga,2007/2008,2007
+12,Attacking Midfield,"Apr 29, 1982 (25)",NA,NA,Portugal,Recreativo Huelva,LaLiga,2007/2008,2007
+10,Attacking Midfield,"Jan 18, 1980 (27)",NA,NA,Spain,Recreativo Huelva,LaLiga,2007/2008,2007
+7,Attacking Midfield,"Mar 21, 1987 (20)",NA,NA,Spain,Recreativo Huelva,LaLiga,2007/2008,2007
+NA,Attacking Midfield,"Jan 23, 1985 (22)",NA,NA,Spain,Recreativo Huelva,LaLiga,2007/2008,2007
+11,Forward,"Oct 26, 1975 (31)",NA,NA,Romania,Recreativo Huelva,LaLiga,2007/2008,2007
+19,Left Winger,"Feb 2, 1985 (22)",NA,NA,Portugal,Recreativo Huelva,LaLiga,2007/2008,2007
+8,Right Winger,"Jul 17, 1980 (26)",NA,NA,Spain,Recreativo Huelva,LaLiga,2007/2008,2007
+14,Second Striker,"Oct 20, 1984 (22)",NA,NA,France,Recreativo Huelva,LaLiga,2007/2008,2007
+9,Centre-Forward,"May 23, 1979 (28)",NA,NA,Turkey,Recreativo Huelva,LaLiga,2007/2008,2007
+23,Centre-Forward,"Oct 22, 1976 (30)",NA,NA,Spain,Recreativo Huelva,LaLiga,2007/2008,2007
+15,Centre-Forward,"Oct 7, 1976 (30)",NA,NA,Colombia,Recreativo Huelva,LaLiga,2007/2008,2007
+26,Centre-Forward,"Oct 26, 1986 (20)",NA,NA,Argentina,Recreativo Huelva,LaLiga,2007/2008,2007
+NA,Goalkeeper,"Apr 13, 1974 (33)",NA,NA,Argentina,Levante UD,LaLiga,2007/2008,2007
+13,Goalkeeper,"Jan 7, 1977 (30)",NA,NA,Italy,Levante UD,LaLiga,2007/2008,2007
+1,Goalkeeper,"Aug 23, 1978 (28)",NA,NA,Serbia,Levante UD,LaLiga,2007/2008,2007
+27,Goalkeeper,"Mar 8, 1988 (19)",NA,NA,Spain,Levante UD,LaLiga,2007/2008,2007
+28,Goalkeeper,"Apr 1, 1985 (22)",NA,NA,Spain,Levante UD,LaLiga,2007/2008,2007
+4,Centre-Back,"Nov 1, 1977 (29)",NA,NA,Brazil,Levante UD,LaLiga,2007/2008,2007
+5,Centre-Back,"Mar 21, 1977 (30)",NA,NA,Italy,Levante UD,LaLiga,2007/2008,2007
+18,Centre-Back,"Mar 17, 1981 (26)",NA,NA,Spain,Levante UD,LaLiga,2007/2008,2007
+24,Centre-Back,"May 20, 1985 (22)",NA,NA,Spain,Levante UD,LaLiga,2007/2008,2007
+32,Centre-Back,"Dec 16, 1984 (22)",NA,NA,Spain,Levante UD,LaLiga,2007/2008,2007
+35,Centre-Back,"Mar 7, 1988 (19)",NA,NA,Spain,Levante UD,LaLiga,2007/2008,2007
+3,Left-Back,"Jan 26, 1974 (33)",NA,NA,Spain,Levante UD,LaLiga,2007/2008,2007
+17,Left-Back,"Aug 23, 1977 (29)",NA,NA,Spain,Levante UD,LaLiga,2007/2008,2007
+31,Left-Back,"Jan 25, 1987 (20)",NA,NA,Spain,Levante UD,LaLiga,2007/2008,2007
+37,Left-Back,"Jan 27, 1989 (18)",NA,NA,Spain,Levante UD,LaLiga,2007/2008,2007
+23,Right-Back,"Aug 25, 1976 (30)",NA,NA,Spain,Levante UD,LaLiga,2007/2008,2007
+2,Right-Back,"Feb 3, 1981 (26)",NA,NA,Spain,Levante UD,LaLiga,2007/2008,2007
+12,Defensive Midfield,"Feb 23, 1980 (27)",NA,NA,France,Levante UD,LaLiga,2007/2008,2007
+16,Defensive Midfield,"Sep 16, 1978 (28)",NA,NA,Spain,Levante UD,LaLiga,2007/2008,2007
+15,Defensive Midfield,"May 17, 1974 (33)",NA,NA,Italy,Levante UD,LaLiga,2007/2008,2007
+6,Defensive Midfield,"Jan 4, 1984 (23)",NA,NA,Spain,Levante UD,LaLiga,2007/2008,2007
+30,Defensive Midfield,"Jan 16, 1988 (19)",NA,NA,Spain,Levante UD,LaLiga,2007/2008,2007
+8,Central Midfield,"Sep 20, 1974 (32)",NA,NA,Spain,Levante UD,LaLiga,2007/2008,2007
+7,Right Midfield,"Sep 26, 1979 (27)",NA,NA,Cote d'Ivoire,Levante UD,LaLiga,2007/2008,2007
+21,Left Midfield,"Sep 11, 1978 (28)",NA,NA,France,Levante UD,LaLiga,2007/2008,2007
+26,Attacking Midfield,"Apr 9, 1985 (22)",NA,NA,Spain,Levante UD,LaLiga,2007/2008,2007
+25,Left Winger,"May 21, 1975 (32)",NA,NA,France,Levante UD,LaLiga,2007/2008,2007
+11,Left Winger,"Jan 9, 1974 (33)",NA,NA,Brazil,Levante UD,LaLiga,2007/2008,2007
+NA,Left Winger,"Aug 21, 1983 (23)",NA,NA,Spain,Levante UD,LaLiga,2007/2008,2007
+10,Right Winger,"Oct 10, 1981 (25)",NA,NA,Netherlands,Levante UD,LaLiga,2007/2008,2007
+22,Right Winger,"May 29, 1981 (26)",NA,NA,Spain,Levante UD,LaLiga,2007/2008,2007
+14,Right Winger,"Nov 24, 1986 (20)",NA,NA,Spain,Levante UD,LaLiga,2007/2008,2007
+9,Centre-Forward,"Feb 22, 1973 (34)",NA,NA,Georgia,Levante UD,LaLiga,2007/2008,2007
+NA,Centre-Forward,"Oct 19, 1980 (26)",NA,NA,Cameroon,Levante UD,LaLiga,2007/2008,2007
+20,Centre-Forward,"May 25, 1974 (33)",NA,NA,Italy,Levante UD,LaLiga,2007/2008,2007
+19,Centre-Forward,"Mar 11, 1982 (25)",NA,NA,Spain,Levante UD,LaLiga,2007/2008,2007
+36,Centre-Forward,"Sep 30, 1989 (17)",NA,NA,Spain,Levante UD,LaLiga,2007/2008,2007
+13,Goalkeeper,"Nov 19, 1972 (34)",NA,NA,Spain,Real Murcia CF,LaLiga,2007/2008,2007
+1,Goalkeeper,"Dec 26, 1979 (27)",NA,NA,Uruguay,Real Murcia CF,LaLiga,2007/2008,2007
+30,Goalkeeper,"Feb 9, 1985 (22)",NA,NA,Spain,Real Murcia CF,LaLiga,2007/2008,2007
+14,Centre-Back,"Jan 18, 1982 (25)",NA,NA,Spain,Real Murcia CF,LaLiga,2007/2008,2007
+5,Centre-Back,"Jan 21, 1986 (21)",NA,NA,Spain,Real Murcia CF,LaLiga,2007/2008,2007
+4,Centre-Back,"Mar 4, 1979 (28)",NA,NA,Spain,Real Murcia CF,LaLiga,2007/2008,2007
+21,Centre-Back,"Feb 21, 1979 (28)",NA,NA,Spain,Real Murcia CF,LaLiga,2007/2008,2007
+16,Left-Back,"Jul 25, 1978 (28)",NA,NA,Spain,Real Murcia CF,LaLiga,2007/2008,2007
+3,Left-Back,"May 15, 1980 (27)",NA,NA,Spain,Real Murcia CF,LaLiga,2007/2008,2007
+23,Right-Back,"Dec 27, 1976 (30)",NA,NA,Spain,Real Murcia CF,LaLiga,2007/2008,2007
+2,Right-Back,"Jan 3, 1977 (30)",NA,NA,France,Real Murcia CF,LaLiga,2007/2008,2007
+12,Right-Back,"Feb 6, 1980 (27)",NA,NA,Spain,Real Murcia CF,LaLiga,2007/2008,2007
+32,Right-Back,"Jun 29, 1985 (22)",NA,NA,Spain,Real Murcia CF,LaLiga,2007/2008,2007
+15,Defensive Midfield,"May 11, 1977 (30)",NA,NA,Uruguay,Real Murcia CF,LaLiga,2007/2008,2007
+25,Defensive Midfield,"Feb 8, 1975 (32)",NA,NA,Spain,Real Murcia CF,LaLiga,2007/2008,2007
+6,Defensive Midfield,"Apr 24, 1983 (24)",NA,NA,Morocco,Real Murcia CF,LaLiga,2007/2008,2007
+26,Defensive Midfield,"May 3, 1983 (24)",NA,NA,Brazil,Real Murcia CF,LaLiga,2007/2008,2007
+NA,Central Midfield,"Feb 13, 1985 (22)",NA,NA,Spain,Real Murcia CF,LaLiga,2007/2008,2007
+10,Central Midfield,"Feb 20, 1982 (25)",NA,NA,Spain,Real Murcia CF,LaLiga,2007/2008,2007
+17,Right Midfield,"Jan 13, 1980 (27)",NA,NA,Spain,Real Murcia CF,LaLiga,2007/2008,2007
+9,Attacking Midfield,"Aug 17, 1978 (28)",NA,NA,Spain,Real Murcia CF,LaLiga,2007/2008,2007
+8,Left Winger,"Sep 9, 1978 (28)",NA,NA,Uruguay,Real Murcia CF,LaLiga,2007/2008,2007
+11,Left Winger,"Jan 24, 1980 (27)",NA,NA,Spain,Real Murcia CF,LaLiga,2007/2008,2007
+18,Centre-Forward,"Mar 18, 1979 (28)",NA,NA,Brazil,Real Murcia CF,LaLiga,2007/2008,2007
+7,Centre-Forward,"Sep 22, 1984 (22)",NA,NA,Eritrea,Real Murcia CF,LaLiga,2007/2008,2007
+20,Centre-Forward,"Apr 14, 1977 (30)",NA,NA,Spain,Real Murcia CF,LaLiga,2007/2008,2007
+19,Centre-Forward,"Apr 10, 1979 (28)",NA,NA,Uruguay,Real Murcia CF,LaLiga,2007/2008,2007
+22,Centre-Forward,"Mar 15, 1982 (25)",NA,NA,Spain,Real Murcia CF,LaLiga,2007/2008,2007
+31,Centre-Forward,"Jul 27, 1990 (16)",NA,NA,Spain,Real Murcia CF,LaLiga,2007/2008,2007
+13,Goalkeeper,"Apr 6, 1982 (25)",NA,NA,Spain,UD Almería,LaLiga,2007/2008,2007
+1,Goalkeeper,"Jun 24, 1985 (22)",NA,NA,Brazil,UD Almería,LaLiga,2007/2008,2007
+26,Goalkeeper,"May 22, 1985 (22)",NA,NA,Spain,UD Almería,LaLiga,2007/2008,2007
+14,Centre-Back,"Feb 2, 1979 (28)",NA,NA,Spain,UD Almería,LaLiga,2007/2008,2007
+18,Centre-Back,"Nov 22, 1977 (29)",NA,NA,Peru,UD Almería,LaLiga,2007/2008,2007
+21,Centre-Back,"Apr 29, 1984 (23)",NA,NA,Spain,UD Almería,LaLiga,2007/2008,2007
+7,Left-Back,"Feb 5, 1988 (19)",NA,NA,Brazil,UD Almería,LaLiga,2007/2008,2007
+11,Left-Back,"Feb 9, 1982 (25)",NA,NA,Spain,UD Almería,LaLiga,2007/2008,2007
+22,Left-Back,"Dec 21, 1981 (25)",NA,NA,Spain,UD Almería,LaLiga,2007/2008,2007
+3,Right-Back,"Aug 18, 1975 (31)",NA,NA,Spain,UD Almería,LaLiga,2007/2008,2007
+17,Right-Back,"Mar 1, 1982 (25)",NA,NA,Spain,UD Almería,LaLiga,2007/2008,2007
+2,Right-Back,"Oct 1, 1980 (26)",NA,NA,Spain,UD Almería,LaLiga,2007/2008,2007
+24,Defensive Midfield,"Feb 17, 1980 (27)",NA,NA,Spain,UD Almería,LaLiga,2007/2008,2007
+4,Defensive Midfield,"Jun 26, 1983 (24)",NA,NA,Brazil,UD Almería,LaLiga,2007/2008,2007
+15,Central Midfield,"Feb 12, 1981 (26)",NA,NA,Spain,UD Almería,LaLiga,2007/2008,2007
+25,Central Midfield,"Apr 23, 1981 (26)",NA,NA,Brazil,UD Almería,LaLiga,2007/2008,2007
+NA,Central Midfield,"May 7, 1983 (24)",NA,NA,Paraguay,UD Almería,LaLiga,2007/2008,2007
+NA,Central Midfield,"May 10, 1982 (25)",NA,NA,Spain,UD Almería,LaLiga,2007/2008,2007
+23,Attacking Midfield,"Sep 24, 1979 (27)",NA,NA,Spain,UD Almería,LaLiga,2007/2008,2007
+NA,Attacking Midfield,"May 25, 1987 (20)",NA,NA,Chile,UD Almería,LaLiga,2007/2008,2007
+8,Left Winger,"May 13, 1982 (25)",NA,NA,Spain,UD Almería,LaLiga,2007/2008,2007
+NA,Right Winger,"Sep 18, 1984 (22)",NA,NA,Spain,UD Almería,LaLiga,2007/2008,2007
+10,Right Winger,"Aug 4, 1977 (29)",NA,NA,Spain,UD Almería,LaLiga,2007/2008,2007
+5,Centre-Forward,"Nov 15, 1982 (24)",NA,NA,Nigeria,UD Almería,LaLiga,2007/2008,2007
+12,Centre-Forward,"Aug 21, 1977 (29)",NA,NA,Serbia,UD Almería,LaLiga,2007/2008,2007
+9,Centre-Forward,"Aug 20, 1985 (21)",NA,NA,Spain,UD Almería,LaLiga,2007/2008,2007
+1,Goalkeeper,"Apr 3, 1983 (24)",NA,NA,France,Real Valladolid CF,LaLiga,2007/2008,2007
+13,Goalkeeper,"May 20, 1969 (38)",NA,NA,Spain,Real Valladolid CF,LaLiga,2007/2008,2007
+25,Goalkeeper,"Jun 28, 1989 (18)",NA,NA,Spain,Real Valladolid CF,LaLiga,2007/2008,2007
+5,Centre-Back,"Apr 1, 1975 (32)",NA,NA,Spain,Real Valladolid CF,LaLiga,2007/2008,2007
+4,Centre-Back,"Mar 8, 1974 (33)",NA,NA,Spain,Real Valladolid CF,LaLiga,2007/2008,2007
+15,Centre-Back,"Apr 9, 1985 (22)",NA,NA,Spain,Real Valladolid CF,LaLiga,2007/2008,2007
+24,Centre-Back,"Jun 27, 1978 (29)",NA,NA,Spain,Real Valladolid CF,LaLiga,2007/2008,2007
+28,Centre-Back,"Feb 19, 1987 (20)",NA,NA,Spain,Real Valladolid CF,LaLiga,2007/2008,2007
+3,Left-Back,"Feb 15, 1974 (33)",NA,NA,Spain,Real Valladolid CF,LaLiga,2007/2008,2007
+2,Right-Back,"Jul 13, 1980 (26)",NA,NA,Spain,Real Valladolid CF,LaLiga,2007/2008,2007
+16,Right-Back,"Nov 1, 1983 (23)",NA,NA,Spain,Real Valladolid CF,LaLiga,2007/2008,2007
+10,Right-Back,"Dec 19, 1979 (27)",NA,NA,Spain,Real Valladolid CF,LaLiga,2007/2008,2007
+NA,Right-Back,"Jan 12, 1988 (19)",NA,NA,Spain,Real Valladolid CF,LaLiga,2007/2008,2007
+26,Right-Back,"Mar 28, 1987 (20)",NA,NA,Spain,Real Valladolid CF,LaLiga,2007/2008,2007
+6,Defensive Midfield,"Jan 14, 1981 (26)",NA,NA,Spain,Real Valladolid CF,LaLiga,2007/2008,2007
+18,Defensive Midfield,"Apr 18, 1979 (28)",NA,NA,Spain,Real Valladolid CF,LaLiga,2007/2008,2007
+17,Defensive Midfield,"Oct 3, 1976 (30)",NA,NA,Spain,Real Valladolid CF,LaLiga,2007/2008,2007
+8,Defensive Midfield,"Aug 24, 1980 (26)",NA,NA,Spain,Real Valladolid CF,LaLiga,2007/2008,2007
+NA,Right Midfield,"Sep 27, 1982 (24)",NA,NA,Uruguay,Real Valladolid CF,LaLiga,2007/2008,2007
+22,Right Midfield,"Mar 30, 1984 (23)",NA,NA,Argentina,Real Valladolid CF,LaLiga,2007/2008,2007
+20,Attacking Midfield,"Feb 12, 1974 (33)",NA,NA,Spain,Real Valladolid CF,LaLiga,2007/2008,2007
+NA,Attacking Midfield,"Dec 28, 1983 (23)",NA,NA,Spain,Real Valladolid CF,LaLiga,2007/2008,2007
+7,Attacking Midfield,"Apr 22, 1986 (21)",NA,NA,Spain,Real Valladolid CF,LaLiga,2007/2008,2007
+19,Left Winger,"Nov 14, 1978 (28)",NA,NA,Spain,Real Valladolid CF,LaLiga,2007/2008,2007
+11,Left Winger,"Feb 12, 1981 (26)",NA,NA,Spain,Real Valladolid CF,LaLiga,2007/2008,2007
+14,Right Winger,"May 19, 1980 (27)",NA,NA,Cameroon,Real Valladolid CF,LaLiga,2007/2008,2007
+23,Centre-Forward,"Oct 6, 1977 (29)",NA,NA,Bulgaria,Real Valladolid CF,LaLiga,2007/2008,2007
+12,Centre-Forward,"Oct 1, 1984 (22)",NA,NA,Nigeria,Real Valladolid CF,LaLiga,2007/2008,2007
+9,Centre-Forward,"Nov 24, 1979 (27)",NA,NA,Spain,Real Valladolid CF,LaLiga,2007/2008,2007
+21,Centre-Forward,"Apr 17, 1974 (33)",NA,NA,Spain,Real Valladolid CF,LaLiga,2007/2008,2007
