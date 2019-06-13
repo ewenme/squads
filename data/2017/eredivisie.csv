@@ -1,609 +1,609 @@
-shirt_number,position,player_name,date_of_birth,age,nationality,club_name,league_name,season,year
-1,Goalkeeper,"Apr 2, 1996 (21)",NA,NA,Cameroon,Ajax Amsterdam,Eredivisie,2017/2018,2017
-22,Goalkeeper,"Apr 9, 1992 (25)",NA,NA,Netherlands,Ajax Amsterdam,Eredivisie,2017/2018,2017
-12,Goalkeeper,"Sep 18, 1991 (25)",NA,NA,Greece,Ajax Amsterdam,Eredivisie,2017/2018,2017
-30,Goalkeeper,"Dec 12, 1994 (22)",NA,NA,Netherlands,Ajax Amsterdam,Eredivisie,2017/2018,2017
-NA,Centre-Back,"Jun 12, 1996 (21)",NA,NA,Colombia,Ajax Amsterdam,Eredivisie,2017/2018,2017
-4,Centre-Back,"Aug 12, 1999 (17)",NA,NA,Netherlands,Ajax Amsterdam,Eredivisie,2017/2018,2017
-26,Centre-Back,"Aug 3, 1989 (27)",NA,NA,Netherlands,Ajax Amsterdam,Eredivisie,2017/2018,2017
-5,Centre-Back,"Feb 4, 1998 (19)",NA,NA,Austria,Ajax Amsterdam,Eredivisie,2017/2018,2017
-NA,Centre-Back,"Jan 25, 1997 (20)",NA,NA,Netherlands,Ajax Amsterdam,Eredivisie,2017/2018,2017
-31,Left-Back,"Aug 31, 1992 (24)",NA,NA,Argentina,Ajax Amsterdam,Eredivisie,2017/2018,2017
-8,Left-Back,"Jul 4, 1995 (21)",NA,NA,Netherlands,Ajax Amsterdam,Eredivisie,2017/2018,2017
-35,Left-Back,"Feb 9, 1993 (24)",NA,NA,Netherlands,Ajax Amsterdam,Eredivisie,2017/2018,2017
-NA,Left-Back,"Jun 20, 2000 (17)",NA,NA,Netherlands,Ajax Amsterdam,Eredivisie,2017/2018,2017
-3,Right-Back,"Jan 15, 1992 (25)",NA,NA,Netherlands,Ajax Amsterdam,Eredivisie,2017/2018,2017
-43,Right-Back,"Jul 11, 1997 (19)",NA,NA,Denmark,Ajax Amsterdam,Eredivisie,2017/2018,2017
-NA,Right-Back,"Mar 11, 1998 (19)",NA,NA,Netherlands,Ajax Amsterdam,Eredivisie,2017/2018,2017
-28,Right-Back,"Aug 20, 1995 (21)",NA,NA,Colombia,Ajax Amsterdam,Eredivisie,2017/2018,2017
-NA,Right-Back,"Aug 24, 1996 (20)",NA,NA,Netherlands,Ajax Amsterdam,Eredivisie,2017/2018,2017
-40,Right-Back,"Nov 14, 1997 (19)",NA,NA,Morocco,Ajax Amsterdam,Eredivisie,2017/2018,2017
-20,Defensive Midfield,"May 27, 1986 (31)",NA,NA,Denmark,Ajax Amsterdam,Eredivisie,2017/2018,2017
-15,Defensive Midfield,"Feb 11, 1998 (19)",NA,NA,Netherlands,Ajax Amsterdam,Eredivisie,2017/2018,2017
-NA,Defensive Midfield,"Apr 28, 1998 (19)",NA,NA,Netherlands,Ajax Amsterdam,Eredivisie,2017/2018,2017
-34,Central Midfield,"Apr 2, 1997 (20)",NA,NA,Netherlands,Ajax Amsterdam,Eredivisie,2017/2018,2017
-21,Central Midfield,"May 12, 1997 (20)",NA,NA,Netherlands,Ajax Amsterdam,Eredivisie,2017/2018,2017
-NA,Central Midfield,"Jan 28, 1998 (19)",NA,NA,Netherlands,Ajax Amsterdam,Eredivisie,2017/2018,2017
-47,Central Midfield,"Apr 5, 2000 (17)",NA,NA,Netherlands,Ajax Amsterdam,Eredivisie,2017/2018,2017
-23,Attacking Midfield,"Jan 28, 1989 (28)",NA,NA,Netherlands,Ajax Amsterdam,Eredivisie,2017/2018,2017
-6,Attacking Midfield,"Apr 18, 1997 (20)",NA,NA,Netherlands,Ajax Amsterdam,Eredivisie,2017/2018,2017
-39,Attacking Midfield,"Jun 17, 1999 (18)",NA,NA,Netherlands,Ajax Amsterdam,Eredivisie,2017/2018,2017
-NA,Left Winger,"Aug 6, 1993 (23)",NA,NA,Germany,Ajax Amsterdam,Eredivisie,2017/2018,2017
-45,Left Winger,"May 5, 1999 (18)",NA,NA,Netherlands,Ajax Amsterdam,Eredivisie,2017/2018,2017
-18,Left Winger,"Feb 17, 1998 (19)",NA,NA,Norway,Ajax Amsterdam,Eredivisie,2017/2018,2017
-10,Right Winger,"Mar 19, 1993 (24)",NA,NA,Morocco,Ajax Amsterdam,Eredivisie,2017/2018,2017
-7,Right Winger,"Mar 3, 1997 (20)",NA,NA,Brazil,Ajax Amsterdam,Eredivisie,2017/2018,2017
-17,Right Winger,"Oct 17, 1997 (19)",NA,NA,Czech Republic,Ajax Amsterdam,Eredivisie,2017/2018,2017
-25,Centre-Forward,"Oct 6, 1997 (19)",NA,NA,Denmark,Ajax Amsterdam,Eredivisie,2017/2018,2017
-19,Centre-Forward,"Apr 13, 1997 (20)",NA,NA,Colombia,Ajax Amsterdam,Eredivisie,2017/2018,2017
-9,Centre-Forward,"Aug 12, 1983 (33)",NA,NA,Netherlands,Ajax Amsterdam,Eredivisie,2017/2018,2017
-NA,Centre-Forward,"Apr 27, 1998 (19)",NA,NA,Netherlands,Ajax Amsterdam,Eredivisie,2017/2018,2017
-1,Goalkeeper,"Jan 6, 1991 (26)",NA,NA,Netherlands,PSV Eindhoven,Eredivisie,2017/2018,2017
-13,Goalkeeper,"Feb 6, 1989 (28)",NA,NA,Curacao,PSV Eindhoven,Eredivisie,2017/2018,2017
-21,Goalkeeper,"Nov 18, 1993 (23)",NA,NA,Netherlands,PSV Eindhoven,Eredivisie,2017/2018,2017
-31,Goalkeeper,"Mar 24, 1997 (20)",NA,NA,Netherlands,PSV Eindhoven,Eredivisie,2017/2018,2017
-41,Goalkeeper,"May 11, 1999 (18)",NA,NA,Netherlands,PSV Eindhoven,Eredivisie,2017/2018,2017
-2,Centre-Back,"Nov 15, 1991 (25)",NA,NA,France,PSV Eindhoven,Eredivisie,2017/2018,2017
-3,Centre-Back,"Jul 3, 1995 (21)",NA,NA,Netherlands,PSV Eindhoven,Eredivisie,2017/2018,2017
-5,Centre-Back,"Aug 23, 1988 (28)",NA,NA,Germany,PSV Eindhoven,Eredivisie,2017/2018,2017
-30,Centre-Back,"Jan 8, 1995 (22)",NA,NA,Netherlands,PSV Eindhoven,Eredivisie,2017/2018,2017
-50,Centre-Back,"Mar 5, 1999 (18)",NA,NA,Netherlands,PSV Eindhoven,Eredivisie,2017/2018,2017
-32,Left-Back,"Jun 24, 1997 (20)",NA,NA,Netherlands,PSV Eindhoven,Eredivisie,2017/2018,2017
-4,Right-Back,"Jan 13, 1992 (25)",NA,NA,Colombia,PSV Eindhoven,Eredivisie,2017/2018,2017
-20,Right-Back,"Mar 20, 1994 (23)",NA,NA,Netherlands,PSV Eindhoven,Eredivisie,2017/2018,2017
-8,Defensive Midfield,"Feb 6, 1995 (22)",NA,NA,Netherlands,PSV Eindhoven,Eredivisie,2017/2018,2017
-6,Central Midfield,"Sep 2, 1991 (25)",NA,NA,Netherlands,PSV Eindhoven,Eredivisie,2017/2018,2017
-10,Central Midfield,"Dec 1, 1992 (24)",NA,NA,Netherlands,PSV Eindhoven,Eredivisie,2017/2018,2017
-25,Central Midfield,"Jul 20, 1993 (23)",NA,NA,Netherlands,PSV Eindhoven,Eredivisie,2017/2018,2017
-18,Central Midfield,"Jan 7, 1997 (20)",NA,NA,Netherlands,PSV Eindhoven,Eredivisie,2017/2018,2017
-16,Central Midfield,"Dec 11, 1998 (18)",NA,NA,Belgium,PSV Eindhoven,Eredivisie,2017/2018,2017
-7,Attacking Midfield,"Jun 11, 1995 (22)",NA,NA,Uruguay,PSV Eindhoven,Eredivisie,2017/2018,2017
-23,Attacking Midfield,"Jun 29, 1996 (21)",NA,NA,Netherlands,PSV Eindhoven,Eredivisie,2017/2018,2017
-24,Attacking Midfield,"May 10, 1997 (20)",NA,NA,Sweden,PSV Eindhoven,Eredivisie,2017/2018,2017
-47,Attacking Midfield,"May 6, 1999 (18)",NA,NA,Brazil,PSV Eindhoven,Eredivisie,2017/2018,2017
-11,Left Winger,"Jul 30, 1995 (21)",NA,NA,Mexico,PSV Eindhoven,Eredivisie,2017/2018,2017
-17,Left Winger,"Oct 8, 1997 (19)",NA,NA,Netherlands,PSV Eindhoven,Eredivisie,2017/2018,2017
-52,Left Winger,"May 7, 1999 (18)",NA,NA,Netherlands,PSV Eindhoven,Eredivisie,2017/2018,2017
-35,Left Winger,"Jan 19, 1999 (18)",NA,NA,Netherlands,PSV Eindhoven,Eredivisie,2017/2018,2017
-29,Right Winger,"Jun 15, 1997 (20)",NA,NA,Iceland,PSV Eindhoven,Eredivisie,2017/2018,2017
-9,Centre-Forward,"Aug 27, 1990 (26)",NA,NA,Netherlands,PSV Eindhoven,Eredivisie,2017/2018,2017
-19,Centre-Forward,"Nov 7, 1993 (23)",NA,NA,Netherlands,PSV Eindhoven,Eredivisie,2017/2018,2017
-22,Centre-Forward,"Jan 9, 1999 (18)",NA,NA,Argentina,PSV Eindhoven,Eredivisie,2017/2018,2017
-14,Centre-Forward,"Apr 30, 1997 (20)",NA,NA,Netherlands,PSV Eindhoven,Eredivisie,2017/2018,2017
-NA,Goalkeeper,"Jan 10, 1986 (31)",NA,NA,Netherlands,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
-25,Goalkeeper,"Mar 19, 1982 (35)",NA,NA,Australia,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
-22,Goalkeeper,"Jan 22, 1998 (19)",NA,NA,Netherlands,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
-30,Goalkeeper,"Mar 3, 1998 (19)",NA,NA,Netherlands,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
-33,Centre-Back,"Aug 31, 1987 (29)",NA,NA,Brazil,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
-6,Centre-Back,"Mar 3, 1988 (29)",NA,NA,Netherlands,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
-3,Centre-Back,"Jul 28, 1994 (22)",NA,NA,Netherlands,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
-4,Centre-Back,"Oct 19, 1996 (20)",NA,NA,Netherlands,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
-24,Centre-Back,"Nov 19, 1998 (18)",NA,NA,Netherlands,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
-41,Centre-Back,"Jul 18, 2000 (16)",NA,NA,Netherlands,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
-5,Left-Back,"Jun 12, 1993 (24)",NA,NA,Netherlands,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
-NA,Left-Back,"Sep 22, 1990 (26)",NA,NA,Netherlands,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
-35,Left-Back,"Aug 17, 1999 (17)",NA,NA,Netherlands,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
-2,Right-Back,"Mar 7, 1996 (21)",NA,NA,Netherlands,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
-17,Right-Back,"Oct 6, 1996 (20)",NA,NA,Netherlands,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
-10,Central Midfield,"Jan 3, 1995 (22)",NA,NA,Netherlands,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
-8,Central Midfield,"Jan 27, 1985 (32)",NA,NA,Morocco,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
-20,Central Midfield,"Jul 28, 1995 (21)",NA,NA,Peru,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
-21,Central Midfield,"Aug 21, 1996 (20)",NA,NA,Morocco,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
-NA,Central Midfield,"Jun 24, 1997 (20)",NA,NA,Netherlands,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
-NA,Central Midfield,"Dec 29, 2000 (16)",NA,NA,Netherlands,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
-28,Attacking Midfield,"Apr 4, 1989 (28)",NA,NA,Netherlands,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
-7,Attacking Midfield,"Mar 22, 1994 (23)",NA,NA,Netherlands,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
-11,Left Winger,"Apr 10, 1993 (24)",NA,NA,Sweden,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
-14,Left Winger,"Mar 26, 1995 (22)",NA,NA,Turkey,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
-36,Left Winger,"Jun 15, 1998 (19)",NA,NA,Sweden,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
-NA,Left Winger,"Feb 7, 2001 (16)",NA,NA,Netherlands,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
-19,Right Winger,"Dec 19, 1991 (25)",NA,NA,Netherlands,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
-9,Centre-Forward,"Jan 15, 1991 (26)",NA,NA,Denmark,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
-32,Centre-Forward,"Aug 6, 1983 (33)",NA,NA,Netherlands,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
-NA,Centre-Forward,"Dec 3, 1988 (28)",NA,NA,Netherlands,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
-34,Centre-Forward,"May 9, 1999 (18)",NA,NA,Netherlands,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
-1,Goalkeeper,"Mar 10, 1991 (26)",NA,NA,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
-25,Goalkeeper,"Aug 1, 1995 (21)",NA,NA,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
-16,Goalkeeper,"Aug 5, 1982 (34)",NA,NA,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
-4,Centre-Back,"Feb 16, 1985 (32)",NA,NA,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
-30,Centre-Back,"Oct 8, 1989 (27)",NA,NA,Belgium,AZ Alkmaar,Eredivisie,2017/2018,2017
-3,Centre-Back,"Mar 3, 1988 (29)",NA,NA,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
-12,Centre-Back,"Jan 18, 1997 (20)",NA,NA,Greece,AZ Alkmaar,Eredivisie,2017/2018,2017
-NA,Centre-Back,"Aug 2, 1996 (20)",NA,NA,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
-5,Left-Back,"Sep 30, 1996 (20)",NA,NA,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
-26,Left-Back,"Nov 28, 1999 (17)",NA,NA,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
-23,Right-Back,"Jun 13, 1991 (26)",NA,NA,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
-2,Right-Back,"Mar 6, 1993 (24)",NA,NA,Norway,AZ Alkmaar,Eredivisie,2017/2018,2017
-NA,Right-Back,"May 3, 1996 (21)",NA,NA,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
-NA,Right-Back,"Mar 23, 1998 (19)",NA,NA,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
-10,Defensive Midfield,"Feb 3, 1990 (27)",NA,NA,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
-14,Defensive Midfield,"Feb 28, 1998 (19)",NA,NA,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
-8,Central Midfield,"Jun 1, 1994 (23)",NA,NA,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
-20,Central Midfield,"Apr 17, 1992 (25)",NA,NA,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
-6,Central Midfield,"Aug 11, 1993 (23)",NA,NA,Norway,AZ Alkmaar,Eredivisie,2017/2018,2017
-24,Central Midfield,"Jul 29, 1998 (18)",NA,NA,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
-49,Central Midfield,"Feb 18, 1998 (19)",NA,NA,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
-18,Attacking Midfield,"Sep 16, 1992 (24)",NA,NA,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
-15,Attacking Midfield,"Dec 22, 1997 (19)",NA,NA,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
-17,Attacking Midfield,"Jul 3, 1997 (19)",NA,NA,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
-22,Left Winger,"Feb 26, 1996 (21)",NA,NA,Morocco,AZ Alkmaar,Eredivisie,2017/2018,2017
-NA,Left Winger,"Jul 31, 1996 (20)",NA,NA,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
-NA,Left Winger,"Nov 20, 1997 (19)",NA,NA,Trinidad and Tobago,AZ Alkmaar,Eredivisie,2017/2018,2017
-7,Right Winger,"Aug 11, 1993 (23)",NA,NA,Iran,AZ Alkmaar,Eredivisie,2017/2018,2017
-11,Right Winger,"Dec 18, 1998 (18)",NA,NA,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
-9,Centre-Forward,"Aug 7, 1992 (24)",NA,NA,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
-NA,Centre-Forward,"May 22, 1995 (22)",NA,NA,Nigeria,AZ Alkmaar,Eredivisie,2017/2018,2017
-27,Centre-Forward,"Apr 2, 1997 (20)",NA,NA,Czech Republic,AZ Alkmaar,Eredivisie,2017/2018,2017
-21,Centre-Forward,"Jan 14, 2001 (16)",NA,NA,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
-38,Centre-Forward,"Feb 12, 1998 (19)",NA,NA,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
-16,Goalkeeper,"Oct 1, 1990 (26)",NA,NA,Netherlands,FC Utrecht,Eredivisie,2017/2018,2017
-1,Goalkeeper,"Mar 25, 1992 (25)",NA,NA,Denmark,FC Utrecht,Eredivisie,2017/2018,2017
-50,Goalkeeper,"Jul 25, 1998 (18)",NA,NA,Netherlands,FC Utrecht,Eredivisie,2017/2018,2017
-NA,Goalkeeper,"Dec 17, 1995 (21)",NA,NA,Netherlands,FC Utrecht,Eredivisie,2017/2018,2017
-5,Centre-Back,"Jan 30, 1992 (25)",NA,NA,Bosnia-Herzegovina,FC Utrecht,Eredivisie,2017/2018,2017
-14,Centre-Back,"Jul 4, 1986 (30)",NA,NA,Netherlands,FC Utrecht,Eredivisie,2017/2018,2017
-3,Centre-Back,"Sep 1, 1987 (29)",NA,NA,Netherlands,FC Utrecht,Eredivisie,2017/2018,2017
-NA,Centre-Back,"Jan 10, 1997 (20)",NA,NA,Netherlands,FC Utrecht,Eredivisie,2017/2018,2017
-15,Left-Back,"Feb 21, 1995 (22)",NA,NA,Netherlands,FC Utrecht,Eredivisie,2017/2018,2017
-NA,Left-Back,"Feb 27, 1995 (22)",NA,NA,Netherlands,FC Utrecht,Eredivisie,2017/2018,2017
-NA,Left-Back,"Apr 8, 1983 (34)",NA,NA,Netherlands,FC Utrecht,Eredivisie,2017/2018,2017
-NA,Left-Back,"Jun 14, 1997 (20)",NA,NA,Netherlands,FC Utrecht,Eredivisie,2017/2018,2017
-20,Right-Back,"Mar 20, 1998 (19)",NA,NA,Netherlands,FC Utrecht,Eredivisie,2017/2018,2017
-2,Right-Back,"Aug 12, 1989 (27)",NA,NA,Netherlands,FC Utrecht,Eredivisie,2017/2018,2017
-17,Right-Back,"Jul 31, 1994 (22)",NA,NA,Netherlands,FC Utrecht,Eredivisie,2017/2018,2017
-NA,Defensive Midfield,"Aug 21, 1986 (30)",NA,NA,Netherlands,FC Utrecht,Eredivisie,2017/2018,2017
-6,Defensive Midfield,"Jul 6, 1992 (24)",NA,NA,Germany,FC Utrecht,Eredivisie,2017/2018,2017
-23,Defensive Midfield,"Jun 3, 1991 (26)",NA,NA,Morocco,FC Utrecht,Eredivisie,2017/2018,2017
-8,Central Midfield,"Mar 6, 1994 (23)",NA,NA,Morocco,FC Utrecht,Eredivisie,2017/2018,2017
-13,Central Midfield,"Jun 13, 1990 (27)",NA,NA,Poland,FC Utrecht,Eredivisie,2017/2018,2017
-18,Central Midfield,"Jun 16, 1986 (31)",NA,NA,Netherlands,FC Utrecht,Eredivisie,2017/2018,2017
-27,Central Midfield,"Jun 15, 1994 (23)",NA,NA,Germany,FC Utrecht,Eredivisie,2017/2018,2017
-NA,Central Midfield,"May 15, 1994 (23)",NA,NA,Netherlands,FC Utrecht,Eredivisie,2017/2018,2017
-25,Central Midfield,"Jun 5, 1998 (19)",NA,NA,Netherlands,FC Utrecht,Eredivisie,2017/2018,2017
-NA,Central Midfield,"Aug 20, 1996 (20)",NA,NA,England,FC Utrecht,Eredivisie,2017/2018,2017
-10,Attacking Midfield,"Mar 9, 1993 (24)",NA,NA,Morocco,FC Utrecht,Eredivisie,2017/2018,2017
-22,Attacking Midfield,"Mar 24, 1993 (24)",NA,NA,Netherlands,FC Utrecht,Eredivisie,2017/2018,2017
-30,Attacking Midfield,"Mar 6, 1993 (24)",NA,NA,Netherlands,FC Utrecht,Eredivisie,2017/2018,2017
-24,Left Winger,"Apr 14, 1996 (21)",NA,NA,Netherlands,FC Utrecht,Eredivisie,2017/2018,2017
-19,Right Winger,"Jul 28, 1997 (19)",NA,NA,Netherlands,FC Utrecht,Eredivisie,2017/2018,2017
-21,Centre-Forward,"May 1, 1993 (24)",NA,NA,France,FC Utrecht,Eredivisie,2017/2018,2017
-9,Centre-Forward,"Nov 21, 1990 (26)",NA,NA,Denmark,FC Utrecht,Eredivisie,2017/2018,2017
-7,Centre-Forward,"Dec 2, 1995 (21)",NA,NA,Netherlands,FC Utrecht,Eredivisie,2017/2018,2017
-11,Centre-Forward,"Dec 8, 1994 (22)",NA,NA,Belgium,FC Utrecht,Eredivisie,2017/2018,2017
-39,Centre-Forward,"Apr 9, 1999 (18)",NA,NA,Netherlands,FC Utrecht,Eredivisie,2017/2018,2017
-NA,Centre-Forward,"Aug 8, 1996 (20)",NA,NA,Netherlands,FC Utrecht,Eredivisie,2017/2018,2017
-NA,Goalkeeper,"Feb 6, 1989 (28)",NA,NA,Curacao,Vitesse Arnhem,Eredivisie,2017/2018,2017
-22,Goalkeeper,"Nov 8, 1983 (33)",NA,NA,Netherlands,Vitesse Arnhem,Eredivisie,2017/2018,2017
-21,Goalkeeper,"Jan 8, 1986 (31)",NA,NA,Denmark,Vitesse Arnhem,Eredivisie,2017/2018,2017
-24,Goalkeeper,"Feb 18, 1996 (21)",NA,NA,Netherlands,Vitesse Arnhem,Eredivisie,2017/2018,2017
-40,Goalkeeper,"Apr 8, 1999 (18)",NA,NA,Netherlands,Vitesse Arnhem,Eredivisie,2017/2018,2017
-37,Centre-Back,"Jul 4, 1987 (29)",NA,NA,Georgia,Vitesse Arnhem,Eredivisie,2017/2018,2017
-5,Centre-Back,"Jul 19, 1995 (21)",NA,NA,United States,Vitesse Arnhem,Eredivisie,2017/2018,2017
-3,Centre-Back,"Apr 22, 1989 (28)",NA,NA,Netherlands,Vitesse Arnhem,Eredivisie,2017/2018,2017
-6,Centre-Back,"Nov 2, 1984 (32)",NA,NA,Netherlands,Vitesse Arnhem,Eredivisie,2017/2018,2017
-51,Centre-Back,"Apr 23, 1993 (24)",NA,NA,Netherlands,Vitesse Arnhem,Eredivisie,2017/2018,2017
-50,Centre-Back,"Mar 20, 1996 (21)",NA,NA,Netherlands,Vitesse Arnhem,Eredivisie,2017/2018,2017
-28,Left-Back,"Feb 11, 1989 (28)",NA,NA,Netherlands,Vitesse Arnhem,Eredivisie,2017/2018,2017
-43,Left-Back,"Jun 15, 1998 (19)",NA,NA,Netherlands,Vitesse Arnhem,Eredivisie,2017/2018,2017
-8,Right-Back,"May 20, 1995 (22)",NA,NA,Russia,Vitesse Arnhem,Eredivisie,2017/2018,2017
-2,Right-Back,"Oct 11, 1995 (21)",NA,NA,England,Vitesse Arnhem,Eredivisie,2017/2018,2017
-29,Right-Back,"Nov 24, 1997 (19)",NA,NA,Netherlands,Vitesse Arnhem,Eredivisie,2017/2018,2017
-NA,Right-Back,"Jul 1, 1998 (19)",NA,NA,Netherlands,Vitesse Arnhem,Eredivisie,2017/2018,2017
-17,Defensive Midfield,"Apr 11, 1990 (27)",NA,NA,South Africa,Vitesse Arnhem,Eredivisie,2017/2018,2017
-23,Defensive Midfield,"Oct 30, 1997 (19)",NA,NA,Saudi Arabia,Vitesse Arnhem,Eredivisie,2017/2018,2017
-NA,Central Midfield,"Sep 4, 1996 (20)",NA,NA,England,Vitesse Arnhem,Eredivisie,2017/2018,2017
-41,Central Midfield,"Jan 27, 1997 (20)",NA,NA,Netherlands,Vitesse Arnhem,Eredivisie,2017/2018,2017
-NA,Central Midfield,"Mar 11, 1998 (19)",NA,NA,Netherlands,Vitesse Arnhem,Eredivisie,2017/2018,2017
-25,Attacking Midfield,"Feb 4, 1992 (25)",NA,NA,Netherlands,Vitesse Arnhem,Eredivisie,2017/2018,2017
-10,Attacking Midfield,"Jan 7, 1992 (25)",NA,NA,Netherlands,Vitesse Arnhem,Eredivisie,2017/2018,2017
-19,Attacking Midfield,"Jan 10, 1999 (18)",NA,NA,England,Vitesse Arnhem,Eredivisie,2017/2018,2017
-NA,Left Winger,"Jun 28, 1996 (21)",NA,NA,Kosovo,Vitesse Arnhem,Eredivisie,2017/2018,2017
-11,Left Winger,"Oct 8, 1990 (26)",NA,NA,Netherlands,Vitesse Arnhem,Eredivisie,2017/2018,2017
-47,Left Winger,"Apr 3, 1998 (19)",NA,NA,Netherlands,Vitesse Arnhem,Eredivisie,2017/2018,2017
-7,Right Winger,"Dec 22, 1987 (29)",NA,NA,Netherlands,Vitesse Arnhem,Eredivisie,2017/2018,2017
-16,Right Winger,"Aug 27, 1999 (17)",NA,NA,Netherlands,Vitesse Arnhem,Eredivisie,2017/2018,2017
-NA,Right Winger,"Jul 29, 1997 (19)",NA,NA,Netherlands,Vitesse Arnhem,Eredivisie,2017/2018,2017
-14,Centre-Forward,"Sep 27, 1992 (24)",NA,NA,Netherlands,Vitesse Arnhem,Eredivisie,2017/2018,2017
-9,Centre-Forward,"Jan 13, 1989 (28)",NA,NA,Slovenia,Vitesse Arnhem,Eredivisie,2017/2018,2017
-42,Centre-Forward,"Jun 14, 2000 (17)",NA,NA,Netherlands,Vitesse Arnhem,Eredivisie,2017/2018,2017
-1,Goalkeeper,"Jun 15, 1992 (25)",NA,NA,Netherlands,SC Heerenveen,Eredivisie,2017/2018,2017
-24,Goalkeeper,"Jun 15, 1990 (27)",NA,NA,Denmark,SC Heerenveen,Eredivisie,2017/2018,2017
-23,Goalkeeper,"Jun 3, 1990 (27)",NA,NA,Netherlands,SC Heerenveen,Eredivisie,2017/2018,2017
-25,Goalkeeper,"Apr 9, 1996 (21)",NA,NA,Netherlands,SC Heerenveen,Eredivisie,2017/2018,2017
-NA,Goalkeeper,"Jul 6, 1999 (17)",NA,NA,Netherlands,SC Heerenveen,Eredivisie,2017/2018,2017
-NA,Centre-Back,"May 13, 1994 (23)",NA,NA,Netherlands,SC Heerenveen,Eredivisie,2017/2018,2017
-3,Centre-Back,"Jan 6, 1991 (26)",NA,NA,Denmark,SC Heerenveen,Eredivisie,2017/2018,2017
-4,Centre-Back,"Jan 18, 1993 (24)",NA,NA,Norway,SC Heerenveen,Eredivisie,2017/2018,2017
-14,Centre-Back,"Jun 28, 1990 (27)",NA,NA,Netherlands,SC Heerenveen,Eredivisie,2017/2018,2017
-5,Centre-Back,"Jul 20, 2000 (16)",NA,NA,Netherlands,SC Heerenveen,Eredivisie,2017/2018,2017
-16,Left-Back,"Apr 25, 1994 (23)",NA,NA,Netherlands,SC Heerenveen,Eredivisie,2017/2018,2017
-2,Right-Back,"Apr 18, 1996 (21)",NA,NA,Netherlands,SC Heerenveen,Eredivisie,2017/2018,2017
-12,Right-Back,"Apr 7, 1992 (25)",NA,NA,Netherlands,SC Heerenveen,Eredivisie,2017/2018,2017
-6,Defensive Midfield,"Jan 11, 1984 (33)",NA,NA,Netherlands,SC Heerenveen,Eredivisie,2017/2018,2017
-21,Central Midfield,"Apr 24, 1992 (25)",NA,NA,Japan,SC Heerenveen,Eredivisie,2017/2018,2017
-8,Central Midfield,"May 5, 1996 (21)",NA,NA,Norway,SC Heerenveen,Eredivisie,2017/2018,2017
-26,Central Midfield,"Jul 23, 1996 (20)",NA,NA,Netherlands,SC Heerenveen,Eredivisie,2017/2018,2017
-19,Attacking Midfield,"Apr 1, 1996 (21)",NA,NA,Netherlands,SC Heerenveen,Eredivisie,2017/2018,2017
-18,Attacking Midfield,"Jun 2, 1997 (20)",NA,NA,Netherlands,SC Heerenveen,Eredivisie,2017/2018,2017
-13,Left Winger,"Feb 25, 1995 (22)",NA,NA,Kosovo,SC Heerenveen,Eredivisie,2017/2018,2017
-17,Left Winger,"Jan 19, 1996 (21)",NA,NA,Serbia,SC Heerenveen,Eredivisie,2017/2018,2017
-10,Right Winger,"Dec 17, 1998 (18)",NA,NA,Norway,SC Heerenveen,Eredivisie,2017/2018,2017
-7,Right Winger,"Nov 5, 1991 (25)",NA,NA,New Zealand,SC Heerenveen,Eredivisie,2017/2018,2017
-9,Centre-Forward,"Sep 20, 1987 (29)",NA,NA,Iran,SC Heerenveen,Eredivisie,2017/2018,2017
-20,Centre-Forward,"Feb 26, 1991 (26)",NA,NA,Netherlands,SC Heerenveen,Eredivisie,2017/2018,2017
-NA,Centre-Forward,"Mar 7, 1998 (19)",NA,NA,Netherlands,SC Heerenveen,Eredivisie,2017/2018,2017
-26,Goalkeeper,"Sep 7, 1993 (23)",NA,NA,Belgium,FC Twente Enschede,Eredivisie,2017/2018,2017
-16,Goalkeeper,"Nov 16, 1996 (20)",NA,NA,Netherlands,FC Twente Enschede,Eredivisie,2017/2018,2017
-13,Goalkeeper,"Nov 25, 1989 (27)",NA,NA,Netherlands,FC Twente Enschede,Eredivisie,2017/2018,2017
-NA,Centre-Back,"May 31, 1996 (21)",NA,NA,Denmark,FC Twente Enschede,Eredivisie,2017/2018,2017
-3,Centre-Back,"Dec 18, 1993 (23)",NA,NA,Finland,FC Twente Enschede,Eredivisie,2017/2018,2017
-5,Centre-Back,"Apr 11, 1991 (26)",NA,NA,Germany,FC Twente Enschede,Eredivisie,2017/2018,2017
-25,Centre-Back,"Jan 28, 1995 (22)",NA,NA,Netherlands,FC Twente Enschede,Eredivisie,2017/2018,2017
-NA,Centre-Back,"Apr 22, 1983 (34)",NA,NA,Netherlands,FC Twente Enschede,Eredivisie,2017/2018,2017
-14,Centre-Back,"Mar 17, 1996 (21)",NA,NA,Finland,FC Twente Enschede,Eredivisie,2017/2018,2017
-15,Left-Back,"Apr 2, 1995 (22)",NA,NA,Chile,FC Twente Enschede,Eredivisie,2017/2018,2017
-NA,Left-Back,"Apr 14, 1992 (25)",NA,NA,Slovenia,FC Twente Enschede,Eredivisie,2017/2018,2017
-6,Left-Back,"Jan 31, 1995 (22)",NA,NA,Curacao,FC Twente Enschede,Eredivisie,2017/2018,2017
-NA,Left-Back,"Jan 11, 1996 (21)",NA,NA,France,FC Twente Enschede,Eredivisie,2017/2018,2017
-2,Right-Back,"May 20, 1997 (20)",NA,NA,Netherlands,FC Twente Enschede,Eredivisie,2017/2018,2017
-NA,Right-Back,"Aug 22, 1997 (19)",NA,NA,North Macedonia,FC Twente Enschede,Eredivisie,2017/2018,2017
-28,Right-Back,"Mar 22, 1996 (21)",NA,NA,Netherlands,FC Twente Enschede,Eredivisie,2017/2018,2017
-NA,Defensive Midfield,"Aug 19, 1999 (17)",NA,NA,Netherlands,FC Twente Enschede,Eredivisie,2017/2018,2017
-20,Central Midfield,"Jul 20, 1993 (23)",NA,NA,Netherlands,FC Twente Enschede,Eredivisie,2017/2018,2017
-21,Central Midfield,"Dec 31, 1987 (29)",NA,NA,Netherlands,FC Twente Enschede,Eredivisie,2017/2018,2017
-23,Central Midfield,"Aug 31, 1995 (21)",NA,NA,Netherlands,FC Twente Enschede,Eredivisie,2017/2018,2017
-18,Central Midfield,"Oct 25, 1985 (31)",NA,NA,Austria,FC Twente Enschede,Eredivisie,2017/2018,2017
-19,Attacking Midfield,"Sep 9, 1997 (19)",NA,NA,Finland,FC Twente Enschede,Eredivisie,2017/2018,2017
-10,Attacking Midfield,"Aug 21, 1992 (24)",NA,NA,Slovenia,FC Twente Enschede,Eredivisie,2017/2018,2017
-NA,Attacking Midfield,"Jul 10, 1997 (19)",NA,NA,Denmark,FC Twente Enschede,Eredivisie,2017/2018,2017
-11,Attacking Midfield,"Oct 25, 1998 (18)",NA,NA,Germany,FC Twente Enschede,Eredivisie,2017/2018,2017
-8,Left Winger,"Aug 15, 1988 (28)",NA,NA,Morocco,FC Twente Enschede,Eredivisie,2017/2018,2017
-34,Left Winger,"Oct 30, 1992 (24)",NA,NA,Morocco,FC Twente Enschede,Eredivisie,2017/2018,2017
-30,Left Winger,"Jun 27, 1998 (19)",NA,NA,Netherlands,FC Twente Enschede,Eredivisie,2017/2018,2017
-37,Left Winger,"Jun 27, 1999 (18)",NA,NA,Netherlands,FC Twente Enschede,Eredivisie,2017/2018,2017
-27,Right Winger,"Oct 5, 1993 (23)",NA,NA,Netherlands,FC Twente Enschede,Eredivisie,2017/2018,2017
-NA,Right Winger,"Aug 29, 1998 (18)",NA,NA,Netherlands,FC Twente Enschede,Eredivisie,2017/2018,2017
-NA,Right Winger,"Mar 14, 1998 (19)",NA,NA,England,FC Twente Enschede,Eredivisie,2017/2018,2017
-9,Centre-Forward,"Nov 24, 1992 (24)",NA,NA,Netherlands,FC Twente Enschede,Eredivisie,2017/2018,2017
-29,Centre-Forward,"Jul 14, 1984 (32)",NA,NA,Morocco,FC Twente Enschede,Eredivisie,2017/2018,2017
-24,Centre-Forward,"Mar 3, 1995 (22)",NA,NA,Netherlands,FC Twente Enschede,Eredivisie,2017/2018,2017
-17,Centre-Forward,"Dec 20, 1996 (20)",NA,NA,Austria,FC Twente Enschede,Eredivisie,2017/2018,2017
-1,Goalkeeper,"Jun 6, 1990 (27)",NA,NA,Netherlands,FC Groningen,Eredivisie,2017/2018,2017
-16,Goalkeeper,"May 13, 1982 (35)",NA,NA,Belgium,FC Groningen,Eredivisie,2017/2018,2017
-NA,Goalkeeper,"Feb 26, 1998 (19)",NA,NA,Morocco,FC Groningen,Eredivisie,2017/2018,2017
-NA,Goalkeeper,"Aug 4, 1998 (18)",NA,NA,Netherlands,FC Groningen,Eredivisie,2017/2018,2017
-3,Centre-Back,"Jan 25, 1993 (24)",NA,NA,Denmark,FC Groningen,Eredivisie,2017/2018,2017
-4,Centre-Back,"Jun 8, 1992 (25)",NA,NA,Netherlands,FC Groningen,Eredivisie,2017/2018,2017
-5,Centre-Back,"Aug 13, 1993 (23)",NA,NA,Bosnia-Herzegovina,FC Groningen,Eredivisie,2017/2018,2017
-NA,Centre-Back,"Apr 5, 1987 (30)",NA,NA,Netherlands,FC Groningen,Eredivisie,2017/2018,2017
-37,Centre-Back,"Jul 11, 1999 (17)",NA,NA,Netherlands,FC Groningen,Eredivisie,2017/2018,2017
-39,Left-Back,"Jun 19, 1997 (20)",NA,NA,Netherlands,FC Groningen,Eredivisie,2017/2018,2017
-NA,Right-Back,"Sep 17, 1993 (23)",NA,NA,England,FC Groningen,Eredivisie,2017/2018,2017
-2,Right-Back,"Mar 11, 1998 (19)",NA,NA,Netherlands,FC Groningen,Eredivisie,2017/2018,2017
-NA,Right-Back,"Jun 9, 1998 (19)",NA,NA,Netherlands,FC Groningen,Eredivisie,2017/2018,2017
-NA,Defensive Midfield,"Oct 12, 1997 (19)",NA,NA,Netherlands,FC Groningen,Eredivisie,2017/2018,2017
-NA,Central Midfield,"May 4, 1988 (29)",NA,NA,Norway,FC Groningen,Eredivisie,2017/2018,2017
-7,Central Midfield,"Aug 7, 1997 (19)",NA,NA,Netherlands,FC Groningen,Eredivisie,2017/2018,2017
-20,Central Midfield,"Jun 17, 1993 (24)",NA,NA,Netherlands,FC Groningen,Eredivisie,2017/2018,2017
-36,Central Midfield,"Jul 2, 1999 (17)",NA,NA,Netherlands,FC Groningen,Eredivisie,2017/2018,2017
-68,Central Midfield,"Jun 1, 2000 (17)",NA,NA,Netherlands,FC Groningen,Eredivisie,2017/2018,2017
-21,Left Midfield,"Sep 2, 1995 (21)",NA,NA,Netherlands,FC Groningen,Eredivisie,2017/2018,2017
-17,Attacking Midfield,"Jan 11, 1993 (24)",NA,NA,Netherlands,FC Groningen,Eredivisie,2017/2018,2017
-23,Attacking Midfield,"Jul 5, 1996 (20)",NA,NA,Australia,FC Groningen,Eredivisie,2017/2018,2017
-10,Left Winger,"Mar 13, 1994 (23)",NA,NA,Morocco,FC Groningen,Eredivisie,2017/2018,2017
-NA,Left Winger,"Feb 26, 1996 (21)",NA,NA,Morocco,FC Groningen,Eredivisie,2017/2018,2017
-47,Left Winger,"Jan 15, 1997 (20)",NA,NA,Netherlands,FC Groningen,Eredivisie,2017/2018,2017
-25,Right Winger,"Jun 16, 1998 (19)",NA,NA,Japan,FC Groningen,Eredivisie,2017/2018,2017
-14,Right Winger,"Aug 21, 1997 (19)",NA,NA,Mexico,FC Groningen,Eredivisie,2017/2018,2017
-9,Centre-Forward,"Aug 21, 1991 (25)",NA,NA,South Africa,FC Groningen,Eredivisie,2017/2018,2017
-19,Centre-Forward,"Jun 7, 1990 (27)",NA,NA,Netherlands,FC Groningen,Eredivisie,2017/2018,2017
-NA,Centre-Forward,"Dec 27, 1995 (21)",NA,NA,Papua New Guinea,FC Groningen,Eredivisie,2017/2018,2017
-50,Centre-Forward,"Oct 2, 1998 (18)",NA,NA,Netherlands,FC Groningen,Eredivisie,2017/2018,2017
-1,Goalkeeper,"Sep 30, 1982 (34)",NA,NA,Belgium,Heracles Almelo,Eredivisie,2017/2018,2017
-26,Goalkeeper,"Jul 21, 1989 (27)",NA,NA,Netherlands,Heracles Almelo,Eredivisie,2017/2018,2017
-NA,Goalkeeper,"Sep 26, 1992 (24)",NA,NA,Netherlands,Heracles Almelo,Eredivisie,2017/2018,2017
-28,Goalkeeper,"Jan 21, 1993 (24)",NA,NA,Netherlands,Heracles Almelo,Eredivisie,2017/2018,2017
-3,Centre-Back,"Mar 18, 1991 (26)",NA,NA,Belgium,Heracles Almelo,Eredivisie,2017/2018,2017
-4,Centre-Back,"Sep 23, 1993 (23)",NA,NA,Netherlands,Heracles Almelo,Eredivisie,2017/2018,2017
-6,Centre-Back,"Sep 12, 1995 (21)",NA,NA,Belgium,Heracles Almelo,Eredivisie,2017/2018,2017
-5,Left-Back,"Jan 16, 1987 (30)",NA,NA,Netherlands,Heracles Almelo,Eredivisie,2017/2018,2017
-34,Left-Back,"Feb 27, 1995 (22)",NA,NA,Netherlands,Heracles Almelo,Eredivisie,2017/2018,2017
-22,Left-Back,"Mar 2, 1996 (21)",NA,NA,Netherlands,Heracles Almelo,Eredivisie,2017/2018,2017
-12,Right-Back,"May 20, 1989 (28)",NA,NA,Netherlands,Heracles Almelo,Eredivisie,2017/2018,2017
-2,Right-Back,"Nov 4, 1987 (29)",NA,NA,Netherlands,Heracles Almelo,Eredivisie,2017/2018,2017
-NA,Defensive Midfield,"May 15, 1993 (24)",NA,NA,Netherlands,Heracles Almelo,Eredivisie,2017/2018,2017
-21,Defensive Midfield,"Jun 21, 1993 (24)",NA,NA,Germany,Heracles Almelo,Eredivisie,2017/2018,2017
-30,Defensive Midfield,"Nov 23, 1997 (19)",NA,NA,Netherlands,Heracles Almelo,Eredivisie,2017/2018,2017
-8,Central Midfield,"Aug 11, 1990 (26)",NA,NA,Netherlands,Heracles Almelo,Eredivisie,2017/2018,2017
-20,Central Midfield,"Feb 16, 1992 (25)",NA,NA,Netherlands,Heracles Almelo,Eredivisie,2017/2018,2017
-29,Central Midfield,"Mar 27, 1995 (22)",NA,NA,Netherlands,Heracles Almelo,Eredivisie,2017/2018,2017
-35,Central Midfield,"Nov 23, 1993 (23)",NA,NA,Cape Verde,Heracles Almelo,Eredivisie,2017/2018,2017
-14,Central Midfield,"Jan 1, 1994 (23)",NA,NA,Syria,Heracles Almelo,Eredivisie,2017/2018,2017
-24,Central Midfield,"Apr 25, 1997 (20)",NA,NA,Armenia,Heracles Almelo,Eredivisie,2017/2018,2017
-27,Attacking Midfield,"Sep 28, 1997 (19)",NA,NA,Netherlands,Heracles Almelo,Eredivisie,2017/2018,2017
-7,Left Winger,"Sep 14, 1994 (22)",NA,NA,Netherlands,Heracles Almelo,Eredivisie,2017/2018,2017
-18,Left Winger,"Nov 28, 1994 (22)",NA,NA,Sweden,Heracles Almelo,Eredivisie,2017/2018,2017
-25,Left Winger,"Jan 22, 1998 (19)",NA,NA,Turkey,Heracles Almelo,Eredivisie,2017/2018,2017
-17,Right Winger,"Sep 19, 1992 (24)",NA,NA,Curacao,Heracles Almelo,Eredivisie,2017/2018,2017
-15,Right Winger,"Dec 30, 1991 (25)",NA,NA,Czech Republic,Heracles Almelo,Eredivisie,2017/2018,2017
-NA,Centre-Forward,"May 27, 1990 (27)",NA,NA,Sweden,Heracles Almelo,Eredivisie,2017/2018,2017
-19,Centre-Forward,"Aug 9, 1994 (22)",NA,NA,Netherlands,Heracles Almelo,Eredivisie,2017/2018,2017
-9,Centre-Forward,"Mar 18, 1992 (25)",NA,NA,Netherlands,Heracles Almelo,Eredivisie,2017/2018,2017
-23,Centre-Forward,"Mar 27, 1995 (22)",NA,NA,Netherlands,Heracles Almelo,Eredivisie,2017/2018,2017
-NA,Goalkeeper,"Apr 15, 1994 (23)",NA,NA,Germany,Sparta Rotterdam,Eredivisie,2017/2018,2017
-NA,Goalkeeper,"Aug 26, 1992 (24)",NA,NA,Netherlands,Sparta Rotterdam,Eredivisie,2017/2018,2017
-NA,Goalkeeper,"Mar 16, 1990 (27)",NA,NA,Netherlands,Sparta Rotterdam,Eredivisie,2017/2018,2017
-NA,Goalkeeper,"Oct 21, 1995 (21)",NA,NA,Belgium,Sparta Rotterdam,Eredivisie,2017/2018,2017
-NA,Goalkeeper,"Jan 9, 1995 (22)",NA,NA,Netherlands,Sparta Rotterdam,Eredivisie,2017/2018,2017
-NA,Goalkeeper,"Nov 11, 1997 (19)",NA,NA,Netherlands,Sparta Rotterdam,Eredivisie,2017/2018,2017
-NA,Centre-Back,"Sep 3, 1988 (28)",NA,NA,Netherlands,Sparta Rotterdam,Eredivisie,2017/2018,2017
-NA,Centre-Back,"May 9, 1991 (26)",NA,NA,Netherlands,Sparta Rotterdam,Eredivisie,2017/2018,2017
-NA,Centre-Back,"May 25, 1980 (37)",NA,NA,Netherlands,Sparta Rotterdam,Eredivisie,2017/2018,2017
-NA,Centre-Back,"Feb 12, 1998 (19)",NA,NA,Germany,Sparta Rotterdam,Eredivisie,2017/2018,2017
-NA,Centre-Back,"Jan 17, 1998 (19)",NA,NA,Netherlands,Sparta Rotterdam,Eredivisie,2017/2018,2017
-NA,Centre-Back,"Feb 18, 1999 (18)",NA,NA,Aruba,Sparta Rotterdam,Eredivisie,2017/2018,2017
-NA,Left-Back,"Sep 22, 1990 (26)",NA,NA,Netherlands,Sparta Rotterdam,Eredivisie,2017/2018,2017
-NA,Left-Back,"Sep 15, 1994 (22)",NA,NA,Denmark,Sparta Rotterdam,Eredivisie,2017/2018,2017
-NA,Right-Back,"Sep 24, 1994 (22)",NA,NA,Denmark,Sparta Rotterdam,Eredivisie,2017/2018,2017
-NA,Right-Back,"Mar 14, 1993 (24)",NA,NA,Finland,Sparta Rotterdam,Eredivisie,2017/2018,2017
-NA,Right-Back,"Aug 23, 1998 (18)",NA,NA,Netherlands,Sparta Rotterdam,Eredivisie,2017/2018,2017
-NA,Defensive Midfield,"Jan 5, 1992 (25)",NA,NA,Belgium,Sparta Rotterdam,Eredivisie,2017/2018,2017
-NA,Defensive Midfield,"May 7, 1993 (24)",NA,NA,Australia,Sparta Rotterdam,Eredivisie,2017/2018,2017
-NA,Defensive Midfield,"Nov 15, 1997 (19)",NA,NA,England,Sparta Rotterdam,Eredivisie,2017/2018,2017
-NA,Defensive Midfield,"Apr 11, 1997 (20)",NA,NA,Netherlands,Sparta Rotterdam,Eredivisie,2017/2018,2017
-NA,Defensive Midfield,"Mar 3, 1998 (19)",NA,NA,Netherlands,Sparta Rotterdam,Eredivisie,2017/2018,2017
-NA,Central Midfield,"Apr 7, 1995 (22)",NA,NA,France,Sparta Rotterdam,Eredivisie,2017/2018,2017
-NA,Central Midfield,"Jan 13, 1998 (19)",NA,NA,Netherlands,Sparta Rotterdam,Eredivisie,2017/2018,2017
-NA,Central Midfield,"Jul 4, 1999 (17)",NA,NA,Netherlands,Sparta Rotterdam,Eredivisie,2017/2018,2017
-NA,Left Midfield,"Sep 9, 1995 (21)",NA,NA,Netherlands,Sparta Rotterdam,Eredivisie,2017/2018,2017
-NA,Attacking Midfield,"Mar 12, 1996 (21)",NA,NA,Netherlands,Sparta Rotterdam,Eredivisie,2017/2018,2017
-NA,Attacking Midfield,"Dec 15, 1989 (27)",NA,NA,Netherlands,Sparta Rotterdam,Eredivisie,2017/2018,2017
-NA,Attacking Midfield,"May 6, 1997 (20)",NA,NA,Netherlands,Sparta Rotterdam,Eredivisie,2017/2018,2017
-NA,Left Winger,"Jul 31, 1996 (20)",NA,NA,Netherlands,Sparta Rotterdam,Eredivisie,2017/2018,2017
-NA,Left Winger,"Dec 16, 1991 (25)",NA,NA,Australia,Sparta Rotterdam,Eredivisie,2017/2018,2017
-NA,Right Winger,"Sep 18, 1992 (24)",NA,NA,Belgium,Sparta Rotterdam,Eredivisie,2017/2018,2017
-NA,Right Winger,"Mar 8, 1988 (29)",NA,NA,Netherlands,Sparta Rotterdam,Eredivisie,2017/2018,2017
-NA,Right Winger,"Feb 23, 1997 (20)",NA,NA,Netherlands,Sparta Rotterdam,Eredivisie,2017/2018,2017
-NA,Centre-Forward,"Dec 3, 1988 (28)",NA,NA,Netherlands,Sparta Rotterdam,Eredivisie,2017/2018,2017
-NA,Centre-Forward,"May 22, 1995 (22)",NA,NA,Nigeria,Sparta Rotterdam,Eredivisie,2017/2018,2017
-NA,Centre-Forward,"May 18, 1989 (28)",NA,NA,Netherlands,Sparta Rotterdam,Eredivisie,2017/2018,2017
-NA,Centre-Forward,"Nov 28, 1986 (30)",NA,NA,Germany,Sparta Rotterdam,Eredivisie,2017/2018,2017
-NA,Centre-Forward,"Feb 27, 1987 (30)",NA,NA,Slovenia,Sparta Rotterdam,Eredivisie,2017/2018,2017
-NA,Centre-Forward,"Jul 28, 1998 (18)",NA,NA,Germany,Sparta Rotterdam,Eredivisie,2017/2018,2017
-NA,Centre-Forward,"Dec 8, 1999 (17)",NA,NA,Turkey,Sparta Rotterdam,Eredivisie,2017/2018,2017
-22,Goalkeeper,"May 4, 1983 (34)",NA,NA,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
-1,Goalkeeper,"Jul 22, 1996 (20)",NA,NA,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
-18,Goalkeeper,"Apr 10, 1991 (26)",NA,NA,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
-NA,Goalkeeper,"Mar 16, 1998 (19)",NA,NA,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
-5,Centre-Back,"Jul 6, 1993 (23)",NA,NA,Cote d'Ivoire,ADO Den Haag,Eredivisie,2017/2018,2017
-4,Centre-Back,"Aug 7, 1990 (26)",NA,NA,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
-NA,Centre-Back,"Mar 26, 1991 (26)",NA,NA,Germany,ADO Den Haag,Eredivisie,2017/2018,2017
-20,Centre-Back,"Oct 8, 1992 (24)",NA,NA,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
-19,Centre-Back,"Mar 19, 1998 (19)",NA,NA,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
-NA,Centre-Back,"Mar 8, 1996 (21)",NA,NA,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
-8,Left-Back,"Oct 28, 1987 (29)",NA,NA,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
-15,Left-Back,"Aug 17, 1994 (22)",NA,NA,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
-2,Right-Back,"Dec 16, 1995 (21)",NA,NA,Nigeria,ADO Den Haag,Eredivisie,2017/2018,2017
-16,Right-Back,"Jul 1, 1999 (18)",NA,NA,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
-27,Right-Back,"Jan 28, 1997 (20)",NA,NA,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
-17,Central Midfield,"Jan 16, 1995 (22)",NA,NA,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
-6,Central Midfield,"Jun 15, 1988 (29)",NA,NA,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
-26,Central Midfield,"Jun 24, 1998 (19)",NA,NA,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
-28,Left Midfield,"Dec 17, 1998 (18)",NA,NA,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
-10,Attacking Midfield,"Jun 8, 1986 (31)",NA,NA,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
-23,Attacking Midfield,"Feb 7, 1989 (28)",NA,NA,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
-30,Attacking Midfield,"May 5, 1988 (29)",NA,NA,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
-32,Attacking Midfield,"Jul 25, 1988 (28)",NA,NA,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
-11,Left Winger,"Jan 4, 1995 (22)",NA,NA,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
-21,Left Winger,"May 13, 1983 (34)",NA,NA,France,ADO Den Haag,Eredivisie,2017/2018,2017
-NA,Left Winger,"Sep 14, 1991 (25)",NA,NA,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
-33,Left Winger,"Nov 26, 1994 (22)",NA,NA,Uganda,ADO Den Haag,Eredivisie,2017/2018,2017
-7,Right Winger,"Feb 9, 1995 (22)",NA,NA,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
-77,Right Winger,"Oct 1, 1991 (25)",NA,NA,Curacao,ADO Den Haag,Eredivisie,2017/2018,2017
-NA,Right Winger,"Mar 4, 2000 (17)",NA,NA,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
-26,Right Winger,"Feb 16, 1997 (20)",NA,NA,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
-9,Centre-Forward,"Nov 6, 1991 (25)",NA,NA,Norway,ADO Den Haag,Eredivisie,2017/2018,2017
-NA,Centre-Forward,"Feb 17, 1997 (20)",NA,NA,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
-14,Centre-Forward,"Feb 9, 2000 (17)",NA,NA,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
-1,Goalkeeper,"Dec 3, 1995 (21)",NA,NA,Germany,Willem II Tilburg,Eredivisie,2017/2018,2017
-31,Goalkeeper,"Dec 31, 1993 (23)",NA,NA,Netherlands,Willem II Tilburg,Eredivisie,2017/2018,2017
-93,Goalkeeper,"Mar 5, 1993 (24)",NA,NA,Netherlands,Willem II Tilburg,Eredivisie,2017/2018,2017
-NA,Goalkeeper,"Oct 9, 1998 (18)",NA,NA,Netherlands,Willem II Tilburg,Eredivisie,2017/2018,2017
-4,Centre-Back,"May 3, 1987 (30)",NA,NA,Netherlands,Willem II Tilburg,Eredivisie,2017/2018,2017
-29,Centre-Back,"Nov 11, 1989 (27)",NA,NA,Curacao,Willem II Tilburg,Eredivisie,2017/2018,2017
-3,Centre-Back,"Sep 13, 1989 (27)",NA,NA,Netherlands,Willem II Tilburg,Eredivisie,2017/2018,2017
-25,Centre-Back,"Mar 26, 1991 (26)",NA,NA,Germany,Willem II Tilburg,Eredivisie,2017/2018,2017
-5,Centre-Back,"Jul 17, 1990 (26)",NA,NA,Netherlands,Willem II Tilburg,Eredivisie,2017/2018,2017
-NA,Centre-Back,"May 30, 1996 (21)",NA,NA,Netherlands,Willem II Tilburg,Eredivisie,2017/2018,2017
-18,Centre-Back,"Aug 12, 1999 (17)",NA,NA,Netherlands,Willem II Tilburg,Eredivisie,2017/2018,2017
-49,Centre-Back,"Jun 10, 2000 (17)",NA,NA,Australia,Willem II Tilburg,Eredivisie,2017/2018,2017
-15,Left-Back,"Aug 31, 1992 (24)",NA,NA,Netherlands,Willem II Tilburg,Eredivisie,2017/2018,2017
-21,Left-Back,"May 12, 1996 (21)",NA,NA,Greece,Willem II Tilburg,Eredivisie,2017/2018,2017
-2,Right-Back,"Jan 31, 1993 (24)",NA,NA,Netherlands,Willem II Tilburg,Eredivisie,2017/2018,2017
-34,Right-Back,"Aug 24, 1996 (20)",NA,NA,Netherlands,Willem II Tilburg,Eredivisie,2017/2018,2017
-32,Defensive Midfield,"Mar 23, 1986 (31)",NA,NA,Cameroon,Willem II Tilburg,Eredivisie,2017/2018,2017
-20,Defensive Midfield,"Feb 3, 1994 (23)",NA,NA,Netherlands,Willem II Tilburg,Eredivisie,2017/2018,2017
-NA,Defensive Midfield,"May 15, 1998 (19)",NA,NA,Netherlands,Willem II Tilburg,Eredivisie,2017/2018,2017
-23,Central Midfield,"Jun 5, 1990 (27)",NA,NA,Netherlands,Willem II Tilburg,Eredivisie,2017/2018,2017
-6,Central Midfield,"May 23, 1997 (20)",NA,NA,Spain,Willem II Tilburg,Eredivisie,2017/2018,2017
-41,Central Midfield,"Jan 25, 1998 (19)",NA,NA,Netherlands,Willem II Tilburg,Eredivisie,2017/2018,2017
-16,Central Midfield,"May 15, 1998 (19)",NA,NA,Poland,Willem II Tilburg,Eredivisie,2017/2018,2017
-10,Attacking Midfield,"Feb 9, 1995 (22)",NA,NA,Netherlands,Willem II Tilburg,Eredivisie,2017/2018,2017
-NA,Attacking Midfield,"Aug 3, 1997 (19)",NA,NA,England,Willem II Tilburg,Eredivisie,2017/2018,2017
-NA,Attacking Midfield,"Apr 9, 1994 (23)",NA,NA,Romania,Willem II Tilburg,Eredivisie,2017/2018,2017
-7,Left Winger,"Jun 3, 1993 (24)",NA,NA,France,Willem II Tilburg,Eredivisie,2017/2018,2017
-19,Left Winger,"Jul 1, 1997 (20)",NA,NA,Morocco,Willem II Tilburg,Eredivisie,2017/2018,2017
-51,Left Winger,"Apr 7, 1999 (18)",NA,NA,Iceland,Willem II Tilburg,Eredivisie,2017/2018,2017
-11,Right Winger,"Jan 15, 1994 (23)",NA,NA,Belgium,Willem II Tilburg,Eredivisie,2017/2018,2017
-38,Right Winger,"Jan 6, 1998 (19)",NA,NA,Belgium,Willem II Tilburg,Eredivisie,2017/2018,2017
-28,Right Winger,"May 10, 1997 (20)",NA,NA,Portugal,Willem II Tilburg,Eredivisie,2017/2018,2017
-NA,Right Winger,"Feb 5, 1999 (18)",NA,NA,Curacao,Willem II Tilburg,Eredivisie,2017/2018,2017
-NA,Second Striker,"Mar 16, 1996 (21)",NA,NA,Netherlands,Willem II Tilburg,Eredivisie,2017/2018,2017
-9,Centre-Forward,"Mar 13, 1992 (25)",NA,NA,Spain,Willem II Tilburg,Eredivisie,2017/2018,2017
-8,Centre-Forward,"Oct 1, 1984 (32)",NA,NA,Nigeria,Willem II Tilburg,Eredivisie,2017/2018,2017
-17,Centre-Forward,"Dec 26, 1988 (28)",NA,NA,Slovenia,Willem II Tilburg,Eredivisie,2017/2018,2017
-16,Goalkeeper,"Jun 13, 1994 (23)",NA,NA,Netherlands,PEC Zwolle,Eredivisie,2017/2018,2017
-1,Goalkeeper,"Sep 24, 1980 (36)",NA,NA,Netherlands,PEC Zwolle,Eredivisie,2017/2018,2017
-40,Goalkeeper,"Mar 18, 1997 (20)",NA,NA,Netherlands,PEC Zwolle,Eredivisie,2017/2018,2017
-NA,Goalkeeper,"Feb 8, 1999 (18)",NA,NA,Netherlands,PEC Zwolle,Eredivisie,2017/2018,2017
-3,Centre-Back,"Feb 18, 1994 (23)",NA,NA,Argentina,PEC Zwolle,Eredivisie,2017/2018,2017
-4,Centre-Back,"Apr 13, 1988 (29)",NA,NA,Netherlands,PEC Zwolle,Eredivisie,2017/2018,2017
-13,Centre-Back,"Feb 10, 1997 (20)",NA,NA,Netherlands,PEC Zwolle,Eredivisie,2017/2018,2017
-44,Centre-Back,"Jun 26, 1996 (21)",NA,NA,Netherlands,PEC Zwolle,Eredivisie,2017/2018,2017
-NA,Centre-Back,"May 29, 1997 (20)",NA,NA,Netherlands,PEC Zwolle,Eredivisie,2017/2018,2017
-33,Centre-Back,"Dec 20, 2001 (15)",NA,NA,Netherlands,PEC Zwolle,Eredivisie,2017/2018,2017
-5,Left-Back,"Jan 31, 1992 (25)",NA,NA,Netherlands,PEC Zwolle,Eredivisie,2017/2018,2017
-NA,Left-Back,"Apr 6, 1998 (19)",NA,NA,Netherlands,PEC Zwolle,Eredivisie,2017/2018,2017
-2,Right-Back,"Oct 11, 1985 (31)",NA,NA,Netherlands,PEC Zwolle,Eredivisie,2017/2018,2017
-20,Right-Back,"May 25, 1995 (22)",NA,NA,Netherlands,PEC Zwolle,Eredivisie,2017/2018,2017
-24,Right-Back,"May 24, 1992 (25)",NA,NA,Netherlands,PEC Zwolle,Eredivisie,2017/2018,2017
-35,Right-Back,"Feb 26, 1997 (20)",NA,NA,Curacao,PEC Zwolle,Eredivisie,2017/2018,2017
-19,Defensive Midfield,"Mar 15, 1995 (22)",NA,NA,Netherlands,PEC Zwolle,Eredivisie,2017/2018,2017
-30,Central Midfield,"Dec 20, 1994 (22)",NA,NA,New Zealand,PEC Zwolle,Eredivisie,2017/2018,2017
-23,Central Midfield,"Mar 21, 1990 (27)",NA,NA,Netherlands,PEC Zwolle,Eredivisie,2017/2018,2017
-NA,Central Midfield,"Jul 29, 1998 (18)",NA,NA,Netherlands,PEC Zwolle,Eredivisie,2017/2018,2017
-34,Central Midfield,"Jul 31, 1997 (19)",NA,NA,Netherlands,PEC Zwolle,Eredivisie,2017/2018,2017
-6,Attacking Midfield,"Feb 11, 1993 (24)",NA,NA,Netherlands,PEC Zwolle,Eredivisie,2017/2018,2017
-21,Attacking Midfield,"Jun 20, 1994 (23)",NA,NA,Denmark,PEC Zwolle,Eredivisie,2017/2018,2017
-10,Attacking Midfield,"Aug 10, 1988 (28)",NA,NA,Netherlands,PEC Zwolle,Eredivisie,2017/2018,2017
-14,Attacking Midfield,"Feb 25, 1989 (28)",NA,NA,Sweden,PEC Zwolle,Eredivisie,2017/2018,2017
-8,Attacking Midfield,"Feb 18, 1995 (22)",NA,NA,Netherlands,PEC Zwolle,Eredivisie,2017/2018,2017
-7,Left Winger,"Aug 29, 1991 (25)",NA,NA,Morocco,PEC Zwolle,Eredivisie,2017/2018,2017
-17,Left Winger,"Aug 19, 1995 (21)",NA,NA,Netherlands,PEC Zwolle,Eredivisie,2017/2018,2017
-28,Left Winger,"Jul 20, 1998 (18)",NA,NA,Netherlands,PEC Zwolle,Eredivisie,2017/2018,2017
-11,Right Winger,"Sep 9, 1993 (23)",NA,NA,Guyana,PEC Zwolle,Eredivisie,2017/2018,2017
-33,Right Winger,"Sep 25, 1991 (25)",NA,NA,Greece,PEC Zwolle,Eredivisie,2017/2018,2017
-9,Centre-Forward,"Sep 8, 1993 (23)",NA,NA,Poland,PEC Zwolle,Eredivisie,2017/2018,2017
-25,Goalkeeper,"Jun 19, 1989 (28)",NA,NA,Iceland,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
-12,Goalkeeper,"Nov 19, 1982 (34)",NA,NA,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
-1,Goalkeeper,"May 17, 1990 (27)",NA,NA,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
-16,Goalkeeper,"Sep 12, 1995 (21)",NA,NA,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
-NA,Goalkeeper,"Feb 27, 1999 (18)",NA,NA,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
-15,Centre-Back,"Apr 1, 1993 (24)",NA,NA,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
-30,Centre-Back,"Jan 8, 1995 (22)",NA,NA,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
-4,Centre-Back,"Apr 3, 1998 (19)",NA,NA,Belgium,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
-3,Centre-Back,"Sep 2, 1993 (23)",NA,NA,United States,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
-NA,Centre-Back,"May 30, 1996 (21)",NA,NA,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
-NA,Centre-Back,"Aug 20, 1999 (17)",NA,NA,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
-28,Left-Back,"Jan 11, 1991 (26)",NA,NA,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
-5,Left-Back,"Dec 1, 1993 (23)",NA,NA,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
-2,Right-Back,"Dec 29, 1989 (27)",NA,NA,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
-22,Right-Back,"Mar 22, 1989 (28)",NA,NA,Cape Verde,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
-17,Right-Back,"Nov 30, 1995 (21)",NA,NA,United States,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
-8,Central Midfield,"Aug 8, 1985 (31)",NA,NA,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
-6,Central Midfield,"Mar 19, 1992 (25)",NA,NA,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
-21,Central Midfield,"Feb 11, 2000 (17)",NA,NA,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
-18,Attacking Midfield,"Nov 20, 1990 (26)",NA,NA,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
-7,Attacking Midfield,"Sep 14, 1982 (34)",NA,NA,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
-14,Attacking Midfield,"Apr 13, 1991 (26)",NA,NA,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
-20,Left Winger,"Nov 20, 1997 (19)",NA,NA,Trinidad and Tobago,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
-10,Left Winger,"Mar 9, 1987 (30)",NA,NA,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
-33,Left Winger,"May 9, 1999 (18)",NA,NA,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
-11,Right Winger,"May 14, 1992 (25)",NA,NA,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
-23,Right Winger,"Jul 18, 1996 (20)",NA,NA,Belgium,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
-9,Centre-Forward,"Nov 6, 1991 (25)",NA,NA,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
-19,Centre-Forward,"May 7, 1996 (21)",NA,NA,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
-1,Goalkeeper,"Feb 9, 1994 (23)",NA,NA,Netherlands,Roda JC Kerkrade,Eredivisie,2017/2018,2017
-16,Goalkeeper,"Jun 14, 1991 (26)",NA,NA,Poland,Roda JC Kerkrade,Eredivisie,2017/2018,2017
-NA,Goalkeeper,"Jan 31, 1997 (20)",NA,NA,Netherlands,Roda JC Kerkrade,Eredivisie,2017/2018,2017
-NA,Goalkeeper,"Jan 18, 1999 (18)",NA,NA,Netherlands,Roda JC Kerkrade,Eredivisie,2017/2018,2017
-NA,Goalkeeper,"Jan 24, 2000 (17)",NA,NA,Serbia,Roda JC Kerkrade,Eredivisie,2017/2018,2017
-NA,Goalkeeper,"Aug 7, 1998 (18)",NA,NA,Netherlands,Roda JC Kerkrade,Eredivisie,2017/2018,2017
-3,Centre-Back,"Apr 4, 1994 (23)",NA,NA,Denmark,Roda JC Kerkrade,Eredivisie,2017/2018,2017
-4,Centre-Back,"Sep 13, 1985 (31)",NA,NA,Netherlands,Roda JC Kerkrade,Eredivisie,2017/2018,2017
-20,Centre-Back,"Jun 27, 1994 (23)",NA,NA,Netherlands,Roda JC Kerkrade,Eredivisie,2017/2018,2017
-NA,Centre-Back,"Jun 9, 1998 (19)",NA,NA,Curacao,Roda JC Kerkrade,Eredivisie,2017/2018,2017
-5,Left-Back,"Jun 26, 1985 (32)",NA,NA,Netherlands,Roda JC Kerkrade,Eredivisie,2017/2018,2017
-17,Left-Back,"Feb 17, 1993 (24)",NA,NA,Belgium,Roda JC Kerkrade,Eredivisie,2017/2018,2017
-NA,Right-Back,"Sep 20, 1997 (19)",NA,NA,Germany,Roda JC Kerkrade,Eredivisie,2017/2018,2017
-2,Right-Back,"Jun 9, 1992 (25)",NA,NA,Netherlands,Roda JC Kerkrade,Eredivisie,2017/2018,2017
-22,Right-Back,"Jul 16, 1993 (23)",NA,NA,Germany,Roda JC Kerkrade,Eredivisie,2017/2018,2017
-NA,Midfielder,"Mar 1, 1995 (22)",NA,NA,Belgium,Roda JC Kerkrade,Eredivisie,2017/2018,2017
-6,Defensive Midfield,"Jul 6, 1987 (29)",NA,NA,Netherlands,Roda JC Kerkrade,Eredivisie,2017/2018,2017
-15,Defensive Midfield,"Oct 16, 1991 (25)",NA,NA,Bosnia-Herzegovina,Roda JC Kerkrade,Eredivisie,2017/2018,2017
-23,Defensive Midfield,"Dec 1, 1983 (33)",NA,NA,Netherlands,Roda JC Kerkrade,Eredivisie,2017/2018,2017
-24,Defensive Midfield,"Dec 18, 1999 (17)",NA,NA,Netherlands,Roda JC Kerkrade,Eredivisie,2017/2018,2017
-8,Central Midfield,"Oct 6, 1986 (30)",NA,NA,Morocco,Roda JC Kerkrade,Eredivisie,2017/2018,2017
-13,Central Midfield,"Jun 13, 1997 (20)",NA,NA,Germany,Roda JC Kerkrade,Eredivisie,2017/2018,2017
-10,Attacking Midfield,"Jan 11, 1995 (22)",NA,NA,Sweden,Roda JC Kerkrade,Eredivisie,2017/2018,2017
-19,Attacking Midfield,"Apr 21, 1993 (24)",NA,NA,Netherlands,Roda JC Kerkrade,Eredivisie,2017/2018,2017
-25,Attacking Midfield,"Oct 4, 1997 (19)",NA,NA,Belgium,Roda JC Kerkrade,Eredivisie,2017/2018,2017
-27,Left Winger,"Aug 25, 1996 (20)",NA,NA,Kosovo,Roda JC Kerkrade,Eredivisie,2017/2018,2017
-11,Left Winger,"Apr 14, 1994 (23)",NA,NA,Netherlands,Roda JC Kerkrade,Eredivisie,2017/2018,2017
-7,Right Winger,"Aug 10, 1990 (26)",NA,NA,Netherlands,Roda JC Kerkrade,Eredivisie,2017/2018,2017
-21,Right Winger,"May 14, 1995 (22)",NA,NA,Belgium,Roda JC Kerkrade,Eredivisie,2017/2018,2017
-28,Centre-Forward,"Mar 31, 1995 (22)",NA,NA,Belgium,Roda JC Kerkrade,Eredivisie,2017/2018,2017
-9,Centre-Forward,"Jul 9, 1989 (27)",NA,NA,Germany,Roda JC Kerkrade,Eredivisie,2017/2018,2017
-18,Centre-Forward,"Oct 28, 1998 (18)",NA,NA,Belgium,Roda JC Kerkrade,Eredivisie,2017/2018,2017
-14,Centre-Forward,"Oct 22, 1993 (23)",NA,NA,Germany,Roda JC Kerkrade,Eredivisie,2017/2018,2017
-12,Goalkeeper,"Apr 17, 1991 (26)",NA,NA,Australia,NAC Breda,Eredivisie,2017/2018,2017
-23,Goalkeeper,"Jan 8, 1993 (24)",NA,NA,Netherlands,NAC Breda,Eredivisie,2017/2018,2017
-NA,Goalkeeper,"Apr 7, 1994 (23)",NA,NA,Netherlands,NAC Breda,Eredivisie,2017/2018,2017
-NA,Goalkeeper,"Oct 2, 1994 (22)",NA,NA,Netherlands,NAC Breda,Eredivisie,2017/2018,2017
-26,Goalkeeper,"Jul 5, 1999 (17)",NA,NA,Poland,NAC Breda,Eredivisie,2017/2018,2017
-5,Centre-Back,"May 16, 1993 (24)",NA,NA,Estonia,NAC Breda,Eredivisie,2017/2018,2017
-22,Centre-Back,"Aug 31, 1993 (23)",NA,NA,Spain,NAC Breda,Eredivisie,2017/2018,2017
-3,Centre-Back,"Jul 2, 1994 (22)",NA,NA,Netherlands,NAC Breda,Eredivisie,2017/2018,2017
-4,Centre-Back,"Jan 30, 1988 (29)",NA,NA,Belgium,NAC Breda,Eredivisie,2017/2018,2017
-18,Centre-Back,"Jan 10, 1997 (20)",NA,NA,Netherlands,NAC Breda,Eredivisie,2017/2018,2017
-34,Centre-Back,"Aug 10, 1998 (18)",NA,NA,Netherlands,NAC Breda,Eredivisie,2017/2018,2017
-69,Left-Back,"Jan 4, 1997 (20)",NA,NA,Spain,NAC Breda,Eredivisie,2017/2018,2017
-32,Left-Back,"Mar 24, 1998 (19)",NA,NA,Netherlands,NAC Breda,Eredivisie,2017/2018,2017
-2,Right-Back,"Aug 3, 1993 (23)",NA,NA,Netherlands,NAC Breda,Eredivisie,2017/2018,2017
-35,Right-Back,"Nov 30, 1995 (21)",NA,NA,England,NAC Breda,Eredivisie,2017/2018,2017
-NA,Defensive Midfield,"Mar 20, 1990 (27)",NA,NA,Netherlands,NAC Breda,Eredivisie,2017/2018,2017
-6,Defensive Midfield,"Apr 8, 1997 (20)",NA,NA,Belgium,NAC Breda,Eredivisie,2017/2018,2017
-24,Defensive Midfield,"Jan 3, 1997 (20)",NA,NA,Belgium,NAC Breda,Eredivisie,2017/2018,2017
-31,Defensive Midfield,"Jun 19, 1997 (20)",NA,NA,Netherlands,NAC Breda,Eredivisie,2017/2018,2017
-16,Central Midfield,"Dec 9, 1983 (33)",NA,NA,Belgium,NAC Breda,Eredivisie,2017/2018,2017
-8,Central Midfield,"Sep 27, 1994 (22)",NA,NA,Netherlands,NAC Breda,Eredivisie,2017/2018,2017
-14,Central Midfield,"Feb 3, 1995 (22)",NA,NA,Belgium,NAC Breda,Eredivisie,2017/2018,2017
-30,Central Midfield,"Feb 14, 1990 (27)",NA,NA,Netherlands,NAC Breda,Eredivisie,2017/2018,2017
-NA,Central Midfield,"Mar 4, 1999 (18)",NA,NA,Netherlands,NAC Breda,Eredivisie,2017/2018,2017
-19,Attacking Midfield,"Jan 2, 1998 (19)",NA,NA,Spain,NAC Breda,Eredivisie,2017/2018,2017
-10,Attacking Midfield,"May 8, 1995 (22)",NA,NA,Netherlands,NAC Breda,Eredivisie,2017/2018,2017
-17,Attacking Midfield,"Dec 12, 1998 (18)",NA,NA,Netherlands,NAC Breda,Eredivisie,2017/2018,2017
-11,Attacking Midfield,"Aug 9, 1998 (18)",NA,NA,Spain,NAC Breda,Eredivisie,2017/2018,2017
-NA,Left Winger,"Jul 27, 1987 (29)",NA,NA,Denmark,NAC Breda,Eredivisie,2017/2018,2017
-20,Left Winger,"Oct 10, 1996 (20)",NA,NA,Ghana,NAC Breda,Eredivisie,2017/2018,2017
-28,Left Winger,"Jun 3, 1998 (19)",NA,NA,Netherlands,NAC Breda,Eredivisie,2017/2018,2017
-7,Right Winger,"Aug 1, 1993 (23)",NA,NA,Netherlands,NAC Breda,Eredivisie,2017/2018,2017
-97,Centre-Forward,"Feb 2, 1997 (20)",NA,NA,Nigeria,NAC Breda,Eredivisie,2017/2018,2017
-27,Centre-Forward,"Aug 7, 1991 (25)",NA,NA,Netherlands,NAC Breda,Eredivisie,2017/2018,2017
-45,Centre-Forward,"Feb 10, 1998 (19)",NA,NA,Haiti,NAC Breda,Eredivisie,2017/2018,2017
-9,Centre-Forward,"Mar 28, 1997 (20)",NA,NA,France,NAC Breda,Eredivisie,2017/2018,2017
-1,Goalkeeper,"Jul 20, 1990 (26)",NA,NA,Germany,VVV-Venlo,Eredivisie,2017/2018,2017
-16,Goalkeeper,"Jun 5, 1991 (26)",NA,NA,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
-30,Goalkeeper,"May 9, 2000 (17)",NA,NA,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
-31,Goalkeeper,"Dec 23, 1999 (17)",NA,NA,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
-13,Centre-Back,"Feb 10, 1992 (25)",NA,NA,Germany,VVV-Venlo,Eredivisie,2017/2018,2017
-3,Centre-Back,"Mar 9, 1984 (33)",NA,NA,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
-20,Centre-Back,"Mar 18, 1996 (21)",NA,NA,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
-25,Centre-Back,"Apr 27, 1997 (20)",NA,NA,Turkey,VVV-Venlo,Eredivisie,2017/2018,2017
-NA,Centre-Back,"Feb 2, 1999 (18)",NA,NA,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
-40,Centre-Back,"Oct 7, 2000 (16)",NA,NA,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
-4,Left-Back,"Jun 16, 1990 (27)",NA,NA,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
-5,Left-Back,"Mar 11, 1991 (26)",NA,NA,Belgium,VVV-Venlo,Eredivisie,2017/2018,2017
-27,Left-Back,"Nov 13, 1998 (18)",NA,NA,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
-2,Right-Back,"Apr 28, 1993 (24)",NA,NA,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
-17,Right-Back,"Mar 27, 1998 (19)",NA,NA,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
-NA,Defensive Midfield,"Nov 26, 1993 (23)",NA,NA,Australia,VVV-Venlo,Eredivisie,2017/2018,2017
-8,Central Midfield,"Sep 15, 1995 (21)",NA,NA,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
-6,Central Midfield,"Apr 7, 1989 (28)",NA,NA,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
-29,Central Midfield,"Jan 4, 1998 (19)",NA,NA,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
-NA,Central Midfield,"Sep 25, 2000 (16)",NA,NA,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
-37,Central Midfield,"Mar 3, 2000 (17)",NA,NA,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
-12,Right Midfield,"Jul 1, 1986 (31)",NA,NA,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
-10,Attacking Midfield,"Apr 18, 1990 (27)",NA,NA,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
-9,Attacking Midfield,"Apr 17, 1989 (28)",NA,NA,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
-NA,Attacking Midfield,"Jun 5, 1998 (19)",NA,NA,Nigeria,VVV-Venlo,Eredivisie,2017/2018,2017
-NA,Left Winger,"Apr 2, 1993 (24)",NA,NA,Morocco,VVV-Venlo,Eredivisie,2017/2018,2017
-19,Left Winger,"Dec 14, 1990 (26)",NA,NA,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
-24,Left Winger,"Feb 17, 1997 (20)",NA,NA,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
-NA,Left Winger,"Mar 1, 1998 (19)",NA,NA,Germany,VVV-Venlo,Eredivisie,2017/2018,2017
-NA,Left Winger,"May 28, 1998 (19)",NA,NA,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
-7,Right Winger,"Jan 29, 1996 (21)",NA,NA,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
-15,Right Winger,"May 3, 1983 (34)",NA,NA,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
-11,Centre-Forward,"Feb 25, 1992 (25)",NA,NA,Germany,VVV-Venlo,Eredivisie,2017/2018,2017
-NA,Centre-Forward,"Oct 17, 1998 (18)",NA,NA,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
-26,Centre-Forward,"Jun 24, 1998 (19)",NA,NA,Denmark,VVV-Venlo,Eredivisie,2017/2018,2017
+player_name,position,date_of_birth,age,nationality,club_name,league_name,season,year
+André Onana,Goalkeeper,1996-04-02,21,Cameroon,Ajax Amsterdam,Eredivisie,2017/2018,2017
+Benjamin van Leer,Goalkeeper,1992-04-09,25,Netherlands,Ajax Amsterdam,Eredivisie,2017/2018,2017
+Konstantinos Lamprou,Goalkeeper,1991-09-18,25,Greece,Ajax Amsterdam,Eredivisie,2017/2018,2017
+Norbert Alblas,Goalkeeper,1994-12-12,22,Netherlands,Ajax Amsterdam,Eredivisie,2017/2018,2017
+Davinson Sánchez,Centre-Back,1996-06-12,21,Colombia,Ajax Amsterdam,Eredivisie,2017/2018,2017
+Matthijs de Ligt,Centre-Back,1999-08-12,17,Netherlands,Ajax Amsterdam,Eredivisie,2017/2018,2017
+Nick Viergever,Centre-Back,1989-08-03,27,Netherlands,Ajax Amsterdam,Eredivisie,2017/2018,2017
+Maximilian Wöber,Centre-Back,1998-02-04,19,Austria,Ajax Amsterdam,Eredivisie,2017/2018,2017
+Leon Bergsma,Centre-Back,1997-01-25,20,Netherlands,Ajax Amsterdam,Eredivisie,2017/2018,2017
+Nicolás Tagliafico,Left-Back,1992-08-31,24,Argentina,Ajax Amsterdam,Eredivisie,2017/2018,2017
+Daley Sinkgraven,Left-Back,1995-07-04,21,Netherlands,Ajax Amsterdam,Eredivisie,2017/2018,2017
+Mitchell Dijks,Left-Back,1993-02-09,24,Netherlands,Ajax Amsterdam,Eredivisie,2017/2018,2017
+Mitchel Bakker,Left-Back,2000-06-20,17,Netherlands,Ajax Amsterdam,Eredivisie,2017/2018,2017
+Joël Veltman,Right-Back,1992-01-15,25,Netherlands,Ajax Amsterdam,Eredivisie,2017/2018,2017
+Rasmus Kristensen,Right-Back,1997-07-11,19,Denmark,Ajax Amsterdam,Eredivisie,2017/2018,2017
+Deyovaisio Zeefuik,Right-Back,1998-03-11,19,Netherlands,Ajax Amsterdam,Eredivisie,2017/2018,2017
+Luis Manuel Orejuela,Right-Back,1995-08-20,21,Colombia,Ajax Amsterdam,Eredivisie,2017/2018,2017
+Damil Dankerlui,Right-Back,1996-08-24,20,Netherlands,Ajax Amsterdam,Eredivisie,2017/2018,2017
+Noussair Mazraoui,Right-Back,1997-11-14,19,Morocco,Ajax Amsterdam,Eredivisie,2017/2018,2017
+Lasse Schöne,Defensive Midfield,1986-05-27,31,Denmark,Ajax Amsterdam,Eredivisie,2017/2018,2017
+Carel Eiting,Defensive Midfield,1998-02-11,19,Netherlands,Ajax Amsterdam,Eredivisie,2017/2018,2017
+Azor Matusiwa,Defensive Midfield,1998-04-28,19,Netherlands,Ajax Amsterdam,Eredivisie,2017/2018,2017
+Abdelhak Nouri,Central Midfield,1997-04-02,20,Netherlands,Ajax Amsterdam,Eredivisie,2017/2018,2017
+Frenkie de Jong,Central Midfield,1997-05-12,20,Netherlands,Ajax Amsterdam,Eredivisie,2017/2018,2017
+Dani de Wit,Central Midfield,1998-01-28,19,Netherlands,Ajax Amsterdam,Eredivisie,2017/2018,2017
+Jurgen Ekkelenkamp,Central Midfield,2000-04-05,17,Netherlands,Ajax Amsterdam,Eredivisie,2017/2018,2017
+Siem de Jong,Attacking Midfield,1989-01-28,28,Netherlands,Ajax Amsterdam,Eredivisie,2017/2018,2017
+Donny van de Beek,Attacking Midfield,1997-04-18,20,Netherlands,Ajax Amsterdam,Eredivisie,2017/2018,2017
+Noa Lang,Attacking Midfield,1999-06-17,18,Netherlands,Ajax Amsterdam,Eredivisie,2017/2018,2017
+Amin Younes,Left Winger,1993-08-06,23,Germany,Ajax Amsterdam,Eredivisie,2017/2018,2017
+Justin Kluivert,Left Winger,1999-05-05,18,Netherlands,Ajax Amsterdam,Eredivisie,2017/2018,2017
+Dennis Johnsen,Left Winger,1998-02-17,19,Norway,Ajax Amsterdam,Eredivisie,2017/2018,2017
+Hakim Ziyech,Right Winger,1993-03-19,24,Morocco,Ajax Amsterdam,Eredivisie,2017/2018,2017
+David Neres,Right Winger,1997-03-03,20,Brazil,Ajax Amsterdam,Eredivisie,2017/2018,2017
+Vaclav Cerny,Right Winger,1997-10-17,19,Czech Republic,Ajax Amsterdam,Eredivisie,2017/2018,2017
+Kasper Dolberg,Centre-Forward,1997-10-06,19,Denmark,Ajax Amsterdam,Eredivisie,2017/2018,2017
+Mateo Cassierra,Centre-Forward,1997-04-13,20,Colombia,Ajax Amsterdam,Eredivisie,2017/2018,2017
+Klaas-Jan Huntelaar,Centre-Forward,1983-08-12,33,Netherlands,Ajax Amsterdam,Eredivisie,2017/2018,2017
+Kaj Sierhuis,Centre-Forward,1998-04-27,19,Netherlands,Ajax Amsterdam,Eredivisie,2017/2018,2017
+Jeroen Zoet,Goalkeeper,1991-01-06,26,Netherlands,PSV Eindhoven,Eredivisie,2017/2018,2017
+Eloy Room,Goalkeeper,1989-02-06,28,Curacao,PSV Eindhoven,Eredivisie,2017/2018,2017
+Luuk Koopmans,Goalkeeper,1993-11-18,23,Netherlands,PSV Eindhoven,Eredivisie,2017/2018,2017
+Yanick van Osch,Goalkeeper,1997-03-24,20,Netherlands,PSV Eindhoven,Eredivisie,2017/2018,2017
+Mike van de Meulenhof,Goalkeeper,1999-05-11,18,Netherlands,PSV Eindhoven,Eredivisie,2017/2018,2017
+Nicolas Isimat-Mirin,Centre-Back,1991-11-15,25,France,PSV Eindhoven,Eredivisie,2017/2018,2017
+Derrick Luckassen,Centre-Back,1995-07-03,21,Netherlands,PSV Eindhoven,Eredivisie,2017/2018,2017
+Daniel Schwaab,Centre-Back,1988-08-23,28,Germany,PSV Eindhoven,Eredivisie,2017/2018,2017
+Jordy de Wijs,Centre-Back,1995-01-08,22,Netherlands,PSV Eindhoven,Eredivisie,2017/2018,2017
+Armando Obispo,Centre-Back,1999-03-05,18,Netherlands,PSV Eindhoven,Eredivisie,2017/2018,2017
+Kenneth Paal,Left-Back,1997-06-24,20,Netherlands,PSV Eindhoven,Eredivisie,2017/2018,2017
+Santiago Arias,Right-Back,1992-01-13,25,Colombia,PSV Eindhoven,Eredivisie,2017/2018,2017
+Joshua Brenet,Right-Back,1994-03-20,23,Netherlands,PSV Eindhoven,Eredivisie,2017/2018,2017
+Jorrit Hendrix,Defensive Midfield,1995-02-06,22,Netherlands,PSV Eindhoven,Eredivisie,2017/2018,2017
+Davy Pröpper,Central Midfield,1991-09-02,25,Netherlands,PSV Eindhoven,Eredivisie,2017/2018,2017
+Marco van Ginkel,Central Midfield,1992-12-01,24,Netherlands,PSV Eindhoven,Eredivisie,2017/2018,2017
+Adam Maher,Central Midfield,1993-07-20,23,Netherlands,PSV Eindhoven,Eredivisie,2017/2018,2017
+Pablo Rosario,Central Midfield,1997-01-07,20,Netherlands,PSV Eindhoven,Eredivisie,2017/2018,2017
+Dante Rigo,Central Midfield,1998-12-11,18,Belgium,PSV Eindhoven,Eredivisie,2017/2018,2017
+Gastón Pereiro,Attacking Midfield,1995-06-11,22,Uruguay,PSV Eindhoven,Eredivisie,2017/2018,2017
+Bart Ramselaar,Attacking Midfield,1996-06-29,21,Netherlands,PSV Eindhoven,Eredivisie,2017/2018,2017
+Ramon Pascal Lundqvist,Attacking Midfield,1997-05-10,20,Sweden,PSV Eindhoven,Eredivisie,2017/2018,2017
+Mauro Júnior,Attacking Midfield,1999-05-06,18,Brazil,PSV Eindhoven,Eredivisie,2017/2018,2017
+Hirving Lozano,Left Winger,1995-07-30,21,Mexico,PSV Eindhoven,Eredivisie,2017/2018,2017
+Steven Bergwijn,Left Winger,1997-10-08,19,Netherlands,PSV Eindhoven,Eredivisie,2017/2018,2017
+Cody Gakpo,Left Winger,1999-05-07,18,Netherlands,PSV Eindhoven,Eredivisie,2017/2018,2017
+Donyell Malen,Left Winger,1999-01-19,18,Netherlands,PSV Eindhoven,Eredivisie,2017/2018,2017
+Albert Gudmundsson,Right Winger,1997-06-15,20,Iceland,PSV Eindhoven,Eredivisie,2017/2018,2017
+Luuk de Jong,Centre-Forward,1990-08-27,26,Netherlands,PSV Eindhoven,Eredivisie,2017/2018,2017
+Jürgen Locadia,Centre-Forward,1993-11-07,23,Netherlands,PSV Eindhoven,Eredivisie,2017/2018,2017
+Maximiliano Romero,Centre-Forward,1999-01-09,18,Argentina,PSV Eindhoven,Eredivisie,2017/2018,2017
+Sam Lammers,Centre-Forward,1997-04-30,20,Netherlands,PSV Eindhoven,Eredivisie,2017/2018,2017
+Kenneth Vermeer,Goalkeeper,1986-01-10,31,Netherlands,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
+Brad Jones,Goalkeeper,1982-03-19,35,Australia,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
+Justin Bijlow,Goalkeeper,1998-01-22,19,Netherlands,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
+Ramón ten Hove,Goalkeeper,1998-03-03,19,Netherlands,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
+Eric Botteghin,Centre-Back,1987-08-31,29,Brazil,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
+Jan-Arie van der Heijden,Centre-Back,1988-03-03,29,Netherlands,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
+Sven van Beek,Centre-Back,1994-07-28,22,Netherlands,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
+Jeremiah St. Juste,Centre-Back,1996-10-19,20,Netherlands,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
+Mats Knoester,Centre-Back,1998-11-19,18,Netherlands,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
+Lutsharel Geertruida,Centre-Back,2000-07-18,16,Netherlands,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
+Ridgeciano Haps,Left-Back,1993-06-12,24,Netherlands,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
+Miquel Nelom,Left-Back,1990-09-22,26,Netherlands,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
+Tyrell Malacia,Left-Back,1999-08-17,17,Netherlands,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
+Bart Nieuwkoop,Right-Back,1996-03-07,21,Netherlands,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
+Kevin Diks,Right-Back,1996-10-06,20,Netherlands,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
+Tonny Vilhena,Central Midfield,1995-01-03,22,Netherlands,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
+Karim El Ahmadi,Central Midfield,1985-01-27,32,Morocco,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
+Renato Tapia,Central Midfield,1995-07-28,21,Peru,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
+Sofyan Amrabat,Central Midfield,1996-08-21,20,Morocco,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
+Gustavo Hamer,Central Midfield,1997-06-24,20,Netherlands,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
+Orkun Kökcü,Central Midfield,2000-12-29,16,Netherlands,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
+Jens Toornstra,Attacking Midfield,1989-04-04,28,Netherlands,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
+Jean-Paul Boëtius,Attacking Midfield,1994-03-22,23,Netherlands,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
+Sam Larsson,Left Winger,1993-04-10,24,Sweden,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
+Bilal Basacikoglu,Left Winger,1995-03-26,22,Turkey,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
+Emil Hansson,Left Winger,1998-06-15,19,Sweden,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
+Cheick Touré,Left Winger,2001-02-07,16,Netherlands,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
+Steven Berghuis,Right Winger,1991-12-19,25,Netherlands,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
+Nicolai Jörgensen,Centre-Forward,1991-01-15,26,Denmark,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
+Robin van Persie,Centre-Forward,1983-08-06,33,Netherlands,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
+Michiel Kramer,Centre-Forward,1988-12-03,28,Netherlands,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
+Dylan Vente,Centre-Forward,1999-05-09,18,Netherlands,Feyenoord Rotterdam,Eredivisie,2017/2018,2017
+Marco Bizot,Goalkeeper,1991-03-10,26,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
+Nick Olij,Goalkeeper,1995-08-01,21,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
+Gino Coutinho,Goalkeeper,1982-08-05,34,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
+Ron Vlaar,Centre-Back,1985-02-16,32,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
+Stijn Wuytens,Centre-Back,1989-10-08,27,Belgium,AZ Alkmaar,Eredivisie,2017/2018,2017
+Rens van Eijden,Centre-Back,1988-03-03,29,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
+Pantelis Hatzidiakos,Centre-Back,1997-01-18,20,Greece,AZ Alkmaar,Eredivisie,2017/2018,2017
+Joris Kramer,Centre-Back,1996-08-02,20,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
+Thomas Ouwejan,Left-Back,1996-09-30,20,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
+Owen Wijndal,Left-Back,1999-11-28,17,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
+Ricardo van Rhijn,Right-Back,1991-06-13,26,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
+Jonas Svensson,Right-Back,1993-03-06,24,Norway,AZ Alkmaar,Eredivisie,2017/2018,2017
+Levi Opdam,Right-Back,1996-05-03,21,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
+Joerie Church,Right-Back,1998-03-23,19,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
+Marko Vejinović,Defensive Midfield,1990-02-03,27,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
+Teun Koopmeiners,Defensive Midfield,1998-02-28,19,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
+Joris van Overeem,Central Midfield,1994-06-01,23,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
+Mats Seuntjens,Central Midfield,1992-04-17,25,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
+Fredrik Midtsjö,Central Midfield,1993-08-11,23,Norway,AZ Alkmaar,Eredivisie,2017/2018,2017
+Tijjani Reijnders,Central Midfield,1998-07-29,18,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
+Mees Hoedemakers,Central Midfield,1998-02-18,19,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
+Iliass Bel Hassani,Attacking Midfield,1992-09-16,24,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
+Guus Til,Attacking Midfield,1997-12-22,19,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
+Jeremy Helmer,Attacking Midfield,1997-07-03,19,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
+Oussama Idrissi,Left Winger,1996-02-26,21,Morocco,AZ Alkmaar,Eredivisie,2017/2018,2017
+Dabney dos Santos,Left Winger,1996-07-31,20,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
+Levi García,Left Winger,1997-11-20,19,Trinidad and Tobago,AZ Alkmaar,Eredivisie,2017/2018,2017
+Alireza Jahanbakhsh,Right Winger,1993-08-11,23,Iran,AZ Alkmaar,Eredivisie,2017/2018,2017
+Calvin Stengs,Right Winger,1998-12-18,18,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
+Wout Weghorst,Centre-Forward,1992-08-07,24,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
+Fred Friday,Centre-Forward,1995-05-22,22,Nigeria,AZ Alkmaar,Eredivisie,2017/2018,2017
+Ondrej Mihalik,Centre-Forward,1997-04-02,20,Czech Republic,AZ Alkmaar,Eredivisie,2017/2018,2017
+Myron Boadu,Centre-Forward,2001-01-14,16,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
+Ferdy Druijf,Centre-Forward,1998-02-12,19,Netherlands,AZ Alkmaar,Eredivisie,2017/2018,2017
+Nick Marsman,Goalkeeper,1990-10-01,26,Netherlands,FC Utrecht,Eredivisie,2017/2018,2017
+David Jensen,Goalkeeper,1992-03-25,25,Denmark,FC Utrecht,Eredivisie,2017/2018,2017
+Thijmen Nijhuis,Goalkeeper,1998-07-25,18,Netherlands,FC Utrecht,Eredivisie,2017/2018,2017
+Menno Heus,Goalkeeper,1995-12-17,21,Netherlands,FC Utrecht,Eredivisie,2017/2018,2017
+Dario Dumic,Centre-Back,1992-01-30,25,Bosnia-Herzegovina,FC Utrecht,Eredivisie,2017/2018,2017
+Willem Janssen,Centre-Back,1986-07-04,30,Netherlands,FC Utrecht,Eredivisie,2017/2018,2017
+Ramon Leeuwin,Centre-Back,1987-09-01,29,Netherlands,FC Utrecht,Eredivisie,2017/2018,2017
+Maarten Peijnenburg,Centre-Back,1997-01-10,20,Netherlands,FC Utrecht,Eredivisie,2017/2018,2017
+Robin van der Meer,Left-Back,1995-02-21,22,Netherlands,FC Utrecht,Eredivisie,2017/2018,2017
+Jeff Hardeveld,Left-Back,1995-02-27,22,Netherlands,FC Utrecht,Eredivisie,2017/2018,2017
+Edson Braafheid,Left-Back,1983-04-08,34,Netherlands,FC Utrecht,Eredivisie,2017/2018,2017
+Rick van der Meer,Left-Back,1997-06-14,20,Netherlands,FC Utrecht,Eredivisie,2017/2018,2017
+Giovanni Troupée,Right-Back,1998-03-20,19,Netherlands,FC Utrecht,Eredivisie,2017/2018,2017
+Mark van der Maarel,Right-Back,1989-08-12,27,Netherlands,FC Utrecht,Eredivisie,2017/2018,2017
+Sean Klaiber,Right-Back,1994-07-31,22,Netherlands,FC Utrecht,Eredivisie,2017/2018,2017
+Wout Brama,Defensive Midfield,1986-08-21,30,Netherlands,FC Utrecht,Eredivisie,2017/2018,2017
+Rico Strieder,Defensive Midfield,1992-07-06,24,Germany,FC Utrecht,Eredivisie,2017/2018,2017
+Anouar Kali,Defensive Midfield,1991-06-03,26,Morocco,FC Utrecht,Eredivisie,2017/2018,2017
+Yassin Ayoub,Central Midfield,1994-03-06,23,Morocco,FC Utrecht,Eredivisie,2017/2018,2017
+Mateusz Klich,Central Midfield,1990-06-13,27,Poland,FC Utrecht,Eredivisie,2017/2018,2017
+Urby Emanuelson,Central Midfield,1986-06-16,31,Netherlands,FC Utrecht,Eredivisie,2017/2018,2017
+Lukas Görtler,Central Midfield,1994-06-15,23,Germany,FC Utrecht,Eredivisie,2017/2018,2017
+Darren Rosheuvel,Central Midfield,1994-05-15,23,Netherlands,FC Utrecht,Eredivisie,2017/2018,2017
+Odysseus Velanas,Central Midfield,1998-06-05,19,Netherlands,FC Utrecht,Eredivisie,2017/2018,2017
+Matty Willock,Central Midfield,1996-08-20,20,England,FC Utrecht,Eredivisie,2017/2018,2017
+Zakaria Labyad,Attacking Midfield,1993-03-09,24,Morocco,FC Utrecht,Eredivisie,2017/2018,2017
+Sander van de Streek,Attacking Midfield,1993-03-24,24,Netherlands,FC Utrecht,Eredivisie,2017/2018,2017
+Chris David,Attacking Midfield,1993-03-06,24,Netherlands,FC Utrecht,Eredivisie,2017/2018,2017
+Patrick Joosten,Left Winger,1996-04-14,21,Netherlands,FC Utrecht,Eredivisie,2017/2018,2017
+Bilal Ould-Chikh,Right Winger,1997-07-28,19,Netherlands,FC Utrecht,Eredivisie,2017/2018,2017
+Jean-Christophe Bahebeck,Centre-Forward,1993-05-01,24,France,FC Utrecht,Eredivisie,2017/2018,2017
+Simon Makienok,Centre-Forward,1990-11-21,26,Denmark,FC Utrecht,Eredivisie,2017/2018,2017
+Gyrano Kerk,Centre-Forward,1995-12-02,21,Netherlands,FC Utrecht,Eredivisie,2017/2018,2017
+Cyriel Dessers,Centre-Forward,1994-12-08,22,Belgium,FC Utrecht,Eredivisie,2017/2018,2017
+Nick Venema,Centre-Forward,1999-04-09,18,Netherlands,FC Utrecht,Eredivisie,2017/2018,2017
+Sylla Sow,Centre-Forward,1996-08-08,20,Netherlands,FC Utrecht,Eredivisie,2017/2018,2017
+Eloy Room,Goalkeeper,1989-02-06,28,Curacao,Vitesse Arnhem,Eredivisie,2017/2018,2017
+Remko Pasveer,Goalkeeper,1983-11-08,33,Netherlands,Vitesse Arnhem,Eredivisie,2017/2018,2017
+Michael Törnes,Goalkeeper,1986-01-08,31,Denmark,Vitesse Arnhem,Eredivisie,2017/2018,2017
+Jeroen Houwen,Goalkeeper,1996-02-18,21,Netherlands,Vitesse Arnhem,Eredivisie,2017/2018,2017
+Bilal Bayazit,Goalkeeper,1999-04-08,18,Netherlands,Vitesse Arnhem,Eredivisie,2017/2018,2017
+Guram Kashia,Centre-Back,1987-07-04,29,Georgia,Vitesse Arnhem,Eredivisie,2017/2018,2017
+Matt Miazga,Centre-Back,1995-07-19,21,United States,Vitesse Arnhem,Eredivisie,2017/2018,2017
+Maikel van der Werff,Centre-Back,1989-04-22,28,Netherlands,Vitesse Arnhem,Eredivisie,2017/2018,2017
+Arnold Kruiswijk,Centre-Back,1984-11-02,32,Netherlands,Vitesse Arnhem,Eredivisie,2017/2018,2017
+Gino Bosz,Centre-Back,1993-04-23,24,Netherlands,Vitesse Arnhem,Eredivisie,2017/2018,2017
+Thomas Oude Kotte,Centre-Back,1996-03-20,21,Netherlands,Vitesse Arnhem,Eredivisie,2017/2018,2017
+Alexander Büttner,Left-Back,1989-02-11,28,Netherlands,Vitesse Arnhem,Eredivisie,2017/2018,2017
+Lassana Faye,Left-Back,1998-06-15,19,Netherlands,Vitesse Arnhem,Eredivisie,2017/2018,2017
+Vyacheslav Karavaev,Right-Back,1995-05-20,22,Russia,Vitesse Arnhem,Eredivisie,2017/2018,2017
+Fankaty Dabo,Right-Back,1995-10-11,21,England,Vitesse Arnhem,Eredivisie,2017/2018,2017
+Julian Lelieveld,Right-Back,1997-11-24,19,Netherlands,Vitesse Arnhem,Eredivisie,2017/2018,2017
+Boyd Lucassen,Right-Back,1998-07-01,19,Netherlands,Vitesse Arnhem,Eredivisie,2017/2018,2017
+Thulani Serero,Defensive Midfield,1990-04-11,27,South Africa,Vitesse Arnhem,Eredivisie,2017/2018,2017
+Mukhtar Ali,Defensive Midfield,1997-10-30,19,Saudi Arabia,Vitesse Arnhem,Eredivisie,2017/2018,2017
+Charlie Colkett,Central Midfield,1996-09-04,20,England,Vitesse Arnhem,Eredivisie,2017/2018,2017
+Julian Calor,Central Midfield,1997-01-27,20,Netherlands,Vitesse Arnhem,Eredivisie,2017/2018,2017
+Jesse Schuurman,Central Midfield,1998-03-11,19,Netherlands,Vitesse Arnhem,Eredivisie,2017/2018,2017
+Navarone Foor,Attacking Midfield,1992-02-04,25,Netherlands,Vitesse Arnhem,Eredivisie,2017/2018,2017
+Thomas Bruns,Attacking Midfield,1992-01-07,25,Netherlands,Vitesse Arnhem,Eredivisie,2017/2018,2017
+Mason Mount,Attacking Midfield,1999-01-10,18,England,Vitesse Arnhem,Eredivisie,2017/2018,2017
+Milot Rashica,Left Winger,1996-06-28,21,Kosovo,Vitesse Arnhem,Eredivisie,2017/2018,2017
+Bryan Linssen,Left Winger,1990-10-08,26,Netherlands,Vitesse Arnhem,Eredivisie,2017/2018,2017
+Lars ten Teije,Left Winger,1998-04-03,19,Netherlands,Vitesse Arnhem,Eredivisie,2017/2018,2017
+Roy Beerens,Right Winger,1987-12-22,29,Netherlands,Vitesse Arnhem,Eredivisie,2017/2018,2017
+Mitchell van Bergen,Right Winger,1999-08-27,17,Netherlands,Vitesse Arnhem,Eredivisie,2017/2018,2017
+Martijn Berden,Right Winger,1997-07-29,19,Netherlands,Vitesse Arnhem,Eredivisie,2017/2018,2017
+Luc Castaignos,Centre-Forward,1992-09-27,24,Netherlands,Vitesse Arnhem,Eredivisie,2017/2018,2017
+Tim Matavz,Centre-Forward,1989-01-13,28,Slovenia,Vitesse Arnhem,Eredivisie,2017/2018,2017
+Thomas Buitink,Centre-Forward,2000-06-14,17,Netherlands,Vitesse Arnhem,Eredivisie,2017/2018,2017
+Warner Hahn,Goalkeeper,1992-06-15,25,Netherlands,SC Heerenveen,Eredivisie,2017/2018,2017
+Martin Hansen,Goalkeeper,1990-06-15,27,Denmark,SC Heerenveen,Eredivisie,2017/2018,2017
+Wouter van der Steen,Goalkeeper,1990-06-03,27,Netherlands,SC Heerenveen,Eredivisie,2017/2018,2017
+Jan Bekkema,Goalkeeper,1996-04-09,21,Netherlands,SC Heerenveen,Eredivisie,2017/2018,2017
+Trevor Doornbusch,Goalkeeper,1999-07-06,17,Netherlands,SC Heerenveen,Eredivisie,2017/2018,2017
+Joost van Aken,Centre-Back,1994-05-13,23,Netherlands,SC Heerenveen,Eredivisie,2017/2018,2017
+Daniel Höegh,Centre-Back,1991-01-06,26,Denmark,SC Heerenveen,Eredivisie,2017/2018,2017
+Nicolai Naess,Centre-Back,1993-01-18,24,Norway,SC Heerenveen,Eredivisie,2017/2018,2017
+Dave Bulthuis,Centre-Back,1990-06-28,27,Netherlands,SC Heerenveen,Eredivisie,2017/2018,2017
+Kik Pierie,Centre-Back,2000-07-20,16,Netherlands,SC Heerenveen,Eredivisie,2017/2018,2017
+Lucas Woudenberg,Left-Back,1994-04-25,23,Netherlands,SC Heerenveen,Eredivisie,2017/2018,2017
+Denzel Dumfries,Right-Back,1996-04-18,21,Netherlands,SC Heerenveen,Eredivisie,2017/2018,2017
+Doke Schmidt,Right-Back,1992-04-07,25,Netherlands,SC Heerenveen,Eredivisie,2017/2018,2017
+Stijn Schaars,Defensive Midfield,1984-01-11,33,Netherlands,SC Heerenveen,Eredivisie,2017/2018,2017
+Yuki Kobayashi,Central Midfield,1992-04-24,25,Japan,SC Heerenveen,Eredivisie,2017/2018,2017
+Morten Thorsby,Central Midfield,1996-05-05,21,Norway,SC Heerenveen,Eredivisie,2017/2018,2017
+Jordy Bruijn,Central Midfield,1996-07-23,20,Netherlands,SC Heerenveen,Eredivisie,2017/2018,2017
+Pelle van Amersfoort,Attacking Midfield,1996-04-01,21,Netherlands,SC Heerenveen,Eredivisie,2017/2018,2017
+Michel Vlap,Attacking Midfield,1997-06-02,20,Netherlands,SC Heerenveen,Eredivisie,2017/2018,2017
+Arbër Zeneli,Left Winger,1995-02-25,22,Kosovo,SC Heerenveen,Eredivisie,2017/2018,2017
+Nemanja Mihajlovic,Left Winger,1996-01-19,21,Serbia,SC Heerenveen,Eredivisie,2017/2018,2017
+Martin Ödegaard,Right Winger,1998-12-17,18,Norway,SC Heerenveen,Eredivisie,2017/2018,2017
+Marco Rojas,Right Winger,1991-11-05,25,New Zealand,SC Heerenveen,Eredivisie,2017/2018,2017
+Reza Ghoochannejhad,Centre-Forward,1987-09-20,29,Iran,SC Heerenveen,Eredivisie,2017/2018,2017
+Henk Veerman,Centre-Forward,1991-02-26,26,Netherlands,SC Heerenveen,Eredivisie,2017/2018,2017
+Jizz Hornkamp,Centre-Forward,1998-03-07,19,Netherlands,SC Heerenveen,Eredivisie,2017/2018,2017
+Jorn Brondeel,Goalkeeper,1993-09-07,23,Belgium,FC Twente Enschede,Eredivisie,2017/2018,2017
+Joël Drommel,Goalkeeper,1996-11-16,20,Netherlands,FC Twente Enschede,Eredivisie,2017/2018,2017
+Nick Hengelman,Goalkeeper,1989-11-25,27,Netherlands,FC Twente Enschede,Eredivisie,2017/2018,2017
+Joachim Andersen,Centre-Back,1996-05-31,21,Denmark,FC Twente Enschede,Eredivisie,2017/2018,2017
+Thomas Lam,Centre-Back,1993-12-18,23,Finland,FC Twente Enschede,Eredivisie,2017/2018,2017
+Stefan Thesker,Centre-Back,1991-04-11,26,Germany,FC Twente Enschede,Eredivisie,2017/2018,2017
+Peet Bijen,Centre-Back,1995-01-28,22,Netherlands,FC Twente Enschede,Eredivisie,2017/2018,2017
+Jos Hooiveld,Centre-Back,1983-04-22,34,Netherlands,FC Twente Enschede,Eredivisie,2017/2018,2017
+Richard Jensen,Centre-Back,1996-03-17,21,Finland,FC Twente Enschede,Eredivisie,2017/2018,2017
+Cristian Cuevas,Left-Back,1995-04-02,22,Chile,FC Twente Enschede,Eredivisie,2017/2018,2017
+Dejan Trajkovski,Left-Back,1992-04-14,25,Slovenia,FC Twente Enschede,Eredivisie,2017/2018,2017
+Michael Maria,Left-Back,1995-01-31,22,Curacao,FC Twente Enschede,Eredivisie,2017/2018,2017
+David Sambissa,Left-Back,1996-01-11,21,France,FC Twente Enschede,Eredivisie,2017/2018,2017
+Hidde ter Avest,Right-Back,1997-05-20,20,Netherlands,FC Twente Enschede,Eredivisie,2017/2018,2017
+Nikola Gjorgjev,Right-Back,1997-08-22,19,North Macedonia,FC Twente Enschede,Eredivisie,2017/2018,2017
+Jeroen van der Lely,Right-Back,1996-03-22,21,Netherlands,FC Twente Enschede,Eredivisie,2017/2018,2017
+Godfried Roemeratoe,Defensive Midfield,1999-08-19,17,Netherlands,FC Twente Enschede,Eredivisie,2017/2018,2017
+Adam Maher,Central Midfield,1993-07-20,23,Netherlands,FC Twente Enschede,Eredivisie,2017/2018,2017
+Danny Holla,Central Midfield,1987-12-31,29,Netherlands,FC Twente Enschede,Eredivisie,2017/2018,2017
+Jelle van der Heyden,Central Midfield,1995-08-31,21,Netherlands,FC Twente Enschede,Eredivisie,2017/2018,2017
+Michael Liendl,Central Midfield,1985-10-25,31,Austria,FC Twente Enschede,Eredivisie,2017/2018,2017
+Fredrik Jensen,Attacking Midfield,1997-09-09,19,Finland,FC Twente Enschede,Eredivisie,2017/2018,2017
+Haris Vuckic,Attacking Midfield,1992-08-21,24,Slovenia,FC Twente Enschede,Eredivisie,2017/2018,2017
+Jonathan Frimann,Attacking Midfield,1997-07-10,19,Denmark,FC Twente Enschede,Eredivisie,2017/2018,2017
+Alexander Laukart,Attacking Midfield,1998-10-25,18,Germany,FC Twente Enschede,Eredivisie,2017/2018,2017
+Oussama Assaidi,Left Winger,1988-08-15,28,Morocco,FC Twente Enschede,Eredivisie,2017/2018,2017
+Adnane Tighadouini,Left Winger,1992-10-30,24,Morocco,FC Twente Enschede,Eredivisie,2017/2018,2017
+Dylan George,Left Winger,1998-06-27,19,Netherlands,FC Twente Enschede,Eredivisie,2017/2018,2017
+Ryan Trotman,Left Winger,1999-06-27,18,Netherlands,FC Twente Enschede,Eredivisie,2017/2018,2017
+Luciano Slagveer,Right Winger,1993-10-05,23,Netherlands,FC Twente Enschede,Eredivisie,2017/2018,2017
+Rashaan Fernandes,Right Winger,1998-08-29,18,Netherlands,FC Twente Enschede,Eredivisie,2017/2018,2017
+Isaac Buckley-Ricketts,Right Winger,1998-03-14,19,England,FC Twente Enschede,Eredivisie,2017/2018,2017
+Tom Boere,Centre-Forward,1992-11-24,24,Netherlands,FC Twente Enschede,Eredivisie,2017/2018,2017
+Mounir El Hamdaoui,Centre-Forward,1984-07-14,32,Morocco,FC Twente Enschede,Eredivisie,2017/2018,2017
+Jari Oosterwijk,Centre-Forward,1995-03-03,22,Netherlands,FC Twente Enschede,Eredivisie,2017/2018,2017
+Marko Kvasina,Centre-Forward,1996-12-20,20,Austria,FC Twente Enschede,Eredivisie,2017/2018,2017
+Sergio Padt,Goalkeeper,1990-06-06,27,Netherlands,FC Groningen,Eredivisie,2017/2018,2017
+Kevin Begois,Goalkeeper,1982-05-13,35,Belgium,FC Groningen,Eredivisie,2017/2018,2017
+Abdel Mounaim El Ouazzane,Goalkeeper,1998-02-26,19,Morocco,FC Groningen,Eredivisie,2017/2018,2017
+Jan Hoekstra,Goalkeeper,1998-08-04,18,Netherlands,FC Groningen,Eredivisie,2017/2018,2017
+Kasper Larsen,Centre-Back,1993-01-25,24,Denmark,FC Groningen,Eredivisie,2017/2018,2017
+Mike te Wierik,Centre-Back,1992-06-08,25,Netherlands,FC Groningen,Eredivisie,2017/2018,2017
+Samir Memisevic,Centre-Back,1993-08-13,23,Bosnia-Herzegovina,FC Groningen,Eredivisie,2017/2018,2017
+Etiënne Reijnen,Centre-Back,1987-04-05,30,Netherlands,FC Groningen,Eredivisie,2017/2018,2017
+Lars Kramer,Centre-Back,1999-07-11,17,Netherlands,FC Groningen,Eredivisie,2017/2018,2017
+Amir Absalem,Left-Back,1997-06-19,20,Netherlands,FC Groningen,Eredivisie,2017/2018,2017
+Todd Kane,Right-Back,1993-09-17,23,England,FC Groningen,Eredivisie,2017/2018,2017
+Deyovaisio Zeefuik,Right-Back,1998-03-11,19,Netherlands,FC Groningen,Eredivisie,2017/2018,2017
+Tim Riksman,Right-Back,1998-06-09,19,Netherlands,FC Groningen,Eredivisie,2017/2018,2017
+Gerald Postma,Defensive Midfield,1997-10-12,19,Netherlands,FC Groningen,Eredivisie,2017/2018,2017
+Ruben Jenssen,Central Midfield,1988-05-04,29,Norway,FC Groningen,Eredivisie,2017/2018,2017
+Juninho Bacuna,Central Midfield,1997-08-07,19,Netherlands,FC Groningen,Eredivisie,2017/2018,2017
+Yoëll van Nieff,Central Midfield,1993-06-17,24,Netherlands,FC Groningen,Eredivisie,2017/2018,2017
+Tom van de Looi,Central Midfield,1999-07-02,17,Netherlands,FC Groningen,Eredivisie,2017/2018,2017
+Ludovit Reis,Central Midfield,2000-06-01,17,Netherlands,FC Groningen,Eredivisie,2017/2018,2017
+Django Warmerdam,Left Midfield,1995-09-02,21,Netherlands,FC Groningen,Eredivisie,2017/2018,2017
+Jesper Drost,Attacking Midfield,1993-01-11,24,Netherlands,FC Groningen,Eredivisie,2017/2018,2017
+Ajdin Hrustic,Attacking Midfield,1996-07-05,20,Australia,FC Groningen,Eredivisie,2017/2018,2017
+Mimoun Mahi,Left Winger,1994-03-13,23,Morocco,FC Groningen,Eredivisie,2017/2018,2017
+Oussama Idrissi,Left Winger,1996-02-26,21,Morocco,FC Groningen,Eredivisie,2017/2018,2017
+Michael Breij,Left Winger,1997-01-15,20,Netherlands,FC Groningen,Eredivisie,2017/2018,2017
+Ritsu Doan,Right Winger,1998-06-16,19,Japan,FC Groningen,Eredivisie,2017/2018,2017
+Uriel Antuna,Right Winger,1997-08-21,19,Mexico,FC Groningen,Eredivisie,2017/2018,2017
+Lars Veldwijk,Centre-Forward,1991-08-21,25,South Africa,FC Groningen,Eredivisie,2017/2018,2017
+Tom van Weert,Centre-Forward,1990-06-07,27,Netherlands,FC Groningen,Eredivisie,2017/2018,2017
+David Browne,Centre-Forward,1995-12-27,21,Papua New Guinea,FC Groningen,Eredivisie,2017/2018,2017
+Tim Freriks,Centre-Forward,1998-10-02,18,Netherlands,FC Groningen,Eredivisie,2017/2018,2017
+Bram Castro,Goalkeeper,1982-09-30,34,Belgium,Heracles Almelo,Eredivisie,2017/2018,2017
+Harm Zeinstra,Goalkeeper,1989-07-21,27,Netherlands,Heracles Almelo,Eredivisie,2017/2018,2017
+Renze Fij,Goalkeeper,1992-09-26,24,Netherlands,Heracles Almelo,Eredivisie,2017/2018,2017
+Michael Brouwer,Goalkeeper,1993-01-21,24,Netherlands,Heracles Almelo,Eredivisie,2017/2018,2017
+Dries Wuytens,Centre-Back,1991-03-18,26,Belgium,Heracles Almelo,Eredivisie,2017/2018,2017
+Robin Pröpper,Centre-Back,1993-09-23,23,Netherlands,Heracles Almelo,Eredivisie,2017/2018,2017
+Dario van den Buijs,Centre-Back,1995-09-12,21,Belgium,Heracles Almelo,Eredivisie,2017/2018,2017
+Bart van Hintum,Left-Back,1987-01-16,30,Netherlands,Heracles Almelo,Eredivisie,2017/2018,2017
+Jeff Hardeveld,Left-Back,1995-02-27,22,Netherlands,Heracles Almelo,Eredivisie,2017/2018,2017
+Roland Baas,Left-Back,1996-03-02,21,Netherlands,Heracles Almelo,Eredivisie,2017/2018,2017
+Wout Droste,Right-Back,1989-05-20,28,Netherlands,Heracles Almelo,Eredivisie,2017/2018,2017
+Tim Breukers,Right-Back,1987-11-04,29,Netherlands,Heracles Almelo,Eredivisie,2017/2018,2017
+Joey Pelupessy,Defensive Midfield,1993-05-15,24,Netherlands,Heracles Almelo,Eredivisie,2017/2018,2017
+Sebastian Jakubiak,Defensive Midfield,1993-06-21,24,Germany,Heracles Almelo,Eredivisie,2017/2018,2017
+Tim van de Berg,Defensive Midfield,1997-11-23,19,Netherlands,Heracles Almelo,Eredivisie,2017/2018,2017
+Lerin Duarte,Central Midfield,1990-08-11,26,Netherlands,Heracles Almelo,Eredivisie,2017/2018,2017
+Peter van Ooijen,Central Midfield,1992-02-16,25,Netherlands,Heracles Almelo,Eredivisie,2017/2018,2017
+Reuven Niemeijer,Central Midfield,1995-03-27,22,Netherlands,Heracles Almelo,Eredivisie,2017/2018,2017
+Jamiro Monteiro,Central Midfield,1993-11-23,23,Cape Verde,Heracles Almelo,Eredivisie,2017/2018,2017
+Mohammed Osman,Central Midfield,1994-01-01,23,Syria,Heracles Almelo,Eredivisie,2017/2018,2017
+Gor Agbaljan,Central Midfield,1997-04-25,20,Armenia,Heracles Almelo,Eredivisie,2017/2018,2017
+Niels Leemhuis,Attacking Midfield,1997-09-28,19,Netherlands,Heracles Almelo,Eredivisie,2017/2018,2017
+Brahim Darri,Left Winger,1994-09-14,22,Netherlands,Heracles Almelo,Eredivisie,2017/2018,2017
+Kristoffer Peterson,Left Winger,1994-11-28,22,Sweden,Heracles Almelo,Eredivisie,2017/2018,2017
+Zeki Erkilinc,Left Winger,1998-01-22,19,Turkey,Heracles Almelo,Eredivisie,2017/2018,2017
+Brandley Kuwas,Right Winger,1992-09-19,24,Curacao,Heracles Almelo,Eredivisie,2017/2018,2017
+Jaroslav Navrátil,Right Winger,1991-12-30,25,Czech Republic,Heracles Almelo,Eredivisie,2017/2018,2017
+Samuel Armenteros,Centre-Forward,1990-05-27,27,Sweden,Heracles Almelo,Eredivisie,2017/2018,2017
+Vincent Vermeij,Centre-Forward,1994-08-09,22,Netherlands,Heracles Almelo,Eredivisie,2017/2018,2017
+Paul Gladon,Centre-Forward,1992-03-18,25,Netherlands,Heracles Almelo,Eredivisie,2017/2018,2017
+Kai Huisman,Centre-Forward,1995-03-27,22,Netherlands,Heracles Almelo,Eredivisie,2017/2018,2017
+Jannik Huth,Goalkeeper,1994-04-15,23,Germany,Sparta Rotterdam,Eredivisie,2017/2018,2017
+Roy Kortsmit,Goalkeeper,1992-08-26,24,Netherlands,Sparta Rotterdam,Eredivisie,2017/2018,2017
+Leonard Nienhuis,Goalkeeper,1990-03-16,27,Netherlands,Sparta Rotterdam,Eredivisie,2017/2018,2017
+Álex Craninx,Goalkeeper,1995-10-21,21,Belgium,Sparta Rotterdam,Eredivisie,2017/2018,2017
+Bryan Janssen,Goalkeeper,1995-01-09,22,Netherlands,Sparta Rotterdam,Eredivisie,2017/2018,2017
+Michael Fabrie,Goalkeeper,1997-11-11,19,Netherlands,Sparta Rotterdam,Eredivisie,2017/2018,2017
+Sander Fischer,Centre-Back,1988-09-03,28,Netherlands,Sparta Rotterdam,Eredivisie,2017/2018,2017
+Bart Vriends,Centre-Back,1991-05-09,26,Netherlands,Sparta Rotterdam,Eredivisie,2017/2018,2017
+Michel Breuer,Centre-Back,1980-05-25,37,Netherlands,Sparta Rotterdam,Eredivisie,2017/2018,2017
+Julian Chabot,Centre-Back,1998-02-12,19,Germany,Sparta Rotterdam,Eredivisie,2017/2018,2017
+Lorenzo Soares Fonseca,Centre-Back,1998-01-17,19,Netherlands,Sparta Rotterdam,Eredivisie,2017/2018,2017
+Diederick Luydens,Centre-Back,1999-02-18,18,Aruba,Sparta Rotterdam,Eredivisie,2017/2018,2017
+Miquel Nelom,Left-Back,1990-09-22,26,Netherlands,Sparta Rotterdam,Eredivisie,2017/2018,2017
+Nicholas Marfelt,Left-Back,1994-09-15,22,Denmark,Sparta Rotterdam,Eredivisie,2017/2018,2017
+Frederik Holst,Right-Back,1994-09-24,22,Denmark,Sparta Rotterdam,Eredivisie,2017/2018,2017
+Janne Saksela,Right-Back,1993-03-14,24,Finland,Sparta Rotterdam,Eredivisie,2017/2018,2017
+Sherel Floranus,Right-Back,1998-08-23,18,Netherlands,Sparta Rotterdam,Eredivisie,2017/2018,2017
+Ryan Sanusi,Defensive Midfield,1992-01-05,25,Belgium,Sparta Rotterdam,Eredivisie,2017/2018,2017
+Kenny Dougall,Defensive Midfield,1993-05-07,24,Australia,Sparta Rotterdam,Eredivisie,2017/2018,2017
+George Dobson,Defensive Midfield,1997-11-15,19,England,Sparta Rotterdam,Eredivisie,2017/2018,2017
+Jair Oosterlen,Defensive Midfield,1997-04-11,20,Netherlands,Sparta Rotterdam,Eredivisie,2017/2018,2017
+Mark Veenhoven,Defensive Midfield,1998-03-03,19,Netherlands,Sparta Rotterdam,Eredivisie,2017/2018,2017
+Franck Bambock,Central Midfield,1995-04-07,22,France,Sparta Rotterdam,Eredivisie,2017/2018,2017
+Abdou Harroui,Central Midfield,1998-01-13,19,Netherlands,Sparta Rotterdam,Eredivisie,2017/2018,2017
+Deroy Duarte,Central Midfield,1999-07-04,17,Netherlands,Sparta Rotterdam,Eredivisie,2017/2018,2017
+Soufyan Ahannach,Left Midfield,1995-09-09,21,Netherlands,Sparta Rotterdam,Eredivisie,2017/2018,2017
+Stijn Spierings,Attacking Midfield,1996-03-12,21,Netherlands,Sparta Rotterdam,Eredivisie,2017/2018,2017
+Paco van Moorsel,Attacking Midfield,1989-12-15,27,Netherlands,Sparta Rotterdam,Eredivisie,2017/2018,2017
+Ayoub Boukhari,Attacking Midfield,1997-05-06,20,Netherlands,Sparta Rotterdam,Eredivisie,2017/2018,2017
+Dabney dos Santos,Left Winger,1996-07-31,20,Netherlands,Sparta Rotterdam,Eredivisie,2017/2018,2017
+Craig Goodwin,Left Winger,1991-12-16,25,Australia,Sparta Rotterdam,Eredivisie,2017/2018,2017
+Loris Brogno,Right Winger,1992-09-18,24,Belgium,Sparta Rotterdam,Eredivisie,2017/2018,2017
+Thomas Verhaar,Right Winger,1988-03-08,29,Netherlands,Sparta Rotterdam,Eredivisie,2017/2018,2017
+Ilias Alhaft,Right Winger,1997-02-23,20,Netherlands,Sparta Rotterdam,Eredivisie,2017/2018,2017
+Michiel Kramer,Centre-Forward,1988-12-03,28,Netherlands,Sparta Rotterdam,Eredivisie,2017/2018,2017
+Fred Friday,Centre-Forward,1995-05-22,22,Nigeria,Sparta Rotterdam,Eredivisie,2017/2018,2017
+Robert Mühren,Centre-Forward,1989-05-18,28,Netherlands,Sparta Rotterdam,Eredivisie,2017/2018,2017
+Nick Proschwitz,Centre-Forward,1986-11-28,30,Germany,Sparta Rotterdam,Eredivisie,2017/2018,2017
+Dalibor Volas,Centre-Forward,1987-02-27,30,Slovenia,Sparta Rotterdam,Eredivisie,2017/2018,2017
+Ragnar Ache,Centre-Forward,1998-07-28,18,Germany,Sparta Rotterdam,Eredivisie,2017/2018,2017
+Halil Dervisoglu,Centre-Forward,1999-12-08,17,Turkey,Sparta Rotterdam,Eredivisie,2017/2018,2017
+Robert Zwinkels,Goalkeeper,1983-05-04,34,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
+Indy Groothuizen,Goalkeeper,1996-07-22,20,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
+Tim Coremans,Goalkeeper,1991-04-10,26,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
+Joe van der Sar,Goalkeeper,1998-03-16,19,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
+Wilfried Kanon,Centre-Back,1993-07-06,23,Cote d'Ivoire,ADO Den Haag,Eredivisie,2017/2018,2017
+Tom Beugelsdijk,Centre-Back,1990-08-07,26,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
+Thomas Meißner,Centre-Back,1991-03-26,26,Germany,ADO Den Haag,Eredivisie,2017/2018,2017
+Nick Kuipers,Centre-Back,1992-10-08,24,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
+Shaquille Pinas,Centre-Back,1998-03-19,19,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
+Guy Smith,Centre-Back,1996-03-08,21,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
+Aaron Meijers,Left-Back,1987-10-28,29,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
+Bas Kuipers,Left-Back,1994-08-17,22,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
+Tyronne Ebuehi,Right-Back,1995-12-16,21,Nigeria,ADO Den Haag,Eredivisie,2017/2018,2017
+Hennos Asmelash,Right-Back,1999-07-01,18,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
+Trevor David,Right-Back,1997-01-28,20,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
+Danny Bakker,Central Midfield,1995-01-16,22,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
+Donny Gorter,Central Midfield,1988-06-15,29,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
+Sam van Huffel,Central Midfield,1998-06-24,19,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
+Mats van Kins,Left Midfield,1998-12-17,18,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
+Lex Immers,Attacking Midfield,1986-06-08,31,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
+Nasser El Khayati,Attacking Midfield,1989-02-07,28,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
+Erik Falkenburg,Attacking Midfield,1988-05-05,29,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
+John Goossens,Attacking Midfield,1988-07-25,28,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
+Ricardo Kishna,Left Winger,1995-01-04,22,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
+Édouard Duplan,Left Winger,1983-05-13,34,France,ADO Den Haag,Eredivisie,2017/2018,2017
+Ludcinio Marengo,Left Winger,1991-09-14,25,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
+Melvyn Lorenzen,Left Winger,1994-11-26,22,Uganda,ADO Den Haag,Eredivisie,2017/2018,2017
+Sheraldo Becker,Right Winger,1995-02-09,22,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
+Elson Hooi,Right Winger,1991-10-01,25,Curacao,ADO Den Haag,Eredivisie,2017/2018,2017
+Yahya Boussakou,Right Winger,2000-03-04,17,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
+Thijmen Goppel,Right Winger,1997-02-16,20,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
+Björn Johnsen,Centre-Forward,1991-11-06,25,Norway,ADO Den Haag,Eredivisie,2017/2018,2017
+Dennis van der Heijden,Centre-Forward,1997-02-17,20,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
+Delano Ladan,Centre-Forward,2000-02-09,17,Netherlands,ADO Den Haag,Eredivisie,2017/2018,2017
+Timon Wellenreuther,Goalkeeper,1995-12-03,21,Germany,Willem II Tilburg,Eredivisie,2017/2018,2017
+Mattijs Branderhorst,Goalkeeper,1993-12-31,23,Netherlands,Willem II Tilburg,Eredivisie,2017/2018,2017
+Stefan van der Lei,Goalkeeper,1993-03-05,24,Netherlands,Willem II Tilburg,Eredivisie,2017/2018,2017
+Wessel Sprangers,Goalkeeper,1998-10-09,18,Netherlands,Willem II Tilburg,Eredivisie,2017/2018,2017
+Jordens Peters,Centre-Back,1987-05-03,30,Netherlands,Willem II Tilburg,Eredivisie,2017/2018,2017
+Darryl Lachman,Centre-Back,1989-11-11,27,Curacao,Willem II Tilburg,Eredivisie,2017/2018,2017
+Freek Heerkens,Centre-Back,1989-09-13,27,Netherlands,Willem II Tilburg,Eredivisie,2017/2018,2017
+Thomas Meißner,Centre-Back,1991-03-26,26,Germany,Willem II Tilburg,Eredivisie,2017/2018,2017
+Jop van der Linden,Centre-Back,1990-07-17,26,Netherlands,Willem II Tilburg,Eredivisie,2017/2018,2017
+Lex van Dijk,Centre-Back,1996-05-30,21,Netherlands,Willem II Tilburg,Eredivisie,2017/2018,2017
+Victor van den Bogert,Centre-Back,1999-08-12,17,Netherlands,Willem II Tilburg,Eredivisie,2017/2018,2017
+Dylan Ryan,Centre-Back,2000-06-10,17,Australia,Willem II Tilburg,Eredivisie,2017/2018,2017
+Giliano Wijnaldum,Left-Back,1992-08-31,24,Netherlands,Willem II Tilburg,Eredivisie,2017/2018,2017
+Konstantinos Tsimikas,Left-Back,1996-05-12,21,Greece,Willem II Tilburg,Eredivisie,2017/2018,2017
+Fernando Lewis,Right-Back,1993-01-31,24,Netherlands,Willem II Tilburg,Eredivisie,2017/2018,2017
+Damil Dankerlui,Right-Back,1996-08-24,20,Netherlands,Willem II Tilburg,Eredivisie,2017/2018,2017
+Eyong Enoh,Defensive Midfield,1986-03-23,31,Cameroon,Willem II Tilburg,Eredivisie,2017/2018,2017
+Elmo Lieftink,Defensive Midfield,1994-02-03,23,Netherlands,Willem II Tilburg,Eredivisie,2017/2018,2017
+Thomas Kok,Defensive Midfield,1998-05-15,19,Netherlands,Willem II Tilburg,Eredivisie,2017/2018,2017
+Ben Rienstra,Central Midfield,1990-06-05,27,Netherlands,Willem II Tilburg,Eredivisie,2017/2018,2017
+Pedro Chirivella,Central Midfield,1997-05-23,20,Spain,Willem II Tilburg,Eredivisie,2017/2018,2017
+Dani Koks,Central Midfield,1998-01-25,19,Netherlands,Willem II Tilburg,Eredivisie,2017/2018,2017
+Bartlomiej Urbanski,Central Midfield,1998-05-15,19,Poland,Willem II Tilburg,Eredivisie,2017/2018,2017
+Thom Haye,Attacking Midfield,1995-02-09,22,Netherlands,Willem II Tilburg,Eredivisie,2017/2018,2017
+Dan Crowley,Attacking Midfield,1997-08-03,19,England,Willem II Tilburg,Eredivisie,2017/2018,2017
+Andreas Calcan,Attacking Midfield,1994-04-09,23,Romania,Willem II Tilburg,Eredivisie,2017/2018,2017
+Karim Coulibaly,Left Winger,1993-06-03,24,France,Willem II Tilburg,Eredivisie,2017/2018,2017
+Mo El Hankouri,Left Winger,1997-07-01,20,Morocco,Willem II Tilburg,Eredivisie,2017/2018,2017
+Kristófer Kristinsson,Left Winger,1999-04-07,18,Iceland,Willem II Tilburg,Eredivisie,2017/2018,2017
+Jordy Croux,Right Winger,1994-01-15,23,Belgium,Willem II Tilburg,Eredivisie,2017/2018,2017
+Ismail Azzaoui,Right Winger,1998-01-06,19,Belgium,Willem II Tilburg,Eredivisie,2017/2018,2017
+Asumah Abubakar,Right Winger,1997-05-10,20,Portugal,Willem II Tilburg,Eredivisie,2017/2018,2017
+Justin Ogenia,Right Winger,1999-02-05,18,Curacao,Willem II Tilburg,Eredivisie,2017/2018,2017
+Emre Bostanci,Second Striker,1996-03-16,21,Netherlands,Willem II Tilburg,Eredivisie,2017/2018,2017
+Fran Sol,Centre-Forward,1992-03-13,25,Spain,Willem II Tilburg,Eredivisie,2017/2018,2017
+Bartholomew Ogbeche,Centre-Forward,1984-10-01,32,Nigeria,Willem II Tilburg,Eredivisie,2017/2018,2017
+Etien Velikonja,Centre-Forward,1988-12-26,28,Slovenia,Willem II Tilburg,Eredivisie,2017/2018,2017
+Mickey van der Hart,Goalkeeper,1994-06-13,23,Netherlands,PEC Zwolle,Eredivisie,2017/2018,2017
+Diederik Boer,Goalkeeper,1980-09-24,36,Netherlands,PEC Zwolle,Eredivisie,2017/2018,2017
+Mike Hauptmeijer,Goalkeeper,1997-03-18,20,Netherlands,PEC Zwolle,Eredivisie,2017/2018,2017
+Kevin Reimink,Goalkeeper,1999-02-08,18,Netherlands,PEC Zwolle,Eredivisie,2017/2018,2017
+Nicolás Freire,Centre-Back,1994-02-18,23,Argentina,PEC Zwolle,Eredivisie,2017/2018,2017
+Dirk Marcellis,Centre-Back,1988-04-13,29,Netherlands,PEC Zwolle,Eredivisie,2017/2018,2017
+Philippe Sandler,Centre-Back,1997-02-10,20,Netherlands,PEC Zwolle,Eredivisie,2017/2018,2017
+Mark Bruintjes,Centre-Back,1996-06-26,21,Netherlands,PEC Zwolle,Eredivisie,2017/2018,2017
+Sander van Looy,Centre-Back,1997-05-29,20,Netherlands,PEC Zwolle,Eredivisie,2017/2018,2017
+Sepp van den Berg,Centre-Back,2001-12-20,15,Netherlands,PEC Zwolle,Eredivisie,2017/2018,2017
+Dico Koppers,Left-Back,1992-01-31,25,Netherlands,PEC Zwolle,Eredivisie,2017/2018,2017
+Joran Swart,Left-Back,1998-04-06,19,Netherlands,PEC Zwolle,Eredivisie,2017/2018,2017
+Bram van Polen,Right-Back,1985-10-11,31,Netherlands,PEC Zwolle,Eredivisie,2017/2018,2017
+Kingsley Ehizibue,Right-Back,1995-05-25,22,Netherlands,PEC Zwolle,Eredivisie,2017/2018,2017
+Ruben Ligeon,Right-Back,1992-05-24,25,Netherlands,PEC Zwolle,Eredivisie,2017/2018,2017
+Shaquile Woudstra,Right-Back,1997-02-26,20,Curacao,PEC Zwolle,Eredivisie,2017/2018,2017
+Rick Dekker,Defensive Midfield,1995-03-15,22,Netherlands,PEC Zwolle,Eredivisie,2017/2018,2017
+Ryan Thomas,Central Midfield,1994-12-20,22,New Zealand,PEC Zwolle,Eredivisie,2017/2018,2017
+Erik Bakker,Central Midfield,1990-03-21,27,Netherlands,PEC Zwolle,Eredivisie,2017/2018,2017
+Tijjani Reijnders,Central Midfield,1998-07-29,18,Netherlands,PEC Zwolle,Eredivisie,2017/2018,2017
+Bas van Wijnen,Central Midfield,1997-07-31,19,Netherlands,PEC Zwolle,Eredivisie,2017/2018,2017
+Mustafa Saymak,Attacking Midfield,1993-02-11,24,Netherlands,PEC Zwolle,Eredivisie,2017/2018,2017
+Younes Namli,Attacking Midfield,1994-06-20,23,Denmark,PEC Zwolle,Eredivisie,2017/2018,2017
+Stef Nijland,Attacking Midfield,1988-08-10,28,Netherlands,PEC Zwolle,Eredivisie,2017/2018,2017
+Erik Israelsson,Attacking Midfield,1989-02-25,28,Sweden,PEC Zwolle,Eredivisie,2017/2018,2017
+Wouter Marinus,Attacking Midfield,1995-02-18,22,Netherlands,PEC Zwolle,Eredivisie,2017/2018,2017
+Youness Mokhtar,Left Winger,1991-08-29,25,Morocco,PEC Zwolle,Eredivisie,2017/2018,2017
+Queensy Menig,Left Winger,1995-08-19,21,Netherlands,PEC Zwolle,Eredivisie,2017/2018,2017
+Rogier Benschop,Left Winger,1998-07-20,18,Netherlands,PEC Zwolle,Eredivisie,2017/2018,2017
+Terell Ondaan,Right Winger,1993-09-09,23,Guyana,PEC Zwolle,Eredivisie,2017/2018,2017
+Athanasios Karagounis,Right Winger,1991-09-25,25,Greece,PEC Zwolle,Eredivisie,2017/2018,2017
+Piotr Parzyszek,Centre-Forward,1993-09-08,23,Poland,PEC Zwolle,Eredivisie,2017/2018,2017
+Ögmundur Kristinsson,Goalkeeper,1989-06-19,28,Iceland,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
+Theo Zwarthoed,Goalkeeper,1982-11-19,34,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
+Alessandro Damen,Goalkeeper,1990-05-17,27,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
+Mike Havekotte,Goalkeeper,1995-09-12,21,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
+Tijs te Duits,Goalkeeper,1999-02-27,18,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
+Jurgen Mattheij,Centre-Back,1993-04-01,24,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
+Jordy de Wijs,Centre-Back,1995-01-08,22,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
+Wout Faes,Centre-Back,1998-04-03,19,Belgium,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
+Shane O'Neill,Centre-Back,1993-09-02,23,United States,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
+Lex van Dijk,Centre-Back,1996-05-30,21,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
+Joost Mangert,Centre-Back,1999-08-20,17,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
+Lorenzo Burnet,Left-Back,1991-01-11,26,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
+Milan Massop,Left-Back,1993-12-01,23,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
+Khalid Karami,Right-Back,1989-12-29,27,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
+Jeffry Fortes,Right-Back,1989-03-22,28,Cape Verde,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
+Desevio Payne,Right-Back,1995-11-30,21,United States,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
+Ryan Koolwijk,Central Midfield,1985-08-08,31,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
+Hicham Faik,Central Midfield,1992-03-19,25,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
+Dogucan Haspolat,Central Midfield,2000-02-11,17,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
+Kevin Vermeulen,Attacking Midfield,1990-11-20,26,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
+Anouar Hadouir,Attacking Midfield,1982-09-14,34,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
+Ali Messaoud,Attacking Midfield,1991-04-13,26,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
+Levi García,Left Winger,1997-11-20,19,Trinidad and Tobago,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
+Luigi Bruins,Left Winger,1987-03-09,30,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
+Marouane Afaker,Left Winger,1999-05-09,18,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
+Stanley Elbers,Right Winger,1992-05-14,25,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
+Jinty Caenepeel,Right Winger,1996-07-18,20,Belgium,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
+Mike van Duinen,Centre-Forward,1991-11-06,25,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
+Zakaria El Azzouzi,Centre-Forward,1996-05-07,21,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2017/2018,2017
+Hidde Jurjus,Goalkeeper,1994-02-09,23,Netherlands,Roda JC Kerkrade,Eredivisie,2017/2018,2017
+Filip Kurto,Goalkeeper,1991-06-14,26,Poland,Roda JC Kerkrade,Eredivisie,2017/2018,2017
+Twan Roex,Goalkeeper,1997-01-31,20,Netherlands,Roda JC Kerkrade,Eredivisie,2017/2018,2017
+Raf Mertens,Goalkeeper,1999-01-18,18,Netherlands,Roda JC Kerkrade,Eredivisie,2017/2018,2017
+Radomir Novakovic,Goalkeeper,2000-01-24,17,Serbia,Roda JC Kerkrade,Eredivisie,2017/2018,2017
+Boyd Derksen,Goalkeeper,1998-08-07,18,Netherlands,Roda JC Kerkrade,Eredivisie,2017/2018,2017
+Patrick Banggaard,Centre-Back,1994-04-04,23,Denmark,Roda JC Kerkrade,Eredivisie,2017/2018,2017
+Christian Kum,Centre-Back,1985-09-13,31,Netherlands,Roda JC Kerkrade,Eredivisie,2017/2018,2017
+Daryl Werker,Centre-Back,1994-06-27,23,Netherlands,Roda JC Kerkrade,Eredivisie,2017/2018,2017
+Roshon van Eijma,Centre-Back,1998-06-09,19,Curacao,Roda JC Kerkrade,Eredivisie,2017/2018,2017
+Ard van Peppen,Left-Back,1985-06-26,32,Netherlands,Roda JC Kerkrade,Eredivisie,2017/2018,2017
+Jannes Vansteenkiste,Left-Back,1993-02-17,24,Belgium,Roda JC Kerkrade,Eredivisie,2017/2018,2017
+Frederic Ananou,Right-Back,1997-09-20,19,Germany,Roda JC Kerkrade,Eredivisie,2017/2018,2017
+Henk Dijkhuizen,Right-Back,1992-06-09,25,Netherlands,Roda JC Kerkrade,Eredivisie,2017/2018,2017
+Ashton Götz,Right-Back,1993-07-16,23,Germany,Roda JC Kerkrade,Eredivisie,2017/2018,2017
+Jeremy Mayele Munkana,Midfielder,1995-03-01,22,Belgium,Roda JC Kerkrade,Eredivisie,2017/2018,2017
+Mohamed El Makrini,Defensive Midfield,1987-07-06,29,Netherlands,Roda JC Kerkrade,Eredivisie,2017/2018,2017
+Ognjen Gnjatic,Defensive Midfield,1991-10-16,25,Bosnia-Herzegovina,Roda JC Kerkrade,Eredivisie,2017/2018,2017
+Nathan Rutjes,Defensive Midfield,1983-12-01,33,Netherlands,Roda JC Kerkrade,Eredivisie,2017/2018,2017
+Nicky Souren,Defensive Midfield,1999-12-18,17,Netherlands,Roda JC Kerkrade,Eredivisie,2017/2018,2017
+Adil Auassar,Central Midfield,1986-10-06,30,Morocco,Roda JC Kerkrade,Eredivisie,2017/2018,2017
+Tsiy William Ndenge,Central Midfield,1997-06-13,20,Germany,Roda JC Kerkrade,Eredivisie,2017/2018,2017
+Simon Gustafson,Attacking Midfield,1995-01-11,22,Sweden,Roda JC Kerkrade,Eredivisie,2017/2018,2017
+Mitchel Paulissen,Attacking Midfield,1993-04-21,24,Netherlands,Roda JC Kerkrade,Eredivisie,2017/2018,2017
+Livio Milts,Attacking Midfield,1997-10-04,19,Belgium,Roda JC Kerkrade,Eredivisie,2017/2018,2017
+Donis Avdijaj,Left Winger,1996-08-25,20,Kosovo,Roda JC Kerkrade,Eredivisie,2017/2018,2017
+Gyliano van Velzen,Left Winger,1994-04-14,23,Netherlands,Roda JC Kerkrade,Eredivisie,2017/2018,2017
+Mikhail Rosheuvel,Right Winger,1990-08-10,26,Netherlands,Roda JC Kerkrade,Eredivisie,2017/2018,2017
+Célestin Djim,Right Winger,1995-05-14,22,Belgium,Roda JC Kerkrade,Eredivisie,2017/2018,2017
+Maecky Ngombo,Centre-Forward,1995-03-31,22,Belgium,Roda JC Kerkrade,Eredivisie,2017/2018,2017
+Dani Schahin,Centre-Forward,1989-07-09,27,Germany,Roda JC Kerkrade,Eredivisie,2017/2018,2017
+Jorn Vancamp,Centre-Forward,1998-10-28,18,Belgium,Roda JC Kerkrade,Eredivisie,2017/2018,2017
+Mario Engels,Centre-Forward,1993-10-22,23,Germany,Roda JC Kerkrade,Eredivisie,2017/2018,2017
+Mark Birighitti,Goalkeeper,1991-04-17,26,Australia,NAC Breda,Eredivisie,2017/2018,2017
+Nigel Bertrams,Goalkeeper,1993-01-08,24,Netherlands,NAC Breda,Eredivisie,2017/2018,2017
+Andries Noppert,Goalkeeper,1994-04-07,23,Netherlands,NAC Breda,Eredivisie,2017/2018,2017
+Sven van der Maaten,Goalkeeper,1994-10-02,22,Netherlands,NAC Breda,Eredivisie,2017/2018,2017
+Karol Niemczycki,Goalkeeper,1999-07-05,17,Poland,NAC Breda,Eredivisie,2017/2018,2017
+Karol Mets,Centre-Back,1993-05-16,24,Estonia,NAC Breda,Eredivisie,2017/2018,2017
+Pablo Marí,Centre-Back,1993-08-31,23,Spain,NAC Breda,Eredivisie,2017/2018,2017
+Menno Koch,Centre-Back,1994-07-02,22,Netherlands,NAC Breda,Eredivisie,2017/2018,2017
+Chiró N'Toko,Centre-Back,1988-01-30,29,Belgium,NAC Breda,Eredivisie,2017/2018,2017
+Bart Meijers,Centre-Back,1997-01-10,20,Netherlands,NAC Breda,Eredivisie,2017/2018,2017
+Daan Klomp,Centre-Back,1998-08-10,18,Netherlands,NAC Breda,Eredivisie,2017/2018,2017
+Angeliño,Left-Back,1997-01-04,20,Spain,NAC Breda,Eredivisie,2017/2018,2017
+Bradley Vliet,Left-Back,1998-03-24,19,Netherlands,NAC Breda,Eredivisie,2017/2018,2017
+Fabian Sporkslede,Right-Back,1993-08-03,23,Netherlands,NAC Breda,Eredivisie,2017/2018,2017
+James Horsfield,Right-Back,1995-11-30,21,England,NAC Breda,Eredivisie,2017/2018,2017
+Jeff Stans,Defensive Midfield,1990-03-20,27,Netherlands,NAC Breda,Eredivisie,2017/2018,2017
+Arno Verschueren,Defensive Midfield,1997-04-08,20,Belgium,NAC Breda,Eredivisie,2017/2018,2017
+Lucas Schoofs,Defensive Midfield,1997-01-03,20,Belgium,NAC Breda,Eredivisie,2017/2018,2017
+Feyo Glim,Defensive Midfield,1997-06-19,20,Netherlands,NAC Breda,Eredivisie,2017/2018,2017
+Robbie Haemhouts,Central Midfield,1983-12-09,33,Belgium,NAC Breda,Eredivisie,2017/2018,2017
+Mounir El Allouchi,Central Midfield,1994-09-27,22,Netherlands,NAC Breda,Eredivisie,2017/2018,2017
+Olivier Rommens,Central Midfield,1995-02-03,22,Belgium,NAC Breda,Eredivisie,2017/2018,2017
+Gianluca Nijholt,Central Midfield,1990-02-14,27,Netherlands,NAC Breda,Eredivisie,2017/2018,2017
+Marwin Reuvers,Central Midfield,1999-03-04,18,Netherlands,NAC Breda,Eredivisie,2017/2018,2017
+Manu García,Attacking Midfield,1998-01-02,19,Spain,NAC Breda,Eredivisie,2017/2018,2017
+Rai Vloet,Attacking Midfield,1995-05-08,22,Netherlands,NAC Breda,Eredivisie,2017/2018,2017
+Bodi Brusselers,Attacking Midfield,1998-12-12,18,Netherlands,NAC Breda,Eredivisie,2017/2018,2017
+Paolo Fernandes,Attacking Midfield,1998-08-09,18,Spain,NAC Breda,Eredivisie,2017/2018,2017
+Thomas Enevoldsen,Left Winger,1987-07-27,29,Denmark,NAC Breda,Eredivisie,2017/2018,2017
+Thomas Agyepong,Left Winger,1996-10-10,20,Ghana,NAC Breda,Eredivisie,2017/2018,2017
+Diego Snepvangers,Left Winger,1998-06-03,19,Netherlands,NAC Breda,Eredivisie,2017/2018,2017
+Giovanni Korte,Right Winger,1993-08-01,23,Netherlands,NAC Breda,Eredivisie,2017/2018,2017
+Umar Sadiq,Centre-Forward,1997-02-02,20,Nigeria,NAC Breda,Eredivisie,2017/2018,2017
+Mitchell te Vrede,Centre-Forward,1991-08-07,25,Netherlands,NAC Breda,Eredivisie,2017/2018,2017
+Richelor Sprangers,Centre-Forward,1998-02-10,19,Haiti,NAC Breda,Eredivisie,2017/2018,2017
+Thierry Ambrose,Centre-Forward,1997-03-28,20,France,NAC Breda,Eredivisie,2017/2018,2017
+Lars Unnerstall,Goalkeeper,1990-07-20,26,Germany,VVV-Venlo,Eredivisie,2017/2018,2017
+Delano van Crooij,Goalkeeper,1991-06-05,26,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
+Sem Custers,Goalkeeper,2000-05-09,17,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
+Bram Verbong,Goalkeeper,1999-12-23,17,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
+Nils Röseler,Centre-Back,1992-02-10,25,Germany,VVV-Venlo,Eredivisie,2017/2018,2017
+Jerold Promes,Centre-Back,1984-03-09,33,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
+Damian van Bruggen,Centre-Back,1996-03-18,21,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
+Evren Korkmaz,Centre-Back,1997-04-27,20,Turkey,VVV-Venlo,Eredivisie,2017/2018,2017
+Dion van Horne,Centre-Back,1999-02-02,18,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
+Stan van Dijck,Centre-Back,2000-10-07,16,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
+Roel Janssen,Left-Back,1990-06-16,27,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
+Leroy Labylle,Left-Back,1991-03-11,26,Belgium,VVV-Venlo,Eredivisie,2017/2018,2017
+Jeffrey Rijkers,Left-Back,1998-11-13,18,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
+Moreno Rutten,Right-Back,1993-04-28,24,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
+Tristan Dekker,Right-Back,1998-03-27,19,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
+Terry Antonis,Defensive Midfield,1993-11-26,23,Australia,VVV-Venlo,Eredivisie,2017/2018,2017
+Clint Leemans,Central Midfield,1995-09-15,21,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
+Danny Post,Central Midfield,1989-04-07,28,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
+Roy Gielen,Central Midfield,1998-01-04,19,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
+Simon Janssen,Central Midfield,2000-09-25,16,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
+Evert Linthorst,Central Midfield,2000-03-03,17,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
+Jens Janse,Right Midfield,1986-07-01,31,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
+Johnatan Opoku,Attacking Midfield,1990-04-18,27,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
+Ralf Seuntjens,Attacking Midfield,1989-04-17,28,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
+Kelechi Nwakali,Attacking Midfield,1998-06-05,19,Nigeria,VVV-Venlo,Eredivisie,2017/2018,2017
+Tarik Tissoudali,Left Winger,1993-04-02,24,Morocco,VVV-Venlo,Eredivisie,2017/2018,2017
+Torino Hunte,Left Winger,1990-12-14,26,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
+Lugman Bezzat,Left Winger,1997-02-17,20,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
+Etienne Amenyido,Left Winger,1998-03-01,19,Germany,VVV-Venlo,Eredivisie,2017/2018,2017
+Mink Peeters,Left Winger,1998-05-28,19,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
+Vito van Crooij,Right Winger,1996-01-29,21,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
+Romeo Castelen,Right Winger,1983-05-03,34,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
+Lennart Thy,Centre-Forward,1992-02-25,25,Germany,VVV-Venlo,Eredivisie,2017/2018,2017
+Juul Respen,Centre-Forward,1998-10-17,18,Netherlands,VVV-Venlo,Eredivisie,2017/2018,2017
+Emil Riis,Centre-Forward,1998-06-24,19,Denmark,VVV-Venlo,Eredivisie,2017/2018,2017

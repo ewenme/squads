@@ -1,0 +1,605 @@
+player_name,position,date_of_birth,age,nationality,club_name,league_name,season,year
+Kenneth Vermeer,Goalkeeper,1986-01-10,27,Netherlands,Ajax Amsterdam,Eredivisie,2013/2014,2013
+Jasper Cillessen,Goalkeeper,1989-04-22,24,Netherlands,Ajax Amsterdam,Eredivisie,2013/2014,2013
+Mickey van der Hart,Goalkeeper,1994-06-13,19,Netherlands,Ajax Amsterdam,Eredivisie,2013/2014,2013
+Peter Leeuwenburgh,Goalkeeper,1994-03-23,19,Netherlands,Ajax Amsterdam,Eredivisie,2013/2014,2013
+Toby Alderweireld,Centre-Back,1989-03-02,24,Belgium,Ajax Amsterdam,Eredivisie,2013/2014,2013
+Niklas Moisander,Centre-Back,1985-09-29,27,Finland,Ajax Amsterdam,Eredivisie,2013/2014,2013
+Daley Blind,Centre-Back,1990-03-09,23,Netherlands,Ajax Amsterdam,Eredivisie,2013/2014,2013
+Mike van der Hoorn,Centre-Back,1992-10-15,20,Netherlands,Ajax Amsterdam,Eredivisie,2013/2014,2013
+Stefano Denswil,Centre-Back,1993-05-07,20,Netherlands,Ajax Amsterdam,Eredivisie,2013/2014,2013
+Jairo Riedewald,Centre-Back,1996-09-09,16,Netherlands,Ajax Amsterdam,Eredivisie,2013/2014,2013
+Nicolai Boilesen,Left-Back,1992-02-16,21,Denmark,Ajax Amsterdam,Eredivisie,2013/2014,2013
+Mitchell Dijks,Left-Back,1993-02-09,20,Netherlands,Ajax Amsterdam,Eredivisie,2013/2014,2013
+Ricardo van Rhijn,Right-Back,1991-06-13,22,Netherlands,Ajax Amsterdam,Eredivisie,2013/2014,2013
+Joël Veltman,Right-Back,1992-01-15,21,Netherlands,Ajax Amsterdam,Eredivisie,2013/2014,2013
+Ruben Ligeon,Right-Back,1992-05-24,21,Netherlands,Ajax Amsterdam,Eredivisie,2013/2014,2013
+Kenny Tete,Right-Back,1995-10-09,17,Netherlands,Ajax Amsterdam,Eredivisie,2013/2014,2013
+Lasse Schöne,Defensive Midfield,1986-05-27,27,Denmark,Ajax Amsterdam,Eredivisie,2013/2014,2013
+Eyong Enoh,Defensive Midfield,1986-03-23,27,Cameroon,Ajax Amsterdam,Eredivisie,2013/2014,2013
+Christian Poulsen,Defensive Midfield,1980-02-28,33,Denmark,Ajax Amsterdam,Eredivisie,2013/2014,2013
+Thulani Serero,Defensive Midfield,1990-04-11,23,South Africa,Ajax Amsterdam,Eredivisie,2013/2014,2013
+Stanislav Lobotka,Defensive Midfield,1994-11-25,18,Slovakia,Ajax Amsterdam,Eredivisie,2013/2014,2013
+Lerin Duarte,Central Midfield,1990-08-11,22,Netherlands,Ajax Amsterdam,Eredivisie,2013/2014,2013
+Christian Eriksen,Attacking Midfield,1992-02-14,21,Denmark,Ajax Amsterdam,Eredivisie,2013/2014,2013
+Siem de Jong,Attacking Midfield,1989-01-28,24,Netherlands,Ajax Amsterdam,Eredivisie,2013/2014,2013
+Davy Klaassen,Attacking Midfield,1993-02-21,20,Netherlands,Ajax Amsterdam,Eredivisie,2013/2014,2013
+Viktor Fischer,Left Winger,1994-06-09,19,Denmark,Ajax Amsterdam,Eredivisie,2013/2014,2013
+Elton Acolatse,Left Winger,1995-07-25,17,Netherlands,Ajax Amsterdam,Eredivisie,2013/2014,2013
+Ricardo Kishna,Left Winger,1995-01-04,18,Netherlands,Ajax Amsterdam,Eredivisie,2013/2014,2013
+Jody Lukoki,Right Winger,1992-11-15,20,DR Congo,Ajax Amsterdam,Eredivisie,2013/2014,2013
+Lesly de Sa,Right Winger,1993-04-02,20,Netherlands,Ajax Amsterdam,Eredivisie,2013/2014,2013
+Bojan Krkic,Second Striker,1990-08-28,22,Spain,Ajax Amsterdam,Eredivisie,2013/2014,2013
+Tobias Sana,Second Striker,1989-07-11,23,Sweden,Ajax Amsterdam,Eredivisie,2013/2014,2013
+Lucas Andersen,Second Striker,1994-09-13,18,Denmark,Ajax Amsterdam,Eredivisie,2013/2014,2013
+Kolbeinn Sigthórsson,Centre-Forward,1990-03-14,23,Iceland,Ajax Amsterdam,Eredivisie,2013/2014,2013
+Danny Hoesen,Centre-Forward,1991-01-15,22,Netherlands,Ajax Amsterdam,Eredivisie,2013/2014,2013
+Przemyslaw Tyton,Goalkeeper,1987-01-04,26,Poland,PSV Eindhoven,Eredivisie,2013/2014,2013
+Jeroen Zoet,Goalkeeper,1991-01-06,22,Netherlands,PSV Eindhoven,Eredivisie,2013/2014,2013
+Nigel Bertrams,Goalkeeper,1993-01-08,20,Netherlands,PSV Eindhoven,Eredivisie,2013/2014,2013
+Benjamin van Leer,Goalkeeper,1992-04-09,21,Netherlands,PSV Eindhoven,Eredivisie,2013/2014,2013
+Timothy Derijck,Centre-Back,1987-05-25,26,Belgium,PSV Eindhoven,Eredivisie,2013/2014,2013
+Marcelo,Centre-Back,1987-05-20,26,Brazil,PSV Eindhoven,Eredivisie,2013/2014,2013
+Jeffrey Bruma,Centre-Back,1991-11-13,21,Netherlands,PSV Eindhoven,Eredivisie,2013/2014,2013
+Karim Rekik,Centre-Back,1994-12-02,18,Netherlands,PSV Eindhoven,Eredivisie,2013/2014,2013
+Zanka,Centre-Back,1990-04-23,23,Denmark,PSV Eindhoven,Eredivisie,2013/2014,2013
+Menno Koch,Centre-Back,1994-07-02,18,Netherlands,PSV Eindhoven,Eredivisie,2013/2014,2013
+Hjörtur Hermannsson,Centre-Back,1995-02-08,18,Iceland,PSV Eindhoven,Eredivisie,2013/2014,2013
+Jetro Willems,Left-Back,1994-03-30,19,Netherlands,PSV Eindhoven,Eredivisie,2013/2014,2013
+Abel Tamata,Left-Back,1990-12-05,22,DR Congo,PSV Eindhoven,Eredivisie,2013/2014,2013
+Stanislav Manolev,Right-Back,1985-12-16,27,Bulgaria,PSV Eindhoven,Eredivisie,2013/2014,2013
+Santiago Arias,Right-Back,1992-01-13,21,Colombia,PSV Eindhoven,Eredivisie,2013/2014,2013
+Joshua Brenet,Right-Back,1994-03-20,19,Netherlands,PSV Eindhoven,Eredivisie,2013/2014,2013
+Stijn Schaars,Defensive Midfield,1984-01-11,29,Netherlands,PSV Eindhoven,Eredivisie,2013/2014,2013
+Jorrit Hendrix,Defensive Midfield,1995-02-06,18,Netherlands,PSV Eindhoven,Eredivisie,2013/2014,2013
+Adam Maher,Central Midfield,1993-07-20,19,Netherlands,PSV Eindhoven,Eredivisie,2013/2014,2013
+Georginio Wijnaldum,Central Midfield,1990-11-11,22,Netherlands,PSV Eindhoven,Eredivisie,2013/2014,2013
+Oscar Hiljemark,Central Midfield,1992-06-28,21,Sweden,PSV Eindhoven,Eredivisie,2013/2014,2013
+Marcel Ritzmaier,Central Midfield,1993-04-22,20,Austria,PSV Eindhoven,Eredivisie,2013/2014,2013
+Peter van Ooijen,Central Midfield,1992-02-16,21,Netherlands,PSV Eindhoven,Eredivisie,2013/2014,2013
+Bryan Ruíz,Attacking Midfield,1985-08-18,27,Costa Rica,PSV Eindhoven,Eredivisie,2013/2014,2013
+Ji-sung Park,Attacking Midfield,1981-02-25,32,"Korea, South",PSV Eindhoven,Eredivisie,2013/2014,2013
+Rai Vloet,Attacking Midfield,1995-05-08,18,Netherlands,PSV Eindhoven,Eredivisie,2013/2014,2013
+Zakaria Bakkali,Left Winger,1996-01-26,17,Belgium,PSV Eindhoven,Eredivisie,2013/2014,2013
+Luciano Narsingh,Right Winger,1990-09-13,22,Netherlands,PSV Eindhoven,Eredivisie,2013/2014,2013
+Florian Jozefzoon,Right Winger,1991-02-09,22,Netherlands,PSV Eindhoven,Eredivisie,2013/2014,2013
+Ola Toivonen,Centre-Forward,1986-07-03,26,Sweden,PSV Eindhoven,Eredivisie,2013/2014,2013
+Tim Matavz,Centre-Forward,1989-01-13,24,Slovenia,PSV Eindhoven,Eredivisie,2013/2014,2013
+Jürgen Locadia,Centre-Forward,1993-11-07,19,Netherlands,PSV Eindhoven,Eredivisie,2013/2014,2013
+Memphis Depay,Centre-Forward,1994-02-13,19,Netherlands,PSV Eindhoven,Eredivisie,2013/2014,2013
+Piet Velthuizen,Goalkeeper,1986-11-03,26,Netherlands,Vitesse Arnhem,Eredivisie,2013/2014,2013
+Eloy Room,Goalkeeper,1989-02-06,24,Curacao,Vitesse Arnhem,Eredivisie,2013/2014,2013
+Marko Meerits,Goalkeeper,1992-04-26,21,Estonia,Vitesse Arnhem,Eredivisie,2013/2014,2013
+Jeroen Houwen,Goalkeeper,1996-02-18,17,Netherlands,Vitesse Arnhem,Eredivisie,2013/2014,2013
+Guram Kashia,Centre-Back,1987-07-04,25,Georgia,Vitesse Arnhem,Eredivisie,2013/2014,2013
+Jan-Arie van der Heijden,Centre-Back,1988-03-03,25,Netherlands,Vitesse Arnhem,Eredivisie,2013/2014,2013
+Dan Mori,Centre-Back,1988-11-08,24,Israel,Vitesse Arnhem,Eredivisie,2013/2014,2013
+Gino Bosz,Centre-Back,1993-04-23,20,Netherlands,Vitesse Arnhem,Eredivisie,2013/2014,2013
+Abdel Metalsi,Centre-Back,1994-04-19,19,Bosnia-Herzegovina,Vitesse Arnhem,Eredivisie,2013/2014,2013
+Patrick van Aanholt,Left-Back,1990-08-29,22,Netherlands,Vitesse Arnhem,Eredivisie,2013/2014,2013
+Rochdi Achenteh,Left-Back,1988-03-07,25,Morocco,Vitesse Arnhem,Eredivisie,2013/2014,2013
+Cristian Cuevas,Left-Back,1995-04-02,18,Chile,Vitesse Arnhem,Eredivisie,2013/2014,2013
+Nikola Aksentijevic,Right-Back,1993-03-09,20,Serbia,Vitesse Arnhem,Eredivisie,2013/2014,2013
+Kelvin Leerdam,Right-Back,1990-06-24,23,Netherlands,Vitesse Arnhem,Eredivisie,2013/2014,2013
+Frank van der Struijk,Right-Back,1985-03-28,28,Netherlands,Vitesse Arnhem,Eredivisie,2013/2014,2013
+Marko Vejinović,Defensive Midfield,1990-02-03,23,Netherlands,Vitesse Arnhem,Eredivisie,2013/2014,2013
+Sam Hutchinson,Defensive Midfield,1989-08-03,23,England,Vitesse Arnhem,Eredivisie,2013/2014,2013
+Elmo Lieftink,Defensive Midfield,1994-02-03,19,Netherlands,Vitesse Arnhem,Eredivisie,2013/2014,2013
+Theo Janssen,Central Midfield,1981-07-27,31,Netherlands,Vitesse Arnhem,Eredivisie,2013/2014,2013
+Davy Pröpper,Central Midfield,1991-09-02,21,Netherlands,Vitesse Arnhem,Eredivisie,2013/2014,2013
+Francisco Júnior,Central Midfield,1992-01-18,21,Guinea-Bissau,Vitesse Arnhem,Eredivisie,2013/2014,2013
+Zakaria Labyad,Attacking Midfield,1993-03-09,20,Morocco,Vitesse Arnhem,Eredivisie,2013/2014,2013
+Wimilio Vink,Attacking Midfield,1993-09-13,19,Netherlands,Vitesse Arnhem,Eredivisie,2013/2014,2013
+Christian Atsu,Left Winger,1992-01-10,21,Ghana,Vitesse Arnhem,Eredivisie,2013/2014,2013
+Gaël Kakuta,Left Winger,1991-06-21,22,DR Congo,Vitesse Arnhem,Eredivisie,2013/2014,2013
+Valeri Qazaishvili,Left Winger,1993-01-29,20,Georgia,Vitesse Arnhem,Eredivisie,2013/2014,2013
+Brahim Darri,Left Winger,1994-09-14,18,Netherlands,Vitesse Arnhem,Eredivisie,2013/2014,2013
+Adnane Tighadouini,Left Winger,1992-10-30,20,Morocco,Vitesse Arnhem,Eredivisie,2013/2014,2013
+Lucas Piazón,Right Winger,1994-01-20,19,Brazil,Vitesse Arnhem,Eredivisie,2013/2014,2013
+Renato Ibarra,Right Winger,1991-01-20,22,Ecuador,Vitesse Arnhem,Eredivisie,2013/2014,2013
+Giorgi Chanturia,Right Winger,1993-04-11,20,Georgia,Vitesse Arnhem,Eredivisie,2013/2014,2013
+Bertrand Traoré,Right Winger,1995-09-06,17,Burkina Faso,Vitesse Arnhem,Eredivisie,2013/2014,2013
+Jonathan Reis,Centre-Forward,1989-06-06,24,Brazil,Vitesse Arnhem,Eredivisie,2013/2014,2013
+Mike Havenaar,Centre-Forward,1987-05-20,26,Japan,Vitesse Arnhem,Eredivisie,2013/2014,2013
+Marcus Pedersen,Centre-Forward,1990-06-08,23,Norway,Vitesse Arnhem,Eredivisie,2013/2014,2013
+Uros Djurdjevic,Centre-Forward,1994-03-02,19,Serbia,Vitesse Arnhem,Eredivisie,2013/2014,2013
+Erwin Mulder,Goalkeeper,1989-03-03,24,Netherlands,Feyenoord Rotterdam,Eredivisie,2013/2014,2013
+Konstantinos Lamprou,Goalkeeper,1991-09-18,21,Greece,Feyenoord Rotterdam,Eredivisie,2013/2014,2013
+Ronald Graafland,Goalkeeper,1979-04-30,34,Netherlands,Feyenoord Rotterdam,Eredivisie,2013/2014,2013
+Stefan de Vrij,Centre-Back,1992-02-05,21,Netherlands,Feyenoord Rotterdam,Eredivisie,2013/2014,2013
+Bruno Martins Indi,Centre-Back,1992-02-08,21,Netherlands,Feyenoord Rotterdam,Eredivisie,2013/2014,2013
+Joris Mathijsen,Centre-Back,1980-04-05,33,Netherlands,Feyenoord Rotterdam,Eredivisie,2013/2014,2013
+Terence Kongolo,Centre-Back,1994-02-14,19,Netherlands,Feyenoord Rotterdam,Eredivisie,2013/2014,2013
+Kaj Ramsteijn,Centre-Back,1990-01-17,23,Netherlands,Feyenoord Rotterdam,Eredivisie,2013/2014,2013
+Matthew Steenvoorden,Centre-Back,1993-01-09,20,Netherlands,Feyenoord Rotterdam,Eredivisie,2013/2014,2013
+Sven van Beek,Centre-Back,1994-07-28,18,Netherlands,Feyenoord Rotterdam,Eredivisie,2013/2014,2013
+Miquel Nelom,Left-Back,1990-09-22,22,Netherlands,Feyenoord Rotterdam,Eredivisie,2013/2014,2013
+Lucas Woudenberg,Left-Back,1994-04-25,19,Netherlands,Feyenoord Rotterdam,Eredivisie,2013/2014,2013
+Jeff Hardeveld,Left-Back,1995-02-27,18,Netherlands,Feyenoord Rotterdam,Eredivisie,2013/2014,2013
+Daryl Janmaat,Right-Back,1989-07-22,23,Netherlands,Feyenoord Rotterdam,Eredivisie,2013/2014,2013
+Jordy van Deelen,Right-Back,1993-06-29,20,Netherlands,Feyenoord Rotterdam,Eredivisie,2013/2014,2013
+Jordy Clasie,Defensive Midfield,1991-06-27,22,Netherlands,Feyenoord Rotterdam,Eredivisie,2013/2014,2013
+Tonny Vilhena,Central Midfield,1995-01-03,18,Netherlands,Feyenoord Rotterdam,Eredivisie,2013/2014,2013
+Ruud Vormer,Central Midfield,1988-05-11,25,Netherlands,Feyenoord Rotterdam,Eredivisie,2013/2014,2013
+Harmeet Singh,Central Midfield,1990-11-12,22,Norway,Feyenoord Rotterdam,Eredivisie,2013/2014,2013
+Jean-Paul Boëtius,Attacking Midfield,1994-03-22,19,Netherlands,Feyenoord Rotterdam,Eredivisie,2013/2014,2013
+Lex Immers,Attacking Midfield,1986-06-08,27,Netherlands,Feyenoord Rotterdam,Eredivisie,2013/2014,2013
+John Goossens,Attacking Midfield,1988-07-25,24,Netherlands,Feyenoord Rotterdam,Eredivisie,2013/2014,2013
+Otman Bakkal,Attacking Midfield,1985-02-27,28,Netherlands,Feyenoord Rotterdam,Eredivisie,2013/2014,2013
+Anass Achahbar,Attacking Midfield,1994-01-13,19,Netherlands,Feyenoord Rotterdam,Eredivisie,2013/2014,2013
+Elvis Manu,Left Winger,1993-08-13,19,Netherlands,Feyenoord Rotterdam,Eredivisie,2013/2014,2013
+Joey Sleegers,Left Winger,1994-07-20,18,Netherlands,Feyenoord Rotterdam,Eredivisie,2013/2014,2013
+Ruben Schaken,Right Winger,1982-04-03,31,Netherlands,Feyenoord Rotterdam,Eredivisie,2013/2014,2013
+Wesley Verhoek,Right Winger,1986-09-25,26,Netherlands,Feyenoord Rotterdam,Eredivisie,2013/2014,2013
+Graziano Pellè,Centre-Forward,1985-07-15,27,Italy,Feyenoord Rotterdam,Eredivisie,2013/2014,2013
+Samuel Armenteros,Centre-Forward,1990-05-27,23,Sweden,Feyenoord Rotterdam,Eredivisie,2013/2014,2013
+Sekou Cissé,Centre-Forward,1985-05-23,28,Cote d'Ivoire,Feyenoord Rotterdam,Eredivisie,2013/2014,2013
+Guyon Fernandez,Centre-Forward,1986-04-18,27,Curacao,Feyenoord Rotterdam,Eredivisie,2013/2014,2013
+Mitchell te Vrede,Centre-Forward,1991-08-07,21,Netherlands,Feyenoord Rotterdam,Eredivisie,2013/2014,2013
+Daniel Fernandes,Goalkeeper,1983-09-25,29,Portugal,FC Twente Enschede,Eredivisie,2013/2014,2013
+Sonny Stevens,Goalkeeper,1992-06-22,21,Netherlands,FC Twente Enschede,Eredivisie,2013/2014,2013
+Nick Marsman,Goalkeeper,1990-10-01,22,Netherlands,FC Twente Enschede,Eredivisie,2013/2014,2013
+Timo Plattel,Goalkeeper,1994-03-12,19,Netherlands,FC Twente Enschede,Eredivisie,2013/2014,2013
+Filip Bednarek,Goalkeeper,1992-09-26,20,Poland,FC Twente Enschede,Eredivisie,2013/2014,2013
+Sander Boschker,Goalkeeper,1970-10-20,42,Netherlands,FC Twente Enschede,Eredivisie,2013/2014,2013
+Andreas Bjelland,Centre-Back,1988-07-11,24,Denmark,FC Twente Enschede,Eredivisie,2013/2014,2013
+Willem Janssen,Centre-Back,1986-07-04,26,Netherlands,FC Twente Enschede,Eredivisie,2013/2014,2013
+Robbert Schilder,Centre-Back,1986-04-18,27,Netherlands,FC Twente Enschede,Eredivisie,2013/2014,2013
+Peter Wisgerhof,Centre-Back,1979-11-19,33,Netherlands,FC Twente Enschede,Eredivisie,2013/2014,2013
+Rasmus Bengtsson,Centre-Back,1986-06-26,27,Sweden,FC Twente Enschede,Eredivisie,2013/2014,2013
+Nils Röseler,Centre-Back,1992-02-10,21,Germany,FC Twente Enschede,Eredivisie,2013/2014,2013
+Dico Koppers,Left-Back,1992-01-31,21,Netherlands,FC Twente Enschede,Eredivisie,2013/2014,2013
+Roberto Rosales,Right-Back,1988-11-20,24,Venezuela,FC Twente Enschede,Eredivisie,2013/2014,2013
+Tim Breukers,Right-Back,1987-11-04,25,Netherlands,FC Twente Enschede,Eredivisie,2013/2014,2013
+Cuco Martina,Right-Back,1989-09-25,23,Curacao,FC Twente Enschede,Eredivisie,2013/2014,2013
+Wout Brama,Defensive Midfield,1986-08-21,26,Netherlands,FC Twente Enschede,Eredivisie,2013/2014,2013
+Joey Pelupessy,Defensive Midfield,1993-05-15,20,Netherlands,FC Twente Enschede,Eredivisie,2013/2014,2013
+Felipe Gutiérrez,Central Midfield,1990-10-08,22,Chile,FC Twente Enschede,Eredivisie,2013/2014,2013
+Kyle Ebecilio,Central Midfield,1994-02-17,19,Netherlands,FC Twente Enschede,Eredivisie,2013/2014,2013
+Dario Tanda,Central Midfield,1995-01-02,18,Netherlands,FC Twente Enschede,Eredivisie,2013/2014,2013
+Renato Tapia,Central Midfield,1995-07-28,17,Peru,FC Twente Enschede,Eredivisie,2013/2014,2013
+Jesús Corona,Right Midfield,1993-01-06,20,Mexico,FC Twente Enschede,Eredivisie,2013/2014,2013
+Tim Hölscher,Attacking Midfield,1995-01-21,18,Germany,FC Twente Enschede,Eredivisie,2013/2014,2013
+Shadrach Eghan,Attacking Midfield,1994-09-18,18,Ghana,FC Twente Enschede,Eredivisie,2013/2014,2013
+Dusan Tadic,Left Winger,1988-11-20,24,Serbia,FC Twente Enschede,Eredivisie,2013/2014,2013
+Joshua John,Left Winger,1988-10-01,24,Aruba,FC Twente Enschede,Eredivisie,2013/2014,2013
+Jerson Cabral,Left Winger,1991-01-03,22,Cape Verde,FC Twente Enschede,Eredivisie,2013/2014,2013
+Youness Mokhtar,Left Winger,1991-08-29,21,Morocco,FC Twente Enschede,Eredivisie,2013/2014,2013
+Quincy Promes,Left Winger,1992-01-04,21,Netherlands,FC Twente Enschede,Eredivisie,2013/2014,2013
+Andrej Rendla,Right Winger,1990-10-13,22,Slovakia,FC Twente Enschede,Eredivisie,2013/2014,2013
+Bilal Ould-Chikh,Right Winger,1997-07-28,15,Netherlands,FC Twente Enschede,Eredivisie,2013/2014,2013
+Luc Castaignos,Centre-Forward,1992-09-27,20,Netherlands,FC Twente Enschede,Eredivisie,2013/2014,2013
+Luka Djordjevic,Centre-Forward,1994-07-09,18,Montenegro,FC Twente Enschede,Eredivisie,2013/2014,2013
+Torgeir Börven,Centre-Forward,1991-12-03,21,Norway,FC Twente Enschede,Eredivisie,2013/2014,2013
+Felitciano Zschusschen,Centre-Forward,1992-01-24,21,Curacao,FC Twente Enschede,Eredivisie,2013/2014,2013
+Esteban Alvarado,Goalkeeper,1989-04-28,24,Costa Rica,AZ Alkmaar,Eredivisie,2013/2014,2013
+Yves De Winter,Goalkeeper,1987-05-25,26,Belgium,AZ Alkmaar,Eredivisie,2013/2014,2013
+Hobie Verhulst,Goalkeeper,1993-04-02,20,Netherlands,AZ Alkmaar,Eredivisie,2013/2014,2013
+Erik Heijblok,Goalkeeper,1977-06-29,36,Netherlands,AZ Alkmaar,Eredivisie,2013/2014,2013
+Nick Viergever,Centre-Back,1989-08-03,23,Netherlands,AZ Alkmaar,Eredivisie,2013/2014,2013
+Viktor Elm,Centre-Back,1985-11-13,27,Sweden,AZ Alkmaar,Eredivisie,2013/2014,2013
+Dirk Marcellis,Centre-Back,1988-04-13,25,Netherlands,AZ Alkmaar,Eredivisie,2013/2014,2013
+Jeffrey Gouweleeuw,Centre-Back,1991-07-10,21,Netherlands,AZ Alkmaar,Eredivisie,2013/2014,2013
+Jan Wuytens,Centre-Back,1985-06-09,28,Belgium,AZ Alkmaar,Eredivisie,2013/2014,2013
+Etiënne Reijnen,Centre-Back,1987-04-05,26,Netherlands,AZ Alkmaar,Eredivisie,2013/2014,2013
+Thomas Lam,Centre-Back,1993-12-18,19,Finland,AZ Alkmaar,Eredivisie,2013/2014,2013
+Wesley Hoedt,Centre-Back,1994-03-06,19,Netherlands,AZ Alkmaar,Eredivisie,2013/2014,2013
+Simon Poulsen,Left-Back,1984-10-07,28,Denmark,AZ Alkmaar,Eredivisie,2013/2014,2013
+Ridgeciano Haps,Left-Back,1993-06-12,20,Netherlands,AZ Alkmaar,Eredivisie,2013/2014,2013
+Paul Kok,Left-Back,1994-12-21,18,Netherlands,AZ Alkmaar,Eredivisie,2013/2014,2013
+Mattias Johansson,Right-Back,1992-02-16,21,Sweden,AZ Alkmaar,Eredivisie,2013/2014,2013
+Fernando Lewis,Right-Back,1993-01-31,20,Netherlands,AZ Alkmaar,Eredivisie,2013/2014,2013
+Nemanja Gudelj,Defensive Midfield,1991-11-16,21,Serbia,AZ Alkmaar,Eredivisie,2013/2014,2013
+Celso Ortiz,Defensive Midfield,1989-01-26,24,Paraguay,AZ Alkmaar,Eredivisie,2013/2014,2013
+Markus Henriksen,Central Midfield,1992-07-25,20,Norway,AZ Alkmaar,Eredivisie,2013/2014,2013
+Donny Gorter,Central Midfield,1988-06-15,25,Netherlands,AZ Alkmaar,Eredivisie,2013/2014,2013
+Joris van Overeem,Central Midfield,1994-06-01,19,Netherlands,AZ Alkmaar,Eredivisie,2013/2014,2013
+Maarten Martens,Attacking Midfield,1984-07-02,28,Belgium,AZ Alkmaar,Eredivisie,2013/2014,2013
+Willie Overtoom,Attacking Midfield,1986-09-02,26,Cameroon,AZ Alkmaar,Eredivisie,2013/2014,2013
+Erik Falkenburg,Attacking Midfield,1988-05-05,25,Netherlands,AZ Alkmaar,Eredivisie,2013/2014,2013
+Thom Haye,Attacking Midfield,1995-02-09,18,Netherlands,AZ Alkmaar,Eredivisie,2013/2014,2013
+Dabney dos Santos,Left Winger,1996-07-31,16,Netherlands,AZ Alkmaar,Eredivisie,2013/2014,2013
+Roy Beerens,Right Winger,1987-12-22,25,Netherlands,AZ Alkmaar,Eredivisie,2013/2014,2013
+Johann Berg Gudmundsson,Right Winger,1990-10-27,22,Iceland,AZ Alkmaar,Eredivisie,2013/2014,2013
+Steven Berghuis,Right Winger,1991-12-19,21,Netherlands,AZ Alkmaar,Eredivisie,2013/2014,2013
+Mikhail Rosheuvel,Right Winger,1990-08-10,22,Netherlands,AZ Alkmaar,Eredivisie,2013/2014,2013
+Aron Jóhannsson,Centre-Forward,1990-11-10,22,United States,AZ Alkmaar,Eredivisie,2013/2014,2013
+Denni Avdic,Centre-Forward,1988-09-05,24,Sweden,AZ Alkmaar,Eredivisie,2013/2014,2013
+Ruud Boymans,Centre-Forward,1989-08-24,23,Netherlands,AZ Alkmaar,Eredivisie,2013/2014,2013
+Robbin Ruiter,Goalkeeper,1987-03-25,26,Netherlands,FC Utrecht,Eredivisie,2013/2014,2013
+Jeroen Verhoeven,Goalkeeper,1980-04-30,33,Netherlands,FC Utrecht,Eredivisie,2013/2014,2013
+Mike Havekotte,Goalkeeper,1995-09-12,17,Netherlands,FC Utrecht,Eredivisie,2013/2014,2013
+Timothy Derijck,Centre-Back,1987-05-25,26,Belgium,FC Utrecht,Eredivisie,2013/2014,2013
+Willem Janssen,Centre-Back,1986-07-04,26,Netherlands,FC Utrecht,Eredivisie,2013/2014,2013
+Dave Bulthuis,Centre-Back,1990-06-28,23,Netherlands,FC Utrecht,Eredivisie,2013/2014,2013
+Matthieu Delpierre,Centre-Back,1981-04-26,32,France,FC Utrecht,Eredivisie,2013/2014,2013
+Kai Heerings,Centre-Back,1990-01-12,23,Netherlands,FC Utrecht,Eredivisie,2013/2014,2013
+Gévero Markiet,Centre-Back,1991-04-08,22,Netherlands,FC Utrecht,Eredivisie,2013/2014,2013
+Myenty Abena,Centre-Back,1994-12-12,18,Netherlands,FC Utrecht,Eredivisie,2013/2014,2013
+Michael Zullo,Left-Back,1988-11-09,24,Australia,FC Utrecht,Eredivisie,2013/2014,2013
+Christian Dorda,Left-Back,1988-12-06,24,Germany,FC Utrecht,Eredivisie,2013/2014,2013
+Yannick Cortie,Left-Back,1993-05-07,20,Netherlands,FC Utrecht,Eredivisie,2013/2014,2013
+Aleksandar Bjelica,Left-Back,1994-01-07,19,Serbia,FC Utrecht,Eredivisie,2013/2014,2013
+Jordy van der Winden,Left-Back,1994-03-04,19,Netherlands,FC Utrecht,Eredivisie,2013/2014,2013
+Mark van der Maarel,Right-Back,1989-08-12,23,Netherlands,FC Utrecht,Eredivisie,2013/2014,2013
+Sean Klaiber,Right-Back,1994-07-31,18,Netherlands,FC Utrecht,Eredivisie,2013/2014,2013
+Johan Martensson,Defensive Midfield,1989-02-16,24,Sweden,FC Utrecht,Eredivisie,2013/2014,2013
+Kenny Teijsse,Defensive Midfield,1992-07-19,20,Netherlands,FC Utrecht,Eredivisie,2013/2014,2013
+Yassin Ayoub,Central Midfield,1994-03-06,19,Morocco,FC Utrecht,Eredivisie,2013/2014,2013
+Thijs van Hofwegen,Central Midfield,1992-04-13,21,Netherlands,FC Utrecht,Eredivisie,2013/2014,2013
+Adam Sarota,Right Midfield,1988-12-28,24,Australia,FC Utrecht,Eredivisie,2013/2014,2013
+Yoshiaki Takagi,Left Midfield,1992-12-09,20,Japan,FC Utrecht,Eredivisie,2013/2014,2013
+Jens Toornstra,Attacking Midfield,1989-04-04,24,Netherlands,FC Utrecht,Eredivisie,2013/2014,2013
+Romano van der Stoep,Attacking Midfield,1994-11-11,18,Netherlands,FC Utrecht,Eredivisie,2013/2014,2013
+Mark Diemers,Attacking Midfield,1993-10-11,19,Netherlands,FC Utrecht,Eredivisie,2013/2014,2013
+Elroy Pappot,Attacking Midfield,1993-04-20,20,Netherlands,FC Utrecht,Eredivisie,2013/2014,2013
+Nando Quesada,Attacking Midfield,1994-01-05,19,Spain,FC Utrecht,Eredivisie,2013/2014,2013
+Tommy Oar,Left Winger,1991-12-10,21,Australia,FC Utrecht,Eredivisie,2013/2014,2013
+Édouard Duplan,Left Winger,1983-05-13,30,France,FC Utrecht,Eredivisie,2013/2014,2013
+Steve De Ridder,Left Winger,1987-02-25,26,Belgium,FC Utrecht,Eredivisie,2013/2014,2013
+Bob Schepers,Left Winger,1992-03-30,21,Netherlands,FC Utrecht,Eredivisie,2013/2014,2013
+Gyliano van Velzen,Left Winger,1994-04-14,19,Netherlands,FC Utrecht,Eredivisie,2013/2014,2013
+Jacob Mulenga,Centre-Forward,1984-02-12,29,Zambia,FC Utrecht,Eredivisie,2013/2014,2013
+Juan Agudelo,Centre-Forward,1992-11-23,20,United States,FC Utrecht,Eredivisie,2013/2014,2013
+Danny Koevermans,Centre-Forward,1978-11-01,34,Netherlands,FC Utrecht,Eredivisie,2013/2014,2013
+Leon de Kogel,Centre-Forward,1991-11-13,21,Netherlands,FC Utrecht,Eredivisie,2013/2014,2013
+Cedric van der Gun,Centre-Forward,1979-05-05,34,Netherlands,FC Utrecht,Eredivisie,2013/2014,2013
+Cedric Badjeck,Centre-Forward,1995-01-25,18,Netherlands,FC Utrecht,Eredivisie,2013/2014,2013
+Gyrano Kerk,Centre-Forward,1995-12-02,17,Netherlands,FC Utrecht,Eredivisie,2013/2014,2013
+Kristoffer Nordfeldt,Goalkeeper,1989-06-23,24,Sweden,SC Heerenveen,Eredivisie,2013/2014,2013
+Viktor Noring,Goalkeeper,1991-02-03,22,Sweden,SC Heerenveen,Eredivisie,2013/2014,2013
+Brian Vandenbussche,Goalkeeper,1981-09-24,31,Belgium,SC Heerenveen,Eredivisie,2013/2014,2013
+Chiel Kramer,Goalkeeper,1992-01-03,21,Netherlands,SC Heerenveen,Eredivisie,2013/2014,2013
+Ramon Zomer,Centre-Back,1983-04-13,30,Netherlands,SC Heerenveen,Eredivisie,2013/2014,2013
+Christian Kum,Centre-Back,1985-09-13,27,Netherlands,SC Heerenveen,Eredivisie,2013/2014,2013
+Arnold Kruiswijk,Centre-Back,1984-11-02,28,Netherlands,SC Heerenveen,Eredivisie,2013/2014,2013
+Kenny Otigba,Centre-Back,1992-08-29,20,Hungary,SC Heerenveen,Eredivisie,2013/2014,2013
+Jens Jurn Streutker,Centre-Back,1993-02-23,20,Netherlands,SC Heerenveen,Eredivisie,2013/2014,2013
+Stephen Warmolts,Centre-Back,1994-04-10,19,Netherlands,SC Heerenveen,Eredivisie,2013/2014,2013
+Joost van Aken,Centre-Back,1994-05-13,19,Netherlands,SC Heerenveen,Eredivisie,2013/2014,2013
+Jukka Raitala,Left-Back,1988-09-15,24,Finland,SC Heerenveen,Eredivisie,2013/2014,2013
+Mitchell Dijks,Left-Back,1993-02-09,20,Netherlands,SC Heerenveen,Eredivisie,2013/2014,2013
+Fahd Aktaou,Left-Back,1993-01-13,20,Morocco,SC Heerenveen,Eredivisie,2013/2014,2013
+Daley Sinkgraven,Left-Back,1995-07-04,17,Netherlands,SC Heerenveen,Eredivisie,2013/2014,2013
+Pele van Anholt,Right-Back,1991-04-23,22,Netherlands,SC Heerenveen,Eredivisie,2013/2014,2013
+Stefano Marzo,Right-Back,1991-03-22,22,Belgium,SC Heerenveen,Eredivisie,2013/2014,2013
+Doke Schmidt,Right-Back,1992-04-07,21,Netherlands,SC Heerenveen,Eredivisie,2013/2014,2013
+Sven Kums,Defensive Midfield,1988-02-26,25,Belgium,SC Heerenveen,Eredivisie,2013/2014,2013
+Joey van den Berg,Defensive Midfield,1986-02-13,27,Netherlands,SC Heerenveen,Eredivisie,2013/2014,2013
+Joeri de Kamps,Defensive Midfield,1992-02-10,21,Netherlands,SC Heerenveen,Eredivisie,2013/2014,2013
+Magnus Wolff Eikrem,Central Midfield,1990-08-08,22,Norway,SC Heerenveen,Eredivisie,2013/2014,2013
+Marten de Roon,Central Midfield,1991-03-29,22,Netherlands,SC Heerenveen,Eredivisie,2013/2014,2013
+Anthony Lurling,Attacking Midfield,1977-04-22,36,Netherlands,SC Heerenveen,Eredivisie,2013/2014,2013
+Rajiv van La Parra,Left Winger,1991-06-04,22,Netherlands,SC Heerenveen,Eredivisie,2013/2014,2013
+Yanic Wildschut,Left Winger,1991-11-01,21,Netherlands,SC Heerenveen,Eredivisie,2013/2014,2013
+Bilal Basacikoglu,Left Winger,1995-03-26,18,Turkey,SC Heerenveen,Eredivisie,2013/2014,2013
+Szabolcs Varga,Left Winger,1995-03-17,18,Hungary,SC Heerenveen,Eredivisie,2013/2014,2013
+Hakim Ziyech,Right Winger,1993-03-19,20,Morocco,SC Heerenveen,Eredivisie,2013/2014,2013
+Luciano Slagveer,Right Winger,1993-10-05,19,Netherlands,SC Heerenveen,Eredivisie,2013/2014,2013
+Alfred Finnbogason,Centre-Forward,1989-02-01,24,Iceland,SC Heerenveen,Eredivisie,2013/2014,2013
+Uche Nwofor,Centre-Forward,1991-09-17,21,Nigeria,SC Heerenveen,Eredivisie,2013/2014,2013
+Samir Fazli,Centre-Forward,1991-04-22,22,North Macedonia,SC Heerenveen,Eredivisie,2013/2014,2013
+Mark Uth,Centre-Forward,1991-08-24,21,Germany,SC Heerenveen,Eredivisie,2013/2014,2013
+Marco Bizot,Goalkeeper,1991-03-10,22,Netherlands,FC Groningen,Eredivisie,2013/2014,2013
+Luciano,Goalkeeper,1980-03-16,33,Brazil,FC Groningen,Eredivisie,2013/2014,2013
+Stefan van der Lei,Goalkeeper,1993-03-05,20,Netherlands,FC Groningen,Eredivisie,2013/2014,2013
+Jonas Ivens,Centre-Back,1984-10-14,28,Belgium,FC Groningen,Eredivisie,2013/2014,2013
+Eric Botteghin,Centre-Back,1987-08-31,25,Brazil,FC Groningen,Eredivisie,2013/2014,2013
+Johan Kappelhof,Centre-Back,1990-08-05,22,Netherlands,FC Groningen,Eredivisie,2013/2014,2013
+Timo Letschert,Centre-Back,1993-05-25,20,Netherlands,FC Groningen,Eredivisie,2013/2014,2013
+Nick Bakker,Centre-Back,1992-07-21,20,Netherlands,FC Groningen,Eredivisie,2013/2014,2013
+William Troost-Ekong,Centre-Back,1993-09-01,19,Nigeria,FC Groningen,Eredivisie,2013/2014,2013
+Lorenzo Burnet,Left-Back,1991-01-11,22,Netherlands,FC Groningen,Eredivisie,2013/2014,2013
+Giliano Wijnaldum,Left-Back,1992-08-31,20,Netherlands,FC Groningen,Eredivisie,2013/2014,2013
+Stefano Magnasco,Right-Back,1992-09-28,20,Chile,FC Groningen,Eredivisie,2013/2014,2013
+Angelo Cijntje,Right-Back,1980-11-09,32,Curacao,FC Groningen,Eredivisie,2013/2014,2013
+Hans Hateboer,Right-Back,1994-01-09,19,Netherlands,FC Groningen,Eredivisie,2013/2014,2013
+Maikel Kieftenbeld,Defensive Midfield,1990-06-26,23,Netherlands,FC Groningen,Eredivisie,2013/2014,2013
+Rasmus Lindgren,Defensive Midfield,1984-11-29,28,Sweden,FC Groningen,Eredivisie,2013/2014,2013
+Tom Hiariej,Defensive Midfield,1988-07-25,24,Netherlands,FC Groningen,Eredivisie,2013/2014,2013
+Henk Bos,Central Midfield,1992-11-12,20,Netherlands,FC Groningen,Eredivisie,2013/2014,2013
+Hilal Ben Moussa,Central Midfield,1992-05-22,21,Netherlands,FC Groningen,Eredivisie,2013/2014,2013
+Yoëll van Nieff,Central Midfield,1993-06-17,20,Netherlands,FC Groningen,Eredivisie,2013/2014,2013
+Andraz Kirm,Left Midfield,1984-09-06,28,Slovenia,FC Groningen,Eredivisie,2013/2014,2013
+Filip Kostic,Left Midfield,1992-11-01,20,Serbia,FC Groningen,Eredivisie,2013/2014,2013
+Tjaronn Chery,Attacking Midfield,1988-06-04,25,Netherlands,FC Groningen,Eredivisie,2013/2014,2013
+Michael de Leeuw,Attacking Midfield,1986-10-07,26,Netherlands,FC Groningen,Eredivisie,2013/2014,2013
+Paco van Moorsel,Attacking Midfield,1989-12-15,23,Netherlands,FC Groningen,Eredivisie,2013/2014,2013
+Krisztián Adorján,Attacking Midfield,1993-01-19,20,Hungary,FC Groningen,Eredivisie,2013/2014,2013
+Nick van der Velden,Left Winger,1981-12-16,31,Netherlands,FC Groningen,Eredivisie,2013/2014,2013
+Burak Saban,Right Winger,1994-04-20,19,Netherlands,FC Groningen,Eredivisie,2013/2014,2013
+David Texeira,Centre-Forward,1991-02-27,22,Uruguay,FC Groningen,Eredivisie,2013/2014,2013
+Género Zeefuik,Centre-Forward,1990-04-05,23,Netherlands,FC Groningen,Eredivisie,2013/2014,2013
+Richairo Zivkovic,Centre-Forward,1996-09-05,16,Netherlands,FC Groningen,Eredivisie,2013/2014,2013
+Arjen Hagenauw,Centre-Forward,1994-08-11,18,Netherlands,FC Groningen,Eredivisie,2013/2014,2013
+Gino Coutinho,Goalkeeper,1982-08-05,30,Netherlands,ADO Den Haag,Eredivisie,2013/2014,2013
+Robert Zwinkels,Goalkeeper,1983-05-04,30,Netherlands,ADO Den Haag,Eredivisie,2013/2014,2013
+Martijn de Zwart,Goalkeeper,1990-11-08,22,Netherlands,ADO Den Haag,Eredivisie,2013/2014,2013
+Bas Meeuwissen,Goalkeeper,1994-04-25,19,Netherlands,ADO Den Haag,Eredivisie,2013/2014,2013
+Gianni Zuiverloon,Centre-Back,1986-12-30,26,Netherlands,ADO Den Haag,Eredivisie,2013/2014,2013
+Vito Wormgoor,Centre-Back,1988-11-16,24,Netherlands,ADO Den Haag,Eredivisie,2013/2014,2013
+Tom Beugelsdijk,Centre-Back,1990-08-07,22,Netherlands,ADO Den Haag,Eredivisie,2013/2014,2013
+Wilfried Kanon,Centre-Back,1993-07-06,19,Cote d'Ivoire,ADO Den Haag,Eredivisie,2013/2014,2013
+Robin Buwalda,Centre-Back,1994-08-17,18,Netherlands,ADO Den Haag,Eredivisie,2013/2014,2013
+Aaron Meijers,Left-Back,1987-10-28,25,Netherlands,ADO Den Haag,Eredivisie,2013/2014,2013
+Christian Supusepa,Left-Back,1989-04-02,24,Netherlands,ADO Den Haag,Eredivisie,2013/2014,2013
+Dion Malone,Defensive Midfield,1989-02-13,24,Netherlands,ADO Den Haag,Eredivisie,2013/2014,2013
+Mike Tros,Defensive Midfield,1993-09-04,19,Netherlands,ADO Den Haag,Eredivisie,2013/2014,2013
+Danny Holla,Central Midfield,1987-12-31,25,Netherlands,ADO Den Haag,Eredivisie,2013/2014,2013
+Kevin Jansen,Central Midfield,1992-04-08,21,Netherlands,ADO Den Haag,Eredivisie,2013/2014,2013
+Ricky van Haaren,Central Midfield,1991-06-21,22,Netherlands,ADO Den Haag,Eredivisie,2013/2014,2013
+Danny Bakker,Central Midfield,1995-01-16,18,Netherlands,ADO Den Haag,Eredivisie,2013/2014,2013
+Tjaronn Chery,Attacking Midfield,1988-06-04,25,Netherlands,ADO Den Haag,Eredivisie,2013/2014,2013
+Mathias Gehrt,Attacking Midfield,1992-06-07,21,Denmark,ADO Den Haag,Eredivisie,2013/2014,2013
+Roland Alberg,Attacking Midfield,1990-08-06,22,Netherlands,ADO Den Haag,Eredivisie,2013/2014,2013
+Papito Merencia,Attacking Midfield,1994-03-04,19,Curacao,ADO Den Haag,Eredivisie,2013/2014,2013
+Mitchell de Vlugt,Attacking Midfield,1994-02-11,19,Netherlands,ADO Den Haag,Eredivisie,2013/2014,2013
+Jerson Cabral,Left Winger,1991-01-03,22,Cape Verde,ADO Den Haag,Eredivisie,2013/2014,2013
+Yanic Wildschut,Left Winger,1991-11-01,21,Netherlands,ADO Den Haag,Eredivisie,2013/2014,2013
+Ninos Gouriye,Left Winger,1991-01-14,22,Netherlands,ADO Den Haag,Eredivisie,2013/2014,2013
+Malcolm Esajas,Left Winger,1986-07-13,26,Netherlands,ADO Den Haag,Eredivisie,2013/2014,2013
+Gervane Kastaneer,Left Winger,1996-06-09,17,Curacao,ADO Den Haag,Eredivisie,2013/2014,2013
+Mitchell Schet,Right Winger,1988-01-20,25,Netherlands,ADO Den Haag,Eredivisie,2013/2014,2013
+Giovanni Korte,Right Winger,1993-08-01,19,Netherlands,ADO Den Haag,Eredivisie,2013/2014,2013
+Mike van Duinen,Centre-Forward,1991-11-06,21,Netherlands,ADO Den Haag,Eredivisie,2013/2014,2013
+Rydell Poepon,Centre-Forward,1987-08-28,25,Netherlands,ADO Den Haag,Eredivisie,2013/2014,2013
+Michiel Kramer,Centre-Forward,1988-12-03,24,Netherlands,ADO Den Haag,Eredivisie,2013/2014,2013
+Catalin Tira,Centre-Forward,1994-06-18,19,Romania,ADO Den Haag,Eredivisie,2013/2014,2013
+Karl-Johan Johnsson,Goalkeeper,1990-01-28,23,Sweden,NEC Nijmegen,Eredivisie,2013/2014,2013
+Dennis Gentenaar,Goalkeeper,1975-09-30,37,Netherlands,NEC Nijmegen,Eredivisie,2013/2014,2013
+Joshua Smits,Goalkeeper,1992-11-06,20,Netherlands,NEC Nijmegen,Eredivisie,2013/2014,2013
+Rens van Eijden,Centre-Back,1988-03-03,25,Netherlands,NEC Nijmegen,Eredivisie,2013/2014,2013
+Lasse Nielsen,Centre-Back,1988-01-08,25,Denmark,NEC Nijmegen,Eredivisie,2013/2014,2013
+Pavel Cmovs,Centre-Back,1990-06-29,23,Czech Republic,NEC Nijmegen,Eredivisie,2013/2014,2013
+Michel Breuer,Centre-Back,1980-05-25,33,Netherlands,NEC Nijmegen,Eredivisie,2013/2014,2013
+Tobias Haitz,Centre-Back,1992-02-12,21,Germany,NEC Nijmegen,Eredivisie,2013/2014,2013
+Daan Disveld,Centre-Back,1994-01-20,19,Netherlands,NEC Nijmegen,Eredivisie,2013/2014,2013
+Danzell Gravenberch,Centre-Back,1994-02-13,19,Netherlands,NEC Nijmegen,Eredivisie,2013/2014,2013
+Kevin Conboy,Left-Back,1987-10-15,25,Denmark,NEC Nijmegen,Eredivisie,2013/2014,2013
+Jeffrey Leiwakabessy,Left-Back,1981-02-23,32,Netherlands,NEC Nijmegen,Eredivisie,2013/2014,2013
+Jordy Tutuarima,Left-Back,1993-04-28,20,Netherlands,NEC Nijmegen,Eredivisie,2013/2014,2013
+Daan Bovenberg,Right-Back,1988-10-25,24,Netherlands,NEC Nijmegen,Eredivisie,2013/2014,2013
+Adam Örn Arnarson,Right-Back,1995-08-27,17,Iceland,NEC Nijmegen,Eredivisie,2013/2014,2013
+Marnick Vermijl,Right-Back,1992-01-13,21,Belgium,NEC Nijmegen,Eredivisie,2013/2014,2013
+Victor Pálsson,Defensive Midfield,1991-04-30,22,Iceland,NEC Nijmegen,Eredivisie,2013/2014,2013
+Ryan Koolwijk,Central Midfield,1985-08-08,27,Netherlands,NEC Nijmegen,Eredivisie,2013/2014,2013
+Hans Mulder,Central Midfield,1987-04-27,26,Netherlands,NEC Nijmegen,Eredivisie,2013/2014,2013
+Youri Loen,Central Midfield,1991-01-27,22,Netherlands,NEC Nijmegen,Eredivisie,2013/2014,2013
+Stijn de Looijer,Central Midfield,1992-03-31,21,Netherlands,NEC Nijmegen,Eredivisie,2013/2014,2013
+Bahnou Seydina Diarra,Central Midfield,1994-04-01,19,Belgium,NEC Nijmegen,Eredivisie,2013/2014,2013
+Cihat Celik,Central Midfield,1996-01-02,17,Netherlands,NEC Nijmegen,Eredivisie,2013/2014,2013
+Vincent van Beek,Central Midfield,1994-09-29,18,Netherlands,NEC Nijmegen,Eredivisie,2013/2014,2013
+Jakob Jantscher,Left Midfield,1989-01-08,24,Austria,NEC Nijmegen,Eredivisie,2013/2014,2013
+Sören Rieks,Left Midfield,1987-04-07,26,Denmark,NEC Nijmegen,Eredivisie,2013/2014,2013
+Navarone Foor,Attacking Midfield,1992-02-04,21,Netherlands,NEC Nijmegen,Eredivisie,2013/2014,2013
+Geert Arend Roorda,Attacking Midfield,1988-03-02,25,Netherlands,NEC Nijmegen,Eredivisie,2013/2014,2013
+Samuel Stefanik,Attacking Midfield,1991-11-16,21,Slovakia,NEC Nijmegen,Eredivisie,2013/2014,2013
+Alireza Jahanbakhsh,Right Winger,1993-08-11,19,Iran,NEC Nijmegen,Eredivisie,2013/2014,2013
+Christoph Hemlein,Right Winger,1990-12-16,22,Germany,NEC Nijmegen,Eredivisie,2013/2014,2013
+Dadi Bergsson,Second Striker,1995-03-11,18,Iceland,NEC Nijmegen,Eredivisie,2013/2014,2013
+Geoffrey Castillion,Centre-Forward,1991-05-25,22,Netherlands,NEC Nijmegen,Eredivisie,2013/2014,2013
+Michael Higdon,Centre-Forward,1983-09-02,29,England,NEC Nijmegen,Eredivisie,2013/2014,2013
+Marcel Stutter,Centre-Forward,1988-03-06,25,Germany,NEC Nijmegen,Eredivisie,2013/2014,2013
+Remko Pasveer,Goalkeeper,1983-11-08,29,Netherlands,Heracles Almelo,Eredivisie,2013/2014,2013
+Dennis Telgenkamp,Goalkeeper,1987-05-09,26,Netherlands,Heracles Almelo,Eredivisie,2013/2014,2013
+Renze Fij,Goalkeeper,1992-09-26,20,Netherlands,Heracles Almelo,Eredivisie,2013/2014,2013
+Michael Brouwer,Goalkeeper,1993-01-21,20,Netherlands,Heracles Almelo,Eredivisie,2013/2014,2013
+Milano Koenders,Centre-Back,1986-07-31,26,Netherlands,Heracles Almelo,Eredivisie,2013/2014,2013
+Mike te Wierik,Centre-Back,1992-06-08,21,Netherlands,Heracles Almelo,Eredivisie,2013/2014,2013
+Bart Schenkeveld,Centre-Back,1991-08-28,21,Netherlands,Heracles Almelo,Eredivisie,2013/2014,2013
+Jeroen Veldmate,Centre-Back,1988-11-08,24,Netherlands,Heracles Almelo,Eredivisie,2013/2014,2013
+Jens Jurn Streutker,Centre-Back,1993-02-23,20,Netherlands,Heracles Almelo,Eredivisie,2013/2014,2013
+Christian Dorda,Left-Back,1988-12-06,24,Germany,Heracles Almelo,Eredivisie,2013/2014,2013
+Jason Davidson,Left-Back,1991-06-29,22,Australia,Heracles Almelo,Eredivisie,2013/2014,2013
+Leon van Dijk,Right-Back,1992-03-09,21,Netherlands,Heracles Almelo,Eredivisie,2013/2014,2013
+Kwame Quansah,Defensive Midfield,1982-11-24,30,Ghana,Heracles Almelo,Eredivisie,2013/2014,2013
+Dario Vujicevic,Defensive Midfield,1990-04-01,23,Croatia,Heracles Almelo,Eredivisie,2013/2014,2013
+Lerin Duarte,Central Midfield,1990-08-11,22,Netherlands,Heracles Almelo,Eredivisie,2013/2014,2013
+Ben Rienstra,Central Midfield,1990-06-05,23,Netherlands,Heracles Almelo,Eredivisie,2013/2014,2013
+Simon Cziommer,Central Midfield,1980-11-06,32,Germany,Heracles Almelo,Eredivisie,2013/2014,2013
+Joey Belterman,Central Midfield,1993-08-18,19,Netherlands,Heracles Almelo,Eredivisie,2013/2014,2013
+Daan Rienstra,Central Midfield,1992-10-06,20,Netherlands,Heracles Almelo,Eredivisie,2013/2014,2013
+Dragan Paljic,Left Midfield,NA,30,Germany,Heracles Almelo,Eredivisie,2013/2014,2013
+Thomas Bruns,Attacking Midfield,1992-01-07,21,Netherlands,Heracles Almelo,Eredivisie,2013/2014,2013
+Iliass Bel Hassani,Attacking Midfield,1992-09-16,20,Netherlands,Heracles Almelo,Eredivisie,2013/2014,2013
+Bryan Linssen,Left Winger,1990-10-08,22,Netherlands,Heracles Almelo,Eredivisie,2013/2014,2013
+Edwin Gyasi,Right Winger,1991-07-01,22,Ghana,Heracles Almelo,Eredivisie,2013/2014,2013
+Mikhail Rosheuvel,Right Winger,1990-08-10,22,Netherlands,Heracles Almelo,Eredivisie,2013/2014,2013
+Jaroslav Navrátil,Right Winger,1991-12-30,21,Czech Republic,Heracles Almelo,Eredivisie,2013/2014,2013
+Oussama Tannane,Right Winger,1994-03-23,19,Morocco,Heracles Almelo,Eredivisie,2013/2014,2013
+Berry Powel,Centre-Forward,1980-05-02,33,Netherlands,Heracles Almelo,Eredivisie,2013/2014,2013
+Matthew Amoah,Centre-Forward,1980-10-24,32,Ghana,Heracles Almelo,Eredivisie,2013/2014,2013
+Aleksei Kangaskolkka,Centre-Forward,1988-10-29,24,Finland,Heracles Almelo,Eredivisie,2013/2014,2013
+Mark Uth,Centre-Forward,1991-08-24,21,Germany,Heracles Almelo,Eredivisie,2013/2014,2013
+Filip Kurto,Goalkeeper,1991-06-14,22,Poland,Roda JC Kerkrade,Eredivisie,2013/2014,2013
+Mateusz Prus,Goalkeeper,1990-03-09,23,Poland,Roda JC Kerkrade,Eredivisie,2013/2014,2013
+Bryan Roox,Goalkeeper,1992-11-05,20,Netherlands,Roda JC Kerkrade,Eredivisie,2013/2014,2013
+Dylan Zwartjes,Defender,1993-06-06,20,Netherlands,Roda JC Kerkrade,Eredivisie,2013/2014,2013
+Kees Luijckx,Centre-Back,1986-02-11,27,Netherlands,Roda JC Kerkrade,Eredivisie,2013/2014,2013
+Bart Biemans,Centre-Back,1988-03-14,25,Belgium,Roda JC Kerkrade,Eredivisie,2013/2014,2013
+Guy Ramos,Centre-Back,1985-08-16,27,Cape Verde,Roda JC Kerkrade,Eredivisie,2013/2014,2013
+Timo Letschert,Centre-Back,1993-05-25,20,Netherlands,Roda JC Kerkrade,Eredivisie,2013/2014,2013
+Daryl Werker,Centre-Back,1994-06-27,19,Netherlands,Roda JC Kerkrade,Eredivisie,2013/2014,2013
+Mark-Jan Fledderus,Left-Back,1982-12-14,30,Netherlands,Roda JC Kerkrade,Eredivisie,2013/2014,2013
+Ard van Peppen,Left-Back,1985-06-26,28,Netherlands,Roda JC Kerkrade,Eredivisie,2013/2014,2013
+Martijn Monteyne,Right-Back,1984-11-12,28,Belgium,Roda JC Kerkrade,Eredivisie,2013/2014,2013
+Henk Dijkhuizen,Right-Back,1992-06-09,21,Netherlands,Roda JC Kerkrade,Eredivisie,2013/2014,2013
+Jesse Wijnen,Right-Back,1994-12-15,18,Netherlands,Roda JC Kerkrade,Eredivisie,2013/2014,2013
+Anouar Kali,Defensive Midfield,1991-06-03,22,Morocco,Roda JC Kerkrade,Eredivisie,2013/2014,2013
+Mitchell Donald,Central Midfield,1988-12-10,24,Netherlands,Roda JC Kerkrade,Eredivisie,2013/2014,2013
+Arnaud Djoum,Central Midfield,1989-05-02,24,Cameroon,Roda JC Kerkrade,Eredivisie,2013/2014,2013
+Wiljan Pluim,Central Midfield,1989-01-04,24,Netherlands,Roda JC Kerkrade,Eredivisie,2013/2014,2013
+Roly Bonevacia,Central Midfield,1991-10-08,21,Curacao,Roda JC Kerkrade,Eredivisie,2013/2014,2013
+Adnan Secerovic,Central Midfield,1991-12-01,21,Bosnia-Herzegovina,Roda JC Kerkrade,Eredivisie,2013/2014,2013
+Davy De Beule,Right Midfield,1981-11-07,31,Belgium,Roda JC Kerkrade,Eredivisie,2013/2014,2013
+Mitchel Paulissen,Attacking Midfield,1993-04-21,20,Netherlands,Roda JC Kerkrade,Eredivisie,2013/2014,2013
+Kai-David Bösing,Attacking Midfield,1994-03-07,19,Germany,Roda JC Kerkrade,Eredivisie,2013/2014,2013
+Anco Jansen,Left Winger,1989-03-09,24,Netherlands,Roda JC Kerkrade,Eredivisie,2013/2014,2013
+Brian Jacobs,Left Winger,1995-03-30,18,Netherlands,Roda JC Kerkrade,Eredivisie,2013/2014,2013
+Guus Hupperts,Right Winger,1992-04-25,21,Netherlands,Roda JC Kerkrade,Eredivisie,2013/2014,2013
+Marc Höcher,Right Winger,1984-09-09,28,Netherlands,Roda JC Kerkrade,Eredivisie,2013/2014,2013
+Krisztián Németh,Centre-Forward,1989-01-05,24,Hungary,Roda JC Kerkrade,Eredivisie,2013/2014,2013
+Berry Powel,Centre-Forward,1980-05-02,33,Netherlands,Roda JC Kerkrade,Eredivisie,2013/2014,2013
+Frank Demouge,Centre-Forward,1982-06-25,31,Netherlands,Roda JC Kerkrade,Eredivisie,2013/2014,2013
+Vasil Shkurtaj,Centre-Forward,1992-02-27,21,Albania,Roda JC Kerkrade,Eredivisie,2013/2014,2013
+Rigino Cicilia,Centre-Forward,1994-09-23,18,Curacao,Roda JC Kerkrade,Eredivisie,2013/2014,2013
+Diederik Boer,Goalkeeper,1980-09-24,32,Netherlands,PEC Zwolle,Eredivisie,2013/2014,2013
+Kevin Begois,Goalkeeper,1982-05-13,31,Belgium,PEC Zwolle,Eredivisie,2013/2014,2013
+Leon ter Wielen,Goalkeeper,1988-08-31,24,Netherlands,PEC Zwolle,Eredivisie,2013/2014,2013
+Nick Borgman,Goalkeeper,1996-12-07,16,Netherlands,PEC Zwolle,Eredivisie,2013/2014,2013
+Mike Hauptmeijer,Goalkeeper,1997-03-18,16,Netherlands,PEC Zwolle,Eredivisie,2013/2014,2013
+Eser Elmali,Goalkeeper,1995-06-06,18,Turkey,PEC Zwolle,Eredivisie,2013/2014,2013
+Darryl Lachman,Centre-Back,1989-11-11,23,Curacao,PEC Zwolle,Eredivisie,2013/2014,2013
+Trent Sainsbury,Centre-Back,1992-01-05,21,Australia,PEC Zwolle,Eredivisie,2013/2014,2013
+Joost Broerse,Centre-Back,1979-05-08,34,Netherlands,PEC Zwolle,Eredivisie,2013/2014,2013
+Maikel van der Werff,Centre-Back,1989-04-22,24,Netherlands,PEC Zwolle,Eredivisie,2013/2014,2013
+Steven Pereira,Centre-Back,1994-04-13,19,Cape Verde,PEC Zwolle,Eredivisie,2013/2014,2013
+Rochdi Achenteh,Left-Back,1988-03-07,25,Morocco,PEC Zwolle,Eredivisie,2013/2014,2013
+Bart van Hintum,Left-Back,1987-01-16,26,Netherlands,PEC Zwolle,Eredivisie,2013/2014,2013
+Leroy Labylle,Left-Back,1991-03-11,22,Belgium,PEC Zwolle,Eredivisie,2013/2014,2013
+Dean Patricio,Left-Back,1994-05-24,19,South Africa,PEC Zwolle,Eredivisie,2013/2014,2013
+Bram van Polen,Right-Back,1985-10-11,27,Netherlands,PEC Zwolle,Eredivisie,2013/2014,2013
+Haico Epe,Right-Back,1995-06-27,18,Netherlands,PEC Zwolle,Eredivisie,2013/2014,2013
+Kamohelo Mokotjo,Defensive Midfield,1991-03-11,22,South Africa,PEC Zwolle,Eredivisie,2013/2014,2013
+Youssef Fennich,Defensive Midfield,1993-02-12,20,Morocco,PEC Zwolle,Eredivisie,2013/2014,2013
+Mateusz Klich,Central Midfield,1990-06-13,23,Poland,PEC Zwolle,Eredivisie,2013/2014,2013
+Giovanni Gravenbeek,Central Midfield,1988-05-11,25,Netherlands,PEC Zwolle,Eredivisie,2013/2014,2013
+Ryan Thomas,Central Midfield,1994-12-20,18,New Zealand,PEC Zwolle,Eredivisie,2013/2014,2013
+Stef Nijland,Attacking Midfield,1988-08-10,24,Netherlands,PEC Zwolle,Eredivisie,2013/2014,2013
+Jesper Drost,Attacking Midfield,1993-01-11,20,Netherlands,PEC Zwolle,Eredivisie,2013/2014,2013
+Mustafa Saymak,Attacking Midfield,1993-02-11,20,Netherlands,PEC Zwolle,Eredivisie,2013/2014,2013
+Theo Vogelsang,Attacking Midfield,1990-02-23,23,Germany,PEC Zwolle,Eredivisie,2013/2014,2013
+Adil Tihouna,Attacking Midfield,1992-12-29,20,Netherlands,PEC Zwolle,Eredivisie,2013/2014,2013
+Boris Rasevic,Attacking Midfield,1995-01-26,18,Bosnia-Herzegovina,PEC Zwolle,Eredivisie,2013/2014,2013
+Youness Mokhtar,Left Winger,1991-08-29,21,Morocco,PEC Zwolle,Eredivisie,2013/2014,2013
+Denis Mahmudov,Left Winger,1989-11-06,23,North Macedonia,PEC Zwolle,Eredivisie,2013/2014,2013
+Athanasios Karagounis,Right Winger,1991-09-25,21,Greece,PEC Zwolle,Eredivisie,2013/2014,2013
+Ronnie Reniers,Right Winger,1987-11-08,25,Netherlands,PEC Zwolle,Eredivisie,2013/2014,2013
+Furdjel Narsingh,Right Winger,1988-03-13,25,Netherlands,PEC Zwolle,Eredivisie,2013/2014,2013
+Giovanni Hiwat,Right Winger,1993-11-11,19,Netherlands,PEC Zwolle,Eredivisie,2013/2014,2013
+Guyon Fernandez,Centre-Forward,1986-04-18,27,Curacao,PEC Zwolle,Eredivisie,2013/2014,2013
+Fred Benson,Centre-Forward,1984-04-10,29,Netherlands,PEC Zwolle,Eredivisie,2013/2014,2013
+Mimoun Eloisghiri,Centre-Forward,1989-09-15,23,Netherlands,PEC Zwolle,Eredivisie,2013/2014,2013
+Jelle ten Rouwelaar,Goalkeeper,1980-12-24,32,Netherlands,NAC Breda,Eredivisie,2013/2014,2013
+Gábor Babos,Goalkeeper,1974-10-24,38,Hungary,NAC Breda,Eredivisie,2013/2014,2013
+Jordy Buijs,Centre-Back,1988-12-28,24,Netherlands,NAC Breda,Eredivisie,2013/2014,2013
+Henrico Drost,Centre-Back,1987-01-21,26,Netherlands,NAC Breda,Eredivisie,2013/2014,2013
+Rick Stuy van den Herik,Centre-Back,1993-06-19,20,Netherlands,NAC Breda,Eredivisie,2013/2014,2013
+Yousouf Zinga,Centre-Back,1991-05-07,22,Netherlands,NAC Breda,Eredivisie,2013/2014,2013
+Dalian Maatsen,Centre-Back,1994-01-02,19,Netherlands,NAC Breda,Eredivisie,2013/2014,2013
+Kenny van der Weg,Left-Back,1991-02-19,22,Netherlands,NAC Breda,Eredivisie,2013/2014,2013
+Boldizsár Bodor,Left-Back,1982-04-27,31,Hungary,NAC Breda,Eredivisie,2013/2014,2013
+Sepp De Roover,Right-Back,1984-11-12,28,Belgium,NAC Breda,Eredivisie,2013/2014,2013
+Gill Swerts,Right-Back,1982-09-23,30,Belgium,NAC Breda,Eredivisie,2013/2014,2013
+Kees Kwakman,Defensive Midfield,1983-06-10,30,Netherlands,NAC Breda,Eredivisie,2013/2014,2013
+Tim Gilissen,Defensive Midfield,1982-06-04,31,Netherlands,NAC Breda,Eredivisie,2013/2014,2013
+Peter Gommeren,Defensive Midfield,1992-03-09,21,Netherlands,NAC Breda,Eredivisie,2013/2014,2013
+Joey Suk,Central Midfield,1989-07-08,23,Netherlands,NAC Breda,Eredivisie,2013/2014,2013
+Danny Verbeek,Central Midfield,1990-08-15,22,Netherlands,NAC Breda,Eredivisie,2013/2014,2013
+Uros Matic,Central Midfield,1990-05-23,23,Serbia,NAC Breda,Eredivisie,2013/2014,2013
+Mats Seuntjens,Central Midfield,1992-04-17,21,Netherlands,NAC Breda,Eredivisie,2013/2014,2013
+Mounir El Allouchi,Central Midfield,1994-09-27,18,Netherlands,NAC Breda,Eredivisie,2013/2014,2013
+Anthony Lurling,Attacking Midfield,1977-04-22,36,Netherlands,NAC Breda,Eredivisie,2013/2014,2013
+Anouar Hadouir,Attacking Midfield,1982-09-14,30,Netherlands,NAC Breda,Eredivisie,2013/2014,2013
+Jeffrey Sarpong,Left Winger,1988-08-03,24,Netherlands,NAC Breda,Eredivisie,2013/2014,2013
+Adnane Tighadouini,Left Winger,1992-10-30,20,Morocco,NAC Breda,Eredivisie,2013/2014,2013
+Elson Hooi,Right Winger,1991-10-01,21,Curacao,NAC Breda,Eredivisie,2013/2014,2013
+Rydell Poepon,Centre-Forward,1987-08-28,25,Netherlands,NAC Breda,Eredivisie,2013/2014,2013
+Alex Schalk,Centre-Forward,1992-08-07,20,Netherlands,NAC Breda,Eredivisie,2013/2014,2013
+Stipe Perica,Centre-Forward,1995-07-07,17,Croatia,NAC Breda,Eredivisie,2013/2014,2013
+Jan Seda,Goalkeeper,1985-12-17,27,Czech Republic,RKC Waalwijk,Eredivisie,2013/2014,2013
+Arjan van Dijk,Goalkeeper,1987-01-17,26,Netherlands,RKC Waalwijk,Eredivisie,2013/2014,2013
+Maik van den Kieboom,Goalkeeper,1991-07-29,21,Netherlands,RKC Waalwijk,Eredivisie,2013/2014,2013
+Jurjan Wouda,Goalkeeper,1991-04-02,22,Netherlands,RKC Waalwijk,Eredivisie,2013/2014,2013
+Nils den Hartog,Goalkeeper,1994-03-25,19,Netherlands,RKC Waalwijk,Eredivisie,2013/2014,2013
+Jonas Ivens,Centre-Back,1984-10-14,28,Belgium,RKC Waalwijk,Eredivisie,2013/2014,2013
+Kenny Van Hoevelen,Centre-Back,1983-06-24,30,Belgium,RKC Waalwijk,Eredivisie,2013/2014,2013
+Frank van Mosselveld,Centre-Back,1984-01-02,29,Netherlands,RKC Waalwijk,Eredivisie,2013/2014,2013
+Prince Gouano,Centre-Back,1993-12-24,19,France,RKC Waalwijk,Eredivisie,2013/2014,2013
+Thomas Huijben,Centre-Back,1993-01-14,20,Netherlands,RKC Waalwijk,Eredivisie,2013/2014,2013
+Ingo van Weert,Centre-Back,1994-02-08,19,Netherlands,RKC Waalwijk,Eredivisie,2013/2014,2013
+Rémy Amieux,Left-Back,1986-09-05,26,France,RKC Waalwijk,Eredivisie,2013/2014,2013
+Michael Lamey,Right-Back,1979-11-29,33,Netherlands,RKC Waalwijk,Eredivisie,2013/2014,2013
+Mitch Apau,Right-Back,1990-04-27,23,Netherlands,RKC Waalwijk,Eredivisie,2013/2014,2013
+Evander Sno,Defensive Midfield,1987-04-09,26,Netherlands,RKC Waalwijk,Eredivisie,2013/2014,2013
+Sander Duits,Defensive Midfield,1983-08-29,29,Netherlands,RKC Waalwijk,Eredivisie,2013/2014,2013
+Mickaël Tavares,Defensive Midfield,1982-10-25,30,Senegal,RKC Waalwijk,Eredivisie,2013/2014,2013
+Rodney Sneijder,Central Midfield,1991-03-03,22,Netherlands,RKC Waalwijk,Eredivisie,2013/2014,2013
+Imad Najah,Central Midfield,1991-02-19,22,Morocco,RKC Waalwijk,Eredivisie,2013/2014,2013
+Peter Jungschläger,Central Midfield,1984-05-22,29,Netherlands,RKC Waalwijk,Eredivisie,2013/2014,2013
+Jesse Wielinga,Central Midfield,1994-10-15,18,Netherlands,RKC Waalwijk,Eredivisie,2013/2014,2013
+Robert Braber,Attacking Midfield,1982-11-09,30,Netherlands,RKC Waalwijk,Eredivisie,2013/2014,2013
+Kenny Anderson,Attacking Midfield,1992-02-14,21,Scotland,RKC Waalwijk,Eredivisie,2013/2014,2013
+Desley Ubbink,Attacking Midfield,1993-06-15,20,Netherlands,RKC Waalwijk,Eredivisie,2013/2014,2013
+Daniël de Ridder,Left Winger,1984-03-06,29,Netherlands,RKC Waalwijk,Eredivisie,2013/2014,2013
+Furhgill Zeldenrust,Left Winger,1989-07-21,23,Netherlands,RKC Waalwijk,Eredivisie,2013/2014,2013
+Damiano Schet,Left Winger,1990-04-08,23,Netherlands,RKC Waalwijk,Eredivisie,2013/2014,2013
+Dennis Rommedahl,Right Winger,1978-07-22,34,Denmark,RKC Waalwijk,Eredivisie,2013/2014,2013
+Romeo Castelen,Right Winger,1983-05-03,30,Netherlands,RKC Waalwijk,Eredivisie,2013/2014,2013
+Denzel Slager,Right Winger,1993-05-02,20,Curacao,RKC Waalwijk,Eredivisie,2013/2014,2013
+Aurélien Joachim,Centre-Forward,1986-08-10,26,Luxembourg,RKC Waalwijk,Eredivisie,2013/2014,2013
+Mart Lieder,Centre-Forward,1990-05-01,23,Netherlands,RKC Waalwijk,Eredivisie,2013/2014,2013
+Mark Janssen,Centre-Forward,1992-05-10,21,Netherlands,RKC Waalwijk,Eredivisie,2013/2014,2013
+Jos Peltzer,Centre-Forward,1992-04-08,21,Netherlands,RKC Waalwijk,Eredivisie,2013/2014,2013
+Anthony Biekman,Centre-Forward,1994-05-16,19,Netherlands,RKC Waalwijk,Eredivisie,2013/2014,2013
+Jean-David Beauguel,Centre-Forward,1992-03-21,21,France,RKC Waalwijk,Eredivisie,2013/2014,2013
+Stephan Andersen,Goalkeeper,1981-11-26,31,Denmark,Go Ahead Eagles Deventer,Eredivisie,2013/2014,2013
+Eloy Room,Goalkeeper,1989-02-06,24,Curacao,Go Ahead Eagles Deventer,Eredivisie,2013/2014,2013
+Erik Cummins,Goalkeeper,1988-08-10,24,Netherlands,Go Ahead Eagles Deventer,Eredivisie,2013/2014,2013
+Patrick ter Mate,Goalkeeper,1992-02-17,21,Netherlands,Go Ahead Eagles Deventer,Eredivisie,2013/2014,2013
+Ruben Lucas,Goalkeeper,1994-09-14,18,Netherlands,Go Ahead Eagles Deventer,Eredivisie,2013/2014,2013
+Jop van der Linden,Centre-Back,1990-07-17,22,Netherlands,Go Ahead Eagles Deventer,Eredivisie,2013/2014,2013
+Mawouna Amevor,Centre-Back,1991-12-16,21,Togo,Go Ahead Eagles Deventer,Eredivisie,2013/2014,2013
+Bart Vriends,Centre-Back,1991-05-09,22,Netherlands,Go Ahead Eagles Deventer,Eredivisie,2013/2014,2013
+Xandro Schenk,Centre-Back,1993-04-28,20,Netherlands,Go Ahead Eagles Deventer,Eredivisie,2013/2014,2013
+Michel Gerritsen Mulkes,Centre-Back,1991-07-23,21,Netherlands,Go Ahead Eagles Deventer,Eredivisie,2013/2014,2013
+Joost Krijns,Centre-Back,1993-05-08,20,Netherlands,Go Ahead Eagles Deventer,Eredivisie,2013/2014,2013
+Ridgeciano Haps,Left-Back,1993-06-12,20,Netherlands,Go Ahead Eagles Deventer,Eredivisie,2013/2014,2013
+Doke Schmidt,Right-Back,1992-04-07,21,Netherlands,Go Ahead Eagles Deventer,Eredivisie,2013/2014,2013
+Lars Lambooij,Right-Back,1988-04-16,25,Netherlands,Go Ahead Eagles Deventer,Eredivisie,2013/2014,2013
+Joran Pot,Defensive Midfield,1989-01-20,24,Netherlands,Go Ahead Eagles Deventer,Eredivisie,2013/2014,2013
+Tom Oostinjen,Defensive Midfield,1991-09-16,21,Netherlands,Go Ahead Eagles Deventer,Eredivisie,2013/2014,2013
+Sjoerd Overgoor,Central Midfield,1988-09-06,24,Netherlands,Go Ahead Eagles Deventer,Eredivisie,2013/2014,2013
+Jeffrey Rijsdijk,Central Midfield,1987-09-12,25,Netherlands,Go Ahead Eagles Deventer,Eredivisie,2013/2014,2013
+Deniz Türüc,Right Midfield,1993-01-29,20,Turkey,Go Ahead Eagles Deventer,Eredivisie,2013/2014,2013
+Erik Falkenburg,Attacking Midfield,1988-05-05,25,Netherlands,Go Ahead Eagles Deventer,Eredivisie,2013/2014,2013
+Thomas Azevedo,Attacking Midfield,1991-08-31,21,Belgium,Go Ahead Eagles Deventer,Eredivisie,2013/2014,2013
+Kevin Spanjaard,Attacking Midfield,1992-07-23,20,Netherlands,Go Ahead Eagles Deventer,Eredivisie,2013/2014,2013
+Xander Houtkoop,Left Winger,1989-03-26,24,Netherlands,Go Ahead Eagles Deventer,Eredivisie,2013/2014,2013
+Joeri Schroijen,Left Winger,1991-01-18,22,Netherlands,Go Ahead Eagles Deventer,Eredivisie,2013/2014,2013
+Omar Kavak,Left Winger,1988-10-24,24,Netherlands,Go Ahead Eagles Deventer,Eredivisie,2013/2014,2013
+Jarchinio Antonia,Right Winger,1990-12-27,22,Curacao,Go Ahead Eagles Deventer,Eredivisie,2013/2014,2013
+Joey Godee,Centre-Forward,1989-03-02,24,Netherlands,Go Ahead Eagles Deventer,Eredivisie,2013/2014,2013
+Marnix Kolder,Centre-Forward,1981-01-31,32,Netherlands,Go Ahead Eagles Deventer,Eredivisie,2013/2014,2013
+Guyon Philips,Centre-Forward,1993-10-15,19,Netherlands,Go Ahead Eagles Deventer,Eredivisie,2013/2014,2013
+Teije ten Den,Centre-Forward,1993-04-29,20,Netherlands,Go Ahead Eagles Deventer,Eredivisie,2013/2014,2013
+Maurice de Ruiter,Centre-Forward,1991-08-14,21,Netherlands,Go Ahead Eagles Deventer,Eredivisie,2013/2014,2013
+Leonard Nienhuis,Goalkeeper,1990-03-16,23,Netherlands,SC Cambuur-Leeuwarden,Eredivisie,2013/2014,2013
+Tim Coremans,Goalkeeper,1991-04-10,22,Netherlands,SC Cambuur-Leeuwarden,Eredivisie,2013/2014,2013
+Harm Zeinstra,Goalkeeper,1989-07-21,23,Netherlands,SC Cambuur-Leeuwarden,Eredivisie,2013/2014,2013
+Ramon Leeuwin,Centre-Back,1987-09-01,25,Netherlands,SC Cambuur-Leeuwarden,Eredivisie,2013/2014,2013
+Robert van Boxel,Centre-Back,1983-01-20,30,Netherlands,SC Cambuur-Leeuwarden,Eredivisie,2013/2014,2013
+Leon Broekhof,Centre-Back,1988-05-14,25,Netherlands,SC Cambuur-Leeuwarden,Eredivisie,2013/2014,2013
+Martijn van der Laan,Centre-Back,1988-07-29,24,Netherlands,SC Cambuur-Leeuwarden,Eredivisie,2013/2014,2013
+Lucas Bijker,Left-Back,1993-03-04,20,Netherlands,SC Cambuur-Leeuwarden,Eredivisie,2013/2014,2013
+Wout Droste,Right-Back,1989-05-20,24,Netherlands,SC Cambuur-Leeuwarden,Eredivisie,2013/2014,2013
+Marlon Pereira,Right-Back,1987-03-26,26,Aruba,SC Cambuur-Leeuwarden,Eredivisie,2013/2014,2013
+Bart van Brakel,Defensive Midfield,1987-04-05,26,Netherlands,SC Cambuur-Leeuwarden,Eredivisie,2013/2014,2013
+Mohamed El Makrini,Defensive Midfield,1987-07-06,25,Netherlands,SC Cambuur-Leeuwarden,Eredivisie,2013/2014,2013
+Mart Dijkstra,Defensive Midfield,1990-08-10,22,Netherlands,SC Cambuur-Leeuwarden,Eredivisie,2013/2014,2013
+Johnny de Vries,Defensive Midfield,1990-02-20,23,Netherlands,SC Cambuur-Leeuwarden,Eredivisie,2013/2014,2013
+Marcel Ritzmaier,Central Midfield,1993-04-22,20,Austria,SC Cambuur-Leeuwarden,Eredivisie,2013/2014,2013
+Erik Bakker,Central Midfield,1990-03-21,23,Netherlands,SC Cambuur-Leeuwarden,Eredivisie,2013/2014,2013
+Oliver Feldballe,Left Midfield,1990-04-03,23,Denmark,SC Cambuur-Leeuwarden,Eredivisie,2013/2014,2013
+Paco van Moorsel,Attacking Midfield,1989-12-15,23,Netherlands,SC Cambuur-Leeuwarden,Eredivisie,2013/2014,2013
+Kevin Brands,Attacking Midfield,1988-03-28,25,Netherlands,SC Cambuur-Leeuwarden,Eredivisie,2013/2014,2013
+Paul Mulders,Attacking Midfield,1981-01-16,32,Philippines,SC Cambuur-Leeuwarden,Eredivisie,2013/2014,2013
+Bob Schepers,Left Winger,1992-03-30,21,Netherlands,SC Cambuur-Leeuwarden,Eredivisie,2013/2014,2013
+Elvis Manu,Left Winger,1993-08-13,19,Netherlands,SC Cambuur-Leeuwarden,Eredivisie,2013/2014,2013
+Jody Lukoki,Right Winger,1992-11-15,20,DR Congo,SC Cambuur-Leeuwarden,Eredivisie,2013/2014,2013
+Oebele Schokker,Right Winger,1984-11-11,28,Netherlands,SC Cambuur-Leeuwarden,Eredivisie,2013/2014,2013
+Michiel Hemmen,Centre-Forward,1987-06-28,26,Netherlands,SC Cambuur-Leeuwarden,Eredivisie,2013/2014,2013
+Bartholomew Ogbeche,Centre-Forward,1984-10-01,28,Nigeria,SC Cambuur-Leeuwarden,Eredivisie,2013/2014,2013
+Martijn Barto,Centre-Forward,1984-08-23,28,Netherlands,SC Cambuur-Leeuwarden,Eredivisie,2013/2014,2013
+Alexander Christovao,Centre-Forward,1993-03-14,20,Angola,SC Cambuur-Leeuwarden,Eredivisie,2013/2014,2013
+Jeremy de Graaf,Centre-Forward,1990-01-25,23,Netherlands,SC Cambuur-Leeuwarden,Eredivisie,2013/2014,2013

@@ -1,0 +1,548 @@
+player_name,position,date_of_birth,age,nationality,club_name,league_name,season,year
+Helton,Goalkeeper,1978-05-18,34,Brazil,FC Porto,Liga NOS,2012/2013,2012
+Fabiano,Goalkeeper,1988-02-29,24,Brazil,FC Porto,Liga NOS,2012/2013,2012
+Kadú,Goalkeeper,1994-11-30,17,Angola,FC Porto,Liga NOS,2012/2013,2012
+Rolando,Centre-Back,1985-08-31,26,Portugal,FC Porto,Liga NOS,2012/2013,2012
+Nicolás Otamendi,Centre-Back,1988-02-12,24,Argentina,FC Porto,Liga NOS,2012/2013,2012
+Maicon,Centre-Back,1988-09-14,23,Brazil,FC Porto,Liga NOS,2012/2013,2012
+Eliaquim Mangala,Centre-Back,1991-02-13,21,France,FC Porto,Liga NOS,2012/2013,2012
+Abdoulaye Ba,Centre-Back,1991-01-01,21,Senegal,FC Porto,Liga NOS,2012/2013,2012
+Alex Sandro,Left-Back,1991-01-26,21,Brazil,FC Porto,Liga NOS,2012/2013,2012
+Héctor Quiñónes,Left-Back,1992-03-17,20,Colombia,FC Porto,Liga NOS,2012/2013,2012
+Danilo,Right-Back,1991-07-15,20,Brazil,FC Porto,Liga NOS,2012/2013,2012
+Jorge Fucile,Right-Back,1984-11-19,27,Uruguay,FC Porto,Liga NOS,2012/2013,2012
+Miguel Lopes,Right-Back,1986-12-19,25,Portugal,FC Porto,Liga NOS,2012/2013,2012
+Fernando,Defensive Midfield,1987-07-25,24,Brazil,FC Porto,Liga NOS,2012/2013,2012
+João Moutinho,Central Midfield,1986-09-08,25,Portugal,FC Porto,Liga NOS,2012/2013,2012
+Steven Defour,Central Midfield,1988-04-15,24,Belgium,FC Porto,Liga NOS,2012/2013,2012
+Lucho González,Central Midfield,1981-01-19,31,Argentina,FC Porto,Liga NOS,2012/2013,2012
+Marat Izmailov,Central Midfield,1982-09-21,29,Russia,FC Porto,Liga NOS,2012/2013,2012
+André Castro,Central Midfield,1988-04-02,24,Portugal,FC Porto,Liga NOS,2012/2013,2012
+James Rodríguez,Attacking Midfield,1991-07-12,20,Colombia,FC Porto,Liga NOS,2012/2013,2012
+Tozé,Attacking Midfield,1993-01-14,19,Portugal,FC Porto,Liga NOS,2012/2013,2012
+Silvestre Varela,Left Winger,1985-02-02,27,Portugal,FC Porto,Liga NOS,2012/2013,2012
+Christian Atsu,Left Winger,1992-01-10,20,Ghana,FC Porto,Liga NOS,2012/2013,2012
+Sebá,Left Winger,1992-06-08,20,Brazil,FC Porto,Liga NOS,2012/2013,2012
+Hulk,Right Winger,1986-07-25,25,Brazil,FC Porto,Liga NOS,2012/2013,2012
+Djalma,Right Winger,1987-05-30,25,Angola,FC Porto,Liga NOS,2012/2013,2012
+Juan Iturbe,Right Winger,1993-06-04,19,Paraguay,FC Porto,Liga NOS,2012/2013,2012
+Kelvin,Right Winger,1993-06-01,19,Brazil,FC Porto,Liga NOS,2012/2013,2012
+Jackson Martínez,Centre-Forward,1986-10-03,25,Colombia,FC Porto,Liga NOS,2012/2013,2012
+Kléber,Centre-Forward,1990-05-02,22,Brazil,FC Porto,Liga NOS,2012/2013,2012
+Liedson,Centre-Forward,1977-12-17,34,Portugal,FC Porto,Liga NOS,2012/2013,2012
+Dellatorre,Centre-Forward,1992-05-01,20,Brazil,FC Porto,Liga NOS,2012/2013,2012
+Artur Moraes,Goalkeeper,1981-01-25,31,Brazil,SL Benfica,Liga NOS,2012/2013,2012
+Mika,Goalkeeper,1991-03-08,21,Portugal,SL Benfica,Liga NOS,2012/2013,2012
+Júlio César,Goalkeeper,1986-09-02,25,Brazil,SL Benfica,Liga NOS,2012/2013,2012
+Paulo Lopes,Goalkeeper,1978-06-29,34,Portugal,SL Benfica,Liga NOS,2012/2013,2012
+Ezequiel Garay,Centre-Back,1986-10-10,25,Argentina,SL Benfica,Liga NOS,2012/2013,2012
+Luisão,Centre-Back,1981-02-13,31,Brazil,SL Benfica,Liga NOS,2012/2013,2012
+Jardel,Centre-Back,1986-03-29,26,Brazil,SL Benfica,Liga NOS,2012/2013,2012
+Sidnei,Centre-Back,1989-08-23,22,Brazil,SL Benfica,Liga NOS,2012/2013,2012
+Miguel Vítor,Centre-Back,1989-06-30,23,Portugal,SL Benfica,Liga NOS,2012/2013,2012
+Roderick Miranda,Centre-Back,1991-03-30,21,Portugal,SL Benfica,Liga NOS,2012/2013,2012
+Fábio Cardoso,Centre-Back,1994-04-19,18,Portugal,SL Benfica,Liga NOS,2012/2013,2012
+Luís Martins,Left-Back,1992-06-10,20,Portugal,SL Benfica,Liga NOS,2012/2013,2012
+Luisinho,Left-Back,1985-05-05,27,Portugal,SL Benfica,Liga NOS,2012/2013,2012
+Maxi Pereira,Right-Back,1984-06-08,28,Uruguay,SL Benfica,Liga NOS,2012/2013,2012
+André Almeida,Right-Back,1990-09-10,21,Portugal,SL Benfica,Liga NOS,2012/2013,2012
+João Cancelo,Right-Back,1994-05-27,18,Portugal,SL Benfica,Liga NOS,2012/2013,2012
+Axel Witsel,Defensive Midfield,1989-01-12,23,Belgium,SL Benfica,Liga NOS,2012/2013,2012
+Javi García,Defensive Midfield,1987-02-08,25,Spain,SL Benfica,Liga NOS,2012/2013,2012
+Nemanja Matic,Defensive Midfield,1988-08-01,23,Serbia,SL Benfica,Liga NOS,2012/2013,2012
+Enzo Pérez,Central Midfield,1986-02-22,26,Argentina,SL Benfica,Liga NOS,2012/2013,2012
+André Gomes,Central Midfield,1993-07-30,18,Portugal,SL Benfica,Liga NOS,2012/2013,2012
+Bruno César,Left Midfield,1988-11-03,23,Brazil,SL Benfica,Liga NOS,2012/2013,2012
+Pablo Aimar,Attacking Midfield,1979-11-03,32,Argentina,SL Benfica,Liga NOS,2012/2013,2012
+Carlos Martins,Attacking Midfield,1982-04-29,30,Portugal,SL Benfica,Liga NOS,2012/2013,2012
+Miguel Rosa,Attacking Midfield,1989-01-13,23,Portugal,SL Benfica,Liga NOS,2012/2013,2012
+Felipe Menezes,Attacking Midfield,1988-01-20,24,Brazil,SL Benfica,Liga NOS,2012/2013,2012
+Nico Gaitán,Left Winger,1988-02-23,24,Argentina,SL Benfica,Liga NOS,2012/2013,2012
+Nolito,Left Winger,1986-10-15,25,Spain,SL Benfica,Liga NOS,2012/2013,2012
+Ola John,Left Winger,1992-05-19,20,Netherlands,SL Benfica,Liga NOS,2012/2013,2012
+Lorenzo Melgarejo,Left Winger,1990-08-10,21,Paraguay,SL Benfica,Liga NOS,2012/2013,2012
+Eduardo Salvio,Right Winger,1990-07-13,21,Argentina,SL Benfica,Liga NOS,2012/2013,2012
+Jonathan Urretaviscaya,Right Winger,1990-03-19,22,Uruguay,SL Benfica,Liga NOS,2012/2013,2012
+Javier Saviola,Second Striker,1981-12-11,30,Argentina,SL Benfica,Liga NOS,2012/2013,2012
+Óscar Cardozo,Centre-Forward,1983-05-20,29,Paraguay,SL Benfica,Liga NOS,2012/2013,2012
+Rodrigo,Centre-Forward,1991-03-06,21,Spain,SL Benfica,Liga NOS,2012/2013,2012
+Lima,Centre-Forward,1983-05-11,29,Brazil,SL Benfica,Liga NOS,2012/2013,2012
+Alan Kardec,Centre-Forward,1989-01-12,23,Brazil,SL Benfica,Liga NOS,2012/2013,2012
+Rui Patrício,Goalkeeper,1988-02-15,24,Portugal,Sporting CP,Liga NOS,2012/2013,2012
+Marcelo Boeck,Goalkeeper,1984-11-28,27,Brazil,Sporting CP,Liga NOS,2012/2013,2012
+Hugo Ventura,Goalkeeper,1988-01-14,24,Portugal,Sporting CP,Liga NOS,2012/2013,2012
+Victor Golas,Goalkeeper,1990-12-27,21,Brazil,Sporting CP,Liga NOS,2012/2013,2012
+Daniel Carriço,Centre-Back,1988-08-04,23,Portugal,Sporting CP,Liga NOS,2012/2013,2012
+Khalid Boulahrouz,Centre-Back,1981-12-28,30,Netherlands,Sporting CP,Liga NOS,2012/2013,2012
+Xandão,Centre-Back,1988-02-23,24,Brazil,Sporting CP,Liga NOS,2012/2013,2012
+Marcos Rojo,Centre-Back,1990-03-20,22,Argentina,Sporting CP,Liga NOS,2012/2013,2012
+Pedro Mendes,Centre-Back,1990-10-01,21,Portugal,Sporting CP,Liga NOS,2012/2013,2012
+Tiago Ilori,Centre-Back,1993-02-26,19,Portugal,Sporting CP,Liga NOS,2012/2013,2012
+Emiliano Insúa,Left-Back,1989-01-07,23,Argentina,Sporting CP,Liga NOS,2012/2013,2012
+Danijel Pranjic,Left-Back,1981-12-02,30,Croatia,Sporting CP,Liga NOS,2012/2013,2012
+Joãozinho,Left-Back,1989-07-02,22,Portugal,Sporting CP,Liga NOS,2012/2013,2012
+Miguel Lopes,Right-Back,1986-12-19,25,Portugal,Sporting CP,Liga NOS,2012/2013,2012
+Cédric Soares,Right-Back,1991-08-31,20,Portugal,Sporting CP,Liga NOS,2012/2013,2012
+Santiago Arias,Right-Back,1992-01-13,20,Colombia,Sporting CP,Liga NOS,2012/2013,2012
+Stijn Schaars,Defensive Midfield,1984-01-11,28,Netherlands,Sporting CP,Liga NOS,2012/2013,2012
+Fabián Rinaudo,Defensive Midfield,1987-05-08,25,Argentina,Sporting CP,Liga NOS,2012/2013,2012
+Gelson Fernandes,Defensive Midfield,1986-09-02,25,Switzerland,Sporting CP,Liga NOS,2012/2013,2012
+Eric Dier,Defensive Midfield,1994-01-15,18,England,Sporting CP,Liga NOS,2012/2013,2012
+Fabrice Fokobo,Defensive Midfield,1994-01-25,18,Cameroon,Sporting CP,Liga NOS,2012/2013,2012
+Elias,Central Midfield,1985-05-16,27,Brazil,Sporting CP,Liga NOS,2012/2013,2012
+Marat Izmailov,Central Midfield,1982-09-21,29,Russia,Sporting CP,Liga NOS,2012/2013,2012
+Adrien Silva,Central Midfield,1989-03-15,23,Portugal,Sporting CP,Liga NOS,2012/2013,2012
+André Martins,Central Midfield,1990-01-21,22,Portugal,Sporting CP,Liga NOS,2012/2013,2012
+João Mário,Central Midfield,1993-01-19,19,Portugal,Sporting CP,Liga NOS,2012/2013,2012
+Bruno Pereirinha,Right Midfield,1988-03-02,24,Portugal,Sporting CP,Liga NOS,2012/2013,2012
+Ricardo Esgaio,Right Midfield,1993-05-16,19,Portugal,Sporting CP,Liga NOS,2012/2013,2012
+Zakaria Labyad,Attacking Midfield,1993-03-09,19,Morocco,Sporting CP,Liga NOS,2012/2013,2012
+Zezinho,Attacking Midfield,1992-09-23,19,Guinea-Bissau,Sporting CP,Liga NOS,2012/2013,2012
+Diego Capel,Left Winger,1988-02-16,24,Spain,Sporting CP,Liga NOS,2012/2013,2012
+Valentín Viola,Left Winger,1991-08-28,20,Argentina,Sporting CP,Liga NOS,2012/2013,2012
+Bruma,Left Winger,1994-10-24,17,Portugal,Sporting CP,Liga NOS,2012/2013,2012
+Nii Plange,Left Winger,1989-06-26,23,Burkina Faso,Sporting CP,Liga NOS,2012/2013,2012
+Jeffren,Right Winger,1988-01-20,24,Venezuela,Sporting CP,Liga NOS,2012/2013,2012
+André Carrillo,Right Winger,1991-06-14,21,Peru,Sporting CP,Liga NOS,2012/2013,2012
+Ricky van Wolfswinkel,Centre-Forward,1989-01-27,23,Netherlands,Sporting CP,Liga NOS,2012/2013,2012
+Diego Rubio,Centre-Forward,1993-05-15,19,Chile,Sporting CP,Liga NOS,2012/2013,2012
+Betinho,Centre-Forward,1987-05-13,25,Brazil,Sporting CP,Liga NOS,2012/2013,2012
+Betinho,Centre-Forward,1993-07-21,18,Portugal,Sporting CP,Liga NOS,2012/2013,2012
+Gael Etock,Centre-Forward,1993-07-05,18,Cameroon,Sporting CP,Liga NOS,2012/2013,2012
+Beto,Goalkeeper,1982-05-01,30,Portugal,SC Braga,Liga NOS,2012/2013,2012
+Quim,Goalkeeper,1975-11-13,36,Portugal,SC Braga,Liga NOS,2012/2013,2012
+Cristiano,Goalkeeper,1990-11-29,21,Portugal,SC Braga,Liga NOS,2012/2013,2012
+Stanislav Kritsyuk,Goalkeeper,1990-12-01,21,Russia,SC Braga,Liga NOS,2012/2013,2012
+Pedro Cavadas,Goalkeeper,1992-03-06,20,Portugal,SC Braga,Liga NOS,2012/2013,2012
+Douglão,Centre-Back,1986-05-18,26,Brazil,SC Braga,Liga NOS,2012/2013,2012
+Paulo Vinícius,Centre-Back,1984-08-12,27,Brazil,SC Braga,Liga NOS,2012/2013,2012
+Nuno André Coelho,Centre-Back,1986-01-07,26,Portugal,SC Braga,Liga NOS,2012/2013,2012
+Gonçalo Silva,Centre-Back,1991-06-04,21,Portugal,SC Braga,Liga NOS,2012/2013,2012
+Aderllan Santos,Centre-Back,1989-04-09,23,Brazil,SC Braga,Liga NOS,2012/2013,2012
+Maximilian Haas,Centre-Back,1985-12-07,26,Germany,SC Braga,Liga NOS,2012/2013,2012
+Aníbal Capela,Centre-Back,1991-05-08,21,Portugal,SC Braga,Liga NOS,2012/2013,2012
+Palmeira,Centre-Back,1989-09-24,22,Portugal,SC Braga,Liga NOS,2012/2013,2012
+Vincent Sasso,Centre-Back,1991-02-16,21,France,SC Braga,Liga NOS,2012/2013,2012
+Elderson,Left-Back,1988-01-20,24,Nigeria,SC Braga,Liga NOS,2012/2013,2012
+Emídio Rafael,Left-Back,1986-01-24,26,Portugal,SC Braga,Liga NOS,2012/2013,2012
+Ismaily,Left-Back,1990-01-11,22,Brazil,SC Braga,Liga NOS,2012/2013,2012
+Leandro Salino,Right-Back,1985-04-22,27,Brazil,SC Braga,Liga NOS,2012/2013,2012
+Baiano,Right-Back,1987-02-23,25,Brazil,SC Braga,Liga NOS,2012/2013,2012
+João Pedro,Right-Back,1986-05-04,26,Portugal,SC Braga,Liga NOS,2012/2013,2012
+Djamal,Defensive Midfield,1983-04-26,29,Libya,SC Braga,Liga NOS,2012/2013,2012
+Custódio,Defensive Midfield,1983-05-24,29,Portugal,SC Braga,Liga NOS,2012/2013,2012
+Mauro,Defensive Midfield,1990-10-31,21,Brazil,SC Braga,Liga NOS,2012/2013,2012
+Victor Nikiema,Defensive Midfield,1993-09-23,18,Burkina Faso,SC Braga,Liga NOS,2012/2013,2012
+Hugo Viana,Central Midfield,1983-01-15,29,Portugal,SC Braga,Liga NOS,2012/2013,2012
+Rúben Amorim,Central Midfield,1985-01-27,27,Portugal,SC Braga,Liga NOS,2012/2013,2012
+Rúben Micael,Attacking Midfield,1986-08-19,25,Portugal,SC Braga,Liga NOS,2012/2013,2012
+Márcio Mossoró,Attacking Midfield,1983-07-04,28,Brazil,SC Braga,Liga NOS,2012/2013,2012
+Guilherme,Attacking Midfield,1991-05-21,21,Brazil,SC Braga,Liga NOS,2012/2013,2012
+Hélder Barbosa,Left Winger,1987-05-25,25,Portugal,SC Braga,Liga NOS,2012/2013,2012
+Carlos Eduardo,Left Winger,1993-01-04,19,Brazil,SC Braga,Liga NOS,2012/2013,2012
+Alan,Right Winger,1979-09-19,32,Brazil,SC Braga,Liga NOS,2012/2013,2012
+Paulo César,Right Winger,1980-01-05,32,Brazil,SC Braga,Liga NOS,2012/2013,2012
+Michel Lugo,Right Winger,1987-06-09,25,Brazil,SC Braga,Liga NOS,2012/2013,2012
+Lima,Centre-Forward,1983-05-11,29,Brazil,SC Braga,Liga NOS,2012/2013,2012
+Éder,Centre-Forward,1987-12-22,24,Portugal,SC Braga,Liga NOS,2012/2013,2012
+Michel,Centre-Forward,1986-08-22,25,Brazil,SC Braga,Liga NOS,2012/2013,2012
+Carlao,Centre-Forward,1986-08-01,25,Brazil,SC Braga,Liga NOS,2012/2013,2012
+Manoel,Centre-Forward,1989-02-01,23,Brazil,SC Braga,Liga NOS,2012/2013,2012
+Zé Luís,Centre-Forward,1991-01-24,21,Cape Verde,SC Braga,Liga NOS,2012/2013,2012
+Rabiola,Centre-Forward,1989-07-25,22,Portugal,SC Braga,Liga NOS,2012/2013,2012
+Jan Oblak,Goalkeeper,1993-01-07,19,Slovenia,Rio Ave FC,Liga NOS,2012/2013,2012
+Rafa,Goalkeeper,1992-03-01,20,Portugal,Rio Ave FC,Liga NOS,2012/2013,2012
+Ederson,Goalkeeper,1993-08-17,18,Brazil,Rio Ave FC,Liga NOS,2012/2013,2012
+Alberto Rodríguez,Centre-Back,1984-03-31,28,Peru,Rio Ave FC,Liga NOS,2012/2013,2012
+Jeferson,Centre-Back,1986-01-15,26,Brazil,Rio Ave FC,Liga NOS,2012/2013,2012
+Nivaldo,Centre-Back,1980-06-23,32,Brazil,Rio Ave FC,Liga NOS,2012/2013,2012
+André Vilas Boas,Centre-Back,1983-06-04,29,Portugal,Rio Ave FC,Liga NOS,2012/2013,2012
+Marcelo,Centre-Back,1989-07-27,22,Brazil,Rio Ave FC,Liga NOS,2012/2013,2012
+Edimar,Left-Back,1986-05-21,26,Brazil,Rio Ave FC,Liga NOS,2012/2013,2012
+André Dias,Left-Back,1992-04-18,20,Portugal,Rio Ave FC,Liga NOS,2012/2013,2012
+Kiki,Left-Back,1994-12-10,17,Portugal,Rio Ave FC,Liga NOS,2012/2013,2012
+Wíres,Right-Back,1982-12-30,29,Brazil,Rio Ave FC,Liga NOS,2012/2013,2012
+Lionn,Right-Back,1989-01-29,23,Brazil,Rio Ave FC,Liga NOS,2012/2013,2012
+William Soares,Defensive Midfield,1988-12-30,23,Brazil,Rio Ave FC,Liga NOS,2012/2013,2012
+Filipe Augusto,Defensive Midfield,1993-08-12,18,Brazil,Rio Ave FC,Liga NOS,2012/2013,2012
+Vítor Gomes,Central Midfield,1987-12-25,24,Portugal,Rio Ave FC,Liga NOS,2012/2013,2012
+Tarantini,Central Midfield,1983-10-07,28,Portugal,Rio Ave FC,Liga NOS,2012/2013,2012
+André Costa,Right Midfield,1992-11-27,19,Portugal,Rio Ave FC,Liga NOS,2012/2013,2012
+Ricardo Pateiro,Left Midfield,1980-05-31,32,Portugal,Rio Ave FC,Liga NOS,2012/2013,2012
+Braga,Attacking Midfield,1983-06-17,29,Portugal,Rio Ave FC,Liga NOS,2012/2013,2012
+Diego Lopes,Attacking Midfield,1994-05-03,18,Brazil,Rio Ave FC,Liga NOS,2012/2013,2012
+Rúben Oliveira,Attacking Midfield,1994-12-14,17,Portugal,Rio Ave FC,Liga NOS,2012/2013,2012
+Bebé,Left Winger,1990-07-12,21,Portugal,Rio Ave FC,Liga NOS,2012/2013,2012
+Yonathan Del Valle,Left Winger,1990-05-28,22,Venezuela,Rio Ave FC,Liga NOS,2012/2013,2012
+Tope Obadeyi,Left Winger,1989-10-29,22,England,Rio Ave FC,Liga NOS,2012/2013,2012
+Ukra,Right Winger,1988-03-16,24,Portugal,Rio Ave FC,Liga NOS,2012/2013,2012
+Feliz,Right Winger,1989-04-09,23,Portugal,Rio Ave FC,Liga NOS,2012/2013,2012
+Rafa,Right Winger,1996-01-23,16,Portugal,Rio Ave FC,Liga NOS,2012/2013,2012
+Isma,Centre-Forward,1991-06-25,21,Guinea-Bissau,Rio Ave FC,Liga NOS,2012/2013,2012
+João Tomás,Centre-Forward,1975-05-27,37,Portugal,Rio Ave FC,Liga NOS,2012/2013,2012
+Ahmed Hassan,Centre-Forward,1993-03-05,19,Egypt,Rio Ave FC,Liga NOS,2012/2013,2012
+Gottardi,Goalkeeper,1985-07-22,26,Brazil,CD Nacional,Liga NOS,2012/2013,2012
+Vladan Giljen,Goalkeeper,1989-07-12,22,Montenegro,CD Nacional,Liga NOS,2012/2013,2012
+Rui Silva,Goalkeeper,1994-02-07,18,Portugal,CD Nacional,Liga NOS,2012/2013,2012
+Manuel da Costa,Centre-Back,1986-05-06,26,Morocco,CD Nacional,Liga NOS,2012/2013,2012
+Moreno,Centre-Back,1981-08-19,30,Portugal,CD Nacional,Liga NOS,2012/2013,2012
+Mexer,Centre-Back,1988-09-08,23,Mozambique,CD Nacional,Liga NOS,2012/2013,2012
+Emiliano García,Centre-Back,1989-11-26,22,Uruguay,CD Nacional,Liga NOS,2012/2013,2012
+Miguel Rodrigues,Centre-Back,1993-03-16,19,Portugal,CD Nacional,Liga NOS,2012/2013,2012
+Diogo Coelho,Centre-Back,1993-09-14,18,Portugal,CD Nacional,Liga NOS,2012/2013,2012
+Marçal,Left-Back,1989-02-19,23,Brazil,CD Nacional,Liga NOS,2012/2013,2012
+Kim,Left-Back,1987-09-10,24,Brazil,CD Nacional,Liga NOS,2012/2013,2012
+João Aurélio,Right-Back,1988-08-17,23,Portugal,CD Nacional,Liga NOS,2012/2013,2012
+Nuno Campos,Right-Back,1993-06-13,19,Portugal,CD Nacional,Liga NOS,2012/2013,2012
+Claudemir,Defensive Midfield,1984-08-17,27,Brazil,CD Nacional,Liga NOS,2012/2013,2012
+Revson,Defensive Midfield,1987-12-20,24,Brazil,CD Nacional,Liga NOS,2012/2013,2012
+Mayko,Defensive Midfield,1991-02-03,21,Brazil,CD Nacional,Liga NOS,2012/2013,2012
+Aly Ghazal,Defensive Midfield,1992-02-01,20,Egypt,CD Nacional,Liga NOS,2012/2013,2012
+David Crespo,Defensive Midfield,1994-02-14,18,Portugal,CD Nacional,Liga NOS,2012/2013,2012
+Sérgio Duarte,Defensive Midfield,1993-01-11,19,Portugal,CD Nacional,Liga NOS,2012/2013,2012
+Edgar Abreu,Central Midfield,1994-02-16,18,Portugal,CD Nacional,Liga NOS,2012/2013,2012
+Dejan Skolnik,Left Midfield,1989-01-01,23,Croatia,CD Nacional,Liga NOS,2012/2013,2012
+Diego Barcelos,Attacking Midfield,1985-04-05,27,Brazil,CD Nacional,Liga NOS,2012/2013,2012
+Rene Mihelic,Attacking Midfield,1988-07-05,23,Slovenia,CD Nacional,Liga NOS,2012/2013,2012
+Jota,Attacking Midfield,1993-03-07,19,Portugal,CD Nacional,Liga NOS,2012/2013,2012
+Douglas Pará,Forward,1990-10-26,21,Brazil,CD Nacional,Liga NOS,2012/2013,2012
+Mateus,Left Winger,1984-06-19,28,Angola,CD Nacional,Liga NOS,2012/2013,2012
+Daniel Candeias,Right Winger,1988-02-25,24,Portugal,CD Nacional,Liga NOS,2012/2013,2012
+Edgar Costa,Right Winger,1987-04-14,25,Portugal,CD Nacional,Liga NOS,2012/2013,2012
+Isael,Right Winger,1988-05-13,24,Brazil,CD Nacional,Liga NOS,2012/2013,2012
+Mario Rondón,Centre-Forward,1986-03-26,26,Venezuela,CD Nacional,Liga NOS,2012/2013,2012
+Bruno Moreira,Centre-Forward,1987-09-06,24,Portugal,CD Nacional,Liga NOS,2012/2013,2012
+Ladji Keita,Centre-Forward,1983-04-29,29,Senegal,CD Nacional,Liga NOS,2012/2013,2012
+Oliver Minatel,Centre-Forward,1992-08-29,19,Brazil,CD Nacional,Liga NOS,2012/2013,2012
+Eliandro,Centre-Forward,1990-04-23,22,Brazil,CD Nacional,Liga NOS,2012/2013,2012
+Lucas João,Centre-Forward,1993-09-04,18,Portugal,CD Nacional,Liga NOS,2012/2013,2012
+Rui Rego,Goalkeeper,1980-07-05,31,Portugal,SC Beira-Mar,Liga NOS,2012/2013,2012
+Jonas Mendes,Goalkeeper,1989-11-20,22,Guinea-Bissau,SC Beira-Mar,Liga NOS,2012/2013,2012
+Bruno Jorge,Goalkeeper,1984-08-14,27,Portugal,SC Beira-Mar,Liga NOS,2012/2013,2012
+Tonel,Centre-Back,1980-04-13,32,Portugal,SC Beira-Mar,Liga NOS,2012/2013,2012
+Bura,Centre-Back,1988-12-17,23,Portugal,SC Beira-Mar,Liga NOS,2012/2013,2012
+Jaime Simões,Centre-Back,1989-06-11,23,Portugal,SC Beira-Mar,Liga NOS,2012/2013,2012
+Hugo,Centre-Back,1976-08-11,35,Portugal,SC Beira-Mar,Liga NOS,2012/2013,2012
+Vincent Sasso,Centre-Back,1991-02-16,21,France,SC Beira-Mar,Liga NOS,2012/2013,2012
+Joãozinho,Left-Back,1989-07-02,22,Portugal,SC Beira-Mar,Liga NOS,2012/2013,2012
+Hélder Lopes,Left-Back,1989-01-04,23,Portugal,SC Beira-Mar,Liga NOS,2012/2013,2012
+Pedro Moreira,Right-Back,1983-10-23,28,Portugal,SC Beira-Mar,Liga NOS,2012/2013,2012
+Nuno Lopes,Right-Back,1986-12-19,25,Portugal,SC Beira-Mar,Liga NOS,2012/2013,2012
+Ricardo Dias,Defensive Midfield,1991-02-25,21,Portugal,SC Beira-Mar,Liga NOS,2012/2013,2012
+Rui Sampaio,Central Midfield,1987-05-29,25,Portugal,SC Beira-Mar,Liga NOS,2012/2013,2012
+David Fleurival,Central Midfield,1984-02-19,28,Guadeloupe,SC Beira-Mar,Liga NOS,2012/2013,2012
+André Sousa,Central Midfield,1990-07-09,21,Portugal,SC Beira-Mar,Liga NOS,2012/2013,2012
+Rúben Ribeiro,Attacking Midfield,1987-08-01,24,Portugal,SC Beira-Mar,Liga NOS,2012/2013,2012
+Felipe Desco,Forward,1989-06-29,23,Brazil,SC Beira-Mar,Liga NOS,2012/2013,2012
+Nildo Petrolina,Left Winger,1986-05-01,26,Brazil,SC Beira-Mar,Liga NOS,2012/2013,2012
+Serginho,Left Winger,1991-02-21,21,Portugal,SC Beira-Mar,Liga NOS,2012/2013,2012
+Cédric Collet,Left Winger,1984-03-07,28,Guadeloupe,SC Beira-Mar,Liga NOS,2012/2013,2012
+Javier Balboa,Right Winger,1985-05-13,27,Equatorial Guinea,SC Beira-Mar,Liga NOS,2012/2013,2012
+Dani Abalo,Right Winger,1987-09-29,24,Spain,SC Beira-Mar,Liga NOS,2012/2013,2012
+Rafael Batatinha,Right Winger,1990-02-09,22,Brazil,SC Beira-Mar,Liga NOS,2012/2013,2012
+Yazalde,Centre-Forward,1988-09-21,23,Guinea-Bissau,SC Beira-Mar,Liga NOS,2012/2013,2012
+Abel Camará,Centre-Forward,1990-01-06,22,Guinea-Bissau,SC Beira-Mar,Liga NOS,2012/2013,2012
+Tozé Marreco,Centre-Forward,1987-07-25,24,Portugal,SC Beira-Mar,Liga NOS,2012/2013,2012
+Dudu,Centre-Forward,1991-09-20,20,Brazil,SC Beira-Mar,Liga NOS,2012/2013,2012
+Tiago Cintra,Centre-Forward,1989-03-04,23,Portugal,SC Beira-Mar,Liga NOS,2012/2013,2012
+Saleh Javier,Centre-Forward,1993-11-01,18,Saudi Arabia,SC Beira-Mar,Liga NOS,2012/2013,2012
+Vagner,Goalkeeper,1986-06-06,26,Brazil,GD Estoril,Liga NOS,2012/2013,2012
+Mário Matos,Goalkeeper,1988-06-21,24,Portugal,GD Estoril,Liga NOS,2012/2013,2012
+Renan,Goalkeeper,1990-12-12,21,Brazil,GD Estoril,Liga NOS,2012/2013,2012
+Yohan Tavares,Centre-Back,1988-03-02,24,Portugal,GD Estoril,Liga NOS,2012/2013,2012
+Steven Vitória,Centre-Back,1987-01-11,25,Canada,GD Estoril,Liga NOS,2012/2013,2012
+Elizeu,Centre-Back,1989-05-28,23,Brazil,GD Estoril,Liga NOS,2012/2013,2012
+Bruno Miguel,Centre-Back,1982-09-24,29,Portugal,GD Estoril,Liga NOS,2012/2013,2012
+Bruno Nascimento,Centre-Back,1991-05-30,21,Brazil,GD Estoril,Liga NOS,2012/2013,2012
+João Pedro,Centre-Back,1987-12-29,24,Portugal,GD Estoril,Liga NOS,2012/2013,2012
+Konstantinos Manolas,Centre-Back,1993-03-26,19,Greece,GD Estoril,Liga NOS,2012/2013,2012
+Tiago Gomes,Left-Back,1986-07-29,25,Portugal,GD Estoril,Liga NOS,2012/2013,2012
+Jefferson,Left-Back,1988-07-05,23,Brazil,GD Estoril,Liga NOS,2012/2013,2012
+Ânderson Luís,Right-Back,1988-07-31,23,Brazil,GD Estoril,Liga NOS,2012/2013,2012
+Mano,Right-Back,1987-04-09,25,Portugal,GD Estoril,Liga NOS,2012/2013,2012
+Diogo Amado,Defensive Midfield,1990-01-21,22,Portugal,GD Estoril,Liga NOS,2012/2013,2012
+Gonçalo,Defensive Midfield,1986-11-15,25,Portugal,GD Estoril,Liga NOS,2012/2013,2012
+Hugo Leal,Central Midfield,1980-05-21,32,Portugal,GD Estoril,Liga NOS,2012/2013,2012
+Carlitos,Left Midfield,1982-09-06,29,Portugal,GD Estoril,Liga NOS,2012/2013,2012
+Evandro,Attacking Midfield,1986-08-23,25,Brazil,GD Estoril,Liga NOS,2012/2013,2012
+João Coimbra,Attacking Midfield,1986-05-24,26,Portugal,GD Estoril,Liga NOS,2012/2013,2012
+Carlos Eduardo,Attacking Midfield,1989-10-17,22,Brazil,GD Estoril,Liga NOS,2012/2013,2012
+Gerso,Left Winger,1991-02-23,21,Guinea-Bissau,GD Estoril,Liga NOS,2012/2013,2012
+Tony Taylor,Right Winger,1989-07-13,22,Panama,GD Estoril,Liga NOS,2012/2013,2012
+Dieguinho,Right Winger,1992-06-07,20,Brazil,GD Estoril,Liga NOS,2012/2013,2012
+Licá,Second Striker,1988-09-08,23,Portugal,GD Estoril,Liga NOS,2012/2013,2012
+Luís Leal,Centre-Forward,1987-05-29,25,Sao Tome and Principe,GD Estoril,Liga NOS,2012/2013,2012
+João Paulo,Centre-Forward,1980-04-08,32,Portugal,GD Estoril,Liga NOS,2012/2013,2012
+Frédéric Mendy,Centre-Forward,1988-09-18,23,Guinea-Bissau,GD Estoril,Liga NOS,2012/2013,2012
+Pedro Henrique,Centre-Forward,1991-03-28,21,Brazil,GD Estoril,Liga NOS,2012/2013,2012
+Romain Salin,Goalkeeper,1984-07-29,27,France,CS Marítimo,Liga NOS,2012/2013,2012
+Ricardo Ferreira,Goalkeeper,1989-12-03,22,Portugal,CS Marítimo,Liga NOS,2012/2013,2012
+Wellington,Goalkeeper,1990-04-21,22,Brazil,CS Marítimo,Liga NOS,2012/2013,2012
+José Sá,Goalkeeper,1993-01-17,19,Portugal,CS Marítimo,Liga NOS,2012/2013,2012
+João Guilherme,Centre-Back,1986-04-21,26,Brazil,CS Marítimo,Liga NOS,2012/2013,2012
+Valentin Roberge,Centre-Back,1987-06-09,25,France,CS Marítimo,Liga NOS,2012/2013,2012
+Márcio Rosário,Centre-Back,1983-11-21,28,Brazil,CS Marítimo,Liga NOS,2012/2013,2012
+Patrick Bauer,Centre-Back,1992-10-28,19,Germany,CS Marítimo,Liga NOS,2012/2013,2012
+Gegé,Centre-Back,1988-02-24,24,Cape Verde,CS Marítimo,Liga NOS,2012/2013,2012
+Ricardo Alves,Centre-Back,1991-05-09,21,Portugal,CS Marítimo,Liga NOS,2012/2013,2012
+Igor Rossi,Centre-Back,1989-03-10,23,Brazil,CS Marítimo,Liga NOS,2012/2013,2012
+Rafael Amorim,Centre-Back,1987-07-30,24,Brazil,CS Marítimo,Liga NOS,2012/2013,2012
+Rúben,Left-Back,1990-02-17,22,Portugal,CS Marítimo,Liga NOS,2012/2013,2012
+Luís Olim,Left-Back,1981-08-27,30,Portugal,CS Marítimo,Liga NOS,2012/2013,2012
+Briguel,Right-Back,1979-03-08,33,Portugal,CS Marítimo,Liga NOS,2012/2013,2012
+João Diogo,Right-Back,1988-02-28,24,Portugal,CS Marítimo,Liga NOS,2012/2013,2012
+Rafael Miranda,Defensive Midfield,1984-08-11,27,Brazil,CS Marítimo,Liga NOS,2012/2013,2012
+Rodrigo Antônio,Defensive Midfield,1987-07-27,24,Brazil,CS Marítimo,Liga NOS,2012/2013,2012
+João Luiz,Defensive Midfield,1985-06-24,27,Brazil,CS Marítimo,Liga NOS,2012/2013,2012
+Semedo,Defensive Midfield,1988-02-23,24,Cape Verde,CS Marítimo,Liga NOS,2012/2013,2012
+Marakis,Defensive Midfield,1991-11-11,20,Portugal,CS Marítimo,Liga NOS,2012/2013,2012
+David Simão,Central Midfield,1990-05-15,22,Portugal,CS Marítimo,Liga NOS,2012/2013,2012
+Olberdam,Central Midfield,1985-02-06,27,Brazil,CS Marítimo,Liga NOS,2012/2013,2012
+Hassan,Central Midfield,1989-01-20,23,Nigeria,CS Marítimo,Liga NOS,2012/2013,2012
+Artur,Attacking Midfield,1984-02-18,28,Portugal,CS Marítimo,Liga NOS,2012/2013,2012
+Nuno Rocha,Attacking Midfield,1992-03-25,20,Cape Verde,CS Marítimo,Liga NOS,2012/2013,2012
+Sami,Left Winger,1988-12-18,23,Guinea-Bissau,CS Marítimo,Liga NOS,2012/2013,2012
+Danilo Dias,Left Winger,1985-11-06,26,Brazil,CS Marítimo,Liga NOS,2012/2013,2012
+Héldon,Left Winger,1988-11-14,23,Cape Verde,CS Marítimo,Liga NOS,2012/2013,2012
+Rúben Brígido,Right Winger,1991-06-23,21,Portugal,CS Marítimo,Liga NOS,2012/2013,2012
+Gonçalo Abreu,Right Winger,1986-06-25,26,Portugal,CS Marítimo,Liga NOS,2012/2013,2012
+Ytalo,Second Striker,1988-01-12,24,Brazil,CS Marítimo,Liga NOS,2012/2013,2012
+Adilson,Centre-Forward,1982-01-01,30,Brazil,CS Marítimo,Liga NOS,2012/2013,2012
+Hyun-jun Suk,Centre-Forward,1991-06-29,21,"Korea, South",CS Marítimo,Liga NOS,2012/2013,2012
+Fidelis,Centre-Forward,1989-06-14,23,Brazil,CS Marítimo,Liga NOS,2012/2013,2012
+Ibrahim Obayomi,Centre-Forward,1992-09-09,19,Nigeria,CS Marítimo,Liga NOS,2012/2013,2012
+Edivândio,Centre-Forward,1991-01-01,21,Cape Verde,CS Marítimo,Liga NOS,2012/2013,2012
+Kukula,Centre-Forward,1993-01-22,19,Cape Verde,CS Marítimo,Liga NOS,2012/2013,2012
+João Vieira,Centre-Forward,1991-12-19,20,Portugal,CS Marítimo,Liga NOS,2012/2013,2012
+Rafael Bracali,Goalkeeper,1981-05-05,31,Brazil,SC Olhanense,Liga NOS,2012/2013,2012
+Bruno Veríssimo,Goalkeeper,1976-04-07,36,Portugal,SC Olhanense,Liga NOS,2012/2013,2012
+Ricardo,Goalkeeper,1976-02-11,36,Portugal,SC Olhanense,Liga NOS,2012/2013,2012
+Fábio Santos,Defender,1994-05-04,18,Portugal,SC Olhanense,Liga NOS,2012/2013,2012
+Nuno Reis,Centre-Back,1991-01-31,21,Portugal,SC Olhanense,Liga NOS,2012/2013,2012
+Vasco Fernandes,Centre-Back,1986-11-12,25,Portugal,SC Olhanense,Liga NOS,2012/2013,2012
+Maurício,Centre-Back,1976-07-05,35,Brazil,SC Olhanense,Liga NOS,2012/2013,2012
+André Micael,Centre-Back,1989-02-04,23,Portugal,SC Olhanense,Liga NOS,2012/2013,2012
+Vítor Vinha,Left-Back,1986-11-11,25,Portugal,SC Olhanense,Liga NOS,2012/2013,2012
+Jander,Left-Back,1988-07-08,23,Brazil,SC Olhanense,Liga NOS,2012/2013,2012
+Luís Filipe,Right-Back,1979-06-14,33,Portugal,SC Olhanense,Liga NOS,2012/2013,2012
+Francesco D'Onofrio,Right-Back,1990-10-06,21,Belgium,SC Olhanense,Liga NOS,2012/2013,2012
+Rafael Soromenho,Midfielder,1994-04-04,18,Portugal,SC Olhanense,Liga NOS,2012/2013,2012
+Gerson,Midfielder,1993-03-20,19,Portugal,SC Olhanense,Liga NOS,2012/2013,2012
+Tiago Terroso,Defensive Midfield,1988-01-13,24,Portugal,SC Olhanense,Liga NOS,2012/2013,2012
+Fernando Alexandre,Defensive Midfield,1985-08-02,26,Portugal,SC Olhanense,Liga NOS,2012/2013,2012
+Lucas Souza,Defensive Midfield,1990-07-04,21,Brazil,SC Olhanense,Liga NOS,2012/2013,2012
+Nuno Piloto,Central Midfield,1982-03-19,30,Portugal,SC Olhanense,Liga NOS,2012/2013,2012
+Rui Sampaio,Central Midfield,1987-05-29,25,Portugal,SC Olhanense,Liga NOS,2012/2013,2012
+Rui Duarte,Central Midfield,1978-09-16,33,Portugal,SC Olhanense,Liga NOS,2012/2013,2012
+Babanco,Central Midfield,1985-07-27,26,Cape Verde,SC Olhanense,Liga NOS,2012/2013,2012
+José Luis Fernández,Left Midfield,1987-10-26,24,Argentina,SC Olhanense,Liga NOS,2012/2013,2012
+David Silva,Left Midfield,1986-11-10,25,Cape Verde,SC Olhanense,Liga NOS,2012/2013,2012
+Liban Abdi,Left Midfield,1988-10-05,23,Norway,SC Olhanense,Liga NOS,2012/2013,2012
+Pedro Paz,Forward,1994-12-20,17,Portugal,SC Olhanense,Liga NOS,2012/2013,2012
+Pepe,Forward,1988-03-04,24,Brazil,SC Olhanense,Liga NOS,2012/2013,2012
+Tiago Targino,Right Winger,1986-06-06,26,Portugal,SC Olhanense,Liga NOS,2012/2013,2012
+Ivanildo,Right Winger,1986-01-09,26,Guinea-Bissau,SC Olhanense,Liga NOS,2012/2013,2012
+Nuno Silva,Right Winger,1986-07-15,25,Portugal,SC Olhanense,Liga NOS,2012/2013,2012
+Evandro Brandão,Right Winger,1991-05-04,21,Angola,SC Olhanense,Liga NOS,2012/2013,2012
+Alex Zahavi,Right Winger,1991-01-21,21,Israel,SC Olhanense,Liga NOS,2012/2013,2012
+Betinho,Right Winger,1994-03-18,18,Portugal,SC Olhanense,Liga NOS,2012/2013,2012
+Djaniny,Centre-Forward,1991-03-21,21,Cape Verde,SC Olhanense,Liga NOS,2012/2013,2012
+Jean-Paul Yontcha,Centre-Forward,1983-05-15,29,Cameroon,SC Olhanense,Liga NOS,2012/2013,2012
+Djalmir,Centre-Forward,1976-04-22,36,Brazil,SC Olhanense,Liga NOS,2012/2013,2012
+Thalles,Centre-Forward,1991-01-08,21,Brazil,SC Olhanense,Liga NOS,2012/2013,2012
+Matej Delac,Goalkeeper,1992-08-20,19,Croatia,Vitória Guimarães SC,Liga NOS,2012/2013,2012
+Douglas Jesus,Goalkeeper,1983-03-09,29,Brazil,Vitória Guimarães SC,Liga NOS,2012/2013,2012
+Assis,Goalkeeper,1989-10-04,22,Brazil,Vitória Guimarães SC,Liga NOS,2012/2013,2012
+André Pereira,Goalkeeper,1993-04-18,19,Portugal,Vitória Guimarães SC,Liga NOS,2012/2013,2012
+Miguel Oliveira,Goalkeeper,1994-05-25,18,Portugal,Vitória Guimarães SC,Liga NOS,2012/2013,2012
+Mahamadou N'Diaye,Centre-Back,1990-07-21,21,Mali,Vitória Guimarães SC,Liga NOS,2012/2013,2012
+Paulo Oliveira,Centre-Back,1992-01-08,20,Portugal,Vitória Guimarães SC,Liga NOS,2012/2013,2012
+Vítor Bastos,Centre-Back,1990-05-01,22,Portugal,Vitória Guimarães SC,Liga NOS,2012/2013,2012
+Freire,Centre-Back,1989-08-21,22,Brazil,Vitória Guimarães SC,Liga NOS,2012/2013,2012
+Rodrigo Defendi,Centre-Back,1986-06-16,26,Brazil,Vitória Guimarães SC,Liga NOS,2012/2013,2012
+Josué Sá,Centre-Back,1992-06-17,20,Portugal,Vitória Guimarães SC,Liga NOS,2012/2013,2012
+Bruno Teles,Left-Back,1986-05-01,26,Brazil,Vitória Guimarães SC,Liga NOS,2012/2013,2012
+David Addy,Left-Back,1990-02-21,22,Ghana,Vitória Guimarães SC,Liga NOS,2012/2013,2012
+Gonçalo,Left-Back,1990-12-28,21,Portugal,Vitória Guimarães SC,Liga NOS,2012/2013,2012
+Luís Rocha,Left-Back,1993-06-27,19,Portugal,Vitória Guimarães SC,Liga NOS,2012/2013,2012
+Káká,Left-Back,1992-10-06,19,Portugal,Vitória Guimarães SC,Liga NOS,2012/2013,2012
+João Gonçalves,Right-Back,1988-01-18,24,Portugal,Vitória Guimarães SC,Liga NOS,2012/2013,2012
+Alex Costa,Right-Back,1979-09-06,32,Portugal,Vitória Guimarães SC,Liga NOS,2012/2013,2012
+João Amorim,Right-Back,1992-07-26,19,Portugal,Vitória Guimarães SC,Liga NOS,2012/2013,2012
+Rafa Costa,Right-Back,1992-01-27,20,Portugal,Vitória Guimarães SC,Liga NOS,2012/2013,2012
+Ricardo Pereira,Right-Back,1993-10-06,18,Portugal,Vitória Guimarães SC,Liga NOS,2012/2013,2012
+Pedro Lemos,Right-Back,1993-03-17,19,Portugal,Vitória Guimarães SC,Liga NOS,2012/2013,2012
+Kanú,Right-Back,1992-03-05,20,Brazil,Vitória Guimarães SC,Liga NOS,2012/2013,2012
+Leonel Olímpio,Defensive Midfield,1982-07-07,29,Brazil,Vitória Guimarães SC,Liga NOS,2012/2013,2012
+Issam El Adoua,Defensive Midfield,1986-12-09,25,Morocco,Vitória Guimarães SC,Liga NOS,2012/2013,2012
+Siaka Bamba,Defensive Midfield,1989-08-24,22,Cote d'Ivoire,Vitória Guimarães SC,Liga NOS,2012/2013,2012
+Dinis,Defensive Midfield,1990-01-21,22,Portugal,Vitória Guimarães SC,Liga NOS,2012/2013,2012
+André André,Central Midfield,1989-08-26,22,Portugal,Vitória Guimarães SC,Liga NOS,2012/2013,2012
+Hernâni,Right Midfield,1991-08-20,20,Portugal,Vitória Guimarães SC,Liga NOS,2012/2013,2012
+Jean Barrientos,Attacking Midfield,1990-09-16,21,Uruguay,Vitória Guimarães SC,Liga NOS,2012/2013,2012
+Rafael Crivellaro,Attacking Midfield,1989-02-18,23,Brazil,Vitória Guimarães SC,Liga NOS,2012/2013,2012
+Tiago Rodrigues,Attacking Midfield,1992-01-29,20,Portugal,Vitória Guimarães SC,Liga NOS,2012/2013,2012
+João Ribeiro,Left Winger,1987-08-13,24,Portugal,Vitória Guimarães SC,Liga NOS,2012/2013,2012
+Milan Lalkovic,Left Winger,1992-12-09,19,Slovakia,Vitória Guimarães SC,Liga NOS,2012/2013,2012
+Darwin Machís,Left Winger,1993-02-07,19,Venezuela,Vitória Guimarães SC,Liga NOS,2012/2013,2012
+El Arbi Hillel Soudani,Right Winger,1987-11-25,24,Algeria,Vitória Guimarães SC,Liga NOS,2012/2013,2012
+Marco Matias,Right Winger,1989-05-10,23,Portugal,Vitória Guimarães SC,Liga NOS,2012/2013,2012
+Marcelo Toscano,Centre-Forward,1985-05-12,27,Brazil,Vitória Guimarães SC,Liga NOS,2012/2013,2012
+Amido Baldé,Centre-Forward,1991-05-16,21,Guinea-Bissau,Vitória Guimarães SC,Liga NOS,2012/2013,2012
+Fábio Fortes,Centre-Forward,1992-03-06,20,Portugal,Vitória Guimarães SC,Liga NOS,2012/2013,2012
+Índio,Centre-Forward,1990-12-10,21,Brazil,Vitória Guimarães SC,Liga NOS,2012/2013,2012
+Areias,Centre-Forward,1993-11-22,18,Portugal,Vitória Guimarães SC,Liga NOS,2012/2013,2012
+Jona,Centre-Forward,1989-01-07,23,Honduras,Vitória Guimarães SC,Liga NOS,2012/2013,2012
+Romuald Peiser,Goalkeeper,1979-08-03,32,France,Académica Coimbra,Liga NOS,2012/2013,2012
+Ricardo Nunes,Goalkeeper,1982-07-06,29,Portugal,Académica Coimbra,Liga NOS,2012/2013,2012
+Fábio Santos,Goalkeeper,1992-11-14,19,Portugal,Académica Coimbra,Liga NOS,2012/2013,2012
+Rafik Halliche,Centre-Back,1986-09-02,25,Algeria,Académica Coimbra,Liga NOS,2012/2013,2012
+Nuno Henrique,Centre-Back,1986-10-19,25,Portugal,Académica Coimbra,Liga NOS,2012/2013,2012
+João Real,Centre-Back,1983-05-13,29,Portugal,Académica Coimbra,Liga NOS,2012/2013,2012
+Flávio Ferreira,Centre-Back,1991-10-19,20,Portugal,Académica Coimbra,Liga NOS,2012/2013,2012
+Reiner Ferreira,Centre-Back,1985-11-17,26,Brazil,Académica Coimbra,Liga NOS,2012/2013,2012
+Júnior Lopes,Centre-Back,1987-10-19,24,Brazil,Académica Coimbra,Liga NOS,2012/2013,2012
+Hélder Cabral,Left-Back,1984-05-07,28,Portugal,Académica Coimbra,Liga NOS,2012/2013,2012
+João Dias,Right-Back,1986-12-23,25,Portugal,Académica Coimbra,Liga NOS,2012/2013,2012
+Rodrigo Galo,Right-Back,1986-09-19,25,Brazil,Académica Coimbra,Liga NOS,2012/2013,2012
+Alphousseyni Keita,Defensive Midfield,1985-11-13,26,Mali,Académica Coimbra,Liga NOS,2012/2013,2012
+Makelele,Defensive Midfield,1985-02-26,27,Brazil,Académica Coimbra,Liga NOS,2012/2013,2012
+Marcos Paulo,Central Midfield,1988-07-13,23,Brazil,Académica Coimbra,Liga NOS,2012/2013,2012
+Bruno China,Central Midfield,1982-08-05,29,Portugal,Académica Coimbra,Liga NOS,2012/2013,2012
+John Ogu,Central Midfield,1988-04-20,24,Nigeria,Académica Coimbra,Liga NOS,2012/2013,2012
+Saná Camará,Central Midfield,1991-12-29,20,Guinea-Bissau,Académica Coimbra,Liga NOS,2012/2013,2012
+Nivaldo,Left Midfield,1988-07-10,23,Cape Verde,Académica Coimbra,Liga NOS,2012/2013,2012
+Cleyton,Attacking Midfield,1990-02-24,22,Brazil,Académica Coimbra,Liga NOS,2012/2013,2012
+Christo Amessan,Left Winger,1990-09-27,21,Cote d'Ivoire,Académica Coimbra,Liga NOS,2012/2013,2012
+Magique,Left Winger,1993-01-21,19,Cote d'Ivoire,Académica Coimbra,Liga NOS,2012/2013,2012
+Marinho,Right Winger,1983-04-26,29,Portugal,Académica Coimbra,Liga NOS,2012/2013,2012
+Serge N'Gal,Right Winger,1986-01-13,26,Cameroon,Académica Coimbra,Liga NOS,2012/2013,2012
+Wilson Eduardo,Second Striker,1990-07-08,21,Angola,Académica Coimbra,Liga NOS,2012/2013,2012
+Edinho,Centre-Forward,1982-07-07,29,Portugal,Académica Coimbra,Liga NOS,2012/2013,2012
+Carlos Saleiro,Centre-Forward,1986-02-25,26,Portugal,Académica Coimbra,Liga NOS,2012/2013,2012
+Fábio Luis,Centre-Forward,1983-08-02,28,Brazil,Académica Coimbra,Liga NOS,2012/2013,2012
+Afonso,Centre-Forward,1991-11-14,20,Brazil,Académica Coimbra,Liga NOS,2012/2013,2012
+Salim Cissé,Centre-Forward,1992-12-24,19,Guinea,Académica Coimbra,Liga NOS,2012/2013,2012
+Adriano Facchini,Goalkeeper,1983-03-12,29,Brazil,Gil Vicente FC,Liga NOS,2012/2013,2012
+Vítor Murta,Goalkeeper,1979-07-21,32,Portugal,Gil Vicente FC,Liga NOS,2012/2013,2012
+Lúcio,Goalkeeper,1990-04-18,22,Brazil,Gil Vicente FC,Liga NOS,2012/2013,2012
+Daniel,Centre-Back,1987-03-29,25,Portugal,Gil Vicente FC,Liga NOS,2012/2013,2012
+Halisson,Centre-Back,1985-06-28,27,Brazil,Gil Vicente FC,Liga NOS,2012/2013,2012
+Sandro,Centre-Back,1982-12-05,29,Portugal,Gil Vicente FC,Liga NOS,2012/2013,2012
+Cláudio,Centre-Back,1977-08-17,34,Brazil,Gil Vicente FC,Liga NOS,2012/2013,2012
+Pecks,Centre-Back,1989-04-10,23,Cape Verde,Gil Vicente FC,Liga NOS,2012/2013,2012
+Luís Martins,Left-Back,1992-06-10,20,Portugal,Gil Vicente FC,Liga NOS,2012/2013,2012
+Luciano Amaral,Left-Back,1982-10-20,29,Brazil,Gil Vicente FC,Liga NOS,2012/2013,2012
+Vítor Vinha,Left-Back,1986-11-11,25,Portugal,Gil Vicente FC,Liga NOS,2012/2013,2012
+João Pedro,Left-Back,1980-08-15,31,Portugal,Gil Vicente FC,Liga NOS,2012/2013,2012
+Éder Sciola,Right-Back,1985-09-25,26,Brazil,Gil Vicente FC,Liga NOS,2012/2013,2012
+Paulo Arantes,Right-Back,1986-11-15,25,Portugal,Gil Vicente FC,Liga NOS,2012/2013,2012
+Djalma,Midfielder,1988-04-15,24,Brazil,Gil Vicente FC,Liga NOS,2012/2013,2012
+Bruno Pinheiro,Defensive Midfield,1987-08-21,24,Portugal,Gil Vicente FC,Liga NOS,2012/2013,2012
+Luís Manuel,Defensive Midfield,1981-06-25,31,Portugal,Gil Vicente FC,Liga NOS,2012/2013,2012
+Luan,Defensive Midfield,1988-12-30,23,Brazil,Gil Vicente FC,Liga NOS,2012/2013,2012
+César Peixoto,Central Midfield,1980-05-12,32,Portugal,Gil Vicente FC,Liga NOS,2012/2013,2012
+João Vilela,Central Midfield,1985-09-09,26,Portugal,Gil Vicente FC,Liga NOS,2012/2013,2012
+Pio,Central Midfield,1988-01-23,24,Brazil,Gil Vicente FC,Liga NOS,2012/2013,2012
+Thomas Agyiri,Central Midfield,1994-04-28,18,Ghana,Gil Vicente FC,Liga NOS,2012/2013,2012
+William Kwabena Tiero,Attacking Midfield,1980-12-03,31,Ghana,Gil Vicente FC,Liga NOS,2012/2013,2012
+André Cunha,Attacking Midfield,1978-02-16,34,Portugal,Gil Vicente FC,Liga NOS,2012/2013,2012
+Leonardo,Forward,1988-04-09,24,Brazil,Gil Vicente FC,Liga NOS,2012/2013,2012
+Luís Carlos,Left Winger,1987-06-15,25,Brazil,Gil Vicente FC,Liga NOS,2012/2013,2012
+Rafael Silva,Left Winger,1990-10-08,21,Brazil,Gil Vicente FC,Liga NOS,2012/2013,2012
+Paulo Jorge,Right Winger,1981-05-05,31,Portugal,Gil Vicente FC,Liga NOS,2012/2013,2012
+Pedro Pereira,Right Winger,1984-01-03,28,Portugal,Gil Vicente FC,Liga NOS,2012/2013,2012
+Brito,Right Winger,1987-11-16,24,Cape Verde,Gil Vicente FC,Liga NOS,2012/2013,2012
+Hugo Vieira,Centre-Forward,1988-07-25,23,Portugal,Gil Vicente FC,Liga NOS,2012/2013,2012
+Kalidou Yero,Centre-Forward,1991-08-19,20,Senegal,Gil Vicente FC,Liga NOS,2012/2013,2012
+Gabriel Rodríguez,Centre-Forward,1989-01-05,23,Argentina,Gil Vicente FC,Liga NOS,2012/2013,2012
+Ramazotti,Centre-Forward,1988-08-09,23,Brazil,Gil Vicente FC,Liga NOS,2012/2013,2012
+Valdinho,Centre-Forward,1989-10-06,22,Angola,Gil Vicente FC,Liga NOS,2012/2013,2012
+Ricardo Ribeiro,Goalkeeper,1990-01-27,22,Portugal,Moreirense FC,Liga NOS,2012/2013,2012
+Ricardo Andrade,Goalkeeper,1977-06-22,35,Brazil,Moreirense FC,Liga NOS,2012/2013,2012
+Ferreira,Goalkeeper,1980-10-19,31,Portugal,Moreirense FC,Liga NOS,2012/2013,2012
+Diego Gaúcho,Centre-Back,1981-11-15,30,Brazil,Moreirense FC,Liga NOS,2012/2013,2012
+Anilton Júnior,Centre-Back,1980-07-10,31,Brazil,Moreirense FC,Liga NOS,2012/2013,2012
+Aníbal Capela,Centre-Back,1991-05-08,21,Portugal,Moreirense FC,Liga NOS,2012/2013,2012
+Ricardo Fernandes,Centre-Back,1978-01-14,34,Portugal,Moreirense FC,Liga NOS,2012/2013,2012
+Renato Santos,Centre-Back,1987-01-30,25,Brazil,Moreirense FC,Liga NOS,2012/2013,2012
+Nilson Júnior,Centre-Back,1991-09-09,20,Brazil,Moreirense FC,Liga NOS,2012/2013,2012
+Augusto,Left-Back,1987-08-30,24,Portugal,Moreirense FC,Liga NOS,2012/2013,2012
+Florent Hanin,Left-Back,1990-02-04,22,France,Moreirense FC,Liga NOS,2012/2013,2012
+Ricardo Pessoa,Right-Back,1982-02-05,30,Portugal,Moreirense FC,Liga NOS,2012/2013,2012
+Paulinho,Right-Back,1991-07-13,20,Portugal,Moreirense FC,Liga NOS,2012/2013,2012
+Castro,Midfielder,1979-06-03,33,Portugal,Moreirense FC,Liga NOS,2012/2013,2012
+Filipe Gonçalves,Defensive Midfield,1984-08-12,27,Portugal,Moreirense FC,Liga NOS,2012/2013,2012
+Júlio César,Defensive Midfield,1984-12-13,27,Brazil,Moreirense FC,Liga NOS,2012/2013,2012
+Vinicius,Central Midfield,1986-05-16,26,Brazil,Moreirense FC,Liga NOS,2012/2013,2012
+Renato Augusto,Central Midfield,1992-01-29,20,Brazil,Moreirense FC,Liga NOS,2012/2013,2012
+Christian Kinkela,Right Midfield,1982-05-25,30,DR Congo,Moreirense FC,Liga NOS,2012/2013,2012
+Pintassilgo,Right Midfield,1985-06-30,27,Portugal,Moreirense FC,Liga NOS,2012/2013,2012
+Fábio Espinho,Attacking Midfield,1985-08-18,26,Portugal,Moreirense FC,Liga NOS,2012/2013,2012
+Tijani Belaid,Attacking Midfield,1987-09-06,24,Tunisia,Moreirense FC,Liga NOS,2012/2013,2012
+Tales,Attacking Midfield,1983-06-11,29,Brazil,Moreirense FC,Liga NOS,2012/2013,2012
+Wagner,Left Winger,1987-04-03,25,Brazil,Moreirense FC,Liga NOS,2012/2013,2012
+Jorge Chula,Right Winger,1990-02-13,22,Portugal,Moreirense FC,Liga NOS,2012/2013,2012
+André Luiz,Right Winger,1985-09-18,26,Brazil,Moreirense FC,Liga NOS,2012/2013,2012
+Jô,Second Striker,1988-09-19,23,Brazil,Moreirense FC,Liga NOS,2012/2013,2012
+Pablo Olivera,Second Striker,1987-12-08,24,Uruguay,Moreirense FC,Liga NOS,2012/2013,2012
+Rafa Lopes,Centre-Forward,1991-07-28,20,Portugal,Moreirense FC,Liga NOS,2012/2013,2012
+Nabil Ghilas,Centre-Forward,1990-04-20,22,Algeria,Moreirense FC,Liga NOS,2012/2013,2012
+Cássio,Goalkeeper,1980-08-12,31,Brazil,FC Paços de Ferreira,Liga NOS,2012/2013,2012
+Pedro Guedes,Goalkeeper,1995-01-03,17,Portugal,FC Paços de Ferreira,Liga NOS,2012/2013,2012
+António Filipe,Goalkeeper,1985-04-14,27,Portugal,FC Paços de Ferreira,Liga NOS,2012/2013,2012
+Javier Cohene,Centre-Back,1987-05-03,25,Palästina,FC Paços de Ferreira,Liga NOS,2012/2013,2012
+Tiago Valente,Centre-Back,1985-04-24,27,Portugal,FC Paços de Ferreira,Liga NOS,2012/2013,2012
+Ricardo,Centre-Back,1980-08-19,31,Cape Verde,FC Paços de Ferreira,Liga NOS,2012/2013,2012
+Abdullah Al Hafith,Centre-Back,1992-12-25,19,Saudi Arabia,FC Paços de Ferreira,Liga NOS,2012/2013,2012
+Nuno Santos,Left-Back,1980-06-19,32,Portugal,FC Paços de Ferreira,Liga NOS,2012/2013,2012
+Vitorino Antunes,Left-Back,1987-04-01,25,Portugal,FC Paços de Ferreira,Liga NOS,2012/2013,2012
+Luís Sousa,Left-Back,1989-07-22,22,Portugal,FC Paços de Ferreira,Liga NOS,2012/2013,2012
+Paulo Loureiro,Left-Back,1993-01-11,19,South Africa,FC Paços de Ferreira,Liga NOS,2012/2013,2012
+Diogo Figueiras,Right-Back,1991-07-01,21,Portugal,FC Paços de Ferreira,Liga NOS,2012/2013,2012
+Tony,Right-Back,1980-12-20,31,Portugal,FC Paços de Ferreira,Liga NOS,2012/2013,2012
+André Leão,Defensive Midfield,1985-05-20,27,Portugal,FC Paços de Ferreira,Liga NOS,2012/2013,2012
+Filipe Anunciacão,Defensive Midfield,1979-05-27,33,Portugal,FC Paços de Ferreira,Liga NOS,2012/2013,2012
+Uillian Correia,Defensive Midfield,1989-09-27,22,Brazil,FC Paços de Ferreira,Liga NOS,2012/2013,2012
+Luíz Carlos,Central Midfield,1985-02-05,27,Brazil,FC Paços de Ferreira,Liga NOS,2012/2013,2012
+Caetano,Attacking Midfield,1991-04-20,21,Portugal,FC Paços de Ferreira,Liga NOS,2012/2013,2012
+Josué,Attacking Midfield,1990-09-17,21,Portugal,FC Paços de Ferreira,Liga NOS,2012/2013,2012
+Vítor Silva,Attacking Midfield,1984-01-07,28,Portugal,FC Paços de Ferreira,Liga NOS,2012/2013,2012
+Paolo Hurtado,Attacking Midfield,1990-07-27,21,Peru,FC Paços de Ferreira,Liga NOS,2012/2013,2012
+Arturo Álvarez,Left Winger,1985-06-28,27,El Salvador,FC Paços de Ferreira,Liga NOS,2012/2013,2012
+Duarte Duarte,Left Winger,1987-08-27,24,Portugal,FC Paços de Ferreira,Liga NOS,2012/2013,2012
+Manuel José,Right Winger,1981-02-04,31,Portugal,FC Paços de Ferreira,Liga NOS,2012/2013,2012
+Cícero,Centre-Forward,1986-05-08,26,Guinea-Bissau,FC Paços de Ferreira,Liga NOS,2012/2013,2012
+Christian Irobiso,Centre-Forward,1993-05-28,19,Nigeria,FC Paços de Ferreira,Liga NOS,2012/2013,2012
+Vinicio Angulo,Centre-Forward,1988-07-26,23,Ecuador,FC Paços de Ferreira,Liga NOS,2012/2013,2012
+Jaime Poulson,Centre-Forward,1989-06-22,23,Portugal,FC Paços de Ferreira,Liga NOS,2012/2013,2012
+Pawel Kieszek,Goalkeeper,1984-04-16,28,Poland,Vitória Setúbal FC,Liga NOS,2012/2013,2012
+Caleb Patterson-Sewell,Goalkeeper,1987-05-20,25,United States,Vitória Setúbal FC,Liga NOS,2012/2013,2012
+Fonseca,Goalkeeper,1985-01-05,27,Portugal,Vitória Setúbal FC,Liga NOS,2012/2013,2012
+Amoreirinha,Centre-Back,1984-08-05,27,Portugal,Vitória Setúbal FC,Liga NOS,2012/2013,2012
+Ricardo Silva,Centre-Back,1975-09-26,36,Portugal,Vitória Setúbal FC,Liga NOS,2012/2013,2012
+Miguel Lourenço,Centre-Back,1992-05-27,20,Portugal,Vitória Setúbal FC,Liga NOS,2012/2013,2012
+Jorge Luiz,Centre-Back,1982-04-22,30,Brazil,Vitória Setúbal FC,Liga NOS,2012/2013,2012
+Rúben Vezo,Centre-Back,1994-04-25,18,Portugal,Vitória Setúbal FC,Liga NOS,2012/2013,2012
+Frederico Venâncio,Centre-Back,1993-02-04,19,Portugal,Vitória Setúbal FC,Liga NOS,2012/2013,2012
+Igor Rocha,Left-Back,1984-05-03,28,Portugal,Vitória Setúbal FC,Liga NOS,2012/2013,2012
+Nélson Pedroso,Left-Back,1985-06-10,27,Portugal,Vitória Setúbal FC,Liga NOS,2012/2013,2012
+Kiko,Left-Back,1993-01-20,19,Portugal,Vitória Setúbal FC,Liga NOS,2012/2013,2012
+Pedro Queirós,Right-Back,1984-08-08,27,Portugal,Vitória Setúbal FC,Liga NOS,2012/2013,2012
+Peter Suswam,Right-Back,1991-09-05,20,Nigeria,Vitória Setúbal FC,Liga NOS,2012/2013,2012
+Ney Santos,Defensive Midfield,1981-02-23,31,Brazil,Vitória Setúbal FC,Liga NOS,2012/2013,2012
+Bruno Turco,Defensive Midfield,1991-07-30,20,Brazil,Vitória Setúbal FC,Liga NOS,2012/2013,2012
+Danilo,Defensive Midfield,1989-02-12,23,Brazil,Vitória Setúbal FC,Liga NOS,2012/2013,2012
+Bruno Amaro,Central Midfield,1983-02-17,29,Portugal,Vitória Setúbal FC,Liga NOS,2012/2013,2012
+Bruno Gallo,Central Midfield,1988-05-07,24,Brazil,Vitória Setúbal FC,Liga NOS,2012/2013,2012
+José Pedro,Central Midfield,1978-10-18,33,Portugal,Vitória Setúbal FC,Liga NOS,2012/2013,2012
+Ricardo Horta,Left Midfield,1994-09-15,17,Portugal,Vitória Setúbal FC,Liga NOS,2012/2013,2012
+Paulo Tavares,Attacking Midfield,1985-12-09,26,Portugal,Vitória Setúbal FC,Liga NOS,2012/2013,2012
+Pedro Mendes,Attacking Midfield,1993-12-06,18,Portugal,Vitória Setúbal FC,Liga NOS,2012/2013,2012
+Cristiano,Left Winger,1983-09-28,28,Brazil,Vitória Setúbal FC,Liga NOS,2012/2013,2012
+Miguel Pedro,Right Winger,1983-11-06,28,Portugal,Vitória Setúbal FC,Liga NOS,2012/2013,2012
+Pedro Santos,Right Winger,1988-04-22,24,Portugal,Vitória Setúbal FC,Liga NOS,2012/2013,2012
+Jorginho,Right Winger,1988-03-18,24,Portugal,Vitória Setúbal FC,Liga NOS,2012/2013,2012
+Bruninho,Second Striker,1988-09-30,23,Portugal,Vitória Setúbal FC,Liga NOS,2012/2013,2012
+Meyong,Centre-Forward,1980-10-19,31,Cameroon,Vitória Setúbal FC,Liga NOS,2012/2013,2012
+Ariza Makukula,Centre-Forward,1981-03-04,31,Portugal,Vitória Setúbal FC,Liga NOS,2012/2013,2012

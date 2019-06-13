@@ -1,0 +1,968 @@
+player_name,position,date_of_birth,age,nationality,club_name,league_name,season,year
+Tim Krul,Goalkeeper,1988-04-03,28,Netherlands,Newcastle United,Championship,2016/2017,2016
+Matz Sels,Goalkeeper,1992-02-26,24,Belgium,Newcastle United,Championship,2016/2017,2016
+Karl Darlow,Goalkeeper,1990-10-08,25,England,Newcastle United,Championship,2016/2017,2016
+Rob Elliot,Goalkeeper,1986-04-30,30,Ireland,Newcastle United,Championship,2016/2017,2016
+Freddie Woodman,Goalkeeper,1997-03-04,19,England,Newcastle United,Championship,2016/2017,2016
+Chancel Mbemba,Centre-Back,1994-08-08,21,DR Congo,Newcastle United,Championship,2016/2017,2016
+Ciaran Clark,Centre-Back,1989-09-26,26,Ireland,Newcastle United,Championship,2016/2017,2016
+Jamaal Lascelles,Centre-Back,1993-11-11,22,England,Newcastle United,Championship,2016/2017,2016
+Grant Hanley,Centre-Back,1991-11-20,24,Scotland,Newcastle United,Championship,2016/2017,2016
+Curtis Good,Centre-Back,1993-03-23,23,Australia,Newcastle United,Championship,2016/2017,2016
+Stuart Findlay,Centre-Back,1995-09-14,20,Scotland,Newcastle United,Championship,2016/2017,2016
+Lubomir Satka,Centre-Back,1995-12-02,20,Slovakia,Newcastle United,Championship,2016/2017,2016
+Paul Dummett,Left-Back,1991-09-26,24,Wales,Newcastle United,Championship,2016/2017,2016
+Achraf Lazaar,Left-Back,1992-01-22,24,Morocco,Newcastle United,Championship,2016/2017,2016
+Massadio Haidara,Left-Back,1992-12-02,23,Mali,Newcastle United,Championship,2016/2017,2016
+Daryl Janmaat,Right-Back,1989-07-22,26,Netherlands,Newcastle United,Championship,2016/2017,2016
+Jesús Gámez,Right-Back,1985-04-10,31,Spain,Newcastle United,Championship,2016/2017,2016
+DeAndre Yedlin,Right-Back,1993-07-09,22,United States,Newcastle United,Championship,2016/2017,2016
+Kevin Mbabu,Right-Back,1995-04-19,21,Switzerland,Newcastle United,Championship,2016/2017,2016
+Jamie Sterry,Right-Back,1995-11-21,20,England,Newcastle United,Championship,2016/2017,2016
+Jack Colback,Defensive Midfield,1989-10-24,26,England,Newcastle United,Championship,2016/2017,2016
+Cheik Tioté,Defensive Midfield,1986-06-21,NA,Cote d'Ivoire,Newcastle United,Championship,2016/2017,2016
+Vurnon Anita,Defensive Midfield,1989-04-04,27,Netherlands,Newcastle United,Championship,2016/2017,2016
+Isaac Hayden,Defensive Midfield,1995-03-22,21,England,Newcastle United,Championship,2016/2017,2016
+Jonjo Shelvey,Central Midfield,1992-02-27,24,England,Newcastle United,Championship,2016/2017,2016
+Mohamed Diamé,Central Midfield,1987-06-14,29,Senegal,Newcastle United,Championship,2016/2017,2016
+Dan Barlaser,Central Midfield,1997-01-18,19,Turkey,Newcastle United,Championship,2016/2017,2016
+Matt Ritchie,Right Midfield,1989-09-10,26,Scotland,Newcastle United,Championship,2016/2017,2016
+Siem de Jong,Attacking Midfield,1989-01-28,27,Netherlands,Newcastle United,Championship,2016/2017,2016
+Henri Saivet,Attacking Midfield,1990-10-26,25,Senegal,Newcastle United,Championship,2016/2017,2016
+Haris Vuckic,Attacking Midfield,1992-08-21,23,Slovenia,Newcastle United,Championship,2016/2017,2016
+Yoan Gouffran,Left Winger,1986-05-25,30,France,Newcastle United,Championship,2016/2017,2016
+Christian Atsu,Left Winger,1992-01-10,24,Ghana,Newcastle United,Championship,2016/2017,2016
+Rolando Aarons,Left Winger,1995-11-16,20,England,Newcastle United,Championship,2016/2017,2016
+Florian Thauvin,Right Winger,1993-01-26,23,France,Newcastle United,Championship,2016/2017,2016
+Yasin Ben El-Mhanni,Right Winger,1995-10-26,20,England,Newcastle United,Championship,2016/2017,2016
+Ayoze Pérez,Second Striker,1993-07-29,22,Spain,Newcastle United,Championship,2016/2017,2016
+Aleksandar Mitrovic,Centre-Forward,1994-09-16,21,Serbia,Newcastle United,Championship,2016/2017,2016
+Emmanuel Rivière,Centre-Forward,1990-03-03,26,France,Newcastle United,Championship,2016/2017,2016
+Sammy Ameobi,Centre-Forward,1992-05-01,24,England,Newcastle United,Championship,2016/2017,2016
+Dwight Gayle,Centre-Forward,1990-10-17,25,England,Newcastle United,Championship,2016/2017,2016
+Adam Armstrong,Centre-Forward,1997-02-10,19,England,Newcastle United,Championship,2016/2017,2016
+Daryl Murphy,Centre-Forward,1983-03-15,33,Ireland,Newcastle United,Championship,2016/2017,2016
+Ivan Toney,Centre-Forward,1996-03-16,20,England,Newcastle United,Championship,2016/2017,2016
+Pierluigi Gollini,Goalkeeper,1995-03-18,21,Italy,Aston Villa,Championship,2016/2017,2016
+Mark Bunn,Goalkeeper,1984-11-16,31,England,Aston Villa,Championship,2016/2017,2016
+Jed Steer,Goalkeeper,1992-09-23,23,England,Aston Villa,Championship,2016/2017,2016
+Sam Johnstone,Goalkeeper,1993-03-25,23,England,Aston Villa,Championship,2016/2017,2016
+Matija Sarkic,Goalkeeper,1997-07-23,18,Montenegro,Aston Villa,Championship,2016/2017,2016
+Jores Okore,Centre-Back,1992-08-11,23,Denmark,Aston Villa,Championship,2016/2017,2016
+James Chester,Centre-Back,1989-01-23,27,Wales,Aston Villa,Championship,2016/2017,2016
+Nathan Baker,Centre-Back,1991-04-23,25,England,Aston Villa,Championship,2016/2017,2016
+Tommy Elphick,Centre-Back,1987-09-07,28,England,Aston Villa,Championship,2016/2017,2016
+Jordan Amavi,Left-Back,1994-03-09,22,France,Aston Villa,Championship,2016/2017,2016
+Neil Taylor,Left-Back,1989-02-07,27,Wales,Aston Villa,Championship,2016/2017,2016
+Aly Cissokho,Left-Back,1987-09-15,28,France,Aston Villa,Championship,2016/2017,2016
+Micah Richards,Right-Back,1988-06-24,28,England,Aston Villa,Championship,2016/2017,2016
+Ritchie De Laet,Right-Back,1988-11-28,27,Belgium,Aston Villa,Championship,2016/2017,2016
+Alan Hutton,Right-Back,1984-11-30,31,Scotland,Aston Villa,Championship,2016/2017,2016
+James Bree,Right-Back,1997-10-11,18,England,Aston Villa,Championship,2016/2017,2016
+Mile Jedinak,Defensive Midfield,1984-08-03,31,Australia,Aston Villa,Championship,2016/2017,2016
+Carlos Sánchez,Defensive Midfield,1986-02-06,30,Colombia,Aston Villa,Championship,2016/2017,2016
+Ashley Westwood,Defensive Midfield,1990-04-01,26,England,Aston Villa,Championship,2016/2017,2016
+Jordan Lyden,Defensive Midfield,1996-01-30,20,Australia,Aston Villa,Championship,2016/2017,2016
+Jordan Veretout,Central Midfield,1993-03-01,23,France,Aston Villa,Championship,2016/2017,2016
+Leandro Bacuna,Central Midfield,1991-08-21,24,Curacao,Aston Villa,Championship,2016/2017,2016
+Birkir Bjarnason,Central Midfield,1988-05-27,28,Iceland,Aston Villa,Championship,2016/2017,2016
+Henri Lansbury,Central Midfield,1990-10-12,25,England,Aston Villa,Championship,2016/2017,2016
+Gary Gardner,Central Midfield,1992-06-29,24,England,Aston Villa,Championship,2016/2017,2016
+Conor Hourihane,Central Midfield,1991-02-02,25,Ireland,Aston Villa,Championship,2016/2017,2016
+Aaron Tshibola,Central Midfield,1995-01-02,21,DR Congo,Aston Villa,Championship,2016/2017,2016
+Jack Grealish,Attacking Midfield,1995-09-10,20,England,Aston Villa,Championship,2016/2017,2016
+Carles Gil,Attacking Midfield,1992-11-22,23,Spain,Aston Villa,Championship,2016/2017,2016
+Callum O'Hare,Attacking Midfield,1998-05-01,18,England,Aston Villa,Championship,2016/2017,2016
+Andre Green,Left Winger,1998-07-26,17,England,Aston Villa,Championship,2016/2017,2016
+Adama Traoré,Right Winger,1996-01-25,20,Spain,Aston Villa,Championship,2016/2017,2016
+Albert Adomah,Right Winger,1987-12-13,28,Ghana,Aston Villa,Championship,2016/2017,2016
+Corey Blackett-Taylor,Right Winger,1997-09-23,18,England,Aston Villa,Championship,2016/2017,2016
+Ross McCormack,Second Striker,1986-08-18,29,Scotland,Aston Villa,Championship,2016/2017,2016
+Jordan Ayew,Centre-Forward,1991-09-11,24,Ghana,Aston Villa,Championship,2016/2017,2016
+Rudy Gestede,Centre-Forward,1988-10-10,27,Benin,Aston Villa,Championship,2016/2017,2016
+Gabriel Agbonlahor,Centre-Forward,1986-10-13,29,England,Aston Villa,Championship,2016/2017,2016
+Jonathan Kodjia,Centre-Forward,1989-10-22,26,Cote d'Ivoire,Aston Villa,Championship,2016/2017,2016
+Libor Kozak,Centre-Forward,1989-05-30,27,Czech Republic,Aston Villa,Championship,2016/2017,2016
+Scott Hogan,Centre-Forward,1992-04-13,24,Ireland,Aston Villa,Championship,2016/2017,2016
+Rushian Hepburn-Murphy,Centre-Forward,1998-08-28,17,England,Aston Villa,Championship,2016/2017,2016
+Keinan Davis,Centre-Forward,1998-02-13,18,England,Aston Villa,Championship,2016/2017,2016
+John Ruddy,Goalkeeper,1986-10-24,29,England,Norwich City,Championship,2016/2017,2016
+Declan Rudd,Goalkeeper,1991-01-16,25,England,Norwich City,Championship,2016/2017,2016
+Michael McGovern,Goalkeeper,1984-07-12,31,Northern Ireland,Norwich City,Championship,2016/2017,2016
+Paul Jones,Goalkeeper,1986-06-28,30,England,Norwich City,Championship,2016/2017,2016
+Remi Matthews,Goalkeeper,1994-02-10,22,England,Norwich City,Championship,2016/2017,2016
+Timm Klose,Centre-Back,1988-05-09,28,Switzerland,Norwich City,Championship,2016/2017,2016
+Russell Martin,Centre-Back,1986-01-04,30,Scotland,Norwich City,Championship,2016/2017,2016
+Sébastien Bassong,Centre-Back,1986-07-09,29,Cameroon,Norwich City,Championship,2016/2017,2016
+Ryan Bennett,Centre-Back,1990-03-06,26,England,Norwich City,Championship,2016/2017,2016
+Michael Turner,Centre-Back,1983-11-09,32,England,Norwich City,Championship,2016/2017,2016
+Ben Godfrey,Centre-Back,1998-01-15,18,England,Norwich City,Championship,2016/2017,2016
+Martin Olsson,Left-Back,1988-05-17,28,Sweden,Norwich City,Championship,2016/2017,2016
+Mitchell Dijks,Left-Back,1993-02-09,23,Netherlands,Norwich City,Championship,2016/2017,2016
+Harry Toffolo,Left-Back,1995-08-19,20,England,Norwich City,Championship,2016/2017,2016
+Ivo Pinto,Right-Back,1990-01-07,26,Portugal,Norwich City,Championship,2016/2017,2016
+Steven Whittaker,Right-Back,1984-06-16,32,Scotland,Norwich City,Championship,2016/2017,2016
+Louis Ramsay,Right-Back,1997-09-23,18,England,Norwich City,Championship,2016/2017,2016
+Alexander Tettey,Defensive Midfield,1986-04-04,30,Norway,Norwich City,Championship,2016/2017,2016
+Youssouf Mulumbu,Defensive Midfield,1987-01-25,29,DR Congo,Norwich City,Championship,2016/2017,2016
+Louis Thompson,Defensive Midfield,1994-12-19,21,Wales,Norwich City,Championship,2016/2017,2016
+Ray Grant,Defensive Midfield,1996-11-01,19,Scotland,Norwich City,Championship,2016/2017,2016
+Jonathan Howson,Central Midfield,1988-05-21,28,England,Norwich City,Championship,2016/2017,2016
+Graham Dorrans,Central Midfield,1987-05-05,29,Scotland,Norwich City,Championship,2016/2017,2016
+Tony Andreu,Central Midfield,1988-05-22,28,France,Norwich City,Championship,2016/2017,2016
+Conor McGrandles,Central Midfield,1995-09-24,20,Scotland,Norwich City,Championship,2016/2017,2016
+Robbie Brady,Left Midfield,1992-01-14,24,Ireland,Norwich City,Championship,2016/2017,2016
+Alex Pritchard,Attacking Midfield,1993-05-03,23,England,Norwich City,Championship,2016/2017,2016
+Wesley Hoolahan,Attacking Midfield,1982-05-20,34,Ireland,Norwich City,Championship,2016/2017,2016
+James Maddison,Attacking Midfield,1996-11-23,19,England,Norwich City,Championship,2016/2017,2016
+Matt Jarvis,Left Winger,1986-05-22,30,England,Norwich City,Championship,2016/2017,2016
+Josh Murphy,Left Winger,1995-02-24,21,England,Norwich City,Championship,2016/2017,2016
+Yanic Wildschut,Left Winger,1991-11-01,24,Netherlands,Norwich City,Championship,2016/2017,2016
+Glenn Middleton,Left Winger,2000-01-01,16,Scotland,Norwich City,Championship,2016/2017,2016
+Sergi Canós,Right Winger,1997-02-02,19,Spain,Norwich City,Championship,2016/2017,2016
+Jacob Murphy,Right Winger,1995-02-24,21,England,Norwich City,Championship,2016/2017,2016
+Steven Naismith,Second Striker,1986-09-14,29,Scotland,Norwich City,Championship,2016/2017,2016
+Nélson Oliveira,Centre-Forward,1991-08-08,24,Portugal,Norwich City,Championship,2016/2017,2016
+Cameron Jerome,Centre-Forward,1986-08-14,29,England,Norwich City,Championship,2016/2017,2016
+Kyle Lafferty,Centre-Forward,1987-09-16,28,Northern Ireland,Norwich City,Championship,2016/2017,2016
+Carlton Morris,Centre-Forward,1995-12-16,20,England,Norwich City,Championship,2016/2017,2016
+Scott Carson,Goalkeeper,1985-09-03,30,England,Derby County,Championship,2016/2017,2016
+Lee Grant,Goalkeeper,1983-01-27,33,England,Derby County,Championship,2016/2017,2016
+Chris Weale,Goalkeeper,1982-02-09,34,England,Derby County,Championship,2016/2017,2016
+Kelle Roos,Goalkeeper,1992-05-31,24,Netherlands,Derby County,Championship,2016/2017,2016
+Jonathan Mitchell,Goalkeeper,1994-11-24,21,England,Derby County,Championship,2016/2017,2016
+Jason Shackell,Centre-Back,1983-09-27,32,England,Derby County,Championship,2016/2017,2016
+Richard Keogh,Centre-Back,1986-08-11,29,Ireland,Derby County,Championship,2016/2017,2016
+Alex Pearce,Centre-Back,1988-11-09,27,Ireland,Derby County,Championship,2016/2017,2016
+Farrend Rawson,Centre-Back,1996-07-11,19,England,Derby County,Championship,2016/2017,2016
+Craig Forsyth,Left-Back,1989-02-24,27,Scotland,Derby County,Championship,2016/2017,2016
+Marcus Olsson,Left-Back,1988-05-17,28,Sweden,Derby County,Championship,2016/2017,2016
+Calum MacDonald,Left-Back,1997-12-18,18,Scotland,Derby County,Championship,2016/2017,2016
+Max Lowe,Left-Back,1997-05-11,19,England,Derby County,Championship,2016/2017,2016
+Cyrus Christie,Right-Back,1992-09-30,23,Ireland,Derby County,Championship,2016/2017,2016
+Julien de Sart,Defensive Midfield,1994-12-23,21,Belgium,Derby County,Championship,2016/2017,2016
+George Thorne,Defensive Midfield,1993-01-04,23,England,Derby County,Championship,2016/2017,2016
+Chris Baird,Defensive Midfield,1982-02-25,34,Northern Ireland,Derby County,Championship,2016/2017,2016
+Jamie Hanson,Defensive Midfield,1995-11-10,20,England,Derby County,Championship,2016/2017,2016
+Will Hughes,Central Midfield,1995-04-17,21,England,Derby County,Championship,2016/2017,2016
+Bradley Johnson,Central Midfield,1987-04-28,29,England,Derby County,Championship,2016/2017,2016
+Jacob Butterfield,Central Midfield,1990-06-10,26,England,Derby County,Championship,2016/2017,2016
+Craig Bryson,Central Midfield,1986-11-06,29,Scotland,Derby County,Championship,2016/2017,2016
+Jeff Hendrick,Central Midfield,1992-01-31,24,Ireland,Derby County,Championship,2016/2017,2016
+Timi Elsnik,Central Midfield,1998-04-29,18,Slovenia,Derby County,Championship,2016/2017,2016
+Callum Guy,Central Midfield,1996-11-25,19,England,Derby County,Championship,2016/2017,2016
+Ikechi Anya,Left Midfield,1988-01-03,28,Scotland,Derby County,Championship,2016/2017,2016
+Charles Vernam,Attacking Midfield,1996-10-08,19,England,Derby County,Championship,2016/2017,2016
+Abdoul Camara,Left Winger,1990-02-20,26,Guinea,Derby County,Championship,2016/2017,2016
+Tom Ince,Right Winger,1992-01-30,24,England,Derby County,Championship,2016/2017,2016
+Andreas Weimann,Right Winger,1991-08-05,24,Austria,Derby County,Championship,2016/2017,2016
+Nick Blackman,Right Winger,1989-11-11,26,England,Derby County,Championship,2016/2017,2016
+Johnny Russell,Right Winger,1990-04-08,26,Scotland,Derby County,Championship,2016/2017,2016
+Kyle McAllister,Right Winger,1999-01-21,17,Scotland,Derby County,Championship,2016/2017,2016
+Mason Bennett,Second Striker,1996-07-15,19,England,Derby County,Championship,2016/2017,2016
+Matej Vydra,Centre-Forward,1992-05-01,24,Czech Republic,Derby County,Championship,2016/2017,2016
+David Nugent,Centre-Forward,1985-05-02,31,England,Derby County,Championship,2016/2017,2016
+Chris Martin,Centre-Forward,1988-11-04,27,Scotland,Derby County,Championship,2016/2017,2016
+James Wilson,Centre-Forward,1995-12-01,20,England,Derby County,Championship,2016/2017,2016
+Darren Bent,Centre-Forward,1984-02-06,32,England,Derby County,Championship,2016/2017,2016
+Keiren Westwood,Goalkeeper,1984-10-23,31,Ireland,Sheffield Wednesday,Championship,2016/2017,2016
+Jake Kean,Goalkeeper,1991-02-04,25,England,Sheffield Wednesday,Championship,2016/2017,2016
+Joe Wildsmith,Goalkeeper,1995-12-28,20,England,Sheffield Wednesday,Championship,2016/2017,2016
+Cameron Dawson,Goalkeeper,1995-07-07,20,England,Sheffield Wednesday,Championship,2016/2017,2016
+Tom Lees,Centre-Back,1990-11-28,25,England,Sheffield Wednesday,Championship,2016/2017,2016
+Vincent Sasso,Centre-Back,1991-02-16,25,France,Sheffield Wednesday,Championship,2016/2017,2016
+Glenn Loovens,Centre-Back,1983-10-22,32,Netherlands,Sheffield Wednesday,Championship,2016/2017,2016
+Claude Dielna,Centre-Back,1987-12-14,28,France,Sheffield Wednesday,Championship,2016/2017,2016
+Connor O'Grady,Centre-Back,1997-12-05,18,Ireland,Sheffield Wednesday,Championship,2016/2017,2016
+Daniel Pudil,Left-Back,1985-09-27,30,Czech Republic,Sheffield Wednesday,Championship,2016/2017,2016
+Morgan Fox,Left-Back,1993-09-21,22,Wales,Sheffield Wednesday,Championship,2016/2017,2016
+Jordan Thorniley,Left-Back,1996-11-24,19,England,Sheffield Wednesday,Championship,2016/2017,2016
+Jack Hunt,Right-Back,1990-12-06,25,England,Sheffield Wednesday,Championship,2016/2017,2016
+Liam Palmer,Right-Back,1991-09-19,24,Scotland,Sheffield Wednesday,Championship,2016/2017,2016
+Marnick Vermijl,Right-Back,1992-01-13,24,Belgium,Sheffield Wednesday,Championship,2016/2017,2016
+Kieran Lee,Defensive Midfield,1988-06-22,28,England,Sheffield Wednesday,Championship,2016/2017,2016
+Filipe Melo,Defensive Midfield,1989-11-03,26,Portugal,Sheffield Wednesday,Championship,2016/2017,2016
+José Semedo,Defensive Midfield,1985-01-11,31,Portugal,Sheffield Wednesday,Championship,2016/2017,2016
+Sam Hutchinson,Defensive Midfield,1989-08-03,26,England,Sheffield Wednesday,Championship,2016/2017,2016
+Almen Abdi,Central Midfield,1986-10-21,29,Switzerland,Sheffield Wednesday,Championship,2016/2017,2016
+Barry Bannan,Central Midfield,1989-12-01,26,Scotland,Sheffield Wednesday,Championship,2016/2017,2016
+David Jones,Central Midfield,1984-11-04,31,England,Sheffield Wednesday,Championship,2016/2017,2016
+Lewis McGugan,Central Midfield,1988-10-25,27,England,Sheffield Wednesday,Championship,2016/2017,2016
+Urby Emanuelson,Central Midfield,1986-06-16,30,Netherlands,Sheffield Wednesday,Championship,2016/2017,2016
+James Murphy,Central Midfield,1997-09-17,18,United States,Sheffield Wednesday,Championship,2016/2017,2016
+Ross Wallace,Right Midfield,1985-05-23,31,Scotland,Sheffield Wednesday,Championship,2016/2017,2016
+Sean Clare,Right Midfield,1996-09-18,19,England,Sheffield Wednesday,Championship,2016/2017,2016
+Adam Reach,Left Midfield,1993-02-03,23,England,Sheffield Wednesday,Championship,2016/2017,2016
+Jérémy Hélan,Left Midfield,1992-05-09,24,France,Sheffield Wednesday,Championship,2016/2017,2016
+Callum McManaman,Right Winger,1991-04-25,25,England,Sheffield Wednesday,Championship,2016/2017,2016
+Marco Matias,Right Winger,1989-05-10,27,Portugal,Sheffield Wednesday,Championship,2016/2017,2016
+Will Buckley,Right Winger,1989-11-21,26,England,Sheffield Wednesday,Championship,2016/2017,2016
+Modou Sougou,Right Winger,1984-12-18,31,Senegal,Sheffield Wednesday,Championship,2016/2017,2016
+Fernando Forestieri,Second Striker,1990-01-16,26,Italy,Sheffield Wednesday,Championship,2016/2017,2016
+Jordan Rhodes,Centre-Forward,1990-02-05,26,Scotland,Sheffield Wednesday,Championship,2016/2017,2016
+Gary Hooper,Centre-Forward,1988-01-26,28,England,Sheffield Wednesday,Championship,2016/2017,2016
+Steven Fletcher,Centre-Forward,1987-03-26,29,Scotland,Sheffield Wednesday,Championship,2016/2017,2016
+Lucas João,Centre-Forward,1993-09-04,22,Portugal,Sheffield Wednesday,Championship,2016/2017,2016
+Atdhe Nuhiu,Centre-Forward,1989-07-29,26,Kosovo,Sheffield Wednesday,Championship,2016/2017,2016
+Sam Winnall,Centre-Forward,1991-01-19,25,England,Sheffield Wednesday,Championship,2016/2017,2016
+Jack Stobbs,Centre-Forward,1997-02-27,19,England,Sheffield Wednesday,Championship,2016/2017,2016
+George Hirst,Centre-Forward,1999-02-15,17,England,Sheffield Wednesday,Championship,2016/2017,2016
+Marcus Bettinelli,Goalkeeper,1992-05-24,24,England,Fulham FC,Championship,2016/2017,2016
+David Button,Goalkeeper,1989-02-27,27,England,Fulham FC,Championship,2016/2017,2016
+Jesse Joronen,Goalkeeper,1993-03-21,23,Finland,Fulham FC,Championship,2016/2017,2016
+Ragnar Sigurdsson,Centre-Back,1986-06-19,30,Iceland,Fulham FC,Championship,2016/2017,2016
+Tomas Kalas,Centre-Back,1993-05-15,23,Czech Republic,Fulham FC,Championship,2016/2017,2016
+Richard Stearman,Centre-Back,1987-08-19,28,England,Fulham FC,Championship,2016/2017,2016
+Tim Ream,Centre-Back,1987-10-05,28,United States,Fulham FC,Championship,2016/2017,2016
+Michael Madl,Centre-Back,1988-03-21,28,Austria,Fulham FC,Championship,2016/2017,2016
+Cameron Burgess,Centre-Back,1995-10-21,20,Australia,Fulham FC,Championship,2016/2017,2016
+Scott Malone,Left-Back,1991-03-25,25,England,Fulham FC,Championship,2016/2017,2016
+Sean Kavanagh,Left-Back,1994-01-20,22,Ireland,Fulham FC,Championship,2016/2017,2016
+Denis Odoi,Right-Back,1988-05-27,28,Belgium,Fulham FC,Championship,2016/2017,2016
+Jack Grimmer,Right-Back,1994-01-25,22,Scotland,Fulham FC,Championship,2016/2017,2016
+Ryan Fredericks,Right-Back,1992-10-10,23,England,Fulham FC,Championship,2016/2017,2016
+Kevin McDonald,Defensive Midfield,1988-11-04,27,Scotland,Fulham FC,Championship,2016/2017,2016
+Thanos Petsos,Defensive Midfield,1991-06-05,25,Greece,Fulham FC,Championship,2016/2017,2016
+Tayo Edun,Defensive Midfield,1998-05-14,18,England,Fulham FC,Championship,2016/2017,2016
+Jozabed Sánchez,Central Midfield,1991-03-08,25,Spain,Fulham FC,Championship,2016/2017,2016
+Tom Cairney,Central Midfield,1991-01-20,25,Scotland,Fulham FC,Championship,2016/2017,2016
+Stefan Johansen,Central Midfield,1991-01-08,25,Norway,Fulham FC,Championship,2016/2017,2016
+Lasse Vigen,Central Midfield,1994-08-15,21,Denmark,Fulham FC,Championship,2016/2017,2016
+Ryan Tunnicliffe,Central Midfield,1992-12-30,23,England,Fulham FC,Championship,2016/2017,2016
+Scott Parker,Central Midfield,1980-10-13,35,England,Fulham FC,Championship,2016/2017,2016
+Dennis Adeniran,Central Midfield,1999-01-02,17,England,Fulham FC,Championship,2016/2017,2016
+Larnell Cole,Right Midfield,1993-03-09,23,England,Fulham FC,Championship,2016/2017,2016
+Luca de la Torre,Right Midfield,1998-05-23,18,United States,Fulham FC,Championship,2016/2017,2016
+Ryan Sessegnon,Left Midfield,2000-05-18,16,England,Fulham FC,Championship,2016/2017,2016
+Neeskens Kebano,Attacking Midfield,1992-03-10,24,DR Congo,Fulham FC,Championship,2016/2017,2016
+George Williams,Attacking Midfield,1995-09-07,20,Wales,Fulham FC,Championship,2016/2017,2016
+Cyriac,Left Winger,1990-08-15,25,Cote d'Ivoire,Fulham FC,Championship,2016/2017,2016
+Floyd Ayité,Left Winger,1988-12-15,27,Togo,Fulham FC,Championship,2016/2017,2016
+Lucas Piazón,Right Winger,1994-01-20,22,Brazil,Fulham FC,Championship,2016/2017,2016
+Sone Aluko,Second Striker,1989-02-19,27,Nigeria,Fulham FC,Championship,2016/2017,2016
+Chris Martin,Centre-Forward,1988-11-04,27,Scotland,Fulham FC,Championship,2016/2017,2016
+Cauley Woodrow,Centre-Forward,1994-12-02,21,England,Fulham FC,Championship,2016/2017,2016
+Matt Smith,Centre-Forward,1989-06-07,27,England,Fulham FC,Championship,2016/2017,2016
+Stephen Humphrys,Centre-Forward,1997-09-15,18,England,Fulham FC,Championship,2016/2017,2016
+Carl Ikeme,Goalkeeper,1986-06-08,30,Nigeria,Wolverhampton Wanderers,Championship,2016/2017,2016
+Andy Lonergan,Goalkeeper,1983-10-19,32,England,Wolverhampton Wanderers,Championship,2016/2017,2016
+Jack Ruddy,Goalkeeper,1997-12-27,18,Scotland,Wolverhampton Wanderers,Championship,2016/2017,2016
+Jonathan Flatt,Goalkeeper,1994-09-12,21,England,Wolverhampton Wanderers,Championship,2016/2017,2016
+Harry Burgoyne,Goalkeeper,1996-12-28,19,England,Wolverhampton Wanderers,Championship,2016/2017,2016
+Conor Coady,Centre-Back,1993-02-25,23,England,Wolverhampton Wanderers,Championship,2016/2017,2016
+Richard Stearman,Centre-Back,1987-08-19,28,England,Wolverhampton Wanderers,Championship,2016/2017,2016
+Mike Williamson,Centre-Back,1983-11-08,32,England,Wolverhampton Wanderers,Championship,2016/2017,2016
+Danny Batth,Centre-Back,1990-09-21,25,England,Wolverhampton Wanderers,Championship,2016/2017,2016
+Kortney Hause,Centre-Back,1995-07-16,20,England,Wolverhampton Wanderers,Championship,2016/2017,2016
+Ethan Ebanks-Landell,Centre-Back,1992-12-12,23,England,Wolverhampton Wanderers,Championship,2016/2017,2016
+Connor Johnson,Centre-Back,1998-03-10,18,England,Wolverhampton Wanderers,Championship,2016/2017,2016
+Cameron Borthwick-Jackson,Left-Back,1997-02-02,19,England,Wolverhampton Wanderers,Championship,2016/2017,2016
+Sylvain Deslandes,Left-Back,1997-04-25,19,France,Wolverhampton Wanderers,Championship,2016/2017,2016
+Sílvio,Right-Back,1987-09-28,28,Portugal,Wolverhampton Wanderers,Championship,2016/2017,2016
+Matt Doherty,Right-Back,1992-01-16,24,Ireland,Wolverhampton Wanderers,Championship,2016/2017,2016
+Dominic Iorfa,Right-Back,1995-06-24,21,England,Wolverhampton Wanderers,Championship,2016/2017,2016
+Prince Oniangué,Defensive Midfield,1988-11-04,27,Congo,Wolverhampton Wanderers,Championship,2016/2017,2016
+Romain Saïss,Defensive Midfield,1990-03-26,26,Morocco,Wolverhampton Wanderers,Championship,2016/2017,2016
+David Edwards,Central Midfield,1986-02-03,30,Wales,Wolverhampton Wanderers,Championship,2016/2017,2016
+George Saville,Central Midfield,1993-06-01,23,Northern Ireland,Wolverhampton Wanderers,Championship,2016/2017,2016
+Lee Evans,Central Midfield,1994-07-24,21,Wales,Wolverhampton Wanderers,Championship,2016/2017,2016
+Jack Price,Central Midfield,1992-12-19,23,England,Wolverhampton Wanderers,Championship,2016/2017,2016
+Morgan Gibbs-White,Central Midfield,2000-01-27,16,England,Wolverhampton Wanderers,Championship,2016/2017,2016
+Connor Ronan,Central Midfield,1998-03-06,18,Ireland,Wolverhampton Wanderers,Championship,2016/2017,2016
+Ben Marshall,Right Midfield,1991-03-29,25,England,Wolverhampton Wanderers,Championship,2016/2017,2016
+Jed Wallace,Right Midfield,1993-12-15,22,England,Wolverhampton Wanderers,Championship,2016/2017,2016
+João Teixeira,Attacking Midfield,1994-02-06,22,Portugal,Wolverhampton Wanderers,Championship,2016/2017,2016
+Ola John,Left Winger,1992-05-19,24,Netherlands,Wolverhampton Wanderers,Championship,2016/2017,2016
+Jordan Graham,Left Winger,1995-03-05,21,England,Wolverhampton Wanderers,Championship,2016/2017,2016
+Will Randall,Left Winger,1997-05-02,19,England,Wolverhampton Wanderers,Championship,2016/2017,2016
+Ivan Cavaleiro,Right Winger,1993-10-18,22,Portugal,Wolverhampton Wanderers,Championship,2016/2017,2016
+Andreas Weimann,Right Winger,1991-08-05,24,Austria,Wolverhampton Wanderers,Championship,2016/2017,2016
+Hélder Costa,Right Winger,1994-01-12,22,Portugal,Wolverhampton Wanderers,Championship,2016/2017,2016
+Michal Zyro,Right Winger,1992-09-20,23,Poland,Wolverhampton Wanderers,Championship,2016/2017,2016
+James Henry,Right Winger,1989-06-10,27,England,Wolverhampton Wanderers,Championship,2016/2017,2016
+Aaron Collins,Right Winger,1997-05-27,19,Wales,Wolverhampton Wanderers,Championship,2016/2017,2016
+Joe Mason,Centre-Forward,1991-05-13,25,Ireland,Wolverhampton Wanderers,Championship,2016/2017,2016
+Nouha Dicko,Centre-Forward,1992-05-14,24,Mali,Wolverhampton Wanderers,Championship,2016/2017,2016
+Jón Dadi Bödvarsson,Centre-Forward,1992-05-25,24,Iceland,Wolverhampton Wanderers,Championship,2016/2017,2016
+Paul Gladon,Centre-Forward,1992-03-18,24,Netherlands,Wolverhampton Wanderers,Championship,2016/2017,2016
+Duckens Nazon,Centre-Forward,1994-04-07,22,Haiti,Wolverhampton Wanderers,Championship,2016/2017,2016
+Bright Enobakhare,Centre-Forward,1998-02-08,18,Nigeria,Wolverhampton Wanderers,Championship,2016/2017,2016
+Donovan Wilson,Centre-Forward,1997-03-14,19,England,Wolverhampton Wanderers,Championship,2016/2017,2016
+Vladimir Stojkovic,Goalkeeper,1983-07-28,32,Serbia,Nottingham Forest,Championship,2016/2017,2016
+Stephen Henderson,Goalkeeper,1988-05-02,28,Ireland,Nottingham Forest,Championship,2016/2017,2016
+Dorus de Vries,Goalkeeper,1980-12-29,35,Netherlands,Nottingham Forest,Championship,2016/2017,2016
+Dimitar Evtimov,Goalkeeper,1993-09-07,22,Bulgaria,Nottingham Forest,Championship,2016/2017,2016
+Jordan Smith,Goalkeeper,1994-12-08,21,England,Nottingham Forest,Championship,2016/2017,2016
+Matt Mills,Centre-Back,1986-07-14,29,England,Nottingham Forest,Championship,2016/2017,2016
+Michael Mancienne,Centre-Back,1988-01-08,28,England,Nottingham Forest,Championship,2016/2017,2016
+Jack Hobbs,Centre-Back,1988-08-18,27,England,Nottingham Forest,Championship,2016/2017,2016
+Thomas Lam,Centre-Back,1993-12-18,22,Finland,Nottingham Forest,Championship,2016/2017,2016
+Damien Perquis,Centre-Back,1984-04-10,32,Poland,Nottingham Forest,Championship,2016/2017,2016
+Alex Iacovitti,Centre-Back,1997-09-02,18,Scotland,Nottingham Forest,Championship,2016/2017,2016
+Anel Ahmedhodzic,Centre-Back,1999-03-26,17,Sweden,Nottingham Forest,Championship,2016/2017,2016
+Joe Worrall,Centre-Back,1997-01-10,19,England,Nottingham Forest,Championship,2016/2017,2016
+Armand Traoré,Left-Back,1989-10-08,26,Senegal,Nottingham Forest,Championship,2016/2017,2016
+Danny Fox,Left-Back,1986-05-29,30,Scotland,Nottingham Forest,Championship,2016/2017,2016
+Dani Pinillos,Left-Back,1992-10-22,23,Spain,Nottingham Forest,Championship,2016/2017,2016
+Eric Lichaj,Right-Back,1988-11-17,27,United States,Nottingham Forest,Championship,2016/2017,2016
+Toby Edser,Midfielder,1999-02-28,17,England,Nottingham Forest,Championship,2016/2017,2016
+David Vaughan,Defensive Midfield,1983-02-18,33,Wales,Nottingham Forest,Championship,2016/2017,2016
+Pajtim Kasami,Central Midfield,1992-06-02,24,Switzerland,Nottingham Forest,Championship,2016/2017,2016
+Henri Lansbury,Central Midfield,1990-10-12,25,England,Nottingham Forest,Championship,2016/2017,2016
+Chris Cohen,Central Midfield,1987-03-05,29,England,Nottingham Forest,Championship,2016/2017,2016
+Aaron Tshibola,Central Midfield,1995-01-02,21,DR Congo,Nottingham Forest,Championship,2016/2017,2016
+Matty Cash,Right Midfield,1997-08-07,18,England,Nottingham Forest,Championship,2016/2017,2016
+Ben Osborn,Left Midfield,1994-08-05,21,England,Nottingham Forest,Championship,2016/2017,2016
+Jorge Grant,Left Midfield,1994-09-26,21,England,Nottingham Forest,Championship,2016/2017,2016
+João Teixeira,Attacking Midfield,1994-02-06,22,Portugal,Nottingham Forest,Championship,2016/2017,2016
+Jamie Ward,Left Winger,1986-05-12,30,Northern Ireland,Nottingham Forest,Championship,2016/2017,2016
+Nicolao Dumitru,Left Winger,1991-10-12,24,Italy,Nottingham Forest,Championship,2016/2017,2016
+Hildeberto,Left Winger,1996-03-02,20,Portugal,Nottingham Forest,Championship,2016/2017,2016
+Mustapha Carayol,Right Winger,1988-09-04,27,The Gambia,Nottingham Forest,Championship,2016/2017,2016
+Oliver Burke,Right Winger,1997-04-07,19,Scotland,Nottingham Forest,Championship,2016/2017,2016
+Gboly Ariyibi,Right Winger,1995-01-18,21,United States,Nottingham Forest,Championship,2016/2017,2016
+Ross McCormack,Second Striker,1986-08-18,29,Scotland,Nottingham Forest,Championship,2016/2017,2016
+Licá,Second Striker,1988-09-08,27,Portugal,Nottingham Forest,Championship,2016/2017,2016
+Jamie Paterson,Second Striker,1991-12-20,24,England,Nottingham Forest,Championship,2016/2017,2016
+Zach Clough,Second Striker,1995-03-08,21,England,Nottingham Forest,Championship,2016/2017,2016
+Britt Assombalonga,Centre-Forward,1992-12-06,23,DR Congo,Nottingham Forest,Championship,2016/2017,2016
+Lars Veldwijk,Centre-Forward,1991-08-21,24,South Africa,Nottingham Forest,Championship,2016/2017,2016
+Nicklas Bendtner,Centre-Forward,1988-01-16,28,Denmark,Nottingham Forest,Championship,2016/2017,2016
+Matty Fryatt,Centre-Forward,1986-03-05,30,England,Nottingham Forest,Championship,2016/2017,2016
+Apostolos Vellios,Centre-Forward,1992-01-08,24,Greece,Nottingham Forest,Championship,2016/2017,2016
+Tyler Walker,Centre-Forward,1996-10-07,19,England,Nottingham Forest,Championship,2016/2017,2016
+James Thorne,Centre-Forward,1996-01-03,20,England,Nottingham Forest,Championship,2016/2017,2016
+Ben Brereton,Centre-Forward,1999-04-18,17,England,Nottingham Forest,Championship,2016/2017,2016
+David Marshall,Goalkeeper,1985-03-05,31,Scotland,Cardiff City,Championship,2016/2017,2016
+Allan McGregor,Goalkeeper,1982-01-31,34,Scotland,Cardiff City,Championship,2016/2017,2016
+Ben Amos,Goalkeeper,1990-04-10,26,England,Cardiff City,Championship,2016/2017,2016
+Brian Murphy,Goalkeeper,1983-05-07,33,Ireland,Cardiff City,Championship,2016/2017,2016
+Simon Moore,Goalkeeper,1990-05-19,26,England,Cardiff City,Championship,2016/2017,2016
+Ben Wilson,Goalkeeper,1992-08-09,23,England,Cardiff City,Championship,2016/2017,2016
+Bruno Ecuele Manga,Centre-Back,1988-07-16,27,Gabon,Cardiff City,Championship,2016/2017,2016
+Sean Morrison,Centre-Back,1991-01-08,25,England,Cardiff City,Championship,2016/2017,2016
+Sol Bamba,Centre-Back,1985-01-13,31,Cote d'Ivoire,Cardiff City,Championship,2016/2017,2016
+Matthew Connolly,Centre-Back,1987-09-24,28,England,Cardiff City,Championship,2016/2017,2016
+Greg Halford,Centre-Back,1984-12-08,31,England,Cardiff City,Championship,2016/2017,2016
+Adedeji Oshilaja,Centre-Back,1993-07-16,22,England,Cardiff City,Championship,2016/2017,2016
+Semi Ajayi,Centre-Back,1993-11-09,22,Nigeria,Cardiff City,Championship,2016/2017,2016
+Kieran Richardson,Left-Back,1984-10-21,31,England,Cardiff City,Championship,2016/2017,2016
+Joe Bennett,Left-Back,1990-03-28,26,England,Cardiff City,Championship,2016/2017,2016
+Declan John,Left-Back,1995-06-30,21,Wales,Cardiff City,Championship,2016/2017,2016
+Lee Peltier,Right-Back,1986-12-11,29,England,Cardiff City,Championship,2016/2017,2016
+Jazz Richards,Right-Back,1991-04-12,25,Wales,Cardiff City,Championship,2016/2017,2016
+Emyr Huws,Defensive Midfield,1993-09-30,22,Wales,Cardiff City,Championship,2016/2017,2016
+Peter Whittingham,Central Midfield,1984-09-08,31,England,Cardiff City,Championship,2016/2017,2016
+Aron Gunnarsson,Central Midfield,1989-04-22,27,Iceland,Cardiff City,Championship,2016/2017,2016
+Tom Adeyemi,Central Midfield,1991-10-24,24,England,Cardiff City,Championship,2016/2017,2016
+Stuart O'Keefe,Central Midfield,1991-03-04,25,England,Cardiff City,Championship,2016/2017,2016
+Joe Ralls,Central Midfield,1993-10-13,22,England,Cardiff City,Championship,2016/2017,2016
+Kadeem Harris,Right Midfield,1993-06-08,23,England,Cardiff City,Championship,2016/2017,2016
+Lex Immers,Attacking Midfield,1986-06-08,30,Netherlands,Cardiff City,Championship,2016/2017,2016
+Junior Hoilett,Left Winger,1990-06-05,26,Canada,Cardiff City,Championship,2016/2017,2016
+Anthony Pilkington,Left Winger,1988-06-06,28,Ireland,Cardiff City,Championship,2016/2017,2016
+Mark Harris,Left Winger,1998-12-29,17,Wales,Cardiff City,Championship,2016/2017,2016
+Craig Noone,Right Winger,1987-11-17,28,England,Cardiff City,Championship,2016/2017,2016
+Matty Kennedy,Right Winger,1994-11-01,21,Scotland,Cardiff City,Championship,2016/2017,2016
+Rickie Lambert,Centre-Forward,1982-02-16,34,England,Cardiff City,Championship,2016/2017,2016
+Adam Le Fondre,Centre-Forward,1986-12-02,29,England,Cardiff City,Championship,2016/2017,2016
+Marouane Chamakh,Centre-Forward,1984-01-10,32,Morocco,Cardiff City,Championship,2016/2017,2016
+Frédéric Gounongbe,Centre-Forward,1988-05-01,28,Benin,Cardiff City,Championship,2016/2017,2016
+Idriss Saadi,Centre-Forward,1992-02-08,24,Algeria,Cardiff City,Championship,2016/2017,2016
+Kenneth Zohore,Centre-Forward,1994-01-31,22,Denmark,Cardiff City,Championship,2016/2017,2016
+Ibrahim Meite,Centre-Forward,1996-08-26,19,England,Cardiff City,Championship,2016/2017,2016
+Rhys Healey,Centre-Forward,1994-12-06,21,England,Cardiff City,Championship,2016/2017,2016
+Alex Smithies,Goalkeeper,1990-03-05,26,England,Queens Park Rangers,Championship,2016/2017,2016
+Joe Lumley,Goalkeeper,1995-02-15,21,England,Queens Park Rangers,Championship,2016/2017,2016
+Matt Ingram,Goalkeeper,1993-12-18,22,England,Queens Park Rangers,Championship,2016/2017,2016
+Steven Caulker,Centre-Back,1991-12-29,24,England,Queens Park Rangers,Championship,2016/2017,2016
+Nedum Onuoha,Centre-Back,1986-11-12,29,England,Queens Park Rangers,Championship,2016/2017,2016
+Joel Lynch,Centre-Back,1987-10-03,28,Wales,Queens Park Rangers,Championship,2016/2017,2016
+Grant Hall,Centre-Back,1991-10-29,24,England,Queens Park Rangers,Championship,2016/2017,2016
+Jake Bidwell,Left-Back,1993-03-21,23,England,Queens Park Rangers,Championship,2016/2017,2016
+Jack Robinson,Left-Back,1993-09-01,22,England,Queens Park Rangers,Championship,2016/2017,2016
+Cole Kpekawa,Left-Back,1996-05-20,20,England,Queens Park Rangers,Championship,2016/2017,2016
+Niko Hämäläinen,Left-Back,1997-03-05,19,Finland,Queens Park Rangers,Championship,2016/2017,2016
+James Perch,Right-Back,1985-09-28,30,England,Queens Park Rangers,Championship,2016/2017,2016
+Darnell Furlong,Right-Back,1995-10-31,20,England,Queens Park Rangers,Championship,2016/2017,2016
+Osman Kakay,Right-Back,1997-08-25,18,Sierra Leone,Queens Park Rangers,Championship,2016/2017,2016
+Christopher Paul,Midfielder,1997-09-25,18,Northern Ireland,Queens Park Rangers,Championship,2016/2017,2016
+Sandro,Defensive Midfield,1989-03-15,27,Brazil,Queens Park Rangers,Championship,2016/2017,2016
+Karl Henry,Defensive Midfield,1982-11-26,33,England,Queens Park Rangers,Championship,2016/2017,2016
+Ariel Borysiuk,Defensive Midfield,1991-07-29,24,Poland,Queens Park Rangers,Championship,2016/2017,2016
+Massimo Luongo,Central Midfield,1992-09-25,23,Australia,Queens Park Rangers,Championship,2016/2017,2016
+Jordan Cousins,Central Midfield,1994-03-06,22,England,Queens Park Rangers,Championship,2016/2017,2016
+Ben Gladwin,Central Midfield,1992-06-08,24,England,Queens Park Rangers,Championship,2016/2017,2016
+Michael Doughty,Central Midfield,1992-11-20,23,Wales,Queens Park Rangers,Championship,2016/2017,2016
+Brandon Comley,Central Midfield,1995-11-18,20,Montserrat,Queens Park Rangers,Championship,2016/2017,2016
+Sean Goss,Central Midfield,1995-10-01,20,England,Queens Park Rangers,Championship,2016/2017,2016
+Pawel Wszolek,Right Midfield,1992-04-30,24,Poland,Queens Park Rangers,Championship,2016/2017,2016
+Reece Grego-Cox,Right Midfield,1996-11-12,19,Ireland,Queens Park Rangers,Championship,2016/2017,2016
+Ryan Manning,Left Midfield,1996-06-14,20,Ireland,Queens Park Rangers,Championship,2016/2017,2016
+Tjaronn Chery,Attacking Midfield,1988-06-04,28,Netherlands,Queens Park Rangers,Championship,2016/2017,2016
+Ravel Morrison,Attacking Midfield,1993-02-02,23,Jamaica,Queens Park Rangers,Championship,2016/2017,2016
+Luke Freeman,Attacking Midfield,1992-03-22,24,England,Queens Park Rangers,Championship,2016/2017,2016
+Nasser El Khayati,Attacking Midfield,1989-02-07,27,Netherlands,Queens Park Rangers,Championship,2016/2017,2016
+Eberechi Eze,Attacking Midfield,1998-06-29,18,England,Queens Park Rangers,Championship,2016/2017,2016
+Kazenga LuaLua,Left Winger,1990-12-10,25,DR Congo,Queens Park Rangers,Championship,2016/2017,2016
+Olamide Shodipo,Left Winger,1997-07-05,18,Ireland,Queens Park Rangers,Championship,2016/2017,2016
+Yeni N'Gbakoto,Right Winger,1992-01-23,24,DR Congo,Queens Park Rangers,Championship,2016/2017,2016
+Jamie Mackie,Right Winger,1985-09-28,30,Scotland,Queens Park Rangers,Championship,2016/2017,2016
+Michael Petrasso,Right Winger,1995-07-09,20,Canada,Queens Park Rangers,Championship,2016/2017,2016
+Josh Bowler,Right Winger,1999-03-05,17,England,Queens Park Rangers,Championship,2016/2017,2016
+Idrissa Sylla,Centre-Forward,1990-12-03,25,Guinea,Queens Park Rangers,Championship,2016/2017,2016
+Conor Washington,Centre-Forward,1992-05-18,24,Northern Ireland,Queens Park Rangers,Championship,2016/2017,2016
+Sebastian Polter,Centre-Forward,1991-04-01,25,Germany,Queens Park Rangers,Championship,2016/2017,2016
+Jay Emmanuel-Thomas,Centre-Forward,1990-12-27,25,England,Queens Park Rangers,Championship,2016/2017,2016
+Matt Smith,Centre-Forward,1989-06-07,27,England,Queens Park Rangers,Championship,2016/2017,2016
+David Stockdale,Goalkeeper,1985-09-20,30,England,Brighton & Hove Albion,Championship,2016/2017,2016
+Niki Mäenpää,Goalkeeper,1985-01-23,31,Finland,Brighton & Hove Albion,Championship,2016/2017,2016
+Casper Ankergren,Goalkeeper,1979-11-09,36,Denmark,Brighton & Hove Albion,Championship,2016/2017,2016
+Christian Walton,Goalkeeper,1995-11-06,20,England,Brighton & Hove Albion,Championship,2016/2017,2016
+Lewis Dunk,Centre-Back,1991-11-21,24,England,Brighton & Hove Albion,Championship,2016/2017,2016
+Uwe Hünemeier,Centre-Back,1986-01-09,30,Germany,Brighton & Hove Albion,Championship,2016/2017,2016
+Vegard Forren,Centre-Back,1988-02-16,28,Norway,Brighton & Hove Albion,Championship,2016/2017,2016
+Shane Duffy,Centre-Back,1992-01-01,24,Ireland,Brighton & Hove Albion,Championship,2016/2017,2016
+Connor Goldson,Centre-Back,1992-12-18,23,England,Brighton & Hove Albion,Championship,2016/2017,2016
+Fikayo Tomori,Centre-Back,1997-12-19,18,England,Brighton & Hove Albion,Championship,2016/2017,2016
+Ben White,Centre-Back,1997-10-08,18,England,Brighton & Hove Albion,Championship,2016/2017,2016
+Tom Cadman,Centre-Back,1998-05-04,18,Ireland,Brighton & Hove Albion,Championship,2016/2017,2016
+Gaëtan Bong,Left-Back,1988-04-25,28,Cameroon,Brighton & Hove Albion,Championship,2016/2017,2016
+Sébastien Pocognoli,Left-Back,1987-08-01,28,Belgium,Brighton & Hove Albion,Championship,2016/2017,2016
+Sam Adekugbe,Left-Back,1995-01-16,21,Canada,Brighton & Hove Albion,Championship,2016/2017,2016
+Liam Rosenior,Right-Back,1984-07-09,31,England,Brighton & Hove Albion,Championship,2016/2017,2016
+Bruno,Right-Back,1980-10-01,35,Spain,Brighton & Hove Albion,Championship,2016/2017,2016
+Tyler Hornby-Forbes,Right-Back,1996-03-08,20,England,Brighton & Hove Albion,Championship,2016/2017,2016
+Rob Hunt,Right-Back,1995-07-07,20,England,Brighton & Hove Albion,Championship,2016/2017,2016
+Rohan Ince,Defensive Midfield,1992-11-08,23,England,Brighton & Hove Albion,Championship,2016/2017,2016
+Dale Stephens,Central Midfield,1989-12-12,26,England,Brighton & Hove Albion,Championship,2016/2017,2016
+Oliver Norwood,Central Midfield,1991-04-12,25,Northern Ireland,Brighton & Hove Albion,Championship,2016/2017,2016
+Beram Kayal,Central Midfield,1988-05-02,28,Israel,Brighton & Hove Albion,Championship,2016/2017,2016
+Danny Holla,Central Midfield,1987-12-31,28,Netherlands,Brighton & Hove Albion,Championship,2016/2017,2016
+Steve Sidwell,Central Midfield,1982-12-14,33,England,Brighton & Hove Albion,Championship,2016/2017,2016
+Richie Towell,Central Midfield,1991-07-17,24,Ireland,Brighton & Hove Albion,Championship,2016/2017,2016
+Solly March,Left Midfield,1994-07-20,21,England,Brighton & Hove Albion,Championship,2016/2017,2016
+James Tilley,Attacking Midfield,1998-06-13,18,England,Brighton & Hove Albion,Championship,2016/2017,2016
+Elvis Manu,Left Winger,1993-08-13,22,Netherlands,Brighton & Hove Albion,Championship,2016/2017,2016
+Jamie Murphy,Left Winger,1989-08-28,26,Scotland,Brighton & Hove Albion,Championship,2016/2017,2016
+Jiri Skalak,Left Winger,1992-03-12,24,Czech Republic,Brighton & Hove Albion,Championship,2016/2017,2016
+Kazenga LuaLua,Left Winger,1990-12-10,25,DR Congo,Brighton & Hove Albion,Championship,2016/2017,2016
+Anthony Knockaert,Right Winger,1991-11-20,24,France,Brighton & Hove Albion,Championship,2016/2017,2016
+Glenn Murray,Centre-Forward,1983-09-25,32,England,Brighton & Hove Albion,Championship,2016/2017,2016
+Tomer Hemed,Centre-Forward,1987-05-02,29,Israel,Brighton & Hove Albion,Championship,2016/2017,2016
+Sam Baldock,Centre-Forward,1989-03-15,27,England,Brighton & Hove Albion,Championship,2016/2017,2016
+Chuba Akpom,Centre-Forward,1995-10-09,20,England,Brighton & Hove Albion,Championship,2016/2017,2016
+Chris O'Grady,Centre-Forward,1986-01-25,30,England,Brighton & Hove Albion,Championship,2016/2017,2016
+Jonathan Bond,Goalkeeper,1993-05-19,23,England,Reading FC,Championship,2016/2017,2016
+Ali Al-Habsi,Goalkeeper,1981-12-30,34,Oman,Reading FC,Championship,2016/2017,2016
+Anssi Jaakkola,Goalkeeper,1987-03-13,29,Finland,Reading FC,Championship,2016/2017,2016
+Stuart Moore,Goalkeeper,1994-09-08,21,England,Reading FC,Championship,2016/2017,2016
+George Legg,Goalkeeper,1996-04-30,20,England,Reading FC,Championship,2016/2017,2016
+Tiago Ilori,Centre-Back,1993-02-26,23,Portugal,Reading FC,Championship,2016/2017,2016
+Liam Moore,Centre-Back,1993-01-31,23,England,Reading FC,Championship,2016/2017,2016
+Reece Oxford,Centre-Back,1998-12-16,17,England,Reading FC,Championship,2016/2017,2016
+Paul McShane,Centre-Back,1986-01-06,30,Ireland,Reading FC,Championship,2016/2017,2016
+Sandro Wieser,Centre-Back,1993-02-03,23,Liechtenstein,Reading FC,Championship,2016/2017,2016
+Jake Cooper,Centre-Back,1995-02-03,21,England,Reading FC,Championship,2016/2017,2016
+Danzell Gravenberch,Centre-Back,1994-02-13,22,Netherlands,Reading FC,Championship,2016/2017,2016
+Niall Keown,Centre-Back,1995-04-05,21,Ireland,Reading FC,Championship,2016/2017,2016
+Dominic Hyam,Centre-Back,1995-12-20,20,Scotland,Reading FC,Championship,2016/2017,2016
+Zak Jules,Centre-Back,1997-07-02,18,Scotland,Reading FC,Championship,2016/2017,2016
+Jordan Obita,Left-Back,1993-12-08,22,England,Reading FC,Championship,2016/2017,2016
+Tyler Blackett,Left-Back,1994-04-02,22,England,Reading FC,Championship,2016/2017,2016
+Chris Gunter,Right-Back,1989-07-21,26,Wales,Reading FC,Championship,2016/2017,2016
+Sean Long,Right-Back,1995-05-02,21,Ireland,Reading FC,Championship,2016/2017,2016
+Jack Stacey,Right-Back,1996-04-06,20,England,Reading FC,Championship,2016/2017,2016
+Tennai Watson,Right-Back,1997-03-04,19,England,Reading FC,Championship,2016/2017,2016
+Joey van den Berg,Defensive Midfield,1986-02-13,30,Netherlands,Reading FC,Championship,2016/2017,2016
+Danny Williams,Defensive Midfield,1989-03-08,27,United States,Reading FC,Championship,2016/2017,2016
+George Evans,Defensive Midfield,1994-12-13,21,England,Reading FC,Championship,2016/2017,2016
+Jordon Mutch,Central Midfield,1991-12-02,24,England,Reading FC,Championship,2016/2017,2016
+Stephen Quinn,Central Midfield,1986-04-01,30,Ireland,Reading FC,Championship,2016/2017,2016
+John Swift,Central Midfield,1995-06-23,21,England,Reading FC,Championship,2016/2017,2016
+Aaron Kuhl,Central Midfield,1996-01-30,20,England,Reading FC,Championship,2016/2017,2016
+Paolo Hurtado,Attacking Midfield,1990-07-27,25,Peru,Reading FC,Championship,2016/2017,2016
+Tariqe Fosu,Attacking Midfield,1995-11-05,20,England,Reading FC,Championship,2016/2017,2016
+Liam Kelly,Attacking Midfield,1995-11-22,20,Ireland,Reading FC,Championship,2016/2017,2016
+Callum Harriott,Left Winger,1994-03-04,22,Guyana,Reading FC,Championship,2016/2017,2016
+Yakou Méïté,Left Winger,1996-02-11,20,Cote d'Ivoire,Reading FC,Championship,2016/2017,2016
+Roy Beerens,Right Winger,1987-12-22,28,Netherlands,Reading FC,Championship,2016/2017,2016
+Adrian Popa,Right Winger,1988-07-24,27,Romania,Reading FC,Championship,2016/2017,2016
+Garath McCleary,Right Winger,1987-05-15,29,Jamaica,Reading FC,Championship,2016/2017,2016
+Craig Tanner,Second Striker,1994-10-27,21,England,Reading FC,Championship,2016/2017,2016
+Lewis Grabban,Centre-Forward,1988-01-12,28,Jamaica,Reading FC,Championship,2016/2017,2016
+Deniss Rakels,Centre-Forward,1992-08-20,23,Latvia,Reading FC,Championship,2016/2017,2016
+Yann Kermorgant,Centre-Forward,1981-11-08,34,France,Reading FC,Championship,2016/2017,2016
+Joseph Mendes,Centre-Forward,1991-03-30,25,Guinea-Bissau,Reading FC,Championship,2016/2017,2016
+Dominic Samuel,Centre-Forward,1994-04-01,22,England,Reading FC,Championship,2016/2017,2016
+Rob Green,Goalkeeper,1980-01-18,36,England,Leeds United,Championship,2016/2017,2016
+Marco Silvestri,Goalkeeper,1991-03-02,25,Italy,Leeds United,Championship,2016/2017,2016
+Ross Turnbull,Goalkeeper,1985-01-04,31,England,Leeds United,Championship,2016/2017,2016
+Bailey Peacock-Farrell,Goalkeeper,1996-10-29,19,Northern Ireland,Leeds United,Championship,2016/2017,2016
+Giuseppe Bellusci,Centre-Back,1989-08-21,26,Italy,Leeds United,Championship,2016/2017,2016
+Sol Bamba,Centre-Back,1985-01-13,31,Cote d'Ivoire,Leeds United,Championship,2016/2017,2016
+Pontus Jansson,Centre-Back,1991-02-13,25,Sweden,Leeds United,Championship,2016/2017,2016
+Kyle Bartley,Centre-Back,1991-05-22,25,England,Leeds United,Championship,2016/2017,2016
+Liam Cooper,Centre-Back,1991-08-03,24,Scotland,Leeds United,Championship,2016/2017,2016
+Gaetano Berardi,Centre-Back,1988-08-21,27,Switzerland,Leeds United,Championship,2016/2017,2016
+Jack Vann,Centre-Back,1998-06-12,18,England,Leeds United,Championship,2016/2017,2016
+Paul McKay,Centre-Back,1996-11-19,19,Scotland,Leeds United,Championship,2016/2017,2016
+Charlie Taylor,Left-Back,1993-09-18,22,England,Leeds United,Championship,2016/2017,2016
+Alfonso Pedraza,Left-Back,1996-04-09,20,Spain,Leeds United,Championship,2016/2017,2016
+Tyler Denton,Left-Back,1995-09-06,20,England,Leeds United,Championship,2016/2017,2016
+Luke Ayling,Right-Back,1991-08-25,24,England,Leeds United,Championship,2016/2017,2016
+Lewie Coyle,Right-Back,1995-10-15,20,England,Leeds United,Championship,2016/2017,2016
+Liam Bridcutt,Defensive Midfield,1989-05-08,27,Scotland,Leeds United,Championship,2016/2017,2016
+Toumani Diagouraga,Defensive Midfield,1987-06-09,29,France,Leeds United,Championship,2016/2017,2016
+Kalvin Phillips,Defensive Midfield,1995-12-02,20,England,Leeds United,Championship,2016/2017,2016
+Matt Grimes,Central Midfield,1995-07-15,20,England,Leeds United,Championship,2016/2017,2016
+Eunan O'Kane,Central Midfield,1990-07-10,25,Ireland,Leeds United,Championship,2016/2017,2016
+Luke Murphy,Central Midfield,1989-10-21,26,England,Leeds United,Championship,2016/2017,2016
+Alex Mowatt,Central Midfield,1995-02-13,21,England,Leeds United,Championship,2016/2017,2016
+Ronaldo Vieira,Central Midfield,1998-07-19,17,England,Leeds United,Championship,2016/2017,2016
+Billy Whitehouse,Right Midfield,1996-06-13,20,England,Leeds United,Championship,2016/2017,2016
+Stuart Dallas,Left Midfield,1991-04-19,25,Northern Ireland,Leeds United,Championship,2016/2017,2016
+Mallik Wilks,Left Winger,1998-12-15,17,England,Leeds United,Championship,2016/2017,2016
+Modou Barrow,Right Winger,1992-10-13,23,The Gambia,Leeds United,Championship,2016/2017,2016
+Pablo Hernández,Right Winger,1985-04-11,31,Spain,Leeds United,Championship,2016/2017,2016
+Hadi Sacko,Right Winger,1994-03-24,22,Mali,Leeds United,Championship,2016/2017,2016
+Jordan Botaka,Right Winger,1993-06-24,23,DR Congo,Leeds United,Championship,2016/2017,2016
+Chris Wood,Centre-Forward,1991-12-07,24,New Zealand,Leeds United,Championship,2016/2017,2016
+Souleymane Doukara,Centre-Forward,1991-09-29,24,Senegal,Leeds United,Championship,2016/2017,2016
+Marcus Antonsson,Centre-Forward,1991-05-08,25,Sweden,Leeds United,Championship,2016/2017,2016
+Lee Erwin,Centre-Forward,1994-03-19,22,Scotland,Leeds United,Championship,2016/2017,2016
+Kemar Roofe,Centre-Forward,1993-01-06,23,Jamaica,Leeds United,Championship,2016/2017,2016
+Tomasz Kuszczak,Goalkeeper,1982-03-20,34,Poland,Birmingham City,Championship,2016/2017,2016
+Adam Legzdins,Goalkeeper,1986-11-28,29,England,Birmingham City,Championship,2016/2017,2016
+Connal Trueman,Goalkeeper,1996-03-26,20,England,Birmingham City,Championship,2016/2017,2016
+Krystian Bielik,Centre-Back,1998-01-04,18,Poland,Birmingham City,Championship,2016/2017,2016
+Jonathan Spector,Centre-Back,1986-03-01,30,United States,Birmingham City,Championship,2016/2017,2016
+Michael Morrison,Centre-Back,1988-03-03,28,England,Birmingham City,Championship,2016/2017,2016
+Paul Robinson,Centre-Back,1978-12-14,37,England,Birmingham City,Championship,2016/2017,2016
+Dan Scarr,Centre-Back,1994-12-24,21,England,Birmingham City,Championship,2016/2017,2016
+Cheick Keita,Left-Back,1996-04-16,20,Mali,Birmingham City,Championship,2016/2017,2016
+Rhoys Wiggins,Left-Back,1987-11-04,28,Wales,Birmingham City,Championship,2016/2017,2016
+Jonathan Grounds,Left-Back,1988-02-02,28,England,Birmingham City,Championship,2016/2017,2016
+Emilio Nsue,Right-Back,1989-09-30,26,Equatorial Guinea,Birmingham City,Championship,2016/2017,2016
+Paul Caddis,Right-Back,1988-04-19,28,Scotland,Birmingham City,Championship,2016/2017,2016
+Ryan Shotton,Right-Back,1988-09-30,27,England,Birmingham City,Championship,2016/2017,2016
+Corey O'Keeffe,Right-Back,1998-06-05,18,Ireland,Birmingham City,Championship,2016/2017,2016
+Josh Cogley,Right-Back,1996-03-12,20,England,Birmingham City,Championship,2016/2017,2016
+Maikel Kieftenbeld,Defensive Midfield,1990-06-26,26,Netherlands,Birmingham City,Championship,2016/2017,2016
+Craig Gardner,Central Midfield,1986-11-25,29,England,Birmingham City,Championship,2016/2017,2016
+Robert Tesche,Central Midfield,1987-05-27,29,Germany,Birmingham City,Championship,2016/2017,2016
+David Davis,Central Midfield,1991-02-20,25,England,Birmingham City,Championship,2016/2017,2016
+Stephen Gleeson,Central Midfield,1988-08-03,27,Ireland,Birmingham City,Championship,2016/2017,2016
+Reece Brown,Central Midfield,1996-03-03,20,England,Birmingham City,Championship,2016/2017,2016
+Charlie Cooper,Central Midfield,1997-05-01,19,England,Birmingham City,Championship,2016/2017,2016
+Charlee Adams,Central Midfield,1995-02-16,21,England,Birmingham City,Championship,2016/2017,2016
+Jacques Maghoma,Left Midfield,1987-10-23,28,DR Congo,Birmingham City,Championship,2016/2017,2016
+Diego Fabbrini,Attacking Midfield,1990-07-31,25,Italy,Birmingham City,Championship,2016/2017,2016
+Andrew Shinnie,Attacking Midfield,1989-07-17,26,Scotland,Birmingham City,Championship,2016/2017,2016
+Koby Arthur,Attacking Midfield,1996-01-31,20,Ghana,Birmingham City,Championship,2016/2017,2016
+Luke Maxwell,Attacking Midfield,1997-07-06,18,England,Birmingham City,Championship,2016/2017,2016
+Kerim Frei,Left Winger,1993-11-19,22,Turkey,Birmingham City,Championship,2016/2017,2016
+Viv Solomon-Otabor,Left Winger,1996-01-02,20,Nigeria,Birmingham City,Championship,2016/2017,2016
+David Cotterill,Right Winger,1987-12-04,28,Wales,Birmingham City,Championship,2016/2017,2016
+James Vaughan,Centre-Forward,1988-07-14,27,England,Birmingham City,Championship,2016/2017,2016
+Lukas Jutkiewicz,Centre-Forward,1989-03-28,27,England,Birmingham City,Championship,2016/2017,2016
+Greg Stewart,Centre-Forward,1990-03-17,26,Scotland,Birmingham City,Championship,2016/2017,2016
+Nicolai Brock-Madsen,Centre-Forward,1993-01-09,23,Denmark,Birmingham City,Championship,2016/2017,2016
+Clayton Donaldson,Centre-Forward,1984-02-07,32,Jamaica,Birmingham City,Championship,2016/2017,2016
+Che Adams,Centre-Forward,1996-07-13,19,England,Birmingham City,Championship,2016/2017,2016
+Jerome Sinclair,Centre-Forward,1996-09-20,19,England,Birmingham City,Championship,2016/2017,2016
+Jack Storer,Centre-Forward,1998-01-02,18,England,Birmingham City,Championship,2016/2017,2016
+Ádám Bogdán,Goalkeeper,1987-09-27,28,Hungary,Wigan Athletic,Championship,2016/2017,2016
+Jakob Haugaard,Goalkeeper,1992-05-01,24,Denmark,Wigan Athletic,Championship,2016/2017,2016
+Matt Gilks,Goalkeeper,1982-06-04,34,Scotland,Wigan Athletic,Championship,2016/2017,2016
+Jussi Jääskeläinen,Goalkeeper,1975-04-19,41,Finland,Wigan Athletic,Championship,2016/2017,2016
+Dan Lavercombe,Goalkeeper,1996-10-21,19,England,Wigan Athletic,Championship,2016/2017,2016
+Owen Evans,Goalkeeper,1996-11-28,19,Wales,Wigan Athletic,Championship,2016/2017,2016
+Theo Roberts,Goalkeeper,1998-09-10,17,England,Wigan Athletic,Championship,2016/2017,2016
+Alex Bruce,Centre-Back,1984-09-28,31,Northern Ireland,Wigan Athletic,Championship,2016/2017,2016
+Reece Burke,Centre-Back,1996-09-02,19,England,Wigan Athletic,Championship,2016/2017,2016
+Jake Buxton,Centre-Back,1985-03-04,31,England,Wigan Athletic,Championship,2016/2017,2016
+Dan Burn,Centre-Back,1992-05-09,24,England,Wigan Athletic,Championship,2016/2017,2016
+Craig Morgan,Centre-Back,1985-06-16,31,Wales,Wigan Athletic,Championship,2016/2017,2016
+Donervon Daniels,Centre-Back,1993-11-24,22,England,Wigan Athletic,Championship,2016/2017,2016
+Jack Hendry,Centre-Back,1995-05-07,21,Scotland,Wigan Athletic,Championship,2016/2017,2016
+Sam Stubbs,Centre-Back,1998-11-20,17,England,Wigan Athletic,Championship,2016/2017,2016
+Luke Garbutt,Left-Back,1993-05-21,23,England,Wigan Athletic,Championship,2016/2017,2016
+Andrew Taylor,Left-Back,1986-08-01,29,England,Wigan Athletic,Championship,2016/2017,2016
+Reece James,Left-Back,1993-11-07,22,England,Wigan Athletic,Championship,2016/2017,2016
+Stephen Warnock,Left-Back,1981-12-12,34,England,Wigan Athletic,Championship,2016/2017,2016
+Nathan Byrne,Right-Back,1992-06-05,24,England,Wigan Athletic,Championship,2016/2017,2016
+Kyle Knoyle,Right-Back,1996-09-24,19,England,Wigan Athletic,Championship,2016/2017,2016
+Luke Burke,Right-Back,1998-02-22,18,England,Wigan Athletic,Championship,2016/2017,2016
+David Perkins,Defensive Midfield,1982-06-21,34,England,Wigan Athletic,Championship,2016/2017,2016
+Jamie Hanson,Defensive Midfield,1995-11-10,20,England,Wigan Athletic,Championship,2016/2017,2016
+Tim Chow,Defensive Midfield,1994-01-18,22,Chinese Taipei (Taiwan),Wigan Athletic,Championship,2016/2017,2016
+Callum Connolly,Defensive Midfield,1997-09-23,18,England,Wigan Athletic,Championship,2016/2017,2016
+Jordi Gómez,Central Midfield,1985-05-24,31,Spain,Wigan Athletic,Championship,2016/2017,2016
+Jack Byrne,Central Midfield,1996-04-24,20,Ireland,Wigan Athletic,Championship,2016/2017,2016
+Ryan Tunnicliffe,Central Midfield,1992-12-30,23,England,Wigan Athletic,Championship,2016/2017,2016
+Shaun MacDonald,Central Midfield,1988-06-17,28,Wales,Wigan Athletic,Championship,2016/2017,2016
+Max Power,Central Midfield,1993-07-27,22,England,Wigan Athletic,Championship,2016/2017,2016
+Samy Morsy,Central Midfield,1991-09-10,24,Egypt,Wigan Athletic,Championship,2016/2017,2016
+Alex Gilbey,Central Midfield,1994-12-09,21,England,Wigan Athletic,Championship,2016/2017,2016
+Andy Kellett,Central Midfield,1993-11-10,22,England,Wigan Athletic,Championship,2016/2017,2016
+Danny Whitehead,Central Midfield,1993-10-23,22,England,Wigan Athletic,Championship,2016/2017,2016
+Josh Gregory,Central Midfield,1998-06-05,18,England,Wigan Athletic,Championship,2016/2017,2016
+Danny O'Brien,Right Midfield,1996-03-12,20,England,Wigan Athletic,Championship,2016/2017,2016
+James Weir,Left Midfield,1995-08-04,20,England,Wigan Athletic,Championship,2016/2017,2016
+Nick Powell,Attacking Midfield,1994-03-23,22,England,Wigan Athletic,Championship,2016/2017,2016
+Jordan Flores,Attacking Midfield,1995-10-04,20,England,Wigan Athletic,Championship,2016/2017,2016
+Marcus Browne,Attacking Midfield,1997-12-18,18,England,Wigan Athletic,Championship,2016/2017,2016
+Josh Laurent,Attacking Midfield,1995-05-06,21,England,Wigan Athletic,Championship,2016/2017,2016
+James Barrigan,Forward,1998-01-25,18,England,Wigan Athletic,Championship,2016/2017,2016
+Yanic Wildschut,Left Winger,1991-11-01,24,Netherlands,Wigan Athletic,Championship,2016/2017,2016
+Michael Jacobs,Left Winger,1991-11-04,24,England,Wigan Athletic,Championship,2016/2017,2016
+Ryan Colclough,Left Winger,1994-12-27,21,England,Wigan Athletic,Championship,2016/2017,2016
+Sanmi Odelusi,Left Winger,1993-06-11,23,England,Wigan Athletic,Championship,2016/2017,2016
+Gabriel Obertan,Right Winger,1989-02-26,27,France,Wigan Athletic,Championship,2016/2017,2016
+Kaiyne Woolery,Second Striker,1995-01-11,21,England,Wigan Athletic,Championship,2016/2017,2016
+Callum Lang,Second Striker,1998-09-08,17,England,Wigan Athletic,Championship,2016/2017,2016
+Adam Le Fondre,Centre-Forward,1986-12-02,29,England,Wigan Athletic,Championship,2016/2017,2016
+Will Grigg,Centre-Forward,1991-07-03,24,Northern Ireland,Wigan Athletic,Championship,2016/2017,2016
+Billy McKay,Centre-Forward,1988-10-22,27,Northern Ireland,Wigan Athletic,Championship,2016/2017,2016
+Craig Davies,Centre-Forward,1986-01-09,30,Wales,Wigan Athletic,Championship,2016/2017,2016
+Sam Cosgrove,Centre-Forward,1996-12-02,19,England,Wigan Athletic,Championship,2016/2017,2016
+Omar Bogle,Centre-Forward,1992-07-26,23,England,Wigan Athletic,Championship,2016/2017,2016
+Mikael Mandron,Centre-Forward,1994-10-11,21,Scotland,Wigan Athletic,Championship,2016/2017,2016
+Jason Steele,Goalkeeper,1990-08-18,25,England,Blackburn Rovers,Championship,2016/2017,2016
+David Raya,Goalkeeper,1995-09-15,20,Spain,Blackburn Rovers,Championship,2016/2017,2016
+Andy Fisher,Goalkeeper,1998-02-12,18,England,Blackburn Rovers,Championship,2016/2017,2016
+Charlie Mulgrew,Centre-Back,1986-03-06,30,Scotland,Blackburn Rovers,Championship,2016/2017,2016
+Shane Duffy,Centre-Back,1992-01-01,24,Ireland,Blackburn Rovers,Championship,2016/2017,2016
+Tommie Hoban,Centre-Back,1994-01-24,22,Ireland,Blackburn Rovers,Championship,2016/2017,2016
+Elliott Ward,Centre-Back,1985-01-19,31,England,Blackburn Rovers,Championship,2016/2017,2016
+Wes Brown,Centre-Back,1979-10-13,36,England,Blackburn Rovers,Championship,2016/2017,2016
+Gordon Greer,Centre-Back,1980-12-14,35,Scotland,Blackburn Rovers,Championship,2016/2017,2016
+Darragh Lenihan,Centre-Back,1994-03-16,22,Ireland,Blackburn Rovers,Championship,2016/2017,2016
+Scott Wharton,Centre-Back,1997-10-03,18,England,Blackburn Rovers,Championship,2016/2017,2016
+Stephen Hendrie,Left-Back,1995-01-08,21,Scotland,Blackburn Rovers,Championship,2016/2017,2016
+Derrick Williams,Left-Back,1993-01-17,23,Ireland,Blackburn Rovers,Championship,2016/2017,2016
+Jack Doyle,Left-Back,1997-02-02,19,England,Blackburn Rovers,Championship,2016/2017,2016
+Adam Henley,Right-Back,1994-06-14,22,Wales,Blackburn Rovers,Championship,2016/2017,2016
+Lewis Travis,Right-Back,1997-10-16,18,England,Blackburn Rovers,Championship,2016/2017,2016
+Ryan Nyambe,Right-Back,1997-12-04,18,Namibia,Blackburn Rovers,Championship,2016/2017,2016
+Jason Lowe,Defensive Midfield,1991-09-02,24,England,Blackburn Rovers,Championship,2016/2017,2016
+Corry Evans,Central Midfield,1990-07-30,25,Northern Ireland,Blackburn Rovers,Championship,2016/2017,2016
+Jack Byrne,Central Midfield,1996-04-24,20,Ireland,Blackburn Rovers,Championship,2016/2017,2016
+Danny Guthrie,Central Midfield,1987-04-18,29,England,Blackburn Rovers,Championship,2016/2017,2016
+Hope Akpan,Central Midfield,1991-08-14,24,Nigeria,Blackburn Rovers,Championship,2016/2017,2016
+Willem Tomlinson,Central Midfield,1998-01-27,18,England,Blackburn Rovers,Championship,2016/2017,2016
+Ben Marshall,Right Midfield,1991-03-29,25,England,Blackburn Rovers,Championship,2016/2017,2016
+Elliott Bennett,Right Midfield,1988-12-18,27,Jamaica,Blackburn Rovers,Championship,2016/2017,2016
+Craig Conway,Left Winger,1985-05-02,31,Scotland,Blackburn Rovers,Championship,2016/2017,2016
+Martin Samuelsen,Left Winger,1997-04-17,19,Norway,Blackburn Rovers,Championship,2016/2017,2016
+Liam Feeney,Right Winger,1987-01-21,29,England,Blackburn Rovers,Championship,2016/2017,2016
+Connor Mahoney,Right Winger,1997-02-12,19,England,Blackburn Rovers,Championship,2016/2017,2016
+Lucas João,Centre-Forward,1993-09-04,22,Portugal,Blackburn Rovers,Championship,2016/2017,2016
+Danny Graham,Centre-Forward,1985-08-12,30,England,Blackburn Rovers,Championship,2016/2017,2016
+Anthony Stokes,Centre-Forward,1988-07-25,27,Ireland,Blackburn Rovers,Championship,2016/2017,2016
+Marvin Emnes,Centre-Forward,1988-05-27,28,Netherlands,Blackburn Rovers,Championship,2016/2017,2016
+Sam Gallagher,Centre-Forward,1995-09-15,20,England,Blackburn Rovers,Championship,2016/2017,2016
+Fabian Giefer,Goalkeeper,1990-05-17,26,Germany,Bristol City,Championship,2016/2017,2016
+Frank Fielding,Goalkeeper,1988-04-04,28,England,Bristol City,Championship,2016/2017,2016
+Ivan Lucic,Goalkeeper,1995-03-23,21,Austria,Bristol City,Championship,2016/2017,2016
+Richard O'Donnell,Goalkeeper,1988-09-12,27,England,Bristol City,Championship,2016/2017,2016
+Max O'Leary,Goalkeeper,1996-10-10,19,England,Bristol City,Championship,2016/2017,2016
+Joel Ekstrand,Centre-Back,1989-02-04,27,Sweden,Bristol City,Championship,2016/2017,2016
+Hördur Magnússon,Centre-Back,1993-02-11,23,Iceland,Bristol City,Championship,2016/2017,2016
+Aden Flint,Centre-Back,1989-07-11,26,England,Bristol City,Championship,2016/2017,2016
+Bailey Wright,Centre-Back,1992-07-28,23,Australia,Bristol City,Championship,2016/2017,2016
+Scott Golbourne,Left-Back,1988-02-29,28,England,Bristol City,Championship,2016/2017,2016
+Derrick Williams,Left-Back,1993-01-17,23,Ireland,Bristol City,Championship,2016/2017,2016
+Joe Bryan,Left-Back,1993-09-17,22,England,Bristol City,Championship,2016/2017,2016
+Lloyd Kelly,Left-Back,1998-10-06,17,England,Bristol City,Championship,2016/2017,2016
+Adam Matthews,Right-Back,1992-01-13,24,Wales,Bristol City,Championship,2016/2017,2016
+Luke Ayling,Right-Back,1991-08-25,24,England,Bristol City,Championship,2016/2017,2016
+Taylor Moore,Right-Back,1997-05-12,19,England,Bristol City,Championship,2016/2017,2016
+Mark Little,Right-Back,1988-08-20,27,England,Bristol City,Championship,2016/2017,2016
+Zak Vyner,Right-Back,1997-05-14,19,England,Bristol City,Championship,2016/2017,2016
+Korey Smith,Defensive Midfield,1991-01-31,25,England,Bristol City,Championship,2016/2017,2016
+Jens Hegeler,Central Midfield,1988-01-22,28,Germany,Bristol City,Championship,2016/2017,2016
+Gary O'Neil,Central Midfield,1983-05-18,33,England,Bristol City,Championship,2016/2017,2016
+Marlon Pack,Central Midfield,1991-03-25,25,England,Bristol City,Championship,2016/2017,2016
+Josh Brownhill,Central Midfield,1995-12-19,20,England,Bristol City,Championship,2016/2017,2016
+Callum O'Dowda,Left Midfield,1995-04-23,21,Ireland,Bristol City,Championship,2016/2017,2016
+Luke Freeman,Attacking Midfield,1992-03-22,24,England,Bristol City,Championship,2016/2017,2016
+Bobby Reid,Attacking Midfield,1993-02-02,23,Jamaica,Bristol City,Championship,2016/2017,2016
+David Cotterill,Right Winger,1987-12-04,28,Wales,Bristol City,Championship,2016/2017,2016
+Lee Tomlin,Second Striker,1989-01-12,27,England,Bristol City,Championship,2016/2017,2016
+Jamie Paterson,Second Striker,1991-12-20,24,England,Bristol City,Championship,2016/2017,2016
+Diego De Girolamo,Second Striker,1995-10-05,20,Italy,Bristol City,Championship,2016/2017,2016
+Jonathan Kodjia,Centre-Forward,1989-10-22,26,Cote d'Ivoire,Bristol City,Championship,2016/2017,2016
+Gustav Engvall,Centre-Forward,1996-04-29,20,Sweden,Bristol City,Championship,2016/2017,2016
+Milan Djuric,Centre-Forward,1990-05-22,26,Bosnia-Herzegovina,Bristol City,Championship,2016/2017,2016
+Arnold Garita,Centre-Forward,1995-06-18,21,Cameroon,Bristol City,Championship,2016/2017,2016
+Aaron Wilbraham,Centre-Forward,1979-10-21,36,England,Bristol City,Championship,2016/2017,2016
+Tammy Abraham,Centre-Forward,1997-10-02,18,England,Bristol City,Championship,2016/2017,2016
+Shawn McCoulsky,Centre-Forward,1997-01-06,19,England,Bristol City,Championship,2016/2017,2016
+Matty Taylor,Centre-Forward,1990-03-30,26,England,Bristol City,Championship,2016/2017,2016
+Daniel Bentley,Goalkeeper,1993-07-13,22,England,Brentford FC,Championship,2016/2017,2016
+Jack Bonham,Goalkeeper,1993-09-14,22,Ireland,Brentford FC,Championship,2016/2017,2016
+Dominic Kurasik,Goalkeeper,1996-11-04,19,Australia,Brentford FC,Championship,2016/2017,2016
+Ellery Balcombe,Goalkeeper,1999-10-15,16,England,Brentford FC,Championship,2016/2017,2016
+Andreas Bjelland,Centre-Back,1988-07-11,27,Denmark,Brentford FC,Championship,2016/2017,2016
+Harlee Dean,Centre-Back,1991-07-26,24,England,Brentford FC,Championship,2016/2017,2016
+John Egan,Centre-Back,1992-10-20,23,Ireland,Brentford FC,Championship,2016/2017,2016
+Yoann Barbet,Centre-Back,1993-05-10,23,France,Brentford FC,Championship,2016/2017,2016
+Emmanuel Onariase,Centre-Back,1996-10-21,19,England,Brentford FC,Championship,2016/2017,2016
+Chris Mepham,Centre-Back,1997-11-05,18,Wales,Brentford FC,Championship,2016/2017,2016
+Rico Henry,Left-Back,1997-07-08,18,England,Brentford FC,Championship,2016/2017,2016
+Callum Elder,Left-Back,1995-01-27,21,Australia,Brentford FC,Championship,2016/2017,2016
+Ilias Chatzitheodoridis,Left-Back,1997-11-05,18,Greece,Brentford FC,Championship,2016/2017,2016
+Tom Field,Left-Back,1997-03-14,19,England,Brentford FC,Championship,2016/2017,2016
+Maxime Colin,Right-Back,1991-11-15,24,France,Brentford FC,Championship,2016/2017,2016
+Josh Clarke,Right-Back,1994-07-05,21,England,Brentford FC,Championship,2016/2017,2016
+Ryan Woods,Defensive Midfield,1993-12-13,22,England,Brentford FC,Championship,2016/2017,2016
+Alan McCormack,Defensive Midfield,1984-01-10,32,Ireland,Brentford FC,Championship,2016/2017,2016
+Nico Yennaris,Defensive Midfield,1993-05-24,23,China,Brentford FC,Championship,2016/2017,2016
+Jan Holldack,Defensive Midfield,1996-05-11,20,Germany,Brentford FC,Championship,2016/2017,2016
+Josh McEachran,Central Midfield,1993-03-01,23,England,Brentford FC,Championship,2016/2017,2016
+Lewis MacLeod,Central Midfield,1994-06-16,22,Scotland,Brentford FC,Championship,2016/2017,2016
+Konstantin Kerschbaumer,Central Midfield,1992-07-01,24,Austria,Brentford FC,Championship,2016/2017,2016
+Sam Saunders,Central Midfield,1983-08-29,32,England,Brentford FC,Championship,2016/2017,2016
+Reece Cole,Central Midfield,1998-02-17,18,England,Brentford FC,Championship,2016/2017,2016
+Zain Westbrooke,Central Midfield,1996-10-28,19,England,Brentford FC,Championship,2016/2017,2016
+Alan Judge,Left Midfield,1988-11-11,27,Ireland,Brentford FC,Championship,2016/2017,2016
+Romaine Sawyers,Attacking Midfield,1991-11-02,24,St. Kitts & Nevis,Brentford FC,Championship,2016/2017,2016
+Sullay Kaikai,Left Winger,1995-08-26,20,England,Brentford FC,Championship,2016/2017,2016
+Florian Jozefzoon,Right Winger,1991-02-09,25,Netherlands,Brentford FC,Championship,2016/2017,2016
+Jota,Right Winger,1991-06-16,25,Spain,Brentford FC,Championship,2016/2017,2016
+Sergi Canós,Right Winger,1997-02-02,19,Spain,Brentford FC,Championship,2016/2017,2016
+Akaki Gogia,Right Winger,1992-01-18,24,Germany,Brentford FC,Championship,2016/2017,2016
+Lasse Vibe,Centre-Forward,1987-02-22,29,Denmark,Brentford FC,Championship,2016/2017,2016
+Philipp Hofmann,Centre-Forward,1993-03-30,23,Germany,Brentford FC,Championship,2016/2017,2016
+Scott Hogan,Centre-Forward,1992-04-13,24,Ireland,Brentford FC,Championship,2016/2017,2016
+Emmanuel Ledesma,Centre-Forward,1988-05-24,28,Argentina,Brentford FC,Championship,2016/2017,2016
+Justin Shaibu,Centre-Forward,1997-10-28,18,Denmark,Brentford FC,Championship,2016/2017,2016
+Dean Gerken,Goalkeeper,1985-05-22,31,England,Ipswich Town,Championship,2016/2017,2016
+Bartosz Bialkowski,Goalkeeper,1987-07-06,28,Poland,Ipswich Town,Championship,2016/2017,2016
+Michael Crowe,Goalkeeper,1995-11-13,20,Wales,Ipswich Town,Championship,2016/2017,2016
+Steven Taylor,Centre-Back,1986-01-23,30,England,Ipswich Town,Championship,2016/2017,2016
+Luke Chambers,Centre-Back,1985-09-28,30,England,Ipswich Town,Championship,2016/2017,2016
+Tommy Smith,Centre-Back,1990-03-31,26,New Zealand,Ipswich Town,Championship,2016/2017,2016
+Christophe Berra,Centre-Back,1985-01-31,31,Scotland,Ipswich Town,Championship,2016/2017,2016
+Adam Webster,Centre-Back,1995-01-04,21,England,Ipswich Town,Championship,2016/2017,2016
+George Fowler,Centre-Back,1997-11-20,18,England,Ipswich Town,Championship,2016/2017,2016
+Jonas Knudsen,Left-Back,1992-09-16,23,Denmark,Ipswich Town,Championship,2016/2017,2016
+Patrick Webber,Left-Back,1999-05-14,17,England,Ipswich Town,Championship,2016/2017,2016
+Myles Kenlock,Left-Back,1996-11-29,19,England,Ipswich Town,Championship,2016/2017,2016
+Jordan Spence,Right-Back,1990-05-24,26,England,Ipswich Town,Championship,2016/2017,2016
+Josh Emmanuel,Right-Back,1997-08-18,18,England,Ipswich Town,Championship,2016/2017,2016
+Emyr Huws,Defensive Midfield,1993-09-30,22,Wales,Ipswich Town,Championship,2016/2017,2016
+Cole Skuse,Defensive Midfield,1986-03-29,30,England,Ipswich Town,Championship,2016/2017,2016
+Toumani Diagouraga,Defensive Midfield,1987-06-09,29,France,Ipswich Town,Championship,2016/2017,2016
+Paul Digby,Defensive Midfield,1995-02-02,21,England,Ipswich Town,Championship,2016/2017,2016
+Teddy Bishop,Central Midfield,1996-07-15,19,England,Ipswich Town,Championship,2016/2017,2016
+Kévin Bru,Central Midfield,1988-12-12,27,Mauritius,Ipswich Town,Championship,2016/2017,2016
+Luke Hyam,Central Midfield,1991-10-24,24,England,Ipswich Town,Championship,2016/2017,2016
+Jonathan Douglas,Central Midfield,1981-11-22,34,Ireland,Ipswich Town,Championship,2016/2017,2016
+Giles Coke,Central Midfield,1986-06-03,30,England,Ipswich Town,Championship,2016/2017,2016
+Andre Dozzell,Central Midfield,1999-05-02,17,England,Ipswich Town,Championship,2016/2017,2016
+Conor Grant,Central Midfield,1995-04-18,21,England,Ipswich Town,Championship,2016/2017,2016
+Adam McDonnell,Central Midfield,1997-05-14,19,Ireland,Ipswich Town,Championship,2016/2017,2016
+Tristan Nydam,Central Midfield,1999-11-06,16,England,Ipswich Town,Championship,2016/2017,2016
+Flynn Downes,Central Midfield,1999-01-20,17,England,Ipswich Town,Championship,2016/2017,2016
+Grant Ward,Right Midfield,1994-12-05,21,England,Ipswich Town,Championship,2016/2017,2016
+Jonathan Williams,Attacking Midfield,1993-10-09,22,Wales,Ipswich Town,Championship,2016/2017,2016
+Shane McLoughlin,Attacking Midfield,1997-03-01,19,Ireland,Ipswich Town,Championship,2016/2017,2016
+Tom Lawrence,Left Winger,1994-01-13,22,Wales,Ipswich Town,Championship,2016/2017,2016
+Luke Varney,Left Winger,1982-09-28,33,England,Ipswich Town,Championship,2016/2017,2016
+Danny Rowe,Left Winger,1992-03-09,24,England,Ipswich Town,Championship,2016/2017,2016
+Freddie Sears,Second Striker,1989-11-27,26,England,Ipswich Town,Championship,2016/2017,2016
+Brett Pitman,Centre-Forward,1988-01-31,28,Jersey,Ipswich Town,Championship,2016/2017,2016
+Daryl Murphy,Centre-Forward,1983-03-15,33,Ireland,Ipswich Town,Championship,2016/2017,2016
+David McGoldrick,Centre-Forward,1987-11-29,28,Ireland,Ipswich Town,Championship,2016/2017,2016
+Leon Best,Centre-Forward,1986-09-19,29,Ireland,Ipswich Town,Championship,2016/2017,2016
+Dominic Samuel,Centre-Forward,1994-04-01,22,England,Ipswich Town,Championship,2016/2017,2016
+Kieffer Moore,Centre-Forward,1992-08-08,23,Wales,Ipswich Town,Championship,2016/2017,2016
+Ben Morris,Centre-Forward,1999-07-06,16,England,Ipswich Town,Championship,2016/2017,2016
+Anders Lindegaard,Goalkeeper,1984-04-13,32,Denmark,Preston North End,Championship,2016/2017,2016
+Chris Maxwell,Goalkeeper,1990-07-30,25,Wales,Preston North End,Championship,2016/2017,2016
+Mathew Hudson,Goalkeeper,1998-07-29,17,England,Preston North End,Championship,2016/2017,2016
+Tyias Browning,Centre-Back,1994-05-27,22,England,Preston North End,Championship,2016/2017,2016
+Bailey Wright,Centre-Back,1992-07-28,23,Australia,Preston North End,Championship,2016/2017,2016
+Tom Clarke,Centre-Back,1987-12-21,28,England,Preston North End,Championship,2016/2017,2016
+Paul Huntington,Centre-Back,1987-09-17,28,England,Preston North End,Championship,2016/2017,2016
+Ben Davies,Centre-Back,1995-08-11,20,England,Preston North End,Championship,2016/2017,2016
+Andy Boyle,Centre-Back,1991-03-07,25,Ireland,Preston North End,Championship,2016/2017,2016
+Tommy Spurr,Left-Back,1987-09-30,28,England,Preston North End,Championship,2016/2017,2016
+Greg Cunningham,Left-Back,1991-01-31,25,Ireland,Preston North End,Championship,2016/2017,2016
+Alex Baptiste,Right-Back,1986-01-31,30,England,Preston North End,Championship,2016/2017,2016
+Marnick Vermijl,Right-Back,1992-01-13,24,Belgium,Preston North End,Championship,2016/2017,2016
+Calum Woods,Right-Back,1987-02-05,29,England,Preston North End,Championship,2016/2017,2016
+Clive Smith,Right-Back,1997-12-12,18,Wales,Preston North End,Championship,2016/2017,2016
+Liam Grimshaw,Defensive Midfield,1995-02-02,21,England,Preston North End,Championship,2016/2017,2016
+Alan Browne,Central Midfield,1995-04-15,21,Ireland,Preston North End,Championship,2016/2017,2016
+Daniel Johnson,Central Midfield,1992-10-08,23,Jamaica,Preston North End,Championship,2016/2017,2016
+Paul Gallagher,Central Midfield,1984-08-09,31,Scotland,Preston North End,Championship,2016/2017,2016
+John Welsh,Central Midfield,1984-01-10,32,England,Preston North End,Championship,2016/2017,2016
+Ben Pearson,Central Midfield,1995-01-04,21,England,Preston North End,Championship,2016/2017,2016
+Chris Humphrey,Right Midfield,1987-09-19,28,Jamaica,Preston North End,Championship,2016/2017,2016
+Ben Pringle,Left Midfield,1989-07-25,26,England,Preston North End,Championship,2016/2017,2016
+Daryl Horgan,Left Midfield,1992-08-10,23,Ireland,Preston North End,Championship,2016/2017,2016
+Aiden McGeady,Left Winger,1986-04-04,30,Ireland,Preston North End,Championship,2016/2017,2016
+Callum Robinson,Left Winger,1995-02-02,21,Ireland,Preston North End,Championship,2016/2017,2016
+Tom Barkhuizen,Right Winger,1993-07-04,22,England,Preston North End,Championship,2016/2017,2016
+Simon Makienok,Centre-Forward,1990-11-21,25,Denmark,Preston North End,Championship,2016/2017,2016
+Stevie May,Centre-Forward,1992-11-02,23,Scotland,Preston North End,Championship,2016/2017,2016
+Eoin Doyle,Centre-Forward,1988-03-12,28,Ireland,Preston North End,Championship,2016/2017,2016
+Joe Garner,Centre-Forward,1988-04-12,28,England,Preston North End,Championship,2016/2017,2016
+Jermaine Beckford,Centre-Forward,1983-12-09,32,Jamaica,Preston North End,Championship,2016/2017,2016
+Jordan Hugill,Centre-Forward,1992-06-04,24,England,Preston North End,Championship,2016/2017,2016
+Danny Ward,Goalkeeper,1993-06-22,23,Wales,Huddersfield Town,Championship,2016/2017,2016
+Joe Murphy,Goalkeeper,1981-08-21,34,Ireland,Huddersfield Town,Championship,2016/2017,2016
+Joel Coleman,Goalkeeper,1995-09-26,20,England,Huddersfield Town,Championship,2016/2017,2016
+Luke Coddington,Goalkeeper,1995-06-06,21,England,Huddersfield Town,Championship,2016/2017,2016
+Christopher Schindler,Centre-Back,1990-04-29,26,Germany,Huddersfield Town,Championship,2016/2017,2016
+Mark Hudson,Centre-Back,1982-03-30,34,England,Huddersfield Town,Championship,2016/2017,2016
+Martin Cranie,Centre-Back,1986-09-26,29,England,Huddersfield Town,Championship,2016/2017,2016
+Michael Hefele,Centre-Back,1990-09-01,25,Germany,Huddersfield Town,Championship,2016/2017,2016
+Jon Gorenc-Stankovic,Centre-Back,1996-01-14,20,Slovenia,Huddersfield Town,Championship,2016/2017,2016
+Chris Löwe,Left-Back,1989-04-16,27,Germany,Huddersfield Town,Championship,2016/2017,2016
+Jason Davidson,Left-Back,1991-06-29,25,Australia,Huddersfield Town,Championship,2016/2017,2016
+Tareiq Holmes-Dennis,Left-Back,1995-10-31,20,England,Huddersfield Town,Championship,2016/2017,2016
+Tom Smith,Right-Back,1992-04-14,24,England,Huddersfield Town,Championship,2016/2017,2016
+Regan Booty,Midfielder,1998-03-04,18,England,Huddersfield Town,Championship,2016/2017,2016
+Ivan Paurevic,Defensive Midfield,1991-07-01,25,Croatia,Huddersfield Town,Championship,2016/2017,2016
+Jonathan Hogg,Central Midfield,1988-12-06,27,England,Huddersfield Town,Championship,2016/2017,2016
+Aaron Mooy,Central Midfield,1990-09-15,25,Australia,Huddersfield Town,Championship,2016/2017,2016
+Dean Whitehead,Central Midfield,1982-01-21,34,England,Huddersfield Town,Championship,2016/2017,2016
+Kyle Dempsey,Central Midfield,1995-09-17,20,England,Huddersfield Town,Championship,2016/2017,2016
+Philip Billing,Central Midfield,1996-06-11,20,Denmark,Huddersfield Town,Championship,2016/2017,2016
+Jack Payne,Attacking Midfield,1994-10-25,21,England,Huddersfield Town,Championship,2016/2017,2016
+Kasey Palmer,Attacking Midfield,1996-11-09,19,England,Huddersfield Town,Championship,2016/2017,2016
+Rajiv van La Parra,Left Winger,1991-06-04,25,Netherlands,Huddersfield Town,Championship,2016/2017,2016
+Harry Bunn,Left Winger,1992-11-21,23,England,Huddersfield Town,Championship,2016/2017,2016
+Elias Kachunga,Right Winger,1992-04-22,24,DR Congo,Huddersfield Town,Championship,2016/2017,2016
+Sean Scannell,Right Winger,1990-09-17,25,Ireland,Huddersfield Town,Championship,2016/2017,2016
+Joe Lolley,Right Winger,1992-08-25,23,England,Huddersfield Town,Championship,2016/2017,2016
+Isaiah Brown,Second Striker,1997-01-07,19,England,Huddersfield Town,Championship,2016/2017,2016
+Nahki Wells,Centre-Forward,1990-06-01,26,Bermuda,Huddersfield Town,Championship,2016/2017,2016
+Collin Quaner,Centre-Forward,1991-06-18,25,Germany,Huddersfield Town,Championship,2016/2017,2016
+Jordy Hiwula,Centre-Forward,1994-09-21,21,England,Huddersfield Town,Championship,2016/2017,2016
+Flo Bojaj,Centre-Forward,1996-04-13,20,Albania,Huddersfield Town,Championship,2016/2017,2016
+Lee Camp,Goalkeeper,1984-08-22,31,Northern Ireland,Rotherham United,Championship,2016/2017,2016
+Lewis Price,Goalkeeper,1984-07-19,31,Wales,Rotherham United,Championship,2016/2017,2016
+Richard O'Donnell,Goalkeeper,1988-09-12,27,England,Rotherham United,Championship,2016/2017,2016
+Laurence Bilboe,Goalkeeper,1998-02-21,18,England,Rotherham United,Championship,2016/2017,2016
+George McMahon,Goalkeeper,2000-06-16,16,Ireland,Rotherham United,Championship,2016/2017,2016
+Kelvin Wilson,Centre-Back,1985-09-03,30,England,Rotherham United,Championship,2016/2017,2016
+Joel Ekstrand,Centre-Back,1989-02-04,27,Sweden,Rotherham United,Championship,2016/2017,2016
+Greg Halford,Centre-Back,1984-12-08,31,England,Rotherham United,Championship,2016/2017,2016
+Kirk Broadfoot,Centre-Back,1984-08-08,31,Scotland,Rotherham United,Championship,2016/2017,2016
+Aymen Belaïd,Centre-Back,1989-01-02,27,Tunisia,Rotherham United,Championship,2016/2017,2016
+Dael Fry,Centre-Back,1997-08-30,18,England,Rotherham United,Championship,2016/2017,2016
+Richard Wood,Centre-Back,1985-07-05,30,England,Rotherham United,Championship,2016/2017,2016
+Tom Thorpe,Centre-Back,1993-01-13,23,England,Rotherham United,Championship,2016/2017,2016
+Semi Ajayi,Centre-Back,1993-11-09,22,Nigeria,Rotherham United,Championship,2016/2017,2016
+Dominic Ball,Centre-Back,1995-08-02,20,England,Rotherham United,Championship,2016/2017,2016
+Fabian Bailey,Centre-Back,1998-01-15,18,England,Rotherham United,Championship,2016/2017,2016
+Joe Mattock,Left-Back,1990-05-15,26,England,Rotherham United,Championship,2016/2017,2016
+Ben Purrington,Left-Back,1996-05-20,20,England,Rotherham United,Championship,2016/2017,2016
+Mason Warren,Left-Back,1997-03-28,19,England,Rotherham United,Championship,2016/2017,2016
+Stephen Kelly,Right-Back,1983-09-06,32,Ireland,Rotherham United,Championship,2016/2017,2016
+Darnell Fisher,Right-Back,1994-04-04,22,England,Rotherham United,Championship,2016/2017,2016
+Will Vaulks,Defensive Midfield,1993-09-13,22,Wales,Rotherham United,Championship,2016/2017,2016
+Tom Adeyemi,Central Midfield,1991-10-24,24,England,Rotherham United,Championship,2016/2017,2016
+Jake Forster-Caskey,Central Midfield,1994-04-25,22,England,Rotherham United,Championship,2016/2017,2016
+Scott Allan,Central Midfield,1991-11-28,24,Scotland,Rotherham United,Championship,2016/2017,2016
+Lee Frecklington,Central Midfield,1985-09-08,30,Ireland,Rotherham United,Championship,2016/2017,2016
+Richard Smallwood,Central Midfield,1990-12-29,25,England,Rotherham United,Championship,2016/2017,2016
+Chris Dawson,Central Midfield,1994-09-02,21,Wales,Rotherham United,Championship,2016/2017,2016
+Jon Taylor,Right Midfield,1992-07-20,23,England,Rotherham United,Championship,2016/2017,2016
+Joe Newell,Left Midfield,1993-03-15,23,England,Rotherham United,Championship,2016/2017,2016
+Anthony Forde,Left Midfield,1993-11-16,22,Ireland,Rotherham United,Championship,2016/2017,2016
+Kuda Muskwe,Forward,1998-09-17,17,England,Rotherham United,Championship,2016/2017,2016
+Peter Odemwingie,Right Winger,1981-07-15,34,Nigeria,Rotherham United,Championship,2016/2017,2016
+Alex Bray,Right Winger,1995-07-25,20,Wales,Rotherham United,Championship,2016/2017,2016
+Isaiah Brown,Second Striker,1997-01-07,19,England,Rotherham United,Championship,2016/2017,2016
+Dexter Blackstock,Centre-Forward,1986-05-20,30,Antigua and Barbuda,Rotherham United,Championship,2016/2017,2016
+Danny Ward,Centre-Forward,1990-12-09,25,England,Rotherham United,Championship,2016/2017,2016
+Jonson Clarke-Harris,Centre-Forward,1994-07-21,21,England,Rotherham United,Championship,2016/2017,2016
+Carlton Morris,Centre-Forward,1995-12-16,20,England,Rotherham United,Championship,2016/2017,2016
+Darnelle Bailey-King,Centre-Forward,1997-10-17,18,England,Rotherham United,Championship,2016/2017,2016
+Jerry Yates,Centre-Forward,1996-11-10,19,England,Rotherham United,Championship,2016/2017,2016
+Jon McLaughlin,Goalkeeper,1987-09-09,28,Scotland,Burton Albion,Championship,2016/2017,2016
+Stephen Bywater,Goalkeeper,1981-06-07,35,England,Burton Albion,Championship,2016/2017,2016
+Sam Hornby,Goalkeeper,1995-02-14,21,England,Burton Albion,Championship,2016/2017,2016
+Harry Campbell,Goalkeeper,1995-11-16,20,England,Burton Albion,Championship,2016/2017,2016
+Ben Turner,Centre-Back,1988-08-21,27,England,Burton Albion,Championship,2016/2017,2016
+Kyle McFadzean,Centre-Back,1987-02-20,29,England,Burton Albion,Championship,2016/2017,2016
+John Mousinho,Centre-Back,1986-04-30,30,England,Burton Albion,Championship,2016/2017,2016
+Shaun Barker,Centre-Back,1982-09-19,33,England,Burton Albion,Championship,2016/2017,2016
+Tom Flanagan,Centre-Back,1991-10-21,24,Northern Ireland,Burton Albion,Championship,2016/2017,2016
+Charlie Gatter,Centre-Back,1998-01-27,18,England,Burton Albion,Championship,2016/2017,2016
+Ryan Delaney,Centre-Back,1996-09-06,19,Ireland,Burton Albion,Championship,2016/2017,2016
+Damien McCrory,Left-Back,1990-02-23,26,Ireland,Burton Albion,Championship,2016/2017,2016
+John Brayford,Right-Back,1987-12-29,28,England,Burton Albion,Championship,2016/2017,2016
+Phil Edwards,Right-Back,1985-11-08,30,England,Burton Albion,Championship,2016/2017,2016
+Jackson Irvine,Defensive Midfield,1993-03-07,23,Australia,Burton Albion,Championship,2016/2017,2016
+Calum Butcher,Defensive Midfield,1991-02-26,25,England,Burton Albion,Championship,2016/2017,2016
+Tom Naylor,Defensive Midfield,1991-06-28,25,England,Burton Albion,Championship,2016/2017,2016
+Hamza Choudhury,Defensive Midfield,1997-10-01,18,England,Burton Albion,Championship,2016/2017,2016
+Lasse Vigen,Central Midfield,1994-08-15,21,Denmark,Burton Albion,Championship,2016/2017,2016
+Luke Murphy,Central Midfield,1989-10-21,26,England,Burton Albion,Championship,2016/2017,2016
+Lee Williamson,Central Midfield,1982-06-07,34,Jamaica,Burton Albion,Championship,2016/2017,2016
+Callum Reilly,Central Midfield,1993-10-03,22,Ireland,Burton Albion,Championship,2016/2017,2016
+Matt Palmer,Central Midfield,1993-08-01,22,England,Burton Albion,Championship,2016/2017,2016
+Ben Fox,Central Midfield,1998-02-01,18,England,Burton Albion,Championship,2016/2017,2016
+Joe Sbarra,Central Midfield,1998-12-21,17,England,Burton Albion,Championship,2016/2017,2016
+Lloyd Dyer,Left Midfield,1982-09-13,33,England,Burton Albion,Championship,2016/2017,2016
+Will Miller,Attacking Midfield,1996-06-08,20,England,Burton Albion,Championship,2016/2017,2016
+Jamie Ward,Left Winger,1986-05-12,30,Northern Ireland,Burton Albion,Championship,2016/2017,2016
+Michael Kightly,Left Winger,1986-01-24,30,England,Burton Albion,Championship,2016/2017,2016
+Luke Varney,Left Winger,1982-09-28,33,England,Burton Albion,Championship,2016/2017,2016
+Lucas Akins,Right Winger,1989-02-25,27,England,Burton Albion,Championship,2016/2017,2016
+Marcus Harness,Right Winger,1996-02-24,20,England,Burton Albion,Championship,2016/2017,2016
+Cauley Woodrow,Centre-Forward,1994-12-02,21,England,Burton Albion,Championship,2016/2017,2016
+Chris O'Grady,Centre-Forward,1986-01-25,30,England,Burton Albion,Championship,2016/2017,2016
+Marvin Sordell,Centre-Forward,1991-02-17,25,England,Burton Albion,Championship,2016/2017,2016
+Stuart Beavon,Centre-Forward,1984-05-05,32,England,Burton Albion,Championship,2016/2017,2016
+Adam Davies,Goalkeeper,1992-07-17,23,Wales,Barnsley FC,Championship,2016/2017,2016
+Nick Townsend,Goalkeeper,1994-11-01,21,England,Barnsley FC,Championship,2016/2017,2016
+Lewin Nyatanga,Centre-Back,1988-08-18,27,Wales,Barnsley FC,Championship,2016/2017,2016
+Alfie Mawson,Centre-Back,1994-01-19,22,England,Barnsley FC,Championship,2016/2017,2016
+Marc Roberts,Centre-Back,1990-07-26,25,England,Barnsley FC,Championship,2016/2017,2016
+Jack Cowgill,Centre-Back,1997-01-08,19,England,Barnsley FC,Championship,2016/2017,2016
+William Smith,Centre-Back,1998-11-04,17,England,Barnsley FC,Championship,2016/2017,2016
+Angus MacDonald,Centre-Back,1992-10-15,23,England,Barnsley FC,Championship,2016/2017,2016
+Adam Jackson,Centre-Back,1994-05-18,22,England,Barnsley FC,Championship,2016/2017,2016
+Aidy White,Left-Back,1991-10-10,24,Ireland,Barnsley FC,Championship,2016/2017,2016
+Callum Elder,Left-Back,1995-01-27,21,Australia,Barnsley FC,Championship,2016/2017,2016
+Cole Kpekawa,Left-Back,1996-05-20,20,England,Barnsley FC,Championship,2016/2017,2016
+Matty Templeton,Left-Back,1996-10-28,19,England,Barnsley FC,Championship,2016/2017,2016
+Saidy Janko,Right-Back,1995-10-22,20,Switzerland,Barnsley FC,Championship,2016/2017,2016
+James Bree,Right-Back,1997-10-11,18,England,Barnsley FC,Championship,2016/2017,2016
+Gethin Jones,Right-Back,1995-10-13,20,Wales,Barnsley FC,Championship,2016/2017,2016
+Louis Wardle,Right-Back,1999-03-29,17,England,Barnsley FC,Championship,2016/2017,2016
+Andy Yiadom,Right-Back,1991-12-02,24,Ghana,Barnsley FC,Championship,2016/2017,2016
+Jared Bird,Defensive Midfield,1997-08-21,18,England,Barnsley FC,Championship,2016/2017,2016
+Callum Evans,Defensive Midfield,1995-10-11,20,England,Barnsley FC,Championship,2016/2017,2016
+Sessi D'Almeida,Defensive Midfield,1995-11-20,20,Benin,Barnsley FC,Championship,2016/2017,2016
+Matty James,Central Midfield,1991-07-22,24,England,Barnsley FC,Championship,2016/2017,2016
+Alex Mowatt,Central Midfield,1995-02-13,21,England,Barnsley FC,Championship,2016/2017,2016
+Conor Hourihane,Central Midfield,1991-02-02,25,Ireland,Barnsley FC,Championship,2016/2017,2016
+Samy Morsy,Central Midfield,1991-09-10,24,Egypt,Barnsley FC,Championship,2016/2017,2016
+George Moncur,Central Midfield,1993-08-18,22,England,Barnsley FC,Championship,2016/2017,2016
+Josh Scowen,Central Midfield,1993-03-28,23,England,Barnsley FC,Championship,2016/2017,2016
+Charlie Harris,Central Midfield,1996-01-30,20,England,Barnsley FC,Championship,2016/2017,2016
+Josh Kay,Central Midfield,1997-01-30,19,England,Barnsley FC,Championship,2016/2017,2016
+Ryan Williams,Right Midfield,1993-10-28,22,Australia,Barnsley FC,Championship,2016/2017,2016
+Ryan Kent,Left Winger,1996-11-11,19,England,Barnsley FC,Championship,2016/2017,2016
+Adam Hammill,Right Winger,1988-01-25,28,England,Barnsley FC,Championship,2016/2017,2016
+Marley Watkins,Right Winger,1990-10-17,25,Wales,Barnsley FC,Championship,2016/2017,2016
+Ryan Hedges,Right Winger,1995-07-08,20,Wales,Barnsley FC,Championship,2016/2017,2016
+Jacob Brown,Right Winger,1998-04-10,18,England,Barnsley FC,Championship,2016/2017,2016
+Adam Armstrong,Centre-Forward,1997-02-10,19,England,Barnsley FC,Championship,2016/2017,2016
+Sam Winnall,Centre-Forward,1991-01-19,25,England,Barnsley FC,Championship,2016/2017,2016
+Tom Bradshaw,Centre-Forward,1992-07-27,23,Wales,Barnsley FC,Championship,2016/2017,2016
+Stefan Payne,Centre-Forward,1991-08-10,24,England,Barnsley FC,Championship,2016/2017,2016
+Shaun Tuton,Centre-Forward,1991-12-03,24,England,Barnsley FC,Championship,2016/2017,2016
+Bradley Ash,Centre-Forward,1996-04-05,20,England,Barnsley FC,Championship,2016/2017,2016
+Kayden Jackson,Centre-Forward,1994-02-22,22,England,Barnsley FC,Championship,2016/2017,2016
+Elliot Lee,Centre-Forward,1994-12-16,21,England,Barnsley FC,Championship,2016/2017,2016

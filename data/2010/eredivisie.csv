@@ -1,0 +1,580 @@
+player_name,position,date_of_birth,age,nationality,club_name,league_name,season,year
+Maarten Stekelenburg,Goalkeeper,1982-09-22,27,Netherlands,Ajax Amsterdam,Eredivisie,2010/2011,2010
+Kenneth Vermeer,Goalkeeper,1986-01-10,24,Netherlands,Ajax Amsterdam,Eredivisie,2010/2011,2010
+Jeroen Verhoeven,Goalkeeper,1980-04-30,30,Netherlands,Ajax Amsterdam,Eredivisie,2010/2011,2010
+Ronald Graafland,Goalkeeper,1979-04-30,31,Netherlands,Ajax Amsterdam,Eredivisie,2010/2011,2010
+Jan Vertonghen,Centre-Back,1987-04-24,23,Belgium,Ajax Amsterdam,Eredivisie,2010/2011,2010
+Toby Alderweireld,Centre-Back,1989-03-02,21,Belgium,Ajax Amsterdam,Eredivisie,2010/2011,2010
+André Ooijer,Centre-Back,1974-07-11,35,Netherlands,Ajax Amsterdam,Eredivisie,2010/2011,2010
+Oleguer,Centre-Back,1980-02-02,30,Spain,Ajax Amsterdam,Eredivisie,2010/2011,2010
+Daley Blind,Centre-Back,1990-03-09,20,Netherlands,Ajax Amsterdam,Eredivisie,2010/2011,2010
+Johan Kappelhof,Centre-Back,1990-08-05,19,Netherlands,Ajax Amsterdam,Eredivisie,2010/2011,2010
+Thimothée Atouba,Left-Back,1982-02-17,28,Cameroon,Ajax Amsterdam,Eredivisie,2010/2011,2010
+Marvin Zeegelaar,Left-Back,1990-08-12,19,Netherlands,Ajax Amsterdam,Eredivisie,2010/2011,2010
+Nicolai Boilesen,Left-Back,1992-02-16,18,Denmark,Ajax Amsterdam,Eredivisie,2010/2011,2010
+Gregory van der Wiel,Right-Back,1988-02-03,22,Netherlands,Ajax Amsterdam,Eredivisie,2010/2011,2010
+Bruno Silva,Right-Back,1980-03-29,30,Uruguay,Ajax Amsterdam,Eredivisie,2010/2011,2010
+Ruben Ligeon,Right-Back,1992-05-24,18,Netherlands,Ajax Amsterdam,Eredivisie,2010/2011,2010
+Eyong Enoh,Defensive Midfield,1986-03-23,24,Cameroon,Ajax Amsterdam,Eredivisie,2010/2011,2010
+Vurnon Anita,Defensive Midfield,1989-04-04,21,Netherlands,Ajax Amsterdam,Eredivisie,2010/2011,2010
+Rasmus Lindgren,Defensive Midfield,1984-11-29,25,Sweden,Ajax Amsterdam,Eredivisie,2010/2011,2010
+Teemu Tainio,Defensive Midfield,1979-11-27,30,Finland,Ajax Amsterdam,Eredivisie,2010/2011,2010
+Urby Emanuelson,Central Midfield,1986-06-16,24,Netherlands,Ajax Amsterdam,Eredivisie,2010/2011,2010
+Demy de Zeeuw,Central Midfield,1983-05-26,27,Netherlands,Ajax Amsterdam,Eredivisie,2010/2011,2010
+Mitchell Donald,Central Midfield,1988-12-10,21,Netherlands,Ajax Amsterdam,Eredivisie,2010/2011,2010
+Tom Overtoom,Central Midfield,1990-11-20,19,Netherlands,Ajax Amsterdam,Eredivisie,2010/2011,2010
+Roly Bonevacia,Central Midfield,1991-10-08,18,Curacao,Ajax Amsterdam,Eredivisie,2010/2011,2010
+Rodney Sneijder,Central Midfield,1991-03-03,19,Netherlands,Ajax Amsterdam,Eredivisie,2010/2011,2010
+Miralem Sulejmani,Left Midfield,1988-12-05,21,Serbia,Ajax Amsterdam,Eredivisie,2010/2011,2010
+Ismail Aissati,Attacking Midfield,1988-08-16,21,Morocco,Ajax Amsterdam,Eredivisie,2010/2011,2010
+Christian Eriksen,Attacking Midfield,1992-02-14,18,Denmark,Ajax Amsterdam,Eredivisie,2010/2011,2010
+Siem de Jong,Attacking Midfield,1989-01-28,21,Netherlands,Ajax Amsterdam,Eredivisie,2010/2011,2010
+Nicolás Lodeiro,Attacking Midfield,1989-03-21,21,Uruguay,Ajax Amsterdam,Eredivisie,2010/2011,2010
+Lorenzo Ebecilio,Attacking Midfield,1991-09-24,18,Netherlands,Ajax Amsterdam,Eredivisie,2010/2011,2010
+Jeffrey Sarpong,Left Winger,1988-08-03,21,Netherlands,Ajax Amsterdam,Eredivisie,2010/2011,2010
+Aras Özbiliz,Right Winger,1990-03-09,20,Armenia,Ajax Amsterdam,Eredivisie,2010/2011,2010
+Jody Lukoki,Right Winger,1992-11-15,17,DR Congo,Ajax Amsterdam,Eredivisie,2010/2011,2010
+Florian Jozefzoon,Right Winger,1991-02-09,19,Netherlands,Ajax Amsterdam,Eredivisie,2010/2011,2010
+Luis Suárez,Centre-Forward,1987-01-24,23,Uruguay,Ajax Amsterdam,Eredivisie,2010/2011,2010
+Mounir El Hamdaoui,Centre-Forward,1984-07-14,25,Morocco,Ajax Amsterdam,Eredivisie,2010/2011,2010
+Mido,Centre-Forward,1983-02-23,27,Egypt,Ajax Amsterdam,Eredivisie,2010/2011,2010
+Darío Cvitanich,Centre-Forward,1984-05-16,26,Argentina,Ajax Amsterdam,Eredivisie,2010/2011,2010
+Darko Bodul,Centre-Forward,1989-01-11,21,Austria,Ajax Amsterdam,Eredivisie,2010/2011,2010
+Hyun-jun Suk,Centre-Forward,1991-06-29,19,"Korea, South",Ajax Amsterdam,Eredivisie,2010/2011,2010
+Geoffrey Castillion,Centre-Forward,1991-05-25,19,Netherlands,Ajax Amsterdam,Eredivisie,2010/2011,2010
+Andreas Isaksson,Goalkeeper,1981-10-03,28,Sweden,PSV Eindhoven,Eredivisie,2010/2011,2010
+Bram Castro,Goalkeeper,1982-09-30,27,Belgium,PSV Eindhoven,Eredivisie,2010/2011,2010
+Cássio,Goalkeeper,1987-06-06,23,Brazil,PSV Eindhoven,Eredivisie,2010/2011,2010
+Jeroen Zoet,Goalkeeper,1991-01-06,19,Netherlands,PSV Eindhoven,Eredivisie,2010/2011,2010
+Carlos Salcido,Centre-Back,1980-04-02,30,Mexico,PSV Eindhoven,Eredivisie,2010/2011,2010
+Francisco Rodríguez,Centre-Back,1981-10-20,28,Mexico,PSV Eindhoven,Eredivisie,2010/2011,2010
+Marcelo,Centre-Back,1987-05-20,23,Brazil,PSV Eindhoven,Eredivisie,2010/2011,2010
+Jagos Vukovic,Centre-Back,1988-06-10,22,Serbia,PSV Eindhoven,Eredivisie,2010/2011,2010
+Stijn Wuytens,Centre-Back,1989-10-08,20,Belgium,PSV Eindhoven,Eredivisie,2010/2011,2010
+Dries Wuytens,Centre-Back,1991-03-18,19,Belgium,PSV Eindhoven,Eredivisie,2010/2011,2010
+Erik Pieters,Left-Back,1988-08-07,21,Netherlands,PSV Eindhoven,Eredivisie,2010/2011,2010
+Wilfred Bouma,Left-Back,1978-06-15,32,Netherlands,PSV Eindhoven,Eredivisie,2010/2011,2010
+Abel Tamata,Left-Back,1990-12-05,19,DR Congo,PSV Eindhoven,Eredivisie,2010/2011,2010
+Stanislav Manolev,Right-Back,1985-12-16,24,Bulgaria,PSV Eindhoven,Eredivisie,2010/2011,2010
+Jan Kromkamp,Right-Back,1980-08-17,29,Netherlands,PSV Eindhoven,Eredivisie,2010/2011,2010
+Stefano Marzo,Right-Back,1991-03-22,19,Belgium,PSV Eindhoven,Eredivisie,2010/2011,2010
+Orlando Engelaar,Defensive Midfield,1979-08-24,30,Netherlands,PSV Eindhoven,Eredivisie,2010/2011,2010
+Atiba Hutchinson,Defensive Midfield,1983-02-08,27,Canada,PSV Eindhoven,Eredivisie,2010/2011,2010
+Funso Ojo,Central Midfield,1991-08-28,18,Belgium,PSV Eindhoven,Eredivisie,2010/2011,2010
+Ibrahim Afellay,Left Midfield,1986-04-02,24,Netherlands,PSV Eindhoven,Eredivisie,2010/2011,2010
+Otman Bakkal,Attacking Midfield,1985-02-27,25,Netherlands,PSV Eindhoven,Eredivisie,2010/2011,2010
+Stef Nijland,Attacking Midfield,1988-08-10,21,Netherlands,PSV Eindhoven,Eredivisie,2010/2011,2010
+Zakaria Labyad,Attacking Midfield,1993-03-09,17,Morocco,PSV Eindhoven,Eredivisie,2010/2011,2010
+Ibrahim Rabiu,Attacking Midfield,1991-03-15,19,Nigeria,PSV Eindhoven,Eredivisie,2010/2011,2010
+Balázs Dzsudzsák,Left Winger,1986-12-23,23,Hungary,PSV Eindhoven,Eredivisie,2010/2011,2010
+Nordin Amrabat,Left Winger,1987-03-31,23,Morocco,PSV Eindhoven,Eredivisie,2010/2011,2010
+Jeremain Lens,Right Winger,1987-11-24,22,Netherlands,PSV Eindhoven,Eredivisie,2010/2011,2010
+Marcus Berg,Centre-Forward,1986-08-17,23,Sweden,PSV Eindhoven,Eredivisie,2010/2011,2010
+Ola Toivonen,Centre-Forward,1986-07-03,23,Sweden,PSV Eindhoven,Eredivisie,2010/2011,2010
+Danny Koevermans,Centre-Forward,1978-11-01,31,Netherlands,PSV Eindhoven,Eredivisie,2010/2011,2010
+Jonathan Reis,Centre-Forward,1989-06-06,21,Brazil,PSV Eindhoven,Eredivisie,2010/2011,2010
+Género Zeefuik,Centre-Forward,1990-04-05,20,Netherlands,PSV Eindhoven,Eredivisie,2010/2011,2010
+Nikolay Mihaylov,Goalkeeper,1988-06-28,22,Bulgaria,FC Twente Enschede,Eredivisie,2010/2011,2010
+Sander Boschker,Goalkeeper,1970-10-20,39,Netherlands,FC Twente Enschede,Eredivisie,2010/2011,2010
+Wilko de Vogt,Goalkeeper,1975-09-17,34,Netherlands,FC Twente Enschede,Eredivisie,2010/2011,2010
+Nick Marsman,Goalkeeper,1990-10-01,19,Netherlands,FC Twente Enschede,Eredivisie,2010/2011,2010
+Oguchi Onyewu,Centre-Back,1982-05-13,28,United States,FC Twente Enschede,Eredivisie,2010/2011,2010
+Douglas,Centre-Back,1988-01-12,22,Netherlands,FC Twente Enschede,Eredivisie,2010/2011,2010
+Peter Wisgerhof,Centre-Back,1979-11-19,30,Netherlands,FC Twente Enschede,Eredivisie,2010/2011,2010
+Rasmus Bengtsson,Centre-Back,1986-06-26,24,Sweden,FC Twente Enschede,Eredivisie,2010/2011,2010
+Nils Röseler,Centre-Back,1992-02-10,18,Germany,FC Twente Enschede,Eredivisie,2010/2011,2010
+Nicky Kuiper,Left-Back,1989-06-07,21,Netherlands,FC Twente Enschede,Eredivisie,2010/2011,2010
+Bart Buysse,Left-Back,1986-10-16,23,Belgium,FC Twente Enschede,Eredivisie,2010/2011,2010
+Roberto Rosales,Right-Back,1988-11-20,21,Venezuela,FC Twente Enschede,Eredivisie,2010/2011,2010
+Dwight Tiendalli,Right-Back,1985-10-21,24,Netherlands,FC Twente Enschede,Eredivisie,2010/2011,2010
+Michael Schimpelsberger,Right-Back,1991-02-12,19,Austria,FC Twente Enschede,Eredivisie,2010/2011,2010
+Mitch Stockentree,Right-Back,1991-01-22,19,Netherlands,FC Twente Enschede,Eredivisie,2010/2011,2010
+Wout Brama,Defensive Midfield,1986-08-21,23,Netherlands,FC Twente Enschede,Eredivisie,2010/2011,2010
+Cheik Tioté,Defensive Midfield,1986-06-21,24,Cote d'Ivoire,FC Twente Enschede,Eredivisie,2010/2011,2010
+Dario Vujicevic,Defensive Midfield,1990-04-01,20,Croatia,FC Twente Enschede,Eredivisie,2010/2011,2010
+Thilo Leugers,Defensive Midfield,1991-01-09,19,Germany,FC Twente Enschede,Eredivisie,2010/2011,2010
+Theo Janssen,Central Midfield,1981-07-27,28,Netherlands,FC Twente Enschede,Eredivisie,2010/2011,2010
+Denny Landzaat,Central Midfield,1976-05-06,34,Netherlands,FC Twente Enschede,Eredivisie,2010/2011,2010
+Bryan Ruíz,Attacking Midfield,1985-08-18,24,Costa Rica,FC Twente Enschede,Eredivisie,2010/2011,2010
+Arnold Bruggink,Attacking Midfield,1977-07-24,32,Netherlands,FC Twente Enschede,Eredivisie,2010/2011,2010
+Alexander Bannink,Attacking Midfield,1990-02-20,20,Netherlands,FC Twente Enschede,Eredivisie,2010/2011,2010
+Nacer Chadli,Left Winger,1989-08-02,20,Belgium,FC Twente Enschede,Eredivisie,2010/2011,2010
+David Carney,Left Winger,1983-11-30,26,Australia,FC Twente Enschede,Eredivisie,2010/2011,2010
+Ola John,Left Winger,1992-05-19,18,Netherlands,FC Twente Enschede,Eredivisie,2010/2011,2010
+Emir Bajrami,Right Winger,1988-03-07,22,Sweden,FC Twente Enschede,Eredivisie,2010/2011,2010
+Anouar Diba,Right Winger,1983-02-27,27,Morocco,FC Twente Enschede,Eredivisie,2010/2011,2010
+Steven Berghuis,Right Winger,1991-12-19,18,Netherlands,FC Twente Enschede,Eredivisie,2010/2011,2010
+Bernard Parker,Second Striker,1986-03-16,24,South Africa,FC Twente Enschede,Eredivisie,2010/2011,2010
+Marc Janko,Centre-Forward,1983-06-25,27,Austria,FC Twente Enschede,Eredivisie,2010/2011,2010
+Luuk de Jong,Centre-Forward,1990-08-27,19,Netherlands,FC Twente Enschede,Eredivisie,2010/2011,2010
+Flamur Kastrati,Centre-Forward,1991-11-14,18,Kosovo,FC Twente Enschede,Eredivisie,2010/2011,2010
+Sergio Romero,Goalkeeper,1987-02-22,23,Argentina,AZ Alkmaar,Eredivisie,2010/2011,2010
+Joey Didulica,Goalkeeper,1977-10-14,32,Croatia,AZ Alkmaar,Eredivisie,2010/2011,2010
+Erik Heijblok,Goalkeeper,1977-06-29,33,Netherlands,AZ Alkmaar,Eredivisie,2010/2011,2010
+Esteban Alvarado,Goalkeeper,1989-04-28,21,Costa Rica,AZ Alkmaar,Eredivisie,2010/2011,2010
+Hobie Verhulst,Goalkeeper,1993-04-02,17,Netherlands,AZ Alkmaar,Eredivisie,2010/2011,2010
+Dirk Marcellis,Centre-Back,1988-04-13,22,Netherlands,AZ Alkmaar,Eredivisie,2010/2011,2010
+Héctor Moreno,Centre-Back,1988-01-17,22,Mexico,AZ Alkmaar,Eredivisie,2010/2011,2010
+Kew Jaliens,Centre-Back,1978-09-15,31,Netherlands,AZ Alkmaar,Eredivisie,2010/2011,2010
+Niklas Moisander,Centre-Back,1985-09-29,24,Finland,AZ Alkmaar,Eredivisie,2010/2011,2010
+Ragnar Klavan,Centre-Back,1985-10-30,24,Estonia,AZ Alkmaar,Eredivisie,2010/2011,2010
+Nick Viergever,Centre-Back,1989-08-03,20,Netherlands,AZ Alkmaar,Eredivisie,2010/2011,2010
+Etiënne Reijnen,Centre-Back,1987-04-05,23,Netherlands,AZ Alkmaar,Eredivisie,2010/2011,2010
+Erik Schouten,Centre-Back,1991-08-16,18,Netherlands,AZ Alkmaar,Eredivisie,2010/2011,2010
+Toine van Huizen,Centre-Back,1990-02-13,20,Netherlands,AZ Alkmaar,Eredivisie,2010/2011,2010
+Simon Poulsen,Left-Back,1984-10-07,25,Denmark,AZ Alkmaar,Eredivisie,2010/2011,2010
+Giliano Wijnaldum,Left-Back,1992-08-31,17,Netherlands,AZ Alkmaar,Eredivisie,2010/2011,2010
+Gill Swerts,Right-Back,1982-09-23,27,Belgium,AZ Alkmaar,Eredivisie,2010/2011,2010
+Ramon,Right-Back,1990-08-22,19,Brazil,AZ Alkmaar,Eredivisie,2010/2011,2010
+Stijn Schaars,Defensive Midfield,1984-01-11,26,Netherlands,AZ Alkmaar,Eredivisie,2010/2011,2010
+Rasmus Elm,Defensive Midfield,1988-03-17,22,Sweden,AZ Alkmaar,Eredivisie,2010/2011,2010
+Pontus Wernbloom,Defensive Midfield,1986-06-25,24,Sweden,AZ Alkmaar,Eredivisie,2010/2011,2010
+Celso Ortiz,Defensive Midfield,1989-01-26,21,Paraguay,AZ Alkmaar,Eredivisie,2010/2011,2010
+James Holland,Defensive Midfield,1989-05-15,21,Australia,AZ Alkmaar,Eredivisie,2010/2011,2010
+Adam Maher,Central Midfield,1993-07-20,16,Netherlands,AZ Alkmaar,Eredivisie,2010/2011,2010
+Maarten Martens,Attacking Midfield,1984-07-02,25,Belgium,AZ Alkmaar,Eredivisie,2010/2011,2010
+Brett Holman,Attacking Midfield,1984-03-27,26,Australia,AZ Alkmaar,Eredivisie,2010/2011,2010
+Erik Falkenburg,Attacking Midfield,1988-05-05,22,Netherlands,AZ Alkmaar,Eredivisie,2010/2011,2010
+Ali Messaoud,Attacking Midfield,1991-04-13,19,Netherlands,AZ Alkmaar,Eredivisie,2010/2011,2010
+Roland Alberg,Attacking Midfield,1990-08-06,19,Netherlands,AZ Alkmaar,Eredivisie,2010/2011,2010
+Nick van der Velden,Left Winger,1981-12-16,28,Netherlands,AZ Alkmaar,Eredivisie,2010/2011,2010
+Johann Berg Gudmundsson,Right Winger,1990-10-27,19,Iceland,AZ Alkmaar,Eredivisie,2010/2011,2010
+Graziano Pellè,Centre-Forward,1985-07-15,24,Italy,AZ Alkmaar,Eredivisie,2010/2011,2010
+Charlison Benschop,Centre-Forward,1989-08-21,20,Curacao,AZ Alkmaar,Eredivisie,2010/2011,2010
+Jonathas,Centre-Forward,1989-03-06,21,Brazil,AZ Alkmaar,Eredivisie,2010/2011,2010
+Kolbeinn Sigthórsson,Centre-Forward,1990-03-14,20,Iceland,AZ Alkmaar,Eredivisie,2010/2011,2010
+Mitchell te Vrede,Centre-Forward,1991-08-07,18,Netherlands,AZ Alkmaar,Eredivisie,2010/2011,2010
+Rob van Dijk,Goalkeeper,1969-01-15,41,Netherlands,Feyenoord Rotterdam,Eredivisie,2010/2011,2010
+Erwin Mulder,Goalkeeper,1989-03-03,21,Netherlands,Feyenoord Rotterdam,Eredivisie,2010/2011,2010
+Darley,Goalkeeper,1989-12-15,20,Brazil,Feyenoord Rotterdam,Eredivisie,2010/2011,2010
+Konstantinos Lamprou,Goalkeeper,1991-09-18,18,Greece,Feyenoord Rotterdam,Eredivisie,2010/2011,2010
+André Bahia,Centre-Back,1983-11-24,26,Brazil,Feyenoord Rotterdam,Eredivisie,2010/2011,2010
+Ron Vlaar,Centre-Back,1985-02-16,25,Netherlands,Feyenoord Rotterdam,Eredivisie,2010/2011,2010
+Stefan de Vrij,Centre-Back,1992-02-05,18,Netherlands,Feyenoord Rotterdam,Eredivisie,2010/2011,2010
+Bart Schenkeveld,Centre-Back,1991-08-28,18,Netherlands,Feyenoord Rotterdam,Eredivisie,2010/2011,2010
+Bruno Martins Indi,Centre-Back,1992-02-08,18,Netherlands,Feyenoord Rotterdam,Eredivisie,2010/2011,2010
+Tim de Cler,Left-Back,1978-11-08,31,Netherlands,Feyenoord Rotterdam,Eredivisie,2010/2011,2010
+Michael Lumb,Left-Back,1988-01-09,22,Denmark,Feyenoord Rotterdam,Eredivisie,2010/2011,2010
+Gill Swerts,Right-Back,1982-09-23,27,Belgium,Feyenoord Rotterdam,Eredivisie,2010/2011,2010
+Dani Fernández,Right-Back,1983-01-20,27,Spain,Feyenoord Rotterdam,Eredivisie,2010/2011,2010
+Kelvin Leerdam,Right-Back,1990-06-24,20,Netherlands,Feyenoord Rotterdam,Eredivisie,2010/2011,2010
+Marcel Meeuwis,Defensive Midfield,1980-10-31,29,Netherlands,Feyenoord Rotterdam,Eredivisie,2010/2011,2010
+Kamohelo Mokotjo,Defensive Midfield,1991-03-11,19,South Africa,Feyenoord Rotterdam,Eredivisie,2010/2011,2010
+Georginio Wijnaldum,Central Midfield,1990-11-11,19,Netherlands,Feyenoord Rotterdam,Eredivisie,2010/2011,2010
+Leroy Fer,Central Midfield,1990-01-05,20,Netherlands,Feyenoord Rotterdam,Eredivisie,2010/2011,2010
+Karim El Ahmadi,Central Midfield,1985-01-27,25,Morocco,Feyenoord Rotterdam,Eredivisie,2010/2011,2010
+Adil Auassar,Central Midfield,1986-10-06,23,Morocco,Feyenoord Rotterdam,Eredivisie,2010/2011,2010
+Ricky van Haaren,Central Midfield,1991-06-21,19,Netherlands,Feyenoord Rotterdam,Eredivisie,2010/2011,2010
+Luigi Bruins,Left Winger,1987-03-09,23,Netherlands,Feyenoord Rotterdam,Eredivisie,2010/2011,2010
+Diego Biseswar,Left Winger,1988-03-08,22,Netherlands,Feyenoord Rotterdam,Eredivisie,2010/2011,2010
+Jerson Cabral,Left Winger,1991-01-03,19,Cape Verde,Feyenoord Rotterdam,Eredivisie,2010/2011,2010
+Ruben Schaken,Right Winger,1982-04-03,28,Netherlands,Feyenoord Rotterdam,Eredivisie,2010/2011,2010
+Krisztián Simon,Right Winger,1991-06-10,19,Hungary,Feyenoord Rotterdam,Eredivisie,2010/2011,2010
+Ryo Miyaichi,Right Winger,1992-12-14,17,Japan,Feyenoord Rotterdam,Eredivisie,2010/2011,2010
+Jon Dahl Tomasson,Centre-Forward,1976-08-29,33,Denmark,Feyenoord Rotterdam,Eredivisie,2010/2011,2010
+Sekou Cissé,Centre-Forward,1985-05-23,25,Cote d'Ivoire,Feyenoord Rotterdam,Eredivisie,2010/2011,2010
+Sören Larsen,Centre-Forward,1981-09-06,28,Denmark,Feyenoord Rotterdam,Eredivisie,2010/2011,2010
+Fedor Smolov,Centre-Forward,1990-02-09,20,Russia,Feyenoord Rotterdam,Eredivisie,2010/2011,2010
+Jhonny van Beukering,Centre-Forward,1983-09-29,26,Netherlands,Feyenoord Rotterdam,Eredivisie,2010/2011,2010
+Luc Castaignos,Centre-Forward,1992-09-27,17,Netherlands,Feyenoord Rotterdam,Eredivisie,2010/2011,2010
+Brian Vandenbussche,Goalkeeper,1981-09-24,28,Belgium,SC Heerenveen,Eredivisie,2010/2011,2010
+Kevin Stuhr Ellegaard,Goalkeeper,1983-05-23,27,Denmark,SC Heerenveen,Eredivisie,2010/2011,2010
+Kenny Steppe,Goalkeeper,1988-11-14,21,Belgium,SC Heerenveen,Eredivisie,2010/2011,2010
+René Oosterhof,Goalkeeper,1990-05-01,20,Netherlands,SC Heerenveen,Eredivisie,2010/2011,2010
+Viktor Elm,Centre-Back,1985-11-13,24,Sweden,SC Heerenveen,Eredivisie,2010/2011,2010
+Michal Svec,Centre-Back,1987-03-19,23,Czech Republic,SC Heerenveen,Eredivisie,2010/2011,2010
+Igor Djuric,Centre-Back,1985-02-22,25,Serbia,SC Heerenveen,Eredivisie,2010/2011,2010
+Michel Breuer,Centre-Back,1980-05-25,30,Netherlands,SC Heerenveen,Eredivisie,2010/2011,2010
+Calvin Jong-A-Pin,Centre-Back,1986-07-18,23,Netherlands,SC Heerenveen,Eredivisie,2010/2011,2010
+Arnold Kruiswijk,Centre-Back,1984-11-02,25,Netherlands,SC Heerenveen,Eredivisie,2010/2011,2010
+Milan Kopic,Centre-Back,1985-11-23,24,Czech Republic,SC Heerenveen,Eredivisie,2010/2011,2010
+Rico Wolven,Centre-Back,1990-03-25,20,Netherlands,SC Heerenveen,Eredivisie,2010/2011,2010
+Jeffrey Gouweleeuw,Centre-Back,1991-07-10,18,Netherlands,SC Heerenveen,Eredivisie,2010/2011,2010
+Youssef El-Akchaoui,Left-Back,1981-02-18,29,Morocco,SC Heerenveen,Eredivisie,2010/2011,2010
+Daryl Janmaat,Right-Back,1989-07-22,20,Netherlands,SC Heerenveen,Eredivisie,2010/2011,2010
+Gerry Koning,Right-Back,1980-01-03,30,Netherlands,SC Heerenveen,Eredivisie,2010/2011,2010
+Tobias Kainz,Right-Back,1992-10-31,17,Austria,SC Heerenveen,Eredivisie,2010/2011,2010
+Philip Haglund,Defensive Midfield,1987-03-22,23,Sweden,SC Heerenveen,Eredivisie,2010/2011,2010
+Mika Väyrynen,Central Midfield,1981-12-28,28,Finland,SC Heerenveen,Eredivisie,2010/2011,2010
+Christian Grindheim,Attacking Midfield,1983-07-17,26,Norway,SC Heerenveen,Eredivisie,2010/2011,2010
+Geert Arend Roorda,Attacking Midfield,1988-03-02,22,Netherlands,SC Heerenveen,Eredivisie,2010/2011,2010
+Tarik Elyounoussi,Left Winger,1988-02-23,22,Norway,SC Heerenveen,Eredivisie,2010/2011,2010
+Oussama Assaidi,Left Winger,1988-08-15,21,Morocco,SC Heerenveen,Eredivisie,2010/2011,2010
+Filip Djuricic,Left Winger,1992-01-30,18,Serbia,SC Heerenveen,Eredivisie,2010/2011,2010
+Quentin Martinus,Left Winger,1991-03-07,19,Curacao,SC Heerenveen,Eredivisie,2010/2011,2010
+Roy Beerens,Right Winger,1987-12-22,22,Netherlands,SC Heerenveen,Eredivisie,2010/2011,2010
+Luciano Narsingh,Right Winger,1990-09-13,19,Netherlands,SC Heerenveen,Eredivisie,2010/2011,2010
+Bas Dost,Centre-Forward,1989-05-31,21,Netherlands,SC Heerenveen,Eredivisie,2010/2011,2010
+Michal Papadopulos,Centre-Forward,1985-04-14,25,Czech Republic,SC Heerenveen,Eredivisie,2010/2011,2010
+Samir Fazli,Centre-Forward,1991-04-22,19,North Macedonia,SC Heerenveen,Eredivisie,2010/2011,2010
+Michel Vorm,Goalkeeper,1983-10-20,26,Netherlands,FC Utrecht,Eredivisie,2010/2011,2010
+Khalid Sinouh,Goalkeeper,1975-05-02,35,Morocco,FC Utrecht,Eredivisie,2010/2011,2010
+André Krul,Goalkeeper,1987-05-08,23,Netherlands,FC Utrecht,Eredivisie,2010/2011,2010
+Erik Cummins,Goalkeeper,1988-08-10,21,Netherlands,FC Utrecht,Eredivisie,2010/2011,2010
+Jan Wuytens,Centre-Back,1985-06-09,25,Belgium,FC Utrecht,Eredivisie,2010/2011,2010
+Sander Keller,Centre-Back,1979-09-18,30,Netherlands,FC Utrecht,Eredivisie,2010/2011,2010
+Francis Dickoh,Centre-Back,1982-12-13,27,Ghana,FC Utrecht,Eredivisie,2010/2011,2010
+Alje Schut,Centre-Back,1981-02-18,29,Netherlands,FC Utrecht,Eredivisie,2010/2011,2010
+Ismo Vorstermans,Centre-Back,1989-03-30,21,Netherlands,FC Utrecht,Eredivisie,2010/2011,2010
+Gévero Markiet,Centre-Back,1991-04-08,19,Netherlands,FC Utrecht,Eredivisie,2010/2011,2010
+Kai Heerings,Centre-Back,1990-01-12,20,Netherlands,FC Utrecht,Eredivisie,2010/2011,2010
+Dave Bulthuis,Centre-Back,1990-06-28,20,Netherlands,FC Utrecht,Eredivisie,2010/2011,2010
+Mike van der Hoorn,Centre-Back,1992-10-15,17,Netherlands,FC Utrecht,Eredivisie,2010/2011,2010
+Nana Asare,Left-Back,1986-07-11,23,Ghana,FC Utrecht,Eredivisie,2010/2011,2010
+Mihai Nesu,Left-Back,1983-02-19,27,Romania,FC Utrecht,Eredivisie,2010/2011,2010
+Michael Zullo,Left-Back,1988-11-09,21,Australia,FC Utrecht,Eredivisie,2010/2011,2010
+Tim Cornelisse,Right-Back,1978-04-03,32,Netherlands,FC Utrecht,Eredivisie,2010/2011,2010
+Mark van der Maarel,Right-Back,1989-08-12,20,Netherlands,FC Utrecht,Eredivisie,2010/2011,2010
+Anouar Kali,Defensive Midfield,1991-06-03,19,Morocco,FC Utrecht,Eredivisie,2010/2011,2010
+Michael Silberbauer,Central Midfield,1981-07-07,28,Denmark,FC Utrecht,Eredivisie,2010/2011,2010
+Kevin Strootman,Central Midfield,1990-02-13,20,Netherlands,FC Utrecht,Eredivisie,2010/2011,2010
+Barry Maguire,Central Midfield,1989-10-27,20,Netherlands,FC Utrecht,Eredivisie,2010/2011,2010
+Jacob Lensky,Central Midfield,1988-12-16,21,Czech Republic,FC Utrecht,Eredivisie,2010/2011,2010
+Gianluca Nijholt,Central Midfield,1990-02-14,20,Netherlands,FC Utrecht,Eredivisie,2010/2011,2010
+Zakaria Amrani,Central Midfield,1991-03-29,19,Netherlands,FC Utrecht,Eredivisie,2010/2011,2010
+Adam Sarota,Right Midfield,1988-12-28,21,Australia,FC Utrecht,Eredivisie,2010/2011,2010
+Erixon Danso,Attacking Midfield,1989-07-22,20,Aruba,FC Utrecht,Eredivisie,2010/2011,2010
+Édouard Duplan,Left Winger,1983-05-13,27,France,FC Utrecht,Eredivisie,2010/2011,2010
+Loïc Loval,Left Winger,1981-09-28,28,Guadeloupe,FC Utrecht,Eredivisie,2010/2011,2010
+Tommy Oar,Left Winger,1991-12-10,18,Australia,FC Utrecht,Eredivisie,2010/2011,2010
+Evert Brouwers,Right Winger,1990-06-17,20,Netherlands,FC Utrecht,Eredivisie,2010/2011,2010
+Ricky van Wolfswinkel,Centre-Forward,1989-01-27,21,Netherlands,FC Utrecht,Eredivisie,2010/2011,2010
+Dries Mertens,Centre-Forward,1987-05-06,23,Belgium,FC Utrecht,Eredivisie,2010/2011,2010
+Jacob Mulenga,Centre-Forward,1984-02-12,26,Zambia,FC Utrecht,Eredivisie,2010/2011,2010
+Frank Demouge,Centre-Forward,1982-06-25,28,Netherlands,FC Utrecht,Eredivisie,2010/2011,2010
+Atilla Yildirim,Centre-Forward,1990-11-22,19,Turkey,FC Utrecht,Eredivisie,2010/2011,2010
+Leon de Kogel,Centre-Forward,1991-11-13,18,Netherlands,FC Utrecht,Eredivisie,2010/2011,2010
+Piet Velthuizen,Goalkeeper,1986-11-03,23,Netherlands,Vitesse Arnhem,Eredivisie,2010/2011,2010
+Matej Delac,Goalkeeper,1992-08-20,17,Croatia,Vitesse Arnhem,Eredivisie,2010/2011,2010
+Eloy Room,Goalkeeper,1989-02-06,21,Curacao,Vitesse Arnhem,Eredivisie,2010/2011,2010
+Sebastiaan van der Sman,Goalkeeper,1988-07-23,21,Netherlands,Vitesse Arnhem,Eredivisie,2010/2011,2010
+Slobodan Rajkovic,Centre-Back,1989-02-03,21,Serbia,Vitesse Arnhem,Eredivisie,2010/2011,2010
+Civard Sprockel,Centre-Back,1983-05-10,27,Curacao,Vitesse Arnhem,Eredivisie,2010/2011,2010
+Guram Kashia,Centre-Back,1987-07-04,22,Georgia,Vitesse Arnhem,Eredivisie,2010/2011,2010
+Jop van der Linden,Centre-Back,1990-07-17,19,Netherlands,Vitesse Arnhem,Eredivisie,2010/2011,2010
+Luca Caldirola,Centre-Back,1991-02-01,19,Italy,Vitesse Arnhem,Eredivisie,2010/2011,2010
+Gino Felixdaal,Centre-Back,1990-01-05,20,Netherlands,Vitesse Arnhem,Eredivisie,2010/2011,2010
+Michihiro Yasuda,Left-Back,1987-12-20,22,Japan,Vitesse Arnhem,Eredivisie,2010/2011,2010
+Alexander Büttner,Left-Back,1989-02-11,21,Netherlands,Vitesse Arnhem,Eredivisie,2010/2011,2010
+Jeroen Drost,Left-Back,1987-01-21,23,Netherlands,Vitesse Arnhem,Eredivisie,2010/2011,2010
+Frank van der Struijk,Right-Back,1985-03-28,25,Netherlands,Vitesse Arnhem,Eredivisie,2010/2011,2010
+Nemanja Matic,Defensive Midfield,1988-08-01,21,Serbia,Vitesse Arnhem,Eredivisie,2010/2011,2010
+Rogier Molhoek,Defensive Midfield,1981-07-22,28,Netherlands,Vitesse Arnhem,Eredivisie,2010/2011,2010
+Hayri Pinarci,Defensive Midfield,1991-10-10,18,Netherlands,Vitesse Arnhem,Eredivisie,2010/2011,2010
+Dalibor Stevanovic,Central Midfield,1984-09-27,25,Slovenia,Vitesse Arnhem,Eredivisie,2010/2011,2010
+Laryea Kingston,Central Midfield,1980-11-07,29,Ghana,Vitesse Arnhem,Eredivisie,2010/2011,2010
+Jordi López,Central Midfield,1981-02-28,29,Spain,Vitesse Arnhem,Eredivisie,2010/2011,2010
+Wiljan Pluim,Central Midfield,1989-01-04,21,Netherlands,Vitesse Arnhem,Eredivisie,2010/2011,2010
+Davy Pröpper,Central Midfield,1991-09-02,18,Netherlands,Vitesse Arnhem,Eredivisie,2010/2011,2010
+Marco van Ginkel,Central Midfield,1992-12-01,17,Netherlands,Vitesse Arnhem,Eredivisie,2010/2011,2010
+Martí Riverola,Central Midfield,1991-01-26,19,Spain,Vitesse Arnhem,Eredivisie,2010/2011,2010
+Ismail Aissati,Attacking Midfield,1988-08-16,21,Morocco,Vitesse Arnhem,Eredivisie,2010/2011,2010
+Nacer Barazite,Attacking Midfield,1990-05-27,20,Netherlands,Vitesse Arnhem,Eredivisie,2010/2011,2010
+Ted Heijckmann,Left Winger,1991-11-24,18,Netherlands,Vitesse Arnhem,Eredivisie,2010/2011,2010
+Adnane Tighadouini,Left Winger,1992-10-30,17,Morocco,Vitesse Arnhem,Eredivisie,2010/2011,2010
+Haruna Babangida,Right Winger,1982-10-01,27,Nigeria,Vitesse Arnhem,Eredivisie,2010/2011,2010
+Julian Jenner,Right Winger,1984-02-28,26,Netherlands,Vitesse Arnhem,Eredivisie,2010/2011,2010
+Genaro Snijders,Right Winger,1989-07-29,20,Netherlands,Vitesse Arnhem,Eredivisie,2010/2011,2010
+Lasse Nilsson,Centre-Forward,1982-01-03,28,Sweden,Vitesse Arnhem,Eredivisie,2010/2011,2010
+Wilfried Bony,Centre-Forward,1988-12-10,21,Cote d'Ivoire,Vitesse Arnhem,Eredivisie,2010/2011,2010
+Sinan Kaloglu,Centre-Forward,1981-06-10,29,Turkey,Vitesse Arnhem,Eredivisie,2010/2011,2010
+Marcus Pedersen,Centre-Forward,1990-06-08,20,Norway,Vitesse Arnhem,Eredivisie,2010/2011,2010
+Roy de Ruiter,Centre-Forward,1989-08-19,20,Netherlands,Vitesse Arnhem,Eredivisie,2010/2011,2010
+Luciano,Goalkeeper,1980-03-16,30,Brazil,FC Groningen,Eredivisie,2010/2011,2010
+Brian van Loo,Goalkeeper,1975-04-02,35,Netherlands,FC Groningen,Eredivisie,2010/2011,2010
+Leonard Nienhuis,Goalkeeper,1990-03-16,20,Netherlands,FC Groningen,Eredivisie,2010/2011,2010
+Andreas Granqvist,Centre-Back,1985-04-16,25,Sweden,FC Groningen,Eredivisie,2010/2011,2010
+Jonas Ivens,Centre-Back,1984-10-14,25,Belgium,FC Groningen,Eredivisie,2010/2011,2010
+Fredrik Stenman,Centre-Back,1983-06-02,27,Sweden,FC Groningen,Eredivisie,2010/2011,2010
+Jeroen Veldmate,Centre-Back,1988-11-08,21,Netherlands,FC Groningen,Eredivisie,2010/2011,2010
+Darryl Lachman,Centre-Back,1989-11-11,20,Curacao,FC Groningen,Eredivisie,2010/2011,2010
+Virgil van Dijk,Centre-Back,1991-07-08,18,Netherlands,FC Groningen,Eredivisie,2010/2011,2010
+Jorrit Kunst,Right-Back,1989-05-11,21,Netherlands,FC Groningen,Eredivisie,2010/2011,2010
+Femi,Defensive Midfield,1985-01-18,25,Nigeria,FC Groningen,Eredivisie,2010/2011,2010
+Tim Sparv,Defensive Midfield,1987-02-20,23,Finland,FC Groningen,Eredivisie,2010/2011,2010
+Shkodran Metaj,Defensive Midfield,1988-02-05,22,Kosovo,FC Groningen,Eredivisie,2010/2011,2010
+Tom Hiariej,Defensive Midfield,1988-07-25,21,Netherlands,FC Groningen,Eredivisie,2010/2011,2010
+Maikel Kieftenbeld,Defensive Midfield,1990-06-26,20,Netherlands,FC Groningen,Eredivisie,2010/2011,2010
+Danny Holla,Central Midfield,1987-12-31,22,Netherlands,FC Groningen,Eredivisie,2010/2011,2010
+Petter Andersson,Central Midfield,1985-02-20,25,Sweden,FC Groningen,Eredivisie,2010/2011,2010
+Leandro Bacuna,Central Midfield,1991-08-21,18,Curacao,FC Groningen,Eredivisie,2010/2011,2010
+Danny Post,Central Midfield,1989-04-07,21,Netherlands,FC Groningen,Eredivisie,2010/2011,2010
+Jeffrey Rijsdijk,Central Midfield,1987-09-12,22,Netherlands,FC Groningen,Eredivisie,2010/2011,2010
+Koen van de Laak,Attacking Midfield,1982-09-03,27,Netherlands,FC Groningen,Eredivisie,2010/2011,2010
+Dusan Tadic,Left Winger,1988-11-20,21,Serbia,FC Groningen,Eredivisie,2010/2011,2010
+Thomas Enevoldsen,Left Winger,1987-07-27,22,Denmark,FC Groningen,Eredivisie,2010/2011,2010
+Norair Aslanyan,Right Winger,1991-03-25,19,Armenia,FC Groningen,Eredivisie,2010/2011,2010
+Gonzalo García,Second Striker,1983-10-13,26,Spain,FC Groningen,Eredivisie,2010/2011,2010
+Nicklas Pedersen,Centre-Forward,1987-10-10,22,Denmark,FC Groningen,Eredivisie,2010/2011,2010
+Tim Matavz,Centre-Forward,1989-01-13,21,Slovenia,FC Groningen,Eredivisie,2010/2011,2010
+Jelle ten Rouwelaar,Goalkeeper,1980-12-24,29,Netherlands,NAC Breda,Eredivisie,2010/2011,2010
+Jimmy van Fessem,Goalkeeper,1975-08-07,34,Netherlands,NAC Breda,Eredivisie,2010/2011,2010
+Gino Mommers,Goalkeeper,1988-05-09,22,Netherlands,NAC Breda,Eredivisie,2010/2011,2010
+Tim Coremans,Goalkeeper,1991-04-10,19,Netherlands,NAC Breda,Eredivisie,2010/2011,2010
+Robbert Schilder,Centre-Back,1986-04-18,24,Netherlands,NAC Breda,Eredivisie,2010/2011,2010
+Rob Penders,Centre-Back,1975-12-31,34,Netherlands,NAC Breda,Eredivisie,2010/2011,2010
+Milano Koenders,Centre-Back,1986-07-31,23,Netherlands,NAC Breda,Eredivisie,2010/2011,2010
+Kees Luijckx,Centre-Back,1986-02-11,24,Netherlands,NAC Breda,Eredivisie,2010/2011,2010
+Gábor Horváth,Centre-Back,1985-07-04,24,Hungary,NAC Breda,Eredivisie,2010/2011,2010
+Daan Brinkman,Centre-Back,1991-04-12,19,Netherlands,NAC Breda,Eredivisie,2010/2011,2010
+Ferne Snoyl,Left-Back,1985-03-08,25,Netherlands,NAC Breda,Eredivisie,2010/2011,2010
+Ömer Bayram,Left-Back,1991-07-27,18,Turkey,NAC Breda,Eredivisie,2010/2011,2010
+Tyrone Loran,Right-Back,1981-06-29,29,Curacao,NAC Breda,Eredivisie,2010/2011,2010
+Kees Kwakman,Defensive Midfield,1983-06-10,27,Netherlands,NAC Breda,Eredivisie,2010/2011,2010
+Tim Gilissen,Defensive Midfield,1982-06-04,28,Netherlands,NAC Breda,Eredivisie,2010/2011,2010
+Csaba Fehér,Defensive Midfield,1975-09-02,34,Hungary,NAC Breda,Eredivisie,2010/2011,2010
+Nemanja Gudelj,Defensive Midfield,1991-11-16,18,Serbia,NAC Breda,Eredivisie,2010/2011,2010
+Steven Edwards,Defensive Midfield,1991-01-15,19,Netherlands,NAC Breda,Eredivisie,2010/2011,2010
+Donny Gorter,Central Midfield,1988-06-15,22,Netherlands,NAC Breda,Eredivisie,2010/2011,2010
+Pim Bouwman,Central Midfield,1991-01-30,19,Netherlands,NAC Breda,Eredivisie,2010/2011,2010
+Tim Receveur,Central Midfield,1991-07-30,18,Netherlands,NAC Breda,Eredivisie,2010/2011,2010
+Jens Janse,Right Midfield,1986-07-01,24,Netherlands,NAC Breda,Eredivisie,2010/2011,2010
+Anthony Lurling,Attacking Midfield,1977-04-22,33,Netherlands,NAC Breda,Eredivisie,2010/2011,2010
+Nasser El Khayati,Attacking Midfield,1989-02-07,21,Netherlands,NAC Breda,Eredivisie,2010/2011,2010
+Marvin van der Pluijm,Attacking Midfield,1988-06-01,22,Netherlands,NAC Breda,Eredivisie,2010/2011,2010
+Ali Boussaboun,Left Winger,1979-06-11,31,Morocco,NAC Breda,Eredivisie,2010/2011,2010
+Joonas Kolkka,Right Winger,1974-09-28,35,Finland,NAC Breda,Eredivisie,2010/2011,2010
+Julian Jenner,Right Winger,1984-02-28,26,Netherlands,NAC Breda,Eredivisie,2010/2011,2010
+Leonardo,Second Striker,1983-03-09,27,Netherlands,NAC Breda,Eredivisie,2010/2011,2010
+Matthew Amoah,Centre-Forward,1980-10-24,29,Ghana,NAC Breda,Eredivisie,2010/2011,2010
+Fouad Idabdelhay,Centre-Forward,1988-05-02,22,Netherlands,NAC Breda,Eredivisie,2010/2011,2010
+Alex Schalk,Centre-Forward,1992-08-07,17,Netherlands,NAC Breda,Eredivisie,2010/2011,2010
+Przemyslaw Tyton,Goalkeeper,1987-01-04,23,Poland,Roda JC Kerkrade,Eredivisie,2010/2011,2010
+Collin van Eijk,Goalkeeper,1991-08-29,18,Netherlands,Roda JC Kerkrade,Eredivisie,2010/2011,2010
+Mateusz Prus,Goalkeeper,1990-03-09,20,Poland,Roda JC Kerkrade,Eredivisie,2010/2011,2010
+Thijs De Boevere,Goalkeeper,1992-02-05,18,Belgium,Roda JC Kerkrade,Eredivisie,2010/2011,2010
+Rob Wielaert,Centre-Back,1978-12-29,31,Netherlands,Roda JC Kerkrade,Eredivisie,2010/2011,2010
+Pa-Modou Kah,Centre-Back,1980-07-30,29,Norway,Roda JC Kerkrade,Eredivisie,2010/2011,2010
+Willem Janssen,Centre-Back,1986-07-04,23,Netherlands,Roda JC Kerkrade,Eredivisie,2010/2011,2010
+Eric Addo,Centre-Back,1978-11-12,31,Ghana,Roda JC Kerkrade,Eredivisie,2010/2011,2010
+Jimmy Hempte,Left-Back,1982-03-24,28,Belgium,Roda JC Kerkrade,Eredivisie,2010/2011,2010
+Boldizsár Bodor,Left-Back,1982-04-27,28,Hungary,Roda JC Kerkrade,Eredivisie,2010/2011,2010
+Vincent Lachambre,Left-Back,1980-11-06,29,Belgium,Roda JC Kerkrade,Eredivisie,2010/2011,2010
+Yani Urdinov,Left-Back,1991-03-28,19,North Macedonia,Roda JC Kerkrade,Eredivisie,2010/2011,2010
+Davy De fauw,Right-Back,1981-07-08,28,Belgium,Roda JC Kerkrade,Eredivisie,2010/2011,2010
+Eelco Horsten,Right-Back,1989-12-31,20,Netherlands,Roda JC Kerkrade,Eredivisie,2010/2011,2010
+Antonio Stankov,Right-Back,1991-02-19,19,North Macedonia,Roda JC Kerkrade,Eredivisie,2010/2011,2010
+Sebastian Svärd,Defensive Midfield,1983-01-15,27,Denmark,Roda JC Kerkrade,Eredivisie,2010/2011,2010
+Ruud Vormer,Central Midfield,1988-05-11,22,Netherlands,Roda JC Kerkrade,Eredivisie,2010/2011,2010
+Arnaud Djoum,Central Midfield,1989-05-02,21,Cameroon,Roda JC Kerkrade,Eredivisie,2010/2011,2010
+Wiljan Pluim,Central Midfield,1989-01-04,21,Netherlands,Roda JC Kerkrade,Eredivisie,2010/2011,2010
+Laurent Delorge,Right Midfield,1979-07-21,30,Belgium,Roda JC Kerkrade,Eredivisie,2010/2011,2010
+Kenneth Staelens,Left Midfield,1991-05-03,19,Belgium,Roda JC Kerkrade,Eredivisie,2010/2011,2010
+Anouar Hadouir,Attacking Midfield,1982-09-14,27,Netherlands,Roda JC Kerkrade,Eredivisie,2010/2011,2010
+Rihairo Meulens,Right Winger,1988-06-03,22,Curacao,Roda JC Kerkrade,Eredivisie,2010/2011,2010
+Guus Hupperts,Right Winger,1992-04-25,18,Netherlands,Roda JC Kerkrade,Eredivisie,2010/2011,2010
+Aleksandar Stankov,Second Striker,1991-02-19,19,North Macedonia,Roda JC Kerkrade,Eredivisie,2010/2011,2010
+Mads Junker,Centre-Forward,1981-04-21,29,Denmark,Roda JC Kerkrade,Eredivisie,2010/2011,2010
+Morten Skoubo,Centre-Forward,1980-06-30,30,Denmark,Roda JC Kerkrade,Eredivisie,2010/2011,2010
+Jeanvion Yulu-Matondo,Centre-Forward,1986-01-05,24,Belgium,Roda JC Kerkrade,Eredivisie,2010/2011,2010
+Stein Huysegems,Centre-Forward,1982-06-16,28,Belgium,Roda JC Kerkrade,Eredivisie,2010/2011,2010
+Gábor Babos,Goalkeeper,1974-10-24,35,Hungary,NEC Nijmegen,Eredivisie,2010/2011,2010
+Marco van Duin,Goalkeeper,1987-02-11,23,Netherlands,NEC Nijmegen,Eredivisie,2010/2011,2010
+Jasper Cillessen,Goalkeeper,1989-04-22,21,Netherlands,NEC Nijmegen,Eredivisie,2010/2011,2010
+Ramon Zomer,Centre-Back,1983-04-13,27,Netherlands,NEC Nijmegen,Eredivisie,2010/2011,2010
+Rens van Eijden,Centre-Back,1988-03-03,22,Netherlands,NEC Nijmegen,Eredivisie,2010/2011,2010
+Mark Otten,Centre-Back,1985-09-02,24,Netherlands,NEC Nijmegen,Eredivisie,2010/2011,2010
+Bram Nuytinck,Centre-Back,1990-05-04,20,Netherlands,NEC Nijmegen,Eredivisie,2010/2011,2010
+Joost Ebergen,Centre-Back,1990-06-02,20,Netherlands,NEC Nijmegen,Eredivisie,2010/2011,2010
+Rémy Amieux,Left-Back,1986-09-05,23,France,NEC Nijmegen,Eredivisie,2010/2011,2010
+Niels Wellenberg,Right-Back,1982-09-09,27,Netherlands,NEC Nijmegen,Eredivisie,2010/2011,2010
+Nathaniel Will,Right-Back,1989-02-16,21,Netherlands,NEC Nijmegen,Eredivisie,2010/2011,2010
+Lasse Schöne,Defensive Midfield,1986-05-27,24,Denmark,NEC Nijmegen,Eredivisie,2010/2011,2010
+Lorenzo Davids,Defensive Midfield,1986-09-04,23,Netherlands,NEC Nijmegen,Eredivisie,2010/2011,2010
+Niki Zimling,Defensive Midfield,1985-04-19,25,Denmark,NEC Nijmegen,Eredivisie,2010/2011,2010
+Bas Sibum,Central Midfield,1982-12-26,27,Netherlands,NEC Nijmegen,Eredivisie,2010/2011,2010
+Adnan Secerovic,Central Midfield,1991-12-01,18,Bosnia-Herzegovina,NEC Nijmegen,Eredivisie,2010/2011,2010
+Ryan van Dijk,Central Midfield,1990-05-28,20,Netherlands,NEC Nijmegen,Eredivisie,2010/2011,2010
+Youri Loen,Central Midfield,1991-01-27,19,Netherlands,NEC Nijmegen,Eredivisie,2010/2011,2010
+John Goossens,Attacking Midfield,1988-07-25,21,Netherlands,NEC Nijmegen,Eredivisie,2010/2011,2010
+Leroy George,Left Winger,1987-04-21,23,Netherlands,NEC Nijmegen,Eredivisie,2010/2011,2010
+Furkan Alakmak,Left Winger,1991-09-28,18,Turkey,NEC Nijmegen,Eredivisie,2010/2011,2010
+Caifano Latupeirissa,Left Winger,1991-04-28,19,Netherlands,NEC Nijmegen,Eredivisie,2010/2011,2010
+Thomas Chatelle,Right Winger,1981-03-31,29,Belgium,NEC Nijmegen,Eredivisie,2010/2011,2010
+Dammyano Grootfaam,Right Winger,1991-05-13,19,Netherlands,NEC Nijmegen,Eredivisie,2010/2011,2010
+Erton Fejzullahu,Second Striker,1988-04-09,22,Kosovo,NEC Nijmegen,Eredivisie,2010/2011,2010
+Björn Vleminckx,Centre-Forward,1985-12-01,24,Belgium,NEC Nijmegen,Eredivisie,2010/2011,2010
+Rick ten Voorde,Centre-Forward,1991-06-20,19,Netherlands,NEC Nijmegen,Eredivisie,2010/2011,2010
+Remko Pasveer,Goalkeeper,1983-11-08,26,Netherlands,Heracles Almelo,Eredivisie,2010/2011,2010
+Dennis Telgenkamp,Goalkeeper,1987-05-09,23,Netherlands,Heracles Almelo,Eredivisie,2010/2011,2010
+Nick Hengelman,Goalkeeper,1989-11-25,20,Netherlands,Heracles Almelo,Eredivisie,2010/2011,2010
+Birger Maertens,Centre-Back,1980-06-28,30,Belgium,Heracles Almelo,Eredivisie,2010/2011,2010
+Antoine van der Linden,Centre-Back,1976-03-17,34,Netherlands,Heracles Almelo,Eredivisie,2010/2011,2010
+Peter Reekers,Centre-Back,1981-06-02,29,Netherlands,Heracles Almelo,Eredivisie,2010/2011,2010
+Olivier ter Horst,Centre-Back,1989-04-06,21,Netherlands,Heracles Almelo,Eredivisie,2010/2011,2010
+Mike te Wierik,Centre-Back,1992-06-08,18,Netherlands,Heracles Almelo,Eredivisie,2010/2011,2010
+Mark-Jan Fledderus,Left-Back,1982-12-14,27,Netherlands,Heracles Almelo,Eredivisie,2010/2011,2010
+Mark Looms,Left-Back,1981-03-24,29,Netherlands,Heracles Almelo,Eredivisie,2010/2011,2010
+Gaby Jallo,Left-Back,1989-01-01,21,Netherlands,Heracles Almelo,Eredivisie,2010/2011,2010
+Tim Breukers,Right-Back,1987-11-04,22,Netherlands,Heracles Almelo,Eredivisie,2010/2011,2010
+Kwame Quansah,Defensive Midfield,1982-11-24,27,Ghana,Heracles Almelo,Eredivisie,2010/2011,2010
+Resit Schuurman,Defensive Midfield,1979-03-31,31,Netherlands,Heracles Almelo,Eredivisie,2010/2011,2010
+Marko Vejinović,Defensive Midfield,1990-02-03,20,Netherlands,Heracles Almelo,Eredivisie,2010/2011,2010
+Ben Rienstra,Central Midfield,1990-06-05,20,Netherlands,Heracles Almelo,Eredivisie,2010/2011,2010
+Willie Overtoom,Attacking Midfield,1986-09-02,23,Cameroon,Heracles Almelo,Eredivisie,2010/2011,2010
+Alexander Bannink,Attacking Midfield,1990-02-20,20,Netherlands,Heracles Almelo,Eredivisie,2010/2011,2010
+Erwin Nieuwboer,Attacking Midfield,1989-09-30,20,Netherlands,Heracles Almelo,Eredivisie,2010/2011,2010
+Thomas Bruns,Attacking Midfield,1992-01-07,18,Netherlands,Heracles Almelo,Eredivisie,2010/2011,2010
+Anmar Almubaraki,Attacking Midfield,1991-07-01,19,Iraq,Heracles Almelo,Eredivisie,2010/2011,2010
+Everton,Left Winger,1983-06-08,27,Brazil,Heracles Almelo,Eredivisie,2010/2011,2010
+Xander Houtkoop,Left Winger,1989-03-26,21,Netherlands,Heracles Almelo,Eredivisie,2010/2011,2010
+Darl Douglas,Right Winger,1979-10-05,30,Netherlands,Heracles Almelo,Eredivisie,2010/2011,2010
+Ellery Cairo,Right Winger,1978-08-03,31,Netherlands,Heracles Almelo,Eredivisie,2010/2011,2010
+Andrej Rendla,Right Winger,1990-10-13,19,Slovakia,Heracles Almelo,Eredivisie,2010/2011,2010
+Glynor Plet,Centre-Forward,1987-01-30,23,Netherlands,Heracles Almelo,Eredivisie,2010/2011,2010
+Samuel Armenteros,Centre-Forward,1990-05-27,20,Sweden,Heracles Almelo,Eredivisie,2010/2011,2010
+Davino Verhulst,Goalkeeper,1987-11-25,22,Belgium,Willem II Tilburg,Eredivisie,2010/2011,2010
+Vladan Kujovic,Goalkeeper,1978-08-23,31,Serbia,Willem II Tilburg,Eredivisie,2010/2011,2010
+Niki Mäenpää,Goalkeeper,1985-01-23,25,Finland,Willem II Tilburg,Eredivisie,2010/2011,2010
+Harmen Kuperus,Goalkeeper,1977-06-02,33,Netherlands,Willem II Tilburg,Eredivisie,2010/2011,2010
+Denis Halilovic,Centre-Back,1986-03-02,24,Slovenia,Willem II Tilburg,Eredivisie,2010/2011,2010
+Arjan Swinkels,Centre-Back,1984-10-15,25,Netherlands,Willem II Tilburg,Eredivisie,2010/2011,2010
+Jan-Arie van der Heijden,Centre-Back,1988-03-03,22,Netherlands,Willem II Tilburg,Eredivisie,2010/2011,2010
+Danny Schenkel,Centre-Back,1978-04-01,32,Netherlands,Willem II Tilburg,Eredivisie,2010/2011,2010
+Bart Biemans,Centre-Back,1988-03-14,22,Belgium,Willem II Tilburg,Eredivisie,2010/2011,2010
+Josimar Lima,Centre-Back,1989-08-02,20,Cape Verde,Willem II Tilburg,Eredivisie,2010/2011,2010
+Andreas Landgren,Right-Back,1989-03-17,21,Sweden,Willem II Tilburg,Eredivisie,2010/2011,2010
+Veli Lampi,Right-Back,1984-07-18,25,Finland,Willem II Tilburg,Eredivisie,2010/2011,2010
+Marlon Pereira,Right-Back,1987-03-26,23,Aruba,Willem II Tilburg,Eredivisie,2010/2011,2010
+Yevhen Levchenko,Central Midfield,1978-01-02,32,Ukraine,Willem II Tilburg,Eredivisie,2010/2011,2010
+Niek Vossebelt,Central Midfield,1991-08-08,18,Netherlands,Willem II Tilburg,Eredivisie,2010/2011,2010
+Giovanni Gravenbeek,Central Midfield,1988-05-11,22,Netherlands,Willem II Tilburg,Eredivisie,2010/2011,2010
+Ricardo Ippel,Central Midfield,1990-08-31,19,Netherlands,Willem II Tilburg,Eredivisie,2010/2011,2010
+Junior Livramento,Left Midfield,1987-12-12,22,Netherlands,Willem II Tilburg,Eredivisie,2010/2011,2010
+Juha Hakola,Attacking Midfield,1987-10-27,22,Finland,Willem II Tilburg,Eredivisie,2010/2011,2010
+Andreas Lasnik,Attacking Midfield,1983-11-09,26,Austria,Willem II Tilburg,Eredivisie,2010/2011,2010
+Gerrit Pressel,Attacking Midfield,1990-06-19,20,Germany,Willem II Tilburg,Eredivisie,2010/2011,2010
+Lars Hutten,Attacking Midfield,1990-03-18,20,Netherlands,Willem II Tilburg,Eredivisie,2010/2011,2010
+Rowin van Zaanen,Left Winger,1984-09-18,25,Netherlands,Willem II Tilburg,Eredivisie,2010/2011,2010
+Jasper Waalkens,Left Winger,1989-02-13,21,Netherlands,Willem II Tilburg,Eredivisie,2010/2011,2010
+Pawel Wojciechowski,Second Striker,1990-04-24,20,Poland,Willem II Tilburg,Eredivisie,2010/2011,2010
+Frank Demouge,Centre-Forward,1982-06-25,28,Netherlands,Willem II Tilburg,Eredivisie,2010/2011,2010
+David Strihavka,Centre-Forward,1983-03-04,27,Czech Republic,Willem II Tilburg,Eredivisie,2010/2011,2010
+Maceo Rigters,Centre-Forward,1984-01-22,26,Netherlands,Willem II Tilburg,Eredivisie,2010/2011,2010
+Dragan Jelic,Centre-Forward,1986-02-27,24,Slovenia,Willem II Tilburg,Eredivisie,2010/2011,2010
+Gerson Sheotahul,Centre-Forward,1987-04-19,23,Curacao,Willem II Tilburg,Eredivisie,2010/2011,2010
+Rangelo Janga,Centre-Forward,1992-04-16,18,Curacao,Willem II Tilburg,Eredivisie,2010/2011,2010
+Dennis Gentenaar,Goalkeeper,1975-09-30,34,Netherlands,VVV-Venlo,Eredivisie,2010/2011,2010
+Kevin Begois,Goalkeeper,1982-05-13,28,Belgium,VVV-Venlo,Eredivisie,2010/2011,2010
+Robin Udegbe,Goalkeeper,1991-03-20,19,Germany,VVV-Venlo,Eredivisie,2010/2011,2010
+Delano van Crooij,Goalkeeper,1991-06-05,19,Netherlands,VVV-Venlo,Eredivisie,2010/2011,2010
+Maya Yoshida,Centre-Back,1988-08-24,21,Japan,VVV-Venlo,Eredivisie,2010/2011,2010
+Patrick Paauwe,Centre-Back,1975-12-27,34,Netherlands,VVV-Venlo,Eredivisie,2010/2011,2010
+Frank van Kouwen,Centre-Back,1980-07-02,29,Netherlands,VVV-Venlo,Eredivisie,2010/2011,2010
+Ferry de Regt,Centre-Back,1988-08-29,21,Netherlands,VVV-Venlo,Eredivisie,2010/2011,2010
+Youssef El-Akchaoui,Left-Back,1981-02-18,29,Morocco,VVV-Venlo,Eredivisie,2010/2011,2010
+Niels Fleuren,Left-Back,1986-11-01,23,Netherlands,VVV-Venlo,Eredivisie,2010/2011,2010
+Alex Nkume,Left-Back,1989-01-22,21,Nigeria,VVV-Venlo,Eredivisie,2010/2011,2010
+Roel Janssen,Left-Back,1990-06-16,20,Netherlands,VVV-Venlo,Eredivisie,2010/2011,2010
+Michael Timisela,Right-Back,1986-05-05,24,Netherlands,VVV-Venlo,Eredivisie,2010/2011,2010
+Balázs Tóth,Defensive Midfield,1981-09-24,28,Hungary,VVV-Venlo,Eredivisie,2010/2011,2010
+Ken Leemans,Defensive Midfield,1983-01-05,27,Belgium,VVV-Venlo,Eredivisie,2010/2011,2010
+Dario Vujicevic,Defensive Midfield,1990-04-01,20,Croatia,VVV-Venlo,Eredivisie,2010/2011,2010
+Rick Verbeek,Central Midfield,1988-12-14,21,Netherlands,VVV-Venlo,Eredivisie,2010/2011,2010
+Funso Ojo,Central Midfield,1991-08-28,18,Belgium,VVV-Venlo,Eredivisie,2010/2011,2010
+Quin Kruijsen,Central Midfield,1990-11-27,19,Netherlands,VVV-Venlo,Eredivisie,2010/2011,2010
+Diogo Viana,Right Midfield,1990-02-22,20,Portugal,VVV-Venlo,Eredivisie,2010/2011,2010
+Josué,Attacking Midfield,1990-09-17,19,Portugal,VVV-Venlo,Eredivisie,2010/2011,2010
+Achmed Ahahaoui,Left Winger,1983-02-06,27,Netherlands,VVV-Venlo,Eredivisie,2010/2011,2010
+Bryan Linssen,Left Winger,1990-10-08,19,Netherlands,VVV-Venlo,Eredivisie,2010/2011,2010
+Rachid Ofrany,Right Winger,1987-01-17,23,Netherlands,VVV-Venlo,Eredivisie,2010/2011,2010
+Soufiane Dadda,Right Winger,1990-06-18,20,Netherlands,VVV-Venlo,Eredivisie,2010/2011,2010
+Jorge Chula,Right Winger,1990-02-13,20,Portugal,VVV-Venlo,Eredivisie,2010/2011,2010
+Robert Cullen,Centre-Forward,1985-06-07,25,Japan,VVV-Venlo,Eredivisie,2010/2011,2010
+Ruud Boymans,Centre-Forward,1989-08-24,20,Netherlands,VVV-Venlo,Eredivisie,2010/2011,2010
+Michael Uchebo,Centre-Forward,1990-09-27,19,Nigeria,VVV-Venlo,Eredivisie,2010/2011,2010
+Ahmed Musa,Centre-Forward,1992-10-14,17,Nigeria,VVV-Venlo,Eredivisie,2010/2011,2010
+Robert Zwinkels,Goalkeeper,1983-05-04,27,Netherlands,ADO Den Haag,Eredivisie,2010/2011,2010
+Gino Coutinho,Goalkeeper,1982-08-05,27,Netherlands,ADO Den Haag,Eredivisie,2010/2011,2010
+Nico Pellatz,Goalkeeper,1986-07-08,23,Germany,ADO Den Haag,Eredivisie,2010/2011,2010
+Tom Boks,Goalkeeper,1991-09-03,18,Netherlands,ADO Den Haag,Eredivisie,2010/2011,2010
+Timothy Derijck,Centre-Back,1987-05-25,23,Belgium,ADO Den Haag,Eredivisie,2010/2011,2010
+Pascal Bosschaart,Centre-Back,1980-02-28,30,Netherlands,ADO Den Haag,Eredivisie,2010/2011,2010
+Christian Kum,Centre-Back,1985-09-13,24,Netherlands,ADO Den Haag,Eredivisie,2010/2011,2010
+Chiró N'Toko,Centre-Back,1988-01-30,22,Belgium,ADO Den Haag,Eredivisie,2010/2011,2010
+Lorenzo Piqué,Centre-Back,1990-09-17,19,Netherlands,ADO Den Haag,Eredivisie,2010/2011,2010
+Ramon Leeuwin,Centre-Back,1987-09-01,22,Netherlands,ADO Den Haag,Eredivisie,2010/2011,2010
+Mitchell Piqué,Left-Back,1979-11-20,30,Netherlands,ADO Den Haag,Eredivisie,2010/2011,2010
+Kai van Hese,Left-Back,1989-06-15,21,Netherlands,ADO Den Haag,Eredivisie,2010/2011,2010
+Christian Supusepa,Left-Back,1989-04-02,21,Netherlands,ADO Den Haag,Eredivisie,2010/2011,2010
+Aleksandar Rankovic,Right-Back,1978-08-31,31,Serbia,ADO Den Haag,Eredivisie,2010/2011,2010
+Ahmed Ammi,Right-Back,1981-01-19,29,Morocco,ADO Den Haag,Eredivisie,2010/2011,2010
+Roderick Gielisse,Right-Back,1990-01-04,20,Netherlands,ADO Den Haag,Eredivisie,2010/2011,2010
+Aleksandar Radosavljevic,Defensive Midfield,1979-04-25,31,Slovenia,ADO Den Haag,Eredivisie,2010/2011,2010
+Danny Buijs,Central Midfield,1982-06-21,28,Netherlands,ADO Den Haag,Eredivisie,2010/2011,2010
+Serhat Köksal,Central Midfield,1990-02-18,20,Turkey,ADO Den Haag,Eredivisie,2010/2011,2010
+Kevin Visser,Central Midfield,1988-07-19,21,Netherlands,ADO Den Haag,Eredivisie,2010/2011,2010
+Joël Tillema,Right Midfield,1989-09-05,20,Netherlands,ADO Den Haag,Eredivisie,2010/2011,2010
+Ricky van den Bergh,Attacking Midfield,1980-11-17,29,Netherlands,ADO Den Haag,Eredivisie,2010/2011,2010
+Lex Immers,Attacking Midfield,1986-06-08,24,Netherlands,ADO Den Haag,Eredivisie,2010/2011,2010
+Santy Hulst,Attacking Midfield,1986-10-26,23,Netherlands,ADO Den Haag,Eredivisie,2010/2011,2010
+Jens Toornstra,Attacking Midfield,1989-04-04,21,Netherlands,ADO Den Haag,Eredivisie,2010/2011,2010
+Giorgio Achterberg,Attacking Midfield,1990-02-01,20,Netherlands,ADO Den Haag,Eredivisie,2010/2011,2010
+Charlton Vicento,Left Winger,1991-01-19,19,Curacao,ADO Den Haag,Eredivisie,2010/2011,2010
+Frantisek Kubik,Left Winger,1989-03-14,21,Slovakia,ADO Den Haag,Eredivisie,2010/2011,2010
+Wesley Verhoek,Right Winger,1986-09-25,23,Netherlands,ADO Den Haag,Eredivisie,2010/2011,2010
+Jarchinio Antonia,Right Winger,1990-12-27,19,Curacao,ADO Den Haag,Eredivisie,2010/2011,2010
+Dmitri Bulykin,Centre-Forward,1979-11-20,30,Russia,ADO Den Haag,Eredivisie,2010/2011,2010
+Raily Ignacio,Centre-Forward,1987-06-04,23,Curacao,ADO Den Haag,Eredivisie,2010/2011,2010
+Jordy Brouwer,Centre-Forward,1988-02-26,22,Netherlands,ADO Den Haag,Eredivisie,2010/2011,2010
+Mike van Duinen,Centre-Forward,1991-11-06,18,Netherlands,ADO Den Haag,Eredivisie,2010/2011,2010
+Boy Waterman,Goalkeeper,1984-01-24,26,Netherlands,De Graafschap Doetinchem,Eredivisie,2010/2011,2010
+Joost Terol,Goalkeeper,1980-02-01,30,Netherlands,De Graafschap Doetinchem,Eredivisie,2010/2011,2010
+Jordy van de Kracht,Goalkeeper,1990-06-03,20,Netherlands,De Graafschap Doetinchem,Eredivisie,2010/2011,2010
+Jan-Paul Saeijs,Centre-Back,1978-06-20,32,Netherlands,De Graafschap Doetinchem,Eredivisie,2010/2011,2010
+Jordy Buijs,Centre-Back,1988-12-28,21,Netherlands,De Graafschap Doetinchem,Eredivisie,2010/2011,2010
+Vito Wormgoor,Centre-Back,1988-11-16,21,Netherlands,De Graafschap Doetinchem,Eredivisie,2010/2011,2010
+Leon Broekhof,Centre-Back,1988-05-14,22,Netherlands,De Graafschap Doetinchem,Eredivisie,2010/2011,2010
+Ted van de Pavert,Centre-Back,1992-01-06,18,Netherlands,De Graafschap Doetinchem,Eredivisie,2010/2011,2010
+Purrel Fränkel,Left-Back,1976-10-08,33,Netherlands,De Graafschap Doetinchem,Eredivisie,2010/2011,2010
+Muslu Nalbantoglu,Right-Back,1983-11-24,26,Turkey,De Graafschap Doetinchem,Eredivisie,2010/2011,2010
+Tyrone Loran,Right-Back,1981-06-29,29,Curacao,De Graafschap Doetinchem,Eredivisie,2010/2011,2010
+Ties Evers,Right-Back,1991-03-14,19,Netherlands,De Graafschap Doetinchem,Eredivisie,2010/2011,2010
+Jochem Jansen,Right-Back,1990-01-04,20,Netherlands,De Graafschap Doetinchem,Eredivisie,2010/2011,2010
+Jussi Kujala,Defensive Midfield,1983-04-04,27,Finland,De Graafschap Doetinchem,Eredivisie,2010/2011,2010
+Rogier Meijer,Defensive Midfield,1981-09-05,28,Netherlands,De Graafschap Doetinchem,Eredivisie,2010/2011,2010
+Lion Kaak,Defensive Midfield,1991-06-26,19,Netherlands,De Graafschap Doetinchem,Eredivisie,2010/2011,2010
+Peter Jungschläger,Central Midfield,1984-05-22,26,Netherlands,De Graafschap Doetinchem,Eredivisie,2010/2011,2010
+Sjoerd Overgoor,Central Midfield,1988-09-06,21,Netherlands,De Graafschap Doetinchem,Eredivisie,2010/2011,2010
+Gregor Breinburg,Central Midfield,1991-09-16,18,Aruba,De Graafschap Doetinchem,Eredivisie,2010/2011,2010
+Yuri Rose,Attacking Midfield,1979-05-08,31,Netherlands,De Graafschap Doetinchem,Eredivisie,2010/2011,2010
+Geoffry Hairemans,Attacking Midfield,1991-10-21,18,Belgium,De Graafschap Doetinchem,Eredivisie,2010/2011,2010
+Rik Sebens,Attacking Midfield,1988-05-21,22,Netherlands,De Graafschap Doetinchem,Eredivisie,2010/2011,2010
+Steve De Ridder,Left Winger,1987-02-25,23,Belgium,De Graafschap Doetinchem,Eredivisie,2010/2011,2010
+Youssouf Hersi,Right Winger,1982-08-20,27,Netherlands,De Graafschap Doetinchem,Eredivisie,2010/2011,2010
+Dimitri Hairemans,Right Winger,1991-10-21,18,Belgium,De Graafschap Doetinchem,Eredivisie,2010/2011,2010
+Rydell Poepon,Centre-Forward,1987-08-28,22,Netherlands,De Graafschap Doetinchem,Eredivisie,2010/2011,2010
+Hugo Bargas,Centre-Forward,1986-10-22,23,Argentina,De Graafschap Doetinchem,Eredivisie,2010/2011,2010
+Soufian El Hassnaoui,Centre-Forward,1989-10-28,20,Morocco,De Graafschap Doetinchem,Eredivisie,2010/2011,2010
+Kaye Coppoolse,Centre-Forward,1991-01-03,19,Netherlands,De Graafschap Doetinchem,Eredivisie,2010/2011,2010
+Niek Sebens,Centre-Forward,1990-02-27,20,Netherlands,De Graafschap Doetinchem,Eredivisie,2010/2011,2010
+Cees Paauwe,Goalkeeper,1977-11-03,32,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2010/2011,2010
+Nico Pellatz,Goalkeeper,1986-07-08,23,Germany,SBV Excelsior Rotterdam,Eredivisie,2010/2011,2010
+Lex van Haeften,Goalkeeper,1987-06-26,23,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2010/2011,2010
+Konstantinos Lamprou,Goalkeeper,1991-09-18,18,Greece,SBV Excelsior Rotterdam,Eredivisie,2010/2011,2010
+Wouter Gudde,Centre-Back,1984-08-05,25,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2010/2011,2010
+Leen van Steensel,Centre-Back,1984-04-20,26,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2010/2011,2010
+Norichio Nieveld,Centre-Back,1989-04-24,21,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2010/2011,2010
+Kaj Ramsteijn,Centre-Back,1990-01-17,20,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2010/2011,2010
+Marvin Zeegelaar,Left-Back,1990-08-12,19,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2010/2011,2010
+Miquel Nelom,Left-Back,1990-09-22,19,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2010/2011,2010
+Tobias Waisapy,Left-Back,1988-01-08,22,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2010/2011,2010
+Daan Bovenberg,Right-Back,1988-10-25,21,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2010/2011,2010
+Tim Eekman,Right-Back,1991-08-05,18,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2010/2011,2010
+Delano a Cohen,Defensive Midfield,1991-02-17,19,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2010/2011,2010
+Jordy Clasie,Defensive Midfield,1991-06-27,19,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2010/2011,2010
+Edwin de Graaf,Central Midfield,1980-04-30,30,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2010/2011,2010
+Ryan Koolwijk,Central Midfield,1985-08-08,24,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2010/2011,2010
+Adnan Alisic,Central Midfield,1984-02-10,26,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2010/2011,2010
+Kevin Wattamaleo,Central Midfield,1989-01-22,21,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2010/2011,2010
+Karim Mossaoui,Central Midfield,1988-02-27,22,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2010/2011,2010
+Benjamin Baltes,Right Midfield,1984-03-30,26,Germany,SBV Excelsior Rotterdam,Eredivisie,2010/2011,2010
+Geert Arend Roorda,Attacking Midfield,1988-03-02,22,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2010/2011,2010
+Jerson Ribeiro,Attacking Midfield,1988-03-09,22,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2010/2011,2010
+Shabir Isoufi,Attacking Midfield,1992-03-09,18,Afghanistan,SBV Excelsior Rotterdam,Eredivisie,2010/2011,2010
+Tim Vincken,Right Winger,1986-09-12,23,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2010/2011,2010
+Nayib Lagouireh,Right Winger,1991-06-06,19,Belgium,SBV Excelsior Rotterdam,Eredivisie,2010/2011,2010
+Guyon Fernandez,Centre-Forward,1986-04-18,24,Curacao,SBV Excelsior Rotterdam,Eredivisie,2010/2011,2010
+Roland Bergkamp,Centre-Forward,1991-04-03,19,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2010/2011,2010
+András Simon,Centre-Forward,1990-03-30,20,Hungary,SBV Excelsior Rotterdam,Eredivisie,2010/2011,2010
+Andrea Fileccia,Centre-Forward,1991-12-06,18,Belgium,SBV Excelsior Rotterdam,Eredivisie,2010/2011,2010

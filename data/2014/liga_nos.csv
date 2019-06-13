@@ -1,0 +1,629 @@
+player_name,position,date_of_birth,age,nationality,club_name,league_name,season,year
+Andrés Fernández,Goalkeeper,1986-12-17,27,Spain,FC Porto,Liga NOS,2014/2015,2014
+Helton,Goalkeeper,1978-05-18,36,Brazil,FC Porto,Liga NOS,2014/2015,2014
+Fabiano,Goalkeeper,1988-02-29,26,Brazil,FC Porto,Liga NOS,2014/2015,2014
+Ricardo Nunes,Goalkeeper,1982-07-06,31,Portugal,FC Porto,Liga NOS,2014/2015,2014
+Maicon,Centre-Back,1988-09-14,25,Brazil,FC Porto,Liga NOS,2014/2015,2014
+Diego Reyes,Centre-Back,1992-09-19,21,Mexico,FC Porto,Liga NOS,2014/2015,2014
+Bruno Martins Indi,Centre-Back,1992-02-08,22,Netherlands,FC Porto,Liga NOS,2014/2015,2014
+Iván Marcano,Centre-Back,1987-06-23,27,Spain,FC Porto,Liga NOS,2014/2015,2014
+Alex Sandro,Left-Back,1991-01-26,23,Brazil,FC Porto,Liga NOS,2014/2015,2014
+José Ángel,Left-Back,1989-09-05,24,Spain,FC Porto,Liga NOS,2014/2015,2014
+Danilo,Right-Back,1991-07-15,22,Brazil,FC Porto,Liga NOS,2014/2015,2014
+Ricardo Pereira,Right-Back,1993-10-06,20,Portugal,FC Porto,Liga NOS,2014/2015,2014
+Casemiro,Defensive Midfield,1992-02-23,22,Brazil,FC Porto,Liga NOS,2014/2015,2014
+Rúben Neves,Defensive Midfield,1997-03-13,17,Portugal,FC Porto,Liga NOS,2014/2015,2014
+Óliver Torres,Central Midfield,1994-11-10,19,Spain,FC Porto,Liga NOS,2014/2015,2014
+Héctor Herrera,Central Midfield,1990-04-19,24,Mexico,FC Porto,Liga NOS,2014/2015,2014
+José Campaña,Central Midfield,1993-05-31,21,Spain,FC Porto,Liga NOS,2014/2015,2014
+Hernâni,Right Midfield,1991-08-20,22,Portugal,FC Porto,Liga NOS,2014/2015,2014
+Adrián López,Left Midfield,1988-01-08,26,Spain,FC Porto,Liga NOS,2014/2015,2014
+Kayembe,Left Midfield,1994-08-08,19,Belgium,FC Porto,Liga NOS,2014/2015,2014
+Juan Quintero,Attacking Midfield,1993-01-18,21,Colombia,FC Porto,Liga NOS,2014/2015,2014
+Evandro,Attacking Midfield,1986-08-23,27,Brazil,FC Porto,Liga NOS,2014/2015,2014
+Cristian Tello,Left Winger,1991-08-11,22,Spain,FC Porto,Liga NOS,2014/2015,2014
+Yacine Brahimi,Left Winger,1990-02-08,24,Algeria,FC Porto,Liga NOS,2014/2015,2014
+Ivo Rodrigues,Left Winger,1995-03-30,19,Portugal,FC Porto,Liga NOS,2014/2015,2014
+Kelvin,Right Winger,1993-06-01,21,Brazil,FC Porto,Liga NOS,2014/2015,2014
+Ricardo Quaresma,Right Winger,1983-09-26,30,Portugal,FC Porto,Liga NOS,2014/2015,2014
+Jackson Martínez,Centre-Forward,1986-10-03,27,Colombia,FC Porto,Liga NOS,2014/2015,2014
+Vincent Aboubakar,Centre-Forward,1992-01-22,22,Cameroon,FC Porto,Liga NOS,2014/2015,2014
+Gonçalo Paciência,Centre-Forward,1994-08-01,19,Portugal,FC Porto,Liga NOS,2014/2015,2014
+Artur Moraes,Goalkeeper,1981-01-25,33,Brazil,SL Benfica,Liga NOS,2014/2015,2014
+Júlio César,Goalkeeper,1979-09-03,34,Brazil,SL Benfica,Liga NOS,2014/2015,2014
+Bruno Varela,Goalkeeper,1994-11-04,19,Portugal,SL Benfica,Liga NOS,2014/2015,2014
+Paulo Lopes,Goalkeeper,1978-06-29,36,Portugal,SL Benfica,Liga NOS,2014/2015,2014
+Lisandro López,Centre-Back,1989-09-01,24,Argentina,SL Benfica,Liga NOS,2014/2015,2014
+Luisão,Centre-Back,1981-02-13,33,Brazil,SL Benfica,Liga NOS,2014/2015,2014
+Jardel,Centre-Back,1986-03-29,28,Brazil,SL Benfica,Liga NOS,2014/2015,2014
+Victor Lindelöf,Centre-Back,1994-07-17,19,Sweden,SL Benfica,Liga NOS,2014/2015,2014
+César Martins,Centre-Back,1992-12-28,21,Brazil,SL Benfica,Liga NOS,2014/2015,2014
+Eliseu,Left-Back,1983-10-01,30,Portugal,SL Benfica,Liga NOS,2014/2015,2014
+Loris Benito,Left-Back,1992-01-07,22,Switzerland,SL Benfica,Liga NOS,2014/2015,2014
+Maxi Pereira,Right-Back,1984-06-08,30,Uruguay,SL Benfica,Liga NOS,2014/2015,2014
+Sílvio,Right-Back,1987-09-28,26,Portugal,SL Benfica,Liga NOS,2014/2015,2014
+André Almeida,Right-Back,1990-09-10,23,Portugal,SL Benfica,Liga NOS,2014/2015,2014
+Ljubomir Fejsa,Defensive Midfield,1988-08-14,25,Serbia,SL Benfica,Liga NOS,2014/2015,2014
+Andreas Samaris,Defensive Midfield,1989-06-13,25,Greece,SL Benfica,Liga NOS,2014/2015,2014
+Enzo Pérez,Central Midfield,1986-02-22,28,Argentina,SL Benfica,Liga NOS,2014/2015,2014
+Rúben Amorim,Central Midfield,1985-01-27,29,Portugal,SL Benfica,Liga NOS,2014/2015,2014
+Bryan Cristante,Central Midfield,1995-03-03,19,Italy,SL Benfica,Liga NOS,2014/2015,2014
+Renato Sanches,Central Midfield,1997-08-18,16,Portugal,SL Benfica,Liga NOS,2014/2015,2014
+Pizzi,Right Midfield,1989-10-06,24,Portugal,SL Benfica,Liga NOS,2014/2015,2014
+Miralem Sulejmani,Left Midfield,1988-12-05,25,Serbia,SL Benfica,Liga NOS,2014/2015,2014
+Hany Mukhtar,Attacking Midfield,1995-03-21,19,Germany,SL Benfica,Liga NOS,2014/2015,2014
+Talisca,Attacking Midfield,1994-02-01,20,Brazil,SL Benfica,Liga NOS,2014/2015,2014
+João Teixeira,Attacking Midfield,1994-02-06,20,Portugal,SL Benfica,Liga NOS,2014/2015,2014
+Nico Gaitán,Left Winger,1988-02-23,26,Argentina,SL Benfica,Liga NOS,2014/2015,2014
+Ola John,Left Winger,1992-05-19,22,Netherlands,SL Benfica,Liga NOS,2014/2015,2014
+Bebé,Left Winger,1990-07-12,23,Portugal,SL Benfica,Liga NOS,2014/2015,2014
+Gonçalo Guedes,Left Winger,1996-11-29,17,Portugal,SL Benfica,Liga NOS,2014/2015,2014
+Eduardo Salvio,Right Winger,1990-07-13,23,Argentina,SL Benfica,Liga NOS,2014/2015,2014
+Hélder Costa,Right Winger,1994-01-12,20,Portugal,SL Benfica,Liga NOS,2014/2015,2014
+Jonas,Second Striker,1984-04-01,30,Brazil,SL Benfica,Liga NOS,2014/2015,2014
+Lima,Centre-Forward,1983-05-11,31,Brazil,SL Benfica,Liga NOS,2014/2015,2014
+Nélson Oliveira,Centre-Forward,1991-08-08,22,Portugal,SL Benfica,Liga NOS,2014/2015,2014
+Derley,Centre-Forward,1987-12-29,26,Brazil,SL Benfica,Liga NOS,2014/2015,2014
+Franco Jara,Centre-Forward,1988-07-15,25,Argentina,SL Benfica,Liga NOS,2014/2015,2014
+Jonathan Rodríguez,Centre-Forward,1993-07-06,20,Uruguay,SL Benfica,Liga NOS,2014/2015,2014
+Rui Fonte,Centre-Forward,1990-04-23,24,Portugal,SL Benfica,Liga NOS,2014/2015,2014
+Rui Patrício,Goalkeeper,1988-02-15,26,Portugal,Sporting CP,Liga NOS,2014/2015,2014
+Marcelo Boeck,Goalkeeper,1984-11-28,29,Brazil,Sporting CP,Liga NOS,2014/2015,2014
+Luís Ribeiro,Goalkeeper,1992-04-19,22,Portugal,Sporting CP,Liga NOS,2014/2015,2014
+Maurício,Centre-Back,1988-09-20,25,Brazil,Sporting CP,Liga NOS,2014/2015,2014
+Paulo Oliveira,Centre-Back,1992-01-08,22,Portugal,Sporting CP,Liga NOS,2014/2015,2014
+Ewerton,Centre-Back,1989-03-23,25,Brazil,Sporting CP,Liga NOS,2014/2015,2014
+Nuno Reis,Centre-Back,1991-01-31,23,Portugal,Sporting CP,Liga NOS,2014/2015,2014
+Naby Sarr,Centre-Back,1993-08-13,20,France,Sporting CP,Liga NOS,2014/2015,2014
+Rami Rabia,Centre-Back,1993-05-20,21,Egypt,Sporting CP,Liga NOS,2014/2015,2014
+Tobias Figueiredo,Centre-Back,1994-02-02,20,Portugal,Sporting CP,Liga NOS,2014/2015,2014
+Domingos Duarte,Centre-Back,1995-03-10,19,Portugal,Sporting CP,Liga NOS,2014/2015,2014
+Jefferson,Left-Back,1988-07-05,25,Brazil,Sporting CP,Liga NOS,2014/2015,2014
+Jonathan Silva,Left-Back,1994-06-29,20,Argentina,Sporting CP,Liga NOS,2014/2015,2014
+Mica Pinto,Left-Back,1993-06-04,21,Portugal,Sporting CP,Liga NOS,2014/2015,2014
+Cédric Soares,Right-Back,1991-08-31,22,Portugal,Sporting CP,Liga NOS,2014/2015,2014
+Miguel Lopes,Right-Back,1986-12-19,27,Portugal,Sporting CP,Liga NOS,2014/2015,2014
+André Geraldes,Right-Back,1991-05-02,23,Portugal,Sporting CP,Liga NOS,2014/2015,2014
+William Carvalho,Defensive Midfield,1992-04-07,22,Portugal,Sporting CP,Liga NOS,2014/2015,2014
+Simeon Slavchev,Defensive Midfield,1993-09-25,20,Bulgaria,Sporting CP,Liga NOS,2014/2015,2014
+Wallyson Mallmann,Defensive Midfield,1994-02-16,20,Brazil,Sporting CP,Liga NOS,2014/2015,2014
+Oriol Rosell,Defensive Midfield,1992-07-07,21,Spain,Sporting CP,Liga NOS,2014/2015,2014
+Adrien Silva,Central Midfield,1989-03-15,25,Portugal,Sporting CP,Liga NOS,2014/2015,2014
+André Martins,Central Midfield,1990-01-21,24,Portugal,Sporting CP,Liga NOS,2014/2015,2014
+João Mário,Central Midfield,1993-01-19,21,Portugal,Sporting CP,Liga NOS,2014/2015,2014
+Ricardo Esgaio,Right Midfield,1993-05-16,21,Portugal,Sporting CP,Liga NOS,2014/2015,2014
+Ryan Gauld,Attacking Midfield,1995-12-16,18,Scotland,Sporting CP,Liga NOS,2014/2015,2014
+Chico Geraldes,Attacking Midfield,1995-04-18,19,Portugal,Sporting CP,Liga NOS,2014/2015,2014
+Nani,Left Winger,1986-11-17,27,Portugal,Sporting CP,Liga NOS,2014/2015,2014
+Diego Capel,Left Winger,1988-02-16,26,Spain,Sporting CP,Liga NOS,2014/2015,2014
+Héldon,Left Winger,1988-11-14,25,Cape Verde,Sporting CP,Liga NOS,2014/2015,2014
+Ousmane Dramé,Left Winger,1992-08-25,21,France,Sporting CP,Liga NOS,2014/2015,2014
+Daniel Podence,Left Winger,1995-10-21,18,Portugal,Sporting CP,Liga NOS,2014/2015,2014
+André Carrillo,Right Winger,1991-06-14,23,Peru,Sporting CP,Liga NOS,2014/2015,2014
+Shikabala,Right Winger,1986-03-05,28,Egypt,Sporting CP,Liga NOS,2014/2015,2014
+Iuri Medeiros,Right Winger,1994-07-10,19,Portugal,Sporting CP,Liga NOS,2014/2015,2014
+Carlos Mané,Right Winger,1994-03-11,20,Portugal,Sporting CP,Liga NOS,2014/2015,2014
+Hadi Sacko,Right Winger,1994-03-24,20,Mali,Sporting CP,Liga NOS,2014/2015,2014
+Gelson Martins,Right Winger,1995-05-11,19,Portugal,Sporting CP,Liga NOS,2014/2015,2014
+Matheus Pereira,Right Winger,1996-05-05,18,Brazil,Sporting CP,Liga NOS,2014/2015,2014
+Fredy Montero,Centre-Forward,1987-07-26,26,Colombia,Sporting CP,Liga NOS,2014/2015,2014
+Islam Slimani,Centre-Forward,1988-06-18,26,Algeria,Sporting CP,Liga NOS,2014/2015,2014
+Junya Tanaka,Centre-Forward,1987-07-15,26,Japan,Sporting CP,Liga NOS,2014/2015,2014
+Diego Rubio,Centre-Forward,1993-05-15,21,Chile,Sporting CP,Liga NOS,2014/2015,2014
+Cristian Ponde,Centre-Forward,1995-01-26,19,Portugal,Sporting CP,Liga NOS,2014/2015,2014
+Victor Golas,Goalkeeper,1990-12-27,23,Brazil,SC Braga,Liga NOS,2014/2015,2014
+Stanislav Kritsyuk,Goalkeeper,1990-12-01,23,Russia,SC Braga,Liga NOS,2014/2015,2014
+Matheus,Goalkeeper,1992-07-19,21,Brazil,SC Braga,Liga NOS,2014/2015,2014
+Aderllan Santos,Centre-Back,1989-04-09,25,Brazil,SC Braga,Liga NOS,2014/2015,2014
+Vincent Sasso,Centre-Back,1991-02-16,23,France,SC Braga,Liga NOS,2014/2015,2014
+Willy Boly,Centre-Back,1991-02-03,23,France,SC Braga,Liga NOS,2014/2015,2014
+André Pinto,Centre-Back,1989-10-05,24,Portugal,SC Braga,Liga NOS,2014/2015,2014
+Gonçalo Silva,Centre-Back,1991-06-04,23,Portugal,SC Braga,Liga NOS,2014/2015,2014
+Pedro Monteiro,Centre-Back,1994-01-30,20,Portugal,SC Braga,Liga NOS,2014/2015,2014
+Tiago Gomes,Left-Back,1986-07-29,27,Portugal,SC Braga,Liga NOS,2014/2015,2014
+Djavan,Left-Back,1987-12-31,26,Brazil,SC Braga,Liga NOS,2014/2015,2014
+Núrio Fortuna,Left-Back,1995-03-24,19,Portugal,SC Braga,Liga NOS,2014/2015,2014
+José Gomes,Left-Back,1996-07-20,17,Portugal,SC Braga,Liga NOS,2014/2015,2014
+Baiano,Right-Back,1987-02-23,27,Brazil,SC Braga,Liga NOS,2014/2015,2014
+Marcelo Goiano,Right-Back,1987-10-13,26,Brazil,SC Braga,Liga NOS,2014/2015,2014
+Oto'o,Right-Back,1994-05-23,20,Gabon,SC Braga,Liga NOS,2014/2015,2014
+Custódio,Defensive Midfield,1983-05-24,31,Portugal,SC Braga,Liga NOS,2014/2015,2014
+Mauro,Defensive Midfield,1990-10-31,23,Brazil,SC Braga,Liga NOS,2014/2015,2014
+Nikola Vukcevic,Defensive Midfield,1991-12-13,22,Montenegro,SC Braga,Liga NOS,2014/2015,2014
+João Gamboa,Defensive Midfield,1996-08-31,17,Portugal,SC Braga,Liga NOS,2014/2015,2014
+Danilo,Defensive Midfield,1996-02-28,18,Brazil,SC Braga,Liga NOS,2014/2015,2014
+Luíz Carlos,Central Midfield,1985-02-05,29,Brazil,SC Braga,Liga NOS,2014/2015,2014
+Saná Camará,Central Midfield,1991-12-29,22,Guinea-Bissau,SC Braga,Liga NOS,2014/2015,2014
+Pedro Tiba,Central Midfield,1988-08-31,25,Portugal,SC Braga,Liga NOS,2014/2015,2014
+Nuno Valente,Right Midfield,1991-11-22,22,Portugal,SC Braga,Liga NOS,2014/2015,2014
+Rafa Silva,Left Midfield,1993-05-17,21,Portugal,SC Braga,Liga NOS,2014/2015,2014
+Fábio Martins,Left Midfield,1993-07-24,20,Portugal,SC Braga,Liga NOS,2014/2015,2014
+Rúben Micael,Attacking Midfield,1986-08-19,27,Portugal,SC Braga,Liga NOS,2014/2015,2014
+Sami,Left Winger,1988-12-18,25,Guinea-Bissau,SC Braga,Liga NOS,2014/2015,2014
+Alan,Right Winger,1979-09-19,34,Brazil,SC Braga,Liga NOS,2014/2015,2014
+Felipe Pardo,Right Winger,1990-08-17,23,Colombia,SC Braga,Liga NOS,2014/2015,2014
+Salvador Agra,Right Winger,1991-11-11,22,Portugal,SC Braga,Liga NOS,2014/2015,2014
+Pedro Santos,Right Winger,1988-04-22,26,Portugal,SC Braga,Liga NOS,2014/2015,2014
+Erivaldo,Right Winger,1994-02-08,20,Portugal,SC Braga,Liga NOS,2014/2015,2014
+Éder,Centre-Forward,1987-12-22,26,Portugal,SC Braga,Liga NOS,2014/2015,2014
+Zé Luís,Centre-Forward,1991-01-24,23,Cape Verde,SC Braga,Liga NOS,2014/2015,2014
+Dolly Menga,Centre-Forward,1993-05-02,21,Angola,SC Braga,Liga NOS,2014/2015,2014
+Vagner,Goalkeeper,1986-06-06,28,Brazil,GD Estoril,Liga NOS,2014/2015,2014
+Pawel Kieszek,Goalkeeper,1984-04-16,30,Poland,GD Estoril,Liga NOS,2014/2015,2014
+Rúben Dionísio,Goalkeeper,1995-07-07,18,Portugal,GD Estoril,Liga NOS,2014/2015,2014
+Yohan Tavares,Centre-Back,1988-03-02,26,Portugal,GD Estoril,Liga NOS,2014/2015,2014
+Rúben Fernandes,Centre-Back,1986-05-06,28,Portugal,GD Estoril,Liga NOS,2014/2015,2014
+Bruno Miguel,Centre-Back,1982-09-24,31,Portugal,GD Estoril,Liga NOS,2014/2015,2014
+Bruno Nascimento,Centre-Back,1991-05-30,23,Brazil,GD Estoril,Liga NOS,2014/2015,2014
+Emídio Rafael,Left-Back,1986-01-24,28,Portugal,GD Estoril,Liga NOS,2014/2015,2014
+Alex Kakuba,Left-Back,1991-06-12,23,Uganda,GD Estoril,Liga NOS,2014/2015,2014
+Ânderson Luís,Right-Back,1988-07-31,25,Brazil,GD Estoril,Liga NOS,2014/2015,2014
+Mano,Right-Back,1987-04-09,27,Portugal,GD Estoril,Liga NOS,2014/2015,2014
+Filipe Gonçalves,Defensive Midfield,1984-08-12,29,Portugal,GD Estoril,Liga NOS,2014/2015,2014
+Diogo Amado,Defensive Midfield,1990-01-21,24,Portugal,GD Estoril,Liga NOS,2014/2015,2014
+Afonso Taira,Defensive Midfield,1992-06-17,22,Portugal,GD Estoril,Liga NOS,2014/2015,2014
+Anderson Esiti,Defensive Midfield,1994-05-24,20,Nigeria,GD Estoril,Liga NOS,2014/2015,2014
+Diogo Baltazar,Defensive Midfield,1995-04-15,19,Portugal,GD Estoril,Liga NOS,2014/2015,2014
+Matías Cabrera,Central Midfield,1986-05-16,28,Uruguay,GD Estoril,Liga NOS,2014/2015,2014
+Babanco,Central Midfield,1985-07-27,28,Cape Verde,GD Estoril,Liga NOS,2014/2015,2014
+Tozé,Attacking Midfield,1993-01-14,21,Portugal,GD Estoril,Liga NOS,2014/2015,2014
+João Pedro,Attacking Midfield,1992-03-09,22,Brazil,GD Estoril,Liga NOS,2014/2015,2014
+Mattheus,Attacking Midfield,1994-07-07,19,Brazil,GD Estoril,Liga NOS,2014/2015,2014
+Sebá,Left Winger,1992-06-08,22,Brazil,GD Estoril,Liga NOS,2014/2015,2014
+Kuca,Left Winger,1989-08-02,24,Cape Verde,GD Estoril,Liga NOS,2014/2015,2014
+Tijane,Left Winger,1991-06-28,23,Portugal,GD Estoril,Liga NOS,2014/2015,2014
+Javier Balboa,Right Winger,1985-05-13,29,Equatorial Guinea,GD Estoril,Liga NOS,2014/2015,2014
+Fernandinho,Right Winger,1993-03-16,21,Brazil,GD Estoril,Liga NOS,2014/2015,2014
+Ricardo Vaz,Right Winger,1994-11-26,19,Portugal,GD Estoril,Liga NOS,2014/2015,2014
+Kléber,Centre-Forward,1990-05-02,24,Brazil,GD Estoril,Liga NOS,2014/2015,2014
+Bruno Lopes,Centre-Forward,1986-08-19,27,Brazil,GD Estoril,Liga NOS,2014/2015,2014
+Léo Bonatini,Centre-Forward,1994-03-28,20,Brazil,GD Estoril,Liga NOS,2014/2015,2014
+Arthuro,Centre-Forward,1982-08-27,31,Brazil,GD Estoril,Liga NOS,2014/2015,2014
+Cássio,Goalkeeper,1980-08-12,33,Brazil,Rio Ave FC,Liga NOS,2014/2015,2014
+Ederson,Goalkeeper,1993-08-17,20,Brazil,Rio Ave FC,Liga NOS,2014/2015,2014
+Carlos Alves,Goalkeeper,1998-02-18,16,Portugal,Rio Ave FC,Liga NOS,2014/2015,2014
+Marcelo,Centre-Back,1989-07-27,24,Brazil,Rio Ave FC,Liga NOS,2014/2015,2014
+Roderick Miranda,Centre-Back,1991-03-30,23,Portugal,Rio Ave FC,Liga NOS,2014/2015,2014
+Prince Gouano,Centre-Back,1993-12-24,20,France,Rio Ave FC,Liga NOS,2014/2015,2014
+Pape Sow,Centre-Back,1985-12-02,28,Senegal,Rio Ave FC,Liga NOS,2014/2015,2014
+André Vilas Boas,Centre-Back,1983-06-04,31,Portugal,Rio Ave FC,Liga NOS,2014/2015,2014
+João Cunha,Centre-Back,1996-02-04,18,Portugal,Rio Ave FC,Liga NOS,2014/2015,2014
+Nélson Monte,Centre-Back,1995-07-30,18,Portugal,Rio Ave FC,Liga NOS,2014/2015,2014
+Tiago Pinto,Left-Back,1988-02-01,26,Portugal,Rio Ave FC,Liga NOS,2014/2015,2014
+Marvin Zeegelaar,Left-Back,1990-08-12,23,Netherlands,Rio Ave FC,Liga NOS,2014/2015,2014
+Lionn,Right-Back,1989-01-29,25,Brazil,Rio Ave FC,Liga NOS,2014/2015,2014
+Nuno Lopes,Right-Back,1986-12-19,27,Portugal,Rio Ave FC,Liga NOS,2014/2015,2014
+Óscar Barros,Right-Back,1997-06-16,17,Portugal,Rio Ave FC,Liga NOS,2014/2015,2014
+Filipe Augusto,Defensive Midfield,1993-08-12,20,Brazil,Rio Ave FC,Liga NOS,2014/2015,2014
+Alhassan Wakaso,Defensive Midfield,1992-01-07,22,Ghana,Rio Ave FC,Liga NOS,2014/2015,2014
+Sunday Abalo,Defensive Midfield,1995-05-14,19,Nigeria,Rio Ave FC,Liga NOS,2014/2015,2014
+Tarantini,Central Midfield,1983-10-07,30,Portugal,Rio Ave FC,Liga NOS,2014/2015,2014
+Gus Ledes,Central Midfield,1992-09-28,21,Portugal,Rio Ave FC,Liga NOS,2014/2015,2014
+Pedro Moreira,Central Midfield,1989-03-15,25,Portugal,Rio Ave FC,Liga NOS,2014/2015,2014
+Júlio Alves,Central Midfield,1991-06-29,23,Portugal,Rio Ave FC,Liga NOS,2014/2015,2014
+Jony Ñiguez,Central Midfield,1985-04-02,29,Spain,Rio Ave FC,Liga NOS,2014/2015,2014
+Renan Bressan,Attacking Midfield,1988-11-03,25,Belarus,Rio Ave FC,Liga NOS,2014/2015,2014
+Diego Lopes,Attacking Midfield,1994-05-03,20,Brazil,Rio Ave FC,Liga NOS,2014/2015,2014
+Vitó,Attacking Midfield,1997-09-18,16,Portugal,Rio Ave FC,Liga NOS,2014/2015,2014
+Bruno Sousa,Attacking Midfield,1996-03-12,18,Portugal,Rio Ave FC,Liga NOS,2014/2015,2014
+Yonathan Del Valle,Left Winger,1990-05-28,24,Venezuela,Rio Ave FC,Liga NOS,2014/2015,2014
+Iuri Gomes,Left Winger,1996-11-10,17,Angola,Rio Ave FC,Liga NOS,2014/2015,2014
+Ernest Ohemeng,Left Winger,1996-01-17,18,Ghana,Rio Ave FC,Liga NOS,2014/2015,2014
+Ukra,Right Winger,1988-03-16,26,Portugal,Rio Ave FC,Liga NOS,2014/2015,2014
+Renato Santos,Right Winger,1991-10-05,22,Portugal,Rio Ave FC,Liga NOS,2014/2015,2014
+Ahmed Hassan,Centre-Forward,1993-03-05,21,Egypt,Rio Ave FC,Liga NOS,2014/2015,2014
+Isma,Centre-Forward,1991-06-25,23,Guinea-Bissau,Rio Ave FC,Liga NOS,2014/2015,2014
+William Jebor,Centre-Forward,1991-11-10,22,Liberia,Rio Ave FC,Liga NOS,2014/2015,2014
+Emmanuel Boateng,Centre-Forward,1996-05-23,18,Ghana,Rio Ave FC,Liga NOS,2014/2015,2014
+Douglas Jesus,Goalkeeper,1983-03-09,31,Brazil,Vitória Guimarães SC,Liga NOS,2014/2015,2014
+Assis,Goalkeeper,1989-10-04,24,Brazil,Vitória Guimarães SC,Liga NOS,2014/2015,2014
+Miguel Oliveira,Goalkeeper,1994-05-25,20,Portugal,Vitória Guimarães SC,Liga NOS,2014/2015,2014
+Miguel Palha,Goalkeeper,1995-02-26,19,Portugal,Vitória Guimarães SC,Liga NOS,2014/2015,2014
+Kanu,Centre-Back,1984-05-03,30,Brazil,Vitória Guimarães SC,Liga NOS,2014/2015,2014
+Josué Sá,Centre-Back,1992-06-17,22,Portugal,Vitória Guimarães SC,Liga NOS,2014/2015,2014
+Moreno,Centre-Back,1981-08-19,32,Portugal,Vitória Guimarães SC,Liga NOS,2014/2015,2014
+Khalil Chemmam,Centre-Back,1987-07-24,26,Tunisia,Vitória Guimarães SC,Liga NOS,2014/2015,2014
+Rodrigo Defendi,Centre-Back,1986-06-16,28,Brazil,Vitória Guimarães SC,Liga NOS,2014/2015,2014
+Tiago Lima Pereira,Centre-Back,1994-06-03,20,Portugal,Vitória Guimarães SC,Liga NOS,2014/2015,2014
+João Afonso,Centre-Back,1990-05-28,24,Portugal,Vitória Guimarães SC,Liga NOS,2014/2015,2014
+Dénis Duarte,Centre-Back,1994-05-04,20,Portugal,Vitória Guimarães SC,Liga NOS,2014/2015,2014
+Luís Rocha,Left-Back,1993-06-27,21,Portugal,Vitória Guimarães SC,Liga NOS,2014/2015,2014
+Adama Traoré,Left-Back,1990-02-03,24,Cote d'Ivoire,Vitória Guimarães SC,Liga NOS,2014/2015,2014
+João Vigário,Left-Back,1995-11-20,18,Portugal,Vitória Guimarães SC,Liga NOS,2014/2015,2014
+Breno,Left-Back,1995-03-06,19,Brazil,Vitória Guimarães SC,Liga NOS,2014/2015,2014
+Pedro Correia,Right-Back,1987-03-27,27,Portugal,Vitória Guimarães SC,Liga NOS,2014/2015,2014
+Bruno Gaspar,Right-Back,1993-04-21,21,Angola,Vitória Guimarães SC,Liga NOS,2014/2015,2014
+Alvin Arrondel,Right-Back,1993-11-11,20,France,Vitória Guimarães SC,Liga NOS,2014/2015,2014
+André André,Central Midfield,1989-08-26,24,Portugal,Vitória Guimarães SC,Liga NOS,2014/2015,2014
+Bouba,Central Midfield,1990-04-05,24,Burkina Faso,Vitória Guimarães SC,Liga NOS,2014/2015,2014
+Bruno Alves,Central Midfield,1990-06-09,24,Portugal,Vitória Guimarães SC,Liga NOS,2014/2015,2014
+Cafú,Central Midfield,1993-02-26,21,Portugal,Vitória Guimarães SC,Liga NOS,2014/2015,2014
+João Pedro,Central Midfield,1993-04-03,21,Portugal,Vitória Guimarães SC,Liga NOS,2014/2015,2014
+Joseph Amoah,Central Midfield,1994-06-26,20,Ghana,Vitória Guimarães SC,Liga NOS,2014/2015,2014
+Bernard Mensah,Central Midfield,1994-10-17,19,Ghana,Vitória Guimarães SC,Liga NOS,2014/2015,2014
+Hernâni,Right Midfield,1991-08-20,22,Portugal,Vitória Guimarães SC,Liga NOS,2014/2015,2014
+Rafael Crivellaro,Attacking Midfield,1989-02-18,25,Brazil,Vitória Guimarães SC,Liga NOS,2014/2015,2014
+Otávio,Attacking Midfield,1995-02-09,19,Brazil,Vitória Guimarães SC,Liga NOS,2014/2015,2014
+Inters Gui,Attacking Midfield,1992-08-08,21,Cote d'Ivoire,Vitória Guimarães SC,Liga NOS,2014/2015,2014
+Fábio Vieira,Attacking Midfield,1991-01-12,23,Portugal,Vitória Guimarães SC,Liga NOS,2014/2015,2014
+Nassim Zitouni,Attacking Midfield,1994-03-31,20,Algeria,Vitória Guimarães SC,Liga NOS,2014/2015,2014
+Sami,Left Winger,1988-12-18,25,Guinea-Bissau,Vitória Guimarães SC,Liga NOS,2014/2015,2014
+David Caiado,Left Winger,1987-05-02,27,Portugal,Vitória Guimarães SC,Liga NOS,2014/2015,2014
+Nii Plange,Left Winger,1989-06-26,25,Burkina Faso,Vitória Guimarães SC,Liga NOS,2014/2015,2014
+Alex,Left Winger,1991-08-27,22,Portugal,Vitória Guimarães SC,Liga NOS,2014/2015,2014
+Ivo Rodrigues,Left Winger,1995-03-30,19,Portugal,Vitória Guimarães SC,Liga NOS,2014/2015,2014
+Ricardo Valente,Left Winger,1991-04-03,23,Portugal,Vitória Guimarães SC,Liga NOS,2014/2015,2014
+Filip Knezevic,Right Winger,1991-11-08,22,Serbia,Vitória Guimarães SC,Liga NOS,2014/2015,2014
+Xande Silva,Right Winger,1997-03-16,17,Portugal,Vitória Guimarães SC,Liga NOS,2014/2015,2014
+Tomané,Centre-Forward,1992-10-23,21,Portugal,Vitória Guimarães SC,Liga NOS,2014/2015,2014
+Jonatan Álvez,Centre-Forward,1988-05-31,26,Uruguay,Vitória Guimarães SC,Liga NOS,2014/2015,2014
+Ricardo Gomes,Centre-Forward,1991-12-18,22,Cape Verde,Vitória Guimarães SC,Liga NOS,2014/2015,2014
+Areias,Centre-Forward,1993-11-22,20,Portugal,Vitória Guimarães SC,Liga NOS,2014/2015,2014
+Isaac Cissé,Centre-Forward,1994-02-03,20,Cote d'Ivoire,Vitória Guimarães SC,Liga NOS,2014/2015,2014
+Adriano Facchini,Goalkeeper,1983-03-12,31,Brazil,Gil Vicente FC,Liga NOS,2014/2015,2014
+Caleb Patterson-Sewell,Goalkeeper,1987-05-20,27,United States,Gil Vicente FC,Liga NOS,2014/2015,2014
+Júlio Neiva,Goalkeeper,1996-03-28,18,Portugal,Gil Vicente FC,Liga NOS,2014/2015,2014
+Markus Berger,Centre-Back,1985-01-21,29,Austria,Gil Vicente FC,Liga NOS,2014/2015,2014
+Manassé Enza-Yamissi,Centre-Back,1989-09-28,24,Central African Republic,Gil Vicente FC,Liga NOS,2014/2015,2014
+Cadú,Centre-Back,1981-12-21,32,Portugal,Gil Vicente FC,Liga NOS,2014/2015,2014
+Pecks,Centre-Back,1989-04-10,25,Cape Verde,Gil Vicente FC,Liga NOS,2014/2015,2014
+Gladstone,Centre-Back,1985-01-29,29,Brazil,Gil Vicente FC,Liga NOS,2014/2015,2014
+Luís Martins,Left-Back,1992-06-10,22,Portugal,Gil Vicente FC,Liga NOS,2014/2015,2014
+Jander,Left-Back,1988-07-08,25,Brazil,Gil Vicente FC,Liga NOS,2014/2015,2014
+Evaldo,Left-Back,1982-03-18,32,Brazil,Gil Vicente FC,Liga NOS,2014/2015,2014
+Gabriel,Right-Back,1988-06-18,26,Brazil,Gil Vicente FC,Liga NOS,2014/2015,2014
+Ricardinho,Right-Back,1994-03-24,20,Portugal,Gil Vicente FC,Liga NOS,2014/2015,2014
+Alphousseyni Keita,Defensive Midfield,1985-11-13,28,Mali,Gil Vicente FC,Liga NOS,2014/2015,2014
+Luan,Defensive Midfield,1988-12-30,25,Brazil,Gil Vicente FC,Liga NOS,2014/2015,2014
+Semedo,Defensive Midfield,1988-02-23,26,Cape Verde,Gil Vicente FC,Liga NOS,2014/2015,2014
+Hossam Hassan,Defensive Midfield,1989-04-30,25,Egypt,Gil Vicente FC,Liga NOS,2014/2015,2014
+Luís Silva,Central Midfield,1992-09-29,21,Portugal,Gil Vicente FC,Liga NOS,2014/2015,2014
+César Peixoto,Central Midfield,1980-05-12,34,Portugal,Gil Vicente FC,Liga NOS,2014/2015,2014
+Leandro Pimenta,Central Midfield,1990-07-09,23,Portugal,Gil Vicente FC,Liga NOS,2014/2015,2014
+João Vilela,Central Midfield,1985-09-09,28,Portugal,Gil Vicente FC,Liga NOS,2014/2015,2014
+Diogo Viana,Right Midfield,1990-02-22,24,Portugal,Gil Vicente FC,Liga NOS,2014/2015,2014
+Caetano,Attacking Midfield,1991-04-20,23,Portugal,Gil Vicente FC,Liga NOS,2014/2015,2014
+Rúben Ribeiro,Attacking Midfield,1987-08-01,26,Portugal,Gil Vicente FC,Liga NOS,2014/2015,2014
+Vítor Gonçalves,Attacking Midfield,1992-03-29,22,Portugal,Gil Vicente FC,Liga NOS,2014/2015,2014
+Platiny,Attacking Midfield,1996-01-02,18,Cape Verde,Gil Vicente FC,Liga NOS,2014/2015,2014
+Diogo Valente,Left Winger,1984-09-23,29,Portugal,Gil Vicente FC,Liga NOS,2014/2015,2014
+Avto,Left Winger,1991-10-03,22,Georgia,Gil Vicente FC,Liga NOS,2014/2015,2014
+Rui Batalha,Left Winger,1996-06-29,18,Portugal,Gil Vicente FC,Liga NOS,2014/2015,2014
+Piqueti,Right Winger,1993-02-12,21,Guinea-Bissau,Gil Vicente FC,Liga NOS,2014/2015,2014
+Vagner,Right Winger,1996-01-10,18,Cape Verde,Gil Vicente FC,Liga NOS,2014/2015,2014
+Paulinho,Second Striker,1992-11-09,21,Portugal,Gil Vicente FC,Liga NOS,2014/2015,2014
+Yazalde,Centre-Forward,1988-09-21,25,Guinea-Bissau,Gil Vicente FC,Liga NOS,2014/2015,2014
+Simy,Centre-Forward,1992-05-07,22,Nigeria,Gil Vicente FC,Liga NOS,2014/2015,2014
+Marwan Mohsen,Centre-Forward,1989-02-26,25,Egypt,Gil Vicente FC,Liga NOS,2014/2015,2014
+David Batista,Centre-Forward,1989-04-13,25,Brazil,Gil Vicente FC,Liga NOS,2014/2015,2014
+Aílton,Centre-Forward,1996-01-05,18,Cape Verde,Gil Vicente FC,Liga NOS,2014/2015,2014
+Gottardi,Goalkeeper,1985-07-22,28,Brazil,CD Nacional,Liga NOS,2014/2015,2014
+Rui Silva,Goalkeeper,1994-02-07,20,Portugal,CD Nacional,Liga NOS,2014/2015,2014
+Kéven Ramos,Goalkeeper,1989-06-06,25,Cape Verde,CD Nacional,Liga NOS,2014/2015,2014
+Miguel Rodrigues,Centre-Back,1993-03-16,21,Portugal,CD Nacional,Liga NOS,2014/2015,2014
+Zainadine Júnior,Centre-Back,1988-06-24,26,Mozambique,CD Nacional,Liga NOS,2014/2015,2014
+Freire,Centre-Back,1989-08-21,24,Brazil,CD Nacional,Liga NOS,2014/2015,2014
+Rui Correia,Centre-Back,1990-08-23,23,Portugal,CD Nacional,Liga NOS,2014/2015,2014
+Mahmoud Ezzat,Centre-Back,1992-05-05,22,Egypt,CD Nacional,Liga NOS,2014/2015,2014
+Rony Santos,Centre-Back,1995-01-10,19,Cape Verde,CD Nacional,Liga NOS,2014/2015,2014
+Marçal,Left-Back,1989-02-19,25,Brazil,CD Nacional,Liga NOS,2014/2015,2014
+Nuno Sequeira,Left-Back,1990-08-19,23,Portugal,CD Nacional,Liga NOS,2014/2015,2014
+Ali Fathi,Left-Back,1992-01-02,22,Egypt,CD Nacional,Liga NOS,2014/2015,2014
+João Aurélio,Right-Back,1988-08-17,25,Portugal,CD Nacional,Liga NOS,2014/2015,2014
+Nuno Campos,Right-Back,1993-06-13,21,Portugal,CD Nacional,Liga NOS,2014/2015,2014
+Aly Ghazal,Defensive Midfield,1992-02-01,22,Egypt,CD Nacional,Liga NOS,2014/2015,2014
+Boubacar Fofana,Defensive Midfield,1989-11-06,24,Guinea,CD Nacional,Liga NOS,2014/2015,2014
+Sebastián Ayala,Defensive Midfield,1995-09-14,18,Colombia,CD Nacional,Liga NOS,2014/2015,2014
+Saleh Gomaa,Central Midfield,1993-08-01,20,Egypt,CD Nacional,Liga NOS,2014/2015,2014
+Luís Aurélio,Central Midfield,1988-08-17,25,Portugal,CD Nacional,Liga NOS,2014/2015,2014
+Christian,Central Midfield,1989-06-14,25,Brazil,CD Nacional,Liga NOS,2014/2015,2014
+Edgar Abreu,Central Midfield,1994-02-16,20,Portugal,CD Nacional,Liga NOS,2014/2015,2014
+Tiago Rodrigues,Attacking Midfield,1992-01-29,22,Portugal,CD Nacional,Liga NOS,2014/2015,2014
+Wagner,Left Winger,1987-04-03,27,Brazil,CD Nacional,Liga NOS,2014/2015,2014
+Willyan,Left Winger,1994-02-17,20,Brazil,CD Nacional,Liga NOS,2014/2015,2014
+João Camacho,Left Winger,1994-06-23,20,Portugal,CD Nacional,Liga NOS,2014/2015,2014
+Marco Matias,Right Winger,1989-05-10,25,Portugal,CD Nacional,Liga NOS,2014/2015,2014
+Witi,Right Winger,1996-08-26,17,Mozambique,CD Nacional,Liga NOS,2014/2015,2014
+Mario Rondón,Centre-Forward,1986-03-26,28,Venezuela,CD Nacional,Liga NOS,2014/2015,2014
+Hyun-jun Suk,Centre-Forward,1991-06-29,23,"Korea, South",CD Nacional,Liga NOS,2014/2015,2014
+Lucas João,Centre-Forward,1993-09-04,20,Portugal,CD Nacional,Liga NOS,2014/2015,2014
+Reginaldo,Centre-Forward,1990-06-04,24,Mozambique,CD Nacional,Liga NOS,2014/2015,2014
+Tiquinho Soares,Centre-Forward,1991-01-17,23,Brazil,CD Nacional,Liga NOS,2014/2015,2014
+Mauro Goicoechea,Goalkeeper,1988-03-27,26,Uruguay,FC Arouca,Liga NOS,2014/2015,2014
+Rui Sacramento,Goalkeeper,1985-01-31,29,Portugal,FC Arouca,Liga NOS,2014/2015,2014
+Igor Rocha,Goalkeeper,1993-03-04,21,Portugal,FC Arouca,Liga NOS,2014/2015,2014
+Ustaritz,Centre-Back,1983-02-16,31,Spain,FC Arouca,Liga NOS,2014/2015,2014
+Diego Galo,Centre-Back,1984-01-14,30,Brazil,FC Arouca,Liga NOS,2014/2015,2014
+Miguel Oliveira,Centre-Back,1983-08-18,30,Portugal,FC Arouca,Liga NOS,2014/2015,2014
+Hugo Basto,Centre-Back,1993-05-14,21,Portugal,FC Arouca,Liga NOS,2014/2015,2014
+Luis Tinoco,Left-Back,1986-10-17,27,Portugal,FC Arouca,Liga NOS,2014/2015,2014
+Nelsinho,Left-Back,1988-01-01,26,Brazil,FC Arouca,Liga NOS,2014/2015,2014
+Tomás Dabó,Right-Back,1993-10-20,20,Guinea-Bissau,FC Arouca,Liga NOS,2014/2015,2014
+Iván Balliu,Right-Back,1992-01-01,22,Albania,FC Arouca,Liga NOS,2014/2015,2014
+Nuno Coelho,Defensive Midfield,1987-11-23,26,Portugal,FC Arouca,Liga NOS,2014/2015,2014
+Fabrice Fokobo,Defensive Midfield,1994-01-25,20,Cameroon,FC Arouca,Liga NOS,2014/2015,2014
+David Simão,Central Midfield,1990-05-15,24,Portugal,FC Arouca,Liga NOS,2014/2015,2014
+Bruno Amaro,Central Midfield,1983-02-17,31,Portugal,FC Arouca,Liga NOS,2014/2015,2014
+Rui Sampaio,Central Midfield,1987-05-29,27,Portugal,FC Arouca,Liga NOS,2014/2015,2014
+Pintassilgo,Right Midfield,1985-06-30,29,Portugal,FC Arouca,Liga NOS,2014/2015,2014
+Kayembe,Left Midfield,1994-08-08,19,Belgium,FC Arouca,Liga NOS,2014/2015,2014
+Artur,Attacking Midfield,1984-02-18,30,Portugal,FC Arouca,Liga NOS,2014/2015,2014
+Nildo Petrolina,Left Winger,1986-05-01,28,Brazil,FC Arouca,Liga NOS,2014/2015,2014
+Serginho,Left Winger,1991-02-21,23,Portugal,FC Arouca,Liga NOS,2014/2015,2014
+André Claro,Left Winger,1991-03-31,23,Portugal,FC Arouca,Liga NOS,2014/2015,2014
+Lucas Colitto,Left Winger,1994-06-01,20,Argentina,FC Arouca,Liga NOS,2014/2015,2014
+Iuri Medeiros,Right Winger,1994-07-10,19,Portugal,FC Arouca,Liga NOS,2014/2015,2014
+Hugo Monteiro,Right Winger,1985-05-09,29,Portugal,FC Arouca,Liga NOS,2014/2015,2014
+Agustín Vuletich,Centre-Forward,1991-11-03,22,Argentina,FC Arouca,Liga NOS,2014/2015,2014
+Roberto,Centre-Forward,1988-11-28,25,Portugal,FC Arouca,Liga NOS,2014/2015,2014
+Ulysse Diallo,Centre-Forward,1992-10-26,21,Mali,FC Arouca,Liga NOS,2014/2015,2014
+Tucka,Centre-Forward,1996-02-15,18,Portugal,FC Arouca,Liga NOS,2014/2015,2014
+Matt Jones,Goalkeeper,1986-05-11,28,England,Belenenses SAD,Liga NOS,2014/2015,2014
+Rafael Veloso,Goalkeeper,1993-11-03,20,Portugal,Belenenses SAD,Liga NOS,2014/2015,2014
+Hugo Ventura,Goalkeeper,1988-01-14,26,Portugal,Belenenses SAD,Liga NOS,2014/2015,2014
+Filipe Mendes,Goalkeeper,1985-06-17,29,Portugal,Belenenses SAD,Liga NOS,2014/2015,2014
+Pedro Cavadas,Goalkeeper,1992-03-06,22,Portugal,Belenenses SAD,Liga NOS,2014/2015,2014
+Steven Thicot,Centre-Back,1987-02-14,27,France,Belenenses SAD,Liga NOS,2014/2015,2014
+João Meira,Centre-Back,1987-04-30,27,Portugal,Belenenses SAD,Liga NOS,2014/2015,2014
+Gonçalo Brandão,Centre-Back,1986-10-09,27,Portugal,Belenenses SAD,Liga NOS,2014/2015,2014
+Palmeira,Centre-Back,1989-09-24,24,Portugal,Belenenses SAD,Liga NOS,2014/2015,2014
+João Afonso,Centre-Back,1982-02-11,32,Portugal,Belenenses SAD,Liga NOS,2014/2015,2014
+Filipe Ferreira,Left-Back,1990-09-27,23,Portugal,Belenenses SAD,Liga NOS,2014/2015,2014
+Daniel Martins,Left-Back,1993-07-20,20,Portugal,Belenenses SAD,Liga NOS,2014/2015,2014
+Nélson,Right-Back,1983-06-10,31,Portugal,Belenenses SAD,Liga NOS,2014/2015,2014
+Adilson,Right-Back,1987-11-25,26,Portugal,Belenenses SAD,Liga NOS,2014/2015,2014
+André Teixeira,Right-Back,1993-08-14,20,Portugal,Belenenses SAD,Liga NOS,2014/2015,2014
+Ricardo Dias,Defensive Midfield,1991-02-25,23,Portugal,Belenenses SAD,Liga NOS,2014/2015,2014
+Pelé,Defensive Midfield,1991-09-29,22,Guinea-Bissau,Belenenses SAD,Liga NOS,2014/2015,2014
+Helgi Danielsson,Defensive Midfield,1981-07-13,32,Iceland,Belenenses SAD,Liga NOS,2014/2015,2014
+Tiago Silva,Central Midfield,1993-06-02,21,Portugal,Belenenses SAD,Liga NOS,2014/2015,2014
+Bruno China,Central Midfield,1982-08-05,31,Portugal,Belenenses SAD,Liga NOS,2014/2015,2014
+Rodrigo Dantas,Central Midfield,1989-10-20,24,Brazil,Belenenses SAD,Liga NOS,2014/2015,2014
+Miguel Rosa,Attacking Midfield,1989-01-13,25,Portugal,Belenenses SAD,Liga NOS,2014/2015,2014
+Carlos Martins,Attacking Midfield,1982-04-29,32,Portugal,Belenenses SAD,Liga NOS,2014/2015,2014
+Dálcio,Attacking Midfield,1996-05-22,18,Portugal,Belenenses SAD,Liga NOS,2014/2015,2014
+Fábio Nunes,Left Winger,1992-07-24,21,Portugal,Belenenses SAD,Liga NOS,2014/2015,2014
+Fábio Sturgeon,Right Winger,1994-02-04,20,Portugal,Belenenses SAD,Liga NOS,2014/2015,2014
+Fredy,Second Striker,1990-03-27,24,Angola,Belenenses SAD,Liga NOS,2014/2015,2014
+Rui Fonte,Centre-Forward,1990-04-23,24,Portugal,Belenenses SAD,Liga NOS,2014/2015,2014
+Tiago Caiero,Centre-Forward,1984-03-29,30,Portugal,Belenenses SAD,Liga NOS,2014/2015,2014
+Mailó,Centre-Forward,1992-01-10,22,Cape Verde,Belenenses SAD,Liga NOS,2014/2015,2014
+Diogo Ribeiro,Centre-Forward,1991-01-14,23,Portugal,Belenenses SAD,Liga NOS,2014/2015,2014
+Abel Camará,Centre-Forward,1990-01-06,24,Guinea-Bissau,Belenenses SAD,Liga NOS,2014/2015,2014
+Deyverson,Centre-Forward,1991-05-08,23,Brazil,Belenenses SAD,Liga NOS,2014/2015,2014
+António Filipe,Goalkeeper,1985-04-14,29,Portugal,FC Paços de Ferreira,Liga NOS,2014/2015,2014
+Rafael Defendi,Goalkeeper,1983-12-22,30,Brazil,FC Paços de Ferreira,Liga NOS,2014/2015,2014
+Marco Ribeiro,Goalkeeper,1995-01-29,19,Portugal,FC Paços de Ferreira,Liga NOS,2014/2015,2014
+Ricardo,Centre-Back,1980-08-19,33,Cape Verde,FC Paços de Ferreira,Liga NOS,2014/2015,2014
+Fábio Cardoso,Centre-Back,1994-04-19,20,Portugal,FC Paços de Ferreira,Liga NOS,2014/2015,2014
+Flávio Boaventura,Centre-Back,1987-07-12,26,Brazil,FC Paços de Ferreira,Liga NOS,2014/2015,2014
+Ricardo Ferreira,Centre-Back,1992-11-25,21,Portugal,FC Paços de Ferreira,Liga NOS,2014/2015,2014
+Rafael Amorim,Centre-Back,1987-07-30,26,Brazil,FC Paços de Ferreira,Liga NOS,2014/2015,2014
+Nélson Pedroso,Left-Back,1985-06-10,29,Portugal,FC Paços de Ferreira,Liga NOS,2014/2015,2014
+Hélder Lopes,Left-Back,1989-01-04,25,Portugal,FC Paços de Ferreira,Liga NOS,2014/2015,2014
+Luís Sousa,Left-Back,1989-07-22,24,Portugal,FC Paços de Ferreira,Liga NOS,2014/2015,2014
+Rodrigo Galo,Right-Back,1986-09-19,27,Brazil,FC Paços de Ferreira,Liga NOS,2014/2015,2014
+Edson Farias,Right-Back,1992-01-12,22,Brazil,FC Paços de Ferreira,Liga NOS,2014/2015,2014
+Jaílson,Right-Back,1991-02-21,23,Brazil,FC Paços de Ferreira,Liga NOS,2014/2015,2014
+Bruno Sousa,Right-Back,1996-05-15,18,Portugal,FC Paços de Ferreira,Liga NOS,2014/2015,2014
+Rúben Pinto,Defensive Midfield,1992-04-24,22,Portugal,FC Paços de Ferreira,Liga NOS,2014/2015,2014
+Romeu,Defensive Midfield,1986-02-17,28,Portugal,FC Paços de Ferreira,Liga NOS,2014/2015,2014
+Filipe Anunciacão,Defensive Midfield,1979-05-27,35,Portugal,FC Paços de Ferreira,Liga NOS,2014/2015,2014
+Valkenedy,Defensive Midfield,1993-06-13,21,Brazil,FC Paços de Ferreira,Liga NOS,2014/2015,2014
+Sérgio Oliveira,Central Midfield,1992-06-02,22,Portugal,FC Paços de Ferreira,Liga NOS,2014/2015,2014
+Jean Michaël Seri,Central Midfield,1991-07-19,22,Cote d'Ivoire,FC Paços de Ferreira,Liga NOS,2014/2015,2014
+Vasco Rocha,Central Midfield,1989-01-29,25,Portugal,FC Paços de Ferreira,Liga NOS,2014/2015,2014
+Paolo Hurtado,Attacking Midfield,1990-07-27,23,Peru,FC Paços de Ferreira,Liga NOS,2014/2015,2014
+Rúben Ribeiro,Attacking Midfield,1987-08-01,26,Portugal,FC Paços de Ferreira,Liga NOS,2014/2015,2014
+Andrezinho,Attacking Midfield,1995-08-16,18,Portugal,FC Paços de Ferreira,Liga NOS,2014/2015,2014
+Diogo Rosado,Left Winger,1990-02-21,24,Portugal,FC Paços de Ferreira,Liga NOS,2014/2015,2014
+Minhoca,Left Winger,1988-04-29,26,Portugal,FC Paços de Ferreira,Liga NOS,2014/2015,2014
+Barnes Osei,Left Winger,1995-01-08,19,Ghana,FC Paços de Ferreira,Liga NOS,2014/2015,2014
+Diogo Jota,Left Winger,1996-12-04,17,Portugal,FC Paços de Ferreira,Liga NOS,2014/2015,2014
+Jonathan Urretaviscaya,Right Winger,1990-03-19,24,Uruguay,FC Paços de Ferreira,Liga NOS,2014/2015,2014
+Manuel José,Right Winger,1981-02-04,33,Portugal,FC Paços de Ferreira,Liga NOS,2014/2015,2014
+Vasco Matos,Right Winger,1980-10-10,33,Portugal,FC Paços de Ferreira,Liga NOS,2014/2015,2014
+Cícero,Centre-Forward,1986-05-08,28,Guinea-Bissau,FC Paços de Ferreira,Liga NOS,2014/2015,2014
+Bruno Moreira,Centre-Forward,1987-09-06,26,Portugal,FC Paços de Ferreira,Liga NOS,2014/2015,2014
+Jaime Poulson,Centre-Forward,1989-06-22,25,Portugal,FC Paços de Ferreira,Liga NOS,2014/2015,2014
+Johane Nizeyimana,Centre-Forward,1993-05-10,21,Burundi,FC Paços de Ferreira,Liga NOS,2014/2015,2014
+Cristiano,Goalkeeper,1990-11-29,23,Portugal,Académica Coimbra,Liga NOS,2014/2015,2014
+Fábio Santos,Goalkeeper,1992-11-14,21,Portugal,Académica Coimbra,Liga NOS,2014/2015,2014
+Lee Oliveira,Goalkeeper,1988-03-09,26,Brazil,Académica Coimbra,Liga NOS,2014/2015,2014
+Aníbal Capela,Centre-Back,1991-05-08,23,Portugal,Académica Coimbra,Liga NOS,2014/2015,2014
+João Real,Centre-Back,1983-05-13,31,Portugal,Académica Coimbra,Liga NOS,2014/2015,2014
+Ricardo Nascimento,Centre-Back,1987-02-07,27,Brazil,Académica Coimbra,Liga NOS,2014/2015,2014
+Hugo Ribeiro,Centre-Back,1997-01-14,17,Portugal,Académica Coimbra,Liga NOS,2014/2015,2014
+Iago Santos,Centre-Back,1992-05-22,22,Brazil,Académica Coimbra,Liga NOS,2014/2015,2014
+Tripy Makonda,Left-Back,1990-01-24,24,France,Académica Coimbra,Liga NOS,2014/2015,2014
+Richard Ofori,Left-Back,1993-04-24,21,Ghana,Académica Coimbra,Liga NOS,2014/2015,2014
+Lino,Left-Back,1977-06-01,37,Brazil,Académica Coimbra,Liga NOS,2014/2015,2014
+Christopher Oualembo,Right-Back,1987-01-31,27,DR Congo,Académica Coimbra,Liga NOS,2014/2015,2014
+Aderlan,Right-Back,1990-08-18,23,Brazil,Académica Coimbra,Liga NOS,2014/2015,2014
+Fernando Alexandre,Defensive Midfield,1985-08-02,28,Portugal,Académica Coimbra,Liga NOS,2014/2015,2014
+Nwankwo Obiora,Defensive Midfield,1991-07-12,22,Nigeria,Académica Coimbra,Liga NOS,2014/2015,2014
+Jimmy,Defensive Midfield,1994-07-15,19,Cape Verde,Académica Coimbra,Liga NOS,2014/2015,2014
+Marcos Paulo,Central Midfield,1988-07-13,25,Brazil,Académica Coimbra,Liga NOS,2014/2015,2014
+Nuno Piloto,Central Midfield,1982-03-19,32,Portugal,Académica Coimbra,Liga NOS,2014/2015,2014
+Lucas Mineiro,Central Midfield,1992-06-16,22,Brazil,Académica Coimbra,Liga NOS,2014/2015,2014
+Ricardo Esgaio,Right Midfield,1993-05-16,21,Portugal,Académica Coimbra,Liga NOS,2014/2015,2014
+Rui Pedro,Attacking Midfield,1988-07-02,25,Portugal,Académica Coimbra,Liga NOS,2014/2015,2014
+Magique,Left Winger,1993-01-21,21,Cote d'Ivoire,Académica Coimbra,Liga NOS,2014/2015,2014
+Carlos Olascuaga,Left Winger,1992-07-22,21,Peru,Académica Coimbra,Liga NOS,2014/2015,2014
+Pedro Nuno,Left Winger,1995-01-13,19,Portugal,Académica Coimbra,Liga NOS,2014/2015,2014
+Marinho,Right Winger,1983-04-26,31,Portugal,Académica Coimbra,Liga NOS,2014/2015,2014
+Edgar Salli,Right Winger,1992-08-17,21,Cameroon,Académica Coimbra,Liga NOS,2014/2015,2014
+Ivanildo,Right Winger,1986-01-09,28,Guinea-Bissau,Académica Coimbra,Liga NOS,2014/2015,2014
+Hugo Seco,Right Winger,1988-06-17,26,Portugal,Académica Coimbra,Liga NOS,2014/2015,2014
+Salim Cissé,Centre-Forward,1992-12-24,21,Guinea,Académica Coimbra,Liga NOS,2014/2015,2014
+Rafa Lopes,Centre-Forward,1991-07-28,22,Portugal,Académica Coimbra,Liga NOS,2014/2015,2014
+Schumacher,Centre-Forward,1986-08-31,27,Brazil,Académica Coimbra,Liga NOS,2014/2015,2014
+Ulysse Diallo,Centre-Forward,1992-10-26,21,Mali,Académica Coimbra,Liga NOS,2014/2015,2014
+M'Bala Nzola,Centre-Forward,1996-08-18,17,France,Académica Coimbra,Liga NOS,2014/2015,2014
+Romain Salin,Goalkeeper,1984-07-29,29,France,CS Marítimo,Liga NOS,2014/2015,2014
+José Sá,Goalkeeper,1993-01-17,21,Portugal,CS Marítimo,Liga NOS,2014/2015,2014
+Wellington,Goalkeeper,1990-04-21,24,Brazil,CS Marítimo,Liga NOS,2014/2015,2014
+Gegé,Centre-Back,1988-02-24,26,Cape Verde,CS Marítimo,Liga NOS,2014/2015,2014
+Igor Rossi,Centre-Back,1989-03-10,25,Brazil,CS Marítimo,Liga NOS,2014/2015,2014
+Kaj Ramsteijn,Centre-Back,1990-01-17,24,Netherlands,CS Marítimo,Liga NOS,2014/2015,2014
+Patrick Bauer,Centre-Back,1992-10-28,21,Germany,CS Marítimo,Liga NOS,2014/2015,2014
+Raúl Silva,Centre-Back,1989-11-04,24,Brazil,CS Marítimo,Liga NOS,2014/2015,2014
+Cristiano Vasconcelos,Centre-Back,1989-07-10,24,Portugal,CS Marítimo,Liga NOS,2014/2015,2014
+Rúben,Left-Back,1990-02-17,24,Portugal,CS Marítimo,Liga NOS,2014/2015,2014
+Luís Olim,Left-Back,1981-08-27,32,Portugal,CS Marítimo,Liga NOS,2014/2015,2014
+João Diogo,Right-Back,1988-02-28,26,Portugal,CS Marítimo,Liga NOS,2014/2015,2014
+Briguel,Right-Back,1979-03-08,35,Portugal,CS Marítimo,Liga NOS,2014/2015,2014
+Danilo Pereira,Defensive Midfield,1991-09-09,22,Portugal,CS Marítimo,Liga NOS,2014/2015,2014
+Bruno Gallo,Central Midfield,1988-05-07,26,Brazil,CS Marítimo,Liga NOS,2014/2015,2014
+Fransérgio,Central Midfield,1990-10-18,23,Brazil,CS Marítimo,Liga NOS,2014/2015,2014
+Alex Soares,Central Midfield,1991-03-01,23,Portugal,CS Marítimo,Liga NOS,2014/2015,2014
+Éber Bessa,Left Midfield,1992-03-21,22,Brazil,CS Marítimo,Liga NOS,2014/2015,2014
+Fernando Ferreira,Attacking Midfield,1986-11-20,27,Portugal,CS Marítimo,Liga NOS,2014/2015,2014
+Mohamed Ibrahim,Attacking Midfield,1992-03-01,22,Egypt,CS Marítimo,Liga NOS,2014/2015,2014
+Theo Weeks,Attacking Midfield,1990-01-19,24,Liberia,CS Marítimo,Liga NOS,2014/2015,2014
+Xavier,Left Winger,1992-07-06,21,Portugal,CS Marítimo,Liga NOS,2014/2015,2014
+Edgar Costa,Right Winger,1987-04-14,27,Portugal,CS Marítimo,Liga NOS,2014/2015,2014
+Félix Micolta,Right Winger,1989-11-30,24,Colombia,CS Marítimo,Liga NOS,2014/2015,2014
+Johnny Vidales,Right Winger,1992-04-21,22,Peru,CS Marítimo,Liga NOS,2014/2015,2014
+Moussa Marega,Second Striker,1991-04-14,23,Mali,CS Marítimo,Liga NOS,2014/2015,2014
+Moussa Maazou,Centre-Forward,1988-08-25,25,Niger,CS Marítimo,Liga NOS,2014/2015,2014
+Kukula,Centre-Forward,1993-01-22,21,Cape Verde,CS Marítimo,Liga NOS,2014/2015,2014
+Dyego Sousa,Centre-Forward,1989-09-14,24,Portugal,CS Marítimo,Liga NOS,2014/2015,2014
+Fabio Abreu,Centre-Forward,1993-01-29,21,Angola,CS Marítimo,Liga NOS,2014/2015,2014
+Cristian Alex,Centre-Forward,1993-12-01,20,Brazil,CS Marítimo,Liga NOS,2014/2015,2014
+Ebinho,Centre-Forward,1988-01-18,26,Brazil,CS Marítimo,Liga NOS,2014/2015,2014
+Gideão,Goalkeeper,1987-12-19,26,Brazil,Moreirense FC,Liga NOS,2014/2015,2014
+Marafona,Goalkeeper,1987-05-08,27,Portugal,Moreirense FC,Liga NOS,2014/2015,2014
+André Moreira,Goalkeeper,1995-12-02,18,Portugal,Moreirense FC,Liga NOS,2014/2015,2014
+Danielson,Centre-Back,1981-01-09,33,Brazil,Moreirense FC,Liga NOS,2014/2015,2014
+João Pedro,Centre-Back,1987-12-29,26,Portugal,Moreirense FC,Liga NOS,2014/2015,2014
+Marcelo Oliveira,Centre-Back,1981-09-05,32,Brazil,Moreirense FC,Liga NOS,2014/2015,2014
+Anilton Júnior,Centre-Back,1980-07-10,33,Brazil,Moreirense FC,Liga NOS,2014/2015,2014
+Stéphane Madeira,Centre-Back,1990-01-04,24,France,Moreirense FC,Liga NOS,2014/2015,2014
+João Sousa,Centre-Back,1994-05-13,20,Portugal,Moreirense FC,Liga NOS,2014/2015,2014
+Elízio,Left-Back,1988-02-22,26,Brazil,Moreirense FC,Liga NOS,2014/2015,2014
+André Marques,Left-Back,1987-08-01,26,Portugal,Moreirense FC,Liga NOS,2014/2015,2014
+João Pedro,Right-Back,1986-05-04,28,Portugal,Moreirense FC,Liga NOS,2014/2015,2014
+Coronas,Right-Back,1990-09-19,23,Portugal,Moreirense FC,Liga NOS,2014/2015,2014
+Paulinho,Right-Back,1991-07-13,22,Portugal,Moreirense FC,Liga NOS,2014/2015,2014
+Lucas Souza,Defensive Midfield,1990-07-04,23,Brazil,Moreirense FC,Liga NOS,2014/2015,2014
+Djibril,Defensive Midfield,1994-02-20,20,Burkina Faso,Moreirense FC,Liga NOS,2014/2015,2014
+Filipe Melo,Defensive Midfield,1989-11-03,24,Portugal,Moreirense FC,Liga NOS,2014/2015,2014
+André Simões,Defensive Midfield,1989-12-16,24,Portugal,Moreirense FC,Liga NOS,2014/2015,2014
+Rodrigo Battaglia,Central Midfield,1991-07-12,22,Argentina,Moreirense FC,Liga NOS,2014/2015,2014
+Vítor Gomes,Central Midfield,1987-12-25,26,Portugal,Moreirense FC,Liga NOS,2014/2015,2014
+Luís Aurélio,Central Midfield,1988-08-17,25,Portugal,Moreirense FC,Liga NOS,2014/2015,2014
+Patrick Andrade,Central Midfield,1993-02-09,21,Cape Verde,Moreirense FC,Liga NOS,2014/2015,2014
+Diogo Cunha,Attacking Midfield,1986-02-10,28,Portugal,Moreirense FC,Liga NOS,2014/2015,2014
+Edivaldo Rojas,Attacking Midfield,1985-11-17,28,Bolivia,Moreirense FC,Liga NOS,2014/2015,2014
+Gerso,Left Winger,1991-02-23,23,Guinea-Bissau,Moreirense FC,Liga NOS,2014/2015,2014
+Ença Fati,Left Winger,1993-08-11,20,Portugal,Moreirense FC,Liga NOS,2014/2015,2014
+Arsénio,Right Winger,1989-08-30,24,Portugal,Moreirense FC,Liga NOS,2014/2015,2014
+Jorge Monteiro,Right Winger,1988-08-15,25,Portugal,Moreirense FC,Liga NOS,2014/2015,2014
+Alex,Centre-Forward,1990-05-20,24,Brazil,Moreirense FC,Liga NOS,2014/2015,2014
+Ramón Cardozo,Centre-Forward,1986-04-23,28,Paraguay,Moreirense FC,Liga NOS,2014/2015,2014
+Caleb Gomina,Centre-Forward,1996-09-24,17,Ghana,Moreirense FC,Liga NOS,2014/2015,2014
+Leandro Souza,Centre-Forward,1987-02-23,27,Brazil,Moreirense FC,Liga NOS,2014/2015,2014
+Ricardo Almeida,Centre-Forward,1997-05-09,17,Portugal,Moreirense FC,Liga NOS,2014/2015,2014
+Júlio Coelho,Goalkeeper,1984-07-18,29,Portugal,FC Penafiel,Liga NOS,2014/2015,2014
+Alireza Haghighi,Goalkeeper,1988-05-02,26,Iran,FC Penafiel,Liga NOS,2014/2015,2014
+Tiago Rocha,Goalkeeper,1990-09-04,23,Portugal,FC Penafiel,Liga NOS,2014/2015,2014
+Tiago Valente,Centre-Back,1985-04-24,29,Portugal,FC Penafiel,Liga NOS,2014/2015,2014
+Ustaritz,Centre-Back,1983-02-16,31,Spain,FC Penafiel,Liga NOS,2014/2015,2014
+João Pedro,Centre-Back,1987-12-29,26,Portugal,FC Penafiel,Liga NOS,2014/2015,2014
+Nuno Henrique,Centre-Back,1986-10-19,27,Portugal,FC Penafiel,Liga NOS,2014/2015,2014
+Bura,Centre-Back,1988-12-17,25,Portugal,FC Penafiel,Liga NOS,2014/2015,2014
+Pedro Ribeiro,Centre-Back,1983-01-25,31,Portugal,FC Penafiel,Liga NOS,2014/2015,2014
+Héctor Quiñónes,Left-Back,1992-03-17,22,Colombia,FC Penafiel,Liga NOS,2014/2015,2014
+Nélson Lenho,Left-Back,1984-03-22,30,Portugal,FC Penafiel,Liga NOS,2014/2015,2014
+Vítor Bruno,Left-Back,1990-01-13,24,Portugal,FC Penafiel,Liga NOS,2014/2015,2014
+João Pedro,Left-Back,1980-08-15,33,Portugal,FC Penafiel,Liga NOS,2014/2015,2014
+Dani Coelho,Right-Back,1990-01-17,24,Portugal,FC Penafiel,Liga NOS,2014/2015,2014
+Tony,Right-Back,1980-12-20,33,Portugal,FC Penafiel,Liga NOS,2014/2015,2014
+Paulo Grilo,Defensive Midfield,1991-08-19,22,Portugal,FC Penafiel,Liga NOS,2014/2015,2014
+Rafa Sousa,Defensive Midfield,1988-08-26,25,Portugal,FC Penafiel,Liga NOS,2014/2015,2014
+Romeu Ribeiro,Defensive Midfield,1989-01-13,25,Portugal,FC Penafiel,Liga NOS,2014/2015,2014
+Capela,Defensive Midfield,1986-01-28,28,Portugal,FC Penafiel,Liga NOS,2014/2015,2014
+Ferreira,Central Midfield,1980-06-13,34,Portugal,FC Penafiel,Liga NOS,2014/2015,2014
+Braga,Attacking Midfield,1983-06-17,31,Portugal,FC Penafiel,Liga NOS,2014/2015,2014
+André Fontes,Attacking Midfield,1985-05-27,29,Portugal,FC Penafiel,Liga NOS,2014/2015,2014
+João Martins,Attacking Midfield,1988-06-30,26,Portugal,FC Penafiel,Liga NOS,2014/2015,2014
+Davi Mbala,Left Winger,1993-04-19,21,DR Congo,FC Penafiel,Liga NOS,2014/2015,2014
+Aldair,Right Winger,1992-01-31,22,Guinea-Bissau,FC Penafiel,Liga NOS,2014/2015,2014
+Ezequiel Calvente,Right Winger,1991-01-12,23,Spain,FC Penafiel,Liga NOS,2014/2015,2014
+Bruninho,Second Striker,1988-09-30,25,Portugal,FC Penafiel,Liga NOS,2014/2015,2014
+Michel,Centre-Forward,1986-08-22,27,Brazil,FC Penafiel,Liga NOS,2014/2015,2014
+Rabiola,Centre-Forward,1989-07-25,24,Portugal,FC Penafiel,Liga NOS,2014/2015,2014
+Rui Miguel,Centre-Forward,1984-01-30,30,Portugal,FC Penafiel,Liga NOS,2014/2015,2014
+Hélder Guedes,Centre-Forward,1987-05-07,27,Portugal,FC Penafiel,Liga NOS,2014/2015,2014
+Ricardo Batista,Goalkeeper,1986-11-19,27,Portugal,Vitória Setúbal FC,Liga NOS,2014/2015,2014
+Lukas Raeder,Goalkeeper,1993-12-30,20,Germany,Vitória Setúbal FC,Liga NOS,2014/2015,2014
+Miguel Lázaro,Goalkeeper,1995-04-24,19,Portugal,Vitória Setúbal FC,Liga NOS,2014/2015,2014
+Miguel Lourenço,Centre-Back,1992-05-27,22,Portugal,Vitória Setúbal FC,Liga NOS,2014/2015,2014
+Frederico Venâncio,Centre-Back,1993-02-04,21,Portugal,Vitória Setúbal FC,Liga NOS,2014/2015,2014
+Marcos Vinícius,Centre-Back,1991-06-27,23,Brazil,Vitória Setúbal FC,Liga NOS,2014/2015,2014
+François,Centre-Back,1989-11-30,24,Senegal,Vitória Setúbal FC,Liga NOS,2014/2015,2014
+Hélder Cabral,Left-Back,1984-05-07,30,Portugal,Vitória Setúbal FC,Liga NOS,2014/2015,2014
+Kiko,Left-Back,1993-01-20,21,Portugal,Vitória Setúbal FC,Liga NOS,2014/2015,2014
+Pedro Queirós,Right-Back,1984-08-08,29,Portugal,Vitória Setúbal FC,Liga NOS,2014/2015,2014
+Luis Advíncula,Right-Back,1990-03-02,24,Peru,Vitória Setúbal FC,Liga NOS,2014/2015,2014
+Ney Santos,Defensive Midfield,1981-02-23,33,Brazil,Vitória Setúbal FC,Liga NOS,2014/2015,2014
+Tiago Terroso,Defensive Midfield,1988-01-13,26,Portugal,Vitória Setúbal FC,Liga NOS,2014/2015,2014
+Dani,Defensive Midfield,1982-01-30,32,Portugal,Vitória Setúbal FC,Liga NOS,2014/2015,2014
+João Schmidt,Defensive Midfield,1993-05-19,21,Brazil,Vitória Setúbal FC,Liga NOS,2014/2015,2014
+Ericson,Defensive Midfield,1987-11-25,26,Cape Verde,Vitória Setúbal FC,Liga NOS,2014/2015,2014
+Wilder Cartagena,Defensive Midfield,1994-09-23,19,Peru,Vitória Setúbal FC,Liga NOS,2014/2015,2014
+André Horta,Central Midfield,1996-11-07,17,Portugal,Vitória Setúbal FC,Liga NOS,2014/2015,2014
+Ulises Dávila,Attacking Midfield,1991-04-13,23,Mexico,Vitória Setúbal FC,Liga NOS,2014/2015,2014
+Paulo Tavares,Attacking Midfield,1985-12-09,28,Portugal,Vitória Setúbal FC,Liga NOS,2014/2015,2014
+Dimitrios Pelkas,Attacking Midfield,1993-10-26,20,Greece,Vitória Setúbal FC,Liga NOS,2014/2015,2014
+Yann Rolim,Attacking Midfield,1995-03-15,19,Brazil,Vitória Setúbal FC,Liga NOS,2014/2015,2014
+Zequinha,Left Winger,1987-01-07,27,Portugal,Vitória Setúbal FC,Liga NOS,2014/2015,2014
+Miguel Pedro,Right Winger,1983-11-06,30,Portugal,Vitória Setúbal FC,Liga NOS,2014/2015,2014
+Manú,Right Winger,1982-08-28,31,Portugal,Vitória Setúbal FC,Liga NOS,2014/2015,2014
+Júnior Ponce,Right Winger,1994-02-16,20,Peru,Vitória Setúbal FC,Liga NOS,2014/2015,2014
+Jucie Lupeta,Right Winger,1993-03-24,21,Portugal,Vitória Setúbal FC,Liga NOS,2014/2015,2014
+Hyun-jun Suk,Centre-Forward,1991-06-29,23,"Korea, South",Vitória Setúbal FC,Liga NOS,2014/2015,2014
+Forbes,Centre-Forward,1989-06-23,25,Guinea-Bissau,Vitória Setúbal FC,Liga NOS,2014/2015,2014
+Rambé,Centre-Forward,1989-10-04,24,Cape Verde,Vitória Setúbal FC,Liga NOS,2014/2015,2014
+Diego Maurício,Centre-Forward,1991-06-25,23,Brazil,Vitória Setúbal FC,Liga NOS,2014/2015,2014
+Joao Rodríguez,Centre-Forward,1996-05-19,18,Colombia,Vitória Setúbal FC,Liga NOS,2014/2015,2014
+Giovani,Centre-Forward,1992-01-07,22,Brazil,Vitória Setúbal FC,Liga NOS,2014/2015,2014
+Mika,Goalkeeper,1991-03-08,23,Portugal,Boavista Porto FC,Liga NOS,2014/2015,2014
+Mamadou Ba,Goalkeeper,1985-05-08,29,Senegal,Boavista Porto FC,Liga NOS,2014/2015,2014
+Daniel Monllor,Goalkeeper,1984-07-20,29,Argentina,Boavista Porto FC,Liga NOS,2014/2015,2014
+Fábio Ervões,Centre-Back,1987-02-26,27,Portugal,Boavista Porto FC,Liga NOS,2014/2015,2014
+Lucas Rocha,Centre-Back,1991-07-14,22,Brazil,Boavista Porto FC,Liga NOS,2014/2015,2014
+Luís Pimenta,Centre-Back,1996-11-01,17,Portugal,Boavista Porto FC,Liga NOS,2014/2015,2014
+Carlos Santos,Centre-Back,1989-03-31,25,Portugal,Boavista Porto FC,Liga NOS,2014/2015,2014
+Aaron Appindangoyé,Centre-Back,1992-02-20,22,Gabon,Boavista Porto FC,Liga NOS,2014/2015,2014
+Philipe Sampaio,Centre-Back,1994-11-11,19,Brazil,Boavista Porto FC,Liga NOS,2014/2015,2014
+Marek Cech,Left-Back,1983-01-26,31,Slovakia,Boavista Porto FC,Liga NOS,2014/2015,2014
+Afonso Figueiredo,Left-Back,1993-01-06,21,Portugal,Boavista Porto FC,Liga NOS,2014/2015,2014
+Anderson Correia,Left-Back,1991-05-06,23,Brazil,Boavista Porto FC,Liga NOS,2014/2015,2014
+João Dias,Right-Back,1986-12-23,27,Portugal,Boavista Porto FC,Liga NOS,2014/2015,2014
+Pedro Costa,Right-Back,1981-11-21,32,Portugal,Boavista Porto FC,Liga NOS,2014/2015,2014
+Brayan Beckeles,Right-Back,1985-11-28,28,Honduras,Boavista Porto FC,Liga NOS,2014/2015,2014
+Ian Pereira,Right-Back,1996-11-05,17,Brazil,Boavista Porto FC,Liga NOS,2014/2015,2014
+Tengarrinha,Defensive Midfield,1989-02-17,25,Portugal,Boavista Porto FC,Liga NOS,2014/2015,2014
+Idris Mandiang,Defensive Midfield,1984-12-27,29,Senegal,Boavista Porto FC,Liga NOS,2014/2015,2014
+Miguel Cid,Defensive Midfield,1992-05-21,22,Portugal,Boavista Porto FC,Liga NOS,2014/2015,2014
+Diogo Gouveia,Defensive Midfield,1995-01-25,19,Portugal,Boavista Porto FC,Liga NOS,2014/2015,2014
+Reuben Gabriel,Central Midfield,1990-09-25,23,Nigeria,Boavista Porto FC,Liga NOS,2014/2015,2014
+Anderson Carvalho,Central Midfield,1990-05-20,24,Brazil,Boavista Porto FC,Liga NOS,2014/2015,2014
+Samu,Central Midfield,1996-04-21,18,Portugal,Boavista Porto FC,Liga NOS,2014/2015,2014
+Julián Montenegro,Left Midfield,1989-03-23,25,Argentina,Boavista Porto FC,Liga NOS,2014/2015,2014
+Diego Lima,Attacking Midfield,1988-09-30,25,Brazil,Boavista Porto FC,Liga NOS,2014/2015,2014
+Leozinho,Attacking Midfield,1988-06-07,26,Brazil,Boavista Porto FC,Liga NOS,2014/2015,2014
+Ancelmo Júnior,Attacking Midfield,1990-04-03,24,Brazil,Boavista Porto FC,Liga NOS,2014/2015,2014
+Quincy Owusu-Abeyie,Left Winger,1986-04-15,28,Ghana,Boavista Porto FC,Liga NOS,2014/2015,2014
+Shihao Wei,Left Winger,1995-04-08,19,China,Boavista Porto FC,Liga NOS,2014/2015,2014
+Brito,Right Winger,1987-11-16,26,Cape Verde,Boavista Porto FC,Liga NOS,2014/2015,2014
+Yoro Ly,Right Winger,1988-08-27,25,Senegal,Boavista Porto FC,Liga NOS,2014/2015,2014
+Zé Manuel,Right Winger,1990-10-23,23,Portugal,Boavista Porto FC,Liga NOS,2014/2015,2014
+Michael Uchebo,Centre-Forward,1990-09-27,23,Nigeria,Boavista Porto FC,Liga NOS,2014/2015,2014
+Christian Pouga,Centre-Forward,1986-06-19,28,Cameroon,Boavista Porto FC,Liga NOS,2014/2015,2014
+Fary,Centre-Forward,1974-12-24,39,Senegal,Boavista Porto FC,Liga NOS,2014/2015,2014
+Bobô,Centre-Forward,1982-03-20,32,Brazil,Boavista Porto FC,Liga NOS,2014/2015,2014
+Douglas Abner,Centre-Forward,1996-01-30,18,Brazil,Boavista Porto FC,Liga NOS,2014/2015,2014
+Onyekachi Silas,Centre-Forward,1996-06-10,18,Nigeria,Boavista Porto FC,Liga NOS,2014/2015,2014

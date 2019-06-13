@@ -1,488 +1,488 @@
-shirt_number,position,player_name,date_of_birth,age,nationality,club_name,league_name,season,year
-24,Goalkeeper,André Onana,1996-04-02,23,Cameroon,Ajax Amsterdam,Eredivisie,2018/2019,2018
-28,Goalkeeper,Bruno Varela,1994-11-04,24,Portugal,Ajax Amsterdam,Eredivisie,2018/2019,2018
-26,Goalkeeper,Konstantinos Lamprou,1991-09-18,27,Greece,Ajax Amsterdam,Eredivisie,2018/2019,2018
-4,Centre-Back,Matthijs de Ligt,1999-08-12,19,Netherlands,Ajax Amsterdam,Eredivisie,2018/2019,2018
-17,Centre-Back,Daley Blind,1990-03-09,29,Netherlands,Ajax Amsterdam,Eredivisie,2018/2019,2018
-16,Centre-Back,Lisandro Magallán,1993-09-27,25,Argentina,Ajax Amsterdam,Eredivisie,2018/2019,2018
-27,Centre-Back,Perr Schuurs,1999-11-26,19,Netherlands,Ajax Amsterdam,Eredivisie,2018/2019,2018
-31,Left-Back,Nicolás Tagliafico,1992-08-31,26,Argentina,Ajax Amsterdam,Eredivisie,2018/2019,2018
-8,Left-Back,Daley Sinkgraven,1995-07-04,23,Netherlands,Ajax Amsterdam,Eredivisie,2018/2019,2018
-12,Right-Back,Noussair Mazraoui,1997-11-14,21,Morocco,Ajax Amsterdam,Eredivisie,2018/2019,2018
-3,Right-Back,Joël Veltman,1992-01-15,27,Netherlands,Ajax Amsterdam,Eredivisie,2018/2019,2018
-2,Right-Back,Rasmus Kristensen,1997-07-11,21,Denmark,Ajax Amsterdam,Eredivisie,2018/2019,2018
-15,Defensive Midfield,Carel Eiting,1998-02-11,21,Netherlands,Ajax Amsterdam,Eredivisie,2018/2019,2018
-20,Defensive Midfield,Lasse Schöne,1986-05-27,33,Denmark,Ajax Amsterdam,Eredivisie,2018/2019,2018
-21,Central Midfield,Frenkie de Jong,1997-05-12,22,Netherlands,Ajax Amsterdam,Eredivisie,2018/2019,2018
-38,Central Midfield,Ryan Gravenberch,2002-05-16,17,Netherlands,Ajax Amsterdam,Eredivisie,2018/2019,2018
-30,Central Midfield,Dani de Wit,1998-01-28,21,Netherlands,Ajax Amsterdam,Eredivisie,2018/2019,2018
-40,Central Midfield,Jurgen Ekkelenkamp,2000-04-05,19,Netherlands,Ajax Amsterdam,Eredivisie,2018/2019,2018
-6,Attacking Midfield,Donny van de Beek,1997-04-18,22,Netherlands,Ajax Amsterdam,Eredivisie,2018/2019,2018
-19,Attacking Midfield,Zakaria Labyad,1993-03-09,26,Morocco,Ajax Amsterdam,Eredivisie,2018/2019,2018
-37,Attacking Midfield,Noa Lang,1999-06-17,19,Netherlands,Ajax Amsterdam,Eredivisie,2018/2019,2018
-10,Left Winger,Dusan Tadic,1988-11-20,30,Serbia,Ajax Amsterdam,Eredivisie,2018/2019,2018
-18,Left Winger,Hassane Bandé,1998-10-30,20,Burkina Faso,Ajax Amsterdam,Eredivisie,2018/2019,2018
-22,Right Winger,Hakim Ziyech,1993-03-19,26,Morocco,Ajax Amsterdam,Eredivisie,2018/2019,2018
-7,Right Winger,David Neres,1997-03-03,22,Brazil,Ajax Amsterdam,Eredivisie,2018/2019,2018
-32,Right Winger,Vaclav Cerny,1997-10-17,21,Czech Republic,Ajax Amsterdam,Eredivisie,2018/2019,2018
-25,Centre-Forward,Kasper Dolberg,1997-10-06,21,Denmark,Ajax Amsterdam,Eredivisie,2018/2019,2018
-9,Centre-Forward,Klaas-Jan Huntelaar,1983-08-12,35,Netherlands,Ajax Amsterdam,Eredivisie,2018/2019,2018
-1,Goalkeeper,Jeroen Zoet,1991-01-06,28,Netherlands,PSV Eindhoven,Eredivisie,2018/2019,2018
-13,Goalkeeper,Eloy Room,1989-02-06,30,Curacao,PSV Eindhoven,Eredivisie,2018/2019,2018
-31,Goalkeeper,Yanick van Osch,1997-03-24,22,Netherlands,PSV Eindhoven,Eredivisie,2018/2019,2018
-4,Centre-Back,Nick Viergever,1989-08-03,29,Netherlands,PSV Eindhoven,Eredivisie,2018/2019,2018
-5,Centre-Back,Daniel Schwaab,1988-08-23,30,Germany,PSV Eindhoven,Eredivisie,2018/2019,2018
-20,Centre-Back,Trent Sainsbury,1992-01-05,27,Australia,PSV Eindhoven,Eredivisie,2018/2019,2018
-15,Centre-Back,Armando Obispo,1999-03-05,20,Netherlands,PSV Eindhoven,Eredivisie,2018/2019,2018
-6,Left-Back,Angeliño,1997-01-04,22,Spain,PSV Eindhoven,Eredivisie,2018/2019,2018
-3,Left-Back,Aziz Behich,1990-12-16,28,Australia,PSV Eindhoven,Eredivisie,2018/2019,2018
-22,Right-Back,Denzel Dumfries,1996-04-18,23,Netherlands,PSV Eindhoven,Eredivisie,2018/2019,2018
-33,Right-Back,Jordan Teze,1999-09-30,19,Netherlands,PSV Eindhoven,Eredivisie,2018/2019,2018
-8,Defensive Midfield,Jorrit Hendrix,1995-02-06,24,Netherlands,PSV Eindhoven,Eredivisie,2018/2019,2018
-18,Central Midfield,Pablo Rosario,1997-01-07,22,Netherlands,PSV Eindhoven,Eredivisie,2018/2019,2018
-25,Central Midfield,Érick Gutiérrez,1995-06-15,23,Mexico,PSV Eindhoven,Eredivisie,2018/2019,2018
-30,Central Midfield,Ryan Thomas,1994-12-20,24,New Zealand,PSV Eindhoven,Eredivisie,2018/2019,2018
-16,Central Midfield,Dante Rigo,1998-12-11,20,Belgium,PSV Eindhoven,Eredivisie,2018/2019,2018
-32,Central Midfield,Michal Sadilek,1999-05-31,20,Czech Republic,PSV Eindhoven,Eredivisie,2018/2019,2018
-7,Attacking Midfield,Gastón Pereiro,1995-06-11,24,Uruguay,PSV Eindhoven,Eredivisie,2018/2019,2018
-52,Attacking Midfield,Mohammed Ihattaren,2002-02-12,17,Netherlands,PSV Eindhoven,Eredivisie,2018/2019,2018
-23,Attacking Midfield,Bart Ramselaar,1996-06-29,22,Netherlands,PSV Eindhoven,Eredivisie,2018/2019,2018
-47,Attacking Midfield,Mauro Júnior,1999-05-06,20,Brazil,PSV Eindhoven,Eredivisie,2018/2019,2018
-11,Left Winger,Hirving Lozano,1995-07-30,23,Mexico,PSV Eindhoven,Eredivisie,2018/2019,2018
-17,Left Winger,Steven Bergwijn,1997-10-08,21,Netherlands,PSV Eindhoven,Eredivisie,2018/2019,2018
-14,Left Winger,Donyell Malen,1999-01-19,20,Netherlands,PSV Eindhoven,Eredivisie,2018/2019,2018
-19,Left Winger,Cody Gakpo,1999-05-07,20,Netherlands,PSV Eindhoven,Eredivisie,2018/2019,2018
-29,Left Winger,Matthias Verreth,1998-02-20,21,Belgium,PSV Eindhoven,Eredivisie,2018/2019,2018
-9,Centre-Forward,Luuk de Jong,1990-08-27,28,Netherlands,PSV Eindhoven,Eredivisie,2018/2019,2018
-10,Centre-Forward,Maximiliano Romero,1999-01-09,20,Argentina,PSV Eindhoven,Eredivisie,2018/2019,2018
-22,Goalkeeper,Justin Bijlow,1998-01-22,21,Netherlands,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
-1,Goalkeeper,Kenneth Vermeer,1986-01-10,33,Netherlands,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
-13,Goalkeeper,Joris Delle,1990-03-29,29,France,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
-30,Goalkeeper,Ramón ten Hove,1998-03-03,21,Netherlands,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
-4,Centre-Back,Jeremiah St. Juste,1996-10-19,22,Netherlands,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
-3,Centre-Back,Sven van Beek,1994-07-28,24,Netherlands,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
-6,Centre-Back,Jan-Arie van der Heijden,1988-03-03,31,Netherlands,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
-33,Centre-Back,Eric Botteghin,1987-08-31,31,Brazil,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
-38,Centre-Back,Lutsharel Geertruida,2000-07-18,18,Netherlands,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
-5,Left-Back,Ridgeciano Haps,1993-06-12,25,Netherlands,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
-15,Left-Back,Tyrell Malacia,1999-08-17,19,Netherlands,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
-29,Left-Back,Calvin Verdonk,1997-04-26,22,Netherlands,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
-24,Right-Back,Cuco Martina,1989-09-25,29,Curacao,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
-2,Right-Back,Bart Nieuwkoop,1996-03-07,23,Netherlands,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
-8,Defensive Midfield,Jordy Clasie,1991-06-27,27,Netherlands,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
-10,Central Midfield,Tonny Vilhena,1995-01-03,24,Netherlands,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
-18,Central Midfield,Yassin Ayoub,1994-03-06,25,Morocco,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
-23,Central Midfield,Orkun Kökcü,2000-12-29,18,Netherlands,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
-35,Central Midfield,Wouter Burger,2001-02-16,18,Netherlands,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
-26,Central Midfield,Jordy Wehrmann,1999-03-25,20,Netherlands,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
-28,Attacking Midfield,Jens Toornstra,1989-04-04,30,Netherlands,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
-11,Left Winger,Sam Larsson,1993-04-10,26,Sweden,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
-19,Right Winger,Steven Berghuis,1991-12-19,27,Netherlands,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
-17,Right Winger,Luis Sinisterra,1999-06-17,19,Colombia,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
-9,Centre-Forward,Nicolai Jörgensen,1991-01-15,28,Denmark,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
-32,Centre-Forward,Robin van Persie,1983-08-06,35,Netherlands,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
-34,Centre-Forward,Dylan Vente,1999-05-09,20,Netherlands,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
-1,Goalkeeper,Marco Bizot,1991-03-10,28,Netherlands,AZ Alkmaar,Eredivisie,2018/2019,2018
-25,Goalkeeper,Jasper Schendelaar,2000-09-02,18,Netherlands,AZ Alkmaar,Eredivisie,2018/2019,2018
-22,Goalkeeper,Piet Velthuizen,1986-11-03,32,Netherlands,AZ Alkmaar,Eredivisie,2018/2019,2018
-16,Goalkeeper,Rody de Boer,1997-08-22,21,Netherlands,AZ Alkmaar,Eredivisie,2018/2019,2018
-30,Centre-Back,Stijn Wuytens,1989-10-08,29,Belgium,AZ Alkmaar,Eredivisie,2018/2019,2018
-12,Centre-Back,Pantelis Hatzidiakos,1997-01-18,22,Greece,AZ Alkmaar,Eredivisie,2018/2019,2018
-4,Centre-Back,Ron Vlaar,1985-02-16,34,Netherlands,AZ Alkmaar,Eredivisie,2018/2019,2018
-3,Centre-Back,Henri Weigelt,1998-01-17,21,Germany,AZ Alkmaar,Eredivisie,2018/2019,2018
-23,Centre-Back,Leon Bergsma,1997-01-25,22,Netherlands,AZ Alkmaar,Eredivisie,2018/2019,2018
-5,Left-Back,Thomas Ouwejan,1996-09-30,22,Netherlands,AZ Alkmaar,Eredivisie,2018/2019,2018
-15,Left-Back,Owen Wijndal,1999-11-28,19,Netherlands,AZ Alkmaar,Eredivisie,2018/2019,2018
-2,Right-Back,Jonas Svensson,1993-03-06,26,Norway,AZ Alkmaar,Eredivisie,2018/2019,2018
-34,Right-Back,Ricardo van Rhijn,1991-06-13,27,Netherlands,AZ Alkmaar,Eredivisie,2018/2019,2018
-8,Defensive Midfield,Teun Koopmeiners,1998-02-28,21,Netherlands,AZ Alkmaar,Eredivisie,2018/2019,2018
-6,Central Midfield,Fredrik Midtsjö,1993-08-11,25,Norway,AZ Alkmaar,Eredivisie,2018/2019,2018
-26,Central Midfield,Adam Maher,1993-07-20,25,Netherlands,AZ Alkmaar,Eredivisie,2018/2019,2018
-20,Central Midfield,Mats Seuntjens,1992-04-17,27,Netherlands,AZ Alkmaar,Eredivisie,2018/2019,2018
-24,Central Midfield,Tijjani Reijnders,1998-07-29,20,Netherlands,AZ Alkmaar,Eredivisie,2018/2019,2018
-29,Central Midfield,Mees Hoedemakers,1998-02-18,21,Netherlands,AZ Alkmaar,Eredivisie,2018/2019,2018
-10,Attacking Midfield,Guus Til,1997-12-22,21,Netherlands,AZ Alkmaar,Eredivisie,2018/2019,2018
-17,Attacking Midfield,Jeremy Helmer,1997-07-03,21,Netherlands,AZ Alkmaar,Eredivisie,2018/2019,2018
-44,Attacking Midfield,Kenzo Goudmijn,2001-12-18,17,Netherlands,AZ Alkmaar,Eredivisie,2018/2019,2018
-11,Left Winger,Oussama Idrissi,1996-02-26,23,Morocco,AZ Alkmaar,Eredivisie,2018/2019,2018
-7,Right Winger,Calvin Stengs,1998-12-18,20,Netherlands,AZ Alkmaar,Eredivisie,2018/2019,2018
-28,Right Winger,Albert Gudmundsson,1997-06-15,21,Iceland,AZ Alkmaar,Eredivisie,2018/2019,2018
-9,Centre-Forward,Björn Johnsen,1991-11-06,27,Norway,AZ Alkmaar,Eredivisie,2018/2019,2018
-21,Centre-Forward,Myron Boadu,2001-01-14,18,Netherlands,AZ Alkmaar,Eredivisie,2018/2019,2018
-27,Centre-Forward,Ondrej Mihalik,1997-04-02,22,Czech Republic,AZ Alkmaar,Eredivisie,2018/2019,2018
-1,Goalkeeper,David Jensen,1992-03-25,27,Denmark,FC Utrecht,Eredivisie,2018/2019,2018
-16,Goalkeeper,Nick Marsman,1990-10-01,28,Netherlands,FC Utrecht,Eredivisie,2018/2019,2018
-50,Goalkeeper,Thijmen Nijhuis,1998-07-25,20,Netherlands,FC Utrecht,Eredivisie,2018/2019,2018
-41,Goalkeeper,Maarten Paes,1998-05-14,21,Netherlands,FC Utrecht,Eredivisie,2018/2019,2018
-15,Centre-Back,Timo Letschert,1993-05-25,26,Netherlands,FC Utrecht,Eredivisie,2018/2019,2018
-14,Centre-Back,Willem Janssen,1986-07-04,32,Netherlands,FC Utrecht,Eredivisie,2018/2019,2018
-13,Centre-Back,Emil Bergström,1993-05-19,26,Sweden,FC Utrecht,Eredivisie,2018/2019,2018
-24,Left-Back,Nicolas Gavory,1995-02-16,24,France,FC Utrecht,Eredivisie,2018/2019,2018
-5,Left-Back,Leon Guwara,1996-06-28,22,Germany,FC Utrecht,Eredivisie,2018/2019,2018
-17,Right-Back,Sean Klaiber,1994-07-31,24,Netherlands,FC Utrecht,Eredivisie,2018/2019,2018
-2,Right-Back,Mark van der Maarel,1989-08-12,29,Netherlands,FC Utrecht,Eredivisie,2018/2019,2018
-6,Defensive Midfield,Rico Strieder,1992-07-06,26,Germany,FC Utrecht,Eredivisie,2018/2019,2018
-23,Central Midfield,Riechedly Bazoer,1996-10-12,22,Netherlands,FC Utrecht,Eredivisie,2018/2019,2018
-8,Central Midfield,Joris van Overeem,1994-06-01,25,Netherlands,FC Utrecht,Eredivisie,2018/2019,2018
-28,Central Midfield,Urby Emanuelson,1986-06-16,32,Netherlands,FC Utrecht,Eredivisie,2018/2019,2018
-27,Central Midfield,Lukas Görtler,1994-06-15,24,Germany,FC Utrecht,Eredivisie,2018/2019,2018
-22,Attacking Midfield,Sander van de Streek,1993-03-24,26,Netherlands,FC Utrecht,Eredivisie,2018/2019,2018
-10,Attacking Midfield,Simon Gustafson,1995-01-11,24,Sweden,FC Utrecht,Eredivisie,2018/2019,2018
-26,Attacking Midfield,Othman Boussaid,2000-03-07,19,Belgium,FC Utrecht,Eredivisie,2018/2019,2018
-21,Right Winger,Oussama Tannane,1994-03-23,25,Morocco,FC Utrecht,Eredivisie,2018/2019,2018
-7,Centre-Forward,Gyrano Kerk,1995-12-02,23,Netherlands,FC Utrecht,Eredivisie,2018/2019,2018
-29,Centre-Forward,Nick Venema,1999-04-09,20,Netherlands,FC Utrecht,Eredivisie,2018/2019,2018
-11,Centre-Forward,Cyriel Dessers,1994-12-08,24,Belgium,FC Utrecht,Eredivisie,2018/2019,2018
-19,Centre-Forward,Jean-Christophe Bahebeck,1993-05-01,26,France,FC Utrecht,Eredivisie,2018/2019,2018
-30,Centre-Forward,Michiel Kramer,1988-12-03,30,Netherlands,FC Utrecht,Eredivisie,2018/2019,2018
-9,Centre-Forward,Simon Makienok,1990-11-21,28,Denmark,FC Utrecht,Eredivisie,2018/2019,2018
-1,Goalkeeper,Eduardo,1982-09-19,36,Portugal,Vitesse Arnhem,Eredivisie,2018/2019,2018
-24,Goalkeeper,Jeroen Houwen,1996-02-18,23,Netherlands,Vitesse Arnhem,Eredivisie,2018/2019,2018
-22,Goalkeeper,Remko Pasveer,1983-11-08,35,Netherlands,Vitesse Arnhem,Eredivisie,2018/2019,2018
-40,Goalkeeper,Bilal Bayazit,1999-04-08,20,Netherlands,Vitesse Arnhem,Eredivisie,2018/2019,2018
-14,Centre-Back,Jake Clarke-Salter,1997-09-22,21,England,Vitesse Arnhem,Eredivisie,2018/2019,2018
-26,Centre-Back,Rasmus Thelander,1991-07-09,27,Denmark,Vitesse Arnhem,Eredivisie,2018/2019,2018
-3,Centre-Back,Maikel van der Werff,1989-04-22,30,Netherlands,Vitesse Arnhem,Eredivisie,2018/2019,2018
-30,Centre-Back,Danilho Doekhi,1998-06-30,20,Netherlands,Vitesse Arnhem,Eredivisie,2018/2019,2018
-6,Centre-Back,Arnold Kruiswijk,1984-11-02,34,Netherlands,Vitesse Arnhem,Eredivisie,2018/2019,2018
-28,Left-Back,Alexander Büttner,1989-02-11,30,Netherlands,Vitesse Arnhem,Eredivisie,2018/2019,2018
-5,Left-Back,Max Clark,1996-01-19,23,England,Vitesse Arnhem,Eredivisie,2018/2019,2018
-8,Right-Back,Vyacheslav Karavaev,1995-05-20,24,Russia,Vitesse Arnhem,Eredivisie,2018/2019,2018
-17,Defensive Midfield,Thulani Serero,1990-04-11,29,South Africa,Vitesse Arnhem,Eredivisie,2018/2019,2018
-23,Defensive Midfield,Mukhtar Ali,1997-10-30,21,Saudi Arabia,Vitesse Arnhem,Eredivisie,2018/2019,2018
-35,Central Midfield,Jesse Schuurman,1998-03-11,21,Netherlands,Vitesse Arnhem,Eredivisie,2018/2019,2018
-20,Attacking Midfield,Charly Musonda Jr.,1996-10-15,22,Belgium,Vitesse Arnhem,Eredivisie,2018/2019,2018
-21,Attacking Midfield,Matus Bero,1995-09-06,23,Slovakia,Vitesse Arnhem,Eredivisie,2018/2019,2018
-25,Attacking Midfield,Navarone Foor,1992-02-04,27,Netherlands,Vitesse Arnhem,Eredivisie,2018/2019,2018
-11,Left Winger,Bryan Linssen,1990-10-08,28,Netherlands,Vitesse Arnhem,Eredivisie,2018/2019,2018
-47,Left Winger,Lars ten Teije,1998-04-03,21,Netherlands,Vitesse Arnhem,Eredivisie,2018/2019,2018
-18,Right Winger,Martin Ödegaard,1998-12-17,20,Norway,Vitesse Arnhem,Eredivisie,2018/2019,2018
-7,Right Winger,Roy Beerens,1987-12-22,31,Netherlands,Vitesse Arnhem,Eredivisie,2018/2019,2018
-19,Right Winger,Hilary Gong,1998-10-10,20,Nigeria,Vitesse Arnhem,Eredivisie,2018/2019,2018
-10,Second Striker,Mohammed Dauda,1998-02-20,21,Ghana,Vitesse Arnhem,Eredivisie,2018/2019,2018
-9,Centre-Forward,Tim Matavz,1989-01-13,30,Slovenia,Vitesse Arnhem,Eredivisie,2018/2019,2018
-13,Centre-Forward,Oussama Darfalou,1993-09-29,25,Algeria,Vitesse Arnhem,Eredivisie,2018/2019,2018
-29,Centre-Forward,Thomas Buitink,2000-06-14,18,Netherlands,Vitesse Arnhem,Eredivisie,2018/2019,2018
-39,Centre-Forward,Richonell Margaret,2000-09-07,18,Netherlands,Vitesse Arnhem,Eredivisie,2018/2019,2018
-1,Goalkeeper,Warner Hahn,1992-06-15,26,Netherlands,SC Heerenveen,Eredivisie,2018/2019,2018
-23,Goalkeeper,Filip Bednarek,1992-09-26,26,Poland,SC Heerenveen,Eredivisie,2018/2019,2018
-24,Goalkeeper,Trevor Doornbusch,1999-07-06,19,Netherlands,SC Heerenveen,Eredivisie,2018/2019,2018
-31,Goalkeeper,Jan Bekkema,1996-04-09,23,Netherlands,SC Heerenveen,Eredivisie,2018/2019,2018
-5,Centre-Back,Kik Pierie,2000-07-20,18,Netherlands,SC Heerenveen,Eredivisie,2018/2019,2018
-3,Centre-Back,Daniel Höegh,1991-01-06,28,Denmark,SC Heerenveen,Eredivisie,2018/2019,2018
-14,Centre-Back,Ibrahim Dresevic,1997-01-24,22,Kosovo,SC Heerenveen,Eredivisie,2018/2019,2018
-4,Centre-Back,Andreas Skovgaard,1997-03-27,22,Denmark,SC Heerenveen,Eredivisie,2018/2019,2018
-16,Left-Back,Lucas Woudenberg,1994-04-25,25,Netherlands,SC Heerenveen,Eredivisie,2018/2019,2018
-2,Right-Back,Sherel Floranus,1998-08-23,20,Netherlands,SC Heerenveen,Eredivisie,2018/2019,2018
-12,Right-Back,Doke Schmidt,1992-04-07,27,Netherlands,SC Heerenveen,Eredivisie,2018/2019,2018
-6,Defensive Midfield,Stijn Schaars,1984-01-11,35,Netherlands,SC Heerenveen,Eredivisie,2018/2019,2018
-8,Central Midfield,Morten Thorsby,1996-05-05,23,Norway,SC Heerenveen,Eredivisie,2018/2019,2018
-10,Central Midfield,Ben Rienstra,1990-06-05,29,Netherlands,SC Heerenveen,Eredivisie,2018/2019,2018
-21,Central Midfield,Yuki Kobayashi,1992-04-24,27,Japan,SC Heerenveen,Eredivisie,2018/2019,2018
-15,Central Midfield,Rodney Kongolo,1998-01-09,21,Netherlands,SC Heerenveen,Eredivisie,2018/2019,2018
-18,Attacking Midfield,Michel Vlap,1997-06-02,22,Netherlands,SC Heerenveen,Eredivisie,2018/2019,2018
-19,Attacking Midfield,Pelle van Amersfoort,1996-04-01,23,Netherlands,SC Heerenveen,Eredivisie,2018/2019,2018
-22,Attacking Midfield,Emil Frederiksen,2000-09-05,18,Denmark,SC Heerenveen,Eredivisie,2018/2019,2018
-7,Left Winger,Nemanja Mihajlovic,1996-01-19,23,Serbia,SC Heerenveen,Eredivisie,2018/2019,2018
-17,Left Winger,Dennis Johnsen,1998-02-17,21,Norway,SC Heerenveen,Eredivisie,2018/2019,2018
-11,Right Winger,Mitchell van Bergen,1999-08-27,19,Netherlands,SC Heerenveen,Eredivisie,2018/2019,2018
-9,Centre-Forward,Sam Lammers,1997-04-30,22,Netherlands,SC Heerenveen,Eredivisie,2018/2019,2018
-35,Centre-Forward,Jizz Hornkamp,1998-03-07,21,Netherlands,SC Heerenveen,Eredivisie,2018/2019,2018
-1,Goalkeeper,Sergio Padt,1990-06-06,29,Netherlands,FC Groningen,Eredivisie,2018/2019,2018
-16,Goalkeeper,Kevin Begois,1982-05-13,37,Belgium,FC Groningen,Eredivisie,2018/2019,2018
-31,Goalkeeper,Jan Hoekstra,1998-08-04,20,Netherlands,FC Groningen,Eredivisie,2018/2019,2018
-24,Centre-Back,Julian Chabot,1998-02-12,21,Germany,FC Groningen,Eredivisie,2018/2019,2018
-5,Centre-Back,Samir Memisevic,1993-08-13,25,Bosnia-Herzegovina,FC Groningen,Eredivisie,2018/2019,2018
-4,Centre-Back,Mike te Wierik,1992-06-08,27,Netherlands,FC Groningen,Eredivisie,2018/2019,2018
-17,Centre-Back,Ko Itakura,1997-01-27,22,Japan,FC Groningen,Eredivisie,2018/2019,2018
-12,Centre-Back,Lars Kramer,1999-07-11,19,Netherlands,FC Groningen,Eredivisie,2018/2019,2018
-29,Left-Back,Tim Handwerker,1998-05-19,21,Germany,FC Groningen,Eredivisie,2018/2019,2018
-20,Left-Back,Amir Absalem,1997-06-19,21,Netherlands,FC Groningen,Eredivisie,2018/2019,2018
-42,Right-Back,Deyovaisio Zeefuik,1998-03-11,21,Netherlands,FC Groningen,Eredivisie,2018/2019,2018
-6,Central Midfield,Ludovit Reis,2000-06-01,19,Netherlands,FC Groningen,Eredivisie,2018/2019,2018
-36,Central Midfield,Tom van de Looi,1999-07-02,19,Netherlands,FC Groningen,Eredivisie,2018/2019,2018
-21,Left Midfield,Django Warmerdam,1995-09-02,23,Netherlands,FC Groningen,Eredivisie,2018/2019,2018
-15,Attacking Midfield,Thomas Bruns,1992-01-07,27,Netherlands,FC Groningen,Eredivisie,2018/2019,2018
-8,Attacking Midfield,Iliass Bel Hassani,1992-09-16,26,Netherlands,FC Groningen,Eredivisie,2018/2019,2018
-23,Attacking Midfield,Ajdin Hrustic,1996-07-05,22,Australia,FC Groningen,Eredivisie,2018/2019,2018
-58,Attacking Midfield,Daniël van Kaam,2000-06-23,18,Netherlands,FC Groningen,Eredivisie,2018/2019,2018
-10,Left Winger,Mimoun Mahi,1994-03-13,25,Morocco,FC Groningen,Eredivisie,2018/2019,2018
-14,Left Winger,Mo El Hankouri,1997-07-01,21,Morocco,FC Groningen,Eredivisie,2018/2019,2018
-22,Left Winger,Michael Breij,1997-01-15,22,Netherlands,FC Groningen,Eredivisie,2018/2019,2018
-7,Right Winger,Ritsu Doan,1998-06-16,20,Japan,FC Groningen,Eredivisie,2018/2019,2018
-9,Centre-Forward,Kaj Sierhuis,1998-04-27,21,Netherlands,FC Groningen,Eredivisie,2018/2019,2018
-11,Centre-Forward,Jannik Pohl,1996-04-06,23,Denmark,FC Groningen,Eredivisie,2018/2019,2018
-19,Centre-Forward,Paul Gladon,1992-03-18,27,Netherlands,FC Groningen,Eredivisie,2018/2019,2018
-16,Goalkeeper,Mickey van der Hart,1994-06-13,24,Netherlands,PEC Zwolle,Eredivisie,2018/2019,2018
-23,Goalkeeper,Dean Bouzanis,1990-10-02,28,Australia,PEC Zwolle,Eredivisie,2018/2019,2018
-1,Goalkeeper,Diederik Boer,1980-09-24,38,Netherlands,PEC Zwolle,Eredivisie,2018/2019,2018
-33,Centre-Back,Sepp van den Berg,2001-12-20,17,Netherlands,PEC Zwolle,Eredivisie,2018/2019,2018
-3,Centre-Back,Thomas Lam,1993-12-18,25,Finland,PEC Zwolle,Eredivisie,2018/2019,2018
-4,Centre-Back,Yuta Nakayama,1997-02-16,22,Japan,PEC Zwolle,Eredivisie,2018/2019,2018
-29,Centre-Back,Darryl Lachman,1989-11-11,29,Curacao,PEC Zwolle,Eredivisie,2018/2019,2018
-5,Left-Back,Kenneth Paal,1997-06-24,21,Netherlands,PEC Zwolle,Eredivisie,2018/2019,2018
-18,Left-Back,Dico Koppers,1992-01-31,27,Netherlands,PEC Zwolle,Eredivisie,2018/2019,2018
-20,Right-Back,Kingsley Ehizibue,1995-05-25,24,Netherlands,PEC Zwolle,Eredivisie,2018/2019,2018
-2,Right-Back,Bram van Polen,1985-10-11,33,Netherlands,PEC Zwolle,Eredivisie,2018/2019,2018
-19,Defensive Midfield,Rick Dekker,1995-03-15,24,Netherlands,PEC Zwolle,Eredivisie,2018/2019,2018
-34,Defensive Midfield,Ouasim Bouy,1993-06-11,26,Morocco,PEC Zwolle,Eredivisie,2018/2019,2018
-8,Central Midfield,Clint Leemans,1995-09-15,23,Netherlands,PEC Zwolle,Eredivisie,2018/2019,2018
-22,Central Midfield,Pelle Clement,1996-05-19,23,Netherlands,PEC Zwolle,Eredivisie,2018/2019,2018
-6,Central Midfield,Gustavo Hamer,1997-06-24,21,Netherlands,PEC Zwolle,Eredivisie,2018/2019,2018
-31,Central Midfield,Bas van Wijnen,1997-07-31,21,Netherlands,PEC Zwolle,Eredivisie,2018/2019,2018
-37,Central Midfield,Steff Kaptein,1999-08-27,19,Netherlands,PEC Zwolle,Eredivisie,2018/2019,2018
-21,Attacking Midfield,Younes Namli,1994-06-20,24,Denmark,PEC Zwolle,Eredivisie,2018/2019,2018
-14,Attacking Midfield,Zian Flemming,1998-08-01,20,Netherlands,PEC Zwolle,Eredivisie,2018/2019,2018
-17,Attacking Midfield,Denis Genreau,1999-05-21,20,Australia,PEC Zwolle,Eredivisie,2018/2019,2018
-7,Right Winger,Vito van Crooij,1996-01-29,23,Netherlands,PEC Zwolle,Eredivisie,2018/2019,2018
-25,Right Winger,Stanley Elbers,1992-05-14,27,Netherlands,PEC Zwolle,Eredivisie,2018/2019,2018
-9,Centre-Forward,Mike van Duinen,1991-11-06,27,Netherlands,PEC Zwolle,Eredivisie,2018/2019,2018
-10,Centre-Forward,Lennart Thy,1992-02-25,27,Germany,PEC Zwolle,Eredivisie,2018/2019,2018
-1,Goalkeeper,Janis Blaswich,1991-05-02,28,Germany,Heracles Almelo,Eredivisie,2018/2019,2018
-16,Goalkeeper,Michael Brouwer,1993-01-21,26,Netherlands,Heracles Almelo,Eredivisie,2018/2019,2018
-26,Goalkeeper,Koen Bucker,1996-06-18,22,Netherlands,Heracles Almelo,Eredivisie,2018/2019,2018
-4,Centre-Back,Robin Pröpper,1993-09-23,25,Netherlands,Heracles Almelo,Eredivisie,2018/2019,2018
-6,Centre-Back,Dario van den Buijs,1995-09-12,23,Belgium,Heracles Almelo,Eredivisie,2018/2019,2018
-23,Centre-Back,Maximilian Rossmann,1995-05-06,24,Germany,Heracles Almelo,Eredivisie,2018/2019,2018
-31,Centre-Back,Stephen Sama,1993-03-05,26,Germany,Heracles Almelo,Eredivisie,2018/2019,2018
-13,Centre-Back,Mats Knoester,1998-11-19,20,Netherlands,Heracles Almelo,Eredivisie,2018/2019,2018
-20,Centre-Back,Jelle van Benthem,1999-01-22,20,Netherlands,Heracles Almelo,Eredivisie,2018/2019,2018
-34,Left-Back,Jeff Hardeveld,1995-02-27,24,Netherlands,Heracles Almelo,Eredivisie,2018/2019,2018
-5,Left-Back,Bart van Hintum,1987-01-16,32,Netherlands,Heracles Almelo,Eredivisie,2018/2019,2018
-3,Left-Back,Lennart Czyborra,1999-05-03,20,Germany,Heracles Almelo,Eredivisie,2018/2019,2018
-2,Right-Back,Tim Breukers,1987-11-04,31,Netherlands,Heracles Almelo,Eredivisie,2018/2019,2018
-12,Right-Back,Wout Droste,1989-05-20,30,Netherlands,Heracles Almelo,Eredivisie,2018/2019,2018
-21,Defensive Midfield,Sebastian Jakubiak,1993-06-21,25,Germany,Heracles Almelo,Eredivisie,2018/2019,2018
-30,Defensive Midfield,Tim van de Berg,1997-11-23,21,Netherlands,Heracles Almelo,Eredivisie,2018/2019,2018
-14,Central Midfield,Mohammed Osman,1994-01-01,25,Syria,Heracles Almelo,Eredivisie,2018/2019,2018
-8,Central Midfield,Lerin Duarte,1990-08-11,28,Netherlands,Heracles Almelo,Eredivisie,2018/2019,2018
-52,Central Midfield,Alexander Merkel,1992-02-22,27,Kazakhstan,Heracles Almelo,Eredivisie,2018/2019,2018
-10,Central Midfield,Yoëll van Nieff,1993-06-17,25,Netherlands,Heracles Almelo,Eredivisie,2018/2019,2018
-18,Attacking Midfield,Jesper Drost,1993-01-11,26,Netherlands,Heracles Almelo,Eredivisie,2018/2019,2018
-27,Attacking Midfield,Niels Leemhuis,1997-09-28,21,Netherlands,Heracles Almelo,Eredivisie,2018/2019,2018
-7,Left Winger,Kristoffer Peterson,1994-11-28,24,Sweden,Heracles Almelo,Eredivisie,2018/2019,2018
-24,Left Winger,Dabney dos Santos,1996-07-31,22,Netherlands,Heracles Almelo,Eredivisie,2018/2019,2018
-22,Left Winger,Zeki Erkilinc,1998-01-22,21,Turkey,Heracles Almelo,Eredivisie,2018/2019,2018
-17,Right Winger,Brandley Kuwas,1992-09-19,26,Curacao,Heracles Almelo,Eredivisie,2018/2019,2018
-11,Right Winger,Silvester van der Water,1996-09-30,22,Netherlands,Heracles Almelo,Eredivisie,2018/2019,2018
-9,Centre-Forward,Adrián Dalmau,1994-03-23,25,Spain,Heracles Almelo,Eredivisie,2018/2019,2018
-25,Centre-Forward,Joey Konings,1998-04-21,21,Netherlands,Heracles Almelo,Eredivisie,2018/2019,2018
-1,Goalkeeper,Timon Wellenreuther,1995-12-03,23,Germany,Willem II Tilburg,Eredivisie,2018/2019,2018
-12,Goalkeeper,Michael Woud,1999-01-16,20,New Zealand,Willem II Tilburg,Eredivisie,2018/2019,2018
-4,Centre-Back,Jordens Peters,1987-05-03,32,Netherlands,Willem II Tilburg,Eredivisie,2018/2019,2018
-3,Centre-Back,Freek Heerkens,1989-09-13,29,Netherlands,Willem II Tilburg,Eredivisie,2018/2019,2018
-25,Centre-Back,Thomas Meißner,1991-03-26,28,Germany,Willem II Tilburg,Eredivisie,2018/2019,2018
-27,Centre-Back,Victor van den Bogert,1999-08-12,19,Netherlands,Willem II Tilburg,Eredivisie,2018/2019,2018
-49,Centre-Back,Dylan Ryan,2000-06-10,19,Australia,Willem II Tilburg,Eredivisie,2018/2019,2018
-5,Left-Back,Diego Palacios,1999-07-12,19,Ecuador,Willem II Tilburg,Eredivisie,2018/2019,2018
-24,Left-Back,James McGarry,1998-04-09,21,New Zealand,Willem II Tilburg,Eredivisie,2018/2019,2018
-2,Right-Back,Fernando Lewis,1993-01-31,26,Netherlands,Willem II Tilburg,Eredivisie,2018/2019,2018
-15,Right-Back,Damil Dankerlui,1996-08-24,22,Netherlands,Willem II Tilburg,Eredivisie,2018/2019,2018
-23,Defensive Midfield,Vurnon Anita,1989-04-04,30,Netherlands,Willem II Tilburg,Eredivisie,2018/2019,2018
-6,Defensive Midfield,Elmo Lieftink,1994-02-03,25,Netherlands,Willem II Tilburg,Eredivisie,2018/2019,2018
-26,Central Midfield,Renato Tapia,1995-07-28,23,Peru,Willem II Tilburg,Eredivisie,2018/2019,2018
-8,Central Midfield,Pol Llonch,1992-10-07,26,Spain,Willem II Tilburg,Eredivisie,2018/2019,2018
-17,Central Midfield,Dries Saddiki,1996-08-09,22,Netherlands,Willem II Tilburg,Eredivisie,2018/2019,2018
-22,Central Midfield,Atakan Akkaynak,1999-01-05,20,Germany,Willem II Tilburg,Eredivisie,2018/2019,2018
-14,Attacking Midfield,Dan Crowley,1997-08-03,21,England,Willem II Tilburg,Eredivisie,2018/2019,2018
-21,Left Winger,Kristófer Kristinsson,1999-04-07,20,Iceland,Willem II Tilburg,Eredivisie,2018/2019,2018
-20,Left Winger,Karim Coulibaly,1993-06-03,26,France,Willem II Tilburg,Eredivisie,2018/2019,2018
-16,Right Winger,Marios Vrousai,1998-07-02,20,Greece,Willem II Tilburg,Eredivisie,2018/2019,2018
-9,Centre-Forward,Alexander Isak,1999-09-21,19,Sweden,Willem II Tilburg,Eredivisie,2018/2019,2018
-10,Centre-Forward,Vangelis Pavlidis,1998-11-21,20,Greece,Willem II Tilburg,Eredivisie,2018/2019,2018
-1,Goalkeeper,Indy Groothuizen,1996-07-22,22,Netherlands,ADO Den Haag,Eredivisie,2018/2019,2018
-22,Goalkeeper,Robert Zwinkels,1983-05-04,36,Netherlands,ADO Den Haag,Eredivisie,2018/2019,2018
-18,Goalkeeper,Mike Havekotte,1995-09-12,23,Netherlands,ADO Den Haag,Eredivisie,2018/2019,2018
-5,Centre-Back,Wilfried Kanon,1993-07-06,25,Cote d'Ivoire,ADO Den Haag,Eredivisie,2018/2019,2018
-4,Centre-Back,Tom Beugelsdijk,1990-08-07,28,Netherlands,ADO Den Haag,Eredivisie,2018/2019,2018
-19,Centre-Back,Shaquille Pinas,1998-03-19,21,Netherlands,ADO Den Haag,Eredivisie,2018/2019,2018
-8,Left-Back,Aaron Meijers,1987-10-28,31,Netherlands,ADO Den Haag,Eredivisie,2018/2019,2018
-3,Right-Back,Giovanni Troupée,1998-03-20,21,Netherlands,ADO Den Haag,Eredivisie,2018/2019,2018
-27,Right-Back,Trevor David,1997-01-28,22,Netherlands,ADO Den Haag,Eredivisie,2018/2019,2018
-25,Right-Back,Robin Polley,1998-12-28,20,Netherlands,ADO Den Haag,Eredivisie,2018/2019,2018
-2,Defensive Midfield,Dion Malone,1989-02-13,30,Netherlands,ADO Den Haag,Eredivisie,2018/2019,2018
-17,Central Midfield,Danny Bakker,1995-01-16,24,Netherlands,ADO Den Haag,Eredivisie,2018/2019,2018
-6,Central Midfield,Donny Gorter,1988-06-15,30,Netherlands,ADO Den Haag,Eredivisie,2018/2019,2018
-28,Left Midfield,Mats van Kins,1998-12-17,20,Netherlands,ADO Den Haag,Eredivisie,2018/2019,2018
-23,Attacking Midfield,Nasser El Khayati,1989-02-07,30,Netherlands,ADO Den Haag,Eredivisie,2018/2019,2018
-10,Attacking Midfield,Lex Immers,1986-06-08,33,Netherlands,ADO Den Haag,Eredivisie,2018/2019,2018
-30,Attacking Midfield,Erik Falkenburg,1988-05-05,31,Netherlands,ADO Den Haag,Eredivisie,2018/2019,2018
-11,Attacking Midfield,John Goossens,1988-07-25,30,Netherlands,ADO Den Haag,Eredivisie,2018/2019,2018
-35,Left Winger,Ricardo Kishna,1995-01-04,24,Netherlands,ADO Den Haag,Eredivisie,2018/2019,2018
-33,Left Winger,Melvyn Lorenzen,1994-11-26,24,Uganda,ADO Den Haag,Eredivisie,2018/2019,2018
-7,Right Winger,Sheraldo Becker,1995-02-09,24,Netherlands,ADO Den Haag,Eredivisie,2018/2019,2018
-77,Right Winger,Elson Hooi,1991-10-01,27,Curacao,ADO Den Haag,Eredivisie,2018/2019,2018
-26,Right Winger,Thijmen Goppel,1997-02-16,22,Netherlands,ADO Den Haag,Eredivisie,2018/2019,2018
-34,Right Winger,Yahya Boussakou,2000-03-04,19,Netherlands,ADO Den Haag,Eredivisie,2018/2019,2018
-9,Centre-Forward,Tomas Necid,1989-08-13,29,Czech Republic,ADO Den Haag,Eredivisie,2018/2019,2018
-77,Goalkeeper,Alexei Coselev,1993-11-19,25,Moldova,Fortuna Sittard,Eredivisie,2018/2019,2018
-28,Goalkeeper,Azbe Jug,1992-03-03,27,Slovenia,Fortuna Sittard,Eredivisie,2018/2019,2018
-1,Goalkeeper,Aykut Özer,1993-01-01,26,Turkey,Fortuna Sittard,Eredivisie,2018/2019,2018
-27,Goalkeeper,Rowen Koot,1999-07-20,19,Netherlands,Fortuna Sittard,Eredivisie,2018/2019,2018
-3,Centre-Back,Wessel Dammers,1995-03-01,24,Netherlands,Fortuna Sittard,Eredivisie,2018/2019,2018
-5,Centre-Back,Branislav Ninaj,1994-05-17,25,Slovakia,Fortuna Sittard,Eredivisie,2018/2019,2018
-4,Centre-Back,Kai Heerings,1990-01-12,29,Netherlands,Fortuna Sittard,Eredivisie,2018/2019,2018
-30,Centre-Back,Rubén Ramírez,1995-10-18,23,Venezuela,Fortuna Sittard,Eredivisie,2018/2019,2018
-15,Centre-Back,Calvin Mac-Intosch,1989-08-09,29,Netherlands,Fortuna Sittard,Eredivisie,2018/2019,2018
-23,Left-Back,Mica Pinto,1993-06-04,26,Portugal,Fortuna Sittard,Eredivisie,2018/2019,2018
-13,Left-Back,Marco Ospitalieri,1992-04-06,27,Belgium,Fortuna Sittard,Eredivisie,2018/2019,2018
-17,Right-Back,Alessandro Ciranni,1996-06-28,22,Belgium,Fortuna Sittard,Eredivisie,2018/2019,2018
-2,Right-Back,Clint Essers,1997-01-21,22,Netherlands,Fortuna Sittard,Eredivisie,2018/2019,2018
-31,Defensive Midfield,Anthony Syhre,1995-03-18,24,Germany,Fortuna Sittard,Eredivisie,2018/2019,2018
-99,Central Midfield,Andrija Balic,1997-08-11,21,Croatia,Fortuna Sittard,Eredivisie,2018/2019,2018
-34,Central Midfield,José Rodríguez,1994-12-16,24,Spain,Fortuna Sittard,Eredivisie,2018/2019,2018
-8,Central Midfield,Ahmed El Messaoudi,1995-08-03,23,Morocco,Fortuna Sittard,Eredivisie,2018/2019,2018
-6,Central Midfield,Jorrit Smeets,1995-03-25,24,Netherlands,Fortuna Sittard,Eredivisie,2018/2019,2018
-32,Central Midfield,George Mells,1997-05-23,22,Australia,Fortuna Sittard,Eredivisie,2018/2019,2018
-10,Attacking Midfield,Mark Diemers,1993-10-11,25,Netherlands,Fortuna Sittard,Eredivisie,2018/2019,2018
-25,Attacking Midfield,Lars Hutten,1990-03-18,29,Netherlands,Fortuna Sittard,Eredivisie,2018/2019,2018
-20,Attacking Midfield,Amadou Ciss,1999-09-07,19,Senegal,Fortuna Sittard,Eredivisie,2018/2019,2018
-97,Left Winger,Lazaros Lamprou,1997-12-19,21,Greece,Fortuna Sittard,Eredivisie,2018/2019,2018
-22,Left Winger,Gavin Vlijter,1997-02-12,22,Netherlands,Fortuna Sittard,Eredivisie,2018/2019,2018
-14,Right Winger,Lisandro Semedo,1996-03-12,23,Portugal,Fortuna Sittard,Eredivisie,2018/2019,2018
-11,Right Winger,Djibril Dianessy,1996-03-29,23,France,Fortuna Sittard,Eredivisie,2018/2019,2018
-21,Right Winger,Áron Dobos,2000-06-08,19,Hungary,Fortuna Sittard,Eredivisie,2018/2019,2018
-33,Right Winger,Agim Zeka,1998-09-06,20,Albania,Fortuna Sittard,Eredivisie,2018/2019,2018
-9,Centre-Forward,Andrija Novakovich,1996-09-21,22,United States,Fortuna Sittard,Eredivisie,2018/2019,2018
-19,Centre-Forward,Finn Stokkers,1996-04-18,23,Netherlands,Fortuna Sittard,Eredivisie,2018/2019,2018
-20,Goalkeeper,Sonny Stevens,1992-06-22,26,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
-1,Goalkeeper,Alessandro Damen,1990-05-17,29,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
-23,Goalkeeper,Maarten de Fockert,1995-02-20,24,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
-15,Centre-Back,Jurgen Mattheij,1993-04-01,26,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
-3,Centre-Back,Hervé Matthys,1996-01-19,23,Belgium,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
-4,Centre-Back,Thomas Oude Kotte,1996-03-20,23,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
-2,Centre-Back,Siebe Horemans,1998-06-02,21,Belgium,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
-5,Left-Back,Robin van der Meer,1995-02-21,24,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
-28,Left-Back,Lorenzo Burnet,1991-01-11,28,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
-22,Right-Back,Jeffry Fortes,1989-03-22,30,Cape Verde,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
-17,Right-Back,Desevio Payne,1995-11-30,23,United States,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
-6,Central Midfield,Jerdy Schouten,1997-01-12,22,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
-8,Central Midfield,Ryan Koolwijk,1985-08-08,33,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
-21,Central Midfield,Dogucan Haspolat,2000-02-11,19,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
-35,Central Midfield,Redouan El Hankouri,2001-02-03,18,Morocco,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
-14,Attacking Midfield,Ali Messaoud,1991-04-13,28,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
-7,Attacking Midfield,Anouar Hadouir,1982-09-14,36,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
-10,Left Winger,Luigi Bruins,1987-03-09,32,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
-24,Left Winger,Denis Mahmudov,1989-11-06,29,North Macedonia,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
-19,Left Winger,Mikael Anderson,1998-07-01,20,Iceland,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
-18,Right Winger,Marcus Edwards,1998-12-03,20,England,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
-NA,Right Winger,Jinty Caenepeel,1996-07-18,22,Belgium,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
-11,Centre-Forward,Dennis Eckert,1997-01-09,22,Germany,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
-9,Centre-Forward,Elías Már Ómarsson,1995-01-18,24,Iceland,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
-34,Centre-Forward,Mounir El Hamdaoui,1984-07-14,34,Morocco,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
-32,Centre-Forward,Carlito Fermina,2000-01-06,19,Curacao,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
-1,Goalkeeper,Benjamin van Leer,1992-04-09,27,Netherlands,NAC Breda,Eredivisie,2018/2019,2018
-16,Goalkeeper,Theo Zwarthoed,1982-11-19,36,Netherlands,NAC Breda,Eredivisie,2018/2019,2018
-26,Goalkeeper,Karol Niemczycki,1999-07-05,19,Poland,NAC Breda,Eredivisie,2018/2019,2018
-14,Centre-Back,Erik Palmer-Brown,1997-04-24,22,United States,NAC Breda,Eredivisie,2018/2019,2018
-25,Centre-Back,Dorian Dervite,1988-07-25,30,France,NAC Breda,Eredivisie,2018/2019,2018
-4,Centre-Back,Menno Koch,1994-07-02,24,Netherlands,NAC Breda,Eredivisie,2018/2019,2018
-24,Centre-Back,Daan Klomp,1998-08-10,20,Netherlands,NAC Breda,Eredivisie,2018/2019,2018
-21,Left-Back,Greg Leigh,1994-09-30,24,England,NAC Breda,Eredivisie,2018/2019,2018
-23,Left-Back,Alex Gersbach,1997-05-08,22,Australia,NAC Breda,Eredivisie,2018/2019,2018
-32,Left-Back,Jethro Mashart,2000-05-08,19,Netherlands,NAC Breda,Eredivisie,2018/2019,2018
-22,Right-Back,Khalid Karami,1989-12-29,29,Netherlands,NAC Breda,Eredivisie,2018/2019,2018
-46,Right-Back,Pele van Anholt,1991-04-23,28,Netherlands,NAC Breda,Eredivisie,2018/2019,2018
-2,Right-Back,Fabian Sporkslede,1993-08-03,25,Netherlands,NAC Breda,Eredivisie,2018/2019,2018
-6,Defensive Midfield,Arno Verschueren,1997-04-08,22,Belgium,NAC Breda,Eredivisie,2018/2019,2018
-27,Defensive Midfield,Anouar Kali,1991-06-03,28,Morocco,NAC Breda,Eredivisie,2018/2019,2018
-3,Defensive Midfield,Lucas Schoofs,1997-01-03,22,Belgium,NAC Breda,Eredivisie,2018/2019,2018
-18,Defensive Midfield,Grad Damen,1997-08-14,21,Netherlands,NAC Breda,Eredivisie,2018/2019,2018
-8,Central Midfield,Mounir El Allouchi,1994-09-27,24,Netherlands,NAC Breda,Eredivisie,2018/2019,2018
-28,Central Midfield,Gianluca Nijholt,1990-02-14,29,Netherlands,NAC Breda,Eredivisie,2018/2019,2018
-20,Central Midfield,Marwin Reuvers,1999-03-04,20,Netherlands,NAC Breda,Eredivisie,2018/2019,2018
-45,Central Midfield,Yassine Azzagari,2001-07-24,17,Netherlands,NAC Breda,Eredivisie,2018/2019,2018
-40,Attacking Midfield,Luka Ilic,1999-07-02,19,Serbia,NAC Breda,Eredivisie,2018/2019,2018
-10,Attacking Midfield,Paolo Fernandes,1998-08-09,20,Spain,NAC Breda,Eredivisie,2018/2019,2018
-12,Attacking Midfield,Ramon Pascal Lundqvist,1997-05-10,22,Sweden,NAC Breda,Eredivisie,2018/2019,2018
-19,Left Winger,Sullay Kaikai,1995-08-26,23,England,NAC Breda,Eredivisie,2018/2019,2018
-33,Left Winger,Gervane Kastaneer,1996-06-09,23,Curacao,NAC Breda,Eredivisie,2018/2019,2018
-17,Right Winger,Mikhail Rosheuvel,1990-08-10,28,Netherlands,NAC Breda,Eredivisie,2018/2019,2018
-7,Right Winger,Giovanni Korte,1993-08-01,25,Netherlands,NAC Breda,Eredivisie,2018/2019,2018
-9,Centre-Forward,Mitchell te Vrede,1991-08-07,27,Netherlands,NAC Breda,Eredivisie,2018/2019,2018
-11,Centre-Forward,Robert Mühren,1989-05-18,30,Netherlands,NAC Breda,Eredivisie,2018/2019,2018
-29,Centre-Forward,Sydney van Hooijdonk,2000-02-06,19,Netherlands,NAC Breda,Eredivisie,2018/2019,2018
-1,Goalkeeper,Lars Unnerstall,1990-07-20,28,Germany,VVV-Venlo,Eredivisie,2018/2019,2018
-16,Goalkeeper,Delano van Crooij,1991-06-05,28,Netherlands,VVV-Venlo,Eredivisie,2018/2019,2018
-22,Goalkeeper,Bram Verbong,1999-12-23,19,Netherlands,VVV-Venlo,Eredivisie,2018/2019,2018
-13,Centre-Back,Nils Röseler,1992-02-10,27,Germany,VVV-Venlo,Eredivisie,2018/2019,2018
-20,Centre-Back,Damian van Bruggen,1996-03-18,23,Netherlands,VVV-Venlo,Eredivisie,2018/2019,2018
-14,Centre-Back,Christian Kum,1985-09-13,33,Netherlands,VVV-Venlo,Eredivisie,2018/2019,2018
-3,Centre-Back,Jerold Promes,1984-03-09,35,Netherlands,VVV-Venlo,Eredivisie,2018/2019,2018
-15,Centre-Back,Josimar Lima,1989-08-02,29,Cape Verde,VVV-Venlo,Eredivisie,2018/2019,2018
-25,Centre-Back,Evren Korkmaz,1997-04-27,22,Turkey,VVV-Venlo,Eredivisie,2018/2019,2018
-30,Centre-Back,Stan van Dijck,2000-10-07,18,Netherlands,VVV-Venlo,Eredivisie,2018/2019,2018
-21,Left-Back,Axel Borgmann,1994-07-08,24,Germany,VVV-Venlo,Eredivisie,2018/2019,2018
-4,Left-Back,Roel Janssen,1990-06-16,28,Netherlands,VVV-Venlo,Eredivisie,2018/2019,2018
-2,Right-Back,Moreno Rutten,1993-04-28,26,Netherlands,VVV-Venlo,Eredivisie,2018/2019,2018
-17,Right-Back,Tristan Dekker,1998-03-27,21,Netherlands,VVV-Venlo,Eredivisie,2018/2019,2018
-31,Central Midfield,Tino-Sven Susic,1992-02-13,27,Bosnia-Herzegovina,VVV-Venlo,Eredivisie,2018/2019,2018
-6,Central Midfield,Danny Post,1989-04-07,30,Netherlands,VVV-Venlo,Eredivisie,2018/2019,2018
-8,Central Midfield,Peter van Ooijen,1992-02-16,27,Netherlands,VVV-Venlo,Eredivisie,2018/2019,2018
-29,Central Midfield,Evert Linthorst,2000-03-03,19,Netherlands,VVV-Venlo,Eredivisie,2018/2019,2018
-34,Central Midfield,Simon Janssen,2000-09-25,18,Netherlands,VVV-Venlo,Eredivisie,2018/2019,2018
-35,Central Midfield,Sem Steijn,2001-11-17,17,Netherlands,VVV-Venlo,Eredivisie,2018/2019,2018
-10,Attacking Midfield,Johnatan Opoku,1990-04-18,29,Netherlands,VVV-Venlo,Eredivisie,2018/2019,2018
-19,Left Winger,Patrick Joosten,1996-04-14,23,Netherlands,VVV-Venlo,Eredivisie,2018/2019,2018
-38,Right Winger,Yahcuroo Roemer,2001-07-22,17,Netherlands,VVV-Venlo,Eredivisie,2018/2019,2018
-11,Centre-Forward,Jay-Roy Grot,1998-03-13,21,Netherlands,VVV-Venlo,Eredivisie,2018/2019,2018
-26,Centre-Forward,Peniel Mlapa,1991-02-20,28,Togo,VVV-Venlo,Eredivisie,2018/2019,2018
-12,Goalkeeper,Kjell Scherpen,2000-01-23,19,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
-26,Goalkeeper,Dennis Telgenkamp,1987-05-09,32,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
-1,Goalkeeper,Peter van der Vlag,1977-12-05,41,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
-44,Centre-Back,Andrej Lukic,1994-04-02,25,Croatia,FC Emmen,Eredivisie,2018/2019,2018
-13,Centre-Back,Keziah Veendorp,1997-02-17,22,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
-33,Centre-Back,Nick Kuipers,1992-10-08,26,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
-4,Centre-Back,Nick Bakker,1992-07-21,26,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
-3,Centre-Back,Tim Siekman,1990-05-25,29,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
-19,Centre-Back,Stephen Warmolts,1994-04-10,25,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
-22,Left-Back,Caner Cavlan,1992-02-05,27,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
-29,Left-Back,Nico Neidhart,1994-09-27,24,Germany,FC Emmen,Eredivisie,2018/2019,2018
-5,Right-Back,Gersom Klok,1990-10-07,28,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
-2,Right-Back,Stef Gronsveld,1996-01-11,23,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
-24,Right-Back,Daniel Camara Bos,1999-05-24,20,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
-23,Defensive Midfield,Glenn Bijl,1995-07-13,23,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
-11,Central Midfield,Reuven Niemeijer,1995-03-27,24,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
-20,Central Midfield,Michael Chacón,1994-04-11,25,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
-8,Central Midfield,Hilal Ben Moussa,1992-05-22,27,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
-14,Central Midfield,Jason Bourdouxhe,1991-04-11,28,Belgium,FC Emmen,Eredivisie,2018/2019,2018
-30,Central Midfield,Henk Bos,1992-11-12,26,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
-32,Central Midfield,Robbert de Vos,1996-05-26,23,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
-18,Central Midfield,Emil Bijlsma,1998-09-06,20,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
-28,Central Midfield,Rob Deiman,1999-06-10,20,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
-15,Attacking Midfield,Michael de Leeuw,1986-10-07,32,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
-7,Attacking Midfield,Wouter Marinus,1995-02-18,24,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
-10,Attacking Midfield,Alexander Bannink,1990-02-20,29,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
-27,Attacking Midfield,Delano Grootenhuis,1997-05-31,22,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
-6,Left Winger,Anco Jansen,1989-03-09,30,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
-17,Right Winger,Luciano Slagveer,1993-10-05,25,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
-16,Right Winger,Kasper Oldenburger,1996-02-12,23,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
-NA,Centre-Forward,Zakaria El Azzouzi,1996-05-07,23,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
-99,Centre-Forward,Sven Braken,1993-06-12,25,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
-25,Centre-Forward,Jafar Arias,1995-06-16,23,Curacao,FC Emmen,Eredivisie,2018/2019,2018
-1,Goalkeeper,Hidde Jurjus,1994-02-09,25,Netherlands,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
-12,Goalkeeper,Nigel Bertrams,1993-01-08,26,Netherlands,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
-13,Goalkeeper,Jordy Rondeel,1994-08-04,24,Netherlands,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
-3,Centre-Back,Ted van de Pavert,1992-01-06,27,Netherlands,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
-23,Centre-Back,Sven Nieuwpoort,1993-04-13,26,Netherlands,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
-2,Centre-Back,Bart Straalman,1996-08-22,22,Netherlands,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
-4,Centre-Back,Lars Nieuwpoort,1994-10-29,24,Netherlands,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
-37,Centre-Back,Jurre Vreman,1998-02-20,21,Netherlands,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
-5,Left-Back,Jordy Tutuarima,1993-04-28,26,Netherlands,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
-44,Right-Back,Leeroy Owusu,1996-08-13,22,Netherlands,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
-24,Right-Back,Ruben Ligeon,1992-05-24,27,Netherlands,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
-21,Defensive Midfield,Azor Matusiwa,1998-04-28,21,Netherlands,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
-6,Defensive Midfield,Robert Klaasen,1993-09-06,25,Netherlands,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
-8,Defensive Midfield,Javier Vet,1993-09-09,25,Netherlands,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
-18,Central Midfield,Erik Bakker,1990-03-21,29,Netherlands,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
-28,Central Midfield,Frank Olijve,1989-03-07,30,Netherlands,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
-14,Central Midfield,Liban Abdulahi,1995-11-02,23,Netherlands,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
-36,Central Midfield,Koen Huntelaar,1998-07-08,20,Netherlands,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
-20,Attacking Midfield,Youssef El Jebli,1992-12-27,26,Netherlands,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
-10,Attacking Midfield,Stef Nijland,1988-08-10,30,Netherlands,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
-11,Left Winger,Daryl van Mieghem,1989-12-05,29,Netherlands,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
-25,Left Winger,Delano Burgzorg,1998-11-07,20,Netherlands,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
-7,Right Winger,Furdjel Narsingh,1988-03-13,31,Netherlands,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
-9,Centre-Forward,Nabil Bahoui,1991-02-05,28,Sweden,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
-22,Centre-Forward,Fabian Serrarens,1991-02-09,28,Netherlands,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
-35,Centre-Forward,Charlison Benschop,1989-08-21,29,Curacao,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
+player_name,position,date_of_birth,age,nationality,club_name,league_name,season,year
+André Onana,Goalkeeper,1996-04-02,23,Cameroon,Ajax Amsterdam,Eredivisie,2018/2019,2018
+Bruno Varela,Goalkeeper,1994-11-04,24,Portugal,Ajax Amsterdam,Eredivisie,2018/2019,2018
+Konstantinos Lamprou,Goalkeeper,1991-09-18,27,Greece,Ajax Amsterdam,Eredivisie,2018/2019,2018
+Matthijs de Ligt,Centre-Back,1999-08-12,19,Netherlands,Ajax Amsterdam,Eredivisie,2018/2019,2018
+Daley Blind,Centre-Back,1990-03-09,29,Netherlands,Ajax Amsterdam,Eredivisie,2018/2019,2018
+Lisandro Magallán,Centre-Back,1993-09-27,25,Argentina,Ajax Amsterdam,Eredivisie,2018/2019,2018
+Perr Schuurs,Centre-Back,1999-11-26,19,Netherlands,Ajax Amsterdam,Eredivisie,2018/2019,2018
+Nicolás Tagliafico,Left-Back,1992-08-31,26,Argentina,Ajax Amsterdam,Eredivisie,2018/2019,2018
+Daley Sinkgraven,Left-Back,1995-07-04,23,Netherlands,Ajax Amsterdam,Eredivisie,2018/2019,2018
+Noussair Mazraoui,Right-Back,1997-11-14,21,Morocco,Ajax Amsterdam,Eredivisie,2018/2019,2018
+Joël Veltman,Right-Back,1992-01-15,27,Netherlands,Ajax Amsterdam,Eredivisie,2018/2019,2018
+Rasmus Kristensen,Right-Back,1997-07-11,21,Denmark,Ajax Amsterdam,Eredivisie,2018/2019,2018
+Carel Eiting,Defensive Midfield,1998-02-11,21,Netherlands,Ajax Amsterdam,Eredivisie,2018/2019,2018
+Lasse Schöne,Defensive Midfield,1986-05-27,33,Denmark,Ajax Amsterdam,Eredivisie,2018/2019,2018
+Frenkie de Jong,Central Midfield,1997-05-12,22,Netherlands,Ajax Amsterdam,Eredivisie,2018/2019,2018
+Ryan Gravenberch,Central Midfield,2002-05-16,17,Netherlands,Ajax Amsterdam,Eredivisie,2018/2019,2018
+Jurgen Ekkelenkamp,Central Midfield,2000-04-05,19,Netherlands,Ajax Amsterdam,Eredivisie,2018/2019,2018
+Dani de Wit,Central Midfield,1998-01-28,21,Netherlands,Ajax Amsterdam,Eredivisie,2018/2019,2018
+Donny van de Beek,Attacking Midfield,1997-04-18,22,Netherlands,Ajax Amsterdam,Eredivisie,2018/2019,2018
+Zakaria Labyad,Attacking Midfield,1993-03-09,26,Morocco,Ajax Amsterdam,Eredivisie,2018/2019,2018
+Noa Lang,Attacking Midfield,1999-06-17,19,Netherlands,Ajax Amsterdam,Eredivisie,2018/2019,2018
+Dusan Tadic,Left Winger,1988-11-20,30,Serbia,Ajax Amsterdam,Eredivisie,2018/2019,2018
+Hassane Bandé,Left Winger,1998-10-30,20,Burkina Faso,Ajax Amsterdam,Eredivisie,2018/2019,2018
+David Neres,Right Winger,1997-03-03,22,Brazil,Ajax Amsterdam,Eredivisie,2018/2019,2018
+Hakim Ziyech,Right Winger,1993-03-19,26,Morocco,Ajax Amsterdam,Eredivisie,2018/2019,2018
+Vaclav Cerny,Right Winger,1997-10-17,21,Czech Republic,Ajax Amsterdam,Eredivisie,2018/2019,2018
+Kasper Dolberg,Centre-Forward,1997-10-06,21,Denmark,Ajax Amsterdam,Eredivisie,2018/2019,2018
+Klaas-Jan Huntelaar,Centre-Forward,1983-08-12,35,Netherlands,Ajax Amsterdam,Eredivisie,2018/2019,2018
+Jeroen Zoet,Goalkeeper,1991-01-06,28,Netherlands,PSV Eindhoven,Eredivisie,2018/2019,2018
+Eloy Room,Goalkeeper,1989-02-06,30,Curacao,PSV Eindhoven,Eredivisie,2018/2019,2018
+Yanick van Osch,Goalkeeper,1997-03-24,22,Netherlands,PSV Eindhoven,Eredivisie,2018/2019,2018
+Nick Viergever,Centre-Back,1989-08-03,29,Netherlands,PSV Eindhoven,Eredivisie,2018/2019,2018
+Daniel Schwaab,Centre-Back,1988-08-23,30,Germany,PSV Eindhoven,Eredivisie,2018/2019,2018
+Trent Sainsbury,Centre-Back,1992-01-05,27,Australia,PSV Eindhoven,Eredivisie,2018/2019,2018
+Armando Obispo,Centre-Back,1999-03-05,20,Netherlands,PSV Eindhoven,Eredivisie,2018/2019,2018
+Angeliño,Left-Back,1997-01-04,22,Spain,PSV Eindhoven,Eredivisie,2018/2019,2018
+Aziz Behich,Left-Back,1990-12-16,28,Australia,PSV Eindhoven,Eredivisie,2018/2019,2018
+Denzel Dumfries,Right-Back,1996-04-18,23,Netherlands,PSV Eindhoven,Eredivisie,2018/2019,2018
+Jordan Teze,Right-Back,1999-09-30,19,Netherlands,PSV Eindhoven,Eredivisie,2018/2019,2018
+Jorrit Hendrix,Defensive Midfield,1995-02-06,24,Netherlands,PSV Eindhoven,Eredivisie,2018/2019,2018
+Pablo Rosario,Central Midfield,1997-01-07,22,Netherlands,PSV Eindhoven,Eredivisie,2018/2019,2018
+Érick Gutiérrez,Central Midfield,1995-06-15,23,Mexico,PSV Eindhoven,Eredivisie,2018/2019,2018
+Michal Sadilek,Central Midfield,1999-05-31,20,Czech Republic,PSV Eindhoven,Eredivisie,2018/2019,2018
+Ryan Thomas,Central Midfield,1994-12-20,24,New Zealand,PSV Eindhoven,Eredivisie,2018/2019,2018
+Dante Rigo,Central Midfield,1998-12-11,20,Belgium,PSV Eindhoven,Eredivisie,2018/2019,2018
+Gastón Pereiro,Attacking Midfield,1995-06-11,24,Uruguay,PSV Eindhoven,Eredivisie,2018/2019,2018
+Mohammed Ihattaren,Attacking Midfield,2002-02-12,17,Netherlands,PSV Eindhoven,Eredivisie,2018/2019,2018
+Bart Ramselaar,Attacking Midfield,1996-06-29,22,Netherlands,PSV Eindhoven,Eredivisie,2018/2019,2018
+Mauro Júnior,Attacking Midfield,1999-05-06,20,Brazil,PSV Eindhoven,Eredivisie,2018/2019,2018
+Hirving Lozano,Left Winger,1995-07-30,23,Mexico,PSV Eindhoven,Eredivisie,2018/2019,2018
+Steven Bergwijn,Left Winger,1997-10-08,21,Netherlands,PSV Eindhoven,Eredivisie,2018/2019,2018
+Donyell Malen,Left Winger,1999-01-19,20,Netherlands,PSV Eindhoven,Eredivisie,2018/2019,2018
+Cody Gakpo,Left Winger,1999-05-07,20,Netherlands,PSV Eindhoven,Eredivisie,2018/2019,2018
+Matthias Verreth,Left Winger,1998-02-20,21,Belgium,PSV Eindhoven,Eredivisie,2018/2019,2018
+Luuk de Jong,Centre-Forward,1990-08-27,28,Netherlands,PSV Eindhoven,Eredivisie,2018/2019,2018
+Maximiliano Romero,Centre-Forward,1999-01-09,20,Argentina,PSV Eindhoven,Eredivisie,2018/2019,2018
+Justin Bijlow,Goalkeeper,1998-01-22,21,Netherlands,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
+Kenneth Vermeer,Goalkeeper,1986-01-10,33,Netherlands,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
+Joris Delle,Goalkeeper,1990-03-29,29,France,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
+Ramón ten Hove,Goalkeeper,1998-03-03,21,Netherlands,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
+Jeremiah St. Juste,Centre-Back,1996-10-19,22,Netherlands,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
+Sven van Beek,Centre-Back,1994-07-28,24,Netherlands,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
+Jan-Arie van der Heijden,Centre-Back,1988-03-03,31,Netherlands,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
+Eric Botteghin,Centre-Back,1987-08-31,31,Brazil,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
+Lutsharel Geertruida,Centre-Back,2000-07-18,18,Netherlands,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
+Ridgeciano Haps,Left-Back,1993-06-12,26,Netherlands,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
+Tyrell Malacia,Left-Back,1999-08-17,19,Netherlands,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
+Calvin Verdonk,Left-Back,1997-04-26,22,Netherlands,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
+Bart Nieuwkoop,Right-Back,1996-03-07,23,Netherlands,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
+Cuco Martina,Right-Back,1989-09-25,29,Curacao,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
+Jordy Clasie,Defensive Midfield,1991-06-27,27,Netherlands,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
+Tonny Vilhena,Central Midfield,1995-01-03,24,Netherlands,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
+Yassin Ayoub,Central Midfield,1994-03-06,25,Morocco,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
+Orkun Kökcü,Central Midfield,2000-12-29,18,Netherlands,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
+Wouter Burger,Central Midfield,2001-02-16,18,Netherlands,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
+Jordy Wehrmann,Central Midfield,1999-03-25,20,Netherlands,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
+Jens Toornstra,Attacking Midfield,1989-04-04,30,Netherlands,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
+Sam Larsson,Left Winger,1993-04-10,26,Sweden,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
+Steven Berghuis,Right Winger,1991-12-19,27,Netherlands,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
+Luis Sinisterra,Right Winger,1999-06-17,19,Colombia,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
+Nicolai Jörgensen,Centre-Forward,1991-01-15,28,Denmark,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
+Robin van Persie,Centre-Forward,1983-08-06,35,Netherlands,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
+Dylan Vente,Centre-Forward,1999-05-09,20,Netherlands,Feyenoord Rotterdam,Eredivisie,2018/2019,2018
+Marco Bizot,Goalkeeper,1991-03-10,28,Netherlands,AZ Alkmaar,Eredivisie,2018/2019,2018
+Jasper Schendelaar,Goalkeeper,2000-09-02,18,Netherlands,AZ Alkmaar,Eredivisie,2018/2019,2018
+Rody de Boer,Goalkeeper,1997-08-22,21,Netherlands,AZ Alkmaar,Eredivisie,2018/2019,2018
+Piet Velthuizen,Goalkeeper,1986-11-03,32,Netherlands,AZ Alkmaar,Eredivisie,2018/2019,2018
+Stijn Wuytens,Centre-Back,1989-10-08,29,Belgium,AZ Alkmaar,Eredivisie,2018/2019,2018
+Pantelis Hatzidiakos,Centre-Back,1997-01-18,22,Greece,AZ Alkmaar,Eredivisie,2018/2019,2018
+Ron Vlaar,Centre-Back,1985-02-16,34,Netherlands,AZ Alkmaar,Eredivisie,2018/2019,2018
+Henri Weigelt,Centre-Back,1998-01-17,21,Germany,AZ Alkmaar,Eredivisie,2018/2019,2018
+Leon Bergsma,Centre-Back,1997-01-25,22,Netherlands,AZ Alkmaar,Eredivisie,2018/2019,2018
+Thomas Ouwejan,Left-Back,1996-09-30,22,Netherlands,AZ Alkmaar,Eredivisie,2018/2019,2018
+Owen Wijndal,Left-Back,1999-11-28,19,Netherlands,AZ Alkmaar,Eredivisie,2018/2019,2018
+Jonas Svensson,Right-Back,1993-03-06,26,Norway,AZ Alkmaar,Eredivisie,2018/2019,2018
+Ricardo van Rhijn,Right-Back,1991-06-13,28,Netherlands,AZ Alkmaar,Eredivisie,2018/2019,2018
+Teun Koopmeiners,Defensive Midfield,1998-02-28,21,Netherlands,AZ Alkmaar,Eredivisie,2018/2019,2018
+Fredrik Midtsjö,Central Midfield,1993-08-11,25,Norway,AZ Alkmaar,Eredivisie,2018/2019,2018
+Adam Maher,Central Midfield,1993-07-20,25,Netherlands,AZ Alkmaar,Eredivisie,2018/2019,2018
+Mats Seuntjens,Central Midfield,1992-04-17,27,Netherlands,AZ Alkmaar,Eredivisie,2018/2019,2018
+Tijjani Reijnders,Central Midfield,1998-07-29,20,Netherlands,AZ Alkmaar,Eredivisie,2018/2019,2018
+Mees Hoedemakers,Central Midfield,1998-02-18,21,Netherlands,AZ Alkmaar,Eredivisie,2018/2019,2018
+Guus Til,Attacking Midfield,1997-12-22,21,Netherlands,AZ Alkmaar,Eredivisie,2018/2019,2018
+Jeremy Helmer,Attacking Midfield,1997-07-03,21,Netherlands,AZ Alkmaar,Eredivisie,2018/2019,2018
+Kenzo Goudmijn,Attacking Midfield,2001-12-18,17,Netherlands,AZ Alkmaar,Eredivisie,2018/2019,2018
+Oussama Idrissi,Left Winger,1996-02-26,23,Morocco,AZ Alkmaar,Eredivisie,2018/2019,2018
+Calvin Stengs,Right Winger,1998-12-18,20,Netherlands,AZ Alkmaar,Eredivisie,2018/2019,2018
+Albert Gudmundsson,Right Winger,1997-06-15,21,Iceland,AZ Alkmaar,Eredivisie,2018/2019,2018
+Björn Johnsen,Centre-Forward,1991-11-06,27,Norway,AZ Alkmaar,Eredivisie,2018/2019,2018
+Myron Boadu,Centre-Forward,2001-01-14,18,Netherlands,AZ Alkmaar,Eredivisie,2018/2019,2018
+Ondrej Mihalik,Centre-Forward,1997-04-02,22,Czech Republic,AZ Alkmaar,Eredivisie,2018/2019,2018
+Eduardo,Goalkeeper,1982-09-19,36,Portugal,Vitesse Arnhem,Eredivisie,2018/2019,2018
+Jeroen Houwen,Goalkeeper,1996-02-18,23,Netherlands,Vitesse Arnhem,Eredivisie,2018/2019,2018
+Remko Pasveer,Goalkeeper,1983-11-08,35,Netherlands,Vitesse Arnhem,Eredivisie,2018/2019,2018
+Bilal Bayazit,Goalkeeper,1999-04-08,20,Netherlands,Vitesse Arnhem,Eredivisie,2018/2019,2018
+Jake Clarke-Salter,Centre-Back,1997-09-22,21,England,Vitesse Arnhem,Eredivisie,2018/2019,2018
+Maikel van der Werff,Centre-Back,1989-04-22,30,Netherlands,Vitesse Arnhem,Eredivisie,2018/2019,2018
+Rasmus Thelander,Centre-Back,1991-07-09,27,Denmark,Vitesse Arnhem,Eredivisie,2018/2019,2018
+Danilho Doekhi,Centre-Back,1998-06-30,20,Netherlands,Vitesse Arnhem,Eredivisie,2018/2019,2018
+Arnold Kruiswijk,Centre-Back,1984-11-02,34,Netherlands,Vitesse Arnhem,Eredivisie,2018/2019,2018
+Alexander Büttner,Left-Back,1989-02-11,30,Netherlands,Vitesse Arnhem,Eredivisie,2018/2019,2018
+Max Clark,Left-Back,1996-01-19,23,England,Vitesse Arnhem,Eredivisie,2018/2019,2018
+Vyacheslav Karavaev,Right-Back,1995-05-20,24,Russia,Vitesse Arnhem,Eredivisie,2018/2019,2018
+Thulani Serero,Defensive Midfield,1990-04-11,29,South Africa,Vitesse Arnhem,Eredivisie,2018/2019,2018
+Mukhtar Ali,Defensive Midfield,1997-10-30,21,Saudi Arabia,Vitesse Arnhem,Eredivisie,2018/2019,2018
+Jesse Schuurman,Central Midfield,1998-03-11,21,Netherlands,Vitesse Arnhem,Eredivisie,2018/2019,2018
+Charly Musonda Jr.,Attacking Midfield,1996-10-15,22,Belgium,Vitesse Arnhem,Eredivisie,2018/2019,2018
+Matus Bero,Attacking Midfield,1995-09-06,23,Slovakia,Vitesse Arnhem,Eredivisie,2018/2019,2018
+Navarone Foor,Attacking Midfield,1992-02-04,27,Netherlands,Vitesse Arnhem,Eredivisie,2018/2019,2018
+Bryan Linssen,Left Winger,1990-10-08,28,Netherlands,Vitesse Arnhem,Eredivisie,2018/2019,2018
+Lars ten Teije,Left Winger,1998-04-03,21,Netherlands,Vitesse Arnhem,Eredivisie,2018/2019,2018
+Martin Ödegaard,Right Winger,1998-12-17,20,Norway,Vitesse Arnhem,Eredivisie,2018/2019,2018
+Roy Beerens,Right Winger,1987-12-22,31,Netherlands,Vitesse Arnhem,Eredivisie,2018/2019,2018
+Hilary Gong,Right Winger,1998-10-10,20,Nigeria,Vitesse Arnhem,Eredivisie,2018/2019,2018
+Mohammed Dauda,Second Striker,1998-02-20,21,Ghana,Vitesse Arnhem,Eredivisie,2018/2019,2018
+Thomas Buitink,Centre-Forward,2000-06-14,18,Netherlands,Vitesse Arnhem,Eredivisie,2018/2019,2018
+Tim Matavz,Centre-Forward,1989-01-13,30,Slovenia,Vitesse Arnhem,Eredivisie,2018/2019,2018
+Oussama Darfalou,Centre-Forward,1993-09-29,25,Algeria,Vitesse Arnhem,Eredivisie,2018/2019,2018
+Richonell Margaret,Centre-Forward,2000-09-07,18,Netherlands,Vitesse Arnhem,Eredivisie,2018/2019,2018
+David Jensen,Goalkeeper,1992-03-25,27,Denmark,FC Utrecht,Eredivisie,2018/2019,2018
+Nick Marsman,Goalkeeper,1990-10-01,28,Netherlands,FC Utrecht,Eredivisie,2018/2019,2018
+Thijmen Nijhuis,Goalkeeper,1998-07-25,20,Netherlands,FC Utrecht,Eredivisie,2018/2019,2018
+Maarten Paes,Goalkeeper,1998-05-14,21,Netherlands,FC Utrecht,Eredivisie,2018/2019,2018
+Timo Letschert,Centre-Back,1993-05-25,26,Netherlands,FC Utrecht,Eredivisie,2018/2019,2018
+Willem Janssen,Centre-Back,1986-07-04,32,Netherlands,FC Utrecht,Eredivisie,2018/2019,2018
+Emil Bergström,Centre-Back,1993-05-19,26,Sweden,FC Utrecht,Eredivisie,2018/2019,2018
+Nicolas Gavory,Left-Back,1995-02-16,24,France,FC Utrecht,Eredivisie,2018/2019,2018
+Leon Guwara,Left-Back,1996-06-28,22,Germany,FC Utrecht,Eredivisie,2018/2019,2018
+Sean Klaiber,Right-Back,1994-07-31,24,Netherlands,FC Utrecht,Eredivisie,2018/2019,2018
+Mark van der Maarel,Right-Back,1989-08-12,29,Netherlands,FC Utrecht,Eredivisie,2018/2019,2018
+Rico Strieder,Defensive Midfield,1992-07-06,26,Germany,FC Utrecht,Eredivisie,2018/2019,2018
+Riechedly Bazoer,Central Midfield,1996-10-12,22,Netherlands,FC Utrecht,Eredivisie,2018/2019,2018
+Joris van Overeem,Central Midfield,1994-06-01,25,Netherlands,FC Utrecht,Eredivisie,2018/2019,2018
+Urby Emanuelson,Central Midfield,1986-06-16,32,Netherlands,FC Utrecht,Eredivisie,2018/2019,2018
+Lukas Görtler,Central Midfield,1994-06-15,24,Germany,FC Utrecht,Eredivisie,2018/2019,2018
+Simon Gustafson,Attacking Midfield,1995-01-11,24,Sweden,FC Utrecht,Eredivisie,2018/2019,2018
+Sander van de Streek,Attacking Midfield,1993-03-24,26,Netherlands,FC Utrecht,Eredivisie,2018/2019,2018
+Othman Boussaid,Attacking Midfield,2000-03-07,19,Belgium,FC Utrecht,Eredivisie,2018/2019,2018
+Oussama Tannane,Right Winger,1994-03-23,25,Morocco,FC Utrecht,Eredivisie,2018/2019,2018
+Gyrano Kerk,Centre-Forward,1995-12-02,23,Netherlands,FC Utrecht,Eredivisie,2018/2019,2018
+Nick Venema,Centre-Forward,1999-04-09,20,Netherlands,FC Utrecht,Eredivisie,2018/2019,2018
+Jean-Christophe Bahebeck,Centre-Forward,1993-05-01,26,France,FC Utrecht,Eredivisie,2018/2019,2018
+Cyriel Dessers,Centre-Forward,1994-12-08,24,Belgium,FC Utrecht,Eredivisie,2018/2019,2018
+Simon Makienok,Centre-Forward,1990-11-21,28,Denmark,FC Utrecht,Eredivisie,2018/2019,2018
+Michiel Kramer,Centre-Forward,1988-12-03,30,Netherlands,FC Utrecht,Eredivisie,2018/2019,2018
+Warner Hahn,Goalkeeper,1992-06-15,26,Netherlands,SC Heerenveen,Eredivisie,2018/2019,2018
+Filip Bednarek,Goalkeeper,1992-09-26,26,Poland,SC Heerenveen,Eredivisie,2018/2019,2018
+Trevor Doornbusch,Goalkeeper,1999-07-06,19,Netherlands,SC Heerenveen,Eredivisie,2018/2019,2018
+Jan Bekkema,Goalkeeper,1996-04-09,23,Netherlands,SC Heerenveen,Eredivisie,2018/2019,2018
+Kik Pierie,Centre-Back,2000-07-20,18,Netherlands,SC Heerenveen,Eredivisie,2018/2019,2018
+Daniel Höegh,Centre-Back,1991-01-06,28,Denmark,SC Heerenveen,Eredivisie,2018/2019,2018
+Ibrahim Dresevic,Centre-Back,1997-01-24,22,Kosovo,SC Heerenveen,Eredivisie,2018/2019,2018
+Andreas Skovgaard,Centre-Back,1997-03-27,22,Denmark,SC Heerenveen,Eredivisie,2018/2019,2018
+Lucas Woudenberg,Left-Back,1994-04-25,25,Netherlands,SC Heerenveen,Eredivisie,2018/2019,2018
+Sherel Floranus,Right-Back,1998-08-23,20,Netherlands,SC Heerenveen,Eredivisie,2018/2019,2018
+Doke Schmidt,Right-Back,1992-04-07,27,Netherlands,SC Heerenveen,Eredivisie,2018/2019,2018
+Stijn Schaars,Defensive Midfield,1984-01-11,35,Netherlands,SC Heerenveen,Eredivisie,2018/2019,2018
+Morten Thorsby,Central Midfield,1996-05-05,23,Norway,SC Heerenveen,Eredivisie,2018/2019,2018
+Yuki Kobayashi,Central Midfield,1992-04-24,27,Japan,SC Heerenveen,Eredivisie,2018/2019,2018
+Ben Rienstra,Central Midfield,1990-06-05,29,Netherlands,SC Heerenveen,Eredivisie,2018/2019,2018
+Rodney Kongolo,Central Midfield,1998-01-09,21,Netherlands,SC Heerenveen,Eredivisie,2018/2019,2018
+Michel Vlap,Attacking Midfield,1997-06-02,22,Netherlands,SC Heerenveen,Eredivisie,2018/2019,2018
+Pelle van Amersfoort,Attacking Midfield,1996-04-01,23,Netherlands,SC Heerenveen,Eredivisie,2018/2019,2018
+Emil Frederiksen,Attacking Midfield,2000-09-05,18,Denmark,SC Heerenveen,Eredivisie,2018/2019,2018
+Dennis Johnsen,Left Winger,1998-02-17,21,Norway,SC Heerenveen,Eredivisie,2018/2019,2018
+Nemanja Mihajlovic,Left Winger,1996-01-19,23,Serbia,SC Heerenveen,Eredivisie,2018/2019,2018
+Mitchell van Bergen,Right Winger,1999-08-27,19,Netherlands,SC Heerenveen,Eredivisie,2018/2019,2018
+Sam Lammers,Centre-Forward,1997-04-30,22,Netherlands,SC Heerenveen,Eredivisie,2018/2019,2018
+Jizz Hornkamp,Centre-Forward,1998-03-07,21,Netherlands,SC Heerenveen,Eredivisie,2018/2019,2018
+Sergio Padt,Goalkeeper,1990-06-06,29,Netherlands,FC Groningen,Eredivisie,2018/2019,2018
+Kevin Begois,Goalkeeper,1982-05-13,37,Belgium,FC Groningen,Eredivisie,2018/2019,2018
+Jan Hoekstra,Goalkeeper,1998-08-04,20,Netherlands,FC Groningen,Eredivisie,2018/2019,2018
+Julian Chabot,Centre-Back,1998-02-12,21,Germany,FC Groningen,Eredivisie,2018/2019,2018
+Samir Memisevic,Centre-Back,1993-08-13,25,Bosnia-Herzegovina,FC Groningen,Eredivisie,2018/2019,2018
+Mike te Wierik,Centre-Back,1992-06-08,27,Netherlands,FC Groningen,Eredivisie,2018/2019,2018
+Ko Itakura,Centre-Back,1997-01-27,22,Japan,FC Groningen,Eredivisie,2018/2019,2018
+Lars Kramer,Centre-Back,1999-07-11,19,Netherlands,FC Groningen,Eredivisie,2018/2019,2018
+Tim Handwerker,Left-Back,1998-05-19,21,Germany,FC Groningen,Eredivisie,2018/2019,2018
+Amir Absalem,Left-Back,1997-06-19,21,Netherlands,FC Groningen,Eredivisie,2018/2019,2018
+Deyovaisio Zeefuik,Right-Back,1998-03-11,21,Netherlands,FC Groningen,Eredivisie,2018/2019,2018
+Ludovit Reis,Central Midfield,2000-06-01,19,Netherlands,FC Groningen,Eredivisie,2018/2019,2018
+Tom van de Looi,Central Midfield,1999-07-02,19,Netherlands,FC Groningen,Eredivisie,2018/2019,2018
+Django Warmerdam,Left Midfield,1995-09-02,23,Netherlands,FC Groningen,Eredivisie,2018/2019,2018
+Thomas Bruns,Attacking Midfield,1992-01-07,27,Netherlands,FC Groningen,Eredivisie,2018/2019,2018
+Iliass Bel Hassani,Attacking Midfield,1992-09-16,26,Netherlands,FC Groningen,Eredivisie,2018/2019,2018
+Ajdin Hrustic,Attacking Midfield,1996-07-05,22,Australia,FC Groningen,Eredivisie,2018/2019,2018
+Daniël van Kaam,Attacking Midfield,2000-06-23,18,Netherlands,FC Groningen,Eredivisie,2018/2019,2018
+Mimoun Mahi,Left Winger,1994-03-13,25,Morocco,FC Groningen,Eredivisie,2018/2019,2018
+Mo El Hankouri,Left Winger,1997-07-01,21,Morocco,FC Groningen,Eredivisie,2018/2019,2018
+Michael Breij,Left Winger,1997-01-15,22,Netherlands,FC Groningen,Eredivisie,2018/2019,2018
+Ritsu Doan,Right Winger,1998-06-16,20,Japan,FC Groningen,Eredivisie,2018/2019,2018
+Kaj Sierhuis,Centre-Forward,1998-04-27,21,Netherlands,FC Groningen,Eredivisie,2018/2019,2018
+Paul Gladon,Centre-Forward,1992-03-18,27,Netherlands,FC Groningen,Eredivisie,2018/2019,2018
+Jannik Pohl,Centre-Forward,1996-04-06,23,Denmark,FC Groningen,Eredivisie,2018/2019,2018
+Timon Wellenreuther,Goalkeeper,1995-12-03,23,Germany,Willem II Tilburg,Eredivisie,2018/2019,2018
+Michael Woud,Goalkeeper,1999-01-16,20,New Zealand,Willem II Tilburg,Eredivisie,2018/2019,2018
+Jordens Peters,Centre-Back,1987-05-03,32,Netherlands,Willem II Tilburg,Eredivisie,2018/2019,2018
+Thomas Meißner,Centre-Back,1991-03-26,28,Germany,Willem II Tilburg,Eredivisie,2018/2019,2018
+Freek Heerkens,Centre-Back,1989-09-13,29,Netherlands,Willem II Tilburg,Eredivisie,2018/2019,2018
+Victor van den Bogert,Centre-Back,1999-08-12,19,Netherlands,Willem II Tilburg,Eredivisie,2018/2019,2018
+Dylan Ryan,Centre-Back,2000-06-10,19,Australia,Willem II Tilburg,Eredivisie,2018/2019,2018
+Diego Palacios,Left-Back,1999-07-12,19,Ecuador,Willem II Tilburg,Eredivisie,2018/2019,2018
+James McGarry,Left-Back,1998-04-09,21,New Zealand,Willem II Tilburg,Eredivisie,2018/2019,2018
+Damil Dankerlui,Right-Back,1996-08-24,22,Netherlands,Willem II Tilburg,Eredivisie,2018/2019,2018
+Fernando Lewis,Right-Back,1993-01-31,26,Netherlands,Willem II Tilburg,Eredivisie,2018/2019,2018
+Vurnon Anita,Defensive Midfield,1989-04-04,30,Netherlands,Willem II Tilburg,Eredivisie,2018/2019,2018
+Elmo Lieftink,Defensive Midfield,1994-02-03,25,Netherlands,Willem II Tilburg,Eredivisie,2018/2019,2018
+Renato Tapia,Central Midfield,1995-07-28,23,Peru,Willem II Tilburg,Eredivisie,2018/2019,2018
+Pol Llonch,Central Midfield,1992-10-07,26,Spain,Willem II Tilburg,Eredivisie,2018/2019,2018
+Dries Saddiki,Central Midfield,1996-08-09,22,Netherlands,Willem II Tilburg,Eredivisie,2018/2019,2018
+Atakan Akkaynak,Central Midfield,1999-01-05,20,Germany,Willem II Tilburg,Eredivisie,2018/2019,2018
+Dan Crowley,Attacking Midfield,1997-08-03,21,England,Willem II Tilburg,Eredivisie,2018/2019,2018
+Kristófer Kristinsson,Left Winger,1999-04-07,20,Iceland,Willem II Tilburg,Eredivisie,2018/2019,2018
+Karim Coulibaly,Left Winger,1993-06-03,26,France,Willem II Tilburg,Eredivisie,2018/2019,2018
+Marios Vrousai,Right Winger,1998-07-02,20,Greece,Willem II Tilburg,Eredivisie,2018/2019,2018
+Alexander Isak,Centre-Forward,1999-09-21,19,Sweden,Willem II Tilburg,Eredivisie,2018/2019,2018
+Vangelis Pavlidis,Centre-Forward,1998-11-21,20,Greece,Willem II Tilburg,Eredivisie,2018/2019,2018
+Janis Blaswich,Goalkeeper,1991-05-02,28,Germany,Heracles Almelo,Eredivisie,2018/2019,2018
+Michael Brouwer,Goalkeeper,1993-01-21,26,Netherlands,Heracles Almelo,Eredivisie,2018/2019,2018
+Koen Bucker,Goalkeeper,1996-06-18,22,Netherlands,Heracles Almelo,Eredivisie,2018/2019,2018
+Dario van den Buijs,Centre-Back,1995-09-12,23,Belgium,Heracles Almelo,Eredivisie,2018/2019,2018
+Maximilian Rossmann,Centre-Back,1995-05-06,24,Germany,Heracles Almelo,Eredivisie,2018/2019,2018
+Robin Pröpper,Centre-Back,1993-09-23,25,Netherlands,Heracles Almelo,Eredivisie,2018/2019,2018
+Mats Knoester,Centre-Back,1998-11-19,20,Netherlands,Heracles Almelo,Eredivisie,2018/2019,2018
+Stephen Sama,Centre-Back,1993-03-05,26,Germany,Heracles Almelo,Eredivisie,2018/2019,2018
+Jelle van Benthem,Centre-Back,1999-01-22,20,Netherlands,Heracles Almelo,Eredivisie,2018/2019,2018
+Lennart Czyborra,Left-Back,1999-05-03,20,Germany,Heracles Almelo,Eredivisie,2018/2019,2018
+Bart van Hintum,Left-Back,1987-01-16,32,Netherlands,Heracles Almelo,Eredivisie,2018/2019,2018
+Jeff Hardeveld,Left-Back,1995-02-27,24,Netherlands,Heracles Almelo,Eredivisie,2018/2019,2018
+Tim Breukers,Right-Back,1987-11-04,31,Netherlands,Heracles Almelo,Eredivisie,2018/2019,2018
+Wout Droste,Right-Back,1989-05-20,30,Netherlands,Heracles Almelo,Eredivisie,2018/2019,2018
+Sebastian Jakubiak,Defensive Midfield,1993-06-21,25,Germany,Heracles Almelo,Eredivisie,2018/2019,2018
+Tim van de Berg,Defensive Midfield,1997-11-23,21,Netherlands,Heracles Almelo,Eredivisie,2018/2019,2018
+Mohammed Osman,Central Midfield,1994-01-01,25,Syria,Heracles Almelo,Eredivisie,2018/2019,2018
+Alexander Merkel,Central Midfield,1992-02-22,27,Kazakhstan,Heracles Almelo,Eredivisie,2018/2019,2018
+Lerin Duarte,Central Midfield,1990-08-11,28,Netherlands,Heracles Almelo,Eredivisie,2018/2019,2018
+Yoëll van Nieff,Central Midfield,1993-06-17,25,Netherlands,Heracles Almelo,Eredivisie,2018/2019,2018
+Jesper Drost,Attacking Midfield,1993-01-11,26,Netherlands,Heracles Almelo,Eredivisie,2018/2019,2018
+Niels Leemhuis,Attacking Midfield,1997-09-28,21,Netherlands,Heracles Almelo,Eredivisie,2018/2019,2018
+Kristoffer Peterson,Left Winger,1994-11-28,24,Sweden,Heracles Almelo,Eredivisie,2018/2019,2018
+Dabney dos Santos,Left Winger,1996-07-31,22,Netherlands,Heracles Almelo,Eredivisie,2018/2019,2018
+Zeki Erkilinc,Left Winger,1998-01-22,21,Turkey,Heracles Almelo,Eredivisie,2018/2019,2018
+Brandley Kuwas,Right Winger,1992-09-19,26,Curacao,Heracles Almelo,Eredivisie,2018/2019,2018
+Silvester van der Water,Right Winger,1996-09-30,22,Netherlands,Heracles Almelo,Eredivisie,2018/2019,2018
+Adrián Dalmau,Centre-Forward,1994-03-23,25,Spain,Heracles Almelo,Eredivisie,2018/2019,2018
+Joey Konings,Centre-Forward,1998-04-21,21,Netherlands,Heracles Almelo,Eredivisie,2018/2019,2018
+Mickey van der Hart,Goalkeeper,1994-06-13,25,Netherlands,PEC Zwolle,Eredivisie,2018/2019,2018
+Dean Bouzanis,Goalkeeper,1990-10-02,28,Australia,PEC Zwolle,Eredivisie,2018/2019,2018
+Diederik Boer,Goalkeeper,1980-09-24,38,Netherlands,PEC Zwolle,Eredivisie,2018/2019,2018
+Sepp van den Berg,Centre-Back,2001-12-20,17,Netherlands,PEC Zwolle,Eredivisie,2018/2019,2018
+Thomas Lam,Centre-Back,1993-12-18,25,Finland,PEC Zwolle,Eredivisie,2018/2019,2018
+Yuta Nakayama,Centre-Back,1997-02-16,22,Japan,PEC Zwolle,Eredivisie,2018/2019,2018
+Darryl Lachman,Centre-Back,1989-11-11,29,Curacao,PEC Zwolle,Eredivisie,2018/2019,2018
+Kenneth Paal,Left-Back,1997-06-24,21,Netherlands,PEC Zwolle,Eredivisie,2018/2019,2018
+Dico Koppers,Left-Back,1992-01-31,27,Netherlands,PEC Zwolle,Eredivisie,2018/2019,2018
+Kingsley Ehizibue,Right-Back,1995-05-25,24,Netherlands,PEC Zwolle,Eredivisie,2018/2019,2018
+Bram van Polen,Right-Back,1985-10-11,33,Netherlands,PEC Zwolle,Eredivisie,2018/2019,2018
+Rick Dekker,Defensive Midfield,1995-03-15,24,Netherlands,PEC Zwolle,Eredivisie,2018/2019,2018
+Ouasim Bouy,Defensive Midfield,1993-06-11,26,Morocco,PEC Zwolle,Eredivisie,2018/2019,2018
+Clint Leemans,Central Midfield,1995-09-15,23,Netherlands,PEC Zwolle,Eredivisie,2018/2019,2018
+Pelle Clement,Central Midfield,1996-05-19,23,Netherlands,PEC Zwolle,Eredivisie,2018/2019,2018
+Gustavo Hamer,Central Midfield,1997-06-24,21,Netherlands,PEC Zwolle,Eredivisie,2018/2019,2018
+Bas van Wijnen,Central Midfield,1997-07-31,21,Netherlands,PEC Zwolle,Eredivisie,2018/2019,2018
+Steff Kaptein,Central Midfield,1999-08-27,19,Netherlands,PEC Zwolle,Eredivisie,2018/2019,2018
+Younes Namli,Attacking Midfield,1994-06-20,24,Denmark,PEC Zwolle,Eredivisie,2018/2019,2018
+Zian Flemming,Attacking Midfield,1998-08-01,20,Netherlands,PEC Zwolle,Eredivisie,2018/2019,2018
+Denis Genreau,Attacking Midfield,1999-05-21,20,Australia,PEC Zwolle,Eredivisie,2018/2019,2018
+Vito van Crooij,Right Winger,1996-01-29,23,Netherlands,PEC Zwolle,Eredivisie,2018/2019,2018
+Stanley Elbers,Right Winger,1992-05-14,27,Netherlands,PEC Zwolle,Eredivisie,2018/2019,2018
+Mike van Duinen,Centre-Forward,1991-11-06,27,Netherlands,PEC Zwolle,Eredivisie,2018/2019,2018
+Lennart Thy,Centre-Forward,1992-02-25,27,Germany,PEC Zwolle,Eredivisie,2018/2019,2018
+Alexei Coselev,Goalkeeper,1993-11-19,25,Moldova,Fortuna Sittard,Eredivisie,2018/2019,2018
+Azbe Jug,Goalkeeper,1992-03-03,27,Slovenia,Fortuna Sittard,Eredivisie,2018/2019,2018
+Aykut Özer,Goalkeeper,1993-01-01,26,Turkey,Fortuna Sittard,Eredivisie,2018/2019,2018
+Rowen Koot,Goalkeeper,1999-07-20,19,Netherlands,Fortuna Sittard,Eredivisie,2018/2019,2018
+Wessel Dammers,Centre-Back,1995-03-01,24,Netherlands,Fortuna Sittard,Eredivisie,2018/2019,2018
+Branislav Ninaj,Centre-Back,1994-05-17,25,Slovakia,Fortuna Sittard,Eredivisie,2018/2019,2018
+Kai Heerings,Centre-Back,1990-01-12,29,Netherlands,Fortuna Sittard,Eredivisie,2018/2019,2018
+Rubén Ramírez,Centre-Back,1995-10-18,23,Venezuela,Fortuna Sittard,Eredivisie,2018/2019,2018
+Calvin Mac-Intosch,Centre-Back,1989-08-09,29,Netherlands,Fortuna Sittard,Eredivisie,2018/2019,2018
+Mica Pinto,Left-Back,1993-06-04,26,Portugal,Fortuna Sittard,Eredivisie,2018/2019,2018
+Marco Ospitalieri,Left-Back,1992-04-06,27,Belgium,Fortuna Sittard,Eredivisie,2018/2019,2018
+Alessandro Ciranni,Right-Back,1996-06-28,22,Belgium,Fortuna Sittard,Eredivisie,2018/2019,2018
+Clint Essers,Right-Back,1997-01-21,22,Netherlands,Fortuna Sittard,Eredivisie,2018/2019,2018
+Anthony Syhre,Defensive Midfield,1995-03-18,24,Germany,Fortuna Sittard,Eredivisie,2018/2019,2018
+Andrija Balic,Central Midfield,1997-08-11,21,Croatia,Fortuna Sittard,Eredivisie,2018/2019,2018
+José Rodríguez,Central Midfield,1994-12-16,24,Spain,Fortuna Sittard,Eredivisie,2018/2019,2018
+Ahmed El Messaoudi,Central Midfield,1995-08-03,23,Morocco,Fortuna Sittard,Eredivisie,2018/2019,2018
+Jorrit Smeets,Central Midfield,1995-03-25,24,Netherlands,Fortuna Sittard,Eredivisie,2018/2019,2018
+George Mells,Central Midfield,1997-05-23,22,Australia,Fortuna Sittard,Eredivisie,2018/2019,2018
+Mark Diemers,Attacking Midfield,1993-10-11,25,Netherlands,Fortuna Sittard,Eredivisie,2018/2019,2018
+Lars Hutten,Attacking Midfield,1990-03-18,29,Netherlands,Fortuna Sittard,Eredivisie,2018/2019,2018
+Amadou Ciss,Attacking Midfield,1999-09-07,19,Senegal,Fortuna Sittard,Eredivisie,2018/2019,2018
+Lazaros Lamprou,Left Winger,1997-12-19,21,Greece,Fortuna Sittard,Eredivisie,2018/2019,2018
+Gavin Vlijter,Left Winger,1997-02-12,22,Netherlands,Fortuna Sittard,Eredivisie,2018/2019,2018
+Lisandro Semedo,Right Winger,1996-03-12,23,Portugal,Fortuna Sittard,Eredivisie,2018/2019,2018
+Djibril Dianessy,Right Winger,1996-03-29,23,France,Fortuna Sittard,Eredivisie,2018/2019,2018
+Áron Dobos,Right Winger,2000-06-08,19,Hungary,Fortuna Sittard,Eredivisie,2018/2019,2018
+Agim Zeka,Right Winger,1998-09-06,20,Albania,Fortuna Sittard,Eredivisie,2018/2019,2018
+Andrija Novakovich,Centre-Forward,1996-09-21,22,United States,Fortuna Sittard,Eredivisie,2018/2019,2018
+Finn Stokkers,Centre-Forward,1996-04-18,23,Netherlands,Fortuna Sittard,Eredivisie,2018/2019,2018
+Indy Groothuizen,Goalkeeper,1996-07-22,22,Netherlands,ADO Den Haag,Eredivisie,2018/2019,2018
+Robert Zwinkels,Goalkeeper,1983-05-04,36,Netherlands,ADO Den Haag,Eredivisie,2018/2019,2018
+Mike Havekotte,Goalkeeper,1995-09-12,23,Netherlands,ADO Den Haag,Eredivisie,2018/2019,2018
+Wilfried Kanon,Centre-Back,1993-07-06,25,Cote d'Ivoire,ADO Den Haag,Eredivisie,2018/2019,2018
+Tom Beugelsdijk,Centre-Back,1990-08-07,28,Netherlands,ADO Den Haag,Eredivisie,2018/2019,2018
+Shaquille Pinas,Centre-Back,1998-03-19,21,Netherlands,ADO Den Haag,Eredivisie,2018/2019,2018
+Aaron Meijers,Left-Back,1987-10-28,31,Netherlands,ADO Den Haag,Eredivisie,2018/2019,2018
+Giovanni Troupée,Right-Back,1998-03-20,21,Netherlands,ADO Den Haag,Eredivisie,2018/2019,2018
+Trevor David,Right-Back,1997-01-28,22,Netherlands,ADO Den Haag,Eredivisie,2018/2019,2018
+Robin Polley,Right-Back,1998-12-28,20,Netherlands,ADO Den Haag,Eredivisie,2018/2019,2018
+Dion Malone,Defensive Midfield,1989-02-13,30,Netherlands,ADO Den Haag,Eredivisie,2018/2019,2018
+Danny Bakker,Central Midfield,1995-01-16,24,Netherlands,ADO Den Haag,Eredivisie,2018/2019,2018
+Donny Gorter,Central Midfield,1988-06-15,30,Netherlands,ADO Den Haag,Eredivisie,2018/2019,2018
+Mats van Kins,Left Midfield,1998-12-17,20,Netherlands,ADO Den Haag,Eredivisie,2018/2019,2018
+Nasser El Khayati,Attacking Midfield,1989-02-07,30,Netherlands,ADO Den Haag,Eredivisie,2018/2019,2018
+Lex Immers,Attacking Midfield,1986-06-08,33,Netherlands,ADO Den Haag,Eredivisie,2018/2019,2018
+Erik Falkenburg,Attacking Midfield,1988-05-05,31,Netherlands,ADO Den Haag,Eredivisie,2018/2019,2018
+John Goossens,Attacking Midfield,1988-07-25,30,Netherlands,ADO Den Haag,Eredivisie,2018/2019,2018
+Ricardo Kishna,Left Winger,1995-01-04,24,Netherlands,ADO Den Haag,Eredivisie,2018/2019,2018
+Melvyn Lorenzen,Left Winger,1994-11-26,24,Uganda,ADO Den Haag,Eredivisie,2018/2019,2018
+Sheraldo Becker,Right Winger,1995-02-09,24,Netherlands,ADO Den Haag,Eredivisie,2018/2019,2018
+Elson Hooi,Right Winger,1991-10-01,27,Curacao,ADO Den Haag,Eredivisie,2018/2019,2018
+Thijmen Goppel,Right Winger,1997-02-16,22,Netherlands,ADO Den Haag,Eredivisie,2018/2019,2018
+Yahya Boussakou,Right Winger,2000-03-04,19,Netherlands,ADO Den Haag,Eredivisie,2018/2019,2018
+Tomas Necid,Centre-Forward,1989-08-13,29,Czech Republic,ADO Den Haag,Eredivisie,2018/2019,2018
+Lars Unnerstall,Goalkeeper,1990-07-20,28,Germany,VVV-Venlo,Eredivisie,2018/2019,2018
+Delano van Crooij,Goalkeeper,1991-06-05,28,Netherlands,VVV-Venlo,Eredivisie,2018/2019,2018
+Bram Verbong,Goalkeeper,1999-12-23,19,Netherlands,VVV-Venlo,Eredivisie,2018/2019,2018
+Nils Röseler,Centre-Back,1992-02-10,27,Germany,VVV-Venlo,Eredivisie,2018/2019,2018
+Damian van Bruggen,Centre-Back,1996-03-18,23,Netherlands,VVV-Venlo,Eredivisie,2018/2019,2018
+Christian Kum,Centre-Back,1985-09-13,33,Netherlands,VVV-Venlo,Eredivisie,2018/2019,2018
+Jerold Promes,Centre-Back,1984-03-09,35,Netherlands,VVV-Venlo,Eredivisie,2018/2019,2018
+Josimar Lima,Centre-Back,1989-08-02,29,Cape Verde,VVV-Venlo,Eredivisie,2018/2019,2018
+Evren Korkmaz,Centre-Back,1997-04-27,22,Turkey,VVV-Venlo,Eredivisie,2018/2019,2018
+Stan van Dijck,Centre-Back,2000-10-07,18,Netherlands,VVV-Venlo,Eredivisie,2018/2019,2018
+Roel Janssen,Left-Back,1990-06-16,28,Netherlands,VVV-Venlo,Eredivisie,2018/2019,2018
+Axel Borgmann,Left-Back,1994-07-08,24,Germany,VVV-Venlo,Eredivisie,2018/2019,2018
+Moreno Rutten,Right-Back,1993-04-28,26,Netherlands,VVV-Venlo,Eredivisie,2018/2019,2018
+Tristan Dekker,Right-Back,1998-03-27,21,Netherlands,VVV-Venlo,Eredivisie,2018/2019,2018
+Tino-Sven Susic,Central Midfield,1992-02-13,27,Bosnia-Herzegovina,VVV-Venlo,Eredivisie,2018/2019,2018
+Danny Post,Central Midfield,1989-04-07,30,Netherlands,VVV-Venlo,Eredivisie,2018/2019,2018
+Peter van Ooijen,Central Midfield,1992-02-16,27,Netherlands,VVV-Venlo,Eredivisie,2018/2019,2018
+Evert Linthorst,Central Midfield,2000-03-03,19,Netherlands,VVV-Venlo,Eredivisie,2018/2019,2018
+Sem Steijn,Central Midfield,2001-11-17,17,Netherlands,VVV-Venlo,Eredivisie,2018/2019,2018
+Simon Janssen,Central Midfield,2000-09-25,18,Netherlands,VVV-Venlo,Eredivisie,2018/2019,2018
+Johnatan Opoku,Attacking Midfield,1990-04-18,29,Netherlands,VVV-Venlo,Eredivisie,2018/2019,2018
+Patrick Joosten,Left Winger,1996-04-14,23,Netherlands,VVV-Venlo,Eredivisie,2018/2019,2018
+Yahcuroo Roemer,Right Winger,2001-07-22,17,Netherlands,VVV-Venlo,Eredivisie,2018/2019,2018
+Peniel Mlapa,Centre-Forward,1991-02-20,28,Togo,VVV-Venlo,Eredivisie,2018/2019,2018
+Jay-Roy Grot,Centre-Forward,1998-03-13,21,Netherlands,VVV-Venlo,Eredivisie,2018/2019,2018
+Sonny Stevens,Goalkeeper,1992-06-22,26,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
+Alessandro Damen,Goalkeeper,1990-05-17,29,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
+Maarten de Fockert,Goalkeeper,1995-02-20,24,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
+Jurgen Mattheij,Centre-Back,1993-04-01,26,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
+Hervé Matthys,Centre-Back,1996-01-19,23,Belgium,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
+Thomas Oude Kotte,Centre-Back,1996-03-20,23,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
+Siebe Horemans,Centre-Back,1998-06-02,21,Belgium,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
+Robin van der Meer,Left-Back,1995-02-21,24,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
+Lorenzo Burnet,Left-Back,1991-01-11,28,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
+Jeffry Fortes,Right-Back,1989-03-22,30,Cape Verde,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
+Desevio Payne,Right-Back,1995-11-30,23,United States,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
+Jerdy Schouten,Central Midfield,1997-01-12,22,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
+Ryan Koolwijk,Central Midfield,1985-08-08,33,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
+Dogucan Haspolat,Central Midfield,2000-02-11,19,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
+Redouan El Hankouri,Central Midfield,2001-02-03,18,Morocco,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
+Ali Messaoud,Attacking Midfield,1991-04-13,28,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
+Anouar Hadouir,Attacking Midfield,1982-09-14,36,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
+Luigi Bruins,Left Winger,1987-03-09,32,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
+Mikael Anderson,Left Winger,1998-07-01,20,Iceland,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
+Denis Mahmudov,Left Winger,1989-11-06,29,North Macedonia,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
+Marcus Edwards,Right Winger,1998-12-03,20,England,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
+Jinty Caenepeel,Right Winger,1996-07-18,22,Belgium,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
+Dennis Eckert,Centre-Forward,1997-01-09,22,Germany,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
+Elías Már Ómarsson,Centre-Forward,1995-01-18,24,Iceland,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
+Mounir El Hamdaoui,Centre-Forward,1984-07-14,34,Morocco,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
+Carlito Fermina,Centre-Forward,2000-01-06,19,Curacao,SBV Excelsior Rotterdam,Eredivisie,2018/2019,2018
+Benjamin van Leer,Goalkeeper,1992-04-09,27,Netherlands,NAC Breda,Eredivisie,2018/2019,2018
+Theo Zwarthoed,Goalkeeper,1982-11-19,36,Netherlands,NAC Breda,Eredivisie,2018/2019,2018
+Karol Niemczycki,Goalkeeper,1999-07-05,19,Poland,NAC Breda,Eredivisie,2018/2019,2018
+Erik Palmer-Brown,Centre-Back,1997-04-24,22,United States,NAC Breda,Eredivisie,2018/2019,2018
+Menno Koch,Centre-Back,1994-07-02,24,Netherlands,NAC Breda,Eredivisie,2018/2019,2018
+Dorian Dervite,Centre-Back,1988-07-25,30,France,NAC Breda,Eredivisie,2018/2019,2018
+Daan Klomp,Centre-Back,1998-08-10,20,Netherlands,NAC Breda,Eredivisie,2018/2019,2018
+Greg Leigh,Left-Back,1994-09-30,24,England,NAC Breda,Eredivisie,2018/2019,2018
+Alex Gersbach,Left-Back,1997-05-08,22,Australia,NAC Breda,Eredivisie,2018/2019,2018
+Jethro Mashart,Left-Back,2000-05-08,19,Netherlands,NAC Breda,Eredivisie,2018/2019,2018
+Khalid Karami,Right-Back,1989-12-29,29,Netherlands,NAC Breda,Eredivisie,2018/2019,2018
+Pele van Anholt,Right-Back,1991-04-23,28,Netherlands,NAC Breda,Eredivisie,2018/2019,2018
+Fabian Sporkslede,Right-Back,1993-08-03,25,Netherlands,NAC Breda,Eredivisie,2018/2019,2018
+Arno Verschueren,Defensive Midfield,1997-04-08,22,Belgium,NAC Breda,Eredivisie,2018/2019,2018
+Anouar Kali,Defensive Midfield,1991-06-03,28,Morocco,NAC Breda,Eredivisie,2018/2019,2018
+Lucas Schoofs,Defensive Midfield,1997-01-03,22,Belgium,NAC Breda,Eredivisie,2018/2019,2018
+Grad Damen,Defensive Midfield,1997-08-14,21,Netherlands,NAC Breda,Eredivisie,2018/2019,2018
+Mounir El Allouchi,Central Midfield,1994-09-27,24,Netherlands,NAC Breda,Eredivisie,2018/2019,2018
+Gianluca Nijholt,Central Midfield,1990-02-14,29,Netherlands,NAC Breda,Eredivisie,2018/2019,2018
+Marwin Reuvers,Central Midfield,1999-03-04,20,Netherlands,NAC Breda,Eredivisie,2018/2019,2018
+Yassine Azzagari,Central Midfield,2001-07-24,17,Netherlands,NAC Breda,Eredivisie,2018/2019,2018
+Luka Ilic,Attacking Midfield,1999-07-02,19,Serbia,NAC Breda,Eredivisie,2018/2019,2018
+Ramon Pascal Lundqvist,Attacking Midfield,1997-05-10,22,Sweden,NAC Breda,Eredivisie,2018/2019,2018
+Paolo Fernandes,Attacking Midfield,1998-08-09,20,Spain,NAC Breda,Eredivisie,2018/2019,2018
+Gervane Kastaneer,Left Winger,1996-06-09,23,Curacao,NAC Breda,Eredivisie,2018/2019,2018
+Sullay Kaikai,Left Winger,1995-08-26,23,England,NAC Breda,Eredivisie,2018/2019,2018
+Mikhail Rosheuvel,Right Winger,1990-08-10,28,Netherlands,NAC Breda,Eredivisie,2018/2019,2018
+Giovanni Korte,Right Winger,1993-08-01,25,Netherlands,NAC Breda,Eredivisie,2018/2019,2018
+Mitchell te Vrede,Centre-Forward,1991-08-07,27,Netherlands,NAC Breda,Eredivisie,2018/2019,2018
+Robert Mühren,Centre-Forward,1989-05-18,30,Netherlands,NAC Breda,Eredivisie,2018/2019,2018
+Sydney van Hooijdonk,Centre-Forward,2000-02-06,19,Netherlands,NAC Breda,Eredivisie,2018/2019,2018
+Kjell Scherpen,Goalkeeper,2000-01-23,19,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
+Dennis Telgenkamp,Goalkeeper,1987-05-09,32,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
+Peter van der Vlag,Goalkeeper,1977-12-05,41,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
+Keziah Veendorp,Centre-Back,1997-02-17,22,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
+Andrej Lukic,Centre-Back,1994-04-02,25,Croatia,FC Emmen,Eredivisie,2018/2019,2018
+Nick Kuipers,Centre-Back,1992-10-08,26,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
+Nick Bakker,Centre-Back,1992-07-21,26,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
+Tim Siekman,Centre-Back,1990-05-25,29,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
+Stephen Warmolts,Centre-Back,1994-04-10,25,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
+Caner Cavlan,Left-Back,1992-02-05,27,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
+Nico Neidhart,Left-Back,1994-09-27,24,Germany,FC Emmen,Eredivisie,2018/2019,2018
+Gersom Klok,Right-Back,1990-10-07,28,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
+Stef Gronsveld,Right-Back,1996-01-11,23,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
+Daniel Camara Bos,Right-Back,1999-05-24,20,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
+Glenn Bijl,Defensive Midfield,1995-07-13,23,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
+Reuven Niemeijer,Central Midfield,1995-03-27,24,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
+Michael Chacón,Central Midfield,1994-04-11,25,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
+Hilal Ben Moussa,Central Midfield,1992-05-22,27,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
+Henk Bos,Central Midfield,1992-11-12,26,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
+Jason Bourdouxhe,Central Midfield,1991-04-11,28,Belgium,FC Emmen,Eredivisie,2018/2019,2018
+Robbert de Vos,Central Midfield,1996-05-26,23,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
+Emil Bijlsma,Central Midfield,1998-09-06,20,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
+Rob Deiman,Central Midfield,1999-06-10,20,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
+Michael de Leeuw,Attacking Midfield,1986-10-07,32,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
+Wouter Marinus,Attacking Midfield,1995-02-18,24,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
+Alexander Bannink,Attacking Midfield,1990-02-20,29,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
+Delano Grootenhuis,Attacking Midfield,1997-05-31,22,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
+Anco Jansen,Left Winger,1989-03-09,30,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
+Luciano Slagveer,Right Winger,1993-10-05,25,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
+Kasper Oldenburger,Right Winger,1996-02-12,23,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
+Jafar Arias,Centre-Forward,1995-06-16,23,Curacao,FC Emmen,Eredivisie,2018/2019,2018
+Sven Braken,Centre-Forward,1993-06-12,26,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
+Zakaria El Azzouzi,Centre-Forward,1996-05-07,23,Netherlands,FC Emmen,Eredivisie,2018/2019,2018
+Hidde Jurjus,Goalkeeper,1994-02-09,25,Netherlands,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
+Nigel Bertrams,Goalkeeper,1993-01-08,26,Netherlands,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
+Jordy Rondeel,Goalkeeper,1994-08-04,24,Netherlands,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
+Ted van de Pavert,Centre-Back,1992-01-06,27,Netherlands,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
+Sven Nieuwpoort,Centre-Back,1993-04-13,26,Netherlands,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
+Bart Straalman,Centre-Back,1996-08-22,22,Netherlands,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
+Lars Nieuwpoort,Centre-Back,1994-10-29,24,Netherlands,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
+Jurre Vreman,Centre-Back,1998-02-20,21,Netherlands,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
+Jordy Tutuarima,Left-Back,1993-04-28,26,Netherlands,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
+Leeroy Owusu,Right-Back,1996-08-13,22,Netherlands,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
+Ruben Ligeon,Right-Back,1992-05-24,27,Netherlands,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
+Azor Matusiwa,Defensive Midfield,1998-04-28,21,Netherlands,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
+Robert Klaasen,Defensive Midfield,1993-09-06,25,Netherlands,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
+Javier Vet,Defensive Midfield,1993-09-09,25,Netherlands,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
+Erik Bakker,Central Midfield,1990-03-21,29,Netherlands,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
+Frank Olijve,Central Midfield,1989-03-07,30,Netherlands,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
+Liban Abdulahi,Central Midfield,1995-11-02,23,Netherlands,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
+Koen Huntelaar,Central Midfield,1998-07-08,20,Netherlands,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
+Youssef El Jebli,Attacking Midfield,1992-12-27,26,Netherlands,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
+Stef Nijland,Attacking Midfield,1988-08-10,30,Netherlands,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
+Delano Burgzorg,Left Winger,1998-11-07,20,Netherlands,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
+Daryl van Mieghem,Left Winger,1989-12-05,29,Netherlands,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
+Furdjel Narsingh,Right Winger,1988-03-13,31,Netherlands,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
+Nabil Bahoui,Centre-Forward,1991-02-05,28,Sweden,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
+Fabian Serrarens,Centre-Forward,1991-02-09,28,Netherlands,De Graafschap Doetinchem,Eredivisie,2018/2019,2018
+Charlison Benschop,Centre-Forward,1989-08-21,29,Curacao,De Graafschap Doetinchem,Eredivisie,2018/2019,2018

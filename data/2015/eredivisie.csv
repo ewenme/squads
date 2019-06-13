@@ -1,0 +1,583 @@
+player_name,position,date_of_birth,age,nationality,club_name,league_name,season,year
+Jeroen Zoet,Goalkeeper,1991-01-06,24,Netherlands,PSV Eindhoven,Eredivisie,2015/2016,2015
+Remko Pasveer,Goalkeeper,1983-11-08,31,Netherlands,PSV Eindhoven,Eredivisie,2015/2016,2015
+Luuk Koopmans,Goalkeeper,1993-11-18,21,Netherlands,PSV Eindhoven,Eredivisie,2015/2016,2015
+Héctor Moreno,Centre-Back,1988-01-17,27,Mexico,PSV Eindhoven,Eredivisie,2015/2016,2015
+Jeffrey Bruma,Centre-Back,1991-11-13,23,Netherlands,PSV Eindhoven,Eredivisie,2015/2016,2015
+Nicolas Isimat-Mirin,Centre-Back,1991-11-15,23,France,PSV Eindhoven,Eredivisie,2015/2016,2015
+Menno Koch,Centre-Back,1994-07-02,20,Netherlands,PSV Eindhoven,Eredivisie,2015/2016,2015
+Jordy de Wijs,Centre-Back,1995-01-08,20,Netherlands,PSV Eindhoven,Eredivisie,2015/2016,2015
+Suently Alberto,Centre-Back,1996-06-09,19,Curacao,PSV Eindhoven,Eredivisie,2015/2016,2015
+Jetro Willems,Left-Back,1994-03-30,21,Netherlands,PSV Eindhoven,Eredivisie,2015/2016,2015
+Simon Poulsen,Left-Back,1984-10-07,30,Denmark,PSV Eindhoven,Eredivisie,2015/2016,2015
+Kenneth Paal,Left-Back,1997-06-24,18,Netherlands,PSV Eindhoven,Eredivisie,2015/2016,2015
+Santiago Arias,Right-Back,1992-01-13,23,Colombia,PSV Eindhoven,Eredivisie,2015/2016,2015
+Joshua Brenet,Right-Back,1994-03-20,21,Netherlands,PSV Eindhoven,Eredivisie,2015/2016,2015
+Stijn Schaars,Defensive Midfield,1984-01-11,31,Netherlands,PSV Eindhoven,Eredivisie,2015/2016,2015
+Jorrit Hendrix,Defensive Midfield,1995-02-06,20,Netherlands,PSV Eindhoven,Eredivisie,2015/2016,2015
+Marco van Ginkel,Central Midfield,1992-12-01,22,Netherlands,PSV Eindhoven,Eredivisie,2015/2016,2015
+Adam Maher,Central Midfield,1993-07-20,21,Netherlands,PSV Eindhoven,Eredivisie,2015/2016,2015
+Andrés Guardado,Central Midfield,1986-09-28,28,Mexico,PSV Eindhoven,Eredivisie,2015/2016,2015
+Davy Pröpper,Central Midfield,1991-09-02,23,Netherlands,PSV Eindhoven,Eredivisie,2015/2016,2015
+Gastón Pereiro,Attacking Midfield,1995-06-11,20,Uruguay,PSV Eindhoven,Eredivisie,2015/2016,2015
+Rai Vloet,Attacking Midfield,1995-05-08,20,Netherlands,PSV Eindhoven,Eredivisie,2015/2016,2015
+Maxime Lestienne,Left Winger,1992-06-17,23,Belgium,PSV Eindhoven,Eredivisie,2015/2016,2015
+Steven Bergwijn,Left Winger,1997-10-08,17,Netherlands,PSV Eindhoven,Eredivisie,2015/2016,2015
+Luciano Narsingh,Right Winger,1990-09-13,24,Netherlands,PSV Eindhoven,Eredivisie,2015/2016,2015
+Florian Jozefzoon,Right Winger,1991-02-09,24,Netherlands,PSV Eindhoven,Eredivisie,2015/2016,2015
+Luuk de Jong,Centre-Forward,1990-08-27,24,Netherlands,PSV Eindhoven,Eredivisie,2015/2016,2015
+Jürgen Locadia,Centre-Forward,1993-11-07,21,Netherlands,PSV Eindhoven,Eredivisie,2015/2016,2015
+Jasper Cillessen,Goalkeeper,1989-04-22,26,Netherlands,Ajax Amsterdam,Eredivisie,2015/2016,2015
+Diederik Boer,Goalkeeper,1980-09-24,34,Netherlands,Ajax Amsterdam,Eredivisie,2015/2016,2015
+André Onana,Goalkeeper,1996-04-02,19,Cameroon,Ajax Amsterdam,Eredivisie,2015/2016,2015
+Nick Viergever,Centre-Back,1989-08-03,25,Netherlands,Ajax Amsterdam,Eredivisie,2015/2016,2015
+Johnny Heitinga,Centre-Back,1983-11-15,31,Netherlands,Ajax Amsterdam,Eredivisie,2015/2016,2015
+Mike van der Hoorn,Centre-Back,1992-10-15,22,Netherlands,Ajax Amsterdam,Eredivisie,2015/2016,2015
+Jairo Riedewald,Centre-Back,1996-09-09,18,Netherlands,Ajax Amsterdam,Eredivisie,2015/2016,2015
+Damian van Bruggen,Centre-Back,1996-03-18,19,Netherlands,Ajax Amsterdam,Eredivisie,2015/2016,2015
+Daley Sinkgraven,Left-Back,1995-07-04,19,Netherlands,Ajax Amsterdam,Eredivisie,2015/2016,2015
+Mitchell Dijks,Left-Back,1993-02-09,22,Netherlands,Ajax Amsterdam,Eredivisie,2015/2016,2015
+Ricardo van Rhijn,Right-Back,1991-06-13,24,Netherlands,Ajax Amsterdam,Eredivisie,2015/2016,2015
+Joël Veltman,Right-Back,1992-01-15,23,Netherlands,Ajax Amsterdam,Eredivisie,2015/2016,2015
+Kenny Tete,Right-Back,1995-10-09,19,Netherlands,Ajax Amsterdam,Eredivisie,2015/2016,2015
+Lasse Schöne,Defensive Midfield,1986-05-27,29,Denmark,Ajax Amsterdam,Eredivisie,2015/2016,2015
+Nemanja Gudelj,Defensive Midfield,1991-11-16,23,Serbia,Ajax Amsterdam,Eredivisie,2015/2016,2015
+Thulani Serero,Defensive Midfield,1990-04-11,25,South Africa,Ajax Amsterdam,Eredivisie,2015/2016,2015
+Riechedly Bazoer,Central Midfield,1996-10-12,18,Netherlands,Ajax Amsterdam,Eredivisie,2015/2016,2015
+Davy Klaassen,Attacking Midfield,1993-02-21,22,Netherlands,Ajax Amsterdam,Eredivisie,2015/2016,2015
+Donny van de Beek,Attacking Midfield,1997-04-18,18,Netherlands,Ajax Amsterdam,Eredivisie,2015/2016,2015
+Viktor Fischer,Left Winger,1994-06-09,21,Denmark,Ajax Amsterdam,Eredivisie,2015/2016,2015
+Amin Younes,Left Winger,1993-08-06,21,Germany,Ajax Amsterdam,Eredivisie,2015/2016,2015
+Anwar El Ghazi,Right Winger,1995-05-03,20,Netherlands,Ajax Amsterdam,Eredivisie,2015/2016,2015
+Robert Muric,Right Winger,1996-03-12,19,Croatia,Ajax Amsterdam,Eredivisie,2015/2016,2015
+Vaclav Cerny,Right Winger,1997-10-17,17,Czech Republic,Ajax Amsterdam,Eredivisie,2015/2016,2015
+Arkadiusz Milik,Centre-Forward,1994-02-28,21,Poland,Ajax Amsterdam,Eredivisie,2015/2016,2015
+Yaya Sanogo,Centre-Forward,1993-01-27,22,France,Ajax Amsterdam,Eredivisie,2015/2016,2015
+Sam Hendriks,Centre-Forward,1995-01-25,20,Netherlands,Ajax Amsterdam,Eredivisie,2015/2016,2015
+Kenneth Vermeer,Goalkeeper,1986-01-10,29,Netherlands,Feyenoord Rotterdam,Eredivisie,2015/2016,2015
+Pär Hansson,Goalkeeper,1986-06-22,29,Sweden,Feyenoord Rotterdam,Eredivisie,2015/2016,2015
+Warner Hahn,Goalkeeper,1992-06-15,23,Netherlands,Feyenoord Rotterdam,Eredivisie,2015/2016,2015
+Kamil Miazek,Goalkeeper,1996-08-15,18,Poland,Feyenoord Rotterdam,Eredivisie,2015/2016,2015
+Justin Bijlow,Goalkeeper,1998-01-22,17,Netherlands,Feyenoord Rotterdam,Eredivisie,2015/2016,2015
+Terence Kongolo,Centre-Back,1994-02-14,21,Netherlands,Feyenoord Rotterdam,Eredivisie,2015/2016,2015
+Jan-Arie van der Heijden,Centre-Back,1988-03-03,27,Netherlands,Feyenoord Rotterdam,Eredivisie,2015/2016,2015
+Eric Botteghin,Centre-Back,1987-08-31,27,Brazil,Feyenoord Rotterdam,Eredivisie,2015/2016,2015
+Sven van Beek,Centre-Back,1994-07-28,20,Netherlands,Feyenoord Rotterdam,Eredivisie,2015/2016,2015
+Wessel Dammers,Centre-Back,1995-03-01,20,Netherlands,Feyenoord Rotterdam,Eredivisie,2015/2016,2015
+Miquel Nelom,Left-Back,1990-09-22,24,Netherlands,Feyenoord Rotterdam,Eredivisie,2015/2016,2015
+Calvin Verdonk,Left-Back,1997-04-26,18,Netherlands,Feyenoord Rotterdam,Eredivisie,2015/2016,2015
+Rick Karsdorp,Right-Back,1995-02-11,20,Netherlands,Feyenoord Rotterdam,Eredivisie,2015/2016,2015
+Stef Gronsveld,Right-Back,1996-01-11,19,Netherlands,Feyenoord Rotterdam,Eredivisie,2015/2016,2015
+Bart Nieuwkoop,Right-Back,1996-03-07,19,Netherlands,Feyenoord Rotterdam,Eredivisie,2015/2016,2015
+Marko Vejinović,Defensive Midfield,1990-02-03,25,Netherlands,Feyenoord Rotterdam,Eredivisie,2015/2016,2015
+Tonny Vilhena,Central Midfield,1995-01-03,20,Netherlands,Feyenoord Rotterdam,Eredivisie,2015/2016,2015
+Karim El Ahmadi,Central Midfield,1985-01-27,30,Morocco,Feyenoord Rotterdam,Eredivisie,2015/2016,2015
+Renato Tapia,Central Midfield,1995-07-28,19,Peru,Feyenoord Rotterdam,Eredivisie,2015/2016,2015
+Jens Toornstra,Attacking Midfield,1989-04-04,26,Netherlands,Feyenoord Rotterdam,Eredivisie,2015/2016,2015
+Lex Immers,Attacking Midfield,1986-06-08,29,Netherlands,Feyenoord Rotterdam,Eredivisie,2015/2016,2015
+Simon Gustafson,Attacking Midfield,1995-01-11,20,Sweden,Feyenoord Rotterdam,Eredivisie,2015/2016,2015
+Anass Achahbar,Attacking Midfield,1994-01-13,21,Netherlands,Feyenoord Rotterdam,Eredivisie,2015/2016,2015
+Jari Schuurman,Attacking Midfield,1997-02-22,18,Netherlands,Feyenoord Rotterdam,Eredivisie,2015/2016,2015
+Eljero Elia,Left Winger,1987-02-13,28,Netherlands,Feyenoord Rotterdam,Eredivisie,2015/2016,2015
+Bilal Basacikoglu,Left Winger,1995-03-26,20,Turkey,Feyenoord Rotterdam,Eredivisie,2015/2016,2015
+Elvis Manu,Left Winger,1993-08-13,21,Netherlands,Feyenoord Rotterdam,Eredivisie,2015/2016,2015
+Dirk Kuyt,Right Winger,1980-07-22,34,Netherlands,Feyenoord Rotterdam,Eredivisie,2015/2016,2015
+Colin Kazim-Richards,Centre-Forward,1986-08-26,28,Turkey,Feyenoord Rotterdam,Eredivisie,2015/2016,2015
+Michiel Kramer,Centre-Forward,1988-12-03,26,Netherlands,Feyenoord Rotterdam,Eredivisie,2015/2016,2015
+Nigel Robertha,Centre-Forward,1998-02-13,17,Netherlands,Feyenoord Rotterdam,Eredivisie,2015/2016,2015
+Gino Coutinho,Goalkeeper,1982-08-05,32,Netherlands,AZ Alkmaar,Eredivisie,2015/2016,2015
+Sergio Rochet,Goalkeeper,1993-03-23,22,Uruguay,AZ Alkmaar,Eredivisie,2015/2016,2015
+Nick Olij,Goalkeeper,1995-08-01,19,Netherlands,AZ Alkmaar,Eredivisie,2015/2016,2015
+Ron Vlaar,Centre-Back,1985-02-16,30,Netherlands,AZ Alkmaar,Eredivisie,2015/2016,2015
+Jeffrey Gouweleeuw,Centre-Back,1991-07-10,23,Netherlands,AZ Alkmaar,Eredivisie,2015/2016,2015
+Jan Wuytens,Centre-Back,1985-06-09,30,Belgium,AZ Alkmaar,Eredivisie,2015/2016,2015
+Jop van der Linden,Centre-Back,1990-07-17,24,Netherlands,AZ Alkmaar,Eredivisie,2015/2016,2015
+Stijn Wuytens,Centre-Back,1989-10-08,25,Belgium,AZ Alkmaar,Eredivisie,2015/2016,2015
+Derrick Luckassen,Centre-Back,1995-07-03,19,Netherlands,AZ Alkmaar,Eredivisie,2015/2016,2015
+Pantelis Hatzidiakos,Centre-Back,1997-01-18,18,Greece,AZ Alkmaar,Eredivisie,2015/2016,2015
+Rajko Brezancic,Left-Back,1989-08-21,25,Serbia,AZ Alkmaar,Eredivisie,2015/2016,2015
+Ridgeciano Haps,Left-Back,1993-06-12,22,Netherlands,AZ Alkmaar,Eredivisie,2015/2016,2015
+Thomas Ouwejan,Left-Back,1996-09-30,18,Netherlands,AZ Alkmaar,Eredivisie,2015/2016,2015
+Mattias Johansson,Right-Back,1992-02-16,23,Sweden,AZ Alkmaar,Eredivisie,2015/2016,2015
+Fernando Lewis,Right-Back,1993-01-31,22,Netherlands,AZ Alkmaar,Eredivisie,2015/2016,2015
+Robin Schouten,Right-Back,1998-02-25,17,Netherlands,AZ Alkmaar,Eredivisie,2015/2016,2015
+Levi Opdam,Right-Back,1996-05-03,19,Netherlands,AZ Alkmaar,Eredivisie,2015/2016,2015
+Celso Ortiz,Defensive Midfield,1989-01-26,26,Paraguay,AZ Alkmaar,Eredivisie,2015/2016,2015
+Markus Henriksen,Central Midfield,1992-07-25,22,Norway,AZ Alkmaar,Eredivisie,2015/2016,2015
+Ben Rienstra,Central Midfield,1990-06-05,25,Netherlands,AZ Alkmaar,Eredivisie,2015/2016,2015
+Joris van Overeem,Central Midfield,1994-06-01,21,Netherlands,AZ Alkmaar,Eredivisie,2015/2016,2015
+Thom Haye,Attacking Midfield,1995-02-09,20,Netherlands,AZ Alkmaar,Eredivisie,2015/2016,2015
+Stijn Spierings,Attacking Midfield,1996-03-12,19,Netherlands,AZ Alkmaar,Eredivisie,2015/2016,2015
+Jeremy Helmer,Attacking Midfield,1997-07-03,17,Netherlands,AZ Alkmaar,Eredivisie,2015/2016,2015
+Muamer Tankovic,Left Winger,1995-02-22,20,Sweden,AZ Alkmaar,Eredivisie,2015/2016,2015
+Dabney dos Santos,Left Winger,1996-07-31,18,Netherlands,AZ Alkmaar,Eredivisie,2015/2016,2015
+Levi García,Left Winger,1997-11-20,17,Trinidad and Tobago,AZ Alkmaar,Eredivisie,2015/2016,2015
+Guus Hupperts,Right Winger,1992-04-25,23,Netherlands,AZ Alkmaar,Eredivisie,2015/2016,2015
+Alireza Jahanbakhsh,Right Winger,1993-08-11,21,Iran,AZ Alkmaar,Eredivisie,2015/2016,2015
+Achille Vaarnold,Right Winger,1996-01-26,19,Netherlands,AZ Alkmaar,Eredivisie,2015/2016,2015
+James Efmorfidis,Right Winger,1996-01-18,19,Greece,AZ Alkmaar,Eredivisie,2015/2016,2015
+Aron Jóhannsson,Centre-Forward,1990-11-10,24,United States,AZ Alkmaar,Eredivisie,2015/2016,2015
+Mounir El Hamdaoui,Centre-Forward,1984-07-14,30,Morocco,AZ Alkmaar,Eredivisie,2015/2016,2015
+Robert Mühren,Centre-Forward,1989-05-18,26,Netherlands,AZ Alkmaar,Eredivisie,2015/2016,2015
+Vincent Janssen,Centre-Forward,1994-06-15,21,Netherlands,AZ Alkmaar,Eredivisie,2015/2016,2015
+Nick Marsman,Goalkeeper,1990-10-01,24,Netherlands,FC Twente Enschede,Eredivisie,2015/2016,2015
+Sonny Stevens,Goalkeeper,1992-06-22,23,Netherlands,FC Twente Enschede,Eredivisie,2015/2016,2015
+Timo Plattel,Goalkeeper,1994-03-12,21,Netherlands,FC Twente Enschede,Eredivisie,2015/2016,2015
+Michael Verrips,Goalkeeper,1996-12-03,18,Netherlands,FC Twente Enschede,Eredivisie,2015/2016,2015
+Joël Drommel,Goalkeeper,1996-11-16,18,Netherlands,FC Twente Enschede,Eredivisie,2015/2016,2015
+Robbert Schilder,Centre-Back,1986-04-18,29,Netherlands,FC Twente Enschede,Eredivisie,2015/2016,2015
+Bruno Uvini,Centre-Back,1991-06-03,24,Brazil,FC Twente Enschede,Eredivisie,2015/2016,2015
+Georgios Katsikas,Centre-Back,1990-06-14,25,Greece,FC Twente Enschede,Eredivisie,2015/2016,2015
+Stefan Thesker,Centre-Back,1991-04-11,24,Germany,FC Twente Enschede,Eredivisie,2015/2016,2015
+Joachim Andersen,Centre-Back,1996-05-31,19,Denmark,FC Twente Enschede,Eredivisie,2015/2016,2015
+Peet Bijen,Centre-Back,1995-01-28,20,Netherlands,FC Twente Enschede,Eredivisie,2015/2016,2015
+Richard Jensen,Centre-Back,1996-03-17,19,Finland,FC Twente Enschede,Eredivisie,2015/2016,2015
+Vincent Schmidt,Left-Back,1996-01-10,19,Netherlands,FC Twente Enschede,Eredivisie,2015/2016,2015
+Hidde ter Avest,Right-Back,1997-05-20,18,Netherlands,FC Twente Enschede,Eredivisie,2015/2016,2015
+Jeroen van der Lely,Right-Back,1996-03-22,19,Netherlands,FC Twente Enschede,Eredivisie,2015/2016,2015
+Kamohelo Mokotjo,Defensive Midfield,1991-03-11,24,South Africa,FC Twente Enschede,Eredivisie,2015/2016,2015
+Brem Soumaoro,Defensive Midfield,1996-08-08,18,Guinea,FC Twente Enschede,Eredivisie,2015/2016,2015
+Felipe Gutiérrez,Central Midfield,1990-10-08,24,Chile,FC Twente Enschede,Eredivisie,2015/2016,2015
+Renato Tapia,Central Midfield,1995-07-28,19,Peru,FC Twente Enschede,Eredivisie,2015/2016,2015
+Jelle van der Heyden,Central Midfield,1995-08-31,19,Netherlands,FC Twente Enschede,Eredivisie,2015/2016,2015
+Jesús Corona,Right Midfield,1993-01-06,22,Mexico,FC Twente Enschede,Eredivisie,2015/2016,2015
+Shadrach Eghan,Attacking Midfield,1994-09-18,20,Ghana,FC Twente Enschede,Eredivisie,2015/2016,2015
+Tim Hölscher,Attacking Midfield,1995-01-21,20,Germany,FC Twente Enschede,Eredivisie,2015/2016,2015
+Jerson Cabral,Left Winger,1991-01-03,24,Cape Verde,FC Twente Enschede,Eredivisie,2015/2016,2015
+Chinedu Ede,Left Winger,1987-02-05,28,Germany,FC Twente Enschede,Eredivisie,2015/2016,2015
+Alessio Da Cruz,Left Winger,1997-01-18,18,Netherlands,FC Twente Enschede,Eredivisie,2015/2016,2015
+Thomas Agyepong,Left Winger,1996-10-10,18,Ghana,FC Twente Enschede,Eredivisie,2015/2016,2015
+Hakim Ziyech,Right Winger,1993-03-19,22,Morocco,FC Twente Enschede,Eredivisie,2015/2016,2015
+Michael Olaitan,Centre-Forward,1993-01-01,22,Nigeria,FC Twente Enschede,Eredivisie,2015/2016,2015
+Torgeir Börven,Centre-Forward,1991-12-03,23,Norway,FC Twente Enschede,Eredivisie,2015/2016,2015
+Oskar Zawada,Centre-Forward,1996-02-01,19,Poland,FC Twente Enschede,Eredivisie,2015/2016,2015
+Jari Oosterwijk,Centre-Forward,1995-03-03,20,Netherlands,FC Twente Enschede,Eredivisie,2015/2016,2015
+Zakaria El Azzouzi,Centre-Forward,1996-05-07,19,Netherlands,FC Twente Enschede,Eredivisie,2015/2016,2015
+Piet Velthuizen,Goalkeeper,1986-11-03,28,Netherlands,Vitesse Arnhem,Eredivisie,2015/2016,2015
+Eloy Room,Goalkeeper,1989-02-06,26,Curacao,Vitesse Arnhem,Eredivisie,2015/2016,2015
+Jeroen Houwen,Goalkeeper,1996-02-18,19,Netherlands,Vitesse Arnhem,Eredivisie,2015/2016,2015
+Guram Kashia,Centre-Back,1987-07-04,27,Georgia,Vitesse Arnhem,Eredivisie,2015/2016,2015
+Maikel van der Werff,Centre-Back,1989-04-22,26,Netherlands,Vitesse Arnhem,Eredivisie,2015/2016,2015
+Arnold Kruiswijk,Centre-Back,1984-11-02,30,Netherlands,Vitesse Arnhem,Eredivisie,2015/2016,2015
+Thomas Oude Kotte,Centre-Back,1996-03-20,19,Netherlands,Vitesse Arnhem,Eredivisie,2015/2016,2015
+Kosuke Ota,Left-Back,1987-07-23,27,Japan,Vitesse Arnhem,Eredivisie,2015/2016,2015
+Rochdi Achenteh,Left-Back,1988-03-07,27,Morocco,Vitesse Arnhem,Eredivisie,2015/2016,2015
+Kelvin Leerdam,Right-Back,1990-06-24,25,Netherlands,Vitesse Arnhem,Eredivisie,2015/2016,2015
+Kevin Diks,Right-Back,1996-10-06,18,Netherlands,Vitesse Arnhem,Eredivisie,2015/2016,2015
+Leeroy Schorea,Right-Back,1997-03-03,18,Curacao,Vitesse Arnhem,Eredivisie,2015/2016,2015
+Julian Lelieveld,Right-Back,1997-11-24,17,Netherlands,Vitesse Arnhem,Eredivisie,2015/2016,2015
+Sheran Yeini,Defensive Midfield,1986-12-08,28,Israel,Vitesse Arnhem,Eredivisie,2015/2016,2015
+Marvelous Nakamba,Defensive Midfield,1994-01-19,21,Zimbabwe,Vitesse Arnhem,Eredivisie,2015/2016,2015
+Elmo Lieftink,Defensive Midfield,1994-02-03,21,Netherlands,Vitesse Arnhem,Eredivisie,2015/2016,2015
+Lewis Baker,Central Midfield,1995-04-25,20,England,Vitesse Arnhem,Eredivisie,2015/2016,2015
+Mohammed Osman,Central Midfield,1994-01-01,21,Syria,Vitesse Arnhem,Eredivisie,2015/2016,2015
+Danilo Pantic,Attacking Midfield,1996-10-26,18,Serbia,Vitesse Arnhem,Eredivisie,2015/2016,2015
+Nathan,Left Winger,1996-03-13,19,Brazil,Vitesse Arnhem,Eredivisie,2015/2016,2015
+Valeri Qazaishvili,Left Winger,1993-01-29,22,Georgia,Vitesse Arnhem,Eredivisie,2015/2016,2015
+Denys Oliynyk,Left Winger,1987-06-16,28,Ukraine,Vitesse Arnhem,Eredivisie,2015/2016,2015
+Milot Rashica,Left Winger,1996-06-28,19,Kosovo,Vitesse Arnhem,Eredivisie,2015/2016,2015
+Renato Ibarra,Right Winger,1991-01-20,24,Ecuador,Vitesse Arnhem,Eredivisie,2015/2016,2015
+Arshak Koryan,Right Winger,1995-06-17,20,Russia,Vitesse Arnhem,Eredivisie,2015/2016,2015
+Mitchell van Bergen,Right Winger,1999-08-27,15,Netherlands,Vitesse Arnhem,Eredivisie,2015/2016,2015
+Isaiah Brown,Second Striker,1997-01-07,18,England,Vitesse Arnhem,Eredivisie,2015/2016,2015
+Abiola Dauda,Centre-Forward,1988-02-03,27,Nigeria,Vitesse Arnhem,Eredivisie,2015/2016,2015
+Uros Djurdjevic,Centre-Forward,1994-03-02,21,Serbia,Vitesse Arnhem,Eredivisie,2015/2016,2015
+Dominic Solanke,Centre-Forward,1997-09-14,17,England,Vitesse Arnhem,Eredivisie,2015/2016,2015
+Yuning Zhang,Centre-Forward,1997-01-05,18,China,Vitesse Arnhem,Eredivisie,2015/2016,2015
+Konstantinos Lamprou,Goalkeeper,1991-09-18,23,Greece,Willem II Tilburg,Eredivisie,2015/2016,2015
+Nigel Bertrams,Goalkeeper,1993-01-08,22,Netherlands,Willem II Tilburg,Eredivisie,2015/2016,2015
+David Meul,Goalkeeper,1981-07-03,33,Belgium,Willem II Tilburg,Eredivisie,2015/2016,2015
+Stijn Wuytens,Centre-Back,1989-10-08,25,Belgium,Willem II Tilburg,Eredivisie,2015/2016,2015
+Jordens Peters,Centre-Back,1987-05-03,28,Netherlands,Willem II Tilburg,Eredivisie,2015/2016,2015
+Dries Wuytens,Centre-Back,1991-03-18,24,Belgium,Willem II Tilburg,Eredivisie,2015/2016,2015
+Freek Heerkens,Centre-Back,1989-09-13,25,Netherlands,Willem II Tilburg,Eredivisie,2015/2016,2015
+Dico Koppers,Left-Back,1992-01-31,23,Netherlands,Willem II Tilburg,Eredivisie,2015/2016,2015
+Rochdi Achenteh,Left-Back,1988-03-07,27,Morocco,Willem II Tilburg,Eredivisie,2015/2016,2015
+Nicky Kuiper,Left-Back,1989-06-07,26,Netherlands,Willem II Tilburg,Eredivisie,2015/2016,2015
+Frank van der Struijk,Right-Back,1985-03-28,30,Netherlands,Willem II Tilburg,Eredivisie,2015/2016,2015
+Ruben Ligeon,Right-Back,1992-05-24,23,Netherlands,Willem II Tilburg,Eredivisie,2015/2016,2015
+Guus Joppen,Right-Back,1989-11-14,25,Netherlands,Willem II Tilburg,Eredivisie,2015/2016,2015
+Anouar Kali,Defensive Midfield,1991-06-03,24,Morocco,Willem II Tilburg,Eredivisie,2015/2016,2015
+Jeffrey Altheer,Defensive Midfield,1987-03-09,28,Netherlands,Willem II Tilburg,Eredivisie,2015/2016,2015
+Thomas Kok,Defensive Midfield,1998-05-15,17,Netherlands,Willem II Tilburg,Eredivisie,2015/2016,2015
+Funso Ojo,Central Midfield,1991-08-28,23,Belgium,Willem II Tilburg,Eredivisie,2015/2016,2015
+Wiljan Pluim,Central Midfield,1989-01-04,26,Netherlands,Willem II Tilburg,Eredivisie,2015/2016,2015
+Robbie Haemhouts,Central Midfield,1983-12-09,31,Belgium,Willem II Tilburg,Eredivisie,2015/2016,2015
+Frenkie de Jong,Central Midfield,1997-05-12,18,Netherlands,Willem II Tilburg,Eredivisie,2015/2016,2015
+Jordy Vleugels,Central Midfield,1996-05-17,19,Belgium,Willem II Tilburg,Eredivisie,2015/2016,2015
+Erik Falkenburg,Attacking Midfield,1988-05-05,27,Netherlands,Willem II Tilburg,Eredivisie,2015/2016,2015
+Robert Braber,Attacking Midfield,1982-11-09,32,Netherlands,Willem II Tilburg,Eredivisie,2015/2016,2015
+Andy Kawaya,Left Winger,1996-08-23,18,Belgium,Willem II Tilburg,Eredivisie,2015/2016,2015
+Nick van der Velden,Left Winger,1981-12-16,33,Netherlands,Willem II Tilburg,Eredivisie,2015/2016,2015
+Bruno Andrade,Left Winger,1989-03-02,26,Brazil,Willem II Tilburg,Eredivisie,2015/2016,2015
+Guus Hupperts,Right Winger,1992-04-25,23,Netherlands,Willem II Tilburg,Eredivisie,2015/2016,2015
+Terell Ondaan,Right Winger,1993-09-09,21,Guyana,Willem II Tilburg,Eredivisie,2015/2016,2015
+Lesly de Sa,Right Winger,1993-04-02,22,Netherlands,Willem II Tilburg,Eredivisie,2015/2016,2015
+Justin Mathieu,Right Winger,1996-04-12,19,Netherlands,Willem II Tilburg,Eredivisie,2015/2016,2015
+Asumah Abubakar,Right Winger,1997-05-10,18,Portugal,Willem II Tilburg,Eredivisie,2015/2016,2015
+Lucas Andersen,Second Striker,1994-09-13,20,Denmark,Willem II Tilburg,Eredivisie,2015/2016,2015
+Richairo Zivkovic,Centre-Forward,1996-09-05,18,Netherlands,Willem II Tilburg,Eredivisie,2015/2016,2015
+Bartholomew Ogbeche,Centre-Forward,1984-10-01,30,Nigeria,Willem II Tilburg,Eredivisie,2015/2016,2015
+Adam Nemec,Centre-Forward,1985-09-02,29,Slovakia,Willem II Tilburg,Eredivisie,2015/2016,2015
+Sergio Padt,Goalkeeper,1990-06-06,25,Netherlands,FC Groningen,Eredivisie,2015/2016,2015
+Peter van der Vlag,Goalkeeper,1977-12-05,37,Netherlands,FC Groningen,Eredivisie,2015/2016,2015
+Eric Botteghin,Centre-Back,1987-08-31,27,Brazil,FC Groningen,Eredivisie,2015/2016,2015
+Johan Kappelhof,Centre-Back,1990-08-05,24,Netherlands,FC Groningen,Eredivisie,2015/2016,2015
+Martijn van der Laan,Centre-Back,1988-07-29,26,Netherlands,FC Groningen,Eredivisie,2015/2016,2015
+Etiënne Reijnen,Centre-Back,1987-04-05,28,Netherlands,FC Groningen,Eredivisie,2015/2016,2015
+Kasper Larsen,Centre-Back,1993-01-25,22,Denmark,FC Groningen,Eredivisie,2015/2016,2015
+Keziah Veendorp,Centre-Back,1997-02-17,18,Netherlands,FC Groningen,Eredivisie,2015/2016,2015
+Lorenzo Burnet,Left-Back,1991-01-11,24,Netherlands,FC Groningen,Eredivisie,2015/2016,2015
+Abel Tamata,Left-Back,1990-12-05,24,DR Congo,FC Groningen,Eredivisie,2015/2016,2015
+Roland Baas,Left-Back,1996-03-02,19,Netherlands,FC Groningen,Eredivisie,2015/2016,2015
+Hans Hateboer,Right-Back,1994-01-09,21,Netherlands,FC Groningen,Eredivisie,2015/2016,2015
+Desevio Payne,Right-Back,1995-11-30,19,United States,FC Groningen,Eredivisie,2015/2016,2015
+Hedwiges Maduro,Defensive Midfield,1985-02-13,30,Netherlands,FC Groningen,Eredivisie,2015/2016,2015
+Rasmus Lindgren,Defensive Midfield,1984-11-29,30,Sweden,FC Groningen,Eredivisie,2015/2016,2015
+Tom Hiariej,Defensive Midfield,1988-07-25,26,Netherlands,FC Groningen,Eredivisie,2015/2016,2015
+Glenn Bijl,Defensive Midfield,1995-07-13,19,Netherlands,FC Groningen,Eredivisie,2015/2016,2015
+Simon Tibbling,Central Midfield,1994-09-07,20,Sweden,FC Groningen,Eredivisie,2015/2016,2015
+Yoëll van Nieff,Central Midfield,1993-06-17,22,Netherlands,FC Groningen,Eredivisie,2015/2016,2015
+Juninho Bacuna,Central Midfield,1997-08-07,17,Netherlands,FC Groningen,Eredivisie,2015/2016,2015
+Robbert de Vos,Central Midfield,1996-05-26,19,Netherlands,FC Groningen,Eredivisie,2015/2016,2015
+Michael de Leeuw,Attacking Midfield,1986-10-07,28,Netherlands,FC Groningen,Eredivisie,2015/2016,2015
+Jesper Drost,Attacking Midfield,1993-01-11,22,Netherlands,FC Groningen,Eredivisie,2015/2016,2015
+Albert Rusnák,Attacking Midfield,1994-07-07,20,Slovakia,FC Groningen,Eredivisie,2015/2016,2015
+Bryan Linssen,Left Winger,1990-10-08,24,Netherlands,FC Groningen,Eredivisie,2015/2016,2015
+Mimoun Mahi,Left Winger,1994-03-13,21,Morocco,FC Groningen,Eredivisie,2015/2016,2015
+Oussama Idrissi,Left Winger,1996-02-26,19,Morocco,FC Groningen,Eredivisie,2015/2016,2015
+Jarchinio Antonia,Right Winger,1990-12-27,24,Curacao,FC Groningen,Eredivisie,2015/2016,2015
+Danny Hoesen,Centre-Forward,1991-01-15,24,Netherlands,FC Groningen,Eredivisie,2015/2016,2015
+Alexander Sörloth,Centre-Forward,1995-12-05,19,Norway,FC Groningen,Eredivisie,2015/2016,2015
+Dino Islamovic,Centre-Forward,1994-01-17,21,Sweden,FC Groningen,Eredivisie,2015/2016,2015
+Gijs Jasper,Centre-Forward,1996-11-15,18,Netherlands,FC Groningen,Eredivisie,2015/2016,2015
+Martin Hansen,Goalkeeper,1990-06-15,25,Denmark,ADO Den Haag,Eredivisie,2015/2016,2015
+Robert Zwinkels,Goalkeeper,1983-05-04,32,Netherlands,ADO Den Haag,Eredivisie,2015/2016,2015
+Tim Coremans,Goalkeeper,1991-04-10,24,Netherlands,ADO Den Haag,Eredivisie,2015/2016,2015
+Rody de Boer,Goalkeeper,1997-08-22,17,Netherlands,ADO Den Haag,Eredivisie,2015/2016,2015
+Wilfried Kanon,Centre-Back,1993-07-06,21,Cote d'Ivoire,ADO Den Haag,Eredivisie,2015/2016,2015
+Tom Beugelsdijk,Centre-Back,1990-08-07,24,Netherlands,ADO Den Haag,Eredivisie,2015/2016,2015
+Vito Wormgoor,Centre-Back,1988-11-16,26,Netherlands,ADO Den Haag,Eredivisie,2015/2016,2015
+Gianni Zuiverloon,Centre-Back,1986-12-30,28,Netherlands,ADO Den Haag,Eredivisie,2015/2016,2015
+Timothy Derijck,Centre-Back,1987-05-25,28,Belgium,ADO Den Haag,Eredivisie,2015/2016,2015
+Dylan Nieuwenhuijs,Centre-Back,1995-01-27,20,Netherlands,ADO Den Haag,Eredivisie,2015/2016,2015
+Aaron Meijers,Left-Back,1987-10-28,27,Netherlands,ADO Den Haag,Eredivisie,2015/2016,2015
+Tyronne Ebuehi,Right-Back,1995-12-16,19,Nigeria,ADO Den Haag,Eredivisie,2015/2016,2015
+Dion Malone,Defensive Midfield,1989-02-13,26,Netherlands,ADO Den Haag,Eredivisie,2015/2016,2015
+Kyle Ebecilio,Central Midfield,1994-02-17,21,Netherlands,ADO Den Haag,Eredivisie,2015/2016,2015
+Thomas Kristensen,Central Midfield,1983-04-17,32,Denmark,ADO Den Haag,Eredivisie,2015/2016,2015
+Kevin Jansen,Central Midfield,1992-04-08,23,Netherlands,ADO Den Haag,Eredivisie,2015/2016,2015
+Danny Bakker,Central Midfield,1995-01-16,20,Netherlands,ADO Den Haag,Eredivisie,2015/2016,2015
+Roland Alberg,Attacking Midfield,1990-08-06,24,Netherlands,ADO Den Haag,Eredivisie,2015/2016,2015
+Mathias Gehrt,Attacking Midfield,1992-06-07,23,Denmark,ADO Den Haag,Eredivisie,2015/2016,2015
+Hector Hevel,Attacking Midfield,1996-05-15,19,Netherlands,ADO Den Haag,Eredivisie,2015/2016,2015
+Édouard Duplan,Left Winger,1983-05-13,32,France,ADO Den Haag,Eredivisie,2015/2016,2015
+Ludcinio Marengo,Left Winger,1991-09-14,23,Netherlands,ADO Den Haag,Eredivisie,2015/2016,2015
+Segun Owobowale,Left Winger,1997-03-22,18,Netherlands,ADO Den Haag,Eredivisie,2015/2016,2015
+Gervane Kastaneer,Left Winger,1996-06-09,19,Curacao,ADO Den Haag,Eredivisie,2015/2016,2015
+Ruben Schaken,Right Winger,1982-04-03,33,Netherlands,ADO Den Haag,Eredivisie,2015/2016,2015
+Giovanni Korte,Right Winger,1993-08-01,21,Netherlands,ADO Den Haag,Eredivisie,2015/2016,2015
+Kenji Gorré,Right Winger,1994-09-29,20,Curacao,ADO Den Haag,Eredivisie,2015/2016,2015
+Mike Havenaar,Centre-Forward,1987-05-20,28,Japan,ADO Den Haag,Eredivisie,2015/2016,2015
+Dennis van der Heijden,Centre-Forward,1997-02-17,18,Netherlands,ADO Den Haag,Eredivisie,2015/2016,2015
+Mickey van der Hart,Goalkeeper,1994-06-13,21,Netherlands,PEC Zwolle,Eredivisie,2015/2016,2015
+Kevin Begois,Goalkeeper,1982-05-13,33,Belgium,PEC Zwolle,Eredivisie,2015/2016,2015
+Boy de Jong,Goalkeeper,1994-04-10,21,Netherlands,PEC Zwolle,Eredivisie,2015/2016,2015
+Mike Hauptmeijer,Goalkeeper,1997-03-18,18,Netherlands,PEC Zwolle,Eredivisie,2015/2016,2015
+Trent Sainsbury,Centre-Back,1992-01-05,23,Australia,PEC Zwolle,Eredivisie,2015/2016,2015
+Dirk Marcellis,Centre-Back,1988-04-13,27,Netherlands,PEC Zwolle,Eredivisie,2015/2016,2015
+Bart Schenkeveld,Centre-Back,1991-08-28,23,Netherlands,PEC Zwolle,Eredivisie,2015/2016,2015
+Thomas Lam,Centre-Back,1993-12-18,21,Finland,PEC Zwolle,Eredivisie,2015/2016,2015
+Josef Kvida,Centre-Back,1997-01-23,18,Czech Republic,PEC Zwolle,Eredivisie,2015/2016,2015
+Sander van Looy,Centre-Back,1997-05-29,18,Netherlands,PEC Zwolle,Eredivisie,2015/2016,2015
+Mark Bruintjes,Centre-Back,1996-06-26,19,Netherlands,PEC Zwolle,Eredivisie,2015/2016,2015
+Tarik Evre,Centre-Back,1996-05-29,19,Netherlands,PEC Zwolle,Eredivisie,2015/2016,2015
+Bart van Hintum,Left-Back,1987-01-16,28,Netherlands,PEC Zwolle,Eredivisie,2015/2016,2015
+Bram van Polen,Right-Back,1985-10-11,29,Netherlands,PEC Zwolle,Eredivisie,2015/2016,2015
+Kingsley Ehizibue,Right-Back,1995-05-25,20,Netherlands,PEC Zwolle,Eredivisie,2015/2016,2015
+Pim ten Have,Right-Back,1996-08-19,18,Netherlands,PEC Zwolle,Eredivisie,2015/2016,2015
+Dalvin Havertong,Right-Back,1995-02-27,20,Netherlands,PEC Zwolle,Eredivisie,2015/2016,2015
+Wout Brama,Defensive Midfield,1986-08-21,28,Netherlands,PEC Zwolle,Eredivisie,2015/2016,2015
+Ouasim Bouy,Defensive Midfield,1993-06-11,22,Morocco,PEC Zwolle,Eredivisie,2015/2016,2015
+Rick Dekker,Defensive Midfield,1995-03-15,20,Netherlands,PEC Zwolle,Eredivisie,2015/2016,2015
+Ben Rienstra,Central Midfield,1990-06-05,25,Netherlands,PEC Zwolle,Eredivisie,2015/2016,2015
+Ryan Thomas,Central Midfield,1994-12-20,20,New Zealand,PEC Zwolle,Eredivisie,2015/2016,2015
+Dario Tanda,Central Midfield,1995-01-02,20,Netherlands,PEC Zwolle,Eredivisie,2015/2016,2015
+Abdel Malek El Hasnaoui,Central Midfield,1994-02-09,21,Netherlands,PEC Zwolle,Eredivisie,2015/2016,2015
+Jeroen Buitenhuis,Central Midfield,1996-06-22,19,Netherlands,PEC Zwolle,Eredivisie,2015/2016,2015
+Gustavo Hebling,Central Midfield,1996-04-05,19,Brazil,PEC Zwolle,Eredivisie,2015/2016,2015
+Mustafa Saymak,Attacking Midfield,1993-02-11,22,Netherlands,PEC Zwolle,Eredivisie,2015/2016,2015
+Stef Nijland,Attacking Midfield,1988-08-10,26,Netherlands,PEC Zwolle,Eredivisie,2015/2016,2015
+Wouter Marinus,Attacking Midfield,1995-02-18,20,Netherlands,PEC Zwolle,Eredivisie,2015/2016,2015
+Boris Rasevic,Attacking Midfield,1995-01-26,20,Bosnia-Herzegovina,PEC Zwolle,Eredivisie,2015/2016,2015
+Sander Thomas,Attacking Midfield,1997-06-26,18,Netherlands,PEC Zwolle,Eredivisie,2015/2016,2015
+Youness Mokhtar,Left Winger,1991-08-29,23,Morocco,PEC Zwolle,Eredivisie,2015/2016,2015
+Queensy Menig,Left Winger,1995-08-19,19,Netherlands,PEC Zwolle,Eredivisie,2015/2016,2015
+Boban Lazic,Left Winger,1994-01-29,21,Bosnia-Herzegovina,PEC Zwolle,Eredivisie,2015/2016,2015
+Athanasios Karagounis,Right Winger,1991-09-25,23,Greece,PEC Zwolle,Eredivisie,2015/2016,2015
+Sheraldo Becker,Right Winger,1995-02-09,20,Netherlands,PEC Zwolle,Eredivisie,2015/2016,2015
+Lars Veldwijk,Centre-Forward,1991-08-21,23,South Africa,PEC Zwolle,Eredivisie,2015/2016,2015
+David Browne,Centre-Forward,1995-12-27,19,Papua New Guinea,PEC Zwolle,Eredivisie,2015/2016,2015
+Samet Bulut,Centre-Forward,1996-02-26,19,Turkey,PEC Zwolle,Eredivisie,2015/2016,2015
+Erwin Mulder,Goalkeeper,1989-03-03,26,Netherlands,SC Heerenveen,Eredivisie,2015/2016,2015
+Maarten de Fockert,Goalkeeper,1995-02-20,20,Netherlands,SC Heerenveen,Eredivisie,2015/2016,2015
+Jan Bekkema,Goalkeeper,1996-04-09,19,Netherlands,SC Heerenveen,Eredivisie,2015/2016,2015
+Wieger Sietsma,Goalkeeper,1995-07-11,19,Netherlands,SC Heerenveen,Eredivisie,2015/2016,2015
+Joost van Aken,Centre-Back,1994-05-13,21,Netherlands,SC Heerenveen,Eredivisie,2015/2016,2015
+Jordy Buijs,Centre-Back,1988-12-28,26,Netherlands,SC Heerenveen,Eredivisie,2015/2016,2015
+Kenny Otigba,Centre-Back,1992-08-29,22,Hungary,SC Heerenveen,Eredivisie,2015/2016,2015
+Robert van Koesveld,Centre-Back,1995-01-24,20,Netherlands,SC Heerenveen,Eredivisie,2015/2016,2015
+Jeremiah St. Juste,Centre-Back,1996-10-19,18,Netherlands,SC Heerenveen,Eredivisie,2015/2016,2015
+Lucas Bijker,Left-Back,1993-03-04,22,Netherlands,SC Heerenveen,Eredivisie,2015/2016,2015
+Caner Cavlan,Left-Back,1992-02-05,23,Netherlands,SC Heerenveen,Eredivisie,2015/2016,2015
+Joris Voest,Left-Back,1995-01-08,20,Netherlands,SC Heerenveen,Eredivisie,2015/2016,2015
+Pele van Anholt,Right-Back,1991-04-23,24,Netherlands,SC Heerenveen,Eredivisie,2015/2016,2015
+Stefano Marzo,Right-Back,1991-03-22,24,Belgium,SC Heerenveen,Eredivisie,2015/2016,2015
+Doke Schmidt,Right-Back,1992-04-07,23,Netherlands,SC Heerenveen,Eredivisie,2015/2016,2015
+Willem Huizing,Right-Back,1995-02-01,20,Netherlands,SC Heerenveen,Eredivisie,2015/2016,2015
+Stefan Gartenmann,Right-Back,1997-02-02,18,Denmark,SC Heerenveen,Eredivisie,2015/2016,2015
+Rannick Schoop,Right-Back,1996-09-25,18,Curacao,SC Heerenveen,Eredivisie,2015/2016,2015
+Joey van den Berg,Defensive Midfield,1986-02-13,29,Netherlands,SC Heerenveen,Eredivisie,2015/2016,2015
+Rewan Amin,Defensive Midfield,1996-01-08,19,Netherlands,SC Heerenveen,Eredivisie,2015/2016,2015
+Simon Thern,Central Midfield,1992-09-18,22,Sweden,SC Heerenveen,Eredivisie,2015/2016,2015
+Morten Thorsby,Central Midfield,1996-05-05,19,Norway,SC Heerenveen,Eredivisie,2015/2016,2015
+Branco van den Boomen,Central Midfield,1995-07-21,19,Netherlands,SC Heerenveen,Eredivisie,2015/2016,2015
+Younes Namli,Attacking Midfield,1994-06-20,21,Denmark,SC Heerenveen,Eredivisie,2015/2016,2015
+Michel Vlap,Attacking Midfield,1997-06-02,18,Netherlands,SC Heerenveen,Eredivisie,2015/2016,2015
+Sam Larsson,Left Winger,1993-04-10,22,Sweden,SC Heerenveen,Eredivisie,2015/2016,2015
+Arbër Zeneli,Left Winger,1995-02-25,20,Kosovo,SC Heerenveen,Eredivisie,2015/2016,2015
+Luciano Slagveer,Right Winger,1993-10-05,21,Netherlands,SC Heerenveen,Eredivisie,2015/2016,2015
+Tarik Kada,Right Winger,1996-05-26,19,Netherlands,SC Heerenveen,Eredivisie,2015/2016,2015
+Mitchell te Vrede,Centre-Forward,1991-08-07,23,Netherlands,SC Heerenveen,Eredivisie,2015/2016,2015
+Luka Zahovic,Centre-Forward,1995-11-15,19,Slovenia,SC Heerenveen,Eredivisie,2015/2016,2015
+Henk Veerman,Centre-Forward,1991-02-26,24,Netherlands,SC Heerenveen,Eredivisie,2015/2016,2015
+Pascal Huser,Centre-Forward,1995-04-17,20,Netherlands,SC Heerenveen,Eredivisie,2015/2016,2015
+Bram Verbist,Goalkeeper,1983-03-05,32,Belgium,Roda JC Kerkrade,Eredivisie,2015/2016,2015
+Benjamin van Leer,Goalkeeper,1992-04-09,23,Netherlands,Roda JC Kerkrade,Eredivisie,2015/2016,2015
+Yannick Derix,Goalkeeper,1991-06-28,24,Netherlands,Roda JC Kerkrade,Eredivisie,2015/2016,2015
+Nick Wolters,Goalkeeper,1993-08-05,21,Netherlands,Roda JC Kerkrade,Eredivisie,2015/2016,2015
+Jordy Buijs,Centre-Back,1988-12-28,26,Netherlands,Roda JC Kerkrade,Eredivisie,2015/2016,2015
+Arjan Swinkels,Centre-Back,1984-10-15,30,Netherlands,Roda JC Kerkrade,Eredivisie,2015/2016,2015
+Gibril Sankoh,Centre-Back,1983-05-15,32,Sierra Leone,Roda JC Kerkrade,Eredivisie,2015/2016,2015
+Bart Biemans,Centre-Back,1988-03-14,27,Belgium,Roda JC Kerkrade,Eredivisie,2015/2016,2015
+Daryl Werker,Centre-Back,1994-06-27,21,Netherlands,Roda JC Kerkrade,Eredivisie,2015/2016,2015
+Ard van Peppen,Left-Back,1985-06-26,30,Netherlands,Roda JC Kerkrade,Eredivisie,2015/2016,2015
+Ali Yasar,Left-Back,1995-03-08,20,Belgium,Roda JC Kerkrade,Eredivisie,2015/2016,2015
+Willem Ofori,Left-Back,1994-02-19,21,Belgium,Roda JC Kerkrade,Eredivisie,2015/2016,2015
+Martin Milec,Right-Back,1991-09-20,23,Slovenia,Roda JC Kerkrade,Eredivisie,2015/2016,2015
+Henk Dijkhuizen,Right-Back,1992-06-09,23,Netherlands,Roda JC Kerkrade,Eredivisie,2015/2016,2015
+Martijn Monteyne,Right-Back,1984-11-12,30,Belgium,Roda JC Kerkrade,Eredivisie,2015/2016,2015
+Rostyn Griffiths,Defensive Midfield,1988-03-10,27,Australia,Roda JC Kerkrade,Eredivisie,2015/2016,2015
+Nathan Rutjes,Defensive Midfield,1983-12-01,31,Netherlands,Roda JC Kerkrade,Eredivisie,2015/2016,2015
+Marcos Gullón,Central Midfield,1989-02-20,26,Spain,Roda JC Kerkrade,Eredivisie,2015/2016,2015
+Tom Van Hyfte,Central Midfield,1986-04-28,29,Belgium,Roda JC Kerkrade,Eredivisie,2015/2016,2015
+Jens van Son,Central Midfield,1987-08-19,27,Netherlands,Roda JC Kerkrade,Eredivisie,2015/2016,2015
+Hicham Faik,Central Midfield,1992-03-19,23,Netherlands,Roda JC Kerkrade,Eredivisie,2015/2016,2015
+Georgi Zhukov,Central Midfield,1994-11-19,20,Kazakhstan,Roda JC Kerkrade,Eredivisie,2015/2016,2015
+Ugur Inceman,Central Midfield,1981-05-25,34,Turkey,Roda JC Kerkrade,Eredivisie,2015/2016,2015
+Farshad Noor,Central Midfield,1994-10-02,20,Afghanistan,Roda JC Kerkrade,Eredivisie,2015/2016,2015
+Jorrit Smeets,Central Midfield,1995-03-25,20,Netherlands,Roda JC Kerkrade,Eredivisie,2015/2016,2015
+Daniel De Silva,Attacking Midfield,1997-03-06,18,Australia,Roda JC Kerkrade,Eredivisie,2015/2016,2015
+Mitchel Paulissen,Attacking Midfield,1993-04-21,22,Netherlands,Roda JC Kerkrade,Eredivisie,2015/2016,2015
+Santiago Palacios,Attacking Midfield,1991-04-21,24,Mexico,Roda JC Kerkrade,Eredivisie,2015/2016,2015
+Kristoffer Peterson,Left Winger,1994-11-28,20,Sweden,Roda JC Kerkrade,Eredivisie,2015/2016,2015
+Anco Jansen,Left Winger,1989-03-09,26,Netherlands,Roda JC Kerkrade,Eredivisie,2015/2016,2015
+Brian Jacobs,Left Winger,1995-03-30,20,Netherlands,Roda JC Kerkrade,Eredivisie,2015/2016,2015
+Edwin Gyasi,Right Winger,1991-07-01,24,Ghana,Roda JC Kerkrade,Eredivisie,2015/2016,2015
+Marc Höcher,Right Winger,1984-09-09,30,Netherlands,Roda JC Kerkrade,Eredivisie,2015/2016,2015
+Richmond Boakye,Centre-Forward,1993-01-28,22,Ghana,Roda JC Kerkrade,Eredivisie,2015/2016,2015
+Mike van Duinen,Centre-Forward,1991-11-06,23,Netherlands,Roda JC Kerkrade,Eredivisie,2015/2016,2015
+Tomi Juric,Centre-Forward,1991-07-22,23,Australia,Roda JC Kerkrade,Eredivisie,2015/2016,2015
+Rydell Poepon,Centre-Forward,1987-08-28,27,Netherlands,Roda JC Kerkrade,Eredivisie,2015/2016,2015
+Rigino Cicilia,Centre-Forward,1994-09-23,20,Curacao,Roda JC Kerkrade,Eredivisie,2015/2016,2015
+Maecky Ngombo,Centre-Forward,1995-03-31,20,Belgium,Roda JC Kerkrade,Eredivisie,2015/2016,2015
+Tim Blättler,Centre-Forward,1994-09-04,20,Netherlands,Roda JC Kerkrade,Eredivisie,2015/2016,2015
+Robbin Ruiter,Goalkeeper,1987-03-25,28,Netherlands,FC Utrecht,Eredivisie,2015/2016,2015
+Filip Bednarek,Goalkeeper,1992-09-26,22,Poland,FC Utrecht,Eredivisie,2015/2016,2015
+Menno Heus,Goalkeeper,1995-12-17,19,Netherlands,FC Utrecht,Eredivisie,2015/2016,2015
+Thijmen Nijhuis,Goalkeeper,1998-07-25,16,Netherlands,FC Utrecht,Eredivisie,2015/2016,2015
+Willem Janssen,Centre-Back,1986-07-04,28,Netherlands,FC Utrecht,Eredivisie,2015/2016,2015
+Ramon Leeuwin,Centre-Back,1987-09-01,27,Netherlands,FC Utrecht,Eredivisie,2015/2016,2015
+Christian Kum,Centre-Back,1985-09-13,29,Netherlands,FC Utrecht,Eredivisie,2015/2016,2015
+Timo Letschert,Centre-Back,1993-05-25,22,Netherlands,FC Utrecht,Eredivisie,2015/2016,2015
+Myenty Abena,Centre-Back,1994-12-12,20,Netherlands,FC Utrecht,Eredivisie,2015/2016,2015
+Jelle de Lange,Centre-Back,1998-01-30,17,Netherlands,FC Utrecht,Eredivisie,2015/2016,2015
+Kevin Conboy,Left-Back,1987-10-15,27,Denmark,FC Utrecht,Eredivisie,2015/2016,2015
+Jeff Hardeveld,Left-Back,1995-02-27,20,Netherlands,FC Utrecht,Eredivisie,2015/2016,2015
+Yannick Cortie,Left-Back,1993-05-07,22,Netherlands,FC Utrecht,Eredivisie,2015/2016,2015
+Louis Nganioni,Left-Back,1995-06-03,20,France,FC Utrecht,Eredivisie,2015/2016,2015
+Mark van der Maarel,Right-Back,1989-08-12,25,Netherlands,FC Utrecht,Eredivisie,2015/2016,2015
+Ruben Ligeon,Right-Back,1992-05-24,23,Netherlands,FC Utrecht,Eredivisie,2015/2016,2015
+Sean Klaiber,Right-Back,1994-07-31,20,Netherlands,FC Utrecht,Eredivisie,2015/2016,2015
+Giovanni Troupée,Right-Back,1998-03-20,17,Netherlands,FC Utrecht,Eredivisie,2015/2016,2015
+Ali Ulusoy,Right-Back,1996-02-15,19,Netherlands,FC Utrecht,Eredivisie,2015/2016,2015
+Rico Strieder,Defensive Midfield,1992-07-06,22,Germany,FC Utrecht,Eredivisie,2015/2016,2015
+Nassir El Aissati,Defensive Midfield,1994-08-12,20,Netherlands,FC Utrecht,Eredivisie,2015/2016,2015
+Yassin Ayoub,Central Midfield,1994-03-06,21,Morocco,FC Utrecht,Eredivisie,2015/2016,2015
+Sofyan Amrabat,Central Midfield,1996-08-21,18,Morocco,FC Utrecht,Eredivisie,2015/2016,2015
+Darren Rosheuvel,Central Midfield,1994-05-15,21,Netherlands,FC Utrecht,Eredivisie,2015/2016,2015
+Nacer Barazite,Attacking Midfield,1990-05-27,25,Netherlands,FC Utrecht,Eredivisie,2015/2016,2015
+Andreas Ludwig,Attacking Midfield,1990-09-11,24,Germany,FC Utrecht,Eredivisie,2015/2016,2015
+Mark Diemers,Attacking Midfield,1993-10-11,21,Netherlands,FC Utrecht,Eredivisie,2015/2016,2015
+Bart Ramselaar,Attacking Midfield,1996-06-29,19,Netherlands,FC Utrecht,Eredivisie,2015/2016,2015
+Issa Kallon,Left Winger,1996-01-03,19,Netherlands,FC Utrecht,Eredivisie,2015/2016,2015
+Kristoffer Peterson,Left Winger,1994-11-28,20,Sweden,FC Utrecht,Eredivisie,2015/2016,2015
+Rodney Antwi,Left Winger,1995-11-03,19,Netherlands,FC Utrecht,Eredivisie,2015/2016,2015
+Patrick Joosten,Left Winger,1996-04-14,19,Netherlands,FC Utrecht,Eredivisie,2015/2016,2015
+Hamza Boukhari,Right Winger,1995-03-28,20,Netherlands,FC Utrecht,Eredivisie,2015/2016,2015
+Ruud Boymans,Centre-Forward,1989-08-24,25,Netherlands,FC Utrecht,Eredivisie,2015/2016,2015
+Sébastien Haller,Centre-Forward,1994-06-22,21,France,FC Utrecht,Eredivisie,2015/2016,2015
+Rubio Rubin,Centre-Forward,1996-03-01,19,United States,FC Utrecht,Eredivisie,2015/2016,2015
+Brad Jones,Goalkeeper,1982-03-19,33,Australia,NEC Nijmegen,Eredivisie,2015/2016,2015
+Hannes Thór Halldórsson,Goalkeeper,1984-04-27,31,Iceland,NEC Nijmegen,Eredivisie,2015/2016,2015
+Benjamin Kirsten,Goalkeeper,1987-06-02,28,Germany,NEC Nijmegen,Eredivisie,2015/2016,2015
+Joshua Smits,Goalkeeper,1992-11-06,22,Netherlands,NEC Nijmegen,Eredivisie,2015/2016,2015
+Marco van Duin,Goalkeeper,1987-02-11,28,Netherlands,NEC Nijmegen,Eredivisie,2015/2016,2015
+Guy Smit,Goalkeeper,1996-01-19,19,Netherlands,NEC Nijmegen,Eredivisie,2015/2016,2015
+Dario Dumic,Centre-Back,1992-01-30,23,Bosnia-Herzegovina,NEC Nijmegen,Eredivisie,2015/2016,2015
+Rens van Eijden,Centre-Back,1988-03-03,27,Netherlands,NEC Nijmegen,Eredivisie,2015/2016,2015
+Marcel Appiah,Centre-Back,1988-03-26,27,Germany,NEC Nijmegen,Eredivisie,2015/2016,2015
+Wojciech Golla,Centre-Back,1992-01-12,23,Poland,NEC Nijmegen,Eredivisie,2015/2016,2015
+Abdul Bai Kamara,Centre-Back,1996-05-25,19,Netherlands,NEC Nijmegen,Eredivisie,2015/2016,2015
+Bart Buysse,Left-Back,1986-10-16,28,Belgium,NEC Nijmegen,Eredivisie,2015/2016,2015
+Lucas Woudenberg,Left-Back,1994-04-25,21,Netherlands,NEC Nijmegen,Eredivisie,2015/2016,2015
+Jeffrey Leiwakabessy,Left-Back,1981-02-23,34,Netherlands,NEC Nijmegen,Eredivisie,2015/2016,2015
+Mikael Dyrestam,Right-Back,1991-12-10,23,Guinea,NEC Nijmegen,Eredivisie,2015/2016,2015
+Todd Kane,Right-Back,1993-09-17,21,England,NEC Nijmegen,Eredivisie,2015/2016,2015
+Marcel Ritzmaier,Central Midfield,1993-04-22,22,Austria,NEC Nijmegen,Eredivisie,2015/2016,2015
+Tom Daemen,Central Midfield,1985-06-17,30,Netherlands,NEC Nijmegen,Eredivisie,2015/2016,2015
+Gregor Breinburg,Central Midfield,1991-09-16,23,Aruba,NEC Nijmegen,Eredivisie,2015/2016,2015
+Janio Bikel,Central Midfield,1995-06-28,20,Portugal,NEC Nijmegen,Eredivisie,2015/2016,2015
+Cihat Celik,Central Midfield,1996-01-02,19,Netherlands,NEC Nijmegen,Eredivisie,2015/2016,2015
+Navarone Foor,Attacking Midfield,1992-02-04,23,Netherlands,NEC Nijmegen,Eredivisie,2015/2016,2015
+Kristján Gauti Emilsson,Attacking Midfield,1993-04-26,22,Iceland,NEC Nijmegen,Eredivisie,2015/2016,2015
+Anthony Limbombe,Left Winger,1994-07-15,20,Belgium,NEC Nijmegen,Eredivisie,2015/2016,2015
+Joey Sleegers,Left Winger,1994-07-20,20,Netherlands,NEC Nijmegen,Eredivisie,2015/2016,2015
+Mohamed Rayhi,Left Winger,1994-07-01,21,Netherlands,NEC Nijmegen,Eredivisie,2015/2016,2015
+Sam Lundholm,Right Winger,1994-07-01,21,Sweden,NEC Nijmegen,Eredivisie,2015/2016,2015
+Mihai Al. Roman,Centre-Forward,1992-05-31,23,Romania,NEC Nijmegen,Eredivisie,2015/2016,2015
+Sjoerd Ars,Centre-Forward,1984-04-15,31,Netherlands,NEC Nijmegen,Eredivisie,2015/2016,2015
+Christian Santos,Centre-Forward,1988-03-24,27,Venezuela,NEC Nijmegen,Eredivisie,2015/2016,2015
+Jay-Roy Grot,Centre-Forward,1998-03-13,17,Netherlands,NEC Nijmegen,Eredivisie,2015/2016,2015
+Leonard Nienhuis,Goalkeeper,1990-03-16,25,Netherlands,SC Cambuur-Leeuwarden,Eredivisie,2015/2016,2015
+André Krul,Goalkeeper,1987-05-08,28,Netherlands,SC Cambuur-Leeuwarden,Eredivisie,2015/2016,2015
+Harm Zeinstra,Goalkeeper,1989-07-21,25,Netherlands,SC Cambuur-Leeuwarden,Eredivisie,2015/2016,2015
+Darryl Lachman,Centre-Back,1989-11-11,25,Curacao,SC Cambuur-Leeuwarden,Eredivisie,2015/2016,2015
+Kai Heerings,Centre-Back,1990-01-12,25,Netherlands,SC Cambuur-Leeuwarden,Eredivisie,2015/2016,2015
+Etiënne Reijnen,Centre-Back,1987-04-05,28,Netherlands,SC Cambuur-Leeuwarden,Eredivisie,2015/2016,2015
+Martijn van der Laan,Centre-Back,1988-07-29,26,Netherlands,SC Cambuur-Leeuwarden,Eredivisie,2015/2016,2015
+Calvin Mac-Intosch,Centre-Back,1989-08-09,25,Netherlands,SC Cambuur-Leeuwarden,Eredivisie,2015/2016,2015
+Wessel Dammers,Centre-Back,1995-03-01,20,Netherlands,SC Cambuur-Leeuwarden,Eredivisie,2015/2016,2015
+Ron Janzen,Centre-Back,1994-01-05,21,Netherlands,SC Cambuur-Leeuwarden,Eredivisie,2015/2016,2015
+Omar El Baad,Centre-Back,1996-02-01,19,Netherlands,SC Cambuur-Leeuwarden,Eredivisie,2015/2016,2015
+Vytautas Andriuskevicius,Left-Back,1990-10-08,24,Lithuania,SC Cambuur-Leeuwarden,Eredivisie,2015/2016,2015
+Marvin Peersman,Left-Back,1991-02-10,24,Belgium,SC Cambuur-Leeuwarden,Eredivisie,2015/2016,2015
+Delvechio Blackson,Left-Back,1995-02-26,20,Netherlands,SC Cambuur-Leeuwarden,Eredivisie,2015/2016,2015
+Marlon Pereira,Right-Back,1987-03-26,28,Aruba,SC Cambuur-Leeuwarden,Eredivisie,2015/2016,2015
+Tom Hiariej,Defensive Midfield,1988-07-25,26,Netherlands,SC Cambuur-Leeuwarden,Eredivisie,2015/2016,2015
+Berend Schootstra,Defensive Midfield,1995-03-11,20,Netherlands,SC Cambuur-Leeuwarden,Eredivisie,2015/2016,2015
+Noureddine Boutzamar,Defensive Midfield,1994-04-09,21,Netherlands,SC Cambuur-Leeuwarden,Eredivisie,2015/2016,2015
+Sjoerd Overgoor,Central Midfield,1988-09-06,26,Netherlands,SC Cambuur-Leeuwarden,Eredivisie,2015/2016,2015
+Erik Bakker,Central Midfield,1990-03-21,25,Netherlands,SC Cambuur-Leeuwarden,Eredivisie,2015/2016,2015
+Jack Byrne,Central Midfield,1996-04-24,19,Ireland,SC Cambuur-Leeuwarden,Eredivisie,2015/2016,2015
+Jamiro Monteiro,Central Midfield,1993-11-23,21,Cape Verde,SC Cambuur-Leeuwarden,Eredivisie,2015/2016,2015
+Djavan Anderson,Right Midfield,1995-04-21,20,Netherlands,SC Cambuur-Leeuwarden,Eredivisie,2015/2016,2015
+Rai Vloet,Attacking Midfield,1995-05-08,20,Netherlands,SC Cambuur-Leeuwarden,Eredivisie,2015/2016,2015
+Sander van de Streek,Attacking Midfield,1993-03-24,22,Netherlands,SC Cambuur-Leeuwarden,Eredivisie,2015/2016,2015
+Sebastian Steblecki,Attacking Midfield,1992-01-16,23,Poland,SC Cambuur-Leeuwarden,Eredivisie,2015/2016,2015
+Dominik Masek,Attacking Midfield,1995-07-10,19,Czech Republic,SC Cambuur-Leeuwarden,Eredivisie,2015/2016,2015
+Xander Houtkoop,Left Winger,1989-03-26,26,Netherlands,SC Cambuur-Leeuwarden,Eredivisie,2015/2016,2015
+Jergé Hoefdraad,Left Winger,1986-07-17,28,Netherlands,SC Cambuur-Leeuwarden,Eredivisie,2015/2016,2015
+Mikhail Rosheuvel,Right Winger,1990-08-10,24,Netherlands,SC Cambuur-Leeuwarden,Eredivisie,2015/2016,2015
+Furdjel Narsingh,Right Winger,1988-03-13,27,Netherlands,SC Cambuur-Leeuwarden,Eredivisie,2015/2016,2015
+Bartholomew Ogbeche,Centre-Forward,1984-10-01,30,Nigeria,SC Cambuur-Leeuwarden,Eredivisie,2015/2016,2015
+Martijn Barto,Centre-Forward,1984-08-23,30,Netherlands,SC Cambuur-Leeuwarden,Eredivisie,2015/2016,2015
+Valmir Berisha,Centre-Forward,1996-06-06,19,Sweden,SC Cambuur-Leeuwarden,Eredivisie,2015/2016,2015
+Kevin van Veen,Centre-Forward,1991-06-01,24,Netherlands,SC Cambuur-Leeuwarden,Eredivisie,2015/2016,2015
+Rowdy van der Putten,Centre-Forward,1996-02-12,19,Netherlands,SC Cambuur-Leeuwarden,Eredivisie,2015/2016,2015
+Bram Castro,Goalkeeper,1982-09-30,32,Belgium,Heracles Almelo,Eredivisie,2015/2016,2015
+Renze Fij,Goalkeeper,1992-09-26,22,Netherlands,Heracles Almelo,Eredivisie,2015/2016,2015
+Michael Brouwer,Goalkeeper,1993-01-21,22,Netherlands,Heracles Almelo,Eredivisie,2015/2016,2015
+Mike te Wierik,Centre-Back,1992-06-08,23,Netherlands,Heracles Almelo,Eredivisie,2015/2016,2015
+Ramon Zomer,Centre-Back,1983-04-13,32,Netherlands,Heracles Almelo,Eredivisie,2015/2016,2015
+Gino Bosz,Centre-Back,1993-04-23,22,Netherlands,Heracles Almelo,Eredivisie,2015/2016,2015
+Coen Gortemaker,Centre-Back,1994-01-29,21,Netherlands,Heracles Almelo,Eredivisie,2015/2016,2015
+Justin Hoogma,Centre-Back,1998-06-11,17,Netherlands,Heracles Almelo,Eredivisie,2015/2016,2015
+Mark-Jan Fledderus,Left-Back,1982-12-14,32,Netherlands,Heracles Almelo,Eredivisie,2015/2016,2015
+Robin Gosens,Left-Back,1994-07-05,20,Germany,Heracles Almelo,Eredivisie,2015/2016,2015
+Marijn de Kler,Left-Back,1994-04-18,21,Netherlands,Heracles Almelo,Eredivisie,2015/2016,2015
+Wout Droste,Right-Back,1989-05-20,26,Netherlands,Heracles Almelo,Eredivisie,2015/2016,2015
+Tim Breukers,Right-Back,1987-11-04,27,Netherlands,Heracles Almelo,Eredivisie,2015/2016,2015
+Dario Vujicevic,Defensive Midfield,1990-04-01,25,Croatia,Heracles Almelo,Eredivisie,2015/2016,2015
+Joey Pelupessy,Defensive Midfield,1993-05-15,22,Netherlands,Heracles Almelo,Eredivisie,2015/2016,2015
+Menno Heerkes,Defensive Midfield,1993-07-22,21,Netherlands,Heracles Almelo,Eredivisie,2015/2016,2015
+Peter van Ooijen,Central Midfield,1992-02-16,23,Netherlands,Heracles Almelo,Eredivisie,2015/2016,2015
+Bas Sibum,Central Midfield,1982-12-26,32,Netherlands,Heracles Almelo,Eredivisie,2015/2016,2015
+Rick Hemmink,Central Midfield,1993-02-14,22,Netherlands,Heracles Almelo,Eredivisie,2015/2016,2015
+Thomas Bruns,Attacking Midfield,1992-01-07,23,Netherlands,Heracles Almelo,Eredivisie,2015/2016,2015
+Iliass Bel Hassani,Attacking Midfield,1992-09-16,22,Netherlands,Heracles Almelo,Eredivisie,2015/2016,2015
+Brahim Darri,Left Winger,1994-09-14,20,Netherlands,Heracles Almelo,Eredivisie,2015/2016,2015
+Oussama Tannane,Right Winger,1994-03-23,21,Morocco,Heracles Almelo,Eredivisie,2015/2016,2015
+Jaroslav Navrátil,Right Winger,1991-12-30,23,Czech Republic,Heracles Almelo,Eredivisie,2015/2016,2015
+Tarik Kada,Right Winger,1996-05-26,19,Netherlands,Heracles Almelo,Eredivisie,2015/2016,2015
+Gonzalo García,Second Striker,1983-10-13,31,Spain,Heracles Almelo,Eredivisie,2015/2016,2015
+Wout Weghorst,Centre-Forward,1992-08-07,22,Netherlands,Heracles Almelo,Eredivisie,2015/2016,2015
+Paul Gladon,Centre-Forward,1992-03-18,23,Netherlands,Heracles Almelo,Eredivisie,2015/2016,2015
+Filip Kurto,Goalkeeper,1991-06-14,24,Poland,SBV Excelsior Rotterdam,Eredivisie,2015/2016,2015
+Tom Muyters,Goalkeeper,1984-12-05,30,Belgium,SBV Excelsior Rotterdam,Eredivisie,2015/2016,2015
+Alessandro Damen,Goalkeeper,1990-05-17,25,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2015/2016,2015
+Mike Havekotte,Goalkeeper,1995-09-12,19,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2015/2016,2015
+Sander Fischer,Centre-Back,1988-09-03,26,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2015/2016,2015
+Henrico Drost,Centre-Back,1987-01-21,28,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2015/2016,2015
+Kevin van Diermen,Centre-Back,1989-07-03,25,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2015/2016,2015
+Jurgen Mattheij,Centre-Back,1993-04-01,22,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2015/2016,2015
+Danilho Doekhi,Centre-Back,1998-06-30,17,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2015/2016,2015
+Bas Kuipers,Left-Back,1994-08-17,20,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2015/2016,2015
+Elso Brito,Left-Back,1994-04-02,21,Cape Verde,SBV Excelsior Rotterdam,Eredivisie,2015/2016,2015
+Khalid Karami,Right-Back,1989-12-29,25,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2015/2016,2015
+Daan Bovenberg,Right-Back,1988-10-25,26,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2015/2016,2015
+Jeff Stans,Defensive Midfield,1990-03-20,25,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2015/2016,2015
+Yoëll van Nieff,Central Midfield,1993-06-17,22,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2015/2016,2015
+Adil Auassar,Central Midfield,1986-10-06,28,Morocco,SBV Excelsior Rotterdam,Eredivisie,2015/2016,2015
+Rick Kruys,Central Midfield,1985-05-09,30,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2015/2016,2015
+Tom Overtoom,Central Midfield,1990-11-20,24,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2015/2016,2015
+Kevin Vermeulen,Attacking Midfield,1990-11-20,24,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2015/2016,2015
+Luigi Bruins,Left Winger,1987-03-09,28,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2015/2016,2015
+Daryl van Mieghem,Left Winger,1989-12-05,25,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2015/2016,2015
+Jordan Botaka,Right Winger,1993-06-24,22,DR Congo,SBV Excelsior Rotterdam,Eredivisie,2015/2016,2015
+Stanley Elbers,Right Winger,1992-05-14,23,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2015/2016,2015
+Brandley Kuwas,Right Winger,1992-09-19,22,Curacao,SBV Excelsior Rotterdam,Eredivisie,2015/2016,2015
+Tom van Weert,Centre-Forward,1990-06-07,25,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2015/2016,2015
+Michiel Hemmen,Centre-Forward,1987-06-28,28,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2015/2016,2015
+Nigel Hasselbaink,Centre-Forward,1990-11-21,24,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2015/2016,2015
+Cedric Badjeck,Centre-Forward,1995-01-25,20,Netherlands,SBV Excelsior Rotterdam,Eredivisie,2015/2016,2015
+Hidde Jurjus,Goalkeeper,1994-02-09,21,Netherlands,De Graafschap Doetinchem,Eredivisie,2015/2016,2015
+Jasper Heusinkveld,Goalkeeper,1988-12-24,26,Netherlands,De Graafschap Doetinchem,Eredivisie,2015/2016,2015
+Eric Verstappen,Goalkeeper,1994-05-19,21,Netherlands,De Graafschap Doetinchem,Eredivisie,2015/2016,2015
+Robin Pröpper,Centre-Back,1993-09-23,21,Netherlands,De Graafschap Doetinchem,Eredivisie,2015/2016,2015
+Ted van de Pavert,Centre-Back,1992-01-06,23,Netherlands,De Graafschap Doetinchem,Eredivisie,2015/2016,2015
+Bart Straalman,Centre-Back,1996-08-22,18,Netherlands,De Graafschap Doetinchem,Eredivisie,2015/2016,2015
+Jan Lammers,Centre-Back,1995-05-10,20,Netherlands,De Graafschap Doetinchem,Eredivisie,2015/2016,2015
+Tim Linthorst,Centre-Back,1994-07-03,20,Netherlands,De Graafschap Doetinchem,Eredivisie,2015/2016,2015
+Jeroen Tesselaar,Left-Back,1989-01-16,26,Netherlands,De Graafschap Doetinchem,Eredivisie,2015/2016,2015
+Tolgahan Cicek,Left-Back,1995-06-19,20,Turkey,De Graafschap Doetinchem,Eredivisie,2015/2016,2015
+Thijs Bouma,Right-Back,1992-04-02,23,Netherlands,De Graafschap Doetinchem,Eredivisie,2015/2016,2015
+Nathaniel Will,Right-Back,1989-02-16,26,Netherlands,De Graafschap Doetinchem,Eredivisie,2015/2016,2015
+Lion Kaak,Defensive Midfield,1991-06-26,24,Netherlands,De Graafschap Doetinchem,Eredivisie,2015/2016,2015
+Mart de Jong,Defensive Midfield,1995-11-21,19,Netherlands,De Graafschap Doetinchem,Eredivisie,2015/2016,2015
+Tom Menting,Central Midfield,1994-11-29,20,Netherlands,De Graafschap Doetinchem,Eredivisie,2015/2016,2015
+Andy Driver,Left Midfield,1987-11-20,27,Scotland,De Graafschap Doetinchem,Eredivisie,2015/2016,2015
+Mark Diemers,Attacking Midfield,1993-10-11,21,Netherlands,De Graafschap Doetinchem,Eredivisie,2015/2016,2015
+Alexander Bannink,Attacking Midfield,1990-02-20,25,Netherlands,De Graafschap Doetinchem,Eredivisie,2015/2016,2015
+Dean Koolhof,Attacking Midfield,1994-12-15,20,Netherlands,De Graafschap Doetinchem,Eredivisie,2015/2016,2015
+Bryan Smeets,Attacking Midfield,1992-11-22,22,Netherlands,De Graafschap Doetinchem,Eredivisie,2015/2016,2015
+Youssef El Jebli,Attacking Midfield,1992-12-27,22,Netherlands,De Graafschap Doetinchem,Eredivisie,2015/2016,2015
+Karim Tarfi,Left Winger,1993-07-05,21,Belgium,De Graafschap Doetinchem,Eredivisie,2015/2016,2015
+Kristopher Vida,Right Winger,1995-06-23,20,Hungary,De Graafschap Doetinchem,Eredivisie,2015/2016,2015
+Nathan Kabasele,Centre-Forward,1994-01-14,21,Belgium,De Graafschap Doetinchem,Eredivisie,2015/2016,2015
+Piotr Parzyszek,Centre-Forward,1993-09-08,21,Poland,De Graafschap Doetinchem,Eredivisie,2015/2016,2015
+Cas Peters,Centre-Forward,1993-05-13,22,Netherlands,De Graafschap Doetinchem,Eredivisie,2015/2016,2015
+Vincent Vermeij,Centre-Forward,1994-08-09,20,Netherlands,De Graafschap Doetinchem,Eredivisie,2015/2016,2015
+Erik Quekel,Centre-Forward,1987-04-16,28,Netherlands,De Graafschap Doetinchem,Eredivisie,2015/2016,2015
+Jeroen Meurs,Centre-Forward,1995-10-29,19,Netherlands,De Graafschap Doetinchem,Eredivisie,2015/2016,2015
+Marlon Versteeg,Centre-Forward,1997-07-29,17,Netherlands,De Graafschap Doetinchem,Eredivisie,2015/2016,2015

@@ -1,609 +1,609 @@
-shirt_number,position,player_name,date_of_birth,age,nationality,club_name,league_name,season,year
-1,Goalkeeper,"Feb 15, 1988 (29)",NA,NA,Portugal,Sporting CP,Liga NOS,2017/2018,2017
-82,Goalkeeper,"Feb 13, 1997 (20)",NA,NA,Portugal,Sporting CP,Liga NOS,2017/2018,2017
-18,Goalkeeper,"Jul 29, 1984 (32)",NA,NA,France,Sporting CP,Liga NOS,2017/2018,2017
-30,Goalkeeper,"Oct 4, 1996 (20)",NA,NA,Portugal,Sporting CP,Liga NOS,2017/2018,2017
-4,Centre-Back,"Oct 7, 1990 (26)",NA,NA,Uruguay,Sporting CP,Liga NOS,2017/2018,2017
-6,Centre-Back,"Oct 5, 1989 (27)",NA,NA,Portugal,Sporting CP,Liga NOS,2017/2018,2017
-22,Centre-Back,"Oct 29, 1983 (33)",NA,NA,France,Sporting CP,Liga NOS,2017/2018,2017
-19,Centre-Back,"Jan 12, 1988 (29)",NA,NA,Netherlands,Sporting CP,Liga NOS,2017/2018,2017
-55,Centre-Back,"Feb 2, 1994 (23)",NA,NA,Portugal,Sporting CP,Liga NOS,2017/2018,2017
-64,Centre-Back,"Mar 26, 1996 (21)",NA,NA,Portugal,Sporting CP,Liga NOS,2017/2018,2017
-41,Centre-Back,"Apr 15, 1997 (20)",NA,NA,Mali,Sporting CP,Liga NOS,2017/2018,2017
-98,Centre-Back,"Mar 5, 1998 (19)",NA,NA,Turkey,Sporting CP,Liga NOS,2017/2018,2017
-9,Left-Back,"Oct 28, 1991 (25)",NA,NA,Argentina,Sporting CP,Liga NOS,2017/2018,2017
-5,Left-Back,"Mar 11, 1988 (29)",NA,NA,Portugal,Sporting CP,Liga NOS,2017/2018,2017
-3,Left-Back,"Jun 29, 1994 (23)",NA,NA,Argentina,Sporting CP,Liga NOS,2017/2018,2017
-15,Left-Back,"Aug 15, 1996 (20)",NA,NA,Ghana,Sporting CP,Liga NOS,2017/2018,2017
-92,Right-Back,"Sep 26, 1992 (24)",NA,NA,Italy,Sporting CP,Liga NOS,2017/2018,2017
-13,Right-Back,"Feb 12, 1992 (25)",NA,NA,North Macedonia,Sporting CP,Liga NOS,2017/2018,2017
-14,Defensive Midfield,"Apr 7, 1992 (25)",NA,NA,Portugal,Sporting CP,Liga NOS,2017/2018,2017
-66,Defensive Midfield,"Jul 9, 1995 (21)",NA,NA,Portugal,Sporting CP,Liga NOS,2017/2018,2017
-25,Defensive Midfield,"Mar 8, 1989 (28)",NA,NA,Serbia,Sporting CP,Liga NOS,2017/2018,2017
-NA,Defensive Midfield,"Sep 15, 1995 (21)",NA,NA,Brazil,Sporting CP,Liga NOS,2017/2018,2017
-23,Central Midfield,"Mar 15, 1989 (28)",NA,NA,Portugal,Sporting CP,Liga NOS,2017/2018,2017
-16,Central Midfield,"Jul 12, 1991 (25)",NA,NA,Argentina,Sporting CP,Liga NOS,2017/2018,2017
-27,Central Midfield,"Jun 28, 1994 (23)",NA,NA,Croatia,Sporting CP,Liga NOS,2017/2018,2017
-37,Central Midfield,"Aug 28, 1997 (19)",NA,NA,Brazil,Sporting CP,Liga NOS,2017/2018,2017
-11,Left Midfield,"Nov 3, 1988 (28)",NA,NA,Brazil,Sporting CP,Liga NOS,2017/2018,2017
-8,Attacking Midfield,"Sep 8, 1994 (22)",NA,NA,Portugal,Sporting CP,Liga NOS,2017/2018,2017
-20,Attacking Midfield,"Aug 18, 1985 (31)",NA,NA,Costa Rica,Sporting CP,Liga NOS,2017/2018,2017
-7,Attacking Midfield,"Aug 1, 1987 (29)",NA,NA,Portugal,Sporting CP,Liga NOS,2017/2018,2017
-21,Attacking Midfield,"Jul 7, 1994 (22)",NA,NA,Brazil,Sporting CP,Liga NOS,2017/2018,2017
-94,Attacking Midfield,"Mar 29, 1996 (21)",NA,NA,Portugal,Sporting CP,Liga NOS,2017/2018,2017
-17,Left Winger,"Oct 21, 1995 (21)",NA,NA,Portugal,Sporting CP,Liga NOS,2017/2018,2017
-89,Left Winger,"Oct 2, 1999 (17)",NA,NA,Portugal,Sporting CP,Liga NOS,2017/2018,2017
-77,Right Winger,"May 11, 1995 (22)",NA,NA,Portugal,Sporting CP,Liga NOS,2017/2018,2017
-45,Right Winger,"Jul 10, 1994 (22)",NA,NA,Portugal,Sporting CP,Liga NOS,2017/2018,2017
-97,Right Winger,"Jun 14, 1998 (19)",NA,NA,Cape Verde,Sporting CP,Liga NOS,2017/2018,2017
-10,Second Striker,"Aug 19, 1993 (23)",NA,NA,Argentina,Sporting CP,Liga NOS,2017/2018,2017
-67,Second Striker,"Mar 3, 1994 (23)",NA,NA,Angola,Sporting CP,Liga NOS,2017/2018,2017
-28,Centre-Forward,"May 31, 1989 (28)",NA,NA,Netherlands,Sporting CP,Liga NOS,2017/2018,2017
-88,Centre-Forward,"Dec 31, 1987 (29)",NA,NA,Cote d'Ivoire,Sporting CP,Liga NOS,2017/2018,2017
-40,Centre-Forward,"Jul 26, 1987 (29)",NA,NA,Colombia,Sporting CP,Liga NOS,2017/2018,2017
-57,Centre-Forward,"Jul 13, 1996 (20)",NA,NA,Angola,Sporting CP,Liga NOS,2017/2018,2017
-49,Centre-Forward,"Jan 26, 1995 (22)",NA,NA,Portugal,Sporting CP,Liga NOS,2017/2018,2017
-70,Centre-Forward,"Jul 22, 1997 (19)",NA,NA,Portugal,Sporting CP,Liga NOS,2017/2018,2017
-93,Centre-Forward,"Jun 10, 1999 (18)",NA,NA,Portugal,Sporting CP,Liga NOS,2017/2018,2017
-1,Goalkeeper,"May 20, 1981 (36)",NA,NA,Spain,FC Porto,Liga NOS,2017/2018,2017
-12,Goalkeeper,"Jan 17, 1993 (24)",NA,NA,Portugal,FC Porto,Liga NOS,2017/2018,2017
-40,Goalkeeper,"Feb 29, 1988 (29)",NA,NA,Brazil,FC Porto,Liga NOS,2017/2018,2017
-26,Goalkeeper,"Apr 25, 1991 (26)",NA,NA,Brazil,FC Porto,Liga NOS,2017/2018,2017
-28,Centre-Back,"May 16, 1989 (28)",NA,NA,Brazil,FC Porto,Liga NOS,2017/2018,2017
-5,Centre-Back,"Jun 23, 1987 (30)",NA,NA,Spain,FC Porto,Liga NOS,2017/2018,2017
-23,Centre-Back,"Sep 19, 1992 (24)",NA,NA,Mexico,FC Porto,Liga NOS,2017/2018,2017
-4,Centre-Back,"May 10, 1994 (23)",NA,NA,Venezuela,FC Porto,Liga NOS,2017/2018,2017
-44,Centre-Back,"Apr 2, 1997 (20)",NA,NA,Portugal,FC Porto,Liga NOS,2017/2018,2017
-13,Left-Back,"Dec 15, 1992 (24)",NA,NA,Brazil,FC Porto,Liga NOS,2017/2018,2017
-55,Left-Back,"Jul 6, 1997 (19)",NA,NA,Portugal,FC Porto,Liga NOS,2017/2018,2017
-21,Right-Back,"Oct 6, 1993 (23)",NA,NA,Portugal,FC Porto,Liga NOS,2017/2018,2017
-19,Right-Back,"Jun 25, 1988 (29)",NA,NA,Mexico,FC Porto,Liga NOS,2017/2018,2017
-2,Right-Back,"Jun 8, 1984 (33)",NA,NA,Uruguay,FC Porto,Liga NOS,2017/2018,2017
-30,Right-Back,"Mar 18, 1999 (18)",NA,NA,Portugal,FC Porto,Liga NOS,2017/2018,2017
-22,Defensive Midfield,"Sep 9, 1991 (25)",NA,NA,Portugal,FC Porto,Liga NOS,2017/2018,2017
-50,Defensive Midfield,"Feb 20, 1998 (19)",NA,NA,Brazil,FC Porto,Liga NOS,2017/2018,2017
-10,Central Midfield,"Nov 10, 1994 (22)",NA,NA,Spain,FC Porto,Liga NOS,2017/2018,2017
-16,Central Midfield,"Apr 19, 1990 (27)",NA,NA,Mexico,FC Porto,Liga NOS,2017/2018,2017
-20,Central Midfield,"Aug 26, 1989 (27)",NA,NA,Portugal,FC Porto,Liga NOS,2017/2018,2017
-27,Central Midfield,"Jun 2, 1992 (25)",NA,NA,Portugal,FC Porto,Liga NOS,2017/2018,2017
-60,Central Midfield,"May 31, 1996 (21)",NA,NA,Portugal,FC Porto,Liga NOS,2017/2018,2017
-87,Central Midfield,"Apr 19, 1997 (20)",NA,NA,Portugal,FC Porto,Liga NOS,2017/2018,2017
-17,Right Midfield,"Jan 6, 1993 (24)",NA,NA,Mexico,FC Porto,Liga NOS,2017/2018,2017
-7,Right Midfield,"Aug 20, 1991 (25)",NA,NA,Portugal,FC Porto,Liga NOS,2017/2018,2017
-90,Left Midfield,"Oct 22, 1997 (19)",NA,NA,Brazil,FC Porto,Liga NOS,2017/2018,2017
-25,Attacking Midfield,"Feb 9, 1995 (22)",NA,NA,Brazil,FC Porto,Liga NOS,2017/2018,2017
-6,Attacking Midfield,"Jul 10, 1994 (22)",NA,NA,Brazil,FC Porto,Liga NOS,2017/2018,2017
-68,Attacking Midfield,"Apr 18, 1997 (20)",NA,NA,Argentina,FC Porto,Liga NOS,2017/2018,2017
-8,Left Winger,"Feb 8, 1990 (27)",NA,NA,Algeria,FC Porto,Liga NOS,2017/2018,2017
-11,Second Striker,"Apr 14, 1991 (26)",NA,NA,Mali,FC Porto,Liga NOS,2017/2018,2017
-9,Centre-Forward,"Jan 22, 1992 (25)",NA,NA,Cameroon,FC Porto,Liga NOS,2017/2018,2017
-29,Centre-Forward,"Jan 17, 1991 (26)",NA,NA,Brazil,FC Porto,Liga NOS,2017/2018,2017
-18,Centre-Forward,"Sep 19, 1991 (25)",NA,NA,Ghana,FC Porto,Liga NOS,2017/2018,2017
-14,Centre-Forward,"Aug 1, 1994 (22)",NA,NA,Portugal,FC Porto,Liga NOS,2017/2018,2017
-95,Centre-Forward,"May 5, 1995 (22)",NA,NA,Portugal,FC Porto,Liga NOS,2017/2018,2017
-30,Goalkeeper,"Nov 4, 1994 (22)",NA,NA,Portugal,SL Benfica,Liga NOS,2017/2018,2017
-12,Goalkeeper,"Sep 3, 1979 (37)",NA,NA,Brazil,SL Benfica,Liga NOS,2017/2018,2017
-1,Goalkeeper,"Aug 27, 1999 (17)",NA,NA,Belgium,SL Benfica,Liga NOS,2017/2018,2017
-13,Goalkeeper,"Jun 29, 1978 (39)",NA,NA,Portugal,SL Benfica,Liga NOS,2017/2018,2017
-NA,Goalkeeper,"May 11, 1998 (19)",NA,NA,Portugal,SL Benfica,Liga NOS,2017/2018,2017
-2,Centre-Back,"Sep 1, 1989 (27)",NA,NA,Argentina,SL Benfica,Liga NOS,2017/2018,2017
-33,Centre-Back,"Mar 29, 1986 (31)",NA,NA,Brazil,SL Benfica,Liga NOS,2017/2018,2017
-4,Centre-Back,"Feb 13, 1981 (36)",NA,NA,Brazil,SL Benfica,Liga NOS,2017/2018,2017
-66,Centre-Back,"May 14, 1997 (20)",NA,NA,Portugal,SL Benfica,Liga NOS,2017/2018,2017
-3,Left-Back,"Sep 20, 1995 (21)",NA,NA,Spain,SL Benfica,Liga NOS,2017/2018,2017
-19,Left-Back,"Oct 1, 1983 (33)",NA,NA,Portugal,SL Benfica,Liga NOS,2017/2018,2017
-34,Right-Back,"Sep 10, 1990 (26)",NA,NA,Portugal,SL Benfica,Liga NOS,2017/2018,2017
-8,Right-Back,"Aug 6, 1990 (26)",NA,NA,Brazil,SL Benfica,Liga NOS,2017/2018,2017
-5,Defensive Midfield,"Aug 14, 1988 (28)",NA,NA,Serbia,SL Benfica,Liga NOS,2017/2018,2017
-7,Defensive Midfield,"Jun 13, 1989 (28)",NA,NA,Greece,SL Benfica,Liga NOS,2017/2018,2017
-6,Defensive Midfield,"Aug 12, 1993 (23)",NA,NA,Brazil,SL Benfica,Liga NOS,2017/2018,2017
-55,Defensive Midfield,"Aug 6, 1997 (19)",NA,NA,United States,SL Benfica,Liga NOS,2017/2018,2017
-42,Central Midfield,"Sep 8, 1995 (21)",NA,NA,Slovakia,SL Benfica,Liga NOS,2017/2018,2017
-21,Right Midfield,"Oct 6, 1989 (27)",NA,NA,Portugal,SL Benfica,Liga NOS,2017/2018,2017
-17,Right Midfield,"Jul 11, 1996 (20)",NA,NA,Serbia,SL Benfica,Liga NOS,2017/2018,2017
-27,Left Midfield,"May 17, 1993 (24)",NA,NA,Portugal,SL Benfica,Liga NOS,2017/2018,2017
-22,Left Midfield,"May 26, 1994 (23)",NA,NA,Argentina,SL Benfica,Liga NOS,2017/2018,2017
-20,Attacking Midfield,"Aug 29, 1995 (21)",NA,NA,Croatia,SL Benfica,Liga NOS,2017/2018,2017
-90,Attacking Midfield,"Mar 9, 1997 (20)",NA,NA,Portugal,SL Benfica,Liga NOS,2017/2018,2017
-84,Left Winger,"Feb 6, 1997 (20)",NA,NA,Portugal,SL Benfica,Liga NOS,2017/2018,2017
-18,Right Winger,"Jul 13, 1990 (26)",NA,NA,Argentina,SL Benfica,Liga NOS,2017/2018,2017
-10,Second Striker,"Apr 1, 1984 (33)",NA,NA,Brazil,SL Benfica,Liga NOS,2017/2018,2017
-11,Centre-Forward,"Aug 30, 1996 (20)",NA,NA,Brazil,SL Benfica,Liga NOS,2017/2018,2017
-9,Centre-Forward,"May 5, 1991 (26)",NA,NA,Mexico,SL Benfica,Liga NOS,2017/2018,2017
-14,Centre-Forward,"Feb 22, 1992 (25)",NA,NA,Switzerland,SL Benfica,Liga NOS,2017/2018,2017
-28,Goalkeeper,"May 8, 1987 (30)",NA,NA,Portugal,SC Braga,Liga NOS,2017/2018,2017
-1,Goalkeeper,"Jul 19, 1992 (24)",NA,NA,Brazil,SC Braga,Liga NOS,2017/2018,2017
-NA,Goalkeeper,"Dec 2, 1995 (21)",NA,NA,Portugal,SC Braga,Liga NOS,2017/2018,2017
-12,Goalkeeper,"Jan 11, 1995 (22)",NA,NA,Portugal,SC Braga,Liga NOS,2017/2018,2017
-34,Centre-Back,"Nov 4, 1989 (27)",NA,NA,Brazil,SC Braga,Liga NOS,2017/2018,2017
-36,Centre-Back,"Feb 5, 1995 (22)",NA,NA,Brazil,SC Braga,Liga NOS,2017/2018,2017
-24,Centre-Back,"Nov 25, 1992 (24)",NA,NA,Portugal,SC Braga,Liga NOS,2017/2018,2017
-3,Centre-Back,"Jun 29, 1993 (24)",NA,NA,Serbia,SC Braga,Liga NOS,2017/2018,2017
-44,Centre-Back,"Apr 2, 1994 (23)",NA,NA,Croatia,SC Braga,Liga NOS,2017/2018,2017
-4,Left-Back,"Jul 5, 1988 (28)",NA,NA,Brazil,SC Braga,Liga NOS,2017/2018,2017
-5,Left-Back,"Aug 19, 1990 (26)",NA,NA,Portugal,SC Braga,Liga NOS,2017/2018,2017
-2,Right-Back,"Jul 1, 1991 (26)",NA,NA,Portugal,SC Braga,Liga NOS,2017/2018,2017
-87,Right-Back,"Oct 13, 1987 (29)",NA,NA,Brazil,SC Braga,Liga NOS,2017/2018,2017
-NA,Right-Back,"Apr 28, 1994 (23)",NA,NA,Brazil,SC Braga,Liga NOS,2017/2018,2017
-11,Defensive Midfield,"Feb 28, 1996 (21)",NA,NA,Brazil,SC Braga,Liga NOS,2017/2018,2017
-35,Defensive Midfield,"Dec 13, 1991 (25)",NA,NA,Montenegro,SC Braga,Liga NOS,2017/2018,2017
-NA,Defensive Midfield,"Oct 31, 1990 (26)",NA,NA,Brazil,SC Braga,Liga NOS,2017/2018,2017
-63,Defensive Midfield,"Oct 31, 1990 (26)",NA,NA,Brazil,SC Braga,Liga NOS,2017/2018,2017
-NA,Defensive Midfield,"Dec 30, 1996 (20)",NA,NA,Senegal,SC Braga,Liga NOS,2017/2018,2017
-15,Central Midfield,"Nov 7, 1996 (20)",NA,NA,Portugal,SC Braga,Liga NOS,2017/2018,2017
-27,Central Midfield,"Oct 18, 1990 (26)",NA,NA,Brazil,SC Braga,Liga NOS,2017/2018,2017
-NA,Central Midfield,"Feb 27, 1994 (23)",NA,NA,Brazil,SC Braga,Liga NOS,2017/2018,2017
-NA,Central Midfield,"Oct 12, 1998 (18)",NA,NA,Portugal,SC Braga,Liga NOS,2017/2018,2017
-47,Right Midfield,"May 16, 1993 (24)",NA,NA,Portugal,SC Braga,Liga NOS,2017/2018,2017
-10,Right Midfield,"Dec 2, 1997 (19)",NA,NA,Portugal,SC Braga,Liga NOS,2017/2018,2017
-21,Left Midfield,"Sep 15, 1994 (22)",NA,NA,Portugal,SC Braga,Liga NOS,2017/2018,2017
-26,Left Midfield,"Jul 24, 1993 (23)",NA,NA,Portugal,SC Braga,Liga NOS,2017/2018,2017
-23,Attacking Midfield,"Jan 18, 1993 (24)",NA,NA,Portugal,SC Braga,Liga NOS,2017/2018,2017
-NA,Right Winger,"Apr 22, 1988 (29)",NA,NA,Portugal,SC Braga,Liga NOS,2017/2018,2017
-NA,Right Winger,"Mar 12, 1996 (21)",NA,NA,Croatia,SC Braga,Liga NOS,2017/2018,2017
-NA,Right Winger,"Aug 5, 1997 (19)",NA,NA,South Africa,SC Braga,Liga NOS,2017/2018,2017
-NA,Right Winger,"Mar 9, 2000 (17)",NA,NA,Portugal,SC Braga,Liga NOS,2017/2018,2017
-NA,Right Winger,"Dec 10, 1997 (19)",NA,NA,Brazil,SC Braga,Liga NOS,2017/2018,2017
-7,Second Striker,"Jul 8, 1990 (26)",NA,NA,Angola,SC Braga,Liga NOS,2017/2018,2017
-20,Second Striker,"Nov 9, 1992 (24)",NA,NA,Portugal,SC Braga,Liga NOS,2017/2018,2017
-NA,Centre-Forward,"Apr 23, 1990 (27)",NA,NA,Portugal,SC Braga,Liga NOS,2017/2018,2017
-NA,Centre-Forward,"Aug 17, 1992 (24)",NA,NA,Serbia,SC Braga,Liga NOS,2017/2018,2017
-9,Centre-Forward,"Mar 5, 1993 (24)",NA,NA,Egypt,SC Braga,Liga NOS,2017/2018,2017
-99,Centre-Forward,"Sep 14, 1989 (27)",NA,NA,Portugal,SC Braga,Liga NOS,2017/2018,2017
-56,Goalkeeper,"Apr 7, 1995 (22)",NA,NA,Portugal,Vitória Guimarães SC,Liga NOS,2017/2018,2017
-1,Goalkeeper,"Mar 9, 1983 (34)",NA,NA,Brazil,Vitória Guimarães SC,Liga NOS,2017/2018,2017
-NA,Goalkeeper,"May 25, 1994 (23)",NA,NA,Portugal,Vitória Guimarães SC,Liga NOS,2017/2018,2017
-NA,Centre-Back,"Jun 17, 1992 (25)",NA,NA,Portugal,Vitória Guimarães SC,Liga NOS,2017/2018,2017
-2,Centre-Back,"Dec 18, 1992 (24)",NA,NA,Brazil,Vitória Guimarães SC,Liga NOS,2017/2018,2017
-13,Centre-Back,"May 28, 1990 (27)",NA,NA,Portugal,Vitória Guimarães SC,Liga NOS,2017/2018,2017
-33,Centre-Back,"Aug 29, 1993 (23)",NA,NA,Brazil,Vitória Guimarães SC,Liga NOS,2017/2018,2017
-NA,Centre-Back,"Jun 26, 1991 (26)",NA,NA,Brazil,Vitória Guimarães SC,Liga NOS,2017/2018,2017
-NA,Centre-Back,"May 4, 1994 (23)",NA,NA,Portugal,Vitória Guimarães SC,Liga NOS,2017/2018,2017
-4,Centre-Back,"Feb 4, 1994 (23)",NA,NA,Portugal,Vitória Guimarães SC,Liga NOS,2017/2018,2017
-NA,Centre-Back,"Aug 19, 1981 (35)",NA,NA,Portugal,Vitória Guimarães SC,Liga NOS,2017/2018,2017
-53,Left-Back,"Dec 27, 1995 (21)",NA,NA,Cote d'Ivoire,Vitória Guimarães SC,Liga NOS,2017/2018,2017
-23,Left-Back,"Nov 20, 1995 (21)",NA,NA,Portugal,Vitória Guimarães SC,Liga NOS,2017/2018,2017
-NA,Left-Back,"May 19, 1998 (19)",NA,NA,Portugal,Vitória Guimarães SC,Liga NOS,2017/2018,2017
-NA,Left-Back,"Jun 17, 1995 (22)",NA,NA,Brazil,Vitória Guimarães SC,Liga NOS,2017/2018,2017
-20,Right-Back,"Aug 17, 1988 (28)",NA,NA,Portugal,Vitória Guimarães SC,Liga NOS,2017/2018,2017
-15,Right-Back,"Jun 11, 1994 (23)",NA,NA,Venezuela,Vitória Guimarães SC,Liga NOS,2017/2018,2017
-NA,Right-Back,"May 1, 1995 (22)",NA,NA,Mali,Vitória Guimarães SC,Liga NOS,2017/2018,2017
-NA,Right-Back,"Apr 19, 1999 (18)",NA,NA,Portugal,Vitória Guimarães SC,Liga NOS,2017/2018,2017
-93,Defensive Midfield,"May 8, 1993 (24)",NA,NA,Colombia,Vitória Guimarães SC,Liga NOS,2017/2018,2017
-25,Defensive Midfield,"Jan 7, 1992 (25)",NA,NA,Ghana,Vitória Guimarães SC,Liga NOS,2017/2018,2017
-5,Defensive Midfield,"Aug 11, 1984 (32)",NA,NA,Brazil,Vitória Guimarães SC,Liga NOS,2017/2018,2017
-NA,Central Midfield,"Oct 9, 1992 (24)",NA,NA,South Africa,Vitória Guimarães SC,Liga NOS,2017/2018,2017
-7,Central Midfield,"Apr 10, 1995 (22)",NA,NA,Portugal,Vitória Guimarães SC,Liga NOS,2017/2018,2017
-NA,Central Midfield,"Jun 26, 1994 (23)",NA,NA,Ghana,Vitória Guimarães SC,Liga NOS,2017/2018,2017
-80,Central Midfield,"Feb 27, 1997 (20)",NA,NA,Portugal,Vitória Guimarães SC,Liga NOS,2017/2018,2017
-16,Attacking Midfield,"Jul 27, 1990 (26)",NA,NA,Peru,Vitória Guimarães SC,Liga NOS,2017/2018,2017
-21,Attacking Midfield,"Jul 7, 1994 (22)",NA,NA,Brazil,Vitória Guimarães SC,Liga NOS,2017/2018,2017
-NA,Attacking Midfield,"Dec 14, 1994 (22)",NA,NA,Portugal,Vitória Guimarães SC,Liga NOS,2017/2018,2017
-10,Left Winger,"Nov 14, 1988 (28)",NA,NA,Cape Verde,Vitória Guimarães SC,Liga NOS,2017/2018,2017
-11,Right Winger,"Dec 14, 1996 (20)",NA,NA,Brazil,Vitória Guimarães SC,Liga NOS,2017/2018,2017
-71,Right Winger,"Feb 4, 1994 (23)",NA,NA,Portugal,Vitória Guimarães SC,Liga NOS,2017/2018,2017
-22,Right Winger,"Apr 5, 1997 (20)",NA,NA,Portugal,Vitória Guimarães SC,Liga NOS,2017/2018,2017
-NA,Right Winger,"Mar 16, 1997 (20)",NA,NA,Portugal,Vitória Guimarães SC,Liga NOS,2017/2018,2017
-NA,Second Striker,"Aug 13, 1995 (21)",NA,NA,South Africa,Vitória Guimarães SC,Liga NOS,2017/2018,2017
-9,Centre-Forward,"Jun 21, 1992 (25)",NA,NA,Brazil,Vitória Guimarães SC,Liga NOS,2017/2018,2017
-19,Centre-Forward,"Jan 14, 1994 (23)",NA,NA,Colombia,Vitória Guimarães SC,Liga NOS,2017/2018,2017
-NA,Centre-Forward,"Feb 27, 1991 (26)",NA,NA,Uruguay,Vitória Guimarães SC,Liga NOS,2017/2018,2017
-49,Centre-Forward,"Dec 21, 1992 (24)",NA,NA,Cote d'Ivoire,Vitória Guimarães SC,Liga NOS,2017/2018,2017
-99,Centre-Forward,"Mar 17, 1989 (28)",NA,NA,Brazil,Vitória Guimarães SC,Liga NOS,2017/2018,2017
-26,Centre-Forward,"Sep 29, 1996 (20)",NA,NA,Colombia,Vitória Guimarães SC,Liga NOS,2017/2018,2017
-1,Goalkeeper,"Apr 14, 1985 (32)",NA,NA,Portugal,GD Chaves,Liga NOS,2017/2018,2017
-13,Goalkeeper,"Jul 6, 1982 (34)",NA,NA,Portugal,GD Chaves,Liga NOS,2017/2018,2017
-23,Goalkeeper,"Aug 26, 1992 (24)",NA,NA,Portugal,GD Chaves,Liga NOS,2017/2018,2017
-15,Centre-Back,"Mar 10, 1995 (22)",NA,NA,Portugal,GD Chaves,Liga NOS,2017/2018,2017
-14,Centre-Back,"Jan 7, 1986 (31)",NA,NA,Portugal,GD Chaves,Liga NOS,2017/2018,2017
-19,Centre-Back,"Dec 19, 1995 (21)",NA,NA,Serbia,GD Chaves,Liga NOS,2017/2018,2017
-NA,Centre-Back,"May 14, 1993 (24)",NA,NA,Portugal,GD Chaves,Liga NOS,2017/2018,2017
-NA,Centre-Back,"Feb 9, 1992 (25)",NA,NA,Brazil,GD Chaves,Liga NOS,2017/2018,2017
-NA,Centre-Back,"Oct 24, 1989 (27)",NA,NA,Brazil,GD Chaves,Liga NOS,2017/2018,2017
-26,Left-Back,"Dec 31, 1987 (29)",NA,NA,Brazil,GD Chaves,Liga NOS,2017/2018,2017
-NA,Left-Back,"Feb 17, 1990 (27)",NA,NA,Portugal,GD Chaves,Liga NOS,2017/2018,2017
-96,Left-Back,"Sep 20, 1994 (22)",NA,NA,Brazil,GD Chaves,Liga NOS,2017/2018,2017
-2,Right-Back,"Jul 13, 1991 (25)",NA,NA,Portugal,GD Chaves,Liga NOS,2017/2018,2017
-24,Right-Back,"Aug 8, 1984 (32)",NA,NA,Portugal,GD Chaves,Liga NOS,2017/2018,2017
-6,Defensive Midfield,"Apr 14, 1993 (24)",NA,NA,Brazil,GD Chaves,Liga NOS,2017/2018,2017
-5,Defensive Midfield,"Nov 3, 1989 (27)",NA,NA,Portugal,GD Chaves,Liga NOS,2017/2018,2017
-46,Defensive Midfield,"Dec 21, 1996 (20)",NA,NA,Canada,GD Chaves,Liga NOS,2017/2018,2017
-25,Central Midfield,"Aug 31, 1988 (28)",NA,NA,Portugal,GD Chaves,Liga NOS,2017/2018,2017
-8,Central Midfield,"Jan 22, 1990 (27)",NA,NA,Portugal,GD Chaves,Liga NOS,2017/2018,2017
-12,Attacking Midfield,"Nov 3, 1988 (28)",NA,NA,Belarus,GD Chaves,Liga NOS,2017/2018,2017
-20,Attacking Midfield,"Aug 24, 1989 (27)",NA,NA,Brazil,GD Chaves,Liga NOS,2017/2018,2017
-21,Left Winger,"Sep 21, 1995 (21)",NA,NA,Guinea-Bissau,GD Chaves,Liga NOS,2017/2018,2017
-91,Left Winger,"Mar 5, 1991 (26)",NA,NA,Brazil,GD Chaves,Liga NOS,2017/2018,2017
-NA,Left Winger,"Feb 12, 1994 (23)",NA,NA,Libya,GD Chaves,Liga NOS,2017/2018,2017
-73,Right Winger,"May 5, 1996 (21)",NA,NA,Brazil,GD Chaves,Liga NOS,2017/2018,2017
-10,Right Winger,"Jul 17, 1991 (25)",NA,NA,Brazil,GD Chaves,Liga NOS,2017/2018,2017
-NA,Centre-Forward,"Oct 17, 1990 (26)",NA,NA,Colombia,GD Chaves,Liga NOS,2017/2018,2017
-99,Centre-Forward,"Oct 2, 1990 (26)",NA,NA,Brazil,GD Chaves,Liga NOS,2017/2018,2017
-11,Centre-Forward,"Dec 7, 1991 (25)",NA,NA,Brazil,GD Chaves,Liga NOS,2017/2018,2017
-86,Goalkeeper,"Dec 12, 1986 (30)",NA,NA,Portugal,FC Paços de Ferreira,Liga NOS,2017/2018,2017
-1,Goalkeeper,"Dec 22, 1983 (33)",NA,NA,Brazil,FC Paços de Ferreira,Liga NOS,2017/2018,2017
-73,Goalkeeper,"Apr 30, 1992 (25)",NA,NA,Portugal,FC Paços de Ferreira,Liga NOS,2017/2018,2017
-2,Centre-Back,"Jul 11, 1989 (27)",NA,NA,Portugal,FC Paços de Ferreira,Liga NOS,2017/2018,2017
-3,Centre-Back,"Aug 23, 1990 (26)",NA,NA,Portugal,FC Paços de Ferreira,Liga NOS,2017/2018,2017
-22,Centre-Back,"Oct 8, 1990 (26)",NA,NA,Portugal,FC Paços de Ferreira,Liga NOS,2017/2018,2017
-NA,Centre-Back,"Aug 6, 1991 (25)",NA,NA,Australia,FC Paços de Ferreira,Liga NOS,2017/2018,2017
-19,Centre-Back,"Aug 19, 1980 (36)",NA,NA,Cape Verde,FC Paços de Ferreira,Liga NOS,2017/2018,2017
-34,Centre-Back,"Mar 18, 1998 (19)",NA,NA,Portugal,FC Paços de Ferreira,Liga NOS,2017/2018,2017
-30,Left-Back,"Sep 27, 1990 (26)",NA,NA,Portugal,FC Paços de Ferreira,Liga NOS,2017/2018,2017
-5,Left-Back,"Mar 17, 1992 (25)",NA,NA,Colombia,FC Paços de Ferreira,Liga NOS,2017/2018,2017
-6,Right-Back,"Feb 7, 1993 (24)",NA,NA,Brazil,FC Paços de Ferreira,Liga NOS,2017/2018,2017
-13,Right-Back,"May 5, 1990 (27)",NA,NA,Portugal,FC Paços de Ferreira,Liga NOS,2017/2018,2017
-33,Right-Back,"Apr 24, 1997 (20)",NA,NA,Portugal,FC Paços de Ferreira,Liga NOS,2017/2018,2017
-92,Right-Back,"Jul 17, 1992 (24)",NA,NA,Brazil,FC Paços de Ferreira,Liga NOS,2017/2018,2017
-20,Defensive Midfield,"Oct 31, 1990 (26)",NA,NA,Brazil,FC Paços de Ferreira,Liga NOS,2017/2018,2017
-NA,Defensive Midfield,"Aug 30, 1991 (25)",NA,NA,Brazil,FC Paços de Ferreira,Liga NOS,2017/2018,2017
-8,Defensive Midfield,"May 20, 1985 (32)",NA,NA,Portugal,FC Paços de Ferreira,Liga NOS,2017/2018,2017
-88,Defensive Midfield,"Apr 2, 1993 (24)",NA,NA,Brazil,FC Paços de Ferreira,Liga NOS,2017/2018,2017
-29,Central Midfield,"Jan 29, 1989 (28)",NA,NA,Portugal,FC Paços de Ferreira,Liga NOS,2017/2018,2017
-NA,Central Midfield,"Jul 16, 1997 (19)",NA,NA,Portugal,FC Paços de Ferreira,Liga NOS,2017/2018,2017
-NA,Attacking Midfield,"Aug 19, 1986 (30)",NA,NA,Portugal,FC Paços de Ferreira,Liga NOS,2017/2018,2017
-12,Attacking Midfield,"Dec 20, 1992 (24)",NA,NA,Portugal,FC Paços de Ferreira,Liga NOS,2017/2018,2017
-10,Attacking Midfield,"Aug 16, 1995 (21)",NA,NA,Portugal,FC Paços de Ferreira,Liga NOS,2017/2018,2017
-NA,Left Winger,"Jan 8, 1995 (22)",NA,NA,Ghana,FC Paços de Ferreira,Liga NOS,2017/2018,2017
-NA,Left Winger,"Mar 28, 1993 (24)",NA,NA,Brazil,FC Paços de Ferreira,Liga NOS,2017/2018,2017
-NA,Left Winger,"Jul 6, 1992 (24)",NA,NA,Portugal,FC Paços de Ferreira,Liga NOS,2017/2018,2017
-77,Left Winger,"May 16, 1994 (23)",NA,NA,Brazil,FC Paços de Ferreira,Liga NOS,2017/2018,2017
-27,Right Winger,"Sep 15, 1995 (21)",NA,NA,Australia,FC Paços de Ferreira,Liga NOS,2017/2018,2017
-NA,Centre-Forward,"Jun 21, 1992 (25)",NA,NA,Brazil,FC Paços de Ferreira,Liga NOS,2017/2018,2017
-99,Centre-Forward,"Jul 25, 1989 (27)",NA,NA,Portugal,FC Paços de Ferreira,Liga NOS,2017/2018,2017
-9,Centre-Forward,"Sep 6, 1987 (29)",NA,NA,Portugal,FC Paços de Ferreira,Liga NOS,2017/2018,2017
-28,Centre-Forward,"Sep 27, 1993 (23)",NA,NA,Brazil,FC Paços de Ferreira,Liga NOS,2017/2018,2017
-95,Goalkeeper,"Dec 2, 1995 (21)",NA,NA,Portugal,Belenenses SAD,Liga NOS,2017/2018,2017
-1,Goalkeeper,"Feb 14, 1987 (30)",NA,NA,Brazil,Belenenses SAD,Liga NOS,2017/2018,2017
-22,Goalkeeper,"Oct 28, 1994 (22)",NA,NA,Portugal,Belenenses SAD,Liga NOS,2017/2018,2017
-77,Goalkeeper,"Jun 17, 1985 (32)",NA,NA,Portugal,Belenenses SAD,Liga NOS,2017/2018,2017
-6,Centre-Back,"Feb 16, 1991 (26)",NA,NA,France,Belenenses SAD,Liga NOS,2017/2018,2017
-37,Centre-Back,"Jun 4, 1991 (26)",NA,NA,Portugal,Belenenses SAD,Liga NOS,2017/2018,2017
-25,Centre-Back,"Sep 15, 1995 (21)",NA,NA,Portugal,Belenenses SAD,Liga NOS,2017/2018,2017
-93,Centre-Back,"Mar 19, 1993 (24)",NA,NA,Brazil,Belenenses SAD,Liga NOS,2017/2018,2017
-29,Left-Back,"Feb 4, 1990 (27)",NA,NA,France,Belenenses SAD,Liga NOS,2017/2018,2017
-NA,Right-Back,"Feb 28, 1988 (29)",NA,NA,Portugal,Belenenses SAD,Liga NOS,2017/2018,2017
-18,Right-Back,"May 2, 1991 (26)",NA,NA,Portugal,Belenenses SAD,Liga NOS,2017/2018,2017
-3,Defensive Midfield,"Mar 26, 1987 (30)",NA,NA,Sweden,Belenenses SAD,Liga NOS,2017/2018,2017
-88,Central Midfield,"Nov 1, 1993 (23)",NA,NA,Montenegro,Belenenses SAD,Liga NOS,2017/2018,2017
-8,Central Midfield,"Jul 9, 1990 (26)",NA,NA,Portugal,Belenenses SAD,Liga NOS,2017/2018,2017
-99,Central Midfield,"Apr 5, 1990 (27)",NA,NA,Burkina Faso,Belenenses SAD,Liga NOS,2017/2018,2017
-4,Central Midfield,"Apr 6, 1990 (27)",NA,NA,Gabon,Belenenses SAD,Liga NOS,2017/2018,2017
-23,Central Midfield,"May 14, 1984 (33)",NA,NA,Algeria,Belenenses SAD,Liga NOS,2017/2018,2017
-10,Right Midfield,"Feb 22, 1990 (27)",NA,NA,Portugal,Belenenses SAD,Liga NOS,2017/2018,2017
-17,Right Midfield,"Mar 2, 1988 (29)",NA,NA,Portugal,Belenenses SAD,Liga NOS,2017/2018,2017
-NA,Attacking Midfield,"Jan 13, 1989 (28)",NA,NA,Portugal,Belenenses SAD,Liga NOS,2017/2018,2017
-94,Attacking Midfield,"Jan 22, 1994 (23)",NA,NA,Mozambique,Belenenses SAD,Liga NOS,2017/2018,2017
-19,Left Winger,"Mar 13, 1996 (21)",NA,NA,Brazil,Belenenses SAD,Liga NOS,2017/2018,2017
-NA,Left Winger,"Jan 26, 1991 (26)",NA,NA,Brazil,Belenenses SAD,Liga NOS,2017/2018,2017
-NA,Left Winger,"Dec 27, 1992 (24)",NA,NA,Nigeria,Belenenses SAD,Liga NOS,2017/2018,2017
-NA,Left Winger,"Feb 18, 1998 (19)",NA,NA,Portugal,Belenenses SAD,Liga NOS,2017/2018,2017
-21,Right Winger,"Jan 4, 1997 (20)",NA,NA,Portugal,Belenenses SAD,Liga NOS,2017/2018,2017
-14,Second Striker,"Sep 8, 1988 (28)",NA,NA,Portugal,Belenenses SAD,Liga NOS,2017/2018,2017
-12,Second Striker,"Mar 27, 1990 (27)",NA,NA,Angola,Belenenses SAD,Liga NOS,2017/2018,2017
-16,Centre-Forward,"Mar 10, 1994 (23)",NA,NA,Brazil,Belenenses SAD,Liga NOS,2017/2018,2017
-13,Centre-Forward,"Sep 21, 1988 (28)",NA,NA,Guinea-Bissau,Belenenses SAD,Liga NOS,2017/2018,2017
-NA,Centre-Forward,"Jan 6, 1993 (24)",NA,NA,Venezuela,Belenenses SAD,Liga NOS,2017/2018,2017
-NA,Centre-Forward,"Feb 11, 1992 (25)",NA,NA,Spain,Belenenses SAD,Liga NOS,2017/2018,2017
-9,Centre-Forward,"Mar 29, 1984 (33)",NA,NA,Portugal,Belenenses SAD,Liga NOS,2017/2018,2017
-40,Goalkeeper,"Mar 23, 1990 (27)",NA,NA,Brazil,GD Estoril,Liga NOS,2017/2018,2017
-NA,Goalkeeper,"Apr 19, 1992 (25)",NA,NA,Portugal,GD Estoril,Liga NOS,2017/2018,2017
-31,Goalkeeper,"Mar 20, 1982 (35)",NA,NA,Portugal,GD Estoril,Liga NOS,2017/2018,2017
-1,Goalkeeper,"Jan 27, 1995 (22)",NA,NA,Cape Verde,GD Estoril,Liga NOS,2017/2018,2017
-3,Centre-Back,"Mar 23, 1996 (21)",NA,NA,Brazil,GD Estoril,Liga NOS,2017/2018,2017
-28,Centre-Back,"Oct 9, 1986 (30)",NA,NA,Portugal,GD Estoril,Liga NOS,2017/2018,2017
-6,Centre-Back,"Jan 24, 1992 (25)",NA,NA,Brazil,GD Estoril,Liga NOS,2017/2018,2017
-NA,Centre-Back,"Dec 9, 1993 (23)",NA,NA,Senegal,GD Estoril,Liga NOS,2017/2018,2017
-32,Centre-Back,"Sep 2, 1986 (30)",NA,NA,Algeria,GD Estoril,Liga NOS,2017/2018,2017
-4,Centre-Back,"Jan 30, 1994 (23)",NA,NA,Portugal,GD Estoril,Liga NOS,2017/2018,2017
-21,Centre-Back,"Aug 4, 1991 (25)",NA,NA,Brazil,GD Estoril,Liga NOS,2017/2018,2017
-2,Left-Back,"Mar 16, 1995 (22)",NA,NA,Brazil,GD Estoril,Liga NOS,2017/2018,2017
-5,Left-Back,"Jan 10, 1992 (25)",NA,NA,Portugal,GD Estoril,Liga NOS,2017/2018,2017
-NA,Left-Back,"May 30, 1996 (21)",NA,NA,Brazil,GD Estoril,Liga NOS,2017/2018,2017
-12,Right-Back,"Mar 14, 1997 (20)",NA,NA,Portugal,GD Estoril,Liga NOS,2017/2018,2017
-7,Right-Back,"Apr 9, 1987 (30)",NA,NA,Portugal,GD Estoril,Liga NOS,2017/2018,2017
-25,Defensive Midfield,"Feb 9, 1995 (22)",NA,NA,Cyprus,GD Estoril,Liga NOS,2017/2018,2017
-88,Defensive Midfield,"May 20, 1997 (20)",NA,NA,Portugal,GD Estoril,Liga NOS,2017/2018,2017
-13,Defensive Midfield,"Nov 15, 1986 (30)",NA,NA,Portugal,GD Estoril,Liga NOS,2017/2018,2017
-NA,Defensive Midfield,"Jun 22, 1995 (22)",NA,NA,Brazil,GD Estoril,Liga NOS,2017/2018,2017
-19,Defensive Midfield,"Nov 2, 1999 (17)",NA,NA,Portugal,GD Estoril,Liga NOS,2017/2018,2017
-17,Right Midfield,"May 6, 1995 (22)",NA,NA,Brazil,GD Estoril,Liga NOS,2017/2018,2017
-20,Right Midfield,"Feb 28, 1996 (21)",NA,NA,Brazil,GD Estoril,Liga NOS,2017/2018,2017
-NA,Right Midfield,"Sep 23, 1993 (23)",NA,NA,Portugal,GD Estoril,Liga NOS,2017/2018,2017
-NA,Attacking Midfield,"Jun 22, 1994 (23)",NA,NA,Brazil,GD Estoril,Liga NOS,2017/2018,2017
-NA,Attacking Midfield,"Apr 15, 1997 (20)",NA,NA,Brazil,GD Estoril,Liga NOS,2017/2018,2017
-22,Left Winger,"Mar 31, 1991 (26)",NA,NA,Portugal,GD Estoril,Liga NOS,2017/2018,2017
-77,Right Winger,"Mar 15, 1996 (21)",NA,NA,Brazil,GD Estoril,Liga NOS,2017/2018,2017
-11,Right Winger,"Apr 24, 1995 (22)",NA,NA,Brazil,GD Estoril,Liga NOS,2017/2018,2017
-33,Right Winger,"Sep 30, 1995 (21)",NA,NA,Brazil,GD Estoril,Liga NOS,2017/2018,2017
-8,Right Winger,"Jun 7, 1993 (24)",NA,NA,Brazil,GD Estoril,Liga NOS,2017/2018,2017
-NA,Right Winger,"Jan 11, 1996 (21)",NA,NA,Brazil,GD Estoril,Liga NOS,2017/2018,2017
-10,Centre-Forward,"May 2, 1990 (27)",NA,NA,Brazil,GD Estoril,Liga NOS,2017/2018,2017
-9,Centre-Forward,"Jul 19, 1996 (20)",NA,NA,Brazil,GD Estoril,Liga NOS,2017/2018,2017
-29,Centre-Forward,"Sep 11, 1994 (22)",NA,NA,Panama,GD Estoril,Liga NOS,2017/2018,2017
-1,Goalkeeper,"Nov 29, 1990 (26)",NA,NA,Portugal,Vitória Setúbal FC,Liga NOS,2017/2018,2017
-88,Goalkeeper,"Jan 4, 1988 (29)",NA,NA,Portugal,Vitória Setúbal FC,Liga NOS,2017/2018,2017
-12,Goalkeeper,"Apr 24, 1995 (22)",NA,NA,Portugal,Vitória Setúbal FC,Liga NOS,2017/2018,2017
-NA,Centre-Back,"Feb 4, 1993 (24)",NA,NA,Portugal,Vitória Setúbal FC,Liga NOS,2017/2018,2017
-NA,Centre-Back,"Dec 28, 1992 (24)",NA,NA,Brazil,Vitória Setúbal FC,Liga NOS,2017/2018,2017
-13,Centre-Back,"Nov 12, 1986 (30)",NA,NA,Portugal,Vitória Setúbal FC,Liga NOS,2017/2018,2017
-22,Centre-Back,"Jan 31, 1991 (26)",NA,NA,Portugal,Vitória Setúbal FC,Liga NOS,2017/2018,2017
-32,Centre-Back,"Mar 2, 1988 (29)",NA,NA,Portugal,Vitória Setúbal FC,Liga NOS,2017/2018,2017
-14,Centre-Back,"Nov 8, 1994 (22)",NA,NA,Portugal,Vitória Setúbal FC,Liga NOS,2017/2018,2017
-44,Centre-Back,"Mar 24, 1998 (19)",NA,NA,Portugal,Vitória Setúbal FC,Liga NOS,2017/2018,2017
-21,Left-Back,"Aug 6, 1986 (30)",NA,NA,Portugal,Vitória Setúbal FC,Liga NOS,2017/2018,2017
-16,Left-Back,"Feb 26, 1998 (19)",NA,NA,Portugal,Vitória Setúbal FC,Liga NOS,2017/2018,2017
-91,Right-Back,"Jan 22, 1991 (26)",NA,NA,Brazil,Vitória Setúbal FC,Liga NOS,2017/2018,2017
-7,Right-Back,"Apr 6, 1992 (25)",NA,NA,DR Congo,Vitória Setúbal FC,Liga NOS,2017/2018,2017
-42,Right-Back,"Apr 8, 1991 (26)",NA,NA,Brazil,Vitória Setúbal FC,Liga NOS,2017/2018,2017
-NA,Right-Back,"Aug 8, 1993 (23)",NA,NA,Portugal,Vitória Setúbal FC,Liga NOS,2017/2018,2017
-6,Defensive Midfield,"Jan 30, 1995 (22)",NA,NA,Portugal,Vitória Setúbal FC,Liga NOS,2017/2018,2017
-29,Defensive Midfield,"Jan 11, 1985 (32)",NA,NA,Portugal,Vitória Setúbal FC,Liga NOS,2017/2018,2017
-15,Defensive Midfield,"Feb 16, 1994 (23)",NA,NA,Brazil,Vitória Setúbal FC,Liga NOS,2017/2018,2017
-86,Defensive Midfield,"Sep 5, 1993 (23)",NA,NA,Nigeria,Vitória Setúbal FC,Liga NOS,2017/2018,2017
-8,Central Midfield,"Feb 17, 1992 (25)",NA,NA,Brazil,Vitória Setúbal FC,Liga NOS,2017/2018,2017
-27,Central Midfield,"Apr 12, 1997 (20)",NA,NA,Portugal,Vitória Setúbal FC,Liga NOS,2017/2018,2017
-19,Right Midfield,"Apr 17, 1992 (25)",NA,NA,Turkey,Vitória Setúbal FC,Liga NOS,2017/2018,2017
-11,Attacking Midfield,"Aug 25, 1992 (24)",NA,NA,Portugal,Vitória Setúbal FC,Liga NOS,2017/2018,2017
-24,Attacking Midfield,"Sep 7, 1991 (25)",NA,NA,Portugal,Vitória Setúbal FC,Liga NOS,2017/2018,2017
-10,Attacking Midfield,"Feb 6, 1994 (23)",NA,NA,Portugal,Vitória Setúbal FC,Liga NOS,2017/2018,2017
-17,Attacking Midfield,"Apr 30, 1992 (25)",NA,NA,Portugal,Vitória Setúbal FC,Liga NOS,2017/2018,2017
-NA,Left Winger,"May 5, 1986 (31)",NA,NA,Portugal,Vitória Setúbal FC,Liga NOS,2017/2018,2017
-NA,Left Winger,"Feb 17, 1994 (23)",NA,NA,Brazil,Vitória Setúbal FC,Liga NOS,2017/2018,2017
-30,Right Winger,"Apr 5, 1996 (21)",NA,NA,Argentina,Vitória Setúbal FC,Liga NOS,2017/2018,2017
-NA,Second Striker,"Aug 8, 1991 (25)",NA,NA,Portugal,Vitória Setúbal FC,Liga NOS,2017/2018,2017
-NA,Centre-Forward,"Aug 1, 1994 (22)",NA,NA,Portugal,Vitória Setúbal FC,Liga NOS,2017/2018,2017
-36,Centre-Forward,"Jul 7, 1982 (34)",NA,NA,Portugal,Vitória Setúbal FC,Liga NOS,2017/2018,2017
-77,Centre-Forward,"May 5, 1995 (22)",NA,NA,Portugal,Vitória Setúbal FC,Liga NOS,2017/2018,2017
-33,Centre-Forward,"Nov 4, 1994 (22)",NA,NA,Brazil,Vitória Setúbal FC,Liga NOS,2017/2018,2017
-90,Goalkeeper,"Mar 31, 1990 (27)",NA,NA,Georgia,Rio Ave FC,Liga NOS,2017/2018,2017
-1,Goalkeeper,"Aug 12, 1980 (36)",NA,NA,Brazil,Rio Ave FC,Liga NOS,2017/2018,2017
-71,Goalkeeper,"Nov 13, 1991 (25)",NA,NA,Portugal,Rio Ave FC,Liga NOS,2017/2018,2017
-NA,Goalkeeper,"Feb 18, 1998 (19)",NA,NA,Portugal,Rio Ave FC,Liga NOS,2017/2018,2017
-46,Centre-Back,"Jul 27, 1989 (27)",NA,NA,Brazil,Rio Ave FC,Liga NOS,2017/2018,2017
-4,Centre-Back,"Jul 30, 1995 (21)",NA,NA,Portugal,Rio Ave FC,Liga NOS,2017/2018,2017
-96,Centre-Back,"Jun 5, 1996 (21)",NA,NA,Brazil,Rio Ave FC,Liga NOS,2017/2018,2017
-43,Centre-Back,"Dec 26, 1995 (21)",NA,NA,Portugal,Rio Ave FC,Liga NOS,2017/2018,2017
-5,Left-Back,"Jan 24, 1997 (20)",NA,NA,Portugal,Rio Ave FC,Liga NOS,2017/2018,2017
-13,Left-Back,"May 1, 1986 (31)",NA,NA,Brazil,Rio Ave FC,Liga NOS,2017/2018,2017
-3,Right-Back,"Jan 29, 1989 (28)",NA,NA,Brazil,Rio Ave FC,Liga NOS,2017/2018,2017
-22,Right-Back,"Feb 6, 1994 (23)",NA,NA,Guinea-Bissau,Rio Ave FC,Liga NOS,2017/2018,2017
-25,Defensive Midfield,"Sep 29, 1991 (25)",NA,NA,Guinea-Bissau,Rio Ave FC,Liga NOS,2017/2018,2017
-8,Central Midfield,"Oct 7, 1983 (33)",NA,NA,Portugal,Rio Ave FC,Liga NOS,2017/2018,2017
-6,Central Midfield,"Mar 15, 1989 (28)",NA,NA,Portugal,Rio Ave FC,Liga NOS,2017/2018,2017
-21,Central Midfield,"Sep 25, 1993 (23)",NA,NA,Brazil,Rio Ave FC,Liga NOS,2017/2018,2017
-26,Right Midfield,"Sep 29, 1996 (20)",NA,NA,Brazil,Rio Ave FC,Liga NOS,2017/2018,2017
-20,Left Midfield,"Feb 13, 1995 (22)",NA,NA,Portugal,Rio Ave FC,Liga NOS,2017/2018,2017
-17,Left Midfield,"Jul 10, 1993 (23)",NA,NA,Portugal,Rio Ave FC,Liga NOS,2017/2018,2017
-12,Attacking Midfield,"Apr 18, 1995 (22)",NA,NA,Portugal,Rio Ave FC,Liga NOS,2017/2018,2017
-NA,Attacking Midfield,"Aug 1, 1987 (29)",NA,NA,Portugal,Rio Ave FC,Liga NOS,2017/2018,2017
-10,Attacking Midfield,"May 3, 1994 (23)",NA,NA,Brazil,Rio Ave FC,Liga NOS,2017/2018,2017
-NA,Attacking Midfield,"Sep 18, 1997 (19)",NA,NA,Portugal,Rio Ave FC,Liga NOS,2017/2018,2017
-70,Right Winger,"Apr 28, 1993 (24)",NA,NA,Colombia,Rio Ave FC,Liga NOS,2017/2018,2017
-7,Centre-Forward,"May 7, 1987 (30)",NA,NA,Portugal,Rio Ave FC,Liga NOS,2017/2018,2017
-NA,Centre-Forward,"Sep 21, 1990 (26)",NA,NA,Greece,Rio Ave FC,Liga NOS,2017/2018,2017
-9,Centre-Forward,"Jul 13, 1996 (20)",NA,NA,Angola,Rio Ave FC,Liga NOS,2017/2018,2017
-NA,Centre-Forward,"Sep 21, 1988 (28)",NA,NA,Guinea-Bissau,Rio Ave FC,Liga NOS,2017/2018,2017
-NA,Centre-Forward,"Jun 3, 1997 (20)",NA,NA,Brazil,Rio Ave FC,Liga NOS,2017/2018,2017
-94,Goalkeeper,"Feb 4, 1994 (23)",NA,NA,Brazil,CS Marítimo,Liga NOS,2017/2018,2017
-1,Goalkeeper,"Apr 26, 1993 (24)",NA,NA,Iran,CS Marítimo,Liga NOS,2017/2018,2017
-27,Goalkeeper,"Aug 18, 1990 (26)",NA,NA,Brazil,CS Marítimo,Liga NOS,2017/2018,2017
-NA,Goalkeeper,"Aug 27, 1996 (20)",NA,NA,Portugal,CS Marítimo,Liga NOS,2017/2018,2017
-NA,Centre-Back,"Feb 6, 1992 (25)",NA,NA,Brazil,CS Marítimo,Liga NOS,2017/2018,2017
-5,Centre-Back,"Jun 24, 1988 (29)",NA,NA,Mozambique,CS Marítimo,Liga NOS,2017/2018,2017
-3,Centre-Back,"Aug 21, 1991 (25)",NA,NA,Brazil,CS Marítimo,Liga NOS,2017/2018,2017
-4,Centre-Back,"Mar 18, 1992 (25)",NA,NA,Brazil,CS Marítimo,Liga NOS,2017/2018,2017
-24,Centre-Back,"Jan 17, 1995 (22)",NA,NA,Cape Verde,CS Marítimo,Liga NOS,2017/2018,2017
-17,Left-Back,"Feb 17, 1990 (27)",NA,NA,Portugal,CS Marítimo,Liga NOS,2017/2018,2017
-14,Left-Back,"Jun 10, 1992 (25)",NA,NA,Portugal,CS Marítimo,Liga NOS,2017/2018,2017
-45,Left-Back,"Jul 7, 1992 (24)",NA,NA,Portugal,CS Marítimo,Liga NOS,2017/2018,2017
-NA,Right-Back,"May 17, 1994 (23)",NA,NA,Guinea-Bissau,CS Marítimo,Liga NOS,2017/2018,2017
-NA,Right-Back,"Aug 5, 1994 (22)",NA,NA,Portugal,CS Marítimo,Liga NOS,2017/2018,2017
-23,Right-Back,"Jan 1, 1990 (27)",NA,NA,Brazil,CS Marítimo,Liga NOS,2017/2018,2017
-NA,Defensive Midfield,"Jan 5, 1989 (28)",NA,NA,Turkey,CS Marítimo,Liga NOS,2017/2018,2017
-21,Defensive Midfield,"Aug 31, 1996 (20)",NA,NA,Portugal,CS Marítimo,Liga NOS,2017/2018,2017
-66,Defensive Midfield,"May 26, 1988 (29)",NA,NA,Portugal,CS Marítimo,Liga NOS,2017/2018,2017
-20,Defensive Midfield,"Jun 13, 1992 (25)",NA,NA,Brazil,CS Marítimo,Liga NOS,2017/2018,2017
-15,Central Midfield,"Apr 29, 1990 (27)",NA,NA,Brazil,CS Marítimo,Liga NOS,2017/2018,2017
-29,Central Midfield,"Apr 21, 1994 (23)",NA,NA,Portugal,CS Marítimo,Liga NOS,2017/2018,2017
-NA,Left Midfield,"Mar 21, 1992 (25)",NA,NA,Brazil,CS Marítimo,Liga NOS,2017/2018,2017
-8,Attacking Midfield,"Apr 4, 1993 (24)",NA,NA,Argentina,CS Marítimo,Liga NOS,2017/2018,2017
-10,Left Winger,"Apr 5, 1988 (29)",NA,NA,Armenia,CS Marítimo,Liga NOS,2017/2018,2017
-33,Left Winger,"Apr 3, 1991 (26)",NA,NA,Portugal,CS Marítimo,Liga NOS,2017/2018,2017
-12,Right Winger,"Apr 14, 1987 (30)",NA,NA,Portugal,CS Marítimo,Liga NOS,2017/2018,2017
-NA,Right Winger,"Feb 12, 1993 (24)",NA,NA,Guinea-Bissau,CS Marítimo,Liga NOS,2017/2018,2017
-NA,Right Winger,"Jan 31, 1995 (22)",NA,NA,Mozambique,CS Marítimo,Liga NOS,2017/2018,2017
-7,Second Striker,"Oct 8, 1989 (27)",NA,NA,Brazil,CS Marítimo,Liga NOS,2017/2018,2017
-95,Centre-Forward,"Dec 6, 1993 (23)",NA,NA,Cameroon,CS Marítimo,Liga NOS,2017/2018,2017
-NA,Centre-Forward,"Mar 4, 1991 (26)",NA,NA,Sweden,CS Marítimo,Liga NOS,2017/2018,2017
-9,Centre-Forward,"May 30, 1991 (26)",NA,NA,Brazil,CS Marítimo,Liga NOS,2017/2018,2017
-93,Centre-Forward,"Jul 3, 1993 (23)",NA,NA,Brazil,CS Marítimo,Liga NOS,2017/2018,2017
-18,Goalkeeper,"May 8, 1991 (26)",NA,NA,Brazil,Moreirense FC,Liga NOS,2017/2018,2017
-NA,Goalkeeper,"Feb 17, 1992 (25)",NA,NA,Brazil,Moreirense FC,Liga NOS,2017/2018,2017
-50,Goalkeeper,"Jan 10, 1988 (29)",NA,NA,Brazil,Moreirense FC,Liga NOS,2017/2018,2017
-3,Centre-Back,"Feb 4, 1989 (28)",NA,NA,Portugal,Moreirense FC,Liga NOS,2017/2018,2017
-6,Centre-Back,"May 3, 1989 (28)",NA,NA,Morocco,Moreirense FC,Liga NOS,2017/2018,2017
-4,Centre-Back,"May 22, 1992 (25)",NA,NA,Brazil,Moreirense FC,Liga NOS,2017/2018,2017
-26,Centre-Back,"Aug 24, 1990 (26)",NA,NA,Algeria,Moreirense FC,Liga NOS,2017/2018,2017
-NA,Centre-Back,"May 13, 1994 (23)",NA,NA,Portugal,Moreirense FC,Liga NOS,2017/2018,2017
-2,Left-Back,"Feb 18, 1995 (22)",NA,NA,Brazil,Moreirense FC,Liga NOS,2017/2018,2017
-5,Left-Back,"Oct 3, 1989 (27)",NA,NA,Portugal,Moreirense FC,Liga NOS,2017/2018,2017
-37,Left-Back,"Sep 14, 1992 (24)",NA,NA,Brazil,Moreirense FC,Liga NOS,2017/2018,2017
-95,Right-Back,"Aug 21, 1990 (26)",NA,NA,Senegal,Moreirense FC,Liga NOS,2017/2018,2017
-22,Right-Back,"May 20, 1998 (19)",NA,NA,Cote d'Ivoire,Moreirense FC,Liga NOS,2017/2018,2017
-27,Defensive Midfield,"Nov 6, 1989 (27)",NA,NA,Guinea,Moreirense FC,Liga NOS,2017/2018,2017
-8,Defensive Midfield,"May 24, 1993 (24)",NA,NA,Brazil,Moreirense FC,Liga NOS,2017/2018,2017
-90,Defensive Midfield,"Aug 30, 1997 (19)",NA,NA,Guinea-Bissau,Moreirense FC,Liga NOS,2017/2018,2017
-57,Central Midfield,"Mar 18, 1994 (23)",NA,NA,Brazil,Moreirense FC,Liga NOS,2017/2018,2017
-23,Central Midfield,"Jan 19, 1991 (26)",NA,NA,Brazil,Moreirense FC,Liga NOS,2017/2018,2017
-20,Attacking Midfield,"Jan 14, 1993 (24)",NA,NA,Portugal,Moreirense FC,Liga NOS,2017/2018,2017
-91,Attacking Midfield,"Sep 2, 1991 (25)",NA,NA,Brazil,Moreirense FC,Liga NOS,2017/2018,2017
-NA,Attacking Midfield,"Oct 9, 1995 (21)",NA,NA,Portugal,Moreirense FC,Liga NOS,2017/2018,2017
-93,Left Winger,"Aug 25, 1992 (24)",NA,NA,France,Moreirense FC,Liga NOS,2017/2018,2017
-40,Left Winger,"Jan 10, 1996 (21)",NA,NA,Egypt,Moreirense FC,Liga NOS,2017/2018,2017
-NA,Left Winger,"Jan 17, 1996 (21)",NA,NA,Ghana,Moreirense FC,Liga NOS,2017/2018,2017
-10,Left Winger,"Apr 2, 1994 (23)",NA,NA,France,Moreirense FC,Liga NOS,2017/2018,2017
-NA,Left Winger,"Aug 11, 1993 (23)",NA,NA,Portugal,Moreirense FC,Liga NOS,2017/2018,2017
-77,Right Winger,"Aug 30, 1989 (27)",NA,NA,Portugal,Moreirense FC,Liga NOS,2017/2018,2017
-NA,Right Winger,"Mar 15, 1994 (23)",NA,NA,Portugal,Moreirense FC,Liga NOS,2017/2018,2017
-NA,Centre-Forward,"May 23, 1996 (21)",NA,NA,Ghana,Moreirense FC,Liga NOS,2017/2018,2017
-9,Centre-Forward,"May 31, 1983 (34)",NA,NA,Brazil,Moreirense FC,Liga NOS,2017/2018,2017
-NA,Centre-Forward,"Jul 29, 1995 (21)",NA,NA,Venezuela,Moreirense FC,Liga NOS,2017/2018,2017
-70,Centre-Forward,"Mar 10, 1997 (20)",NA,NA,Venezuela,Moreirense FC,Liga NOS,2017/2018,2017
-33,Goalkeeper,"Jun 6, 1986 (31)",NA,NA,Brazil,Boavista Porto FC,Liga NOS,2017/2018,2017
-NA,Goalkeeper,"Dec 19, 1992 (24)",NA,NA,Switzerland,Boavista Porto FC,Liga NOS,2017/2018,2017
-13,Goalkeeper,"Oct 4, 1989 (27)",NA,NA,Brazil,Boavista Porto FC,Liga NOS,2017/2018,2017
-22,Centre-Back,"Feb 17, 1995 (22)",NA,NA,France,Boavista Porto FC,Liga NOS,2017/2018,2017
-6,Centre-Back,"Feb 14, 1994 (23)",NA,NA,Brazil,Boavista Porto FC,Liga NOS,2017/2018,2017
-23,Centre-Back,"Oct 19, 1986 (30)",NA,NA,Portugal,Boavista Porto FC,Liga NOS,2017/2018,2017
-3,Centre-Back,"Jul 25, 1990 (26)",NA,NA,Brazil,Boavista Porto FC,Liga NOS,2017/2018,2017
-5,Left-Back,"Aug 30, 1989 (27)",NA,NA,Portugal,Boavista Porto FC,Liga NOS,2017/2018,2017
-90,Left-Back,"Jan 13, 1990 (27)",NA,NA,Portugal,Boavista Porto FC,Liga NOS,2017/2018,2017
-NA,Left-Back,"Dec 17, 1990 (26)",NA,NA,China,Boavista Porto FC,Liga NOS,2017/2018,2017
-20,Right-Back,"Apr 26, 1990 (27)",NA,NA,Portugal,Boavista Porto FC,Liga NOS,2017/2018,2017
-28,Right-Back,"Nov 23, 1990 (26)",NA,NA,Portugal,Boavista Porto FC,Liga NOS,2017/2018,2017
-17,Right-Back,"Mar 1, 1993 (24)",NA,NA,Portugal,Boavista Porto FC,Liga NOS,2017/2018,2017
-42,Defensive Midfield,"Dec 27, 1984 (32)",NA,NA,Senegal,Boavista Porto FC,Liga NOS,2017/2018,2017
-45,Defensive Midfield,"Sep 24, 1996 (20)",NA,NA,Portugal,Boavista Porto FC,Liga NOS,2017/2018,2017
-25,Central Midfield,"May 15, 1990 (27)",NA,NA,Portugal,Boavista Porto FC,Liga NOS,2017/2018,2017
-21,Central Midfield,"Oct 2, 1989 (27)",NA,NA,England,Boavista Porto FC,Liga NOS,2017/2018,2017
-10,Attacking Midfield,"Aug 18, 1985 (31)",NA,NA,Portugal,Boavista Porto FC,Liga NOS,2017/2018,2017
-18,Left Winger,"Aug 2, 1989 (27)",NA,NA,Cape Verde,Boavista Porto FC,Liga NOS,2017/2018,2017
-9,Left Winger,"Jun 19, 1984 (33)",NA,NA,Angola,Boavista Porto FC,Liga NOS,2017/2018,2017
-7,Right Winger,"Oct 5, 1991 (25)",NA,NA,Portugal,Boavista Porto FC,Liga NOS,2017/2018,2017
-11,Right Winger,"Sep 27, 1992 (24)",NA,NA,Panama,Boavista Porto FC,Liga NOS,2017/2018,2017
-NA,Right Winger,"Mar 3, 1995 (22)",NA,NA,DR Congo,Boavista Porto FC,Liga NOS,2017/2018,2017
-16,Right Winger,"May 3, 1995 (22)",NA,NA,Portugal,Boavista Porto FC,Liga NOS,2017/2018,2017
-27,Centre-Forward,"Mar 20, 1998 (19)",NA,NA,Portugal,Boavista Porto FC,Liga NOS,2017/2018,2017
-59,Centre-Forward,"Apr 18, 1996 (21)",NA,NA,Colombia,Boavista Porto FC,Liga NOS,2017/2018,2017
-19,Centre-Forward,"May 20, 1993 (24)",NA,NA,Peru,Boavista Porto FC,Liga NOS,2017/2018,2017
-8,Centre-Forward,"Jan 3, 1994 (23)",NA,NA,The Gambia,Boavista Porto FC,Liga NOS,2017/2018,2017
-83,Goalkeeper,"Mar 12, 1983 (34)",NA,NA,Brazil,Desportivo Aves,Liga NOS,2017/2018,2017
-NA,Goalkeeper,"Mar 22, 1988 (29)",NA,NA,Portugal,Desportivo Aves,Liga NOS,2017/2018,2017
-25,Goalkeeper,"Jan 25, 1981 (36)",NA,NA,Brazil,Desportivo Aves,Liga NOS,2017/2018,2017
-1,Goalkeeper,"Nov 13, 1975 (41)",NA,NA,Portugal,Desportivo Aves,Liga NOS,2017/2018,2017
-26,Centre-Back,"Jan 13, 1995 (22)",NA,NA,Cape Verde,Desportivo Aves,Liga NOS,2017/2018,2017
-5,Centre-Back,"Jun 16, 1986 (31)",NA,NA,Brazil,Desportivo Aves,Liga NOS,2017/2018,2017
-44,Centre-Back,"Jan 14, 1984 (33)",NA,NA,Brazil,Desportivo Aves,Liga NOS,2017/2018,2017
-46,Centre-Back,"Oct 27, 1988 (28)",NA,NA,Brazil,Desportivo Aves,Liga NOS,2017/2018,2017
-21,Left-Back,"Mar 22, 1984 (33)",NA,NA,Portugal,Desportivo Aves,Liga NOS,2017/2018,2017
-2,Right-Back,"Dec 26, 1992 (24)",NA,NA,Brazil,Desportivo Aves,Liga NOS,2017/2018,2017
-17,Right-Back,"Mar 6, 1985 (32)",NA,NA,Portugal,Desportivo Aves,Liga NOS,2017/2018,2017
-NA,Defensive Midfield,"Jan 20, 1989 (28)",NA,NA,Brazil,Desportivo Aves,Liga NOS,2017/2018,2017
-NA,Defensive Midfield,"Nov 15, 1986 (30)",NA,NA,Portugal,Desportivo Aves,Liga NOS,2017/2018,2017
-29,Defensive Midfield,"Jul 3, 1994 (22)",NA,NA,Brazil,Desportivo Aves,Liga NOS,2017/2018,2017
-10,Central Midfield,"Mar 31, 1986 (31)",NA,NA,Portugal,Desportivo Aves,Liga NOS,2017/2018,2017
-15,Central Midfield,"Jul 24, 1986 (30)",NA,NA,Argentina,Desportivo Aves,Liga NOS,2017/2018,2017
-30,Central Midfield,"Dec 25, 1987 (29)",NA,NA,Portugal,Desportivo Aves,Liga NOS,2017/2018,2017
-11,Attacking Midfield,"Apr 20, 1991 (26)",NA,NA,Argentina,Desportivo Aves,Liga NOS,2017/2018,2017
-27,Attacking Midfield,"Dec 16, 1995 (21)",NA,NA,Scotland,Desportivo Aves,Liga NOS,2017/2018,2017
-19,Attacking Midfield,"Jun 17, 1983 (34)",NA,NA,Portugal,Desportivo Aves,Liga NOS,2017/2018,2017
-22,Left Winger,"Dec 18, 1988 (28)",NA,NA,Guinea-Bissau,Desportivo Aves,Liga NOS,2017/2018,2017
-16,Left Winger,"May 1, 1986 (31)",NA,NA,Brazil,Desportivo Aves,Liga NOS,2017/2018,2017
-73,Left Winger,"Feb 12, 1994 (23)",NA,NA,Libya,Desportivo Aves,Liga NOS,2017/2018,2017
-NA,Right Winger,"Nov 11, 1991 (25)",NA,NA,Portugal,Desportivo Aves,Liga NOS,2017/2018,2017
-23,Right Winger,"Aug 12, 1989 (27)",NA,NA,Brazil,Desportivo Aves,Liga NOS,2017/2018,2017
-50,Right Winger,"Nov 6, 1995 (21)",NA,NA,Guinea-Bissau,Desportivo Aves,Liga NOS,2017/2018,2017
-99,Second Striker,"Mar 9, 1995 (22)",NA,NA,Colombia,Desportivo Aves,Liga NOS,2017/2018,2017
-33,Centre-Forward,"Dec 29, 1987 (29)",NA,NA,Brazil,Desportivo Aves,Liga NOS,2017/2018,2017
-7,Centre-Forward,"Feb 11, 1994 (23)",NA,NA,Portugal,Desportivo Aves,Liga NOS,2017/2018,2017
-20,Centre-Forward,"Feb 21, 1990 (27)",NA,NA,Argentina,Desportivo Aves,Liga NOS,2017/2018,2017
-33,Goalkeeper,"Dec 3, 1989 (27)",NA,NA,Portugal,Portimonense SC,Liga NOS,2017/2018,2017
-22,Goalkeeper,"Dec 28, 1992 (24)",NA,NA,Brazil,Portimonense SC,Liga NOS,2017/2018,2017
-1,Goalkeeper,"Jul 7, 1993 (23)",NA,NA,Portugal,Portimonense SC,Liga NOS,2017/2018,2017
-26,Centre-Back,"May 6, 1986 (31)",NA,NA,Portugal,Portimonense SC,Liga NOS,2017/2018,2017
-13,Centre-Back,"Mar 27, 1994 (23)",NA,NA,Brazil,Portimonense SC,Liga NOS,2017/2018,2017
-4,Centre-Back,"Nov 5, 1991 (25)",NA,NA,Brazil,Portimonense SC,Liga NOS,2017/2018,2017
-3,Centre-Back,"May 11, 1994 (23)",NA,NA,Brazil,Portimonense SC,Liga NOS,2017/2018,2017
-55,Left-Back,"May 9, 1995 (22)",NA,NA,Portugal,Portimonense SC,Liga NOS,2017/2018,2017
-NA,Left-Back,"Aug 15, 1996 (20)",NA,NA,Ghana,Portimonense SC,Liga NOS,2017/2018,2017
-NA,Left-Back,"Jan 29, 1996 (21)",NA,NA,Brazil,Portimonense SC,Liga NOS,2017/2018,2017
-19,Right-Back,"Jul 23, 1994 (22)",NA,NA,Portugal,Portimonense SC,Liga NOS,2017/2018,2017
-14,Right-Back,"May 14, 1995 (22)",NA,NA,Ghana,Portimonense SC,Liga NOS,2017/2018,2017
-5,Right-Back,"Feb 5, 1982 (35)",NA,NA,Portugal,Portimonense SC,Liga NOS,2017/2018,2017
-NA,Defensive Midfield,"Jul 7, 1992 (24)",NA,NA,Spain,Portimonense SC,Liga NOS,2017/2018,2017
-21,Defensive Midfield,"Dec 1, 1993 (23)",NA,NA,Portugal,Portimonense SC,Liga NOS,2017/2018,2017
-30,Defensive Midfield,"Oct 16, 1992 (24)",NA,NA,Brazil,Portimonense SC,Liga NOS,2017/2018,2017
-25,Central Midfield,"Apr 5, 1996 (21)",NA,NA,Brazil,Portimonense SC,Liga NOS,2017/2018,2017
-7,Central Midfield,"Mar 13, 1992 (25)",NA,NA,Brazil,Portimonense SC,Liga NOS,2017/2018,2017
-16,Left Midfield,"Oct 22, 1997 (19)",NA,NA,Brazil,Portimonense SC,Liga NOS,2017/2018,2017
-NA,Attacking Midfield,"Jul 10, 1994 (22)",NA,NA,Brazil,Portimonense SC,Liga NOS,2017/2018,2017
-8,Attacking Midfield,"Apr 18, 1997 (20)",NA,NA,Argentina,Portimonense SC,Liga NOS,2017/2018,2017
-10,Attacking Midfield,"Dec 1, 1992 (24)",NA,NA,Brazil,Portimonense SC,Liga NOS,2017/2018,2017
-6,Attacking Midfield,"Jul 31, 1995 (21)",NA,NA,Japan,Portimonense SC,Liga NOS,2017/2018,2017
-NA,Attacking Midfield,"Apr 23, 1997 (20)",NA,NA,Brazil,Portimonense SC,Liga NOS,2017/2018,2017
-23,Left Winger,"Aug 23, 1994 (22)",NA,NA,Japan,Portimonense SC,Liga NOS,2017/2018,2017
-11,Right Winger,"Mar 30, 1997 (20)",NA,NA,Brazil,Portimonense SC,Liga NOS,2017/2018,2017
-27,Right Winger,"Nov 21, 1992 (24)",NA,NA,Brazil,Portimonense SC,Liga NOS,2017/2018,2017
-NA,Second Striker,"Oct 2, 1997 (19)",NA,NA,Nigeria,Portimonense SC,Liga NOS,2017/2018,2017
-NA,Second Striker,"Apr 23, 1993 (24)",NA,NA,Brazil,Portimonense SC,Liga NOS,2017/2018,2017
-77,Centre-Forward,"Feb 20, 1996 (21)",NA,NA,Portugal,Portimonense SC,Liga NOS,2017/2018,2017
-90,Centre-Forward,"Mar 28, 1990 (27)",NA,NA,Brazil,Portimonense SC,Liga NOS,2017/2018,2017
-NA,Centre-Forward,"Jun 24, 1990 (27)",NA,NA,Nigeria,Portimonense SC,Liga NOS,2017/2018,2017
-9,Centre-Forward,"Apr 1, 1981 (36)",NA,NA,Portugal,Portimonense SC,Liga NOS,2017/2018,2017
-97,Centre-Forward,"Nov 21, 1997 (19)",NA,NA,Brazil,Portimonense SC,Liga NOS,2017/2018,2017
-1,Goalkeeper,"Nov 16, 1991 (25)",NA,NA,Portugal,CD Tondela,Liga NOS,2017/2018,2017
-12,Goalkeeper,"Mar 10, 1987 (30)",NA,NA,Portugal,CD Tondela,Liga NOS,2017/2018,2017
-13,Goalkeeper,"Dec 14, 1988 (28)",NA,NA,Portugal,CD Tondela,Liga NOS,2017/2018,2017
-NA,Centre-Back,"May 10, 1994 (23)",NA,NA,Venezuela,CD Tondela,Liga NOS,2017/2018,2017
-4,Centre-Back,"Feb 2, 1994 (23)",NA,NA,Australia,CD Tondela,Liga NOS,2017/2018,2017
-20,Centre-Back,"May 16, 1981 (36)",NA,NA,Portugal,CD Tondela,Liga NOS,2017/2018,2017
-32,Centre-Back,"Apr 16, 1989 (28)",NA,NA,Brazil,CD Tondela,Liga NOS,2017/2018,2017
-44,Centre-Back,"Apr 2, 1997 (20)",NA,NA,Portugal,CD Tondela,Liga NOS,2017/2018,2017
-40,Centre-Back,"Dec 20, 1995 (21)",NA,NA,Nigeria,CD Tondela,Liga NOS,2017/2018,2017
-23,Left-Back,"Jul 2, 1989 (27)",NA,NA,Portugal,CD Tondela,Liga NOS,2017/2018,2017
-NA,Left-Back,"Sep 11, 1990 (26)",NA,NA,Portugal,CD Tondela,Liga NOS,2017/2018,2017
-22,Right-Back,"Feb 14, 1992 (25)",NA,NA,Portugal,CD Tondela,Liga NOS,2017/2018,2017
-2,Right-Back,"May 5, 1996 (21)",NA,NA,Morocco,CD Tondela,Liga NOS,2017/2018,2017
-7,Defensive Midfield,"Apr 9, 1994 (23)",NA,NA,Portugal,CD Tondela,Liga NOS,2017/2018,2017
-6,Defensive Midfield,"Sep 13, 1991 (25)",NA,NA,Cameroon,CD Tondela,Liga NOS,2017/2018,2017
-14,Central Midfield,"Oct 25, 1992 (24)",NA,NA,Ghana,CD Tondela,Liga NOS,2017/2018,2017
-8,Central Midfield,"Dec 26, 1989 (27)",NA,NA,Cape Verde,CD Tondela,Liga NOS,2017/2018,2017
-27,Central Midfield,"Oct 5, 1984 (32)",NA,NA,Portugal,CD Tondela,Liga NOS,2017/2018,2017
-NA,Central Midfield,"Dec 29, 1999 (17)",NA,NA,Portugal,CD Tondela,Liga NOS,2017/2018,2017
-5,Left Midfield,"Aug 22, 1994 (22)",NA,NA,Portugal,CD Tondela,Liga NOS,2017/2018,2017
-17,Attacking Midfield,"Jan 30, 1996 (21)",NA,NA,Portugal,CD Tondela,Liga NOS,2017/2018,2017
-50,Left Winger,"Jul 6, 1992 (24)",NA,NA,Portugal,CD Tondela,Liga NOS,2017/2018,2017
-NA,Left Winger,"Apr 3, 1987 (30)",NA,NA,Brazil,CD Tondela,Liga NOS,2017/2018,2017
-9,Left Winger,"Dec 30, 1994 (22)",NA,NA,United States,CD Tondela,Liga NOS,2017/2018,2017
-10,Left Winger,"Jan 13, 1995 (22)",NA,NA,Portugal,CD Tondela,Liga NOS,2017/2018,2017
-25,Left Winger,"Aug 3, 1990 (26)",NA,NA,Sao Tome and Principe,CD Tondela,Liga NOS,2017/2018,2017
-15,Left Winger,"Mar 5, 1993 (24)",NA,NA,Chile,CD Tondela,Liga NOS,2017/2018,2017
-77,Left Winger,"May 12, 1996 (21)",NA,NA,Brazil,CD Tondela,Liga NOS,2017/2018,2017
-11,Right Winger,"Jun 19, 1994 (23)",NA,NA,Portugal,CD Tondela,Liga NOS,2017/2018,2017
-NA,Right Winger,"Jun 21, 1999 (18)",NA,NA,Portugal,CD Tondela,Liga NOS,2017/2018,2017
-19,Centre-Forward,"Oct 23, 1992 (24)",NA,NA,Portugal,CD Tondela,Liga NOS,2017/2018,2017
-99,Centre-Forward,"Dec 14, 1991 (25)",NA,NA,Brazil,CD Tondela,Liga NOS,2017/2018,2017
-NA,Centre-Forward,"Mar 27, 1990 (27)",NA,NA,Poland,CD Tondela,Liga NOS,2017/2018,2017
-NA,Centre-Forward,"Dec 26, 1994 (22)",NA,NA,Portugal,CD Tondela,Liga NOS,2017/2018,2017
-37,Goalkeeper,"Jan 20, 1989 (28)",NA,NA,Poland,CD Feirense,Liga NOS,2017/2018,2017
-1,Goalkeeper,"Dec 24, 1996 (20)",NA,NA,Nigeria,CD Feirense,Liga NOS,2017/2018,2017
-22,Goalkeeper,"Dec 22, 1990 (26)",NA,NA,Brazil,CD Feirense,Liga NOS,2017/2018,2017
-4,Centre-Back,"Feb 5, 1994 (23)",NA,NA,Mexico,CD Feirense,Liga NOS,2017/2018,2017
-32,Centre-Back,"May 12, 1994 (23)",NA,NA,Brazil,CD Feirense,Liga NOS,2017/2018,2017
-13,Centre-Back,"Aug 13, 1986 (30)",NA,NA,Portugal,CD Feirense,Liga NOS,2017/2018,2017
-14,Centre-Back,"May 30, 1991 (26)",NA,NA,Brazil,CD Feirense,Liga NOS,2017/2018,2017
-23,Left-Back,"Jul 29, 1986 (30)",NA,NA,Portugal,CD Feirense,Liga NOS,2017/2018,2017
-3,Left-Back,"Jun 12, 1991 (26)",NA,NA,Uganda,CD Feirense,Liga NOS,2017/2018,2017
-26,Left-Back,"Dec 10, 1994 (22)",NA,NA,Portugal,CD Feirense,Liga NOS,2017/2018,2017
-12,Right-Back,"Jan 12, 1992 (25)",NA,NA,Brazil,CD Feirense,Liga NOS,2017/2018,2017
-28,Right-Back,"Jan 23, 1986 (31)",NA,NA,Haiti,CD Feirense,Liga NOS,2017/2018,2017
-35,Right-Back,"Jan 4, 1984 (33)",NA,NA,Portugal,CD Feirense,Liga NOS,2017/2018,2017
-2,Right-Back,"Mar 30, 1998 (19)",NA,NA,Portugal,CD Feirense,Liga NOS,2017/2018,2017
-NA,Defensive Midfield,"May 28, 1993 (24)",NA,NA,Cote d'Ivoire,CD Feirense,Liga NOS,2017/2018,2017
-17,Defensive Midfield,"Jan 11, 1984 (33)",NA,NA,Portugal,CD Feirense,Liga NOS,2017/2018,2017
-NA,Central Midfield,"Nov 9, 1995 (21)",NA,NA,Nigeria,CD Feirense,Liga NOS,2017/2018,2017
-6,Central Midfield,"Jun 18, 1995 (22)",NA,NA,Portugal,CD Feirense,Liga NOS,2017/2018,2017
-8,Central Midfield,"Jun 2, 1993 (24)",NA,NA,Portugal,CD Feirense,Liga NOS,2017/2018,2017
-30,Central Midfield,"Aug 17, 1988 (28)",NA,NA,Portugal,CD Feirense,Liga NOS,2017/2018,2017
-5,Central Midfield,"Jul 27, 1985 (31)",NA,NA,Cape Verde,CD Feirense,Liga NOS,2017/2018,2017
-70,Central Midfield,"Dec 12, 1998 (18)",NA,NA,Portugal,CD Feirense,Liga NOS,2017/2018,2017
-50,Attacking Midfield,"Feb 18, 1989 (28)",NA,NA,Brazil,CD Feirense,Liga NOS,2017/2018,2017
-7,Left Winger,"Nov 4, 1992 (24)",NA,NA,Portugal,CD Feirense,Liga NOS,2017/2018,2017
-45,Right Winger,"Oct 23, 1990 (26)",NA,NA,Portugal,CD Feirense,Liga NOS,2017/2018,2017
-NA,Right Winger,"Mar 29, 1995 (22)",NA,NA,Brazil,CD Feirense,Liga NOS,2017/2018,2017
-77,Right Winger,"Jun 17, 1988 (29)",NA,NA,Portugal,CD Feirense,Liga NOS,2017/2018,2017
-21,Centre-Forward,"Sep 21, 1990 (26)",NA,NA,Greece,CD Feirense,Liga NOS,2017/2018,2017
-20,Centre-Forward,"Dec 18, 1991 (25)",NA,NA,Colombia,CD Feirense,Liga NOS,2017/2018,2017
-NA,Centre-Forward,"Mar 17, 1998 (19)",NA,NA,Brazil,CD Feirense,Liga NOS,2017/2018,2017
-19,Centre-Forward,"May 21, 1990 (27)",NA,NA,Portugal,CD Feirense,Liga NOS,2017/2018,2017
+player_name,position,date_of_birth,age,nationality,club_name,league_name,season,year
+Rui Patrício,Goalkeeper,1988-02-15,29,Portugal,Sporting CP,Liga NOS,2017/2018,2017
+Pedro Silva,Goalkeeper,1997-02-13,20,Portugal,Sporting CP,Liga NOS,2017/2018,2017
+Romain Salin,Goalkeeper,1984-07-29,32,France,Sporting CP,Liga NOS,2017/2018,2017
+Vladimir Stojkovic,Goalkeeper,1996-10-04,20,Portugal,Sporting CP,Liga NOS,2017/2018,2017
+Sebastián Coates,Centre-Back,1990-10-07,26,Uruguay,Sporting CP,Liga NOS,2017/2018,2017
+André Pinto,Centre-Back,1989-10-05,27,Portugal,Sporting CP,Liga NOS,2017/2018,2017
+Jérémy Mathieu,Centre-Back,1983-10-29,33,France,Sporting CP,Liga NOS,2017/2018,2017
+Douglas,Centre-Back,1988-01-12,29,Netherlands,Sporting CP,Liga NOS,2017/2018,2017
+Tobias Figueiredo,Centre-Back,1994-02-02,23,Portugal,Sporting CP,Liga NOS,2017/2018,2017
+Ivanildo Fernandes,Centre-Back,1996-03-26,21,Portugal,Sporting CP,Liga NOS,2017/2018,2017
+Kiki Kouyaté,Centre-Back,1997-04-15,20,Mali,Sporting CP,Liga NOS,2017/2018,2017
+Merih Demiral,Centre-Back,1998-03-05,19,Turkey,Sporting CP,Liga NOS,2017/2018,2017
+Marcos Acuña,Left-Back,1991-10-28,25,Argentina,Sporting CP,Liga NOS,2017/2018,2017
+Fábio Coentrão,Left-Back,1988-03-11,29,Portugal,Sporting CP,Liga NOS,2017/2018,2017
+Jonathan Silva,Left-Back,1994-06-29,23,Argentina,Sporting CP,Liga NOS,2017/2018,2017
+Lumor,Left-Back,1996-08-15,20,Ghana,Sporting CP,Liga NOS,2017/2018,2017
+Cristiano Piccini,Right-Back,1992-09-26,24,Italy,Sporting CP,Liga NOS,2017/2018,2017
+Stefan Ristovski,Right-Back,1992-02-12,25,North Macedonia,Sporting CP,Liga NOS,2017/2018,2017
+William Carvalho,Defensive Midfield,1992-04-07,25,Portugal,Sporting CP,Liga NOS,2017/2018,2017
+João Palhinha,Defensive Midfield,1995-07-09,21,Portugal,Sporting CP,Liga NOS,2017/2018,2017
+Radosav Petrovic,Defensive Midfield,1989-03-08,28,Serbia,Sporting CP,Liga NOS,2017/2018,2017
+Carlos Jatoba,Defensive Midfield,1995-09-15,21,Brazil,Sporting CP,Liga NOS,2017/2018,2017
+Adrien Silva,Central Midfield,1989-03-15,28,Portugal,Sporting CP,Liga NOS,2017/2018,2017
+Rodrigo Battaglia,Central Midfield,1991-07-12,25,Argentina,Sporting CP,Liga NOS,2017/2018,2017
+Josip Misic,Central Midfield,1994-06-28,23,Croatia,Sporting CP,Liga NOS,2017/2018,2017
+Wendel,Central Midfield,1997-08-28,19,Brazil,Sporting CP,Liga NOS,2017/2018,2017
+Bruno César,Left Midfield,1988-11-03,28,Brazil,Sporting CP,Liga NOS,2017/2018,2017
+Bruno Fernandes,Attacking Midfield,1994-09-08,22,Portugal,Sporting CP,Liga NOS,2017/2018,2017
+Bryan Ruíz,Attacking Midfield,1985-08-18,31,Costa Rica,Sporting CP,Liga NOS,2017/2018,2017
+Rúben Ribeiro,Attacking Midfield,1987-08-01,29,Portugal,Sporting CP,Liga NOS,2017/2018,2017
+Mattheus,Attacking Midfield,1994-07-07,22,Brazil,Sporting CP,Liga NOS,2017/2018,2017
+Rafael Barbosa,Attacking Midfield,1996-03-29,21,Portugal,Sporting CP,Liga NOS,2017/2018,2017
+Daniel Podence,Left Winger,1995-10-21,21,Portugal,Sporting CP,Liga NOS,2017/2018,2017
+Elves Baldé,Left Winger,1999-10-02,17,Portugal,Sporting CP,Liga NOS,2017/2018,2017
+Gelson Martins,Right Winger,1995-05-11,22,Portugal,Sporting CP,Liga NOS,2017/2018,2017
+Iuri Medeiros,Right Winger,1994-07-10,22,Portugal,Sporting CP,Liga NOS,2017/2018,2017
+Jovane Cabral,Right Winger,1998-06-14,19,Cape Verde,Sporting CP,Liga NOS,2017/2018,2017
+Alan Ruiz,Second Striker,1993-08-19,23,Argentina,Sporting CP,Liga NOS,2017/2018,2017
+Ary Papel,Second Striker,1994-03-03,23,Angola,Sporting CP,Liga NOS,2017/2018,2017
+Bas Dost,Centre-Forward,1989-05-31,28,Netherlands,Sporting CP,Liga NOS,2017/2018,2017
+Seydou Doumbia,Centre-Forward,1987-12-31,29,Cote d'Ivoire,Sporting CP,Liga NOS,2017/2018,2017
+Fredy Montero,Centre-Forward,1987-07-26,29,Colombia,Sporting CP,Liga NOS,2017/2018,2017
+Gelson Dala,Centre-Forward,1996-07-13,20,Angola,Sporting CP,Liga NOS,2017/2018,2017
+Cristian Ponde,Centre-Forward,1995-01-26,22,Portugal,Sporting CP,Liga NOS,2017/2018,2017
+Ronaldo Tavares,Centre-Forward,1997-07-22,19,Portugal,Sporting CP,Liga NOS,2017/2018,2017
+Rafael Leão,Centre-Forward,1999-06-10,18,Portugal,Sporting CP,Liga NOS,2017/2018,2017
+Iker Casillas,Goalkeeper,1981-05-20,36,Spain,FC Porto,Liga NOS,2017/2018,2017
+José Sá,Goalkeeper,1993-01-17,24,Portugal,FC Porto,Liga NOS,2017/2018,2017
+Fabiano,Goalkeeper,1988-02-29,29,Brazil,FC Porto,Liga NOS,2017/2018,2017
+Vaná Alves,Goalkeeper,1991-04-25,26,Brazil,FC Porto,Liga NOS,2017/2018,2017
+Felipe,Centre-Back,1989-05-16,28,Brazil,FC Porto,Liga NOS,2017/2018,2017
+Iván Marcano,Centre-Back,1987-06-23,30,Spain,FC Porto,Liga NOS,2017/2018,2017
+Diego Reyes,Centre-Back,1992-09-19,24,Mexico,FC Porto,Liga NOS,2017/2018,2017
+Yordan Osorio,Centre-Back,1994-05-10,23,Venezuela,FC Porto,Liga NOS,2017/2018,2017
+Jorge Fernandes,Centre-Back,1997-04-02,20,Portugal,FC Porto,Liga NOS,2017/2018,2017
+Alex Telles,Left-Back,1992-12-15,24,Brazil,FC Porto,Liga NOS,2017/2018,2017
+Luís Mata,Left-Back,1997-07-06,19,Portugal,FC Porto,Liga NOS,2017/2018,2017
+Ricardo Pereira,Right-Back,1993-10-06,23,Portugal,FC Porto,Liga NOS,2017/2018,2017
+Miguel Layún,Right-Back,1988-06-25,29,Mexico,FC Porto,Liga NOS,2017/2018,2017
+Maxi Pereira,Right-Back,1984-06-08,33,Uruguay,FC Porto,Liga NOS,2017/2018,2017
+Diogo Dalot,Right-Back,1999-03-18,18,Portugal,FC Porto,Liga NOS,2017/2018,2017
+Danilo Pereira,Defensive Midfield,1991-09-09,25,Portugal,FC Porto,Liga NOS,2017/2018,2017
+Luizão,Defensive Midfield,1998-02-20,19,Brazil,FC Porto,Liga NOS,2017/2018,2017
+Óliver Torres,Central Midfield,1994-11-10,22,Spain,FC Porto,Liga NOS,2017/2018,2017
+Héctor Herrera,Central Midfield,1990-04-19,27,Mexico,FC Porto,Liga NOS,2017/2018,2017
+André André,Central Midfield,1989-08-26,27,Portugal,FC Porto,Liga NOS,2017/2018,2017
+Sérgio Oliveira,Central Midfield,1992-06-02,25,Portugal,FC Porto,Liga NOS,2017/2018,2017
+Rui Moreira,Central Midfield,1996-05-31,21,Portugal,FC Porto,Liga NOS,2017/2018,2017
+Bruno Costa,Central Midfield,1997-04-19,20,Portugal,FC Porto,Liga NOS,2017/2018,2017
+Jesús Corona,Right Midfield,1993-01-06,24,Mexico,FC Porto,Liga NOS,2017/2018,2017
+Hernâni,Right Midfield,1991-08-20,25,Portugal,FC Porto,Liga NOS,2017/2018,2017
+Galeno,Left Midfield,1997-10-22,19,Brazil,FC Porto,Liga NOS,2017/2018,2017
+Otávio,Attacking Midfield,1995-02-09,22,Brazil,FC Porto,Liga NOS,2017/2018,2017
+Paulinho,Attacking Midfield,1994-07-10,22,Brazil,FC Porto,Liga NOS,2017/2018,2017
+Fede Varela,Attacking Midfield,1997-04-18,20,Argentina,FC Porto,Liga NOS,2017/2018,2017
+Yacine Brahimi,Left Winger,1990-02-08,27,Algeria,FC Porto,Liga NOS,2017/2018,2017
+Moussa Marega,Second Striker,1991-04-14,26,Mali,FC Porto,Liga NOS,2017/2018,2017
+Vincent Aboubakar,Centre-Forward,1992-01-22,25,Cameroon,FC Porto,Liga NOS,2017/2018,2017
+Tiquinho Soares,Centre-Forward,1991-01-17,26,Brazil,FC Porto,Liga NOS,2017/2018,2017
+Majeed Waris,Centre-Forward,1991-09-19,25,Ghana,FC Porto,Liga NOS,2017/2018,2017
+Gonçalo Paciência,Centre-Forward,1994-08-01,22,Portugal,FC Porto,Liga NOS,2017/2018,2017
+André Pereira,Centre-Forward,1995-05-05,22,Portugal,FC Porto,Liga NOS,2017/2018,2017
+Bruno Varela,Goalkeeper,1994-11-04,22,Portugal,SL Benfica,Liga NOS,2017/2018,2017
+Júlio César,Goalkeeper,1979-09-03,37,Brazil,SL Benfica,Liga NOS,2017/2018,2017
+Mile Svilar,Goalkeeper,1999-08-27,17,Belgium,SL Benfica,Liga NOS,2017/2018,2017
+Paulo Lopes,Goalkeeper,1978-06-29,39,Portugal,SL Benfica,Liga NOS,2017/2018,2017
+Fábio Duarte,Goalkeeper,1998-05-11,19,Portugal,SL Benfica,Liga NOS,2017/2018,2017
+Lisandro López,Centre-Back,1989-09-01,27,Argentina,SL Benfica,Liga NOS,2017/2018,2017
+Jardel,Centre-Back,1986-03-29,31,Brazil,SL Benfica,Liga NOS,2017/2018,2017
+Luisão,Centre-Back,1981-02-13,36,Brazil,SL Benfica,Liga NOS,2017/2018,2017
+Rúben Dias,Centre-Back,1997-05-14,20,Portugal,SL Benfica,Liga NOS,2017/2018,2017
+Alejandro Grimaldo,Left-Back,1995-09-20,21,Spain,SL Benfica,Liga NOS,2017/2018,2017
+Eliseu,Left-Back,1983-10-01,33,Portugal,SL Benfica,Liga NOS,2017/2018,2017
+André Almeida,Right-Back,1990-09-10,26,Portugal,SL Benfica,Liga NOS,2017/2018,2017
+Douglas,Right-Back,1990-08-06,26,Brazil,SL Benfica,Liga NOS,2017/2018,2017
+Ljubomir Fejsa,Defensive Midfield,1988-08-14,28,Serbia,SL Benfica,Liga NOS,2017/2018,2017
+Andreas Samaris,Defensive Midfield,1989-06-13,28,Greece,SL Benfica,Liga NOS,2017/2018,2017
+Filipe Augusto,Defensive Midfield,1993-08-12,23,Brazil,SL Benfica,Liga NOS,2017/2018,2017
+Keaton Parks,Defensive Midfield,1997-08-06,19,United States,SL Benfica,Liga NOS,2017/2018,2017
+Martin Chrien,Central Midfield,1995-09-08,21,Slovakia,SL Benfica,Liga NOS,2017/2018,2017
+Pizzi,Right Midfield,1989-10-06,27,Portugal,SL Benfica,Liga NOS,2017/2018,2017
+Andrija Zivkovic,Right Midfield,1996-07-11,20,Serbia,SL Benfica,Liga NOS,2017/2018,2017
+Rafa Silva,Left Midfield,1993-05-17,24,Portugal,SL Benfica,Liga NOS,2017/2018,2017
+Franco Cervi,Left Midfield,1994-05-26,23,Argentina,SL Benfica,Liga NOS,2017/2018,2017
+Filip Krovinovic,Attacking Midfield,1995-08-29,21,Croatia,SL Benfica,Liga NOS,2017/2018,2017
+João Carvalho,Attacking Midfield,1997-03-09,20,Portugal,SL Benfica,Liga NOS,2017/2018,2017
+Diogo Gonçalves,Left Winger,1997-02-06,20,Portugal,SL Benfica,Liga NOS,2017/2018,2017
+Eduardo Salvio,Right Winger,1990-07-13,26,Argentina,SL Benfica,Liga NOS,2017/2018,2017
+Jonas,Second Striker,1984-04-01,33,Brazil,SL Benfica,Liga NOS,2017/2018,2017
+Gabriel Barbosa,Centre-Forward,1996-08-30,20,Brazil,SL Benfica,Liga NOS,2017/2018,2017
+Raúl Jiménez,Centre-Forward,1991-05-05,26,Mexico,SL Benfica,Liga NOS,2017/2018,2017
+Haris Seferovic,Centre-Forward,1992-02-22,25,Switzerland,SL Benfica,Liga NOS,2017/2018,2017
+Marafona,Goalkeeper,1987-05-08,30,Portugal,SC Braga,Liga NOS,2017/2018,2017
+Matheus,Goalkeeper,1992-07-19,24,Brazil,SC Braga,Liga NOS,2017/2018,2017
+André Moreira,Goalkeeper,1995-12-02,21,Portugal,SC Braga,Liga NOS,2017/2018,2017
+Tiago Sá,Goalkeeper,1995-01-11,22,Portugal,SC Braga,Liga NOS,2017/2018,2017
+Raúl Silva,Centre-Back,1989-11-04,27,Brazil,SC Braga,Liga NOS,2017/2018,2017
+Bruno Viana,Centre-Back,1995-02-05,22,Brazil,SC Braga,Liga NOS,2017/2018,2017
+Ricardo Ferreira,Centre-Back,1992-11-25,24,Portugal,SC Braga,Liga NOS,2017/2018,2017
+Lazar Rosic,Centre-Back,1993-06-29,24,Serbia,SC Braga,Liga NOS,2017/2018,2017
+Andrej Lukic,Centre-Back,1994-04-02,23,Croatia,SC Braga,Liga NOS,2017/2018,2017
+Jefferson,Left-Back,1988-07-05,28,Brazil,SC Braga,Liga NOS,2017/2018,2017
+Nuno Sequeira,Left-Back,1990-08-19,26,Portugal,SC Braga,Liga NOS,2017/2018,2017
+Diogo Figueiras,Right-Back,1991-07-01,26,Portugal,SC Braga,Liga NOS,2017/2018,2017
+Marcelo Goiano,Right-Back,1987-10-13,29,Brazil,SC Braga,Liga NOS,2017/2018,2017
+Thales,Right-Back,1994-04-28,23,Brazil,SC Braga,Liga NOS,2017/2018,2017
+Danilo,Defensive Midfield,1996-02-28,21,Brazil,SC Braga,Liga NOS,2017/2018,2017
+Nikola Vukcevic,Defensive Midfield,1991-12-13,25,Montenegro,SC Braga,Liga NOS,2017/2018,2017
+Rafael Assis,Defensive Midfield,1990-10-31,26,Brazil,SC Braga,Liga NOS,2017/2018,2017
+Mauro,Defensive Midfield,1990-10-31,26,Brazil,SC Braga,Liga NOS,2017/2018,2017
+Loum N'Diaye,Defensive Midfield,1996-12-30,20,Senegal,SC Braga,Liga NOS,2017/2018,2017
+André Horta,Central Midfield,1996-11-07,20,Portugal,SC Braga,Liga NOS,2017/2018,2017
+Fransérgio,Central Midfield,1990-10-18,26,Brazil,SC Braga,Liga NOS,2017/2018,2017
+Ricardo Ryller,Central Midfield,1994-02-27,23,Brazil,SC Braga,Liga NOS,2017/2018,2017
+Bruno Jordão,Central Midfield,1998-10-12,18,Portugal,SC Braga,Liga NOS,2017/2018,2017
+Ricardo Esgaio,Right Midfield,1993-05-16,24,Portugal,SC Braga,Liga NOS,2017/2018,2017
+Xadas,Right Midfield,1997-12-02,19,Portugal,SC Braga,Liga NOS,2017/2018,2017
+Ricardo Horta,Left Midfield,1994-09-15,22,Portugal,SC Braga,Liga NOS,2017/2018,2017
+Fábio Martins,Left Midfield,1993-07-24,23,Portugal,SC Braga,Liga NOS,2017/2018,2017
+João Carlos Teixeira,Attacking Midfield,1993-01-18,24,Portugal,SC Braga,Liga NOS,2017/2018,2017
+Pedro Santos,Right Winger,1988-04-22,29,Portugal,SC Braga,Liga NOS,2017/2018,2017
+Robert Muric,Right Winger,1996-03-12,21,Croatia,SC Braga,Liga NOS,2017/2018,2017
+Luther Singh,Right Winger,1997-08-05,19,South Africa,SC Braga,Liga NOS,2017/2018,2017
+Pedro Neto,Right Winger,2000-03-09,17,Portugal,SC Braga,Liga NOS,2017/2018,2017
+Erick,Right Winger,1997-12-10,19,Brazil,SC Braga,Liga NOS,2017/2018,2017
+Wilson Eduardo,Second Striker,1990-07-08,26,Angola,SC Braga,Liga NOS,2017/2018,2017
+Paulinho,Second Striker,1992-11-09,24,Portugal,SC Braga,Liga NOS,2017/2018,2017
+Rui Fonte,Centre-Forward,1990-04-23,27,Portugal,SC Braga,Liga NOS,2017/2018,2017
+Nikola Stojiljkovic,Centre-Forward,1992-08-17,24,Serbia,SC Braga,Liga NOS,2017/2018,2017
+Ahmed Hassan,Centre-Forward,1993-03-05,24,Egypt,SC Braga,Liga NOS,2017/2018,2017
+Dyego Sousa,Centre-Forward,1989-09-14,27,Portugal,SC Braga,Liga NOS,2017/2018,2017
+Miguel Silva,Goalkeeper,1995-04-07,22,Portugal,Vitória Guimarães SC,Liga NOS,2017/2018,2017
+Douglas Jesus,Goalkeeper,1983-03-09,34,Brazil,Vitória Guimarães SC,Liga NOS,2017/2018,2017
+Miguel Oliveira,Goalkeeper,1994-05-25,23,Portugal,Vitória Guimarães SC,Liga NOS,2017/2018,2017
+Josué Sá,Centre-Back,1992-06-17,25,Portugal,Vitória Guimarães SC,Liga NOS,2017/2018,2017
+Pedrão,Centre-Back,1992-12-18,24,Brazil,Vitória Guimarães SC,Liga NOS,2017/2018,2017
+João Afonso,Centre-Back,1990-05-28,27,Portugal,Vitória Guimarães SC,Liga NOS,2017/2018,2017
+Jubal,Centre-Back,1993-08-29,23,Brazil,Vitória Guimarães SC,Liga NOS,2017/2018,2017
+Suéliton,Centre-Back,1991-06-26,26,Brazil,Vitória Guimarães SC,Liga NOS,2017/2018,2017
+Dénis Duarte,Centre-Back,1994-05-04,23,Portugal,Vitória Guimarães SC,Liga NOS,2017/2018,2017
+Marcos Valente,Centre-Back,1994-02-04,23,Portugal,Vitória Guimarães SC,Liga NOS,2017/2018,2017
+Moreno,Centre-Back,1981-08-19,35,Portugal,Vitória Guimarães SC,Liga NOS,2017/2018,2017
+Ghislain Konan,Left-Back,1995-12-27,21,Cote d'Ivoire,Vitória Guimarães SC,Liga NOS,2017/2018,2017
+João Vigário,Left-Back,1995-11-20,21,Portugal,Vitória Guimarães SC,Liga NOS,2017/2018,2017
+Jorge Sampaio,Left-Back,1998-05-19,19,Portugal,Vitória Guimarães SC,Liga NOS,2017/2018,2017
+David Luis,Left-Back,1995-06-17,22,Brazil,Vitória Guimarães SC,Liga NOS,2017/2018,2017
+João Aurélio,Right-Back,1988-08-17,28,Portugal,Vitória Guimarães SC,Liga NOS,2017/2018,2017
+Víctor García,Right-Back,1994-06-11,23,Venezuela,Vitória Guimarães SC,Liga NOS,2017/2018,2017
+Falaye Sacko,Right-Back,1995-05-01,22,Mali,Vitória Guimarães SC,Liga NOS,2017/2018,2017
+Maga,Right-Back,1999-04-19,18,Portugal,Vitória Guimarães SC,Liga NOS,2017/2018,2017
+Guillermo Celis,Defensive Midfield,1993-05-08,24,Colombia,Vitória Guimarães SC,Liga NOS,2017/2018,2017
+Alhassan Wakaso,Defensive Midfield,1992-01-07,25,Ghana,Vitória Guimarães SC,Liga NOS,2017/2018,2017
+Rafael Miranda,Defensive Midfield,1984-08-11,32,Brazil,Vitória Guimarães SC,Liga NOS,2017/2018,2017
+Bongani Zungu,Central Midfield,1992-10-09,24,South Africa,Vitória Guimarães SC,Liga NOS,2017/2018,2017
+Chico Ramos,Central Midfield,1995-04-10,22,Portugal,Vitória Guimarães SC,Liga NOS,2017/2018,2017
+Joseph Amoah,Central Midfield,1994-06-26,23,Ghana,Vitória Guimarães SC,Liga NOS,2017/2018,2017
+Kiko,Central Midfield,1997-02-27,20,Portugal,Vitória Guimarães SC,Liga NOS,2017/2018,2017
+Paolo Hurtado,Attacking Midfield,1990-07-27,26,Peru,Vitória Guimarães SC,Liga NOS,2017/2018,2017
+Mattheus,Attacking Midfield,1994-07-07,22,Brazil,Vitória Guimarães SC,Liga NOS,2017/2018,2017
+Rúben Oliveira,Attacking Midfield,1994-12-14,22,Portugal,Vitória Guimarães SC,Liga NOS,2017/2018,2017
+Héldon,Left Winger,1988-11-14,28,Cape Verde,Vitória Guimarães SC,Liga NOS,2017/2018,2017
+Raphinha,Right Winger,1996-12-14,20,Brazil,Vitória Guimarães SC,Liga NOS,2017/2018,2017
+Fábio Sturgeon,Right Winger,1994-02-04,23,Portugal,Vitória Guimarães SC,Liga NOS,2017/2018,2017
+Hélder Ferreira,Right Winger,1997-04-05,20,Portugal,Vitória Guimarães SC,Liga NOS,2017/2018,2017
+Xande Silva,Right Winger,1997-03-16,20,Portugal,Vitória Guimarães SC,Liga NOS,2017/2018,2017
+Haashim Domingo,Second Striker,1995-08-13,21,South Africa,Vitória Guimarães SC,Liga NOS,2017/2018,2017
+Welthon,Centre-Forward,1992-06-21,25,Brazil,Vitória Guimarães SC,Liga NOS,2017/2018,2017
+Sebastián Rincón,Centre-Forward,1994-01-14,23,Colombia,Vitória Guimarães SC,Liga NOS,2017/2018,2017
+David Texeira,Centre-Forward,1991-02-27,26,Uruguay,Vitória Guimarães SC,Liga NOS,2017/2018,2017
+Junior Tallo,Centre-Forward,1992-12-21,24,Cote d'Ivoire,Vitória Guimarães SC,Liga NOS,2017/2018,2017
+Rafael Martins,Centre-Forward,1989-03-17,28,Brazil,Vitória Guimarães SC,Liga NOS,2017/2018,2017
+Óscar Estupiñán,Centre-Forward,1996-09-29,20,Colombia,Vitória Guimarães SC,Liga NOS,2017/2018,2017
+António Filipe,Goalkeeper,1985-04-14,32,Portugal,GD Chaves,Liga NOS,2017/2018,2017
+Ricardo Nunes,Goalkeeper,1982-07-06,34,Portugal,GD Chaves,Liga NOS,2017/2018,2017
+Emanuel Novo,Goalkeeper,1992-08-26,24,Portugal,GD Chaves,Liga NOS,2017/2018,2017
+Domingos Duarte,Centre-Back,1995-03-10,22,Portugal,GD Chaves,Liga NOS,2017/2018,2017
+Nuno André Coelho,Centre-Back,1986-01-07,31,Portugal,GD Chaves,Liga NOS,2017/2018,2017
+Nikola Maras,Centre-Back,1995-12-19,21,Serbia,GD Chaves,Liga NOS,2017/2018,2017
+Hugo Basto,Centre-Back,1993-05-14,24,Portugal,GD Chaves,Liga NOS,2017/2018,2017
+Victor Massaia,Centre-Back,1992-02-09,25,Brazil,GD Chaves,Liga NOS,2017/2018,2017
+Anderson Conceição,Centre-Back,1989-10-24,27,Brazil,GD Chaves,Liga NOS,2017/2018,2017
+Djavan,Left-Back,1987-12-31,29,Brazil,GD Chaves,Liga NOS,2017/2018,2017
+Rúben,Left-Back,1990-02-17,27,Portugal,GD Chaves,Liga NOS,2017/2018,2017
+Rafael Furlan,Left-Back,1994-09-20,22,Brazil,GD Chaves,Liga NOS,2017/2018,2017
+Paulinho,Right-Back,1991-07-13,25,Portugal,GD Chaves,Liga NOS,2017/2018,2017
+Pedro Queirós,Right-Back,1984-08-08,32,Portugal,GD Chaves,Liga NOS,2017/2018,2017
+Jefferson,Defensive Midfield,1993-04-14,24,Brazil,GD Chaves,Liga NOS,2017/2018,2017
+Filipe Melo,Defensive Midfield,1989-11-03,27,Portugal,GD Chaves,Liga NOS,2017/2018,2017
+Stephen Eustáquio,Defensive Midfield,1996-12-21,20,Canada,GD Chaves,Liga NOS,2017/2018,2017
+Pedro Tiba,Central Midfield,1988-08-31,28,Portugal,GD Chaves,Liga NOS,2017/2018,2017
+Patrão,Central Midfield,1990-01-22,27,Portugal,GD Chaves,Liga NOS,2017/2018,2017
+Renan Bressan,Attacking Midfield,1988-11-03,28,Belarus,GD Chaves,Liga NOS,2017/2018,2017
+Tiago Galvão,Attacking Midfield,1989-08-24,27,Brazil,GD Chaves,Liga NOS,2017/2018,2017
+Jorginho,Left Winger,1995-09-21,21,Guinea-Bissau,GD Chaves,Liga NOS,2017/2018,2017
+Davidson,Left Winger,1991-03-05,26,Brazil,GD Chaves,Liga NOS,2017/2018,2017
+Hamdou Elhouni,Left Winger,1994-02-12,23,Libya,GD Chaves,Liga NOS,2017/2018,2017
+Matheus Pereira,Right Winger,1996-05-05,21,Brazil,GD Chaves,Liga NOS,2017/2018,2017
+Perdigão,Right Winger,1991-07-17,25,Brazil,GD Chaves,Liga NOS,2017/2018,2017
+Jordán,Centre-Forward,1990-10-17,26,Colombia,GD Chaves,Liga NOS,2017/2018,2017
+Platiny,Centre-Forward,1990-10-02,26,Brazil,GD Chaves,Liga NOS,2017/2018,2017
+William,Centre-Forward,1991-12-07,25,Brazil,GD Chaves,Liga NOS,2017/2018,2017
+Mário Felgueiras,Goalkeeper,1986-12-12,30,Portugal,FC Paços de Ferreira,Liga NOS,2017/2018,2017
+Rafael Defendi,Goalkeeper,1983-12-22,33,Brazil,FC Paços de Ferreira,Liga NOS,2017/2018,2017
+João Pinho,Goalkeeper,1992-04-30,25,Portugal,FC Paços de Ferreira,Liga NOS,2017/2018,2017
+Marco Baixinho,Centre-Back,1989-07-11,27,Portugal,FC Paços de Ferreira,Liga NOS,2017/2018,2017
+Rui Correia,Centre-Back,1990-08-23,26,Portugal,FC Paços de Ferreira,Liga NOS,2017/2018,2017
+Miguel Vieira,Centre-Back,1990-10-08,26,Portugal,FC Paços de Ferreira,Liga NOS,2017/2018,2017
+Dylan McGowan,Centre-Back,1991-08-06,25,Australia,FC Paços de Ferreira,Liga NOS,2017/2018,2017
+Ricardo,Centre-Back,1980-08-19,36,Cape Verde,FC Paços de Ferreira,Liga NOS,2017/2018,2017
+Pedro Marques,Centre-Back,1998-03-18,19,Portugal,FC Paços de Ferreira,Liga NOS,2017/2018,2017
+Filipe Ferreira,Left-Back,1990-09-27,26,Portugal,FC Paços de Ferreira,Liga NOS,2017/2018,2017
+Héctor Quiñónes,Left-Back,1992-03-17,25,Colombia,FC Paços de Ferreira,Liga NOS,2017/2018,2017
+Bruno Santos,Right-Back,1993-02-07,24,Brazil,FC Paços de Ferreira,Liga NOS,2017/2018,2017
+João Góis,Right-Back,1990-05-05,27,Portugal,FC Paços de Ferreira,Liga NOS,2017/2018,2017
+Francisco Afonso,Right-Back,1997-04-24,20,Portugal,FC Paços de Ferreira,Liga NOS,2017/2018,2017
+Bruno Leite,Right-Back,1992-07-17,24,Brazil,FC Paços de Ferreira,Liga NOS,2017/2018,2017
+Rafael Assis,Defensive Midfield,1990-10-31,26,Brazil,FC Paços de Ferreira,Liga NOS,2017/2018,2017
+Mateus da Silva,Defensive Midfield,1991-08-30,25,Brazil,FC Paços de Ferreira,Liga NOS,2017/2018,2017
+André Leão,Defensive Midfield,1985-05-20,32,Portugal,FC Paços de Ferreira,Liga NOS,2017/2018,2017
+Gian Martins,Defensive Midfield,1993-04-02,24,Brazil,FC Paços de Ferreira,Liga NOS,2017/2018,2017
+Vasco Rocha,Central Midfield,1989-01-29,28,Portugal,FC Paços de Ferreira,Liga NOS,2017/2018,2017
+André Sousa,Central Midfield,1997-07-16,19,Portugal,FC Paços de Ferreira,Liga NOS,2017/2018,2017
+Rúben Micael,Attacking Midfield,1986-08-19,30,Portugal,FC Paços de Ferreira,Liga NOS,2017/2018,2017
+Pedrinho,Attacking Midfield,1992-12-20,24,Portugal,FC Paços de Ferreira,Liga NOS,2017/2018,2017
+Andrezinho,Attacking Midfield,1995-08-16,21,Portugal,FC Paços de Ferreira,Liga NOS,2017/2018,2017
+Barnes Osei,Left Winger,1995-01-08,22,Ghana,FC Paços de Ferreira,Liga NOS,2017/2018,2017
+Diego Medeiros,Left Winger,1993-03-28,24,Brazil,FC Paços de Ferreira,Liga NOS,2017/2018,2017
+Xavier,Left Winger,1992-07-06,24,Portugal,FC Paços de Ferreira,Liga NOS,2017/2018,2017
+Hêndrio Araújo,Left Winger,1994-05-16,23,Brazil,FC Paços de Ferreira,Liga NOS,2017/2018,2017
+Awer Mabil,Right Winger,1995-09-15,21,Australia,FC Paços de Ferreira,Liga NOS,2017/2018,2017
+Welthon,Centre-Forward,1992-06-21,25,Brazil,FC Paços de Ferreira,Liga NOS,2017/2018,2017
+Rabiola,Centre-Forward,1989-07-25,27,Portugal,FC Paços de Ferreira,Liga NOS,2017/2018,2017
+Bruno Moreira,Centre-Forward,1987-09-06,29,Portugal,FC Paços de Ferreira,Liga NOS,2017/2018,2017
+Luiz Phellype,Centre-Forward,1993-09-27,23,Brazil,FC Paços de Ferreira,Liga NOS,2017/2018,2017
+André Moreira,Goalkeeper,1995-12-02,21,Portugal,Belenenses SAD,Liga NOS,2017/2018,2017
+Muriel,Goalkeeper,1987-02-14,30,Brazil,Belenenses SAD,Liga NOS,2017/2018,2017
+Ricardo Fernandes,Goalkeeper,1994-10-28,22,Portugal,Belenenses SAD,Liga NOS,2017/2018,2017
+Filipe Mendes,Goalkeeper,1985-06-17,32,Portugal,Belenenses SAD,Liga NOS,2017/2018,2017
+Vincent Sasso,Centre-Back,1991-02-16,26,France,Belenenses SAD,Liga NOS,2017/2018,2017
+Gonçalo Silva,Centre-Back,1991-06-04,26,Portugal,Belenenses SAD,Liga NOS,2017/2018,2017
+Nuno Tomás,Centre-Back,1995-09-15,21,Portugal,Belenenses SAD,Liga NOS,2017/2018,2017
+Cleylton,Centre-Back,1993-03-19,24,Brazil,Belenenses SAD,Liga NOS,2017/2018,2017
+Florent Hanin,Left-Back,1990-02-04,27,France,Belenenses SAD,Liga NOS,2017/2018,2017
+João Diogo,Right-Back,1988-02-28,29,Portugal,Belenenses SAD,Liga NOS,2017/2018,2017
+André Geraldes,Right-Back,1991-05-02,26,Portugal,Belenenses SAD,Liga NOS,2017/2018,2017
+Robert Ahman-Persson,Defensive Midfield,1987-03-26,30,Sweden,Belenenses SAD,Liga NOS,2017/2018,2017
+Marko Bakic,Central Midfield,1993-11-01,23,Montenegro,Belenenses SAD,Liga NOS,2017/2018,2017
+André Sousa,Central Midfield,1990-07-09,26,Portugal,Belenenses SAD,Liga NOS,2017/2018,2017
+Bouba,Central Midfield,1990-04-05,27,Burkina Faso,Belenenses SAD,Liga NOS,2017/2018,2017
+Merlin Tandjigora,Central Midfield,1990-04-06,27,Gabon,Belenenses SAD,Liga NOS,2017/2018,2017
+Hassan Yebda,Central Midfield,1984-05-14,33,Algeria,Belenenses SAD,Liga NOS,2017/2018,2017
+Diogo Viana,Right Midfield,1990-02-22,27,Portugal,Belenenses SAD,Liga NOS,2017/2018,2017
+Bruno Pereirinha,Right Midfield,1988-03-02,29,Portugal,Belenenses SAD,Liga NOS,2017/2018,2017
+Miguel Rosa,Attacking Midfield,1989-01-13,28,Portugal,Belenenses SAD,Liga NOS,2017/2018,2017
+Filipe Chaby,Attacking Midfield,1994-01-22,23,Mozambique,Belenenses SAD,Liga NOS,2017/2018,2017
+Nathan,Left Winger,1996-03-13,21,Brazil,Belenenses SAD,Liga NOS,2017/2018,2017
+Roni,Left Winger,1991-01-26,26,Brazil,Belenenses SAD,Liga NOS,2017/2018,2017
+Femi Balogun,Left Winger,1992-12-27,24,Nigeria,Belenenses SAD,Liga NOS,2017/2018,2017
+Salo,Left Winger,1998-02-18,19,Portugal,Belenenses SAD,Liga NOS,2017/2018,2017
+Benny,Right Winger,1997-01-04,20,Portugal,Belenenses SAD,Liga NOS,2017/2018,2017
+Licá,Second Striker,1988-09-08,28,Portugal,Belenenses SAD,Liga NOS,2017/2018,2017
+Fredy,Second Striker,1990-03-27,27,Angola,Belenenses SAD,Liga NOS,2017/2018,2017
+Maurides,Centre-Forward,1994-03-10,23,Brazil,Belenenses SAD,Liga NOS,2017/2018,2017
+Yazalde,Centre-Forward,1988-09-21,28,Guinea-Bissau,Belenenses SAD,Liga NOS,2017/2018,2017
+Jesús Hernández,Centre-Forward,1993-01-06,24,Venezuela,Belenenses SAD,Liga NOS,2017/2018,2017
+Juanto Ortuño,Centre-Forward,1992-02-11,25,Spain,Belenenses SAD,Liga NOS,2017/2018,2017
+Tiago Caiero,Centre-Forward,1984-03-29,33,Portugal,Belenenses SAD,Liga NOS,2017/2018,2017
+Renan Ribeiro,Goalkeeper,1990-03-23,27,Brazil,GD Estoril,Liga NOS,2017/2018,2017
+Luís Ribeiro,Goalkeeper,1992-04-19,25,Portugal,GD Estoril,Liga NOS,2017/2018,2017
+José Moreira,Goalkeeper,1982-03-20,35,Portugal,GD Estoril,Liga NOS,2017/2018,2017
+Thierry Graça,Goalkeeper,1995-01-27,22,Cape Verde,GD Estoril,Liga NOS,2017/2018,2017
+Lucão,Centre-Back,1996-03-23,21,Brazil,GD Estoril,Liga NOS,2017/2018,2017
+Gonçalo Brandão,Centre-Back,1986-10-09,30,Portugal,GD Estoril,Liga NOS,2017/2018,2017
+Dankler,Centre-Back,1992-01-24,25,Brazil,GD Estoril,Liga NOS,2017/2018,2017
+Oumar Diakhité,Centre-Back,1993-12-09,23,Senegal,GD Estoril,Liga NOS,2017/2018,2017
+Rafik Halliche,Centre-Back,1986-09-02,30,Algeria,GD Estoril,Liga NOS,2017/2018,2017
+Pedro Monteiro,Centre-Back,1994-01-30,23,Portugal,GD Estoril,Liga NOS,2017/2018,2017
+Thiago Cardoso,Centre-Back,1991-08-04,25,Brazil,GD Estoril,Liga NOS,2017/2018,2017
+Aílton,Left-Back,1995-03-16,22,Brazil,GD Estoril,Liga NOS,2017/2018,2017
+Joel,Left-Back,1992-01-10,25,Portugal,GD Estoril,Liga NOS,2017/2018,2017
+Abner,Left-Back,1996-05-30,21,Brazil,GD Estoril,Liga NOS,2017/2018,2017
+Fernando Fonseca,Right-Back,1997-03-14,20,Portugal,GD Estoril,Liga NOS,2017/2018,2017
+Mano,Right-Back,1987-04-09,30,Portugal,GD Estoril,Liga NOS,2017/2018,2017
+Charalampos Kyriakou,Defensive Midfield,1995-02-09,22,Cyprus,GD Estoril,Liga NOS,2017/2018,2017
+Pêpê,Defensive Midfield,1997-05-20,20,Portugal,GD Estoril,Liga NOS,2017/2018,2017
+Gonçalo,Defensive Midfield,1986-11-15,30,Portugal,GD Estoril,Liga NOS,2017/2018,2017
+Wesley,Defensive Midfield,1995-06-22,22,Brazil,GD Estoril,Liga NOS,2017/2018,2017
+Duarte Valente,Defensive Midfield,1999-11-02,17,Portugal,GD Estoril,Liga NOS,2017/2018,2017
+Lucas Evangelista,Right Midfield,1995-05-06,22,Brazil,GD Estoril,Liga NOS,2017/2018,2017
+Matheus Índio,Right Midfield,1996-02-28,21,Brazil,GD Estoril,Liga NOS,2017/2018,2017
+Aylton Boa Morte,Right Midfield,1993-09-23,23,Portugal,GD Estoril,Liga NOS,2017/2018,2017
+Carlinhos,Attacking Midfield,1994-06-22,23,Brazil,GD Estoril,Liga NOS,2017/2018,2017
+Matheus Sávio,Attacking Midfield,1997-04-15,20,Brazil,GD Estoril,Liga NOS,2017/2018,2017
+André Claro,Left Winger,1991-03-31,26,Portugal,GD Estoril,Liga NOS,2017/2018,2017
+Ewandro Costa,Right Winger,1996-03-15,21,Brazil,GD Estoril,Liga NOS,2017/2018,2017
+Allano Lima,Right Winger,1995-04-24,22,Brazil,GD Estoril,Liga NOS,2017/2018,2017
+Victor Andrade,Right Winger,1995-09-30,21,Brazil,GD Estoril,Liga NOS,2017/2018,2017
+Eduardo,Right Winger,1993-06-07,24,Brazil,GD Estoril,Liga NOS,2017/2018,2017
+Tocantins,Right Winger,1996-01-11,21,Brazil,GD Estoril,Liga NOS,2017/2018,2017
+Kléber,Centre-Forward,1990-05-02,27,Brazil,GD Estoril,Liga NOS,2017/2018,2017
+Bruno Gomes,Centre-Forward,1996-07-19,20,Brazil,GD Estoril,Liga NOS,2017/2018,2017
+Jorman Aguilar,Centre-Forward,1994-09-11,22,Panama,GD Estoril,Liga NOS,2017/2018,2017
+Cristiano,Goalkeeper,1990-11-29,26,Portugal,Vitória Setúbal FC,Liga NOS,2017/2018,2017
+Pedro Trigueira,Goalkeeper,1988-01-04,29,Portugal,Vitória Setúbal FC,Liga NOS,2017/2018,2017
+Miguel Lázaro,Goalkeeper,1995-04-24,22,Portugal,Vitória Setúbal FC,Liga NOS,2017/2018,2017
+Frederico Venâncio,Centre-Back,1993-02-04,24,Portugal,Vitória Setúbal FC,Liga NOS,2017/2018,2017
+César Martins,Centre-Back,1992-12-28,24,Brazil,Vitória Setúbal FC,Liga NOS,2017/2018,2017
+Vasco Fernandes,Centre-Back,1986-11-12,30,Portugal,Vitória Setúbal FC,Liga NOS,2017/2018,2017
+Nuno Reis,Centre-Back,1991-01-31,26,Portugal,Vitória Setúbal FC,Liga NOS,2017/2018,2017
+Yohan Tavares,Centre-Back,1988-03-02,29,Portugal,Vitória Setúbal FC,Liga NOS,2017/2018,2017
+Pedro Pinto,Centre-Back,1994-11-08,22,Portugal,Vitória Setúbal FC,Liga NOS,2017/2018,2017
+Bernardo Morgado,Centre-Back,1998-03-24,19,Portugal,Vitória Setúbal FC,Liga NOS,2017/2018,2017
+Nuno Pinto,Left-Back,1986-08-06,30,Portugal,Vitória Setúbal FC,Liga NOS,2017/2018,2017
+André Sousa,Left-Back,1998-02-26,19,Portugal,Vitória Setúbal FC,Liga NOS,2017/2018,2017
+Patrick,Right-Back,1991-01-22,26,Brazil,Vitória Setúbal FC,Liga NOS,2017/2018,2017
+Arnold Issoko,Right-Back,1992-04-06,25,DR Congo,Vitória Setúbal FC,Liga NOS,2017/2018,2017
+Luís Felipe,Right-Back,1991-04-08,26,Brazil,Vitória Setúbal FC,Liga NOS,2017/2018,2017
+Diogo Sousa,Right-Back,1993-08-08,23,Portugal,Vitória Setúbal FC,Liga NOS,2017/2018,2017
+Tomás Podstawski,Defensive Midfield,1995-01-30,22,Portugal,Vitória Setúbal FC,Liga NOS,2017/2018,2017
+José Semedo,Defensive Midfield,1985-01-11,32,Portugal,Vitória Setúbal FC,Liga NOS,2017/2018,2017
+Wallyson Mallmann,Defensive Midfield,1994-02-16,23,Brazil,Vitória Setúbal FC,Liga NOS,2017/2018,2017
+Jacob,Defensive Midfield,1993-09-05,23,Nigeria,Vitória Setúbal FC,Liga NOS,2017/2018,2017
+Nenê Bonilha,Central Midfield,1992-02-17,25,Brazil,Vitória Setúbal FC,Liga NOS,2017/2018,2017
+André Pedrosa,Central Midfield,1997-04-12,20,Portugal,Vitória Setúbal FC,Liga NOS,2017/2018,2017
+Emrah Bassan,Right Midfield,1992-04-17,25,Turkey,Vitória Setúbal FC,Liga NOS,2017/2018,2017
+Costinha,Attacking Midfield,1992-08-25,24,Portugal,Vitória Setúbal FC,Liga NOS,2017/2018,2017
+João Amaral,Attacking Midfield,1991-09-07,25,Portugal,Vitória Setúbal FC,Liga NOS,2017/2018,2017
+João Teixeira,Attacking Midfield,1994-02-06,23,Portugal,Vitória Setúbal FC,Liga NOS,2017/2018,2017
+Rafinha,Attacking Midfield,1992-04-30,25,Portugal,Vitória Setúbal FC,Liga NOS,2017/2018,2017
+Yannick Djaló,Left Winger,1986-05-05,31,Portugal,Vitória Setúbal FC,Liga NOS,2017/2018,2017
+Willyan,Left Winger,1994-02-17,23,Brazil,Vitória Setúbal FC,Liga NOS,2017/2018,2017
+Thomas Rodríguez,Right Winger,1996-04-05,21,Argentina,Vitória Setúbal FC,Liga NOS,2017/2018,2017
+Vasco Costa,Second Striker,1991-08-08,25,Portugal,Vitória Setúbal FC,Liga NOS,2017/2018,2017
+Gonçalo Paciência,Centre-Forward,1994-08-01,22,Portugal,Vitória Setúbal FC,Liga NOS,2017/2018,2017
+Edinho,Centre-Forward,1982-07-07,34,Portugal,Vitória Setúbal FC,Liga NOS,2017/2018,2017
+André Pereira,Centre-Forward,1995-05-05,22,Portugal,Vitória Setúbal FC,Liga NOS,2017/2018,2017
+Allef,Centre-Forward,1994-11-04,22,Brazil,Vitória Setúbal FC,Liga NOS,2017/2018,2017
+Giorgi Makaridze,Goalkeeper,1990-03-31,27,Georgia,Rio Ave FC,Liga NOS,2017/2018,2017
+Cássio,Goalkeeper,1980-08-12,36,Brazil,Rio Ave FC,Liga NOS,2017/2018,2017
+Rui Vieira,Goalkeeper,1991-11-13,25,Portugal,Rio Ave FC,Liga NOS,2017/2018,2017
+Carlos Alves,Goalkeeper,1998-02-18,19,Portugal,Rio Ave FC,Liga NOS,2017/2018,2017
+Marcelo,Centre-Back,1989-07-27,27,Brazil,Rio Ave FC,Liga NOS,2017/2018,2017
+Nélson Monte,Centre-Back,1995-07-30,21,Portugal,Rio Ave FC,Liga NOS,2017/2018,2017
+Marcão,Centre-Back,1996-06-05,21,Brazil,Rio Ave FC,Liga NOS,2017/2018,2017
+Silvério,Centre-Back,1995-12-26,21,Portugal,Rio Ave FC,Liga NOS,2017/2018,2017
+Yuri Ribeiro,Left-Back,1997-01-24,20,Portugal,Rio Ave FC,Liga NOS,2017/2018,2017
+Bruno Teles,Left-Back,1986-05-01,31,Brazil,Rio Ave FC,Liga NOS,2017/2018,2017
+Lionn,Right-Back,1989-01-29,28,Brazil,Rio Ave FC,Liga NOS,2017/2018,2017
+Nadjack,Right-Back,1994-02-06,23,Guinea-Bissau,Rio Ave FC,Liga NOS,2017/2018,2017
+Pelé,Defensive Midfield,1991-09-29,25,Guinea-Bissau,Rio Ave FC,Liga NOS,2017/2018,2017
+Tarantini,Central Midfield,1983-10-07,33,Portugal,Rio Ave FC,Liga NOS,2017/2018,2017
+Pedro Moreira,Central Midfield,1989-03-15,28,Portugal,Rio Ave FC,Liga NOS,2017/2018,2017
+Leandrinho,Central Midfield,1993-09-25,23,Brazil,Rio Ave FC,Liga NOS,2017/2018,2017
+Gabrielzinho,Right Midfield,1996-09-29,20,Brazil,Rio Ave FC,Liga NOS,2017/2018,2017
+Nuno Santos,Left Midfield,1995-02-13,22,Portugal,Rio Ave FC,Liga NOS,2017/2018,2017
+João Novais,Left Midfield,1993-07-10,23,Portugal,Rio Ave FC,Liga NOS,2017/2018,2017
+Chico Geraldes,Attacking Midfield,1995-04-18,22,Portugal,Rio Ave FC,Liga NOS,2017/2018,2017
+Rúben Ribeiro,Attacking Midfield,1987-08-01,29,Portugal,Rio Ave FC,Liga NOS,2017/2018,2017
+Diego Lopes,Attacking Midfield,1994-05-03,23,Brazil,Rio Ave FC,Liga NOS,2017/2018,2017
+Vitó,Attacking Midfield,1997-09-18,19,Portugal,Rio Ave FC,Liga NOS,2017/2018,2017
+Óscar Barreto,Right Winger,1993-04-28,24,Colombia,Rio Ave FC,Liga NOS,2017/2018,2017
+Hélder Guedes,Centre-Forward,1987-05-07,30,Portugal,Rio Ave FC,Liga NOS,2017/2018,2017
+Anastasios Karamanos,Centre-Forward,1990-09-21,26,Greece,Rio Ave FC,Liga NOS,2017/2018,2017
+Gelson Dala,Centre-Forward,1996-07-13,20,Angola,Rio Ave FC,Liga NOS,2017/2018,2017
+Yazalde,Centre-Forward,1988-09-21,28,Guinea-Bissau,Rio Ave FC,Liga NOS,2017/2018,2017
+André Silva,Centre-Forward,1997-06-03,20,Brazil,Rio Ave FC,Liga NOS,2017/2018,2017
+Charles,Goalkeeper,1994-02-04,23,Brazil,CS Marítimo,Liga NOS,2017/2018,2017
+Amir Abedzadeh,Goalkeeper,1993-04-26,24,Iran,CS Marítimo,Liga NOS,2017/2018,2017
+Rafael Broetto,Goalkeeper,1990-08-18,26,Brazil,CS Marítimo,Liga NOS,2017/2018,2017
+Edgar Mendonça,Goalkeeper,1996-08-27,20,Portugal,CS Marítimo,Liga NOS,2017/2018,2017
+Maurício Antônio,Centre-Back,1992-02-06,25,Brazil,CS Marítimo,Liga NOS,2017/2018,2017
+Zainadine Júnior,Centre-Back,1988-06-24,29,Mozambique,CS Marítimo,Liga NOS,2017/2018,2017
+Dráusio,Centre-Back,1991-08-21,25,Brazil,CS Marítimo,Liga NOS,2017/2018,2017
+Pablo Santos,Centre-Back,1992-03-18,25,Brazil,CS Marítimo,Liga NOS,2017/2018,2017
+Diney Borges,Centre-Back,1995-01-17,22,Cape Verde,CS Marítimo,Liga NOS,2017/2018,2017
+Rúben,Left-Back,1990-02-17,27,Portugal,CS Marítimo,Liga NOS,2017/2018,2017
+Luís Martins,Left-Back,1992-06-10,25,Portugal,CS Marítimo,Liga NOS,2017/2018,2017
+Fábio China,Left-Back,1992-07-07,24,Portugal,CS Marítimo,Liga NOS,2017/2018,2017
+Nanú,Right-Back,1994-05-17,23,Guinea-Bissau,CS Marítimo,Liga NOS,2017/2018,2017
+Cristiano Gomes,Right-Back,1994-08-05,22,Portugal,CS Marítimo,Liga NOS,2017/2018,2017
+Bebeto,Right-Back,1990-01-01,27,Brazil,CS Marítimo,Liga NOS,2017/2018,2017
+Erdem Sen,Defensive Midfield,1989-01-05,28,Turkey,CS Marítimo,Liga NOS,2017/2018,2017
+João Gamboa,Defensive Midfield,1996-08-31,20,Portugal,CS Marítimo,Liga NOS,2017/2018,2017
+Fábio Pacheco,Defensive Midfield,1988-05-26,29,Portugal,CS Marítimo,Liga NOS,2017/2018,2017
+Fabrício Baiano,Defensive Midfield,1992-06-13,25,Brazil,CS Marítimo,Liga NOS,2017/2018,2017
+Jean Cleber,Central Midfield,1990-04-29,27,Brazil,CS Marítimo,Liga NOS,2017/2018,2017
+Filipe Oliveira,Central Midfield,1994-04-21,23,Portugal,CS Marítimo,Liga NOS,2017/2018,2017
+Éber Bessa,Left Midfield,1992-03-21,25,Brazil,CS Marítimo,Liga NOS,2017/2018,2017
+Jorge Correa,Attacking Midfield,1993-04-04,24,Argentina,CS Marítimo,Liga NOS,2017/2018,2017
+Gevorg Ghazaryan,Left Winger,1988-04-05,29,Armenia,CS Marítimo,Liga NOS,2017/2018,2017
+Ricardo Valente,Left Winger,1991-04-03,26,Portugal,CS Marítimo,Liga NOS,2017/2018,2017
+Edgar Costa,Right Winger,1987-04-14,30,Portugal,CS Marítimo,Liga NOS,2017/2018,2017
+Piqueti,Right Winger,1993-02-12,24,Guinea-Bissau,CS Marítimo,Liga NOS,2017/2018,2017
+Gildo Vilanculos,Right Winger,1995-01-31,22,Mozambique,CS Marítimo,Liga NOS,2017/2018,2017
+Ibson Melo,Second Striker,1989-10-08,27,Brazil,CS Marítimo,Liga NOS,2017/2018,2017
+Joel Tagueu,Centre-Forward,1993-12-06,23,Cameroon,CS Marítimo,Liga NOS,2017/2018,2017
+Viktor Lundberg,Centre-Forward,1991-03-04,26,Sweden,CS Marítimo,Liga NOS,2017/2018,2017
+Rodrigo Pinho,Centre-Forward,1991-05-30,26,Brazil,CS Marítimo,Liga NOS,2017/2018,2017
+Everton,Centre-Forward,1993-07-03,23,Brazil,CS Marítimo,Liga NOS,2017/2018,2017
+Jhonatan,Goalkeeper,1991-05-08,26,Brazil,Moreirense FC,Liga NOS,2017/2018,2017
+Victor Braga,Goalkeeper,1992-02-17,25,Brazil,Moreirense FC,Liga NOS,2017/2018,2017
+Felipe Garcia,Goalkeeper,1988-01-10,29,Brazil,Moreirense FC,Liga NOS,2017/2018,2017
+André Micael,Centre-Back,1989-02-04,28,Portugal,Moreirense FC,Liga NOS,2017/2018,2017
+Mohamed Abarhoun,Centre-Back,1989-05-03,28,Morocco,Moreirense FC,Liga NOS,2017/2018,2017
+Iago Santos,Centre-Back,1992-05-22,25,Brazil,Moreirense FC,Liga NOS,2017/2018,2017
+Hicham Belkaroui,Centre-Back,1990-08-24,26,Algeria,Moreirense FC,Liga NOS,2017/2018,2017
+João Sousa,Centre-Back,1994-05-13,23,Portugal,Moreirense FC,Liga NOS,2017/2018,2017
+Matheus Reis,Left-Back,1995-02-18,22,Brazil,Moreirense FC,Liga NOS,2017/2018,2017
+Rúben Lima,Left-Back,1989-10-03,27,Portugal,Moreirense FC,Liga NOS,2017/2018,2017
+Bruno Silva,Left-Back,1992-09-14,24,Brazil,Moreirense FC,Liga NOS,2017/2018,2017
+Pierre Sagna,Right-Back,1990-08-21,26,Senegal,Moreirense FC,Liga NOS,2017/2018,2017
+Koffi Kouao,Right-Back,1998-05-20,19,Cote d'Ivoire,Moreirense FC,Liga NOS,2017/2018,2017
+Boubacar Fofana,Defensive Midfield,1989-11-06,27,Guinea,Moreirense FC,Liga NOS,2017/2018,2017
+Alan Schons,Defensive Midfield,1993-05-24,24,Brazil,Moreirense FC,Liga NOS,2017/2018,2017
+Alfa Semedo,Defensive Midfield,1997-08-30,19,Guinea-Bissau,Moreirense FC,Liga NOS,2017/2018,2017
+Bruno Ramires,Central Midfield,1994-03-18,23,Brazil,Moreirense FC,Liga NOS,2017/2018,2017
+Rafael Costa,Central Midfield,1991-01-19,26,Brazil,Moreirense FC,Liga NOS,2017/2018,2017
+Tozé,Attacking Midfield,1993-01-14,24,Portugal,Moreirense FC,Liga NOS,2017/2018,2017
+Neto,Attacking Midfield,1991-09-02,25,Brazil,Moreirense FC,Liga NOS,2017/2018,2017
+Elsinho,Attacking Midfield,1995-10-09,21,Portugal,Moreirense FC,Liga NOS,2017/2018,2017
+Ousmane Dramé,Left Winger,1992-08-25,24,France,Moreirense FC,Liga NOS,2017/2018,2017
+Zizo,Left Winger,1996-01-10,21,Egypt,Moreirense FC,Liga NOS,2017/2018,2017
+Ernest Ohemeng,Left Winger,1996-01-17,21,Ghana,Moreirense FC,Liga NOS,2017/2018,2017
+Bilel Aouacheria,Left Winger,1994-04-02,23,France,Moreirense FC,Liga NOS,2017/2018,2017
+Ença Fati,Left Winger,1993-08-11,23,Portugal,Moreirense FC,Liga NOS,2017/2018,2017
+Arsénio,Right Winger,1989-08-30,27,Portugal,Moreirense FC,Liga NOS,2017/2018,2017
+Frédéric Maciel,Right Winger,1994-03-15,23,Portugal,Moreirense FC,Liga NOS,2017/2018,2017
+Emmanuel Boateng,Centre-Forward,1996-05-23,21,Ghana,Moreirense FC,Liga NOS,2017/2018,2017
+Edno,Centre-Forward,1983-05-31,34,Brazil,Moreirense FC,Liga NOS,2017/2018,2017
+Jhonder Cádiz,Centre-Forward,1995-07-29,21,Venezuela,Moreirense FC,Liga NOS,2017/2018,2017
+Ronaldo Peña,Centre-Forward,1997-03-10,20,Venezuela,Moreirense FC,Liga NOS,2017/2018,2017
+Vagner,Goalkeeper,1986-06-06,31,Brazil,Boavista Porto FC,Liga NOS,2017/2018,2017
+Raphael Spiegel,Goalkeeper,1992-12-19,24,Switzerland,Boavista Porto FC,Liga NOS,2017/2018,2017
+Assis,Goalkeeper,1989-10-04,27,Brazil,Boavista Porto FC,Liga NOS,2017/2018,2017
+Stéphane Sparagna,Centre-Back,1995-02-17,22,France,Boavista Porto FC,Liga NOS,2017/2018,2017
+Robson,Centre-Back,1994-02-14,23,Brazil,Boavista Porto FC,Liga NOS,2017/2018,2017
+Nuno Henrique,Centre-Back,1986-10-19,30,Portugal,Boavista Porto FC,Liga NOS,2017/2018,2017
+Raphael Rossi,Centre-Back,1990-07-25,26,Brazil,Boavista Porto FC,Liga NOS,2017/2018,2017
+João Talocha,Left-Back,1989-08-30,27,Portugal,Boavista Porto FC,Liga NOS,2017/2018,2017
+Vítor Bruno,Left-Back,1990-01-13,27,Portugal,Boavista Porto FC,Liga NOS,2017/2018,2017
+Aidi Fulangxisi,Left-Back,1990-12-17,26,China,Boavista Porto FC,Liga NOS,2017/2018,2017
+Edu Machado,Right-Back,1990-04-26,27,Portugal,Boavista Porto FC,Liga NOS,2017/2018,2017
+Tiago Mesquita,Right-Back,1990-11-23,26,Portugal,Boavista Porto FC,Liga NOS,2017/2018,2017
+Carraça,Right-Back,1993-03-01,24,Portugal,Boavista Porto FC,Liga NOS,2017/2018,2017
+Idris Mandiang,Defensive Midfield,1984-12-27,32,Senegal,Boavista Porto FC,Liga NOS,2017/2018,2017
+Gilson Costa,Defensive Midfield,1996-09-24,20,Portugal,Boavista Porto FC,Liga NOS,2017/2018,2017
+David Simão,Central Midfield,1990-05-15,27,Portugal,Boavista Porto FC,Liga NOS,2017/2018,2017
+Aymen Tahar,Central Midfield,1989-10-02,27,England,Boavista Porto FC,Liga NOS,2017/2018,2017
+Fábio Espinho,Attacking Midfield,1985-08-18,31,Portugal,Boavista Porto FC,Liga NOS,2017/2018,2017
+Kuca,Left Winger,1989-08-02,27,Cape Verde,Boavista Porto FC,Liga NOS,2017/2018,2017
+Mateus,Left Winger,1984-06-19,33,Angola,Boavista Porto FC,Liga NOS,2017/2018,2017
+Renato Santos,Right Winger,1991-10-05,25,Portugal,Boavista Porto FC,Liga NOS,2017/2018,2017
+Ricardo Clarke,Right Winger,1992-09-27,24,Panama,Boavista Porto FC,Liga NOS,2017/2018,2017
+André Bukia,Right Winger,1995-03-03,22,DR Congo,Boavista Porto FC,Liga NOS,2017/2018,2017
+Rochinha,Right Winger,1995-05-03,22,Portugal,Boavista Porto FC,Liga NOS,2017/2018,2017
+Rui Pedro,Centre-Forward,1998-03-20,19,Portugal,Boavista Porto FC,Liga NOS,2017/2018,2017
+Leonardo Acevedo,Centre-Forward,1996-04-18,21,Colombia,Boavista Porto FC,Liga NOS,2017/2018,2017
+Iván Bulos,Centre-Forward,1993-05-20,24,Peru,Boavista Porto FC,Liga NOS,2017/2018,2017
+Yusupha Njie,Centre-Forward,1994-01-03,23,The Gambia,Boavista Porto FC,Liga NOS,2017/2018,2017
+Adriano Facchini,Goalkeeper,1983-03-12,34,Brazil,Desportivo Aves,Liga NOS,2017/2018,2017
+Marco Pinto,Goalkeeper,1988-03-22,29,Portugal,Desportivo Aves,Liga NOS,2017/2018,2017
+Artur Moraes,Goalkeeper,1981-01-25,36,Brazil,Desportivo Aves,Liga NOS,2017/2018,2017
+Quim,Goalkeeper,1975-11-13,41,Portugal,Desportivo Aves,Liga NOS,2017/2018,2017
+Ponck,Centre-Back,1995-01-13,22,Cape Verde,Desportivo Aves,Liga NOS,2017/2018,2017
+Rodrigo Defendi,Centre-Back,1986-06-16,31,Brazil,Desportivo Aves,Liga NOS,2017/2018,2017
+Diego Galo,Centre-Back,1984-01-14,33,Brazil,Desportivo Aves,Liga NOS,2017/2018,2017
+Jorge Fellipe,Centre-Back,1988-10-27,28,Brazil,Desportivo Aves,Liga NOS,2017/2018,2017
+Nélson Lenho,Left-Back,1984-03-22,33,Portugal,Desportivo Aves,Liga NOS,2017/2018,2017
+Rodrigo,Right-Back,1992-12-26,24,Brazil,Desportivo Aves,Liga NOS,2017/2018,2017
+Pedrinho,Right-Back,1985-03-06,32,Portugal,Desportivo Aves,Liga NOS,2017/2018,2017
+Washington Santana,Defensive Midfield,1989-01-20,28,Brazil,Desportivo Aves,Liga NOS,2017/2018,2017
+Gonçalo,Defensive Midfield,1986-11-15,30,Portugal,Desportivo Aves,Liga NOS,2017/2018,2017
+Claudio Falcão,Defensive Midfield,1994-07-03,22,Brazil,Desportivo Aves,Liga NOS,2017/2018,2017
+Paulo Machado,Central Midfield,1986-03-31,31,Portugal,Desportivo Aves,Liga NOS,2017/2018,2017
+Fernando Tissone,Central Midfield,1986-07-24,30,Argentina,Desportivo Aves,Liga NOS,2017/2018,2017
+Vítor Gomes,Central Midfield,1987-12-25,29,Portugal,Desportivo Aves,Liga NOS,2017/2018,2017
+Luis Fariña,Attacking Midfield,1991-04-20,26,Argentina,Desportivo Aves,Liga NOS,2017/2018,2017
+Ryan Gauld,Attacking Midfield,1995-12-16,21,Scotland,Desportivo Aves,Liga NOS,2017/2018,2017
+Braga,Attacking Midfield,1983-06-17,34,Portugal,Desportivo Aves,Liga NOS,2017/2018,2017
+Sami,Left Winger,1988-12-18,28,Guinea-Bissau,Desportivo Aves,Liga NOS,2017/2018,2017
+Nildo Petrolina,Left Winger,1986-05-01,31,Brazil,Desportivo Aves,Liga NOS,2017/2018,2017
+Hamdou Elhouni,Left Winger,1994-02-12,23,Libya,Desportivo Aves,Liga NOS,2017/2018,2017
+Salvador Agra,Right Winger,1991-11-11,25,Portugal,Desportivo Aves,Liga NOS,2017/2018,2017
+Amilton,Right Winger,1989-08-12,27,Brazil,Desportivo Aves,Liga NOS,2017/2018,2017
+Mama Baldé,Right Winger,1995-11-06,21,Guinea-Bissau,Desportivo Aves,Liga NOS,2017/2018,2017
+Chicho Arango,Second Striker,1995-03-09,22,Colombia,Desportivo Aves,Liga NOS,2017/2018,2017
+Derley,Centre-Forward,1987-12-29,29,Brazil,Desportivo Aves,Liga NOS,2017/2018,2017
+Alexandre Guedes,Centre-Forward,1994-02-11,23,Portugal,Desportivo Aves,Liga NOS,2017/2018,2017
+Federico Falcone,Centre-Forward,1990-02-21,27,Argentina,Desportivo Aves,Liga NOS,2017/2018,2017
+Ricardo Ferreira,Goalkeeper,1989-12-03,27,Portugal,Portimonense SC,Liga NOS,2017/2018,2017
+Leonardo,Goalkeeper,1992-12-28,24,Brazil,Portimonense SC,Liga NOS,2017/2018,2017
+Carlos Henriques,Goalkeeper,1993-07-07,23,Portugal,Portimonense SC,Liga NOS,2017/2018,2017
+Rúben Fernandes,Centre-Back,1986-05-06,31,Portugal,Portimonense SC,Liga NOS,2017/2018,2017
+Felipe Macedo,Centre-Back,1994-03-27,23,Brazil,Portimonense SC,Liga NOS,2017/2018,2017
+Jadson,Centre-Back,1991-11-05,25,Brazil,Portimonense SC,Liga NOS,2017/2018,2017
+Lucas Possignolo,Centre-Back,1994-05-11,23,Brazil,Portimonense SC,Liga NOS,2017/2018,2017
+Rafa Soares,Left-Back,1995-05-09,22,Portugal,Portimonense SC,Liga NOS,2017/2018,2017
+Lumor,Left-Back,1996-08-15,20,Ghana,Portimonense SC,Liga NOS,2017/2018,2017
+Inácio,Left-Back,1996-01-29,21,Brazil,Portimonense SC,Liga NOS,2017/2018,2017
+Wilson Manafá,Right-Back,1994-07-23,22,Portugal,Portimonense SC,Liga NOS,2017/2018,2017
+Emmanuel Hackman,Right-Back,1995-05-14,22,Ghana,Portimonense SC,Liga NOS,2017/2018,2017
+Ricardo Pessoa,Right-Back,1982-02-05,35,Portugal,Portimonense SC,Liga NOS,2017/2018,2017
+Oriol Rosell,Defensive Midfield,1992-07-07,24,Spain,Portimonense SC,Liga NOS,2017/2018,2017
+Pedro Sá,Defensive Midfield,1993-12-01,23,Portugal,Portimonense SC,Liga NOS,2017/2018,2017
+Marcel,Defensive Midfield,1992-10-16,24,Brazil,Portimonense SC,Liga NOS,2017/2018,2017
+Gustavo Hebling,Central Midfield,1996-04-05,21,Brazil,Portimonense SC,Liga NOS,2017/2018,2017
+Dener,Central Midfield,1992-03-13,25,Brazil,Portimonense SC,Liga NOS,2017/2018,2017
+Galeno,Left Midfield,1997-10-22,19,Brazil,Portimonense SC,Liga NOS,2017/2018,2017
+Paulinho,Attacking Midfield,1994-07-10,22,Brazil,Portimonense SC,Liga NOS,2017/2018,2017
+Fede Varela,Attacking Midfield,1997-04-18,20,Argentina,Portimonense SC,Liga NOS,2017/2018,2017
+Ewerton,Attacking Midfield,1992-12-01,24,Brazil,Portimonense SC,Liga NOS,2017/2018,2017
+Theo Ryuki,Attacking Midfield,1995-07-31,21,Japan,Portimonense SC,Liga NOS,2017/2018,2017
+Leonardo Dreyer,Attacking Midfield,1997-04-23,20,Brazil,Portimonense SC,Liga NOS,2017/2018,2017
+Shoya Nakajima,Left Winger,1994-08-23,22,Japan,Portimonense SC,Liga NOS,2017/2018,2017
+Tabata,Right Winger,1997-03-30,20,Brazil,Portimonense SC,Liga NOS,2017/2018,2017
+Wellington Carvalho,Right Winger,1992-11-21,24,Brazil,Portimonense SC,Liga NOS,2017/2018,2017
+Chidera Ezeh,Second Striker,1997-10-02,19,Nigeria,Portimonense SC,Liga NOS,2017/2018,2017
+Buba,Second Striker,1993-04-23,24,Brazil,Portimonense SC,Liga NOS,2017/2018,2017
+Rui Costa,Centre-Forward,1996-02-20,21,Portugal,Portimonense SC,Liga NOS,2017/2018,2017
+Fabrício,Centre-Forward,1990-03-28,27,Brazil,Portimonense SC,Liga NOS,2017/2018,2017
+Stanley,Centre-Forward,1990-06-24,27,Nigeria,Portimonense SC,Liga NOS,2017/2018,2017
+Pires,Centre-Forward,1981-04-01,36,Portugal,Portimonense SC,Liga NOS,2017/2018,2017
+André Clóvis,Centre-Forward,1997-11-21,19,Brazil,Portimonense SC,Liga NOS,2017/2018,2017
+Cláudio Ramos,Goalkeeper,1991-11-16,25,Portugal,CD Tondela,Liga NOS,2017/2018,2017
+Ricardo Janota,Goalkeeper,1987-03-10,30,Portugal,CD Tondela,Liga NOS,2017/2018,2017
+Ricardo Moura,Goalkeeper,1988-12-14,28,Portugal,CD Tondela,Liga NOS,2017/2018,2017
+Yordan Osorio,Centre-Back,1994-05-10,23,Venezuela,CD Tondela,Liga NOS,2017/2018,2017
+Nick Ansell,Centre-Back,1994-02-02,23,Australia,CD Tondela,Liga NOS,2017/2018,2017
+Ricardo Costa,Centre-Back,1981-05-16,36,Portugal,CD Tondela,Liga NOS,2017/2018,2017
+Ícaro,Centre-Back,1989-04-16,28,Brazil,CD Tondela,Liga NOS,2017/2018,2017
+Jorge Fernandes,Centre-Back,1997-04-02,20,Portugal,CD Tondela,Liga NOS,2017/2018,2017
+Júnior Pius,Centre-Back,1995-12-20,21,Nigeria,CD Tondela,Liga NOS,2017/2018,2017
+Joãozinho,Left-Back,1989-07-02,27,Portugal,CD Tondela,Liga NOS,2017/2018,2017
+Ruca,Left-Back,1990-09-11,26,Portugal,CD Tondela,Liga NOS,2017/2018,2017
+David Bruno,Right-Back,1992-02-14,25,Portugal,CD Tondela,Liga NOS,2017/2018,2017
+Fahd Moufi,Right-Back,1996-05-05,21,Morocco,CD Tondela,Liga NOS,2017/2018,2017
+Claude Gonçalves,Defensive Midfield,1994-04-09,23,Portugal,CD Tondela,Liga NOS,2017/2018,2017
+Nego Tembeng,Defensive Midfield,1991-09-13,25,Cameroon,CD Tondela,Liga NOS,2017/2018,2017
+Sulley Muniru,Central Midfield,1992-10-25,24,Ghana,CD Tondela,Liga NOS,2017/2018,2017
+Hélder Tavares,Central Midfield,1989-12-26,27,Cape Verde,CD Tondela,Liga NOS,2017/2018,2017
+Bruno Monteiro,Central Midfield,1984-10-05,32,Portugal,CD Tondela,Liga NOS,2017/2018,2017
+Tomás Cardoso,Central Midfield,1999-12-29,17,Portugal,CD Tondela,Liga NOS,2017/2018,2017
+Pité,Left Midfield,1994-08-22,22,Portugal,CD Tondela,Liga NOS,2017/2018,2017
+Joca,Attacking Midfield,1996-01-30,21,Portugal,CD Tondela,Liga NOS,2017/2018,2017
+Xavier,Left Winger,1992-07-06,24,Portugal,CD Tondela,Liga NOS,2017/2018,2017
+Wagner,Left Winger,1987-04-03,30,Brazil,CD Tondela,Liga NOS,2017/2018,2017
+Tyler Boyd,Left Winger,1994-12-30,22,United States,CD Tondela,Liga NOS,2017/2018,2017
+Pedro Nuno,Left Winger,1995-01-13,22,Portugal,CD Tondela,Liga NOS,2017/2018,2017
+Harramiz,Left Winger,1990-08-03,26,Sao Tome and Principe,CD Tondela,Liga NOS,2017/2018,2017
+Juan Delgado,Left Winger,1993-03-05,24,Chile,CD Tondela,Liga NOS,2017/2018,2017
+Murilo,Left Winger,1996-05-12,21,Brazil,CD Tondela,Liga NOS,2017/2018,2017
+Miguel Cardoso,Right Winger,1994-06-19,23,Portugal,CD Tondela,Liga NOS,2017/2018,2017
+Simão Pipo,Right Winger,1999-06-21,18,Portugal,CD Tondela,Liga NOS,2017/2018,2017
+Tomané,Centre-Forward,1992-10-23,24,Portugal,CD Tondela,Liga NOS,2017/2018,2017
+Heliardo,Centre-Forward,1991-12-14,25,Brazil,CD Tondela,Liga NOS,2017/2018,2017
+Mateusz Zachara,Centre-Forward,1990-03-27,27,Poland,CD Tondela,Liga NOS,2017/2018,2017
+João Vasco,Centre-Forward,1994-12-26,22,Portugal,CD Tondela,Liga NOS,2017/2018,2017
+Michal Miskiewicz,Goalkeeper,1989-01-20,28,Poland,CD Feirense,Liga NOS,2017/2018,2017
+Dele Alampasu,Goalkeeper,1996-12-24,20,Nigeria,CD Feirense,Liga NOS,2017/2018,2017
+Caio Secco,Goalkeeper,1990-12-22,26,Brazil,CD Feirense,Liga NOS,2017/2018,2017
+Antonio Briseño,Centre-Back,1994-02-05,23,Mexico,CD Feirense,Liga NOS,2017/2018,2017
+Flávio,Centre-Back,1994-05-12,23,Brazil,CD Feirense,Liga NOS,2017/2018,2017
+Luís Rocha,Centre-Back,1986-08-13,30,Portugal,CD Feirense,Liga NOS,2017/2018,2017
+Bruno Nascimento,Centre-Back,1991-05-30,26,Brazil,CD Feirense,Liga NOS,2017/2018,2017
+Tiago Gomes,Left-Back,1986-07-29,30,Portugal,CD Feirense,Liga NOS,2017/2018,2017
+Alex Kakuba,Left-Back,1991-06-12,26,Uganda,CD Feirense,Liga NOS,2017/2018,2017
+Kiki,Left-Back,1994-12-10,22,Portugal,CD Feirense,Liga NOS,2017/2018,2017
+Edson Farias,Right-Back,1992-01-12,25,Brazil,CD Feirense,Liga NOS,2017/2018,2017
+Jean Sony Alcénat,Right-Back,1986-01-23,31,Haiti,CD Feirense,Liga NOS,2017/2018,2017
+Barge,Right-Back,1984-01-04,33,Portugal,CD Feirense,Liga NOS,2017/2018,2017
+Diga,Right-Back,1998-03-30,19,Portugal,CD Feirense,Liga NOS,2017/2018,2017
+Kódjo Alphonse,Defensive Midfield,1993-05-28,24,Cote d'Ivoire,CD Feirense,Liga NOS,2017/2018,2017
+Cris,Defensive Midfield,1984-01-11,33,Portugal,CD Feirense,Liga NOS,2017/2018,2017
+Oghenekaro Etebo,Central Midfield,1995-11-09,21,Nigeria,CD Feirense,Liga NOS,2017/2018,2017
+João Graça,Central Midfield,1995-06-18,22,Portugal,CD Feirense,Liga NOS,2017/2018,2017
+Tiago Silva,Central Midfield,1993-06-02,24,Portugal,CD Feirense,Liga NOS,2017/2018,2017
+Luís Aurélio,Central Midfield,1988-08-17,28,Portugal,CD Feirense,Liga NOS,2017/2018,2017
+Babanco,Central Midfield,1985-07-27,31,Cape Verde,CD Feirense,Liga NOS,2017/2018,2017
+João Tavares,Central Midfield,1998-12-12,18,Portugal,CD Feirense,Liga NOS,2017/2018,2017
+Rafael Crivellaro,Attacking Midfield,1989-02-18,28,Brazil,CD Feirense,Liga NOS,2017/2018,2017
+Luís Machado,Left Winger,1992-11-04,24,Portugal,CD Feirense,Liga NOS,2017/2018,2017
+Zé Manuel,Right Winger,1990-10-23,26,Portugal,CD Feirense,Liga NOS,2017/2018,2017
+Gustavo Ermel,Right Winger,1995-03-29,22,Brazil,CD Feirense,Liga NOS,2017/2018,2017
+Hugo Seco,Right Winger,1988-06-17,29,Portugal,CD Feirense,Liga NOS,2017/2018,2017
+Anastasios Karamanos,Centre-Forward,1990-09-21,26,Greece,CD Feirense,Liga NOS,2017/2018,2017
+José Valencia,Centre-Forward,1991-12-18,25,Colombia,CD Feirense,Liga NOS,2017/2018,2017
+Luis Henrique,Centre-Forward,1998-03-17,19,Brazil,CD Feirense,Liga NOS,2017/2018,2017
+João Silva,Centre-Forward,1990-05-21,27,Portugal,CD Feirense,Liga NOS,2017/2018,2017

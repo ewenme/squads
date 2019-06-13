@@ -1,0 +1,986 @@
+player_name,position,date_of_birth,age,nationality,club_name,league_name,season,year
+Rob Green,Goalkeeper,1980-01-18,31,England,West Ham United,Championship,2011/2012,2011
+Manuel Almunia,Goalkeeper,1977-05-19,34,Spain,West Ham United,Championship,2011/2012,2011
+Ruud Boffin,Goalkeeper,1987-11-05,23,Belgium,West Ham United,Championship,2011/2012,2011
+Marek Stech,Goalkeeper,1990-01-28,21,Czech Republic,West Ham United,Championship,2011/2012,2011
+Stephen Henderson,Goalkeeper,1988-05-02,23,Ireland,West Ham United,Championship,2011/2012,2011
+Péter Kurucz,Goalkeeper,1988-05-30,23,Hungary,West Ham United,Championship,2011/2012,2011
+Sam Cowler,Goalkeeper,1992-10-26,18,England,West Ham United,Championship,2011/2012,2011
+James Tomkins,Centre-Back,1989-03-29,22,England,West Ham United,Championship,2011/2012,2011
+Danny Collins,Centre-Back,1980-08-06,30,Wales,West Ham United,Championship,2011/2012,2011
+Abdoulaye Fayé,Centre-Back,1978-02-26,33,Senegal,West Ham United,Championship,2011/2012,2011
+Winston Reid,Centre-Back,1988-07-03,22,New Zealand,West Ham United,Championship,2011/2012,2011
+Callum McNaughton,Centre-Back,1991-10-25,19,England,West Ham United,Championship,2011/2012,2011
+Hérita Ilunga,Left-Back,1982-02-25,29,DR Congo,West Ham United,Championship,2011/2012,2011
+George McCartney,Left-Back,1981-04-29,30,Northern Ireland,West Ham United,Championship,2011/2012,2011
+Jordan Brown,Left-Back,1991-10-11,19,England,West Ham United,Championship,2011/2012,2011
+Dan Potts,Left-Back,1994-04-13,17,England,West Ham United,Championship,2011/2012,2011
+Guy Demel,Right-Back,1981-06-13,30,Cote d'Ivoire,West Ham United,Championship,2011/2012,2011
+Joey O'Brien,Right-Back,1986-02-17,25,Ireland,West Ham United,Championship,2011/2012,2011
+Jordan Spence,Right-Back,1990-05-24,21,England,West Ham United,Championship,2011/2012,2011
+Callum Driver,Right-Back,1992-10-23,18,England,West Ham United,Championship,2011/2012,2011
+Julien Faubert,Defensive Midfield,1983-08-01,27,Martinique,West Ham United,Championship,2011/2012,2011
+Papa Bouba Diop,Defensive Midfield,1978-01-28,33,Senegal,West Ham United,Championship,2011/2012,2011
+Scott Parker,Central Midfield,1980-10-13,30,England,West Ham United,Championship,2011/2012,2011
+Mark Noble,Central Midfield,1987-05-08,24,England,West Ham United,Championship,2011/2012,2011
+Jack Collison,Central Midfield,1988-10-02,22,Wales,West Ham United,Championship,2011/2012,2011
+Gary O'Neil,Central Midfield,1983-05-18,28,England,West Ham United,Championship,2011/2012,2011
+Henri Lansbury,Central Midfield,1990-10-12,20,England,West Ham United,Championship,2011/2012,2011
+Olly Lee,Central Midfield,1991-07-11,19,England,West Ham United,Championship,2011/2012,2011
+Sergi Monsergas,Central Midfield,1992-09-20,18,Spain,West Ham United,Championship,2011/2012,2011
+Sebastian Lletget,Central Midfield,1992-09-03,18,United States,West Ham United,Championship,2011/2012,2011
+George Moncur,Central Midfield,1993-08-18,17,England,West Ham United,Championship,2011/2012,2011
+David Bentley,Right Midfield,1984-08-27,26,England,West Ham United,Championship,2011/2012,2011
+Matthew Taylor,Left Midfield,1981-11-27,29,England,West Ham United,Championship,2011/2012,2011
+Kevin Nolan,Attacking Midfield,1982-06-24,29,England,West Ham United,Championship,2011/2012,2011
+Ravel Morrison,Attacking Midfield,1993-02-02,18,Jamaica,West Ham United,Championship,2011/2012,2011
+Junior Stanislas,Left Winger,1989-11-26,21,England,West Ham United,Championship,2011/2012,2011
+Pablo Barrera,Right Winger,1987-06-21,24,Mexico,West Ham United,Championship,2011/2012,2011
+Zavon Hines,Right Winger,1988-12-27,22,England,West Ham United,Championship,2011/2012,2011
+Ricardo Vaz Tê,Right Winger,1986-10-01,24,Portugal,West Ham United,Championship,2011/2012,2011
+Rob Hall,Right Winger,1993-10-20,17,England,West Ham United,Championship,2011/2012,2011
+Freddie Sears,Second Striker,1989-11-27,21,England,West Ham United,Championship,2011/2012,2011
+John Carew,Centre-Forward,1979-09-05,31,Norway,West Ham United,Championship,2011/2012,2011
+Carlton Cole,Centre-Forward,1983-10-12,27,England,West Ham United,Championship,2011/2012,2011
+Frédéric Piquionne,Centre-Forward,1978-12-08,32,Martinique,West Ham United,Championship,2011/2012,2011
+Nicky Maynard,Centre-Forward,1986-12-11,24,England,West Ham United,Championship,2011/2012,2011
+Frank Nouble,Centre-Forward,1991-09-24,19,England,West Ham United,Championship,2011/2012,2011
+Sam Baldock,Centre-Forward,1989-03-15,22,England,West Ham United,Championship,2011/2012,2011
+Brian Montenegro,Centre-Forward,1993-06-10,18,Paraguay,West Ham United,Championship,2011/2012,2011
+Dylan Tombides,Centre-Forward,1994-03-08,17,Australia,West Ham United,Championship,2011/2012,2011
+Boaz Myhill,Goalkeeper,1982-11-09,28,Wales,Birmingham City,Championship,2011/2012,2011
+Colin Doyle,Goalkeeper,1985-06-12,26,Ireland,Birmingham City,Championship,2011/2012,2011
+Jack Butland,Goalkeeper,1993-03-10,18,England,Birmingham City,Championship,2011/2012,2011
+Liam Ridgewell,Centre-Back,1984-07-21,26,England,Birmingham City,Championship,2011/2012,2011
+Scott Dann,Centre-Back,1987-02-14,24,England,Birmingham City,Championship,2011/2012,2011
+Curtis Davies,Centre-Back,1985-03-15,26,England,Birmingham City,Championship,2011/2012,2011
+Pablo Ibáñez,Centre-Back,1981-08-03,29,Spain,Birmingham City,Championship,2011/2012,2011
+Jonathan Spector,Centre-Back,1986-03-01,25,United States,Birmingham City,Championship,2011/2012,2011
+Steven Caldwell,Centre-Back,1980-09-12,30,Scotland,Birmingham City,Championship,2011/2012,2011
+Peter Ramage,Centre-Back,1983-11-22,27,England,Birmingham City,Championship,2011/2012,2011
+Will Packwood,Centre-Back,1993-05-21,18,United States,Birmingham City,Championship,2011/2012,2011
+Jack Deaman,Centre-Back,1993-05-17,18,England,Birmingham City,Championship,2011/2012,2011
+Fraser Kerr,Centre-Back,1993-01-17,18,Scotland,Birmingham City,Championship,2011/2012,2011
+Jean Beausejour,Left-Back,1984-06-01,27,Chile,Birmingham City,Championship,2011/2012,2011
+David Murphy,Left-Back,1984-03-01,27,England,Birmingham City,Championship,2011/2012,2011
+Mitch Hancox,Left-Back,1993-11-09,17,England,Birmingham City,Championship,2011/2012,2011
+Stephen Carr,Right-Back,1976-08-29,34,Ireland,Birmingham City,Championship,2011/2012,2011
+Cian Hughton,Right-Back,1989-01-25,22,Ireland,Birmingham City,Championship,2011/2012,2011
+Guirane N'Daw,Defensive Midfield,1984-04-24,27,Senegal,Birmingham City,Championship,2011/2012,2011
+Morgaro Gomis,Defensive Midfield,1985-07-14,25,Senegal,Birmingham City,Championship,2011/2012,2011
+Enric Vallès,Defensive Midfield,1990-03-01,21,Spain,Birmingham City,Championship,2011/2012,2011
+Brice Ntambwe,Defensive Midfield,1993-04-29,18,Belgium,Birmingham City,Championship,2011/2012,2011
+Keith Fahey,Central Midfield,1983-01-15,28,Ireland,Birmingham City,Championship,2011/2012,2011
+Míchel,Central Midfield,1985-11-08,25,Spain,Birmingham City,Championship,2011/2012,2011
+Jordon Mutch,Central Midfield,1991-12-02,19,England,Birmingham City,Championship,2011/2012,2011
+Eddy Gnahoré,Central Midfield,1993-11-14,17,France,Birmingham City,Championship,2011/2012,2011
+Callum Reilly,Central Midfield,1993-10-03,17,Ireland,Birmingham City,Championship,2011/2012,2011
+Chris Burke,Right Midfield,1983-12-02,27,Scotland,Birmingham City,Championship,2011/2012,2011
+Luke Hubbins,Right Midfield,1991-09-11,19,England,Birmingham City,Championship,2011/2012,2011
+Wade Elliott,Attacking Midfield,1978-12-14,32,England,Birmingham City,Championship,2011/2012,2011
+Erik Huseklepp,Left Winger,1984-09-05,26,Norway,Birmingham City,Championship,2011/2012,2011
+Nathan Redmond,Left Winger,1994-03-06,17,England,Birmingham City,Championship,2011/2012,2011
+Andros Townsend,Right Winger,1991-07-16,19,England,Birmingham City,Championship,2011/2012,2011
+Jake Jervis,Right Winger,1991-09-17,19,England,Birmingham City,Championship,2011/2012,2011
+Nikola Zigic,Centre-Forward,1980-09-25,30,Serbia,Birmingham City,Championship,2011/2012,2011
+Cameron Jerome,Centre-Forward,1986-08-14,24,England,Birmingham City,Championship,2011/2012,2011
+Marlon King,Centre-Forward,1980-04-26,31,Jamaica,Birmingham City,Championship,2011/2012,2011
+Caleb Folan,Centre-Forward,1982-10-26,28,Ireland,Birmingham City,Championship,2011/2012,2011
+Adam Rooney,Centre-Forward,1988-04-21,23,Ireland,Birmingham City,Championship,2011/2012,2011
+Chris Wood,Centre-Forward,1991-12-07,19,New Zealand,Birmingham City,Championship,2011/2012,2011
+Akwasi Asante,Centre-Forward,1992-09-06,18,Netherlands,Birmingham City,Championship,2011/2012,2011
+Chris Weale,Goalkeeper,1982-02-09,29,England,Leicester City,Championship,2011/2012,2011
+Kasper Schmeichel,Goalkeeper,1986-11-05,24,Denmark,Leicester City,Championship,2011/2012,2011
+Conrad Logan,Goalkeeper,1986-04-18,25,Ireland,Leicester City,Championship,2011/2012,2011
+Adam Smith,Goalkeeper,1992-11-23,18,England,Leicester City,Championship,2011/2012,2011
+Sol Bamba,Centre-Back,1985-01-13,26,Cote d'Ivoire,Leicester City,Championship,2011/2012,2011
+Wes Morgan,Centre-Back,1984-01-21,27,Jamaica,Leicester City,Championship,2011/2012,2011
+Sean St. Ledger,Centre-Back,1984-12-28,26,Ireland,Leicester City,Championship,2011/2012,2011
+Matt Mills,Centre-Back,1986-07-14,24,England,Leicester City,Championship,2011/2012,2011
+Aleksandar Tunchev,Centre-Back,1981-07-10,29,Bulgaria,Leicester City,Championship,2011/2012,2011
+Tom Parkes,Centre-Back,1992-01-15,19,England,Leicester City,Championship,2011/2012,2011
+Liam Moore,Centre-Back,1993-01-31,18,England,Leicester City,Championship,2011/2012,2011
+George Taft,Centre-Back,1993-07-29,17,England,Leicester City,Championship,2011/2012,2011
+Paul Konchesky,Left-Back,1981-05-15,30,England,Leicester City,Championship,2011/2012,2011
+Michael Ball,Left-Back,1979-10-02,31,England,Leicester City,Championship,2011/2012,2011
+Bruno Berner,Left-Back,1977-11-21,33,Switzerland,Leicester City,Championship,2011/2012,2011
+Tom Kennedy,Left-Back,1985-06-24,26,England,Leicester City,Championship,2011/2012,2011
+John Paintsil,Right-Back,1981-06-15,30,Ghana,Leicester City,Championship,2011/2012,2011
+Lee Peltier,Right-Back,1986-12-11,24,England,Leicester City,Championship,2011/2012,2011
+Gelson Fernandes,Defensive Midfield,1986-09-02,24,Switzerland,Leicester City,Championship,2011/2012,2011
+Michael Johnson,Defensive Midfield,1988-02-24,23,England,Leicester City,Championship,2011/2012,2011
+Yuki Abe,Defensive Midfield,1981-09-06,29,Japan,Leicester City,Championship,2011/2012,2011
+Matt Oakley,Defensive Midfield,1977-08-17,33,England,Leicester City,Championship,2011/2012,2011
+Paul Gallagher,Central Midfield,1984-08-09,26,Scotland,Leicester City,Championship,2011/2012,2011
+Andy King,Central Midfield,1988-10-29,22,Wales,Leicester City,Championship,2011/2012,2011
+Danny Drinkwater,Central Midfield,1990-03-05,21,England,Leicester City,Championship,2011/2012,2011
+Richie Wellens,Central Midfield,1980-03-26,31,England,Leicester City,Championship,2011/2012,2011
+Neil Danns,Central Midfield,1982-11-23,28,Guyana,Leicester City,Championship,2011/2012,2011
+Ben Marshall,Right Midfield,1991-03-29,20,England,Leicester City,Championship,2011/2012,2011
+Lloyd Dyer,Left Midfield,1982-09-13,28,England,Leicester City,Championship,2011/2012,2011
+Jeffrey Schlupp,Left Midfield,1992-12-23,18,Ghana,Leicester City,Championship,2011/2012,2011
+Franck Moussa,Attacking Midfield,1989-07-24,21,Belgium,Leicester City,Championship,2011/2012,2011
+Harry Panayiotou,Second Striker,1994-10-28,16,St. Kitts & Nevis,Leicester City,Championship,2011/2012,2011
+Jermaine Beckford,Centre-Forward,1983-12-09,27,Jamaica,Leicester City,Championship,2011/2012,2011
+Nathan Delfouneso,Centre-Forward,1991-02-02,20,England,Leicester City,Championship,2011/2012,2011
+David Nugent,Centre-Forward,1985-05-02,26,England,Leicester City,Championship,2011/2012,2011
+Darius Vassell,Centre-Forward,1980-06-13,31,England,Leicester City,Championship,2011/2012,2011
+Martyn Waghorn,Centre-Forward,1990-01-23,21,England,Leicester City,Championship,2011/2012,2011
+Steve Howard,Centre-Forward,1976-05-10,35,Scotland,Leicester City,Championship,2011/2012,2011
+Tom Hopper,Centre-Forward,1993-12-14,17,England,Leicester City,Championship,2011/2012,2011
+Lee Camp,Goalkeeper,1984-08-22,26,Northern Ireland,Nottingham Forest,Championship,2011/2012,2011
+Paul Smith,Goalkeeper,1979-12-17,31,England,Nottingham Forest,Championship,2011/2012,2011
+Karl Darlow,Goalkeeper,1990-10-08,20,England,Nottingham Forest,Championship,2011/2012,2011
+George Elokobi,Centre-Back,1986-01-31,25,Cameroon,Nottingham Forest,Championship,2011/2012,2011
+Danny Higginbotham,Centre-Back,1978-12-29,32,Gibraltar,Nottingham Forest,Championship,2011/2012,2011
+Luke Chambers,Centre-Back,1985-09-28,25,England,Nottingham Forest,Championship,2011/2012,2011
+Wes Morgan,Centre-Back,1984-01-21,27,Jamaica,Nottingham Forest,Championship,2011/2012,2011
+Clint Hill,Centre-Back,1978-10-19,32,England,Nottingham Forest,Championship,2011/2012,2011
+Joel Lynch,Centre-Back,1987-10-03,23,Wales,Nottingham Forest,Championship,2011/2012,2011
+Scott Wootton,Centre-Back,1991-09-12,19,England,Nottingham Forest,Championship,2011/2012,2011
+Karlton Watson,Centre-Back,1992-04-30,19,England,Nottingham Forest,Championship,2011/2012,2011
+Neill Byrne,Centre-Back,1993-02-02,18,Ireland,Nottingham Forest,Championship,2011/2012,2011
+Jamaal Lascelles,Centre-Back,1993-11-11,17,England,Nottingham Forest,Championship,2011/2012,2011
+Greg Cunningham,Left-Back,1991-01-31,20,Ireland,Nottingham Forest,Championship,2011/2012,2011
+Chris Gunter,Right-Back,1989-07-21,21,Wales,Nottingham Forest,Championship,2011/2012,2011
+Brendan Moloney,Right-Back,1989-01-18,22,Ireland,Nottingham Forest,Championship,2011/2012,2011
+Kieron Freeman,Right-Back,1992-03-21,19,Wales,Nottingham Forest,Championship,2011/2012,2011
+Guy Moussi,Defensive Midfield,1985-01-23,26,France,Nottingham Forest,Championship,2011/2012,2011
+George Boateng,Defensive Midfield,1975-09-05,35,Netherlands,Nottingham Forest,Championship,2011/2012,2011
+Jonathan Greening,Central Midfield,1979-01-02,32,England,Nottingham Forest,Championship,2011/2012,2011
+Adlène Guédioura,Central Midfield,1985-11-12,25,Algeria,Nottingham Forest,Championship,2011/2012,2011
+Chris Cohen,Central Midfield,1987-03-05,24,England,Nottingham Forest,Championship,2011/2012,2011
+Lewis McGugan,Central Midfield,1988-10-25,22,England,Nottingham Forest,Championship,2011/2012,2011
+Danny Meadows,Central Midfield,1992-09-26,18,England,Nottingham Forest,Championship,2011/2012,2011
+Paul Anderson,Right Midfield,1988-07-23,22,England,Nottingham Forest,Championship,2011/2012,2011
+Andy Reid,Left Midfield,1982-07-29,28,Ireland,Nottingham Forest,Championship,2011/2012,2011
+Radoslaw Majewski,Attacking Midfield,1986-12-15,24,Poland,Nottingham Forest,Championship,2011/2012,2011
+Garath McCleary,Right Winger,1987-05-15,24,Jamaica,Nottingham Forest,Championship,2011/2012,2011
+Matt Derbyshire,Centre-Forward,1986-04-14,25,England,Nottingham Forest,Championship,2011/2012,2011
+Ishmael Miller,Centre-Forward,1987-03-05,24,England,Nottingham Forest,Championship,2011/2012,2011
+Marlon Harewood,Centre-Forward,1979-08-25,31,England,Nottingham Forest,Championship,2011/2012,2011
+Dexter Blackstock,Centre-Forward,1986-05-20,25,Antigua and Barbuda,Nottingham Forest,Championship,2011/2012,2011
+Marcus Tudgay,Centre-Forward,1983-02-03,28,England,Nottingham Forest,Championship,2011/2012,2011
+David McGoldrick,Centre-Forward,1987-11-29,23,Ireland,Nottingham Forest,Championship,2011/2012,2011
+Joe Garner,Centre-Forward,1988-04-12,23,England,Nottingham Forest,Championship,2011/2012,2011
+Robbie Findley,Centre-Forward,1985-08-04,25,United States,Nottingham Forest,Championship,2011/2012,2011
+Patrick Bamford,Centre-Forward,1993-09-05,17,England,Nottingham Forest,Championship,2011/2012,2011
+Chris Kirkland,Goalkeeper,1981-05-02,30,England,Doncaster Rovers,Championship,2011/2012,2011
+Carl Ikeme,Goalkeeper,1986-06-08,25,Nigeria,Doncaster Rovers,Championship,2011/2012,2011
+David Button,Goalkeeper,1989-02-27,22,England,Doncaster Rovers,Championship,2011/2012,2011
+Neil Sullivan,Goalkeeper,1970-02-24,41,Scotland,Doncaster Rovers,Championship,2011/2012,2011
+Gary Woods,Goalkeeper,1990-10-01,20,England,Doncaster Rovers,Championship,2011/2012,2011
+Jonny Maxted,Goalkeeper,1992-09-16,18,England,Doncaster Rovers,Championship,2011/2012,2011
+Eddie Wilding,Defender,1994-06-10,17,England,Doncaster Rovers,Championship,2011/2012,2011
+Brett Lucas,Defender,1993-10-14,17,England,Doncaster Rovers,Championship,2011/2012,2011
+James O'Connor,Centre-Back,1984-11-20,26,England,Doncaster Rovers,Championship,2011/2012,2011
+Lamine Diatta,Centre-Back,1975-07-02,35,Senegal,Doncaster Rovers,Championship,2011/2012,2011
+Shelton Martis,Centre-Back,1982-11-29,28,Curacao,Doncaster Rovers,Championship,2011/2012,2011
+Richard Naylor,Centre-Back,1977-02-28,34,England,Doncaster Rovers,Championship,2011/2012,2011
+Adam Lockwood,Centre-Back,1981-10-26,29,England,Doncaster Rovers,Championship,2011/2012,2011
+Sam Hird,Centre-Back,1987-09-07,23,England,Doncaster Rovers,Championship,2011/2012,2011
+Reece Brown,Centre-Back,1991-11-01,19,England,Doncaster Rovers,Championship,2011/2012,2011
+Rachid Bouhenna,Centre-Back,1991-06-29,20,Algeria,Doncaster Rovers,Championship,2011/2012,2011
+Hérita Ilunga,Left-Back,1982-02-25,29,DR Congo,Doncaster Rovers,Championship,2011/2012,2011
+Tommy Spurr,Left-Back,1987-09-30,23,England,Doncaster Rovers,Championship,2011/2012,2011
+George Friend,Left-Back,1987-10-19,23,England,Doncaster Rovers,Championship,2011/2012,2011
+Oscar Radford,Left-Back,1992-09-15,18,England,Doncaster Rovers,Championship,2011/2012,2011
+James Husband,Left-Back,1994-01-03,17,England,Doncaster Rovers,Championship,2011/2012,2011
+Pascal Chimbonda,Right-Back,1979-02-21,32,Guadeloupe,Doncaster Rovers,Championship,2011/2012,2011
+Habib Bèye,Right-Back,1977-10-19,33,Senegal,Doncaster Rovers,Championship,2011/2012,2011
+James Chambers,Right-Back,1980-11-20,30,England,Doncaster Rovers,Championship,2011/2012,2011
+Mustapha Dumbuya,Right-Back,1987-08-07,23,Sierra Leone,Doncaster Rovers,Championship,2011/2012,2011
+Hérold Goulon,Defensive Midfield,1988-06-12,23,France,Doncaster Rovers,Championship,2011/2012,2011
+Damien Plessis,Defensive Midfield,1988-03-05,23,France,Doncaster Rovers,Championship,2011/2012,2011
+Brian Stock,Central Midfield,1981-12-24,29,Wales,Doncaster Rovers,Championship,2011/2012,2011
+Mark Wilson,Central Midfield,1979-02-09,32,England,Doncaster Rovers,Championship,2011/2012,2011
+John Oster,Central Midfield,1978-12-08,32,Wales,Doncaster Rovers,Championship,2011/2012,2011
+Martin Woods,Central Midfield,1986-01-01,25,Scotland,Doncaster Rovers,Championship,2011/2012,2011
+Simon Gillett,Central Midfield,1985-11-06,25,England,Doncaster Rovers,Championship,2011/2012,2011
+Paul Keegan,Central Midfield,1984-07-05,26,Ireland,Doncaster Rovers,Championship,2011/2012,2011
+Ryan Mason,Central Midfield,1991-06-13,20,England,Doncaster Rovers,Championship,2011/2012,2011
+James Coppinger,Right Midfield,1981-01-18,30,England,Doncaster Rovers,Championship,2011/2012,2011
+James Baxendale,Right Midfield,1992-09-16,18,England,Doncaster Rovers,Championship,2011/2012,2011
+Fabien Robert,Left Midfield,1989-01-06,22,France,Doncaster Rovers,Championship,2011/2012,2011
+Jordan Ball,Forward,1993-09-12,17,England,Doncaster Rovers,Championship,2011/2012,2011
+Kyle Bennett,Left Winger,1990-09-09,20,England,Doncaster Rovers,Championship,2011/2012,2011
+Milan Lalkovic,Left Winger,1992-12-09,18,Slovakia,Doncaster Rovers,Championship,2011/2012,2011
+Habib Bamogo,Second Striker,1982-05-08,29,Burkina Faso,Doncaster Rovers,Championship,2011/2012,2011
+Frédéric Piquionne,Centre-Forward,1978-12-08,32,Martinique,Doncaster Rovers,Championship,2011/2012,2011
+Marc-Antoine Fortuné,Centre-Forward,1981-07-02,29,French Guiana,Doncaster Rovers,Championship,2011/2012,2011
+El-Hadji Diouf,Centre-Forward,1981-01-15,30,Senegal,Doncaster Rovers,Championship,2011/2012,2011
+Giles Barnes,Centre-Forward,1988-08-05,22,Jamaica,Doncaster Rovers,Championship,2011/2012,2011
+Billy Sharp,Centre-Forward,1986-02-05,25,England,Doncaster Rovers,Championship,2011/2012,2011
+Jon Parkin,Centre-Forward,1981-12-30,29,England,Doncaster Rovers,Championship,2011/2012,2011
+James Hayter,Centre-Forward,1979-04-09,32,England,Doncaster Rovers,Championship,2011/2012,2011
+Mamadou Bagayoko,Centre-Forward,1979-05-21,32,Mali,Doncaster Rovers,Championship,2011/2012,2011
+Chris Brown,Centre-Forward,1984-12-11,26,England,Doncaster Rovers,Championship,2011/2012,2011
+Márton Fülöp,Goalkeeper,1983-05-03,28,Hungary,Ipswich Town,Championship,2011/2012,2011
+David Stockdale,Goalkeeper,1985-09-20,25,England,Ipswich Town,Championship,2011/2012,2011
+Richard Wright,Goalkeeper,1977-11-05,33,England,Ipswich Town,Championship,2011/2012,2011
+Arran Lee-Barrett,Goalkeeper,1984-02-28,27,England,Ipswich Town,Championship,2011/2012,2011
+Alex McCarthy,Goalkeeper,1989-12-03,21,England,Ipswich Town,Championship,2011/2012,2011
+Cody Cropper,Goalkeeper,1993-02-16,18,United States,Ipswich Town,Championship,2011/2012,2011
+Danny Collins,Centre-Back,1980-08-06,30,Wales,Ipswich Town,Championship,2011/2012,2011
+Damien Delaney,Centre-Back,1981-07-20,29,Ireland,Ipswich Town,Championship,2011/2012,2011
+Ívar Ingimarsson,Centre-Back,1977-08-20,33,Iceland,Ipswich Town,Championship,2011/2012,2011
+Tommy Smith,Centre-Back,1990-03-31,21,New Zealand,Ipswich Town,Championship,2011/2012,2011
+Ibrahima Sonko,Centre-Back,1981-01-22,30,Senegal,Ipswich Town,Championship,2011/2012,2011
+Mark Kennedy,Left-Back,1976-05-15,35,Ireland,Ipswich Town,Championship,2011/2012,2011
+Shane O'Connor,Left-Back,1990-04-14,21,Ireland,Ipswich Town,Championship,2011/2012,2011
+Aaron Cresswell,Left-Back,1989-12-15,21,England,Ipswich Town,Championship,2011/2012,2011
+Joe Whight,Left-Back,1994-01-06,17,England,Ipswich Town,Championship,2011/2012,2011
+Carlos Edwards,Right-Back,1978-10-24,32,Trinidad and Tobago,Ipswich Town,Championship,2011/2012,2011
+Jaime Peters,Right-Back,1987-05-04,24,Canada,Ipswich Town,Championship,2011/2012,2011
+Jack Ainsley,Right-Back,1991-09-17,19,England,Ipswich Town,Championship,2011/2012,2011
+Reece Wabara,Right-Back,1991-12-28,19,England,Ipswich Town,Championship,2011/2012,2011
+Jimmy Bullard,Central Midfield,1978-10-23,32,England,Ipswich Town,Championship,2011/2012,2011
+Lee Bowyer,Central Midfield,1977-01-03,34,England,Ipswich Town,Championship,2011/2012,2011
+Grant Leadbitter,Central Midfield,1986-01-07,25,England,Ipswich Town,Championship,2011/2012,2011
+Keith Andrews,Central Midfield,1980-09-13,30,Ireland,Ipswich Town,Championship,2011/2012,2011
+Luke Hyam,Central Midfield,1991-10-24,19,England,Ipswich Town,Championship,2011/2012,2011
+Andy Drury,Central Midfield,1983-11-28,27,England,Ipswich Town,Championship,2011/2012,2011
+Colin Healy,Central Midfield,1980-03-14,31,Ireland,Ipswich Town,Championship,2011/2012,2011
+Jamie Griffiths,Central Midfield,1992-01-04,19,England,Ipswich Town,Championship,2011/2012,2011
+Byron Lawrence,Central Midfield,1996-03-12,15,England,Ipswich Town,Championship,2011/2012,2011
+Cormac Burke,Right Midfield,1993-08-11,17,Northern Ireland,Ipswich Town,Championship,2011/2012,2011
+Lee Martin,Attacking Midfield,1987-02-09,24,England,Ipswich Town,Championship,2011/2012,2011
+Josh Carson,Left Winger,1993-06-03,18,Northern Ireland,Ipswich Town,Championship,2011/2012,2011
+Ryan Stevenson,Second Striker,1984-08-24,26,Scotland,Ipswich Town,Championship,2011/2012,2011
+Michael Chopra,Centre-Forward,1983-12-23,27,England,Ipswich Town,Championship,2011/2012,2011
+Jason Scotland,Centre-Forward,1979-02-18,32,Trinidad and Tobago,Ipswich Town,Championship,2011/2012,2011
+Nathan Ellington,Centre-Forward,1981-07-02,29,England,Ipswich Town,Championship,2011/2012,2011
+Daryl Murphy,Centre-Forward,1983-03-15,28,Ireland,Ipswich Town,Championship,2011/2012,2011
+Tamás Priskin,Centre-Forward,1986-09-27,24,Hungary,Ipswich Town,Championship,2011/2012,2011
+Jay Emmanuel-Thomas,Centre-Forward,1990-12-27,20,England,Ipswich Town,Championship,2011/2012,2011
+Ronan Murray,Centre-Forward,1991-09-12,19,Ireland,Ipswich Town,Championship,2011/2012,2011
+Carl Ikeme,Goalkeeper,1986-06-08,25,Nigeria,Middlesbrough FC,Championship,2011/2012,2011
+Jason Steele,Goalkeeper,1990-08-18,20,England,Middlesbrough FC,Championship,2011/2012,2011
+Danny Coyne,Goalkeeper,1973-08-27,37,Wales,Middlesbrough FC,Championship,2011/2012,2011
+Connor Ripley,Goalkeeper,1993-02-13,18,England,Middlesbrough FC,Championship,2011/2012,2011
+Luke Coddington,Goalkeeper,1995-06-06,16,England,Middlesbrough FC,Championship,2011/2012,2011
+Stephen McManus,Centre-Back,1982-09-10,28,Scotland,Middlesbrough FC,Championship,2011/2012,2011
+Rhys Williams,Centre-Back,1988-07-14,22,Australia,Middlesbrough FC,Championship,2011/2012,2011
+Matthew Bates,Centre-Back,1986-12-10,24,England,Middlesbrough FC,Championship,2011/2012,2011
+Seb Hines,Centre-Back,1988-05-29,23,England,Middlesbrough FC,Championship,2011/2012,2011
+Ben Gibson,Centre-Back,1993-01-15,18,England,Middlesbrough FC,Championship,2011/2012,2011
+Jonathan Grounds,Left-Back,1988-02-02,23,England,Middlesbrough FC,Championship,2011/2012,2011
+Joe Bennett,Left-Back,1990-03-28,21,England,Middlesbrough FC,Championship,2011/2012,2011
+Justin Hoyte,Right-Back,1984-11-20,26,Trinidad and Tobago,Middlesbrough FC,Championship,2011/2012,2011
+Tony McMahon,Right-Back,1986-03-24,25,England,Middlesbrough FC,Championship,2011/2012,2011
+Andy Halliday,Defensive Midfield,1991-10-11,19,Scotland,Middlesbrough FC,Championship,2011/2012,2011
+Kevin Thomson,Central Midfield,1984-10-14,26,Scotland,Middlesbrough FC,Championship,2011/2012,2011
+Julio Arca,Central Midfield,1981-01-31,30,Argentina,Middlesbrough FC,Championship,2011/2012,2011
+Faris Haroun,Central Midfield,1985-09-22,25,Belgium,Middlesbrough FC,Championship,2011/2012,2011
+Nicky Bailey,Central Midfield,1984-06-10,27,England,Middlesbrough FC,Championship,2011/2012,2011
+Malaury Martin,Central Midfield,1988-08-25,22,France,Middlesbrough FC,Championship,2011/2012,2011
+Richard Smallwood,Central Midfield,1990-12-29,20,England,Middlesbrough FC,Championship,2011/2012,2011
+Barry Robson,Right Midfield,1978-11-07,32,Scotland,Middlesbrough FC,Championship,2011/2012,2011
+Cameron Park,Left Midfield,1992-07-06,18,Scotland,Middlesbrough FC,Championship,2011/2012,2011
+Adam Reach,Left Midfield,1993-02-03,18,England,Middlesbrough FC,Championship,2011/2012,2011
+Merouane Zemmama,Attacking Midfield,1983-10-07,27,Morocco,Middlesbrough FC,Championship,2011/2012,2011
+Tarmo Kink,Left Winger,1985-10-06,25,Estonia,Middlesbrough FC,Championship,2011/2012,2011
+Jonathan Franks,Left Winger,1990-04-08,21,England,Middlesbrough FC,Championship,2011/2012,2011
+Adam Hammill,Right Winger,1988-01-25,23,England,Middlesbrough FC,Championship,2011/2012,2011
+Luke Williams,Second Striker,1993-06-11,18,England,Middlesbrough FC,Championship,2011/2012,2011
+Scott McDonald,Centre-Forward,1983-08-21,27,Australia,Middlesbrough FC,Championship,2011/2012,2011
+Marvin Emnes,Centre-Forward,1988-05-27,23,Netherlands,Middlesbrough FC,Championship,2011/2012,2011
+Lee Miller,Centre-Forward,1983-03-18,28,Scotland,Middlesbrough FC,Championship,2011/2012,2011
+Lukas Jutkiewicz,Centre-Forward,1989-03-28,22,England,Middlesbrough FC,Championship,2011/2012,2011
+Bartholomew Ogbeche,Centre-Forward,1984-10-01,26,Nigeria,Middlesbrough FC,Championship,2011/2012,2011
+Curtis Main,Centre-Forward,1992-06-20,19,England,Middlesbrough FC,Championship,2011/2012,2011
+Alex Nimely,Centre-Forward,1991-05-11,20,England,Middlesbrough FC,Championship,2011/2012,2011
+Matt Gilks,Goalkeeper,1982-06-04,29,Scotland,Blackpool FC,Championship,2011/2012,2011
+Mark Howard,Goalkeeper,1986-09-21,24,England,Blackpool FC,Championship,2011/2012,2011
+Mark Halstead,Goalkeeper,1990-01-01,21,England,Blackpool FC,Championship,2011/2012,2011
+Chris Kettings,Goalkeeper,1992-10-25,18,Scotland,Blackpool FC,Championship,2011/2012,2011
+Ian Evatt,Centre-Back,1981-11-19,29,England,Blackpool FC,Championship,2011/2012,2011
+Craig Cathcart,Centre-Back,1989-02-06,22,Northern Ireland,Blackpool FC,Championship,2011/2012,2011
+Danny Wilson,Centre-Back,1991-12-27,19,Scotland,Blackpool FC,Championship,2011/2012,2011
+Chris Basham,Centre-Back,1988-07-20,22,England,Blackpool FC,Championship,2011/2012,2011
+Miguel Llera,Centre-Back,1979-08-07,31,Spain,Blackpool FC,Championship,2011/2012,2011
+Ashley Eastham,Centre-Back,1991-03-22,20,England,Blackpool FC,Championship,2011/2012,2011
+Stephen Crainey,Left-Back,1981-06-22,30,Scotland,Blackpool FC,Championship,2011/2012,2011
+Matt Hill,Left-Back,1981-03-26,30,England,Blackpool FC,Championship,2011/2012,2011
+Bob Harris,Left-Back,1987-08-28,23,Scotland,Blackpool FC,Championship,2011/2012,2011
+Adam Dodd,Left-Back,1993-05-14,18,England,Blackpool FC,Championship,2011/2012,2011
+Neal Eardley,Right-Back,1988-11-06,22,Wales,Blackpool FC,Championship,2011/2012,2011
+Alex Baptiste,Right-Back,1986-01-31,25,England,Blackpool FC,Championship,2011/2012,2011
+Paul Bignot,Right-Back,1986-02-14,25,England,Blackpool FC,Championship,2011/2012,2011
+James Hurst,Right-Back,1992-01-31,19,England,Blackpool FC,Championship,2011/2012,2011
+Barry Ferguson,Defensive Midfield,1978-02-02,33,Scotland,Blackpool FC,Championship,2011/2012,2011
+Jonjo Shelvey,Central Midfield,1992-02-27,19,England,Blackpool FC,Championship,2011/2012,2011
+Ludovic Sylvestre,Central Midfield,1984-02-05,27,France,Blackpool FC,Championship,2011/2012,2011
+Keith Southern,Central Midfield,1981-04-24,30,England,Blackpool FC,Championship,2011/2012,2011
+John Fleck,Central Midfield,1991-08-24,19,Scotland,Blackpool FC,Championship,2011/2012,2011
+Ángel Martínez,Central Midfield,1986-01-31,25,Spain,Blackpool FC,Championship,2011/2012,2011
+Stephen Husband,Central Midfield,1990-10-29,20,Scotland,Blackpool FC,Championship,2011/2012,2011
+Gerardo Bruna,Central Midfield,1991-01-29,20,Argentina,Blackpool FC,Championship,2011/2012,2011
+Liam Tomsett,Central Midfield,1992-10-21,18,England,Blackpool FC,Championship,2011/2012,2011
+Josh Egan,Right Midfield,1993-07-01,18,England,Blackpool FC,Championship,2011/2012,2011
+Billy Clarke,Attacking Midfield,1987-12-13,23,Ireland,Blackpool FC,Championship,2011/2012,2011
+Bojan Djordjic,Left Winger,1982-02-06,29,Sweden,Blackpool FC,Championship,2011/2012,2011
+Elliot Grandin,Right Winger,1987-10-17,23,France,Blackpool FC,Championship,2011/2012,2011
+Gary Taylor-Fletcher,Right Winger,1981-06-04,30,England,Blackpool FC,Championship,2011/2012,2011
+Matt Phillips,Right Winger,1991-03-13,20,Scotland,Blackpool FC,Championship,2011/2012,2011
+Daniel Bogdanovic,Right Winger,1980-03-26,31,Malta,Blackpool FC,Championship,2011/2012,2011
+Callum McManaman,Right Winger,1991-04-25,20,England,Blackpool FC,Championship,2011/2012,2011
+Tom Barkhuizen,Right Winger,1993-07-04,17,England,Blackpool FC,Championship,2011/2012,2011
+Tom Ince,Right Winger,1992-01-30,19,England,Blackpool FC,Championship,2011/2012,2011
+Lomana LuaLua,Second Striker,1980-12-28,30,DR Congo,Blackpool FC,Championship,2011/2012,2011
+Roman Bednár,Centre-Forward,1983-03-26,28,Czech Republic,Blackpool FC,Championship,2011/2012,2011
+Brett Ormerod,Centre-Forward,1976-10-18,34,England,Blackpool FC,Championship,2011/2012,2011
+Stephen Dobbie,Centre-Forward,1982-12-05,28,Scotland,Blackpool FC,Championship,2011/2012,2011
+Kevin Phillips,Centre-Forward,1973-07-25,37,England,Blackpool FC,Championship,2011/2012,2011
+Louis Almond,Centre-Forward,1992-01-05,19,England,Blackpool FC,Championship,2011/2012,2011
+Craig Sutherland,Centre-Forward,1988-12-17,22,Scotland,Blackpool FC,Championship,2011/2012,2011
+Nouha Dicko,Centre-Forward,1992-05-14,19,Mali,Blackpool FC,Championship,2011/2012,2011
+David James,Goalkeeper,1970-08-01,40,England,Bristol City,Championship,2011/2012,2011
+Dean Gerken,Goalkeeper,1985-05-22,26,England,Bristol City,Championship,2011/2012,2011
+Danny Ball,Defender,1991-11-21,19,England,Bristol City,Championship,2011/2012,2011
+Stephen McManus,Centre-Back,1982-09-10,28,Scotland,Bristol City,Championship,2011/2012,2011
+André Bikey,Centre-Back,1985-01-08,26,Cameroon,Bristol City,Championship,2011/2012,2011
+Kalifa Cissé,Centre-Back,1984-01-09,27,Mali,Bristol City,Championship,2011/2012,2011
+Liam Fontaine,Centre-Back,1986-01-07,25,England,Bristol City,Championship,2011/2012,2011
+Damion Stewart,Centre-Back,1980-08-18,30,Jamaica,Bristol City,Championship,2011/2012,2011
+Dekel Keinan,Centre-Back,1984-09-15,26,Israel,Bristol City,Championship,2011/2012,2011
+Lewin Nyatanga,Centre-Back,1988-08-18,22,Wales,Bristol City,Championship,2011/2012,2011
+Louis Carey,Centre-Back,1977-01-22,34,Scotland,Bristol City,Championship,2011/2012,2011
+James Wilson,Centre-Back,1989-02-26,22,Wales,Bristol City,Championship,2011/2012,2011
+Jamie McAllister,Left-Back,1978-04-26,33,Scotland,Bristol City,Championship,2011/2012,2011
+Ryan McGivern,Left-Back,1990-01-08,21,Northern Ireland,Bristol City,Championship,2011/2012,2011
+Joe Bryan,Left-Back,1993-09-17,17,England,Bristol City,Championship,2011/2012,2011
+Nicky Hunt,Right-Back,1983-09-03,27,England,Bristol City,Championship,2011/2012,2011
+Ricky Foster,Right-Back,1985-07-31,25,Scotland,Bristol City,Championship,2011/2012,2011
+Christian Ribeiro,Right-Back,1989-12-14,21,Wales,Bristol City,Championship,2011/2012,2011
+Jordan Spence,Right-Back,1990-05-24,21,England,Bristol City,Championship,2011/2012,2011
+Henry Muggeridge,Right-Back,1993-07-22,17,England,Bristol City,Championship,2011/2012,2011
+Sean Davis,Defensive Midfield,1979-09-20,31,England,Bristol City,Championship,2011/2012,2011
+Neil Kilkenny,Defensive Midfield,1985-12-19,25,Australia,Bristol City,Championship,2011/2012,2011
+Cole Skuse,Defensive Midfield,1986-03-29,25,England,Bristol City,Championship,2011/2012,2011
+Marvin Elliott,Central Midfield,1984-09-15,26,Jamaica,Bristol City,Championship,2011/2012,2011
+Stephen Pearson,Central Midfield,1982-10-02,28,Scotland,Bristol City,Championship,2011/2012,2011
+Lee Johnson,Central Midfield,1981-06-07,30,England,Bristol City,Championship,2011/2012,2011
+Joe Edwards,Central Midfield,1990-10-31,20,England,Bristol City,Championship,2011/2012,2011
+Hogan Ephraim,Left Midfield,1988-03-31,23,England,Bristol City,Championship,2011/2012,2011
+Martyn Woolford,Left Midfield,1985-10-13,25,England,Bristol City,Championship,2011/2012,2011
+Bobby Reid,Attacking Midfield,1993-02-02,18,Jamaica,Bristol City,Championship,2011/2012,2011
+Yannick Bolasie,Left Winger,1989-05-24,22,DR Congo,Bristol City,Championship,2011/2012,2011
+Jamal Campbell-Ryce,Right Winger,1983-04-06,28,Jamaica,Bristol City,Championship,2011/2012,2011
+Albert Adomah,Right Winger,1987-12-13,23,Ghana,Bristol City,Championship,2011/2012,2011
+Joe Lennox,Right Winger,1991-11-22,19,England,Bristol City,Championship,2011/2012,2011
+Nicky Maynard,Centre-Forward,1986-12-11,24,England,Bristol City,Championship,2011/2012,2011
+David Clarkson,Centre-Forward,1985-09-10,25,Scotland,Bristol City,Championship,2011/2012,2011
+Jon Stead,Centre-Forward,1983-04-07,28,England,Bristol City,Championship,2011/2012,2011
+Chris Wood,Centre-Forward,1991-12-07,19,New Zealand,Bristol City,Championship,2011/2012,2011
+Brett Pitman,Centre-Forward,1988-01-31,23,Jersey,Bristol City,Championship,2011/2012,2011
+Marlon Jackson,Centre-Forward,1990-12-06,20,England,Bristol City,Championship,2011/2012,2011
+Ryan Taylor,Centre-Forward,1988-05-04,23,England,Bristol City,Championship,2011/2012,2011
+Aaron Amadi-Holloway,Centre-Forward,1993-02-21,18,Wales,Bristol City,Championship,2011/2012,2011
+Andy Lonergan,Goalkeeper,1983-10-19,27,England,Leeds United,Championship,2011/2012,2011
+Paul Rachubka,Goalkeeper,1981-05-21,30,England,Leeds United,Championship,2011/2012,2011
+Alex McCarthy,Goalkeeper,1989-12-03,21,England,Leeds United,Championship,2011/2012,2011
+Maik Taylor,Goalkeeper,1971-09-04,39,Northern Ireland,Leeds United,Championship,2011/2012,2011
+Alex Cairns,Goalkeeper,1993-01-04,18,England,Leeds United,Championship,2011/2012,2011
+Paul Robinson,Centre-Back,1978-12-14,32,England,Leeds United,Championship,2011/2012,2011
+Andrew O'Brien,Centre-Back,1979-06-29,32,Ireland,Leeds United,Championship,2011/2012,2011
+Patrick Kisnorbo,Centre-Back,1981-03-24,30,Australia,Leeds United,Championship,2011/2012,2011
+Darren O'Dea,Centre-Back,1987-02-04,24,Ireland,Leeds United,Championship,2011/2012,2011
+Alex Bruce,Centre-Back,1984-09-28,26,Northern Ireland,Leeds United,Championship,2011/2012,2011
+Tom Lees,Centre-Back,1990-11-28,20,England,Leeds United,Championship,2011/2012,2011
+Danny Pugh,Left-Back,1982-10-19,28,England,Leeds United,Championship,2011/2012,2011
+Fede Bessone,Left-Back,1984-01-23,27,Argentina,Leeds United,Championship,2011/2012,2011
+Ben Parker,Left-Back,1987-11-08,23,England,Leeds United,Championship,2011/2012,2011
+Robbie Rogers,Left-Back,1987-05-12,24,United States,Leeds United,Championship,2011/2012,2011
+Aidy White,Left-Back,1991-10-10,19,Ireland,Leeds United,Championship,2011/2012,2011
+Charlie Taylor,Left-Back,1993-09-18,17,England,Leeds United,Championship,2011/2012,2011
+Leigh Bromby,Right-Back,1980-06-02,31,England,Leeds United,Championship,2011/2012,2011
+Paul Connolly,Right-Back,1983-09-29,27,England,Leeds United,Championship,2011/2012,2011
+Adam Smith,Right-Back,1991-04-29,20,England,Leeds United,Championship,2011/2012,2011
+Lewis Turner,Right-Back,1992-09-03,18,England,Leeds United,Championship,2011/2012,2011
+Adam Clayton,Defensive Midfield,1989-01-14,22,England,Leeds United,Championship,2011/2012,2011
+Fabian Delph,Central Midfield,1989-11-21,21,England,Leeds United,Championship,2011/2012,2011
+Mika Väyrynen,Central Midfield,1981-12-28,29,Finland,Leeds United,Championship,2011/2012,2011
+Michael Brown,Central Midfield,1977-01-25,34,England,Leeds United,Championship,2011/2012,2011
+Jonathan Howson,Central Midfield,1988-05-21,23,England,Leeds United,Championship,2011/2012,2011
+Ramón Núñez,Central Midfield,1985-11-14,25,Honduras,Leeds United,Championship,2011/2012,2011
+Zac Thompson,Central Midfield,1993-01-05,18,England,Leeds United,Championship,2011/2012,2011
+Mike Grella,Left Midfield,1987-01-23,24,United States,Leeds United,Championship,2011/2012,2011
+Max Gradel,Left Winger,1987-11-30,23,Cote d'Ivoire,Leeds United,Championship,2011/2012,2011
+Lloyd Sam,Right Winger,1984-09-27,26,Ghana,Leeds United,Championship,2011/2012,2011
+Robert Snodgrass,Right Winger,1987-09-07,23,Scotland,Leeds United,Championship,2011/2012,2011
+Davide Somma,Right Winger,1985-03-26,26,South Africa,Leeds United,Championship,2011/2012,2011
+Andros Townsend,Right Winger,1991-07-16,19,England,Leeds United,Championship,2011/2012,2011
+Ross McCormack,Second Striker,1986-08-18,24,Scotland,Leeds United,Championship,2011/2012,2011
+Andy Keogh,Centre-Forward,1986-05-16,25,Ireland,Leeds United,Championship,2011/2012,2011
+Luciano Becchio,Centre-Forward,1983-12-28,27,Argentina,Leeds United,Championship,2011/2012,2011
+Mikael Forssell,Centre-Forward,1981-03-15,30,Finland,Leeds United,Championship,2011/2012,2011
+Danny Webber,Centre-Forward,1981-12-28,29,England,Leeds United,Championship,2011/2012,2011
+Billy Paynter,Centre-Forward,1984-07-13,26,England,Leeds United,Championship,2011/2012,2011
+Lee Grant,Goalkeeper,1983-01-27,28,England,Burnley FC,Championship,2011/2012,2011
+Brian Jensen,Goalkeeper,1975-06-08,36,Denmark,Burnley FC,Championship,2011/2012,2011
+Jon Stewart,Goalkeeper,1989-03-13,22,England,Burnley FC,Championship,2011/2012,2011
+André Bikey,Centre-Back,1985-01-08,26,Cameroon,Burnley FC,Championship,2011/2012,2011
+Clarke Carlisle,Centre-Back,1979-10-14,31,England,Burnley FC,Championship,2011/2012,2011
+Michael Duff,Centre-Back,1978-01-11,33,Northern Ireland,Burnley FC,Championship,2011/2012,2011
+Leon Cort,Centre-Back,1979-09-11,31,Guyana,Burnley FC,Championship,2011/2012,2011
+David Edgar,Centre-Back,1987-05-19,24,Canada,Burnley FC,Championship,2011/2012,2011
+Kevin Long,Centre-Back,1990-08-18,20,Ireland,Burnley FC,Championship,2011/2012,2011
+Ben Mee,Centre-Back,1989-09-21,21,England,Burnley FC,Championship,2011/2012,2011
+Danny Fox,Left-Back,1986-05-29,25,Scotland,Burnley FC,Championship,2011/2012,2011
+Brian Easton,Left-Back,1988-03-05,23,Scotland,Burnley FC,Championship,2011/2012,2011
+Danny Lafferty,Left-Back,1989-05-18,22,Northern Ireland,Burnley FC,Championship,2011/2012,2011
+Richard Eckersley,Right-Back,1989-03-12,22,England,Burnley FC,Championship,2011/2012,2011
+Kieran Trippier,Right-Back,1990-09-19,20,England,Burnley FC,Championship,2011/2012,2011
+Chris McCann,Defensive Midfield,1987-07-21,23,Ireland,Burnley FC,Championship,2011/2012,2011
+Marvin Bartley,Defensive Midfield,1986-07-04,24,England,Burnley FC,Championship,2011/2012,2011
+Dean Marney,Central Midfield,1984-01-31,27,England,Burnley FC,Championship,2011/2012,2011
+Alex-Ray Harvey,Central Midfield,1990-04-04,21,England,Burnley FC,Championship,2011/2012,2011
+Cameron Howieson,Central Midfield,1994-12-22,16,New Zealand,Burnley FC,Championship,2011/2012,2011
+Steven Hewitt,Central Midfield,1993-12-05,17,England,Burnley FC,Championship,2011/2012,2011
+Joe McKee,Central Midfield,1992-10-31,18,Scotland,Burnley FC,Championship,2011/2012,2011
+Ross Wallace,Right Midfield,1985-05-23,26,Scotland,Burnley FC,Championship,2011/2012,2011
+Alex MacDonald,Right Midfield,1990-04-14,21,Scotland,Burnley FC,Championship,2011/2012,2011
+Keith Treacy,Left Midfield,1988-09-13,22,Ireland,Burnley FC,Championship,2011/2012,2011
+Wade Elliott,Attacking Midfield,1978-12-14,32,England,Burnley FC,Championship,2011/2012,2011
+Junior Stanislas,Left Winger,1989-11-26,21,England,Burnley FC,Championship,2011/2012,2011
+Zavon Hines,Right Winger,1988-12-27,22,England,Burnley FC,Championship,2011/2012,2011
+Shay McCartan,Second Striker,1994-05-18,17,Northern Ireland,Burnley FC,Championship,2011/2012,2011
+Martin Paterson,Centre-Forward,1987-05-10,24,Northern Ireland,Burnley FC,Championship,2011/2012,2011
+Charlie Austin,Centre-Forward,1989-07-05,21,England,Burnley FC,Championship,2011/2012,2011
+Sam Vokes,Centre-Forward,1989-10-21,21,Wales,Burnley FC,Championship,2011/2012,2011
+Josh McQuoid,Centre-Forward,1989-12-15,21,Northern Ireland,Burnley FC,Championship,2011/2012,2011
+Jay Rodríguez,Centre-Forward,1989-07-29,21,England,Burnley FC,Championship,2011/2012,2011
+Danny Ings,Centre-Forward,1992-07-23,18,England,Burnley FC,Championship,2011/2012,2011
+Wes Fletcher,Centre-Forward,1991-02-28,20,England,Burnley FC,Championship,2011/2012,2011
+Dominic Knowles,Centre-Forward,1992-02-13,19,England,Burnley FC,Championship,2011/2012,2011
+Joe Jackson,Centre-Forward,1993-02-03,18,England,Burnley FC,Championship,2011/2012,2011
+David Marshall,Goalkeeper,1985-03-05,26,Scotland,Cardiff City,Championship,2011/2012,2011
+Tom Heaton,Goalkeeper,1986-04-15,25,England,Cardiff City,Championship,2011/2012,2011
+Jordan Santiago,Goalkeeper,1991-04-03,20,Canada,Cardiff City,Championship,2011/2012,2011
+Elliot Parish,Goalkeeper,1990-05-20,21,England,Cardiff City,Championship,2011/2012,2011
+Mark Hudson,Centre-Back,1982-03-30,29,England,Cardiff City,Championship,2011/2012,2011
+Dekel Keinan,Centre-Back,1984-09-15,26,Israel,Cardiff City,Championship,2011/2012,2011
+Gábor Gyepes,Centre-Back,1981-06-26,30,Hungary,Cardiff City,Championship,2011/2012,2011
+Anthony Gerrard,Centre-Back,1986-02-06,25,Ireland,Cardiff City,Championship,2011/2012,2011
+Ben Turner,Centre-Back,1988-08-21,22,England,Cardiff City,Championship,2011/2012,2011
+Paul Quinn,Centre-Back,1985-07-21,25,Scotland,Cardiff City,Championship,2011/2012,2011
+Alex Evans,Centre-Back,1992-09-17,18,Wales,Cardiff City,Championship,2011/2012,2011
+Adedeji Oshilaja,Centre-Back,1993-07-16,17,England,Cardiff City,Championship,2011/2012,2011
+Andrew Taylor,Left-Back,1986-08-01,24,England,Cardiff City,Championship,2011/2012,2011
+Lee Naylor,Left-Back,1980-03-19,31,England,Cardiff City,Championship,2011/2012,2011
+Jon Meades,Left-Back,1992-03-02,19,Wales,Cardiff City,Championship,2011/2012,2011
+Kevin McNaughton,Right-Back,1982-08-28,28,Scotland,Cardiff City,Championship,2011/2012,2011
+Darcy Blake,Right-Back,1988-12-13,22,Wales,Cardiff City,Championship,2011/2012,2011
+Filip Kiss,Defensive Midfield,1990-10-13,20,Slovakia,Cardiff City,Championship,2011/2012,2011
+Theo Wharton,Defensive Midfield,1994-11-15,16,St. Kitts & Nevis,Cardiff City,Championship,2011/2012,2011
+Peter Whittingham,Central Midfield,1984-09-08,26,England,Cardiff City,Championship,2011/2012,2011
+Aron Gunnarsson,Central Midfield,1989-04-22,22,Iceland,Cardiff City,Championship,2011/2012,2011
+Solomon Taiwo,Central Midfield,1985-04-29,26,Nigeria,Cardiff City,Championship,2011/2012,2011
+Aaron Wildig,Central Midfield,1992-04-15,19,England,Cardiff City,Championship,2011/2012,2011
+Ibrahim Farah,Central Midfield,1992-01-24,19,Wales,Cardiff City,Championship,2011/2012,2011
+Joe Ralls,Central Midfield,1993-10-13,17,England,Cardiff City,Championship,2011/2012,2011
+Don Cowie,Right Midfield,1983-02-15,28,Scotland,Cardiff City,Championship,2011/2012,2011
+Kadeem Harris,Right Midfield,1993-06-08,18,England,Cardiff City,Championship,2011/2012,2011
+Stephen McPhail,Left Midfield,1979-12-09,31,Ireland,Cardiff City,Championship,2011/2012,2011
+Liam Lawrence,Attacking Midfield,1981-12-14,29,Ireland,Cardiff City,Championship,2011/2012,2011
+Haris Vuckic,Attacking Midfield,1992-08-21,18,Slovenia,Cardiff City,Championship,2011/2012,2011
+Craig Conway,Left Winger,1985-05-02,26,Scotland,Cardiff City,Championship,2011/2012,2011
+Kenny Miller,Centre-Forward,1979-12-23,31,Scotland,Cardiff City,Championship,2011/2012,2011
+Robert Earnshaw,Centre-Forward,1981-04-06,30,Wales,Cardiff City,Championship,2011/2012,2011
+Jon Parkin,Centre-Forward,1981-12-30,29,England,Cardiff City,Championship,2011/2012,2011
+Rudy Gestede,Centre-Forward,1988-10-10,22,Benin,Cardiff City,Championship,2011/2012,2011
+Joe Mason,Centre-Forward,1991-05-13,20,Ireland,Cardiff City,Championship,2011/2012,2011
+Nathaniel Jarvis,Centre-Forward,1991-10-20,19,Antigua and Barbuda,Cardiff City,Championship,2011/2012,2011
+Jamie Ashdown,Goalkeeper,1980-11-30,30,England,Portsmouth FC,Championship,2011/2012,2011
+Stephen Henderson,Goalkeeper,1988-05-02,23,Ireland,Portsmouth FC,Championship,2011/2012,2011
+Matt Gledhill,Goalkeeper,1993-11-12,17,Ireland,Portsmouth FC,Championship,2011/2012,2011
+Lewis Tallack,Defender,1992-10-04,18,England,Portsmouth FC,Championship,2011/2012,2011
+Tal Ben Haim,Centre-Back,1982-03-31,29,Israel,Portsmouth FC,Championship,2011/2012,2011
+Aaron Mokoena,Centre-Back,1980-11-25,30,South Africa,Portsmouth FC,Championship,2011/2012,2011
+Greg Halford,Centre-Back,1984-12-08,26,England,Portsmouth FC,Championship,2011/2012,2011
+Ricardo Rocha,Centre-Back,1978-10-03,32,Portugal,Portsmouth FC,Championship,2011/2012,2011
+Hermann Hreidarsson,Centre-Back,1974-07-11,36,Iceland,Portsmouth FC,Championship,2011/2012,2011
+Jason Pearce,Centre-Back,1987-12-06,23,England,Portsmouth FC,Championship,2011/2012,2011
+Christian Dailly,Centre-Back,1973-10-23,37,Scotland,Portsmouth FC,Championship,2011/2012,2011
+Karim Rekik,Centre-Back,1994-12-02,16,Netherlands,Portsmouth FC,Championship,2011/2012,2011
+Adam Webster,Centre-Back,1995-01-04,16,England,Portsmouth FC,Championship,2011/2012,2011
+Alex Grant,Centre-Back,1994-01-23,17,Australia,Portsmouth FC,Championship,2011/2012,2011
+Joe Mattock,Left-Back,1990-05-15,21,England,Portsmouth FC,Championship,2011/2012,2011
+Joel Ward,Right-Back,1989-10-29,21,England,Portsmouth FC,Championship,2011/2012,2011
+Sam Magri,Right-Back,1994-03-30,17,Malta,Portsmouth FC,Championship,2011/2012,2011
+Hayden Mullins,Defensive Midfield,1979-03-27,32,England,Portsmouth FC,Championship,2011/2012,2011
+Kelvin Etuhu,Defensive Midfield,1988-05-30,23,Nigeria,Portsmouth FC,Championship,2011/2012,2011
+George Thorne,Defensive Midfield,1993-01-04,18,England,Portsmouth FC,Championship,2011/2012,2011
+David Norris,Central Midfield,1981-02-22,30,England,Portsmouth FC,Championship,2011/2012,2011
+Abdul Razak,Central Midfield,1992-11-11,18,Cote d'Ivoire,Portsmouth FC,Championship,2011/2012,2011
+Scott Allan,Central Midfield,1991-11-28,19,Scotland,Portsmouth FC,Championship,2011/2012,2011
+Lewis Stockford,Central Midfield,1992-10-01,18,England,Portsmouth FC,Championship,2011/2012,2011
+Björn Helge Riise,Right Midfield,1983-06-21,28,Norway,Portsmouth FC,Championship,2011/2012,2011
+Ryan Williams,Right Midfield,1993-10-28,17,Australia,Portsmouth FC,Championship,2011/2012,2011
+Jed Wallace,Right Midfield,1993-12-15,17,England,Portsmouth FC,Championship,2011/2012,2011
+Liam Lawrence,Attacking Midfield,1981-12-14,29,Ireland,Portsmouth FC,Championship,2011/2012,2011
+Luke Varney,Left Winger,1982-09-28,28,England,Portsmouth FC,Championship,2011/2012,2011
+Erik Huseklepp,Left Winger,1984-09-05,26,Norway,Portsmouth FC,Championship,2011/2012,2011
+Luca Scapuzzi,Left Winger,1991-04-15,20,Italy,Portsmouth FC,Championship,2011/2012,2011
+Chris Maguire,Right Winger,1989-01-16,22,Scotland,Portsmouth FC,Championship,2011/2012,2011
+Benjani,Centre-Forward,1978-08-13,32,Zimbabwe,Portsmouth FC,Championship,2011/2012,2011
+Dave Kitson,Centre-Forward,1980-01-21,31,England,Portsmouth FC,Championship,2011/2012,2011
+Nwankwo Kanu,Centre-Forward,1976-08-01,34,Nigeria,Portsmouth FC,Championship,2011/2012,2011
+Márkó Futács,Centre-Forward,1990-02-22,21,Hungary,Portsmouth FC,Championship,2011/2012,2011
+Ashley Harris,Centre-Forward,1993-12-09,17,England,Portsmouth FC,Championship,2011/2012,2011
+Vito Mannone,Goalkeeper,1988-03-02,23,Italy,Hull City,Championship,2011/2012,2011
+Trevor Carson,Goalkeeper,1988-03-05,23,Northern Ireland,Hull City,Championship,2011/2012,2011
+Mark Oxley,Goalkeeper,1990-06-02,21,England,Hull City,Championship,2011/2012,2011
+Adriano Basso,Goalkeeper,1975-04-18,36,Brazil,Hull City,Championship,2011/2012,2011
+Péter Gulácsi,Goalkeeper,1990-05-06,21,Hungary,Hull City,Championship,2011/2012,2011
+Rob Peet,Goalkeeper,1992-10-11,18,England,Hull City,Championship,2011/2012,2011
+Joe Cracknell,Goalkeeper,1994-06-05,17,England,Hull City,Championship,2011/2012,2011
+Paul McShane,Centre-Back,1986-01-06,25,Ireland,Hull City,Championship,2011/2012,2011
+Jack Hobbs,Centre-Back,1988-08-18,22,England,Hull City,Championship,2011/2012,2011
+James Chester,Centre-Back,1989-01-23,22,Wales,Hull City,Championship,2011/2012,2011
+Liam Cooper,Centre-Back,1991-08-03,19,Scotland,Hull City,Championship,2011/2012,2011
+Sonny Bradley,Centre-Back,1991-09-13,19,England,Hull City,Championship,2011/2012,2011
+Andy Dawson,Left-Back,1978-10-20,32,England,Hull City,Championship,2011/2012,2011
+Joe Dudgeon,Left-Back,1990-11-26,20,Northern Ireland,Hull City,Championship,2011/2012,2011
+Liam Rosenior,Right-Back,1984-07-09,26,England,Hull City,Championship,2011/2012,2011
+Danny East,Right-Back,1991-12-26,19,England,Hull City,Championship,2011/2012,2011
+James Harper,Central Midfield,1980-11-09,30,England,Hull City,Championship,2011/2012,2011
+Seyi Olofinjana,Central Midfield,1980-06-30,31,Nigeria,Hull City,Championship,2011/2012,2011
+Paul McKenna,Central Midfield,1977-10-20,33,England,Hull City,Championship,2011/2012,2011
+Tom Cairney,Central Midfield,1991-01-20,20,Scotland,Hull City,Championship,2011/2012,2011
+Will Atkinson,Central Midfield,1988-10-14,22,England,Hull City,Championship,2011/2012,2011
+Corry Evans,Central Midfield,1990-07-30,20,Northern Ireland,Hull City,Championship,2011/2012,2011
+Gavan Holohan,Central Midfield,1991-12-15,19,Ireland,Hull City,Championship,2011/2012,2011
+Kevin Kilbane,Left Midfield,1977-02-01,34,Ireland,Hull City,Championship,2011/2012,2011
+Nick Barmby,Left Midfield,1974-02-11,37,England,Hull City,Championship,2011/2012,2011
+Robbie Brady,Left Midfield,1992-01-14,19,Ireland,Hull City,Championship,2011/2012,2011
+Robert Koren,Attacking Midfield,1980-09-20,30,Slovenia,Hull City,Championship,2011/2012,2011
+Jamie Devitt,Attacking Midfield,1990-07-06,20,Ireland,Hull City,Championship,2011/2012,2011
+Cameron Stewart,Left Winger,1991-04-08,20,England,Hull City,Championship,2011/2012,2011
+Danny Emerton,Right Winger,1992-10-12,18,England,Hull City,Championship,2011/2012,2011
+Richard García,Second Striker,1981-09-04,29,Australia,Hull City,Championship,2011/2012,2011
+Joshua King,Second Striker,1992-01-15,19,Norway,Hull City,Championship,2011/2012,2011
+Matty Fryatt,Centre-Forward,1986-03-05,25,England,Hull City,Championship,2011/2012,2011
+Aaron McLean,Centre-Forward,1983-05-25,28,England,Hull City,Championship,2011/2012,2011
+Jay Simpson,Centre-Forward,1988-12-01,22,England,Hull City,Championship,2011/2012,2011
+Martyn Waghorn,Centre-Forward,1990-01-23,21,England,Hull City,Championship,2011/2012,2011
+Dele Adebola,Centre-Forward,1975-06-23,36,Nigeria,Hull City,Championship,2011/2012,2011
+Martin Pusic,Centre-Forward,1987-10-24,23,Austria,Hull City,Championship,2011/2012,2011
+Mark Cullen,Centre-Forward,1992-04-21,19,England,Hull City,Championship,2011/2012,2011
+Adam Federici,Goalkeeper,1985-01-31,26,Australia,Reading FC,Championship,2011/2012,2011
+Mikkel Andersen,Goalkeeper,1988-12-17,22,Denmark,Reading FC,Championship,2011/2012,2011
+Alex McCarthy,Goalkeeper,1989-12-03,21,England,Reading FC,Championship,2011/2012,2011
+Simon Locke,Goalkeeper,1991-10-15,19,England,Reading FC,Championship,2011/2012,2011
+Alex Pearce,Centre-Back,1988-11-09,22,Ireland,Reading FC,Championship,2011/2012,2011
+Matthew Connolly,Centre-Back,1987-09-24,23,England,Reading FC,Championship,2011/2012,2011
+Kaspars Gorkss,Centre-Back,1981-11-06,29,Latvia,Reading FC,Championship,2011/2012,2011
+Bongani Khumalo,Centre-Back,1987-01-06,24,South Africa,Reading FC,Championship,2011/2012,2011
+Sean Morrison,Centre-Back,1991-01-08,20,England,Reading FC,Championship,2011/2012,2011
+Jack Mills,Centre-Back,1992-03-26,19,England,Reading FC,Championship,2011/2012,2011
+Michael Hector,Centre-Back,1992-07-19,18,Jamaica,Reading FC,Championship,2011/2012,2011
+Angus MacDonald,Centre-Back,1992-10-15,18,England,Reading FC,Championship,2011/2012,2011
+Ian Harte,Left-Back,1977-08-31,33,Ireland,Reading FC,Championship,2011/2012,2011
+Marcus Williams,Left-Back,1986-04-08,25,England,Reading FC,Championship,2011/2012,2011
+Joseph Mills,Left-Back,1989-10-30,21,England,Reading FC,Championship,2011/2012,2011
+Jordan Obita,Left-Back,1993-12-08,17,England,Reading FC,Championship,2011/2012,2011
+Andy Griffin,Right-Back,1979-03-17,32,England,Reading FC,Championship,2011/2012,2011
+Shaun Cummings,Right-Back,1989-02-25,22,Jamaica,Reading FC,Championship,2011/2012,2011
+Nick Arnold,Right-Back,1991-03-01,20,England,Reading FC,Championship,2011/2012,2011
+Hayden Mullins,Defensive Midfield,1979-03-27,32,England,Reading FC,Championship,2011/2012,2011
+Brynjar Gunnarsson,Defensive Midfield,1975-10-16,35,Iceland,Reading FC,Championship,2011/2012,2011
+Mikele Leigertwood,Defensive Midfield,1982-11-12,28,Antigua and Barbuda,Reading FC,Championship,2011/2012,2011
+Tomasz Cywka,Defensive Midfield,1988-06-27,23,Poland,Reading FC,Championship,2011/2012,2011
+Carl McHugh,Defensive Midfield,1993-02-05,18,Ireland,Reading FC,Championship,2011/2012,2011
+Jem Karacan,Central Midfield,1989-02-21,22,Turkey,Reading FC,Championship,2011/2012,2011
+Brian Howard,Central Midfield,1983-01-23,28,England,Reading FC,Championship,2011/2012,2011
+Ethan Gage,Central Midfield,1991-05-08,20,Canada,Reading FC,Championship,2011/2012,2011
+Frankie Raymond,Central Midfield,1992-11-18,18,England,Reading FC,Championship,2011/2012,2011
+Lawson D'Ath,Central Midfield,1992-12-24,18,England,Reading FC,Championship,2011/2012,2011
+Cameron Edwards,Central Midfield,1992-03-27,19,Australia,Reading FC,Championship,2011/2012,2011
+Jay Tabb,Left Midfield,1984-02-21,27,Ireland,Reading FC,Championship,2011/2012,2011
+Jake Taylor,Left Midfield,1991-12-01,19,Wales,Reading FC,Championship,2011/2012,2011
+Ryan Edwards,Attacking Midfield,1993-11-17,17,Australia,Reading FC,Championship,2011/2012,2011
+David Murphy,Forward,1993-04-18,18,Ireland,Reading FC,Championship,2011/2012,2011
+Jobi McAnuff,Left Winger,1981-11-09,29,Jamaica,Reading FC,Championship,2011/2012,2011
+Hal Robson-Kanu,Left Winger,1989-05-21,22,Wales,Reading FC,Championship,2011/2012,2011
+Charlie Losasso,Left Winger,1992-11-11,18,England,Reading FC,Championship,2011/2012,2011
+Jimmy Kébé,Right Winger,1984-01-19,27,Mali,Reading FC,Championship,2011/2012,2011
+Michail Antonio,Right Winger,1990-03-28,21,England,Reading FC,Championship,2011/2012,2011
+John Goddard,Right Winger,1993-06-02,18,England,Reading FC,Championship,2011/2012,2011
+Shane Long,Centre-Forward,1987-01-22,24,Ireland,Reading FC,Championship,2011/2012,2011
+Jason Roberts,Centre-Forward,1978-01-25,33,Grenada,Reading FC,Championship,2011/2012,2011
+Noel Hunt,Centre-Forward,1982-12-26,28,Ireland,Reading FC,Championship,2011/2012,2011
+Simon Church,Centre-Forward,1988-12-10,22,Wales,Reading FC,Championship,2011/2012,2011
+Benik Afobe,Centre-Forward,1993-02-12,18,DR Congo,Reading FC,Championship,2011/2012,2011
+Adam Le Fondre,Centre-Forward,1986-12-02,24,England,Reading FC,Championship,2011/2012,2011
+Cédric Baseya,Centre-Forward,1987-12-19,23,DR Congo,Reading FC,Championship,2011/2012,2011
+Mathieu Manset,Centre-Forward,1989-08-05,21,France,Reading FC,Championship,2011/2012,2011
+Nicholas Bignall,Centre-Forward,1990-07-11,20,England,Reading FC,Championship,2011/2012,2011
+Jacob Walcott,Centre-Forward,1992-06-29,19,England,Reading FC,Championship,2011/2012,2011
+Karl Sheppard,Centre-Forward,1991-02-14,20,Ireland,Reading FC,Championship,2011/2012,2011
+Brett Williams,Centre-Forward,1987-12-01,23,England,Reading FC,Championship,2011/2012,2011
+Gozie Ugwu,Centre-Forward,1993-04-22,18,England,Reading FC,Championship,2011/2012,2011
+Julián Speroni,Goalkeeper,1979-05-18,32,Argentina,Crystal Palace,Championship,2011/2012,2011
+Lewis Price,Goalkeeper,1984-07-19,26,Wales,Crystal Palace,Championship,2011/2012,2011
+Ross Fitzsimons,Goalkeeper,1994-05-28,17,England,Crystal Palace,Championship,2011/2012,2011
+Paul McShane,Centre-Back,1986-01-06,25,Ireland,Crystal Palace,Championship,2011/2012,2011
+Anthony Gardner,Centre-Back,1981-08-18,29,England,Crystal Palace,Championship,2011/2012,2011
+Patrick McCarthy,Centre-Back,1983-05-31,28,Ireland,Crystal Palace,Championship,2011/2012,2011
+Dekel Keinan,Centre-Back,1984-09-15,26,Israel,Crystal Palace,Championship,2011/2012,2011
+Peter Ramage,Centre-Back,1983-11-22,27,England,Crystal Palace,Championship,2011/2012,2011
+Andrew Davies,Centre-Back,1984-12-17,26,England,Crystal Palace,Championship,2011/2012,2011
+Aleksandar Tunchev,Centre-Back,1981-07-10,29,Bulgaria,Crystal Palace,Championship,2011/2012,2011
+Alex Wynter,Centre-Back,1993-09-16,17,England,Crystal Palace,Championship,2011/2012,2011
+Jack Holland,Centre-Back,1992-03-01,19,England,Crystal Palace,Championship,2011/2012,2011
+John Egan,Centre-Back,1992-10-20,18,Ireland,Crystal Palace,Championship,2011/2012,2011
+Ryan Inniss,Centre-Back,1995-06-05,16,England,Crystal Palace,Championship,2011/2012,2011
+Jonathan Parr,Left-Back,1988-10-21,22,Norway,Crystal Palace,Championship,2011/2012,2011
+Lee Hills,Left-Back,1990-04-03,21,England,Crystal Palace,Championship,2011/2012,2011
+Dean Moxey,Left-Back,1986-01-14,25,England,Crystal Palace,Championship,2011/2012,2011
+Ryan McGivern,Left-Back,1990-01-08,21,Northern Ireland,Crystal Palace,Championship,2011/2012,2011
+Matt Parsons,Left-Back,1991-12-25,19,England,Crystal Palace,Championship,2011/2012,2011
+Nathaniel Clyne,Right-Back,1991-04-05,20,England,Crystal Palace,Championship,2011/2012,2011
+Charlie Holness,Right-Back,1992-02-09,19,England,Crystal Palace,Championship,2011/2012,2011
+Mustapha Dumbuya,Right-Back,1987-08-07,23,Sierra Leone,Crystal Palace,Championship,2011/2012,2011
+Jake Caprice,Right-Back,1992-11-11,18,England,Crystal Palace,Championship,2011/2012,2011
+Mile Jedinak,Defensive Midfield,1984-08-03,26,Australia,Crystal Palace,Championship,2011/2012,2011
+Andy Dorman,Defensive Midfield,1982-05-01,29,Wales,Crystal Palace,Championship,2011/2012,2011
+David Wright,Defensive Midfield,1980-05-01,31,England,Crystal Palace,Championship,2011/2012,2011
+Kagisho Dikgacoi,Central Midfield,1984-11-24,26,South Africa,Crystal Palace,Championship,2011/2012,2011
+Owen Garvan,Central Midfield,1988-01-29,23,Ireland,Crystal Palace,Championship,2011/2012,2011
+Alex Marrow,Central Midfield,1990-01-21,21,England,Crystal Palace,Championship,2011/2012,2011
+Stuart O'Keefe,Central Midfield,1991-03-04,20,England,Crystal Palace,Championship,2011/2012,2011
+Kieron Cadogan,Right Midfield,1990-08-16,20,England,Crystal Palace,Championship,2011/2012,2011
+Darren Ambrose,Left Midfield,1984-02-29,27,England,Crystal Palace,Championship,2011/2012,2011
+Kadell Daniel,Left Midfield,1994-06-03,17,Guyana,Crystal Palace,Championship,2011/2012,2011
+Jonathan Williams,Attacking Midfield,1993-10-09,17,Wales,Crystal Palace,Championship,2011/2012,2011
+Kyle De Silva,Left Winger,1993-11-29,17,England,Crystal Palace,Championship,2011/2012,2011
+Sean Scannell,Right Winger,1990-09-17,20,Ireland,Crystal Palace,Championship,2011/2012,2011
+Wilfried Zaha,Right Winger,1992-11-10,18,Cote d'Ivoire,Crystal Palace,Championship,2011/2012,2011
+Steffen Iversen,Second Striker,1976-11-10,34,Norway,Crystal Palace,Championship,2011/2012,2011
+Antonio Pedroza,Centre-Forward,1991-02-20,20,Mexico,Crystal Palace,Championship,2011/2012,2011
+Glenn Murray,Centre-Forward,1983-09-25,27,England,Crystal Palace,Championship,2011/2012,2011
+Chris Martin,Centre-Forward,1988-11-04,22,Scotland,Crystal Palace,Championship,2011/2012,2011
+Calvin Andrew,Centre-Forward,1986-12-19,24,England,Crystal Palace,Championship,2011/2012,2011
+Jermaine Easter,Centre-Forward,1982-01-15,29,Wales,Crystal Palace,Championship,2011/2012,2011
+Nathaniel Pinney,Centre-Forward,1990-11-16,20,England,Crystal Palace,Championship,2011/2012,2011
+Ibra Sekajja,Centre-Forward,1992-10-31,18,England,Crystal Palace,Championship,2011/2012,2011
+Kwesi Appiah,Centre-Forward,1990-08-12,20,Ghana,Crystal Palace,Championship,2011/2012,2011
+Kelvin Davis,Goalkeeper,1976-09-29,34,England,Southampton FC,Championship,2011/2012,2011
+Bartosz Bialkowski,Goalkeeper,1987-07-06,23,Poland,Southampton FC,Championship,2011/2012,2011
+Tommy Forecast,Goalkeeper,1986-10-15,24,England,Southampton FC,Championship,2011/2012,2011
+Jack Dovey,Goalkeeper,1992-10-23,18,England,Southampton FC,Championship,2011/2012,2011
+Jos Hooiveld,Centre-Back,1983-04-22,28,Netherlands,Southampton FC,Championship,2011/2012,2011
+José Fonte,Centre-Back,1983-12-22,27,Portugal,Southampton FC,Championship,2011/2012,2011
+Radhi Jaidi,Centre-Back,1975-08-30,35,Tunisia,Southampton FC,Championship,2011/2012,2011
+Danny Seaborne,Centre-Back,1987-03-05,24,England,Southampton FC,Championship,2011/2012,2011
+Jack Stephens,Centre-Back,1994-01-27,17,England,Southampton FC,Championship,2011/2012,2011
+Aaron Martin,Centre-Back,1989-09-29,21,England,Southampton FC,Championship,2011/2012,2011
+Harlee Dean,Centre-Back,1991-07-26,19,England,Southampton FC,Championship,2011/2012,2011
+Danny Fox,Left-Back,1986-05-29,25,Scotland,Southampton FC,Championship,2011/2012,2011
+Dan Harding,Left-Back,1983-12-23,27,England,Southampton FC,Championship,2011/2012,2011
+Ryan Dickson,Left-Back,1986-12-14,24,England,Southampton FC,Championship,2011/2012,2011
+Luke Shaw,Left-Back,1995-07-12,15,England,Southampton FC,Championship,2011/2012,2011
+Danny Butterfield,Right-Back,1979-11-21,31,England,Southampton FC,Championship,2011/2012,2011
+Frazer Richardson,Right-Back,1982-10-29,28,England,Southampton FC,Championship,2011/2012,2011
+Morgan Schneiderlin,Defensive Midfield,1989-11-08,21,France,Southampton FC,Championship,2011/2012,2011
+Jack Cork,Defensive Midfield,1989-06-25,22,England,Southampton FC,Championship,2011/2012,2011
+Alex Oxlade-Chamberlain,Central Midfield,1993-08-15,17,England,Southampton FC,Championship,2011/2012,2011
+Richard Chaplow,Central Midfield,1985-02-02,26,England,Southampton FC,Championship,2011/2012,2011
+Dean Hammond,Central Midfield,1983-03-07,28,England,Southampton FC,Championship,2011/2012,2011
+James Ward-Prowse,Central Midfield,1994-11-01,16,England,Southampton FC,Championship,2011/2012,2011
+Corby Moore,Central Midfield,1993-11-21,17,England,Southampton FC,Championship,2011/2012,2011
+Guly,Attacking Midfield,1981-12-31,29,Brazil,Southampton FC,Championship,2011/2012,2011
+Adam Lallana,Attacking Midfield,1988-05-10,23,England,Southampton FC,Championship,2011/2012,2011
+Jason Puncheon,Attacking Midfield,1986-06-26,25,England,Southampton FC,Championship,2011/2012,2011
+Ben Reeves,Attacking Midfield,1991-11-19,19,Northern Ireland,Southampton FC,Championship,2011/2012,2011
+Steve De Ridder,Left Winger,1987-02-25,24,Belgium,Southampton FC,Championship,2011/2012,2011
+Lee Holmes,Left Winger,1987-04-02,24,England,Southampton FC,Championship,2011/2012,2011
+Iago Falque,Right Winger,1990-01-04,21,Spain,Southampton FC,Championship,2011/2012,2011
+Sam Hoskins,Second Striker,1993-02-04,18,England,Southampton FC,Championship,2011/2012,2011
+Rickie Lambert,Centre-Forward,1982-02-16,29,England,Southampton FC,Championship,2011/2012,2011
+Billy Sharp,Centre-Forward,1986-02-05,25,England,Southampton FC,Championship,2011/2012,2011
+Tadanari Lee,Centre-Forward,1985-12-19,25,Japan,Southampton FC,Championship,2011/2012,2011
+Lee Barnard,Centre-Forward,1984-07-18,26,England,Southampton FC,Championship,2011/2012,2011
+Jonathan Forte,Centre-Forward,1986-07-25,24,Barbados,Southampton FC,Championship,2011/2012,2011
+David Connolly,Centre-Forward,1977-06-06,34,Ireland,Southampton FC,Championship,2011/2012,2011
+Ryan Doble,Centre-Forward,1991-02-01,20,Wales,Southampton FC,Championship,2011/2012,2011
+Tomasz Kuszczak,Goalkeeper,1982-03-20,29,Poland,Watford FC,Championship,2011/2012,2011
+Scott Loach,Goalkeeper,1988-05-27,23,England,Watford FC,Championship,2011/2012,2011
+Rene Gilmartin,Goalkeeper,1987-05-31,24,Ireland,Watford FC,Championship,2011/2012,2011
+Jonathan Bond,Goalkeeper,1993-05-19,18,England,Watford FC,Championship,2011/2012,2011
+Jack Bonham,Goalkeeper,1993-09-14,17,Ireland,Watford FC,Championship,2011/2012,2011
+Nyron Nosworthy,Centre-Back,1980-10-11,30,Jamaica,Watford FC,Championship,2011/2012,2011
+Adrian Mariappa,Centre-Back,1986-10-03,24,Jamaica,Watford FC,Championship,2011/2012,2011
+Lloyd Doyley,Centre-Back,1982-12-01,28,Jamaica,Watford FC,Championship,2011/2012,2011
+Martin Taylor,Centre-Back,1979-11-09,31,England,Watford FC,Championship,2011/2012,2011
+David Mirfin,Centre-Back,1985-04-18,26,England,Watford FC,Championship,2011/2012,2011
+Eddie Oshodi,Centre-Back,1992-01-14,19,England,Watford FC,Championship,2011/2012,2011
+Adam Thompson,Centre-Back,1992-09-28,18,Northern Ireland,Watford FC,Championship,2011/2012,2011
+Carl Dickinson,Left-Back,1987-03-31,24,England,Watford FC,Championship,2011/2012,2011
+Craig Forsyth,Left-Back,1989-02-24,22,Scotland,Watford FC,Championship,2011/2012,2011
+Tom James,Left-Back,1988-11-19,22,England,Watford FC,Championship,2011/2012,2011
+Lee Hodson,Right-Back,1991-10-02,19,Northern Ireland,Watford FC,Championship,2011/2012,2011
+Dale Bennett,Right-Back,1990-01-06,21,England,Watford FC,Championship,2011/2012,2011
+John Eustace,Defensive Midfield,1979-11-03,31,England,Watford FC,Championship,2011/2012,2011
+Ross Jenkins,Defensive Midfield,1990-11-09,20,England,Watford FC,Championship,2011/2012,2011
+Prince Buaben,Central Midfield,1988-04-23,23,Ghana,Watford FC,Championship,2011/2012,2011
+Josh Walker,Central Midfield,1989-02-21,22,England,Watford FC,Championship,2011/2012,2011
+Stephen McGinn,Central Midfield,1988-12-02,22,Scotland,Watford FC,Championship,2011/2012,2011
+Jonathan Hogg,Central Midfield,1988-12-06,22,England,Watford FC,Championship,2011/2012,2011
+Matt Whichelow,Central Midfield,1991-09-28,19,England,Watford FC,Championship,2011/2012,2011
+Connor Smith,Central Midfield,1993-02-18,18,Ireland,Watford FC,Championship,2011/2012,2011
+Sean Murray,Central Midfield,1993-10-11,17,Ireland,Watford FC,Championship,2011/2012,2011
+Chez Isaac,Central Midfield,1992-11-16,18,England,Watford FC,Championship,2011/2012,2011
+Piero Mingoia,Right Midfield,1991-10-20,19,England,Watford FC,Championship,2011/2012,2011
+Alexander Kacaniklic,Left Midfield,1991-08-13,19,Sweden,Watford FC,Championship,2011/2012,2011
+Michael Kightly,Left Winger,1986-01-24,25,England,Watford FC,Championship,2011/2012,2011
+Mark Yeates,Left Winger,1985-01-11,26,Ireland,Watford FC,Championship,2011/2012,2011
+Michael Bryan,Right Winger,1990-02-21,21,Northern Ireland,Watford FC,Championship,2011/2012,2011
+Gavin Massey,Right Winger,1992-10-14,18,England,Watford FC,Championship,2011/2012,2011
+Andreas Weimann,Right Winger,1991-08-05,19,Austria,Watford FC,Championship,2011/2012,2011
+Chris Iwelumo,Centre-Forward,1978-08-01,32,Scotland,Watford FC,Championship,2011/2012,2011
+Craig Beattie,Centre-Forward,1984-01-16,27,Scotland,Watford FC,Championship,2011/2012,2011
+Joe Garner,Centre-Forward,1988-04-12,23,England,Watford FC,Championship,2011/2012,2011
+Troy Deeney,Centre-Forward,1988-06-29,23,England,Watford FC,Championship,2011/2012,2011
+Marvin Sordell,Centre-Forward,1991-02-17,20,England,Watford FC,Championship,2011/2012,2011
+Marcello Trotta,Centre-Forward,1992-09-29,18,Italy,Watford FC,Championship,2011/2012,2011
+Britt Assombalonga,Centre-Forward,1992-12-06,18,DR Congo,Watford FC,Championship,2011/2012,2011
+Steve Harper,Goalkeeper,1975-03-14,36,England,Brighton & Hove Albion,Championship,2011/2012,2011
+Casper Ankergren,Goalkeeper,1979-11-09,31,Denmark,Brighton & Hove Albion,Championship,2011/2012,2011
+Peter Brezovan,Goalkeeper,1979-12-09,31,Slovakia,Brighton & Hove Albion,Championship,2011/2012,2011
+Michael Poke,Goalkeeper,1985-11-21,25,England,Brighton & Hove Albion,Championship,2011/2012,2011
+David González,Goalkeeper,1982-07-20,28,Colombia,Brighton & Hove Albion,Championship,2011/2012,2011
+Daniel East,Goalkeeper,1993-03-18,18,England,Brighton & Hove Albion,Championship,2011/2012,2011
+Gonzalo Jara,Centre-Back,1985-08-29,25,Chile,Brighton & Hove Albion,Championship,2011/2012,2011
+Gordon Greer,Centre-Back,1980-12-14,30,Scotland,Brighton & Hove Albion,Championship,2011/2012,2011
+Adam El-Abd,Centre-Back,1984-09-11,26,Egypt,Brighton & Hove Albion,Championship,2011/2012,2011
+Tommy Elphick,Centre-Back,1987-09-07,23,England,Brighton & Hove Albion,Championship,2011/2012,2011
+Lewis Dunk,Centre-Back,1991-11-21,19,England,Brighton & Hove Albion,Championship,2011/2012,2011
+Steve Cook,Centre-Back,1991-04-19,20,England,Brighton & Hove Albion,Championship,2011/2012,2011
+Grant Hall,Centre-Back,1991-10-29,19,England,Brighton & Hove Albion,Championship,2011/2012,2011
+Joe Mattock,Left-Back,1990-05-15,21,England,Brighton & Hove Albion,Championship,2011/2012,2011
+Marcos Painter,Left-Back,1986-08-17,24,England,Brighton & Hove Albion,Championship,2011/2012,2011
+Mauricio Taricco,Left-Back,1973-03-10,38,Argentina,Brighton & Hove Albion,Championship,2011/2012,2011
+Ben Sampayo,Left-Back,1992-12-10,18,England,Brighton & Hove Albion,Championship,2011/2012,2011
+Iñigo Calderón,Right-Back,1982-01-04,29,Spain,Brighton & Hove Albion,Championship,2011/2012,2011
+Romain Vincelot,Defensive Midfield,1985-10-29,25,France,Brighton & Hove Albion,Championship,2011/2012,2011
+Liam Bridcutt,Defensive Midfield,1989-05-08,22,Scotland,Brighton & Hove Albion,Championship,2011/2012,2011
+Alan Navarro,Defensive Midfield,1981-05-31,30,England,Brighton & Hove Albion,Championship,2011/2012,2011
+Matt Sparrow,Central Midfield,1981-10-03,29,England,Brighton & Hove Albion,Championship,2011/2012,2011
+Ryan Harley,Central Midfield,1985-01-22,26,England,Brighton & Hove Albion,Championship,2011/2012,2011
+Gary Dicker,Central Midfield,1986-07-31,24,Ireland,Brighton & Hove Albion,Championship,2011/2012,2011
+Jamie Smith,Central Midfield,1989-09-12,21,England,Brighton & Hove Albion,Championship,2011/2012,2011
+Jake Forster-Caskey,Central Midfield,1994-04-25,17,England,Brighton & Hove Albion,Championship,2011/2012,2011
+Abdul Razak,Central Midfield,1992-11-11,18,Cote d'Ivoire,Brighton & Hove Albion,Championship,2011/2012,2011
+Yaser Kasim,Central Midfield,1991-05-10,20,Iraq,Brighton & Hove Albion,Championship,2011/2012,2011
+Anton Rodgers,Central Midfield,1993-01-26,18,Ireland,Brighton & Hove Albion,Championship,2011/2012,2011
+Vicente,Left Winger,1981-07-16,29,Spain,Brighton & Hove Albion,Championship,2011/2012,2011
+Kazenga LuaLua,Left Winger,1990-12-10,20,DR Congo,Brighton & Hove Albion,Championship,2011/2012,2011
+Gai Assulin,Left Winger,1991-04-09,20,Israel,Brighton & Hove Albion,Championship,2011/2012,2011
+Craig Noone,Right Winger,1987-11-17,23,England,Brighton & Hove Albion,Championship,2011/2012,2011
+Will Buckley,Right Winger,1989-11-21,21,England,Brighton & Hove Albion,Championship,2011/2012,2011
+Craig Mackail-Smith,Centre-Forward,1984-02-25,27,Scotland,Brighton & Hove Albion,Championship,2011/2012,2011
+Will Hoskins,Centre-Forward,1986-05-06,25,England,Brighton & Hove Albion,Championship,2011/2012,2011
+Sam Vokes,Centre-Forward,1989-10-21,21,Wales,Brighton & Hove Albion,Championship,2011/2012,2011
+Billy Paynter,Centre-Forward,1984-07-13,26,England,Brighton & Hove Albion,Championship,2011/2012,2011
+Roland Bergkamp,Centre-Forward,1991-04-03,20,Netherlands,Brighton & Hove Albion,Championship,2011/2012,2011
+Ashley Barnes,Centre-Forward,1989-10-30,21,England,Brighton & Hove Albion,Championship,2011/2012,2011
+Torbjörn Agdestein,Centre-Forward,1991-09-18,19,Norway,Brighton & Hove Albion,Championship,2011/2012,2011
+George Barker,Centre-Forward,1991-09-26,19,England,Brighton & Hove Albion,Championship,2011/2012,2011
+Luke Steele,Goalkeeper,1984-09-24,26,England,Barnsley FC,Championship,2011/2012,2011
+David Button,Goalkeeper,1989-02-27,22,England,Barnsley FC,Championship,2011/2012,2011
+David Preece,Goalkeeper,1976-08-26,34,England,Barnsley FC,Championship,2011/2012,2011
+Lukas Lidakevicius,Goalkeeper,1993-04-29,18,Lithuania,Barnsley FC,Championship,2011/2012,2011
+Rob Edwards,Centre-Back,1982-12-25,28,Wales,Barnsley FC,Championship,2011/2012,2011
+Stephen Foster,Centre-Back,1980-09-18,30,England,Barnsley FC,Championship,2011/2012,2011
+Jay McEveley,Centre-Back,1985-02-11,26,Scotland,Barnsley FC,Championship,2011/2012,2011
+Miles Addison,Centre-Back,1989-01-07,22,England,Barnsley FC,Championship,2011/2012,2011
+Jim McNulty,Centre-Back,1985-02-13,26,Scotland,Barnsley FC,Championship,2011/2012,2011
+Lee Collins,Centre-Back,1988-09-28,22,England,Barnsley FC,Championship,2011/2012,2011
+Kern Miller,Centre-Back,1991-09-02,19,England,Barnsley FC,Championship,2011/2012,2011
+John Stones,Centre-Back,1994-05-28,17,England,Barnsley FC,Championship,2011/2012,2011
+Scott Golbourne,Left-Back,1988-02-29,23,England,Barnsley FC,Championship,2011/2012,2011
+Luke Potter,Left-Back,1989-07-17,21,England,Barnsley FC,Championship,2011/2012,2011
+Bobby Hassell,Right-Back,1980-06-04,31,England,Barnsley FC,Championship,2011/2012,2011
+Scott Wiseman,Right-Back,1985-10-09,25,Gibraltar,Barnsley FC,Championship,2011/2012,2011
+Nathan Doyle,Defensive Midfield,1987-01-12,24,England,Barnsley FC,Championship,2011/2012,2011
+David Perkins,Defensive Midfield,1982-06-21,29,England,Barnsley FC,Championship,2011/2012,2011
+Korey Smith,Defensive Midfield,1991-01-31,20,England,Barnsley FC,Championship,2011/2012,2011
+Paul Digby,Defensive Midfield,1995-02-02,16,England,Barnsley FC,Championship,2011/2012,2011
+Goran Lovre,Central Midfield,1982-03-23,29,Serbia,Barnsley FC,Championship,2011/2012,2011
+Jim O'Brien,Central Midfield,1987-09-28,23,Scotland,Barnsley FC,Championship,2011/2012,2011
+Danny Drinkwater,Central Midfield,1990-03-05,21,England,Barnsley FC,Championship,2011/2012,2011
+Michael Tonge,Central Midfield,1983-04-07,28,England,Barnsley FC,Championship,2011/2012,2011
+Jacob Butterfield,Central Midfield,1990-06-10,21,England,Barnsley FC,Championship,2011/2012,2011
+Stephen Dawson,Central Midfield,1985-12-04,25,Ireland,Barnsley FC,Championship,2011/2012,2011
+Kallum Higginbotham,Right Midfield,1989-06-15,22,England,Barnsley FC,Championship,2011/2012,2011
+Matt Done,Left Midfield,1988-07-22,22,England,Barnsley FC,Championship,2011/2012,2011
+Cameron Park,Left Midfield,1992-07-06,18,Scotland,Barnsley FC,Championship,2011/2012,2011
+Reuben Noble-Lazarus,Left Winger,1993-08-16,17,England,Barnsley FC,Championship,2011/2012,2011
+David Cotterill,Right Winger,1987-12-04,23,Wales,Barnsley FC,Championship,2011/2012,2011
+Ricardo Vaz Tê,Right Winger,1986-10-01,24,Portugal,Barnsley FC,Championship,2011/2012,2011
+Alastair Taylor,Right Winger,1991-09-13,19,England,Barnsley FC,Championship,2011/2012,2011
+Jordan Clark,Right Winger,1993-09-22,17,England,Barnsley FC,Championship,2011/2012,2011
+Danny Rose,Second Striker,1993-12-10,17,England,Barnsley FC,Championship,2011/2012,2011
+Nile Ranger,Centre-Forward,1991-04-11,20,England,Barnsley FC,Championship,2011/2012,2011
+Frank Nouble,Centre-Forward,1991-09-24,19,England,Barnsley FC,Championship,2011/2012,2011
+Andy Gray,Centre-Forward,1977-11-15,33,Scotland,Barnsley FC,Championship,2011/2012,2011
+Danny Haynes,Centre-Forward,1988-01-19,23,England,Barnsley FC,Championship,2011/2012,2011
+Craig Davies,Centre-Forward,1986-01-09,25,Wales,Barnsley FC,Championship,2011/2012,2011
+Chris Dagnall,Centre-Forward,1986-04-15,25,England,Barnsley FC,Championship,2011/2012,2011
+David Forde,Goalkeeper,1979-12-20,31,Ireland,Millwall FC,Championship,2011/2012,2011
+Steve Mildenhall,Goalkeeper,1978-05-13,33,England,Millwall FC,Championship,2011/2012,2011
+Ryan Allsop,Goalkeeper,1992-06-17,19,England,Millwall FC,Championship,2011/2012,2011
+Maik Taylor,Goalkeeper,1971-09-04,39,Northern Ireland,Millwall FC,Championship,2011/2012,2011
+Darren Purse,Centre-Back,1977-02-14,34,England,Millwall FC,Championship,2011/2012,2011
+Darren Ward,Centre-Back,1978-09-13,32,England,Millwall FC,Championship,2011/2012,2011
+Tony Craig,Centre-Back,1985-04-20,26,England,Millwall FC,Championship,2011/2012,2011
+Paul Robinson,Centre-Back,1982-01-07,29,England,Millwall FC,Championship,2011/2012,2011
+Tamika Mkandawire,Centre-Back,1983-05-28,28,England,Millwall FC,Championship,2011/2012,2011
+Nathan Baker,Centre-Back,1991-04-23,20,England,Millwall FC,Championship,2011/2012,2011
+Shane Lowry,Centre-Back,1989-06-12,22,Australia,Millwall FC,Championship,2011/2012,2011
+Jake Goodman,Centre-Back,1993-08-05,17,England,Millwall FC,Championship,2011/2012,2011
+Jordan Stewart,Left-Back,1982-03-03,29,England,Millwall FC,Championship,2011/2012,2011
+Lennard Sowah,Left-Back,1992-08-23,18,Germany,Millwall FC,Championship,2011/2012,2011
+Scott Barron,Left-Back,1985-09-02,25,England,Millwall FC,Championship,2011/2012,2011
+Alan Dunne,Right-Back,1982-08-23,28,Ireland,Millwall FC,Championship,2011/2012,2011
+Jack Smith,Right-Back,1983-10-14,27,England,Millwall FC,Championship,2011/2012,2011
+Connor McLaren,Right-Back,1992-11-19,18,England,Millwall FC,Championship,2011/2012,2011
+Nick Montgomery,Defensive Midfield,1981-10-28,29,Scotland,Millwall FC,Championship,2011/2012,2011
+Thierry Racon,Defensive Midfield,1984-05-01,27,Guadeloupe,Millwall FC,Championship,2011/2012,2011
+Brian Howard,Central Midfield,1983-01-23,28,England,Millwall FC,Championship,2011/2012,2011
+Nadjim Abdou,Central Midfield,1984-07-13,26,Comoros,Millwall FC,Championship,2011/2012,2011
+Liam Trotter,Central Midfield,1988-08-24,22,England,Millwall FC,Championship,2011/2012,2011
+Josh Wright,Central Midfield,1989-11-06,21,England,Millwall FC,Championship,2011/2012,2011
+Ryan Mason,Central Midfield,1991-06-13,20,England,Millwall FC,Championship,2011/2012,2011
+Chris Hackett,Right Midfield,1983-03-01,28,England,Millwall FC,Championship,2011/2012,2011
+Aiden O'Brien,Left Winger,1993-10-04,17,Ireland,Millwall FC,Championship,2011/2012,2011
+Hameur Bouazza,Right Winger,1985-02-22,26,Algeria,Millwall FC,Championship,2011/2012,2011
+James Henry,Right Winger,1989-06-10,22,England,Millwall FC,Championship,2011/2012,2011
+Liam Feeney,Right Winger,1987-01-21,24,England,Millwall FC,Championship,2011/2012,2011
+Andy Keogh,Centre-Forward,1986-05-16,25,Ireland,Millwall FC,Championship,2011/2012,2011
+Darius Henderson,Centre-Forward,1981-09-07,29,England,Millwall FC,Championship,2011/2012,2011
+Patrick Agyemang,Centre-Forward,1980-09-20,30,Ghana,Millwall FC,Championship,2011/2012,2011
+Jay Simpson,Centre-Forward,1988-12-01,22,England,Millwall FC,Championship,2011/2012,2011
+Dany N'Guessan,Centre-Forward,1987-08-11,23,France,Millwall FC,Championship,2011/2012,2011
+Josh McQuoid,Centre-Forward,1989-12-15,21,Northern Ireland,Millwall FC,Championship,2011/2012,2011
+Shaun Batt,Centre-Forward,1987-02-22,24,England,Millwall FC,Championship,2011/2012,2011
+John Marquis,Centre-Forward,1992-05-16,19,England,Millwall FC,Championship,2011/2012,2011
+Tobi Alabi,Centre-Forward,1993-11-05,17,England,Millwall FC,Championship,2011/2012,2011
+Harry Kane,Centre-Forward,1993-07-28,17,England,Millwall FC,Championship,2011/2012,2011
+Frank Fielding,Goalkeeper,1988-04-04,23,England,Derby County,Championship,2011/2012,2011
+Saul Deeney,Goalkeeper,1983-03-23,28,Ireland,Derby County,Championship,2011/2012,2011
+Adam Legzdins,Goalkeeper,1986-11-28,24,England,Derby County,Championship,2011/2012,2011
+Ross Atkins,Goalkeeper,1989-11-03,21,England,Derby County,Championship,2011/2012,2011
+James Severn,Goalkeeper,1991-10-10,19,England,Derby County,Championship,2011/2012,2011
+Shaun Barker,Centre-Back,1982-09-19,28,England,Derby County,Championship,2011/2012,2011
+Jason Shackell,Centre-Back,1983-09-27,27,England,Derby County,Championship,2011/2012,2011
+Russell Anderson,Centre-Back,1978-10-25,32,Scotland,Derby County,Championship,2011/2012,2011
+Chris Riggott,Centre-Back,1980-09-01,30,England,Derby County,Championship,2011/2012,2011
+Miles Addison,Centre-Back,1989-01-07,22,England,Derby County,Championship,2011/2012,2011
+Mark O'Brien,Centre-Back,1992-11-20,18,Ireland,Derby County,Championship,2011/2012,2011
+Jake Buxton,Centre-Back,1985-03-04,26,England,Derby County,Championship,2011/2012,2011
+Chris Jones,Centre-Back,1992-11-24,18,England,Derby County,Championship,2011/2012,2011
+Josh Lelan,Centre-Back,1994-12-21,16,Kenya,Derby County,Championship,2011/2012,2011
+Gareth Roberts,Left-Back,1978-02-06,33,Wales,Derby County,Championship,2011/2012,2011
+John Brayford,Right-Back,1987-12-29,23,England,Derby County,Championship,2011/2012,2011
+Ben Davies,Right-Back,1981-05-27,30,England,Derby County,Championship,2011/2012,2011
+James Bailey,Defensive Midfield,1988-09-18,22,England,Derby County,Championship,2011/2012,2011
+Tomasz Cywka,Defensive Midfield,1988-06-27,23,Poland,Derby County,Championship,2011/2012,2011
+Tom Naylor,Defensive Midfield,1991-06-28,20,England,Derby County,Championship,2011/2012,2011
+Stephen Pearson,Central Midfield,1982-10-02,28,Scotland,Derby County,Championship,2011/2012,2011
+Paul Green,Central Midfield,1983-04-10,28,Ireland,Derby County,Championship,2011/2012,2011
+Craig Bryson,Central Midfield,1986-11-06,24,Scotland,Derby County,Championship,2011/2012,2011
+Jeff Hendrick,Central Midfield,1992-01-31,19,Ireland,Derby County,Championship,2011/2012,2011
+Ryan Connolly,Central Midfield,1992-01-13,19,Ireland,Derby County,Championship,2011/2012,2011
+Tom Carroll,Central Midfield,1992-05-28,19,England,Derby County,Championship,2011/2012,2011
+Will Hughes,Central Midfield,1995-04-17,16,England,Derby County,Championship,2011/2012,2011
+Lee Croft,Right Midfield,1985-06-21,26,England,Derby County,Championship,2011/2012,2011
+Kevin Kilbane,Left Midfield,1977-02-01,34,Ireland,Derby County,Championship,2011/2012,2011
+Jamie Ward,Left Winger,1986-05-12,25,Northern Ireland,Derby County,Championship,2011/2012,2011
+Chris Maguire,Right Winger,1989-01-16,22,Scotland,Derby County,Championship,2011/2012,2011
+Mason Bennett,Second Striker,1996-07-15,14,England,Derby County,Championship,2011/2012,2011
+Nathan Tyson,Centre-Forward,1982-05-04,29,England,Derby County,Championship,2011/2012,2011
+Steve Davies,Centre-Forward,1987-12-29,23,England,Derby County,Championship,2011/2012,2011
+Tamás Priskin,Centre-Forward,1986-09-27,24,Hungary,Derby County,Championship,2011/2012,2011
+Theo Robinson,Centre-Forward,1989-01-22,22,Jamaica,Derby County,Championship,2011/2012,2011
+Ryan Noble,Centre-Forward,1991-06-11,20,England,Derby County,Championship,2011/2012,2011
+Conor Doyle,Centre-Forward,1991-10-13,19,Ireland,Derby County,Championship,2011/2012,2011
+Callum Ball,Centre-Forward,1992-10-08,18,England,Derby County,Championship,2011/2012,2011
+Kwame Thomas,Centre-Forward,1995-09-28,15,England,Derby County,Championship,2011/2012,2011
+Joe Murphy,Goalkeeper,1981-08-21,29,Ireland,Coventry City,Championship,2011/2012,2011
+Chris Dunn,Goalkeeper,1987-10-23,23,England,Coventry City,Championship,2011/2012,2011
+Danny Ireland,Goalkeeper,1990-09-30,20,Australia,Coventry City,Championship,2011/2012,2011
+Lee Burge,Goalkeeper,1993-01-09,18,England,Coventry City,Championship,2011/2012,2011
+Joe Henderson,Defender,1993-11-02,17,England,Coventry City,Championship,2011/2012,2011
+Hermann Hreidarsson,Centre-Back,1974-07-11,36,Iceland,Coventry City,Championship,2011/2012,2011
+Martin Cranie,Centre-Back,1986-09-26,24,England,Coventry City,Championship,2011/2012,2011
+Richard Wood,Centre-Back,1985-07-05,25,England,Coventry City,Championship,2011/2012,2011
+Richard Keogh,Centre-Back,1986-08-11,24,Ireland,Coventry City,Championship,2011/2012,2011
+James McPake,Centre-Back,1984-06-24,27,Northern Ireland,Coventry City,Championship,2011/2012,2011
+Ben Turner,Centre-Back,1988-08-21,22,England,Coventry City,Championship,2011/2012,2011
+Nathan Cameron,Centre-Back,1991-11-21,19,England,Coventry City,Championship,2011/2012,2011
+Jordan Willis,Centre-Back,1994-08-24,16,England,Coventry City,Championship,2011/2012,2011
+Chris Hussey,Left-Back,1989-01-02,22,England,Coventry City,Championship,2011/2012,2011
+Jordan Clarke,Right-Back,1991-11-19,19,England,Coventry City,Championship,2011/2012,2011
+Cyrus Christie,Right-Back,1992-09-30,18,Ireland,Coventry City,Championship,2011/2012,2011
+Conor Thomas,Defensive Midfield,1993-10-29,17,England,Coventry City,Championship,2011/2012,2011
+Josh Ruffels,Defensive Midfield,1993-10-23,17,England,Coventry City,Championship,2011/2012,2011
+Sammy Clingan,Central Midfield,1984-01-13,27,Northern Ireland,Coventry City,Championship,2011/2012,2011
+Gary Deegan,Central Midfield,1987-09-28,23,Ireland,Coventry City,Championship,2011/2012,2011
+Oliver Norwood,Central Midfield,1991-04-12,20,Northern Ireland,Coventry City,Championship,2011/2012,2011
+Gary Gardner,Central Midfield,1992-06-29,19,England,Coventry City,Championship,2011/2012,2011
+Gaël Bigirimana,Central Midfield,1993-10-22,17,Burundi,Coventry City,Championship,2011/2012,2011
+David Bell,Right Midfield,1984-01-21,27,Ireland,Coventry City,Championship,2011/2012,2011
+Carl Baker,Right Midfield,1982-12-26,28,England,Coventry City,Championship,2011/2012,2011
+Will Roberts,Attacking Midfield,1994-04-24,17,Wales,Coventry City,Championship,2011/2012,2011
+Gary McSheffrey,Left Winger,1982-08-13,28,England,Coventry City,Championship,2011/2012,2011
+Freddy Eastwood,Centre-Forward,1983-10-29,27,Wales,Coventry City,Championship,2011/2012,2011
+Lukas Jutkiewicz,Centre-Forward,1989-03-28,22,England,Coventry City,Championship,2011/2012,2011
+Roy O'Donovan,Centre-Forward,1985-08-10,25,Ireland,Coventry City,Championship,2011/2012,2011
+Clive Platt,Centre-Forward,1977-10-27,33,England,Coventry City,Championship,2011/2012,2011
+Cody McDonald,Centre-Forward,1986-05-30,25,England,Coventry City,Championship,2011/2012,2011
+Shaun Jeffers,Centre-Forward,1992-04-14,19,England,Coventry City,Championship,2011/2012,2011
+Callum Wilson,Centre-Forward,1992-02-27,19,England,Coventry City,Championship,2011/2012,2011
+Alex Nimely,Centre-Forward,1991-05-11,20,England,Coventry City,Championship,2011/2012,2011
+Joe Lewis,Goalkeeper,1987-10-06,23,England,Peterborough United,Championship,2011/2012,2011
+Paul Jones,Goalkeeper,1986-06-28,25,England,Peterborough United,Championship,2011/2012,2011
+Barry Richardson,Goalkeeper,1969-08-05,41,England,Peterborough United,Championship,2011/2012,2011
+Joe Day,Goalkeeper,1990-08-13,20,England,Peterborough United,Championship,2011/2012,2011
+Josh Thompson,Centre-Back,1991-02-25,20,England,Peterborough United,Championship,2011/2012,2011
+Gabriel Zakuani,Centre-Back,1986-05-31,25,DR Congo,Peterborough United,Championship,2011/2012,2011
+Ryan Bennett,Centre-Back,1990-03-06,21,England,Peterborough United,Championship,2011/2012,2011
+Kelvin Langmead,Centre-Back,1985-03-23,26,England,Peterborough United,Championship,2011/2012,2011
+Shaun Brisley,Centre-Back,1990-05-06,21,England,Peterborough United,Championship,2011/2012,2011
+Carl Piergianni,Centre-Back,1992-05-03,19,England,Peterborough United,Championship,2011/2012,2011
+Scott Wootton,Centre-Back,1991-09-12,19,England,Peterborough United,Championship,2011/2012,2011
+Peter Grant,Centre-Back,1994-03-11,17,Scotland,Peterborough United,Championship,2011/2012,2011
+Matthew Briggs,Left-Back,1991-03-06,20,Guyana,Peterborough United,Championship,2011/2012,2011
+Grant Basey,Left-Back,1988-11-30,22,Wales,Peterborough United,Championship,2011/2012,2011
+Ben Gordon,Left-Back,1991-03-02,20,England,Peterborough United,Championship,2011/2012,2011
+Scott Griffiths,Left-Back,1985-11-27,25,England,Peterborough United,Championship,2011/2012,2011
+Tom Kennedy,Left-Back,1985-06-24,26,England,Peterborough United,Championship,2011/2012,2011
+Nathan Ralph,Left-Back,1993-02-14,18,England,Peterborough United,Championship,2011/2012,2011
+Kgosi Ntlhe,Left-Back,1994-02-21,17,South Africa,Peterborough United,Championship,2011/2012,2011
+Mark Little,Right-Back,1988-08-20,22,England,Peterborough United,Championship,2011/2012,2011
+Craig Alcock,Right-Back,1987-12-08,23,England,Peterborough United,Championship,2011/2012,2011
+George Boyd,Midfielder,1985-10-02,25,Scotland,Peterborough United,Championship,2011/2012,2011
+Lee Frecklington,Central Midfield,1985-09-08,25,Ireland,Peterborough United,Championship,2011/2012,2011
+James Wesolowski,Central Midfield,1987-08-25,23,Australia,Peterborough United,Championship,2011/2012,2011
+Grant McCann,Central Midfield,1980-04-14,31,Northern Ireland,Peterborough United,Championship,2011/2012,2011
+Ryan Tunnicliffe,Central Midfield,1992-12-30,18,England,Peterborough United,Championship,2011/2012,2011
+Charlie Coulson,Central Midfield,1996-01-11,15,England,Peterborough United,Championship,2011/2012,2011
+Dan Lawler,Central Midfield,1994-09-10,16,England,Peterborough United,Championship,2011/2012,2011
+Danny Kearns,Right Midfield,1991-08-26,19,Ireland,Peterborough United,Championship,2011/2012,2011
+Tommy Rowe,Left Midfield,1988-09-24,22,England,Peterborough United,Championship,2011/2012,2011
+Joe Newell,Left Midfield,1993-03-15,18,England,Peterborough United,Championship,2011/2012,2011
+Lee Tomlin,Second Striker,1989-01-12,22,England,Peterborough United,Championship,2011/2012,2011
+Dave Hibbert,Centre-Forward,1986-01-28,25,England,Peterborough United,Championship,2011/2012,2011
+Paul Taylor,Centre-Forward,1987-10-04,23,England,Peterborough United,Championship,2011/2012,2011
+Emile Sinclair,Centre-Forward,1987-06-29,24,England,Peterborough United,Championship,2011/2012,2011
+David Ball,Centre-Forward,1989-12-14,21,England,Peterborough United,Championship,2011/2012,2011
+Tyrone Barnett,Centre-Forward,1985-10-28,25,England,Peterborough United,Championship,2011/2012,2011
+Nicky Ajose,Centre-Forward,1991-10-07,19,England,Peterborough United,Championship,2011/2012,2011
+Jaanai Gordon,Centre-Forward,1995-12-08,15,England,Peterborough United,Championship,2011/2012,2011
