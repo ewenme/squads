@@ -73,7 +73,7 @@ scrape_club_squad <- function(club_url) {
     
   } else {
     
-    player_data <- player_data[, c("current_club", "market_value")]
+    player_data <- player_data[, c("nat", "current_club", "market_value")]
     
   }
   

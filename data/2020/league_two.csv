@@ -1,0 +1,651 @@
+player_name,position,date_of_birth,age,nationality,club_name,league_name,season,year
+George Long,Goalkeeper,1993-11-05,27,England,Hull City,League One,2020/2021,2020
+Matt Ingram,Goalkeeper,1993-12-18,26,England,Hull City,League One,2020/2021,2020
+Harvey Cartwright,Goalkeeper,2002-05-09,18,England,Hull City,League One,2020/2021,2020
+Reece Burke,Centre-Back,1996-09-02,24,England,Hull City,League One,2020/2021,2020
+Jordy de Wijs,Centre-Back,1995-01-08,25,Netherlands,Hull City,League One,2020/2021,2020
+Alfie Jones,Centre-Back,1997-10-07,23,England,Hull City,League One,2020/2021,2020
+Sean McLoughlin,Centre-Back,1996-11-13,23,Ireland,Hull City,League One,2020/2021,2020
+Jacob Greaves,Centre-Back,2000-09-12,20,England,Hull City,League One,2020/2021,2020
+Festus Arthur,Centre-Back,2000-02-27,20,Germany,Hull City,League One,2020/2021,2020
+Callum Elder,Left-Back,1995-01-27,25,Australia,Hull City,League One,2020/2021,2020
+Brandon Fleming,Left-Back,1999-12-03,20,England,Hull City,League One,2020/2021,2020
+Lewie Coyle,Right-Back,1995-10-15,25,England,Hull City,League One,2020/2021,2020
+Josh Emmanuel,Right-Back,1997-08-18,23,England,Hull City,League One,2020/2021,2020
+Regan Slater,Defensive Midfield,1999-09-11,21,England,Hull City,League One,2020/2021,2020
+Daniel Batty,Central Midfield,1997-12-10,22,England,Hull City,League One,2020/2021,2020
+Greg Docherty,Central Midfield,1996-09-10,24,Scotland,Hull City,League One,2020/2021,2020
+Richard Smallwood,Central Midfield,1990-12-29,29,England,Hull City,League One,2020/2021,2020
+George Honeyman,Attacking Midfield,1994-09-08,26,England,Hull City,League One,2020/2021,2020
+Max Sheaf,Attacking Midfield,2000-03-10,20,England,Hull City,League One,2020/2021,2020
+Mallik Wilks,Left Winger,1998-12-15,21,England,Hull City,League One,2020/2021,2020
+Martin Samuelsen,Left Winger,1997-04-17,23,Norway,Hull City,League One,2020/2021,2020
+Keane Lewis-Potter,Left Winger,2001-02-22,19,England,Hull City,League One,2020/2021,2020
+Hakeeb Adelakun,Right Winger,1996-06-11,24,England,Hull City,League One,2020/2021,2020
+Thomas Mayer,Right Winger,1995-08-23,25,Austria,Hull City,League One,2020/2021,2020
+James Scott,Centre-Forward,2000-08-30,20,Scotland,Hull City,League One,2020/2021,2020
+Josh Magennis,Centre-Forward,1990-08-15,30,Northern Ireland,Hull City,League One,2020/2021,2020
+Tom Eaves,Centre-Forward,1992-01-14,28,England,Hull City,League One,2020/2021,2020
+Tomas Holy,Goalkeeper,1991-12-10,28,Czech Republic,Ipswich Town,League One,2020/2021,2020
+David Cornell,Goalkeeper,1991-03-28,29,Wales,Ipswich Town,League One,2020/2021,2020
+Luke Chambers,Centre-Back,1985-09-28,35,England,Ipswich Town,League One,2020/2021,2020
+Toto Nsiala,Centre-Back,1992-03-25,28,DR Congo,Ipswich Town,League One,2020/2021,2020
+James Wilson,Centre-Back,1989-02-26,31,Wales,Ipswich Town,League One,2020/2021,2020
+Luke Woolfenden,Centre-Back,1998-10-21,22,England,Ipswich Town,League One,2020/2021,2020
+Mark McGuinness,Centre-Back,2001-01-05,19,Ireland,Ipswich Town,League One,2020/2021,2020
+Corrie Ndaba,Centre-Back,1999-12-25,20,Ireland,Ipswich Town,League One,2020/2021,2020
+Stephen Ward,Left-Back,1985-08-20,35,Ireland,Ipswich Town,League One,2020/2021,2020
+Myles Kenlock,Left-Back,1996-11-29,23,England,Ipswich Town,League One,2020/2021,2020
+Janoi Donacien,Right-Back,1993-11-03,27,St. Lucia,Ipswich Town,League One,2020/2021,2020
+Kane Vincent-Young,Right-Back,1996-03-15,24,England,Ipswich Town,League One,2020/2021,2020
+Cole Skuse,Defensive Midfield,1986-03-29,34,England,Ipswich Town,League One,2020/2021,2020
+Emyr Huws,Defensive Midfield,1993-09-30,27,Wales,Ipswich Town,League One,2020/2021,2020
+Flynn Downes,Central Midfield,1999-01-20,21,England,Ipswich Town,League One,2020/2021,2020
+Andre Dozzell,Central Midfield,1999-05-02,21,England,Ipswich Town,League One,2020/2021,2020
+Teddy Bishop,Central Midfield,1996-07-15,24,England,Ipswich Town,League One,2020/2021,2020
+Jon Nolan,Central Midfield,1992-04-22,28,England,Ipswich Town,League One,2020/2021,2020
+Tristan Nydam,Central Midfield,1999-11-06,21,England,Ipswich Town,League One,2020/2021,2020
+Alan Judge,Left Midfield,1988-11-11,31,Ireland,Ipswich Town,League One,2020/2021,2020
+Keanan Bennetts,Left Winger,1999-03-09,21,England,Ipswich Town,League One,2020/2021,2020
+Gwion Edwards,Right Winger,1993-03-01,27,Wales,Ipswich Town,League One,2020/2021,2020
+Jack Lankester,Right Winger,2000-01-19,20,England,Ipswich Town,League One,2020/2021,2020
+Armando Dobra,Right Winger,2001-04-14,19,Albania,Ipswich Town,League One,2020/2021,2020
+Freddie Sears,Second Striker,1989-11-27,30,England,Ipswich Town,League One,2020/2021,2020
+Kayden Jackson,Centre-Forward,1994-02-22,26,England,Ipswich Town,League One,2020/2021,2020
+Aaron Drinan,Centre-Forward,1998-05-06,22,Ireland,Ipswich Town,League One,2020/2021,2020
+Oliver Hawkins,Centre-Forward,1992-04-08,28,England,Ipswich Town,League One,2020/2021,2020
+James Norwood,Centre-Forward,1990-09-05,30,England,Ipswich Town,League One,2020/2021,2020
+Chris Maxwell,Goalkeeper,1990-07-30,30,Wales,Blackpool FC,League One,2020/2021,2020
+Alex Fojticek,Goalkeeper,2000-03-03,20,Slovakia,Blackpool FC,League One,2020/2021,2020
+Jack Sims,Goalkeeper,1999-03-10,21,England,Blackpool FC,League One,2020/2021,2020
+Daníel Leó Grétarsson,Centre-Back,1995-10-02,25,Iceland,Blackpool FC,League One,2020/2021,2020
+Jordan Thorniley,Centre-Back,1996-11-24,23,England,Blackpool FC,League One,2020/2021,2020
+Marvin Ekpiteta,Centre-Back,1995-08-26,25,England,Blackpool FC,League One,2020/2021,2020
+Daniel Ballard,Centre-Back,1999-09-22,21,Northern Ireland,Blackpool FC,League One,2020/2021,2020
+James Husband,Left-Back,1994-01-03,26,England,Blackpool FC,League One,2020/2021,2020
+Luke Garbutt,Left-Back,1993-05-21,27,England,Blackpool FC,League One,2020/2021,2020
+Demetri Mitchell,Left-Back,1997-01-11,23,England,Blackpool FC,League One,2020/2021,2020
+Teddy Howe,Right-Back,1998-10-09,22,England,Blackpool FC,League One,2020/2021,2020
+Ollie Turton,Right-Back,1992-12-06,27,England,Blackpool FC,League One,2020/2021,2020
+Jordan Lawrence-Gabriel,Right-Back,1998-09-25,22,England,Blackpool FC,League One,2020/2021,2020
+Kenny Dougall,Defensive Midfield,1993-05-07,27,Australia,Blackpool FC,League One,2020/2021,2020
+Jordan Williams,Defensive Midfield,1995-11-06,25,Wales,Blackpool FC,League One,2020/2021,2020
+Matty Virtue,Defensive Midfield,1997-05-02,23,England,Blackpool FC,League One,2020/2021,2020
+Cameron Antwi,Defensive Midfield,2001-10-07,19,England,Blackpool FC,League One,2020/2021,2020
+Ethan Robson,Central Midfield,1996-10-25,24,England,Blackpool FC,League One,2020/2021,2020
+Grant Ward,Right Midfield,1994-12-05,25,England,Blackpool FC,League One,2020/2021,2020
+Ben Woodburn,Attacking Midfield,1999-10-15,21,Wales,Blackpool FC,League One,2020/2021,2020
+Sullay Kaikai,Left Winger,1995-08-26,25,England,Blackpool FC,League One,2020/2021,2020
+Keshi Anderson,Left Winger,1995-04-06,25,England,Blackpool FC,League One,2020/2021,2020
+Bez Lubala,Left Winger,1998-01-08,22,DR Congo,Blackpool FC,League One,2020/2021,2020
+CJ Hamilton,Left Winger,1995-03-23,25,England,Blackpool FC,League One,2020/2021,2020
+Dan Kemp,Right Winger,1999-01-11,21,England,Blackpool FC,League One,2020/2021,2020
+Gary Madine,Centre-Forward,1990-08-24,30,England,Blackpool FC,League One,2020/2021,2020
+Oliver Sarkic,Centre-Forward,1997-07-23,23,Montenegro,Blackpool FC,League One,2020/2021,2020
+Jerry Yates,Centre-Forward,1996-11-10,23,England,Blackpool FC,League One,2020/2021,2020
+Remi Matthews,Goalkeeper,1994-02-10,26,England,Sunderland AFC,League One,2020/2021,2020
+Lee Burge,Goalkeeper,1993-01-09,27,England,Sunderland AFC,League One,2020/2021,2020
+Arbenit Xhemajli,Centre-Back,1998-04-23,22,Kosovo,Sunderland AFC,League One,2020/2021,2020
+Bailey Wright,Centre-Back,1992-07-28,28,Australia,Sunderland AFC,League One,2020/2021,2020
+Tom Flanagan,Centre-Back,1991-10-21,29,Northern Ireland,Sunderland AFC,League One,2020/2021,2020
+Jordan Willis,Centre-Back,1994-08-24,26,England,Sunderland AFC,League One,2020/2021,2020
+Dion Sanderson,Centre-Back,1999-12-15,20,England,Sunderland AFC,League One,2020/2021,2020
+Morgan Feeney,Centre-Back,1999-02-08,21,England,Sunderland AFC,League One,2020/2021,2020
+Denver Hume,Left-Back,1998-08-11,22,England,Sunderland AFC,League One,2020/2021,2020
+Conor McLaughlin,Right-Back,1991-07-26,29,Northern Ireland,Sunderland AFC,League One,2020/2021,2020
+Luke O'Nien,Right-Back,1994-11-21,25,England,Sunderland AFC,League One,2020/2021,2020
+George Dobson,Defensive Midfield,1997-11-15,22,England,Sunderland AFC,League One,2020/2021,2020
+Grant Leadbitter,Central Midfield,1986-01-07,34,England,Sunderland AFC,League One,2020/2021,2020
+Josh Scowen,Central Midfield,1993-03-28,27,England,Sunderland AFC,League One,2020/2021,2020
+Max Power,Central Midfield,1993-07-27,27,England,Sunderland AFC,League One,2020/2021,2020
+Elliot Embleton,Central Midfield,1999-04-02,21,England,Sunderland AFC,League One,2020/2021,2020
+Callum McFadzean,Left Midfield,1994-01-16,26,Scotland,Sunderland AFC,League One,2020/2021,2020
+Aiden McGeady,Left Winger,1986-04-04,34,Ireland,Sunderland AFC,League One,2020/2021,2020
+Aiden O'Brien,Left Winger,1993-10-04,27,Ireland,Sunderland AFC,League One,2020/2021,2020
+Jack Diamond,Left Winger,2000-01-12,20,England,Sunderland AFC,League One,2020/2021,2020
+Lynden Gooch,Right Winger,1995-12-24,24,United States,Sunderland AFC,League One,2020/2021,2020
+Chris Maguire,Right Winger,1989-01-16,31,Scotland,Sunderland AFC,League One,2020/2021,2020
+Will Grigg,Centre-Forward,1991-07-03,29,Northern Ireland,Sunderland AFC,League One,2020/2021,2020
+Danny Graham,Centre-Forward,1985-08-12,35,England,Sunderland AFC,League One,2020/2021,2020
+Charlie Wyke,Centre-Forward,1992-12-06,27,England,Sunderland AFC,League One,2020/2021,2020
+Benjamin Mbunga Kimpioka,Centre-Forward,2000-02-21,20,Sweden,Sunderland AFC,League One,2020/2021,2020
+Dejan Iliev,Goalkeeper,1995-02-25,25,North Macedonia,Shrewsbury Town,League One,2020/2021,2020
+Harry Burgoyne,Goalkeeper,1996-12-28,23,England,Shrewsbury Town,League One,2020/2021,2020
+Matija Sarkic,Goalkeeper,1997-07-23,23,Montenegro,Shrewsbury Town,League One,2020/2021,2020
+Cameron Gregory,Goalkeeper,2000-01-20,20,England,Shrewsbury Town,League One,2020/2021,2020
+Aaron Pierre,Centre-Back,1993-02-17,27,Grenada,Shrewsbury Town,League One,2020/2021,2020
+Ethan Ebanks-Landell,Centre-Back,1992-12-12,27,England,Shrewsbury Town,League One,2020/2021,2020
+Ro-Shaun Williams,Centre-Back,1998-09-03,22,England,Shrewsbury Town,League One,2020/2021,2020
+Charlie Daniels,Left-Back,1986-09-07,34,England,Shrewsbury Town,League One,2020/2021,2020
+Scott Golbourne,Left-Back,1988-02-29,32,England,Shrewsbury Town,League One,2020/2021,2020
+Donald Love,Right-Back,1994-12-02,25,Scotland,Shrewsbury Town,League One,2020/2021,2020
+Matthew Millar,Right-Back,1996-08-23,24,Australia,Shrewsbury Town,League One,2020/2021,2020
+Ryan Sears,Right-Back,1998-12-30,21,England,Shrewsbury Town,League One,2020/2021,2020
+Marlon Fossey,Right-Back,1998-09-09,22,United States,Shrewsbury Town,League One,2020/2021,2020
+Brad Walker,Defensive Midfield,1995-04-25,25,England,Shrewsbury Town,League One,2020/2021,2020
+Josh Vela,Central Midfield,1993-12-14,26,England,Shrewsbury Town,League One,2020/2021,2020
+David Edwards,Central Midfield,1986-02-03,34,Wales,Shrewsbury Town,League One,2020/2021,2020
+Jan Zamburek,Central Midfield,2001-02-13,19,Czech Republic,Shrewsbury Town,League One,2020/2021,2020
+Sean Goss,Central Midfield,1995-10-01,25,England,Shrewsbury Town,League One,2020/2021,2020
+Ollie Norburn,Central Midfield,1992-10-26,28,Grenada,Shrewsbury Town,League One,2020/2021,2020
+Scott High,Central Midfield,2001-02-15,19,England,Shrewsbury Town,League One,2020/2021,2020
+James Rowland,Central Midfield,2001-12-03,18,England,Shrewsbury Town,League One,2020/2021,2020
+Joshua Daniels,Left Midfield,1996-02-22,24,Ireland,Shrewsbury Town,League One,2020/2021,2020
+Ryan Barnett,Attacking Midfield,1999-09-23,21,England,Shrewsbury Town,League One,2020/2021,2020
+Marc Pugh,Left Winger,1987-04-02,33,England,Shrewsbury Town,League One,2020/2021,2020
+Shaun Whalley,Right Winger,1987-08-07,33,England,Shrewsbury Town,League One,2020/2021,2020
+Shilow Tracey,Right Winger,1998-04-29,22,England,Shrewsbury Town,League One,2020/2021,2020
+Jason Cummings,Centre-Forward,1995-08-01,25,Scotland,Shrewsbury Town,League One,2020/2021,2020
+Leon Clarke,Centre-Forward,1985-02-10,35,England,Shrewsbury Town,League One,2020/2021,2020
+Daniel Udoh,Centre-Forward,1996-08-30,24,Nigeria,Shrewsbury Town,League One,2020/2021,2020
+Rekeil Pyke,Centre-Forward,1997-09-01,23,England,Shrewsbury Town,League One,2020/2021,2020
+Ben Amos,Goalkeeper,1990-04-10,30,England,Charlton Athletic,League One,2020/2021,2020
+Ashley Maynard-Brewer,Goalkeeper,1999-06-25,21,Australia,Charlton Athletic,League One,2020/2021,2020
+Jason Pearce,Centre-Back,1987-12-06,32,England,Charlton Athletic,League One,2020/2021,2020
+Adedeji Oshilaja,Centre-Back,1993-03-02,27,England,Charlton Athletic,League One,2020/2021,2020
+Ryan Inniss,Centre-Back,1995-06-05,25,England,Charlton Athletic,League One,2020/2021,2020
+Akin Famewo,Centre-Back,1998-11-09,21,England,Charlton Athletic,League One,2020/2021,2020
+Ben Purrington,Left-Back,1996-05-20,24,England,Charlton Athletic,League One,2020/2021,2020
+Ian Maatsen,Left-Back,2002-03-10,18,Netherlands,Charlton Athletic,League One,2020/2021,2020
+Chris Gunter,Right-Back,1989-07-21,31,Wales,Charlton Athletic,League One,2020/2021,2020
+Adam Matthews,Right-Back,1992-01-13,28,Wales,Charlton Athletic,League One,2020/2021,2020
+Charlie Barker,Right-Back,2003-02-12,17,England,Charlton Athletic,League One,2020/2021,2020
+Dylan Levitt,Central Midfield,2000-11-17,19,Wales,Charlton Athletic,League One,2020/2021,2020
+Jake Forster-Caskey,Central Midfield,1994-04-25,26,England,Charlton Athletic,League One,2020/2021,2020
+Alex Gilbey,Central Midfield,1994-12-09,25,England,Charlton Athletic,League One,2020/2021,2020
+Darren Pratley,Central Midfield,1985-04-22,35,England,Charlton Athletic,League One,2020/2021,2020
+Ben Watson,Central Midfield,1985-07-09,35,England,Charlton Athletic,League One,2020/2021,2020
+Alfie Doughty,Left Midfield,1999-12-21,20,England,Charlton Athletic,League One,2020/2021,2020
+Jonathan Williams,Attacking Midfield,1993-10-09,27,Wales,Charlton Athletic,League One,2020/2021,2020
+Marcus Maddison,Attacking Midfield,1993-09-26,27,England,Charlton Athletic,League One,2020/2021,2020
+Andrew Shinnie,Attacking Midfield,1989-07-17,31,Scotland,Charlton Athletic,League One,2020/2021,2020
+Albie Morgan,Attacking Midfield,2000-02-02,20,England,Charlton Athletic,League One,2020/2021,2020
+Chuks Aneke,Second Striker,1993-07-03,27,England,Charlton Athletic,League One,2020/2021,2020
+Paul Smyth,Second Striker,1997-09-10,23,Northern Ireland,Charlton Athletic,League One,2020/2021,2020
+Omar Bogle,Centre-Forward,1992-07-26,28,England,Charlton Athletic,League One,2020/2021,2020
+Conor Washington,Centre-Forward,1992-05-18,28,Northern Ireland,Charlton Athletic,League One,2020/2021,2020
+Joel Coleman,Goalkeeper,1995-09-26,25,England,Fleetwood Town,League One,2020/2021,2020
+Jayson Leutwiler,Goalkeeper,1989-04-25,31,Canada,Fleetwood Town,League One,2020/2021,2020
+Alex Cairns,Goalkeeper,1993-01-04,27,England,Fleetwood Town,League One,2020/2021,2020
+Szymon Czajor,Goalkeeper,2001-09-19,19,Poland,Fleetwood Town,League One,2020/2021,2020
+Charlie Mulgrew,Centre-Back,1986-03-06,34,Scotland,Fleetwood Town,League One,2020/2021,2020
+Sam Stubbs,Centre-Back,1998-11-20,21,England,Fleetwood Town,League One,2020/2021,2020
+Morgan Boyes,Centre-Back,2001-04-22,19,Wales,Fleetwood Town,League One,2020/2021,2020
+James Hill,Centre-Back,2002-01-10,18,England,Fleetwood Town,League One,2020/2021,2020
+Danny Andrew,Left-Back,1990-12-23,29,England,Fleetwood Town,League One,2020/2021,2020
+Ryan Rydel,Left-Back,2001-02-09,19,England,Fleetwood Town,League One,2020/2021,2020
+Tom Edwards,Right-Back,1999-01-22,21,England,Fleetwood Town,League One,2020/2021,2020
+Callum Connolly,Defensive Midfield,1997-09-23,23,England,Fleetwood Town,League One,2020/2021,2020
+Glenn Whelan,Defensive Midfield,1984-01-13,36,Ireland,Fleetwood Town,League One,2020/2021,2020
+Jordan Rossiter,Central Midfield,1997-03-24,23,England,Fleetwood Town,League One,2020/2021,2020
+Paul Coutts,Central Midfield,1988-07-22,32,Scotland,Fleetwood Town,League One,2020/2021,2020
+Callum Camps,Central Midfield,1995-11-30,24,Northern Ireland,Fleetwood Town,League One,2020/2021,2020
+Sam Finley,Central Midfield,1992-08-04,28,England,Fleetwood Town,League One,2020/2021,2020
+Mark Duffy,Right Midfield,1985-10-07,35,England,Fleetwood Town,League One,2020/2021,2020
+Josh Morris,Left Midfield,1991-09-30,29,England,Fleetwood Town,League One,2020/2021,2020
+Barrie McKay,Left Winger,1994-12-31,25,Scotland,Fleetwood Town,League One,2020/2021,2020
+Wes Burns,Right Winger,1994-11-23,25,Wales,Fleetwood Town,League One,2020/2021,2020
+Shayden Morris,Right Winger,NA,NA,England,Fleetwood Town,League One,2020/2021,2020
+Ched Evans,Centre-Forward,1988-12-28,31,Wales,Fleetwood Town,League One,2020/2021,2020
+Paddy Madden,Centre-Forward,1990-03-04,30,Ireland,Fleetwood Town,League One,2020/2021,2020
+Harvey Saunders,Centre-Forward,1997-07-20,23,England,Fleetwood Town,League One,2020/2021,2020
+Gerard Garner,Centre-Forward,1998-11-02,22,England,Fleetwood Town,League One,2020/2021,2020
+Simon Eastwood,Goalkeeper,1989-06-26,31,England,Oxford United,League One,2020/2021,2020
+Jack Stevens,Goalkeeper,1997-08-02,23,England,Oxford United,League One,2020/2021,2020
+Elliott Moore,Centre-Back,1997-03-16,23,England,Oxford United,League One,2020/2021,2020
+John Mousinho,Centre-Back,1986-04-30,34,England,Oxford United,League One,2020/2021,2020
+Robert Atkinson,Centre-Back,1998-07-13,22,England,Oxford United,League One,2020/2021,2020
+Josh Ruffels,Left-Back,1993-10-23,27,England,Oxford United,League One,2020/2021,2020
+Sam Long,Right-Back,1995-01-16,25,England,Oxford United,League One,2020/2021,2020
+Jamie Hanson,Defensive Midfield,1995-11-10,24,England,Oxford United,League One,2020/2021,2020
+Liam Kelly,Central Midfield,1995-11-22,24,Ireland,Oxford United,League One,2020/2021,2020
+Sean Clare,Central Midfield,1996-09-18,24,England,Oxford United,League One,2020/2021,2020
+Marcus McGuane,Central Midfield,1999-02-02,21,England,Oxford United,League One,2020/2021,2020
+Alex Gorrin,Central Midfield,1993-08-01,27,Spain,Oxford United,League One,2020/2021,2020
+Cameron Brannagan,Central Midfield,1996-05-09,24,England,Oxford United,League One,2020/2021,2020
+Mark Sykes,Central Midfield,1997-08-04,23,Ireland,Oxford United,League One,2020/2021,2020
+Anthony Forde,Right Midfield,1993-11-16,26,Ireland,Oxford United,League One,2020/2021,2020
+Joel Cooper,Left Midfield,1996-02-29,24,Northern Ireland,Oxford United,League One,2020/2021,2020
+Malachi Napa,Attacking Midfield,1999-05-26,21,England,Oxford United,League One,2020/2021,2020
+Matty Taylor,Forward,1990-03-30,30,England,Oxford United,League One,2020/2021,2020
+Olamide Shodipo,Left Winger,1997-07-05,23,Ireland,Oxford United,League One,2020/2021,2020
+James Henry,Right Winger,1989-06-10,31,England,Oxford United,League One,2020/2021,2020
+Rob Hall,Right Winger,1993-10-20,27,England,Oxford United,League One,2020/2021,2020
+Sam Winnall,Centre-Forward,1991-01-19,29,England,Oxford United,League One,2020/2021,2020
+Derick Osei Yaw,Centre-Forward,1998-09-10,22,France,Oxford United,League One,2020/2021,2020
+Dan Agyei,Centre-Forward,1997-06-01,23,England,Oxford United,League One,2020/2021,2020
+Dylan Asonganyi,Centre-Forward,2000-12-10,19,England,Oxford United,League One,2020/2021,2020
+Laurie Walker,Goalkeeper,1989-10-14,31,England,Milton Keynes Dons,League One,2020/2021,2020
+Lee Nicholls,Goalkeeper,1992-10-05,28,England,Milton Keynes Dons,League One,2020/2021,2020
+Andy Fisher,Goalkeeper,1998-02-12,22,England,Milton Keynes Dons,League One,2020/2021,2020
+Richard Keogh,Centre-Back,1986-08-11,34,Ireland,Milton Keynes Dons,League One,2020/2021,2020
+Regan Poole,Centre-Back,1998-06-18,22,Wales,Milton Keynes Dons,League One,2020/2021,2020
+Baily Cargill,Centre-Back,1995-07-05,25,England,Milton Keynes Dons,League One,2020/2021,2020
+Warren O'Hora,Centre-Back,1999-04-19,21,Ireland,Milton Keynes Dons,League One,2020/2021,2020
+Daniel Harvie,Left-Back,1998-07-14,22,Scotland,Milton Keynes Dons,League One,2020/2021,2020
+Dean Lewington,Left-Back,1984-05-18,36,England,Milton Keynes Dons,League One,2020/2021,2020
+Matthew Sorinola,Left-Back,2001-02-19,19,England,Milton Keynes Dons,League One,2020/2021,2020
+George Williams,Right-Back,1993-04-14,27,England,Milton Keynes Dons,League One,2020/2021,2020
+John Freeman,Midfielder,2001-11-04,19,England,Milton Keynes Dons,League One,2020/2021,2020
+Louis Thompson,Defensive Midfield,1994-12-19,25,Wales,Milton Keynes Dons,League One,2020/2021,2020
+Jordan Houghton,Defensive Midfield,1995-11-05,25,England,Milton Keynes Dons,League One,2020/2021,2020
+Ben Gladwin,Central Midfield,1992-06-08,28,England,Milton Keynes Dons,League One,2020/2021,2020
+David Kasumu,Central Midfield,1999-10-05,21,England,Milton Keynes Dons,League One,2020/2021,2020
+Lasse Sörensen,Central Midfield,1999-10-21,21,Denmark,Milton Keynes Dons,League One,2020/2021,2020
+Scott Fraser,Attacking Midfield,1995-03-30,25,Scotland,Milton Keynes Dons,League One,2020/2021,2020
+Stephen Walker,Second Striker,2000-10-11,20,England,Milton Keynes Dons,League One,2020/2021,2020
+Joe Mason,Centre-Forward,1991-05-13,29,Ireland,Milton Keynes Dons,League One,2020/2021,2020
+Kieran Agard,Centre-Forward,1989-10-10,31,England,Milton Keynes Dons,League One,2020/2021,2020
+Cameron Jerome,Centre-Forward,1986-08-14,34,England,Milton Keynes Dons,League One,2020/2021,2020
+Carlton Morris,Centre-Forward,1995-12-16,24,England,Milton Keynes Dons,League One,2020/2021,2020
+Jay Bird,Centre-Forward,2000-09-13,20,England,Milton Keynes Dons,League One,2020/2021,2020
+Jamie Jones,Goalkeeper,1989-02-18,31,England,Wigan Athletic,League One,2020/2021,2020
+Owen Evans,Goalkeeper,1996-11-28,23,Wales,Wigan Athletic,League One,2020/2021,2020
+Sam Tickle,Goalkeeper,2002-03-31,18,England,Wigan Athletic,League One,2020/2021,2020
+Bobby Jones,Goalkeeper,2001-11-20,18,Ireland,Wigan Athletic,League One,2020/2021,2020
+Curtis Tilt,Centre-Back,1991-08-04,29,England,Wigan Athletic,League One,2020/2021,2020
+Emeka Obi,Centre-Back,2001-06-06,19,England,Wigan Athletic,League One,2020/2021,2020
+Darnell Johnson,Centre-Back,1998-09-03,22,England,Wigan Athletic,League One,2020/2021,2020
+Adam Long,Centre-Back,2000-11-11,19,England,Wigan Athletic,League One,2020/2021,2020
+Tom Pearce,Left-Back,1998-04-12,22,England,Wigan Athletic,League One,2020/2021,2020
+Luke Robinson,Left-Back,2001-11-20,18,Scotland,Wigan Athletic,League One,2020/2021,2020
+Patrick Webber,Left-Back,1999-05-14,21,England,Wigan Athletic,League One,2020/2021,2020
+Tom James,Right-Back,1996-04-15,24,Wales,Wigan Athletic,League One,2020/2021,2020
+Alex Perry,Defensive Midfield,1998-03-04,22,England,Wigan Athletic,League One,2020/2021,2020
+Lee Evans,Central Midfield,1994-07-24,26,Wales,Wigan Athletic,League One,2020/2021,2020
+Matt Palmer,Central Midfield,1995-02-27,25,England,Wigan Athletic,League One,2020/2021,2020
+Chris Merrie,Central Midfield,1998-11-02,22,England,Wigan Athletic,League One,2020/2021,2020
+Scott Smith,Central Midfield,2001-02-07,19,Wales,Wigan Athletic,League One,2020/2021,2020
+Dan Gardner,Attacking Midfield,1990-04-05,30,England,Wigan Athletic,League One,2020/2021,2020
+Thelo Aasgaard,Attacking Midfield,2002-05-02,18,Norway,Wigan Athletic,League One,2020/2021,2020
+MacKenzie O'Neill,Attacking Midfield,2002-01-20,18,Northern Ireland,Wigan Athletic,League One,2020/2021,2020
+Sean McGurk,Attacking Midfield,2003-03-15,17,England,Wigan Athletic,League One,2020/2021,2020
+Gary Roberts,Left Winger,1984-03-18,36,England,Wigan Athletic,League One,2020/2021,2020
+Kal Naismith,Right Winger,1992-02-18,28,Scotland,Wigan Athletic,League One,2020/2021,2020
+Gavin Massey,Right Winger,1992-10-14,28,England,Wigan Athletic,League One,2020/2021,2020
+Viv Solomon-Otabor,Right Winger,1996-01-02,24,Nigeria,Wigan Athletic,League One,2020/2021,2020
+Oliver Crankshaw,Right Winger,1998-08-12,22,England,Wigan Athletic,League One,2020/2021,2020
+Will Keane,Centre-Forward,1993-01-11,27,England,Wigan Athletic,League One,2020/2021,2020
+Joe Garner,Centre-Forward,1988-04-12,32,England,Wigan Athletic,League One,2020/2021,2020
+Kyle Joseph,Centre-Forward,2001-09-10,19,Scotland,Wigan Athletic,League One,2020/2021,2020
+Charlie Jolley,Centre-Forward,2001-01-13,19,England,Wigan Athletic,League One,2020/2021,2020
+Divin Baningime,Centre-Forward,2000-10-13,20,DR Congo,Wigan Athletic,League One,2020/2021,2020
+Joe Piggott,Centre-Forward,1999-06-23,21,England,Wigan Athletic,League One,2020/2021,2020
+Matej Kovar,Goalkeeper,2000-05-17,20,Czech Republic,Swindon Town,League One,2020/2021,2020
+Joe Fryer,Goalkeeper,1995-11-14,24,England,Swindon Town,League One,2020/2021,2020
+Archie Matthews,Goalkeeper,2001-08-02,19,England,Swindon Town,League One,2020/2021,2020
+Mathieu Baudry,Centre-Back,1988-02-24,32,France,Swindon Town,League One,2020/2021,2020
+Dion Conroy,Centre-Back,1995-12-11,24,England,Swindon Town,League One,2020/2021,2020
+Tom Broadbent,Centre-Back,1992-02-15,28,England,Swindon Town,League One,2020/2021,2020
+Akin Odimayo,Centre-Back,1999-11-28,20,England,Swindon Town,League One,2020/2021,2020
+Taylor Curran,Centre-Back,2000-07-07,20,England,Swindon Town,League One,2020/2021,2020
+Zeki Fryers,Left-Back,1992-09-09,28,England,Swindon Town,League One,2020/2021,2020
+Jonathan Grounds,Left-Back,1988-02-02,32,England,Swindon Town,League One,2020/2021,2020
+Dion Donohue,Left-Back,1993-08-26,27,Wales,Swindon Town,League One,2020/2021,2020
+Ellis Iandolo,Left-Back,1997-08-22,23,England,Swindon Town,League One,2020/2021,2020
+Paul Caddis,Right-Back,1988-04-19,32,Scotland,Swindon Town,League One,2020/2021,2020
+Rob Hunt,Right-Back,1995-07-07,25,England,Swindon Town,League One,2020/2021,2020
+Jordan Lyden,Central Midfield,1996-01-30,24,Australia,Swindon Town,League One,2020/2021,2020
+Anthony Grant,Central Midfield,1987-06-04,33,England,Swindon Town,League One,2020/2021,2020
+Matt Smith,Central Midfield,2000-10-05,20,England,Swindon Town,League One,2020/2021,2020
+Jonny Smith,Left Midfield,1997-07-28,23,England,Swindon Town,League One,2020/2021,2020
+Jack Payne,Attacking Midfield,1994-10-25,26,England,Swindon Town,League One,2020/2021,2020
+Joel Grant,Right Winger,1987-08-26,33,Jamaica,Swindon Town,League One,2020/2021,2020
+Jordan Stevens,Right Winger,2000-03-25,20,England,Swindon Town,League One,2020/2021,2020
+Diallang Jaiyesimi,Right Winger,1999-03-18,21,England,Swindon Town,League One,2020/2021,2020
+Brett Pitman,Centre-Forward,1988-01-31,32,Jersey,Swindon Town,League One,2020/2021,2020
+Hallam Hope,Centre-Forward,1994-03-17,26,Barbados,Swindon Town,League One,2020/2021,2020
+Tyler Smith,Centre-Forward,1998-12-04,21,England,Swindon Town,League One,2020/2021,2020
+Josef Bursik,Goalkeeper,2000-07-12,20,England,Doncaster Rovers,League One,2020/2021,2020
+Louis Jones,Goalkeeper,1998-10-12,22,England,Doncaster Rovers,League One,2020/2021,2020
+Tom Anderson,Centre-Back,1993-09-02,27,England,Doncaster Rovers,League One,2020/2021,2020
+Joe Wright,Centre-Back,1995-02-26,25,Wales,Doncaster Rovers,League One,2020/2021,2020
+Andy Butler,Centre-Back,1983-11-04,37,England,Doncaster Rovers,League One,2020/2021,2020
+Cameron John,Centre-Back,1999-08-24,21,England,Doncaster Rovers,League One,2020/2021,2020
+Ben Blythe,Centre-Back,2002-01-13,18,England,Doncaster Rovers,League One,2020/2021,2020
+Reece James,Left-Back,1993-11-07,26,England,Doncaster Rovers,League One,2020/2021,2020
+Danny Amos,Left-Back,1999-12-22,20,Northern Ireland,Doncaster Rovers,League One,2020/2021,2020
+Branden Horton,Left-Back,2000-09-09,20,England,Doncaster Rovers,League One,2020/2021,2020
+Brad Halliday,Right-Back,1995-07-10,25,England,Doncaster Rovers,League One,2020/2021,2020
+Lirak Hasani,Midfielder,2002-06-25,18,England,Doncaster Rovers,League One,2020/2021,2020
+Matt Smith,Defensive Midfield,1999-11-22,20,Wales,Doncaster Rovers,League One,2020/2021,2020
+Madger Gomes,Central Midfield,1997-02-01,23,Spain,Doncaster Rovers,League One,2020/2021,2020
+Ben Whiteman,Central Midfield,1996-06-17,24,England,Doncaster Rovers,League One,2020/2021,2020
+Taylor Richards,Central Midfield,2000-12-04,19,England,Doncaster Rovers,League One,2020/2021,2020
+Jon Taylor,Right Midfield,1992-07-20,28,England,Doncaster Rovers,League One,2020/2021,2020
+James Coppinger,Right Midfield,1981-01-18,39,England,Doncaster Rovers,League One,2020/2021,2020
+Anthony Greaves,Right Midfield,2000-11-17,19,England,Doncaster Rovers,League One,2020/2021,2020
+Ed Williams,Attacking Midfield,1995-07-20,25,England,Doncaster Rovers,League One,2020/2021,2020
+Fejiri Okenabirhie,Left Winger,1996-02-25,24,Nigeria,Doncaster Rovers,League One,2020/2021,2020
+Josh Sims,Right Winger,1997-03-28,23,England,Doncaster Rovers,League One,2020/2021,2020
+Jason Lokilo,Right Winger,1998-09-17,22,Belgium,Doncaster Rovers,League One,2020/2021,2020
+Rayhaan Tulloch,Second Striker,2001-01-20,19,England,Doncaster Rovers,League One,2020/2021,2020
+Tyreece John-Jules,Centre-Forward,2001-02-14,19,England,Doncaster Rovers,League One,2020/2021,2020
+Ben Garratt,Goalkeeper,1994-04-25,26,England,Burton Albion,League One,2020/2021,2020
+Kieran O'Hara,Goalkeeper,1996-04-22,24,Ireland,Burton Albion,League One,2020/2021,2020
+Callum Hawkins,Goalkeeper,1999-12-12,20,England,Burton Albion,League One,2020/2021,2020
+Teddy Sharman-Lowe,Goalkeeper,2003-01-19,17,England,Burton Albion,League One,2020/2021,2020
+Jake Buxton,Centre-Back,1985-03-04,35,England,Burton Albion,League One,2020/2021,2020
+Michael Bostwick,Centre-Back,1988-05-17,32,England,Burton Albion,League One,2020/2021,2020
+Jevan Anderson,Centre-Back,2000-03-03,20,Scotland,Burton Albion,League One,2020/2021,2020
+Sam Hughes,Centre-Back,1997-04-15,23,England,Burton Albion,League One,2020/2021,2020
+Colin Daniel,Left-Back,1988-02-15,32,England,Burton Albion,League One,2020/2021,2020
+Kieran Wallace,Left-Back,1995-01-26,25,England,Burton Albion,League One,2020/2021,2020
+Reece Hutchinson,Left-Back,2000-04-14,20,England,Burton Albion,League One,2020/2021,2020
+Owen Gallacher,Left-Back,1999-04-06,21,Scotland,Burton Albion,League One,2020/2021,2020
+John Brayford,Right-Back,1987-12-29,32,England,Burton Albion,League One,2020/2021,2020
+Neal Eardley,Right-Back,1988-11-06,32,Wales,Burton Albion,League One,2020/2021,2020
+Ciaran Gilligan,Midfielder,NA,NA,England,Burton Albion,League One,2020/2021,2020
+Stephen Quinn,Central Midfield,1986-04-01,34,Ireland,Burton Albion,League One,2020/2021,2020
+John-Joe O'Toole,Central Midfield,1988-09-30,32,Ireland,Burton Albion,League One,2020/2021,2020
+Ben Fox,Central Midfield,1998-02-01,22,England,Burton Albion,League One,2020/2021,2020
+Jack Roles,Central Midfield,1999-02-26,21,Cyprus,Burton Albion,League One,2020/2021,2020
+Ryan Edwards,Attacking Midfield,1993-11-17,26,Australia,Burton Albion,League One,2020/2021,2020
+Joe Powell,Attacking Midfield,1998-10-30,22,England,Burton Albion,League One,2020/2021,2020
+Charles Vernam,Attacking Midfield,1996-10-08,24,England,Burton Albion,League One,2020/2021,2020
+Tom Hewlett,Forward,NA,NA,England,Burton Albion,League One,2020/2021,2020
+Steven Lawless,Left Winger,1991-04-12,29,Scotland,Burton Albion,League One,2020/2021,2020
+Indiana Vassilev,Left Winger,2001-02-16,19,United States,Burton Albion,League One,2020/2021,2020
+Luke Varney,Left Winger,1982-09-28,38,England,Burton Albion,League One,2020/2021,2020
+Jakub Niemczyk,Left Winger,2004-01-22,16,Poland,Burton Albion,League One,2020/2021,2020
+Lucas Akins,Right Winger,1989-02-25,31,Grenada,Burton Albion,League One,2020/2021,2020
+Kane Hemmings,Centre-Forward,1991-04-08,29,England,Burton Albion,League One,2020/2021,2020
+Chris Beardsley,Centre-Forward,1984-02-28,36,England,Burton Albion,League One,2020/2021,2020
+Niall Ennis,Centre-Forward,1999-05-20,21,England,Burton Albion,League One,2020/2021,2020
+Craig MacGillivray,Goalkeeper,1993-01-12,27,Scotland,Portsmouth FC,League One,2020/2021,2020
+Alex Bass,Goalkeeper,1998-04-01,22,England,Portsmouth FC,League One,2020/2021,2020
+Duncan Turnbull,Goalkeeper,1998-05-08,22,United States,Portsmouth FC,League One,2020/2021,2020
+Rasmus Nicolaisen,Centre-Back,1997-03-16,23,Denmark,Portsmouth FC,League One,2020/2021,2020
+Paul Downing,Centre-Back,1991-10-26,29,England,Portsmouth FC,League One,2020/2021,2020
+Sean Raggett,Centre-Back,1994-04-17,26,England,Portsmouth FC,League One,2020/2021,2020
+Jack Whatmough,Centre-Back,1996-08-19,24,England,Portsmouth FC,League One,2020/2021,2020
+Harvey Rew,Centre-Back,2002-09-25,18,Wales,Portsmouth FC,League One,2020/2021,2020
+Lee Brown,Left-Back,1990-08-10,30,England,Portsmouth FC,League One,2020/2021,2020
+Cameron Pring,Left-Back,1998-01-22,22,England,Portsmouth FC,League One,2020/2021,2020
+James Bolton,Right-Back,1994-08-13,26,England,Portsmouth FC,League One,2020/2021,2020
+Callum Johnson,Right-Back,1996-10-23,24,England,Portsmouth FC,League One,2020/2021,2020
+Tom Naylor,Defensive Midfield,1991-06-28,29,England,Portsmouth FC,League One,2020/2021,2020
+Bryn Morris,Defensive Midfield,1996-04-25,24,England,Portsmouth FC,League One,2020/2021,2020
+Andy Cannon,Central Midfield,1996-03-14,24,England,Portsmouth FC,League One,2020/2021,2020
+Ben Close,Central Midfield,1996-08-08,24,England,Portsmouth FC,League One,2020/2021,2020
+Ryan Williams,Right Midfield,1993-10-28,27,Australia,Portsmouth FC,League One,2020/2021,2020
+Michael Jacobs,Left Winger,1991-11-04,29,England,Portsmouth FC,League One,2020/2021,2020
+Ronan Curtis,Left Winger,1996-03-29,24,Ireland,Portsmouth FC,League One,2020/2021,2020
+Marcus Harness,Right Winger,1996-02-24,24,England,Portsmouth FC,League One,2020/2021,2020
+Eoin Teggart,Right Winger,2002-02-06,18,Northern Ireland,Portsmouth FC,League One,2020/2021,2020
+Ellis Harrison,Centre-Forward,1994-01-29,26,Wales,Portsmouth FC,League One,2020/2021,2020
+John Marquis,Centre-Forward,1992-05-16,28,England,Portsmouth FC,League One,2020/2021,2020
+Jordy Hiwula,Centre-Forward,1994-09-21,26,England,Portsmouth FC,League One,2020/2021,2020
+Jack Bonham,Goalkeeper,1993-09-14,27,Ireland,Gillingham FC,League One,2020/2021,2020
+Joe Walsh,Goalkeeper,2002-04-01,18,England,Gillingham FC,League One,2020/2021,2020
+Robbie McKenzie,Centre-Back,1998-09-25,22,England,Gillingham FC,League One,2020/2021,2020
+Christian Maghoma,Centre-Back,1997-11-08,22,DR Congo,Gillingham FC,League One,2020/2021,2020
+Jack Tucker,Centre-Back,1999-11-12,20,England,Gillingham FC,League One,2020/2021,2020
+Zech Medley,Centre-Back,2000-07-09,20,England,Gillingham FC,League One,2020/2021,2020
+Declan Drysdale,Centre-Back,1999-11-14,20,England,Gillingham FC,League One,2020/2021,2020
+Connor Ogilvie,Left-Back,1996-02-14,24,England,Gillingham FC,League One,2020/2021,2020
+Ryan Jackson,Right-Back,1990-07-31,30,England,Gillingham FC,League One,2020/2021,2020
+Toby Bancroft,Midfielder,NA,NA,England,Gillingham FC,League One,2020/2021,2020
+Josh Eccles,Defensive Midfield,2000-04-06,20,England,Gillingham FC,League One,2020/2021,2020
+Scott Robertson,Defensive Midfield,2001-07-27,19,Scotland,Gillingham FC,League One,2020/2021,2020
+Thomas O'Connor,Defensive Midfield,1999-04-21,21,Ireland,Gillingham FC,League One,2020/2021,2020
+Stuart O'Keefe,Central Midfield,1991-03-04,29,England,Gillingham FC,League One,2020/2021,2020
+Kyle Dempsey,Central Midfield,1995-09-17,25,England,Gillingham FC,League One,2020/2021,2020
+Jacob Mellis,Central Midfield,1991-01-08,29,England,Gillingham FC,League One,2020/2021,2020
+Matty Willock,Central Midfield,1996-08-20,24,England,Gillingham FC,League One,2020/2021,2020
+Henry Woods,Central Midfield,1999-09-07,21,England,Gillingham FC,League One,2020/2021,2020
+Alex MacDonald,Right Midfield,1990-04-14,30,Scotland,Gillingham FC,League One,2020/2021,2020
+Jordan Graham,Left Winger,1995-03-05,25,England,Gillingham FC,League One,2020/2021,2020
+Trae Coyle,Right Winger,2001-01-11,19,England,Gillingham FC,League One,2020/2021,2020
+John Akinde,Centre-Forward,1989-07-08,31,England,Gillingham FC,League One,2020/2021,2020
+Dominic Samuel,Centre-Forward,1994-04-01,26,England,Gillingham FC,League One,2020/2021,2020
+Vadaine Oliver,Centre-Forward,1991-10-21,29,England,Gillingham FC,League One,2020/2021,2020
+Anssi Jaakkola,Goalkeeper,1987-03-13,33,Finland,Bristol Rovers,League One,2020/2021,2020
+Jordi van Stappershoef,Goalkeeper,1996-03-10,24,Netherlands,Bristol Rovers,League One,2020/2021,2020
+Alexis Andre,Goalkeeper,1997-05-31,23,Morocco,Bristol Rovers,League One,2020/2021,2020
+Jack Baldwin,Centre-Back,1993-06-30,27,England,Bristol Rovers,League One,2020/2021,2020
+Cian Harries,Centre-Back,1997-04-01,23,Wales,Bristol Rovers,League One,2020/2021,2020
+Max Ehmer,Centre-Back,1992-02-03,28,Germany,Bristol Rovers,League One,2020/2021,2020
+Tom Davies,Centre-Back,1992-04-18,28,England,Bristol Rovers,League One,2020/2021,2020
+Josh Grant,Centre-Back,1998-10-11,22,England,Bristol Rovers,League One,2020/2021,2020
+Alfie Kilgour,Centre-Back,1998-05-18,22,England,Bristol Rovers,League One,2020/2021,2020
+Luke Leahy,Left-Back,1992-11-19,27,England,Bristol Rovers,League One,2020/2021,2020
+Ali Koiki,Left-Back,1999-08-22,21,England,Bristol Rovers,League One,2020/2021,2020
+Michael Kelly,Left-Back,1997-11-03,23,Scotland,Bristol Rovers,League One,2020/2021,2020
+David Tutonda,Left-Back,1995-10-11,25,DR Congo,Bristol Rovers,League One,2020/2021,2020
+Mark Little,Right-Back,1988-08-20,32,England,Bristol Rovers,League One,2020/2021,2020
+Josh Hare,Right-Back,1994-08-12,26,England,Bristol Rovers,League One,2020/2021,2020
+Ben Liddle,Defensive Midfield,1998-09-21,22,England,Bristol Rovers,League One,2020/2021,2020
+Ed Upson,Central Midfield,1989-11-21,30,England,Bristol Rovers,League One,2020/2021,2020
+Zain Westbrooke,Central Midfield,1996-10-28,24,England,Bristol Rovers,League One,2020/2021,2020
+Luke McCormick,Central Midfield,1999-01-21,21,England,Bristol Rovers,League One,2020/2021,2020
+Lucas Tomlinson,Central Midfield,2000-11-06,20,England,Bristol Rovers,League One,2020/2021,2020
+Cameron Hargreaves,Central Midfield,1998-12-01,21,England,Bristol Rovers,League One,2020/2021,2020
+Erhun Oztumer,Attacking Midfield,1991-05-29,29,England,Bristol Rovers,League One,2020/2021,2020
+Josh Barrett,Attacking Midfield,1998-06-21,22,Ireland,Bristol Rovers,League One,2020/2021,2020
+Jayden Mitchell-Lawson,Attacking Midfield,1999-09-17,21,England,Bristol Rovers,League One,2020/2021,2020
+Zain Walker,Attacking Midfield,2002-01-08,18,England,Bristol Rovers,League One,2020/2021,2020
+Sam Nicholson,Left Winger,1995-01-20,25,Scotland,Bristol Rovers,League One,2020/2021,2020
+Alex Rodman,Left Winger,1987-02-15,33,England,Bristol Rovers,League One,2020/2021,2020
+Brandon Hanlan,Centre-Forward,1997-05-31,23,England,Bristol Rovers,League One,2020/2021,2020
+James Daly,Centre-Forward,2000-01-12,20,England,Bristol Rovers,League One,2020/2021,2020
+Jonah Ayunga,Centre-Forward,1997-05-24,23,Kenya,Bristol Rovers,League One,2020/2021,2020
+Luke McCormick,Goalkeeper,1983-08-15,37,England,Plymouth Argyle,League One,2020/2021,2020
+Jack Ruddy,Goalkeeper,1997-12-27,22,Scotland,Plymouth Argyle,League One,2020/2021,2020
+Michael Cooper,Goalkeeper,1999-10-08,21,England,Plymouth Argyle,League One,2020/2021,2020
+Scott Wootton,Centre-Back,1991-09-12,29,England,Plymouth Argyle,League One,2020/2021,2020
+Gary Sawyer,Centre-Back,1985-07-05,35,England,Plymouth Argyle,League One,2020/2021,2020
+Niall Canavan,Centre-Back,1991-04-11,29,Ireland,Plymouth Argyle,League One,2020/2021,2020
+Will Aimson,Centre-Back,1994-01-01,26,England,Plymouth Argyle,League One,2020/2021,2020
+Kelland Watts,Centre-Back,1999-11-03,21,England,Plymouth Argyle,League One,2020/2021,2020
+Ollie Tomlinson,Centre-Back,2002-05-19,18,England,Plymouth Argyle,League One,2020/2021,2020
+Jerome Opoku,Left-Back,1998-10-14,22,England,Plymouth Argyle,League One,2020/2021,2020
+Ryan Law,Left-Back,1999-09-08,21,England,Plymouth Argyle,League One,2020/2021,2020
+Jarvis Cleal,Right-Back,2002-04-01,18,England,Plymouth Argyle,League One,2020/2021,2020
+Lewis MacLeod,Central Midfield,1994-06-16,26,Scotland,Plymouth Argyle,League One,2020/2021,2020
+Joe Edwards,Central Midfield,1990-10-31,30,England,Plymouth Argyle,League One,2020/2021,2020
+Conor Grant,Central Midfield,1995-04-18,25,England,Plymouth Argyle,League One,2020/2021,2020
+Tyrese Fornah,Central Midfield,1999-09-11,21,England,Plymouth Argyle,League One,2020/2021,2020
+Danny Mayor,Left Midfield,1990-10-18,30,England,Plymouth Argyle,League One,2020/2021,2020
+Ben Reeves,Attacking Midfield,1991-11-19,28,Northern Ireland,Plymouth Argyle,League One,2020/2021,2020
+Panutche Camara,Attacking Midfield,1997-02-28,23,Guinea-Bissau,Plymouth Argyle,League One,2020/2021,2020
+George Cooper,Left Winger,1996-10-30,24,England,Plymouth Argyle,League One,2020/2021,2020
+Frank Nouble,Centre-Forward,1991-09-24,29,England,Plymouth Argyle,League One,2020/2021,2020
+Ryan Hardie,Centre-Forward,1997-03-17,23,Scotland,Plymouth Argyle,League One,2020/2021,2020
+Byron Moore,Centre-Forward,1988-08-24,32,England,Plymouth Argyle,League One,2020/2021,2020
+Dom Telford,Centre-Forward,1996-12-05,23,England,Plymouth Argyle,League One,2020/2021,2020
+Klajdi Lolos,Centre-Forward,2000-10-06,20,Greece,Plymouth Argyle,League One,2020/2021,2020
+Timmy Abraham,Centre-Forward,2000-12-28,19,England,Plymouth Argyle,League One,2020/2021,2020
+Luke Jephcott,Centre-Forward,2000-01-26,20,Wales,Plymouth Argyle,League One,2020/2021,2020
+Jonathan Mitchell,Goalkeeper,1994-11-24,25,England,Northampton Town,League One,2020/2021,2020
+Steve Arnold,Goalkeeper,1989-08-22,31,England,Northampton Town,League One,2020/2021,2020
+Jacob Ballinger,Defender,2001-09-03,19,England,Northampton Town,League One,2020/2021,2020
+Max Dyche,Defender,2003-02-22,17,England,Northampton Town,League One,2020/2021,2020
+Luka Racic,Centre-Back,1999-05-08,21,Denmark,Northampton Town,League One,2020/2021,2020
+Cian Bolger,Centre-Back,1992-03-12,28,Ireland,Northampton Town,League One,2020/2021,2020
+Alan Sheehan,Centre-Back,1986-09-14,34,Ireland,Northampton Town,League One,2020/2021,2020
+Fraser Horsfall,Centre-Back,1996-11-12,23,England,Northampton Town,League One,2020/2021,2020
+Joseph Mills,Left-Back,1989-10-30,31,England,Northampton Town,League One,2020/2021,2020
+Joe Martin,Left-Back,1988-11-29,31,England,Northampton Town,League One,2020/2021,2020
+Michael Harriman,Right-Back,1992-10-23,28,Ireland,Northampton Town,League One,2020/2021,2020
+Ryan Watson,Defensive Midfield,1993-07-07,27,England,Northampton Town,League One,2020/2021,2020
+Christopher Missilou,Defensive Midfield,1992-07-18,28,Congo,Northampton Town,League One,2020/2021,2020
+Chris Lines,Central Midfield,1985-11-30,34,England,Northampton Town,League One,2020/2021,2020
+Jack Sowerby,Central Midfield,1995-03-23,25,England,Northampton Town,League One,2020/2021,2020
+Shaun McWilliams,Central Midfield,1998-08-14,22,England,Northampton Town,League One,2020/2021,2020
+Scott Pollock,Central Midfield,2001-03-13,19,England,Northampton Town,League One,2020/2021,2020
+Nicky Adams,Right Midfield,1986-10-16,34,Wales,Northampton Town,League One,2020/2021,2020
+Morgan Roberts,Attacking Midfield,2000-12-20,19,England,Northampton Town,League One,2020/2021,2020
+Ethan Johnston,Forward,2002-06-13,18,England,Northampton Town,League One,2020/2021,2020
+Ricky Holmes,Left Winger,1987-06-20,33,England,Northampton Town,League One,2020/2021,2020
+Ricky Korboa,Left Winger,1996-08-02,24,England,Northampton Town,League One,2020/2021,2020
+Sam Hoskins,Right Winger,1993-02-04,27,England,Northampton Town,League One,2020/2021,2020
+Mark Marshall,Right Winger,1986-05-09,34,Jamaica,Northampton Town,League One,2020/2021,2020
+Joe Nuttall,Centre-Forward,1997-01-27,23,England,Northampton Town,League One,2020/2021,2020
+Benny Ashley-Seal,Centre-Forward,1998-11-21,21,England,Northampton Town,League One,2020/2021,2020
+Danny Rose,Centre-Forward,1993-12-10,26,England,Northampton Town,League One,2020/2021,2020
+Harry Smith,Centre-Forward,1995-05-18,25,England,Northampton Town,League One,2020/2021,2020
+Caleb Chukwuemeka,Centre-Forward,2002-01-25,18,England,Northampton Town,League One,2020/2021,2020
+Alex Palmer,Goalkeeper,1996-08-10,24,England,Lincoln City,League One,2020/2021,2020
+Ethan Ross,Goalkeeper,1997-03-06,23,England,Lincoln City,League One,2020/2021,2020
+Adam Jackson,Centre-Back,1994-05-18,26,England,Lincoln City,League One,2020/2021,2020
+Lewis Montsma,Centre-Back,1998-04-25,22,Netherlands,Lincoln City,League One,2020/2021,2020
+Joe Walsh,Centre-Back,1992-05-13,28,Wales,Lincoln City,League One,2020/2021,2020
+Timothy Eyoma,Centre-Back,2000-01-29,20,England,Lincoln City,League One,2020/2021,2020
+Sean Roughan,Centre-Back,2003-08-31,17,Ireland,Lincoln City,League One,2020/2021,2020
+Max Melbourne,Left-Back,1998-10-24,22,England,Lincoln City,League One,2020/2021,2020
+Liam Bridcutt,Defensive Midfield,1989-05-08,31,Scotland,Lincoln City,League One,2020/2021,2020
+Tayo Edun,Defensive Midfield,1998-05-14,22,England,Lincoln City,League One,2020/2021,2020
+Conor McGrandles,Central Midfield,1995-09-24,25,Scotland,Lincoln City,League One,2020/2021,2020
+Robbie Gotts,Central Midfield,1999-11-09,20,England,Lincoln City,League One,2020/2021,2020
+James Jones,Central Midfield,1996-02-13,24,Scotland,Lincoln City,League One,2020/2021,2020
+Harry Anderson,Right Midfield,1997-01-09,23,England,Lincoln City,League One,2020/2021,2020
+Jorge Grant,Left Midfield,1994-09-26,26,England,Lincoln City,League One,2020/2021,2020
+Theo Archibald,Left Midfield,1998-03-05,22,Scotland,Lincoln City,League One,2020/2021,2020
+Brennan Johnson,Attacking Midfield,2001-05-23,19,Wales,Lincoln City,League One,2020/2021,2020
+Anthony Scully,Left Winger,1999-04-19,21,Ireland,Lincoln City,League One,2020/2021,2020
+Remy Howarth,Left Winger,1997-09-14,23,England,Lincoln City,League One,2020/2021,2020
+Zak Elbouzedi,Right Winger,1998-04-05,22,Ireland,Lincoln City,League One,2020/2021,2020
+Tom Hopper,Centre-Forward,1993-12-14,26,England,Lincoln City,League One,2020/2021,2020
+Jordan Adebayo-Smith,Centre-Forward,2001-01-11,19,United States,Lincoln City,League One,2020/2021,2020
+Callum Morton,Centre-Forward,2000-01-19,20,England,Lincoln City,League One,2020/2021,2020
+Jamie Soule,Centre-Forward,2000-11-26,19,England,Lincoln City,League One,2020/2021,2020
+Dániel Gyollai,Goalkeeper,1997-04-07,23,Hungary,Peterborough United,League One,2020/2021,2020
+Christy Pym,Goalkeeper,1995-04-24,25,England,Peterborough United,League One,2020/2021,2020
+Will Blackmore,Goalkeeper,2003-03-13,17,England,Peterborough United,League One,2020/2021,2020
+Mark Beevers,Centre-Back,1989-11-21,30,England,Peterborough United,League One,2020/2021,2020
+Nathan Thompson,Centre-Back,1990-11-09,29,England,Peterborough United,League One,2020/2021,2020
+Frankie Kent,Centre-Back,1995-11-21,24,England,Peterborough United,League One,2020/2021,2020
+Ronnie Edwards,Centre-Back,2003-03-28,17,England,Peterborough United,League One,2020/2021,2020
+Bobby Copping,Centre-Back,2001-09-27,19,England,Peterborough United,League One,2020/2021,2020
+Frazer Blake-Tracy,Left-Back,1995-09-10,25,England,Peterborough United,League One,2020/2021,2020
+Jason Naismith,Right-Back,1994-06-25,26,Scotland,Peterborough United,League One,2020/2021,2020
+Niall Mason,Right-Back,1997-01-10,23,England,Peterborough United,League One,2020/2021,2020
+Louis Reed,Central Midfield,1997-07-25,23,England,Peterborough United,League One,2020/2021,2020
+Reece Brown,Central Midfield,1996-03-03,24,England,Peterborough United,League One,2020/2021,2020
+Jack Taylor,Central Midfield,1998-06-23,22,Ireland,Peterborough United,League One,2020/2021,2020
+Ethan Hamilton,Central Midfield,1998-10-18,22,Scotland,Peterborough United,League One,2020/2021,2020
+Archie Jones,Central Midfield,2001-06-13,19,England,Peterborough United,League One,2020/2021,2020
+Ryan Broom,Right Midfield,1996-09-04,24,Wales,Peterborough United,League One,2020/2021,2020
+Serhat Tasdemir,Right Midfield,2000-07-21,20,Azerbaijan,Peterborough United,League One,2020/2021,2020
+Joe Ward,Right Midfield,1995-08-22,25,England,Peterborough United,League One,2020/2021,2020
+Dan Butler,Left Midfield,1994-08-26,26,England,Peterborough United,League One,2020/2021,2020
+Harrison Burrows,Left Midfield,2002-01-12,18,England,Peterborough United,League One,2020/2021,2020
+Sammie Szmodics,Attacking Midfield,1995-09-24,25,England,Peterborough United,League One,2020/2021,2020
+Flynn Clarke,Attacking Midfield,2002-12-19,17,Scotland,Peterborough United,League One,2020/2021,2020
+Idris Kanu,Right Winger,1999-12-05,20,England,Peterborough United,League One,2020/2021,2020
+Mo Eisa,Centre-Forward,1994-07-12,26,Sudan,Peterborough United,League One,2020/2021,2020
+Jonson Clarke-Harris,Centre-Forward,1994-07-21,26,England,Peterborough United,League One,2020/2021,2020
+Siriki Dembélé,Centre-Forward,1996-09-07,24,Scotland,Peterborough United,League One,2020/2021,2020
+Ricky-Jade Jones,Centre-Forward,2002-11-08,17,England,Peterborough United,League One,2020/2021,2020
+Gavin Bazunu,Goalkeeper,2002-02-20,18,Ireland,Rochdale AFC,League One,2020/2021,2020
+Jay Lynch,Goalkeeper,1993-03-31,27,England,Rochdale AFC,League One,2020/2021,2020
+Bradley Wade,Goalkeeper,2000-07-03,20,England,Rochdale AFC,League One,2020/2021,2020
+Kacper Mialkowski,Defender,NA,NA,Poland,Rochdale AFC,League One,2020/2021,2020
+Paul McShane,Centre-Back,1986-01-06,34,Ireland,Rochdale AFC,League One,2020/2021,2020
+Jim McNulty,Centre-Back,1985-02-13,35,Scotland,Rochdale AFC,League One,2020/2021,2020
+Eoghan O'Connell,Centre-Back,1995-08-13,25,Ireland,Rochdale AFC,League One,2020/2021,2020
+Haydon Roberts,Centre-Back,2002-05-10,18,England,Rochdale AFC,League One,2020/2021,2020
+Yeboah Amankwah,Centre-Back,2000-10-19,20,Ghana,Rochdale AFC,League One,2020/2021,2020
+Joe Dunne,Centre-Back,2001-10-25,19,England,Rochdale AFC,League One,2020/2021,2020
+Tolaji Bola,Left-Back,1999-01-04,21,England,Rochdale AFC,League One,2020/2021,2020
+Ryan McLaughlin,Right-Back,1994-09-30,26,Northern Ireland,Rochdale AFC,League One,2020/2021,2020
+Matthew Lund,Central Midfield,1990-11-21,29,Northern Ireland,Rochdale AFC,League One,2020/2021,2020
+Jimmy Ryan,Central Midfield,1988-09-06,32,Ireland,Rochdale AFC,League One,2020/2021,2020
+Jimmy Keohane,Central Midfield,1991-01-22,29,Ireland,Rochdale AFC,League One,2020/2021,2020
+Oliver Rathbone,Central Midfield,1996-10-10,24,England,Rochdale AFC,League One,2020/2021,2020
+Aaron Morley,Central Midfield,2000-02-27,20,England,Rochdale AFC,League One,2020/2021,2020
+Lewis Bradley,Central Midfield,2001-05-29,19,England,Rochdale AFC,League One,2020/2021,2020
+Harrison Hopper,Central Midfield,2000-12-24,19,England,Rochdale AFC,League One,2020/2021,2020
+Matt Done,Left Midfield,1988-07-22,32,England,Rochdale AFC,League One,2020/2021,2020
+Stephen Dooley,Left Midfield,1991-10-19,29,Northern Ireland,Rochdale AFC,League One,2020/2021,2020
+Alex Newby,Attacking Midfield,1995-11-21,24,England,Rochdale AFC,League One,2020/2021,2020
+Kwadwo Baah,Left Winger,2003-01-27,17,England,Rochdale AFC,League One,2020/2021,2020
+Stephen Humphrys,Centre-Forward,1997-09-15,23,England,Rochdale AFC,League One,2020/2021,2020
+Jake Beesley,Centre-Forward,1996-12-02,23,England,Rochdale AFC,League One,2020/2021,2020
+Fabio Tavares,Centre-Forward,2001-01-22,19,England,Rochdale AFC,League One,2020/2021,2020
+Dave Richards,Goalkeeper,1993-12-31,26,Wales,Crewe Alexandra,League One,2020/2021,2020
+Will Jääskeläinen,Goalkeeper,1998-07-25,22,Finland,Crewe Alexandra,League One,2020/2021,2020
+Sam Booth,Goalkeeper,2000-12-06,19,England,Crewe Alexandra,League One,2020/2021,2020
+Donervon Daniels,Centre-Back,1993-11-24,26,England,Crewe Alexandra,League One,2020/2021,2020
+Olly Lancashire,Centre-Back,1988-12-13,31,England,Crewe Alexandra,League One,2020/2021,2020
+Eddie Nolan,Centre-Back,1988-08-05,32,Ireland,Crewe Alexandra,League One,2020/2021,2020
+Omar Beckles,Centre-Back,1991-10-25,29,Grenada,Crewe Alexandra,League One,2020/2021,2020
+Luke Offord,Centre-Back,1999-11-19,20,England,Crewe Alexandra,League One,2020/2021,2020
+Billy Sass-Davies,Centre-Back,2000-02-17,20,Wales,Crewe Alexandra,League One,2020/2021,2020
+Harry Pickering,Left-Back,1998-12-29,21,England,Crewe Alexandra,League One,2020/2021,2020
+Rio Adebisi,Left-Back,2000-09-27,20,England,Crewe Alexandra,League One,2020/2021,2020
+Nathan Woodthorpe,Left-Back,2001-12-06,18,England,Crewe Alexandra,League One,2020/2021,2020
+Perry Ng,Right-Back,1996-04-27,24,England,Crewe Alexandra,League One,2020/2021,2020
+Travis Johnson,Right-Back,2000-08-28,20,England,Crewe Alexandra,League One,2020/2021,2020
+Joe Robbins,Midfielder,2002-02-20,18,England,Crewe Alexandra,League One,2020/2021,2020
+Luke Murphy,Central Midfield,1989-10-21,31,England,Crewe Alexandra,League One,2020/2021,2020
+Ryan Wintle,Central Midfield,1997-06-13,23,England,Crewe Alexandra,League One,2020/2021,2020
+Tom Lowery,Central Midfield,1997-12-31,22,England,Crewe Alexandra,League One,2020/2021,2020
+Oli Finney,Central Midfield,1997-12-15,22,England,Crewe Alexandra,League One,2020/2021,2020
+Josh Lundstram,Central Midfield,1999-02-19,21,England,Crewe Alexandra,League One,2020/2021,2020
+Callum Ainley,Right Midfield,1997-11-02,23,England,Crewe Alexandra,League One,2020/2021,2020
+Regan Griffiths,Left Midfield,2000-05-01,20,England,Crewe Alexandra,League One,2020/2021,2020
+Charlie Kirk,Left Winger,1997-12-24,22,England,Crewe Alexandra,League One,2020/2021,2020
+Daniel Powell,Right Winger,1991-03-12,29,England,Crewe Alexandra,League One,2020/2021,2020
+Owen Dale,Right Winger,1998-11-01,22,England,Crewe Alexandra,League One,2020/2021,2020
+Chris Porter,Centre-Forward,1983-12-12,36,England,Crewe Alexandra,League One,2020/2021,2020
+Mikael Mandron,Centre-Forward,1994-10-11,26,France,Crewe Alexandra,League One,2020/2021,2020
+Offrande Zanzala,Centre-Forward,1996-11-08,23,Congo,Crewe Alexandra,League One,2020/2021,2020
+Tyreece Onyeka,Centre-Forward,2001-09-01,19,England,Crewe Alexandra,League One,2020/2021,2020
+Connal Trueman,Goalkeeper,1996-03-26,24,England,AFC Wimbledon,League One,2020/2021,2020
+Nikola Tzanev,Goalkeeper,1996-12-23,23,New Zealand,AFC Wimbledon,League One,2020/2021,2020
+Dániel Csóka,Centre-Back,2000-04-04,20,Hungary,AFC Wimbledon,League One,2020/2021,2020
+Will Nightingale,Centre-Back,1995-08-02,25,England,AFC Wimbledon,League One,2020/2021,2020
+Terell Thomas,Centre-Back,1995-10-18,25,England,AFC Wimbledon,League One,2020/2021,2020
+Archie Procter,Centre-Back,2001-11-13,18,England,AFC Wimbledon,League One,2020/2021,2020
+Paul Kalambayi,Centre-Back,1999-07-09,21,England,AFC Wimbledon,League One,2020/2021,2020
+Steve Seddon,Left-Back,1997-12-25,22,England,AFC Wimbledon,League One,2020/2021,2020
+Nesta Guinness-Walker,Left-Back,1999-11-30,20,England,AFC Wimbledon,League One,2020/2021,2020
+Paul Osew,Left-Back,2000-11-25,19,England,AFC Wimbledon,League One,2020/2021,2020
+Luke O'Neill,Right-Back,1991-08-20,29,England,AFC Wimbledon,League One,2020/2021,2020
+Cheye Alexander,Right-Back,1995-01-06,25,England,AFC Wimbledon,League One,2020/2021,2020
+Jamil Awoyejo,Right-Back,2001-06-21,19,England,AFC Wimbledon,League One,2020/2021,2020
+Huseyin Biler,Right-Back,NA,NA,England,AFC Wimbledon,League One,2020/2021,2020
+Jaakko Oksanen,Central Midfield,2000-11-07,19,Finland,AFC Wimbledon,League One,2020/2021,2020
+Callum Reilly,Central Midfield,1993-10-03,27,Ireland,AFC Wimbledon,League One,2020/2021,2020
+Anthony Hartigan,Central Midfield,2000-01-27,20,England,AFC Wimbledon,League One,2020/2021,2020
+Alex Woodyard,Central Midfield,1992-11-16,27,England,AFC Wimbledon,League One,2020/2021,2020
+Jack Rudoni,Central Midfield,2001-06-14,19,England,AFC Wimbledon,League One,2020/2021,2020
+Ayoub Assal,Attacking Midfield,2002-01-21,18,England,AFC Wimbledon,League One,2020/2021,2020
+Ethan Chislett,Attacking Midfield,2000-02-22,20,England,AFC Wimbledon,League One,2020/2021,2020
+Shane McLoughlin,Attacking Midfield,1997-03-01,23,Ireland,AFC Wimbledon,League One,2020/2021,2020
+Adam Roscrow,Forward,1995-02-17,25,Wales,AFC Wimbledon,League One,2020/2021,2020
+Jack Madelin,Forward,2002-04-19,18,Wales,AFC Wimbledon,League One,2020/2021,2020
+Ryan Longman,Right Winger,2000-11-06,20,England,AFC Wimbledon,League One,2020/2021,2020
+Ollie Palmer,Centre-Forward,1992-01-21,28,England,AFC Wimbledon,League One,2020/2021,2020
+Joe Pigott,Centre-Forward,1993-11-24,26,England,AFC Wimbledon,League One,2020/2021,2020
+Zach Robinson,Centre-Forward,2002-06-11,18,England,AFC Wimbledon,League One,2020/2021,2020
+Nathan Baxter,Goalkeeper,1998-11-08,21,England,Accrington Stanley,League One,2020/2021,2020
+Toby Savin,Goalkeeper,2000-05-26,20,England,Accrington Stanley,League One,2020/2021,2020
+Jack Bolton,Defender,NA,NA,England,Accrington Stanley,League One,2020/2021,2020
+Cameron Burgess,Centre-Back,1995-10-21,25,Australia,Accrington Stanley,League One,2020/2021,2020
+Mark Hughes,Centre-Back,1986-12-09,33,England,Accrington Stanley,League One,2020/2021,2020
+Stephen Sama,Centre-Back,1993-03-05,27,Germany,Accrington Stanley,League One,2020/2021,2020
+Michael Nottingham,Centre-Back,1989-04-14,31,St. Kitts & Nevis,Accrington Stanley,League One,2020/2021,2020
+Ross Sykes,Centre-Back,1999-03-26,21,England,Accrington Stanley,League One,2020/2021,2020
+Ben Barclay,Centre-Back,1996-10-07,24,England,Accrington Stanley,League One,2020/2021,2020
+Zehn Mohammed,Centre-Back,2000-02-28,20,England,Accrington Stanley,League One,2020/2021,2020
+Joe Maguire,Left-Back,1996-01-18,24,England,Accrington Stanley,League One,2020/2021,2020
+Harvey Rodgers,Right-Back,1996-10-20,24,England,Accrington Stanley,League One,2020/2021,2020
+Harry Perritt,Right-Back,2000-06-12,20,England,Accrington Stanley,League One,2020/2021,2020
+Rhys Fenlon,Midfielder,2001-11-02,19,England,Accrington Stanley,League One,2020/2021,2020
+Seamus Conneely,Defensive Midfield,1988-06-22,32,Ireland,Accrington Stanley,League One,2020/2021,2020
+Matt Butcher,Defensive Midfield,1997-05-14,23,England,Accrington Stanley,League One,2020/2021,2020
+Tom Scully,Defensive Midfield,1999-10-01,21,England,Accrington Stanley,League One,2020/2021,2020
+Joe Pritchard,Central Midfield,1996-09-10,24,England,Accrington Stanley,League One,2020/2021,2020
+Jon Russell,Central Midfield,2000-10-09,20,England,Accrington Stanley,League One,2020/2021,2020
+Tariq Uwakwe,Central Midfield,1999-11-19,20,England,Accrington Stanley,League One,2020/2021,2020
+Mo Sangare,Central Midfield,1998-12-28,21,Liberia,Accrington Stanley,League One,2020/2021,2020
+Lamine Sherif,Central Midfield,1999-01-27,21,Guinea,Accrington Stanley,League One,2020/2021,2020
+Sean McConville,Left Midfield,1989-03-06,31,England,Accrington Stanley,League One,2020/2021,2020
+Ryan Cassidy,Left Winger,2001-03-02,19,Ireland,Accrington Stanley,League One,2020/2021,2020
+Tom Allan,Right Winger,1999-09-23,21,England,Accrington Stanley,League One,2020/2021,2020
+Lewis Mansell,Centre-Forward,1997-09-20,23,England,Accrington Stanley,League One,2020/2021,2020
+Colby Bishop,Centre-Forward,1996-11-04,24,England,Accrington Stanley,League One,2020/2021,2020
+Dion Charles,Centre-Forward,1995-10-07,25,Northern Ireland,Accrington Stanley,League One,2020/2021,2020
