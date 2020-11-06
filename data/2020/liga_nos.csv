@@ -1,0 +1,507 @@
+player_name,position,date_of_birth,age,nationality,club_name,league_name,season,year
+Odysseas Vlachodimos,Goalkeeper,1994-04-26,26,Greece,SL Benfica,Liga NOS,2020/2021,2020
+Mile Svilar,Goalkeeper,1999-08-27,21,Belgium,SL Benfica,Liga NOS,2020/2021,2020
+Helton Leite,Goalkeeper,1990-11-02,30,Brazil,SL Benfica,Liga NOS,2020/2021,2020
+Jean-Clair Todibo,Centre-Back,1999-12-30,20,France,SL Benfica,Liga NOS,2020/2021,2020
+Nicolás Otamendi,Centre-Back,1988-02-12,32,Argentina,SL Benfica,Liga NOS,2020/2021,2020
+Jan Vertonghen,Centre-Back,1987-04-24,33,Belgium,SL Benfica,Liga NOS,2020/2021,2020
+Ferro,Centre-Back,1997-03-26,23,Portugal,SL Benfica,Liga NOS,2020/2021,2020
+Morato,Centre-Back,2001-06-30,19,Brazil,SL Benfica,Liga NOS,2020/2021,2020
+Jardel,Centre-Back,1986-03-29,34,Brazil,SL Benfica,Liga NOS,2020/2021,2020
+Alejandro Grimaldo,Left-Back,1995-09-20,25,Spain,SL Benfica,Liga NOS,2020/2021,2020
+Nuno Tavares,Left-Back,2000-01-26,20,Portugal,SL Benfica,Liga NOS,2020/2021,2020
+André Almeida,Right-Back,1990-09-10,30,Portugal,SL Benfica,Liga NOS,2020/2021,2020
+Gilberto,Right-Back,1993-03-07,27,Brazil,SL Benfica,Liga NOS,2020/2021,2020
+Julian Weigl,Defensive Midfield,1995-09-08,25,Germany,SL Benfica,Liga NOS,2020/2021,2020
+Gabriel,Defensive Midfield,1993-09-18,27,Brazil,SL Benfica,Liga NOS,2020/2021,2020
+Andreas Samaris,Defensive Midfield,1989-06-13,31,Greece,SL Benfica,Liga NOS,2020/2021,2020
+Pedrinho,Right Midfield,1998-04-13,22,Brazil,SL Benfica,Liga NOS,2020/2021,2020
+Diogo Gonçalves,Right Midfield,1997-02-06,23,Portugal,SL Benfica,Liga NOS,2020/2021,2020
+Éverton,Left Midfield,1996-03-22,24,Brazil,SL Benfica,Liga NOS,2020/2021,2020
+Rafa Silva,Left Midfield,1993-05-17,27,Portugal,SL Benfica,Liga NOS,2020/2021,2020
+Franco Cervi,Left Midfield,1994-05-26,26,Argentina,SL Benfica,Liga NOS,2020/2021,2020
+Pizzi,Attacking Midfield,1989-10-06,31,Portugal,SL Benfica,Liga NOS,2020/2021,2020
+Chiquinho,Attacking Midfield,1995-07-19,25,Portugal,SL Benfica,Liga NOS,2020/2021,2020
+Adel Taarabt,Attacking Midfield,1989-05-24,31,Morocco,SL Benfica,Liga NOS,2020/2021,2020
+Luca Waldschmidt,Second Striker,1996-05-19,24,Germany,SL Benfica,Liga NOS,2020/2021,2020
+Gonçalo Ramos,Second Striker,2001-06-20,19,Portugal,SL Benfica,Liga NOS,2020/2021,2020
+Darwin Núñez,Centre-Forward,1999-06-24,21,Uruguay,SL Benfica,Liga NOS,2020/2021,2020
+Haris Seferovic,Centre-Forward,1992-02-22,28,Switzerland,SL Benfica,Liga NOS,2020/2021,2020
+Facundo Ferreyra,Centre-Forward,1991-03-14,29,Argentina,SL Benfica,Liga NOS,2020/2021,2020
+Agustín Marchesín,Goalkeeper,1988-03-16,32,Argentina,FC Porto,Liga NOS,2020/2021,2020
+Diogo Costa,Goalkeeper,1999-09-19,21,Portugal,FC Porto,Liga NOS,2020/2021,2020
+Cláudio Ramos,Goalkeeper,1991-11-16,28,Portugal,FC Porto,Liga NOS,2020/2021,2020
+Mouhamed Mbaye,Goalkeeper,1997-10-13,23,Senegal,FC Porto,Liga NOS,2020/2021,2020
+Malang Sarr,Centre-Back,1999-01-23,21,France,FC Porto,Liga NOS,2020/2021,2020
+Diogo Leite,Centre-Back,1999-01-23,21,Portugal,FC Porto,Liga NOS,2020/2021,2020
+Chancel Mbemba,Centre-Back,1994-08-08,26,DR Congo,FC Porto,Liga NOS,2020/2021,2020
+Iván Marcano,Centre-Back,1987-06-23,33,Spain,FC Porto,Liga NOS,2020/2021,2020
+Pepe,Centre-Back,1983-02-26,37,Portugal,FC Porto,Liga NOS,2020/2021,2020
+Zaidu Sanusi,Left-Back,1997-06-13,23,Nigeria,FC Porto,Liga NOS,2020/2021,2020
+Wilson Manafá,Right-Back,1994-07-23,26,Portugal,FC Porto,Liga NOS,2020/2021,2020
+Nanú,Right-Back,1994-05-17,26,Guinea-Bissau,FC Porto,Liga NOS,2020/2021,2020
+Carraça,Right-Back,1993-03-01,27,Portugal,FC Porto,Liga NOS,2020/2021,2020
+Mamadou Loum,Defensive Midfield,1996-12-30,23,Senegal,FC Porto,Liga NOS,2020/2021,2020
+Marko Grujic,Central Midfield,1996-04-13,24,Serbia,FC Porto,Liga NOS,2020/2021,2020
+Mateus Uribe,Central Midfield,1991-03-21,29,Colombia,FC Porto,Liga NOS,2020/2021,2020
+Sérgio Oliveira,Central Midfield,1992-06-02,28,Portugal,FC Porto,Liga NOS,2020/2021,2020
+Otávio,Attacking Midfield,1995-02-09,25,Brazil,FC Porto,Liga NOS,2020/2021,2020
+Romário Baró,Attacking Midfield,2000-01-25,20,Portugal,FC Porto,Liga NOS,2020/2021,2020
+Fábio Vieira,Attacking Midfield,2000-05-30,20,Portugal,FC Porto,Liga NOS,2020/2021,2020
+Felipe Anderson,Left Winger,1993-04-15,27,Brazil,FC Porto,Liga NOS,2020/2021,2020
+Luis Díaz,Left Winger,1997-01-13,23,Colombia,FC Porto,Liga NOS,2020/2021,2020
+Shoya Nakajima,Left Winger,1994-08-23,26,Japan,FC Porto,Liga NOS,2020/2021,2020
+João Mário,Left Winger,2000-01-03,20,Portugal,FC Porto,Liga NOS,2020/2021,2020
+Jesús Corona,Right Winger,1993-01-06,27,Mexico,FC Porto,Liga NOS,2020/2021,2020
+Moussa Marega,Centre-Forward,1991-04-14,29,Mali,FC Porto,Liga NOS,2020/2021,2020
+Mehdi Taremi,Centre-Forward,1992-07-18,28,Iran,FC Porto,Liga NOS,2020/2021,2020
+Evanilson,Centre-Forward,1999-10-06,21,Brazil,FC Porto,Liga NOS,2020/2021,2020
+Toni Martínez,Centre-Forward,1997-06-30,23,Spain,FC Porto,Liga NOS,2020/2021,2020
+Luís Maximiano,Goalkeeper,1999-01-05,21,Portugal,Sporting CP,Liga NOS,2020/2021,2020
+Renan Ribeiro,Goalkeeper,1990-03-23,30,Brazil,Sporting CP,Liga NOS,2020/2021,2020
+Antonio Adán,Goalkeeper,1987-05-13,33,Spain,Sporting CP,Liga NOS,2020/2021,2020
+Sebastián Coates,Centre-Back,1990-10-07,30,Uruguay,Sporting CP,Liga NOS,2020/2021,2020
+Eduardo Quaresma,Centre-Back,2002-03-02,18,Portugal,Sporting CP,Liga NOS,2020/2021,2020
+Zouhair Feddal,Centre-Back,1989-12-23,30,Morocco,Sporting CP,Liga NOS,2020/2021,2020
+Tiago Ilori,Centre-Back,1993-02-26,27,Portugal,Sporting CP,Liga NOS,2020/2021,2020
+Luís Neto,Centre-Back,1988-05-26,32,Portugal,Sporting CP,Liga NOS,2020/2021,2020
+Gonçalo Inácio,Centre-Back,2001-08-25,19,Portugal,Sporting CP,Liga NOS,2020/2021,2020
+Nuno Mendes,Left-Back,2002-06-19,18,Portugal,Sporting CP,Liga NOS,2020/2021,2020
+Cristian Borja,Left-Back,1993-02-18,27,Colombia,Sporting CP,Liga NOS,2020/2021,2020
+Vitorino Antunes,Left-Back,1987-04-01,33,Portugal,Sporting CP,Liga NOS,2020/2021,2020
+Lumor,Left-Back,1996-08-15,24,Ghana,Sporting CP,Liga NOS,2020/2021,2020
+Pedro Porro,Right-Back,1999-09-13,21,Spain,Sporting CP,Liga NOS,2020/2021,2020
+Stefan Ristovski,Right-Back,1992-02-12,28,North Macedonia,Sporting CP,Liga NOS,2020/2021,2020
+Bruno Gaspar,Right-Back,1993-04-21,27,Angola,Sporting CP,Liga NOS,2020/2021,2020
+João Palhinha,Defensive Midfield,1995-07-09,25,Portugal,Sporting CP,Liga NOS,2020/2021,2020
+João Mário,Central Midfield,1993-01-19,27,Portugal,Sporting CP,Liga NOS,2020/2021,2020
+Pedro Gonçalves,Central Midfield,1998-06-28,22,Portugal,Sporting CP,Liga NOS,2020/2021,2020
+Matheus Nunes,Central Midfield,1998-08-27,22,Brazil,Sporting CP,Liga NOS,2020/2021,2020
+Daniel Bragança,Central Midfield,1999-05-27,21,Portugal,Sporting CP,Liga NOS,2020/2021,2020
+Rodrigo Fernandes,Central Midfield,2001-03-23,19,Portugal,Sporting CP,Liga NOS,2020/2021,2020
+Joelson Fernandes,Left Winger,2003-02-28,17,Portugal,Sporting CP,Liga NOS,2020/2021,2020
+Nuno Santos,Left Winger,1995-02-13,25,Portugal,Sporting CP,Liga NOS,2020/2021,2020
+Jovane Cabral,Right Winger,1998-06-14,22,Cape Verde,Sporting CP,Liga NOS,2020/2021,2020
+Tabata,Right Winger,1997-03-30,23,Brazil,Sporting CP,Liga NOS,2020/2021,2020
+Gonzalo Plata,Right Winger,2000-11-01,20,Ecuador,Sporting CP,Liga NOS,2020/2021,2020
+Rafael Camacho,Right Winger,2000-05-22,20,Portugal,Sporting CP,Liga NOS,2020/2021,2020
+Luiz Phellype,Centre-Forward,1993-09-27,27,Brazil,Sporting CP,Liga NOS,2020/2021,2020
+Andraz Sporar,Centre-Forward,1994-02-27,26,Slovenia,Sporting CP,Liga NOS,2020/2021,2020
+Tiago Tomás,Centre-Forward,2002-06-16,18,Portugal,Sporting CP,Liga NOS,2020/2021,2020
+Matheus,Goalkeeper,1992-07-19,28,Brazil,SC Braga,Liga NOS,2020/2021,2020
+Tiago Sá,Goalkeeper,1995-01-11,25,Portugal,SC Braga,Liga NOS,2020/2021,2020
+Lukas Hornicek,Goalkeeper,2002-07-13,18,Czech Republic,SC Braga,Liga NOS,2020/2021,2020
+David Carmo,Centre-Back,1999-07-19,21,Portugal,SC Braga,Liga NOS,2020/2021,2020
+Bruno Viana,Centre-Back,1995-02-05,25,Brazil,SC Braga,Liga NOS,2020/2021,2020
+Raúl Silva,Centre-Back,1989-11-04,31,Brazil,SC Braga,Liga NOS,2020/2021,2020
+Vítor Tormena,Centre-Back,1996-01-04,24,Brazil,SC Braga,Liga NOS,2020/2021,2020
+Rolando,Centre-Back,1985-08-31,35,Portugal,SC Braga,Liga NOS,2020/2021,2020
+Nuno Sequeira,Left-Back,1990-08-19,30,Portugal,SC Braga,Liga NOS,2020/2021,2020
+Francisco Moura,Left-Back,1999-08-16,21,Portugal,SC Braga,Liga NOS,2020/2021,2020
+Ricardo Esgaio,Right-Back,1993-05-16,27,Portugal,SC Braga,Liga NOS,2020/2021,2020
+Diogo Figueiras,Right-Back,1991-07-01,29,Portugal,SC Braga,Liga NOS,2020/2021,2020
+Zé Carlos,Right-Back,1998-07-31,22,Portugal,SC Braga,Liga NOS,2020/2021,2020
+Al Musrati,Defensive Midfield,1996-04-06,24,Libya,SC Braga,Liga NOS,2020/2021,2020
+André Horta,Central Midfield,1996-11-07,23,Portugal,SC Braga,Liga NOS,2020/2021,2020
+Fransérgio,Central Midfield,1990-10-18,30,Brazil,SC Braga,Liga NOS,2020/2021,2020
+André Castro,Central Midfield,1988-04-02,32,Portugal,SC Braga,Liga NOS,2020/2021,2020
+Nico Gaitán,Attacking Midfield,1988-02-23,32,Argentina,SC Braga,Liga NOS,2020/2021,2020
+João Novais,Attacking Midfield,1993-07-10,27,Portugal,SC Braga,Liga NOS,2020/2021,2020
+Eduardo,Attacking Midfield,1993-06-07,27,Brazil,SC Braga,Liga NOS,2020/2021,2020
+Ricardo Horta,Left Winger,1994-09-15,26,Portugal,SC Braga,Liga NOS,2020/2021,2020
+Galeno,Right Winger,1997-10-22,23,Brazil,SC Braga,Liga NOS,2020/2021,2020
+Iuri Medeiros,Right Winger,1994-07-10,26,Portugal,SC Braga,Liga NOS,2020/2021,2020
+Paulinho,Centre-Forward,1992-11-09,27,Portugal,SC Braga,Liga NOS,2020/2021,2020
+Abel Ruiz,Centre-Forward,2000-01-28,20,Spain,SC Braga,Liga NOS,2020/2021,2020
+Rui Fonte,Centre-Forward,1990-04-23,30,Portugal,SC Braga,Liga NOS,2020/2021,2020
+Guilherme Schettine,Centre-Forward,1995-10-10,25,Brazil,SC Braga,Liga NOS,2020/2021,2020
+Crislan,Centre-Forward,1992-03-13,28,Brazil,SC Braga,Liga NOS,2020/2021,2020
+Bruno Varela,Goalkeeper,1994-11-04,26,Portugal,Vitória Guimarães SC,Liga NOS,2020/2021,2020
+Matous Trmal,Goalkeeper,1998-10-02,22,Czech Republic,Vitória Guimarães SC,Liga NOS,2020/2021,2020
+Nicolas Tie,Goalkeeper,2001-02-13,19,Cote d'Ivoire,Vitória Guimarães SC,Liga NOS,2020/2021,2020
+Celton Biai,Goalkeeper,2000-08-13,20,Portugal,Vitória Guimarães SC,Liga NOS,2020/2021,2020
+Jorge Fernandes,Centre-Back,1997-04-02,23,Portugal,Vitória Guimarães SC,Liga NOS,2020/2021,2020
+Easah Suliman,Centre-Back,1998-01-26,22,England,Vitória Guimarães SC,Liga NOS,2020/2021,2020
+Abdul Mumin,Centre-Back,1998-06-06,22,Ghana,Vitória Guimarães SC,Liga NOS,2020/2021,2020
+Yann Aurel Bisseck,Centre-Back,2000-11-29,19,Germany,Vitória Guimarães SC,Liga NOS,2020/2021,2020
+Gideon Mensah,Left-Back,1998-07-18,22,Ghana,Vitória Guimarães SC,Liga NOS,2020/2021,2020
+Jonas Carls,Left-Back,1997-03-25,23,Germany,Vitória Guimarães SC,Liga NOS,2020/2021,2020
+Matheus Mascarenhas,Left-Back,1998-07-27,22,Brazil,Vitória Guimarães SC,Liga NOS,2020/2021,2020
+Falaye Sacko,Right-Back,1995-05-01,25,Mali,Vitória Guimarães SC,Liga NOS,2020/2021,2020
+Sílvio,Right-Back,1987-09-28,33,Portugal,Vitória Guimarães SC,Liga NOS,2020/2021,2020
+Mikel Agu,Defensive Midfield,1993-05-27,27,Nigeria,Vitória Guimarães SC,Liga NOS,2020/2021,2020
+Alhassan Wakaso,Defensive Midfield,1992-01-07,28,Ghana,Vitória Guimarães SC,Liga NOS,2020/2021,2020
+Pepelu,Defensive Midfield,1998-08-11,22,Spain,Vitória Guimarães SC,Liga NOS,2020/2021,2020
+André André,Central Midfield,1989-08-26,31,Portugal,Vitória Guimarães SC,Liga NOS,2020/2021,2020
+Miguel Luís,Central Midfield,1999-02-27,21,Portugal,Vitória Guimarães SC,Liga NOS,2020/2021,2020
+Denis Will Poha,Central Midfield,1997-05-28,23,France,Vitória Guimarães SC,Liga NOS,2020/2021,2020
+Nicolas Janvier,Central Midfield,1998-08-11,22,France,Vitória Guimarães SC,Liga NOS,2020/2021,2020
+Joseph Amoah,Central Midfield,1994-06-26,26,Ghana,Vitória Guimarães SC,Liga NOS,2020/2021,2020
+Jung-min Kim,Central Midfield,1999-11-13,20,"Korea, South",Vitória Guimarães SC,Liga NOS,2020/2021,2020
+André Almeida,Attacking Midfield,2000-05-30,20,Portugal,Vitória Guimarães SC,Liga NOS,2020/2021,2020
+Jacob Maddox,Attacking Midfield,1998-11-03,22,England,Vitória Guimarães SC,Liga NOS,2020/2021,2020
+Elias Abouchabaka,Attacking Midfield,2000-03-31,20,Germany,Vitória Guimarães SC,Liga NOS,2020/2021,2020
+Nélson Luz,Left Winger,1998-02-04,22,Angola,Vitória Guimarães SC,Liga NOS,2020/2021,2020
+Marcus Edwards,Right Winger,1998-12-03,21,England,Vitória Guimarães SC,Liga NOS,2020/2021,2020
+Rochinha,Right Winger,1995-05-03,25,Portugal,Vitória Guimarães SC,Liga NOS,2020/2021,2020
+Abou Ouattara,Right Winger,1999-12-26,20,Burkina Faso,Vitória Guimarães SC,Liga NOS,2020/2021,2020
+Ricardo Quaresma,Right Winger,1983-09-26,37,Portugal,Vitória Guimarães SC,Liga NOS,2020/2021,2020
+Bruno Duarte,Centre-Forward,1996-03-24,24,Brazil,Vitória Guimarães SC,Liga NOS,2020/2021,2020
+Lyle Foster,Centre-Forward,2000-09-03,20,South Africa,Vitória Guimarães SC,Liga NOS,2020/2021,2020
+Noah Jean Holm,Centre-Forward,2001-05-23,19,Norway,Vitória Guimarães SC,Liga NOS,2020/2021,2020
+Ivan Zlobin,Goalkeeper,1997-03-07,23,Russia,FC Famalicão,Liga NOS,2020/2021,2020
+Vaná Alves,Goalkeeper,1991-04-25,29,Brazil,FC Famalicão,Liga NOS,2020/2021,2020
+Luiz Júnior,Goalkeeper,2001-01-14,19,Brazil,FC Famalicão,Liga NOS,2020/2021,2020
+Diogo Queirós,Centre-Back,1999-01-05,21,Portugal,FC Famalicão,Liga NOS,2020/2021,2020
+Patrick William,Centre-Back,1997-06-03,23,Brazil,FC Famalicão,Liga NOS,2020/2021,2020
+Riccieli,Centre-Back,1998-09-17,22,Brazil,FC Famalicão,Liga NOS,2020/2021,2020
+Srdjan Babic,Centre-Back,1996-04-22,24,Serbia,FC Famalicão,Liga NOS,2020/2021,2020
+Henrique Trevisan,Centre-Back,1997-01-20,23,Brazil,FC Famalicão,Liga NOS,2020/2021,2020
+Calvin Verdonk,Left-Back,1997-04-26,23,Netherlands,FC Famalicão,Liga NOS,2020/2021,2020
+Abdul Ibrahim,Left-Back,1999-01-13,21,Ghana,FC Famalicão,Liga NOS,2020/2021,2020
+Jorginho,Left-Back,1998-06-27,22,Portugal,FC Famalicão,Liga NOS,2020/2021,2020
+Edwin Herrera,Right-Back,1998-09-02,22,Colombia,FC Famalicão,Liga NOS,2020/2021,2020
+Dani Morer,Right-Back,1998-02-05,22,Spain,FC Famalicão,Liga NOS,2020/2021,2020
+Gustavo Assunção,Defensive Midfield,2000-03-30,20,Brazil,FC Famalicão,Liga NOS,2020/2021,2020
+Bruno Jordão,Central Midfield,1998-10-12,22,Portugal,FC Famalicão,Liga NOS,2020/2021,2020
+Guga,Central Midfield,1997-07-18,23,Portugal,FC Famalicão,Liga NOS,2020/2021,2020
+Iván Jaime,Central Midfield,2000-09-26,20,Spain,FC Famalicão,Liga NOS,2020/2021,2020
+Joaquín Pereyra,Central Midfield,1998-12-01,21,Argentina,FC Famalicão,Liga NOS,2020/2021,2020
+Andrija Lukovic,Central Midfield,1994-10-24,26,Serbia,FC Famalicão,Liga NOS,2020/2021,2020
+Jhonata Robert,Left Winger,1999-10-26,21,Brazil,FC Famalicão,Liga NOS,2020/2021,2020
+Gil Dias,Right Winger,1996-09-28,24,Portugal,FC Famalicão,Liga NOS,2020/2021,2020
+Rúben Lameiras,Right Winger,1994-12-22,25,Portugal,FC Famalicão,Liga NOS,2020/2021,2020
+Carlos Valenzuela,Right Winger,1997-04-22,23,Argentina,FC Famalicão,Liga NOS,2020/2021,2020
+Dyego Sousa,Centre-Forward,1989-09-14,31,Portugal,FC Famalicão,Liga NOS,2020/2021,2020
+Anderson Silva,Centre-Forward,1997-11-21,22,Brazil,FC Famalicão,Liga NOS,2020/2021,2020
+Leonardo Campana,Centre-Forward,2000-07-24,20,Ecuador,FC Famalicão,Liga NOS,2020/2021,2020
+Marcello Trotta,Centre-Forward,1992-09-29,28,Italy,FC Famalicão,Liga NOS,2020/2021,2020
+Rubén Del Campo,Centre-Forward,2000-02-22,20,Switzerland,FC Famalicão,Liga NOS,2020/2021,2020
+Léo Jardim,Goalkeeper,1995-03-20,25,Brazil,Boavista FC,Liga NOS,2020/2021,2020
+Rafael Bracali,Goalkeeper,1981-05-05,39,Brazil,Boavista FC,Liga NOS,2020/2021,2020
+Matheus Kayser,Goalkeeper,1994-12-29,25,Brazil,Boavista FC,Liga NOS,2020/2021,2020
+João Gonçalves,Goalkeeper,2000-11-05,20,Portugal,Boavista FC,Liga NOS,2020/2021,2020
+Chidozie Awaziem,Centre-Back,1997-01-01,23,Nigeria,Boavista FC,Liga NOS,2020/2021,2020
+Adil Rami,Centre-Back,1985-12-27,34,France,Boavista FC,Liga NOS,2020/2021,2020
+Jackson Porozo,Centre-Back,2000-08-04,20,Ecuador,Boavista FC,Liga NOS,2020/2021,2020
+Alejandro Gómez,Centre-Back,2002-01-31,18,Mexico,Boavista FC,Liga NOS,2020/2021,2020
+Gustavo Dulanto,Centre-Back,1995-05-09,25,Peru,Boavista FC,Liga NOS,2020/2021,2020
+Cristian Castro,Centre-Back,2001-01-25,19,Colombia,Boavista FC,Liga NOS,2020/2021,2020
+Ricardo Mangas,Left-Back,1998-03-19,22,Portugal,Boavista FC,Liga NOS,2020/2021,2020
+Yanis Hamache,Left-Back,1999-07-13,21,France,Boavista FC,Liga NOS,2020/2021,2020
+Reggie Cannon,Right-Back,1998-06-11,22,United States,Boavista FC,Liga NOS,2020/2021,2020
+Nathan,Right-Back,2001-09-05,19,Brazil,Boavista FC,Liga NOS,2020/2021,2020
+Javi García,Defensive Midfield,1987-02-08,33,Spain,Boavista FC,Liga NOS,2020/2021,2020
+Show,Defensive Midfield,1999-03-06,21,Angola,Boavista FC,Liga NOS,2020/2021,2020
+Sebastián Pérez,Defensive Midfield,1993-03-29,27,Colombia,Boavista FC,Liga NOS,2020/2021,2020
+Miguel Reisinho,Central Midfield,1999-04-09,21,Portugal,Boavista FC,Liga NOS,2020/2021,2020
+Paulinho,Left Midfield,1997-01-08,23,Brazil,Boavista FC,Liga NOS,2020/2021,2020
+Angel Gomes,Attacking Midfield,2000-08-31,20,England,Boavista FC,Liga NOS,2020/2021,2020
+Nuno Santos,Attacking Midfield,1999-03-02,21,Portugal,Boavista FC,Liga NOS,2020/2021,2020
+Musa Juwara,Left Winger,2001-12-26,18,The Gambia,Boavista FC,Liga NOS,2020/2021,2020
+Gustavo Sauer,Left Winger,1993-04-30,27,Brazil,Boavista FC,Liga NOS,2020/2021,2020
+Alberth Elis,Right Winger,1996-02-12,24,Honduras,Boavista FC,Liga NOS,2020/2021,2020
+Yusupha Njie,Centre-Forward,1994-01-03,26,The Gambia,Boavista FC,Liga NOS,2020/2021,2020
+Jorge Benguche,Centre-Forward,1996-05-21,24,Honduras,Boavista FC,Liga NOS,2020/2021,2020
+Pawel Kieszek,Goalkeeper,1984-04-16,36,Poland,Rio Ave FC,Liga NOS,2020/2021,2020
+Léo Vieira,Goalkeeper,1990-09-22,30,Brazil,Rio Ave FC,Liga NOS,2020/2021,2020
+Toni Borevkovic,Centre-Back,1997-06-18,23,Croatia,Rio Ave FC,Liga NOS,2020/2021,2020
+Aderllan Santos,Centre-Back,1989-04-09,31,Brazil,Rio Ave FC,Liga NOS,2020/2021,2020
+Nélson Monte,Centre-Back,1995-07-30,25,Portugal,Rio Ave FC,Liga NOS,2020/2021,2020
+Nando Pijnaker,Centre-Back,1999-02-25,21,New Zealand,Rio Ave FC,Liga NOS,2020/2021,2020
+Matheus Reis,Left-Back,1995-02-18,25,Brazil,Rio Ave FC,Liga NOS,2020/2021,2020
+Pedro Amaral,Left-Back,1997-08-25,23,Portugal,Rio Ave FC,Liga NOS,2020/2021,2020
+Fábio Coentrão,Left-Back,1988-03-11,32,Portugal,Rio Ave FC,Liga NOS,2020/2021,2020
+Ivo Pinto,Right-Back,1990-01-07,30,Portugal,Rio Ave FC,Liga NOS,2020/2021,2020
+Junio,Right-Back,1997-02-27,23,Brazil,Rio Ave FC,Liga NOS,2020/2021,2020
+Pelé,Defensive Midfield,1991-09-29,29,Guinea-Bissau,Rio Ave FC,Liga NOS,2020/2021,2020
+Filipe Augusto,Defensive Midfield,1993-08-12,27,Brazil,Rio Ave FC,Liga NOS,2020/2021,2020
+Nikola Jambor,Defensive Midfield,1995-09-25,25,Croatia,Rio Ave FC,Liga NOS,2020/2021,2020
+Tarantini,Central Midfield,1983-10-07,37,Portugal,Rio Ave FC,Liga NOS,2020/2021,2020
+Diego Lopes,Attacking Midfield,1994-05-03,26,Brazil,Rio Ave FC,Liga NOS,2020/2021,2020
+Chico Geraldes,Attacking Midfield,1995-04-18,25,Portugal,Rio Ave FC,Liga NOS,2020/2021,2020
+Ryotaro Meshino,Attacking Midfield,1998-06-18,22,Japan,Rio Ave FC,Liga NOS,2020/2021,2020
+Lucas Piazón,Left Winger,1994-01-20,26,Brazil,Rio Ave FC,Liga NOS,2020/2021,2020
+Carlos Mané,Right Winger,1994-03-11,26,Portugal,Rio Ave FC,Liga NOS,2020/2021,2020
+Gabrielzinho,Right Winger,1996-09-29,24,Brazil,Rio Ave FC,Liga NOS,2020/2021,2020
+Gelson Dala,Second Striker,1996-07-13,24,Angola,Rio Ave FC,Liga NOS,2020/2021,2020
+André Pereira,Centre-Forward,1995-05-05,25,Portugal,Rio Ave FC,Liga NOS,2020/2021,2020
+Ronan,Centre-Forward,1995-04-22,25,Brazil,Rio Ave FC,Liga NOS,2020/2021,2020
+Bruno Moreira,Centre-Forward,1987-09-06,33,Portugal,Rio Ave FC,Liga NOS,2020/2021,2020
+Said Ahmed Said,Centre-Forward,1993-04-20,27,Italy,Rio Ave FC,Liga NOS,2020/2021,2020
+Ricardo Ferreira,Goalkeeper,1989-12-03,30,Portugal,Portimonense SC,Liga NOS,2020/2021,2020
+Shuichi Gonda,Goalkeeper,1989-03-03,31,Japan,Portimonense SC,Liga NOS,2020/2021,2020
+Samuel,Goalkeeper,1994-03-29,26,Brazil,Portimonense SC,Liga NOS,2020/2021,2020
+Maurício Antônio,Centre-Back,1992-02-06,28,Brazil,Portimonense SC,Liga NOS,2020/2021,2020
+Lucas Possignolo,Centre-Back,1994-05-11,26,Brazil,Portimonense SC,Liga NOS,2020/2021,2020
+Jadson,Centre-Back,1991-11-05,29,Brazil,Portimonense SC,Liga NOS,2020/2021,2020
+Willyan Rocha,Centre-Back,1995-01-27,25,Brazil,Portimonense SC,Liga NOS,2020/2021,2020
+Lucas Tagliapietra,Centre-Back,1990-11-05,30,Brazil,Portimonense SC,Liga NOS,2020/2021,2020
+Henrique,Left-Back,1995-01-05,25,Brazil,Portimonense SC,Liga NOS,2020/2021,2020
+Fali Candé,Left-Back,1998-01-24,22,Portugal,Portimonense SC,Liga NOS,2020/2021,2020
+Fahd Moufi,Right-Back,1996-05-05,24,Morocco,Portimonense SC,Liga NOS,2020/2021,2020
+Koki Anzai,Right-Back,1995-05-31,25,Japan,Portimonense SC,Liga NOS,2020/2021,2020
+Emmanuel Hackman,Right-Back,1995-05-14,25,Ghana,Portimonense SC,Liga NOS,2020/2021,2020
+Pedro Sá,Defensive Midfield,1993-12-01,26,Portugal,Portimonense SC,Liga NOS,2020/2021,2020
+Rômulo,Defensive Midfield,1996-01-10,24,Brazil,Portimonense SC,Liga NOS,2020/2021,2020
+Fernando Medeiros,Central Midfield,1996-02-10,24,Brazil,Portimonense SC,Liga NOS,2020/2021,2020
+Lucas Fernandes,Attacking Midfield,1997-09-20,23,Brazil,Portimonense SC,Liga NOS,2020/2021,2020
+Dener,Attacking Midfield,1992-03-13,28,Brazil,Portimonense SC,Liga NOS,2020/2021,2020
+Anderson Oliveira,Attacking Midfield,1998-07-16,22,Brazil,Portimonense SC,Liga NOS,2020/2021,2020
+Luquinhas,Attacking Midfield,2000-10-03,20,Brazil,Portimonense SC,Liga NOS,2020/2021,2020
+Aylton Boa Morte,Left Winger,1993-09-23,27,Portugal,Portimonense SC,Liga NOS,2020/2021,2020
+Júlio César,Left Winger,1994-08-12,26,Brazil,Portimonense SC,Liga NOS,2020/2021,2020
+Welinton Junior,Right Winger,1993-06-08,27,Brazil,Portimonense SC,Liga NOS,2020/2021,2020
+Safawi Rasid,Right Winger,1997-03-05,23,Malaysia,Portimonense SC,Liga NOS,2020/2021,2020
+Ricardo Vaz Tê,Right Winger,1986-10-01,34,Portugal,Portimonense SC,Liga NOS,2020/2021,2020
+Fabrício,Centre-Forward,1990-03-28,30,Brazil,Portimonense SC,Liga NOS,2020/2021,2020
+Anatole Abang,Centre-Forward,1996-07-06,24,Cameroon,Portimonense SC,Liga NOS,2020/2021,2020
+Beto,Centre-Forward,1998-01-31,22,Portugal,Portimonense SC,Liga NOS,2020/2021,2020
+Amir Abedzadeh,Goalkeeper,1993-04-26,27,Iran,CS Marítimo,Liga NOS,2020/2021,2020
+Charles,Goalkeeper,1994-02-04,26,Brazil,CS Marítimo,Liga NOS,2020/2021,2020
+Caio Secco,Goalkeeper,1990-12-22,29,Brazil,CS Marítimo,Liga NOS,2020/2021,2020
+Dejan Kerkez,Centre-Back,1996-01-20,24,Serbia,CS Marítimo,Liga NOS,2020/2021,2020
+Renê,Centre-Back,1992-04-21,28,Brazil,CS Marítimo,Liga NOS,2020/2021,2020
+Zainadine Júnior,Centre-Back,1988-06-24,32,Mozambique,CS Marítimo,Liga NOS,2020/2021,2020
+Lucas Áfrico,Centre-Back,1995-02-05,25,Brazil,CS Marítimo,Liga NOS,2020/2021,2020
+Marcelo Hermes,Left-Back,1995-01-02,25,Brazil,CS Marítimo,Liga NOS,2020/2021,2020
+Fábio China,Left-Back,1992-07-07,28,Portugal,CS Marítimo,Liga NOS,2020/2021,2020
+Cláudio Winck,Right-Back,1994-04-15,26,Brazil,CS Marítimo,Liga NOS,2020/2021,2020
+Franck Bambock,Defensive Midfield,1995-04-07,25,France,CS Marítimo,Liga NOS,2020/2021,2020
+Diego Moreno,Defensive Midfield,1996-02-27,24,Colombia,CS Marítimo,Liga NOS,2020/2021,2020
+Jean,Defensive Midfield,1994-09-26,26,Brazil,CS Marítimo,Liga NOS,2020/2021,2020
+Pedro Pelágio,Central Midfield,2000-04-21,20,Portugal,CS Marítimo,Liga NOS,2020/2021,2020
+Jean Cleber,Central Midfield,1990-04-29,30,Brazil,CS Marítimo,Liga NOS,2020/2021,2020
+Edgar Costa,Right Midfield,1987-04-14,33,Portugal,CS Marítimo,Liga NOS,2020/2021,2020
+Jorge Correa,Left Midfield,1993-04-04,27,Argentina,CS Marítimo,Liga NOS,2020/2021,2020
+Rafik Guitane,Attacking Midfield,1999-05-26,21,France,CS Marítimo,Liga NOS,2020/2021,2020
+Rúben Macedo,Left Winger,1996-03-09,24,Portugal,CS Marítimo,Liga NOS,2020/2021,2020
+Francois-Xavier Fumu Tamuzo,Right Winger,1995-04-03,25,France,CS Marítimo,Liga NOS,2020/2021,2020
+Faiq Bolkiah,Right Winger,1998-05-09,22,Brunei Darussalam,CS Marítimo,Liga NOS,2020/2021,2020
+Marcelinho,Second Striker,1996-07-17,24,Brazil,CS Marítimo,Liga NOS,2020/2021,2020
+Rodrigo Pinho,Centre-Forward,1991-05-30,29,Brazil,CS Marítimo,Liga NOS,2020/2021,2020
+Ali Alipour,Centre-Forward,1995-11-11,24,Iran,CS Marítimo,Liga NOS,2020/2021,2020
+Joel Tagueu,Centre-Forward,1993-12-06,26,Cameroon,CS Marítimo,Liga NOS,2020/2021,2020
+Jordi,Goalkeeper,1993-09-03,27,Brazil,FC Paços de Ferreira,Liga NOS,2020/2021,2020
+Michael,Goalkeeper,1995-04-08,25,Brazil,FC Paços de Ferreira,Liga NOS,2020/2021,2020
+Marco Ribeiro,Goalkeeper,1995-01-29,25,Portugal,FC Paços de Ferreira,Liga NOS,2020/2021,2020
+Marco Baixinho,Centre-Back,1989-07-11,31,Portugal,FC Paços de Ferreira,Liga NOS,2020/2021,2020
+Maracás,Centre-Back,1994-04-27,26,Brazil,FC Paços de Ferreira,Liga NOS,2020/2021,2020
+Marcelo,Centre-Back,1989-07-27,31,Brazil,FC Paços de Ferreira,Liga NOS,2020/2021,2020
+Pedro Marques,Centre-Back,1998-03-18,22,Portugal,FC Paços de Ferreira,Liga NOS,2020/2021,2020
+Oleg Reabciuk,Left-Back,1998-01-16,22,Moldova,FC Paços de Ferreira,Liga NOS,2020/2021,2020
+David Sualehe,Left-Back,1997-03-23,23,Portugal,FC Paços de Ferreira,Liga NOS,2020/2021,2020
+Simão Rocha,Left-Back,2000-12-13,19,Portugal,FC Paços de Ferreira,Liga NOS,2020/2021,2020
+Fernando Fonseca,Right-Back,1997-03-14,23,Portugal,FC Paços de Ferreira,Liga NOS,2020/2021,2020
+Jorge Silva,Right-Back,1996-03-22,24,Portugal,FC Paços de Ferreira,Liga NOS,2020/2021,2020
+Stephen Eustáquio,Defensive Midfield,1996-12-21,23,Canada,FC Paços de Ferreira,Liga NOS,2020/2021,2020
+Mohamed Diaby,Defensive Midfield,1996-09-03,24,France,FC Paços de Ferreira,Liga NOS,2020/2021,2020
+Bruno Costa,Central Midfield,1997-04-19,23,Portugal,FC Paços de Ferreira,Liga NOS,2020/2021,2020
+Martín Calderón,Central Midfield,1999-03-01,21,Spain,FC Paços de Ferreira,Liga NOS,2020/2021,2020
+Abbas Ibrahim,Central Midfield,1998-01-02,22,Nigeria,FC Paços de Ferreira,Liga NOS,2020/2021,2020
+Luíz Carlos,Central Midfield,1985-02-05,35,Brazil,FC Paços de Ferreira,Liga NOS,2020/2021,2020
+Adriano Castanheira,Left Midfield,1993-04-07,27,Portugal,FC Paços de Ferreira,Liga NOS,2020/2021,2020
+Hélder Ferreira,Left Winger,1997-04-05,23,Portugal,FC Paços de Ferreira,Liga NOS,2020/2021,2020
+Lucas Silva,Left Winger,1998-01-30,22,Brazil,FC Paços de Ferreira,Liga NOS,2020/2021,2020
+Luther Singh,Right Winger,1997-08-05,23,South Africa,FC Paços de Ferreira,Liga NOS,2020/2021,2020
+João Amaral,Right Winger,1991-09-07,29,Portugal,FC Paços de Ferreira,Liga NOS,2020/2021,2020
+Matchoi Djaló,Right Winger,2003-04-10,17,Portugal,FC Paços de Ferreira,Liga NOS,2020/2021,2020
+Douglas Tanque,Centre-Forward,1993-10-27,27,Brazil,FC Paços de Ferreira,Liga NOS,2020/2021,2020
+Dor Jan,Centre-Forward,1994-12-16,25,Israel,FC Paços de Ferreira,Liga NOS,2020/2021,2020
+Pedro Martelo,Centre-Forward,1999-10-12,21,Portugal,FC Paços de Ferreira,Liga NOS,2020/2021,2020
+João Pedro,Centre-Forward,1996-11-13,23,Portugal,FC Paços de Ferreira,Liga NOS,2020/2021,2020
+Marco Pereira,Goalkeeper,1987-12-01,32,Portugal,CD Santa Clara,Liga NOS,2020/2021,2020
+André Ferreira,Goalkeeper,1996-05-29,24,Portugal,CD Santa Clara,Liga NOS,2020/2021,2020
+Rodolfo Cardoso,Goalkeeper,1997-10-13,23,Portugal,CD Santa Clara,Liga NOS,2020/2021,2020
+Fábio Cardoso,Centre-Back,1994-04-19,26,Portugal,CD Santa Clara,Liga NOS,2020/2021,2020
+João Afonso,Centre-Back,1990-05-28,30,Portugal,CD Santa Clara,Liga NOS,2020/2021,2020
+Mikel Villanueva,Centre-Back,1993-04-14,27,Venezuela,CD Santa Clara,Liga NOS,2020/2021,2020
+Cristian González,Centre-Back,1996-07-23,24,Uruguay,CD Santa Clara,Liga NOS,2020/2021,2020
+Mansur,Left-Back,1993-04-17,27,Brazil,CD Santa Clara,Liga NOS,2020/2021,2020
+João Lucas,Left-Back,1996-01-15,24,Portugal,CD Santa Clara,Liga NOS,2020/2021,2020
+Rafael Ramos,Right-Back,1995-01-09,25,Portugal,CD Santa Clara,Liga NOS,2020/2021,2020
+Pierre Sagna,Right-Back,1990-08-21,30,Senegal,CD Santa Clara,Liga NOS,2020/2021,2020
+Júlio Romão,Defensive Midfield,1998-03-29,22,Brazil,CD Santa Clara,Liga NOS,2020/2021,2020
+Osama Rashid,Central Midfield,1992-01-13,28,Iraq,CD Santa Clara,Liga NOS,2020/2021,2020
+Anderson Carvalho,Central Midfield,1990-05-20,30,Brazil,CD Santa Clara,Liga NOS,2020/2021,2020
+Nené,Central Midfield,1995-06-10,25,Portugal,CD Santa Clara,Liga NOS,2020/2021,2020
+Lucas Marques,Central Midfield,1995-05-24,25,Brazil,CD Santa Clara,Liga NOS,2020/2021,2020
+Lincoln,Attacking Midfield,1998-11-07,21,Brazil,CD Santa Clara,Liga NOS,2020/2021,2020
+Costinha,Attacking Midfield,1992-08-25,28,Portugal,CD Santa Clara,Liga NOS,2020/2021,2020
+Carlos Jr.,Left Winger,1995-08-15,25,Brazil,CD Santa Clara,Liga NOS,2020/2021,2020
+Jean Patric,Left Winger,1997-05-14,23,Brazil,CD Santa Clara,Liga NOS,2020/2021,2020
+Diogo Salomão,Left Winger,1988-09-14,32,Portugal,CD Santa Clara,Liga NOS,2020/2021,2020
+Ukra,Right Winger,1988-03-16,32,Portugal,CD Santa Clara,Liga NOS,2020/2021,2020
+André Mesquita,Right Winger,1997-10-10,23,Portugal,CD Santa Clara,Liga NOS,2020/2021,2020
+Thiago,Centre-Forward,1993-02-04,27,Brazil,CD Santa Clara,Liga NOS,2020/2021,2020
+Gustavo Viera,Centre-Forward,2000-10-21,20,Uruguay,CD Santa Clara,Liga NOS,2020/2021,2020
+Cryzan,Centre-Forward,1996-07-07,24,Brazil,CD Santa Clara,Liga NOS,2020/2021,2020
+Shahriar Moghanlou,Centre-Forward,1994-12-21,25,Iran,CD Santa Clara,Liga NOS,2020/2021,2020
+Stanislav Kritsyuk,Goalkeeper,1990-12-01,29,Russia,Belenenses SAD,Liga NOS,2020/2021,2020
+André Moreira,Goalkeeper,1995-12-02,24,Portugal,Belenenses SAD,Liga NOS,2020/2021,2020
+João Monteiro,Goalkeeper,2001-05-07,19,Portugal,Belenenses SAD,Liga NOS,2020/2021,2020
+Gonçalo Silva,Centre-Back,1991-06-04,29,Portugal,Belenenses SAD,Liga NOS,2020/2021,2020
+Henrique,Centre-Back,1986-10-14,34,Brazil,Belenenses SAD,Liga NOS,2020/2021,2020
+Tomás Ribeiro,Centre-Back,1999-04-30,21,Portugal,Belenenses SAD,Liga NOS,2020/2021,2020
+Pedro Álvaro,Centre-Back,2000-03-02,20,Portugal,Belenenses SAD,Liga NOS,2020/2021,2020
+Eduardo Kau,Centre-Back,1999-01-17,21,Brazil,Belenenses SAD,Liga NOS,2020/2021,2020
+Nilton Varela,Left-Back,2001-05-25,19,Portugal,Belenenses SAD,Liga NOS,2020/2021,2020
+Rúben Lima,Left-Back,1989-10-03,31,Portugal,Belenenses SAD,Liga NOS,2020/2021,2020
+Francisco Varela,Left-Back,1994-10-26,26,Spain,Belenenses SAD,Liga NOS,2020/2021,2020
+Chima Akas,Left-Back,1994-05-03,26,Nigeria,Belenenses SAD,Liga NOS,2020/2021,2020
+Rúben Ribeiro,Left-Back,1995-12-16,24,Portugal,Belenenses SAD,Liga NOS,2020/2021,2020
+Diogo Calila,Right-Back,1998-10-10,22,Portugal,Belenenses SAD,Liga NOS,2020/2021,2020
+Thibang Phete,Defensive Midfield,1994-04-04,26,South Africa,Belenenses SAD,Liga NOS,2020/2021,2020
+Cauê,Defensive Midfield,1989-05-24,31,Brazil,Belenenses SAD,Liga NOS,2020/2021,2020
+Afonso Taira,Defensive Midfield,1992-06-17,28,Portugal,Belenenses SAD,Liga NOS,2020/2021,2020
+Danny Henriques,Defensive Midfield,1997-07-29,23,Netherlands,Belenenses SAD,Liga NOS,2020/2021,2020
+Bruno Ramires,Central Midfield,1994-03-18,26,Brazil,Belenenses SAD,Liga NOS,2020/2021,2020
+Tiago Esgaio,Right Midfield,1995-08-01,25,Portugal,Belenenses SAD,Liga NOS,2020/2021,2020
+Afonso Sousa,Left Midfield,2000-05-03,20,Portugal,Belenenses SAD,Liga NOS,2020/2021,2020
+Richard,Attacking Midfield,1999-10-11,21,Brazil,Belenenses SAD,Liga NOS,2020/2021,2020
+Tomás Castro,Attacking Midfield,1999-03-13,21,Portugal,Belenenses SAD,Liga NOS,2020/2021,2020
+Licá,Left Winger,1988-09-08,32,Portugal,Belenenses SAD,Liga NOS,2020/2021,2020
+Silvestre Varela,Left Winger,1985-02-02,35,Portugal,Belenenses SAD,Liga NOS,2020/2021,2020
+Miguel Cardoso,Right Winger,1994-06-19,26,Portugal,Belenenses SAD,Liga NOS,2020/2021,2020
+Dieguinho,Right Winger,1992-06-07,28,Brazil,Belenenses SAD,Liga NOS,2020/2021,2020
+Robinho,Second Striker,1997-07-31,23,Portugal,Belenenses SAD,Liga NOS,2020/2021,2020
+Mateo Cassierra,Centre-Forward,1997-04-13,23,Colombia,Belenenses SAD,Liga NOS,2020/2021,2020
+Alhassane Keita,Centre-Forward,1992-04-16,28,Guinea,Belenenses SAD,Liga NOS,2020/2021,2020
+Edi Semedo,Centre-Forward,1999-06-01,21,Portugal,Belenenses SAD,Liga NOS,2020/2021,2020
+Mateus Pasinato,Goalkeeper,1992-06-28,28,Brazil,Moreirense FC,Liga NOS,2020/2021,2020
+Kewin,Goalkeeper,1995-01-25,25,Brazil,Moreirense FC,Liga NOS,2020/2021,2020
+Miguel Oliveira,Goalkeeper,1994-05-25,26,Portugal,Moreirense FC,Liga NOS,2020/2021,2020
+Nahuel Ferraresi,Centre-Back,1998-11-19,21,Venezuela,Moreirense FC,Liga NOS,2020/2021,2020
+Lazar Rosic,Centre-Back,1993-06-29,27,Serbia,Moreirense FC,Liga NOS,2020/2021,2020
+Steven Vitória,Centre-Back,1987-01-11,33,Canada,Moreirense FC,Liga NOS,2020/2021,2020
+Reynaldo,Centre-Back,1997-01-03,23,Brazil,Moreirense FC,Liga NOS,2020/2021,2020
+Abdu Conte,Left-Back,1998-03-24,22,Portugal,Moreirense FC,Liga NOS,2020/2021,2020
+Pedro Amador,Left-Back,1998-12-18,21,Portugal,Moreirense FC,Liga NOS,2020/2021,2020
+Afonso Figueiredo,Left-Back,1993-01-06,27,Portugal,Moreirense FC,Liga NOS,2020/2021,2020
+Anthony D'Alberto,Right-Back,1994-10-13,26,Belgium,Moreirense FC,Liga NOS,2020/2021,2020
+Matheus Silva,Right-Back,1997-10-03,23,Brazil,Moreirense FC,Liga NOS,2020/2021,2020
+Sori Mané,Defensive Midfield,1996-04-03,24,Guinea-Bissau,Moreirense FC,Liga NOS,2020/2021,2020
+Ibrahima,Defensive Midfield,1999-01-25,21,Guinea,Moreirense FC,Liga NOS,2020/2021,2020
+Fábio Pacheco,Defensive Midfield,1988-05-26,32,Portugal,Moreirense FC,Liga NOS,2020/2021,2020
+Alex Soares,Central Midfield,1991-03-01,29,Portugal,Moreirense FC,Liga NOS,2020/2021,2020
+Filipe Soares,Attacking Midfield,1999-05-20,21,Portugal,Moreirense FC,Liga NOS,2020/2021,2020
+David Tavares,Attacking Midfield,1999-03-19,21,Portugal,Moreirense FC,Liga NOS,2020/2021,2020
+Pedro Nuno,Attacking Midfield,1995-01-13,25,Portugal,Moreirense FC,Liga NOS,2020/2021,2020
+Gonçalo Franco,Attacking Midfield,2000-11-17,19,Portugal,Moreirense FC,Liga NOS,2020/2021,2020
+Galego,Attacking Midfield,1997-04-04,23,Brazil,Moreirense FC,Liga NOS,2020/2021,2020
+Felipe Pires,Left Winger,1995-04-18,25,Brazil,Moreirense FC,Liga NOS,2020/2021,2020
+Walterson Silva,Left Winger,1994-12-28,25,Brazil,Moreirense FC,Liga NOS,2020/2021,2020
+Lucas Rodrigues,Left Winger,1999-08-27,21,Brazil,Moreirense FC,Liga NOS,2020/2021,2020
+Yan,Right Winger,1998-09-04,22,Brazil,Moreirense FC,Liga NOS,2020/2021,2020
+André Luis,Centre-Forward,1994-03-09,26,Brazil,Moreirense FC,Liga NOS,2020/2021,2020
+Derik Lacerda,Centre-Forward,1999-09-27,21,Brazil,Moreirense FC,Liga NOS,2020/2021,2020
+Riccardo Piscitelli,Goalkeeper,1993-10-10,27,Italy,CD Nacional,Liga NOS,2020/2021,2020
+Daniel Guimarães,Goalkeeper,1987-04-18,33,Brazil,CD Nacional,Liga NOS,2020/2021,2020
+Rui Encarnação,Goalkeeper,1998-04-05,22,Portugal,CD Nacional,Liga NOS,2020/2021,2020
+Júlio César,Centre-Back,1995-03-21,25,Brazil,CD Nacional,Liga NOS,2020/2021,2020
+Pedrão,Centre-Back,1997-05-03,23,Brazil,CD Nacional,Liga NOS,2020/2021,2020
+Rui Correia,Centre-Back,1990-08-23,30,Portugal,CD Nacional,Liga NOS,2020/2021,2020
+Lucas Kal,Centre-Back,1996-03-16,24,Brazil,CD Nacional,Liga NOS,2020/2021,2020
+Witi,Left-Back,1996-08-26,24,Mozambique,CD Nacional,Liga NOS,2020/2021,2020
+João Vigário,Left-Back,1995-11-20,24,Portugal,CD Nacional,Liga NOS,2020/2021,2020
+Kalindi,Right-Back,1993-08-29,27,Brazil,CD Nacional,Liga NOS,2020/2021,2020
+Rúben Freitas,Right-Back,1993-01-02,27,Portugal,CD Nacional,Liga NOS,2020/2021,2020
+Vladan Danilovic,Defensive Midfield,1999-07-27,21,Bosnia-Herzegovina,CD Nacional,Liga NOS,2020/2021,2020
+Ibrahim Abdullahi Alhassan,Defensive Midfield,1996-11-03,24,Nigeria,CD Nacional,Liga NOS,2020/2021,2020
+Nuno Borges,Defensive Midfield,1988-03-31,32,Cape Verde,CD Nacional,Liga NOS,2020/2021,2020
+Rúben Micael,Defensive Midfield,1986-08-19,34,Portugal,CD Nacional,Liga NOS,2020/2021,2020
+Vincent Koziello,Central Midfield,1995-10-28,25,France,CD Nacional,Liga NOS,2020/2021,2020
+Chico Ramos,Central Midfield,1995-04-10,25,Portugal,CD Nacional,Liga NOS,2020/2021,2020
+Larry Azouni,Central Midfield,1994-03-23,26,Tunisia,CD Nacional,Liga NOS,2020/2021,2020
+Mabrouk Rouai,Central Midfield,2000-11-01,20,France,CD Nacional,Liga NOS,2020/2021,2020
+João Camacho,Right Midfield,1994-06-23,26,Portugal,CD Nacional,Liga NOS,2020/2021,2020
+Kenji Gorré,Right Midfield,1994-09-29,26,Curacao,CD Nacional,Liga NOS,2020/2021,2020
+Vincent Thill,Attacking Midfield,2000-02-04,20,Luxembourg,CD Nacional,Liga NOS,2020/2021,2020
+Marcelo Freitas,Attacking Midfield,1994-06-01,26,Brazil,CD Nacional,Liga NOS,2020/2021,2020
+Giorgi Arabidze,Right Winger,1998-03-04,22,Georgia,CD Nacional,Liga NOS,2020/2021,2020
+João Victor,Right Winger,1999-02-25,21,Brazil,CD Nacional,Liga NOS,2020/2021,2020
+Gergely Bobál,Centre-Forward,1995-08-31,25,Hungary,CD Nacional,Liga NOS,2020/2021,2020
+Brayan Riascos,Centre-Forward,1994-10-10,26,Colombia,CD Nacional,Liga NOS,2020/2021,2020
+Bryan Róchez,Centre-Forward,1995-01-01,25,Honduras,CD Nacional,Liga NOS,2020/2021,2020
+Daniel Fuzato,Goalkeeper,1997-07-04,23,Brazil,Gil Vicente FC,Liga NOS,2020/2021,2020
+Denis,Goalkeeper,1987-04-14,33,Brazil,Gil Vicente FC,Liga NOS,2020/2021,2020
+Brian Araújo,Goalkeeper,2000-04-29,20,Portugal,Gil Vicente FC,Liga NOS,2020/2021,2020
+Ygor Nogueira,Centre-Back,1995-03-27,25,Brazil,Gil Vicente FC,Liga NOS,2020/2021,2020
+Rodrigão,Centre-Back,1995-09-11,25,Brazil,Gil Vicente FC,Liga NOS,2020/2021,2020
+Rúben Fernandes,Centre-Back,1986-05-06,34,Portugal,Gil Vicente FC,Liga NOS,2020/2021,2020
+Tim Hall,Centre-Back,1997-04-15,23,Luxembourg,Gil Vicente FC,Liga NOS,2020/2021,2020
+Diogo Silva,Centre-Back,1995-01-11,25,Brazil,Gil Vicente FC,Liga NOS,2020/2021,2020
+Henrique Gomes,Left-Back,1995-11-30,24,Portugal,Gil Vicente FC,Liga NOS,2020/2021,2020
+Joao Talocha,Left-Back,1989-08-30,31,Portugal,Gil Vicente FC,Liga NOS,2020/2021,2020
+Souleymane Aw,Left-Back,1999-04-05,21,Senegal,Gil Vicente FC,Liga NOS,2020/2021,2020
+Joel Pereira,Right-Back,1996-09-28,24,Portugal,Gil Vicente FC,Liga NOS,2020/2021,2020
+Lucas Mineiro,Defensive Midfield,1996-02-24,24,Brazil,Gil Vicente FC,Liga NOS,2020/2021,2020
+Claude Gonçalves,Defensive Midfield,1994-04-09,26,Portugal,Gil Vicente FC,Liga NOS,2020/2021,2020
+João Afonso,Defensive Midfield,1995-02-09,25,Brazil,Gil Vicente FC,Liga NOS,2020/2021,2020
+Vitor Carvalho,Central Midfield,1997-05-27,23,Brazil,Gil Vicente FC,Liga NOS,2020/2021,2020
+Leandrinho,Attacking Midfield,1996-09-21,24,Brazil,Gil Vicente FC,Liga NOS,2020/2021,2020
+Juan Villa,Attacking Midfield,1999-10-10,21,Colombia,Gil Vicente FC,Liga NOS,2020/2021,2020
+Samuel Lino,Left Winger,1999-12-23,20,Brazil,Gil Vicente FC,Liga NOS,2020/2021,2020
+Antoine Leautey,Left Winger,1996-04-14,24,France,Gil Vicente FC,Liga NOS,2020/2021,2020
+Guilherme Mantuan,Left Winger,1997-08-02,23,Brazil,Gil Vicente FC,Liga NOS,2020/2021,2020
+Lourency,Right Winger,1996-01-02,24,Brazil,Gil Vicente FC,Liga NOS,2020/2021,2020
+Yves Baraye,Right Winger,1992-06-22,28,Senegal,Gil Vicente FC,Liga NOS,2020/2021,2020
+Kanya Fujimoto,Right Winger,1999-07-01,21,Japan,Gil Vicente FC,Liga NOS,2020/2021,2020
+Boubacar Hanne,Second Striker,1999-02-26,21,Portugal,Gil Vicente FC,Liga NOS,2020/2021,2020
+Ahmed Isaiah,Second Striker,1995-10-10,25,Nigeria,Gil Vicente FC,Liga NOS,2020/2021,2020
+Renan Oliveira,Centre-Forward,1997-05-08,23,Brazil,Gil Vicente FC,Liga NOS,2020/2021,2020
+Alaa Abbas,Centre-Forward,1997-07-27,23,Iraq,Gil Vicente FC,Liga NOS,2020/2021,2020
+Miullen,Centre-Forward,1998-05-19,22,Brazil,Gil Vicente FC,Liga NOS,2020/2021,2020
+Hugo Marques,Goalkeeper,1986-01-15,34,Angola,SC Farense,Liga NOS,2020/2021,2020
+Rafael Defendi,Goalkeeper,1983-12-22,36,Brazil,SC Farense,Liga NOS,2020/2021,2020
+Ricardo Velho,Goalkeeper,1998-08-20,22,Portugal,SC Farense,Liga NOS,2020/2021,2020
+César Martins,Centre-Back,1992-12-28,27,Brazil,SC Farense,Liga NOS,2020/2021,2020
+Ricardo Ferreira,Centre-Back,1992-11-25,27,Portugal,SC Farense,Liga NOS,2020/2021,2020
+Cássio Scheid,Centre-Back,1994-01-03,26,Brazil,SC Farense,Liga NOS,2020/2021,2020
+Jorge Fellipe,Centre-Back,1988-10-27,32,Brazil,SC Farense,Liga NOS,2020/2021,2020
+Eduardo Mancha,Centre-Back,1995-11-24,24,Brazil,SC Farense,Liga NOS,2020/2021,2020
+Abner,Left-Back,1996-05-30,24,Brazil,SC Farense,Liga NOS,2020/2021,2020
+Alex Pinto,Right-Back,1998-07-08,22,Portugal,SC Farense,Liga NOS,2020/2021,2020
+Miguel Bandarra,Right-Back,1996-01-17,24,Portugal,SC Farense,Liga NOS,2020/2021,2020
+Claudio Falcão,Defensive Midfield,1994-07-03,26,Brazil,SC Farense,Liga NOS,2020/2021,2020
+Filipe Melo,Defensive Midfield,1989-11-03,31,Portugal,SC Farense,Liga NOS,2020/2021,2020
+Bura,Defensive Midfield,1995-12-22,24,Guinea-Bissau,SC Farense,Liga NOS,2020/2021,2020
+Jonatan Lucca,Central Midfield,1994-06-02,26,Brazil,SC Farense,Liga NOS,2020/2021,2020
+Amine Oudrhiri,Central Midfield,1992-11-04,28,Morocco,SC Farense,Liga NOS,2020/2021,2020
+Fabrício Isidoro,Central Midfield,1992-01-28,28,Brazil,SC Farense,Liga NOS,2020/2021,2020
+Ryan Gauld,Attacking Midfield,1995-12-16,24,Scotland,SC Farense,Liga NOS,2020/2021,2020
+Fábio Nunes,Left Winger,1992-07-24,28,Portugal,SC Farense,Liga NOS,2020/2021,2020
+Alvarinho,Left Winger,1990-09-03,30,Portugal,SC Farense,Liga NOS,2020/2021,2020
+Djalma,Right Winger,1987-05-30,33,Angola,SC Farense,Liga NOS,2020/2021,2020
+Bilel Aouacheria,Right Winger,1994-04-02,26,France,SC Farense,Liga NOS,2020/2021,2020
+Hugo Seco,Right Winger,1988-06-17,32,Portugal,SC Farense,Liga NOS,2020/2021,2020
+Madi Queta,Second Striker,1998-10-21,22,Portugal,SC Farense,Liga NOS,2020/2021,2020
+Nikola Stojiljkovic,Centre-Forward,1992-08-17,28,Serbia,SC Farense,Liga NOS,2020/2021,2020
+Brian Mansilla,Centre-Forward,1997-04-16,23,Argentina,SC Farense,Liga NOS,2020/2021,2020
+Pedro Henrique,Centre-Forward,1996-11-08,23,Brazil,SC Farense,Liga NOS,2020/2021,2020
+Patrick,Centre-Forward,1993-12-13,26,Cape Verde,SC Farense,Liga NOS,2020/2021,2020
+Babacar Niasse,Goalkeeper,1996-12-20,23,Senegal,CD Tondela,Liga NOS,2020/2021,2020
+Pedro Trigueira,Goalkeeper,1988-01-04,32,Portugal,CD Tondela,Liga NOS,2020/2021,2020
+Joel Sousa,Goalkeeper,2000-03-17,20,Portugal,CD Tondela,Liga NOS,2020/2021,2020
+Enzo Martínez,Centre-Back,1998-04-29,22,Uruguay,CD Tondela,Liga NOS,2020/2021,2020
+Yohan Tavares,Centre-Back,1988-03-02,32,Portugal,CD Tondela,Liga NOS,2020/2021,2020
+Ricardo Alves,Centre-Back,1991-05-09,29,Portugal,CD Tondela,Liga NOS,2020/2021,2020
+Abdel Medioub,Centre-Back,1997-08-28,23,Algeria,CD Tondela,Liga NOS,2020/2021,2020
+Jota Gonçalves,Centre-Back,2000-06-17,20,Portugal,CD Tondela,Liga NOS,2020/2021,2020
+Filipe Ferreira,Left-Back,1990-09-27,30,Portugal,CD Tondela,Liga NOS,2020/2021,2020
+Naoufel Khacef,Left-Back,1997-10-27,23,Algeria,CD Tondela,Liga NOS,2020/2021,2020
+Bebeto,Right-Back,1990-01-01,30,Brazil,CD Tondela,Liga NOS,2020/2021,2020
+Tiago Almeida,Right-Back,2001-08-28,19,Portugal,CD Tondela,Liga NOS,2020/2021,2020
+João Jaquité,Defensive Midfield,1996-02-22,24,Guinea-Bissau,CD Tondela,Liga NOS,2020/2021,2020
+Pedro Augusto,Defensive Midfield,1997-03-03,23,Brazil,CD Tondela,Liga NOS,2020/2021,2020
+João Pedro,Central Midfield,1993-04-03,27,Portugal,CD Tondela,Liga NOS,2020/2021,2020
+Jaume Grau,Central Midfield,1997-05-05,23,Spain,CD Tondela,Liga NOS,2020/2021,2020
+Rafael Barbosa,Left Midfield,1996-03-29,24,Portugal,CD Tondela,Liga NOS,2020/2021,2020
+João Mendes,Attacking Midfield,1994-10-21,26,Portugal,CD Tondela,Liga NOS,2020/2021,2020
+Telmo Arcanjo,Attacking Midfield,2001-06-21,19,Portugal,CD Tondela,Liga NOS,2020/2021,2020
+Jhon Murillo,Left Winger,1995-11-21,24,Venezuela,CD Tondela,Liga NOS,2020/2021,2020
+Mario González,Left Winger,1996-02-25,24,Spain,CD Tondela,Liga NOS,2020/2021,2020
+Salvador Agra,Right Winger,1991-11-11,28,Portugal,CD Tondela,Liga NOS,2020/2021,2020
+Tomislav Strkalj,Centre-Forward,1996-08-02,24,Croatia,CD Tondela,Liga NOS,2020/2021,2020
+Rúben Fonseca,Centre-Forward,2000-02-24,20,Portugal,CD Tondela,Liga NOS,2020/2021,2020
+Souleymane Anne,Centre-Forward,1997-12-05,22,Mauritania,CD Tondela,Liga NOS,2020/2021,2020

@@ -1,0 +1,776 @@
+player_name,position,date_of_birth,age,nationality,club_name,league_name,season,year
+Wojciech Szczesny,Goalkeeper,1990-04-18,29,Poland,Juventus FC,Serie A,2019/2020,2019
+Mattia Perin,Goalkeeper,1992-11-10,26,Italy,Juventus FC,Serie A,2019/2020,2019
+Gianluigi Buffon,Goalkeeper,1978-01-28,41,Italy,Juventus FC,Serie A,2019/2020,2019
+Carlo Pinsoglio,Goalkeeper,1990-03-16,29,Italy,Juventus FC,Serie A,2019/2020,2019
+Matthijs de Ligt,Centre-Back,1999-08-12,19,Netherlands,Juventus FC,Serie A,2019/2020,2019
+Merih Demiral,Centre-Back,1998-03-05,21,Turkey,Juventus FC,Serie A,2019/2020,2019
+Leonardo Bonucci,Centre-Back,1987-05-01,32,Italy,Juventus FC,Serie A,2019/2020,2019
+Daniele Rugani,Centre-Back,1994-07-29,24,Italy,Juventus FC,Serie A,2019/2020,2019
+Giorgio Chiellini,Centre-Back,1984-08-14,34,Italy,Juventus FC,Serie A,2019/2020,2019
+Luca Coccolo,Centre-Back,1998-02-23,21,Italy,Juventus FC,Serie A,2019/2020,2019
+Alex Sandro,Left-Back,1991-01-26,28,Brazil,Juventus FC,Serie A,2019/2020,2019
+Pietro Beruatto,Left-Back,1998-12-21,20,Italy,Juventus FC,Serie A,2019/2020,2019
+Gianluca Frabotta,Left-Back,1999-06-24,20,Italy,Juventus FC,Serie A,2019/2020,2019
+Danilo,Right-Back,1991-07-15,27,Brazil,Juventus FC,Serie A,2019/2020,2019
+Juan Cuadrado,Right-Back,1988-05-26,31,Colombia,Juventus FC,Serie A,2019/2020,2019
+Mattia De Sciglio,Right-Back,1992-10-20,26,Italy,Juventus FC,Serie A,2019/2020,2019
+Wesley,Right-Back,2000-03-13,19,Brazil,Juventus FC,Serie A,2019/2020,2019
+Miralem Pjanic,Defensive Midfield,1990-04-02,29,Bosnia-Herzegovina,Juventus FC,Serie A,2019/2020,2019
+Emre Can,Defensive Midfield,1994-01-12,25,Germany,Juventus FC,Serie A,2019/2020,2019
+Daouda Peeters,Defensive Midfield,1999-01-26,20,Belgium,Juventus FC,Serie A,2019/2020,2019
+Rodrigo Bentancur,Central Midfield,1997-06-25,22,Uruguay,Juventus FC,Serie A,2019/2020,2019
+Aaron Ramsey,Central Midfield,1990-12-26,28,Wales,Juventus FC,Serie A,2019/2020,2019
+Adrien Rabiot,Central Midfield,1995-04-03,24,France,Juventus FC,Serie A,2019/2020,2019
+Blaise Matuidi,Central Midfield,1987-04-09,32,France,Juventus FC,Serie A,2019/2020,2019
+Sami Khedira,Central Midfield,1987-04-04,32,Germany,Juventus FC,Serie A,2019/2020,2019
+Simone Muratore,Central Midfield,1998-05-30,21,Italy,Juventus FC,Serie A,2019/2020,2019
+Manolo Portanova,Attacking Midfield,2000-06-02,19,Italy,Juventus FC,Serie A,2019/2020,2019
+Cristiano Ronaldo,Left Winger,1985-02-05,34,Portugal,Juventus FC,Serie A,2019/2020,2019
+Marko Pjaca,Left Winger,1995-05-06,24,Croatia,Juventus FC,Serie A,2019/2020,2019
+Marco Olivieri,Left Winger,1999-06-30,20,Italy,Juventus FC,Serie A,2019/2020,2019
+Federico Bernardeschi,Right Winger,1994-02-16,25,Italy,Juventus FC,Serie A,2019/2020,2019
+Douglas Costa,Right Winger,1990-09-14,28,Brazil,Juventus FC,Serie A,2019/2020,2019
+Luca Zanimacchia,Right Winger,1998-07-19,20,Italy,Juventus FC,Serie A,2019/2020,2019
+Paulo Dybala,Second Striker,1993-11-15,25,Argentina,Juventus FC,Serie A,2019/2020,2019
+Gonzalo Higuaín,Centre-Forward,1987-12-10,31,Argentina,Juventus FC,Serie A,2019/2020,2019
+Mario Mandzukic,Centre-Forward,1986-05-21,33,Croatia,Juventus FC,Serie A,2019/2020,2019
+Kwang-song Han,Centre-Forward,1998-09-11,20,"Korea, North",Juventus FC,Serie A,2019/2020,2019
+Giacomo Vrioni,Centre-Forward,1998-10-15,20,Albania,Juventus FC,Serie A,2019/2020,2019
+Alex Meret,Goalkeeper,1997-03-22,22,Italy,SSC Napoli,Serie A,2019/2020,2019
+David Ospina,Goalkeeper,1988-08-31,30,Colombia,SSC Napoli,Serie A,2019/2020,2019
+Orestis Karnezis,Goalkeeper,1985-07-11,33,Greece,SSC Napoli,Serie A,2019/2020,2019
+Hubert Idasiak,Goalkeeper,2002-02-03,17,Poland,SSC Napoli,Serie A,2019/2020,2019
+Antonio Pio Daniele,Goalkeeper,2002-07-10,16,Italy,SSC Napoli,Serie A,2019/2020,2019
+Kalidou Koulibaly,Centre-Back,1991-06-20,28,Senegal,SSC Napoli,Serie A,2019/2020,2019
+Konstantinos Manolas,Centre-Back,1991-06-14,28,Greece,SSC Napoli,Serie A,2019/2020,2019
+Nikola Maksimovic,Centre-Back,1991-11-25,27,Serbia,SSC Napoli,Serie A,2019/2020,2019
+Vlad Chiriches,Centre-Back,1989-11-14,29,Romania,SSC Napoli,Serie A,2019/2020,2019
+Sebastiano Luperto,Centre-Back,1996-09-06,22,Italy,SSC Napoli,Serie A,2019/2020,2019
+Lorenzo Tonelli,Centre-Back,1990-01-17,29,Italy,SSC Napoli,Serie A,2019/2020,2019
+Mário Rui,Left-Back,1991-05-27,28,Portugal,SSC Napoli,Serie A,2019/2020,2019
+Faouzi Ghoulam,Left-Back,1991-02-01,28,Algeria,SSC Napoli,Serie A,2019/2020,2019
+Giovanni Di Lorenzo,Right-Back,1993-08-04,25,Italy,SSC Napoli,Serie A,2019/2020,2019
+Elseid Hysaj,Right-Back,1994-02-02,25,Albania,SSC Napoli,Serie A,2019/2020,2019
+Kévin Malcuit,Right-Back,1991-07-31,27,France,SSC Napoli,Serie A,2019/2020,2019
+Stanislav Lobotka,Defensive Midfield,1994-11-25,24,Slovakia,SSC Napoli,Serie A,2019/2020,2019
+Diego Demme,Defensive Midfield,1991-11-21,27,Germany,SSC Napoli,Serie A,2019/2020,2019
+Fabián Ruiz,Central Midfield,1996-04-03,23,Spain,SSC Napoli,Serie A,2019/2020,2019
+Allan,Central Midfield,1991-01-08,28,Brazil,SSC Napoli,Serie A,2019/2020,2019
+Piotr Zielinski,Central Midfield,1994-05-20,25,Poland,SSC Napoli,Serie A,2019/2020,2019
+Eljif Elmas,Central Midfield,1999-09-24,19,North Macedonia,SSC Napoli,Serie A,2019/2020,2019
+Simone Verdi,Attacking Midfield,1992-07-12,26,Italy,SSC Napoli,Serie A,2019/2020,2019
+Gianluca Gaetano,Attacking Midfield,2000-05-05,19,Italy,SSC Napoli,Serie A,2019/2020,2019
+Lorenzo Insigne,Left Winger,1991-06-04,28,Italy,SSC Napoli,Serie A,2019/2020,2019
+Hirving Lozano,Left Winger,1995-07-30,23,Mexico,SSC Napoli,Serie A,2019/2020,2019
+Amin Younes,Left Winger,1993-08-06,25,Germany,SSC Napoli,Serie A,2019/2020,2019
+Leandrinho,Left Winger,1998-10-11,20,Brazil,SSC Napoli,Serie A,2019/2020,2019
+Matteo Politano,Right Winger,1993-08-03,25,Italy,SSC Napoli,Serie A,2019/2020,2019
+José Callejón,Right Winger,1987-02-11,32,Spain,SSC Napoli,Serie A,2019/2020,2019
+Arkadiusz Milik,Centre-Forward,1994-02-28,25,Poland,SSC Napoli,Serie A,2019/2020,2019
+Dries Mertens,Centre-Forward,1987-05-06,32,Belgium,SSC Napoli,Serie A,2019/2020,2019
+Fernando Llorente,Centre-Forward,1985-02-26,34,Spain,SSC Napoli,Serie A,2019/2020,2019
+Samir Handanovic,Goalkeeper,1984-07-14,34,Slovenia,Inter Milan,Serie A,2019/2020,2019
+Daniele Padelli,Goalkeeper,1985-10-25,33,Italy,Inter Milan,Serie A,2019/2020,2019
+Tommaso Berni,Goalkeeper,1983-03-06,36,Italy,Inter Milan,Serie A,2019/2020,2019
+Filip Stankovic,Goalkeeper,2002-02-25,17,Serbia,Inter Milan,Serie A,2019/2020,2019
+Stefan de Vrij,Centre-Back,1992-02-05,27,Netherlands,Inter Milan,Serie A,2019/2020,2019
+Milan Skriniar,Centre-Back,1995-02-11,24,Slovakia,Inter Milan,Serie A,2019/2020,2019
+Alessandro Bastoni,Centre-Back,1999-04-13,20,Italy,Inter Milan,Serie A,2019/2020,2019
+Diego Godín,Centre-Back,1986-02-16,33,Uruguay,Inter Milan,Serie A,2019/2020,2019
+Andrea Ranocchia,Centre-Back,1988-02-16,31,Italy,Inter Milan,Serie A,2019/2020,2019
+Lorenzo Pirola,Centre-Back,2002-02-20,17,Italy,Inter Milan,Serie A,2019/2020,2019
+Dalbert,Left-Back,1993-09-08,25,Brazil,Inter Milan,Serie A,2019/2020,2019
+Cristiano Biraghi,Left-Back,1992-09-01,26,Italy,Inter Milan,Serie A,2019/2020,2019
+Federico Dimarco,Left-Back,1997-11-10,21,Italy,Inter Milan,Serie A,2019/2020,2019
+Danilo D'Ambrosio,Right-Back,1988-09-09,30,Italy,Inter Milan,Serie A,2019/2020,2019
+Marcelo Brozovic,Defensive Midfield,1992-11-16,26,Croatia,Inter Milan,Serie A,2019/2020,2019
+Lucien Agoume,Defensive Midfield,2002-02-09,17,France,Inter Milan,Serie A,2019/2020,2019
+Nicolò Barella,Central Midfield,1997-02-07,22,Italy,Inter Milan,Serie A,2019/2020,2019
+Stefano Sensi,Central Midfield,1995-08-05,23,Italy,Inter Milan,Serie A,2019/2020,2019
+Matías Vecino,Central Midfield,1991-08-24,27,Uruguay,Inter Milan,Serie A,2019/2020,2019
+Roberto Gagliardini,Central Midfield,1994-04-07,25,Italy,Inter Milan,Serie A,2019/2020,2019
+Borja Valero,Central Midfield,1985-01-12,34,Spain,Inter Milan,Serie A,2019/2020,2019
+Valentino Lazaro,Right Midfield,1996-03-24,23,Austria,Inter Milan,Serie A,2019/2020,2019
+Victor Moses,Right Midfield,1990-12-12,28,Nigeria,Inter Milan,Serie A,2019/2020,2019
+Antonio Candreva,Right Midfield,1987-02-28,32,Italy,Inter Milan,Serie A,2019/2020,2019
+Kwadwo Asamoah,Left Midfield,1988-12-09,30,Ghana,Inter Milan,Serie A,2019/2020,2019
+Ashley Young,Left Midfield,1985-07-09,33,England,Inter Milan,Serie A,2019/2020,2019
+Christian Eriksen,Attacking Midfield,1992-02-14,27,Denmark,Inter Milan,Serie A,2019/2020,2019
+Matteo Politano,Right Winger,1993-08-03,25,Italy,Inter Milan,Serie A,2019/2020,2019
+Romelu Lukaku,Centre-Forward,1993-05-13,26,Belgium,Inter Milan,Serie A,2019/2020,2019
+Lautaro Martínez,Centre-Forward,1997-08-22,21,Argentina,Inter Milan,Serie A,2019/2020,2019
+Alexis Sánchez,Centre-Forward,1988-12-19,30,Chile,Inter Milan,Serie A,2019/2020,2019
+Sebastiano Esposito,Centre-Forward,2002-07-02,16,Italy,Inter Milan,Serie A,2019/2020,2019
+Edoardo Vergani,Centre-Forward,2001-02-06,18,Italy,Inter Milan,Serie A,2019/2020,2019
+Matias Fonseca,Centre-Forward,2001-03-12,18,Italy,Inter Milan,Serie A,2019/2020,2019
+Gianluigi Donnarumma,Goalkeeper,1999-02-25,20,Italy,AC Milan,Serie A,2019/2020,2019
+Asmir Begovic,Goalkeeper,1987-06-20,32,Bosnia-Herzegovina,AC Milan,Serie A,2019/2020,2019
+Pepe Reina,Goalkeeper,1982-08-31,36,Spain,AC Milan,Serie A,2019/2020,2019
+Antonio Donnarumma,Goalkeeper,1990-07-07,28,Italy,AC Milan,Serie A,2019/2020,2019
+Matteo Soncin,Goalkeeper,2001-03-28,18,Italy,AC Milan,Serie A,2019/2020,2019
+Alessio Romagnoli,Centre-Back,1995-01-12,24,Italy,AC Milan,Serie A,2019/2020,2019
+Mattia Caldara,Centre-Back,1994-05-05,25,Italy,AC Milan,Serie A,2019/2020,2019
+Mateo Musacchio,Centre-Back,1990-08-26,28,Argentina,AC Milan,Serie A,2019/2020,2019
+Léo Duarte,Centre-Back,1996-07-17,22,Brazil,AC Milan,Serie A,2019/2020,2019
+Simon Kjaer,Centre-Back,1989-03-26,30,Denmark,AC Milan,Serie A,2019/2020,2019
+Matteo Gabbia,Centre-Back,1999-10-21,19,Italy,AC Milan,Serie A,2019/2020,2019
+Theo Hernández,Left-Back,1997-10-06,21,France,AC Milan,Serie A,2019/2020,2019
+Ricardo Rodríguez,Left-Back,1992-08-25,26,Switzerland,AC Milan,Serie A,2019/2020,2019
+Diego Laxalt,Left-Back,1993-02-07,26,Uruguay,AC Milan,Serie A,2019/2020,2019
+Andrea Conti,Right-Back,1994-03-02,25,Italy,AC Milan,Serie A,2019/2020,2019
+Davide Calabria,Right-Back,1996-12-06,22,Italy,AC Milan,Serie A,2019/2020,2019
+Ismaël Bennacer,Defensive Midfield,1997-12-01,21,Algeria,AC Milan,Serie A,2019/2020,2019
+Lucas Biglia,Defensive Midfield,1986-01-30,33,Argentina,AC Milan,Serie A,2019/2020,2019
+Franck Kessié,Central Midfield,1996-12-19,22,Cote d'Ivoire,AC Milan,Serie A,2019/2020,2019
+Giacomo Bonaventura,Central Midfield,1989-08-22,29,Italy,AC Milan,Serie A,2019/2020,2019
+Rade Krunic,Central Midfield,1993-10-07,25,Bosnia-Herzegovina,AC Milan,Serie A,2019/2020,2019
+Marco Brescianini,Central Midfield,2000-01-20,19,Italy,AC Milan,Serie A,2019/2020,2019
+Emanuele Torrasi,Central Midfield,1999-03-16,20,Italy,AC Milan,Serie A,2019/2020,2019
+Lucas Paquetá,Attacking Midfield,1997-08-27,21,Brazil,AC Milan,Serie A,2019/2020,2019
+Hakan Calhanoglu,Attacking Midfield,1994-02-08,25,Turkey,AC Milan,Serie A,2019/2020,2019
+Daniel Maldini,Attacking Midfield,2001-10-11,17,Italy,AC Milan,Serie A,2019/2020,2019
+Giacomo Olzer,Attacking Midfield,2001-04-14,18,Italy,AC Milan,Serie A,2019/2020,2019
+Ante Rebic,Left Winger,1993-09-21,25,Croatia,AC Milan,Serie A,2019/2020,2019
+Fabio Borini,Left Winger,1991-03-29,28,Italy,AC Milan,Serie A,2019/2020,2019
+Suso,Right Winger,1993-11-19,25,Spain,AC Milan,Serie A,2019/2020,2019
+Samu Castillejo,Right Winger,1995-01-18,24,Spain,AC Milan,Serie A,2019/2020,2019
+Alexis Saelemaekers,Right Winger,1999-06-27,20,Belgium,AC Milan,Serie A,2019/2020,2019
+Krzysztof Piatek,Centre-Forward,1995-07-01,24,Poland,AC Milan,Serie A,2019/2020,2019
+Rafael Leão,Centre-Forward,1999-06-10,20,Portugal,AC Milan,Serie A,2019/2020,2019
+André Silva,Centre-Forward,1995-11-06,23,Portugal,AC Milan,Serie A,2019/2020,2019
+Zlatan Ibrahimovic,Centre-Forward,1981-10-03,37,Sweden,AC Milan,Serie A,2019/2020,2019
+Lorenzo Colombo,Centre-Forward,2002-03-08,17,Italy,AC Milan,Serie A,2019/2020,2019
+Pau López,Goalkeeper,1994-12-13,24,Spain,AS Roma,Serie A,2019/2020,2019
+Antonio Mirante,Goalkeeper,1983-07-08,35,Italy,AS Roma,Serie A,2019/2020,2019
+Daniel Fuzato,Goalkeeper,1997-07-04,21,Brazil,AS Roma,Serie A,2019/2020,2019
+Matteo Cardinali,Goalkeeper,2001-06-28,18,Italy,AS Roma,Serie A,2019/2020,2019
+Gianluca Mancini,Centre-Back,1996-04-17,23,Italy,AS Roma,Serie A,2019/2020,2019
+Chris Smalling,Centre-Back,1989-11-22,29,England,AS Roma,Serie A,2019/2020,2019
+Juan Jesus,Centre-Back,1991-06-10,28,Brazil,AS Roma,Serie A,2019/2020,2019
+Federico Fazio,Centre-Back,1987-03-17,32,Argentina,AS Roma,Serie A,2019/2020,2019
+Roger Ibañez,Centre-Back,1998-11-23,20,Brazil,AS Roma,Serie A,2019/2020,2019
+Mert Cetin,Centre-Back,1997-01-01,22,Turkey,AS Roma,Serie A,2019/2020,2019
+Leonardo Spinazzola,Left-Back,1993-03-25,26,Italy,AS Roma,Serie A,2019/2020,2019
+Aleksandar Kolarov,Left-Back,1985-11-10,33,Serbia,AS Roma,Serie A,2019/2020,2019
+Riccardo Calafiori,Left-Back,2002-05-19,17,Italy,AS Roma,Serie A,2019/2020,2019
+Alessandro Florenzi,Right-Back,1991-03-11,28,Italy,AS Roma,Serie A,2019/2020,2019
+Davide Santon,Right-Back,1991-01-02,28,Italy,AS Roma,Serie A,2019/2020,2019
+Bruno Peres,Right-Back,1990-03-01,29,Brazil,AS Roma,Serie A,2019/2020,2019
+Amadou Diawara,Defensive Midfield,1997-07-17,21,Guinea,AS Roma,Serie A,2019/2020,2019
+Ebrima Darboe,Defensive Midfield,2001-06-06,18,The Gambia,AS Roma,Serie A,2019/2020,2019
+Lorenzo Pellegrini,Central Midfield,1996-06-19,23,Italy,AS Roma,Serie A,2019/2020,2019
+Bryan Cristante,Central Midfield,1995-03-03,24,Italy,AS Roma,Serie A,2019/2020,2019
+Jordan Veretout,Central Midfield,1993-03-01,26,France,AS Roma,Serie A,2019/2020,2019
+Gonzalo Villar,Central Midfield,1998-03-23,21,Spain,AS Roma,Serie A,2019/2020,2019
+Davide Zappacosta,Right Midfield,1992-06-11,27,Italy,AS Roma,Serie A,2019/2020,2019
+Nicolò Zaniolo,Attacking Midfield,1999-07-02,19,Italy,AS Roma,Serie A,2019/2020,2019
+Henrikh Mkhitaryan,Attacking Midfield,1989-01-21,30,Armenia,AS Roma,Serie A,2019/2020,2019
+Javier Pastore,Attacking Midfield,1989-06-20,30,Argentina,AS Roma,Serie A,2019/2020,2019
+Alessio Riccardi,Attacking Midfield,2001-04-03,18,Italy,AS Roma,Serie A,2019/2020,2019
+Justin Kluivert,Left Winger,1999-05-05,20,Netherlands,AS Roma,Serie A,2019/2020,2019
+Diego Perotti,Left Winger,1988-07-26,30,Argentina,AS Roma,Serie A,2019/2020,2019
+Cengiz Ünder,Right Winger,1997-07-14,21,Turkey,AS Roma,Serie A,2019/2020,2019
+Carles Pérez,Right Winger,1998-02-16,21,Spain,AS Roma,Serie A,2019/2020,2019
+Mirko Antonucci,Right Winger,1999-03-11,20,Italy,AS Roma,Serie A,2019/2020,2019
+Patrik Schick,Centre-Forward,1996-01-24,23,Czech Republic,AS Roma,Serie A,2019/2020,2019
+Edin Dzeko,Centre-Forward,1986-03-17,33,Bosnia-Herzegovina,AS Roma,Serie A,2019/2020,2019
+Nikola Kalinic,Centre-Forward,1988-01-05,31,Croatia,AS Roma,Serie A,2019/2020,2019
+Felipe Estrella,Centre-Forward,2001-01-10,18,Brazil,AS Roma,Serie A,2019/2020,2019
+Bartlomiej Dragowski,Goalkeeper,1997-08-19,21,Poland,ACF Fiorentina,Serie A,2019/2020,2019
+Pietro Terracciano,Goalkeeper,1990-03-08,29,Italy,ACF Fiorentina,Serie A,2019/2020,2019
+Federico Brancolini,Goalkeeper,2001-07-14,17,Italy,ACF Fiorentina,Serie A,2019/2020,2019
+Michele Cerofolini,Goalkeeper,1999-01-04,20,Italy,ACF Fiorentina,Serie A,2019/2020,2019
+Niccolò Chiorra,Goalkeeper,2001-03-16,18,Italy,ACF Fiorentina,Serie A,2019/2020,2019
+Nikola Milenkovic,Centre-Back,1997-10-12,21,Serbia,ACF Fiorentina,Serie A,2019/2020,2019
+Germán Pezzella,Centre-Back,1991-06-27,28,Argentina,ACF Fiorentina,Serie A,2019/2020,2019
+Igor,Centre-Back,1998-02-07,21,Brazil,ACF Fiorentina,Serie A,2019/2020,2019
+Jacob Rasmussen,Centre-Back,1997-05-28,22,Denmark,ACF Fiorentina,Serie A,2019/2020,2019
+Federico Ceccherini,Centre-Back,1992-05-11,27,Italy,ACF Fiorentina,Serie A,2019/2020,2019
+Martín Cáceres,Centre-Back,1987-04-07,32,Uruguay,ACF Fiorentina,Serie A,2019/2020,2019
+Christian Dalle Mura,Centre-Back,2002-02-02,17,Italy,ACF Fiorentina,Serie A,2019/2020,2019
+Cristiano Biraghi,Left-Back,1992-09-01,26,Italy,ACF Fiorentina,Serie A,2019/2020,2019
+Dalbert,Left-Back,1993-09-08,25,Brazil,ACF Fiorentina,Serie A,2019/2020,2019
+Luca Ranieri,Left-Back,1999-04-23,20,Italy,ACF Fiorentina,Serie A,2019/2020,2019
+Aleksa Terzic,Left-Back,1999-08-17,19,Serbia,ACF Fiorentina,Serie A,2019/2020,2019
+Maximiliano Olivera,Left-Back,1992-03-05,27,Uruguay,ACF Fiorentina,Serie A,2019/2020,2019
+Pol Lirola,Right-Back,1997-08-13,21,Spain,ACF Fiorentina,Serie A,2019/2020,2019
+Lorenzo Venuti,Right-Back,1995-04-12,24,Italy,ACF Fiorentina,Serie A,2019/2020,2019
+Erick Pulgar,Defensive Midfield,1994-01-15,25,Chile,ACF Fiorentina,Serie A,2019/2020,2019
+Milan Badelj,Defensive Midfield,1989-02-25,30,Croatia,ACF Fiorentina,Serie A,2019/2020,2019
+Gaetano Castrovilli,Central Midfield,1997-02-17,22,Italy,ACF Fiorentina,Serie A,2019/2020,2019
+Alfred Duncan,Central Midfield,1993-03-10,26,Ghana,ACF Fiorentina,Serie A,2019/2020,2019
+Marco Benassi,Central Midfield,1994-09-08,24,Italy,ACF Fiorentina,Serie A,2019/2020,2019
+Szymon Zurkowski,Central Midfield,1997-09-25,21,Poland,ACF Fiorentina,Serie A,2019/2020,2019
+Sebastián Cristóforo,Central Midfield,1993-08-23,25,Uruguay,ACF Fiorentina,Serie A,2019/2020,2019
+Nicky Beloko,Central Midfield,2000-02-16,19,Switzerland,ACF Fiorentina,Serie A,2019/2020,2019
+Amidu Salifu,Central Midfield,1992-09-20,26,Ghana,ACF Fiorentina,Serie A,2019/2020,2019
+Kevin-Prince Boateng,Attacking Midfield,1987-03-06,32,Ghana,ACF Fiorentina,Serie A,2019/2020,2019
+Kevin Agudelo,Attacking Midfield,1998-11-14,20,Colombia,ACF Fiorentina,Serie A,2019/2020,2019
+Valentin Eysseric,Attacking Midfield,1992-03-25,27,France,ACF Fiorentina,Serie A,2019/2020,2019
+Tòfol Montiel,Attacking Midfield,2000-04-11,19,Spain,ACF Fiorentina,Serie A,2019/2020,2019
+Riccardo Sottil,Left Winger,1999-06-03,20,Italy,ACF Fiorentina,Serie A,2019/2020,2019
+Franck Ribéry,Left Winger,1983-04-07,36,France,ACF Fiorentina,Serie A,2019/2020,2019
+Federico Chiesa,Right Winger,1997-10-25,21,Italy,ACF Fiorentina,Serie A,2019/2020,2019
+Rachid Ghezzal,Right Winger,1992-05-09,27,Algeria,ACF Fiorentina,Serie A,2019/2020,2019
+Cyril Théréau,Second Striker,1983-04-24,36,France,ACF Fiorentina,Serie A,2019/2020,2019
+Christian Kouamé,Centre-Forward,1997-12-06,21,Cote d'Ivoire,ACF Fiorentina,Serie A,2019/2020,2019
+Dusan Vlahovic,Centre-Forward,2000-01-28,19,Serbia,ACF Fiorentina,Serie A,2019/2020,2019
+Patrick Cutrone,Centre-Forward,1998-01-03,21,Italy,ACF Fiorentina,Serie A,2019/2020,2019
+Giovanni Simeone,Centre-Forward,1995-07-05,23,Argentina,ACF Fiorentina,Serie A,2019/2020,2019
+Pedro,Centre-Forward,1997-06-20,22,Brazil,ACF Fiorentina,Serie A,2019/2020,2019
+Thomas Strakosha,Goalkeeper,1995-03-19,24,Albania,SS Lazio,Serie A,2019/2020,2019
+Silvio Proto,Goalkeeper,1983-05-23,36,Belgium,SS Lazio,Serie A,2019/2020,2019
+Guido Guerrieri,Goalkeeper,1996-02-25,23,Italy,SS Lazio,Serie A,2019/2020,2019
+Marco Alia,Goalkeeper,2000-04-26,19,Albania,SS Lazio,Serie A,2019/2020,2019
+Luiz Felipe,Centre-Back,1997-03-22,22,Brazil,SS Lazio,Serie A,2019/2020,2019
+Francesco Acerbi,Centre-Back,1988-02-10,31,Italy,SS Lazio,Serie A,2019/2020,2019
+Patric,Centre-Back,1993-04-17,26,Spain,SS Lazio,Serie A,2019/2020,2019
+Denis Vavro,Centre-Back,1996-04-10,23,Slovakia,SS Lazio,Serie A,2019/2020,2019
+Stefan Radu,Centre-Back,1986-10-22,32,Romania,SS Lazio,Serie A,2019/2020,2019
+Bastos,Centre-Back,1991-03-27,28,Angola,SS Lazio,Serie A,2019/2020,2019
+Nicolò Armini,Centre-Back,2001-03-07,18,Italy,SS Lazio,Serie A,2019/2020,2019
+Jorge Silva,Centre-Back,1999-02-04,20,Portugal,SS Lazio,Serie A,2019/2020,2019
+Jordan Lukaku,Left-Back,1994-07-25,24,Belgium,SS Lazio,Serie A,2019/2020,2019
+Luca Falbo,Left-Back,2000-02-21,19,Italy,SS Lazio,Serie A,2019/2020,2019
+Adam Marusic,Right-Back,1992-10-17,26,Montenegro,SS Lazio,Serie A,2019/2020,2019
+Tiago Casasola,Right-Back,1995-08-11,23,Argentina,SS Lazio,Serie A,2019/2020,2019
+Lucas Leiva,Defensive Midfield,1987-01-09,32,Brazil,SS Lazio,Serie A,2019/2020,2019
+Sergej Milinkovic-Savic,Central Midfield,1995-02-27,24,Serbia,SS Lazio,Serie A,2019/2020,2019
+Valon Berisha,Central Midfield,1993-02-07,26,Kosovo,SS Lazio,Serie A,2019/2020,2019
+Danilo Cataldi,Central Midfield,1994-08-06,24,Italy,SS Lazio,Serie A,2019/2020,2019
+Marco Parolo,Central Midfield,1985-01-25,34,Italy,SS Lazio,Serie A,2019/2020,2019
+Joseph Marie Minala,Central Midfield,1996-08-24,22,Cameroon,SS Lazio,Serie A,2019/2020,2019
+Manuel Lazzari,Right Midfield,1993-11-29,25,Italy,SS Lazio,Serie A,2019/2020,2019
+Djavan Anderson,Right Midfield,1995-04-21,24,Netherlands,SS Lazio,Serie A,2019/2020,2019
+Senad Lulic,Left Midfield,1986-01-18,33,Bosnia-Herzegovina,SS Lazio,Serie A,2019/2020,2019
+Luis Alberto,Attacking Midfield,1992-09-28,26,Spain,SS Lazio,Serie A,2019/2020,2019
+André Anderson,Attacking Midfield,1999-09-23,19,Italy,SS Lazio,Serie A,2019/2020,2019
+Jony,Left Winger,1991-07-09,27,Spain,SS Lazio,Serie A,2019/2020,2019
+Ricardo Kishna,Left Winger,1995-01-04,24,Netherlands,SS Lazio,Serie A,2019/2020,2019
+Raúl Moro,Left Winger,2002-12-05,16,Spain,SS Lazio,Serie A,2019/2020,2019
+Bobby Adekanye,Right Winger,1999-02-14,20,Netherlands,SS Lazio,Serie A,2019/2020,2019
+Joaquín Correa,Second Striker,1994-08-13,24,Argentina,SS Lazio,Serie A,2019/2020,2019
+Ciro Immobile,Centre-Forward,1990-02-20,29,Italy,SS Lazio,Serie A,2019/2020,2019
+Felipe Caicedo,Centre-Forward,1988-09-05,30,Ecuador,SS Lazio,Serie A,2019/2020,2019
+Pierluigi Gollini,Goalkeeper,1995-03-18,24,Italy,Atalanta BC,Serie A,2019/2020,2019
+Marco Sportiello,Goalkeeper,1992-05-10,27,Italy,Atalanta BC,Serie A,2019/2020,2019
+Khadim Ndiaye,Goalkeeper,2000-04-12,19,Senegal,Atalanta BC,Serie A,2019/2020,2019
+Francesco Rossi,Goalkeeper,1991-04-27,28,Italy,Atalanta BC,Serie A,2019/2020,2019
+Ludovico Gelmi,Goalkeeper,2001-05-02,18,Italy,Atalanta BC,Serie A,2019/2020,2019
+Rafael Tolói,Centre-Back,1990-10-10,28,Brazil,Atalanta BC,Serie A,2019/2020,2019
+Berat Djimsiti,Centre-Back,1993-02-19,26,Albania,Atalanta BC,Serie A,2019/2020,2019
+Mattia Caldara,Centre-Back,1994-05-05,25,Italy,Atalanta BC,Serie A,2019/2020,2019
+José Luis Palomino,Centre-Back,1990-01-05,29,Argentina,Atalanta BC,Serie A,2019/2020,2019
+Simon Kjaer,Centre-Back,1989-03-26,30,Denmark,Atalanta BC,Serie A,2019/2020,2019
+Bosko Sutalo,Centre-Back,2000-01-01,19,Croatia,Atalanta BC,Serie A,2019/2020,2019
+Roger Ibañez,Centre-Back,1998-11-23,20,Brazil,Atalanta BC,Serie A,2019/2020,2019
+Andrea Masiello,Centre-Back,1986-02-05,33,Italy,Atalanta BC,Serie A,2019/2020,2019
+Martin Skrtel,Centre-Back,1984-12-15,34,Slovakia,Atalanta BC,Serie A,2019/2020,2019
+Caleb Okoli,Centre-Back,2001-07-13,17,Italy,Atalanta BC,Serie A,2019/2020,2019
+David Heidenreich,Centre-Back,2000-06-24,19,Czech Republic,Atalanta BC,Serie A,2019/2020,2019
+Rodrigo Guth,Centre-Back,2000-11-10,18,Brazil,Atalanta BC,Serie A,2019/2020,2019
+Robin Gosens,Left-Back,1994-07-05,24,Germany,Atalanta BC,Serie A,2019/2020,2019
+Guilherme Arana,Left-Back,1997-04-14,22,Brazil,Atalanta BC,Serie A,2019/2020,2019
+Timothy Castagne,Right-Back,1995-12-05,23,Belgium,Atalanta BC,Serie A,2019/2020,2019
+Hans Hateboer,Right-Back,1994-01-09,25,Netherlands,Atalanta BC,Serie A,2019/2020,2019
+Raoul Bellanova,Right-Back,2000-05-17,19,Italy,Atalanta BC,Serie A,2019/2020,2019
+Marten de Roon,Defensive Midfield,1991-03-29,28,Netherlands,Atalanta BC,Serie A,2019/2020,2019
+Adrien Tamèze,Defensive Midfield,1994-02-04,25,Cameroon,Atalanta BC,Serie A,2019/2020,2019
+Remo Freuler,Central Midfield,1992-04-15,27,Switzerland,Atalanta BC,Serie A,2019/2020,2019
+Mario Pasalic,Central Midfield,1995-02-09,24,Croatia,Atalanta BC,Serie A,2019/2020,2019
+Jacopo Da Riva,Central Midfield,2000-10-27,18,Italy,Atalanta BC,Serie A,2019/2020,2019
+Lennart Czyborra,Left Midfield,1999-05-03,20,Germany,Atalanta BC,Serie A,2019/2020,2019
+Ruslan Malinovskyi,Attacking Midfield,1993-05-04,26,Ukraine,Atalanta BC,Serie A,2019/2020,2019
+Ebrima Colley,Left Winger,2000-02-01,19,The Gambia,Atalanta BC,Serie A,2019/2020,2019
+Amad Diallo,Right Winger,2002-07-11,16,Cote d'Ivoire,Atalanta BC,Serie A,2019/2020,2019
+Josip Ilicic,Second Striker,1988-01-29,31,Slovenia,Atalanta BC,Serie A,2019/2020,2019
+Papu Gómez,Second Striker,1988-02-15,31,Argentina,Atalanta BC,Serie A,2019/2020,2019
+Duván Zapata,Centre-Forward,1991-04-01,28,Colombia,Atalanta BC,Serie A,2019/2020,2019
+Luis Muriel,Centre-Forward,1991-04-16,28,Colombia,Atalanta BC,Serie A,2019/2020,2019
+Musa Barrow,Centre-Forward,1998-11-14,20,The Gambia,Atalanta BC,Serie A,2019/2020,2019
+Roberto Piccoli,Centre-Forward,2001-01-27,18,Italy,Atalanta BC,Serie A,2019/2020,2019
+Salvatore Sirigu,Goalkeeper,1987-01-12,32,Italy,Torino FC,Serie A,2019/2020,2019
+Samir Ujkani,Goalkeeper,1988-07-05,30,Kosovo,Torino FC,Serie A,2019/2020,2019
+Antonio Rosati,Goalkeeper,1983-06-26,36,Italy,Torino FC,Serie A,2019/2020,2019
+Luca Gemello,Goalkeeper,2000-07-03,18,Italy,Torino FC,Serie A,2019/2020,2019
+Armando Izzo,Centre-Back,1992-03-02,27,Italy,Torino FC,Serie A,2019/2020,2019
+Nicolas N'Koulou,Centre-Back,1990-03-27,29,Cameroon,Torino FC,Serie A,2019/2020,2019
+Lyanco,Centre-Back,1997-02-01,22,Brazil,Torino FC,Serie A,2019/2020,2019
+Kevin Bonifazi,Centre-Back,1996-05-19,23,Italy,Torino FC,Serie A,2019/2020,2019
+Bremer,Centre-Back,1997-03-18,22,Brazil,Torino FC,Serie A,2019/2020,2019
+Koffi Djidji,Centre-Back,1992-11-30,26,Cote d'Ivoire,Torino FC,Serie A,2019/2020,2019
+Alessandro Buongiorno,Centre-Back,1999-06-06,20,Italy,Torino FC,Serie A,2019/2020,2019
+Patrick Enrici,Centre-Back,2001-05-02,18,Italy,Torino FC,Serie A,2019/2020,2019
+Christian Celesia,Centre-Back,2002-01-22,17,Italy,Torino FC,Serie A,2019/2020,2019
+Diego Laxalt,Left-Back,1993-02-07,26,Uruguay,Torino FC,Serie A,2019/2020,2019
+Cristian Ansaldi,Left-Back,1986-09-20,32,Argentina,Torino FC,Serie A,2019/2020,2019
+Ola Aina,Right-Back,1996-10-08,22,Nigeria,Torino FC,Serie A,2019/2020,2019
+Lorenzo De Silvestri,Right-Back,1988-05-23,31,Italy,Torino FC,Serie A,2019/2020,2019
+Emin Ghazoini,Right-Back,2001-01-09,18,Morocco,Torino FC,Serie A,2019/2020,2019
+Wilfried Stephane Singo,Right-Back,2000-12-25,18,Cote d'Ivoire,Torino FC,Serie A,2019/2020,2019
+Filippo Gilli,Right-Back,2000-10-19,18,Italy,Torino FC,Serie A,2019/2020,2019
+Tomás Rincón,Defensive Midfield,1988-01-13,31,Venezuela,Torino FC,Serie A,2019/2020,2019
+Daniele Baselli,Central Midfield,1992-03-12,27,Italy,Torino FC,Serie A,2019/2020,2019
+Soualiho Meïté,Central Midfield,1994-03-17,25,France,Torino FC,Serie A,2019/2020,2019
+Sasa Lukic,Central Midfield,1996-08-13,22,Serbia,Torino FC,Serie A,2019/2020,2019
+Jean Freddi Greco,Central Midfield,2001-02-12,18,Italy,Torino FC,Serie A,2019/2020,2019
+Michel Ndary Adopo,Central Midfield,2000-07-19,18,France,Torino FC,Serie A,2019/2020,2019
+Mihael Onisa,Central Midfield,2000-03-15,19,Romania,Torino FC,Serie A,2019/2020,2019
+Mattia Sandri,Central Midfield,2001-04-04,18,Italy,Torino FC,Serie A,2019/2020,2019
+Simone Verdi,Attacking Midfield,1992-07-12,26,Italy,Torino FC,Serie A,2019/2020,2019
+Álex Berenguer,Left Winger,1995-07-04,23,Spain,Torino FC,Serie A,2019/2020,2019
+Vincenzo Millico,Left Winger,2000-08-12,18,Italy,Torino FC,Serie A,2019/2020,2019
+Iago Falque,Right Winger,1990-01-04,29,Spain,Torino FC,Serie A,2019/2020,2019
+Vittorio Parigini,Right Winger,1996-03-25,23,Italy,Torino FC,Serie A,2019/2020,2019
+Simone Edera,Right Winger,1997-01-09,22,Italy,Torino FC,Serie A,2019/2020,2019
+Andrea Belotti,Centre-Forward,1993-12-20,25,Italy,Torino FC,Serie A,2019/2020,2019
+Simone Zaza,Centre-Forward,1991-06-25,28,Italy,Torino FC,Serie A,2019/2020,2019
+Nicola Rauti,Centre-Forward,2000-04-17,19,Italy,Torino FC,Serie A,2019/2020,2019
+Alessio Cragno,Goalkeeper,1994-06-28,25,Italy,Cagliari Calcio,Serie A,2019/2020,2019
+Robin Olsen,Goalkeeper,1990-01-08,29,Sweden,Cagliari Calcio,Serie A,2019/2020,2019
+Rafael,Goalkeeper,1982-03-03,37,Brazil,Cagliari Calcio,Serie A,2019/2020,2019
+Simone Aresti,Goalkeeper,1986-03-15,33,Italy,Cagliari Calcio,Serie A,2019/2020,2019
+Giuseppe Ciocci,Goalkeeper,2002-01-24,17,Italy,Cagliari Calcio,Serie A,2019/2020,2019
+Filippo Romagna,Centre-Back,1997-05-26,22,Italy,Cagliari Calcio,Serie A,2019/2020,2019
+Sebastian Walukiewicz,Centre-Back,2000-04-05,19,Poland,Cagliari Calcio,Serie A,2019/2020,2019
+Luca Ceppitelli,Centre-Back,1989-08-11,29,Italy,Cagliari Calcio,Serie A,2019/2020,2019
+Ragnar Klavan,Centre-Back,1985-10-30,33,Estonia,Cagliari Calcio,Serie A,2019/2020,2019
+Fabio Pisacane,Centre-Back,1986-01-28,33,Italy,Cagliari Calcio,Serie A,2019/2020,2019
+Andrea Carboni,Centre-Back,2001-02-04,18,Italy,Cagliari Calcio,Serie A,2019/2020,2019
+Salvatore Boccia,Centre-Back,2001-06-06,18,Italy,Cagliari Calcio,Serie A,2019/2020,2019
+Charalampos Lykogiannis,Left-Back,1993-10-22,25,Greece,Cagliari Calcio,Serie A,2019/2020,2019
+Federico Mattiello,Right-Back,1995-07-14,23,Italy,Cagliari Calcio,Serie A,2019/2020,2019
+Fabrizio Cacciatore,Right-Back,1986-10-08,32,Italy,Cagliari Calcio,Serie A,2019/2020,2019
+Simone Pinna,Right-Back,1997-10-17,21,Italy,Cagliari Calcio,Serie A,2019/2020,2019
+Fabio Porru,Right-Back,2000-01-03,19,Italy,Cagliari Calcio,Serie A,2019/2020,2019
+Christian Oliva,Defensive Midfield,1996-06-01,23,Uruguay,Cagliari Calcio,Serie A,2019/2020,2019
+Luca Cigarini,Defensive Midfield,1986-06-20,33,Italy,Cagliari Calcio,Serie A,2019/2020,2019
+Riccardo Ladinetti,Defensive Midfield,2000-12-20,18,Italy,Cagliari Calcio,Serie A,2019/2020,2019
+Nahitan Nández,Central Midfield,1995-12-28,23,Uruguay,Cagliari Calcio,Serie A,2019/2020,2019
+Marko Rog,Central Midfield,1995-07-19,23,Croatia,Cagliari Calcio,Serie A,2019/2020,2019
+Artur Ionita,Central Midfield,1990-08-17,28,Moldova,Cagliari Calcio,Serie A,2019/2020,2019
+Lucas Castro,Central Midfield,1989-04-09,30,Argentina,Cagliari Calcio,Serie A,2019/2020,2019
+Alessandro Deiola,Central Midfield,1995-08-01,23,Italy,Cagliari Calcio,Serie A,2019/2020,2019
+Alessandro Lombardi,Central Midfield,2000-01-21,19,Italy,Cagliari Calcio,Serie A,2019/2020,2019
+Paolo Faragò,Right Midfield,1993-02-12,26,Italy,Cagliari Calcio,Serie A,2019/2020,2019
+Luca Pellegrini,Left Midfield,1999-03-07,20,Italy,Cagliari Calcio,Serie A,2019/2020,2019
+Radja Nainggolan,Attacking Midfield,1988-05-04,31,Belgium,Cagliari Calcio,Serie A,2019/2020,2019
+João Pedro,Attacking Midfield,1992-03-09,27,Brazil,Cagliari Calcio,Serie A,2019/2020,2019
+Gastón Pereiro,Attacking Midfield,1995-06-11,24,Uruguay,Cagliari Calcio,Serie A,2019/2020,2019
+Valter Birsa,Attacking Midfield,1986-08-07,32,Slovenia,Cagliari Calcio,Serie A,2019/2020,2019
+Federico Marigosu,Attacking Midfield,2001-04-21,18,Italy,Cagliari Calcio,Serie A,2019/2020,2019
+Daniele Ragatzu,Second Striker,1991-09-21,27,Italy,Cagliari Calcio,Serie A,2019/2020,2019
+Isaias Delpupo,Second Striker,2003-03-31,16,Argentina,Cagliari Calcio,Serie A,2019/2020,2019
+Giovanni Simeone,Centre-Forward,1995-07-05,23,Argentina,Cagliari Calcio,Serie A,2019/2020,2019
+Leonardo Pavoletti,Centre-Forward,1988-11-26,30,Italy,Cagliari Calcio,Serie A,2019/2020,2019
+Alberto Cerri,Centre-Forward,1996-04-16,23,Italy,Cagliari Calcio,Serie A,2019/2020,2019
+Kwang-song Han,Centre-Forward,1998-09-11,20,"Korea, North",Cagliari Calcio,Serie A,2019/2020,2019
+Alberto Paloschi,Centre-Forward,1990-01-04,29,Italy,Cagliari Calcio,Serie A,2019/2020,2019
+Luca Gagliano,Centre-Forward,2000-07-14,18,Italy,Cagliari Calcio,Serie A,2019/2020,2019
+Ionut Radu,Goalkeeper,1997-05-28,22,Romania,Genoa CFC,Serie A,2019/2020,2019
+Mattia Perin,Goalkeeper,1992-11-10,26,Italy,Genoa CFC,Serie A,2019/2020,2019
+Jandrei,Goalkeeper,1993-03-01,26,Brazil,Genoa CFC,Serie A,2019/2020,2019
+Salvador Ichazo,Goalkeeper,1992-01-26,27,Uruguay,Genoa CFC,Serie A,2019/2020,2019
+Federico Marchetti,Goalkeeper,1983-02-07,36,Italy,Genoa CFC,Serie A,2019/2020,2019
+Nicolò Radaelli,Goalkeeper,2001-03-17,18,Italy,Genoa CFC,Serie A,2019/2020,2019
+Cristian Romero,Centre-Back,1998-04-27,21,Argentina,Genoa CFC,Serie A,2019/2020,2019
+Adama Soumaoro,Centre-Back,1992-06-18,27,France,Genoa CFC,Serie A,2019/2020,2019
+Davide Biraschi,Centre-Back,1994-07-02,24,Italy,Genoa CFC,Serie A,2019/2020,2019
+Cristián Zapata,Centre-Back,1986-09-30,32,Colombia,Genoa CFC,Serie A,2019/2020,2019
+Edoardo Goldaniga,Centre-Back,1993-11-02,25,Italy,Genoa CFC,Serie A,2019/2020,2019
+Andrea Masiello,Centre-Back,1986-02-05,33,Italy,Genoa CFC,Serie A,2019/2020,2019
+Jawad El Yamiq,Centre-Back,1992-02-29,27,Morocco,Genoa CFC,Serie A,2019/2020,2019
+Vasco da Cunha,Centre-Back,2000-05-28,19,Portugal,Genoa CFC,Serie A,2019/2020,2019
+Antonio Barreca,Left-Back,1995-03-18,24,Italy,Genoa CFC,Serie A,2019/2020,2019
+Domenico Criscito,Left-Back,1986-12-30,32,Italy,Genoa CFC,Serie A,2019/2020,2019
+Peter Ankersen,Right-Back,1990-09-22,28,Denmark,Genoa CFC,Serie A,2019/2020,2019
+Lasse Schöne,Defensive Midfield,1986-05-27,33,Denmark,Genoa CFC,Serie A,2019/2020,2019
+Ivan Radovanovic,Defensive Midfield,1988-08-29,30,Serbia,Genoa CFC,Serie A,2019/2020,2019
+Nicolò Rovella,Defensive Midfield,2001-12-04,17,Italy,Genoa CFC,Serie A,2019/2020,2019
+Sebastian Eriksson,Defensive Midfield,1989-01-31,30,Sweden,Genoa CFC,Serie A,2019/2020,2019
+Valon Behrami,Defensive Midfield,1985-04-19,34,Switzerland,Genoa CFC,Serie A,2019/2020,2019
+Stefano Sturaro,Central Midfield,1993-03-09,26,Italy,Genoa CFC,Serie A,2019/2020,2019
+Lukas Lerager,Central Midfield,1993-07-12,25,Denmark,Genoa CFC,Serie A,2019/2020,2019
+Francesco Cassata,Central Midfield,1997-07-16,21,Italy,Genoa CFC,Serie A,2019/2020,2019
+Rômulo,Central Midfield,1987-05-22,32,Italy,Genoa CFC,Serie A,2019/2020,2019
+Filip Jagiello,Central Midfield,1997-08-08,21,Poland,Genoa CFC,Serie A,2019/2020,2019
+Steeve-Mike Eboa Ebongue,Central Midfield,2001-02-20,18,France,Genoa CFC,Serie A,2019/2020,2019
+Paolo Ghiglione,Right Midfield,1997-02-02,22,Italy,Genoa CFC,Serie A,2019/2020,2019
+Marko Pajac,Left Midfield,1993-05-11,26,Croatia,Genoa CFC,Serie A,2019/2020,2019
+Kevin Agudelo,Attacking Midfield,1998-11-14,20,Colombia,Genoa CFC,Serie A,2019/2020,2019
+Riccardo Saponara,Attacking Midfield,1991-12-21,27,Italy,Genoa CFC,Serie A,2019/2020,2019
+Denilho Cleonise,Left Winger,2001-12-08,17,Netherlands,Genoa CFC,Serie A,2019/2020,2019
+Iago Falque,Right Winger,1990-01-04,29,Spain,Genoa CFC,Serie A,2019/2020,2019
+Sinan Gümüs,Right Winger,1994-01-15,25,Germany,Genoa CFC,Serie A,2019/2020,2019
+Augustinas Klimavicius,Right Winger,2001-04-27,18,Lithuania,Genoa CFC,Serie A,2019/2020,2019
+Goran Pandev,Second Striker,1983-07-27,35,North Macedonia,Genoa CFC,Serie A,2019/2020,2019
+Christian Kouamé,Centre-Forward,1997-12-06,21,Cote d'Ivoire,Genoa CFC,Serie A,2019/2020,2019
+Andrea Pinamonti,Centre-Forward,1999-05-19,20,Italy,Genoa CFC,Serie A,2019/2020,2019
+Antonio Sanabria,Centre-Forward,1996-03-04,23,Paraguay,Genoa CFC,Serie A,2019/2020,2019
+Andrea Favilli,Centre-Forward,1997-05-17,22,Italy,Genoa CFC,Serie A,2019/2020,2019
+Mattia Destro,Centre-Forward,1991-03-20,28,Italy,Genoa CFC,Serie A,2019/2020,2019
+Danilo Giacinto Ventola,Centre-Forward,2000-09-11,18,Italy,Genoa CFC,Serie A,2019/2020,2019
+Emil Audero,Goalkeeper,1997-01-18,22,Italy,UC Sampdoria,Serie A,2019/2020,2019
+Andrea Seculin,Goalkeeper,1990-07-14,28,Italy,UC Sampdoria,Serie A,2019/2020,2019
+Wladimiro Falcone,Goalkeeper,1995-04-12,24,Italy,UC Sampdoria,Serie A,2019/2020,2019
+Matteo Raspa,Goalkeeper,2001-08-21,17,Italy,UC Sampdoria,Serie A,2019/2020,2019
+Lorenzo Avogadri,Goalkeeper,2001-08-21,17,Italy,UC Sampdoria,Serie A,2019/2020,2019
+Jeison Murillo,Centre-Back,1992-05-27,27,Colombia,UC Sampdoria,Serie A,2019/2020,2019
+Omar Colley,Centre-Back,1992-10-24,26,The Gambia,UC Sampdoria,Serie A,2019/2020,2019
+Maya Yoshida,Centre-Back,1988-08-24,30,Japan,UC Sampdoria,Serie A,2019/2020,2019
+Julian Chabot,Centre-Back,1998-02-12,21,Germany,UC Sampdoria,Serie A,2019/2020,2019
+Lorenzo Tonelli,Centre-Back,1990-01-17,29,Italy,UC Sampdoria,Serie A,2019/2020,2019
+Alex Ferrari,Centre-Back,1994-07-01,25,Italy,UC Sampdoria,Serie A,2019/2020,2019
+Nicola Murru,Left-Back,1994-12-16,24,Italy,UC Sampdoria,Serie A,2019/2020,2019
+Dodô,Left-Back,1992-02-06,27,Brazil,UC Sampdoria,Serie A,2019/2020,2019
+Tommaso Augello,Left-Back,1994-08-30,24,Italy,UC Sampdoria,Serie A,2019/2020,2019
+Vasco Regini,Left-Back,1990-09-09,28,Italy,UC Sampdoria,Serie A,2019/2020,2019
+Bartosz Bereszynski,Right-Back,1992-07-12,26,Poland,UC Sampdoria,Serie A,2019/2020,2019
+Fabio Depaoli,Right-Back,1997-04-24,22,Italy,UC Sampdoria,Serie A,2019/2020,2019
+Kaique Rocha,Right-Back,2001-02-28,18,Brazil,UC Sampdoria,Serie A,2019/2020,2019
+Albin Ekdal,Defensive Midfield,1989-07-28,29,Sweden,UC Sampdoria,Serie A,2019/2020,2019
+Marco Pompetti,Defensive Midfield,2000-05-22,19,Italy,UC Sampdoria,Serie A,2019/2020,2019
+Karol Linetty,Central Midfield,1995-02-02,24,Poland,UC Sampdoria,Serie A,2019/2020,2019
+Jakub Jankto,Central Midfield,1996-01-19,23,Czech Republic,UC Sampdoria,Serie A,2019/2020,2019
+Ronaldo Vieira,Central Midfield,1998-07-19,20,England,UC Sampdoria,Serie A,2019/2020,2019
+Andrea Bertolacci,Central Midfield,1991-01-11,28,Italy,UC Sampdoria,Serie A,2019/2020,2019
+Mehdi Léris,Central Midfield,1998-05-23,21,France,UC Sampdoria,Serie A,2019/2020,2019
+Morten Thorsby,Central Midfield,1996-05-05,23,Norway,UC Sampdoria,Serie A,2019/2020,2019
+Kristoffer Askildsen,Central Midfield,2001-01-09,18,Norway,UC Sampdoria,Serie A,2019/2020,2019
+Édgar Barreto,Central Midfield,1984-07-15,34,Paraguay,UC Sampdoria,Serie A,2019/2020,2019
+Gastón Ramírez,Attacking Midfield,1990-12-02,28,Uruguay,UC Sampdoria,Serie A,2019/2020,2019
+Gonzalo Maroni,Attacking Midfield,1999-03-18,20,Argentina,UC Sampdoria,Serie A,2019/2020,2019
+Felice D'Amico,Left Winger,2000-08-22,18,Italy,UC Sampdoria,Serie A,2019/2020,2019
+Mohamed Bahlouli,Left Winger,2000-02-17,19,France,UC Sampdoria,Serie A,2019/2020,2019
+Emiliano Rigoni,Right Winger,1993-02-04,26,Argentina,UC Sampdoria,Serie A,2019/2020,2019
+Gianluca Caprari,Second Striker,1993-07-30,25,Italy,UC Sampdoria,Serie A,2019/2020,2019
+Manolo Gabbiadini,Centre-Forward,1991-11-26,27,Italy,UC Sampdoria,Serie A,2019/2020,2019
+Antonino La Gumina,Centre-Forward,1996-03-06,23,Italy,UC Sampdoria,Serie A,2019/2020,2019
+Federico Bonazzoli,Centre-Forward,1997-05-21,22,Italy,UC Sampdoria,Serie A,2019/2020,2019
+Fabio Quagliarella,Centre-Forward,1983-01-31,36,Italy,UC Sampdoria,Serie A,2019/2020,2019
+Andrea Consigli,Goalkeeper,1987-01-27,32,Italy,US Sassuolo,Serie A,2019/2020,2019
+Stefano Turati,Goalkeeper,2001-09-05,17,Italy,US Sassuolo,Serie A,2019/2020,2019
+Alessandro Russo,Goalkeeper,2001-03-31,18,Italy,US Sassuolo,Serie A,2019/2020,2019
+Gianluca Pegolo,Goalkeeper,1981-03-25,38,Italy,US Sassuolo,Serie A,2019/2020,2019
+Gian Marco Ferrari,Centre-Back,1992-05-15,27,Italy,US Sassuolo,Serie A,2019/2020,2019
+Marlon,Centre-Back,1995-09-07,23,Brazil,US Sassuolo,Serie A,2019/2020,2019
+Filippo Romagna,Centre-Back,1997-05-26,22,Italy,US Sassuolo,Serie A,2019/2020,2019
+Vlad Chiriches,Centre-Back,1989-11-14,29,Romania,US Sassuolo,Serie A,2019/2020,2019
+Andreaw Gravillon,Centre-Back,1998-02-08,21,Guadeloupe,US Sassuolo,Serie A,2019/2020,2019
+Giangiacomo Magnani,Centre-Back,1995-10-04,23,Italy,US Sassuolo,Serie A,2019/2020,2019
+Edoardo Goldaniga,Centre-Back,1993-11-02,25,Italy,US Sassuolo,Serie A,2019/2020,2019
+Leonardo Fontanesi,Centre-Back,1996-02-20,23,Italy,US Sassuolo,Serie A,2019/2020,2019
+Stefano Piccinini,Centre-Back,2002-12-31,16,Italy,US Sassuolo,Serie A,2019/2020,2019
+Rogério,Left-Back,1998-01-13,21,Brazil,US Sassuolo,Serie A,2019/2020,2019
+Georgios Kyriakopoulos,Left-Back,1996-02-05,23,Greece,US Sassuolo,Serie A,2019/2020,2019
+Alessandro Tripaldelli,Left-Back,1999-02-09,20,Italy,US Sassuolo,Serie A,2019/2020,2019
+Federico Peluso,Left-Back,1984-01-20,35,Italy,US Sassuolo,Serie A,2019/2020,2019
+Giuseppe Aurelio,Left-Back,2000-03-22,19,Italy,US Sassuolo,Serie A,2019/2020,2019
+Mert Müldür,Right-Back,1999-04-03,20,Turkey,US Sassuolo,Serie A,2019/2020,2019
+Jeremy Toljan,Right-Back,1994-08-08,24,Germany,US Sassuolo,Serie A,2019/2020,2019
+Claud Adjapong,Right-Back,1998-05-06,21,Italy,US Sassuolo,Serie A,2019/2020,2019
+Francesco Magnanelli,Defensive Midfield,1984-11-12,34,Italy,US Sassuolo,Serie A,2019/2020,2019
+Andrea Ghion,Defensive Midfield,2000-02-23,19,Italy,US Sassuolo,Serie A,2019/2020,2019
+Iulius Marginean,Defensive Midfield,2001-07-03,17,Romania,US Sassuolo,Serie A,2019/2020,2019
+Manuel Locatelli,Central Midfield,1998-01-08,21,Italy,US Sassuolo,Serie A,2019/2020,2019
+Alfred Duncan,Central Midfield,1993-03-10,26,Ghana,US Sassuolo,Serie A,2019/2020,2019
+Pedro Obiang,Central Midfield,1992-03-27,27,Equatorial Guinea,US Sassuolo,Serie A,2019/2020,2019
+Mehdi Bourabia,Central Midfield,1991-08-07,27,Morocco,US Sassuolo,Serie A,2019/2020,2019
+Luca Mazzitelli,Central Midfield,1995-11-15,23,Italy,US Sassuolo,Serie A,2019/2020,2019
+Alessandro Mercati,Central Midfield,2002-05-12,17,Italy,US Sassuolo,Serie A,2019/2020,2019
+Hamed Junior Traorè,Attacking Midfield,2000-02-16,19,Cote d'Ivoire,US Sassuolo,Serie A,2019/2020,2019
+Filip Djuricic,Attacking Midfield,1992-01-30,27,Serbia,US Sassuolo,Serie A,2019/2020,2019
+Jérémie Boga,Left Winger,1997-01-03,22,Cote d'Ivoire,US Sassuolo,Serie A,2019/2020,2019
+Lukas Haraslin,Left Winger,1996-05-26,23,Slovakia,US Sassuolo,Serie A,2019/2020,2019
+Giacomo Manzari,Left Winger,2000-09-21,18,Italy,US Sassuolo,Serie A,2019/2020,2019
+Domenico Berardi,Right Winger,1994-08-01,24,Italy,US Sassuolo,Serie A,2019/2020,2019
+Aristidi Kolaj,Right Winger,1999-04-09,20,Albania,US Sassuolo,Serie A,2019/2020,2019
+Brian Oddei,Right Winger,2002-09-18,16,Italy,US Sassuolo,Serie A,2019/2020,2019
+Enrico Brignola,Second Striker,1999-07-08,19,Italy,US Sassuolo,Serie A,2019/2020,2019
+Grégoire Defrel,Centre-Forward,1991-06-17,28,Martinique,US Sassuolo,Serie A,2019/2020,2019
+Francesco Caputo,Centre-Forward,1987-08-06,31,Italy,US Sassuolo,Serie A,2019/2020,2019
+Giacomo Raspadori,Centre-Forward,2000-02-18,19,Italy,US Sassuolo,Serie A,2019/2020,2019
+Jacopo Pellegrini,Centre-Forward,2000-09-12,18,Italy,US Sassuolo,Serie A,2019/2020,2019
+Alessandro Matri,Centre-Forward,1984-08-19,34,Italy,US Sassuolo,Serie A,2019/2020,2019
+Juan Musso,Goalkeeper,1994-05-06,25,Argentina,Udinese Calcio,Serie A,2019/2020,2019
+Nícolas,Goalkeeper,1988-04-12,31,Brazil,Udinese Calcio,Serie A,2019/2020,2019
+Samuele Perisan,Goalkeeper,1997-08-21,21,Italy,Udinese Calcio,Serie A,2019/2020,2019
+Rodrigo Becão,Centre-Back,1996-01-19,23,Brazil,Udinese Calcio,Serie A,2019/2020,2019
+Samir,Centre-Back,1994-12-05,24,Brazil,Udinese Calcio,Serie A,2019/2020,2019
+William Troost-Ekong,Centre-Back,1993-09-01,25,Nigeria,Udinese Calcio,Serie A,2019/2020,2019
+Bram Nuytinck,Centre-Back,1990-05-04,29,Netherlands,Udinese Calcio,Serie A,2019/2020,2019
+Sebastian Prödl,Centre-Back,1987-06-21,32,Austria,Udinese Calcio,Serie A,2019/2020,2019
+Nicholas Opoku,Centre-Back,1997-08-11,21,Ghana,Udinese Calcio,Serie A,2019/2020,2019
+Sebastien De Maio,Centre-Back,1987-03-05,32,France,Udinese Calcio,Serie A,2019/2020,2019
+Francisco Sierralta,Centre-Back,1997-05-06,22,Chile,Udinese Calcio,Serie A,2019/2020,2019
+Francesco Mazzolo,Centre-Back,2001-09-04,17,Italy,Udinese Calcio,Serie A,2019/2020,2019
+Giuseppe Pezzella,Left-Back,1997-11-29,21,Italy,Udinese Calcio,Serie A,2019/2020,2019
+Marvin Zeegelaar,Left-Back,1990-08-12,28,Netherlands,Udinese Calcio,Serie A,2019/2020,2019
+Jens Stryger Larsen,Right-Back,1991-02-21,28,Denmark,Udinese Calcio,Serie A,2019/2020,2019
+Hidde ter Avest,Right-Back,1997-05-20,22,Netherlands,Udinese Calcio,Serie A,2019/2020,2019
+Rolando Mandragora,Defensive Midfield,1997-06-29,22,Italy,Udinese Calcio,Serie A,2019/2020,2019
+Walace,Defensive Midfield,1995-04-04,24,Brazil,Udinese Calcio,Serie A,2019/2020,2019
+Mato Jajalo,Defensive Midfield,1988-05-25,31,Bosnia-Herzegovina,Udinese Calcio,Serie A,2019/2020,2019
+Rodrigo de Paul,Central Midfield,1994-05-24,25,Argentina,Udinese Calcio,Serie A,2019/2020,2019
+Seko Fofana,Central Midfield,1995-05-07,24,Cote d'Ivoire,Udinese Calcio,Serie A,2019/2020,2019
+Antonin Barak,Central Midfield,1994-12-03,24,Czech Republic,Udinese Calcio,Serie A,2019/2020,2019
+Andrija Balic,Central Midfield,1997-08-11,21,Croatia,Udinese Calcio,Serie A,2019/2020,2019
+Marco Ballarini,Central Midfield,2001-03-28,18,Italy,Udinese Calcio,Serie A,2019/2020,2019
+Martin Palumbo,Central Midfield,2002-03-05,17,Norway,Udinese Calcio,Serie A,2019/2020,2019
+Svante Ingelsson,Right Midfield,1998-06-14,21,Sweden,Udinese Calcio,Serie A,2019/2020,2019
+Jan Kubala,Right Midfield,2000-05-05,19,Czech Republic,Udinese Calcio,Serie A,2019/2020,2019
+Ken Sema,Left Midfield,1993-09-30,25,Sweden,Udinese Calcio,Serie A,2019/2020,2019
+Mattia Compagnon,Left Midfield,2001-11-06,17,Italy,Udinese Calcio,Serie A,2019/2020,2019
+Enrico Oviszach,Attacking Midfield,2001-03-26,18,Italy,Udinese Calcio,Serie A,2019/2020,2019
+Ignacio Pussetto,Right Winger,1995-12-21,23,Argentina,Udinese Calcio,Serie A,2019/2020,2019
+Aly Malle,Right Winger,1998-04-03,21,Mali,Udinese Calcio,Serie A,2019/2020,2019
+Ryder Matos,Second Striker,1993-02-27,26,Brazil,Udinese Calcio,Serie A,2019/2020,2019
+Kevin Lasagna,Centre-Forward,1992-08-10,26,Italy,Udinese Calcio,Serie A,2019/2020,2019
+Stefano Okaka,Centre-Forward,1989-08-09,29,Italy,Udinese Calcio,Serie A,2019/2020,2019
+Ilija Nestorovski,Centre-Forward,1990-03-12,29,North Macedonia,Udinese Calcio,Serie A,2019/2020,2019
+Lukasz Teodorczyk,Centre-Forward,1991-06-03,28,Poland,Udinese Calcio,Serie A,2019/2020,2019
+Emanuele Rovini,Centre-Forward,1995-02-20,24,Italy,Udinese Calcio,Serie A,2019/2020,2019
+Eric Lirussi,Centre-Forward,2001-05-01,18,Italy,Udinese Calcio,Serie A,2019/2020,2019
+Ionut Radu,Goalkeeper,1997-05-28,22,Romania,Parma Calcio 1913,Serie A,2019/2020,2019
+Luigi Sepe,Goalkeeper,1991-05-08,28,Italy,Parma Calcio 1913,Serie A,2019/2020,2019
+Simone Colombi,Goalkeeper,1991-07-01,28,Italy,Parma Calcio 1913,Serie A,2019/2020,2019
+Fabrizio Alastra,Goalkeeper,1997-10-01,21,Italy,Parma Calcio 1913,Serie A,2019/2020,2019
+Edoardo Corvi,Goalkeeper,2001-03-23,18,Italy,Parma Calcio 1913,Serie A,2019/2020,2019
+Simone Iacoponi,Centre-Back,1987-04-30,32,Italy,Parma Calcio 1913,Serie A,2019/2020,2019
+Kastriot Dermaku,Centre-Back,1992-01-15,27,Albania,Parma Calcio 1913,Serie A,2019/2020,2019
+Bruno Alves,Centre-Back,1981-11-27,37,Portugal,Parma Calcio 1913,Serie A,2019/2020,2019
+Alessandro Minelli,Centre-Back,1999-07-23,19,Italy,Parma Calcio 1913,Serie A,2019/2020,2019
+Botond Balogh,Centre-Back,2002-06-06,17,Hungary,Parma Calcio 1913,Serie A,2019/2020,2019
+Riccardo Gagliolo,Left-Back,1990-04-28,29,Sweden,Parma Calcio 1913,Serie A,2019/2020,2019
+Giuseppe Pezzella,Left-Back,1997-11-29,21,Italy,Parma Calcio 1913,Serie A,2019/2020,2019
+Vasco Regini,Left-Back,1990-09-09,28,Italy,Parma Calcio 1913,Serie A,2019/2020,2019
+Giacomo Ricci,Left-Back,1996-09-02,22,Italy,Parma Calcio 1913,Serie A,2019/2020,2019
+Matteo Darmian,Right-Back,1989-12-02,29,Italy,Parma Calcio 1913,Serie A,2019/2020,2019
+Vincent Laurini,Right-Back,1989-06-10,30,France,Parma Calcio 1913,Serie A,2019/2020,2019
+Hernani,Defensive Midfield,1994-03-27,25,Brazil,Parma Calcio 1913,Serie A,2019/2020,2019
+Gastón Brugman,Defensive Midfield,1992-09-07,26,Uruguay,Parma Calcio 1913,Serie A,2019/2020,2019
+Matteo Scozzarella,Defensive Midfield,1988-06-05,31,Italy,Parma Calcio 1913,Serie A,2019/2020,2019
+Alberto Grassi,Central Midfield,1995-03-07,24,Italy,Parma Calcio 1913,Serie A,2019/2020,2019
+Juraj Kucka,Central Midfield,1987-02-26,32,Slovakia,Parma Calcio 1913,Serie A,2019/2020,2019
+Jasmin Kurtic,Central Midfield,1989-01-10,30,Slovenia,Parma Calcio 1913,Serie A,2019/2020,2019
+José Machín,Central Midfield,1996-08-14,22,Equatorial Guinea,Parma Calcio 1913,Serie A,2019/2020,2019
+Antonino Barillà,Central Midfield,1988-04-01,31,Italy,Parma Calcio 1913,Serie A,2019/2020,2019
+Luca Rigoni,Central Midfield,1984-12-07,34,Italy,Parma Calcio 1913,Serie A,2019/2020,2019
+Redi Kasa,Central Midfield,2001-09-01,17,Albania,Parma Calcio 1913,Serie A,2019/2020,2019
+Drissa Camara,Central Midfield,2002-02-18,17,Cote d'Ivoire,Parma Calcio 1913,Serie A,2019/2020,2019
+Márk Kosznovszky,Central Midfield,2002-04-17,17,Hungary,Parma Calcio 1913,Serie A,2019/2020,2019
+Gervinho,Left Winger,1987-05-27,32,Cote d'Ivoire,Parma Calcio 1913,Serie A,2019/2020,2019
+Dejan Kulusevski,Right Winger,2000-04-25,19,Sweden,Parma Calcio 1913,Serie A,2019/2020,2019
+Yann Karamoh,Right Winger,1998-07-08,20,France,Parma Calcio 1913,Serie A,2019/2020,2019
+Mattia Sprocati,Right Winger,1993-04-28,26,Italy,Parma Calcio 1913,Serie A,2019/2020,2019
+Luca Siligardi,Right Winger,1988-01-26,31,Italy,Parma Calcio 1913,Serie A,2019/2020,2019
+Patricio Alexis Goglino,Right Winger,2001-02-06,18,Argentina,Parma Calcio 1913,Serie A,2019/2020,2019
+Gianluca Caprari,Second Striker,1993-07-30,25,Italy,Parma Calcio 1913,Serie A,2019/2020,2019
+Roberto Inglese,Centre-Forward,1991-11-12,27,Italy,Parma Calcio 1913,Serie A,2019/2020,2019
+Andreas Cornelius,Centre-Forward,1993-03-16,26,Denmark,Parma Calcio 1913,Serie A,2019/2020,2019
+Fabio Ceravolo,Centre-Forward,1987-03-05,32,Italy,Parma Calcio 1913,Serie A,2019/2020,2019
+Andrea Adorante,Centre-Forward,2000-02-05,19,Italy,Parma Calcio 1913,Serie A,2019/2020,2019
+Gabriele Artistico,Centre-Forward,2002-07-14,16,Italy,Parma Calcio 1913,Serie A,2019/2020,2019
+Lukasz Skorupski,Goalkeeper,1991-05-05,28,Poland,Bologna FC 1909,Serie A,2019/2020,2019
+Angelo da Costa,Goalkeeper,1983-11-12,35,Brazil,Bologna FC 1909,Serie A,2019/2020,2019
+Mouhamadou Sarr,Goalkeeper,1997-01-05,22,Senegal,Bologna FC 1909,Serie A,2019/2020,2019
+Sebastian Breza,Goalkeeper,1998-03-15,21,Canada,Bologna FC 1909,Serie A,2019/2020,2019
+Marco Molla,Goalkeeper,2002-06-19,17,Albania,Bologna FC 1909,Serie A,2019/2020,2019
+Takehiro Tomiyasu,Centre-Back,1998-11-05,20,Japan,Bologna FC 1909,Serie A,2019/2020,2019
+Stefano Denswil,Centre-Back,1993-05-07,26,Netherlands,Bologna FC 1909,Serie A,2019/2020,2019
+Mattia Bani,Centre-Back,1993-12-10,25,Italy,Bologna FC 1909,Serie A,2019/2020,2019
+Arturo Calabresi,Centre-Back,1996-03-17,23,Italy,Bologna FC 1909,Serie A,2019/2020,2019
+Gabriele Corbo,Centre-Back,2000-01-11,19,Italy,Bologna FC 1909,Serie A,2019/2020,2019
+Danilo,Centre-Back,1984-05-10,35,Brazil,Bologna FC 1909,Serie A,2019/2020,2019
+Nehuén Paz,Centre-Back,1993-04-28,26,Argentina,Bologna FC 1909,Serie A,2019/2020,2019
+Federico Bonini,Centre-Back,2001-08-06,17,Italy,Bologna FC 1909,Serie A,2019/2020,2019
+Denis Portanova,Centre-Back,2001-06-20,18,Italy,Bologna FC 1909,Serie A,2019/2020,2019
+Gabriele Boloca,Centre-Back,2001-03-31,18,Romania,Bologna FC 1909,Serie A,2019/2020,2019
+Mitchell Dijks,Left-Back,1993-02-09,26,Netherlands,Bologna FC 1909,Serie A,2019/2020,2019
+Ibrahima Mbaye,Right-Back,1994-11-19,24,Senegal,Bologna FC 1909,Serie A,2019/2020,2019
+Gary Medel,Defensive Midfield,1987-08-03,31,Chile,Bologna FC 1909,Serie A,2019/2020,2019
+Leonardo Mazza,Defensive Midfield,2000-09-27,18,Italy,Bologna FC 1909,Serie A,2019/2020,2019
+Nicolás Domínguez,Central Midfield,1998-06-28,21,Argentina,Bologna FC 1909,Serie A,2019/2020,2019
+Roberto Soriano,Central Midfield,1991-02-08,28,Italy,Bologna FC 1909,Serie A,2019/2020,2019
+Mattias Svanberg,Central Midfield,1999-01-05,20,Sweden,Bologna FC 1909,Serie A,2019/2020,2019
+Jerdy Schouten,Central Midfield,1997-01-12,22,Netherlands,Bologna FC 1909,Serie A,2019/2020,2019
+Andrea Poli,Central Midfield,1989-09-29,29,Italy,Bologna FC 1909,Serie A,2019/2020,2019
+Kingsley Michael,Central Midfield,1999-08-26,19,Nigeria,Bologna FC 1909,Serie A,2019/2020,2019
+Blerim Dzemaili,Central Midfield,1986-04-12,33,Switzerland,Bologna FC 1909,Serie A,2019/2020,2019
+Dion Ruffo Luci,Central Midfield,2001-07-12,17,Italy,Bologna FC 1909,Serie A,2019/2020,2019
+Andri Fannar Baldursson,Central Midfield,2002-01-10,17,Iceland,Bologna FC 1909,Serie A,2019/2020,2019
+Ladislav Krejci,Left Midfield,1992-07-05,26,Czech Republic,Bologna FC 1909,Serie A,2019/2020,2019
+César Falletti,Attacking Midfield,1992-12-02,26,Uruguay,Bologna FC 1909,Serie A,2019/2020,2019
+Nicola Sansone,Left Winger,1991-09-10,27,Italy,Bologna FC 1909,Serie A,2019/2020,2019
+Musa Juwara,Left Winger,2001-12-26,17,The Gambia,Bologna FC 1909,Serie A,2019/2020,2019
+Gianmarco Cangiano,Left Winger,2001-11-16,17,Italy,Bologna FC 1909,Serie A,2019/2020,2019
+Riccardo Orsolini,Right Winger,1997-01-24,22,Italy,Bologna FC 1909,Serie A,2019/2020,2019
+Andreas Skov Olsen,Right Winger,1999-12-29,19,Denmark,Bologna FC 1909,Serie A,2019/2020,2019
+Leonardo Stanzani,Right Winger,2000-04-12,19,Italy,Bologna FC 1909,Serie A,2019/2020,2019
+Musa Barrow,Centre-Forward,1998-11-14,20,The Gambia,Bologna FC 1909,Serie A,2019/2020,2019
+Federico Santander,Centre-Forward,1991-06-04,28,Paraguay,Bologna FC 1909,Serie A,2019/2020,2019
+Mattia Destro,Centre-Forward,1991-03-20,28,Italy,Bologna FC 1909,Serie A,2019/2020,2019
+Rodrigo Palacio,Centre-Forward,1982-02-05,37,Argentina,Bologna FC 1909,Serie A,2019/2020,2019
+Etrit Berisha,Goalkeeper,1989-03-10,30,Albania,SPAL,Serie A,2019/2020,2019
+Karlo Letica,Goalkeeper,1997-02-11,22,Croatia,SPAL,Serie A,2019/2020,2019
+Demba Thiam,Goalkeeper,1998-03-05,21,Senegal,SPAL,Serie A,2019/2020,2019
+Marco Meneghetti,Goalkeeper,2001-06-01,18,Italy,SPAL,Serie A,2019/2020,2019
+Igor,Centre-Back,1998-02-07,21,Brazil,SPAL,Serie A,2019/2020,2019
+Francesco Vicari,Centre-Back,1994-08-03,24,Italy,SPAL,Serie A,2019/2020,2019
+Kevin Bonifazi,Centre-Back,1996-05-19,23,Italy,SPAL,Serie A,2019/2020,2019
+Ervin Zukanovic,Centre-Back,1987-02-11,32,Bosnia-Herzegovina,SPAL,Serie A,2019/2020,2019
+Sauli Väisänen,Centre-Back,1994-06-05,25,Finland,SPAL,Serie A,2019/2020,2019
+Thiago Cionek,Centre-Back,1986-04-21,33,Poland,SPAL,Serie A,2019/2020,2019
+Nenad Tomović,Centre-Back,1987-08-30,31,Serbia,SPAL,Serie A,2019/2020,2019
+Bartosz Salamon,Centre-Back,1991-05-01,28,Poland,SPAL,Serie A,2019/2020,2019
+Felipe,Centre-Back,1984-07-31,34,Brazil,SPAL,Serie A,2019/2020,2019
+Paolo Cannistrà,Centre-Back,2000-11-03,18,Italy,SPAL,Serie A,2019/2020,2019
+Riccardo Mastrilli,Left-Back,1997-05-30,22,Italy,SPAL,Serie A,2019/2020,2019
+Jacopo Sala,Right-Back,1991-12-05,27,Italy,SPAL,Serie A,2019/2020,2019
+Jakub Iskra,Right-Back,2002-08-13,16,Poland,SPAL,Serie A,2019/2020,2019
+Simone Missiroli,Defensive Midfield,1986-05-23,33,Italy,SPAL,Serie A,2019/2020,2019
+Mirko Valdifiori,Defensive Midfield,1986-04-21,33,Italy,SPAL,Serie A,2019/2020,2019
+Federico Zanchetta,Defensive Midfield,2002-03-23,17,Italy,SPAL,Serie A,2019/2020,2019
+Jasmin Kurtic,Central Midfield,1989-01-10,30,Slovenia,SPAL,Serie A,2019/2020,2019
+Lucas Castro,Central Midfield,1989-04-09,30,Argentina,SPAL,Serie A,2019/2020,2019
+Alessandro Murgia,Central Midfield,1996-08-09,22,Italy,SPAL,Serie A,2019/2020,2019
+Bryan Dabo,Central Midfield,1992-02-18,27,Burkina Faso,SPAL,Serie A,2019/2020,2019
+Mattia Valoti,Central Midfield,1993-09-06,25,Italy,SPAL,Serie A,2019/2020,2019
+Georgi Tunjov,Central Midfield,2001-04-17,18,Estonia,SPAL,Serie A,2019/2020,2019
+Shaka Mawuli,Central Midfield,1998-05-16,21,Ghana,SPAL,Serie A,2019/2020,2019
+Altin Kryeziu,Central Midfield,2002-01-03,17,Kosovo,SPAL,Serie A,2019/2020,2019
+Gabriel Strefezza,Right Midfield,1997-04-18,22,Brazil,SPAL,Serie A,2019/2020,2019
+Marco D'Alessandro,Right Midfield,1991-02-17,28,Italy,SPAL,Serie A,2019/2020,2019
+Lorenzo Dickmann,Right Midfield,1996-09-24,22,Italy,SPAL,Serie A,2019/2020,2019
+Mohamed Fares,Left Midfield,1996-02-15,23,Algeria,SPAL,Serie A,2019/2020,2019
+Arkadiusz Reca,Left Midfield,1995-06-17,24,Poland,SPAL,Serie A,2019/2020,2019
+Krisztofer Horváth,Attacking Midfield,2002-01-08,17,Hungary,SPAL,Serie A,2019/2020,2019
+Federico Di Francesco,Left Winger,1994-06-14,25,Italy,SPAL,Serie A,2019/2020,2019
+Marko Jankovic,Right Winger,1995-07-09,23,Montenegro,SPAL,Serie A,2019/2020,2019
+Jaume Cuéllar,Second Striker,2001-08-23,17,Spain,SPAL,Serie A,2019/2020,2019
+Andrea Petagna,Centre-Forward,1995-06-30,24,Italy,SPAL,Serie A,2019/2020,2019
+Alberto Cerri,Centre-Forward,1996-04-16,23,Italy,SPAL,Serie A,2019/2020,2019
+Gabriele Moncini,Centre-Forward,1996-04-26,23,Italy,SPAL,Serie A,2019/2020,2019
+Alberto Paloschi,Centre-Forward,1990-01-04,29,Italy,SPAL,Serie A,2019/2020,2019
+Sergio Floccari,Centre-Forward,1981-11-12,37,Italy,SPAL,Serie A,2019/2020,2019
+Jesse Joronen,Goalkeeper,1993-03-21,26,Finland,Brescia Calcio,Serie A,2019/2020,2019
+Enrico Alfonso,Goalkeeper,1988-05-04,31,Italy,Brescia Calcio,Serie A,2019/2020,2019
+Lorenzo Andrenacci,Goalkeeper,1995-01-02,24,Italy,Brescia Calcio,Serie A,2019/2020,2019
+Diego Abbrandini,Goalkeeper,2001-09-14,17,Italy,Brescia Calcio,Serie A,2019/2020,2019
+Andrea Cistana,Centre-Back,1997-04-01,22,Italy,Brescia Calcio,Serie A,2019/2020,2019
+Giangiacomo Magnani,Centre-Back,1995-10-04,23,Italy,Brescia Calcio,Serie A,2019/2020,2019
+Jhon Chancellor,Centre-Back,1992-01-02,27,Venezuela,Brescia Calcio,Serie A,2019/2020,2019
+Andrea Papetti,Centre-Back,2002-07-03,16,Italy,Brescia Calcio,Serie A,2019/2020,2019
+Daniele Gastaldello,Centre-Back,1983-06-25,36,Italy,Brescia Calcio,Serie A,2019/2020,2019
+Massimiliano Mangraviti,Centre-Back,1998-01-24,21,Italy,Brescia Calcio,Serie A,2019/2020,2019
+Bruno Martella,Left-Back,1992-08-14,26,Italy,Brescia Calcio,Serie A,2019/2020,2019
+Felipe Curcio,Left-Back,1993-08-06,25,Brazil,Brescia Calcio,Serie A,2019/2020,2019
+Stefano Sabelli,Right-Back,1993-01-13,26,Italy,Brescia Calcio,Serie A,2019/2020,2019
+Ales Mateju,Right-Back,1996-06-03,23,Czech Republic,Brescia Calcio,Serie A,2019/2020,2019
+Alessandro Semprini,Right-Back,1998-02-24,21,Italy,Brescia Calcio,Serie A,2019/2020,2019
+Sandro Tonali,Defensive Midfield,2000-05-08,19,Italy,Brescia Calcio,Serie A,2019/2020,2019
+Mattia Viviani,Defensive Midfield,2000-09-04,18,Italy,Brescia Calcio,Serie A,2019/2020,2019
+Dimitri Bisoli,Central Midfield,1994-03-25,25,Italy,Brescia Calcio,Serie A,2019/2020,2019
+Emanuele Ndoj,Central Midfield,1996-11-20,22,Albania,Brescia Calcio,Serie A,2019/2020,2019
+Rômulo,Central Midfield,1987-05-22,32,Italy,Brescia Calcio,Serie A,2019/2020,2019
+Birkir Bjarnason,Central Midfield,1988-05-27,31,Iceland,Brescia Calcio,Serie A,2019/2020,2019
+Daniele Dessena,Central Midfield,1987-05-10,32,Italy,Brescia Calcio,Serie A,2019/2020,2019
+Jaromir Zmrhal,Left Midfield,1993-08-02,25,Czech Republic,Brescia Calcio,Serie A,2019/2020,2019
+Simon Skrabb,Left Midfield,1995-01-19,24,Finland,Brescia Calcio,Serie A,2019/2020,2019
+Nikolas Spalek,Attacking Midfield,1997-02-12,22,Slovakia,Brescia Calcio,Serie A,2019/2020,2019
+Leonardo Morosini,Attacking Midfield,1995-10-13,23,Italy,Brescia Calcio,Serie A,2019/2020,2019
+Luca Tremolada,Attacking Midfield,1991-11-25,27,Italy,Brescia Calcio,Serie A,2019/2020,2019
+Andrea Ghezzi,Right Winger,2001-03-02,18,Italy,Brescia Calcio,Serie A,2019/2020,2019
+Mario Balotelli,Centre-Forward,1990-08-12,28,Italy,Brescia Calcio,Serie A,2019/2020,2019
+Alfredo Donnarumma,Centre-Forward,1990-11-30,28,Italy,Brescia Calcio,Serie A,2019/2020,2019
+Ernesto Torregrossa,Centre-Forward,1992-06-28,27,Italy,Brescia Calcio,Serie A,2019/2020,2019
+Florian Ayé,Centre-Forward,1997-01-19,22,France,Brescia Calcio,Serie A,2019/2020,2019
+Alessandro Matri,Centre-Forward,1984-08-19,34,Italy,Brescia Calcio,Serie A,2019/2020,2019
+Gabriel,Goalkeeper,1992-09-27,26,Brazil,US Lecce,Serie A,2019/2020,2019
+Mauro Vigorito,Goalkeeper,1990-05-22,29,Italy,US Lecce,Serie A,2019/2020,2019
+Marco Bleve,Goalkeeper,1995-10-18,23,Italy,US Lecce,Serie A,2019/2020,2019
+Gianmarco Chironi,Goalkeeper,1997-09-07,21,Italy,US Lecce,Serie A,2019/2020,2019
+Razvan Sava,Goalkeeper,2002-06-21,17,Romania,US Lecce,Serie A,2019/2020,2019
+Fabio Lucioni,Centre-Back,1987-09-25,31,Italy,US Lecce,Serie A,2019/2020,2019
+Biagio Meccariello,Centre-Back,1991-03-27,28,Italy,US Lecce,Serie A,2019/2020,2019
+Luca Rossettini,Centre-Back,1985-05-09,34,Italy,US Lecce,Serie A,2019/2020,2019
+Nehuén Paz,Centre-Back,1993-04-28,26,Argentina,US Lecce,Serie A,2019/2020,2019
+Davide Riccardi,Centre-Back,1996-04-09,23,Italy,US Lecce,Serie A,2019/2020,2019
+Ilario Monterisi,Centre-Back,2001-12-19,17,Italy,US Lecce,Serie A,2019/2020,2019
+Luka Dumancic,Centre-Back,1998-10-27,20,Croatia,US Lecce,Serie A,2019/2020,2019
+Marco Calderoni,Left-Back,1989-02-18,30,Italy,US Lecce,Serie A,2019/2020,2019
+Cristian Dell'Orco,Left-Back,1994-02-10,25,Italy,US Lecce,Serie A,2019/2020,2019
+Brayan Vera,Left-Back,1999-01-15,20,Colombia,US Lecce,Serie A,2019/2020,2019
+Antonino Gallo,Left-Back,2000-01-05,19,Italy,US Lecce,Serie A,2019/2020,2019
+Michele Laraspata,Left-Back,2001-06-02,18,Italy,US Lecce,Serie A,2019/2020,2019
+Vito Mattia Radicchio,Left-Back,2002-11-06,16,Italy,US Lecce,Serie A,2019/2020,2019
+Romario Benzar,Right-Back,1992-03-26,27,Romania,US Lecce,Serie A,2019/2020,2019
+Giulio Donati,Right-Back,1990-02-05,29,Italy,US Lecce,Serie A,2019/2020,2019
+Riccardo Fiamozzi,Right-Back,1993-05-18,26,Italy,US Lecce,Serie A,2019/2020,2019
+Roberto Pierno,Right-Back,2001-02-14,18,Italy,US Lecce,Serie A,2019/2020,2019
+Silvio Colella,Right-Back,2002-05-02,17,Italy,US Lecce,Serie A,2019/2020,2019
+Augustas Dubickas,Midfielder,2001-03-17,18,Lithuania,US Lecce,Serie A,2019/2020,2019
+Giannelli Imbula,Defensive Midfield,1992-09-12,26,DR Congo,US Lecce,Serie A,2019/2020,2019
+Jacopo Petriccione,Defensive Midfield,1995-02-22,24,Italy,US Lecce,Serie A,2019/2020,2019
+Panagiotis Tachtsidis,Defensive Midfield,1991-02-15,28,Greece,US Lecce,Serie A,2019/2020,2019
+Antonin Barak,Central Midfield,1994-12-03,24,Czech Republic,US Lecce,Serie A,2019/2020,2019
+Yevgen Shakhov,Central Midfield,1990-11-30,28,Ukraine,US Lecce,Serie A,2019/2020,2019
+Zan Majer,Central Midfield,1992-07-25,26,Slovenia,US Lecce,Serie A,2019/2020,2019
+Alessandro Deiola,Central Midfield,1995-08-01,23,Italy,US Lecce,Serie A,2019/2020,2019
+Andrea Tabanelli,Central Midfield,1990-02-02,29,Italy,US Lecce,Serie A,2019/2020,2019
+Thom Haye,Central Midfield,1995-02-09,24,Netherlands,US Lecce,Serie A,2019/2020,2019
+Sergio Maselli,Central Midfield,2001-04-06,18,Italy,US Lecce,Serie A,2019/2020,2019
+Andrea Rispoli,Right Midfield,1988-09-29,30,Italy,US Lecce,Serie A,2019/2020,2019
+Riccardo Saponara,Attacking Midfield,1991-12-21,27,Italy,US Lecce,Serie A,2019/2020,2019
+Marco Mancosu,Attacking Midfield,1988-08-22,30,Italy,US Lecce,Serie A,2019/2020,2019
+Salvatore Rimoli,Left Winger,2001-06-07,18,Italy,US Lecce,Serie A,2019/2020,2019
+Mattia Felici,Left Winger,2001-04-17,18,Italy,US Lecce,Serie A,2019/2020,2019
+Diego Farias,Second Striker,1990-05-10,29,Brazil,US Lecce,Serie A,2019/2020,2019
+Filippo Falco,Second Striker,1992-02-11,27,Italy,US Lecce,Serie A,2019/2020,2019
+Simone Lo Faso,Second Striker,1998-02-18,21,Italy,US Lecce,Serie A,2019/2020,2019
+Khouma Babacar,Centre-Forward,1993-03-17,26,Senegal,US Lecce,Serie A,2019/2020,2019
+Gianluca Lapadula,Centre-Forward,1990-02-07,29,Peru,US Lecce,Serie A,2019/2020,2019
+Andrea La Mantia,Centre-Forward,1991-05-06,28,Italy,US Lecce,Serie A,2019/2020,2019
+Edgaras Dubickas,Centre-Forward,1998-07-09,20,Lithuania,US Lecce,Serie A,2019/2020,2019
+Samuele Oltremarini,Centre-Forward,2002-11-26,16,Italy,US Lecce,Serie A,2019/2020,2019
+Marco Silvestri,Goalkeeper,1991-03-02,28,Italy,Hellas Verona,Serie A,2019/2020,2019
+Boris Radunović,Goalkeeper,1996-05-26,23,Serbia,Hellas Verona,Serie A,2019/2020,2019
+Alessandro Berardi,Goalkeeper,1991-01-16,28,Italy,Hellas Verona,Serie A,2019/2020,2019
+Marash Kumbulla,Centre-Back,2000-02-08,19,Albania,Hellas Verona,Serie A,2019/2020,2019
+Amir Rrahmani,Centre-Back,1994-02-24,25,Kosovo,Hellas Verona,Serie A,2019/2020,2019
+Koray Günter,Centre-Back,1994-08-16,24,Germany,Hellas Verona,Serie A,2019/2020,2019
+Pawel Dawidowicz,Centre-Back,1995-05-20,24,Poland,Hellas Verona,Serie A,2019/2020,2019
+Salvatore Bocchetti,Centre-Back,1986-11-30,32,Italy,Hellas Verona,Serie A,2019/2020,2019
+Luca Marrone,Centre-Back,1990-03-28,29,Italy,Hellas Verona,Serie A,2019/2020,2019
+Alan Empereur,Centre-Back,1994-03-10,25,Brazil,Hellas Verona,Serie A,2019/2020,2019
+Matteo Lovato,Centre-Back,2000-02-14,19,Italy,Hellas Verona,Serie A,2019/2020,2019
+Federico Dimarco,Left-Back,1997-11-10,21,Italy,Hellas Verona,Serie A,2019/2020,2019
+Luigi Vitale,Left-Back,1987-10-05,31,Italy,Hellas Verona,Serie A,2019/2020,2019
+Davide Faraoni,Right-Back,1991-10-25,27,Italy,Hellas Verona,Serie A,2019/2020,2019
+Claud Adjapong,Right-Back,1998-05-06,21,Italy,Hellas Verona,Serie A,2019/2020,2019
+Alberto Almici,Right-Back,1993-01-11,26,Italy,Hellas Verona,Serie A,2019/2020,2019
+Wesley,Right-Back,2000-03-13,19,Brazil,Hellas Verona,Serie A,2019/2020,2019
+Miguel Veloso,Defensive Midfield,1986-05-11,33,Portugal,Hellas Verona,Serie A,2019/2020,2019
+Andrea Danzi,Defensive Midfield,1999-02-25,20,Italy,Hellas Verona,Serie A,2019/2020,2019
+Sofyan Amrabat,Central Midfield,1996-08-21,22,Morocco,Hellas Verona,Serie A,2019/2020,2019
+Matteo Pessina,Central Midfield,1997-04-21,22,Italy,Hellas Verona,Serie A,2019/2020,2019
+Valerio Verre,Central Midfield,1994-01-11,25,Italy,Hellas Verona,Serie A,2019/2020,2019
+Liam Henderson,Central Midfield,1996-04-25,23,Scotland,Hellas Verona,Serie A,2019/2020,2019
+Emmanuel Badu,Central Midfield,1990-12-02,28,Ghana,Hellas Verona,Serie A,2019/2020,2019
+Lucas Felippe,Central Midfield,2000-05-03,19,Brazil,Hellas Verona,Serie A,2019/2020,2019
+Filippo Terracciano,Central Midfield,2003-02-08,16,Italy,Hellas Verona,Serie A,2019/2020,2019
+Christian Pierobon,Central Midfield,2002-03-26,17,Italy,Hellas Verona,Serie A,2019/2020,2019
+Darko Lazovic,Left Midfield,1990-09-15,28,Serbia,Hellas Verona,Serie A,2019/2020,2019
+Mattia Zaccagni,Attacking Midfield,1995-06-16,24,Italy,Hellas Verona,Serie A,2019/2020,2019
+Valentin Eysseric,Attacking Midfield,1992-03-25,27,France,Hellas Verona,Serie A,2019/2020,2019
+Bogdan Jocic,Attacking Midfield,2001-01-11,18,Serbia,Hellas Verona,Serie A,2019/2020,2019
+Fabio Borini,Left Winger,1991-03-29,28,Italy,Hellas Verona,Serie A,2019/2020,2019
+Gennaro Tutino,Left Winger,1996-08-20,22,Italy,Hellas Verona,Serie A,2019/2020,2019
+Seung-woo Lee,Left Winger,1998-01-06,21,"Korea, South",Hellas Verona,Serie A,2019/2020,2019
+Abdoulaye Traoré,Left Winger,2000-04-30,19,Cote d'Ivoire,Hellas Verona,Serie A,2019/2020,2019
+Eddie Salcedo,Centre-Forward,2001-10-01,17,Italy,Hellas Verona,Serie A,2019/2020,2019
+Mariusz Stepinski,Centre-Forward,1995-05-12,24,Poland,Hellas Verona,Serie A,2019/2020,2019
+Samuel Di Carmine,Centre-Forward,1988-09-29,30,Italy,Hellas Verona,Serie A,2019/2020,2019
+Lubomir Tupta,Centre-Forward,1998-03-27,21,Slovakia,Hellas Verona,Serie A,2019/2020,2019
+Giampaolo Pazzini,Centre-Forward,1984-08-02,34,Italy,Hellas Verona,Serie A,2019/2020,2019

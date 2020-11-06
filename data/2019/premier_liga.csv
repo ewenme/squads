@@ -1,0 +1,630 @@
+player_name,position,date_of_birth,age,nationality,club_name,league_name,season,year
+Andrey Lunev,Goalkeeper,1991-11-13,27,Russia,Zenit St. Petersburg,Premier Liga,2019/2020,2019
+Mikhail Kerzhakov,Goalkeeper,1987-01-28,32,Russia,Zenit St. Petersburg,Premier Liga,2019/2020,2019
+Aleksandr Vasyutin,Goalkeeper,1995-03-04,24,Russia,Zenit St. Petersburg,Premier Liga,2019/2020,2019
+Nikita Goylo,Goalkeeper,1998-08-10,20,Russia,Zenit St. Petersburg,Premier Liga,2019/2020,2019
+Nikolay Rybikov,Goalkeeper,2000-01-05,19,Russia,Zenit St. Petersburg,Premier Liga,2019/2020,2019
+Daniil Odoevskiy,Goalkeeper,2003-01-22,16,Russia,Zenit St. Petersburg,Premier Liga,2019/2020,2019
+Yaroslav Rakitskiy,Centre-Back,1989-08-03,29,Ukraine,Zenit St. Petersburg,Premier Liga,2019/2020,2019
+Emanuel Mammana,Centre-Back,1996-02-10,23,Argentina,Zenit St. Petersburg,Premier Liga,2019/2020,2019
+Miha Mevlja,Centre-Back,1990-06-12,29,Slovenia,Zenit St. Petersburg,Premier Liga,2019/2020,2019
+Yordan Osorio,Centre-Back,1994-05-10,25,Venezuela,Zenit St. Petersburg,Premier Liga,2019/2020,2019
+Branislav Ivanovic,Centre-Back,1984-02-22,35,Serbia,Zenit St. Petersburg,Premier Liga,2019/2020,2019
+Danila Prokhin,Centre-Back,2001-05-24,18,Russia,Zenit St. Petersburg,Premier Liga,2019/2020,2019
+Douglas Santos,Left-Back,1994-03-22,25,Brazil,Zenit St. Petersburg,Premier Liga,2019/2020,2019
+Yuri Zhirkov,Left-Back,1983-08-20,35,Russia,Zenit St. Petersburg,Premier Liga,2019/2020,2019
+Vyacheslav Karavaev,Right-Back,1995-05-20,24,Russia,Zenit St. Petersburg,Premier Liga,2019/2020,2019
+Igor Smolnikov,Right-Back,1988-08-08,30,Russia,Zenit St. Petersburg,Premier Liga,2019/2020,2019
+Denis Terentjev,Right-Back,1992-08-13,26,Russia,Zenit St. Petersburg,Premier Liga,2019/2020,2019
+Wilmar Barrios,Defensive Midfield,1993-10-16,25,Colombia,Zenit St. Petersburg,Premier Liga,2019/2020,2019
+Matías Kranevitter,Defensive Midfield,1993-05-21,26,Argentina,Zenit St. Petersburg,Premier Liga,2019/2020,2019
+Leon Musaev,Defensive Midfield,1999-01-25,20,Russia,Zenit St. Petersburg,Premier Liga,2019/2020,2019
+Kirill Kaplenko,Defensive Midfield,1999-06-15,20,Russia,Zenit St. Petersburg,Premier Liga,2019/2020,2019
+Daler Kuzyaev,Central Midfield,1993-01-15,26,Russia,Zenit St. Petersburg,Premier Liga,2019/2020,2019
+Magomed Ozdoev,Central Midfield,1992-11-05,26,Russia,Zenit St. Petersburg,Premier Liga,2019/2020,2019
+Christian Noboa,Central Midfield,1985-04-09,34,Ecuador,Zenit St. Petersburg,Premier Liga,2019/2020,2019
+Aleksandr Erokhin,Attacking Midfield,1989-10-13,29,Russia,Zenit St. Petersburg,Premier Liga,2019/2020,2019
+Oleg Shatov,Attacking Midfield,1990-07-29,28,Russia,Zenit St. Petersburg,Premier Liga,2019/2020,2019
+Daniil Shamkin,Attacking Midfield,2002-06-22,17,Russia,Zenit St. Petersburg,Premier Liga,2019/2020,2019
+Sergey Ivanov,Attacking Midfield,1997-01-07,22,Russia,Zenit St. Petersburg,Premier Liga,2019/2020,2019
+Sebastián Driussi,Left Winger,1996-02-09,23,Argentina,Zenit St. Petersburg,Premier Liga,2019/2020,2019
+Robert Mak,Left Winger,1991-03-08,28,Slovakia,Zenit St. Petersburg,Premier Liga,2019/2020,2019
+Andrey Mostovoy,Left Winger,1997-11-05,21,Russia,Zenit St. Petersburg,Premier Liga,2019/2020,2019
+Malcom,Right Winger,1997-02-26,22,Brazil,Zenit St. Petersburg,Premier Liga,2019/2020,2019
+Emiliano Rigoni,Right Winger,1993-02-04,26,Argentina,Zenit St. Petersburg,Premier Liga,2019/2020,2019
+Aleksey Sutormin,Right Winger,1994-01-10,25,Russia,Zenit St. Petersburg,Premier Liga,2019/2020,2019
+Ilya Vorobjov,Right Winger,1999-07-11,19,Russia,Zenit St. Petersburg,Premier Liga,2019/2020,2019
+Sardar Azmoun,Centre-Forward,1995-01-01,24,Iran,Zenit St. Petersburg,Premier Liga,2019/2020,2019
+Artem Dzyuba,Centre-Forward,1988-08-22,30,Russia,Zenit St. Petersburg,Premier Liga,2019/2020,2019
+Luka Djordjevic,Centre-Forward,1994-07-09,24,Montenegro,Zenit St. Petersburg,Premier Liga,2019/2020,2019
+Maksim Bachinskiy,Centre-Forward,2000-02-02,19,Russia,Zenit St. Petersburg,Premier Liga,2019/2020,2019
+Matvey Safonov,Goalkeeper,1999-02-25,20,Russia,FK Krasnodar,Premier Liga,2019/2020,2019
+Stanislav Kritsyuk,Goalkeeper,1990-12-01,28,Russia,FK Krasnodar,Premier Liga,2019/2020,2019
+Andrey Sinitsyn,Goalkeeper,1988-06-23,31,Russia,FK Krasnodar,Premier Liga,2019/2020,2019
+Denis Adamov,Goalkeeper,1998-02-20,21,Russia,FK Krasnodar,Premier Liga,2019/2020,2019
+Sergey Eshchenko,Goalkeeper,2001-03-01,18,Russia,FK Krasnodar,Premier Liga,2019/2020,2019
+Stanislav Agkatsev,Goalkeeper,2002-01-09,17,Russia,FK Krasnodar,Premier Liga,2019/2020,2019
+Uros Spajic,Centre-Back,1993-02-13,26,Serbia,FK Krasnodar,Premier Liga,2019/2020,2019
+Egor Sorokin,Centre-Back,1995-11-04,23,Russia,FK Krasnodar,Premier Liga,2019/2020,2019
+Aleksandr Martynovich,Centre-Back,1987-08-26,31,Belarus,FK Krasnodar,Premier Liga,2019/2020,2019
+Kaio,Centre-Back,1995-09-18,23,Brazil,FK Krasnodar,Premier Liga,2019/2020,2019
+Aleksey Gritsaenko,Centre-Back,1995-05-25,24,Russia,FK Krasnodar,Premier Liga,2019/2020,2019
+Jon Gudni Fjóluson,Centre-Back,1989-04-10,30,Iceland,FK Krasnodar,Premier Liga,2019/2020,2019
+Sergey Borodin,Centre-Back,1999-01-30,20,Russia,FK Krasnodar,Premier Liga,2019/2020,2019
+Ilya Martynov,Centre-Back,2000-01-25,19,Russia,FK Krasnodar,Premier Liga,2019/2020,2019
+Cristian Ramírez,Left-Back,1994-08-12,24,Ecuador,FK Krasnodar,Premier Liga,2019/2020,2019
+Dmitri Skopintsev,Left-Back,1997-03-02,22,Russia,FK Krasnodar,Premier Liga,2019/2020,2019
+Andrey Ivashin,Left-Back,1999-06-30,20,Russia,FK Krasnodar,Premier Liga,2019/2020,2019
+Sergey Petrov,Right-Back,1991-01-02,28,Russia,FK Krasnodar,Premier Liga,2019/2020,2019
+Dmitri Stotskiy,Right-Back,1989-12-01,29,Russia,FK Krasnodar,Premier Liga,2019/2020,2019
+Nikolay Bochko,Right-Back,1999-03-01,20,Russia,FK Krasnodar,Premier Liga,2019/2020,2019
+Nikolay Markov,Right-Back,1985-04-20,34,Russia,FK Krasnodar,Premier Liga,2019/2020,2019
+Ruslan Kambolov,Defensive Midfield,1990-01-01,29,Russia,FK Krasnodar,Premier Liga,2019/2020,2019
+Aleksandr Chernikov,Defensive Midfield,2000-02-01,19,Russia,FK Krasnodar,Premier Liga,2019/2020,2019
+Tonny Vilhena,Central Midfield,1995-01-03,24,Netherlands,FK Krasnodar,Premier Liga,2019/2020,2019
+Yuri Gazinskiy,Central Midfield,1989-07-20,29,Russia,FK Krasnodar,Premier Liga,2019/2020,2019
+Kristoffer Olsson,Central Midfield,1995-06-30,24,Sweden,FK Krasnodar,Premier Liga,2019/2020,2019
+Daniil Utkin,Central Midfield,1999-10-12,19,Russia,FK Krasnodar,Premier Liga,2019/2020,2019
+Aleks Matsukatov,Central Midfield,1999-01-11,20,Russia,FK Krasnodar,Premier Liga,2019/2020,2019
+Ilya Zhigulev,Central Midfield,1996-02-01,23,Russia,FK Krasnodar,Premier Liga,2019/2020,2019
+Rémy Cabella,Attacking Midfield,1990-03-08,29,France,FK Krasnodar,Premier Liga,2019/2020,2019
+Younes Namli,Attacking Midfield,1994-06-20,25,Denmark,FK Krasnodar,Premier Liga,2019/2020,2019
+Manuel Fernandes,Attacking Midfield,1986-02-05,33,Portugal,FK Krasnodar,Premier Liga,2019/2020,2019
+Leon Sabua,Attacking Midfield,2000-09-01,18,Russia,FK Krasnodar,Premier Liga,2019/2020,2019
+Viktor Claesson,Left Winger,1992-01-02,27,Sweden,FK Krasnodar,Premier Liga,2019/2020,2019
+Andrei Ivan,Left Winger,1997-01-04,22,Romania,FK Krasnodar,Premier Liga,2019/2020,2019
+Nikita Sergeev,Left Winger,1999-10-17,19,Russia,FK Krasnodar,Premier Liga,2019/2020,2019
+Ilya Vorotnikov,Left Winger,2001-02-11,18,Russia,FK Krasnodar,Premier Liga,2019/2020,2019
+Shapi Suleymanov,Right Winger,1999-12-16,19,Russia,FK Krasnodar,Premier Liga,2019/2020,2019
+Wanderson,Right Winger,1994-10-07,24,Brazil,FK Krasnodar,Premier Liga,2019/2020,2019
+Ivan Ignatjev,Centre-Forward,1999-01-06,20,Russia,FK Krasnodar,Premier Liga,2019/2020,2019
+Ari,Centre-Forward,1985-12-11,33,Russia,FK Krasnodar,Premier Liga,2019/2020,2019
+Marcus Berg,Centre-Forward,1986-08-17,32,Sweden,FK Krasnodar,Premier Liga,2019/2020,2019
+German Onugkha,Centre-Forward,1996-07-06,22,Russia,FK Krasnodar,Premier Liga,2019/2020,2019
+Maksim Kutovoy,Centre-Forward,2001-07-01,18,Russia,FK Krasnodar,Premier Liga,2019/2020,2019
+Igor Akinfeev,Goalkeeper,1986-04-08,33,Russia,CSKA Moscow,Premier Liga,2019/2020,2019
+Ilya Pomazun,Goalkeeper,1996-08-16,22,Russia,CSKA Moscow,Premier Liga,2019/2020,2019
+Georgiy Kyrnats,Goalkeeper,1998-06-22,21,Russia,CSKA Moscow,Premier Liga,2019/2020,2019
+Nikolay Zirikov,Goalkeeper,2000-05-22,19,Russia,CSKA Moscow,Premier Liga,2019/2020,2019
+Vladislav Torop,Goalkeeper,2003-11-07,15,Russia,CSKA Moscow,Premier Liga,2019/2020,2019
+Igor Diveev,Centre-Back,1999-09-27,19,Russia,CSKA Moscow,Premier Liga,2019/2020,2019
+Hördur Magnússon,Centre-Back,1993-02-11,26,Iceland,CSKA Moscow,Premier Liga,2019/2020,2019
+Nikita Chernov,Centre-Back,1996-01-14,23,Russia,CSKA Moscow,Premier Liga,2019/2020,2019
+Vadim Karpov,Centre-Back,2002-07-14,16,Russia,CSKA Moscow,Premier Liga,2019/2020,2019
+Viktor Vasin,Centre-Back,1988-10-06,30,Russia,CSKA Moscow,Premier Liga,2019/2020,2019
+Zvonimir Sarlija,Centre-Back,1996-08-29,22,Croatia,CSKA Moscow,Premier Liga,2019/2020,2019
+Cédric Gogoua,Centre-Back,1994-07-10,24,Cote d'Ivoire,CSKA Moscow,Premier Liga,2019/2020,2019
+Nikita Kotin,Centre-Back,2002-09-01,16,Russia,CSKA Moscow,Premier Liga,2019/2020,2019
+Georgi Schennikov,Left-Back,1991-04-27,28,Russia,CSKA Moscow,Premier Liga,2019/2020,2019
+Mário Fernandes,Right-Back,1990-09-19,28,Russia,CSKA Moscow,Premier Liga,2019/2020,2019
+Kirill Nababkin,Right-Back,1986-09-08,32,Russia,CSKA Moscow,Premier Liga,2019/2020,2019
+Maksim Eleev,Right-Back,2001-03-03,18,Russia,CSKA Moscow,Premier Liga,2019/2020,2019
+Kristijan Bistrovic,Defensive Midfield,1998-04-09,21,Croatia,CSKA Moscow,Premier Liga,2019/2020,2019
+Jaka Bijol,Defensive Midfield,1999-02-05,20,Slovenia,CSKA Moscow,Premier Liga,2019/2020,2019
+Khetag Khosonov,Defensive Midfield,1998-06-18,21,Russia,CSKA Moscow,Premier Liga,2019/2020,2019
+Konstantin Maradishvili,Defensive Midfield,2000-02-07,19,Russia,CSKA Moscow,Premier Liga,2019/2020,2019
+Ivan Oblyakov,Central Midfield,1998-07-05,20,Russia,CSKA Moscow,Premier Liga,2019/2020,2019
+Ilzat Akhmetov,Central Midfield,1997-12-31,21,Russia,CSKA Moscow,Premier Liga,2019/2020,2019
+Alan Dzagoev,Central Midfield,1990-06-17,29,Russia,CSKA Moscow,Premier Liga,2019/2020,2019
+Dmitri Efremov,Right Midfield,1995-04-01,24,Russia,CSKA Moscow,Premier Liga,2019/2020,2019
+Nayair Tiknizyan,Left Midfield,1999-05-12,20,Russia,CSKA Moscow,Premier Liga,2019/2020,2019
+Nikola Vlasic,Attacking Midfield,1997-10-04,21,Croatia,CSKA Moscow,Premier Liga,2019/2020,2019
+Arnór Sigurdsson,Attacking Midfield,1999-05-15,20,Iceland,CSKA Moscow,Premier Liga,2019/2020,2019
+Konstantin Kuchaev,Attacking Midfield,1998-03-18,21,Russia,CSKA Moscow,Premier Liga,2019/2020,2019
+Lucas Santos,Left Winger,1999-03-07,20,Brazil,CSKA Moscow,Premier Liga,2019/2020,2019
+Takuma Nishimura,Second Striker,1996-10-22,22,Japan,CSKA Moscow,Premier Liga,2019/2020,2019
+Fedor Chalov,Centre-Forward,1998-04-10,21,Russia,CSKA Moscow,Premier Liga,2019/2020,2019
+Ilya Shkurin,Centre-Forward,1999-08-17,19,Belarus,CSKA Moscow,Premier Liga,2019/2020,2019
+Lassana N'Diaye,Centre-Forward,2000-10-03,18,Mali,CSKA Moscow,Premier Liga,2019/2020,2019
+Guilherme,Goalkeeper,1985-12-12,33,Russia,Lokomotiv Moscow,Premier Liga,2019/2020,2019
+Anton Kochenkov,Goalkeeper,1987-04-02,32,Russia,Lokomotiv Moscow,Premier Liga,2019/2020,2019
+Nikita Medvedev,Goalkeeper,1994-12-17,24,Russia,Lokomotiv Moscow,Premier Liga,2019/2020,2019
+Andrey Savin,Goalkeeper,1999-08-30,19,Russia,Lokomotiv Moscow,Premier Liga,2019/2020,2019
+Solomon Kvirkvelia,Centre-Back,1992-02-06,27,Georgia,Lokomotiv Moscow,Premier Liga,2019/2020,2019
+Benedikt Höwedes,Centre-Back,1988-02-29,31,Germany,Lokomotiv Moscow,Premier Liga,2019/2020,2019
+Murilo Cerqueira,Centre-Back,1997-03-27,22,Brazil,Lokomotiv Moscow,Premier Liga,2019/2020,2019
+Vedran Corluka,Centre-Back,1986-02-05,33,Croatia,Lokomotiv Moscow,Premier Liga,2019/2020,2019
+Ivan Lapshov,Centre-Back,1999-05-01,20,Russia,Lokomotiv Moscow,Premier Liga,2019/2020,2019
+Artur Chernyi,Centre-Back,2000-12-11,18,Russia,Lokomotiv Moscow,Premier Liga,2019/2020,2019
+Innokentiy Samokhvalov,Centre-Back,1997-10-03,NA,Russia,Lokomotiv Moscow,Premier Liga,2019/2020,2019
+Maciej Rybus,Left-Back,1989-08-19,29,Poland,Lokomotiv Moscow,Premier Liga,2019/2020,2019
+Mikhail Lysov,Left-Back,1998-01-29,21,Russia,Lokomotiv Moscow,Premier Liga,2019/2020,2019
+Bryan Idowu,Left-Back,1992-05-18,27,Nigeria,Lokomotiv Moscow,Premier Liga,2019/2020,2019
+Dmitri Zhivoglyadov,Right-Back,1994-05-29,25,Russia,Lokomotiv Moscow,Premier Liga,2019/2020,2019
+Vladislav Ignatjev,Right-Back,1987-01-20,32,Russia,Lokomotiv Moscow,Premier Liga,2019/2020,2019
+Aleksandr Silyanov,Right-Back,2001-02-17,18,Russia,Lokomotiv Moscow,Premier Liga,2019/2020,2019
+Boris Rotenberg,Right-Back,1986-05-19,33,Russia,Lokomotiv Moscow,Premier Liga,2019/2020,2019
+Grzegorz Krychowiak,Defensive Midfield,1990-01-29,29,Poland,Lokomotiv Moscow,Premier Liga,2019/2020,2019
+Dmitri Barinov,Defensive Midfield,1996-09-11,22,Russia,Lokomotiv Moscow,Premier Liga,2019/2020,2019
+Stanislav Magkeev,Defensive Midfield,1999-03-27,20,Russia,Lokomotiv Moscow,Premier Liga,2019/2020,2019
+Daniil Kulikov,Defensive Midfield,1998-06-24,21,Russia,Lokomotiv Moscow,Premier Liga,2019/2020,2019
+João Mário,Central Midfield,1993-01-19,26,Portugal,Lokomotiv Moscow,Premier Liga,2019/2020,2019
+Aleksandr Kolomeytsev,Central Midfield,1989-02-21,30,Russia,Lokomotiv Moscow,Premier Liga,2019/2020,2019
+Nikolay Titkov,Central Midfield,2000-08-18,18,Russia,Lokomotiv Moscow,Premier Liga,2019/2020,2019
+Ivan Galanin,Central Midfield,1998-06-05,21,Russia,Lokomotiv Moscow,Premier Liga,2019/2020,2019
+Dmitri Rybchinskiy,Right Midfield,1998-08-19,20,Russia,Lokomotiv Moscow,Premier Liga,2019/2020,2019
+Aleksey Miranchuk,Attacking Midfield,1995-10-17,23,Russia,Lokomotiv Moscow,Premier Liga,2019/2020,2019
+Anton Miranchuk,Attacking Midfield,1995-10-17,23,Russia,Lokomotiv Moscow,Premier Liga,2019/2020,2019
+Nikita Dorofeev,Attacking Midfield,1998-02-15,21,Russia,Lokomotiv Moscow,Premier Liga,2019/2020,2019
+Maksim Mukhin,Attacking Midfield,2001-11-04,17,Russia,Lokomotiv Moscow,Premier Liga,2019/2020,2019
+Roman Tugarev,Left Winger,1998-07-22,20,Russia,Lokomotiv Moscow,Premier Liga,2019/2020,2019
+Nikita Iosifov,Left Winger,2001-04-11,18,Russia,Lokomotiv Moscow,Premier Liga,2019/2020,2019
+Rifat Zhemaletdinov,Right Winger,1996-09-20,22,Russia,Lokomotiv Moscow,Premier Liga,2019/2020,2019
+Jefferson Farfán,Right Winger,1984-10-26,34,Peru,Lokomotiv Moscow,Premier Liga,2019/2020,2019
+Fedor Smolov,Centre-Forward,1990-02-09,29,Russia,Lokomotiv Moscow,Premier Liga,2019/2020,2019
+Luka Djordjevic,Centre-Forward,1994-07-09,24,Montenegro,Lokomotiv Moscow,Premier Liga,2019/2020,2019
+Éder,Centre-Forward,1987-12-22,31,Portugal,Lokomotiv Moscow,Premier Liga,2019/2020,2019
+Timur Suleymanov,Centre-Forward,2000-03-17,19,Russia,Lokomotiv Moscow,Premier Liga,2019/2020,2019
+Mikhail Ageev,Centre-Forward,2000-04-22,19,Russia,Lokomotiv Moscow,Premier Liga,2019/2020,2019
+Aleksandr Maksimenko,Goalkeeper,1998-03-19,21,Russia,Spartak Moscow,Premier Liga,2019/2020,2019
+Aleksandr Selikhov,Goalkeeper,1994-04-07,25,Russia,Spartak Moscow,Premier Liga,2019/2020,2019
+Timur Akmurzin,Goalkeeper,1997-12-07,21,Russia,Spartak Moscow,Premier Liga,2019/2020,2019
+Artem Poplevchenkov,Goalkeeper,2000-06-09,19,Russia,Spartak Moscow,Premier Liga,2019/2020,2019
+Artem Rebrov,Goalkeeper,1984-03-04,35,Russia,Spartak Moscow,Premier Liga,2019/2020,2019
+Daniil Markov,Goalkeeper,2001-01-01,18,Russia,Spartak Moscow,Premier Liga,2019/2020,2019
+Samuel Gigot,Centre-Back,1993-10-12,25,France,Spartak Moscow,Premier Liga,2019/2020,2019
+Georgiy Dzhikiya,Centre-Back,1993-11-21,25,Russia,Spartak Moscow,Premier Liga,2019/2020,2019
+Ilya Kutepov,Centre-Back,1993-07-29,25,Russia,Spartak Moscow,Premier Liga,2019/2020,2019
+Ilya Gaponov,Centre-Back,1997-10-25,21,Russia,Spartak Moscow,Premier Liga,2019/2020,2019
+Pavel Maslov,Centre-Back,2000-04-14,19,Russia,Spartak Moscow,Premier Liga,2019/2020,2019
+Ayrton Lucas,Left-Back,1997-06-19,22,Brazil,Spartak Moscow,Premier Liga,2019/2020,2019
+Georgi Tigiev,Left-Back,1995-05-26,24,Russia,Spartak Moscow,Premier Liga,2019/2020,2019
+Ilya Golosov,Left-Back,2001-08-09,17,Russia,Spartak Moscow,Premier Liga,2019/2020,2019
+Nikolay Rasskazov,Right-Back,1998-01-04,21,Russia,Spartak Moscow,Premier Liga,2019/2020,2019
+Andrey Eshchenko,Right-Back,1984-02-09,35,Russia,Spartak Moscow,Premier Liga,2019/2020,2019
+Fernando,Defensive Midfield,1992-03-03,27,Brazil,Spartak Moscow,Premier Liga,2019/2020,2019
+Alex Kral,Defensive Midfield,1998-05-19,21,Czech Republic,Spartak Moscow,Premier Liga,2019/2020,2019
+Nail Umyarov,Defensive Midfield,2000-06-27,19,Russia,Spartak Moscow,Premier Liga,2019/2020,2019
+Roman Zobnin,Central Midfield,1994-02-11,25,Russia,Spartak Moscow,Premier Liga,2019/2020,2019
+Ayaz Guliev,Central Midfield,1996-11-27,22,Russia,Spartak Moscow,Premier Liga,2019/2020,2019
+Nikita Bakalyuk,Central Midfield,2001-04-03,18,Russia,Spartak Moscow,Premier Liga,2019/2020,2019
+Malcolm Badu,Right Midfield,1997-06-23,22,Germany,Spartak Moscow,Premier Liga,2019/2020,2019
+Guus Til,Attacking Midfield,1997-12-22,21,Netherlands,Spartak Moscow,Premier Liga,2019/2020,2019
+Zelimkhan Bakaev,Attacking Midfield,1996-07-01,23,Russia,Spartak Moscow,Premier Liga,2019/2020,2019
+Sofiane Hanni,Attacking Midfield,1990-12-29,28,Algeria,Spartak Moscow,Premier Liga,2019/2020,2019
+Jano Ananidze,Attacking Midfield,1992-10-10,26,Georgia,Spartak Moscow,Premier Liga,2019/2020,2019
+Mikhail Ignatov,Attacking Midfield,2000-05-04,19,Russia,Spartak Moscow,Premier Liga,2019/2020,2019
+Konstantin Shiltsov,Attacking Midfield,2002-05-07,17,Russia,Spartak Moscow,Premier Liga,2019/2020,2019
+André Schürrle,Left Winger,1990-11-06,28,Germany,Spartak Moscow,Premier Liga,2019/2020,2019
+Lorenzo Melgarejo,Left Winger,1990-08-10,28,Paraguay,Spartak Moscow,Premier Liga,2019/2020,2019
+Reziuan Mirzov,Left Winger,1993-06-22,26,Russia,Spartak Moscow,Premier Liga,2019/2020,2019
+Aleksandr Rudenko,Left Winger,1999-03-15,20,Russia,Spartak Moscow,Premier Liga,2019/2020,2019
+Dmitri Markitesov,Left Winger,2001-03-22,18,Russia,Spartak Moscow,Premier Liga,2019/2020,2019
+Aleksandr Tashaev,Right Winger,1994-06-23,25,Russia,Spartak Moscow,Premier Liga,2019/2020,2019
+Aleksandr Lomovitskiy,Right Winger,1998-01-27,21,Russia,Spartak Moscow,Premier Liga,2019/2020,2019
+Maksim Glushenkov,Right Winger,1999-07-28,19,Russia,Spartak Moscow,Premier Liga,2019/2020,2019
+Soltmurad Bakaev,Right Winger,1999-08-05,19,Russia,Spartak Moscow,Premier Liga,2019/2020,2019
+Georgi Melkadze,Second Striker,1997-04-04,22,Russia,Spartak Moscow,Premier Liga,2019/2020,2019
+Luiz Adriano,Centre-Forward,1987-04-12,32,Brazil,Spartak Moscow,Premier Liga,2019/2020,2019
+Aleksandr Sobolev,Centre-Forward,1997-03-07,22,Russia,Spartak Moscow,Premier Liga,2019/2020,2019
+Ezequiel Ponce,Centre-Forward,1997-03-29,22,Argentina,Spartak Moscow,Premier Liga,2019/2020,2019
+Jordan Larsson,Centre-Forward,1997-06-20,22,Sweden,Spartak Moscow,Premier Liga,2019/2020,2019
+Anton Shunin,Goalkeeper,1987-01-27,32,Russia,Dynamo Moscow,Premier Liga,2019/2020,2019
+Igor Leshchuk,Goalkeeper,1996-02-20,23,Russia,Dynamo Moscow,Premier Liga,2019/2020,2019
+David Sangaré,Goalkeeper,2000-08-19,18,Russia,Dynamo Moscow,Premier Liga,2019/2020,2019
+Aleksandr Sheplyakov,Goalkeeper,1996-08-13,22,Russia,Dynamo Moscow,Premier Liga,2019/2020,2019
+Egor Sedov,Goalkeeper,1999-06-01,20,Russia,Dynamo Moscow,Premier Liga,2019/2020,2019
+Roman Evgenjev,Centre-Back,1999-02-23,20,Russia,Dynamo Moscow,Premier Liga,2019/2020,2019
+Toni Sunjic,Centre-Back,1988-12-15,30,Bosnia-Herzegovina,Dynamo Moscow,Premier Liga,2019/2020,2019
+Ivan Ordets,Centre-Back,1992-07-08,26,Ukraine,Dynamo Moscow,Premier Liga,2019/2020,2019
+Vladimir Rykov,Centre-Back,1987-11-13,31,Russia,Dynamo Moscow,Premier Liga,2019/2020,2019
+Bogdan Zorin,Centre-Back,2000-01-16,19,Russia,Dynamo Moscow,Premier Liga,2019/2020,2019
+Dmitri Skopintsev,Left-Back,1997-03-02,22,Russia,Dynamo Moscow,Premier Liga,2019/2020,2019
+Konstantin Rausch,Left-Back,1990-03-15,29,Russia,Dynamo Moscow,Premier Liga,2019/2020,2019
+Zaurbek Pliev,Left-Back,1991-09-27,27,Russia,Dynamo Moscow,Premier Liga,2019/2020,2019
+Igor Kalinin,Left-Back,1995-11-11,23,Russia,Dynamo Moscow,Premier Liga,2019/2020,2019
+Sergey Parshivlyuk,Right-Back,1989-03-18,30,Russia,Dynamo Moscow,Premier Liga,2019/2020,2019
+Grigori Morozov,Right-Back,1994-06-06,25,Russia,Dynamo Moscow,Premier Liga,2019/2020,2019
+Charles Kaboré,Defensive Midfield,1988-02-09,31,Burkina Faso,Dynamo Moscow,Premier Liga,2019/2020,2019
+Samba Sow,Defensive Midfield,1989-04-29,30,Mali,Dynamo Moscow,Premier Liga,2019/2020,2019
+Roman Neustädter,Defensive Midfield,1988-02-18,31,Russia,Dynamo Moscow,Premier Liga,2019/2020,2019
+Abdul-Aziz Tetteh,Defensive Midfield,1990-05-25,29,Ghana,Dynamo Moscow,Premier Liga,2019/2020,2019
+Vladimir Moskvichev,Defensive Midfield,2000-03-02,19,Russia,Dynamo Moscow,Premier Liga,2019/2020,2019
+Roman Denisov,Defensive Midfield,1999-04-14,20,Russia,Dynamo Moscow,Premier Liga,2019/2020,2019
+Artur Yusupov,Central Midfield,1989-09-01,29,Russia,Dynamo Moscow,Premier Liga,2019/2020,2019
+Oscar Hiljemark,Central Midfield,1992-06-28,27,Sweden,Dynamo Moscow,Premier Liga,2019/2020,2019
+Anton Sosnin,Central Midfield,1990-01-27,29,Russia,Dynamo Moscow,Premier Liga,2019/2020,2019
+Igor Shkolik,Central Midfield,2001-01-09,18,Russia,Dynamo Moscow,Premier Liga,2019/2020,2019
+Danil Lipovoy,Left Midfield,1999-09-22,19,Russia,Dynamo Moscow,Premier Liga,2019/2020,2019
+Sebastian Szymanski,Attacking Midfield,1999-05-10,20,Poland,Dynamo Moscow,Premier Liga,2019/2020,2019
+Joãozinho,Left Winger,1988-12-25,30,Russia,Dynamo Moscow,Premier Liga,2019/2020,2019
+Vyacheslav Grulev,Left Winger,1999-03-23,20,Russia,Dynamo Moscow,Premier Liga,2019/2020,2019
+Clinton N'Jie,Right Winger,1993-08-15,25,Cameroon,Dynamo Moscow,Premier Liga,2019/2020,2019
+Miguel Cardoso,Right Winger,1994-06-19,25,Portugal,Dynamo Moscow,Premier Liga,2019/2020,2019
+Fedor Chernykh,Right Winger,1991-05-21,28,Lithuania,Dynamo Moscow,Premier Liga,2019/2020,2019
+Vladislav Karapuzov,Right Winger,2000-01-06,19,Russia,Dynamo Moscow,Premier Liga,2019/2020,2019
+Maximilian Philipp,Second Striker,1994-03-01,25,Germany,Dynamo Moscow,Premier Liga,2019/2020,2019
+Kirill Panchenko,Second Striker,1989-10-16,29,Russia,Dynamo Moscow,Premier Liga,2019/2020,2019
+Nikolay Komlichenko,Centre-Forward,1995-06-29,24,Russia,Dynamo Moscow,Premier Liga,2019/2020,2019
+Sly,Centre-Forward,1990-09-08,28,Nigeria,Dynamo Moscow,Premier Liga,2019/2020,2019
+Ramil Sheydaev,Centre-Forward,1996-03-15,23,Azerbaijan,Dynamo Moscow,Premier Liga,2019/2020,2019
+Nikolay Obolskiy,Centre-Forward,1997-01-14,22,Russia,Dynamo Moscow,Premier Liga,2019/2020,2019
+Maksim Danilin,Centre-Forward,2001-05-26,18,Russia,Dynamo Moscow,Premier Liga,2019/2020,2019
+Yuri Dyupin,Goalkeeper,1988-03-17,31,Russia,Rubin Kazan,Premier Liga,2019/2020,2019
+Ivan Konovalov,Goalkeeper,1994-08-18,24,Russia,Rubin Kazan,Premier Liga,2019/2020,2019
+Aleksey Gorodovoy,Goalkeeper,1993-08-10,25,Russia,Rubin Kazan,Premier Liga,2019/2020,2019
+Nikita Yanovich,Goalkeeper,2003-03-28,16,Russia,Rubin Kazan,Premier Liga,2019/2020,2019
+David Volk,Goalkeeper,2001-04-11,18,Russia,Rubin Kazan,Premier Liga,2019/2020,2019
+Egor Sorokin,Centre-Back,1995-11-04,23,Russia,Rubin Kazan,Premier Liga,2019/2020,2019
+Pablo Santos,Centre-Back,1992-03-18,27,Brazil,Rubin Kazan,Premier Liga,2019/2020,2019
+Filip Uremovic,Centre-Back,1997-02-11,22,Croatia,Rubin Kazan,Premier Liga,2019/2020,2019
+Silvije Begic,Centre-Back,1993-06-03,26,Croatia,Rubin Kazan,Premier Liga,2019/2020,2019
+Vladimir Granat,Centre-Back,1987-05-22,32,Russia,Rubin Kazan,Premier Liga,2019/2020,2019
+Konstantin Pliev,Centre-Back,1996-10-26,22,Russia,Rubin Kazan,Premier Liga,2019/2020,2019
+Carl Starfelt,Centre-Back,1995-06-01,24,Sweden,Rubin Kazan,Premier Liga,2019/2020,2019
+Ilya Agapov,Centre-Back,2001-01-21,18,Russia,Rubin Kazan,Premier Liga,2019/2020,2019
+Vladislav Mikushin,Centre-Back,2001-04-18,18,Russia,Rubin Kazan,Premier Liga,2019/2020,2019
+Danil Stepanov,Left-Back,2000-01-25,19,Russia,Rubin Kazan,Premier Liga,2019/2020,2019
+Vitali Denisov,Left-Back,1987-02-23,32,Uzbekistan,Rubin Kazan,Premier Liga,2019/2020,2019
+Ilya Samoshnikov,Left-Back,1997-11-14,21,Russia,Rubin Kazan,Premier Liga,2019/2020,2019
+Nikolay Poyarkov,Left-Back,1999-10-16,19,Russia,Rubin Kazan,Premier Liga,2019/2020,2019
+Oleg Danchenko,Right-Back,1994-08-01,24,Ukraine,Rubin Kazan,Premier Liga,2019/2020,2019
+Aleksandr Zuev,Right-Back,1996-06-26,23,Russia,Rubin Kazan,Premier Liga,2019/2020,2019
+Rail Abdullin,Right-Back,2000-08-06,18,Russia,Rubin Kazan,Premier Liga,2019/2020,2019
+Dmitri Tarasov,Defensive Midfield,1987-03-18,32,Russia,Rubin Kazan,Premier Liga,2019/2020,2019
+Igor Konovalov,Central Midfield,1996-07-08,22,Russia,Rubin Kazan,Premier Liga,2019/2020,2019
+Pavel Mogilevets,Central Midfield,1993-01-25,26,Russia,Rubin Kazan,Premier Liga,2019/2020,2019
+Evgeniy Bashkirov,Central Midfield,1991-07-06,27,Russia,Rubin Kazan,Premier Liga,2019/2020,2019
+Kamil Zakirov,Central Midfield,1998-11-15,20,Russia,Rubin Kazan,Premier Liga,2019/2020,2019
+Oliver Abildgaard,Central Midfield,1996-06-10,23,Denmark,Rubin Kazan,Premier Liga,2019/2020,2019
+Roman Akbashev,Central Midfield,1991-11-01,27,Russia,Rubin Kazan,Premier Liga,2019/2020,2019
+Nikita Makarov,Central Midfield,2001-01-02,18,Russia,Rubin Kazan,Premier Liga,2019/2020,2019
+Maksim Sedov,Central Midfield,2000-07-02,18,Russia,Rubin Kazan,Premier Liga,2019/2020,2019
+Denis Makarov,Right Midfield,1998-02-18,21,Russia,Rubin Kazan,Premier Liga,2019/2020,2019
+Zurab Davitashvili,Attacking Midfield,2001-02-15,18,Georgia,Rubin Kazan,Premier Liga,2019/2020,2019
+Vyacheslav Podberezkin,Attacking Midfield,1992-06-21,27,Russia,Rubin Kazan,Premier Liga,2019/2020,2019
+Darko Jevtic,Attacking Midfield,1993-02-08,26,Switzerland,Rubin Kazan,Premier Liga,2019/2020,2019
+Khvicha Kvaratskhelia,Left Winger,2001-02-12,18,Georgia,Rubin Kazan,Premier Liga,2019/2020,2019
+Nikolay Kipiani,Left Winger,1997-01-25,22,Russia,Rubin Kazan,Premier Liga,2019/2020,2019
+Aleksandr Tashaev,Right Winger,1994-06-23,25,Russia,Rubin Kazan,Premier Liga,2019/2020,2019
+Soltmurad Bakaev,Right Winger,1999-08-05,19,Russia,Rubin Kazan,Premier Liga,2019/2020,2019
+Ivan Ignatjev,Centre-Forward,1999-01-06,20,Russia,Rubin Kazan,Premier Liga,2019/2020,2019
+Vidar Örn Kjartansson,Centre-Forward,1990-03-11,29,Iceland,Rubin Kazan,Premier Liga,2019/2020,2019
+Evgeniy Markov,Centre-Forward,1994-07-07,24,Russia,Rubin Kazan,Premier Liga,2019/2020,2019
+Artur Sagitov,Centre-Forward,2000-01-07,19,Russia,Rubin Kazan,Premier Liga,2019/2020,2019
+Beka Mikeltadze,Centre-Forward,1997-11-26,21,Georgia,Rubin Kazan,Premier Liga,2019/2020,2019
+Evgeniy Gorodov,Goalkeeper,1985-12-13,33,Russia,Akhmat Grozny,Premier Liga,2019/2020,2019
+Vitali Gudiev,Goalkeeper,1995-04-22,24,Russia,Akhmat Grozny,Premier Liga,2019/2020,2019
+Aleksandr Melikhov,Goalkeeper,1998-03-23,21,Russia,Akhmat Grozny,Premier Liga,2019/2020,2019
+Wílker Ángel,Centre-Back,1993-03-18,26,Venezuela,Akhmat Grozny,Premier Liga,2019/2020,2019
+Andrey Semenov,Centre-Back,1989-03-24,30,Russia,Akhmat Grozny,Premier Liga,2019/2020,2019
+Zoran Nizic,Centre-Back,1989-10-11,29,Croatia,Akhmat Grozny,Premier Liga,2019/2020,2019
+Pavel Kaloshin,Centre-Back,1998-03-13,21,Russia,Akhmat Grozny,Premier Liga,2019/2020,2019
+Nikita Karmaev,Centre-Back,2000-07-17,18,Russia,Akhmat Grozny,Premier Liga,2019/2020,2019
+Miroslav Bogosavac,Left-Back,1996-10-14,22,Serbia,Akhmat Grozny,Premier Liga,2019/2020,2019
+Maksim Nenakhov,Left-Back,1998-12-13,20,Russia,Akhmat Grozny,Premier Liga,2019/2020,2019
+Rizvan Utsiev,Right-Back,1988-02-07,31,Russia,Akhmat Grozny,Premier Liga,2019/2020,2019
+Magomed Musalov,Right-Back,1994-02-09,25,Russia,Akhmat Grozny,Premier Liga,2019/2020,2019
+Arsen Adamov,Right-Back,1999-10-20,19,Russia,Akhmat Grozny,Premier Liga,2019/2020,2019
+Anton Shvets,Defensive Midfield,1993-04-26,26,Russia,Akhmat Grozny,Premier Liga,2019/2020,2019
+Lechii Sadulaev,Defensive Midfield,2000-01-08,19,Russia,Akhmat Grozny,Premier Liga,2019/2020,2019
+Ismael Silva,Central Midfield,1994-12-01,24,Brazil,Akhmat Grozny,Premier Liga,2019/2020,2019
+Denis Glushakov,Central Midfield,1987-01-27,32,Russia,Akhmat Grozny,Premier Liga,2019/2020,2019
+Damian Szymanski,Central Midfield,1995-06-16,24,Poland,Akhmat Grozny,Premier Liga,2019/2020,2019
+Mikhail Gashchenkov,Central Midfield,1992-06-19,27,Russia,Akhmat Grozny,Premier Liga,2019/2020,2019
+Evgeniy Kharin,Left Midfield,1995-06-11,24,Russia,Akhmat Grozny,Premier Liga,2019/2020,2019
+Roland Gigolaev,Left Midfield,1990-01-04,29,Russia,Akhmat Grozny,Premier Liga,2019/2020,2019
+Ravanelli,Attacking Midfield,1997-08-29,21,Brazil,Akhmat Grozny,Premier Liga,2019/2020,2019
+Oleg Ivanov,Attacking Midfield,1986-08-04,32,Russia,Akhmat Grozny,Premier Liga,2019/2020,2019
+Bernard Berisha,Left Winger,1991-10-24,27,Kosovo,Akhmat Grozny,Premier Liga,2019/2020,2019
+Odise Roshi,Right Winger,1991-05-22,28,Albania,Akhmat Grozny,Premier Liga,2019/2020,2019
+Magomed Mitrishev,Right Winger,1992-09-10,26,Russia,Akhmat Grozny,Premier Liga,2019/2020,2019
+Konrad Michalak,Right Winger,1997-09-19,21,Poland,Akhmat Grozny,Premier Liga,2019/2020,2019
+Khalid Kadyrov,Right Winger,1994-04-19,25,Russia,Akhmat Grozny,Premier Liga,2019/2020,2019
+Felipe Vizeu,Centre-Forward,1997-03-12,22,Brazil,Akhmat Grozny,Premier Liga,2019/2020,2019
+Vladimir Iljin,Centre-Forward,1992-05-20,27,Russia,Akhmat Grozny,Premier Liga,2019/2020,2019
+Andrés Ponce,Centre-Forward,1996-11-11,22,Venezuela,Akhmat Grozny,Premier Liga,2019/2020,2019
+Ablaye Mbengue,Centre-Forward,1992-05-19,27,Senegal,Akhmat Grozny,Premier Liga,2019/2020,2019
+Zaur Sadaev,Centre-Forward,1989-11-06,29,Russia,Akhmat Grozny,Premier Liga,2019/2020,2019
+Abubakar Kadyrov,Centre-Forward,1996-08-26,22,Russia,Akhmat Grozny,Premier Liga,2019/2020,2019
+Egor Baburin,Goalkeeper,1993-08-09,25,Russia,FK Rostov,Premier Liga,2019/2020,2019
+Sergey Pesjakov,Goalkeeper,1988-12-16,30,Russia,FK Rostov,Premier Liga,2019/2020,2019
+Maksim Rudakov,Goalkeeper,1996-01-22,23,Russia,FK Rostov,Premier Liga,2019/2020,2019
+Denis Popov,Goalkeeper,2002-08-29,16,Russia,FK Rostov,Premier Liga,2019/2020,2019
+Daniil Frolkin,Goalkeeper,2001-05-15,18,Russia,FK Rostov,Premier Liga,2019/2020,2019
+Vadim Lukyanov,Goalkeeper,2002-12-16,16,Russia,FK Rostov,Premier Liga,2019/2020,2019
+Ragnar Sigurdsson,Centre-Back,1986-06-19,33,Iceland,FK Rostov,Premier Liga,2019/2020,2019
+Dmitri Chistyakov,Centre-Back,1994-01-13,25,Russia,FK Rostov,Premier Liga,2019/2020,2019
+Dennis Hadzikadunic,Centre-Back,1998-07-09,20,Bosnia-Herzegovina,FK Rostov,Premier Liga,2019/2020,2019
+Maciej Wilusz,Centre-Back,1988-09-25,30,Poland,FK Rostov,Premier Liga,2019/2020,2019
+Maksim Osipenko,Centre-Back,1994-05-16,25,Russia,FK Rostov,Premier Liga,2019/2020,2019
+Evgeniy Livadnov,Centre-Back,2000-04-27,19,Russia,FK Rostov,Premier Liga,2019/2020,2019
+Timofey Kalistratov,Centre-Back,2003-02-18,16,Russia,FK Rostov,Premier Liga,2019/2020,2019
+Wiliam Rogava,Centre-Back,2003-01-25,16,Russia,FK Rostov,Premier Liga,2019/2020,2019
+Bogdan Rogochiy,Centre-Back,2003-07-11,15,Russia,FK Rostov,Premier Liga,2019/2020,2019
+Rinat Mamedov,Centre-Back,2003-04-04,16,Russia,FK Rostov,Premier Liga,2019/2020,2019
+Evgeniy Chernov,Left-Back,1992-10-23,26,Russia,FK Rostov,Premier Liga,2019/2020,2019
+Danila Vedernikov,Left-Back,2001-06-06,18,Russia,FK Rostov,Premier Liga,2019/2020,2019
+Vladimir Abramov,Left-Back,2002-04-05,17,Russia,FK Rostov,Premier Liga,2019/2020,2019
+Aleksandr Zuev,Right-Back,1996-06-26,23,Russia,FK Rostov,Premier Liga,2019/2020,2019
+Arseni Logashov,Right-Back,1991-08-20,27,Russia,FK Rostov,Premier Liga,2019/2020,2019
+Aleksey Kozlov,Right-Back,1986-12-25,32,Russia,FK Rostov,Premier Liga,2019/2020,2019
+Kirill Malyarov,Right-Back,1997-03-07,22,Russia,FK Rostov,Premier Liga,2019/2020,2019
+Aleksandr Gapechkin,Right-Back,2002-06-16,17,Russia,FK Rostov,Premier Liga,2019/2020,2019
+Alexandru Gatcan,Defensive Midfield,1984-03-27,35,Moldova,FK Rostov,Premier Liga,2019/2020,2019
+Sergey Kochkanyan,Defensive Midfield,2003-05-05,16,Russia,FK Rostov,Premier Liga,2019/2020,2019
+Pavel Gorelov,Defensive Midfield,2003-01-22,16,Russia,FK Rostov,Premier Liga,2019/2020,2019
+Mathias Normann,Central Midfield,1996-05-28,23,Norway,FK Rostov,Premier Liga,2019/2020,2019
+Pavel Mamaev,Central Midfield,1988-09-17,30,Russia,FK Rostov,Premier Liga,2019/2020,2019
+Danil Glebov,Central Midfield,1999-11-03,19,Russia,FK Rostov,Premier Liga,2019/2020,2019
+Evgeniy Cherkes,Central Midfield,2001-06-23,18,Russia,FK Rostov,Premier Liga,2019/2020,2019
+Nikita Kupriyanov,Central Midfield,2002-04-23,17,Russia,FK Rostov,Premier Liga,2019/2020,2019
+Roman Romanov,Central Midfield,2003-03-28,16,Russia,FK Rostov,Premier Liga,2019/2020,2019
+Nikita Kashtan,Central Midfield,2003-09-01,15,Russia,FK Rostov,Premier Liga,2019/2020,2019
+Mikhail Osinov,Right Midfield,2000-12-29,18,Russia,FK Rostov,Premier Liga,2019/2020,2019
+Kirill Girnyk,Right Midfield,2003-03-31,16,Russia,FK Rostov,Premier Liga,2019/2020,2019
+Ivan Komarov,Right Midfield,2003-04-15,16,Russia,FK Rostov,Premier Liga,2019/2020,2019
+Khoren Bayramyan,Left Midfield,1992-01-07,27,Armenia,FK Rostov,Premier Liga,2019/2020,2019
+Nikita Kolotievskiy,Left Midfield,2001-03-04,18,Russia,FK Rostov,Premier Liga,2019/2020,2019
+Aleksey Kornienko,Left Midfield,2003-01-15,16,Russia,FK Rostov,Premier Liga,2019/2020,2019
+Roman Eremenko,Attacking Midfield,1987-03-19,32,Finland,FK Rostov,Premier Liga,2019/2020,2019
+Ivelin Popov,Attacking Midfield,1987-10-26,31,Bulgaria,FK Rostov,Premier Liga,2019/2020,2019
+Baktiyar Zaynutdinov,Attacking Midfield,1998-04-02,21,Kazakhstan,FK Rostov,Premier Liga,2019/2020,2019
+Tamaz Topuriya,Left Winger,2002-01-29,17,Russia,FK Rostov,Premier Liga,2019/2020,2019
+Aleksey Ionov,Right Winger,1989-02-18,30,Russia,FK Rostov,Premier Liga,2019/2020,2019
+Aleksandr Saplinov,Second Striker,1997-08-12,21,Russia,FK Rostov,Premier Liga,2019/2020,2019
+Eldor Shomurodov,Centre-Forward,1995-06-29,24,Uzbekistan,FK Rostov,Premier Liga,2019/2020,2019
+Björn Sigurdarson,Centre-Forward,1991-02-26,28,Iceland,FK Rostov,Premier Liga,2019/2020,2019
+Aleksandr Dolgov,Centre-Forward,1998-09-24,20,Russia,FK Rostov,Premier Liga,2019/2020,2019
+Danila Proshlyakov,Centre-Forward,2000-03-08,19,Russia,FK Rostov,Premier Liga,2019/2020,2019
+Danil Khromov,Centre-Forward,2002-12-25,16,Russia,FK Rostov,Premier Liga,2019/2020,2019
+Maksim Stavtsev,Centre-Forward,2004-01-29,15,Russia,FK Rostov,Premier Liga,2019/2020,2019
+Soslan Dzhanaev,Goalkeeper,1987-03-13,32,Russia,FC Sochi,Premier Liga,2019/2020,2019
+Nikolay Zabolotnyi,Goalkeeper,1990-04-16,29,Russia,FC Sochi,Premier Liga,2019/2020,2019
+Evgeniy Frolov,Goalkeeper,1988-02-05,31,Russia,FC Sochi,Premier Liga,2019/2020,2019
+Sergey Samok,Goalkeeper,2001-02-15,18,Russia,FC Sochi,Premier Liga,2019/2020,2019
+Miha Mevlja,Centre-Back,1990-06-12,29,Slovenia,FC Sochi,Premier Liga,2019/2020,2019
+Nikita Kalugin,Centre-Back,1998-03-12,21,Russia,FC Sochi,Premier Liga,2019/2020,2019
+Ivan Novoseltsev,Centre-Back,1991-08-25,27,Russia,FC Sochi,Premier Liga,2019/2020,2019
+Ivan Miladinovic,Centre-Back,1994-08-14,24,Serbia,FC Sochi,Premier Liga,2019/2020,2019
+Igor Yurganov,Centre-Back,1993-12-10,25,Russia,FC Sochi,Premier Liga,2019/2020,2019
+Vadim Milyutin,Centre-Back,2002-04-08,17,Russia,FC Sochi,Premier Liga,2019/2020,2019
+Elmir Nabiullin,Left-Back,1995-03-08,24,Russia,FC Sochi,Premier Liga,2019/2020,2019
+Fedor Kudryashov,Left-Back,1987-04-05,32,Russia,FC Sochi,Premier Liga,2019/2020,2019
+Valeriy Pochivalin,Left-Back,1992-04-11,27,Russia,FC Sochi,Premier Liga,2019/2020,2019
+Pavel Shakuro,Left-Back,1997-07-25,21,Russia,FC Sochi,Premier Liga,2019/2020,2019
+Timofey Margasov,Right-Back,1992-06-12,27,Russia,FC Sochi,Premier Liga,2019/2020,2019
+Kirill Zaika,Right-Back,1992-10-07,26,Russia,FC Sochi,Premier Liga,2019/2020,2019
+Giannelli Imbula,Defensive Midfield,1992-09-12,26,DR Congo,FC Sochi,Premier Liga,2019/2020,2019
+Ibragim Tsallagov,Defensive Midfield,1990-12-12,28,Russia,FC Sochi,Premier Liga,2019/2020,2019
+Dusan Lagator,Defensive Midfield,1994-03-29,25,Montenegro,FC Sochi,Premier Liga,2019/2020,2019
+Christian Noboa,Central Midfield,1985-04-09,34,Ecuador,FC Sochi,Premier Liga,2019/2020,2019
+Evgeniy Pesegov,Central Midfield,1989-02-21,30,Russia,FC Sochi,Premier Liga,2019/2020,2019
+Yan Kazaev,Central Midfield,1991-11-26,27,Russia,FC Sochi,Premier Liga,2019/2020,2019
+Aleksey Pomerko,Central Midfield,1990-05-03,29,Russia,FC Sochi,Premier Liga,2019/2020,2019
+Nikita Koldunov,Central Midfield,2000-04-19,19,Russia,FC Sochi,Premier Liga,2019/2020,2019
+Anatoli Nemchenko,Right Midfield,2000-08-22,18,Russia,FC Sochi,Premier Liga,2019/2020,2019
+Erik Vardanyan,Attacking Midfield,1998-06-07,21,Armenia,FC Sochi,Premier Liga,2019/2020,2019
+Andrey Mostovoy,Left Winger,1997-11-05,21,Russia,FC Sochi,Premier Liga,2019/2020,2019
+Andrey Bokovoy,Left Winger,2000-09-04,18,Russia,FC Sochi,Premier Liga,2019/2020,2019
+Nikita Burmistrov,Right Winger,1989-07-06,29,Russia,FC Sochi,Premier Liga,2019/2020,2019
+Akmal Bakhtiyarov,Right Winger,1998-06-02,21,Kazakhstan,FC Sochi,Premier Liga,2019/2020,2019
+Aleksandr Kokorin,Centre-Forward,1991-03-19,28,Russia,FC Sochi,Premier Liga,2019/2020,2019
+Dmitri Poloz,Centre-Forward,1991-07-12,27,Russia,FC Sochi,Premier Liga,2019/2020,2019
+Vladimir Obukhov,Centre-Forward,1992-02-08,27,Russia,FC Sochi,Premier Liga,2019/2020,2019
+Anton Zabolotny,Centre-Forward,1991-06-13,28,Russia,FC Sochi,Premier Liga,2019/2020,2019
+Maksim Barsov,Centre-Forward,1993-04-29,26,Russia,FC Sochi,Premier Liga,2019/2020,2019
+Aleksandr Karapetyan,Centre-Forward,1987-12-23,31,Armenia,FC Sochi,Premier Liga,2019/2020,2019
+Mikhail Levashov,Goalkeeper,1991-10-04,27,Russia,Arsenal Tula,Premier Liga,2019/2020,2019
+Artur Nigmatullin,Goalkeeper,1991-05-17,28,Russia,Arsenal Tula,Premier Liga,2019/2020,2019
+Egor Shamov,Goalkeeper,1994-06-02,25,Russia,Arsenal Tula,Premier Liga,2019/2020,2019
+Yuri Lodygin,Goalkeeper,1990-05-26,29,Russia,Arsenal Tula,Premier Liga,2019/2020,2019
+Maksim Belyaev,Centre-Back,1991-09-30,27,Russia,Arsenal Tula,Premier Liga,2019/2020,2019
+Gia Grigalava,Centre-Back,1989-08-05,29,Georgia,Arsenal Tula,Premier Liga,2019/2020,2019
+Bakary Koné,Centre-Back,1988-04-27,31,Burkina Faso,Arsenal Tula,Premier Liga,2019/2020,2019
+Aleksandr Denisov,Centre-Back,1989-02-23,30,Russia,Arsenal Tula,Premier Liga,2019/2020,2019
+Aleksandr Dovbnya,Centre-Back,1996-02-14,23,Russia,Arsenal Tula,Premier Liga,2019/2020,2019
+Artem Sokol,Centre-Back,1997-06-11,22,Russia,Arsenal Tula,Premier Liga,2019/2020,2019
+Víctor Álvarez,Left-Back,1993-03-14,26,Spain,Arsenal Tula,Premier Liga,2019/2020,2019
+Maksim Volodjko,Left-Back,1992-11-10,26,Belarus,Arsenal Tula,Premier Liga,2019/2020,2019
+Robert Bauer,Right-Back,1995-04-09,24,Germany,Arsenal Tula,Premier Liga,2019/2020,2019
+Kirill Kombarov,Right-Back,1987-01-22,32,Russia,Arsenal Tula,Premier Liga,2019/2020,2019
+Anri Khagush,Right-Back,1986-09-23,32,Russia,Arsenal Tula,Premier Liga,2019/2020,2019
+Georgi Kostadinov,Defensive Midfield,1990-09-07,28,Bulgaria,Arsenal Tula,Premier Liga,2019/2020,2019
+Goran Causic,Central Midfield,1992-05-05,27,Serbia,Arsenal Tula,Premier Liga,2019/2020,2019
+Vladislav Panteleev,Central Midfield,1996-08-15,22,Russia,Arsenal Tula,Premier Liga,2019/2020,2019
+Kantemir Berkhamov,Central Midfield,1988-08-07,30,Russia,Arsenal Tula,Premier Liga,2019/2020,2019
+Yuri Kovalev,Right Midfield,1993-01-27,26,Belarus,Arsenal Tula,Premier Liga,2019/2020,2019
+Daniil Khlusevich,Right Midfield,2001-02-26,18,Russia,Arsenal Tula,Premier Liga,2019/2020,2019
+Sergey Tkachev,Attacking Midfield,1989-05-19,30,Russia,Arsenal Tula,Premier Liga,2019/2020,2019
+Igor Gorbatenko,Attacking Midfield,1989-02-13,30,Russia,Arsenal Tula,Premier Liga,2019/2020,2019
+Valeri Gromyko,Attacking Midfield,1997-01-23,22,Belarus,Arsenal Tula,Premier Liga,2019/2020,2019
+Kings Kangwa,Attacking Midfield,1999-06-04,20,Zambia,Arsenal Tula,Premier Liga,2019/2020,2019
+Daniil Lesovoy,Left Winger,1998-01-12,21,Russia,Arsenal Tula,Premier Liga,2019/2020,2019
+Evans Kangwa,Left Winger,1992-10-09,26,Zambia,Arsenal Tula,Premier Liga,2019/2020,2019
+Aleksandr Lomovitskiy,Right Winger,1998-01-27,21,Russia,Arsenal Tula,Premier Liga,2019/2020,2019
+Lameck Banda,Right Winger,2001-01-29,18,Zambia,Arsenal Tula,Premier Liga,2019/2020,2019
+Guram Adzhoev,Second Striker,1995-02-27,24,Russia,Arsenal Tula,Premier Liga,2019/2020,2019
+Evgeniy Lutsenko,Centre-Forward,1987-02-25,32,Russia,Arsenal Tula,Premier Liga,2019/2020,2019
+Alexandru Tudorie,Centre-Forward,1996-03-19,23,Romania,Arsenal Tula,Premier Liga,2019/2020,2019
+Roman Minaev,Centre-Forward,1997-12-24,21,Russia,Arsenal Tula,Premier Liga,2019/2020,2019
+Yaroslav Godzyur,Goalkeeper,1985-03-06,34,Russia,Ural Yekaterinburg,Premier Liga,2019/2020,2019
+Oleg Baklov,Goalkeeper,1994-10-20,24,Russia,Ural Yekaterinburg,Premier Liga,2019/2020,2019
+Vladislav Poletaev,Goalkeeper,2000-01-05,19,Russia,Ural Yekaterinburg,Premier Liga,2019/2020,2019
+Aleksey Mamin,Goalkeeper,1999-03-22,20,Russia,Ural Yekaterinburg,Premier Liga,2019/2020,2019
+Varazdat Haroyan,Centre-Back,1992-08-24,26,Armenia,Ural Yekaterinburg,Premier Liga,2019/2020,2019
+Denis Polyakov,Centre-Back,1991-04-17,28,Belarus,Ural Yekaterinburg,Premier Liga,2019/2020,2019
+Maciej Wilusz,Centre-Back,1988-09-25,30,Poland,Ural Yekaterinburg,Premier Liga,2019/2020,2019
+Artem Mamin,Centre-Back,1997-07-25,21,Russia,Ural Yekaterinburg,Premier Liga,2019/2020,2019
+Aleksey Gerasimov,Centre-Back,1993-04-15,26,Russia,Ural Yekaterinburg,Premier Liga,2019/2020,2019
+Mikhail Merkulov,Left-Back,1994-01-26,25,Russia,Ural Yekaterinburg,Premier Liga,2019/2020,2019
+Igor Kalinin,Left-Back,1995-11-11,23,Russia,Ural Yekaterinburg,Premier Liga,2019/2020,2019
+Nikolai Zolotov,Left-Back,1994-11-11,24,Belarus,Ural Yekaterinburg,Premier Liga,2019/2020,2019
+Nikita Chistyakov,Left-Back,2000-08-08,18,Russia,Ural Yekaterinburg,Premier Liga,2019/2020,2019
+Islamzhan Nasyrov,Left-Back,1998-04-08,21,Russia,Ural Yekaterinburg,Premier Liga,2019/2020,2019
+Denys Kulakov,Right-Back,1986-05-01,33,Ukraine,Ural Yekaterinburg,Premier Liga,2019/2020,2019
+Shamsiddin Shanbiev,Right-Back,1997-02-18,22,Russia,Ural Yekaterinburg,Premier Liga,2019/2020,2019
+Roman Emeljanov,Defensive Midfield,1992-05-08,27,Russia,Ural Yekaterinburg,Premier Liga,2019/2020,2019
+Rafal Augustyniak,Defensive Midfield,1993-10-14,25,Poland,Ural Yekaterinburg,Premier Liga,2019/2020,2019
+Petrus Boumal,Defensive Midfield,1993-04-20,26,Cameroon,Ural Yekaterinburg,Premier Liga,2019/2020,2019
+Chingiz Magomadov,Defensive Midfield,1998-08-01,20,Russia,Ural Yekaterinburg,Premier Liga,2019/2020,2019
+Artem Fidler,Defensive Midfield,1983-07-14,35,Russia,Ural Yekaterinburg,Premier Liga,2019/2020,2019
+Andrey Egorychev,Central Midfield,1993-02-14,26,Russia,Ural Yekaterinburg,Premier Liga,2019/2020,2019
+Yuri Bavin,Central Midfield,1994-02-05,25,Russia,Ural Yekaterinburg,Premier Liga,2019/2020,2019
+Dmitri Efremov,Right Midfield,1995-04-01,24,Russia,Ural Yekaterinburg,Premier Liga,2019/2020,2019
+Othman El Kabir,Left Midfield,1991-07-17,27,Netherlands,Ural Yekaterinburg,Premier Liga,2019/2020,2019
+Aleksandr Golubtsov,Left Midfield,1998-09-11,20,Russia,Ural Yekaterinburg,Premier Liga,2019/2020,2019
+Eric Bicfalvi,Attacking Midfield,1988-02-05,31,Romania,Ural Yekaterinburg,Premier Liga,2019/2020,2019
+Artem Shabolin,Attacking Midfield,2000-07-19,18,Russia,Ural Yekaterinburg,Premier Liga,2019/2020,2019
+Nikolay Dimitrov,Right Winger,1987-10-15,31,Bulgaria,Ural Yekaterinburg,Premier Liga,2019/2020,2019
+Michal Kucharczyk,Right Winger,1991-03-20,28,Poland,Ural Yekaterinburg,Premier Liga,2019/2020,2019
+Aleksandr Shcherbakov,Right Winger,1998-06-26,21,Russia,Ural Yekaterinburg,Premier Liga,2019/2020,2019
+Andrey Panyukov,Centre-Forward,1994-09-25,24,Russia,Ural Yekaterinburg,Premier Liga,2019/2020,2019
+Vladimir Iljin,Centre-Forward,1992-05-20,27,Russia,Ural Yekaterinburg,Premier Liga,2019/2020,2019
+Artem Yusupov,Centre-Forward,1997-04-29,22,Russia,Ural Yekaterinburg,Premier Liga,2019/2020,2019
+Aykhan Guseynov,Centre-Forward,1999-09-03,19,Russia,Ural Yekaterinburg,Premier Liga,2019/2020,2019
+Pavel Pogrebnyak,Centre-Forward,1983-11-08,35,Russia,Ural Yekaterinburg,Premier Liga,2019/2020,2019
+Aleksandr Belenov,Goalkeeper,1986-09-13,32,Russia,FK Ufa,Premier Liga,2019/2020,2019
+Yuri Shafinskiy,Goalkeeper,1994-05-06,25,Russia,FK Ufa,Premier Liga,2019/2020,2019
+Aleksey Chernov,Goalkeeper,1998-06-03,21,Russia,FK Ufa,Premier Liga,2019/2020,2019
+Igor Maltsev,Goalkeeper,2001-10-06,17,Russia,FK Ufa,Premier Liga,2019/2020,2019
+Ionut Nedelcearu,Centre-Back,1996-04-25,23,Romania,FK Ufa,Premier Liga,2019/2020,2019
+Jimmy Tabidze,Centre-Back,1996-03-18,23,Georgia,FK Ufa,Premier Liga,2019/2020,2019
+Aleksandr Putsko,Centre-Back,1993-02-24,26,Russia,FK Ufa,Premier Liga,2019/2020,2019
+Aleksey Nikitin,Centre-Back,1992-01-27,27,Russia,FK Ufa,Premier Liga,2019/2020,2019
+Pavel Alikin,Centre-Back,1984-03-06,35,Russia,FK Ufa,Premier Liga,2019/2020,2019
+Danil Krugovoy,Left-Back,1998-05-28,21,Russia,FK Ufa,Premier Liga,2019/2020,2019
+Bojan Jokic,Left-Back,1986-05-17,33,Slovenia,FK Ufa,Premier Liga,2019/2020,2019
+Denis Terentjev,Right-Back,1992-08-13,26,Russia,FK Ufa,Premier Liga,2019/2020,2019
+Aleksandr Sukhov,Right-Back,1986-01-03,33,Russia,FK Ufa,Premier Liga,2019/2020,2019
+Turgay Mokhbaliev,Right-Back,2000-01-18,19,Russia,FK Ufa,Premier Liga,2019/2020,2019
+Daniil Fomin,Defensive Midfield,1997-03-02,22,Russia,FK Ufa,Premier Liga,2019/2020,2019
+Catalin Carp,Defensive Midfield,1993-10-20,25,Moldova,FK Ufa,Premier Liga,2019/2020,2019
+Artem Golubev,Defensive Midfield,1999-01-21,20,Russia,FK Ufa,Premier Liga,2019/2020,2019
+Azamat Zaseev,Defensive Midfield,1988-04-29,31,Russia,FK Ufa,Premier Liga,2019/2020,2019
+Nikita Belousov,Defensive Midfield,2002-02-26,17,Russia,FK Ufa,Premier Liga,2019/2020,2019
+Olivier Thill,Central Midfield,1996-12-17,22,Luxembourg,FK Ufa,Premier Liga,2019/2020,2019
+Ondrej Vanek,Central Midfield,1990-07-05,28,Czech Republic,FK Ufa,Premier Liga,2019/2020,2019
+Igor Bezdenezhnykh,Central Midfield,1996-08-08,22,Russia,FK Ufa,Premier Liga,2019/2020,2019
+Danila Emeljanov,Central Midfield,2000-01-23,19,Russia,FK Ufa,Premier Liga,2019/2020,2019
+Kirill Folmer,Central Midfield,2000-02-25,19,Russia,FK Ufa,Premier Liga,2019/2020,2019
+Azer Aliev,Right Midfield,1994-05-12,25,Russia,FK Ufa,Premier Liga,2019/2020,2019
+Oston Urunov,Attacking Midfield,2000-12-19,18,Uzbekistan,FK Ufa,Premier Liga,2019/2020,2019
+Nikolay Giorgobiani,Attacking Midfield,1997-07-16,21,Russia,FK Ufa,Premier Liga,2019/2020,2019
+Andrey Vlasov,Attacking Midfield,1999-03-24,20,Russia,FK Ufa,Premier Liga,2019/2020,2019
+Dmitri Sysuev,Left Winger,1988-01-13,31,Russia,FK Ufa,Premier Liga,2019/2020,2019
+Sly,Centre-Forward,1990-09-08,28,Nigeria,FK Ufa,Premier Liga,2019/2020,2019
+Andrés Vombergar,Centre-Forward,1994-11-20,24,Slovenia,FK Ufa,Premier Liga,2019/2020,2019
+Lovro Bizjak,Centre-Forward,1993-11-12,25,Slovenia,FK Ufa,Premier Liga,2019/2020,2019
+Vyacheslav Krotov,Centre-Forward,1993-02-14,26,Russia,FK Ufa,Premier Liga,2019/2020,2019
+Andrey Kozlov,Centre-Forward,1989-02-23,30,Russia,FK Ufa,Premier Liga,2019/2020,2019
+Gamid Agalarov,Centre-Forward,2000-07-16,18,Russia,FK Ufa,Premier Liga,2019/2020,2019
+Magomed Rabadanov,Centre-Forward,2002-02-05,17,Russia,FK Ufa,Premier Liga,2019/2020,2019
+Evgeniy Frolov,Goalkeeper,1988-02-05,31,Russia,Krylya Sovetov Samara,Premier Liga,2019/2020,2019
+Evgeniy Konyukhov,Goalkeeper,1986-11-21,32,Russia,Krylya Sovetov Samara,Premier Liga,2019/2020,2019
+Bogdan Ovsyannikov,Goalkeeper,1999-01-05,20,Russia,Krylya Sovetov Samara,Premier Liga,2019/2020,2019
+Danil Beltyukov,Goalkeeper,2002-11-13,16,Russia,Krylya Sovetov Samara,Premier Liga,2019/2020,2019
+Sergey Ryzhikov,Goalkeeper,1980-09-19,38,Russia,Krylya Sovetov Samara,Premier Liga,2019/2020,2019
+Nikita Chernov,Centre-Back,1996-01-14,23,Russia,Krylya Sovetov Samara,Premier Liga,2019/2020,2019
+Agustín Rogel,Centre-Back,1997-10-17,21,Uruguay,Krylya Sovetov Samara,Premier Liga,2019/2020,2019
+Maksim Karpov,Centre-Back,1995-03-17,24,Russia,Krylya Sovetov Samara,Premier Liga,2019/2020,2019
+Taras Burlak,Centre-Back,1990-02-22,29,Russia,Krylya Sovetov Samara,Premier Liga,2019/2020,2019
+Vitali Lystsov,Centre-Back,1995-07-11,23,Russia,Krylya Sovetov Samara,Premier Liga,2019/2020,2019
+Dmitri Kombarov,Left-Back,1987-01-22,32,Russia,Krylya Sovetov Samara,Premier Liga,2019/2020,2019
+Vladimir Poluyakhtov,Left-Back,1989-07-11,29,Russia,Krylya Sovetov Samara,Premier Liga,2019/2020,2019
+Mehdi Zeffane,Right-Back,1992-05-19,27,Algeria,Krylya Sovetov Samara,Premier Liga,2019/2020,2019
+Georgi Zotov,Right-Back,1990-01-12,29,Russia,Krylya Sovetov Samara,Premier Liga,2019/2020,2019
+Nikita Chicherin,Right-Back,1990-08-18,28,Russia,Krylya Sovetov Samara,Premier Liga,2019/2020,2019
+Aleksandr Evinov,Right-Back,2000-04-01,19,Russia,Krylya Sovetov Samara,Premier Liga,2019/2020,2019
+Aleksandr Anyukov,Right-Back,1982-09-28,36,Russia,Krylya Sovetov Samara,Premier Liga,2019/2020,2019
+Srdjan Mijailovic,Defensive Midfield,1993-11-10,25,Serbia,Krylya Sovetov Samara,Premier Liga,2019/2020,2019
+Artem Timofeev,Defensive Midfield,1994-01-12,25,Russia,Krylya Sovetov Samara,Premier Liga,2019/2020,2019
+Denis Yakuba,Defensive Midfield,1996-05-26,23,Russia,Krylya Sovetov Samara,Premier Liga,2019/2020,2019
+Safa Hadi,Defensive Midfield,1998-10-14,20,Iraq,Krylya Sovetov Samara,Premier Liga,2019/2020,2019
+Alexandru Gatcan,Defensive Midfield,1984-03-27,35,Moldova,Krylya Sovetov Samara,Premier Liga,2019/2020,2019
+Gennadi Kiselev,Defensive Midfield,1999-01-03,20,Russia,Krylya Sovetov Samara,Premier Liga,2019/2020,2019
+Paul Anton,Central Midfield,1991-05-10,28,Romania,Krylya Sovetov Samara,Premier Liga,2019/2020,2019
+Denis Popovic,Central Midfield,1989-10-15,29,Slovenia,Krylya Sovetov Samara,Premier Liga,2019/2020,2019
+Danila Smirnov,Central Midfield,2001-06-07,18,Russia,Krylya Sovetov Samara,Premier Liga,2019/2020,2019
+Radu Ginsari,Attacking Midfield,1991-12-10,27,Moldova,Krylya Sovetov Samara,Premier Liga,2019/2020,2019
+Sergey Ivanov,Attacking Midfield,1997-01-07,22,Russia,Krylya Sovetov Samara,Premier Liga,2019/2020,2019
+Vladislav Tyurin,Attacking Midfield,2000-04-18,19,Russia,Krylya Sovetov Samara,Premier Liga,2019/2020,2019
+Anton Zinkovskiy,Left Winger,1996-04-14,23,Russia,Krylya Sovetov Samara,Premier Liga,2019/2020,2019
+Maksim Glushenkov,Right Winger,1999-07-28,19,Russia,Krylya Sovetov Samara,Premier Liga,2019/2020,2019
+Dmitri Kabutov,Right Winger,1992-03-26,27,Russia,Krylya Sovetov Samara,Premier Liga,2019/2020,2019
+Anton Terekhov,Right Winger,1998-01-30,21,Russia,Krylya Sovetov Samara,Premier Liga,2019/2020,2019
+Aleksandr Sobolev,Centre-Forward,1997-03-07,22,Russia,Krylya Sovetov Samara,Premier Liga,2019/2020,2019
+Maksim Kanunnikov,Centre-Forward,1991-07-14,27,Russia,Krylya Sovetov Samara,Premier Liga,2019/2020,2019
+Dejan Radonjic,Centre-Forward,1990-07-23,28,Croatia,Krylya Sovetov Samara,Premier Liga,2019/2020,2019
+Egor Golenkov,Centre-Forward,1999-07-07,19,Russia,Krylya Sovetov Samara,Premier Liga,2019/2020,2019
+Dmitri Molchanov,Centre-Forward,2000-10-01,18,Russia,Krylya Sovetov Samara,Premier Liga,2019/2020,2019
+Andrey Klimovich,Goalkeeper,1988-08-27,30,Belarus,FK Orenburg,Premier Liga,2019/2020,2019
+Aleksandr Dovbnya,Goalkeeper,1987-04-10,32,Russia,FK Orenburg,Premier Liga,2019/2020,2019
+Aleksandr Rudenko,Goalkeeper,1993-03-04,26,Russia,FK Orenburg,Premier Liga,2019/2020,2019
+Aleksey Kenyaykin,Goalkeeper,1998-08-23,20,Russia,FK Orenburg,Premier Liga,2019/2020,2019
+Nikita Shtyrlov,Goalkeeper,2003-08-19,15,Russia,FK Orenburg,Premier Liga,2019/2020,2019
+Mikhail Sivakov,Centre-Back,1988-01-16,31,Belarus,FK Orenburg,Premier Liga,2019/2020,2019
+Uros Radakovic,Centre-Back,1994-03-31,25,Serbia,FK Orenburg,Premier Liga,2019/2020,2019
+Vitali Shakhov,Centre-Back,1991-01-09,28,Russia,FK Orenburg,Premier Liga,2019/2020,2019
+Saveli Kozlov,Centre-Back,1997-01-19,22,Russia,FK Orenburg,Premier Liga,2019/2020,2019
+Adi Gotlieb,Centre-Back,1992-08-16,26,Israel,FK Orenburg,Premier Liga,2019/2020,2019
+Ivan Lapshov,Centre-Back,1999-05-01,20,Russia,FK Orenburg,Premier Liga,2019/2020,2019
+Daniil Krivoruchko,Centre-Back,1998-03-24,21,Russia,FK Orenburg,Premier Liga,2019/2020,2019
+Danil Khoroshkov,Centre-Back,2001-12-24,17,Russia,FK Orenburg,Premier Liga,2019/2020,2019
+Sergey Terekhov,Left-Back,1990-06-27,29,Russia,FK Orenburg,Premier Liga,2019/2020,2019
+Andrey Malykh,Right-Back,1988-08-24,30,Russia,FK Orenburg,Premier Liga,2019/2020,2019
+Georgi Zotov,Right-Back,1990-01-12,29,Russia,FK Orenburg,Premier Liga,2019/2020,2019
+Islambek Kuat,Defensive Midfield,1993-01-12,26,Kazakhstan,FK Orenburg,Premier Liga,2019/2020,2019
+Filip Rogic,Defensive Midfield,1993-06-14,26,Sweden,FK Orenburg,Premier Liga,2019/2020,2019
+Timur Ayupov,Defensive Midfield,1993-07-26,25,Russia,FK Orenburg,Premier Liga,2019/2020,2019
+Vadim Afonin,Defensive Midfield,1987-09-29,31,Uzbekistan,FK Orenburg,Premier Liga,2019/2020,2019
+Vladimir Moskvichev,Defensive Midfield,2000-03-02,19,Russia,FK Orenburg,Premier Liga,2019/2020,2019
+Kirill Kaplenko,Defensive Midfield,1999-06-15,20,Russia,FK Orenburg,Premier Liga,2019/2020,2019
+Evgeniy Bolotov,Defensive Midfield,2001-06-04,18,Russia,FK Orenburg,Premier Liga,2019/2020,2019
+Danijel Miskic,Central Midfield,1993-10-11,25,Croatia,FK Orenburg,Premier Liga,2019/2020,2019
+Nikita Malyarov,Central Midfield,1989-10-23,29,Russia,FK Orenburg,Premier Liga,2019/2020,2019
+David Bidlovskiy,Central Midfield,1999-01-22,20,Russia,FK Orenburg,Premier Liga,2019/2020,2019
+Artem Privalov,Central Midfield,2001-02-19,18,Russia,FK Orenburg,Premier Liga,2019/2020,2019
+Danil Lipovoy,Left Midfield,1999-09-22,19,Russia,FK Orenburg,Premier Liga,2019/2020,2019
+Ricardo Alves,Attacking Midfield,1993-03-25,26,Portugal,FK Orenburg,Premier Liga,2019/2020,2019
+Fedor Chernykh,Right Winger,1991-05-21,28,Lithuania,FK Orenburg,Premier Liga,2019/2020,2019
+Artem Kulishev,Right Winger,1993-08-26,25,Russia,FK Orenburg,Premier Liga,2019/2020,2019
+Andrea Chukanov,Right Winger,1995-12-18,23,Russia,FK Orenburg,Premier Liga,2019/2020,2019
+Ziga Skoflek,Right Winger,1994-07-22,24,Slovenia,FK Orenburg,Premier Liga,2019/2020,2019
+Rim Egofarov,Right Winger,2003-06-27,16,Russia,FK Orenburg,Premier Liga,2019/2020,2019
+Djordje Despotovic,Centre-Forward,1992-03-04,27,Serbia,FK Orenburg,Premier Liga,2019/2020,2019
+Mamadou Sylla,Centre-Forward,1994-03-20,25,Senegal,FK Orenburg,Premier Liga,2019/2020,2019
+Joel Fameyeh,Centre-Forward,1997-05-14,22,Ghana,FK Orenburg,Premier Liga,2019/2020,2019
+Artem Galadzhan,Centre-Forward,1998-05-22,21,Russia,FK Orenburg,Premier Liga,2019/2020,2019
+Giorgi Shelia,Goalkeeper,1988-12-11,30,Russia,PFK Tambov,Premier Liga,2019/2020,2019
+Nikita Chagrov,Goalkeeper,1995-04-24,24,Russia,PFK Tambov,Premier Liga,2019/2020,2019
+Vitali Sychev,Goalkeeper,2000-03-02,19,Russia,PFK Tambov,Premier Liga,2019/2020,2019
+Vladimir Sugrobov,Goalkeeper,1996-09-10,22,Russia,PFK Tambov,Premier Liga,2019/2020,2019
+Aleksey Gritsaenko,Centre-Back,1995-05-25,24,Russia,PFK Tambov,Premier Liga,2019/2020,2019
+Aleksandr Filin,Centre-Back,1996-06-25,23,Russia,PFK Tambov,Premier Liga,2019/2020,2019
+Igor Yurganov,Centre-Back,1993-12-10,25,Russia,PFK Tambov,Premier Liga,2019/2020,2019
+Maksim Osipenko,Centre-Back,1994-05-16,25,Russia,PFK Tambov,Premier Liga,2019/2020,2019
+Soslan Takazov,Centre-Back,1993-02-28,26,Russia,PFK Tambov,Premier Liga,2019/2020,2019
+Cédric Gogoua,Centre-Back,1994-07-10,24,Cote d'Ivoire,PFK Tambov,Premier Liga,2019/2020,2019
+Igor Dvoryashin,Centre-Back,2000-09-11,18,Russia,PFK Tambov,Premier Liga,2019/2020,2019
+Adessoye Oyewole,Centre-Back,1982-09-18,36,Russia,PFK Tambov,Premier Liga,2019/2020,2019
+Oleksandr Kapliyenko,Left-Back,1996-03-07,23,Ukraine,PFK Tambov,Premier Liga,2019/2020,2019
+Aleksey Rybin,Right-Back,1988-01-26,31,Russia,PFK Tambov,Premier Liga,2019/2020,2019
+Evgeniy Shlyakov,Right-Back,1991-08-30,27,Russia,PFK Tambov,Premier Liga,2019/2020,2019
+Pavel Karasev,Defensive Midfield,1992-07-10,26,Russia,PFK Tambov,Premier Liga,2019/2020,2019
+Khetag Khosonov,Defensive Midfield,1998-06-18,21,Russia,PFK Tambov,Premier Liga,2019/2020,2019
+Guram Tetrashvili,Defensive Midfield,1988-08-02,30,Russia,PFK Tambov,Premier Liga,2019/2020,2019
+Valeri Chuperka,Central Midfield,1992-06-12,27,Russia,PFK Tambov,Premier Liga,2019/2020,2019
+Nikita Salamatov,Central Midfield,1994-02-23,25,Russia,PFK Tambov,Premier Liga,2019/2020,2019
+Sulley Muniru,Central Midfield,1992-10-25,26,Ghana,PFK Tambov,Premier Liga,2019/2020,2019
+Vladimir Kabakhidze,Central Midfield,1999-09-09,19,Russia,PFK Tambov,Premier Liga,2019/2020,2019
+Vladislav Kulik,Central Midfield,1985-02-27,34,Russia,PFK Tambov,Premier Liga,2019/2020,2019
+Danil Klenkin,Attacking Midfield,1990-07-14,28,Russia,PFK Tambov,Premier Liga,2019/2020,2019
+Usman Mohammed,Attacking Midfield,1994-03-02,25,Nigeria,PFK Tambov,Premier Liga,2019/2020,2019
+Ishkhan Geloyan,Left Winger,1992-08-31,26,Russia,PFK Tambov,Premier Liga,2019/2020,2019
+Ivan Markelov,Left Winger,1988-04-17,31,Russia,PFK Tambov,Premier Liga,2019/2020,2019
+Benito,Left Winger,1998-09-07,20,Nigeria,PFK Tambov,Premier Liga,2019/2020,2019
+Miguel Cardoso,Right Winger,1994-06-19,25,Portugal,PFK Tambov,Premier Liga,2019/2020,2019
+Mikhail Kostyukov,Right Winger,1991-08-09,27,Russia,PFK Tambov,Premier Liga,2019/2020,2019
+Anton Kilin,Right Winger,1990-11-14,28,Russia,PFK Tambov,Premier Liga,2019/2020,2019
+Oleg Chernyshov,Right Winger,1986-12-23,32,Russia,PFK Tambov,Premier Liga,2019/2020,2019
+Evgeniy Ragulkin,Right Winger,1999-11-25,19,Russia,PFK Tambov,Premier Liga,2019/2020,2019
+Georgi Melkadze,Second Striker,1997-04-04,22,Russia,PFK Tambov,Premier Liga,2019/2020,2019
+Vladimir Obukhov,Centre-Forward,1992-02-08,27,Russia,PFK Tambov,Premier Liga,2019/2020,2019
+Khyzyr Appaev,Centre-Forward,1990-01-27,29,Russia,PFK Tambov,Premier Liga,2019/2020,2019
+Amur Kalmykov,Centre-Forward,1994-05-29,25,Russia,PFK Tambov,Premier Liga,2019/2020,2019
+Artem Fedchuk,Centre-Forward,1994-12-20,24,Russia,PFK Tambov,Premier Liga,2019/2020,2019
+Andrey Chasovskikh,Centre-Forward,1991-05-31,28,Russia,PFK Tambov,Premier Liga,2019/2020,2019
+Dmitri Merenchukov,Centre-Forward,1999-03-03,20,Russia,PFK Tambov,Premier Liga,2019/2020,2019
+Mohamed Konaté,Centre-Forward,1997-12-12,21,Burkina Faso,PFK Tambov,Premier Liga,2019/2020,2019
+Khasan Mamtov,Centre-Forward,1984-04-28,35,Russia,PFK Tambov,Premier Liga,2019/2020,2019

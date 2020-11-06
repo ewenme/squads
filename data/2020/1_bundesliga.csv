@@ -1,0 +1,524 @@
+player_name,position,date_of_birth,age,nationality,club_name,league_name,season,year
+Manuel Neuer,Goalkeeper,1986-03-27,34,Germany,Bayern Munich,Bundesliga,2020/2021,2020
+Alexander Nübel,Goalkeeper,1996-09-30,24,Germany,Bayern Munich,Bundesliga,2020/2021,2020
+Ron-Thorben Hoffmann,Goalkeeper,1999-04-04,21,Germany,Bayern Munich,Bundesliga,2020/2021,2020
+David Alaba,Centre-Back,1992-06-24,28,Austria,Bayern Munich,Bundesliga,2020/2021,2020
+Niklas Süle,Centre-Back,1995-09-03,25,Germany,Bayern Munich,Bundesliga,2020/2021,2020
+Jérôme Boateng,Centre-Back,1988-09-03,32,Germany,Bayern Munich,Bundesliga,2020/2021,2020
+Tanguy Nianzou,Centre-Back,2002-06-07,18,France,Bayern Munich,Bundesliga,2020/2021,2020
+Chris Richards,Centre-Back,2000-03-28,20,United States,Bayern Munich,Bundesliga,2020/2021,2020
+Alphonso Davies,Left-Back,2000-11-02,20,Canada,Bayern Munich,Bundesliga,2020/2021,2020
+Lucas Hernández,Left-Back,1996-02-14,24,France,Bayern Munich,Bundesliga,2020/2021,2020
+Benjamin Pavard,Right-Back,1996-03-28,24,France,Bayern Munich,Bundesliga,2020/2021,2020
+Bouna Sarr,Right-Back,1992-01-31,28,France,Bayern Munich,Bundesliga,2020/2021,2020
+Joshua Kimmich,Defensive Midfield,1995-02-08,25,Germany,Bayern Munich,Bundesliga,2020/2021,2020
+Marc Roca,Defensive Midfield,1996-11-26,23,Spain,Bayern Munich,Bundesliga,2020/2021,2020
+Javi Martínez,Defensive Midfield,1988-09-02,32,Spain,Bayern Munich,Bundesliga,2020/2021,2020
+Angelo Stiller,Defensive Midfield,2001-04-04,19,Germany,Bayern Munich,Bundesliga,2020/2021,2020
+Leon Goretzka,Central Midfield,1995-02-06,25,Germany,Bayern Munich,Bundesliga,2020/2021,2020
+Corentin Tolisso,Central Midfield,1994-08-03,26,France,Bayern Munich,Bundesliga,2020/2021,2020
+Tiago Dantas,Central Midfield,2000-12-24,19,Portugal,Bayern Munich,Bundesliga,2020/2021,2020
+Jamal Musiala,Attacking Midfield,2003-02-26,17,England,Bayern Munich,Bundesliga,2020/2021,2020
+Daniels Ontuzans,Attacking Midfield,2000-03-07,20,Latvia,Bayern Munich,Bundesliga,2020/2021,2020
+Leroy Sané,Left Winger,1996-01-11,24,Germany,Bayern Munich,Bundesliga,2020/2021,2020
+Kingsley Coman,Left Winger,1996-06-13,24,France,Bayern Munich,Bundesliga,2020/2021,2020
+Serge Gnabry,Right Winger,1995-07-14,25,Germany,Bayern Munich,Bundesliga,2020/2021,2020
+Douglas Costa,Right Winger,1990-09-14,30,Brazil,Bayern Munich,Bundesliga,2020/2021,2020
+Leon Dajaku,Right Winger,2001-04-12,19,Germany,Bayern Munich,Bundesliga,2020/2021,2020
+Thomas Müller,Second Striker,1989-09-13,31,Germany,Bayern Munich,Bundesliga,2020/2021,2020
+Armindo Sieb,Second Striker,2003-02-17,17,Germany,Bayern Munich,Bundesliga,2020/2021,2020
+Robert Lewandowski,Centre-Forward,1988-08-21,32,Poland,Bayern Munich,Bundesliga,2020/2021,2020
+Joshua Zirkzee,Centre-Forward,2001-05-22,19,Netherlands,Bayern Munich,Bundesliga,2020/2021,2020
+Eric Maxim Choupo-Moting,Centre-Forward,1989-03-23,31,Cameroon,Bayern Munich,Bundesliga,2020/2021,2020
+Fiete Arp,Centre-Forward,2000-01-06,20,Germany,Bayern Munich,Bundesliga,2020/2021,2020
+Roman Bürki,Goalkeeper,1990-11-14,29,Switzerland,Borussia Dortmund,Bundesliga,2020/2021,2020
+Marwin Hitz,Goalkeeper,1987-09-18,33,Switzerland,Borussia Dortmund,Bundesliga,2020/2021,2020
+Luca Unbehaun,Goalkeeper,2001-02-27,19,Germany,Borussia Dortmund,Bundesliga,2020/2021,2020
+Dan-Axel Zagadou,Centre-Back,1999-06-03,21,France,Borussia Dortmund,Bundesliga,2020/2021,2020
+Mats Hummels,Centre-Back,1988-12-16,31,Germany,Borussia Dortmund,Bundesliga,2020/2021,2020
+Manuel Akanji,Centre-Back,1995-07-19,25,Switzerland,Borussia Dortmund,Bundesliga,2020/2021,2020
+Nico Schulz,Left-Back,1993-04-01,27,Germany,Borussia Dortmund,Bundesliga,2020/2021,2020
+Marcel Schmelzer,Left-Back,1988-01-22,32,Germany,Borussia Dortmund,Bundesliga,2020/2021,2020
+Thomas Meunier,Right-Back,1991-09-12,29,Belgium,Borussia Dortmund,Bundesliga,2020/2021,2020
+Mateu Morey,Right-Back,2000-03-02,20,Spain,Borussia Dortmund,Bundesliga,2020/2021,2020
+Lukasz Piszczek,Right-Back,1985-06-03,35,Poland,Borussia Dortmund,Bundesliga,2020/2021,2020
+Felix Passlack,Right-Back,1998-05-29,22,Germany,Borussia Dortmund,Bundesliga,2020/2021,2020
+Emre Can,Defensive Midfield,1994-01-12,26,Germany,Borussia Dortmund,Bundesliga,2020/2021,2020
+Axel Witsel,Defensive Midfield,1989-01-12,31,Belgium,Borussia Dortmund,Bundesliga,2020/2021,2020
+Tobias Raschl,Defensive Midfield,2000-02-21,20,Germany,Borussia Dortmund,Bundesliga,2020/2021,2020
+Julian Brandt,Central Midfield,1996-05-02,24,Germany,Borussia Dortmund,Bundesliga,2020/2021,2020
+Jude Bellingham,Central Midfield,2003-06-29,17,England,Borussia Dortmund,Bundesliga,2020/2021,2020
+Thomas Delaney,Central Midfield,1991-09-03,29,Denmark,Borussia Dortmund,Bundesliga,2020/2021,2020
+Mahmoud Dahoud,Central Midfield,1996-01-01,24,Germany,Borussia Dortmund,Bundesliga,2020/2021,2020
+Raphaël Guerreiro,Left Midfield,1993-12-22,26,Portugal,Borussia Dortmund,Bundesliga,2020/2021,2020
+Marco Reus,Attacking Midfield,1989-05-31,31,Germany,Borussia Dortmund,Bundesliga,2020/2021,2020
+Reinier,Attacking Midfield,2002-01-19,18,Brazil,Borussia Dortmund,Bundesliga,2020/2021,2020
+Giovanni Reyna,Attacking Midfield,2002-11-13,17,United States,Borussia Dortmund,Bundesliga,2020/2021,2020
+Thorgan Hazard,Left Winger,1993-03-29,27,Belgium,Borussia Dortmund,Bundesliga,2020/2021,2020
+Jadon Sancho,Right Winger,2000-03-25,20,England,Borussia Dortmund,Bundesliga,2020/2021,2020
+Erling Haaland,Centre-Forward,2000-07-21,20,Norway,Borussia Dortmund,Bundesliga,2020/2021,2020
+Youssoufa Moukoko,Centre-Forward,2004-11-20,15,Germany,Borussia Dortmund,Bundesliga,2020/2021,2020
+Péter Gulácsi,Goalkeeper,1990-05-06,30,Hungary,RB Leipzig,Bundesliga,2020/2021,2020
+Josep Martínez,Goalkeeper,1998-05-27,22,Spain,RB Leipzig,Bundesliga,2020/2021,2020
+Philipp Tschauner,Goalkeeper,1985-11-03,35,Germany,RB Leipzig,Bundesliga,2020/2021,2020
+Tim Schreiber,Goalkeeper,2002-04-24,18,Germany,RB Leipzig,Bundesliga,2020/2021,2020
+Dayot Upamecano,Centre-Back,1998-10-27,22,France,RB Leipzig,Bundesliga,2020/2021,2020
+Ibrahima Konaté,Centre-Back,1999-05-25,21,France,RB Leipzig,Bundesliga,2020/2021,2020
+Lukas Klostermann,Centre-Back,1996-06-03,24,Germany,RB Leipzig,Bundesliga,2020/2021,2020
+Willi Orban,Centre-Back,1992-11-03,28,Hungary,RB Leipzig,Bundesliga,2020/2021,2020
+Angeliño,Left-Back,1997-01-04,23,Spain,RB Leipzig,Bundesliga,2020/2021,2020
+Marcel Halstenberg,Left-Back,1991-09-27,29,Germany,RB Leipzig,Bundesliga,2020/2021,2020
+Nordi Mukiele,Right-Back,1997-11-01,23,France,RB Leipzig,Bundesliga,2020/2021,2020
+Benjamin Henrichs,Right-Back,1997-02-23,23,Germany,RB Leipzig,Bundesliga,2020/2021,2020
+Tyler Adams,Defensive Midfield,1999-02-14,21,United States,RB Leipzig,Bundesliga,2020/2021,2020
+Konrad Laimer,Central Midfield,1997-05-27,23,Austria,RB Leipzig,Bundesliga,2020/2021,2020
+Amadou Haidara,Central Midfield,1998-01-31,22,Mali,RB Leipzig,Bundesliga,2020/2021,2020
+Kevin Kampl,Central Midfield,1990-10-09,30,Slovenia,RB Leipzig,Bundesliga,2020/2021,2020
+Christopher Nkunku,Attacking Midfield,1997-11-14,22,France,RB Leipzig,Bundesliga,2020/2021,2020
+Dani Olmo,Attacking Midfield,1998-05-07,22,Spain,RB Leipzig,Bundesliga,2020/2021,2020
+Lazar Samardzic,Attacking Midfield,2002-02-24,18,Germany,RB Leipzig,Bundesliga,2020/2021,2020
+Joscha Wosz,Attacking Midfield,2002-07-20,18,Germany,RB Leipzig,Bundesliga,2020/2021,2020
+Justin Kluivert,Left Winger,1999-05-05,21,Netherlands,RB Leipzig,Bundesliga,2020/2021,2020
+Emil Forsberg,Left Winger,1991-10-23,29,Sweden,RB Leipzig,Bundesliga,2020/2021,2020
+Marcel Sabitzer,Right Winger,1994-03-17,26,Austria,RB Leipzig,Bundesliga,2020/2021,2020
+Fabrice Hartmann,Right Winger,2001-03-02,19,Germany,RB Leipzig,Bundesliga,2020/2021,2020
+Yussuf Poulsen,Centre-Forward,1994-06-15,26,Denmark,RB Leipzig,Bundesliga,2020/2021,2020
+Alexander Sörloth,Centre-Forward,1995-12-05,24,Norway,RB Leipzig,Bundesliga,2020/2021,2020
+Hee-chan Hwang,Centre-Forward,1996-01-26,24,"Korea, South",RB Leipzig,Bundesliga,2020/2021,2020
+Dennis Borkowski,Centre-Forward,2002-01-26,18,Germany,RB Leipzig,Bundesliga,2020/2021,2020
+Hugo Novoa,Centre-Forward,2003-01-24,17,Spain,RB Leipzig,Bundesliga,2020/2021,2020
+Lukas Hradecky,Goalkeeper,1989-11-24,30,Finland,Bayer 04 Leverkusen,Bundesliga,2020/2021,2020
+Lennart Grill,Goalkeeper,1999-01-25,21,Germany,Bayer 04 Leverkusen,Bundesliga,2020/2021,2020
+Niklas Lomb,Goalkeeper,1993-07-28,27,Germany,Bayer 04 Leverkusen,Bundesliga,2020/2021,2020
+Jonathan Tah,Centre-Back,1996-02-11,24,Germany,Bayer 04 Leverkusen,Bundesliga,2020/2021,2020
+Edmond Tapsoba,Centre-Back,1999-02-02,21,Burkina Faso,Bayer 04 Leverkusen,Bundesliga,2020/2021,2020
+Sven Bender,Centre-Back,1989-04-27,31,Germany,Bayer 04 Leverkusen,Bundesliga,2020/2021,2020
+Tin Jedvaj,Centre-Back,1995-11-28,24,Croatia,Bayer 04 Leverkusen,Bundesliga,2020/2021,2020
+Aleksandar Dragovic,Centre-Back,1991-03-06,29,Austria,Bayer 04 Leverkusen,Bundesliga,2020/2021,2020
+Wendell,Left-Back,1993-07-20,27,Brazil,Bayer 04 Leverkusen,Bundesliga,2020/2021,2020
+Daley Sinkgraven,Left-Back,1995-07-04,25,Netherlands,Bayer 04 Leverkusen,Bundesliga,2020/2021,2020
+Santiago Arias,Right-Back,1992-01-13,28,Colombia,Bayer 04 Leverkusen,Bundesliga,2020/2021,2020
+Lars Bender,Right-Back,1989-04-27,31,Germany,Bayer 04 Leverkusen,Bundesliga,2020/2021,2020
+Mitchell Weiser,Right-Back,1994-04-21,26,Germany,Bayer 04 Leverkusen,Bundesliga,2020/2021,2020
+Julian Baumgartlinger,Defensive Midfield,1988-01-02,32,Austria,Bayer 04 Leverkusen,Bundesliga,2020/2021,2020
+Kerem Demirbay,Central Midfield,1993-07-03,27,Germany,Bayer 04 Leverkusen,Bundesliga,2020/2021,2020
+Exequiel Palacios,Central Midfield,1998-10-05,22,Argentina,Bayer 04 Leverkusen,Bundesliga,2020/2021,2020
+Charles Aránguiz,Central Midfield,1989-04-17,31,Chile,Bayer 04 Leverkusen,Bundesliga,2020/2021,2020
+Cem Türkmen,Central Midfield,2002-03-29,18,Turkey,Bayer 04 Leverkusen,Bundesliga,2020/2021,2020
+Nadiem Amiri,Attacking Midfield,1996-10-27,24,Germany,Bayer 04 Leverkusen,Bundesliga,2020/2021,2020
+Florian Wirtz,Attacking Midfield,2003-05-03,17,Germany,Bayer 04 Leverkusen,Bundesliga,2020/2021,2020
+Moussa Diaby,Left Winger,1999-07-07,21,France,Bayer 04 Leverkusen,Bundesliga,2020/2021,2020
+Leon Bailey,Left Winger,1997-08-09,23,Jamaica,Bayer 04 Leverkusen,Bundesliga,2020/2021,2020
+Paulinho,Left Winger,2000-07-15,20,Brazil,Bayer 04 Leverkusen,Bundesliga,2020/2021,2020
+Karim Bellarabi,Right Winger,1990-04-08,30,Germany,Bayer 04 Leverkusen,Bundesliga,2020/2021,2020
+Patrik Schick,Centre-Forward,1996-01-24,24,Czech Republic,Bayer 04 Leverkusen,Bundesliga,2020/2021,2020
+Lucas Alario,Centre-Forward,1992-10-08,28,Argentina,Bayer 04 Leverkusen,Bundesliga,2020/2021,2020
+Yann Sommer,Goalkeeper,1988-12-17,31,Switzerland,Borussia Mönchengladbach,Bundesliga,2020/2021,2020
+Tobias Sippel,Goalkeeper,1988-03-22,32,Germany,Borussia Mönchengladbach,Bundesliga,2020/2021,2020
+Max Grün,Goalkeeper,1987-04-05,33,Germany,Borussia Mönchengladbach,Bundesliga,2020/2021,2020
+Jan Olschowsky,Goalkeeper,2001-11-18,18,Germany,Borussia Mönchengladbach,Bundesliga,2020/2021,2020
+Matthias Ginter,Centre-Back,1994-01-19,26,Germany,Borussia Mönchengladbach,Bundesliga,2020/2021,2020
+Nico Elvedi,Centre-Back,1996-09-30,24,Switzerland,Borussia Mönchengladbach,Bundesliga,2020/2021,2020
+Tony Jantschke,Centre-Back,1990-04-07,30,Germany,Borussia Mönchengladbach,Bundesliga,2020/2021,2020
+Mamadou Doucouré,Centre-Back,1998-05-21,22,France,Borussia Mönchengladbach,Bundesliga,2020/2021,2020
+Ramy Bensebaini,Left-Back,1995-04-16,25,Algeria,Borussia Mönchengladbach,Bundesliga,2020/2021,2020
+Oscar Wendt,Left-Back,1985-10-24,35,Sweden,Borussia Mönchengladbach,Bundesliga,2020/2021,2020
+Andreas Poulsen,Left-Back,1999-10-13,21,Denmark,Borussia Mönchengladbach,Bundesliga,2020/2021,2020
+Stefan Lainer,Right-Back,1992-08-27,28,Austria,Borussia Mönchengladbach,Bundesliga,2020/2021,2020
+Jordan Beyer,Right-Back,2000-05-19,20,Germany,Borussia Mönchengladbach,Bundesliga,2020/2021,2020
+Michael Lang,Right-Back,1991-02-08,29,Switzerland,Borussia Mönchengladbach,Bundesliga,2020/2021,2020
+Kaan Kurt,Right-Back,2001-12-21,18,Germany,Borussia Mönchengladbach,Bundesliga,2020/2021,2020
+Denis Zakaria,Defensive Midfield,1996-11-20,23,Switzerland,Borussia Mönchengladbach,Bundesliga,2020/2021,2020
+Christoph Kramer,Defensive Midfield,1991-02-19,29,Germany,Borussia Mönchengladbach,Bundesliga,2020/2021,2020
+Florian Neuhaus,Central Midfield,1997-03-16,23,Germany,Borussia Mönchengladbach,Bundesliga,2020/2021,2020
+Jonas Hofmann,Central Midfield,1992-07-14,28,Germany,Borussia Mönchengladbach,Bundesliga,2020/2021,2020
+Lászlo Bénes,Central Midfield,1997-09-09,23,Slovakia,Borussia Mönchengladbach,Bundesliga,2020/2021,2020
+Rocco Reitz,Central Midfield,2002-05-29,18,Germany,Borussia Mönchengladbach,Bundesliga,2020/2021,2020
+Valentino Lazaro,Right Midfield,1996-03-24,24,Austria,Borussia Mönchengladbach,Bundesliga,2020/2021,2020
+Hannes Wolf,Attacking Midfield,1999-04-16,21,Austria,Borussia Mönchengladbach,Bundesliga,2020/2021,2020
+Torben Müsel,Attacking Midfield,1999-07-25,21,Germany,Borussia Mönchengladbach,Bundesliga,2020/2021,2020
+Famana Quizera,Attacking Midfield,2002-04-25,18,Portugal,Borussia Mönchengladbach,Bundesliga,2020/2021,2020
+Marcus Thuram,Left Winger,1997-08-06,23,France,Borussia Mönchengladbach,Bundesliga,2020/2021,2020
+Patrick Herrmann,Right Winger,1991-02-12,29,Germany,Borussia Mönchengladbach,Bundesliga,2020/2021,2020
+Ibrahima Traoré,Right Winger,1988-04-21,32,Guinea,Borussia Mönchengladbach,Bundesliga,2020/2021,2020
+Lars Stindl,Second Striker,1988-08-26,32,Germany,Borussia Mönchengladbach,Bundesliga,2020/2021,2020
+Alassane Plea,Centre-Forward,1993-03-10,27,France,Borussia Mönchengladbach,Bundesliga,2020/2021,2020
+Breel Embolo,Centre-Forward,1997-02-14,23,Switzerland,Borussia Mönchengladbach,Bundesliga,2020/2021,2020
+Julio Villalba,Centre-Forward,1998-09-17,22,Paraguay,Borussia Mönchengladbach,Bundesliga,2020/2021,2020
+Alexander Schwolow,Goalkeeper,1992-06-02,28,Germany,Hertha BSC,Bundesliga,2020/2021,2020
+Rune Jarstein,Goalkeeper,1984-09-29,36,Norway,Hertha BSC,Bundesliga,2020/2021,2020
+Nils Körber,Goalkeeper,1996-11-13,23,Germany,Hertha BSC,Bundesliga,2020/2021,2020
+Jordan Torunarigha,Centre-Back,1997-08-07,23,Germany,Hertha BSC,Bundesliga,2020/2021,2020
+Niklas Stark,Centre-Back,1995-04-14,25,Germany,Hertha BSC,Bundesliga,2020/2021,2020
+Dedryck Boyata,Centre-Back,1990-11-28,29,Belgium,Hertha BSC,Bundesliga,2020/2021,2020
+Omar Alderete,Centre-Back,1996-12-26,23,Paraguay,Hertha BSC,Bundesliga,2020/2021,2020
+Márton Dárdai,Centre-Back,2002-02-12,18,Germany,Hertha BSC,Bundesliga,2020/2021,2020
+Maximilian Mittelstädt,Left-Back,1997-03-18,23,Germany,Hertha BSC,Bundesliga,2020/2021,2020
+Marvin Plattenhardt,Left-Back,1992-01-26,28,Germany,Hertha BSC,Bundesliga,2020/2021,2020
+Luca Netz,Left-Back,2003-05-15,17,Germany,Hertha BSC,Bundesliga,2020/2021,2020
+Deyovaisio Zeefuik,Right-Back,1998-03-11,22,Netherlands,Hertha BSC,Bundesliga,2020/2021,2020
+Lukas Klünter,Right-Back,1996-05-26,24,Germany,Hertha BSC,Bundesliga,2020/2021,2020
+Peter Pekarik,Right-Back,1986-10-30,34,Slovakia,Hertha BSC,Bundesliga,2020/2021,2020
+Lucas Tousart,Defensive Midfield,1997-04-29,23,France,Hertha BSC,Bundesliga,2020/2021,2020
+Santiago Ascacíbar,Defensive Midfield,1997-02-25,23,Argentina,Hertha BSC,Bundesliga,2020/2021,2020
+Mattéo Guendouzi,Central Midfield,1999-04-14,21,France,Hertha BSC,Bundesliga,2020/2021,2020
+Vladimir Darida,Central Midfield,1990-08-08,30,Czech Republic,Hertha BSC,Bundesliga,2020/2021,2020
+Eduard Löwen,Central Midfield,1997-01-28,23,Germany,Hertha BSC,Bundesliga,2020/2021,2020
+Javairô Dilrosun,Left Winger,1998-06-22,22,Netherlands,Hertha BSC,Bundesliga,2020/2021,2020
+Dodi Lukebakio,Right Winger,1997-09-24,23,Belgium,Hertha BSC,Bundesliga,2020/2021,2020
+Mathew Leckie,Right Winger,1991-02-04,29,Australia,Hertha BSC,Bundesliga,2020/2021,2020
+Matheus Cunha,Second Striker,1999-05-27,21,Brazil,Hertha BSC,Bundesliga,2020/2021,2020
+Krzysztof Piatek,Centre-Forward,1995-07-01,25,Poland,Hertha BSC,Bundesliga,2020/2021,2020
+Jhon Córdoba,Centre-Forward,1993-05-11,27,Colombia,Hertha BSC,Bundesliga,2020/2021,2020
+Daishawn Redan,Centre-Forward,2001-02-02,19,Netherlands,Hertha BSC,Bundesliga,2020/2021,2020
+Jessic Ngankam,Centre-Forward,2000-07-20,20,Germany,Hertha BSC,Bundesliga,2020/2021,2020
+Oliver Baumann,Goalkeeper,1990-06-02,30,Germany,TSG 1899 Hoffenheim,Bundesliga,2020/2021,2020
+Philipp Pentke,Goalkeeper,1985-05-01,35,Germany,TSG 1899 Hoffenheim,Bundesliga,2020/2021,2020
+Luca Philipp,Goalkeeper,2000-11-28,19,Germany,TSG 1899 Hoffenheim,Bundesliga,2020/2021,2020
+Stefan Posch,Centre-Back,1997-05-14,23,Austria,TSG 1899 Hoffenheim,Bundesliga,2020/2021,2020
+Kevin Vogt,Centre-Back,1991-09-23,29,Germany,TSG 1899 Hoffenheim,Bundesliga,2020/2021,2020
+Kevin Akpoguma,Centre-Back,1995-04-19,25,Nigeria,TSG 1899 Hoffenheim,Bundesliga,2020/2021,2020
+Benjamin Hübner,Centre-Back,1989-07-04,31,Germany,TSG 1899 Hoffenheim,Bundesliga,2020/2021,2020
+Kasim Adams,Centre-Back,1995-06-22,25,Ghana,TSG 1899 Hoffenheim,Bundesliga,2020/2021,2020
+Ermin Bicakcic,Centre-Back,1990-01-24,30,Bosnia-Herzegovina,TSG 1899 Hoffenheim,Bundesliga,2020/2021,2020
+Havard Nordtveit,Centre-Back,1990-06-21,30,Norway,TSG 1899 Hoffenheim,Bundesliga,2020/2021,2020
+Melayro Bogarde,Centre-Back,2002-05-28,18,Netherlands,TSG 1899 Hoffenheim,Bundesliga,2020/2021,2020
+Ryan Sessegnon,Left-Back,2000-05-18,20,England,TSG 1899 Hoffenheim,Bundesliga,2020/2021,2020
+Konstantinos Stafylidis,Left-Back,1993-12-02,26,Greece,TSG 1899 Hoffenheim,Bundesliga,2020/2021,2020
+Pavel Kaderabek,Right-Back,1992-04-25,28,Czech Republic,TSG 1899 Hoffenheim,Bundesliga,2020/2021,2020
+Joshua Brenet,Right-Back,1994-03-20,26,Netherlands,TSG 1899 Hoffenheim,Bundesliga,2020/2021,2020
+Florian Grillitsch,Defensive Midfield,1995-08-07,25,Austria,TSG 1899 Hoffenheim,Bundesliga,2020/2021,2020
+Diadié Samassékou,Defensive Midfield,1996-01-11,24,Mali,TSG 1899 Hoffenheim,Bundesliga,2020/2021,2020
+Sebastian Rudy,Defensive Midfield,1990-02-28,30,Germany,TSG 1899 Hoffenheim,Bundesliga,2020/2021,2020
+Dennis Geiger,Central Midfield,1998-06-10,22,Germany,TSG 1899 Hoffenheim,Bundesliga,2020/2021,2020
+Christoph Baumgartner,Attacking Midfield,1999-08-01,21,Austria,TSG 1899 Hoffenheim,Bundesliga,2020/2021,2020
+Mijat Gacinovic,Attacking Midfield,1995-02-08,25,Serbia,TSG 1899 Hoffenheim,Bundesliga,2020/2021,2020
+Jacob Bruun Larsen,Left Winger,1998-09-19,22,Denmark,TSG 1899 Hoffenheim,Bundesliga,2020/2021,2020
+Sargis Adamyan,Left Winger,1993-05-23,27,Armenia,TSG 1899 Hoffenheim,Bundesliga,2020/2021,2020
+Robert Skov,Right Winger,1996-05-20,24,Denmark,TSG 1899 Hoffenheim,Bundesliga,2020/2021,2020
+Ihlas Bebou,Right Winger,1994-04-23,26,Togo,TSG 1899 Hoffenheim,Bundesliga,2020/2021,2020
+Andrej Kramaric,Centre-Forward,1991-06-19,29,Croatia,TSG 1899 Hoffenheim,Bundesliga,2020/2021,2020
+Munas Dabbur,Centre-Forward,1992-05-14,28,Israel,TSG 1899 Hoffenheim,Bundesliga,2020/2021,2020
+Ishak Belfodil,Centre-Forward,1992-01-12,28,Algeria,TSG 1899 Hoffenheim,Bundesliga,2020/2021,2020
+Klauss,Centre-Forward,1997-03-01,23,Brazil,TSG 1899 Hoffenheim,Bundesliga,2020/2021,2020
+Maximilian Beier,Centre-Forward,2002-10-17,18,Germany,TSG 1899 Hoffenheim,Bundesliga,2020/2021,2020
+Koen Casteels,Goalkeeper,1992-06-25,28,Belgium,VfL Wolfsburg,Bundesliga,2020/2021,2020
+Pavao Pervan,Goalkeeper,1987-11-13,32,Austria,VfL Wolfsburg,Bundesliga,2020/2021,2020
+Niklas Klinger,Goalkeeper,1995-10-13,25,Germany,VfL Wolfsburg,Bundesliga,2020/2021,2020
+Lino Kasten,Goalkeeper,2001-01-17,19,Germany,VfL Wolfsburg,Bundesliga,2020/2021,2020
+John Anthony Brooks,Centre-Back,1993-01-28,27,United States,VfL Wolfsburg,Bundesliga,2020/2021,2020
+Marin Pongracic,Centre-Back,1997-09-11,23,Croatia,VfL Wolfsburg,Bundesliga,2020/2021,2020
+Maxence Lacroix,Centre-Back,2000-04-06,20,France,VfL Wolfsburg,Bundesliga,2020/2021,2020
+Jeffrey Bruma,Centre-Back,1991-11-13,28,Netherlands,VfL Wolfsburg,Bundesliga,2020/2021,2020
+Jérôme Roussillon,Left-Back,1993-01-06,27,France,VfL Wolfsburg,Bundesliga,2020/2021,2020
+Paulo Otávio,Left-Back,1994-11-23,25,Brazil,VfL Wolfsburg,Bundesliga,2020/2021,2020
+William,Right-Back,1995-04-03,25,Brazil,VfL Wolfsburg,Bundesliga,2020/2021,2020
+Kevin Mbabu,Right-Back,1995-04-19,25,Switzerland,VfL Wolfsburg,Bundesliga,2020/2021,2020
+Ridle Baku,Right-Back,1998-04-08,22,Germany,VfL Wolfsburg,Bundesliga,2020/2021,2020
+Josuha Guilavogui,Defensive Midfield,1990-09-19,30,France,VfL Wolfsburg,Bundesliga,2020/2021,2020
+Xaver Schlager,Central Midfield,1997-09-28,23,Austria,VfL Wolfsburg,Bundesliga,2020/2021,2020
+Maximilian Arnold,Central Midfield,1994-05-27,26,Germany,VfL Wolfsburg,Bundesliga,2020/2021,2020
+Yannick Gerhardt,Central Midfield,1994-03-13,26,Germany,VfL Wolfsburg,Bundesliga,2020/2021,2020
+Yunus Malli,Attacking Midfield,1992-02-24,28,Turkey,VfL Wolfsburg,Bundesliga,2020/2021,2020
+Josip Brekalo,Left Winger,1998-06-23,22,Croatia,VfL Wolfsburg,Bundesliga,2020/2021,2020
+João Victor,Left Winger,1994-03-27,26,Brazil,VfL Wolfsburg,Bundesliga,2020/2021,2020
+Renato Steffen,Right Winger,1991-11-03,29,Switzerland,VfL Wolfsburg,Bundesliga,2020/2021,2020
+Felix Klaus,Right Winger,1992-09-13,28,Germany,VfL Wolfsburg,Bundesliga,2020/2021,2020
+Maximilian Philipp,Second Striker,1994-03-01,26,Germany,VfL Wolfsburg,Bundesliga,2020/2021,2020
+Admir Mehmedi,Second Striker,1991-03-16,29,Switzerland,VfL Wolfsburg,Bundesliga,2020/2021,2020
+Wout Weghorst,Centre-Forward,1992-08-07,28,Netherlands,VfL Wolfsburg,Bundesliga,2020/2021,2020
+Daniel Ginczek,Centre-Forward,1991-04-13,29,Germany,VfL Wolfsburg,Bundesliga,2020/2021,2020
+Bartosz Bialek,Centre-Forward,2001-11-11,18,Poland,VfL Wolfsburg,Bundesliga,2020/2021,2020
+Omar Marmoush,Centre-Forward,1999-02-07,21,Egypt,VfL Wolfsburg,Bundesliga,2020/2021,2020
+Kevin Trapp,Goalkeeper,1990-07-08,30,Germany,Eintracht Frankfurt,Bundesliga,2020/2021,2020
+Markus Schubert,Goalkeeper,1998-06-12,22,Germany,Eintracht Frankfurt,Bundesliga,2020/2021,2020
+Elias Bördner,Goalkeeper,2002-02-18,18,Germany,Eintracht Frankfurt,Bundesliga,2020/2021,2020
+Evan N'Dicka,Centre-Back,1999-08-20,21,France,Eintracht Frankfurt,Bundesliga,2020/2021,2020
+Martin Hinteregger,Centre-Back,1992-09-07,28,Austria,Eintracht Frankfurt,Bundesliga,2020/2021,2020
+Tuta,Centre-Back,1999-07-04,21,Brazil,Eintracht Frankfurt,Bundesliga,2020/2021,2020
+David Abraham,Centre-Back,1986-07-15,34,Argentina,Eintracht Frankfurt,Bundesliga,2020/2021,2020
+Fynn Otto,Centre-Back,2002-03-08,18,Germany,Eintracht Frankfurt,Bundesliga,2020/2021,2020
+Yannick Brugger,Centre-Back,2001-01-17,19,Germany,Eintracht Frankfurt,Bundesliga,2020/2021,2020
+Felix Irorere,Centre-Back,2002-06-21,18,Germany,Eintracht Frankfurt,Bundesliga,2020/2021,2020
+Jetro Willems,Left-Back,1994-03-30,26,Netherlands,Eintracht Frankfurt,Bundesliga,2020/2021,2020
+Erik Durm,Left-Back,1992-05-12,28,Germany,Eintracht Frankfurt,Bundesliga,2020/2021,2020
+Danny da Costa,Right-Back,1993-07-13,27,Germany,Eintracht Frankfurt,Bundesliga,2020/2021,2020
+Almamy Touré,Right-Back,1996-04-28,24,France,Eintracht Frankfurt,Bundesliga,2020/2021,2020
+Timothy Chandler,Right-Back,1990-03-29,30,United States,Eintracht Frankfurt,Bundesliga,2020/2021,2020
+Stefan Ilsanker,Defensive Midfield,1989-05-18,31,Austria,Eintracht Frankfurt,Bundesliga,2020/2021,2020
+Makoto Hasebe,Defensive Midfield,1984-01-18,36,Japan,Eintracht Frankfurt,Bundesliga,2020/2021,2020
+Lukas Fahrnberger,Defensive Midfield,2001-01-08,19,Austria,Eintracht Frankfurt,Bundesliga,2020/2021,2020
+Djibril Sow,Central Midfield,1997-02-06,23,Switzerland,Eintracht Frankfurt,Bundesliga,2020/2021,2020
+Dominik Kohr,Central Midfield,1994-01-31,26,Germany,Eintracht Frankfurt,Bundesliga,2020/2021,2020
+Sebastian Rode,Central Midfield,1990-10-11,30,Germany,Eintracht Frankfurt,Bundesliga,2020/2021,2020
+Marijan Cavar,Central Midfield,1998-02-02,22,Bosnia-Herzegovina,Eintracht Frankfurt,Bundesliga,2020/2021,2020
+Filip Kostic,Left Midfield,1992-11-01,28,Serbia,Eintracht Frankfurt,Bundesliga,2020/2021,2020
+Steven Zuber,Left Midfield,1991-08-17,29,Switzerland,Eintracht Frankfurt,Bundesliga,2020/2021,2020
+Daichi Kamada,Attacking Midfield,1996-08-05,24,Japan,Eintracht Frankfurt,Bundesliga,2020/2021,2020
+Aymen Barkok,Attacking Midfield,1998-05-21,22,Morocco,Eintracht Frankfurt,Bundesliga,2020/2021,2020
+Ajdin Hrustic,Attacking Midfield,1996-07-05,24,Australia,Eintracht Frankfurt,Bundesliga,2020/2021,2020
+Amin Younes,Left Winger,1993-08-06,27,Germany,Eintracht Frankfurt,Bundesliga,2020/2021,2020
+André Silva,Centre-Forward,1995-11-06,25,Portugal,Eintracht Frankfurt,Bundesliga,2020/2021,2020
+Bas Dost,Centre-Forward,1989-05-31,31,Netherlands,Eintracht Frankfurt,Bundesliga,2020/2021,2020
+Ragnar Ache,Centre-Forward,1998-07-28,22,Germany,Eintracht Frankfurt,Bundesliga,2020/2021,2020
+Jabez Makanda,Centre-Forward,2001-08-08,19,Angola,Eintracht Frankfurt,Bundesliga,2020/2021,2020
+Frederik Rönnow,Goalkeeper,1992-08-04,28,Denmark,FC Schalke 04,Bundesliga,2020/2021,2020
+Ralf Fährmann,Goalkeeper,1988-09-27,32,Germany,FC Schalke 04,Bundesliga,2020/2021,2020
+Michael Langer,Goalkeeper,1985-01-06,35,Austria,FC Schalke 04,Bundesliga,2020/2021,2020
+Ozan Kabak,Centre-Back,2000-03-25,20,Turkey,FC Schalke 04,Bundesliga,2020/2021,2020
+Matija Nastasic,Centre-Back,1993-03-28,27,Serbia,FC Schalke 04,Bundesliga,2020/2021,2020
+Salif Sané,Centre-Back,1990-08-25,30,Senegal,FC Schalke 04,Bundesliga,2020/2021,2020
+Benjamin Stambouli,Centre-Back,1990-08-13,30,France,FC Schalke 04,Bundesliga,2020/2021,2020
+Timo Becker,Centre-Back,1997-03-25,23,Germany,FC Schalke 04,Bundesliga,2020/2021,2020
+Malick Thiaw,Centre-Back,2001-08-08,19,Finland,FC Schalke 04,Bundesliga,2020/2021,2020
+Hamza Mendyl,Left-Back,1997-10-21,23,Morocco,FC Schalke 04,Bundesliga,2020/2021,2020
+Bastian Oczipka,Left-Back,1989-01-12,31,Germany,FC Schalke 04,Bundesliga,2020/2021,2020
+Kilian Ludewig,Right-Back,2000-03-05,20,Germany,FC Schalke 04,Bundesliga,2020/2021,2020
+Omar Mascarell,Defensive Midfield,1993-02-02,27,Spain,FC Schalke 04,Bundesliga,2020/2021,2020
+Suat Serdar,Central Midfield,1997-04-11,23,Germany,FC Schalke 04,Bundesliga,2020/2021,2020
+Nabil Bentaleb,Central Midfield,1994-11-24,25,Algeria,FC Schalke 04,Bundesliga,2020/2021,2020
+Nassim Boujellab,Central Midfield,1999-06-20,21,Morocco,FC Schalke 04,Bundesliga,2020/2021,2020
+Alessandro Schöpf,Right Midfield,1994-02-07,26,Austria,FC Schalke 04,Bundesliga,2020/2021,2020
+Kerim Calhanoglu,Left Midfield,2002-08-26,18,Germany,FC Schalke 04,Bundesliga,2020/2021,2020
+Amine Harit,Attacking Midfield,1997-06-18,23,Morocco,FC Schalke 04,Bundesliga,2020/2021,2020
+Can Bozdogan,Attacking Midfield,2001-04-05,19,Germany,FC Schalke 04,Bundesliga,2020/2021,2020
+Levent Mercan,Attacking Midfield,2000-12-10,19,Germany,FC Schalke 04,Bundesliga,2020/2021,2020
+Nick Taitague,Attacking Midfield,1999-02-17,21,United States,FC Schalke 04,Bundesliga,2020/2021,2020
+Benito Raman,Left Winger,1994-11-07,25,Belgium,FC Schalke 04,Bundesliga,2020/2021,2020
+Rabbi Matondo,Right Winger,2000-09-09,20,Wales,FC Schalke 04,Bundesliga,2020/2021,2020
+Steven Skrzybski,Right Winger,1992-11-18,27,Germany,FC Schalke 04,Bundesliga,2020/2021,2020
+Mark Uth,Second Striker,1991-08-24,29,Germany,FC Schalke 04,Bundesliga,2020/2021,2020
+Gonçalo Paciência,Centre-Forward,1994-08-01,26,Portugal,FC Schalke 04,Bundesliga,2020/2021,2020
+Ahmed Kutucu,Centre-Forward,2000-03-01,20,Turkey,FC Schalke 04,Bundesliga,2020/2021,2020
+Vedad Ibisevic,Centre-Forward,1984-08-06,36,Bosnia-Herzegovina,FC Schalke 04,Bundesliga,2020/2021,2020
+Florian Müller,Goalkeeper,1997-11-13,22,Germany,SC Freiburg,Bundesliga,2020/2021,2020
+Mark Flekken,Goalkeeper,1993-06-13,27,Netherlands,SC Freiburg,Bundesliga,2020/2021,2020
+Benjamin Uphoff,Goalkeeper,1993-08-08,27,Germany,SC Freiburg,Bundesliga,2020/2021,2020
+Niclas Thiede,Goalkeeper,1999-04-14,21,Germany,SC Freiburg,Bundesliga,2020/2021,2020
+Philipp Lienhart,Centre-Back,1996-07-11,24,Austria,SC Freiburg,Bundesliga,2020/2021,2020
+Dominique Heintz,Centre-Back,1993-08-15,27,Germany,SC Freiburg,Bundesliga,2020/2021,2020
+Keven Schlotterbeck,Centre-Back,1997-04-28,23,Germany,SC Freiburg,Bundesliga,2020/2021,2020
+Manuel Gulde,Centre-Back,1991-02-12,29,Germany,SC Freiburg,Bundesliga,2020/2021,2020
+Christian Günter,Left-Back,1993-02-28,27,Germany,SC Freiburg,Bundesliga,2020/2021,2020
+Luca Itter,Left-Back,1999-01-05,21,Germany,SC Freiburg,Bundesliga,2020/2021,2020
+Jonathan Schmid,Right-Back,1990-06-22,30,France,SC Freiburg,Bundesliga,2020/2021,2020
+Lukas Kübler,Right-Back,1992-08-30,28,Germany,SC Freiburg,Bundesliga,2020/2021,2020
+Baptiste Santamaria,Defensive Midfield,1995-03-09,25,France,SC Freiburg,Bundesliga,2020/2021,2020
+Nicolas Höfler,Defensive Midfield,1990-03-09,30,Germany,SC Freiburg,Bundesliga,2020/2021,2020
+Amir Abrashi,Defensive Midfield,1990-03-27,30,Albania,SC Freiburg,Bundesliga,2020/2021,2020
+Yannik Keitel,Defensive Midfield,2000-02-15,20,Germany,SC Freiburg,Bundesliga,2020/2021,2020
+Carlo Boukhalfa,Defensive Midfield,1999-05-03,21,Germany,SC Freiburg,Bundesliga,2020/2021,2020
+Janik Haberer,Central Midfield,1994-04-02,26,Germany,SC Freiburg,Bundesliga,2020/2021,2020
+Lino Tempelmann,Central Midfield,1999-02-02,21,Germany,SC Freiburg,Bundesliga,2020/2021,2020
+Guus Til,Attacking Midfield,1997-12-22,22,Netherlands,SC Freiburg,Bundesliga,2020/2021,2020
+Vincenzo Grifo,Left Winger,1993-04-07,27,Italy,SC Freiburg,Bundesliga,2020/2021,2020
+Roland Sallai,Right Winger,1997-05-22,23,Hungary,SC Freiburg,Bundesliga,2020/2021,2020
+Chang-hoon Kwon,Right Winger,1994-06-30,26,"Korea, South",SC Freiburg,Bundesliga,2020/2021,2020
+Woo-yeong Jeong,Right Winger,1999-09-20,21,"Korea, South",SC Freiburg,Bundesliga,2020/2021,2020
+Nils Petersen,Centre-Forward,1988-12-06,31,Germany,SC Freiburg,Bundesliga,2020/2021,2020
+Lucas Höler,Centre-Forward,1994-07-10,26,Germany,SC Freiburg,Bundesliga,2020/2021,2020
+Ermedin Demirovic,Centre-Forward,1998-03-25,22,Bosnia-Herzegovina,SC Freiburg,Bundesliga,2020/2021,2020
+Robin Zentner,Goalkeeper,1994-10-28,26,Germany,1.FSV Mainz 05,Bundesliga,2020/2021,2020
+Omer Hanin,Goalkeeper,1998-05-14,22,Israel,1.FSV Mainz 05,Bundesliga,2020/2021,2020
+Finn Dahmen,Goalkeeper,1998-03-27,22,Germany,1.FSV Mainz 05,Bundesliga,2020/2021,2020
+Marius Liesegang,Goalkeeper,2000-01-07,20,Germany,1.FSV Mainz 05,Bundesliga,2020/2021,2020
+Moussa Niakhaté,Centre-Back,1996-03-08,24,France,1.FSV Mainz 05,Bundesliga,2020/2021,2020
+Jeremiah St. Juste,Centre-Back,1996-10-19,24,Netherlands,1.FSV Mainz 05,Bundesliga,2020/2021,2020
+Luca Kilian,Centre-Back,1999-09-01,21,Germany,1.FSV Mainz 05,Bundesliga,2020/2021,2020
+Stefan Bell,Centre-Back,1991-08-24,29,Germany,1.FSV Mainz 05,Bundesliga,2020/2021,2020
+Alexander Hack,Centre-Back,1993-09-08,27,Germany,1.FSV Mainz 05,Bundesliga,2020/2021,2020
+Dimitri Lavalée,Centre-Back,1997-01-13,23,Belgium,1.FSV Mainz 05,Bundesliga,2020/2021,2020
+Aarón Martín,Left-Back,1997-04-22,23,Spain,1.FSV Mainz 05,Bundesliga,2020/2021,2020
+Daniel Brosinski,Right-Back,1988-07-17,32,Germany,1.FSV Mainz 05,Bundesliga,2020/2021,2020
+Phillipp Mwene,Right-Back,1994-01-29,26,Austria,1.FSV Mainz 05,Bundesliga,2020/2021,2020
+Niklas Tauer,Defensive Midfield,2001-02-17,19,Germany,1.FSV Mainz 05,Bundesliga,2020/2021,2020
+Pierre Kunde Malong,Central Midfield,1995-07-26,25,Cameroon,1.FSV Mainz 05,Bundesliga,2020/2021,2020
+Edimilson Fernandes,Central Midfield,1996-04-15,24,Switzerland,1.FSV Mainz 05,Bundesliga,2020/2021,2020
+Leandro Barreiro,Central Midfield,2000-01-03,20,Luxembourg,1.FSV Mainz 05,Bundesliga,2020/2021,2020
+Danny Latza,Central Midfield,1989-12-07,30,Germany,1.FSV Mainz 05,Bundesliga,2020/2021,2020
+Merveille Papela,Central Midfield,2001-01-18,19,Germany,1.FSV Mainz 05,Bundesliga,2020/2021,2020
+Levin Öztunali,Right Midfield,1996-03-15,24,Germany,1.FSV Mainz 05,Bundesliga,2020/2021,2020
+Kevin Stöger,Attacking Midfield,1993-08-27,27,Austria,1.FSV Mainz 05,Bundesliga,2020/2021,2020
+Jean-Paul Boëtius,Attacking Midfield,1994-03-22,26,Netherlands,1.FSV Mainz 05,Bundesliga,2020/2021,2020
+Paul Nebel,Right Winger,2002-10-10,18,Germany,1.FSV Mainz 05,Bundesliga,2020/2021,2020
+Robin Quaison,Second Striker,1993-10-09,27,Sweden,1.FSV Mainz 05,Bundesliga,2020/2021,2020
+Jean-Philippe Mateta,Centre-Forward,1997-06-28,23,France,1.FSV Mainz 05,Bundesliga,2020/2021,2020
+Karim Onisiwo,Centre-Forward,1992-03-17,28,Austria,1.FSV Mainz 05,Bundesliga,2020/2021,2020
+Jonathan Burkardt,Centre-Forward,2000-07-11,20,Germany,1.FSV Mainz 05,Bundesliga,2020/2021,2020
+Dong-won Ji,Centre-Forward,1991-05-28,29,"Korea, South",1.FSV Mainz 05,Bundesliga,2020/2021,2020
+Abass Issah,Centre-Forward,1998-09-26,22,Ghana,1.FSV Mainz 05,Bundesliga,2020/2021,2020
+Ádám Szalai,Centre-Forward,1987-12-09,32,Hungary,1.FSV Mainz 05,Bundesliga,2020/2021,2020
+Marlon Mustapha,Centre-Forward,2001-05-24,19,Austria,1.FSV Mainz 05,Bundesliga,2020/2021,2020
+Jiri Pavlenka,Goalkeeper,1992-04-14,28,Czech Republic,SV Werder Bremen,Bundesliga,2020/2021,2020
+Stefanos Kapino,Goalkeeper,1994-03-18,26,Greece,SV Werder Bremen,Bundesliga,2020/2021,2020
+Eduardo dos Santos Haesler,Goalkeeper,1999-02-10,21,Germany,SV Werder Bremen,Bundesliga,2020/2021,2020
+Milos Veljkovic,Centre-Back,1995-09-26,25,Serbia,SV Werder Bremen,Bundesliga,2020/2021,2020
+Marco Friedl,Centre-Back,1998-03-16,22,Austria,SV Werder Bremen,Bundesliga,2020/2021,2020
+Ömer Toprak,Centre-Back,1989-07-21,31,Turkey,SV Werder Bremen,Bundesliga,2020/2021,2020
+Niklas Moisander,Centre-Back,1985-09-29,35,Finland,SV Werder Bremen,Bundesliga,2020/2021,2020
+Christian Groß,Centre-Back,1989-02-08,31,Germany,SV Werder Bremen,Bundesliga,2020/2021,2020
+Ludwig Augustinsson,Left-Back,1994-04-21,26,Sweden,SV Werder Bremen,Bundesliga,2020/2021,2020
+Felix Agu,Left-Back,1999-09-27,21,Germany,SV Werder Bremen,Bundesliga,2020/2021,2020
+Theodor Gebre Selassie,Right-Back,1986-12-24,33,Czech Republic,SV Werder Bremen,Bundesliga,2020/2021,2020
+Patrick Erras,Defensive Midfield,1995-01-21,25,Germany,SV Werder Bremen,Bundesliga,2020/2021,2020
+Ilia Gruev,Defensive Midfield,2000-05-06,20,Bulgaria,SV Werder Bremen,Bundesliga,2020/2021,2020
+Maximilian Eggestein,Central Midfield,1996-12-08,23,Germany,SV Werder Bremen,Bundesliga,2020/2021,2020
+Romano Schmid,Central Midfield,2000-01-27,20,Austria,SV Werder Bremen,Bundesliga,2020/2021,2020
+Kevin Möhwald,Central Midfield,1993-07-03,27,Germany,SV Werder Bremen,Bundesliga,2020/2021,2020
+Jean Manuel Mbom,Central Midfield,2000-02-24,20,Germany,SV Werder Bremen,Bundesliga,2020/2021,2020
+Leonardo Bittencourt,Attacking Midfield,1993-12-19,26,Germany,SV Werder Bremen,Bundesliga,2020/2021,2020
+Milot Rashica,Left Winger,1996-06-28,24,Kosovo,SV Werder Bremen,Bundesliga,2020/2021,2020
+Oscar Schönfelder,Left Winger,2001-02-05,19,Germany,SV Werder Bremen,Bundesliga,2020/2021,2020
+Tahith Chong,Right Winger,1999-12-04,20,Netherlands,SV Werder Bremen,Bundesliga,2020/2021,2020
+Yuya Osako,Second Striker,1990-05-18,30,Japan,SV Werder Bremen,Bundesliga,2020/2021,2020
+Nick Woltemade,Second Striker,2002-02-14,18,Germany,SV Werder Bremen,Bundesliga,2020/2021,2020
+Josh Sargent,Centre-Forward,2000-02-20,20,United States,SV Werder Bremen,Bundesliga,2020/2021,2020
+Davie Selke,Centre-Forward,1995-01-20,25,Germany,SV Werder Bremen,Bundesliga,2020/2021,2020
+Niclas Füllkrug,Centre-Forward,1993-02-09,27,Germany,SV Werder Bremen,Bundesliga,2020/2021,2020
+Timo Horn,Goalkeeper,1993-05-12,27,Germany,1. FC Köln,Bundesliga,2020/2021,2020
+Ron-Robert Zieler,Goalkeeper,1989-02-12,31,Germany,1. FC Köln,Bundesliga,2020/2021,2020
+Julian Krahl,Goalkeeper,2000-01-22,20,Germany,1. FC Köln,Bundesliga,2020/2021,2020
+Sebastiaan Bornauw,Centre-Back,1999-03-22,21,Belgium,1. FC Köln,Bundesliga,2020/2021,2020
+Jorge Meré,Centre-Back,1997-04-17,23,Spain,1. FC Köln,Bundesliga,2020/2021,2020
+Rafael Czichos,Centre-Back,1990-05-14,30,Germany,1. FC Köln,Bundesliga,2020/2021,2020
+Frederik Sörensen,Centre-Back,1992-04-14,28,Denmark,1. FC Köln,Bundesliga,2020/2021,2020
+João Queirós,Centre-Back,1998-04-22,22,Portugal,1. FC Köln,Bundesliga,2020/2021,2020
+Robert Voloder,Centre-Back,2001-05-09,19,Germany,1. FC Köln,Bundesliga,2020/2021,2020
+Sava-Arangel Cestic,Centre-Back,2001-02-19,19,Serbia,1. FC Köln,Bundesliga,2020/2021,2020
+Noah Katterbach,Left-Back,2001-04-13,19,Germany,1. FC Köln,Bundesliga,2020/2021,2020
+Jannes Horn,Left-Back,1997-02-06,23,Germany,1. FC Köln,Bundesliga,2020/2021,2020
+Kingsley Ehizibue,Right-Back,1995-05-25,25,Nigeria,1. FC Köln,Bundesliga,2020/2021,2020
+Benno Schmitz,Right-Back,1994-11-17,25,Germany,1. FC Köln,Bundesliga,2020/2021,2020
+Ellyes Skhiri,Defensive Midfield,1995-05-10,25,Tunisia,1. FC Köln,Bundesliga,2020/2021,2020
+Jonas Hector,Defensive Midfield,1990-05-27,30,Germany,1. FC Köln,Bundesliga,2020/2021,2020
+Marco Höger,Defensive Midfield,1989-09-16,31,Germany,1. FC Köln,Bundesliga,2020/2021,2020
+Elvis Rexhbecaj,Central Midfield,1997-11-01,23,Germany,1. FC Köln,Bundesliga,2020/2021,2020
+Salih Özcan,Central Midfield,1998-01-11,22,Germany,1. FC Köln,Bundesliga,2020/2021,2020
+Christian Clemens,Right Midfield,1991-08-04,29,Germany,1. FC Köln,Bundesliga,2020/2021,2020
+Ondrej Duda,Attacking Midfield,1994-12-05,25,Slovakia,1. FC Köln,Bundesliga,2020/2021,2020
+Dominick Drexler,Attacking Midfield,1990-05-26,30,Germany,1. FC Köln,Bundesliga,2020/2021,2020
+Jens Castrop,Attacking Midfield,2003-07-29,17,Germany,1. FC Köln,Bundesliga,2020/2021,2020
+Ismail Jakobs,Left Winger,1999-08-17,21,Germany,1. FC Köln,Bundesliga,2020/2021,2020
+Florian Kainz,Left Winger,1992-10-24,28,Austria,1. FC Köln,Bundesliga,2020/2021,2020
+Marius Wolf,Right Winger,1995-05-27,25,Germany,1. FC Köln,Bundesliga,2020/2021,2020
+Dimitrios Limnios,Right Winger,1998-05-27,22,Greece,1. FC Köln,Bundesliga,2020/2021,2020
+Jan Thielmann,Right Winger,2002-05-26,18,Germany,1. FC Köln,Bundesliga,2020/2021,2020
+Tim Lemperle,Right Winger,2002-02-05,18,Germany,1. FC Köln,Bundesliga,2020/2021,2020
+Sebastian Andersson,Centre-Forward,1991-07-15,29,Sweden,1. FC Köln,Bundesliga,2020/2021,2020
+Anthony Modeste,Centre-Forward,1988-04-14,32,France,1. FC Köln,Bundesliga,2020/2021,2020
+Tolu Arokodare,Centre-Forward,2000-11-23,19,Nigeria,1. FC Köln,Bundesliga,2020/2021,2020
+Tomas Koubek,Goalkeeper,1992-08-26,28,Czech Republic,FC Augsburg,Bundesliga,2020/2021,2020
+Rafal Gikiewicz,Goalkeeper,1987-10-26,33,Poland,FC Augsburg,Bundesliga,2020/2021,2020
+Benjamin Leneis,Goalkeeper,1999-03-08,21,Germany,FC Augsburg,Bundesliga,2020/2021,2020
+Felix Uduokhai,Centre-Back,1997-09-09,23,Germany,FC Augsburg,Bundesliga,2020/2021,2020
+Jeffrey Gouweleeuw,Centre-Back,1991-07-10,29,Netherlands,FC Augsburg,Bundesliga,2020/2021,2020
+Marek Suchy,Centre-Back,1988-03-29,32,Czech Republic,FC Augsburg,Bundesliga,2020/2021,2020
+Iago,Left-Back,1997-03-23,23,Brazil,FC Augsburg,Bundesliga,2020/2021,2020
+Mads Pedersen,Left-Back,1996-09-01,24,Denmark,FC Augsburg,Bundesliga,2020/2021,2020
+Robert Gumny,Right-Back,1998-06-04,22,Poland,FC Augsburg,Bundesliga,2020/2021,2020
+Raphael Framberger,Right-Back,1995-09-06,25,Germany,FC Augsburg,Bundesliga,2020/2021,2020
+Rani Khedira,Defensive Midfield,1994-01-27,26,Germany,FC Augsburg,Bundesliga,2020/2021,2020
+Tobias Strobl,Defensive Midfield,1990-05-12,30,Germany,FC Augsburg,Bundesliga,2020/2021,2020
+Carlos Gruezo,Defensive Midfield,1995-04-19,25,Ecuador,FC Augsburg,Bundesliga,2020/2021,2020
+Reece Oxford,Defensive Midfield,1998-12-16,21,England,FC Augsburg,Bundesliga,2020/2021,2020
+Felix Götze,Defensive Midfield,1998-02-11,22,Germany,FC Augsburg,Bundesliga,2020/2021,2020
+Jan Morávek,Central Midfield,1989-11-01,31,Czech Republic,FC Augsburg,Bundesliga,2020/2021,2020
+Daniel Caligiuri,Right Midfield,1988-01-15,32,Italy,FC Augsburg,Bundesliga,2020/2021,2020
+Fredrik Jensen,Attacking Midfield,1997-09-09,23,Finland,FC Augsburg,Bundesliga,2020/2021,2020
+Ruben Vargas,Left Winger,1998-08-05,22,Switzerland,FC Augsburg,Bundesliga,2020/2021,2020
+Marco Richter,Right Winger,1997-11-24,22,Germany,FC Augsburg,Bundesliga,2020/2021,2020
+Noah Sarenren Bazee,Right Winger,1996-08-21,24,Nigeria,FC Augsburg,Bundesliga,2020/2021,2020
+André Hahn,Right Winger,1990-08-13,30,Germany,FC Augsburg,Bundesliga,2020/2021,2020
+Michael Gregoritsch,Second Striker,1994-04-18,26,Austria,FC Augsburg,Bundesliga,2020/2021,2020
+Florian Niederlechner,Centre-Forward,1990-10-24,30,Germany,FC Augsburg,Bundesliga,2020/2021,2020
+Alfred Finnbogason,Centre-Forward,1989-02-01,31,Iceland,FC Augsburg,Bundesliga,2020/2021,2020
+Julian Schieber,Centre-Forward,1989-02-13,31,Germany,FC Augsburg,Bundesliga,2020/2021,2020
+Gregor Kobel,Goalkeeper,1997-12-06,22,Switzerland,VfB Stuttgart,Bundesliga,2020/2021,2020
+Fabian Bredlow,Goalkeeper,1995-03-02,25,Germany,VfB Stuttgart,Bundesliga,2020/2021,2020
+Jens Grahl,Goalkeeper,1988-09-22,32,Germany,VfB Stuttgart,Bundesliga,2020/2021,2020
+Waldemar Anton,Centre-Back,1996-07-20,24,Germany,VfB Stuttgart,Bundesliga,2020/2021,2020
+Marc Oliver Kempf,Centre-Back,1995-01-28,25,Germany,VfB Stuttgart,Bundesliga,2020/2021,2020
+Konstantinos Mavropanos,Centre-Back,1997-12-11,22,Greece,VfB Stuttgart,Bundesliga,2020/2021,2020
+Marcin Kaminski,Centre-Back,1992-01-15,28,Poland,VfB Stuttgart,Bundesliga,2020/2021,2020
+Holger Badstuber,Centre-Back,1989-03-13,31,Germany,VfB Stuttgart,Bundesliga,2020/2021,2020
+Maxime Awoudja,Centre-Back,1998-02-02,22,Germany,VfB Stuttgart,Bundesliga,2020/2021,2020
+Antonis Aidonis,Centre-Back,2001-05-22,19,Germany,VfB Stuttgart,Bundesliga,2020/2021,2020
+Borna Sosa,Left-Back,1998-01-21,22,Croatia,VfB Stuttgart,Bundesliga,2020/2021,2020
+Aílton,Left-Back,1995-03-16,25,Brazil,VfB Stuttgart,Bundesliga,2020/2021,2020
+Clinton Mola,Left-Back,2001-03-15,19,England,VfB Stuttgart,Bundesliga,2020/2021,2020
+Pascal Stenzel,Right-Back,1996-03-20,24,Germany,VfB Stuttgart,Bundesliga,2020/2021,2020
+Wataru Endo,Defensive Midfield,1993-02-09,27,Japan,VfB Stuttgart,Bundesliga,2020/2021,2020
+Atakan Karazor,Defensive Midfield,1996-10-13,24,Germany,VfB Stuttgart,Bundesliga,2020/2021,2020
+Luca Mack,Defensive Midfield,2000-05-25,20,Germany,VfB Stuttgart,Bundesliga,2020/2021,2020
+Orel Mangala,Central Midfield,1998-03-18,22,Belgium,VfB Stuttgart,Bundesliga,2020/2021,2020
+Gonzalo Castro,Central Midfield,1987-06-11,33,Germany,VfB Stuttgart,Bundesliga,2020/2021,2020
+Naouirou Ahamada,Central Midfield,2002-03-29,18,France,VfB Stuttgart,Bundesliga,2020/2021,2020
+Erik Thommy,Left Midfield,1994-08-20,26,Germany,VfB Stuttgart,Bundesliga,2020/2021,2020
+Daniel Didavi,Attacking Midfield,1990-02-21,30,Germany,VfB Stuttgart,Bundesliga,2020/2021,2020
+Philipp Förster,Attacking Midfield,1995-02-04,25,Germany,VfB Stuttgart,Bundesliga,2020/2021,2020
+Philipp Klement,Attacking Midfield,1992-09-09,28,Germany,VfB Stuttgart,Bundesliga,2020/2021,2020
+Lilian Egloff,Attacking Midfield,2002-08-20,18,Germany,VfB Stuttgart,Bundesliga,2020/2021,2020
+Mateo Klimowicz,Attacking Midfield,2000-07-06,20,Argentina,VfB Stuttgart,Bundesliga,2020/2021,2020
+Nicolás González,Left Winger,1998-04-06,22,Argentina,VfB Stuttgart,Bundesliga,2020/2021,2020
+Darko Churlinov,Left Winger,2000-07-11,20,North Macedonia,VfB Stuttgart,Bundesliga,2020/2021,2020
+Tanguy Coulibaly,Left Winger,2001-02-18,19,France,VfB Stuttgart,Bundesliga,2020/2021,2020
+Silas Wamangituka,Right Winger,1999-10-06,21,DR Congo,VfB Stuttgart,Bundesliga,2020/2021,2020
+Roberto Massimo,Right Winger,2000-10-12,20,Germany,VfB Stuttgart,Bundesliga,2020/2021,2020
+Momo Cissé,Right Winger,2002-10-17,18,Guinea,VfB Stuttgart,Bundesliga,2020/2021,2020
+Sasa Kalajdzic,Centre-Forward,1997-07-07,23,Austria,VfB Stuttgart,Bundesliga,2020/2021,2020
+Hamadi Al Ghaddioui,Centre-Forward,1990-09-22,30,Morocco,VfB Stuttgart,Bundesliga,2020/2021,2020
+Loris Karius,Goalkeeper,1993-06-22,27,Germany,1.FC Union Berlin,Bundesliga,2020/2021,2020
+Lennart Moser,Goalkeeper,1999-12-06,20,Germany,1.FC Union Berlin,Bundesliga,2020/2021,2020
+Andreas Luthe,Goalkeeper,1987-03-10,33,Germany,1.FC Union Berlin,Bundesliga,2020/2021,2020
+Jakob Busk,Goalkeeper,1993-09-12,27,Denmark,1.FC Union Berlin,Bundesliga,2020/2021,2020
+Robin Knoche,Centre-Back,1992-05-22,28,Germany,1.FC Union Berlin,Bundesliga,2020/2021,2020
+Nico Schlotterbeck,Centre-Back,1999-12-01,20,Germany,1.FC Union Berlin,Bundesliga,2020/2021,2020
+Marvin Friedrich,Centre-Back,1995-12-13,24,Germany,1.FC Union Berlin,Bundesliga,2020/2021,2020
+Florian Hübner,Centre-Back,1991-03-01,29,Germany,1.FC Union Berlin,Bundesliga,2020/2021,2020
+Niko Gießelmann,Left-Back,1991-09-26,29,Germany,1.FC Union Berlin,Bundesliga,2020/2021,2020
+Christopher Lenz,Left-Back,1994-09-22,26,Germany,1.FC Union Berlin,Bundesliga,2020/2021,2020
+Christopher Trimmel,Right-Back,1987-02-24,33,Austria,1.FC Union Berlin,Bundesliga,2020/2021,2020
+Julian Ryerson,Right-Back,1997-11-17,22,Norway,1.FC Union Berlin,Bundesliga,2020/2021,2020
+Sebastian Griesbeck,Defensive Midfield,1990-10-03,30,Germany,1.FC Union Berlin,Bundesliga,2020/2021,2020
+Robert Andrich,Central Midfield,1994-09-22,26,Germany,1.FC Union Berlin,Bundesliga,2020/2021,2020
+Grischa Prömel,Central Midfield,1995-01-09,25,Germany,1.FC Union Berlin,Bundesliga,2020/2021,2020
+Christian Gentner,Central Midfield,1985-08-14,35,Germany,1.FC Union Berlin,Bundesliga,2020/2021,2020
+Marius Bülter,Left Winger,1993-03-29,27,Germany,1.FC Union Berlin,Bundesliga,2020/2021,2020
+Keita Endo,Left Winger,1997-11-22,22,Japan,1.FC Union Berlin,Bundesliga,2020/2021,2020
+Marcus Ingvartsen,Right Winger,1996-01-04,24,Denmark,1.FC Union Berlin,Bundesliga,2020/2021,2020
+Sheraldo Becker,Right Winger,1995-02-09,25,Netherlands,1.FC Union Berlin,Bundesliga,2020/2021,2020
+Akaki Gogia,Right Winger,1992-01-18,28,Germany,1.FC Union Berlin,Bundesliga,2020/2021,2020
+Tim Maciejewski,Right Winger,2001-03-05,19,Germany,1.FC Union Berlin,Bundesliga,2020/2021,2020
+Max Kruse,Second Striker,1988-03-19,32,Germany,1.FC Union Berlin,Bundesliga,2020/2021,2020
+Taiwo Awoniyi,Centre-Forward,1997-08-12,23,Nigeria,1.FC Union Berlin,Bundesliga,2020/2021,2020
+Joel Pohjanpalo,Centre-Forward,1994-09-13,26,Finland,1.FC Union Berlin,Bundesliga,2020/2021,2020
+Anthony Ujah,Centre-Forward,1990-10-14,30,Nigeria,1.FC Union Berlin,Bundesliga,2020/2021,2020
+Cedric Teuchert,Centre-Forward,1997-01-14,23,Germany,1.FC Union Berlin,Bundesliga,2020/2021,2020
+Stefan Ortega Moreno,Goalkeeper,1992-11-06,28,Germany,Arminia Bielefeld,Bundesliga,2020/2021,2020
+Oscar Linnér,Goalkeeper,1997-02-23,23,Sweden,Arminia Bielefeld,Bundesliga,2020/2021,2020
+Nikolai Rehnen,Goalkeeper,1997-02-04,23,Germany,Arminia Bielefeld,Bundesliga,2020/2021,2020
+Mike van der Hoorn,Centre-Back,1992-10-15,28,Netherlands,Arminia Bielefeld,Bundesliga,2020/2021,2020
+Amos Pieper,Centre-Back,1998-01-17,22,Germany,Arminia Bielefeld,Bundesliga,2020/2021,2020
+Joakim Nilsson,Centre-Back,1994-02-06,26,Sweden,Arminia Bielefeld,Bundesliga,2020/2021,2020
+Brian Behrendt,Centre-Back,1991-10-24,29,Germany,Arminia Bielefeld,Bundesliga,2020/2021,2020
+Jacob Barrett Laursen,Left-Back,1994-11-17,25,Denmark,Arminia Bielefeld,Bundesliga,2020/2021,2020
+Anderson Lucoqui,Left-Back,1997-07-06,23,Angola,Arminia Bielefeld,Bundesliga,2020/2021,2020
+Cédric Brunner,Right-Back,1994-02-17,26,Switzerland,Arminia Bielefeld,Bundesliga,2020/2021,2020
+Nathan de Medina,Right-Back,1997-10-08,23,Belgium,Arminia Bielefeld,Bundesliga,2020/2021,2020
+Arne Maier,Defensive Midfield,1999-01-08,21,Germany,Arminia Bielefeld,Bundesliga,2020/2021,2020
+Manuel Prietl,Defensive Midfield,1991-08-03,29,Austria,Arminia Bielefeld,Bundesliga,2020/2021,2020
+Fabian Kunze,Defensive Midfield,1998-06-14,22,Germany,Arminia Bielefeld,Bundesliga,2020/2021,2020
+Reinhold Yabo,Central Midfield,1992-02-10,28,Germany,Arminia Bielefeld,Bundesliga,2020/2021,2020
+Nils Seufert,Central Midfield,1997-02-03,23,Germany,Arminia Bielefeld,Bundesliga,2020/2021,2020
+Jomaine Consbruch,Central Midfield,2002-01-26,18,Germany,Arminia Bielefeld,Bundesliga,2020/2021,2020
+Marcel Hartel,Attacking Midfield,1996-01-19,24,Germany,Arminia Bielefeld,Bundesliga,2020/2021,2020
+Jóan Símun Edmundsson,Attacking Midfield,1991-07-26,29,Faroe Islands,Arminia Bielefeld,Bundesliga,2020/2021,2020
+Ritsu Doan,Right Winger,1998-06-16,22,Japan,Arminia Bielefeld,Bundesliga,2020/2021,2020
+Christian Gebauer,Right Winger,1993-12-20,26,Austria,Arminia Bielefeld,Bundesliga,2020/2021,2020
+Cebio Soukou,Right Winger,1992-10-02,28,Benin,Arminia Bielefeld,Bundesliga,2020/2021,2020
+Noel Niemann,Second Striker,1999-11-14,20,Germany,Arminia Bielefeld,Bundesliga,2020/2021,2020
+Andreas Voglsammer,Centre-Forward,1992-01-09,28,Germany,Arminia Bielefeld,Bundesliga,2020/2021,2020
+Sergio Córdova,Centre-Forward,1997-08-09,23,Venezuela,Arminia Bielefeld,Bundesliga,2020/2021,2020
+Fabian Klos,Centre-Forward,1987-12-02,32,Germany,Arminia Bielefeld,Bundesliga,2020/2021,2020
+Sebastian Müller,Centre-Forward,2001-01-23,19,Germany,Arminia Bielefeld,Bundesliga,2020/2021,2020
+Sven Schipplock,Centre-Forward,1988-11-08,31,Germany,Arminia Bielefeld,Bundesliga,2020/2021,2020

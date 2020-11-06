@@ -61,20 +61,19 @@ scrape_club_squad <- function(club_url) {
     clean_names()
   
   # get player names
-  player_names <- club_page %>% 
-    html_nodes(".responsive-table") %>% 
-    html_nodes("[class='spielprofil_tooltip']") %>% 
+  player_names <- html_nodes(club_page, "#yw1 td") %>% 
+    html_nodes(".hauptlink span a") %>% 
     html_attr("title") %>% 
     .[c(TRUE, FALSE)]
   
   # select cols to keep, check if current season
   if (!"current_club" %in% colnames(player_data)) {
     
-    player_data <- player_data[, c("date_of_birth_age", "nat", "na")]
+    player_data <- player_data[, c("market_value", "nat", "x7")]
     
   } else {
     
-    player_data <- player_data[, c("nat", "current_club", "market_value")]
+    player_data <- player_data[, c("current_club", "market_value")]
     
   }
   

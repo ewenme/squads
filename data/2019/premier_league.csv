@@ -1,0 +1,775 @@
+player_name,position,date_of_birth,age,nationality,club_name,league_name,season,year
+Ederson,Goalkeeper,1993-08-17,25,Brazil,Manchester City,Premier League,2019/2020,2019
+Arijanet Muric,Goalkeeper,1998-11-07,20,Kosovo,Manchester City,Premier League,2019/2020,2019
+Claudio Bravo,Goalkeeper,1983-04-13,36,Chile,Manchester City,Premier League,2019/2020,2019
+Scott Carson,Goalkeeper,1985-09-03,33,England,Manchester City,Premier League,2019/2020,2019
+Aymeric Laporte,Centre-Back,1994-05-27,25,France,Manchester City,Premier League,2019/2020,2019
+John Stones,Centre-Back,1994-05-28,25,England,Manchester City,Premier League,2019/2020,2019
+Nicolás Otamendi,Centre-Back,1988-02-12,31,Argentina,Manchester City,Premier League,2019/2020,2019
+Eric García,Centre-Back,2001-01-09,18,Spain,Manchester City,Premier League,2019/2020,2019
+Tosin Adarabioyo,Centre-Back,1997-09-24,21,England,Manchester City,Premier League,2019/2020,2019
+Taylor Harwood-Bellis,Centre-Back,2002-01-30,17,England,Manchester City,Premier League,2019/2020,2019
+Benjamin Mendy,Left-Back,1994-07-17,24,France,Manchester City,Premier League,2019/2020,2019
+Oleksandr Zinchenko,Left-Back,1996-12-15,22,Ukraine,Manchester City,Premier League,2019/2020,2019
+Angeliño,Left-Back,1997-01-04,22,Spain,Manchester City,Premier League,2019/2020,2019
+Kyle Walker,Right-Back,1990-05-28,29,England,Manchester City,Premier League,2019/2020,2019
+João Cancelo,Right-Back,1994-05-27,25,Portugal,Manchester City,Premier League,2019/2020,2019
+Alpha Dionkou,Right-Back,2001-10-10,17,Senegal,Manchester City,Premier League,2019/2020,2019
+Rodri,Defensive Midfield,1996-06-22,23,Spain,Manchester City,Premier League,2019/2020,2019
+Fernandinho,Defensive Midfield,1985-05-04,34,Brazil,Manchester City,Premier League,2019/2020,2019
+Ilkay Gündogan,Central Midfield,1990-10-24,28,Germany,Manchester City,Premier League,2019/2020,2019
+Phil Foden,Central Midfield,2000-05-28,19,England,Manchester City,Premier League,2019/2020,2019
+Tommy Doyle,Central Midfield,2001-10-17,17,England,Manchester City,Premier League,2019/2020,2019
+Kevin De Bruyne,Attacking Midfield,1991-06-28,28,Belgium,Manchester City,Premier League,2019/2020,2019
+David Silva,Attacking Midfield,1986-01-08,33,Spain,Manchester City,Premier League,2019/2020,2019
+Adrián Bernabé,Attacking Midfield,2001-05-26,18,Spain,Manchester City,Premier League,2019/2020,2019
+Ryotaro Meshino,Attacking Midfield,1998-06-18,21,Japan,Manchester City,Premier League,2019/2020,2019
+Cole Palmer,Attacking Midfield,2002-05-06,17,England,Manchester City,Premier League,2019/2020,2019
+Raheem Sterling,Left Winger,1994-12-08,24,England,Manchester City,Premier League,2019/2020,2019
+Leroy Sané,Left Winger,1996-01-11,23,Germany,Manchester City,Premier League,2019/2020,2019
+Bernardo Silva,Right Winger,1994-08-10,24,Portugal,Manchester City,Premier League,2019/2020,2019
+Riyad Mahrez,Right Winger,1991-02-21,28,Algeria,Manchester City,Premier League,2019/2020,2019
+Patrick Roberts,Right Winger,1997-02-05,22,England,Manchester City,Premier League,2019/2020,2019
+Ian Poveda,Right Winger,2000-02-09,19,England,Manchester City,Premier League,2019/2020,2019
+Gabriel Jesus,Centre-Forward,1997-04-03,22,Brazil,Manchester City,Premier League,2019/2020,2019
+Sergio Agüero,Centre-Forward,1988-06-02,31,Argentina,Manchester City,Premier League,2019/2020,2019
+Alisson,Goalkeeper,1992-10-02,26,Brazil,Liverpool FC,Premier League,2019/2020,2019
+Simon Mignolet,Goalkeeper,1988-03-06,31,Belgium,Liverpool FC,Premier League,2019/2020,2019
+Adrián,Goalkeeper,1987-01-03,32,Spain,Liverpool FC,Premier League,2019/2020,2019
+Loris Karius,Goalkeeper,1993-06-22,26,Germany,Liverpool FC,Premier League,2019/2020,2019
+Caoimhin Kelleher,Goalkeeper,1998-11-23,20,Ireland,Liverpool FC,Premier League,2019/2020,2019
+Andy Lonergan,Goalkeeper,1983-10-19,35,England,Liverpool FC,Premier League,2019/2020,2019
+Ben Winterbottom,Goalkeeper,2001-07-16,17,England,Liverpool FC,Premier League,2019/2020,2019
+Vitezslav Jaros,Goalkeeper,2001-07-23,17,Czech Republic,Liverpool FC,Premier League,2019/2020,2019
+Virgil van Dijk,Centre-Back,1991-07-08,27,Netherlands,Liverpool FC,Premier League,2019/2020,2019
+Joe Gomez,Centre-Back,1997-05-23,22,England,Liverpool FC,Premier League,2019/2020,2019
+Joel Matip,Centre-Back,1991-08-08,27,Cameroon,Liverpool FC,Premier League,2019/2020,2019
+Dejan Lovren,Centre-Back,1989-07-05,29,Croatia,Liverpool FC,Premier League,2019/2020,2019
+Sepp van den Berg,Centre-Back,2001-12-20,17,Netherlands,Liverpool FC,Premier League,2019/2020,2019
+Nathaniel Phillips,Centre-Back,1997-03-21,22,England,Liverpool FC,Premier League,2019/2020,2019
+Tom Clayton,Centre-Back,2000-12-16,18,Scotland,Liverpool FC,Premier League,2019/2020,2019
+Morgan Boyes,Centre-Back,2001-04-22,18,Wales,Liverpool FC,Premier League,2019/2020,2019
+Billy Koumetio,Centre-Back,2002-11-14,16,France,Liverpool FC,Premier League,2019/2020,2019
+Andrew Robertson,Left-Back,1994-03-11,25,Scotland,Liverpool FC,Premier League,2019/2020,2019
+Yasser Larouci,Left-Back,2001-01-01,18,France,Liverpool FC,Premier League,2019/2020,2019
+Tony Gallacher,Left-Back,1999-07-23,19,Scotland,Liverpool FC,Premier League,2019/2020,2019
+Adam Lewis,Left-Back,1999-11-08,19,England,Liverpool FC,Premier League,2019/2020,2019
+James Norris,Left-Back,2003-04-04,16,England,Liverpool FC,Premier League,2019/2020,2019
+Trent Alexander-Arnold,Right-Back,1998-10-07,20,England,Liverpool FC,Premier League,2019/2020,2019
+Nathaniel Clyne,Right-Back,1991-04-05,28,England,Liverpool FC,Premier League,2019/2020,2019
+Ki-Jana Hoever,Right-Back,2002-01-18,17,Netherlands,Liverpool FC,Premier League,2019/2020,2019
+Neco Williams,Right-Back,2001-04-13,18,Wales,Liverpool FC,Premier League,2019/2020,2019
+Fabinho,Defensive Midfield,1993-10-23,25,Brazil,Liverpool FC,Premier League,2019/2020,2019
+Pedro Chirivella,Defensive Midfield,1997-05-23,22,Spain,Liverpool FC,Premier League,2019/2020,2019
+Leighton Clarkson,Defensive Midfield,2001-10-19,17,England,Liverpool FC,Premier League,2019/2020,2019
+Georginio Wijnaldum,Central Midfield,1990-11-11,28,Netherlands,Liverpool FC,Premier League,2019/2020,2019
+Naby Keïta,Central Midfield,1995-02-10,24,Guinea,Liverpool FC,Premier League,2019/2020,2019
+Jordan Henderson,Central Midfield,1990-06-17,29,England,Liverpool FC,Premier League,2019/2020,2019
+Alex Oxlade-Chamberlain,Central Midfield,1993-08-15,25,England,Liverpool FC,Premier League,2019/2020,2019
+James Milner,Central Midfield,1986-01-04,33,England,Liverpool FC,Premier League,2019/2020,2019
+Curtis Jones,Central Midfield,2001-01-30,18,England,Liverpool FC,Premier League,2019/2020,2019
+Herbie Kane,Central Midfield,1998-11-23,20,England,Liverpool FC,Premier League,2019/2020,2019
+Elijah Dixon-Bonner,Central Midfield,2001-01-01,18,England,Liverpool FC,Premier League,2019/2020,2019
+Thomas Hill,Central Midfield,2002-10-13,16,England,Liverpool FC,Premier League,2019/2020,2019
+Adam Lallana,Attacking Midfield,1988-05-10,31,England,Liverpool FC,Premier League,2019/2020,2019
+Ben Woodburn,Attacking Midfield,1999-10-15,19,Wales,Liverpool FC,Premier League,2019/2020,2019
+Isaac Christie-Davies,Attacking Midfield,1997-10-18,21,Wales,Liverpool FC,Premier League,2019/2020,2019
+Jake Cain,Attacking Midfield,2001-09-02,17,England,Liverpool FC,Premier League,2019/2020,2019
+Jack Bearne,Attacking Midfield,2001-09-15,17,England,Liverpool FC,Premier League,2019/2020,2019
+Sadio Mané,Left Winger,1992-04-10,27,Senegal,Liverpool FC,Premier League,2019/2020,2019
+Takumi Minamino,Left Winger,1995-01-16,24,Japan,Liverpool FC,Premier League,2019/2020,2019
+Luis Longstaff,Left Winger,2001-02-24,18,England,Liverpool FC,Premier League,2019/2020,2019
+Mohamed Salah,Right Winger,1992-06-15,27,Egypt,Liverpool FC,Premier League,2019/2020,2019
+Xherdan Shaqiri,Right Winger,1991-10-10,27,Switzerland,Liverpool FC,Premier League,2019/2020,2019
+Harvey Elliott,Right Winger,2003-04-04,16,England,Liverpool FC,Premier League,2019/2020,2019
+Sheyi Ojo,Right Winger,1997-06-19,22,England,Liverpool FC,Premier League,2019/2020,2019
+Roberto Firmino,Centre-Forward,1991-10-02,27,Brazil,Liverpool FC,Premier League,2019/2020,2019
+Divock Origi,Centre-Forward,1995-04-18,24,Belgium,Liverpool FC,Premier League,2019/2020,2019
+Rhian Brewster,Centre-Forward,2000-04-01,19,England,Liverpool FC,Premier League,2019/2020,2019
+Liam Millar,Centre-Forward,1999-09-27,19,Canada,Liverpool FC,Premier League,2019/2020,2019
+Joe Hardy,Centre-Forward,1998-09-26,20,England,Liverpool FC,Premier League,2019/2020,2019
+Layton Stewart,Centre-Forward,2002-09-03,16,England,Liverpool FC,Premier League,2019/2020,2019
+Hugo Lloris,Goalkeeper,1986-12-26,32,France,Tottenham Hotspur,Premier League,2019/2020,2019
+Paulo Gazzaniga,Goalkeeper,1992-01-02,27,Argentina,Tottenham Hotspur,Premier League,2019/2020,2019
+Michel Vorm,Goalkeeper,1983-10-20,35,Netherlands,Tottenham Hotspur,Premier League,2019/2020,2019
+Brandon Austin,Goalkeeper,1999-01-08,20,England,Tottenham Hotspur,Premier League,2019/2020,2019
+Alfie Whiteman,Goalkeeper,1998-10-02,20,England,Tottenham Hotspur,Premier League,2019/2020,2019
+Davinson Sánchez,Centre-Back,1996-06-12,23,Colombia,Tottenham Hotspur,Premier League,2019/2020,2019
+Toby Alderweireld,Centre-Back,1989-03-02,30,Belgium,Tottenham Hotspur,Premier League,2019/2020,2019
+Eric Dier,Centre-Back,1994-01-15,25,England,Tottenham Hotspur,Premier League,2019/2020,2019
+Jan Vertonghen,Centre-Back,1987-04-24,32,Belgium,Tottenham Hotspur,Premier League,2019/2020,2019
+Juan Foyth,Centre-Back,1998-01-12,21,Argentina,Tottenham Hotspur,Premier League,2019/2020,2019
+Japhet Tanganga,Centre-Back,1999-03-31,20,England,Tottenham Hotspur,Premier League,2019/2020,2019
+Cameron Carter-Vickers,Centre-Back,1997-12-31,21,United States,Tottenham Hotspur,Premier League,2019/2020,2019
+Malachi Fagan-Walcott,Centre-Back,2002-03-11,17,England,Tottenham Hotspur,Premier League,2019/2020,2019
+Ryan Sessegnon,Left-Back,2000-05-18,19,England,Tottenham Hotspur,Premier League,2019/2020,2019
+Ben Davies,Left-Back,1993-04-24,26,Wales,Tottenham Hotspur,Premier League,2019/2020,2019
+Danny Rose,Left-Back,1990-07-02,28,England,Tottenham Hotspur,Premier League,2019/2020,2019
+Dennis Cirkin,Left-Back,2002-04-06,17,England,Tottenham Hotspur,Premier League,2019/2020,2019
+Serge Aurier,Right-Back,1992-12-24,26,Cote d'Ivoire,Tottenham Hotspur,Premier League,2019/2020,2019
+Kyle Walker-Peters,Right-Back,1997-04-13,22,England,Tottenham Hotspur,Premier League,2019/2020,2019
+Harry Winks,Defensive Midfield,1996-02-02,23,England,Tottenham Hotspur,Premier League,2019/2020,2019
+Oliver Skipp,Defensive Midfield,2000-09-16,18,England,Tottenham Hotspur,Premier League,2019/2020,2019
+Victor Wanyama,Defensive Midfield,1991-06-25,28,Kenya,Tottenham Hotspur,Premier League,2019/2020,2019
+Harvey White,Defensive Midfield,2001-09-19,17,England,Tottenham Hotspur,Premier League,2019/2020,2019
+Tanguy Ndombélé,Central Midfield,1996-12-28,22,France,Tottenham Hotspur,Premier League,2019/2020,2019
+Giovani Lo Celso,Central Midfield,1996-04-09,23,Argentina,Tottenham Hotspur,Premier League,2019/2020,2019
+Moussa Sissoko,Central Midfield,1989-08-16,29,France,Tottenham Hotspur,Premier League,2019/2020,2019
+Gedson Fernandes,Central Midfield,1999-01-09,20,Portugal,Tottenham Hotspur,Premier League,2019/2020,2019
+Christian Eriksen,Attacking Midfield,1992-02-14,27,Denmark,Tottenham Hotspur,Premier League,2019/2020,2019
+Dele Alli,Attacking Midfield,1996-04-11,23,England,Tottenham Hotspur,Premier League,2019/2020,2019
+Heung-min Son,Left Winger,1992-07-08,26,"Korea, South",Tottenham Hotspur,Premier League,2019/2020,2019
+Steven Bergwijn,Left Winger,1997-10-08,21,Netherlands,Tottenham Hotspur,Premier League,2019/2020,2019
+Georges-Kevin N'Koudou,Left Winger,1995-02-13,24,France,Tottenham Hotspur,Premier League,2019/2020,2019
+Lucas Moura,Right Winger,1992-08-13,26,Brazil,Tottenham Hotspur,Premier League,2019/2020,2019
+Erik Lamela,Right Winger,1992-03-04,27,Argentina,Tottenham Hotspur,Premier League,2019/2020,2019
+Harry Kane,Centre-Forward,1993-07-28,25,England,Tottenham Hotspur,Premier League,2019/2020,2019
+Troy Parrott,Centre-Forward,2002-02-04,17,Ireland,Tottenham Hotspur,Premier League,2019/2020,2019
+Kepa,Goalkeeper,1994-10-03,24,Spain,Chelsea FC,Premier League,2019/2020,2019
+Willy Caballero,Goalkeeper,1981-09-28,37,Argentina,Chelsea FC,Premier League,2019/2020,2019
+Jamie Cumming,Goalkeeper,1999-09-04,19,England,Chelsea FC,Premier League,2019/2020,2019
+Antonio Rüdiger,Centre-Back,1993-03-03,26,Germany,Chelsea FC,Premier League,2019/2020,2019
+Kurt Zouma,Centre-Back,1994-10-27,24,France,Chelsea FC,Premier League,2019/2020,2019
+Andreas Christensen,Centre-Back,1996-04-10,23,Denmark,Chelsea FC,Premier League,2019/2020,2019
+Fikayo Tomori,Centre-Back,1997-12-19,21,England,Chelsea FC,Premier League,2019/2020,2019
+Marc Guehi,Centre-Back,2000-07-13,18,England,Chelsea FC,Premier League,2019/2020,2019
+Dynel Simeu,Centre-Back,2002-03-13,17,England,Chelsea FC,Premier League,2019/2020,2019
+Emerson,Left-Back,1994-08-03,24,Italy,Chelsea FC,Premier League,2019/2020,2019
+Marcos Alonso,Left-Back,1990-12-28,28,Spain,Chelsea FC,Premier League,2019/2020,2019
+Ian Maatsen,Left-Back,2002-03-10,17,Netherlands,Chelsea FC,Premier League,2019/2020,2019
+César Azpilicueta,Right-Back,1989-08-28,29,Spain,Chelsea FC,Premier League,2019/2020,2019
+Reece James,Right-Back,1999-12-08,19,England,Chelsea FC,Premier League,2019/2020,2019
+Tariq Lamptey,Right-Back,2000-09-30,18,England,Chelsea FC,Premier League,2019/2020,2019
+Henry Lawrence,Right-Back,2001-09-21,17,England,Chelsea FC,Premier League,2019/2020,2019
+Jorginho,Defensive Midfield,1991-12-20,27,Italy,Chelsea FC,Premier League,2019/2020,2019
+N'Golo Kanté,Central Midfield,1991-03-29,28,France,Chelsea FC,Premier League,2019/2020,2019
+Mateo Kovacic,Central Midfield,1994-05-06,25,Croatia,Chelsea FC,Premier League,2019/2020,2019
+Ruben Loftus-Cheek,Central Midfield,1996-01-23,23,England,Chelsea FC,Premier League,2019/2020,2019
+Ross Barkley,Central Midfield,1993-12-05,25,England,Chelsea FC,Premier League,2019/2020,2019
+Billy Gilmour,Central Midfield,2001-06-11,18,Scotland,Chelsea FC,Premier League,2019/2020,2019
+Marco van Ginkel,Central Midfield,1992-12-01,26,Netherlands,Chelsea FC,Premier League,2019/2020,2019
+Lewis Bate,Central Midfield,2002-10-28,16,England,Chelsea FC,Premier League,2019/2020,2019
+Davide Zappacosta,Right Midfield,1992-06-11,27,Italy,Chelsea FC,Premier League,2019/2020,2019
+Mason Mount,Attacking Midfield,1999-01-10,20,England,Chelsea FC,Premier League,2019/2020,2019
+Faustino Anjorin,Attacking Midfield,2001-11-23,17,England,Chelsea FC,Premier League,2019/2020,2019
+Christian Pulisic,Left Winger,1998-09-18,20,United States,Chelsea FC,Premier League,2019/2020,2019
+Callum Hudson-Odoi,Left Winger,2000-11-07,18,England,Chelsea FC,Premier League,2019/2020,2019
+Kenedy,Left Winger,1996-02-08,23,Brazil,Chelsea FC,Premier League,2019/2020,2019
+Willian,Right Winger,1988-08-09,30,Brazil,Chelsea FC,Premier League,2019/2020,2019
+Pedro,Right Winger,1987-07-28,31,Spain,Chelsea FC,Premier League,2019/2020,2019
+Tammy Abraham,Centre-Forward,1997-10-02,21,England,Chelsea FC,Premier League,2019/2020,2019
+Michy Batshuayi,Centre-Forward,1993-10-02,25,Belgium,Chelsea FC,Premier League,2019/2020,2019
+Olivier Giroud,Centre-Forward,1986-09-30,32,France,Chelsea FC,Premier League,2019/2020,2019
+Armando Broja,Centre-Forward,2001-09-10,17,Albania,Chelsea FC,Premier League,2019/2020,2019
+David de Gea,Goalkeeper,1990-11-07,28,Spain,Manchester United,Premier League,2019/2020,2019
+Sergio Romero,Goalkeeper,1987-02-22,32,Argentina,Manchester United,Premier League,2019/2020,2019
+Lee Grant,Goalkeeper,1983-01-27,36,England,Manchester United,Premier League,2019/2020,2019
+Joel Pereira,Goalkeeper,1996-06-28,23,Portugal,Manchester United,Premier League,2019/2020,2019
+Matej Kovar,Goalkeeper,2000-05-17,19,Czech Republic,Manchester United,Premier League,2019/2020,2019
+Harry Maguire,Centre-Back,1993-03-05,26,England,Manchester United,Premier League,2019/2020,2019
+Victor Lindelöf,Centre-Back,1994-07-17,24,Sweden,Manchester United,Premier League,2019/2020,2019
+Eric Bailly,Centre-Back,1994-04-12,25,Cote d'Ivoire,Manchester United,Premier League,2019/2020,2019
+Marcos Rojo,Centre-Back,1990-03-20,29,Argentina,Manchester United,Premier League,2019/2020,2019
+Axel Tuanzebe,Centre-Back,1997-11-14,21,England,Manchester United,Premier League,2019/2020,2019
+Phil Jones,Centre-Back,1992-02-21,27,England,Manchester United,Premier League,2019/2020,2019
+Max Taylor,Centre-Back,2000-01-10,19,England,Manchester United,Premier League,2019/2020,2019
+Di'Shon Bernard,Centre-Back,2000-10-14,18,England,Manchester United,Premier League,2019/2020,2019
+Teden Mengi,Centre-Back,2002-04-30,17,England,Manchester United,Premier League,2019/2020,2019
+Luke Shaw,Left-Back,1995-07-12,23,England,Manchester United,Premier League,2019/2020,2019
+Brandon Williams,Left-Back,2000-09-03,18,England,Manchester United,Premier League,2019/2020,2019
+Cameron Borthwick-Jackson,Left-Back,1997-02-02,22,England,Manchester United,Premier League,2019/2020,2019
+Aaron Wan-Bissaka,Right-Back,1997-11-26,21,England,Manchester United,Premier League,2019/2020,2019
+Diogo Dalot,Right-Back,1999-03-18,20,Portugal,Manchester United,Premier League,2019/2020,2019
+Timothy Fosu-Mensah,Right-Back,1998-01-02,21,Netherlands,Manchester United,Premier League,2019/2020,2019
+Ethan Laird,Right-Back,2001-08-05,17,England,Manchester United,Premier League,2019/2020,2019
+Nemanja Matic,Defensive Midfield,1988-08-01,30,Serbia,Manchester United,Premier League,2019/2020,2019
+James Garner,Defensive Midfield,2001-03-13,18,England,Manchester United,Premier League,2019/2020,2019
+Paul Pogba,Central Midfield,1993-03-15,26,France,Manchester United,Premier League,2019/2020,2019
+Scott McTominay,Central Midfield,1996-12-08,22,Scotland,Manchester United,Premier League,2019/2020,2019
+Fred,Central Midfield,1993-03-05,26,Brazil,Manchester United,Premier League,2019/2020,2019
+Ethan Galbraith,Central Midfield,2001-05-11,18,Northern Ireland,Manchester United,Premier League,2019/2020,2019
+Arnau Puigmal,Central Midfield,2001-01-10,18,Spain,Manchester United,Premier League,2019/2020,2019
+Dylan Levitt,Central Midfield,2000-11-17,18,Wales,Manchester United,Premier League,2019/2020,2019
+Ashley Young,Left Midfield,1985-07-09,33,England,Manchester United,Premier League,2019/2020,2019
+Bruno Fernandes,Attacking Midfield,1994-09-08,24,Portugal,Manchester United,Premier League,2019/2020,2019
+Jesse Lingard,Attacking Midfield,1992-12-15,26,England,Manchester United,Premier League,2019/2020,2019
+Andreas Pereira,Attacking Midfield,1996-01-01,23,Brazil,Manchester United,Premier League,2019/2020,2019
+Juan Mata,Attacking Midfield,1988-04-28,31,Spain,Manchester United,Premier League,2019/2020,2019
+Angel Gomes,Attacking Midfield,2000-08-31,18,England,Manchester United,Premier League,2019/2020,2019
+Marcus Rashford,Left Winger,1997-10-31,21,England,Manchester United,Premier League,2019/2020,2019
+Daniel James,Left Winger,1997-11-10,21,Wales,Manchester United,Premier League,2019/2020,2019
+Largie Ramazani,Left Winger,2001-02-27,18,Belgium,Manchester United,Premier League,2019/2020,2019
+Mason Greenwood,Right Winger,2001-10-01,17,England,Manchester United,Premier League,2019/2020,2019
+Tahith Chong,Right Winger,1999-12-04,19,Netherlands,Manchester United,Premier League,2019/2020,2019
+Anthony Martial,Centre-Forward,1995-12-05,23,France,Manchester United,Premier League,2019/2020,2019
+Odion Ighalo,Centre-Forward,1989-06-16,30,Nigeria,Manchester United,Premier League,2019/2020,2019
+D'Mani Bughail-Mellor,Centre-Forward,2000-09-20,18,England,Manchester United,Premier League,2019/2020,2019
+Bernd Leno,Goalkeeper,1992-03-04,27,Germany,Arsenal FC,Premier League,2019/2020,2019
+Emiliano Martínez,Goalkeeper,1992-09-02,26,Argentina,Arsenal FC,Premier League,2019/2020,2019
+Matt Macey,Goalkeeper,1994-09-09,24,England,Arsenal FC,Premier League,2019/2020,2019
+Sokratis,Centre-Back,1988-06-09,31,Greece,Arsenal FC,Premier League,2019/2020,2019
+Calum Chambers,Centre-Back,1995-01-20,24,England,Arsenal FC,Premier League,2019/2020,2019
+Shkodran Mustafi,Centre-Back,1992-04-17,27,Germany,Arsenal FC,Premier League,2019/2020,2019
+David Luiz,Centre-Back,1987-04-22,32,Brazil,Arsenal FC,Premier League,2019/2020,2019
+Rob Holding,Centre-Back,1995-09-20,23,England,Arsenal FC,Premier League,2019/2020,2019
+Pablo Marí,Centre-Back,1993-08-31,25,Spain,Arsenal FC,Premier League,2019/2020,2019
+Konstantinos Mavropanos,Centre-Back,1997-12-11,21,Greece,Arsenal FC,Premier League,2019/2020,2019
+Zech Medley,Centre-Back,2000-07-09,18,England,Arsenal FC,Premier League,2019/2020,2019
+Kieran Tierney,Left-Back,1997-06-05,22,Scotland,Arsenal FC,Premier League,2019/2020,2019
+Sead Kolasinac,Left-Back,1993-06-20,26,Bosnia-Herzegovina,Arsenal FC,Premier League,2019/2020,2019
+Nacho Monreal,Left-Back,1986-02-26,33,Spain,Arsenal FC,Premier League,2019/2020,2019
+Tolaji Bola,Left-Back,1999-01-04,20,England,Arsenal FC,Premier League,2019/2020,2019
+Héctor Bellerín,Right-Back,1995-03-19,24,Spain,Arsenal FC,Premier League,2019/2020,2019
+Cédric Soares,Right-Back,1991-08-31,27,Portugal,Arsenal FC,Premier League,2019/2020,2019
+Lucas Torreira,Defensive Midfield,1996-02-11,23,Uruguay,Arsenal FC,Premier League,2019/2020,2019
+Granit Xhaka,Defensive Midfield,1992-09-27,26,Switzerland,Arsenal FC,Premier League,2019/2020,2019
+Mattéo Guendouzi,Central Midfield,1999-04-14,20,France,Arsenal FC,Premier League,2019/2020,2019
+Dani Ceballos,Central Midfield,1996-08-07,22,Spain,Arsenal FC,Premier League,2019/2020,2019
+Joe Willock,Central Midfield,1999-08-20,19,England,Arsenal FC,Premier League,2019/2020,2019
+Robbie Burton,Central Midfield,1999-12-26,19,Wales,Arsenal FC,Premier League,2019/2020,2019
+James Olayinka,Central Midfield,2000-10-05,18,England,Arsenal FC,Premier League,2019/2020,2019
+Matt Smith,Central Midfield,2000-10-05,18,England,Arsenal FC,Premier League,2019/2020,2019
+Ainsley Maitland-Niles,Right Midfield,1997-08-29,21,England,Arsenal FC,Premier League,2019/2020,2019
+Bukayo Saka,Left Midfield,2001-09-05,17,England,Arsenal FC,Premier League,2019/2020,2019
+Henrikh Mkhitaryan,Attacking Midfield,1989-01-21,30,Armenia,Arsenal FC,Premier League,2019/2020,2019
+Mesut Özil,Attacking Midfield,1988-10-15,30,Germany,Arsenal FC,Premier League,2019/2020,2019
+Emile Smith Rowe,Attacking Midfield,2000-07-28,18,England,Arsenal FC,Premier League,2019/2020,2019
+Gabriel Martinelli,Left Winger,2001-06-18,18,Brazil,Arsenal FC,Premier League,2019/2020,2019
+Nicolas Pépé,Right Winger,1995-05-29,24,Cote d'Ivoire,Arsenal FC,Premier League,2019/2020,2019
+Reiss Nelson,Right Winger,1999-12-10,19,England,Arsenal FC,Premier League,2019/2020,2019
+Pierre-Emerick Aubameyang,Centre-Forward,1989-06-18,30,Gabon,Arsenal FC,Premier League,2019/2020,2019
+Alexandre Lacazette,Centre-Forward,1991-05-28,28,France,Arsenal FC,Premier League,2019/2020,2019
+Eddie Nketiah,Centre-Forward,1999-05-30,20,England,Arsenal FC,Premier League,2019/2020,2019
+Tyreece John-Jules,Centre-Forward,2001-02-14,18,England,Arsenal FC,Premier League,2019/2020,2019
+Folarin Balogun,Centre-Forward,2001-07-03,17,England,Arsenal FC,Premier League,2019/2020,2019
+Jordan Pickford,Goalkeeper,1994-03-07,25,England,Everton FC,Premier League,2019/2020,2019
+Jonas Lössl,Goalkeeper,1989-02-01,30,Denmark,Everton FC,Premier League,2019/2020,2019
+Maarten Stekelenburg,Goalkeeper,1982-09-22,36,Netherlands,Everton FC,Premier League,2019/2020,2019
+João Virgínia,Goalkeeper,1999-10-10,19,Portugal,Everton FC,Premier League,2019/2020,2019
+Michael Keane,Centre-Back,1993-01-11,26,England,Everton FC,Premier League,2019/2020,2019
+Yerry Mina,Centre-Back,1994-09-23,24,Colombia,Everton FC,Premier League,2019/2020,2019
+Mason Holgate,Centre-Back,1996-10-22,22,England,Everton FC,Premier League,2019/2020,2019
+Lewis Gibson,Centre-Back,2000-07-19,18,England,Everton FC,Premier League,2019/2020,2019
+Jarrad Branthwaite,Centre-Back,2002-06-27,17,England,Everton FC,Premier League,2019/2020,2019
+Lucas Digne,Left-Back,1993-07-20,25,France,Everton FC,Premier League,2019/2020,2019
+Leighton Baines,Left-Back,1984-12-11,34,England,Everton FC,Premier League,2019/2020,2019
+Luke Garbutt,Left-Back,1993-05-21,26,England,Everton FC,Premier League,2019/2020,2019
+Djibril Sidibé,Right-Back,1992-07-29,26,France,Everton FC,Premier League,2019/2020,2019
+Seamus Coleman,Right-Back,1988-10-11,30,Ireland,Everton FC,Premier League,2019/2020,2019
+Cuco Martina,Right-Back,1989-09-25,29,Curacao,Everton FC,Premier League,2019/2020,2019
+Jean-Philippe Gbamin,Defensive Midfield,1995-09-25,23,Cote d'Ivoire,Everton FC,Premier League,2019/2020,2019
+Morgan Schneiderlin,Defensive Midfield,1989-11-08,29,France,Everton FC,Premier League,2019/2020,2019
+Muhamed Besic,Defensive Midfield,1992-09-10,26,Bosnia-Herzegovina,Everton FC,Premier League,2019/2020,2019
+André Gomes,Central Midfield,1993-07-30,25,Portugal,Everton FC,Premier League,2019/2020,2019
+Tom Davies,Central Midfield,1998-06-30,21,England,Everton FC,Premier League,2019/2020,2019
+Fabian Delph,Central Midfield,1989-11-21,29,England,Everton FC,Premier League,2019/2020,2019
+Beni Baningime,Central Midfield,1998-09-09,20,DR Congo,Everton FC,Premier League,2019/2020,2019
+Dennis Adeniran,Central Midfield,1999-01-02,20,England,Everton FC,Premier League,2019/2020,2019
+Gylfi Sigurdsson,Attacking Midfield,1989-09-08,29,Iceland,Everton FC,Premier League,2019/2020,2019
+Alex Iwobi,Left Winger,1996-05-03,23,Nigeria,Everton FC,Premier League,2019/2020,2019
+Bernard,Left Winger,1992-09-08,26,Brazil,Everton FC,Premier League,2019/2020,2019
+Yannick Bolasie,Left Winger,1989-05-24,30,DR Congo,Everton FC,Premier League,2019/2020,2019
+Anthony Gordon,Left Winger,2001-02-24,18,England,Everton FC,Premier League,2019/2020,2019
+Theo Walcott,Right Winger,1989-03-16,30,England,Everton FC,Premier League,2019/2020,2019
+Richarlison,Centre-Forward,1997-05-10,22,Brazil,Everton FC,Premier League,2019/2020,2019
+Moise Kean,Centre-Forward,2000-02-28,19,Italy,Everton FC,Premier League,2019/2020,2019
+Dominic Calvert-Lewin,Centre-Forward,1997-03-16,22,England,Everton FC,Premier League,2019/2020,2019
+Cenk Tosun,Centre-Forward,1991-06-07,28,Turkey,Everton FC,Premier League,2019/2020,2019
+Oumar Niasse,Centre-Forward,1990-04-18,29,Senegal,Everton FC,Premier League,2019/2020,2019
+Ellis Simms,Centre-Forward,2001-01-05,18,England,Everton FC,Premier League,2019/2020,2019
+Kasper Schmeichel,Goalkeeper,1986-11-05,32,Denmark,Leicester City,Premier League,2019/2020,2019
+Danny Ward,Goalkeeper,1993-06-22,26,Wales,Leicester City,Premier League,2019/2020,2019
+Eldin Jakupovic,Goalkeeper,1984-10-02,34,Switzerland,Leicester City,Premier League,2019/2020,2019
+Caglar Söyüncü,Centre-Back,1996-05-23,23,Turkey,Leicester City,Premier League,2019/2020,2019
+Jonny Evans,Centre-Back,1988-01-03,31,Northern Ireland,Leicester City,Premier League,2019/2020,2019
+Filip Benkovic,Centre-Back,1997-07-13,21,Croatia,Leicester City,Premier League,2019/2020,2019
+Ryan Bennett,Centre-Back,1990-03-06,29,England,Leicester City,Premier League,2019/2020,2019
+Wes Morgan,Centre-Back,1984-01-21,35,Jamaica,Leicester City,Premier League,2019/2020,2019
+Darnell Johnson,Centre-Back,1998-09-03,20,England,Leicester City,Premier League,2019/2020,2019
+Ben Chilwell,Left-Back,1996-12-21,22,England,Leicester City,Premier League,2019/2020,2019
+Christian Fuchs,Left-Back,1986-04-07,33,Austria,Leicester City,Premier League,2019/2020,2019
+Luke Thomas,Left-Back,2001-06-10,18,England,Leicester City,Premier League,2019/2020,2019
+Ricardo Pereira,Right-Back,1993-10-06,25,Portugal,Leicester City,Premier League,2019/2020,2019
+James Justin,Right-Back,1998-02-23,21,England,Leicester City,Premier League,2019/2020,2019
+Wilfred Ndidi,Defensive Midfield,1996-12-16,22,Nigeria,Leicester City,Premier League,2019/2020,2019
+Hamza Choudhury,Defensive Midfield,1997-10-01,21,England,Leicester City,Premier League,2019/2020,2019
+Daniel Amartey,Defensive Midfield,1994-12-21,24,Ghana,Leicester City,Premier League,2019/2020,2019
+Nampalys Mendy,Defensive Midfield,1992-06-23,27,France,Leicester City,Premier League,2019/2020,2019
+Kiernan Dewsbury-Hall,Defensive Midfield,1998-09-06,20,England,Leicester City,Premier League,2019/2020,2019
+Youri Tielemans,Central Midfield,1997-05-07,22,Belgium,Leicester City,Premier League,2019/2020,2019
+Dennis Praet,Central Midfield,1994-05-14,25,Belgium,Leicester City,Premier League,2019/2020,2019
+Matty James,Central Midfield,1991-07-22,27,England,Leicester City,Premier League,2019/2020,2019
+Marc Albrighton,Right Midfield,1989-11-18,29,England,Leicester City,Premier League,2019/2020,2019
+Harvey Barnes,Left Midfield,1997-12-09,21,England,Leicester City,Premier League,2019/2020,2019
+James Maddison,Attacking Midfield,1996-11-23,22,England,Leicester City,Premier League,2019/2020,2019
+Bartosz Kapustka,Attacking Midfield,1996-12-23,22,Poland,Leicester City,Premier League,2019/2020,2019
+George Thomas,Attacking Midfield,1997-03-24,22,Wales,Leicester City,Premier League,2019/2020,2019
+Demarai Gray,Left Winger,1996-06-28,23,England,Leicester City,Premier League,2019/2020,2019
+Ayoze Pérez,Right Winger,1993-07-29,25,Spain,Leicester City,Premier League,2019/2020,2019
+Jamie Vardy,Centre-Forward,1987-01-11,32,England,Leicester City,Premier League,2019/2020,2019
+Kelechi Iheanacho,Centre-Forward,1996-10-03,22,Nigeria,Leicester City,Premier League,2019/2020,2019
+George Hirst,Centre-Forward,1999-02-15,20,England,Leicester City,Premier League,2019/2020,2019
+Lukasz Fabianski,Goalkeeper,1985-04-18,34,Poland,West Ham United,Premier League,2019/2020,2019
+Darren Randolph,Goalkeeper,1987-05-12,32,Ireland,West Ham United,Premier League,2019/2020,2019
+Roberto,Goalkeeper,1986-02-10,33,Spain,West Ham United,Premier League,2019/2020,2019
+David Martin,Goalkeeper,1986-01-22,33,England,West Ham United,Premier League,2019/2020,2019
+Joseph Anang,Goalkeeper,2000-06-08,19,England,West Ham United,Premier League,2019/2020,2019
+Issa Diop,Centre-Back,1997-01-09,22,France,West Ham United,Premier League,2019/2020,2019
+Fabián Balbuena,Centre-Back,1991-08-23,27,Paraguay,West Ham United,Premier League,2019/2020,2019
+Angelo Ogbonna,Centre-Back,1988-05-23,31,Italy,West Ham United,Premier League,2019/2020,2019
+Winston Reid,Centre-Back,1988-07-03,30,New Zealand,West Ham United,Premier League,2019/2020,2019
+Gonçalo Cardoso,Centre-Back,2000-10-21,18,Portugal,West Ham United,Premier League,2019/2020,2019
+Aaron Cresswell,Left-Back,1989-12-15,29,England,West Ham United,Premier League,2019/2020,2019
+Arthur Masuaku,Left-Back,1993-11-07,25,DR Congo,West Ham United,Premier League,2019/2020,2019
+Ryan Fredericks,Right-Back,1992-10-10,26,England,West Ham United,Premier League,2019/2020,2019
+Pablo Zabaleta,Right-Back,1985-01-16,34,Argentina,West Ham United,Premier League,2019/2020,2019
+Jeremy Ngakia,Right-Back,2000-09-07,18,England,West Ham United,Premier League,2019/2020,2019
+Ben Johnson,Right-Back,2000-01-24,19,England,West Ham United,Premier League,2019/2020,2019
+Declan Rice,Defensive Midfield,1999-01-14,20,England,West Ham United,Premier League,2019/2020,2019
+Tomas Soucek,Defensive Midfield,1995-02-27,24,Czech Republic,West Ham United,Premier League,2019/2020,2019
+Carlos Sánchez,Defensive Midfield,1986-02-06,33,Colombia,West Ham United,Premier League,2019/2020,2019
+Conor Coventry,Defensive Midfield,2000-03-25,19,Ireland,West Ham United,Premier League,2019/2020,2019
+Mark Noble,Central Midfield,1987-05-08,32,England,West Ham United,Premier League,2019/2020,2019
+Jack Wilshere,Central Midfield,1992-01-01,27,England,West Ham United,Premier League,2019/2020,2019
+Bernardo Rosa,Central Midfield,2000-09-20,18,Brazil,West Ham United,Premier League,2019/2020,2019
+Alfie Lewis,Central Midfield,1999-09-28,19,England,West Ham United,Premier League,2019/2020,2019
+Pablo Fornals,Left Midfield,1996-02-22,23,Spain,West Ham United,Premier League,2019/2020,2019
+Manuel Lanzini,Attacking Midfield,1993-02-15,26,Argentina,West Ham United,Premier League,2019/2020,2019
+Felipe Anderson,Left Winger,1993-04-15,26,Brazil,West Ham United,Premier League,2019/2020,2019
+Grady Diangana,Left Winger,1998-04-19,21,England,West Ham United,Premier League,2019/2020,2019
+Nathan Holland,Left Winger,1998-06-19,21,England,West Ham United,Premier League,2019/2020,2019
+Jarrod Bowen,Right Winger,1996-12-20,22,England,West Ham United,Premier League,2019/2020,2019
+Andriy Yarmolenko,Right Winger,1989-10-23,29,Ukraine,West Ham United,Premier League,2019/2020,2019
+Robert Snodgrass,Right Winger,1987-09-07,31,Scotland,West Ham United,Premier League,2019/2020,2019
+Xande Silva,Right Winger,1997-03-16,22,Portugal,West Ham United,Premier League,2019/2020,2019
+Dan Kemp,Right Winger,1999-01-11,20,England,West Ham United,Premier League,2019/2020,2019
+Sébastien Haller,Centre-Forward,1994-06-22,25,France,West Ham United,Premier League,2019/2020,2019
+Michail Antonio,Centre-Forward,1990-03-28,29,England,West Ham United,Premier League,2019/2020,2019
+Chicharito,Centre-Forward,1988-06-01,31,Mexico,West Ham United,Premier League,2019/2020,2019
+Albian Ajeti,Centre-Forward,1997-02-26,22,Switzerland,West Ham United,Premier League,2019/2020,2019
+Rui Patrício,Goalkeeper,1988-02-15,31,Portugal,Wolverhampton Wanderers,Premier League,2019/2020,2019
+John Ruddy,Goalkeeper,1986-10-24,32,England,Wolverhampton Wanderers,Premier League,2019/2020,2019
+Will Norris,Goalkeeper,1993-08-12,25,England,Wolverhampton Wanderers,Premier League,2019/2020,2019
+Andreas Söndergaard,Goalkeeper,2001-01-17,18,Denmark,Wolverhampton Wanderers,Premier League,2019/2020,2019
+Willy Boly,Centre-Back,1991-02-03,28,France,Wolverhampton Wanderers,Premier League,2019/2020,2019
+Conor Coady,Centre-Back,1993-02-25,26,England,Wolverhampton Wanderers,Premier League,2019/2020,2019
+Jesús Vallejo,Centre-Back,1997-01-05,22,Spain,Wolverhampton Wanderers,Premier League,2019/2020,2019
+Ryan Bennett,Centre-Back,1990-03-06,29,England,Wolverhampton Wanderers,Premier League,2019/2020,2019
+Romain Saïss,Centre-Back,1990-03-26,29,Morocco,Wolverhampton Wanderers,Premier League,2019/2020,2019
+Max Kilman,Centre-Back,1997-05-23,22,England,Wolverhampton Wanderers,Premier League,2019/2020,2019
+Dion Sanderson,Centre-Back,1999-12-15,19,England,Wolverhampton Wanderers,Premier League,2019/2020,2019
+Christian Marques,Centre-Back,2003-01-15,16,Switzerland,Wolverhampton Wanderers,Premier League,2019/2020,2019
+Jonny Otto,Left-Back,1994-03-03,25,Spain,Wolverhampton Wanderers,Premier League,2019/2020,2019
+Rúben Vinagre,Left-Back,1999-04-09,20,Portugal,Wolverhampton Wanderers,Premier League,2019/2020,2019
+Lewis Richards,Left-Back,2001-10-15,17,Ireland,Wolverhampton Wanderers,Premier League,2019/2020,2019
+Matt Doherty,Right-Back,1992-01-16,27,Ireland,Wolverhampton Wanderers,Premier League,2019/2020,2019
+Luke Matheson,Right-Back,2002-10-02,16,England,Wolverhampton Wanderers,Premier League,2019/2020,2019
+Phil Ofosu-Ayeh,Right-Back,1991-09-15,27,Ghana,Wolverhampton Wanderers,Premier League,2019/2020,2019
+Oskar Buur,Right-Back,1998-03-31,21,Denmark,Wolverhampton Wanderers,Premier League,2019/2020,2019
+Rúben Neves,Defensive Midfield,1997-03-13,22,Portugal,Wolverhampton Wanderers,Premier League,2019/2020,2019
+Leander Dendoncker,Defensive Midfield,1995-04-15,24,Belgium,Wolverhampton Wanderers,Premier League,2019/2020,2019
+Flávio Cristóvão,Defensive Midfield,1997-05-23,22,Portugal,Wolverhampton Wanderers,Premier League,2019/2020,2019
+Terry Taylor,Defensive Midfield,2001-06-29,18,Wales,Wolverhampton Wanderers,Premier League,2019/2020,2019
+Owen Otasowie,Defensive Midfield,2001-01-06,18,United States,Wolverhampton Wanderers,Premier League,2019/2020,2019
+João Moutinho,Central Midfield,1986-09-08,32,Portugal,Wolverhampton Wanderers,Premier League,2019/2020,2019
+Morgan Gibbs-White,Central Midfield,2000-01-27,19,England,Wolverhampton Wanderers,Premier League,2019/2020,2019
+Bruno Jordão,Central Midfield,1998-10-12,20,Portugal,Wolverhampton Wanderers,Premier League,2019/2020,2019
+Connor Ronan,Central Midfield,1998-03-06,21,Ireland,Wolverhampton Wanderers,Premier League,2019/2020,2019
+Ming-Yang Yang,Central Midfield,1995-07-11,23,Switzerland,Wolverhampton Wanderers,Premier League,2019/2020,2019
+Chem Campbell,Central Midfield,2002-12-30,16,Wales,Wolverhampton Wanderers,Premier League,2019/2020,2019
+Ryan Giles,Left Midfield,2000-01-26,19,England,Wolverhampton Wanderers,Premier League,2019/2020,2019
+Meritan Shabani,Attacking Midfield,1999-03-15,20,Germany,Wolverhampton Wanderers,Premier League,2019/2020,2019
+Taylor Perry,Attacking Midfield,2001-07-15,17,England,Wolverhampton Wanderers,Premier League,2019/2020,2019
+Luke Cundle,Attacking Midfield,2002-04-26,17,England,Wolverhampton Wanderers,Premier League,2019/2020,2019
+Diogo Jota,Left Winger,1996-12-04,22,Portugal,Wolverhampton Wanderers,Premier League,2019/2020,2019
+Daniel Podence,Left Winger,1995-10-21,23,Portugal,Wolverhampton Wanderers,Premier League,2019/2020,2019
+Pedro Neto,Left Winger,2000-03-09,19,Portugal,Wolverhampton Wanderers,Premier League,2019/2020,2019
+Jordan Graham,Left Winger,1995-03-05,24,England,Wolverhampton Wanderers,Premier League,2019/2020,2019
+Adama Traoré,Right Winger,1996-01-25,23,Spain,Wolverhampton Wanderers,Premier League,2019/2020,2019
+Raúl Jiménez,Centre-Forward,1991-05-05,28,Mexico,Wolverhampton Wanderers,Premier League,2019/2020,2019
+Patrick Cutrone,Centre-Forward,1998-01-03,21,Italy,Wolverhampton Wanderers,Premier League,2019/2020,2019
+Leonardo Campana,Centre-Forward,2000-07-24,18,Ecuador,Wolverhampton Wanderers,Premier League,2019/2020,2019
+Benny Ashley-Seal,Centre-Forward,1998-11-21,20,England,Wolverhampton Wanderers,Premier League,2019/2020,2019
+Austin Samuels,Centre-Forward,2000-11-20,18,England,Wolverhampton Wanderers,Premier League,2019/2020,2019
+Martin Dubravka,Goalkeeper,1989-01-15,30,Slovakia,Newcastle United,Premier League,2019/2020,2019
+Karl Darlow,Goalkeeper,1990-10-08,28,England,Newcastle United,Premier League,2019/2020,2019
+Rob Elliot,Goalkeeper,1986-04-30,33,Ireland,Newcastle United,Premier League,2019/2020,2019
+Jamaal Lascelles,Centre-Back,1993-11-11,25,England,Newcastle United,Premier League,2019/2020,2019
+Fabian Schär,Centre-Back,1991-12-20,27,Switzerland,Newcastle United,Premier League,2019/2020,2019
+Paul Dummett,Centre-Back,1991-09-26,27,Wales,Newcastle United,Premier League,2019/2020,2019
+Federico Fernández,Centre-Back,1989-02-21,30,Argentina,Newcastle United,Premier League,2019/2020,2019
+Ciaran Clark,Centre-Back,1989-09-26,29,Ireland,Newcastle United,Premier League,2019/2020,2019
+Florian Lejeune,Centre-Back,1991-05-20,28,France,Newcastle United,Premier League,2019/2020,2019
+Lewis Cass,Centre-Back,2000-02-27,19,England,Newcastle United,Premier League,2019/2020,2019
+Kelland Watts,Centre-Back,1999-11-03,19,England,Newcastle United,Premier League,2019/2020,2019
+Danny Rose,Left-Back,1990-07-02,28,England,Newcastle United,Premier League,2019/2020,2019
+Matt Ritchie,Left-Back,1989-09-10,29,Scotland,Newcastle United,Premier League,2019/2020,2019
+Jetro Willems,Left-Back,1994-03-30,25,Netherlands,Newcastle United,Premier League,2019/2020,2019
+Liam Gibson,Left-Back,1997-04-25,22,England,Newcastle United,Premier League,2019/2020,2019
+DeAndre Yedlin,Right-Back,1993-07-09,25,United States,Newcastle United,Premier League,2019/2020,2019
+Emil Krafth,Right-Back,1994-08-02,24,Sweden,Newcastle United,Premier League,2019/2020,2019
+Javier Manquillo,Right-Back,1994-05-05,25,Spain,Newcastle United,Premier League,2019/2020,2019
+Jamie Sterry,Right-Back,1995-11-21,23,England,Newcastle United,Premier League,2019/2020,2019
+Isaac Hayden,Defensive Midfield,1995-03-22,24,England,Newcastle United,Premier League,2019/2020,2019
+Matthew Longstaff,Defensive Midfield,2000-03-21,19,England,Newcastle United,Premier League,2019/2020,2019
+Sung-yueng Ki,Defensive Midfield,1989-01-24,30,"Korea, South",Newcastle United,Premier League,2019/2020,2019
+Jack Colback,Defensive Midfield,1989-10-24,29,England,Newcastle United,Premier League,2019/2020,2019
+Sean Longstaff,Central Midfield,1997-10-30,21,England,Newcastle United,Premier League,2019/2020,2019
+Jonjo Shelvey,Central Midfield,1992-02-27,27,England,Newcastle United,Premier League,2019/2020,2019
+Nabil Bentaleb,Central Midfield,1994-11-24,24,Algeria,Newcastle United,Premier League,2019/2020,2019
+Dan Barlaser,Central Midfield,1997-01-18,22,England,Newcastle United,Premier League,2019/2020,2019
+Jack Young,Central Midfield,2000-10-21,18,England,Newcastle United,Premier League,2019/2020,2019
+Valentino Lazaro,Right Midfield,1996-03-24,23,Austria,Newcastle United,Premier League,2019/2020,2019
+Miguel Almirón,Attacking Midfield,1994-02-10,25,Paraguay,Newcastle United,Premier League,2019/2020,2019
+Henri Saivet,Attacking Midfield,1990-10-26,28,Senegal,Newcastle United,Premier League,2019/2020,2019
+Allan Saint-Maximin,Left Winger,1997-03-12,22,France,Newcastle United,Premier League,2019/2020,2019
+Christian Atsu,Left Winger,1992-01-10,27,Ghana,Newcastle United,Premier League,2019/2020,2019
+Rolando Aarons,Left Winger,1995-11-16,23,England,Newcastle United,Premier League,2019/2020,2019
+Jacob Murphy,Right Winger,1995-02-24,24,England,Newcastle United,Premier League,2019/2020,2019
+Tom Allan,Right Winger,1999-09-23,19,England,Newcastle United,Premier League,2019/2020,2019
+Joelinton,Centre-Forward,1996-08-14,22,Brazil,Newcastle United,Premier League,2019/2020,2019
+Dwight Gayle,Centre-Forward,1990-10-17,28,England,Newcastle United,Premier League,2019/2020,2019
+Yoshinori Muto,Centre-Forward,1992-07-15,26,Japan,Newcastle United,Premier League,2019/2020,2019
+Andy Carroll,Centre-Forward,1989-01-06,30,England,Newcastle United,Premier League,2019/2020,2019
+Elias Sörensen,Centre-Forward,1999-09-18,19,Denmark,Newcastle United,Premier League,2019/2020,2019
+Aaron Ramsdale,Goalkeeper,1998-05-14,21,England,AFC Bournemouth,Premier League,2019/2020,2019
+Artur Boruc,Goalkeeper,1980-02-20,39,Poland,AFC Bournemouth,Premier League,2019/2020,2019
+Mark Travers,Goalkeeper,1999-05-18,20,Ireland,AFC Bournemouth,Premier League,2019/2020,2019
+Will Dennis,Goalkeeper,2000-07-10,18,England,AFC Bournemouth,Premier League,2019/2020,2019
+Nathan Aké,Centre-Back,1995-02-18,24,Netherlands,AFC Bournemouth,Premier League,2019/2020,2019
+Steve Cook,Centre-Back,1991-04-19,28,England,AFC Bournemouth,Premier League,2019/2020,2019
+Chris Mepham,Centre-Back,1997-11-05,21,Wales,AFC Bournemouth,Premier League,2019/2020,2019
+Jack Simpson,Centre-Back,1996-12-18,22,England,AFC Bournemouth,Premier League,2019/2020,2019
+Corey Jordan,Centre-Back,1999-03-04,20,England,AFC Bournemouth,Premier League,2019/2020,2019
+Brennan Camp,Centre-Back,2000-10-12,18,Scotland,AFC Bournemouth,Premier League,2019/2020,2019
+Diego Rico,Left-Back,1993-02-23,26,Spain,AFC Bournemouth,Premier League,2019/2020,2019
+Lloyd Kelly,Left-Back,1998-10-06,20,England,AFC Bournemouth,Premier League,2019/2020,2019
+Charlie Daniels,Left-Back,1986-09-07,32,England,AFC Bournemouth,Premier League,2019/2020,2019
+Adam Smith,Right-Back,1991-04-29,28,England,AFC Bournemouth,Premier League,2019/2020,2019
+Jack Stacey,Right-Back,1996-04-06,23,England,AFC Bournemouth,Premier League,2019/2020,2019
+Simon Francis,Right-Back,1985-02-16,34,England,AFC Bournemouth,Premier League,2019/2020,2019
+Brooklyn Genesini,Right-Back,2001-12-12,17,England,AFC Bournemouth,Premier League,2019/2020,2019
+Christian Saydee,Midfielder,2002-05-10,17,Liberia,AFC Bournemouth,Premier League,2019/2020,2019
+Jefferson Lerma,Defensive Midfield,1994-10-25,24,Colombia,AFC Bournemouth,Premier League,2019/2020,2019
+Matt Butcher,Defensive Midfield,1997-05-14,22,England,AFC Bournemouth,Premier League,2019/2020,2019
+Lewis Cook,Central Midfield,1997-02-03,22,England,AFC Bournemouth,Premier League,2019/2020,2019
+Philip Billing,Central Midfield,1996-06-11,23,Denmark,AFC Bournemouth,Premier League,2019/2020,2019
+Dan Gosling,Central Midfield,1990-02-01,29,England,AFC Bournemouth,Premier League,2019/2020,2019
+Andrew Surman,Central Midfield,1986-08-20,32,England,AFC Bournemouth,Premier League,2019/2020,2019
+Nnamdi Ofoborh,Central Midfield,1999-11-07,19,Nigeria,AFC Bournemouth,Premier League,2019/2020,2019
+Gavin Kilkenny,Central Midfield,2000-02-01,19,Ireland,AFC Bournemouth,Premier League,2019/2020,2019
+Kyle Taylor,Central Midfield,1999-08-28,19,England,AFC Bournemouth,Premier League,2019/2020,2019
+Ryan Fraser,Left Winger,1994-02-24,25,Scotland,AFC Bournemouth,Premier League,2019/2020,2019
+Arnaut Danjuma,Left Winger,1997-01-31,22,Netherlands,AFC Bournemouth,Premier League,2019/2020,2019
+Junior Stanislas,Left Winger,1989-11-26,29,England,AFC Bournemouth,Premier League,2019/2020,2019
+Alex Dobre,Left Winger,1998-08-30,20,Romania,AFC Bournemouth,Premier League,2019/2020,2019
+David Brooks,Right Winger,1997-07-08,21,Wales,AFC Bournemouth,Premier League,2019/2020,2019
+Harry Wilson,Right Winger,1997-03-22,22,Wales,AFC Bournemouth,Premier League,2019/2020,2019
+Jordon Ibe,Right Winger,1995-12-08,23,England,AFC Bournemouth,Premier League,2019/2020,2019
+Joshua King,Second Striker,1992-01-15,27,Norway,AFC Bournemouth,Premier League,2019/2020,2019
+Callum Wilson,Centre-Forward,1992-02-27,27,England,AFC Bournemouth,Premier League,2019/2020,2019
+Dominic Solanke,Centre-Forward,1997-09-14,21,England,AFC Bournemouth,Premier League,2019/2020,2019
+Jermain Defoe,Centre-Forward,1982-10-07,36,England,AFC Bournemouth,Premier League,2019/2020,2019
+Sam Surridge,Centre-Forward,1998-07-28,20,England,AFC Bournemouth,Premier League,2019/2020,2019
+Ben Foster,Goalkeeper,1983-04-03,36,England,Watford FC,Premier League,2019/2020,2019
+Pontus Dahlberg,Goalkeeper,1999-01-21,20,Sweden,Watford FC,Premier League,2019/2020,2019
+Heurelho Gomes,Goalkeeper,1981-02-15,38,Brazil,Watford FC,Premier League,2019/2020,2019
+Daniel Bachmann,Goalkeeper,1994-07-09,24,Austria,Watford FC,Premier League,2019/2020,2019
+Adam Parkes,Goalkeeper,1999-11-30,19,England,Watford FC,Premier League,2019/2020,2019
+Christian Kabasele,Centre-Back,1991-02-24,28,Belgium,Watford FC,Premier League,2019/2020,2019
+Craig Dawson,Centre-Back,1990-05-06,29,England,Watford FC,Premier League,2019/2020,2019
+Craig Cathcart,Centre-Back,1989-02-06,30,Northern Ireland,Watford FC,Premier League,2019/2020,2019
+Adrian Mariappa,Centre-Back,1986-10-03,32,Jamaica,Watford FC,Premier League,2019/2020,2019
+Sebastian Prödl,Centre-Back,1987-06-21,32,Austria,Watford FC,Premier League,2019/2020,2019
+Mason Barrett,Centre-Back,1999-09-24,19,England,Watford FC,Premier League,2019/2020,2019
+Bayli Spencer-Adams,Centre-Back,2001-06-26,18,England,Watford FC,Premier League,2019/2020,2019
+Andi Janjeva,Centre-Back,2002-10-11,16,England,Watford FC,Premier League,2019/2020,2019
+Adam Masina,Left-Back,1994-01-02,25,Italy,Watford FC,Premier League,2019/2020,2019
+Jose Cholevas,Left-Back,1984-06-27,35,Greece,Watford FC,Premier League,2019/2020,2019
+Kiko Femenía,Right-Back,1991-02-02,28,Spain,Watford FC,Premier League,2019/2020,2019
+Daryl Janmaat,Right-Back,1989-07-22,29,Netherlands,Watford FC,Premier League,2019/2020,2019
+Dimitri Foulquier,Right-Back,1993-03-23,26,Guadeloupe,Watford FC,Premier League,2019/2020,2019
+Jamal Balogun,Right-Back,2000-01-18,19,England,Watford FC,Premier League,2019/2020,2019
+Étienne Capoue,Defensive Midfield,1988-07-11,30,France,Watford FC,Premier League,2019/2020,2019
+Nathaniel Chalobah,Defensive Midfield,1994-12-12,24,England,Watford FC,Premier League,2019/2020,2019
+Callum Whelan,Defensive Midfield,1998-09-24,20,England,Watford FC,Premier League,2019/2020,2019
+Abdoulaye Doucouré,Central Midfield,1993-01-01,26,France,Watford FC,Premier League,2019/2020,2019
+Will Hughes,Central Midfield,1995-04-17,24,England,Watford FC,Premier League,2019/2020,2019
+Tom Cleverley,Central Midfield,1989-08-12,29,England,Watford FC,Premier League,2019/2020,2019
+Domingos Quina,Central Midfield,1999-11-18,19,Portugal,Watford FC,Premier League,2019/2020,2019
+Tom Dele-Bashiru,Central Midfield,1999-09-17,19,Nigeria,Watford FC,Premier League,2019/2020,2019
+Henry Wise,Central Midfield,2000-01-01,19,England,Watford FC,Premier League,2019/2020,2019
+Ken Sema,Left Midfield,1993-09-30,25,Sweden,Watford FC,Premier League,2019/2020,2019
+Roberto Pereyra,Attacking Midfield,1991-01-07,28,Argentina,Watford FC,Premier League,2019/2020,2019
+Gerard Deulofeu,Left Winger,1994-03-13,25,Spain,Watford FC,Premier League,2019/2020,2019
+Isaac Success,Left Winger,1996-01-07,23,Nigeria,Watford FC,Premier League,2019/2020,2019
+Jayden Bennetts,Left Winger,2001-06-26,18,England,Watford FC,Premier League,2019/2020,2019
+Joseph Hungbo,Left Winger,2000-01-15,19,England,Watford FC,Premier League,2019/2020,2019
+Ismaïla Sarr,Right Winger,1998-02-25,21,Senegal,Watford FC,Premier League,2019/2020,2019
+Ignacio Pussetto,Right Winger,1995-12-21,23,Argentina,Watford FC,Premier League,2019/2020,2019
+Kaylen Hinds,Second Striker,1998-01-28,21,England,Watford FC,Premier League,2019/2020,2019
+João Pedro,Centre-Forward,2001-09-26,17,Brazil,Watford FC,Premier League,2019/2020,2019
+Andre Gray,Centre-Forward,1991-06-26,28,England,Watford FC,Premier League,2019/2020,2019
+Troy Deeney,Centre-Forward,1988-06-29,31,England,Watford FC,Premier League,2019/2020,2019
+Danny Welbeck,Centre-Forward,1990-11-26,28,England,Watford FC,Premier League,2019/2020,2019
+Adalberto Peñaranda,Centre-Forward,1997-05-31,22,Venezuela,Watford FC,Premier League,2019/2020,2019
+Sam Dalby,Centre-Forward,1999-12-07,19,England,Watford FC,Premier League,2019/2020,2019
+Fraser Forster,Goalkeeper,1988-03-17,31,England,Southampton FC,Premier League,2019/2020,2019
+Angus Gunn,Goalkeeper,1996-01-22,23,England,Southampton FC,Premier League,2019/2020,2019
+Alex McCarthy,Goalkeeper,1989-12-03,29,England,Southampton FC,Premier League,2019/2020,2019
+Harry Lewis,Goalkeeper,1997-12-20,21,England,Southampton FC,Premier League,2019/2020,2019
+Jack Rose,Goalkeeper,1995-01-31,24,England,Southampton FC,Premier League,2019/2020,2019
+Jannik Vestergaard,Centre-Back,1992-08-03,26,Denmark,Southampton FC,Premier League,2019/2020,2019
+Jan Bednarek,Centre-Back,1996-04-12,23,Poland,Southampton FC,Premier League,2019/2020,2019
+Kevin Danso,Centre-Back,1998-09-19,20,Austria,Southampton FC,Premier League,2019/2020,2019
+Jack Stephens,Centre-Back,1994-01-27,25,England,Southampton FC,Premier League,2019/2020,2019
+Maya Yoshida,Centre-Back,1988-08-24,30,Japan,Southampton FC,Premier League,2019/2020,2019
+Ryan Bertrand,Left-Back,1989-08-05,29,England,Southampton FC,Premier League,2019/2020,2019
+Sam McQueen,Left-Back,1995-02-06,24,England,Southampton FC,Premier League,2019/2020,2019
+Jake Vokins,Left-Back,2000-03-17,19,England,Southampton FC,Premier League,2019/2020,2019
+Cédric Soares,Right-Back,1991-08-31,27,Portugal,Southampton FC,Premier League,2019/2020,2019
+Kyle Walker-Peters,Right-Back,1997-04-13,22,England,Southampton FC,Premier League,2019/2020,2019
+Yan Valery,Right-Back,1999-02-22,20,France,Southampton FC,Premier League,2019/2020,2019
+Pierre-Emile Höjbjerg,Defensive Midfield,1995-08-05,23,Denmark,Southampton FC,Premier League,2019/2020,2019
+Oriol Romeu,Defensive Midfield,1991-09-24,27,Spain,Southampton FC,Premier League,2019/2020,2019
+James Ward-Prowse,Central Midfield,1994-11-01,24,England,Southampton FC,Premier League,2019/2020,2019
+Callum Slattery,Central Midfield,1999-02-08,20,England,Southampton FC,Premier League,2019/2020,2019
+Alexandre Jankewitz,Central Midfield,2001-12-25,17,Switzerland,Southampton FC,Premier League,2019/2020,2019
+Will Smallbone,Central Midfield,2000-02-21,19,Ireland,Southampton FC,Premier League,2019/2020,2019
+Stuart Armstrong,Attacking Midfield,1992-03-30,27,Scotland,Southampton FC,Premier League,2019/2020,2019
+Jake Hesketh,Attacking Midfield,1996-03-27,23,England,Southampton FC,Premier League,2019/2020,2019
+Jacob Maddox,Attacking Midfield,1998-11-03,20,England,Southampton FC,Premier League,2019/2020,2019
+Nathan Redmond,Left Winger,1994-03-06,25,England,Southampton FC,Premier League,2019/2020,2019
+Moussa Djenepo,Left Winger,1998-06-15,21,Mali,Southampton FC,Premier League,2019/2020,2019
+Mohamed Elyounoussi,Left Winger,1994-08-04,24,Norway,Southampton FC,Premier League,2019/2020,2019
+Sofiane Boufal,Left Winger,1993-09-17,25,Morocco,Southampton FC,Premier League,2019/2020,2019
+Will Ferry,Left Winger,2000-12-07,18,Ireland,Southampton FC,Premier League,2019/2020,2019
+Nathan Tella,Right Winger,1999-07-05,19,England,Southampton FC,Premier League,2019/2020,2019
+Danny Ings,Centre-Forward,1992-07-23,26,England,Southampton FC,Premier League,2019/2020,2019
+Che Adams,Centre-Forward,1996-07-13,22,England,Southampton FC,Premier League,2019/2020,2019
+Michael Obafemi,Centre-Forward,2000-07-06,18,Ireland,Southampton FC,Premier League,2019/2020,2019
+Shane Long,Centre-Forward,1987-01-22,32,Ireland,Southampton FC,Premier League,2019/2020,2019
+Dan N'Lundulu,Centre-Forward,1999-02-05,20,England,Southampton FC,Premier League,2019/2020,2019
+Vicente Guaita,Goalkeeper,1987-01-10,32,Spain,Crystal Palace,Premier League,2019/2020,2019
+Wayne Hennessey,Goalkeeper,1987-01-24,32,Wales,Crystal Palace,Premier League,2019/2020,2019
+Stephen Henderson,Goalkeeper,1988-05-02,31,Ireland,Crystal Palace,Premier League,2019/2020,2019
+Mamadou Sakho,Centre-Back,1990-02-13,29,France,Crystal Palace,Premier League,2019/2020,2019
+James Tomkins,Centre-Back,1989-03-29,30,England,Crystal Palace,Premier League,2019/2020,2019
+Gary Cahill,Centre-Back,1985-12-19,33,England,Crystal Palace,Premier League,2019/2020,2019
+Jairo Riedewald,Centre-Back,1996-09-09,22,Netherlands,Crystal Palace,Premier League,2019/2020,2019
+Scott Dann,Centre-Back,1987-02-14,32,England,Crystal Palace,Premier League,2019/2020,2019
+Ryan Inniss,Centre-Back,1995-06-05,24,England,Crystal Palace,Premier League,2019/2020,2019
+Sam Woods,Centre-Back,1998-09-11,20,England,Crystal Palace,Premier League,2019/2020,2019
+Nikola Tavares,Centre-Back,1999-01-17,20,Croatia,Crystal Palace,Premier League,2019/2020,2019
+Patrick van Aanholt,Left-Back,1990-08-29,28,Netherlands,Crystal Palace,Premier League,2019/2020,2019
+Tyrick Mitchell,Left-Back,1999-09-01,19,England,Crystal Palace,Premier League,2019/2020,2019
+Joel Ward,Right-Back,1989-10-29,29,England,Crystal Palace,Premier League,2019/2020,2019
+Martin Kelly,Right-Back,1990-04-27,29,England,Crystal Palace,Premier League,2019/2020,2019
+Luka Milivojevic,Defensive Midfield,1991-04-07,28,Serbia,Crystal Palace,Premier League,2019/2020,2019
+Cheikhou Kouyaté,Defensive Midfield,1989-12-21,29,Senegal,Crystal Palace,Premier League,2019/2020,2019
+James McArthur,Central Midfield,1987-10-07,31,Scotland,Crystal Palace,Premier League,2019/2020,2019
+Víctor Camarasa,Central Midfield,1994-05-28,25,Spain,Crystal Palace,Premier League,2019/2020,2019
+James McCarthy,Central Midfield,1990-11-12,28,Ireland,Crystal Palace,Premier League,2019/2020,2019
+Nya Kirby,Central Midfield,2000-01-31,19,England,Crystal Palace,Premier League,2019/2020,2019
+Jeffrey Schlupp,Left Midfield,1992-12-23,26,Ghana,Crystal Palace,Premier League,2019/2020,2019
+Max Meyer,Attacking Midfield,1995-09-18,23,Germany,Crystal Palace,Premier League,2019/2020,2019
+Giovanni McGregor,Attacking Midfield,1999-01-09,20,England,Crystal Palace,Premier League,2019/2020,2019
+Brandon Pierrick,Attacking Midfield,2001-12-10,17,England,Crystal Palace,Premier League,2019/2020,2019
+Wilfried Zaha,Left Winger,1992-11-10,26,Cote d'Ivoire,Crystal Palace,Premier League,2019/2020,2019
+Andros Townsend,Right Winger,1991-07-16,27,England,Crystal Palace,Premier League,2019/2020,2019
+Cenk Tosun,Centre-Forward,1991-06-07,28,Turkey,Crystal Palace,Premier League,2019/2020,2019
+Christian Benteke,Centre-Forward,1990-12-03,28,Belgium,Crystal Palace,Premier League,2019/2020,2019
+Jordan Ayew,Centre-Forward,1991-09-11,27,Ghana,Crystal Palace,Premier League,2019/2020,2019
+Connor Wickham,Centre-Forward,1993-03-31,26,England,Crystal Palace,Premier League,2019/2020,2019
+James Daly,Centre-Forward,2000-01-12,19,England,Crystal Palace,Premier League,2019/2020,2019
+John-Kymani Gordon,Centre-Forward,2003-02-13,16,England,Crystal Palace,Premier League,2019/2020,2019
+Mathew Ryan,Goalkeeper,1992-04-08,27,Australia,Brighton & Hove Albion,Premier League,2019/2020,2019
+David Button,Goalkeeper,1989-02-27,30,England,Brighton & Hove Albion,Premier League,2019/2020,2019
+Jason Steele,Goalkeeper,1990-08-18,28,England,Brighton & Hove Albion,Premier League,2019/2020,2019
+Lewis Dunk,Centre-Back,1991-11-21,27,England,Brighton & Hove Albion,Premier League,2019/2020,2019
+Adam Webster,Centre-Back,1995-01-04,24,England,Brighton & Hove Albion,Premier League,2019/2020,2019
+Shane Duffy,Centre-Back,1992-01-01,27,Ireland,Brighton & Hove Albion,Premier League,2019/2020,2019
+Dan Burn,Centre-Back,1992-05-09,27,England,Brighton & Hove Albion,Premier League,2019/2020,2019
+Leon Balogun,Centre-Back,1988-06-28,31,Nigeria,Brighton & Hove Albion,Premier League,2019/2020,2019
+Warren O'Hora,Centre-Back,1999-04-19,20,Ireland,Brighton & Hove Albion,Premier League,2019/2020,2019
+Haydon Roberts,Centre-Back,2002-05-10,17,England,Brighton & Hove Albion,Premier League,2019/2020,2019
+Bernardo,Left-Back,1995-05-14,24,Brazil,Brighton & Hove Albion,Premier League,2019/2020,2019
+Gaëtan Bong,Left-Back,1988-04-25,31,Cameroon,Brighton & Hove Albion,Premier League,2019/2020,2019
+Alex Cochrane,Left-Back,2000-04-21,19,England,Brighton & Hove Albion,Premier League,2019/2020,2019
+Martín Montoya,Right-Back,1991-04-14,28,Spain,Brighton & Hove Albion,Premier League,2019/2020,2019
+Tariq Lamptey,Right-Back,2000-09-30,18,England,Brighton & Hove Albion,Premier League,2019/2020,2019
+Ezequiel Schelotto,Right-Back,1989-05-23,30,Italy,Brighton & Hove Albion,Premier League,2019/2020,2019
+Archie Davies,Right-Back,1998-10-07,20,England,Brighton & Hove Albion,Premier League,2019/2020,2019
+Romaric Yapi,Right-Back,2000-07-13,18,France,Brighton & Hove Albion,Premier League,2019/2020,2019
+Tudor Baluta,Defensive Midfield,1999-03-27,20,Romania,Brighton & Hove Albion,Premier League,2019/2020,2019
+Davy Pröpper,Central Midfield,1991-09-02,27,Netherlands,Brighton & Hove Albion,Premier League,2019/2020,2019
+Yves Bissouma,Central Midfield,1996-08-30,22,Mali,Brighton & Hove Albion,Premier League,2019/2020,2019
+Aaron Mooy,Central Midfield,1990-09-15,28,Australia,Brighton & Hove Albion,Premier League,2019/2020,2019
+Dale Stephens,Central Midfield,1989-06-12,30,England,Brighton & Hove Albion,Premier League,2019/2020,2019
+Steven Alzate,Central Midfield,1998-09-08,20,Colombia,Brighton & Hove Albion,Premier League,2019/2020,2019
+Beram Kayal,Central Midfield,1988-05-02,31,Israel,Brighton & Hove Albion,Premier League,2019/2020,2019
+Max Sanders,Central Midfield,1999-01-04,20,England,Brighton & Hove Albion,Premier League,2019/2020,2019
+Jordan Davies,Central Midfield,1998-08-18,20,Wales,Brighton & Hove Albion,Premier League,2019/2020,2019
+Taylor Richards,Central Midfield,2000-12-04,18,England,Brighton & Hove Albion,Premier League,2019/2020,2019
+Teddy Jenks,Central Midfield,2002-03-12,17,England,Brighton & Hove Albion,Premier League,2019/2020,2019
+Jack Spong,Central Midfield,2002-02-04,17,England,Brighton & Hove Albion,Premier League,2019/2020,2019
+Solly March,Left Midfield,1994-07-20,24,England,Brighton & Hove Albion,Premier League,2019/2020,2019
+Alexis Mac Allister,Attacking Midfield,1998-12-24,20,Argentina,Brighton & Hove Albion,Premier League,2019/2020,2019
+Pascal Groß,Attacking Midfield,1991-06-15,28,Germany,Brighton & Hove Albion,Premier League,2019/2020,2019
+Soufyan Ahannach,Attacking Midfield,1995-09-09,23,Netherlands,Brighton & Hove Albion,Premier League,2019/2020,2019
+Leandro Trossard,Left Winger,1994-12-04,24,Belgium,Brighton & Hove Albion,Premier League,2019/2020,2019
+José Izquierdo,Left Winger,1992-07-07,26,Colombia,Brighton & Hove Albion,Premier League,2019/2020,2019
+Peter Gwargis,Left Winger,2000-09-04,18,Sweden,Brighton & Hove Albion,Premier League,2019/2020,2019
+Alireza Jahanbakhsh,Right Winger,1993-08-11,25,Iran,Brighton & Hove Albion,Premier League,2019/2020,2019
+Ryan Longman,Right Winger,2000-11-06,18,England,Brighton & Hove Albion,Premier League,2019/2020,2019
+Neal Maupay,Centre-Forward,1996-08-14,22,France,Brighton & Hove Albion,Premier League,2019/2020,2019
+Jürgen Locadia,Centre-Forward,1993-11-07,25,Netherlands,Brighton & Hove Albion,Premier League,2019/2020,2019
+Aaron Connolly,Centre-Forward,2000-01-28,19,Ireland,Brighton & Hove Albion,Premier League,2019/2020,2019
+Florin Andone,Centre-Forward,1993-04-11,26,Romania,Brighton & Hove Albion,Premier League,2019/2020,2019
+Glenn Murray,Centre-Forward,1983-09-25,35,England,Brighton & Hove Albion,Premier League,2019/2020,2019
+Bojan Radulovic,Centre-Forward,1999-12-29,19,Serbia,Brighton & Hove Albion,Premier League,2019/2020,2019
+Nick Pope,Goalkeeper,1992-04-19,27,England,Burnley FC,Premier League,2019/2020,2019
+Joe Hart,Goalkeeper,1987-04-19,32,England,Burnley FC,Premier League,2019/2020,2019
+Bailey Peacock-Farrell,Goalkeeper,1996-10-29,22,Northern Ireland,Burnley FC,Premier League,2019/2020,2019
+Adam Legzdins,Goalkeeper,1986-11-28,32,England,Burnley FC,Premier League,2019/2020,2019
+Lukas Jensen,Goalkeeper,1999-03-18,20,Denmark,Burnley FC,Premier League,2019/2020,2019
+James Tarkowski,Centre-Back,1992-11-19,26,England,Burnley FC,Premier League,2019/2020,2019
+Ben Mee,Centre-Back,1989-09-21,29,England,Burnley FC,Premier League,2019/2020,2019
+Ben Gibson,Centre-Back,1993-01-15,26,England,Burnley FC,Premier League,2019/2020,2019
+Kevin Long,Centre-Back,1990-08-18,28,Ireland,Burnley FC,Premier League,2019/2020,2019
+Jimmy Dunne,Centre-Back,1997-10-19,21,Ireland,Burnley FC,Premier League,2019/2020,2019
+Bobby Thomas,Centre-Back,2001-01-30,18,England,Burnley FC,Premier League,2019/2020,2019
+Charlie Taylor,Left-Back,1993-09-18,25,England,Burnley FC,Premier League,2019/2020,2019
+Erik Pieters,Left-Back,1988-08-07,30,Netherlands,Burnley FC,Premier League,2019/2020,2019
+Anthony Driscoll-Glennon,Left-Back,1999-11-26,19,England,Burnley FC,Premier League,2019/2020,2019
+Ali Koiki,Left-Back,1999-08-22,19,England,Burnley FC,Premier League,2019/2020,2019
+Matthew Lowton,Right-Back,1989-06-09,30,England,Burnley FC,Premier League,2019/2020,2019
+Phil Bardsley,Right-Back,1985-06-28,34,Scotland,Burnley FC,Premier League,2019/2020,2019
+Jack Cork,Defensive Midfield,1989-06-25,30,England,Burnley FC,Premier League,2019/2020,2019
+Ashley Westwood,Defensive Midfield,1990-04-01,29,England,Burnley FC,Premier League,2019/2020,2019
+Jeff Hendrick,Central Midfield,1992-01-31,27,Ireland,Burnley FC,Premier League,2019/2020,2019
+Josh Brownhill,Central Midfield,1995-12-19,23,England,Burnley FC,Premier League,2019/2020,2019
+Danny Drinkwater,Central Midfield,1990-03-05,29,England,Burnley FC,Premier League,2019/2020,2019
+Mace Goodridge,Central Midfield,1999-09-13,19,England,Burnley FC,Premier League,2019/2020,2019
+Josh Benson,Central Midfield,1999-12-05,19,England,Burnley FC,Premier League,2019/2020,2019
+Robbie Brady,Left Midfield,1992-01-14,27,Ireland,Burnley FC,Premier League,2019/2020,2019
+Lewis Richardson,Forward,2003-02-07,16,England,Burnley FC,Premier League,2019/2020,2019
+Dwight McNeil,Left Winger,1999-11-22,19,England,Burnley FC,Premier League,2019/2020,2019
+Jóhann Berg Gudmundsson,Right Winger,1990-10-27,28,Iceland,Burnley FC,Premier League,2019/2020,2019
+Aaron Lennon,Right Winger,1987-04-16,32,England,Burnley FC,Premier League,2019/2020,2019
+Chris Wood,Centre-Forward,1991-12-07,27,New Zealand,Burnley FC,Premier League,2019/2020,2019
+Ashley Barnes,Centre-Forward,1989-10-30,29,England,Burnley FC,Premier League,2019/2020,2019
+Jay Rodríguez,Centre-Forward,1989-07-29,29,England,Burnley FC,Premier League,2019/2020,2019
+Matej Vydra,Centre-Forward,1992-05-01,27,Czech Republic,Burnley FC,Premier League,2019/2020,2019
+Joel Mumbongo,Centre-Forward,1999-01-09,20,Sweden,Burnley FC,Premier League,2019/2020,2019
+Max Thompson,Centre-Forward,2002-02-09,17,England,Burnley FC,Premier League,2019/2020,2019
+Tom Heaton,Goalkeeper,1986-04-15,33,England,Aston Villa,Premier League,2019/2020,2019
+Lovre Kalinic,Goalkeeper,1990-04-03,29,Croatia,Aston Villa,Premier League,2019/2020,2019
+Jed Steer,Goalkeeper,1992-09-23,26,England,Aston Villa,Premier League,2019/2020,2019
+Örjan Nyland,Goalkeeper,1990-09-10,28,Norway,Aston Villa,Premier League,2019/2020,2019
+Pepe Reina,Goalkeeper,1982-08-31,36,Spain,Aston Villa,Premier League,2019/2020,2019
+Matija Sarkic,Goalkeeper,1997-07-23,21,Montenegro,Aston Villa,Premier League,2019/2020,2019
+Tyrone Mings,Centre-Back,1993-03-13,26,England,Aston Villa,Premier League,2019/2020,2019
+Björn Engels,Centre-Back,1994-09-15,24,Belgium,Aston Villa,Premier League,2019/2020,2019
+Ezri Konsa,Centre-Back,1997-10-23,21,England,Aston Villa,Premier League,2019/2020,2019
+Kortney Hause,Centre-Back,1995-07-16,23,England,Aston Villa,Premier League,2019/2020,2019
+James Chester,Centre-Back,1989-01-23,30,Wales,Aston Villa,Premier League,2019/2020,2019
+Matt Targett,Left-Back,1995-09-18,23,England,Aston Villa,Premier League,2019/2020,2019
+Neil Taylor,Left-Back,1989-02-07,30,Wales,Aston Villa,Premier League,2019/2020,2019
+Frédéric Guilbert,Right-Back,1994-12-24,24,France,Aston Villa,Premier League,2019/2020,2019
+Ahmed Elmohamady,Right-Back,1987-09-09,31,Egypt,Aston Villa,Premier League,2019/2020,2019
+James Bree,Right-Back,1997-12-11,21,England,Aston Villa,Premier League,2019/2020,2019
+Kaine Kesler,Right-Back,2003-05-25,16,England,Aston Villa,Premier League,2019/2020,2019
+Douglas Luiz,Defensive Midfield,1998-05-09,21,Brazil,Aston Villa,Premier League,2019/2020,2019
+Marvelous Nakamba,Defensive Midfield,1994-01-19,25,Zimbabwe,Aston Villa,Premier League,2019/2020,2019
+John McGinn,Central Midfield,1994-10-18,24,Scotland,Aston Villa,Premier League,2019/2020,2019
+Conor Hourihane,Central Midfield,1991-02-02,28,Ireland,Aston Villa,Premier League,2019/2020,2019
+Danny Drinkwater,Central Midfield,1990-03-05,29,England,Aston Villa,Premier League,2019/2020,2019
+Henri Lansbury,Central Midfield,1990-10-12,28,England,Aston Villa,Premier League,2019/2020,2019
+Aaron Tshibola,Central Midfield,1995-01-02,24,DR Congo,Aston Villa,Premier League,2019/2020,2019
+Jacob Ramsey,Attacking Midfield,2001-05-28,18,England,Aston Villa,Premier League,2019/2020,2019
+Jack Grealish,Left Winger,1995-09-10,23,England,Aston Villa,Premier League,2019/2020,2019
+Andre Green,Left Winger,1998-07-26,20,England,Aston Villa,Premier League,2019/2020,2019
+Indiana Vassilev,Left Winger,2001-02-16,18,United States,Aston Villa,Premier League,2019/2020,2019
+Trezeguet,Right Winger,1994-10-01,24,Egypt,Aston Villa,Premier League,2019/2020,2019
+Anwar El Ghazi,Right Winger,1995-05-03,24,Netherlands,Aston Villa,Premier League,2019/2020,2019
+Jota Peleteiro,Right Winger,1991-06-16,28,Spain,Aston Villa,Premier League,2019/2020,2019
+Wesley,Centre-Forward,1996-11-26,22,Brazil,Aston Villa,Premier League,2019/2020,2019
+Mbwana Samatta,Centre-Forward,1992-12-23,26,Tanzania,Aston Villa,Premier League,2019/2020,2019
+Jonathan Kodjia,Centre-Forward,1989-10-22,29,Cote d'Ivoire,Aston Villa,Premier League,2019/2020,2019
+Borja Bastón,Centre-Forward,1992-08-25,26,Spain,Aston Villa,Premier League,2019/2020,2019
+Keinan Davis,Centre-Forward,1998-02-13,21,England,Aston Villa,Premier League,2019/2020,2019
+Rushian Hepburn-Murphy,Centre-Forward,1998-08-28,20,England,Aston Villa,Premier League,2019/2020,2019
+Cameron Archer,Centre-Forward,2001-07-21,17,England,Aston Villa,Premier League,2019/2020,2019
+Tim Krul,Goalkeeper,1988-04-03,31,Netherlands,Norwich City,Premier League,2019/2020,2019
+Ralf Fährmann,Goalkeeper,1988-09-27,30,Germany,Norwich City,Premier League,2019/2020,2019
+Michael McGovern,Goalkeeper,1984-07-12,34,Northern Ireland,Norwich City,Premier League,2019/2020,2019
+Archie Mair,Goalkeeper,2001-02-10,18,Scotland,Norwich City,Premier League,2019/2020,2019
+Ben Godfrey,Centre-Back,1998-01-15,21,England,Norwich City,Premier League,2019/2020,2019
+Christoph Zimmermann,Centre-Back,1993-01-12,26,Germany,Norwich City,Premier League,2019/2020,2019
+Grant Hanley,Centre-Back,1991-11-20,27,Scotland,Norwich City,Premier League,2019/2020,2019
+Timm Klose,Centre-Back,1988-05-09,31,Switzerland,Norwich City,Premier League,2019/2020,2019
+Sean Raggett,Centre-Back,1994-04-17,25,England,Norwich City,Premier League,2019/2020,2019
+Akin Famewo,Centre-Back,1998-11-09,20,England,Norwich City,Premier League,2019/2020,2019
+Jamal Lewis,Left-Back,1998-01-25,21,Northern Ireland,Norwich City,Premier League,2019/2020,2019
+Philip Heise,Left-Back,1991-06-20,28,Germany,Norwich City,Premier League,2019/2020,2019
+Sam McCallum,Left-Back,2000-09-02,18,England,Norwich City,Premier League,2019/2020,2019
+Max Aarons,Right-Back,2000-01-04,19,England,Norwich City,Premier League,2019/2020,2019
+Sam Byram,Right-Back,1993-09-16,25,England,Norwich City,Premier League,2019/2020,2019
+Jordan Thomas,Right-Back,2001-01-02,18,England,Norwich City,Premier League,2019/2020,2019
+Ibrahim Amadou,Defensive Midfield,1993-04-06,26,France,Norwich City,Premier League,2019/2020,2019
+Tom Trybull,Defensive Midfield,1993-03-09,26,Germany,Norwich City,Premier League,2019/2020,2019
+Alexander Tettey,Defensive Midfield,1986-04-04,33,Norway,Norwich City,Premier League,2019/2020,2019
+Louis Thompson,Defensive Midfield,1994-12-19,24,Wales,Norwich City,Premier League,2019/2020,2019
+Kenny McLean,Central Midfield,1992-01-08,27,Scotland,Norwich City,Premier League,2019/2020,2019
+Lukas Rupp,Central Midfield,1991-01-08,28,Germany,Norwich City,Premier League,2019/2020,2019
+Moritz Leitner,Central Midfield,1992-12-08,26,Germany,Norwich City,Premier League,2019/2020,2019
+Mario Vrancic,Central Midfield,1989-05-23,30,Bosnia-Herzegovina,Norwich City,Premier League,2019/2020,2019
+Daniel Adshead,Central Midfield,2001-09-02,17,England,Norwich City,Premier League,2019/2020,2019
+Todd Cantwell,Left Midfield,1998-02-27,21,England,Norwich City,Premier League,2019/2020,2019
+Ondrej Duda,Attacking Midfield,1994-12-05,24,Slovakia,Norwich City,Premier League,2019/2020,2019
+Marco Stiepermann,Attacking Midfield,1991-02-09,28,Germany,Norwich City,Premier League,2019/2020,2019
+Onel Hernández,Left Winger,1993-02-01,26,Cuba,Norwich City,Premier League,2019/2020,2019
+Josh Martin,Left Winger,2001-09-09,17,England,Norwich City,Premier League,2019/2020,2019
+Emiliano Buendía,Right Winger,1996-12-25,22,Argentina,Norwich City,Premier League,2019/2020,2019
+Patrick Roberts,Right Winger,1997-02-05,22,England,Norwich City,Premier League,2019/2020,2019
+Teemu Pukki,Centre-Forward,1990-03-29,29,Finland,Norwich City,Premier League,2019/2020,2019
+Josip Drmic,Centre-Forward,1992-08-08,26,Switzerland,Norwich City,Premier League,2019/2020,2019
+Adam Idah,Centre-Forward,2001-02-11,18,Ireland,Norwich City,Premier League,2019/2020,2019
+Dennis Srbeny,Centre-Forward,1994-05-05,25,Germany,Norwich City,Premier League,2019/2020,2019
+Carlton Morris,Centre-Forward,1995-12-16,23,England,Norwich City,Premier League,2019/2020,2019
+Mason Bloomfield,Centre-Forward,1996-11-06,22,England,Norwich City,Premier League,2019/2020,2019
+Dean Henderson,Goalkeeper,1997-03-12,22,England,Sheffield United,Premier League,2019/2020,2019
+Michael Verrips,Goalkeeper,1996-12-03,22,Netherlands,Sheffield United,Premier League,2019/2020,2019
+Simon Moore,Goalkeeper,1990-05-19,29,England,Sheffield United,Premier League,2019/2020,2019
+Jake Eastwood,Goalkeeper,1996-10-03,22,England,Sheffield United,Premier League,2019/2020,2019
+Jack O'Connell,Centre-Back,1994-03-29,25,England,Sheffield United,Premier League,2019/2020,2019
+John Egan,Centre-Back,1992-10-20,26,Ireland,Sheffield United,Premier League,2019/2020,2019
+Panagiotis Retsos,Centre-Back,1998-08-09,20,Greece,Sheffield United,Premier League,2019/2020,2019
+Chris Basham,Centre-Back,1988-07-20,30,England,Sheffield United,Premier League,2019/2020,2019
+Richard Stearman,Centre-Back,1987-08-19,31,England,Sheffield United,Premier League,2019/2020,2019
+Phil Jagielka,Centre-Back,1982-08-17,36,England,Sheffield United,Premier League,2019/2020,2019
+Ben Heneghan,Centre-Back,1993-09-19,25,England,Sheffield United,Premier League,2019/2020,2019
+Kean Bryan,Centre-Back,1996-11-01,22,England,Sheffield United,Premier League,2019/2020,2019
+Enda Stevens,Left-Back,1990-07-09,28,Ireland,Sheffield United,Premier League,2019/2020,2019
+Jack Robinson,Left-Back,1993-09-01,25,England,Sheffield United,Premier League,2019/2020,2019
+George Baldock,Right-Back,1993-03-09,26,England,Sheffield United,Premier League,2019/2020,2019
+Kieron Freeman,Right-Back,1992-03-21,27,Wales,Sheffield United,Premier League,2019/2020,2019
+Sander Berge,Defensive Midfield,1998-02-14,21,Norway,Sheffield United,Premier League,2019/2020,2019
+Muhamed Besic,Defensive Midfield,1992-09-10,26,Bosnia-Herzegovina,Sheffield United,Premier League,2019/2020,2019
+Jack Rodwell,Defensive Midfield,1991-03-11,28,England,Sheffield United,Premier League,2019/2020,2019
+John Lundstram,Central Midfield,1994-02-18,25,England,Sheffield United,Premier League,2019/2020,2019
+John Fleck,Central Midfield,1991-08-24,27,Scotland,Sheffield United,Premier League,2019/2020,2019
+Oliver Norwood,Central Midfield,1991-04-12,28,Northern Ireland,Sheffield United,Premier League,2019/2020,2019
+Ben Osborn,Left Midfield,1994-08-05,24,England,Sheffield United,Premier League,2019/2020,2019
+Luke Freeman,Attacking Midfield,1992-03-22,27,England,Sheffield United,Premier League,2019/2020,2019
+Ravel Morrison,Attacking Midfield,1993-02-02,26,Jamaica,Sheffield United,Premier League,2019/2020,2019
+Callum Robinson,Left Winger,1995-02-02,24,Ireland,Sheffield United,Premier League,2019/2020,2019
+Ricky Holmes,Left Winger,1987-06-20,32,England,Sheffield United,Premier League,2019/2020,2019
+Nathan Thomas,Left Winger,1994-09-27,24,England,Sheffield United,Premier League,2019/2020,2019
+Lys Mousset,Centre-Forward,1996-02-08,23,France,Sheffield United,Premier League,2019/2020,2019
+Oliver McBurnie,Centre-Forward,1996-06-04,23,Scotland,Sheffield United,Premier League,2019/2020,2019
+Billy Sharp,Centre-Forward,1986-02-05,33,England,Sheffield United,Premier League,2019/2020,2019
+David McGoldrick,Centre-Forward,1987-11-29,31,Ireland,Sheffield United,Premier League,2019/2020,2019
+Richairo Zivkovic,Centre-Forward,1996-09-05,22,Netherlands,Sheffield United,Premier League,2019/2020,2019
+Leon Clarke,Centre-Forward,1985-02-10,34,England,Sheffield United,Premier League,2019/2020,2019

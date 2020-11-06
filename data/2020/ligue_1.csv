@@ -1,0 +1,571 @@
+player_name,position,date_of_birth,age,nationality,club_name,league_name,season,year
+Keylor Navas,Goalkeeper,1986-12-15,33,Costa Rica,Paris Saint-Germain,Ligue 1,2020/2021,2020
+Sergio Rico,Goalkeeper,1993-09-01,27,Spain,Paris Saint-Germain,Ligue 1,2020/2021,2020
+Alexandre Letellier,Goalkeeper,1990-12-11,29,France,Paris Saint-Germain,Ligue 1,2020/2021,2020
+Yanis Saidani,Goalkeeper,2001-08-20,19,Algeria,Paris Saint-Germain,Ligue 1,2020/2021,2020
+Mathyas Randriamamy,Goalkeeper,2003-04-23,17,Madagascar,Paris Saint-Germain,Ligue 1,2020/2021,2020
+Marquinhos,Centre-Back,1994-05-14,26,Brazil,Paris Saint-Germain,Ligue 1,2020/2021,2020
+Presnel Kimpembe,Centre-Back,1995-08-13,25,France,Paris Saint-Germain,Ligue 1,2020/2021,2020
+Thilo Kehrer,Centre-Back,1996-09-21,24,Germany,Paris Saint-Germain,Ligue 1,2020/2021,2020
+Abdou Diallo,Centre-Back,1996-05-04,24,France,Paris Saint-Germain,Ligue 1,2020/2021,2020
+Timothée Pembélé,Centre-Back,2002-09-09,18,France,Paris Saint-Germain,Ligue 1,2020/2021,2020
+Juan Bernat,Left-Back,1993-03-01,27,Spain,Paris Saint-Germain,Ligue 1,2020/2021,2020
+Layvin Kurzawa,Left-Back,1992-09-04,28,France,Paris Saint-Germain,Ligue 1,2020/2021,2020
+Mitchel Bakker,Left-Back,2000-06-20,20,Netherlands,Paris Saint-Germain,Ligue 1,2020/2021,2020
+Alessandro Florenzi,Right-Back,1991-03-11,29,Italy,Paris Saint-Germain,Ligue 1,2020/2021,2020
+Colin Dagba,Right-Back,1998-09-06,22,France,Paris Saint-Germain,Ligue 1,2020/2021,2020
+Danilo Pereira,Defensive Midfield,1991-09-09,29,Portugal,Paris Saint-Germain,Ligue 1,2020/2021,2020
+Idrissa Gueye,Defensive Midfield,1989-09-26,31,Senegal,Paris Saint-Germain,Ligue 1,2020/2021,2020
+Maxen Kapo,Defensive Midfield,2001-01-19,19,France,Paris Saint-Germain,Ligue 1,2020/2021,2020
+Marco Verratti,Central Midfield,1992-11-05,28,Italy,Paris Saint-Germain,Ligue 1,2020/2021,2020
+Leandro Paredes,Central Midfield,1994-06-29,26,Argentina,Paris Saint-Germain,Ligue 1,2020/2021,2020
+Ander Herrera,Central Midfield,1989-08-14,31,Spain,Paris Saint-Germain,Ligue 1,2020/2021,2020
+Kays Ruiz-Atil,Central Midfield,2002-08-26,18,Morocco,Paris Saint-Germain,Ligue 1,2020/2021,2020
+Xavi Simons,Central Midfield,2003-04-21,17,Netherlands,Paris Saint-Germain,Ligue 1,2020/2021,2020
+Julian Draxler,Attacking Midfield,1993-09-20,27,Germany,Paris Saint-Germain,Ligue 1,2020/2021,2020
+Rafinha,Attacking Midfield,1993-02-12,27,Brazil,Paris Saint-Germain,Ligue 1,2020/2021,2020
+Bandiougou Fadiga,Attacking Midfield,2001-01-15,19,France,Paris Saint-Germain,Ligue 1,2020/2021,2020
+Kylian Mbappé,Left Winger,1998-12-20,21,France,Paris Saint-Germain,Ligue 1,2020/2021,2020
+Neymar,Left Winger,1992-02-05,28,Brazil,Paris Saint-Germain,Ligue 1,2020/2021,2020
+Jesé,Left Winger,1993-02-26,27,Spain,Paris Saint-Germain,Ligue 1,2020/2021,2020
+Ángel Di María,Right Winger,1988-02-14,32,Argentina,Paris Saint-Germain,Ligue 1,2020/2021,2020
+Pablo Sarabia,Right Winger,1992-05-11,28,Spain,Paris Saint-Germain,Ligue 1,2020/2021,2020
+Mauro Icardi,Centre-Forward,1993-02-19,27,Argentina,Paris Saint-Germain,Ligue 1,2020/2021,2020
+Moise Kean,Centre-Forward,2000-02-28,20,Italy,Paris Saint-Germain,Ligue 1,2020/2021,2020
+Alexandre Fressange,Centre-Forward,2001-02-02,19,Cameroon,Paris Saint-Germain,Ligue 1,2020/2021,2020
+Anthony Lopes,Goalkeeper,1990-10-01,30,Portugal,Olympique Lyon,Ligue 1,2020/2021,2020
+Julian Pollersbeck,Goalkeeper,1994-08-16,26,Germany,Olympique Lyon,Ligue 1,2020/2021,2020
+Malcolm Barcola,Goalkeeper,1999-05-14,21,Togo,Olympique Lyon,Ligue 1,2020/2021,2020
+Jason Denayer,Centre-Back,1995-06-28,25,Belgium,Olympique Lyon,Ligue 1,2020/2021,2020
+Marcelo,Centre-Back,1987-05-20,33,Brazil,Olympique Lyon,Ligue 1,2020/2021,2020
+Sinaly Diomandé,Centre-Back,2001-04-09,19,Cote d'Ivoire,Olympique Lyon,Ligue 1,2020/2021,2020
+Cenk Özkacar,Centre-Back,2000-10-06,20,Turkey,Olympique Lyon,Ligue 1,2020/2021,2020
+Djamel Eddine Benlamri,Centre-Back,1989-12-25,30,Algeria,Olympique Lyon,Ligue 1,2020/2021,2020
+Melvin Bard,Left-Back,2000-11-06,20,France,Olympique Lyon,Ligue 1,2020/2021,2020
+Léo Dubois,Right-Back,1994-09-14,26,France,Olympique Lyon,Ligue 1,2020/2021,2020
+Mattia De Sciglio,Right-Back,1992-10-20,28,Italy,Olympique Lyon,Ligue 1,2020/2021,2020
+Thiago Mendes,Defensive Midfield,1992-03-15,28,Brazil,Olympique Lyon,Ligue 1,2020/2021,2020
+Houssem Aouar,Central Midfield,1998-06-30,22,France,Olympique Lyon,Ligue 1,2020/2021,2020
+Bruno Guimarães,Central Midfield,1997-11-16,22,Brazil,Olympique Lyon,Ligue 1,2020/2021,2020
+Maxence Caqueret,Central Midfield,2000-02-15,20,France,Olympique Lyon,Ligue 1,2020/2021,2020
+Jean Lucas,Central Midfield,1998-06-22,22,Brazil,Olympique Lyon,Ligue 1,2020/2021,2020
+Camilo,Central Midfield,1999-02-23,21,Brazil,Olympique Lyon,Ligue 1,2020/2021,2020
+Rayan Cherki,Attacking Midfield,2003-08-17,17,France,Olympique Lyon,Ligue 1,2020/2021,2020
+Lucas Paquetá,Attacking Midfield,1997-08-27,23,Brazil,Olympique Lyon,Ligue 1,2020/2021,2020
+Memphis Depay,Left Winger,1994-02-13,26,Netherlands,Olympique Lyon,Ligue 1,2020/2021,2020
+Maxwel Cornet,Left Winger,1996-09-27,24,Cote d'Ivoire,Olympique Lyon,Ligue 1,2020/2021,2020
+Yaya Soumaré,Right Winger,2000-06-23,20,France,Olympique Lyon,Ligue 1,2020/2021,2020
+Moussa Dembélé,Centre-Forward,1996-07-12,24,France,Olympique Lyon,Ligue 1,2020/2021,2020
+Karl Toko Ekambi,Centre-Forward,1992-09-14,28,Cameroon,Olympique Lyon,Ligue 1,2020/2021,2020
+Tino Kadewere,Centre-Forward,1996-01-05,24,Zimbabwe,Olympique Lyon,Ligue 1,2020/2021,2020
+Benjamin Lecomte,Goalkeeper,1991-04-26,29,France,AS Monaco,Ligue 1,2020/2021,2020
+Radoslaw Majecki,Goalkeeper,1999-11-16,20,Poland,AS Monaco,Ligue 1,2020/2021,2020
+Vito Mannone,Goalkeeper,1988-03-02,32,Italy,AS Monaco,Ligue 1,2020/2021,2020
+Benoît Badiashile,Centre-Back,2001-03-26,19,France,AS Monaco,Ligue 1,2020/2021,2020
+Axel Disasi,Centre-Back,1998-03-11,22,DR Congo,AS Monaco,Ligue 1,2020/2021,2020
+Guillermo Maripán,Centre-Back,1994-05-06,26,Chile,AS Monaco,Ligue 1,2020/2021,2020
+Strahinja Pavlovic,Centre-Back,2001-05-24,19,Serbia,AS Monaco,Ligue 1,2020/2021,2020
+Chrislain Matsima,Centre-Back,2002-05-15,18,France,AS Monaco,Ligue 1,2020/2021,2020
+Fodé Ballo-Touré,Left-Back,1997-01-03,23,France,AS Monaco,Ligue 1,2020/2021,2020
+Caio Henrique,Left-Back,1997-07-31,23,Brazil,AS Monaco,Ligue 1,2020/2021,2020
+Djibril Sidibé,Right-Back,1992-07-29,28,France,AS Monaco,Ligue 1,2020/2021,2020
+Ruben Aguilar,Right-Back,1993-04-26,27,France,AS Monaco,Ligue 1,2020/2021,2020
+Florentino,Defensive Midfield,1999-08-19,21,Portugal,AS Monaco,Ligue 1,2020/2021,2020
+Aurélien Tchouaméni,Defensive Midfield,2000-01-27,20,France,AS Monaco,Ligue 1,2020/2021,2020
+Youssouf Fofana,Central Midfield,1999-01-10,21,France,AS Monaco,Ligue 1,2020/2021,2020
+Cesc Fàbregas,Central Midfield,1987-05-04,33,Spain,AS Monaco,Ligue 1,2020/2021,2020
+Youssef Aït Bennasser,Central Midfield,1996-07-07,24,Morocco,AS Monaco,Ligue 1,2020/2021,2020
+Enzo Millot,Central Midfield,2002-07-17,18,France,AS Monaco,Ligue 1,2020/2021,2020
+Eliot Matazo,Central Midfield,2002-02-15,18,Belgium,AS Monaco,Ligue 1,2020/2021,2020
+Aleksandr Golovin,Attacking Midfield,1996-05-30,24,Russia,AS Monaco,Ligue 1,2020/2021,2020
+Sofiane Diop,Attacking Midfield,2000-06-09,20,France,AS Monaco,Ligue 1,2020/2021,2020
+Henry Onyekuru,Left Winger,1997-06-05,23,Nigeria,AS Monaco,Ligue 1,2020/2021,2020
+Willem Geubbels,Left Winger,2001-08-16,19,France,AS Monaco,Ligue 1,2020/2021,2020
+Gelson Martins,Right Winger,1995-05-11,25,Portugal,AS Monaco,Ligue 1,2020/2021,2020
+Samuel Grandsir,Right Winger,1996-08-14,24,France,AS Monaco,Ligue 1,2020/2021,2020
+Wissam Ben Yedder,Centre-Forward,1990-08-12,30,France,AS Monaco,Ligue 1,2020/2021,2020
+Kevin Volland,Centre-Forward,1992-07-30,28,Germany,AS Monaco,Ligue 1,2020/2021,2020
+Stevan Jovetic,Centre-Forward,1989-11-02,31,Montenegro,AS Monaco,Ligue 1,2020/2021,2020
+Pietro Pellegri,Centre-Forward,2001-03-17,19,Italy,AS Monaco,Ligue 1,2020/2021,2020
+Mike Maignan,Goalkeeper,1995-07-03,25,France,LOSC Lille,Ligue 1,2020/2021,2020
+Orestis Karnezis,Goalkeeper,1985-07-11,35,Greece,LOSC Lille,Ligue 1,2020/2021,2020
+Lucas Chevalier,Goalkeeper,2001-11-06,19,France,LOSC Lille,Ligue 1,2020/2021,2020
+Sven Botman,Centre-Back,2000-01-12,20,Netherlands,LOSC Lille,Ligue 1,2020/2021,2020
+Adama Soumaoro,Centre-Back,1992-06-18,28,France,LOSC Lille,Ligue 1,2020/2021,2020
+Tiago Djaló,Centre-Back,2000-04-09,20,Portugal,LOSC Lille,Ligue 1,2020/2021,2020
+José Fonte,Centre-Back,1983-12-22,36,Portugal,LOSC Lille,Ligue 1,2020/2021,2020
+Domagoj Bradaric,Left-Back,1999-12-10,20,Croatia,LOSC Lille,Ligue 1,2020/2021,2020
+Reinildo Mandava,Left-Back,1994-01-21,26,Mozambique,LOSC Lille,Ligue 1,2020/2021,2020
+Zeki Celik,Right-Back,1997-02-17,23,Turkey,LOSC Lille,Ligue 1,2020/2021,2020
+Jérémy Pied,Right-Back,1989-02-23,31,France,LOSC Lille,Ligue 1,2020/2021,2020
+Boubakary Soumaré,Defensive Midfield,1999-02-27,21,France,LOSC Lille,Ligue 1,2020/2021,2020
+Cheikh Niasse,Defensive Midfield,2000-01-19,20,France,LOSC Lille,Ligue 1,2020/2021,2020
+Eugenio Pizzuto,Defensive Midfield,2002-05-13,18,Mexico,LOSC Lille,Ligue 1,2020/2021,2020
+Renato Sanches,Central Midfield,1997-08-18,23,Portugal,LOSC Lille,Ligue 1,2020/2021,2020
+Benjamin André,Central Midfield,1990-08-03,30,France,LOSC Lille,Ligue 1,2020/2021,2020
+Xeka,Central Midfield,1994-11-10,25,Portugal,LOSC Lille,Ligue 1,2020/2021,2020
+Jonathan Ikoné,Attacking Midfield,1998-05-02,22,France,LOSC Lille,Ligue 1,2020/2021,2020
+Yusuf Yazici,Attacking Midfield,1997-01-29,23,Turkey,LOSC Lille,Ligue 1,2020/2021,2020
+Jonathan Bamba,Left Winger,1996-03-26,24,France,LOSC Lille,Ligue 1,2020/2021,2020
+Luiz Araújo,Right Winger,1996-06-02,24,Brazil,LOSC Lille,Ligue 1,2020/2021,2020
+Isaac Lihadji,Right Winger,2002-04-10,18,France,LOSC Lille,Ligue 1,2020/2021,2020
+Jonathan David,Centre-Forward,2000-01-14,20,Canada,LOSC Lille,Ligue 1,2020/2021,2020
+Timothy Weah,Centre-Forward,2000-02-22,20,United States,LOSC Lille,Ligue 1,2020/2021,2020
+Burak Yilmaz,Centre-Forward,1985-07-15,35,Turkey,LOSC Lille,Ligue 1,2020/2021,2020
+Fadiga Ouattara,Centre-Forward,2001-11-18,18,France,LOSC Lille,Ligue 1,2020/2021,2020
+Alfred Gomis,Goalkeeper,1993-09-05,27,Senegal,Stade Rennais FC,Ligue 1,2020/2021,2020
+Romain Salin,Goalkeeper,1984-07-29,36,France,Stade Rennais FC,Ligue 1,2020/2021,2020
+Pépé Bonet,Goalkeeper,2003-02-13,17,DR Congo,Stade Rennais FC,Ligue 1,2020/2021,2020
+Daniele Rugani,Centre-Back,1994-07-29,26,Italy,Stade Rennais FC,Ligue 1,2020/2021,2020
+Nayef Aguerd,Centre-Back,1996-03-30,24,Morocco,Stade Rennais FC,Ligue 1,2020/2021,2020
+Damien Da Silva,Centre-Back,1988-05-17,32,France,Stade Rennais FC,Ligue 1,2020/2021,2020
+Gerzino Nyamsi,Centre-Back,1997-01-22,23,France,Stade Rennais FC,Ligue 1,2020/2021,2020
+Faitout Maouassa,Left-Back,1998-07-06,22,France,Stade Rennais FC,Ligue 1,2020/2021,2020
+Dalbert,Left-Back,1993-09-08,27,Brazil,Stade Rennais FC,Ligue 1,2020/2021,2020
+Adrien Truffert,Left-Back,2001-11-20,18,France,Stade Rennais FC,Ligue 1,2020/2021,2020
+Hamari Traoré,Right-Back,1992-01-27,28,Mali,Stade Rennais FC,Ligue 1,2020/2021,2020
+Brandon Soppy,Right-Back,2002-02-21,18,France,Stade Rennais FC,Ligue 1,2020/2021,2020
+Steven Nzonzi,Defensive Midfield,1988-12-15,31,France,Stade Rennais FC,Ligue 1,2020/2021,2020
+Eduardo Camavinga,Central Midfield,2002-11-10,17,France,Stade Rennais FC,Ligue 1,2020/2021,2020
+Benjamin Bourigeaud,Central Midfield,1994-01-14,26,France,Stade Rennais FC,Ligue 1,2020/2021,2020
+James Léa Siliki,Central Midfield,1996-06-12,24,France,Stade Rennais FC,Ligue 1,2020/2021,2020
+Clément Grenier,Central Midfield,1991-01-07,29,France,Stade Rennais FC,Ligue 1,2020/2021,2020
+Jonas Martin,Central Midfield,1990-04-09,30,France,Stade Rennais FC,Ligue 1,2020/2021,2020
+Martin Terrier,Left Winger,1997-03-04,23,France,Stade Rennais FC,Ligue 1,2020/2021,2020
+Flavien Tait,Left Winger,1993-02-02,27,France,Stade Rennais FC,Ligue 1,2020/2021,2020
+Yann Gboho,Left Winger,2001-01-14,19,France,Stade Rennais FC,Ligue 1,2020/2021,2020
+Jérémy Doku,Right Winger,2002-05-27,18,Belgium,Stade Rennais FC,Ligue 1,2020/2021,2020
+Romain Del Castillo,Right Winger,1996-03-29,24,France,Stade Rennais FC,Ligue 1,2020/2021,2020
+Serhou Guirassy,Centre-Forward,1996-03-12,24,France,Stade Rennais FC,Ligue 1,2020/2021,2020
+M'Baye Niang,Centre-Forward,1994-12-19,25,Senegal,Stade Rennais FC,Ligue 1,2020/2021,2020
+Adrien Hunou,Centre-Forward,1994-01-19,26,France,Stade Rennais FC,Ligue 1,2020/2021,2020
+Georginio Rutter,Centre-Forward,2002-04-20,18,France,Stade Rennais FC,Ligue 1,2020/2021,2020
+Steve Mandanda,Goalkeeper,1985-03-28,35,France,Olympique Marseille,Ligue 1,2020/2021,2020
+Yohann Pelé,Goalkeeper,1982-11-04,38,France,Olympique Marseille,Ligue 1,2020/2021,2020
+Simon Ngapandouetnbu,Goalkeeper,2003-04-12,17,Cameroon,Olympique Marseille,Ligue 1,2020/2021,2020
+Duje Caleta-Car,Centre-Back,1996-09-17,24,Croatia,Olympique Marseille,Ligue 1,2020/2021,2020
+Leonardo Balerdi,Centre-Back,1999-01-26,21,Argentina,Olympique Marseille,Ligue 1,2020/2021,2020
+Álvaro González,Centre-Back,1990-01-08,30,Spain,Olympique Marseille,Ligue 1,2020/2021,2020
+Lucas Perrin,Centre-Back,1998-11-19,21,France,Olympique Marseille,Ligue 1,2020/2021,2020
+Aaron Kamardin,Centre-Back,2002-04-08,18,France,Olympique Marseille,Ligue 1,2020/2021,2020
+Jordan Amavi,Left-Back,1994-03-09,26,France,Olympique Marseille,Ligue 1,2020/2021,2020
+Christopher Rocchia,Left-Back,1998-02-01,22,France,Olympique Marseille,Ligue 1,2020/2021,2020
+Yuto Nagatomo,Left-Back,1986-09-12,34,Japan,Olympique Marseille,Ligue 1,2020/2021,2020
+Hiroki Sakai,Right-Back,1990-04-12,30,Japan,Olympique Marseille,Ligue 1,2020/2021,2020
+Richecard Richard,Right-Back,2002-03-18,18,France,Olympique Marseille,Ligue 1,2020/2021,2020
+Boubacar Kamara,Defensive Midfield,1999-11-23,20,France,Olympique Marseille,Ligue 1,2020/2021,2020
+Pape Gueye,Defensive Midfield,1999-01-24,21,France,Olympique Marseille,Ligue 1,2020/2021,2020
+Alexandre Phliponeau,Defensive Midfield,2000-01-26,20,France,Olympique Marseille,Ligue 1,2020/2021,2020
+Nassim Ahmed,Defensive Midfield,2000-10-09,20,France,Olympique Marseille,Ligue 1,2020/2021,2020
+Morgan Sanson,Central Midfield,1994-08-18,26,France,Olympique Marseille,Ligue 1,2020/2021,2020
+Valentin Rongier,Central Midfield,1994-12-07,25,France,Olympique Marseille,Ligue 1,2020/2021,2020
+Michaël Cuisance,Central Midfield,1999-08-16,21,France,Olympique Marseille,Ligue 1,2020/2021,2020
+Kevin Strootman,Central Midfield,1990-02-13,30,Netherlands,Olympique Marseille,Ligue 1,2020/2021,2020
+Ugo Bertelli,Central Midfield,2003-07-15,17,France,Olympique Marseille,Ligue 1,2020/2021,2020
+Cheick Souaré,Central Midfield,2002-09-03,18,France,Olympique Marseille,Ligue 1,2020/2021,2020
+Saîf-Eddine Khaoui,Attacking Midfield,1995-04-27,25,Tunisia,Olympique Marseille,Ligue 1,2020/2021,2020
+Florian Chabrolle,Attacking Midfield,1998-04-07,22,France,Olympique Marseille,Ligue 1,2020/2021,2020
+Jorès Rahou,Attacking Midfield,2003-02-02,17,France,Olympique Marseille,Ligue 1,2020/2021,2020
+Dimitri Payet,Left Winger,1987-03-29,33,France,Olympique Marseille,Ligue 1,2020/2021,2020
+Luis Henrique,Left Winger,2001-12-14,18,Brazil,Olympique Marseille,Ligue 1,2020/2021,2020
+Nemanja Radonjic,Left Winger,1996-02-15,24,Serbia,Olympique Marseille,Ligue 1,2020/2021,2020
+Marley Aké,Left Winger,2001-01-05,19,France,Olympique Marseille,Ligue 1,2020/2021,2020
+Florian Thauvin,Right Winger,1993-01-26,27,France,Olympique Marseille,Ligue 1,2020/2021,2020
+Darío Benedetto,Centre-Forward,1990-05-17,30,Argentina,Olympique Marseille,Ligue 1,2020/2021,2020
+Valère Germain,Centre-Forward,1990-04-17,30,France,Olympique Marseille,Ligue 1,2020/2021,2020
+Konstantinos Mitroglou,Centre-Forward,1988-03-12,32,Greece,Olympique Marseille,Ligue 1,2020/2021,2020
+Walter Benítez,Goalkeeper,1993-01-19,27,Argentina,OGC Nice,Ligue 1,2020/2021,2020
+Yoan Cardinale,Goalkeeper,1994-03-27,26,France,OGC Nice,Ligue 1,2020/2021,2020
+Teddy Boulhendi,Goalkeeper,2001-04-09,19,France,OGC Nice,Ligue 1,2020/2021,2020
+Robson Bambu,Centre-Back,1997-11-12,22,Brazil,OGC Nice,Ligue 1,2020/2021,2020
+Andy Pelmard,Centre-Back,2000-03-12,20,France,OGC Nice,Ligue 1,2020/2021,2020
+Dante,Centre-Back,1983-10-18,37,Brazil,OGC Nice,Ligue 1,2020/2021,2020
+Flavius Daniliuc,Centre-Back,2001-04-27,19,Austria,OGC Nice,Ligue 1,2020/2021,2020
+Stanley Nsoki,Left-Back,1999-04-09,21,France,OGC Nice,Ligue 1,2020/2021,2020
+Hassane Kamara,Left-Back,1994-03-05,26,France,OGC Nice,Ligue 1,2020/2021,2020
+Racine Coly,Left-Back,1995-12-08,24,Senegal,OGC Nice,Ligue 1,2020/2021,2020
+Youcef Atal,Right-Back,1996-05-17,24,Algeria,OGC Nice,Ligue 1,2020/2021,2020
+Jordan Lotomba,Right-Back,1998-09-29,22,Switzerland,OGC Nice,Ligue 1,2020/2021,2020
+Morgan Schneiderlin,Defensive Midfield,1989-11-08,30,France,OGC Nice,Ligue 1,2020/2021,2020
+Danilo,Defensive Midfield,1996-02-28,24,Brazil,OGC Nice,Ligue 1,2020/2021,2020
+Khéphren Thuram,Defensive Midfield,2001-03-26,19,France,OGC Nice,Ligue 1,2020/2021,2020
+Jeff Reine-Adélaïde,Central Midfield,1998-01-17,22,France,OGC Nice,Ligue 1,2020/2021,2020
+Pierre Lees Melou,Central Midfield,1993-05-25,27,France,OGC Nice,Ligue 1,2020/2021,2020
+Hicham Boudaoui,Central Midfield,1999-09-23,21,Algeria,OGC Nice,Ligue 1,2020/2021,2020
+Alexis Trouillet,Central Midfield,2000-12-23,19,France,OGC Nice,Ligue 1,2020/2021,2020
+Amine Gouiri,Left Winger,2000-02-16,20,France,OGC Nice,Ligue 1,2020/2021,2020
+Alexis Claude-Maurice,Left Winger,1998-06-06,22,France,OGC Nice,Ligue 1,2020/2021,2020
+Deji Sotona,Left Winger,2002-12-07,17,Ireland,OGC Nice,Ligue 1,2020/2021,2020
+Rony Lopes,Right Winger,1995-12-28,24,Portugal,OGC Nice,Ligue 1,2020/2021,2020
+Dan Ndoye,Right Winger,2000-10-25,20,Switzerland,OGC Nice,Ligue 1,2020/2021,2020
+Kasper Dolberg,Centre-Forward,1997-10-06,23,Denmark,OGC Nice,Ligue 1,2020/2021,2020
+Myziane Maolida,Centre-Forward,1999-02-14,21,France,OGC Nice,Ligue 1,2020/2021,2020
+Alban Lafont,Goalkeeper,1999-01-23,21,France,FC Nantes,Ligue 1,2020/2021,2020
+Denis Petric,Goalkeeper,1988-05-24,32,Serbia,FC Nantes,Ligue 1,2020/2021,2020
+Charly Jan,Goalkeeper,1999-05-27,21,France,FC Nantes,Ligue 1,2020/2021,2020
+Andrei Girotto,Centre-Back,1992-02-17,28,Brazil,FC Nantes,Ligue 1,2020/2021,2020
+Nicolas Pallois,Centre-Back,1987-09-19,33,France,FC Nantes,Ligue 1,2020/2021,2020
+Jean-Charles Castelletto,Centre-Back,1995-01-26,25,Cameroon,FC Nantes,Ligue 1,2020/2021,2020
+Thomas Basila,Centre-Back,1999-04-30,21,France,FC Nantes,Ligue 1,2020/2021,2020
+Charles Traoré,Left-Back,1992-01-01,28,Mali,FC Nantes,Ligue 1,2020/2021,2020
+Fábio,Right-Back,1990-07-09,30,Brazil,FC Nantes,Ligue 1,2020/2021,2020
+Dennis Appiah,Right-Back,1992-06-09,28,France,FC Nantes,Ligue 1,2020/2021,2020
+Sébastien Corchia,Right-Back,1990-11-01,30,France,FC Nantes,Ligue 1,2020/2021,2020
+Abdoulaye Touré,Defensive Midfield,1994-03-03,26,France,FC Nantes,Ligue 1,2020/2021,2020
+Pedro Chirivella,Defensive Midfield,1997-05-23,23,Spain,FC Nantes,Ligue 1,2020/2021,2020
+Batista Mendy,Defensive Midfield,2000-01-12,20,France,FC Nantes,Ligue 1,2020/2021,2020
+Imrân Louza,Central Midfield,1999-05-01,21,France,FC Nantes,Ligue 1,2020/2021,2020
+Mehdi Abeid,Central Midfield,1992-08-06,28,Algeria,FC Nantes,Ligue 1,2020/2021,2020
+Ludovic Blas,Attacking Midfield,1997-12-31,22,France,FC Nantes,Ligue 1,2020/2021,2020
+Roli Pereira de Sa,Attacking Midfield,1996-12-10,23,France,FC Nantes,Ligue 1,2020/2021,2020
+Moses Simon,Left Winger,1995-07-12,25,Nigeria,FC Nantes,Ligue 1,2020/2021,2020
+Anthony Limbombe,Left Winger,1994-07-15,26,Belgium,FC Nantes,Ligue 1,2020/2021,2020
+Marcus Coco,Right Winger,1996-06-24,24,France,FC Nantes,Ligue 1,2020/2021,2020
+Abdoul Kader Bamba,Right Winger,1994-05-25,26,France,FC Nantes,Ligue 1,2020/2021,2020
+Jean-Kévin Augustin,Centre-Forward,1997-06-16,23,France,FC Nantes,Ligue 1,2020/2021,2020
+Renaud Emond,Centre-Forward,1991-12-05,28,Belgium,FC Nantes,Ligue 1,2020/2021,2020
+Kalifa Coulibaly,Centre-Forward,1991-08-21,29,Mali,FC Nantes,Ligue 1,2020/2021,2020
+Randal Kolo Muani,Centre-Forward,1998-12-05,21,France,FC Nantes,Ligue 1,2020/2021,2020
+Bridge Ndilu,Centre-Forward,2000-07-21,20,France,FC Nantes,Ligue 1,2020/2021,2020
+Matz Sels,Goalkeeper,1992-02-26,28,Belgium,RC Strasbourg Alsace,Ligue 1,2020/2021,2020
+Bingourou Kamara,Goalkeeper,1996-10-21,24,Senegal,RC Strasbourg Alsace,Ligue 1,2020/2021,2020
+Eiji Kawashima,Goalkeeper,1983-03-20,37,Japan,RC Strasbourg Alsace,Ligue 1,2020/2021,2020
+Mohamed Simakan,Centre-Back,2000-05-03,20,France,RC Strasbourg Alsace,Ligue 1,2020/2021,2020
+Alexander Djiku,Centre-Back,1994-08-09,26,Ghana,RC Strasbourg Alsace,Ligue 1,2020/2021,2020
+Stefan Mitrovic,Centre-Back,1990-05-22,30,Serbia,RC Strasbourg Alsace,Ligue 1,2020/2021,2020
+Lamine Koné,Centre-Back,1989-02-01,31,Cote d'Ivoire,RC Strasbourg Alsace,Ligue 1,2020/2021,2020
+Anthony Caci,Left-Back,1997-07-01,23,France,RC Strasbourg Alsace,Ligue 1,2020/2021,2020
+Lionel Carole,Left-Back,1991-04-12,29,France,RC Strasbourg Alsace,Ligue 1,2020/2021,2020
+Kenny Lala,Right-Back,1991-10-03,29,France,RC Strasbourg Alsace,Ligue 1,2020/2021,2020
+Ismaël Aaneba,Right-Back,1999-05-29,21,France,RC Strasbourg Alsace,Ligue 1,2020/2021,2020
+Ibrahima Sissoko,Defensive Midfield,1997-10-27,23,France,RC Strasbourg Alsace,Ligue 1,2020/2021,2020
+Jean-Eudes Aholou,Defensive Midfield,1994-03-20,26,Cote d'Ivoire,RC Strasbourg Alsace,Ligue 1,2020/2021,2020
+Mahame Siby,Defensive Midfield,1996-07-07,24,France,RC Strasbourg Alsace,Ligue 1,2020/2021,2020
+Jean-Ricner Bellegarde,Central Midfield,1998-06-27,22,France,RC Strasbourg Alsace,Ligue 1,2020/2021,2020
+Sanjin Prcic,Central Midfield,1993-11-20,26,Bosnia-Herzegovina,RC Strasbourg Alsace,Ligue 1,2020/2021,2020
+Dimitri Liénard,Central Midfield,1988-02-13,32,France,RC Strasbourg Alsace,Ligue 1,2020/2021,2020
+Adrien Thomasson,Attacking Midfield,1993-12-10,26,France,RC Strasbourg Alsace,Ligue 1,2020/2021,2020
+Mehdi Chahiri,Left Winger,1996-07-25,24,France,RC Strasbourg Alsace,Ligue 1,2020/2021,2020
+Habib Diallo,Centre-Forward,1995-06-15,25,Senegal,RC Strasbourg Alsace,Ligue 1,2020/2021,2020
+Ludovic Ajorque,Centre-Forward,1994-02-25,26,France,RC Strasbourg Alsace,Ligue 1,2020/2021,2020
+Lebo Mothiba,Centre-Forward,1996-01-28,24,South Africa,RC Strasbourg Alsace,Ligue 1,2020/2021,2020
+Majeed Waris,Centre-Forward,1991-09-19,29,Ghana,RC Strasbourg Alsace,Ligue 1,2020/2021,2020
+Kévin Zohi,Centre-Forward,1996-12-19,23,Mali,RC Strasbourg Alsace,Ligue 1,2020/2021,2020
+Idriss Saadi,Centre-Forward,1992-02-08,28,Algeria,RC Strasbourg Alsace,Ligue 1,2020/2021,2020
+Benoît Costil,Goalkeeper,1987-07-03,33,France,FC Girondins Bordeaux,Ligue 1,2020/2021,2020
+Gaëtan Poussin,Goalkeeper,1999-01-13,21,France,FC Girondins Bordeaux,Ligue 1,2020/2021,2020
+Over Mandanda,Goalkeeper,1998-10-26,22,France,FC Girondins Bordeaux,Ligue 1,2020/2021,2020
+Pablo,Centre-Back,1991-06-21,29,Brazil,FC Girondins Bordeaux,Ligue 1,2020/2021,2020
+Laurent Koscielny,Centre-Back,1985-09-10,35,France,FC Girondins Bordeaux,Ligue 1,2020/2021,2020
+Mexer,Centre-Back,1988-09-08,32,Mozambique,FC Girondins Bordeaux,Ligue 1,2020/2021,2020
+Vukasin Jovanovic,Centre-Back,1996-05-17,24,Serbia,FC Girondins Bordeaux,Ligue 1,2020/2021,2020
+Paul Baysse,Centre-Back,1988-05-18,32,France,FC Girondins Bordeaux,Ligue 1,2020/2021,2020
+Loris Benito,Left-Back,1992-01-07,28,Switzerland,FC Girondins Bordeaux,Ligue 1,2020/2021,2020
+Maxime Poundjé,Left-Back,1992-08-16,28,France,FC Girondins Bordeaux,Ligue 1,2020/2021,2020
+Youssouf Sabaly,Right-Back,1993-03-05,27,Senegal,FC Girondins Bordeaux,Ligue 1,2020/2021,2020
+Enock Kwateng,Right-Back,1997-04-09,23,France,FC Girondins Bordeaux,Ligue 1,2020/2021,2020
+Ismaël Sow,Right-Back,2001-02-19,19,France,FC Girondins Bordeaux,Ligue 1,2020/2021,2020
+Otávio,Defensive Midfield,1994-05-04,26,Brazil,FC Girondins Bordeaux,Ligue 1,2020/2021,2020
+David Kong,Defensive Midfield,1994-12-13,25,Macao,FC Girondins Bordeaux,Ligue 1,2020/2021,2020
+Toma Basic,Central Midfield,1996-11-25,23,Croatia,FC Girondins Bordeaux,Ligue 1,2020/2021,2020
+Ibrahim Diarra,Left Midfield,1998-05-19,22,France,FC Girondins Bordeaux,Ligue 1,2020/2021,2020
+Yacine Adli,Attacking Midfield,2000-07-29,20,France,FC Girondins Bordeaux,Ligue 1,2020/2021,2020
+Hatem Ben Arfa,Attacking Midfield,1987-03-07,33,France,FC Girondins Bordeaux,Ligue 1,2020/2021,2020
+Mehdi Zerkane,Attacking Midfield,1999-07-15,21,Algeria,FC Girondins Bordeaux,Ligue 1,2020/2021,2020
+Logan Delaurier-Chaubet,Left Winger,2002-04-22,18,France,FC Girondins Bordeaux,Ligue 1,2020/2021,2020
+Samuel Kalu,Right Winger,1997-08-26,23,Nigeria,FC Girondins Bordeaux,Ligue 1,2020/2021,2020
+Rémi Oudin,Right Winger,1996-11-18,23,France,FC Girondins Bordeaux,Ligue 1,2020/2021,2020
+Amadou Traoré,Right Winger,2002-03-07,18,France,FC Girondins Bordeaux,Ligue 1,2020/2021,2020
+Josh Maja,Centre-Forward,1998-12-27,21,Nigeria,FC Girondins Bordeaux,Ligue 1,2020/2021,2020
+Nicolas de Préville,Centre-Forward,1991-01-08,29,France,FC Girondins Bordeaux,Ligue 1,2020/2021,2020
+Ui-jo Hwang,Centre-Forward,1992-08-28,28,"Korea, South",FC Girondins Bordeaux,Ligue 1,2020/2021,2020
+Jimmy Briand,Centre-Forward,1985-08-02,35,France,FC Girondins Bordeaux,Ligue 1,2020/2021,2020
+Dilane Bakwa,Centre-Forward,2002-08-26,18,France,FC Girondins Bordeaux,Ligue 1,2020/2021,2020
+Jonas Omlin,Goalkeeper,1994-01-10,26,Switzerland,Montpellier HSC,Ligue 1,2020/2021,2020
+Dimitry Bertaud,Goalkeeper,1998-06-06,22,France,Montpellier HSC,Ligue 1,2020/2021,2020
+Matis Carvalho,Goalkeeper,1999-04-28,21,Portugal,Montpellier HSC,Ligue 1,2020/2021,2020
+Pedro Mendes,Centre-Back,1990-10-01,30,Portugal,Montpellier HSC,Ligue 1,2020/2021,2020
+Nicolas Cozza,Centre-Back,1999-01-08,21,France,Montpellier HSC,Ligue 1,2020/2021,2020
+Daniel Congré,Centre-Back,1985-04-05,35,France,Montpellier HSC,Ligue 1,2020/2021,2020
+Clément Vidal,Centre-Back,2000-06-18,20,France,Montpellier HSC,Ligue 1,2020/2021,2020
+Hilton,Centre-Back,1977-09-13,43,Brazil,Montpellier HSC,Ligue 1,2020/2021,2020
+Ambroise Oyongo,Left-Back,1991-06-22,29,Cameroon,Montpellier HSC,Ligue 1,2020/2021,2020
+Thibault Tamas,Left-Back,2001-02-20,19,France,Montpellier HSC,Ligue 1,2020/2021,2020
+Arnaud Souquet,Right-Back,1992-02-12,28,France,Montpellier HSC,Ligue 1,2020/2021,2020
+Joris Chotard,Defensive Midfield,2001-09-24,19,France,Montpellier HSC,Ligue 1,2020/2021,2020
+Damien Le Tallec,Defensive Midfield,1990-04-19,30,France,Montpellier HSC,Ligue 1,2020/2021,2020
+Junior Sambia,Defensive Midfield,1996-09-07,24,France,Montpellier HSC,Ligue 1,2020/2021,2020
+Téji Savanier,Central Midfield,1991-12-22,28,France,Montpellier HSC,Ligue 1,2020/2021,2020
+Jordan Ferri,Central Midfield,1992-03-12,28,France,Montpellier HSC,Ligue 1,2020/2021,2020
+Samy Benchama,Central Midfield,2000-06-25,20,France,Montpellier HSC,Ligue 1,2020/2021,2020
+Thibaut Vargas,Right Midfield,2000-05-22,20,France,Montpellier HSC,Ligue 1,2020/2021,2020
+Mihailo Ristic,Left Midfield,1995-10-31,25,Serbia,Montpellier HSC,Ligue 1,2020/2021,2020
+Florent Mollet,Attacking Midfield,1991-11-19,28,France,Montpellier HSC,Ligue 1,2020/2021,2020
+Keagan Dolly,Left Winger,1993-01-22,27,South Africa,Montpellier HSC,Ligue 1,2020/2021,2020
+Il-lok Yun,Left Winger,1992-03-07,28,"Korea, South",Montpellier HSC,Ligue 1,2020/2021,2020
+Andy Delort,Centre-Forward,1991-10-09,29,Algeria,Montpellier HSC,Ligue 1,2020/2021,2020
+Gaëtan Laborde,Centre-Forward,1994-05-03,26,France,Montpellier HSC,Ligue 1,2020/2021,2020
+Stephy Mavididi,Centre-Forward,1998-05-31,22,England,Montpellier HSC,Ligue 1,2020/2021,2020
+Petar Skuletic,Centre-Forward,1990-06-29,30,Serbia,Montpellier HSC,Ligue 1,2020/2021,2020
+Yanis Ammour,Centre-Forward,1999-05-21,21,France,Montpellier HSC,Ligue 1,2020/2021,2020
+Béni Makouana,Centre-Forward,2002-09-28,18,Congo,Montpellier HSC,Ligue 1,2020/2021,2020
+Stéphane Ruffier,Goalkeeper,1986-09-27,34,France,AS Saint-Étienne,Ligue 1,2020/2021,2020
+Stefan Bajic,Goalkeeper,2001-12-23,18,France,AS Saint-Étienne,Ligue 1,2020/2021,2020
+Jessy Moulin,Goalkeeper,1986-01-13,34,France,AS Saint-Étienne,Ligue 1,2020/2021,2020
+Etienne Green,Goalkeeper,2000-07-19,20,France,AS Saint-Étienne,Ligue 1,2020/2021,2020
+Panagiotis Retsos,Centre-Back,1998-08-09,22,Greece,AS Saint-Étienne,Ligue 1,2020/2021,2020
+Timothée Kolodziejczak,Centre-Back,1991-10-01,29,France,AS Saint-Étienne,Ligue 1,2020/2021,2020
+Harold Moukoudi,Centre-Back,1997-11-27,22,Cameroon,AS Saint-Étienne,Ligue 1,2020/2021,2020
+Saïdou Sow,Centre-Back,2002-07-04,18,Guinea,AS Saint-Étienne,Ligue 1,2020/2021,2020
+Yvann Maçon,Left-Back,1998-10-01,22,France,AS Saint-Étienne,Ligue 1,2020/2021,2020
+Gabriel Silva,Left-Back,1991-05-13,29,Brazil,AS Saint-Étienne,Ligue 1,2020/2021,2020
+Miguel Trauco,Left-Back,1992-08-25,28,Peru,AS Saint-Étienne,Ligue 1,2020/2021,2020
+Mathieu Debuchy,Right-Back,1985-07-28,35,France,AS Saint-Étienne,Ligue 1,2020/2021,2020
+Aimen Moueffek,Right-Back,2001-04-09,19,France,AS Saint-Étienne,Ligue 1,2020/2021,2020
+Alpha Sissoko,Right-Back,1997-03-07,23,France,AS Saint-Étienne,Ligue 1,2020/2021,2020
+Yvan Neyou,Defensive Midfield,1997-01-03,23,Cameroon,AS Saint-Étienne,Ligue 1,2020/2021,2020
+Zaydou Youssouf,Central Midfield,1999-07-11,21,France,AS Saint-Étienne,Ligue 1,2020/2021,2020
+Mahdi Camara,Central Midfield,1998-06-30,22,France,AS Saint-Étienne,Ligue 1,2020/2021,2020
+Lucas Gourna-Douath,Central Midfield,2003-08-05,17,France,AS Saint-Étienne,Ligue 1,2020/2021,2020
+Adil Aouchiche,Attacking Midfield,2002-07-15,18,France,AS Saint-Étienne,Ligue 1,2020/2021,2020
+Ryad Boudebouz,Attacking Midfield,1990-02-19,30,Algeria,AS Saint-Étienne,Ligue 1,2020/2021,2020
+Bilal Benkhedim,Attacking Midfield,2001-04-20,19,France,AS Saint-Étienne,Ligue 1,2020/2021,2020
+Denis Bouanga,Left Winger,1994-11-11,25,Gabon,AS Saint-Étienne,Ligue 1,2020/2021,2020
+Arnaud Nordin,Left Winger,1998-06-17,22,France,AS Saint-Étienne,Ligue 1,2020/2021,2020
+Kévin Monnet-Paquet,Left Winger,1988-08-19,32,France,AS Saint-Étienne,Ligue 1,2020/2021,2020
+Abdoulaye Sidibé,Left Winger,2002-02-09,18,France,AS Saint-Étienne,Ligue 1,2020/2021,2020
+Romain Hamouma,Right Winger,1987-03-29,33,France,AS Saint-Étienne,Ligue 1,2020/2021,2020
+Maxence Rivera,Right Winger,2002-05-30,18,France,AS Saint-Étienne,Ligue 1,2020/2021,2020
+Wahbi Khazri,Centre-Forward,1991-02-08,29,Tunisia,AS Saint-Étienne,Ligue 1,2020/2021,2020
+Charles Abi,Centre-Forward,2000-04-12,20,France,AS Saint-Étienne,Ligue 1,2020/2021,2020
+Jean-Philippe Krasso,Centre-Forward,1997-07-17,23,France,AS Saint-Étienne,Ligue 1,2020/2021,2020
+Predrag Rajkovic,Goalkeeper,1995-10-31,25,Serbia,Stade Reims,Ligue 1,2020/2021,2020
+Yehvann Diouf,Goalkeeper,1999-11-16,20,France,Stade Reims,Ligue 1,2020/2021,2020
+Dialy Ndiaye,Goalkeeper,1999-07-04,21,Senegal,Stade Reims,Ligue 1,2020/2021,2020
+Dario Maresic,Centre-Back,1999-09-29,21,Austria,Stade Reims,Ligue 1,2020/2021,2020
+Wout Faes,Centre-Back,1998-04-03,22,Belgium,Stade Reims,Ligue 1,2020/2021,2020
+Yunis Abdelhamid,Centre-Back,1987-09-28,33,Morocco,Stade Reims,Ligue 1,2020/2021,2020
+Ghislain Konan,Left-Back,1995-12-27,24,Cote d'Ivoire,Stade Reims,Ligue 1,2020/2021,2020
+Thibault De Smet,Left-Back,1998-06-05,22,Belgium,Stade Reims,Ligue 1,2020/2021,2020
+Thomas Foket,Right-Back,1994-09-25,26,Belgium,Stade Reims,Ligue 1,2020/2021,2020
+Fodé Doucouré,Right-Back,2001-02-03,19,Mali,Stade Reims,Ligue 1,2020/2021,2020
+Xavier Chavalerin,Defensive Midfield,1991-03-07,29,France,Stade Reims,Ligue 1,2020/2021,2020
+Marshall Munetsi,Defensive Midfield,1996-06-22,24,Zimbabwe,Stade Reims,Ligue 1,2020/2021,2020
+Mouhamadou Drammeh,Defensive Midfield,1999-05-15,21,France,Stade Reims,Ligue 1,2020/2021,2020
+Valon Berisha,Central Midfield,1993-02-07,27,Kosovo,Stade Reims,Ligue 1,2020/2021,2020
+Moreto Cassamá,Central Midfield,1998-02-16,22,Guinea-Bissau,Stade Reims,Ligue 1,2020/2021,2020
+Mathieu Cafaro,Attacking Midfield,1997-03-25,23,France,Stade Reims,Ligue 1,2020/2021,2020
+Fraser Hornby,Attacking Midfield,1999-09-13,21,Scotland,Stade Reims,Ligue 1,2020/2021,2020
+Moise Sakava,Attacking Midfield,2000-12-26,19,Cameroon,Stade Reims,Ligue 1,2020/2021,2020
+Arbër Zeneli,Left Winger,1995-02-25,25,Kosovo,Stade Reims,Ligue 1,2020/2021,2020
+Nathanaël Mbuku,Left Winger,2002-03-16,18,France,Stade Reims,Ligue 1,2020/2021,2020
+Moussa Doumbia,Left Winger,1994-08-15,26,Mali,Stade Reims,Ligue 1,2020/2021,2020
+Dereck Kutesa,Right Winger,1997-12-06,22,Switzerland,Stade Reims,Ligue 1,2020/2021,2020
+Hugo Ekitike,Right Winger,2002-06-20,18,France,Stade Reims,Ligue 1,2020/2021,2020
+El Bilal Touré,Centre-Forward,2001-10-03,19,Mali,Stade Reims,Ligue 1,2020/2021,2020
+Boulaye Dia,Centre-Forward,1996-11-16,23,Senegal,Stade Reims,Ligue 1,2020/2021,2020
+Kaj Sierhuis,Centre-Forward,1998-04-27,22,Netherlands,Stade Reims,Ligue 1,2020/2021,2020
+Anastasios Donis,Centre-Forward,1996-08-29,24,Greece,Stade Reims,Ligue 1,2020/2021,2020
+Paul Bernardoni,Goalkeeper,1997-04-18,23,France,SCO Angers,Ligue 1,2020/2021,2020
+Danijel Petkovic,Goalkeeper,1993-05-25,27,Montenegro,SCO Angers,Ligue 1,2020/2021,2020
+Ludovic Butelle,Goalkeeper,1983-04-03,37,France,SCO Angers,Ligue 1,2020/2021,2020
+Romain Thomas,Centre-Back,1988-06-12,32,France,SCO Angers,Ligue 1,2020/2021,2020
+Ismaël Traoré,Centre-Back,1986-08-18,34,Cote d'Ivoire,SCO Angers,Ligue 1,2020/2021,2020
+Mateo Pavlovic,Centre-Back,1990-06-09,30,Croatia,SCO Angers,Ligue 1,2020/2021,2020
+Kévin Boma,Centre-Back,2002-11-20,17,France,SCO Angers,Ligue 1,2020/2021,2020
+Elhadji Pape Diaw,Centre-Back,1994-12-31,25,Senegal,SCO Angers,Ligue 1,2020/2021,2020
+Souleyman Doumbia,Left-Back,1996-09-24,24,Cote d'Ivoire,SCO Angers,Ligue 1,2020/2021,2020
+Enzo Ebosse,Left-Back,1999-03-11,21,France,SCO Angers,Ligue 1,2020/2021,2020
+Abdoulaye Bamba,Right-Back,1990-04-25,30,Cote d'Ivoire,SCO Angers,Ligue 1,2020/2021,2020
+Vincent Manceau,Right-Back,1989-07-24,31,France,SCO Angers,Ligue 1,2020/2021,2020
+Haithem Loucif,Right-Back,1996-07-08,24,Algeria,SCO Angers,Ligue 1,2020/2021,2020
+Ibrahim Amadou,Defensive Midfield,1993-04-06,27,France,SCO Angers,Ligue 1,2020/2021,2020
+Zinédine Ould Khaled,Defensive Midfield,2000-01-14,20,France,SCO Angers,Ligue 1,2020/2021,2020
+Angelo Fulgini,Central Midfield,1996-08-20,24,France,SCO Angers,Ligue 1,2020/2021,2020
+Antonin Bobichon,Central Midfield,1995-09-14,25,France,SCO Angers,Ligue 1,2020/2021,2020
+Thomas Mangani,Central Midfield,1987-04-29,33,France,SCO Angers,Ligue 1,2020/2021,2020
+Lassana Coulibaly,Central Midfield,1996-04-10,24,Mali,SCO Angers,Ligue 1,2020/2021,2020
+Mathias Pereira Lage,Left Midfield,1996-11-30,23,Portugal,SCO Angers,Ligue 1,2020/2021,2020
+Pierrick Capelle,Left Midfield,1987-04-15,33,France,SCO Angers,Ligue 1,2020/2021,2020
+Waniss Taïbi,Attacking Midfield,2002-03-07,18,France,SCO Angers,Ligue 1,2020/2021,2020
+Sofiane Boufal,Left Winger,1993-09-17,27,Morocco,SCO Angers,Ligue 1,2020/2021,2020
+Thomas Touré,Left Winger,1993-12-27,26,Cote d'Ivoire,SCO Angers,Ligue 1,2020/2021,2020
+Sada Thioub,Right Winger,1995-06-01,25,Senegal,SCO Angers,Ligue 1,2020/2021,2020
+Farid El Melali,Right Winger,1997-05-05,23,Algeria,SCO Angers,Ligue 1,2020/2021,2020
+Jimmy Cabot,Right Winger,1994-04-18,26,France,SCO Angers,Ligue 1,2020/2021,2020
+Mohamed-Ali Cho,Right Winger,2004-01-19,16,France,SCO Angers,Ligue 1,2020/2021,2020
+Noah Fatar,Right Winger,2002-02-15,18,France,SCO Angers,Ligue 1,2020/2021,2020
+Kevin Bemanga,Right Winger,1998-04-20,22,France,SCO Angers,Ligue 1,2020/2021,2020
+Stéphane Bahoken,Centre-Forward,1992-05-28,28,Cameroon,SCO Angers,Ligue 1,2020/2021,2020
+Rachid Alioui,Centre-Forward,1992-06-18,28,Morocco,SCO Angers,Ligue 1,2020/2021,2020
+Loïs Diony,Centre-Forward,1992-12-20,27,France,SCO Angers,Ligue 1,2020/2021,2020
+Wuilker Fariñez,Goalkeeper,1998-02-15,22,Venezuela,RC Lens,Ligue 1,2020/2021,2020
+Jean-Louis Leca,Goalkeeper,1985-09-21,35,France,RC Lens,Ligue 1,2020/2021,2020
+Didier Desprez,Goalkeeper,1999-09-13,21,France,RC Lens,Ligue 1,2020/2021,2020
+Facundo Medina,Centre-Back,1999-05-28,21,Argentina,RC Lens,Ligue 1,2020/2021,2020
+Loïc Badé,Centre-Back,2000-04-11,20,France,RC Lens,Ligue 1,2020/2021,2020
+Jonathan Gradit,Centre-Back,1992-11-24,27,France,RC Lens,Ligue 1,2020/2021,2020
+Steven Fortes,Centre-Back,1992-04-17,28,Cape Verde,RC Lens,Ligue 1,2020/2021,2020
+Aleksandar Radovanovic,Centre-Back,1993-11-11,26,Serbia,RC Lens,Ligue 1,2020/2021,2020
+Zakaria Diallo,Centre-Back,1986-08-13,34,France,RC Lens,Ligue 1,2020/2021,2020
+Issiaga Sylla,Left-Back,1994-01-01,26,Guinea,RC Lens,Ligue 1,2020/2021,2020
+Ismaël Boura,Left-Back,2000-08-14,20,France,RC Lens,Ligue 1,2020/2021,2020
+Massadio Haidara,Left-Back,1992-12-02,27,Mali,RC Lens,Ligue 1,2020/2021,2020
+Clément Michelin,Right-Back,1997-05-11,23,France,RC Lens,Ligue 1,2020/2021,2020
+Jonathan Clauss,Right-Back,1992-09-25,28,France,RC Lens,Ligue 1,2020/2021,2020
+Cheick Traoré,Right-Back,1995-03-31,25,Mali,RC Lens,Ligue 1,2020/2021,2020
+Cheick Doucouré,Defensive Midfield,2000-01-08,20,Mali,RC Lens,Ligue 1,2020/2021,2020
+Yannick Cahuzac,Defensive Midfield,1985-01-18,35,France,RC Lens,Ligue 1,2020/2021,2020
+Seko Fofana,Central Midfield,1995-05-07,25,Cote d'Ivoire,RC Lens,Ligue 1,2020/2021,2020
+Charles Boli,Central Midfield,1998-08-30,22,France,RC Lens,Ligue 1,2020/2021,2020
+Gaël Kakuta,Attacking Midfield,1991-06-21,29,DR Congo,RC Lens,Ligue 1,2020/2021,2020
+Tony Mauricio,Attacking Midfield,1994-03-22,26,France,RC Lens,Ligue 1,2020/2021,2020
+Adam Oudjani,Attacking Midfield,2001-08-29,19,Algeria,RC Lens,Ligue 1,2020/2021,2020
+David Costa,Attacking Midfield,2001-01-05,19,Portugal,RC Lens,Ligue 1,2020/2021,2020
+Cyrille Bayala,Right Winger,1996-05-24,24,Burkina Faso,RC Lens,Ligue 1,2020/2021,2020
+Ignatius Ganago,Centre-Forward,1999-02-16,21,Cameroon,RC Lens,Ligue 1,2020/2021,2020
+Arnaud Kalimuendo,Centre-Forward,2002-01-20,18,France,RC Lens,Ligue 1,2020/2021,2020
+Corentin Jean,Centre-Forward,1995-07-15,25,France,RC Lens,Ligue 1,2020/2021,2020
+Florian Sotoca,Centre-Forward,1990-10-25,30,France,RC Lens,Ligue 1,2020/2021,2020
+Simon Banza,Centre-Forward,1996-08-13,24,France,RC Lens,Ligue 1,2020/2021,2020
+Alexandre Oukidja,Goalkeeper,1988-07-19,32,Algeria,FC Metz,Ligue 1,2020/2021,2020
+Marc-Aurèle Caillard,Goalkeeper,1994-05-12,26,France,FC Metz,Ligue 1,2020/2021,2020
+Paul Delecroix,Goalkeeper,1988-10-14,32,France,FC Metz,Ligue 1,2020/2021,2020
+Dylan Bronn,Centre-Back,1995-06-19,25,Tunisia,FC Metz,Ligue 1,2020/2021,2020
+Mamadou Fofana,Centre-Back,1998-01-21,22,Mali,FC Metz,Ligue 1,2020/2021,2020
+Kiki Kouyaté,Centre-Back,1997-04-15,23,Mali,FC Metz,Ligue 1,2020/2021,2020
+John Boye,Centre-Back,1987-04-23,33,Ghana,FC Metz,Ligue 1,2020/2021,2020
+Lenny Lacroix,Centre-Back,2003-02-06,17,France,FC Metz,Ligue 1,2020/2021,2020
+Matthieu Udol,Left-Back,1996-03-20,24,France,FC Metz,Ligue 1,2020/2021,2020
+Thomas Delaine,Left-Back,1992-03-24,28,France,FC Metz,Ligue 1,2020/2021,2020
+Manuel Cabit,Left-Back,1993-06-03,27,Martinique,FC Metz,Ligue 1,2020/2021,2020
+Fabien Centonze,Right-Back,1996-01-16,24,France,FC Metz,Ligue 1,2020/2021,2020
+Habib Maïga,Defensive Midfield,1996-01-01,24,Cote d'Ivoire,FC Metz,Ligue 1,2020/2021,2020
+Kévin N'Doram,Defensive Midfield,1996-01-22,24,France,FC Metz,Ligue 1,2020/2021,2020
+Vincent Pajot,Defensive Midfield,1990-08-19,30,France,FC Metz,Ligue 1,2020/2021,2020
+Victorien Angban,Central Midfield,1996-09-29,24,Cote d'Ivoire,FC Metz,Ligue 1,2020/2021,2020
+Boubacar Traoré,Central Midfield,2001-08-20,19,Mali,FC Metz,Ligue 1,2020/2021,2020
+Warren Tchimbembé,Right Midfield,1998-04-21,22,France,FC Metz,Ligue 1,2020/2021,2020
+Youssef Maziz,Left Midfield,1998-06-24,22,France,FC Metz,Ligue 1,2020/2021,2020
+Opa Nguette,Left Winger,1994-07-08,26,Senegal,FC Metz,Ligue 1,2020/2021,2020
+Adama Traoré,Left Winger,1995-06-05,25,Mali,FC Metz,Ligue 1,2020/2021,2020
+Vagner,Right Winger,1996-01-10,24,Cape Verde,FC Metz,Ligue 1,2020/2021,2020
+Farid Boulaya,Right Winger,1993-02-25,27,Algeria,FC Metz,Ligue 1,2020/2021,2020
+Lamine Gueye,Right Winger,1998-03-13,22,Senegal,FC Metz,Ligue 1,2020/2021,2020
+Papa Ndiaga Yade,Second Striker,2000-01-05,20,Senegal,FC Metz,Ligue 1,2020/2021,2020
+Ibrahima Niane,Centre-Forward,1999-03-11,21,Senegal,FC Metz,Ligue 1,2020/2021,2020
+Thierry Ambrose,Centre-Forward,1997-03-28,23,France,FC Metz,Ligue 1,2020/2021,2020
+Aaron Leya Iseka,Centre-Forward,1997-11-15,22,Belgium,FC Metz,Ligue 1,2020/2021,2020
+Gautier Larsonneur,Goalkeeper,1997-02-23,23,France,Stade Brest 29,Ligue 1,2020/2021,2020
+Sébastien Cibois,Goalkeeper,1998-03-02,22,France,Stade Brest 29,Ligue 1,2020/2021,2020
+Christophe Hérelle,Centre-Back,1992-08-22,28,France,Stade Brest 29,Ligue 1,2020/2021,2020
+Jean-Kevin Duverne,Centre-Back,1997-07-12,23,France,Stade Brest 29,Ligue 1,2020/2021,2020
+Denys Bain,Centre-Back,1993-07-02,27,France,Stade Brest 29,Ligue 1,2020/2021,2020
+Brendan Chardonnet,Centre-Back,1994-12-22,25,France,Stade Brest 29,Ligue 1,2020/2021,2020
+Romain Perraud,Left-Back,1997-09-22,23,France,Stade Brest 29,Ligue 1,2020/2021,2020
+Lilian Brassier,Left-Back,1999-11-02,21,France,Stade Brest 29,Ligue 1,2020/2021,2020
+Ludovic Baal,Left-Back,1986-05-24,34,French Guiana,Stade Brest 29,Ligue 1,2020/2021,2020
+Ronaël Pierre-Gabriel,Right-Back,1998-06-13,22,France,Stade Brest 29,Ligue 1,2020/2021,2020
+Julien Faussurier,Right-Back,1987-01-14,33,France,Stade Brest 29,Ligue 1,2020/2021,2020
+Paul Lasne,Defensive Midfield,1989-01-16,31,France,Stade Brest 29,Ligue 1,2020/2021,2020
+Idrissa Dioh,Defensive Midfield,1999-01-21,21,France,Stade Brest 29,Ligue 1,2020/2021,2020
+Romain Faivre,Central Midfield,1998-07-14,22,France,Stade Brest 29,Ligue 1,2020/2021,2020
+Haris Belkebla,Central Midfield,1994-01-28,26,Algeria,Stade Brest 29,Ligue 1,2020/2021,2020
+Cristian Battocchio,Central Midfield,1992-02-10,28,Italy,Stade Brest 29,Ligue 1,2020/2021,2020
+Hianga'a M'Bock,Central Midfield,1999-12-28,20,France,Stade Brest 29,Ligue 1,2020/2021,2020
+Hugo Magnetti,Central Midfield,1998-05-30,22,France,Stade Brest 29,Ligue 1,2020/2021,2020
+Ferris N'Goma,Central Midfield,1993-06-15,27,France,Stade Brest 29,Ligue 1,2020/2021,2020
+Heriberto Tavares,Left Winger,1997-02-19,23,Portugal,Stade Brest 29,Ligue 1,2020/2021,2020
+Romain Philippoteaux,Left Winger,1988-03-02,32,France,Stade Brest 29,Ligue 1,2020/2021,2020
+Franck Honorat,Right Winger,1996-08-11,24,France,Stade Brest 29,Ligue 1,2020/2021,2020
+Irvin Cardona,Centre-Forward,1997-08-08,23,France,Stade Brest 29,Ligue 1,2020/2021,2020
+Steve Mounié,Centre-Forward,1994-09-29,26,Benin,Stade Brest 29,Ligue 1,2020/2021,2020
+Gaëtan Charbonnier,Centre-Forward,1988-12-27,31,France,Stade Brest 29,Ligue 1,2020/2021,2020
+Jérémy Le Douaron,Centre-Forward,1998-04-21,22,France,Stade Brest 29,Ligue 1,2020/2021,2020
+Rafiki Saïd,Centre-Forward,2000-03-15,20,Comoros,Stade Brest 29,Ligue 1,2020/2021,2020
+Saturnin Allagbé,Goalkeeper,1993-11-22,26,Benin,Dijon FCO,Ligue 1,2020/2021,2020
+Anthony Racioppi,Goalkeeper,1998-12-31,21,Switzerland,Dijon FCO,Ligue 1,2020/2021,2020
+Lévi Ntumba,Goalkeeper,2001-01-12,19,France,Dijon FCO,Ligue 1,2020/2021,2020
+Jonathan Panzo,Centre-Back,2000-10-25,20,England,Dijon FCO,Ligue 1,2020/2021,2020
+Bruno Ecuele Manga,Centre-Back,1988-07-16,32,Gabon,Dijon FCO,Ligue 1,2020/2021,2020
+Wesley Lautoa,Centre-Back,1987-08-25,33,France,Dijon FCO,Ligue 1,2020/2021,2020
+Senou Coulibaly,Centre-Back,1994-09-04,26,France,Dijon FCO,Ligue 1,2020/2021,2020
+Arthur Zagre,Left-Back,2001-10-04,19,France,Dijon FCO,Ligue 1,2020/2021,2020
+Aníbal Chalá,Left-Back,1996-05-09,24,Ecuador,Dijon FCO,Ligue 1,2020/2021,2020
+Ngonda Muzinga,Left-Back,1994-12-31,25,DR Congo,Dijon FCO,Ligue 1,2020/2021,2020
+Sacha Boey,Right-Back,2000-09-13,20,France,Dijon FCO,Ligue 1,2020/2021,2020
+Fouad Chafik,Right-Back,1986-10-16,34,Morocco,Dijon FCO,Ligue 1,2020/2021,2020
+Ahmad Ngouyamsa,Right-Back,2000-12-21,19,Cameroon,Dijon FCO,Ligue 1,2020/2021,2020
+Wilitty Younoussa,Midfielder,2001-09-09,19,Cameroon,Dijon FCO,Ligue 1,2020/2021,2020
+Pape Cheikh,Central Midfield,1997-08-08,23,Senegal,Dijon FCO,Ligue 1,2020/2021,2020
+Didier Ndong,Central Midfield,1994-06-17,26,Gabon,Dijon FCO,Ligue 1,2020/2021,2020
+Jordan Marié,Central Midfield,1991-09-29,29,France,Dijon FCO,Ligue 1,2020/2021,2020
+Bersant Celina,Attacking Midfield,1996-09-09,24,Kosovo,Dijon FCO,Ligue 1,2020/2021,2020
+Yassine Benzia,Attacking Midfield,1994-09-08,26,Algeria,Dijon FCO,Ligue 1,2020/2021,2020
+Amir Arli,Attacking Midfield,2003-01-05,17,Turkey,Dijon FCO,Ligue 1,2020/2021,2020
+Frédéric Sammaritano,Attacking Midfield,1986-03-23,34,France,Dijon FCO,Ligue 1,2020/2021,2020
+Mounir Chouiar,Left Winger,1999-01-23,21,France,Dijon FCO,Ligue 1,2020/2021,2020
+Alex Dobre,Left Winger,1998-08-30,22,Romania,Dijon FCO,Ligue 1,2020/2021,2020
+Mama Baldé,Right Winger,1995-11-06,25,Guinea-Bissau,Dijon FCO,Ligue 1,2020/2021,2020
+Éric Ebimbe,Right Winger,2000-11-21,19,France,Dijon FCO,Ligue 1,2020/2021,2020
+Roger Assalé,Centre-Forward,1993-11-13,26,Cote d'Ivoire,Dijon FCO,Ligue 1,2020/2021,2020
+Moussa Konaté,Centre-Forward,1993-04-03,27,Senegal,Dijon FCO,Ligue 1,2020/2021,2020
+Aurélien Scheidler,Centre-Forward,1998-06-04,22,France,Dijon FCO,Ligue 1,2020/2021,2020
+Baptiste Reynet,Goalkeeper,1990-10-28,30,France,Nîmes Olympique,Ligue 1,2020/2021,2020
+Lucas Dias,Goalkeeper,1999-05-22,21,France,Nîmes Olympique,Ligue 1,2020/2021,2020
+Anthony Briancon,Centre-Back,1994-11-28,25,France,Nîmes Olympique,Ligue 1,2020/2021,2020
+Pablo Martinez,Centre-Back,1989-02-21,31,France,Nîmes Olympique,Ligue 1,2020/2021,2020
+Loïck Landre,Centre-Back,1992-05-05,28,France,Nîmes Olympique,Ligue 1,2020/2021,2020
+Kelyan Guessoum,Centre-Back,1999-02-05,21,France,Nîmes Olympique,Ligue 1,2020/2021,2020
+Birger Meling,Left-Back,1994-12-17,25,Norway,Nîmes Olympique,Ligue 1,2020/2021,2020
+Florian Miguel,Left-Back,1996-09-01,24,France,Nîmes Olympique,Ligue 1,2020/2021,2020
+Patrick Burner,Right-Back,1996-04-11,24,France,Nîmes Olympique,Ligue 1,2020/2021,2020
+Sofiane Alakouch,Right-Back,1998-07-29,22,France,Nîmes Olympique,Ligue 1,2020/2021,2020
+Gaëtan Paquiez,Right-Back,1994-02-15,26,France,Nîmes Olympique,Ligue 1,2020/2021,2020
+Andrés Cubas,Defensive Midfield,1996-05-22,24,Paraguay,Nîmes Olympique,Ligue 1,2020/2021,2020
+Sidy Sarr,Defensive Midfield,1996-06-05,24,Senegal,Nîmes Olympique,Ligue 1,2020/2021,2020
+Lucas Deaux,Defensive Midfield,1988-12-26,31,France,Nîmes Olympique,Ligue 1,2020/2021,2020
+Mattéo Ahlinvi,Defensive Midfield,1999-07-02,21,Benin,Nîmes Olympique,Ligue 1,2020/2021,2020
+Lamine Fomba,Central Midfield,1998-01-26,22,France,Nîmes Olympique,Ligue 1,2020/2021,2020
+Antoine Valerio,Central Midfield,1999-12-11,20,France,Nîmes Olympique,Ligue 1,2020/2021,2020
+Zinedine Ferhat,Right Midfield,1993-03-01,27,Algeria,Nîmes Olympique,Ligue 1,2020/2021,2020
+Renaud Ripart,Right Midfield,1993-03-14,27,France,Nîmes Olympique,Ligue 1,2020/2021,2020
+Lucas Buades,Right Midfield,1997-12-28,22,France,Nîmes Olympique,Ligue 1,2020/2021,2020
+Niclas Eliasson,Left Midfield,1995-12-07,24,Sweden,Nîmes Olympique,Ligue 1,2020/2021,2020
+Haris Duljevic,Left Midfield,1993-11-16,26,Bosnia-Herzegovina,Nîmes Olympique,Ligue 1,2020/2021,2020
+Yassine Benrahou,Attacking Midfield,1999-01-24,21,Morocco,Nîmes Olympique,Ligue 1,2020/2021,2020
+Moussa Koné,Centre-Forward,1996-12-30,23,Senegal,Nîmes Olympique,Ligue 1,2020/2021,2020
+Kévin Denkey,Centre-Forward,2000-11-30,19,Togo,Nîmes Olympique,Ligue 1,2020/2021,2020
+Nolan Roux,Centre-Forward,1988-03-01,32,France,Nîmes Olympique,Ligue 1,2020/2021,2020
+Clément Depres,Centre-Forward,1994-11-25,25,France,Nîmes Olympique,Ligue 1,2020/2021,2020
+Karim Aribi,Centre-Forward,1994-06-24,26,Algeria,Nîmes Olympique,Ligue 1,2020/2021,2020
+Sami Ben Amar,Centre-Forward,1998-03-02,22,Morocco,Nîmes Olympique,Ligue 1,2020/2021,2020
+Paul Nardi,Goalkeeper,1994-05-18,26,France,FC Lorient,Ligue 1,2020/2021,2020
+Matthieu Dreyer,Goalkeeper,1989-03-20,31,France,FC Lorient,Ligue 1,2020/2021,2020
+Teddy Bartouche,Goalkeeper,1997-06-05,23,France,FC Lorient,Ligue 1,2020/2021,2020
+Thomas Callens,Goalkeeper,1998-09-06,22,France,FC Lorient,Ligue 1,2020/2021,2020
+Andreaw Gravillon,Centre-Back,1998-02-08,22,Guadeloupe,FC Lorient,Ligue 1,2020/2021,2020
+Julien Laporte,Centre-Back,1993-11-04,27,France,FC Lorient,Ligue 1,2020/2021,2020
+Thomas Fontaine,Centre-Back,1991-05-08,29,Madagascar,FC Lorient,Ligue 1,2020/2021,2020
+Matthieu Saunier,Centre-Back,1990-02-07,30,France,FC Lorient,Ligue 1,2020/2021,2020
+Jérémy Morel,Centre-Back,1984-04-02,36,Madagascar,FC Lorient,Ligue 1,2020/2021,2020
+Vincent Le Goff,Left-Back,1989-10-15,31,France,FC Lorient,Ligue 1,2020/2021,2020
+Houboulang Mendes,Right-Back,1998-05-04,22,France,FC Lorient,Ligue 1,2020/2021,2020
+Jérôme Hergault,Right-Back,1986-04-05,34,France,FC Lorient,Ligue 1,2020/2021,2020
+Trevoh Chalobah,Defensive Midfield,1999-07-05,21,England,FC Lorient,Ligue 1,2020/2021,2020
+Thomas Monconduit,Defensive Midfield,1991-02-10,29,France,FC Lorient,Ligue 1,2020/2021,2020
+Laurent Abergel,Defensive Midfield,1993-02-01,27,France,FC Lorient,Ligue 1,2020/2021,2020
+Fabien Lemoine,Defensive Midfield,1987-03-16,33,France,FC Lorient,Ligue 1,2020/2021,2020
+Franklin Wadja,Defensive Midfield,1995-05-01,25,Cameroon,FC Lorient,Ligue 1,2020/2021,2020
+Malamine Doumbouya,Defensive Midfield,2000-03-14,20,France,FC Lorient,Ligue 1,2020/2021,2020
+Enzo Le Fée,Central Midfield,2000-02-03,20,France,FC Lorient,Ligue 1,2020/2021,2020
+Jonathan Delaplace,Central Midfield,1986-03-20,34,France,FC Lorient,Ligue 1,2020/2021,2020
+Quentin Boisgard,Attacking Midfield,1997-03-17,23,France,FC Lorient,Ligue 1,2020/2021,2020
+Sylvain Marveaux,Attacking Midfield,1986-04-15,34,France,FC Lorient,Ligue 1,2020/2021,2020
+Yoane Wissa,Left Winger,1996-09-03,24,DR Congo,FC Lorient,Ligue 1,2020/2021,2020
+Stéphane Diarra,Right Winger,1998-12-09,21,Cote d'Ivoire,FC Lorient,Ligue 1,2020/2021,2020
+Armand Laurienté,Right Winger,1998-12-04,21,France,FC Lorient,Ligue 1,2020/2021,2020
+Adrian Grbic,Centre-Forward,1996-08-04,24,Austria,FC Lorient,Ligue 1,2020/2021,2020
+Terem Moffi,Centre-Forward,1999-05-25,21,Nigeria,FC Lorient,Ligue 1,2020/2021,2020
+Pierre-Yves Hamel,Centre-Forward,1994-03-19,26,France,FC Lorient,Ligue 1,2020/2021,2020
+Umut Bozok,Centre-Forward,1996-09-19,24,Turkey,FC Lorient,Ligue 1,2020/2021,2020

@@ -1,7 +1,7 @@
 squads
 ================
 
-Data on European football clubs' playing squads, seasons 2004/05 through 2018/19 (as found on
+Data on European football clubs' playing squads, seasons 2004/05 through 2020/21 (as found on
 [Transfermarkt](https://www.transfermarkt.co.uk/)).
 
 Data

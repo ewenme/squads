@@ -1,0 +1,509 @@
+player_name,position,date_of_birth,age,nationality,club_name,league_name,season,year
+Marc-André ter Stegen,Goalkeeper,1992-04-30,28,Germany,FC Barcelona,LaLiga,2020/2021,2020
+Neto,Goalkeeper,1989-07-19,31,Brazil,FC Barcelona,LaLiga,2020/2021,2020
+Iñaki Peña,Goalkeeper,1999-03-02,21,Spain,FC Barcelona,LaLiga,2020/2021,2020
+Arnau Tenas,Goalkeeper,2001-05-30,19,Spain,FC Barcelona,LaLiga,2020/2021,2020
+Clément Lenglet,Centre-Back,1995-06-17,25,France,FC Barcelona,LaLiga,2020/2021,2020
+Samuel Umtiti,Centre-Back,1993-11-14,26,France,FC Barcelona,LaLiga,2020/2021,2020
+Gerard Piqué,Centre-Back,1987-02-02,33,Spain,FC Barcelona,LaLiga,2020/2021,2020
+Ronald Araújo,Centre-Back,1999-03-07,21,Uruguay,FC Barcelona,LaLiga,2020/2021,2020
+Óscar Mingueza,Centre-Back,1999-05-13,21,Spain,FC Barcelona,LaLiga,2020/2021,2020
+Jordi Alba,Left-Back,1989-03-21,31,Spain,FC Barcelona,LaLiga,2020/2021,2020
+Júnior Firpo,Left-Back,1996-08-22,24,Spain,FC Barcelona,LaLiga,2020/2021,2020
+Sergiño Dest,Right-Back,2000-11-03,20,United States,FC Barcelona,LaLiga,2020/2021,2020
+Sergi Roberto,Right-Back,1992-02-07,28,Spain,FC Barcelona,LaLiga,2020/2021,2020
+Miralem Pjanic,Defensive Midfield,1990-04-02,30,Bosnia-Herzegovina,FC Barcelona,LaLiga,2020/2021,2020
+Sergio Busquets,Defensive Midfield,1988-07-16,32,Spain,FC Barcelona,LaLiga,2020/2021,2020
+Matheus Fernandes,Defensive Midfield,1998-06-30,22,Brazil,FC Barcelona,LaLiga,2020/2021,2020
+Frenkie de Jong,Central Midfield,1997-05-12,23,Netherlands,FC Barcelona,LaLiga,2020/2021,2020
+Riqui Puig,Central Midfield,1999-08-13,21,Spain,FC Barcelona,LaLiga,2020/2021,2020
+Carles Aleñá,Central Midfield,1998-01-05,22,Spain,FC Barcelona,LaLiga,2020/2021,2020
+Philippe Coutinho,Attacking Midfield,1992-06-12,28,Brazil,FC Barcelona,LaLiga,2020/2021,2020
+Pedri,Attacking Midfield,2002-11-25,17,Spain,FC Barcelona,LaLiga,2020/2021,2020
+Ansu Fati,Left Winger,2002-10-31,18,Spain,FC Barcelona,LaLiga,2020/2021,2020
+Konrad De la Fuente,Left Winger,2001-07-16,19,United States,FC Barcelona,LaLiga,2020/2021,2020
+Lionel Messi,Right Winger,1987-06-24,33,Argentina,FC Barcelona,LaLiga,2020/2021,2020
+Ousmane Dembélé,Right Winger,1997-05-15,23,France,FC Barcelona,LaLiga,2020/2021,2020
+Trincão,Right Winger,1999-12-29,20,Portugal,FC Barcelona,LaLiga,2020/2021,2020
+Antoine Griezmann,Centre-Forward,1991-03-21,29,France,FC Barcelona,LaLiga,2020/2021,2020
+Martin Braithwaite,Centre-Forward,1991-06-05,29,Denmark,FC Barcelona,LaLiga,2020/2021,2020
+Thibaut Courtois,Goalkeeper,1992-05-11,28,Belgium,Real Madrid,LaLiga,2020/2021,2020
+Andriy Lunin,Goalkeeper,1999-02-11,21,Ukraine,Real Madrid,LaLiga,2020/2021,2020
+Raphaël Varane,Centre-Back,1993-04-25,27,France,Real Madrid,LaLiga,2020/2021,2020
+Éder Militão,Centre-Back,1998-01-18,22,Brazil,Real Madrid,LaLiga,2020/2021,2020
+Sergio Ramos,Centre-Back,1986-03-30,34,Spain,Real Madrid,LaLiga,2020/2021,2020
+Nacho Fernández,Centre-Back,1990-01-18,30,Spain,Real Madrid,LaLiga,2020/2021,2020
+Ferland Mendy,Left-Back,1995-06-08,25,France,Real Madrid,LaLiga,2020/2021,2020
+Marcelo,Left-Back,1988-05-12,32,Brazil,Real Madrid,LaLiga,2020/2021,2020
+Daniel Carvajal,Right-Back,1992-01-11,28,Spain,Real Madrid,LaLiga,2020/2021,2020
+Álvaro Odriozola,Right-Back,1995-12-14,24,Spain,Real Madrid,LaLiga,2020/2021,2020
+Casemiro,Defensive Midfield,1992-02-23,28,Brazil,Real Madrid,LaLiga,2020/2021,2020
+Federico Valverde,Central Midfield,1998-07-22,22,Uruguay,Real Madrid,LaLiga,2020/2021,2020
+Toni Kroos,Central Midfield,1990-01-04,30,Germany,Real Madrid,LaLiga,2020/2021,2020
+Luka Modric,Central Midfield,1985-09-09,35,Croatia,Real Madrid,LaLiga,2020/2021,2020
+Martin Ödegaard,Attacking Midfield,1998-12-17,21,Norway,Real Madrid,LaLiga,2020/2021,2020
+Isco,Attacking Midfield,1992-04-21,28,Spain,Real Madrid,LaLiga,2020/2021,2020
+Eden Hazard,Left Winger,1991-01-07,29,Belgium,Real Madrid,LaLiga,2020/2021,2020
+Vinícius Júnior,Left Winger,2000-07-12,20,Brazil,Real Madrid,LaLiga,2020/2021,2020
+Rodrygo,Right Winger,2001-01-09,19,Brazil,Real Madrid,LaLiga,2020/2021,2020
+Marco Asensio,Right Winger,1996-01-21,24,Spain,Real Madrid,LaLiga,2020/2021,2020
+Lucas Vázquez,Right Winger,1991-07-01,29,Spain,Real Madrid,LaLiga,2020/2021,2020
+Karim Benzema,Centre-Forward,1987-12-19,32,France,Real Madrid,LaLiga,2020/2021,2020
+Luka Jovic,Centre-Forward,1997-12-23,22,Serbia,Real Madrid,LaLiga,2020/2021,2020
+Mariano Díaz,Centre-Forward,1993-08-01,27,Spain,Real Madrid,LaLiga,2020/2021,2020
+Jan Oblak,Goalkeeper,1993-01-07,27,Slovenia,Atlético Madrid,LaLiga,2020/2021,2020
+Ivo Grbic,Goalkeeper,1996-01-18,24,Croatia,Atlético Madrid,LaLiga,2020/2021,2020
+Miguel San Román,Goalkeeper,1997-07-14,23,Spain,Atlético Madrid,LaLiga,2020/2021,2020
+José Giménez,Centre-Back,1995-01-20,25,Uruguay,Atlético Madrid,LaLiga,2020/2021,2020
+Felipe,Centre-Back,1989-05-16,31,Brazil,Atlético Madrid,LaLiga,2020/2021,2020
+Stefan Savic,Centre-Back,1991-01-08,29,Montenegro,Atlético Madrid,LaLiga,2020/2021,2020
+Mario Hermoso,Centre-Back,1995-06-18,25,Spain,Atlético Madrid,LaLiga,2020/2021,2020
+Renan Lodi,Left-Back,1998-04-08,22,Brazil,Atlético Madrid,LaLiga,2020/2021,2020
+Manu Sánchez,Left-Back,2000-08-24,20,Spain,Atlético Madrid,LaLiga,2020/2021,2020
+Kieran Trippier,Right-Back,1990-09-19,30,England,Atlético Madrid,LaLiga,2020/2021,2020
+Sime Vrsaljko,Right-Back,1992-01-10,28,Croatia,Atlético Madrid,LaLiga,2020/2021,2020
+Ricard Sánchez,Right-Back,2000-02-22,20,Spain,Atlético Madrid,LaLiga,2020/2021,2020
+Lucas Torreira,Defensive Midfield,1996-02-11,24,Uruguay,Atlético Madrid,LaLiga,2020/2021,2020
+Saúl Ñíguez,Central Midfield,1994-11-21,25,Spain,Atlético Madrid,LaLiga,2020/2021,2020
+Koke,Central Midfield,1992-01-08,28,Spain,Atlético Madrid,LaLiga,2020/2021,2020
+Geoffrey Kondogbia,Central Midfield,1993-02-15,27,Central African Republic,Atlético Madrid,LaLiga,2020/2021,2020
+Héctor Herrera,Central Midfield,1990-04-19,30,Mexico,Atlético Madrid,LaLiga,2020/2021,2020
+Yannick Carrasco,Left Winger,1993-09-04,27,Belgium,Atlético Madrid,LaLiga,2020/2021,2020
+Thomas Lemar,Left Winger,1995-11-12,24,France,Atlético Madrid,LaLiga,2020/2021,2020
+Vitolo,Left Winger,1989-11-02,31,Spain,Atlético Madrid,LaLiga,2020/2021,2020
+Ángel Correa,Right Winger,1995-03-09,25,Argentina,Atlético Madrid,LaLiga,2020/2021,2020
+João Félix,Second Striker,1999-11-10,20,Portugal,Atlético Madrid,LaLiga,2020/2021,2020
+Marcos Llorente,Second Striker,1995-01-30,25,Spain,Atlético Madrid,LaLiga,2020/2021,2020
+Luis Suárez,Centre-Forward,1987-01-24,33,Uruguay,Atlético Madrid,LaLiga,2020/2021,2020
+Diego Costa,Centre-Forward,1988-10-07,32,Spain,Atlético Madrid,LaLiga,2020/2021,2020
+Ivan Saponjic,Centre-Forward,1997-08-02,23,Serbia,Atlético Madrid,LaLiga,2020/2021,2020
+Tomas Vaclík,Goalkeeper,1989-03-29,31,Czech Republic,Sevilla FC,LaLiga,2020/2021,2020
+Bono,Goalkeeper,1991-04-05,29,Morocco,Sevilla FC,LaLiga,2020/2021,2020
+Javi Díaz,Goalkeeper,1997-05-15,23,Spain,Sevilla FC,LaLiga,2020/2021,2020
+Diego Carlos,Centre-Back,1993-03-15,27,Brazil,Sevilla FC,LaLiga,2020/2021,2020
+Jules Koundé,Centre-Back,1998-11-12,21,France,Sevilla FC,LaLiga,2020/2021,2020
+Karim Rekik,Centre-Back,1994-12-02,25,Netherlands,Sevilla FC,LaLiga,2020/2021,2020
+Joris Gnagnon,Centre-Back,1997-01-13,23,France,Sevilla FC,LaLiga,2020/2021,2020
+Sergi Gómez,Centre-Back,1992-03-28,28,Spain,Sevilla FC,LaLiga,2020/2021,2020
+Marcos Acuña,Left-Back,1991-10-28,29,Argentina,Sevilla FC,LaLiga,2020/2021,2020
+Sergio Escudero,Left-Back,1989-09-02,31,Spain,Sevilla FC,LaLiga,2020/2021,2020
+Jesús Navas,Right-Back,1985-11-21,34,Spain,Sevilla FC,LaLiga,2020/2021,2020
+Aleix Vidal,Right-Back,1989-08-21,31,Spain,Sevilla FC,LaLiga,2020/2021,2020
+Nemanja Gudelj,Defensive Midfield,1991-11-16,28,Serbia,Sevilla FC,LaLiga,2020/2021,2020
+Fernando Reges,Defensive Midfield,1987-07-25,33,Brazil,Sevilla FC,LaLiga,2020/2021,2020
+Joan Jordán,Central Midfield,1994-07-06,26,Spain,Sevilla FC,LaLiga,2020/2021,2020
+Óliver Torres,Central Midfield,1994-11-10,25,Spain,Sevilla FC,LaLiga,2020/2021,2020
+Ivan Rakitic,Central Midfield,1988-03-10,32,Croatia,Sevilla FC,LaLiga,2020/2021,2020
+Óscar Rodríguez,Attacking Midfield,1998-06-28,22,Spain,Sevilla FC,LaLiga,2020/2021,2020
+Franco Vázquez,Attacking Midfield,1989-02-22,31,Argentina,Sevilla FC,LaLiga,2020/2021,2020
+Oussama Idrissi,Left Winger,1996-02-26,24,Morocco,Sevilla FC,LaLiga,2020/2021,2020
+Lucas Ocampos,Right Winger,1994-07-11,26,Argentina,Sevilla FC,LaLiga,2020/2021,2020
+Suso,Right Winger,1993-11-19,26,Spain,Sevilla FC,LaLiga,2020/2021,2020
+Munir El Haddadi,Right Winger,1995-09-01,25,Morocco,Sevilla FC,LaLiga,2020/2021,2020
+Luuk de Jong,Centre-Forward,1990-08-27,30,Netherlands,Sevilla FC,LaLiga,2020/2021,2020
+Youssef En-Nesyri,Centre-Forward,1997-06-01,23,Morocco,Sevilla FC,LaLiga,2020/2021,2020
+Carlos Fernández,Centre-Forward,1996-05-22,24,Spain,Sevilla FC,LaLiga,2020/2021,2020
+Álex Remiro,Goalkeeper,1995-03-24,25,Spain,Real Sociedad,LaLiga,2020/2021,2020
+Miguel Ángel Moyá,Goalkeeper,1984-04-02,36,Spain,Real Sociedad,LaLiga,2020/2021,2020
+Robin Le Normand,Centre-Back,1996-11-11,23,France,Real Sociedad,LaLiga,2020/2021,2020
+Aritz Elustondo,Centre-Back,1994-03-28,26,Spain,Real Sociedad,LaLiga,2020/2021,2020
+Modibo Sagnan,Centre-Back,1999-04-14,21,France,Real Sociedad,LaLiga,2020/2021,2020
+Aihen Muñoz,Left-Back,1997-08-16,23,Spain,Real Sociedad,LaLiga,2020/2021,2020
+Nacho Monreal,Left-Back,1986-02-26,34,Spain,Real Sociedad,LaLiga,2020/2021,2020
+Joseba Zaldua,Right-Back,1992-06-24,28,Spain,Real Sociedad,LaLiga,2020/2021,2020
+Andoni Gorosabel,Right-Back,1996-08-04,24,Spain,Real Sociedad,LaLiga,2020/2021,2020
+Alex Sola,Right-Back,1999-06-09,21,Spain,Real Sociedad,LaLiga,2020/2021,2020
+Igor Zubeldia,Defensive Midfield,1997-03-30,23,Spain,Real Sociedad,LaLiga,2020/2021,2020
+Asier Illarramendi,Defensive Midfield,1990-03-08,30,Spain,Real Sociedad,LaLiga,2020/2021,2020
+Mikel Merino,Central Midfield,1996-06-22,24,Spain,Real Sociedad,LaLiga,2020/2021,2020
+Martín Zubimendi,Central Midfield,1999-02-02,21,Spain,Real Sociedad,LaLiga,2020/2021,2020
+Ander Guevara,Central Midfield,1997-07-07,23,Spain,Real Sociedad,LaLiga,2020/2021,2020
+Jon Guridi,Central Midfield,1995-02-28,25,Spain,Real Sociedad,LaLiga,2020/2021,2020
+Roberto López,Attacking Midfield,2000-04-24,20,Spain,Real Sociedad,LaLiga,2020/2021,2020
+David Silva,Attacking Midfield,1986-01-08,34,Spain,Real Sociedad,LaLiga,2020/2021,2020
+Luca Sangalli,Attacking Midfield,1995-02-10,25,Spain,Real Sociedad,LaLiga,2020/2021,2020
+Mikel Oyarzabal,Left Winger,1997-04-21,23,Spain,Real Sociedad,LaLiga,2020/2021,2020
+Ander Barrenetxea,Left Winger,2001-12-27,18,Spain,Real Sociedad,LaLiga,2020/2021,2020
+Martín Merquelanz,Left Winger,1995-06-12,25,Spain,Real Sociedad,LaLiga,2020/2021,2020
+Portu,Right Winger,1992-05-21,28,Spain,Real Sociedad,LaLiga,2020/2021,2020
+Adnan Januzaj,Right Winger,1995-02-05,25,Belgium,Real Sociedad,LaLiga,2020/2021,2020
+Willian José,Centre-Forward,1991-11-23,28,Brazil,Real Sociedad,LaLiga,2020/2021,2020
+Alexander Isak,Centre-Forward,1999-09-21,21,Sweden,Real Sociedad,LaLiga,2020/2021,2020
+Jon Bautista,Centre-Forward,1995-07-03,25,Spain,Real Sociedad,LaLiga,2020/2021,2020
+Sergio Asenjo,Goalkeeper,1989-06-28,31,Spain,Villarreal CF,LaLiga,2020/2021,2020
+Gero Rulli,Goalkeeper,1992-05-20,28,Argentina,Villarreal CF,LaLiga,2020/2021,2020
+Pau Torres,Centre-Back,1997-01-16,23,Spain,Villarreal CF,LaLiga,2020/2021,2020
+Juan Foyth,Centre-Back,1998-01-12,22,Argentina,Villarreal CF,LaLiga,2020/2021,2020
+Ramiro Funes Mori,Centre-Back,1991-03-05,29,Argentina,Villarreal CF,LaLiga,2020/2021,2020
+Raúl Albiol,Centre-Back,1985-09-04,35,Spain,Villarreal CF,LaLiga,2020/2021,2020
+Soufiane Chakla,Centre-Back,1993-09-02,27,Morocco,Villarreal CF,LaLiga,2020/2021,2020
+Pervis Estupiñán,Left-Back,1998-01-21,22,Ecuador,Villarreal CF,LaLiga,2020/2021,2020
+Alfonso Pedraza,Left-Back,1996-04-09,24,Spain,Villarreal CF,LaLiga,2020/2021,2020
+Alberto Moreno,Left-Back,1992-07-05,28,Spain,Villarreal CF,LaLiga,2020/2021,2020
+Jaume Costa,Left-Back,1988-03-18,32,Spain,Villarreal CF,LaLiga,2020/2021,2020
+Mario Gaspar,Right-Back,1990-11-24,29,Spain,Villarreal CF,LaLiga,2020/2021,2020
+Rubén Peña,Right-Back,1991-07-18,29,Spain,Villarreal CF,LaLiga,2020/2021,2020
+Francis Coquelin,Defensive Midfield,1991-05-13,29,France,Villarreal CF,LaLiga,2020/2021,2020
+Manu Trigueros,Central Midfield,1991-10-17,29,Spain,Villarreal CF,LaLiga,2020/2021,2020
+Dani Parejo,Central Midfield,1989-04-16,31,Spain,Villarreal CF,LaLiga,2020/2021,2020
+Vicente Iborra,Central Midfield,1988-01-16,32,Spain,Villarreal CF,LaLiga,2020/2021,2020
+Moi Gómez,Left Winger,1994-06-23,26,Spain,Villarreal CF,LaLiga,2020/2021,2020
+Takefusa Kubo,Right Winger,2001-06-04,19,Japan,Villarreal CF,LaLiga,2020/2021,2020
+Samu Chukwueze,Right Winger,1999-05-22,21,Nigeria,Villarreal CF,LaLiga,2020/2021,2020
+Yéremi Pino,Right Winger,2002-10-20,18,Spain,Villarreal CF,LaLiga,2020/2021,2020
+Dani Raba,Right Winger,1995-10-29,25,Spain,Villarreal CF,LaLiga,2020/2021,2020
+Gerard Moreno,Centre-Forward,1992-04-07,28,Spain,Villarreal CF,LaLiga,2020/2021,2020
+Paco Alcácer,Centre-Forward,1993-08-30,27,Spain,Villarreal CF,LaLiga,2020/2021,2020
+Carlos Bacca,Centre-Forward,1986-09-08,34,Colombia,Villarreal CF,LaLiga,2020/2021,2020
+Jasper Cillessen,Goalkeeper,1989-04-22,31,Netherlands,Valencia CF,LaLiga,2020/2021,2020
+Jaume Doménech,Goalkeeper,1990-11-05,30,Spain,Valencia CF,LaLiga,2020/2021,2020
+Cristian Rivero,Goalkeeper,1998-03-21,22,Spain,Valencia CF,LaLiga,2020/2021,2020
+Gabriel Paulista,Centre-Back,1990-11-26,29,Brazil,Valencia CF,LaLiga,2020/2021,2020
+Mouctar Diakhaby,Centre-Back,1996-12-19,23,France,Valencia CF,LaLiga,2020/2021,2020
+Hugo Guillamón,Centre-Back,2000-01-31,20,Spain,Valencia CF,LaLiga,2020/2021,2020
+Eliaquim Mangala,Centre-Back,1991-02-13,29,France,Valencia CF,LaLiga,2020/2021,2020
+José Gayà,Left-Back,1995-05-25,25,Spain,Valencia CF,LaLiga,2020/2021,2020
+Toni Lato,Left-Back,1997-11-21,22,Spain,Valencia CF,LaLiga,2020/2021,2020
+Daniel Wass,Right-Back,1989-05-31,31,Denmark,Valencia CF,LaLiga,2020/2021,2020
+Thierry Correia,Right-Back,1999-03-09,21,Portugal,Valencia CF,LaLiga,2020/2021,2020
+Uros Racic,Central Midfield,1998-03-17,22,Serbia,Valencia CF,LaLiga,2020/2021,2020
+Yunus Musah,Central Midfield,2002-11-29,17,United States,Valencia CF,LaLiga,2020/2021,2020
+Carlos Soler,Right Midfield,1997-01-02,23,Spain,Valencia CF,LaLiga,2020/2021,2020
+Kang-in Lee,Attacking Midfield,2001-02-19,19,"Korea, South",Valencia CF,LaLiga,2020/2021,2020
+Gonçalo Guedes,Left Winger,1996-11-29,23,Portugal,Valencia CF,LaLiga,2020/2021,2020
+Manu Vallejo,Left Winger,1997-02-14,23,Spain,Valencia CF,LaLiga,2020/2021,2020
+Denis Cheryshev,Left Winger,1990-12-26,29,Russia,Valencia CF,LaLiga,2020/2021,2020
+Álex Blanco,Left Winger,1998-12-16,21,Spain,Valencia CF,LaLiga,2020/2021,2020
+Jason,Right Winger,1994-07-06,26,Spain,Valencia CF,LaLiga,2020/2021,2020
+Maxi Gómez,Centre-Forward,1996-08-14,24,Uruguay,Valencia CF,LaLiga,2020/2021,2020
+Kévin Gameiro,Centre-Forward,1987-05-09,33,France,Valencia CF,LaLiga,2020/2021,2020
+Rubén Sobrino,Centre-Forward,1992-06-01,28,Spain,Valencia CF,LaLiga,2020/2021,2020
+Unai Simón,Goalkeeper,1997-06-11,23,Spain,Athletic Bilbao,LaLiga,2020/2021,2020
+Iago Herrerín,Goalkeeper,1988-01-25,32,Spain,Athletic Bilbao,LaLiga,2020/2021,2020
+Jokin Ezkieta,Goalkeeper,1996-08-17,24,Spain,Athletic Bilbao,LaLiga,2020/2021,2020
+Iñigo Martínez,Centre-Back,1991-05-17,29,Spain,Athletic Bilbao,LaLiga,2020/2021,2020
+Yeray Álvarez,Centre-Back,1995-01-24,25,Spain,Athletic Bilbao,LaLiga,2020/2021,2020
+Unai Núñez,Centre-Back,1997-01-30,23,Spain,Athletic Bilbao,LaLiga,2020/2021,2020
+Yuri Berchiche,Left-Back,1990-02-10,30,Spain,Athletic Bilbao,LaLiga,2020/2021,2020
+Mikel Balenziaga,Left-Back,1988-02-29,32,Spain,Athletic Bilbao,LaLiga,2020/2021,2020
+Ander Capa,Right-Back,1992-02-08,28,Spain,Athletic Bilbao,LaLiga,2020/2021,2020
+Óscar de Marcos,Right-Back,1989-04-14,31,Spain,Athletic Bilbao,LaLiga,2020/2021,2020
+Iñigo Lekue,Right-Back,1993-05-04,27,Spain,Athletic Bilbao,LaLiga,2020/2021,2020
+Peru Nolaskoain,Defensive Midfield,1998-10-25,22,Spain,Athletic Bilbao,LaLiga,2020/2021,2020
+Mikel Vesga,Defensive Midfield,1993-04-08,27,Spain,Athletic Bilbao,LaLiga,2020/2021,2020
+Unai López,Central Midfield,1995-10-30,25,Spain,Athletic Bilbao,LaLiga,2020/2021,2020
+Dani García,Central Midfield,1990-05-24,30,Spain,Athletic Bilbao,LaLiga,2020/2021,2020
+Unai Vencedor,Central Midfield,2000-11-15,19,Spain,Athletic Bilbao,LaLiga,2020/2021,2020
+Oihan Sancet,Attacking Midfield,2000-04-25,20,Spain,Athletic Bilbao,LaLiga,2020/2021,2020
+Iker Muniain,Left Winger,1992-12-19,27,Spain,Athletic Bilbao,LaLiga,2020/2021,2020
+Álex Berenguer,Left Winger,1995-07-04,25,Spain,Athletic Bilbao,LaLiga,2020/2021,2020
+Iñigo Córdoba,Left Winger,1997-03-13,23,Spain,Athletic Bilbao,LaLiga,2020/2021,2020
+Jon Morcillo,Left Winger,1998-09-15,22,Spain,Athletic Bilbao,LaLiga,2020/2021,2020
+Iñigo Vicente,Left Winger,1998-01-06,22,Spain,Athletic Bilbao,LaLiga,2020/2021,2020
+Ibai Gómez,Right Winger,1989-11-11,30,Spain,Athletic Bilbao,LaLiga,2020/2021,2020
+Iñaki Williams,Centre-Forward,1994-06-15,26,Spain,Athletic Bilbao,LaLiga,2020/2021,2020
+Raúl García,Centre-Forward,1986-07-11,34,Spain,Athletic Bilbao,LaLiga,2020/2021,2020
+Asier Villalibre,Centre-Forward,1997-09-30,23,Spain,Athletic Bilbao,LaLiga,2020/2021,2020
+Kenan Kodro,Centre-Forward,1993-08-19,27,Bosnia-Herzegovina,Athletic Bilbao,LaLiga,2020/2021,2020
+Joel Robles,Goalkeeper,1990-06-17,30,Spain,Real Betis Balompié,LaLiga,2020/2021,2020
+Dani Martín,Goalkeeper,1998-07-08,22,Spain,Real Betis Balompié,LaLiga,2020/2021,2020
+Claudio Bravo,Goalkeeper,1983-04-13,37,Chile,Real Betis Balompié,LaLiga,2020/2021,2020
+Marc Bartra,Centre-Back,1991-01-15,29,Spain,Real Betis Balompié,LaLiga,2020/2021,2020
+Aïssa Mandi,Centre-Back,1991-10-22,29,Algeria,Real Betis Balompié,LaLiga,2020/2021,2020
+Sidnei,Centre-Back,1989-08-23,31,Brazil,Real Betis Balompié,LaLiga,2020/2021,2020
+Víctor Ruiz,Centre-Back,1989-01-25,31,Spain,Real Betis Balompié,LaLiga,2020/2021,2020
+Álex Moreno,Left-Back,1993-06-08,27,Spain,Real Betis Balompié,LaLiga,2020/2021,2020
+Juan Miranda,Left-Back,2000-01-19,20,Spain,Real Betis Balompié,LaLiga,2020/2021,2020
+Emerson,Right-Back,1999-01-14,21,Brazil,Real Betis Balompié,LaLiga,2020/2021,2020
+Martín Montoya,Right-Back,1991-04-14,29,Spain,Real Betis Balompié,LaLiga,2020/2021,2020
+William Carvalho,Defensive Midfield,1992-04-07,28,Portugal,Real Betis Balompié,LaLiga,2020/2021,2020
+Guido Rodríguez,Defensive Midfield,1994-04-12,26,Argentina,Real Betis Balompié,LaLiga,2020/2021,2020
+Víctor Camarasa,Central Midfield,1994-05-28,26,Spain,Real Betis Balompié,LaLiga,2020/2021,2020
+Andrés Guardado,Central Midfield,1986-09-28,34,Mexico,Real Betis Balompié,LaLiga,2020/2021,2020
+Paul Akouokou,Central Midfield,1997-12-20,22,Cote d'Ivoire,Real Betis Balompié,LaLiga,2020/2021,2020
+Nabil Fekir,Attacking Midfield,1993-07-18,27,France,Real Betis Balompié,LaLiga,2020/2021,2020
+Sergio Canales,Attacking Midfield,1991-02-16,29,Spain,Real Betis Balompié,LaLiga,2020/2021,2020
+Cristian Tello,Left Winger,1991-08-11,29,Spain,Real Betis Balompié,LaLiga,2020/2021,2020
+Diego Lainez,Left Winger,2000-06-09,20,Mexico,Real Betis Balompié,LaLiga,2020/2021,2020
+Juanmi,Right Winger,1993-05-20,27,Spain,Real Betis Balompié,LaLiga,2020/2021,2020
+Joaquín,Right Winger,1981-07-21,39,Spain,Real Betis Balompié,LaLiga,2020/2021,2020
+Aitor Ruibal,Right Winger,1996-03-22,24,Spain,Real Betis Balompié,LaLiga,2020/2021,2020
+Loren Morón,Centre-Forward,1993-12-30,26,Spain,Real Betis Balompié,LaLiga,2020/2021,2020
+Borja Iglesias,Centre-Forward,1993-01-17,27,Spain,Real Betis Balompié,LaLiga,2020/2021,2020
+Antonio Sanabria,Centre-Forward,1996-03-04,24,Paraguay,Real Betis Balompié,LaLiga,2020/2021,2020
+David Soria,Goalkeeper,1993-04-04,27,Spain,Getafe CF,LaLiga,2020/2021,2020
+Leandro Chichizola,Goalkeeper,1990-03-27,30,Argentina,Getafe CF,LaLiga,2020/2021,2020
+Rubén Yáñez,Goalkeeper,1993-10-12,27,Spain,Getafe CF,LaLiga,2020/2021,2020
+Djené,Centre-Back,1991-12-31,28,Togo,Getafe CF,LaLiga,2020/2021,2020
+Erick Cabaco,Centre-Back,1995-04-19,25,Uruguay,Getafe CF,LaLiga,2020/2021,2020
+Xabi Etxeita,Centre-Back,1987-10-31,33,Spain,Getafe CF,LaLiga,2020/2021,2020
+Chema,Centre-Back,1992-03-03,28,Spain,Getafe CF,LaLiga,2020/2021,2020
+Mathí­as Olivera,Left-Back,1997-10-31,23,Uruguay,Getafe CF,LaLiga,2020/2021,2020
+Allan Nyom,Right-Back,1988-05-10,32,Cameroon,Getafe CF,LaLiga,2020/2021,2020
+Damián Suárez,Right-Back,1988-04-27,32,Uruguay,Getafe CF,LaLiga,2020/2021,2020
+Ante Palaversa,Defensive Midfield,2000-04-06,20,Croatia,Getafe CF,LaLiga,2020/2021,2020
+David Timor,Defensive Midfield,1989-10-17,31,Spain,Getafe CF,LaLiga,2020/2021,2020
+Mauro Arambarri,Central Midfield,1995-09-30,25,Uruguay,Getafe CF,LaLiga,2020/2021,2020
+Nemanja Maksimovic,Central Midfield,1995-01-26,25,Serbia,Getafe CF,LaLiga,2020/2021,2020
+Marc Cucurella,Left Midfield,1998-07-22,22,Spain,Getafe CF,LaLiga,2020/2021,2020
+Abdoulay Diaby,Right Winger,1991-05-21,29,Mali,Getafe CF,LaLiga,2020/2021,2020
+Víctor Mollejo,Right Winger,2001-01-21,19,Spain,Getafe CF,LaLiga,2020/2021,2020
+Francisco Portillo,Right Winger,1990-06-13,30,Spain,Getafe CF,LaLiga,2020/2021,2020
+Enes Ünal,Centre-Forward,1997-05-10,23,Turkey,Getafe CF,LaLiga,2020/2021,2020
+Cucho Hernández,Centre-Forward,1999-04-22,21,Colombia,Getafe CF,LaLiga,2020/2021,2020
+Jaime Mata,Centre-Forward,1988-10-24,32,Spain,Getafe CF,LaLiga,2020/2021,2020
+Ángel Rodríguez,Centre-Forward,1987-04-26,33,Spain,Getafe CF,LaLiga,2020/2021,2020
+Darío Poveda,Centre-Forward,1997-03-13,23,Spain,Getafe CF,LaLiga,2020/2021,2020
+Rubén Blanco,Goalkeeper,1995-07-25,25,Spain,Celta de Vigo,LaLiga,2020/2021,2020
+Iván Villar,Goalkeeper,1997-07-09,23,Spain,Celta de Vigo,LaLiga,2020/2021,2020
+Sergio Álvarez,Goalkeeper,1986-08-03,34,Spain,Celta de Vigo,LaLiga,2020/2021,2020
+Néstor Araújo,Centre-Back,1991-08-29,29,Mexico,Celta de Vigo,LaLiga,2020/2021,2020
+Joseph Aidoo,Centre-Back,1995-09-29,25,Ghana,Celta de Vigo,LaLiga,2020/2021,2020
+Jeison Murillo,Centre-Back,1992-05-27,28,Colombia,Celta de Vigo,LaLiga,2020/2021,2020
+David Costas,Centre-Back,1995-03-26,25,Spain,Celta de Vigo,LaLiga,2020/2021,2020
+Jorge Sáenz,Centre-Back,1996-11-17,23,Spain,Celta de Vigo,LaLiga,2020/2021,2020
+Lucas Olaza,Left-Back,1994-07-21,26,Uruguay,Celta de Vigo,LaLiga,2020/2021,2020
+David Juncà,Left-Back,1993-11-16,26,Spain,Celta de Vigo,LaLiga,2020/2021,2020
+Hugo Mallo,Right-Back,1991-06-22,29,Spain,Celta de Vigo,LaLiga,2020/2021,2020
+Kevin Vázquez,Right-Back,1993-03-23,27,Spain,Celta de Vigo,LaLiga,2020/2021,2020
+Okay Yokuslu,Defensive Midfield,1994-03-09,26,Turkey,Celta de Vigo,LaLiga,2020/2021,2020
+Renato Tapia,Defensive Midfield,1995-07-28,25,Peru,Celta de Vigo,LaLiga,2020/2021,2020
+Fran Beltrán,Central Midfield,1999-02-03,21,Spain,Celta de Vigo,LaLiga,2020/2021,2020
+Gabriel Veiga,Central Midfield,2002-05-27,18,Spain,Celta de Vigo,LaLiga,2020/2021,2020
+Denis Suárez,Attacking Midfield,1994-01-06,26,Spain,Celta de Vigo,LaLiga,2020/2021,2020
+Miguel Baeza,Attacking Midfield,2000-03-27,20,Spain,Celta de Vigo,LaLiga,2020/2021,2020
+Nolito,Left Winger,1986-10-15,34,Spain,Celta de Vigo,LaLiga,2020/2021,2020
+Brais Méndez,Right Winger,1997-01-07,23,Spain,Celta de Vigo,LaLiga,2020/2021,2020
+Emre Mor,Right Winger,1997-07-24,23,Turkey,Celta de Vigo,LaLiga,2020/2021,2020
+Santi Mina,Centre-Forward,1995-12-07,24,Spain,Celta de Vigo,LaLiga,2020/2021,2020
+Iago Aspas,Centre-Forward,1987-08-01,33,Spain,Celta de Vigo,LaLiga,2020/2021,2020
+Rui Silva,Goalkeeper,1994-02-07,26,Portugal,Granada CF,LaLiga,2020/2021,2020
+Aarón Escandell,Goalkeeper,1995-09-27,25,Spain,Granada CF,LaLiga,2020/2021,2020
+Domingos Duarte,Centre-Back,1995-03-10,25,Portugal,Granada CF,LaLiga,2020/2021,2020
+Nehuén Pérez,Centre-Back,2000-06-24,20,Argentina,Granada CF,LaLiga,2020/2021,2020
+Jesús Vallejo,Centre-Back,1997-01-05,23,Spain,Granada CF,LaLiga,2020/2021,2020
+Germán Sánchez,Centre-Back,1986-12-12,33,Spain,Granada CF,LaLiga,2020/2021,2020
+Neyder Lozano,Centre-Back,1994-03-04,26,Colombia,Granada CF,LaLiga,2020/2021,2020
+Carlos Neva,Left-Back,1996-06-12,24,Spain,Granada CF,LaLiga,2020/2021,2020
+Dimitri Foulquier,Right-Back,1993-03-23,27,Guadeloupe,Granada CF,LaLiga,2020/2021,2020
+Víctor Díaz,Right-Back,1988-06-12,32,Spain,Granada CF,LaLiga,2020/2021,2020
+Quini,Right-Back,1989-09-24,31,Spain,Granada CF,LaLiga,2020/2021,2020
+Yangel Herrera,Defensive Midfield,1998-01-07,22,Venezuela,Granada CF,LaLiga,2020/2021,2020
+Maxime Gonalons,Defensive Midfield,1989-03-10,31,France,Granada CF,LaLiga,2020/2021,2020
+Luis Milla,Central Midfield,1994-10-07,26,Spain,Granada CF,LaLiga,2020/2021,2020
+Ramon Azeez,Central Midfield,1992-12-12,27,Nigeria,Granada CF,LaLiga,2020/2021,2020
+Yan Eteki,Central Midfield,1997-08-26,23,Cameroon,Granada CF,LaLiga,2020/2021,2020
+Ángel Montoro,Central Midfield,1988-06-25,32,Spain,Granada CF,LaLiga,2020/2021,2020
+Fede Vico,Attacking Midfield,1994-07-04,26,Spain,Granada CF,LaLiga,2020/2021,2020
+Darwin Machís,Left Winger,1993-02-07,27,Venezuela,Granada CF,LaLiga,2020/2021,2020
+Kenedy,Left Winger,1996-02-08,24,Brazil,Granada CF,LaLiga,2020/2021,2020
+Antonio Puertas,Right Winger,1992-02-21,28,Spain,Granada CF,LaLiga,2020/2021,2020
+Alberto Soro,Right Winger,1999-03-09,21,Spain,Granada CF,LaLiga,2020/2021,2020
+Luis Suárez,Centre-Forward,1997-12-02,22,Colombia,Granada CF,LaLiga,2020/2021,2020
+Jorge Molina,Centre-Forward,1982-04-22,38,Spain,Granada CF,LaLiga,2020/2021,2020
+Roberto Soldado,Centre-Forward,1985-05-27,35,Spain,Granada CF,LaLiga,2020/2021,2020
+Aitor Fernández,Goalkeeper,1991-05-03,29,Spain,Levante UD,LaLiga,2020/2021,2020
+Koke Vegas,Goalkeeper,1995-09-27,25,Spain,Levante UD,LaLiga,2020/2021,2020
+Dani Cárdenas,Goalkeeper,1997-03-28,23,Spain,Levante UD,LaLiga,2020/2021,2020
+Rúben Vezo,Centre-Back,1994-04-25,26,Portugal,Levante UD,LaLiga,2020/2021,2020
+Rober Pier,Centre-Back,1995-02-16,25,Spain,Levante UD,LaLiga,2020/2021,2020
+Sergio Postigo,Centre-Back,1988-11-04,32,Spain,Levante UD,LaLiga,2020/2021,2020
+Óscar Duarte,Centre-Back,1989-06-03,31,Costa Rica,Levante UD,LaLiga,2020/2021,2020
+Carlos Clerc,Left-Back,1992-02-21,28,Spain,Levante UD,LaLiga,2020/2021,2020
+Toño,Left-Back,1989-11-07,30,Spain,Levante UD,LaLiga,2020/2021,2020
+Jorge Miramón,Right-Back,1989-06-02,31,Spain,Levante UD,LaLiga,2020/2021,2020
+Coke,Right-Back,1987-04-26,33,Spain,Levante UD,LaLiga,2020/2021,2020
+Son,Right-Back,1994-03-30,26,Spain,Levante UD,LaLiga,2020/2021,2020
+Nemanja Radoja,Defensive Midfield,1993-02-06,27,Serbia,Levante UD,LaLiga,2020/2021,2020
+Nikola Vukcevic,Defensive Midfield,1991-12-13,28,Montenegro,Levante UD,LaLiga,2020/2021,2020
+Mickaël Malsa,Defensive Midfield,1995-10-12,25,Martinique,Levante UD,LaLiga,2020/2021,2020
+Cheick Doukouré,Defensive Midfield,1992-09-11,28,Cote d'Ivoire,Levante UD,LaLiga,2020/2021,2020
+José Campaña,Central Midfield,1993-05-31,27,Spain,Levante UD,LaLiga,2020/2021,2020
+Enis Bardhi,Central Midfield,1995-07-02,25,North Macedonia,Levante UD,LaLiga,2020/2021,2020
+Gonzalo Melero,Central Midfield,1994-01-02,26,Spain,Levante UD,LaLiga,2020/2021,2020
+Rubén Rochina,Attacking Midfield,1991-03-23,29,Spain,Levante UD,LaLiga,2020/2021,2020
+Jorge de Frutos,Right Winger,1997-02-20,23,Spain,Levante UD,LaLiga,2020/2021,2020
+Roger Martí,Centre-Forward,1991-01-03,29,Spain,Levante UD,LaLiga,2020/2021,2020
+José Luis Morales,Centre-Forward,1987-07-23,33,Spain,Levante UD,LaLiga,2020/2021,2020
+Sergio León,Centre-Forward,1989-01-06,31,Spain,Levante UD,LaLiga,2020/2021,2020
+Dani Gómez,Centre-Forward,1998-07-30,22,Spain,Levante UD,LaLiga,2020/2021,2020
+Fernando Pacheco,Goalkeeper,1992-05-18,28,Spain,Deportivo Alavés,LaLiga,2020/2021,2020
+Antonio Sivera,Goalkeeper,1996-08-11,24,Spain,Deportivo Alavés,LaLiga,2020/2021,2020
+Víctor Laguardia,Centre-Back,1989-11-05,31,Spain,Deportivo Alavés,LaLiga,2020/2021,2020
+Florian Lejeune,Centre-Back,1991-05-20,29,France,Deportivo Alavés,LaLiga,2020/2021,2020
+Rodrigo Ely,Centre-Back,1993-11-03,27,Brazil,Deportivo Alavés,LaLiga,2020/2021,2020
+Tachi,Centre-Back,1997-09-10,23,Spain,Deportivo Alavés,LaLiga,2020/2021,2020
+Rubén Duarte,Left-Back,1995-10-18,25,Spain,Deportivo Alavés,LaLiga,2020/2021,2020
+Adrián Marín,Left-Back,1997-01-09,23,Spain,Deportivo Alavés,LaLiga,2020/2021,2020
+Javi López,Left-Back,2002-03-25,18,Spain,Deportivo Alavés,LaLiga,2020/2021,2020
+Tomás Tavares,Right-Back,2001-03-07,19,Portugal,Deportivo Alavés,LaLiga,2020/2021,2020
+Martín Aguirregabiria,Right-Back,1996-05-10,24,Spain,Deportivo Alavés,LaLiga,2020/2021,2020
+Ximo Navarro,Right-Back,1990-01-23,30,Spain,Deportivo Alavés,LaLiga,2020/2021,2020
+Pere Pons,Defensive Midfield,1993-02-20,27,Spain,Deportivo Alavés,LaLiga,2020/2021,2020
+Manu García,Defensive Midfield,1986-04-26,34,Spain,Deportivo Alavés,LaLiga,2020/2021,2020
+Rodrigo Battaglia,Central Midfield,1991-07-12,29,Argentina,Deportivo Alavés,LaLiga,2020/2021,2020
+Tomás Pina,Central Midfield,1987-10-14,33,Spain,Deportivo Alavés,LaLiga,2020/2021,2020
+Sergi García,Central Midfield,1999-04-14,21,Spain,Deportivo Alavés,LaLiga,2020/2021,2020
+Abdallahi Mahmoud,Central Midfield,2000-05-04,20,Mauritania,Deportivo Alavés,LaLiga,2020/2021,2020
+Borja Sainz,Left Winger,2001-02-01,19,Spain,Deportivo Alavés,LaLiga,2020/2021,2020
+Luis Rioja,Left Winger,1993-10-16,27,Spain,Deportivo Alavés,LaLiga,2020/2021,2020
+Burgui,Left Winger,1993-10-29,27,Spain,Deportivo Alavés,LaLiga,2020/2021,2020
+Jota Peleteiro,Right Winger,1991-06-16,29,Spain,Deportivo Alavés,LaLiga,2020/2021,2020
+Edgar Méndez,Right Winger,1990-01-02,30,Spain,Deportivo Alavés,LaLiga,2020/2021,2020
+Lucas Pérez,Centre-Forward,1988-09-10,32,Spain,Deportivo Alavés,LaLiga,2020/2021,2020
+Joselu,Centre-Forward,1990-03-27,30,Spain,Deportivo Alavés,LaLiga,2020/2021,2020
+Deyverson,Centre-Forward,1991-05-08,29,Brazil,Deportivo Alavés,LaLiga,2020/2021,2020
+John Guidetti,Centre-Forward,1992-04-15,28,Sweden,Deportivo Alavés,LaLiga,2020/2021,2020
+Sergio Herrera,Goalkeeper,1993-06-05,27,Spain,CA Osasuna,LaLiga,2020/2021,2020
+Rubén Martínez,Goalkeeper,1984-06-22,36,Spain,CA Osasuna,LaLiga,2020/2021,2020
+Juan Pérez,Goalkeeper,1996-07-15,24,Spain,CA Osasuna,LaLiga,2020/2021,2020
+David García,Centre-Back,1994-02-14,26,Spain,CA Osasuna,LaLiga,2020/2021,2020
+Aridane Hernández,Centre-Back,1989-03-23,31,Spain,CA Osasuna,LaLiga,2020/2021,2020
+Facundo Roncaglia,Centre-Back,1987-02-10,33,Argentina,CA Osasuna,LaLiga,2020/2021,2020
+Unai García,Centre-Back,1992-09-03,28,Spain,CA Osasuna,LaLiga,2020/2021,2020
+Raúl Navas,Centre-Back,1988-05-11,32,Spain,CA Osasuna,LaLiga,2020/2021,2020
+Juan Cruz,Left-Back,1992-07-28,28,Spain,CA Osasuna,LaLiga,2020/2021,2020
+Nacho Vidal,Right-Back,1995-01-24,25,Spain,CA Osasuna,LaLiga,2020/2021,2020
+Lucas Torró,Defensive Midfield,1994-07-19,26,Spain,CA Osasuna,LaLiga,2020/2021,2020
+Oier,Defensive Midfield,1986-05-25,34,Spain,CA Osasuna,LaLiga,2020/2021,2020
+Jon Moncayola,Central Midfield,1998-05-13,22,Spain,CA Osasuna,LaLiga,2020/2021,2020
+Darko Brasanac,Central Midfield,1992-02-12,28,Serbia,CA Osasuna,LaLiga,2020/2021,2020
+Iñigo Pérez,Central Midfield,1988-01-18,32,Spain,CA Osasuna,LaLiga,2020/2021,2020
+Rubén García,Attacking Midfield,1993-07-14,27,Spain,CA Osasuna,LaLiga,2020/2021,2020
+Roberto Torres,Attacking Midfield,1989-03-07,31,Spain,CA Osasuna,LaLiga,2020/2021,2020
+Jony,Left Winger,1991-07-09,29,Spain,CA Osasuna,LaLiga,2020/2021,2020
+Kike Barja,Right Winger,1997-04-04,23,Spain,CA Osasuna,LaLiga,2020/2021,2020
+Chimy Ávila,Centre-Forward,1994-02-06,26,Argentina,CA Osasuna,LaLiga,2020/2021,2020
+Ante Budimir,Centre-Forward,1991-07-22,29,Croatia,CA Osasuna,LaLiga,2020/2021,2020
+Jonathan Calleri,Centre-Forward,1993-09-23,27,Argentina,CA Osasuna,LaLiga,2020/2021,2020
+Enric Gallego,Centre-Forward,1986-09-12,34,Spain,CA Osasuna,LaLiga,2020/2021,2020
+Brandon,Centre-Forward,1995-02-04,25,Spain,CA Osasuna,LaLiga,2020/2021,2020
+Adrián López,Centre-Forward,1988-01-08,32,Spain,CA Osasuna,LaLiga,2020/2021,2020
+Marko Dmitrovic,Goalkeeper,1992-01-24,28,Serbia,SD Eibar,LaLiga,2020/2021,2020
+Yoel Rodríguez,Goalkeeper,1988-08-28,32,Spain,SD Eibar,LaLiga,2020/2021,2020
+Paulo Oliveira,Centre-Back,1992-01-08,28,Portugal,SD Eibar,LaLiga,2020/2021,2020
+Pedro Bigas,Centre-Back,1990-05-15,30,Spain,SD Eibar,LaLiga,2020/2021,2020
+Anaitz Arbilla,Centre-Back,1987-05-15,33,Spain,SD Eibar,LaLiga,2020/2021,2020
+José Antonio Martínez,Centre-Back,1993-02-12,27,Spain,SD Eibar,LaLiga,2020/2021,2020
+Esteban Burgos,Centre-Back,1992-01-09,28,Argentina,SD Eibar,LaLiga,2020/2021,2020
+Kévin Rodrigues,Left-Back,1994-03-05,26,Portugal,SD Eibar,LaLiga,2020/2021,2020
+José Ángel,Left-Back,1989-09-05,31,Spain,SD Eibar,LaLiga,2020/2021,2020
+Rafa Soares,Left-Back,1995-05-09,25,Portugal,SD Eibar,LaLiga,2020/2021,2020
+Alejandro Pozo,Right-Back,1999-02-22,21,Spain,SD Eibar,LaLiga,2020/2021,2020
+Roberto Correa,Right-Back,1992-09-20,28,Spain,SD Eibar,LaLiga,2020/2021,2020
+Pape Diop,Defensive Midfield,1986-03-19,34,Senegal,SD Eibar,LaLiga,2020/2021,2020
+Edu Expósito,Central Midfield,1996-08-01,24,Spain,SD Eibar,LaLiga,2020/2021,2020
+Recio,Central Midfield,1991-01-11,29,Spain,SD Eibar,LaLiga,2020/2021,2020
+Sergio Álvarez,Central Midfield,1992-01-23,28,Spain,SD Eibar,LaLiga,2020/2021,2020
+Roberto Olabe,Central Midfield,1996-05-05,24,Spain,SD Eibar,LaLiga,2020/2021,2020
+Bryan Gil,Left Winger,2001-02-11,19,Spain,SD Eibar,LaLiga,2020/2021,2020
+Takashi Inui,Left Winger,1988-06-02,32,Japan,SD Eibar,LaLiga,2020/2021,2020
+Damian Kadzior,Right Winger,1992-06-16,28,Poland,SD Eibar,LaLiga,2020/2021,2020
+Pedro León,Right Winger,1986-11-24,33,Spain,SD Eibar,LaLiga,2020/2021,2020
+Yoshinori Muto,Centre-Forward,1992-07-15,28,Japan,SD Eibar,LaLiga,2020/2021,2020
+Sergi Enrich,Centre-Forward,1990-02-26,30,Spain,SD Eibar,LaLiga,2020/2021,2020
+Kike García,Centre-Forward,1989-11-25,30,Spain,SD Eibar,LaLiga,2020/2021,2020
+Quique González,Centre-Forward,1990-05-16,30,Spain,SD Eibar,LaLiga,2020/2021,2020
+Jordi Masip,Goalkeeper,1989-01-03,31,Spain,Real Valladolid CF,LaLiga,2020/2021,2020
+Roberto,Goalkeeper,1986-02-10,34,Spain,Real Valladolid CF,LaLiga,2020/2021,2020
+Javi Sánchez,Centre-Back,1997-03-14,23,Spain,Real Valladolid CF,LaLiga,2020/2021,2020
+Joaquín Fernández,Centre-Back,1996-05-31,24,Spain,Real Valladolid CF,LaLiga,2020/2021,2020
+Kiko Olivas,Centre-Back,1988-08-21,32,Spain,Real Valladolid CF,LaLiga,2020/2021,2020
+Jawad El Yamiq,Centre-Back,1992-02-29,28,Morocco,Real Valladolid CF,LaLiga,2020/2021,2020
+Bruno González,Centre-Back,1990-05-24,30,Spain,Real Valladolid CF,LaLiga,2020/2021,2020
+Nacho Martínez,Left-Back,1989-03-07,31,Spain,Real Valladolid CF,LaLiga,2020/2021,2020
+Raúl Carnero,Left-Back,1989-04-30,31,Spain,Real Valladolid CF,LaLiga,2020/2021,2020
+Saidy Janko,Right-Back,1995-10-22,25,Switzerland,Real Valladolid CF,LaLiga,2020/2021,2020
+Luis Pérez,Right-Back,1995-02-04,25,Spain,Real Valladolid CF,LaLiga,2020/2021,2020
+Rubén Alcaraz,Central Midfield,1991-05-01,29,Spain,Real Valladolid CF,LaLiga,2020/2021,2020
+Roque Mesa,Central Midfield,1989-06-07,31,Spain,Real Valladolid CF,LaLiga,2020/2021,2020
+Fede San Emeterio,Central Midfield,1997-03-16,23,Spain,Real Valladolid CF,LaLiga,2020/2021,2020
+Míchel Herrero,Central Midfield,1988-07-29,32,Spain,Real Valladolid CF,LaLiga,2020/2021,2020
+Kike Pérez,Central Midfield,1997-02-14,23,Spain,Real Valladolid CF,LaLiga,2020/2021,2020
+Jota,Left Winger,1999-03-30,21,Portugal,Real Valladolid CF,LaLiga,2020/2021,2020
+Toni Villa,Left Winger,1995-01-07,25,Spain,Real Valladolid CF,LaLiga,2020/2021,2020
+Waldo Rubio,Left Winger,1995-08-17,25,Spain,Real Valladolid CF,LaLiga,2020/2021,2020
+Óscar Plano,Right Winger,1991-02-11,29,Spain,Real Valladolid CF,LaLiga,2020/2021,2020
+Fabián Orellana,Right Winger,1986-01-27,34,Chile,Real Valladolid CF,LaLiga,2020/2021,2020
+Pablo Hervías,Right Winger,1993-03-08,27,Spain,Real Valladolid CF,LaLiga,2020/2021,2020
+Shon Weissman,Centre-Forward,1996-02-14,24,Israel,Real Valladolid CF,LaLiga,2020/2021,2020
+Sergi Guardiola,Centre-Forward,1991-05-29,29,Spain,Real Valladolid CF,LaLiga,2020/2021,2020
+Marcos André,Centre-Forward,1996-10-20,24,Brazil,Real Valladolid CF,LaLiga,2020/2021,2020
+Álvaro Fernández,Goalkeeper,1998-04-13,22,Spain,SD Huesca,LaLiga,2020/2021,2020
+Andrés Fernández,Goalkeeper,1986-12-17,33,Spain,SD Huesca,LaLiga,2020/2021,2020
+Antonio Valera,Goalkeeper,1996-08-17,24,Spain,SD Huesca,LaLiga,2020/2021,2020
+Dimitrios Siovas,Centre-Back,1988-09-16,32,Greece,SD Huesca,LaLiga,2020/2021,2020
+Jorge Pulido,Centre-Back,1991-04-08,29,Spain,SD Huesca,LaLiga,2020/2021,2020
+Pablo Insua,Centre-Back,1993-09-09,27,Spain,SD Huesca,LaLiga,2020/2021,2020
+Javi Galán,Left-Back,1994-11-19,25,Spain,SD Huesca,LaLiga,2020/2021,2020
+Gastón Silva,Left-Back,1994-03-05,26,Uruguay,SD Huesca,LaLiga,2020/2021,2020
+Luisinho,Left-Back,1985-05-05,35,Portugal,SD Huesca,LaLiga,2020/2021,2020
+Pablo Maffeo,Right-Back,1997-07-12,23,Spain,SD Huesca,LaLiga,2020/2021,2020
+Pedro López,Right-Back,1983-11-01,37,Spain,SD Huesca,LaLiga,2020/2021,2020
+Idrissa Doumbia,Defensive Midfield,1998-04-14,22,Cote d'Ivoire,SD Huesca,LaLiga,2020/2021,2020
+Pedro Mosquera,Central Midfield,1988-04-21,32,Spain,SD Huesca,LaLiga,2020/2021,2020
+Jaime Seoane,Central Midfield,1997-01-22,23,Spain,SD Huesca,LaLiga,2020/2021,2020
+Mikel Rico,Central Midfield,1984-11-04,36,Spain,SD Huesca,LaLiga,2020/2021,2020
+Sergio Gómez,Attacking Midfield,2000-09-04,20,Spain,SD Huesca,LaLiga,2020/2021,2020
+Borja García,Attacking Midfield,1990-11-02,30,Spain,SD Huesca,LaLiga,2020/2021,2020
+Eugeni Valderrama,Attacking Midfield,1994-07-19,26,Spain,SD Huesca,LaLiga,2020/2021,2020
+Juan Carlos Real,Attacking Midfield,1991-03-15,29,Spain,SD Huesca,LaLiga,2020/2021,2020
+Kelechi Nwakali,Attacking Midfield,1998-06-05,22,Nigeria,SD Huesca,LaLiga,2020/2021,2020
+Javi Ontiveros,Left Winger,1997-09-09,23,Spain,SD Huesca,LaLiga,2020/2021,2020
+David Ferreiro,Right Winger,1988-04-01,32,Spain,SD Huesca,LaLiga,2020/2021,2020
+Rafa Mir,Centre-Forward,1997-06-18,23,Spain,SD Huesca,LaLiga,2020/2021,2020
+Sandro Ramírez,Centre-Forward,1995-07-09,25,Spain,SD Huesca,LaLiga,2020/2021,2020
+Shinji Okazaki,Centre-Forward,1986-04-16,34,Japan,SD Huesca,LaLiga,2020/2021,2020
+Dani Escriche,Centre-Forward,1998-03-24,22,Spain,SD Huesca,LaLiga,2020/2021,2020
+Jeremías Ledesma,Goalkeeper,1993-02-13,27,Argentina,Cádiz CF,LaLiga,2020/2021,2020
+David Gil,Goalkeeper,1994-01-11,26,Spain,Cádiz CF,LaLiga,2020/2021,2020
+Fali,Centre-Back,1993-08-12,27,Spain,Cádiz CF,LaLiga,2020/2021,2020
+Juan Cala,Centre-Back,1989-11-26,30,Spain,Cádiz CF,LaLiga,2020/2021,2020
+Marcos Mauro,Centre-Back,1991-01-09,29,Argentina,Cádiz CF,LaLiga,2020/2021,2020
+Pedro Alcalá,Centre-Back,1989-03-19,31,Spain,Cádiz CF,LaLiga,2020/2021,2020
+Alfonso Espino,Left-Back,1992-01-05,28,Uruguay,Cádiz CF,LaLiga,2020/2021,2020
+Luismi Quezada,Left-Back,1996-02-11,24,Dominican Republic,Cádiz CF,LaLiga,2020/2021,2020
+Iza Carcelén,Right-Back,1993-04-23,27,Spain,Cádiz CF,LaLiga,2020/2021,2020
+Carlos Akapo,Right-Back,1993-03-12,27,Equatorial Guinea,Cádiz CF,LaLiga,2020/2021,2020
+Jens Jönsson,Defensive Midfield,1993-01-10,27,Denmark,Cádiz CF,LaLiga,2020/2021,2020
+Sergio González,Defensive Midfield,1997-05-14,23,Spain,Cádiz CF,LaLiga,2020/2021,2020
+Jon Ander Garrido,Defensive Midfield,1989-10-09,31,Spain,Cádiz CF,LaLiga,2020/2021,2020
+José Mari,Defensive Midfield,1987-12-06,32,Spain,Cádiz CF,LaLiga,2020/2021,2020
+Yann Bodiger,Central Midfield,1995-02-09,25,France,Cádiz CF,LaLiga,2020/2021,2020
+Augusto Fernández,Central Midfield,1986-04-10,34,Argentina,Cádiz CF,LaLiga,2020/2021,2020
+Álex Fernández,Attacking Midfield,1992-10-15,28,Spain,Cádiz CF,LaLiga,2020/2021,2020
+Jorge Pombo,Attacking Midfield,1994-02-22,26,Spain,Cádiz CF,LaLiga,2020/2021,2020
+Alberto Perea,Left Winger,1990-12-19,29,Spain,Cádiz CF,LaLiga,2020/2021,2020
+Jairo Izquierdo,Left Winger,1993-10-22,27,Spain,Cádiz CF,LaLiga,2020/2021,2020
+Salvi Sánchez,Right Winger,1991-03-30,29,Spain,Cádiz CF,LaLiga,2020/2021,2020
+Iván Alejo,Right Winger,1995-02-10,25,Spain,Cádiz CF,LaLiga,2020/2021,2020
+Filip Malbašić,Right Winger,1992-11-18,27,Serbia,Cádiz CF,LaLiga,2020/2021,2020
+Bobby Adekanye,Right Winger,1999-02-14,21,Netherlands,Cádiz CF,LaLiga,2020/2021,2020
+Choco Lozano,Centre-Forward,1993-04-25,27,Honduras,Cádiz CF,LaLiga,2020/2021,2020
+Álvaro Giménez,Centre-Forward,1991-05-19,29,Spain,Cádiz CF,LaLiga,2020/2021,2020
+Álvaro Negredo,Centre-Forward,1985-08-20,35,Spain,Cádiz CF,LaLiga,2020/2021,2020
+Nano Mesa,Centre-Forward,1995-02-05,25,Spain,Cádiz CF,LaLiga,2020/2021,2020
+Edgar Badia,Goalkeeper,1992-02-12,28,Spain,Elche CF,LaLiga,2020/2021,2020
+Diego Rodríguez,Goalkeeper,1989-06-25,31,Argentina,Elche CF,LaLiga,2020/2021,2020
+Dani Calvo,Centre-Back,1994-04-01,26,Spain,Elche CF,LaLiga,2020/2021,2020
+Diego González,Centre-Back,1995-01-28,25,Spain,Elche CF,LaLiga,2020/2021,2020
+Gonzalo Verdú,Centre-Back,1988-10-21,32,Spain,Elche CF,LaLiga,2020/2021,2020
+Josema,Centre-Back,1996-06-06,24,Spain,Elche CF,LaLiga,2020/2021,2020
+Youssouf Koné,Left-Back,1995-07-05,25,Mali,Elche CF,LaLiga,2020/2021,2020
+Juan Sánchez Miño,Left-Back,1990-01-01,30,Argentina,Elche CF,LaLiga,2020/2021,2020
+Antonio Barragán,Right-Back,1987-06-12,33,Spain,Elche CF,LaLiga,2020/2021,2020
+Miguel Cifuentes,Right-Back,1990-10-05,30,Spain,Elche CF,LaLiga,2020/2021,2020
+Iván Marcone,Defensive Midfield,1990-06-03,30,Argentina,Elche CF,LaLiga,2020/2021,2020
+Omenuke Mfulu,Defensive Midfield,1994-03-20,26,DR Congo,Elche CF,LaLiga,2020/2021,2020
+Luismi,Defensive Midfield,1992-05-05,28,Spain,Elche CF,LaLiga,2020/2021,2020
+Raúl Guti,Central Midfield,1996-12-30,23,Spain,Elche CF,LaLiga,2020/2021,2020
+Víctor Rodríguez,Left Winger,1989-07-23,31,Spain,Elche CF,LaLiga,2020/2021,2020
+Fidel,Left Winger,1989-10-27,31,Spain,Elche CF,LaLiga,2020/2021,2020
+Pere Milla,Left Winger,1992-09-23,28,Spain,Elche CF,LaLiga,2020/2021,2020
+Tete Morente,Left Winger,1996-12-04,23,Spain,Elche CF,LaLiga,2020/2021,2020
+Emiliano Rigoni,Right Winger,1993-02-04,27,Argentina,Elche CF,LaLiga,2020/2021,2020
+Jeison Lucumí,Right Winger,1995-04-08,25,Colombia,Elche CF,LaLiga,2020/2021,2020
+Josan,Right Winger,1989-12-03,30,Spain,Elche CF,LaLiga,2020/2021,2020
+Guido Carrillo,Centre-Forward,1991-05-25,29,Argentina,Elche CF,LaLiga,2020/2021,2020
+Lucas Boyé,Centre-Forward,1996-02-28,24,Argentina,Elche CF,LaLiga,2020/2021,2020
+Nino,Centre-Forward,1980-06-10,40,Spain,Elche CF,LaLiga,2020/2021,2020
