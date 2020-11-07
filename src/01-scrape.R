@@ -7,7 +7,7 @@ source("src/00-setup.R")
 # set league urls to scrape
 league_meta <- tibble(
   league_id = c(
-    "GB1", "GB2", "GB3", "ES1", "L1", "IT1", "FR1", "GB2", "PO1", "NL1", "RU1"
+    "GB1", "GB3", "GB4", "ES1", "L1", "IT1", "FR1", "GB2", "PO1", "NL1", "RU1"
     ),
   league_name = c(
     "premier-league", "league-one", "league-two", "primera-division", 
